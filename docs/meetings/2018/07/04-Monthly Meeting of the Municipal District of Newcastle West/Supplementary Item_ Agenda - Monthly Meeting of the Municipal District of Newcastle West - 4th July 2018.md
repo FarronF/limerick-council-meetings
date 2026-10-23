@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Supplementary%20Item%20Municipal%20District%20of%20Newcastle%20West%20Agenda%20v2.pdf)
+**Original file:** [Supplementary Item_ Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Supplementary%20Item%20Municipal%20District%20of%20Newcastle%20West%20Agenda%20v2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ——
 
-TT
+NO
 
-Rory
+=
 Limerick
 CITY & COUNTY
 
@@ -46,7 +47,7 @@ Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
-Newcastle West.
+Newcastle West,
 
 Co, Limerick
 
@@ -68,11 +69,11 @@ To consider and adopt the Municipal District of Newcastle West (Parking
 Places)(Amendment) Bye-Lows 2018, in accordance with Section 131A and Schedule 14A of
 the Locol Government Act 2001, and in accordance with the reserved function under Section
 
-36 of the Road Traffic Act, 1994."
+36 of the Road Traffic Act, 1994.”
 
 Is mise le meas,
 
-M (set
+MW (set
 
 Margaret Corbett
 
@@ -84,8 +85,10 @@ Municipal District of Newcastle West
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-¢@ weewlimerickte
+¢@ Weewlimerickte
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

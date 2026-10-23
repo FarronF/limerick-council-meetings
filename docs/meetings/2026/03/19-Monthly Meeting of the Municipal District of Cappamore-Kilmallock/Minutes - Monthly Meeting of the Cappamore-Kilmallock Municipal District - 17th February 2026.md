@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-monthly-meeting-of-the-cappamore-kilmallock-municipal-district-17th-february-2026.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Cappamore-Kilmallock Municipal District - 17th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-monthly-meeting-of-the-cappamore-kilmallock-municipal-district-17th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -65,26 +66,28 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 No such interest was declared.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. HOUSING DIRECTORATE
 Housing Delivery Progress Update.
 
-The Cathaoirleach welcomed Brendan Kidney, Senior Engineer, Housing and Kathy O’Grady,
+The Cathaoirleach welcomed Brendan Kidney, Senior Engineer, Housing and Kathy O'Grady,
 Administrative Officer, Housing Support to the Meeting.
 
 They proceeded to give an update to the Members on housing delivery progress which
 included:
 
-¢ The target for new builds in the Municipal District was 203, whilst 223 units are likely
+© The target for new builds in the Municipal District was 203, whilst 223 units are likely
 to be delivered;
 
 ¢ Acquisitions-26 units approved and a further 14 being considered;
 e Leases-6 units approved and 1 being assessed;
 
 ¢ Currently 21 Void properties undergoing refurbishment works in the Cappamore
-Kilmallock Municipal District;
+Kilmallock Municipal! District;
 
 ¢ 4 properties were recently returned to Limerick City and County Council and are in
 the process of being inspected to determine the level of refurbishment works
@@ -119,7 +122,9 @@ to my previous motion for traffic calming measures and extra street lighting in 
 Kilmallock.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -153,7 +158,7 @@ available for same.
 1. What housing estates in the Cappamore Kilmallock Municipal District are yet to be
 taken in charge by Limerick City & County Council (how many and where?);
 
-2. What is the update on the progress being made In relation to each of the remaining
+2. What is the update on the progress being made in relation to each of the remaining
 estates still due to be taken in charge?
 
 Reply:
@@ -167,7 +172,9 @@ progressed in 2026: 1. Sruth an Oir, Elton, Co. Limerick-to be agreed at the Mar
 Cappamore-Kilmallock Municipal District Meeting; 2. Castle Laurel, Oola, Co. Limerick
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -215,7 +222,9 @@ was also fully upgraded in terms of tactile paving, new signals, road markings a
 2022.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Teefy
@@ -264,7 +273,9 @@ progress for lighting of the council car park in Clare Glens and the roadway lea
 entrance of the walkway.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -293,7 +304,7 @@ continue in conjunction with the preparation of Local and Regional Roads for the
 Scheme Works.
 
 NOTICE OF MOTION
-13. Notice of Motion submitted by Clir Conway
+13. Notice of Motion submitted by Cllr Conway
 
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that an
 inspection be carried out at the 3 x entrance roads to Kilmallock town in relation to traffic
@@ -310,7 +321,9 @@ the Municipal District Office would submit a case to the Roads Senior Engineer f
 introduction of Traffic Calming Measures at these locations.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 However, any such improvement measures will also require a funding source to be
@@ -323,7 +336,7 @@ information are due to be installed shortly on these three entrance locations to
 local authority revisit plans to design and provide costings for a pedestrian footbridge at
 Gotoon Bridge, Kilmallock.
 
-The Notice of Motion was proposed by Cllr Carey, seconded by Cllr Conway, and agreed.
+The Notice of Motion was proposed by Clir Carey, seconded by Cllr Conway, and agreed.
 Reply:
 
 This forms part of a larger scheme in relation to public realm design for Kilmallock. The
@@ -338,7 +351,7 @@ Department to further review what is proposed.
 The Members noted the reply and agreed to schedule a Workshop to discuss this issue in
 more detail before the March Monthly Meeting.
 
-15. Notice of Motion submitted by Clir M. Ryan
+15. Notice of Motion submitted by Cllr M. Ryan
 
 1 will move at the next meeting of the Cappamore-Kilmallock Municipal that Limerick City
 and County Council progress the installation of lights for pedestrians along the new footpath
@@ -346,7 +359,7 @@ in Pallasgreen on the N24 between the village and past St Anthony's to Mount Cat
 Road. If Transport Infrastructure Ireland (Ti!) will not allow full street lighting, that
 pedestrian illumination posts would be considered.
 
-The Notice of Motion was proposed by Clir M. Ryan, seconded by Cllr Stokes, and agreed.
+The Notice of Motion was proposed by Cllr M. Ryan, seconded by Cllr Stokes, and agreed.
 Reply:
 
 Limerick City and County Council will discuss what alternative pedestrian lighting options
@@ -358,7 +371,9 @@ if Til agree on an alternative solution, Limerick City and County Council will c
 seek a funding stream for the installation of lighting.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Any Other Business
@@ -382,4 +397,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+

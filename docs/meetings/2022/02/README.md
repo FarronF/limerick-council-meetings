@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2022 — 02 - February
 
 * [02 Monthly Meeting Of The Municipal District Of Newcastle West](02-Monthly Meeting of the Municipal District of Newcastle West/README.md)
@@ -10,3 +14,4 @@
 * [21 Monthly Meeting Of Metropolitan District Of Limerick](21-Monthly Meeting of Metropolitan District of Limerick/README.md)
 * [22 Meeting Of The Travel And Transportation Strategic Policy Committee](22-Meeting of the Travel and Transportation Strategic Policy Committee/README.md)
 * [23 Meeting Of The Economic Development, Enterprise And Planning Strategic Policy Committee](23-Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee/README.md)
+* [28 Meeting Of The Climate Action Biodiversity And Environment Strategic Policy Committee](28-Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee/README.md)

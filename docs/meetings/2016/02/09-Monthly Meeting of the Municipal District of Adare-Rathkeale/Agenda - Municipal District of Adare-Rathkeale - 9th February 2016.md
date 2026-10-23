@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 9th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -30,7 +31,7 @@ Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL sages
+COUNCIL -—_-*
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -42,20 +43,20 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in Aras
-Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 9” February, 2016 at 9.00 a.m. The
+Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 3” February, 2016 at 9.00 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 Meetings Administrator.
 
--: en ee ee ee nn nn nn nnn nn nnn nnn nnn eee en nn nnn ene meen rennet nese nese een re meen een nee eee
+en a ee ee nn nnn nn nnn nnn nnn nnn nnn enn enn eee meen nnn esense ces e ese rs anew een neeaee
 
 AGENDA
 
 1. Minutes
 
-To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 12™ January,
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 12™ january,
 2016.
 
 (Copy Enclosed)
@@ -65,12 +66,13 @@ To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on
 To receive Deputation from Rathkeale Community Council. (Item to be taken at 9.05 a.m.)
 
 1 & customerservices@limerickie
-
-Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach © werwlimerickie
+Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach © wen limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Transportation & Travel / Environment
@@ -86,12 +88,12 @@ To receive Deputation from Adare United AFC regarding the development of Adare U
 pitch at Deerpark in Adare. (Item to be taken at 10.00 a.m.)
 
 To consider updates from the Fire Department, the Planning Department and the Garda
-Siochana in relation to the Christmas period in Rathkeale. (Item to be taken at 10.30 a.m.)
+Siochana in relation to the Christmas period in Rathkeale. (item to be taken at 10.30 a.m.)
 
 Reports from Fire Department and Planning Department enclosed and Superintendent Tom
 O’Connor and Sergeant Frank O’Sullivan to attend.
 
-Maigue Rivers Tru:
+Maigue Rivers Tru
 To receive presentation from Senior Executive Engineer, Environment re plans to develop 2
 
 Maigue Rivers Trust. (Item to be taken at 11.00 a.m.)
@@ -118,7 +120,9 @@ Ballysteen.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -140,4 +144,6 @@ Adare.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

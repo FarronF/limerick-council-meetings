@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%2C%202019.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 11th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_ Comhairle Cathrach
+ee Comhairle Cathrach
 6 Contae Luimnigh
-NAN ~“
+ANF ~“
 
-— Limerick City
+—— Limerick City
 & County Council
 
 05" june, 2019.
 
-Ceamtar Bardasach Ath Dara-Rath Caola
-Comhairle Cathrach agus Contee Luirnegh.
+Ceartar Bardasach Ath Dara-Rath Caola
+Comhairle Cathrach agus Contee Luirregh.
 Aras Séan Finn
 
 Line Nua
@@ -69,7 +70,7 @@ appended Agenda.
 
 is mise le meas,
 
-Karen 00-5
+Karen 00S
 
 Meetings Administrator.
 
@@ -88,7 +89,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 © wwawlimerick.te
 
 @LimerickCouncil
-\ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

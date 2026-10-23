@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20January%202023.pdf)
+**Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 16th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20January%202023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE OFFICES OF INNOVATE LIMERICK, ENGINE BUILDING, CECIL STREET AND**
@@ -92,7 +93,9 @@ The Director, Economic Development and Enterprise welcomed Members and Officials
 Innovate Offices. He gave an outline of the many facilities provided at the Offices of Innovate.
 
 Innovate Limerick assists business start-ups by providing office spaces, at the Offices of Innovate,
----
+
+[[PAGE_END:1]]
+
 2
 
 for entrepreneurs. He highlighted how this gives companies a great opportunity to develop their
@@ -162,7 +165,9 @@ house situate at Kilbane, Ballysimon, Limerick and the intention to bring a Sect
 to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.Economic Development and Enterprise Directorate**
@@ -232,7 +237,9 @@ finalised.
 ***discuss the large vacant units with a view to leasing them for many groups in the area looking***
 
 ***for a home. I am aware funding is needed to maintain the roof.***
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY:** The Regeneration Directorate will engage directly with Cllr. Slattery to ascertain the detail
@@ -308,7 +315,9 @@ document, which forms part of the Limerick Development Plan 2022 – 2028 and wa
 developed in conjunction with Clare County Council for the Metropolitan Area. The
 
 recommendations set out in the document are primarily to inform decision making on
----
+
+[[PAGE_END:4]]
+
 5
 
 planning applications in the area over the Plan period. Therefore, implementation of the
@@ -408,7 +417,9 @@ requested the Department to provide 80% match funding. Going on last year’s bu
 have 63% of our budget currently committed. The Department allowed all local authorities
 
 to approve up to 65% of last year’s budget.
----
+
+[[PAGE_END:5]]
+
 6
 
 **12.Question submitted by Councillor D. McSweeney**
@@ -508,7 +519,9 @@ based from depots in
 10 + 1 vacancy
 
 11
----
+
+[[PAGE_END:6]]
+
 7
 
 Merchants Quay and
@@ -590,7 +603,9 @@ intensive population development in future Limerick Development plans.  This wil
 be explored in conjunction with RSES from a forward planning perspective.
 
 LSMATS has a specific objective for rail based Park and Ride provision at Ballysimon and an
----
+
+[[PAGE_END:7]]
+
 8
 
 objective of investigating the potential for further Park and Ride facilities where the
@@ -668,7 +683,9 @@ that the Milk Market also attracts big numbers at Christmas time. Members agreed
 of identifying what worked well previously and what aspects needed to be improved, in order to
 
 enhance the experience at future Christmas events in Limerick.
----
+
+[[PAGE_END:8]]
+
 9
 
 **REPLY**: The Council will organise a workshop with Members to consider and discuss measures for
@@ -742,7 +759,9 @@ important areas in the City and surrounding areas. Members noted that the Milk M
 area, and pointed out that it needs to be added to the Winter Maintenance Plan as a priority area,
 
 along with any other highly trafficked pedestrian areas.
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**: With approximately 4,000 kms of roadway in County Limerick, it is not possible to treat all
@@ -782,4 +801,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

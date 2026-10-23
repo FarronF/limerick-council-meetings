@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-9th-april-2024.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 9th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-9th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ie Comhairle Cathrach
@@ -31,18 +32,18 @@ NN =
 4" April, 2024.
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comhairle Cathrach agus Contae Lutmnight,
+Comhairle Cathrach agus Contae Lutmnigh,
 Aras Séan Finn,
 
 Line Nua,
 
-Réth Caola,
+Réth Ceola,
 
-Co, Luamnigh.
+Co, Luimnigh.
 
-Adare-Pathkesle Mamicpal District,
+Adare-Pathkesle Mamiqpal District,
 Limerick City and County Council
-Aras Sean Paw.
+Aras Sean Pann.
 
 New Line,
 
@@ -52,15 +53,15 @@ Co. Limerick.
 
 EIRCODE V94 HKLV
 
-t: +353 (0) 69 64047
-f: +353 (0) 69 63188
+t: 4353 (0) 69 64047
+t: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 9" April, 2024 at 9.30 a.m.
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 9° April, 2024 at 9.30 a.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -89,7 +90,9 @@ Ceanncheathri Chorparaideach, Cé na gCeannaitheLuimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Disposal of 0.00099 acres (0.0004 ha) of land at Camoge Park, Skagh, Croom, Co.
@@ -132,7 +135,9 @@ as a matter of urgency due to their immense poor condition.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Notice of Motion submitted by Councillor J. O’Donoghue
@@ -147,4 +152,6 @@ Rathkeale Municipal District.
 12. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

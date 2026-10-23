@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-October-2022.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-October-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantar Rardasach Ath Dara-Rath Caola,
-_—_ %s Contae Luimnigh Comhairle Cathvach agus Contae Luimnigh,
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+_—_——_— #s Contae Luimnigh Comhairle Cathvach agus Contae Luimmnigh,
 
-~ Fe Aras Séan Finn,
+~ os Aras Séan Finn,
 
 Limerick City rach rhe
 = & County Council Co. Luimnigh
 
 Adare-Rathkeale Municipal District.
 Limerick City ard County Council,
-Aras Sean Finn.
+Aras Sean Finn,
 
 New Line,
 
@@ -41,8 +42,8 @@ Co. Limenck.
 
 EBIRCODE V94 HKIV
 
-th t; +353 (0) 69 64047
-14” October, 2022. f: +353 (0) 69 63188
+th t; 4353 (0) 69 64047
+14" October, 2022. f: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 Rathkeale
@@ -50,7 +51,7 @@ Rathkeale
 A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Adare-Rathkeale to be
-held in Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 19" October, 2022
+held in Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 19 October, 2022
 at 12.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -64,10 +65,12 @@ AGENDA
 (Report Attached).
 2. Marketing and Communications Update.
 & customerservices@limerick.te
-Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © wonwdimerick.te
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © worwdimerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
-\ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

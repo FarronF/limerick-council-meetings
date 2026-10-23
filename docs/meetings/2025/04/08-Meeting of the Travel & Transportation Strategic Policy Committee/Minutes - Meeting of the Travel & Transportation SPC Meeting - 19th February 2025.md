@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-travel-transportation-spc-meeting-19th-february-2025.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation SPC Meeting - 19th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-travel-transportation-spc-meeting-19th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -70,7 +71,9 @@ the 23rd April 2024 were proposed by Cllr. E. O’Donovan and seconded by Cllr. 
 and adopted.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 2:** **Presentation: Community Hedge cutting Scheme** **–** **John Gannon, S.E.**
@@ -144,7 +147,9 @@ she would like to see a specific time limit for processing applications and an e
 law prohibiting hedge cutting if there is a health and safety risk. She also asked if there will be
 
 an update of the scheme before the budget is passed next November.
----
+
+[[PAGE_END:2]]
+
 3
 
 Mr. Gannon stressed this is not a policy, it is a grant scheme. We have to start with conditions
@@ -218,7 +223,9 @@ Mr. B. Kennedy advised that this is a way for multiple landowners to come togeth
 confirmed that there is 4,000 km of roads in County Limerick, with 3,000 of them are local roads.
 
 The council also cuts junctions on regional roads. (Contractor cost is €80 per hour approx.).
----
+
+[[PAGE_END:3]]
+
 4
 
 Regarding multiple landowners, Mr. Kennedy advised that the scheme is to try to incentivise
@@ -290,7 +297,9 @@ Two Notice of Motions (a) & (b) were addressed as part of Item 2.
 I will move at the next Meeting that this Local Authority examine the possibility of a
 
 Community Hedge Cutting Grant.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Reply:** Limerick City & County Council is proposing to introduce a Community Hedge
@@ -362,7 +371,9 @@ trees, ditches, hedges and other vegetation growing on their land are not or cou
 danger to people using or working on a public road. Examples of hazards might be dead or dying
 
 trees, ditches or hedges interfering with traffic, blocking footpaths, obscuring road signs or
----
+
+[[PAGE_END:5]]
+
 6
 
 obscuring a view of the road ahead. The maintenance of verges or margins on regional and local
@@ -436,7 +447,9 @@ commercial vehicles to double park and could have significant impact on business
 get deliveries. The Transport Strategy team is working on installing sensors in loading bays to
 
 help commercial drivers locate and book a bay to make it easier to facilitate deliveries. The City
----
+
+[[PAGE_END:6]]
+
 7
 
 Transport Plan is currently underway and is incorporating a Delivery Strategy and this Notice of
@@ -504,7 +517,9 @@ Following on from discussion, Mr. Hugh McGrath invited Cllr. Leddin and Cllr. Se
 him and Mr. J Gannon for further discussions on the matter. Cllr. Leddin welcomed the response
 
 and the proposal to advance discussion.
----
+
+[[PAGE_END:7]]
+
 8
 
 **Item 6: Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
@@ -568,7 +583,9 @@ Mr. Kennedy added that the item can be referred to the Limerick City Centre Task
 (chaired by Cllr. Maria O’Donoghue) for consideration. Cllr. Doyle will pass on as an item of
 
 interest to the Limerick City taskforce group for consideration.
----
+
+[[PAGE_END:8]]
+
 9
 
 **Item 7: Notice of Motion submitted by Councillor E. Secas (referred from October Metro**
@@ -636,7 +653,9 @@ Limerick City & County Council intends to provide a grant up to a maximum of €
 roadside hedge/overhanging trees to be cut with a minimum length of road network to be
 
 incorporated in any application of 5km.
----
+
+[[PAGE_END:9]]
+
 10
 
 **Item 9: Update on provision of salt to Resident’s Associations during extreme weather**
@@ -680,4 +699,6 @@ services to the NTA and the Transport Strategy Team.
 The Chair thanked all for their attendance and contribution. This concluded the business of the
 
 meeting.
----
+
+[[PAGE_END:10]]
+

@@ -16,74 +16,62 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-february-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-february-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
-= & Contae Luimnigh
-~e * — Limerick City
-i
+: Seirbhist Corpartideacha,
+ae Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+> & Contae Luimnigh Ceanncheathni Chorparaideach,
+NPN . - . Cé na gCeannaithe,
+— Limerick City Lutmneach
 & County Council
-
-10” February, 2021.
-
-Seirbhisi Corpartideacha,
-
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathnii Chorparaideach,
-
-Cé na gCeannaithe,
-
-Ludmneach
-
 Corporate Services,
-
 Limerick City and County Council,
-Corporate Headquarters,
-Merchants Quay.
+Corporate Headquarters.
 
+Merchants Quay.
 Limerick
 
 EIRCODE V94 EH90
 
-t: 4353 (0) 61 557150
+10” February, 2021. t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
 You are requested to attend an Online Meeting of the Metropolitan District of Limerick to be held
-
 on had vary, 2021
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-lant
+lags
 eae
 Meetings Administrator.
 
 1. Minutes
-
 To adopt Minutes of the following Meeting’s :
 
 (a) Monthly Online Meeting of the Metropolitan District of Limerick held on 18" January, 2021.
 (b) Adjourned Online Meeting of the Metropolitan District of Limerick held on 27" January, 2021.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
-
 (Copies Enclosed).
 
-=m customerservices@limerick.ie
-© vevew limerick.te
+om customerservices@limerick.ie
 
-(061 - 557150
+© vevew limerick.ie
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land / Proposed Sub-Lease
@@ -92,7 +80,7 @@ To note proposal for the disposal of land, and proposed sub-lease as follows :
 (a) (i) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 48
 Carey's Road, Limerick.
 (ii) Proposed Disposal of Freehold (Ground Rent) at 7, Bawnmore Road, Kennedy Park, Limerick.
-(Ili) Proposed Disposal of House Nos. 1 and 2 Long’s Lane, Limerick.
+(Iii) Proposed Disposal of House Nos. 1 and 2 Long’s Lane, Limerick.
 (b) Proposed Sub-Lease of Property at Floors 3 and 4, Crescent House, Hartstonge Street, Limerick.
 
 (Reports Enclosed).
@@ -117,7 +105,9 @@ Dock Road, Limerick,
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -136,7 +126,7 @@ as it is the only pylon left and 6 pylons have been removed in surrounding areas
 
 7. Question submitted by Councillor C. Slattery
 
-| will ask at the next Meeting of the Metropolitan District of Limerick that in relation to some safety
+I will ask at the next Meeting of the Metropolitan District of Limerick that in relation to some safety
 measures that were installed at Nelsons Cross, Castleconnell, can you advise when these safety
 measures will be completed as this is a very dangerous junction.
 
@@ -156,11 +146,13 @@ Have bodycams been introduced yet and if not, the reasons for this delay.
 10. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, would Limerick City and County
-Council consider taking Carrigogunnel! Castle, Ballybrown Co. Limerick in charge or if they have
+Council consider taking Carrigogunnell Castle, Ballybrown Co. Limerick in charge or if they have
 explored ownership of this Castle, which attracts many visitors.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. Question submitted by Councillor C. Sheehan
@@ -169,8 +161,8 @@ explored ownership of this Castle, which attracts many visitors.
 defences for Kings Island and Corbally.
 
 12. Question submitted by Councillor C. Sheehan
-| will ask at the next Meeting of the Metropolitan District of Limerick for an update on any
 
+| will ask at the next Meeting of the Metropolitan District of Limerick for an update on any
 discussions between the Forward Planning Section of the Council and the Diocese in relation to the
 Bishops Field in Corbally.
 
@@ -180,7 +172,6 @@ Bishops Field in Corbally.
 of calls per week logged to report illegal dumping in the last 12 months.
 
 14. Question submitted by Councillor J. Leddin
-
 | will ask at the next Meeting of the Metropolitan District of Limerick what fines or levies have been
 
 issued to Dunnes Stores for their empty retail unit on O’Connell Street and if these charges have
@@ -198,7 +189,9 @@ Council engage with Bus Eireann and the NTA to identify a turning point for the 
 Cork Road to include Georgian Village up as far as Rosmor.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17. Notice of Motion submitted by Councillor C. Slattery (to be referred to the Local Electoral Area
@@ -236,7 +229,9 @@ Council launches a public awareness campaign to deal with the issue of increased
 and littering during the Covid 19 lockdown.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23. Notice of Motion submitted by Councillor C. Sheehan
@@ -251,4 +246,6 @@ Agency Bill.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

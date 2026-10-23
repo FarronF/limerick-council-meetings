@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 6th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairie Cathrach Duiche Bardais an Chaisledin Nua Thiar,
-pt LO 6 Coritse Lulmnigh Comhairle Cathrach agus Contae Luimnigh,
+pt 6 Coritse Lulmnigh Comhairle Cathrach agus Contae Luimnigh,
 
-Aras Wiliam Smith O'Brien,
-aAao™ a ‘
+Aras William Smith O'Brien,
+ao 0 ‘
 
 . . Gortbul,
-— Limerick City _ An Caistean Nue Thiar,
-& County Council Co. Luimnigh,
+— Limerick City _ An Caislean Nue Thiar,
+& County Council Co. Luimnigh
 
 Nevicastie West Municipal District
 Lemerick City and County Council
-Aras William Smith O'Bnen,
+Aras William Smith O'8nen,
 Gortboy,
 
-Neweastle Vest,
+Newcastle West,
 
 Co. Limerick,
 
@@ -72,11 +73,13 @@ Co. Limerick.
 4. Housing Directorate
 To Discuss Housing Maintenance Budget for the District.
 & customerservices@limerickie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwtimerick.e
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwatimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation
@@ -104,4 +107,6 @@ upgraded footpaths, ramps and lighting be installed at Feohanagh Village. The vi
 has had no investment or work done in many years.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/16-correspondence-september-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/16-correspondence-september-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach
+__—_ Comhairle Cathrach
 & Contae Luimnigh
-AmN 7 ‘
+AmN ‘
 
 — Limerick City
 & County Council
 
-4"* December, 2024.
+4" December, 2024.
 
-Ceantar Bardasach Ath Dara-Rath Caola,
+Ceantar Bardasach Ath Dara-Rath Caola.
 
 Comhairle Cathrach agus Contae Lubnnigh.
 Avas Séan Finn,
@@ -41,14 +42,14 @@ Rath Caola.
 
 Co. Luimnigh.
 
-Adare-Ratykeale Municipe District
+Adare-Rathkeale Municipe District
 
 Limerick City and County Council
 Aras Sean Finn.
 
 New Line.
 
-Rathxeale,
+Rathkeale,
 
 Co. Limerick
 
@@ -78,7 +79,7 @@ To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathk
 
 on 12™ November, 2024.
 
-2. Declara f Inter:
+2. Declara f Inter.
 
 3. Disposal of Land
 
@@ -88,17 +89,19 @@ To note proposal for the disposal of Property, acquired under the Derelict Sites
 
 at Brewery Lane, Askeaton, Co. Limerick.
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Report Enclosed).
 
-i customerservices@limerickie
+ customerservices@limerickie
 W @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rural, Culture, Community and Tourism D n
@@ -107,7 +110,7 @@ Part VIII — Proposed Remodelling and Extension of the Adare Heritage Centre
 
 To consider the Director General’s Report in respect of the proposed Remodelling and
 Extension of the Adare Heritage Centre in accordance with Section 179(3) (a) of the
-Planning and Development Act 2000 — 2015 and Part VIII of the Planning and Development
+Planning and Development Act 2000 — 2015 and Part Vill of the Planning and Development
 Regulations 2001 — 2015.
 
 (Report Enclosed).
@@ -141,4 +144,6 @@ To receive a Deputation from Askeaton Civic Trust, Tourist Office and Genealogy 
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/07%20Signed%20Agenda%20Cover%20Letter_Part%208%20for%20Cappamore%20Fire%20Station%20Refurbishment.pdf)
+**Original file:** [Signed Agenda Cover Letter_Part 8 for Cappamore Fire Station Refurbishment - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/07%20Signed%20Agenda%20Cover%20Letter_Part%208%20for%20Cappamore%20Fire%20Station%20Refurbishment.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+— Comhairle Cathrach
 & Contae Luimnigh
 AN Lf ™
 
-—=—=— Limerick City
+— Limerick City
 & County Council
 
 LA Housing Construction & Maintenance,
@@ -84,10 +85,12 @@ Upgrading of foul sewers and surface water drainage, and
 
 All associated site works.
 
-Par Ww
+Par w
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Accompanying drawings:
@@ -113,4 +116,6 @@ Limerick City & County Council, County Hall, Dooradoyle, Limerick.
 e: michael.moloney@limerick.ie | t: 061 557258
 
 
----
+
+[[PAGE_END:2]]
+

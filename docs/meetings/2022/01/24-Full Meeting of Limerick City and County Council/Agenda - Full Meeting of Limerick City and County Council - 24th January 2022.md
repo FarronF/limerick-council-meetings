@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-council-meeting-24.01.2022.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 24th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-council-meeting-24.01.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 i Comhairle Cathrach
 & Contae Luimnigh
 
-ai. Limerick C
+adi. Limerick C
 = merick City
 = & County Council
 
@@ -33,7 +34,7 @@ Seirbhisi Corpardidescha,
 Comhairle Cathrach agus Contae Lulmnigh,
 Ceanncheathna Chorparaideach,
 
-Cé na gCeannaithe,
+Cé na gCeannaitthe,
 
 Luumneach
 
@@ -44,7 +45,7 @@ Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-EIRCODE V94 EHO
+EIRCODE V94 EH9O
 
 19" January, 2022 t: 4353 (0) 61 557150
 
@@ -61,7 +62,7 @@ Council Chamber, Dooradoyle, and Online, on Monday, 24" January, 2022, at 3pm. T
 business to be transacted is set out on the appended Agenda.
 
 is mise le meas,
-Laura Flannery, —- ae.
+Laura Flannery, — ene
 Meetings Administrator.
 
 AGENDA
@@ -81,13 +82,15 @@ To consider proposal for the disposal of land, in accordance with the provisions
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
 Planning and Development Act, 2000 (as amended), at:
 
-@ Customerservices@limerickie
+= Customerservices@limerickie
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Lutmneach © @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a) 1, Saint Peter Street, Limerick (deferred from November Meeting)
@@ -99,7 +102,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 (e) 81, Assumpta Park, Newcastle West, Co. Limerick.
 
-(f} 126, Sycamore Avenue, Rathbane, Limerick.
+(f) 126, Sycamore Avenue, Rathbane, Limerick.
 
 (g) 68, Lower Carey's Road, Limerick.
 
@@ -113,7 +116,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 (Il) Bunlicky, Mungret, Co. Limerick.
 
 (Statutory Notices dated 10th, 19"" and 30 November, 2021, 2™
-December, 2021, and 10 11™ and 13" January, 2022, already circulated)
+December, 2021, and 10 11™ and 13** January, 2022, already circulated)
 
 Support Services
 (a) Chief Executive's Report
@@ -139,9 +142,9 @@ Statement for the Year ended 31% December, 2020.
 e Local Government Audit Service Statutory Audit Report to the
 Members of Limerick City and County Council for the Year
 
-ended 31‘ December, 2020.
+ended 31* December, 2020.
 
-(c) Strategic Policy Committees - Sectoral Nomination
+(c) Strategic Policy Committees ~- Sectoral Nomination
 
 To consider the approval of Sectoral Nomination to the Travel and
 
@@ -150,7 +153,9 @@ Transportation Strategic Policy Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -210,10 +215,12 @@ Strategic Policy Committee held on 6 December, 2021.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
+(iv) | Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 14'* December, 2021.
 
 (Chairperson’s Report Enclosed)
@@ -239,7 +246,7 @@ Economic Development and Enterprise
 Development Contribution Scheme 2022-2026
 
 To consider the Draft Development Contribution Scheme 2022-2026 and the Chief
-Executive’s Report dated 13" December, 2021, and decide whether to make the
+Executive's Report dated 13" December, 2021, and decide whether to make the
 Scheme or to vary or modify the Scheme, otherwise than as recommended in the Chief
 Executive's Report, or otherwise decide not to make the Scheme, in accordance with
 Section 48(8)(a) of the Planning and Development Act, 2000 (as Amended).
@@ -254,7 +261,9 @@ Bord Pleandla at Aughinish Alumina Limited.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Community. Tourism and Culture
@@ -284,14 +293,14 @@ Meeting / Event.
 
 ADJOURNED NOTICE OF MOTION
 
-9. Notice of Motion submitted by Councillor J. Leddin
-
 | will move at the next Meeting that Limerick City and County Council outline plans to
 reduce our carbon footprint in areas such as Council building retrofitting, electric
 vehicles and energy usage, in line with Government climate action policy.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -311,7 +320,7 @@ within this Authority in each of the financial years 2016 through to 2021 and (b
 breakdown of this revenue in terms of graves on demand and those pre-purchased in
 advance.
 
-Question submitted by Councillor S$. Benson
+Question submitted by Councillor S. Benson
 
 | will ask at the next Meeting how many housing applications have been removed, in
 total, to date due to failure to return the SSHA (Summary of Social Housing
@@ -322,8 +331,6 @@ uestion submi b
 | will ask at the next Meeting how many houses and apartments have been bought by
 Limerick City and County Council using Compulsory Purchase Orders in the last two
 years.
-
-Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting if Limerick City and County Council has hired a full-time
 Vacant Homes Officer and, if so, what duties have they been assigned.
@@ -343,7 +350,9 @@ Scheme;
 property, in the past three years.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -358,7 +367,7 @@ property, in the past three years.
 
 Question submitted by Councillor J. Costelloe
 
-| will ask at the next Meeting has Limerick City and County Council completed fire
+! will ask at the next Meeting has Limerick City and County Council completed fire
 safety inspections of apartment blocks in Limerick City in the past four years, including
 the following apartment buildings: Palmerstown Court, Strand Apartments, Mount
 Kenneth, Jutland Hall, Riverpoint, The Steeples, Brookfield Hall (Castletroy), The Park
@@ -366,7 +375,7 @@ Kenneth, Jutland Hall, Riverpoint, The Steeples, Brookfield Hall (Castletroy), T
 
 Question submitted by Councillor C. Slattery
 
-| will ask at the next Meeting why has Limerick City and County Council raised the price
+I will ask at the next Meeting why has Limerick City and County Council raised the price
 of graves/plots by 25% and what is this increase being spent on.
 
 Question submitted by Councillor C, Slattery
@@ -390,7 +399,9 @@ Victoria and Albert Museum, London, be repatriated to Limerick on lease to the
 Limerick City and County Museum.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -426,4 +437,6 @@ Treaty of Askeaton taking place in June 2023.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/1%20Agenda%20Special%20Meeting%20161017%20-%20Housing%20Action%20Plan.pdf)
+**Original file:** [Agenda Special Meeting 161017 - Housing Action Plan.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/1%20Agenda%20Special%20Meeting%20161017%20-%20Housing%20Action%20Plan.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach ; Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Conae Luimnigh.
 
-= "”™ & Contae Luimnigh Ceanncheathra Chorparaideach,
-fy, ——————— Cé na gCeannaithe.
-—>= Limerick City Lutmneach
+= a™ & Contae Luimnigh Ceanncheathri Chorparaideach,
+on ———————— Cé na gCeannaithe.
+=—— Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council
 Corporate Headquarters,
-Merchants Quay.
+Merchants Guay.
 Limerick
 EIRCODE V94 EH90
 11" October, 2017. t: +353 (0) 61 SS7150
@@ -48,7 +49,7 @@ held in the Council Chamber, Dooradoyle, Limerick, on Monday, 16" October, 2017,
 
 Is mise le meas,
 
-9 CO —~
+9 O—~
 Christy O’Connor,
 Meetings Administrator.
 
@@ -69,10 +70,12 @@ Government Act, 2001, as amended.
 
 @ customerservices@limerick.ie
 
-© vevew.limerickie
+@ vevew.limerickie
 
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
+Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

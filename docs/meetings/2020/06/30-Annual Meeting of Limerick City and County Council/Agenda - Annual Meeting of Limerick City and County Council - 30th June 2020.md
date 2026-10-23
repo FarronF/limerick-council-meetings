@@ -16,22 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-annual-meeting-30.06.2020.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 30th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-annual-meeting-30.06.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ‘
 
-_—__ Cominairle Cathrach Comhairle Cathrac sgeleep e peng
+_—_ Comiairle Cathrach Comhairle Cathrac elie heap
+; Fy Co jaerve Cathrach agus > Ireg
+- § Contae Luimnigh Ceanncheathru Chorpardideach,
+“~N i ~\ ——————————
 
-; FY Co jaerve Cathirach agus > 1reg
-“-~ § Contae Luimnigh Ceanncheathra Chorpardideach,
-~~ fr \ ————————————
+Cé na gCeannathe
 
-Cé na gCeannahe
-
-— Limerick City Luimneach
+= —> Limerick City Luimneach
 
 & County Council
 Corporate Services,
@@ -40,8 +40,8 @@ Corporate Headquarters,
 Merchants Quay,
 Lirnerick
 
-EIRCODE V94 EH90
-t: +353 (0) 61 557150
+EIRCODE V94 EH99
+t; +353 (0) 61 557150
 
 f: +353 70) 61 415 266
 25" June, 2020.
@@ -51,16 +51,16 @@ To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
 The Annual Meeting of Limerick City and County Council will be held at Limerick Racecourse,
-Greenmount Park, Patrickswell, Co. Limerick, on Tuesday, 30% June, 2020, at 3.00 p.m.
+Greenmount Park, Patrickswell, Co. Limerick, on Tuesday, 30 June, 2020, at 3.00 p.m.
 
 The business to be transacted Is set out on the appended Agenda.
 
 Is mise le meas,
 
-Jarheés Clune;
+James Clune;
 Meetings Administrator.
 
-—"
+——_—”
 
 AGENDA
 
@@ -70,11 +70,13 @@ for the ensuing year or until a successor is elected.
 2. Toconsider the election of a Deputy Mayor of the City and County of Limerick to hold
 office for the ensuing year or until a successor Is elected.
 
-mcustomerservices@limerickie
+mcustomerservices@limerick.ie
 
 @ wor limerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%2013th%20September%2C%202022.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 13th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%2013th%20September%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 i Comhairle Cathrach
 = & Contae Luimnigh
-* — Limerick C
+” —— Limerick C
 - merick City
 & County Council
 
@@ -33,7 +34,7 @@ A Chomhairleoir, a chara,
 
 Ceantar Bardasach Ath Dara-Rath Cacia,
 Comhairle Cathrach agus Contae Luimnigh,
-Aras Séan Firwn,
+Aras Séan Firw,
 
 Line Nua,
 
@@ -49,12 +50,12 @@ New Line,
 
 Rathkeale,
 
-Co. Limenck
+Ca, Limerick
 
 EIRCODE V4 HKLV
 
 t; +353 (0) 69 64047
-f: +353 (0) 69 63188
+f; +353 (0) 69 63188
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 13 September, 2022 at 9.30
@@ -92,10 +93,12 @@ customerservices@limerick.ie
 © wwwlimerickic
 
 @LimerickCouncil
-( 061 - 556 000
+( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mid West National Road Design Office
@@ -136,7 +139,9 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2022.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -169,4 +174,6 @@ and also to educate anybody who has recently moved to this country.
 A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_12th_may_2015_0.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 12th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_12th_may_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -65,7 +66,9 @@ Members noted and approved the disposal of land as set out below:-
 e Ballymacave, Croagh
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Corporate Services
@@ -79,7 +82,7 @@ QUESTIONS
 
 4. Question submitted by Councillor C. McMahon
 
-| will ask at the next Meeting what the current situation is regarding vermin control
+! will ask at the next Meeting what the current situation is regarding vermin control
 in Gortadroma as complaints are being made in relation to same.
 
 REPLY:
@@ -116,14 +119,16 @@ The Senior Executive Engineer indicated that he would bring this issue to the at
 the Health Board and report back to Members on the outcome.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
 
 5. Question submitted by Councillor Ciara McMahon
 
-1 will ask at the next Meeting for an update on guidance or help given to
+! will ask at the next Meeting for an update on guidance or help given to
 Shanagolden National School subsequent to their deputation.
 
 REPLY: The Senior Executive Engineer and Area Technician met with members of
@@ -178,7 +183,9 @@ Environment. A staffing request is currently with the Department for a
 number of posts including General Operatives.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Limerick City and County Council has recently employed a number of
@@ -209,7 +216,7 @@ the plant being operational was also addressed within the report.
 
 Proposed Lease of Lands at Gortadroma Landfill for a Waste Gasification Plant
 Site visit of Gasification Facility - Morcenx, France
-Dates: Weds 11" March and Thurs 12" March, 2015
+Dates: Weds 11" March and Thurs 12 March, 2015
 
 Present:
 
@@ -227,7 +234,9 @@ Prm Energy Sytems Inc. Ronald Bailey, President of company who design PRM
 gasification systems
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -284,7 +293,9 @@ The Visit was divided into three information gathering sessions
 the proposal
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -342,7 +353,9 @@ Proximity of residents to the plant, ML stated that there were local residents w
 the Morcenx Plant.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Members expressed their disappointment at the negative media coverage their trip to the
@@ -375,7 +388,7 @@ and public consultation.
 
 Cllr. McMahon highlighted the concerns of the public and proposed that public
 consultations commence to address these concerns. The Motion was seconded by
-Councillor O'Brien who added that concerns of the public needed to be addressed.
+Councillor O’Brien who added that concerns of the public needed to be addressed.
 
 The Senior Executive Engineer, Environment, indicated that public meetings could
 commence once the lease had been signed and stamp duty paid. He undertook to write to
@@ -390,7 +403,9 @@ Askeaton until a sewerage plant was built. He requested that Irish Water be writ
 outlining the need for a new sewerage plant for Askeaton.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -415,4 +430,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+

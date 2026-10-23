@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-for-spc-meeting-22.06.2020.docx.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 22nd June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-for-spc-meeting-22.06.2020.docx.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
 **DEVELOPMENT STRATEGIC POLICY COMMITTEE**
@@ -64,4 +65,6 @@ compliance the cost of waste collection is added to the customers rent bill.
 **Chairperson**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

@@ -16,26 +16,38 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20July%202016_0.pdf)
+**Original file:** [Agenda - Monthly Meeting Municipal District of Adare-Rathkeale - 12th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20July%202016_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_ Seirdhisi Corpardideacha agus Bainistiocht Athruithe.
-Comhairle Cathrach agus Contae Luimnigh,
+——————
 
-ee Cé na gCeannaithe.
-—=_> Luimneach
-Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and a Son
-lerchants Quay,
-
-COUNCIL pees
-
-t: +353 (0) 61 407 100
-f: +353 (0) 62 415 266
+aAarN ,
+—
+Limerick
+CITY & COUNTY
+COUNCIL
 
 8" july, 2016.
+
+Seirdhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+Cé na gCeannaithe,
+
+Luimneach
+
+Corporate Services and Change Management.
+Limerick City and County Council,
+
+Merchants Quay,
+
+Limerick
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
@@ -47,34 +59,46 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-To ‘ hey —
+To i hey
 
 Meetings Administrator.
 
-AGENDA
+hhh ooo
+
 1. Minutes
+
 To adopt Minutes of the following Meetings:
 
-(a) Annual Meeting of the Municipal District of Adare-Rathkeale held on 1° June, 2016.
-(b) Meeting of the Municipal District held on 1* June, 2016.
+ete eee eee enn eee ene en een en ene n nee n en nen nen wne se eeeeseweseeserersseesee
 
-(Copy Enclosed)
+AGENDA
+
+(a) Annual Meeting of the Municipal District of Adare-Rathkeale held on 1 June, 2016.
+(b) Meeting of the Municipal District held on 1* June, 2016.
 
 2. Social Development Directorate
 
 (a) Limerick Sports Partnership
 
+(Copy Enclosed)
+
 To receive presentation from the Sports Co-ordinator on Limerick Sports Partnership and
+
 Strategic Plan 2016-2020.
+(to be taken at 9.05 a.m.)
 
-(to be taken at 9.05 a.m.) (Copy Enclosed)
-1 = customerservicese@limerickie
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach & www.limerick.te
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
 
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+(Copy Enclosed)
+= customerservicese@limerickie
+& wew.limerick.ie
+w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Limerick Local Economic & Community Plan (LECP
@@ -125,7 +149,9 @@ To consider the Community Initiative Scheme 2016.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -175,4 +201,6 @@ brought to their attention in recent months.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/agenda_-_municipal_district_of_newcastle_west_-_13th_july_2016.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 13th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/agenda_-_municipal_district_of_newcastle_west_-_13th_july_2016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Seirbhisi Corpardideacha agus Bainistfocht Athrulthe.
+— Seirbhisi Corpardideacha agus Bainistfocht Athrulthe.
 Comhairle Cathrach agus Contae Luimnigh,
 
 NEN Cé na gCeannaithe,
@@ -30,14 +31,14 @@ Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL lerc ke +
+COUNCIL lerc ce»
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
 8" july, 2016.
 
-To: The Cathaoirleach and Each Member of the Municipal District of N i -_
+To: The Cathaoirleach and Each Member of the Municipal District of N | -_
 
 A Chomhairleoir, a chara,
 
@@ -49,8 +50,8 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-—__{ =,
-: “ Ze Cetin
+—__{ es,
+; “ Ze Cetin
 
 Meetings Administrator.
 
@@ -76,11 +77,13 @@ accordance with Section 180 of the Planning and Development Acts 2000 -2015 and 
 (Report Enclosed)
 
 @ customerservices@limerick.ie
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach  wwwAdlimerickie
+Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach  wwwAlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Part 8-Cois na Feile, Abbeyfeale
@@ -98,7 +101,7 @@ Limerick Sports Partnership
 To receive presentation from the Sports Co-Ordinator on Limerick Sports Partnership
 and Strategic Plan 2016-2020.
 
-nomi velopment Di r
+nomi velopment Di ri
 Great Southern Trail
 
 To receive update on Great Southern Trail.
@@ -132,7 +135,9 @@ road linking Nash’s Lane to the Community Centre in Newcastle West.
 relief at Balliniongig/Moyvane, Dromcollogher.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -153,7 +158,7 @@ relief at Balliniongig/Moyvane, Dromcollogher.
 
 Questions submitted by Councillor L. Galvin
 
-| will ask at the next Meeting for an update from Transport Infrastructure Ireland (TII) on the
+| will ask at the next Meeting for an update from Transport Infrastructure Ireland (TIl) on the
 following:
 
 (a) Traffic Management Plan for Abbeyfeale.
@@ -200,7 +205,9 @@ Recreation and Amenity section of the General Municipal Allocation to the Newcas
 Business Association for their 3 year Christmas Lights Project in Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -216,4 +223,6 @@ pedestrian crossing on Main Street, Abbeyfeale.
 where it meets with the Great Southern Trail.
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_18th_march_2015_0.pdf)
+**Original file:** [Minutes of Special Meeting of Municipal District of Newcastle West - 18th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_18th_march_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -61,7 +62,9 @@ community. He stated that what was required from the General Municipal Allocatio
 was funding to undertake a feasibility study for the project.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Collins added that clarification had been sought from the Chief Executive
@@ -97,4 +100,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

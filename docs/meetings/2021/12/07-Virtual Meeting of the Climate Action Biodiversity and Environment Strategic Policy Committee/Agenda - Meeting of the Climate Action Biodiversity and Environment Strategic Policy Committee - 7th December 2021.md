@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211126-agenda-cabe-spc-.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 7th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211126-agenda-cabe-spc-.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **26 November, 2021**
@@ -46,7 +47,9 @@ at 4.00pm. The business to be transacted is set out in the appended agenda.
 **PLANNING, ENVIRONMENT AND PLACEMAKING DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -106,4 +109,6 @@ recycling facilities throughout the Metropolitan area and put in place plans to
 implement the necessary changes to ensure that recycling facilities, including bottle
 
 banks, can be accessed by everyone.
----
+
+[[PAGE_END:2]]
+

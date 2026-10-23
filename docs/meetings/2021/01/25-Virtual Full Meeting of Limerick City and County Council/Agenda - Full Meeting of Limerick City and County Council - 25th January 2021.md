@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-january-council-meeting-25.01.2021.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-january-council-meeting-25.01.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
@@ -39,7 +40,7 @@ Ceanncheathru Chorpardideach.
 
 » Cé na gCeannaithe,
 
-: Laimneach
+. Laimneach
 
 Corporate Services,
 
@@ -52,7 +53,7 @@ Umerick
 EIRCODE V4 EH90
 
 t: +353 (0) 61 557150
-f. +353 (0) 62 415 266
+f; +353 (0) 62 415 266
 
 You are requested to attend an Online Meeting of Limerick City and County Council to be held
 on Monday, 25" January, 2021, at 3pm. The business to be transacted is set out on the
@@ -70,7 +71,7 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Budget Meeting of the Council held on 27** November, 2020.
+(a) Budget Meeting of the Council held on 27° November, 2020.
 (b) Re-scheduled November Meeting of the Council held on 3 December, 2020.
 
 2. Disposal of Land
@@ -89,20 +90,22 @@ Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 m customerservices@limerick.ic
-¢ vevewlimerick.ie
+@ vevewimerick.ie
 
 w @LimerickCouncil
 
 © 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) 9-10, Patrick Street, Limerick.
 (e) The Square, Galbally, Co. Limerick.
 
-(Statutory Notice dated 19 November, 2020, and 4", 5", 7 and 13"
+(Statutory Notice dated 19 November, 2020, and 4", 5%, 7 and 13"
 January, 2021, already circulated)
 
 Support Services Directorate
@@ -123,10 +126,10 @@ To consider the adoption of the Annual Service Delivery Plan 2021.
 To consider reports as follows:
 
 (i) Community, Leisure and Culture Strategic Policy Committee: Next
-Meeting scheduled for 1 February, 2021.
+Meeting scheduled for 1% February, 2021.
 
 (ii) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
-Environment Strategic Policy Committee held on 8" December, 2020.
+Environment Strategic Policy Committee held on 8'* December, 2020.
 
 (Chairperson’s Report Enclosed)
 
@@ -135,13 +138,15 @@ and Planning Strategic Policy Committee held 14" December, 2020.
 
 (Chairperson’s Reports Enclosed)
 
-{iv)  Chairperson’s Report — Meeting of Travel and Transportation Strategic
+(iv)  Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 15"" December, 2020.
 
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (v) Chairperson’s Report ~ Meeting of Home and Social Development
@@ -153,13 +158,13 @@ Economic Development Directorate
 
 Proposed Limerick Development Plan 2022-2028
 
-To consider the Chief Executive's Report dated 20 November, 2020, on the Pre-Draft
+To consider the Chief Executive’s Report dated 20 November, 2020, on the Pre-Draft
 Consultation Process for the Proposed Limerick Development Plan 2022-2028, in
 accordance with Section 11(4) of the Planning and Development Act 2000 (Amended).
 
 (Update Report Enclosed)
 
-(Report dated 20" November, 2020, already circulated)
+(Report dated 20 November, 2020, already circulated)
 
 Ph Develo Directorate
 Section 85 Agreement - Munster Bridges Rehabilitation Contract 2020-2021
@@ -183,7 +188,9 @@ priorities for the delivery of the Limerick Cultural Strategy in 2021.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -215,7 +222,7 @@ County Council to engage immediately with the Secretary General of the Departmen
 of Housing and his officials to discuss the necessary provisions to allow the
 Development Plans to be extended.
 
-Notice of Motion submitted by Councillor E. O'Donovan
+Notice of Motion submitted by Councillor E. O’Donovan
 
 | will move at the next Meeting that this Council acknowledges the oversight role
 played by Councils in mother and baby homes, and call on all Councils to write to the
@@ -228,7 +235,9 @@ I will move at the next Meeting that Limerick City and County Council retain its
 City and County Development Plans until 2026.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -263,7 +272,7 @@ in relation to rural planning instead.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-twill move at the next Meeting that (a) this Council totally reject the National Planning
+! will move at the next Meeting that (a) this Council totally reject the National Planning
 Framework policy regarding once-off rural housing based on social and economic
 need; (b) that a meeting be arranged with the Minister responsible to highlight the
 issues around this policy; and (c) that this Motion be circulated to all local Authorities
@@ -272,4 +281,6 @@ to discuss.
 Correspondence
 
 
----
+
+[[PAGE_END:5]]
+

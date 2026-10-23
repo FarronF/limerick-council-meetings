@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-19%20Agenda.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Newcastle West - 19th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-19%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-=
+a
 
-ar™ ia ‘\ Aras Wiltiam Smith O'Brien,
+ar™N a “ Aras Wiltiam Smith O'Brien,
 — Gortbui,
 * . An Caislean Nua Thiar,
 Limerick Co, Luirnigh
@@ -32,11 +33,11 @@ COUNCIL Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 Newcastle West,
-Co. Limerick
+Co, Limerick
 t: +353 (0) 69 62100
 AR cen
 11" October, 2018
-To: The Cathaoirleach an ember of 18) if New!
+To: The Cathaoirleach an ember of 2) f New!
 
 Duiche Bardais an Chaisleain Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -51,7 +52,7 @@ transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Coe Dt
+CoeDt
 
 Margaret Corbett,
 Meetings Administrator.
@@ -70,4 +71,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

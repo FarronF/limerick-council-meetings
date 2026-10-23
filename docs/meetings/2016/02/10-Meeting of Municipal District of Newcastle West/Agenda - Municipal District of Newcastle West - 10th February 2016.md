@@ -16,37 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202016.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 10th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_
-
-a
-Limerick
-CITY & COUNTY
-
-COUNCIL
-
-5"" February, 2016.
-
-Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-Cé na gCeannaithe,
+nee Cé na gCeannaithe,
+. =-_> Luimneach
+Limerick Corporate Services and Change Management,
+Limerick C oe Cc i,
 
-Luimneach
-
-Corporate Services and Change Management,
-Limerick City and County Council,
-
+CITY & COUNTY rick City and County Council
 Merchants Quay,
-
-Limerick
+COUNCIL r pee 7%
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
+
+5"" February, 2016.
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -68,28 +59,25 @@ AGENDA
 To adopt Minutes of the Meeting of Municipal District of Newcastle West held on 27”
 
 January, 2016.
-
+(Copy Enclosed)
 2. Service Operations
-CCTV Presentation
-
+CCTV P. ntation
 To receive presentation on CCTV Systems.
+& customerservices@limerick.ie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach & wwew.timerick.te
+w @LimerickCouncil
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-(Copy Enclosed)
-
-@ customerservices@limerick.ie
-& weew.limerick.te
-Ww @LimerickCouncil
 
 
----
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 UESTIONS
 
-uestion submi b uncillor L. Galvin
+uestion submi: b uncillor L. Galvin
 
 | will ask at the next Meeting (a) for an update on the purchase of a new graveyard in
 Abbeyfeale; (b) for the perimeter fence to be repaired at the graveyard (hill road).
@@ -109,4 +97,6 @@ contacted and asked if the local authority may remove a ditch at this dangerous 
 Opposite the homes of Cusacks and Barrys, in the interest of safety.
 
 
----
+
+[[PAGE_END:2]]
+

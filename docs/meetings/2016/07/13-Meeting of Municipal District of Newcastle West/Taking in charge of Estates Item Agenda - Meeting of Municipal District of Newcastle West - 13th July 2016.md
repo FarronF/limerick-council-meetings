@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Taking%20in%20charge%20of%20Estates%20Item%20Agenda%20-%20Meeting%20of%20Municipal%20District%20of.pdf)
+**Original file:** [Taking in charge of Estates Item Agenda - Meeting of Municipal District of Newcastle West - 13th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Taking%20in%20charge%20of%20Estates%20Item%20Agenda%20-%20Meeting%20of%20Municipal%20District%20of.pdf)
 
----
+[[FILE_START]]
+
 COMHAIRLE CATHRACH AGUS CONTAE LUIMNIGH
 
 LIMERICK CITY AND COUNTY COUNCIL
@@ -88,4 +89,6 @@ Gordon Daly,
 Director of Services,
 
 Planning and Environmental Services.
----
+
+[[PAGE_END:1]]
+

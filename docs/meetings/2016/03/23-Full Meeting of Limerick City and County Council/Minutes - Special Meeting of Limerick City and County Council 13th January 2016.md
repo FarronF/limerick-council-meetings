@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2013th%20January%202016.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council 13th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2013th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -78,7 +79,9 @@ Sheahan (K).
 The Director, Service Operations/Change Management opened the Meeting and gave an
 
 overview of the presentation that was to follow.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Director introduced “The Severe Weather Event Limerick December 2015/January
@@ -148,7 +151,9 @@ The following measures were implemented:
 • 100 plus road signs.
 
 • Machinery – Excavators x 3, Lorries x 3, pickups x 6, Tractors/trailers x 2.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 • Hire of Flood Boom for Castleconnell.
@@ -222,7 +227,9 @@ Mulcair River pointing out the following:
 The Senior Engineer moved on to outline events that had occurred in Corbally on
 
 Saturday, 12th December:
----
+
+[[PAGE_END:3]]
+
 **4**
 
 • Council got report circa 8.30 p.m. that Canal was overtopping and the Engineer
@@ -294,7 +301,9 @@ He added that there had been significant damage to infrastructure and to roads. 
 estimated that the damage due to flooding alone in Limerick was in excess of €10,000,000
 
 and that it was on the back of years of under-investment in roads maintenance.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 He concluded by pointing out that Limerick had many areas built at a level that put them
@@ -374,4 +383,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/09.02.2026-economic-development-enterprise-tourism-and-planning-spc-agenda.pdf)
+**Original file:** [Agenda - Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 9th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/09.02.2026-economic-development-enterprise-tourism-and-planning-spc-agenda.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 **30th January 2026**
@@ -80,4 +81,6 @@ grant permission when a clear housing need was demonstrated.”
 4. Taken in Charge Protocol - Barry Henn A/Senior Planner.
 
 5. Date of Next SPC Meeting Monday, 13th April at 2.15 pm.
----
+
+[[PAGE_END:1]]
+

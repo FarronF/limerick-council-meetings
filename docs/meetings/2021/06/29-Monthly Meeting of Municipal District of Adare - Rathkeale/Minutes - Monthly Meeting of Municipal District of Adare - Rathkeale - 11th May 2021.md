@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-11th-may-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 11th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-11th-may-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 11TH** **MAY, 2021 AT 9:30 A.M.**
@@ -82,7 +83,9 @@ Act 2000 (as amended) and Part 8 of the Planning and Development Regulations 200
 amended) and noted it is proposed to proceed as indicated in Section 6 of the report. The
 
 scheme was proposed by Councillor Sheahan, seconded by Councillor Collins and agreed.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -154,7 +157,9 @@ requested the TII would attend the June District Meeting to discuss.
  Councillor O’Donoghue requested the Road Design Office attend the June District
 
 Meeting to discuss current traffic calming works on the N20 in Banogue.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -224,7 +229,9 @@ Councillor Teskey raised the issue of a sewerage smell on the new walkway in Bal
 and raw sewerage flowing into the stream at this location also. Councillor Teskey
 
 proposed the District write to Irish Water to clarify what the capacity of the sewerage
----
+
+[[PAGE_END:3]]
+
 4
 
 plant is at the moment and what the capacity is for future connections. This was
@@ -250,4 +257,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

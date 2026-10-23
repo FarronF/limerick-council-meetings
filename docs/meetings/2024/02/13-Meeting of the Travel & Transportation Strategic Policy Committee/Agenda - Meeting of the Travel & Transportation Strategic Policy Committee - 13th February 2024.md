@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-13th-february-2024.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-13th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **2nd** **February 2024**
@@ -51,7 +52,9 @@ set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -75,4 +78,6 @@ for certain approved organisations operating within the City Centre area, so as 
 enable them to park their vehicle at various locations throughout the city in order to
 
 deliver essential and important services to people in the City Centre area.
----
+
+[[PAGE_END:2]]
+

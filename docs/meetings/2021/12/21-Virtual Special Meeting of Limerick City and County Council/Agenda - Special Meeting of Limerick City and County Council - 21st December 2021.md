@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-special-meeting-21.12.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 21st December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-special-meeting-21.12.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach — = bia ler
-& Contae Luimnigh Combhairie Cathvach agus Contae Ludmnigh,
+Comhairle Cathrach _ = ree ee
+& Contae Luimnigh Comhairle Cathvach agus Contae Ludmnigh,
 
-Ceanncheathni Chorparaideach,
+Ceanncheathna Chorperaideach,
 NON Cé na gCeannaithe,
-— Limerick City Luinureach
+— Limerick City Luinuesch
 
 —= & County Council
 
@@ -34,14 +35,14 @@ Corporate Services,
 
 Limerick City and County Council,
 Corporate Headquarters,
-Merchens Quay,
+Merchants Quay,
 
 Limerick
 
 BIRCODE V4 EHSO
 
 t: 4353 (0) 61 557150
-17" December, 2021. f: +353 (0) 61 415 266
+17" December, 2021. f: 4353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -56,10 +57,10 @@ Is mise le meas,
 
 CZ
 
-KE
+BE
 Meetings Administratar.
 
-EE ne eeeneeieieieneeneeeeeneeneeieeebemeenmenetemedeeieeeeeneeeee eee
+a a eeeeeieieeteneeaemeneeeneebenebelmeneemeneeedeeeeeentemeere eee ee
 
 AGENDA
 
@@ -68,11 +69,10 @@ AGENDA
 To seek the Members’ approval to the granting of the Honorary Freedom of Limerick.
 
  customerservices@limerickie
-
-3 © Werw limerick ie
-
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 
----
+
+[[PAGE_END:1]]
+

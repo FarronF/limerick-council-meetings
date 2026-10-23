@@ -16,30 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/supplementary-agenda-meeting-of-metropolitan-district-of-limerick-15th-june-2026.pdf)
+**Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/supplementary-agenda-meeting-of-metropolitan-district-of-limerick-15th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Sesbhisi Corpardideacha, Rialachais & Custaiméara
-pe & Contes Wanneigh Comhaine Cathrach & Contae Luimnigh
+ae Comhairle Cathrach Sesbhisi Corpardkdeacha, Rialachais & Custaiméara
+Comnairie Cathrach & Contae Luimnigh
+& Contae Luimnigh Ceanncheartha Chorparaideach
 
-a Ceanncheartha Chorparaideach
-NEN Cé na gCeannaithe
-
-— Limerick City Luimneach. v94 EH90
+nNro™N F i . SE ——— Cé na gCeannaithe
+— Limerick City _ Luimneach. v94 EH90
 & County Council
-
 Corporate, Governance & Customer Services
-
 Limerick City and County Council
-
 Corporate Headquarters
-
 Merchant's Quay
 
 Limerick. V94 EH90
-
 t: +353 (0) 61 557 150
 
 12" June 2026
@@ -52,7 +47,7 @@ A Chomhairleoir, a chara,
 June 2026 in the Council Chamber, Merchant’s Quay and Online via Microsoft Teams and set
 out hereunder Supplementary Item No. 7 (a) as follows:
 
-7 (a) Whitebox
+7(a) Whitebox
 
 To receive an update from Whitebox on Developments in Moyross.
 
@@ -62,11 +57,14 @@ Ate. fou
 
 Aedin Foley,
 Meetings Administrator.
-i~J limerickie
+t~] imerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www.limerick.te
-Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
+WY @lLimerickCouncil
 
-( 061 - 556 000
+Corporate Headquarters, Merchant's Quay, Limerick
+(061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

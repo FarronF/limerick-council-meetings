@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-12th-october-2023.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 12th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-12th-october-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -100,7 +101,9 @@ Seamus Hayes, Administrative Officer, Housing, Ms. Aoife O’Brien Slater, Admin
 Housing, Ms. Miriam Donnelly, Administrative Officer, Housing, Ms. Jurate Andrijauskiene, Staff
 
 Officer, Housing
----
+
+[[PAGE_END:1]]
+
 2
 
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
@@ -178,7 +181,9 @@ allowance and (e) whether there a duplication of services for example with publi
 Ms. Fennessy responded that the programme is a collaboration between the Department of Health
 
 and Department of Housing and Local Government. She informed the committee that the
----
+
+[[PAGE_END:2]]
+
 3
 
 programme is funded by the Department of Health and operated by Age Friendly Ireland hosted in
@@ -254,7 +259,9 @@ applications not funded in 2023 will go into a planned programme of work for 202
 informed the committee that a workshop can be organised for the Councillors.
 
 **Item 6: AOB**
----
+
+[[PAGE_END:3]]
+
 4
 
 Ms. Dee Ryan, CEO, Limerick Chamber informed the committee that Limerick Chamber submitted a
@@ -300,4 +307,6 @@ Councillors.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:4]]
+

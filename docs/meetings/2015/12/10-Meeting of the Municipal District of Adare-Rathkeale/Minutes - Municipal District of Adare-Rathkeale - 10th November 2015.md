@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20November%202015.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 10th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -69,7 +70,9 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Regional Directorate (Mid West National Road Design Office)
@@ -116,7 +119,7 @@ Christmas period.
 e The capacity and condition of any proposed diversionary routes would be taken into
 consideration.
 
-© No date had yet been set for the commencement of the Part Vill process as the project
+¢ No date had yet been set for the commencement of the Part Vill process as the project
 team wanted to meet as many interested parties as possible in advance of same.
 
 e The footprint of a roundabout at the junction currently controlled by traffic lights had been
@@ -128,7 +131,9 @@ well, the school was in favour of same and there would be no necessity to create
 temporary car parking adjacent to the town park.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -148,14 +153,14 @@ Superintendent O'Connor outlined to Members the District’s crime figures for t
 to last year. Members thanked Superintendent O’Connor for his update and the following points
 were raised by various Members during discussion.
 
-e That the elderly were living in fear and that crime may be under reported due to the
+¢ That the elderly were living in fear and that crime may be under reported due to the
 closure of Garda Stations.
 
 ¢ The benefits of the ‘Community Text Alert’ scheme to rural areas were noted and it was
 suggested that ‘Community Text Alert’ groups should be linked to neighbouring towns and
 townlands.
 
-e Croom Garda Station located in the centre of the District, should be opened on a full time
+¢ Croom Garda Station located in the centre of the District, should be opened on a full time
 basis to facilitate a quicker response time to crimes in the District.
 
 e The recent increase of crime in Askeaton was a matter of concern and a police presence in
@@ -164,7 +169,7 @@ the town could help curtail criminality.
 ¢ The criminal justice system needed to be reviewed, in particular in relation to free legal aid,
 suspended sentences and duration of sentences.
 
-¢ That there was benefit in a member of An Garda Siochdna attending at District Meetings as
+¢ That there was benefit in a member of An Garda Siochana attending at District Meetings as
 this facilitated the discussion of issues specific to the District.
 
 In response to queries raised by Members, the Superintendent pointed out that the Newcastle
@@ -185,7 +190,9 @@ conservation, biodiversity and recreation and that Coillte were committed to man
 resource through a silvicultural method of Close to Nature Forestry
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -205,7 +212,7 @@ the Wild Atlantic Way he indicated that Curragh Chase was not on the Wild Atlant
 however, talks with Failte Ireland were taking place regarding investment for Curragh Chase.
 
 Following Members queries on the proposed routes for the N69 Foynes to Limerick Road
-improvement Scheme, Mr. Burke confirmed that none of the proposed routes would take in any
+Improvement Scheme, Mr. Burke confirmed that none of the proposed routes would take in any
 lands at Curraghchase. Members queried if the adjacent proposed route could bring additional
 connectivity to Curraghchase and he indicated that if this route was selected further submissions
 
@@ -215,7 +222,7 @@ QUESTIONS
 
 5. Question submitted by Councillor R. O’Donoghue
 
-1 will ask at the next Meeting what proposals are in place for funds to be assigned by the Council
+I will ask at the next Meeting what proposals are in place for funds to be assigned by the Council
 for the installation of CCTV surveillance cameras in the towns and at road junctions around the
 
 District to deter and detect incidents of anti-social behaviour.
@@ -235,7 +242,9 @@ vacancies and one is a void which will be returned for re-letting in two weeks. 
 remaining four will be ready in two weeks for allocation.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -282,7 +291,9 @@ indicated that the 1993 Roads Act empowered the Council to enter lands to do wor
 flooding.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -309,4 +320,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

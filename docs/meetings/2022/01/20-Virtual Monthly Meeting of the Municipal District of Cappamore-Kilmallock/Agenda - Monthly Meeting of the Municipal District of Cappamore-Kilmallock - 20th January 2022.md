@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-municipal-district-meeting-jan-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-municipal-district-meeting-jan-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14" January 2022.
@@ -32,7 +33,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Dare Oln1—
+Dara Oln1—
 Dara O’Brien
 Meetings Administrator.
 
@@ -61,7 +62,9 @@ To set a date for a Workshop to discuss Civic reception
 Update on GMA Community Grants
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -75,7 +78,7 @@ West Cork Trail published by Cork County Council Library Service.”
 
 7. Notice of Motion submitted by Councillor Carey
 
-“twill move at the next Meeting of the Cappamore/Kilmaliock Municipal District that the Council
+“twill move at the next Meeting of the Cappamore/Kilmallock Municipal District that the Council
 accommodate a request from some locals of Tankardstown, Kilmallock to allow them the
 purchase of Burial Plots at Tankardstown Cemetery.”
 
@@ -103,4 +106,6 @@ intersection (R516/L1415) in Meanus.”
 the Taking in Charge of Glenstal Gate Estate, Murroe.”
 
 
----
+
+[[PAGE_END:2]]
+

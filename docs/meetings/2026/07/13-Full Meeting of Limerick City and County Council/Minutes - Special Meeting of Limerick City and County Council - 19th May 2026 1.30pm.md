@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-19th-may-2026-1.30pm.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 19th May 2026 1.30pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-19th-may-2026-1.30pm.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON TUESDAY,
@@ -88,7 +89,9 @@ policies, including the Corporate Plan 2025-2029 and the Mayoral Programme 2024-
 He outlined that comments raised at the workshop held on the 9th April 2026, together with
 
 submissions received, had been circulated to Members.
----
+
+[[PAGE_END:1]]
+
 The following amendments were proposed by Councillor McSweeney and seconded by Councillor
 
 Kiely:
@@ -332,7 +335,9 @@ and/or Limerick City and County Council to
 deliver legacy projects in areas providing Park
 
 and Ride Sites.
----
+
+[[PAGE_END:2]]
+
 Ride sites.
 
 **73.**
@@ -476,7 +481,9 @@ Delivery of the Mayoral Programme 2026 shall be supported
 through the Mayoral Fund, in accordance with the Limerick Mayoral
 
 and Government Consultative Forum Framework. All Directorates
----
+
+[[PAGE_END:3]]
+
 shall identify which actions require Mayoral Fund allocations and
 
 report quarterly on progress. (Executive Report).
@@ -576,7 +583,9 @@ Service
 Maintain a respectful workplace and ensure Dignity at Work
 
 Compliance.
----
+
+[[PAGE_END:4]]
+
 To be
 
 included
@@ -764,7 +773,9 @@ Principal
 Service
 
 Parks & Cemeteries service review to reflect EA boundaries
----
+
+[[PAGE_END:5]]
+
 2026
 
 Key
@@ -910,7 +921,9 @@ RRDF properties (using Abbeyfeale as template).
 Following discussion on the proposal to remove the reference to Vienna Model on pages 51 and
 
 27 of the Annual Service Delivery Plan (ASDP), Members queried whether the Vienna Housing
----
+
+[[PAGE_END:6]]
+
 Model was the same as the Cost Rental Model and expressed disappointment that they had not
 
 received a briefing on the proposed Vienna Model.
@@ -994,7 +1007,9 @@ Vienna Model
 Completion status of the Vienna Model
 
 Framework in collaboration with LTT.
----
+
+[[PAGE_END:7]]
+
 • Finance & Audit Sign-off on Vienna Model.
 
 Confirmation status of financial and audit
@@ -1136,7 +1151,9 @@ Additional text to be added to
 strengthen the 2026 key deliverable
 
 as follows:
----
+
+[[PAGE_END:8]]
+
 “The Council will prioritise the
 
 development of the strategic role of
@@ -1264,7 +1281,9 @@ the 2026 ASDP as follows:
 ‘Improve Customer Services
 
 responses to Elected Members
----
+
+[[PAGE_END:9]]
+
 including the drafting of an updated
 
 Councillor CRM Charter to improve
@@ -1414,7 +1433,9 @@ Revenue collection is a key
 budgetary consideration and
 
 resources continue to be focused on
----
+
+[[PAGE_END:10]]
+
 Shareholder
 
 Unit.
@@ -1566,7 +1587,9 @@ list of their open cases.
 Councillors can also see the
 
 status of their cases if they
----
+
+[[PAGE_END:11]]
+
 •Visibility of status for
 
 Elected Members;
@@ -1692,7 +1715,9 @@ Recommendation
 An updated objective to be included
 
 in the 2026 ASDP as follows:
----
+
+[[PAGE_END:12]]
+
 •Response time
 
 compliance by directorate,
@@ -1818,7 +1843,9 @@ is not in the 2026 Library
 Programme but this can be reviewed
 
 if funding is received.
----
+
+[[PAGE_END:13]]
+
 **13.**
 
 Councillor Doyle
@@ -1958,7 +1985,9 @@ Proposed by Councillor McSweeney;
 Seconded by Councillor Collins (B):
 
 And Resolved:
----
+
+[[PAGE_END:14]]
+
 “That, in accordance with Section 134 (a) of the Local Government Act, 2001 (as amended,
 
 by the Local Government Reform Act 2014 and the Local Government (Mayor of Limerick) and
@@ -1978,4 +2007,6 @@ This concluded the meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:15]]
+

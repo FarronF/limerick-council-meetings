@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-metropolitan-district-of-limerick-18th-may-2026.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 18th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-metropolitan-district-of-limerick-18th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -82,7 +83,9 @@ Seconded by Councillor Doyle;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 **2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -152,7 +155,9 @@ The Director of Services, Metropolitan District of Limerick commended the Member
 of Limerick City and County Council for their commitment to investing and improving Limerick
 
 city centre.
----
+
+[[PAGE_END:2]]
+
 **(b)Review of Riverfest 2026**
 
 The Head of Economic and Tourism Development delivered a presentation on Riverfest
@@ -222,7 +227,9 @@ It was proposed by Councillor McSweeney, seconded by Councillor O’Sullivan, an
 hold the Annual Meeting of the Metropolitan District of Limerick at 9:45am on Monday, 22nd
 
 June 2026.
----
+
+[[PAGE_END:3]]
+
 **QUESTIONS**
 
 **7.Questionsubmittedby Councillor C. Slattery**
@@ -288,7 +295,9 @@ District Works.
 at the Parkway Roundabout. This includes conducting Road Safety Audits to ensure
 
 that our strategies effectively promote safe and inclusive travel options.
----
+
+[[PAGE_END:4]]
+
 We anticipate a concept to be completed in Q3 2026 and will brief councillors once
 
 this is completed.
@@ -354,7 +363,9 @@ approved by the Planning Authority.
 ***Arthur's Quay during Riverfest 2026, including:***
 
 • ***The rationale behind this decision;***
----
+
+[[PAGE_END:5]]
+
 • ***Whether any consultation took place with dog owners or animal welfare***
 
 ***stakeholders prior to implementation;***
@@ -446,7 +457,9 @@ Speakers Corner
 18
 
 Q1 2027
----
+
+[[PAGE_END:6]]
+
 Affordable Purchase
 
 Ballykeefe, Raheen Phase 1
@@ -666,7 +679,9 @@ into use as a first phase - whilst legal issues are being resolved on the remain
 The intention is for the first phase to consist of 5 units with an estimated completion
 
 in Q1 2028.
----
+
+[[PAGE_END:7]]
+
 For your information the following surveys have been completed or are ongoing as
 
 part of the preparatory work towards advancing the project/preparation of the
@@ -736,7 +751,9 @@ the Regulations. The change of use, and any related works, must occur between wh
 the 2018 Regulation came into operation on 8th February 2018 and the 31st December
 
 2028.
----
+
+[[PAGE_END:8]]
+
 In order to obtain the exemption, any interested party must notify the Planning
 
 Authority in writing 14 days prior to the commencement of the works. The
@@ -804,7 +821,9 @@ across the Limerick City North, Limerick City East, and Limerick City West elect
 districts. This breakdown also includes cameras that have received approval from the
 
 Garda Commissioner and are currently in the construction planning phase.
----
+
+[[PAGE_END:9]]
+
 **Local Electoral**
 
 **Area**
@@ -928,7 +947,9 @@ and County Council’s website on completion.
 ***I will ask at the next meeting of the Metropolitan District of Limerick**what enforcement has***
 
 ***there been on the back alley in Parnell St, in terms of parking fines, parking on double yellow***
----
+
+[[PAGE_END:10]]
+
 ***lines as well as drivers going up the wrong way and totally blocking the lane from the Parnell***
 
 ***side entrance.***
@@ -1002,7 +1023,9 @@ The charity organisations who promote this service have been consulted and sampl
 of their products have been received and reviewed. Following this an order has been
 
 placed for a compliment of products to meet the anticipated need. We are awaiting
----
+
+[[PAGE_END:11]]
+
 the delivery of these products and on receipt of same this service will be rolled out
 
 across our public buildings and will be monitored/reviewed after a settling in period.
@@ -1062,7 +1085,9 @@ termination issued to tenants. See breakdown of these below:
 Owner re-occupying: 4
 
 Tenant over income limits: 7
----
+
+[[PAGE_END:12]]
+
 Withdrawn due to the following reasons: tenant not in receipt of HAP/RAS supports,
 
 landlord did not want to engage, alternative social property sourced for tenant, fire
@@ -1136,7 +1161,9 @@ Councillor Slattery on site to review the matter.
 ***and**Galvone**to all communities across the Metropolitan District on a rolling or rotational***
 
 ***basis.***
----
+
+[[PAGE_END:13]]
+
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Secas and
 
 agreed.
@@ -1202,7 +1229,9 @@ relation to the issue.
 ***officer under Section 37 of the Animal Health and Welfare Act 2013 to enforce animal***
 
 ***welfare provisions within the Limerick City and County Council functional area.***
----
+
+[[PAGE_END:14]]
+
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Hickey-
 
 O’Mara and agreed.
@@ -1294,7 +1323,9 @@ throughout 2026.
 The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor
 
 O’Sullivan and agreed.
----
+
+[[PAGE_END:15]]
+
 Following discussions, it was agreed to amend the Motion to the following:
 
 *“I**will move at the next**meeting of the Metropolitan District**of Limerick**that a Retail City*
@@ -1368,7 +1399,9 @@ Property Refurbishment Grant).
 The Economic Development Department are currently preparing the terms of a
 
 forthcoming High Street Innovator Competition that will further support the use of a
----
+
+[[PAGE_END:16]]
+
 commercial premises in partnership with the property owner through the provision of
 
 a defined rent free period and assistance with fit out costs. This competition has a
@@ -1434,7 +1467,9 @@ Policy Committee.
 ***I**will move at the next meeting of the Metropolitan District of Limerick**that we request the***
 
 ***LDA attend the next council meeting in June to share their housing delivery plans.***
----
+
+[[PAGE_END:17]]
+
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor McSweeney
 
 and agreed.
@@ -1506,7 +1541,9 @@ enforcement challenges, improve multi-agency cooperation and coordination, and
 support consistent messaging around animal welfare standards and responsible
 
 animal ownership within the city.
----
+
+[[PAGE_END:18]]
+
 In this context, the Council may write to the Minister for Agriculture, Food and the
 
 Marine to formally request consideration of establishing a Limerick City Animal
@@ -1552,4 +1589,6 @@ This concluded the meeting.
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:19]]
+

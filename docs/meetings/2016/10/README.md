@@ -1,7 +1,12 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 10 - October
 
 * [04 Monthly Meeting Of The Municipal District Of Adare Rathkeale](04-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
 * [05 Meeting Of Municipal District Of Newcastle West](05-Meeting of Municipal District of Newcastle West/README.md)
+* [10 Meeting Of The Economic Development, Enterprise And Planning Spc](10-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
 * [10 Travel And Transportation Strategic Policy Committee Meeting](10-Travel and Transportation Strategic Policy Committee Meeting/README.md)
 * [17 Meeting To Consider Draft Budgetary Plan 2017 For The Metropolitan District Of Limerick](17-Meeting to consider Draft Budgetary Plan 2017 for the Metropolitan District of Limerick/README.md)
 * [17 Monthly Meeting Of Metropolitan District Of Limerick](17-Monthly Meeting of Metropolitan District of Limerick/README.md)

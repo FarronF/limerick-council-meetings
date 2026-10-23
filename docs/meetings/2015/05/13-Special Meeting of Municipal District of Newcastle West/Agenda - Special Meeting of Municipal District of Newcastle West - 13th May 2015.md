@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_13th_may_2015.pdf)
+**Original file:** [Agenda - Special Meeting of Municipal District of Newcastle West - 13th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_13th_may_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
@@ -26,7 +27,7 @@ Comhairle Cathrach agus Contae Luimnigh.
 
 i Cé na gCeannaithe,
 
-—=_> Luimneach
+—=_>= Luimneach
 
 Limerick Corporate Services and Change Management,
 
@@ -46,14 +47,14 @@ District of Newcastle West
 A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Newcastle West to be
-held at Fire Station, Abbeyfeale, Co. Limerick, on Wednesday 43" May, 2015 at 10.00 a.m
+held at Fire Station, Abbeyfeale, Co. Limerick, on Wednesday 13" May, 2015 at 10.00 a.m
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 Meetings Administrator.
 
-ac ceceanaceewenseeesnsscccccccccccnscceesnseeesenessnsescsceeansseenes essere sees eee sees ee SeS SESS SSS SIGS ISOS Se
+ac ceca cnaseenenseeesnssccccccccccccscsessnseresenessnsee cscs seeenes essere sees eee eeeee ee SeS SEES SSIS SSS S OOOO S
 
 AGENDA
 
@@ -65,9 +66,11 @@ To consider removal of on-street parking in Abbeyfeale.
 
 (Report and Map enclosed)
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
 
----
+
+[[PAGE_END:1]]
+

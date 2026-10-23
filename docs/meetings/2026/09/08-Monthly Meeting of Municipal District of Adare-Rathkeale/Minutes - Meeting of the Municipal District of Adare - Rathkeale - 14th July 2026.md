@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-09/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-july-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare - Rathkeale - 14th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ Act, 2001, as amended, and the Code of Conduct, she was inviting those present t
 notify the Cathaoirleach of any declaration of interest in any item due for discussion at
 
 the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 No such interest was declared.
@@ -158,7 +161,9 @@ recently resurfaced and queried why works were carried out on this section of
 road as it had been resurfaced to a high standard less than five years previously.
 
 He also queried why a cattle underpass was replaced along the same stretch of
----
+
+[[PAGE_END:2]]
+
 3
 
 road near Patrickswell. He also requested the costs associated with both of these
@@ -222,7 +227,9 @@ allocate the following:
 Councillor Teskey requested to suspend Standing Orders to confer with his elected
 
 colleagues on Item 6.
----
+
+[[PAGE_END:3]]
+
 4
 
 On resumption of the Meeting Councillor Teskey queried the details of Item B, Disposal
@@ -292,7 +299,9 @@ Rathkeale Community Council and the intention to bring a Section 183 Notice to
 Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:4]]
+
 5
 
 Councillor Collins requested an update on the premises at Shannon House, Foynes, Co.
@@ -364,7 +373,9 @@ this issue.
 • Councillor Teskey requested a representative of Irish Rail attend the September
 
 Meeting of the District to provide an update on the Limerick to Adare rail line.
----
+
+[[PAGE_END:5]]
+
 6
 
 • Councillor Teskey proposed any correspondence for Limerick City and County
@@ -392,4 +403,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

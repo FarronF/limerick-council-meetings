@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%20Draft%20Minutes%20Monthly%20Meeting%2020th%20June%202022.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting 20th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%20Draft%20Minutes%20Monthly%20Meeting%2020th%20June%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON MONDAY, 20TH** **JUNE,**
@@ -86,7 +87,9 @@ The report, as circulated, was noted by Members.
 (c) Circulated, report of the Head of Property and Community Facilities dated 31st May, 2022
 
 setting out proposals for disposal of property at Mill Road, Corbally, Limerick and the intention
----
+
+[[PAGE_END:1]]
+
 2
 
 to bring a Section 183 Notice to Full Council in this regard, for approval.
@@ -156,7 +159,9 @@ Members welcomed the development and raised a number of queries in relation to t
 development and the timeline for the completion of it. Members also highlighted the importance
 
 for consultation with adjoining households as part of this development process.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Senior Executive Engineer, Active Travel responded to the queries.
@@ -226,7 +231,9 @@ once construction commences.
 ***West, their location, frequency of collection and the cost and design options for new bins to be***
 
 ***purchased.***
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY:** The Domestic Waste & Litter Team manage three dog bins located at Dooradoyle Road,
@@ -298,7 +305,9 @@ November 2022.
 maintenance and management of the decorative lighting currently erected throughout
 
 Limerick city.
----
+
+[[PAGE_END:4]]
+
 5
 
 **8.Question submitted by Councillor E. O’Donovan**
@@ -366,7 +375,9 @@ Castletroy area.
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, for an update on the***
 
 ***signage for River Place and River Lane in the Abbey.***
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY**: Following unforeseen delays by the specialist supplier, the bespoke signage ordered by the
@@ -446,7 +457,9 @@ and Heritage’s Affordable housing team to ascertain if the scheme would benefi
 transferring to the higher level of subsidy under the Affordable Housing Fund stream, and
 
 which model of finance/ and development strategy is most suitable. Once outline viability
----
+
+[[PAGE_END:6]]
+
 7
 
 has been confirmed, the sketch scheme will be presented to councillors for input and
@@ -518,7 +531,9 @@ particular Mount St. Oliver, which has ongoing issues.
 ***successfully launched in April 2022.***
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
----
+
+[[PAGE_END:7]]
+
 8
 
 Strategic Policy Committee.
@@ -598,4 +613,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

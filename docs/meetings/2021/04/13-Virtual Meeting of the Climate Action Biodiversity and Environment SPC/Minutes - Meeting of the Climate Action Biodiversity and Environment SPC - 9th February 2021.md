@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210209-draft-minutes-cabe-spc-1.pdf)
+**Original file:** [Minutes - Meeting of the Climate Action Biodiversity and Environment SPC - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210209-draft-minutes-cabe-spc-1.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and**
@@ -70,7 +71,9 @@ Ms. Reidy gave a presentation and update on the National Water Resources Plan (N
 Draft Framework - Consultation 2.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 The NWRP is Irish Water’s plan to identify how they will provide a safe, sustainable, secure
@@ -138,7 +141,9 @@ strongly advocated that (i) the submission would argue that Limerick would not b
 in Group 4 region which included Dublin; (ii) that Limerick would argue that no water should
 
 be taken from the Shannon until such time as the leakage issues in Dublin were addressed.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr B Collins advised that the presentation had been made to the Economic Development SPC
@@ -212,7 +217,9 @@ Metropolitan District Meeting held on Monday 21st December, 2020)
 I will move at the next Meeting that Limerick City and County Council introduce an “Ancient
 
 Tree” scheme to encourage the planting or retention of a single community tree in all new
----
+
+[[PAGE_END:3]]
+
 4
 
 housing developments and suitable existing communities with the Council and community
@@ -274,7 +281,9 @@ their localities.
 This concept is something we can explore further in the context of the development of our
 
 Tree Management Strategy.”
----
+
+[[PAGE_END:4]]
+
 5
 
 Mr. Kennedy advised of a pilot scheme ‘Woodland Creation Scheme’ which had gone out to
@@ -322,4 +331,6 @@ delayed until later in the year. Cllr Hartigan supported this.
 Mr. Kennedy undertook to liaise with Waterways Ireland/OPW regarding this practice.
 
 The Chair concluded the meeting.
----
+
+[[PAGE_END:5]]
+

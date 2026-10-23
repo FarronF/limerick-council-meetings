@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-special-meeting-of-limerick-city-and-county-council-26th-august-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 26th August 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-special-meeting-of-limerick-city-and-county-council-26th-august-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -90,7 +91,9 @@ convened to set the rate of Local Property Tax (LPT) for 2026 and that Members h
 power to vary the LPT by a maximum of plus or minus 15% on the basic rate. She outlined
 
 that the purpose of the Special Meeting was solely to set the rate, and that no discussion
----
+
+[[PAGE_END:1]]
+
 2
 
 would take place regarding its use. The Príomh Chomhairleoir noted that once the LPT was
@@ -154,4 +157,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/Item%20for%20Agenda%20-%20Ardrahan%2C%20Galbally%20-%20Purchase%20of%20Freehold%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%202.pdf)
+**Original file:** [Item for Agenda - Ardrahan, Galbally - Purchase of Freehold - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/Item%20for%20Agenda%20-%20Ardrahan%2C%20Galbally%20-%20Purchase%20of%20Freehold%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%202.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—— Comhairle Cathrach
+_——_—— Comhairle Cathrach
 & Contae Luimnigh
-ANN f_™
+AN if ™
 
-—=_— Limerick City
+—=_—. Limerick City
 
 & County Council
 
-Seirdhisi Tacaiochnta Tithioca,
+Seirdhisi Tacaiocnta Tithioca,
 
-Comhairie Cathrach agus Contae Luimnigh
+Comhairie Cathrach agus Contae Luimnigh,
 Cesnncheathra Chorpardideach,
 
-Cé na gCeannaithe,
+Cé na gCeannsithe,
 
 uirnmeach
 
@@ -49,7 +50,7 @@ Limerick
 
 EIRCODE V94 EHS0
 
-¢; +853 (0) 61 556300
+¢; +353 (0) 61 55600
 
 Housing Support Services
 14” February 2023
@@ -70,13 +71,13 @@ The appropriate fees have been calculated in accordance with the scheme.
 
 It is the intention to bring the Section 183 Notice to full Council for approval.
 
-* Disposal of Freehold Interest, to Purchaser, of premises consisting of a dwelling
+© Disposal of Freehold Interest, to Purchaser, of premises consisting of a dwelling
 house situate at Ardrahan, Galbally, Co. Limerick (Folio LK4125L) to John Spillane.
 
 Is mise le meas,
 
-a Ccoscd
-Kathy oan S
+a Coscd
+Kathy a S
 Senior Staff Officer,
 Housing Support Services.
 
@@ -84,22 +85,22 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luirmneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 customerservices@limerick.ie
-@ Wowelimerickie
+@ Woelimerickie
 @LimerickCouncil
 
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-HLT was enysnpuen
-200 O08 Or of gO SE AIT Hes
-
-gt
-
-4+ Ec
+TLR was enysnpues
+200 OM Or of gO SE ADIT Pe
 
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+i Comhairle Cathrach
 = & Contae Luimnigh
-aie Limerick Cit
-—— merick City
+oe Limerick Cit
+— merick City
 & County Council
 
 16th June, 2023
@@ -41,7 +42,7 @@ Co. Luimnigh
 
 Newcastle West Municipal District.
 Limerick City and County Council,
-Aras Willlarn Smith O'Brien,
+Aras Willan Smith O'Brien,
 Gortboy,
 
 Newcastle West,
@@ -60,7 +61,7 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Thursday, 22™ June, 2023, at
 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is mise le oe
+Is mise le em
 Martin Curran,
 Meetings Administrator.
 
@@ -91,14 +92,14 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
-Sanne eerie
-www. limerick.ioe
+www. limerick.ie
 Y @LimerickCouncil
-
 { 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -125,7 +126,7 @@ Question submitted by Councillor L. Galvin
 
 | will ask at the next Meeting for a quotation to be prepared to provide for a
 footpath at the western side of the Cemetery to the rear of the Church in
-Templegliantine.
+Templeglantine.
 
 Question submitted by Councillor F. Foley
 
@@ -134,7 +135,7 @@ Athea.
 
 Questions submitted by Councillor T. Ruddle
 
-! will ask at the next Meeting for the situation at Ballinakill Cross to be improved.
+| will ask at the next Meeting for the situation at Ballinakill Cross to be improved.
 There are very poor sightlines at this cross and | have received several complaints
 from drivers trying to pull onto the R520 from the L7006. In the interim can the
 ditches be cut back while a long term solution is decided upon.
@@ -145,7 +146,9 @@ meeting and this issue is still outstanding. A resident took a terrible fall out
 Marguerites recently due to the condition of the paving.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -187,4 +190,6 @@ accessing the bank are constantly parking here and blocking it up, recently an
 ambulance could not access the site.
 
 
----
+
+[[PAGE_END:3]]
+

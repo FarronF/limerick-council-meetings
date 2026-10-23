@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-of-spc-mtg-3rd-july-2020_0.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning SPC - 3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-of-spc-mtg-3rd-july-2020_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD AT LIMERICK RACECOURSE, PATRICKSWELL ON**
@@ -98,7 +99,9 @@ along with further measures e.g. business stabilisation supports, business compe
 working capital loans with low interest rates and a range of stimulus measures to drive demand for
 
 products and services of firms.
----
+
+[[PAGE_END:1]]
+
 He stated that Recovery Plans for SME’s will vary greatly between city and county and not keeping
 
 businesses alive will have major consequences in rural towns/villages.
@@ -172,4 +175,6 @@ That concluded the business of the meeting.
 **CLLR. EDDIE RYAN,**
 
 **CHAIRMAN**
----
+
+[[PAGE_END:2]]
+

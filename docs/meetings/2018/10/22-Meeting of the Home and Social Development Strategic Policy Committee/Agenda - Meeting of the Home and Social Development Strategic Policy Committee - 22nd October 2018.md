@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%2022nd%20October%202018.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 22nd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%2022nd%20October%202018.pdf)
 
----
+[[FILE_START]]
+
 **16/10/2018**
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
@@ -82,4 +83,6 @@ highlighted in the number of houses awaiting window and door replacement.
 **Chairperson**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

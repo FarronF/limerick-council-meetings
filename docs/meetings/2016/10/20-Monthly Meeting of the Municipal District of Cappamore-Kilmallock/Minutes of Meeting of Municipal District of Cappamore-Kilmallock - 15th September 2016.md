@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_15th_september_2016.pdf)
+**Original file:** [Minutes of Meeting of Municipal District of Cappamore-Kilmallock - 15th September 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/minutes_15th_september_2016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN** **ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,**
@@ -88,7 +89,9 @@ sent to TII beforehand.
 Circulated, Report of the Director, Physical Development Directorate dated 5th September,
 
 2016.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Senior Executive Officer stated that it was the intention of Limerick City and County Council
@@ -158,7 +161,9 @@ On the proposal of Councillor Teefy, seconded by Councillor Donegan, it was agre
 the Scheme, subject to the inclusion of the housing estates Ceol na hAbhann, Caherconlish and
 
 Ros Fearna / The Meadows, Murroe.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -248,7 +253,9 @@ The following is the age profile of outdoor staff employed with the Council.
 75
 
 The number of outdoor staff that retired in the last 5 years is 129.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -334,7 +341,9 @@ year end and that a further 5 General Operatives will be appointed permanently
 following completion of a competition which is currently underway within the
 
 Council.
----
+
+[[PAGE_END:4]]
+
 5
 
 The following items were raised :
@@ -418,7 +427,9 @@ create a community facility to address rural isolation and promote social connec
 plans included a garden for meditation, spaces for women’s groups and youth groups to meet,
 
 a one bedroom apartment to rent and office space which would also be available to rent.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members thanked Ms. Moore for her very interesting presentation and stated they would fully
@@ -456,4 +467,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

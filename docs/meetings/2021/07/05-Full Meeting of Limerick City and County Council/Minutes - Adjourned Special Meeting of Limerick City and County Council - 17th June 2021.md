@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-e-minutes-adjourned-special-meeting-17.06.2021.pdf)
+**Original file:** [Minutes - Adjourned Special Meeting of Limerick City and County Council - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-e-minutes-adjourned-special-meeting-17.06.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE ADJOURNED SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON THURSDAY, 17TH JUNE, 2021, AT 9 AM.
@@ -74,7 +75,9 @@ Orders had been suspended to allow for this.
 The Mayor explained that the purpose of the meeting was to consider proposals made by some
 
 Members regarding amendments to the Rural Settlement Strategy Map proposed.
----
+
+[[PAGE_END:1]]
+
 1. **Changes proposed to Chapter 3**
 
 Cllr J. Sheahan proposed the following amendment:
@@ -140,7 +143,9 @@ outlined the need to be consistent in terms of how the Council determines the ru
 strategy map, and that if the Council is using the 15% commuters to Limerick City, you cannot
 
 include other EDs without justification.
----
+
+[[PAGE_END:2]]
+
 The Mayor thanked the Members and staff for their engagement and consideration of the Draft
 
 Development Plan and their input in the many Workshops regarding same. The Chief Executive
@@ -194,4 +199,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

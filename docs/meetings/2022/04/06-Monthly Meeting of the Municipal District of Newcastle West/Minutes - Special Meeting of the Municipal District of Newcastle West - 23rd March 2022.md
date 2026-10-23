@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01b-2022-03-23-minutes-special-meeting.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 23rd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01b-2022-03-23-minutes-special-meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -90,7 +91,9 @@ of lands and progression of the Adare by pass. The Cathaoirleach also asked that
 Planner consult with the Members when composing the draft Local Area Plans. The funding
 
 costs to date for this project and the money allocated in identifying the docking points of the
----
+
+[[PAGE_END:1]]
+
 2
 
 Distributor Roads was raised. The Members requested that a report on the funding costs to
@@ -136,4 +139,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

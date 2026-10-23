@@ -16,31 +16,36 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-meeting-of-metropolitan-district-of-limerick-17th-january-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-meeting-of-metropolitan-district-of-limerick-17th-january-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Serbhisi Corparaideacha,
-_—_ 5 Contae Lu pervs Comhairle Cathrach agus Contne Lutmnigh,
-es. mnig Ceanncheathni Chorperdideach,
-AN Cé na gCearinaithe,
-— Limerick Cit City , Luinunesch
+
+AD h Comhairle Cathrach agus Contne Ludmnigh,
+
+& ‘Contae e Luimnig Ceannchesthni Chorpardideach,
+
+NN 7 Cé na gCearinaithe,
 & County Council
+
 Corporate Services,
+
 Limerick Cay and County Council
 
-Corporate Headquarters,
-Merchants Quay,
+Corporate Headquarters.
+Merchants Quay.
 Umerick
 
-12" January, 2022. EIRCODE V34 EH90
-t: 4353 (0) 6% 557150
+12" January, 2022. BIRCODE V34 EH90
+t: 4353 (0) 63 557150
 f: +353 (0) 61 415 266
 
 To: n r Metr itan District of Limerick
 
-A. Chomhairleoir, a chara,
+A, Chomhairleoir, a chara,
 
 You are requested to attend an Online Meeting of the Metropolitan District of Limerick to be held
 on th
@@ -52,7 +57,7 @@ Is mise le meas,
 Mark Leahy,
 Meetings Administrator.
 
-Wisshy
+Wsshy
 
 1. Minutes
 
@@ -61,16 +66,18 @@ December, 2021.
 
 (Copy Enclosed).
 
-= customerservices@limerick.te
+= customerservices@limerick.ie
 
 Ceanncheathra Chorpardideach, Cé na gCeannatthe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick  061- 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. Di | id
+2. Di I id
 To note proposal for the disposal of land as follows:
 
 Disposal of Freehold Interest of premises consisting of a dwelling house situate at 14 Donnellans
@@ -110,7 +117,9 @@ of Loughmore Canal, Raheen, for details of the water sampling that has taken pla
 update on its current status.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor E. O’Donovan
@@ -125,10 +134,10 @@ collect refuse within the city.
 noise mitigation measures as part of planning permissions granted to housing developments in the
 areas affected by the Motorway noise, and given that some estates such as Evanwood are not
 finished long and Kylemore is still ongoing if some money of the lodged bonds can be used towards
-the cost of erecting a noise reducing fencing in these areas until TIl undertake the Pilot Acoustic
+the cost of erecting a noise reducing fencing in these areas until Tl undertake the Pilot Acoustic
 Mitigation Project.
 
-9. Question submitted by Councillor J. Costelloe
+9. Question submitted by Councillor J, Costelloe
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, as part of the Opera Site
 Development, have the Council decided to include a time capsule in the project and if so, let the
@@ -159,7 +168,9 @@ been applied to tenders in the past year and what percentage did this make up of
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 F MOT
@@ -174,4 +185,6 @@ between collection days.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

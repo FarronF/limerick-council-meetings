@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_26th_march2c_2015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 26th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_26th_march2c_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -53,7 +54,7 @@ Proposed by Councillor Gleeson:
 Seconded by Councillor Mitchell:
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed."
 
 2. Community Development and Planning
 
@@ -63,7 +64,9 @@ Development Committee (LCDC). Mr. O'Connor began the presentation by briefing
 the Members on the following:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ne
@@ -124,7 +127,9 @@ It was proposed by Councillor O'Donnell and seconded by Councillor Teefy to take
 Item No. 4 in committee.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. General Municipal Allocation
@@ -134,7 +139,7 @@ by the Members as follows:
 
 From the GMA Allocation/Special Projects €100,000
 € 60,000
-Total —~™ttSCT_ 640,000
+Total —~sST 640,000
 In addition, the Director confirmed that he had been advised that a further €30,000
 
 should be available from the Development levies in 2015, giving a total sum of
@@ -168,24 +173,26 @@ After a lengthy discussion, the following allocations were unanimously agreed by
 Members:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 GMA and Development Fund Allocations for Cappamore-Kilmallock 2015
 
-Total ———C BODE
+Total ————C BODE
 
 Special Projects a
 -Presentations/Equipment for Meetings |€ 5,000.
--Hospital - Footpaths Knockainey Road |€15,000
+“Hospital - Footpaths Knockainey Road |€15,000.
 €20,000
 
-“Cappamore Footpaths —S~ENGOOSCSCS
-Caherconlish Footpaths ~~ e15000.SSSCSCS
-Toul =SSsttCSsSCtSSS~ TODS
+‘Cappamore Footpaths —S~NGOOSCSCS
+Gaherconlish Footpaths ——~—~S~ 1S OOO.SSSCSCSCS
+Tol =ststCSsCtCStS~TOW,CS
 
 [DevelopmentFund J
-Total C—S~—~S BOO
+Total —C—~™~—~ BOD
 
 At the request of Councillor Gleeson it was agreed to circulate a detailed breakdown
 of the Development Fund Contribution Scheme to the Members once available.
@@ -197,7 +204,7 @@ which was located approximately 6 miles away. It was suggested that Bruff or
 Meanus would be a more suitable alternative location to encourage people to
 vote on the forthcoming Referendum.
 
-e On the proposal of Councillor Gleeson, seconded by Councillor Teefy it was
+¢ On the proposal of Councillor Gleeson, seconded by Councillor Teefy it was
 agreed to hold a Civic Reception following the April monthly Meeting on 16”
 April, 2015 for:-
 
@@ -209,7 +216,9 @@ e It was proposed by Councillor Teefy and seconded by Councillor Ryan to hold
 the May Monthly Meeting on Wednesday 13th May, 2015 at 4 pm.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ With the Cathaoirleach’s permission, sympathy was extended to the following on
@@ -232,9 +241,13 @@ Dated:
 
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

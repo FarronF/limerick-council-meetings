@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 16th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, KILIMALLOCK, CO. LIMERICK
-AND ONLINE ON THURSDAY, 16” OCTOBER, 2025 AT 2PM.
+AND ONLINE ON THURSDAY, 16" OCTOBER, 2025 AT 2PM.
 
 PRESENT IN THE CHAIR: Councillor G. Conway, Cathaoirleach.
 MEMBERS PRESENT:
@@ -33,7 +34,7 @@ OFFICIALS IN ATTENDANCE:
 
 Meetings Administrator (Mr. M. Leahy), Senior Executive Engineer, Roads, Traffic and
 Cleansing (Mr. T. McKechnie), A/Senior Executive Officer, Municipal Districts (Ms. K. White),
-Director of Service, Finance (Mr. M. White), Management Accountant, Finance (Ms. |. Griffin),
+Director of Service, Finance (Mr. M. White), Management Accountant, Finance (Ms. I. Griffin),
 Financial Accountant, Finance (Mr. P. Murnane), A/Senior Executive Officer, Rural, Culture,
 Community and Tourism (Ms. A. Rizzo), Community Safety Coordinator, Rural, Culture,
 Community and Tourism (Mr. P. Moroney), Community Safety Administrator, Rural, Culture,
@@ -65,7 +66,9 @@ Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal Distri
 Cappamore-Kilmallock held on 17th September, 2025.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Carey referred to the fact that a discussion had taken place at the September
@@ -112,7 +115,9 @@ Seconded: Councillor Conway (G)
 And resolved
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That the Draft Budgetary Plan 2026 for the Municipal District of Cappamore-Kilmallock is
@@ -120,7 +125,7 @@ hereby adopted as presented”.
 
 4. Property Disposal
 
-a) Circulated, report of the Senior Executive Officer, Property Management dated 6**
+a) Circulated, report of the Senior Executive Officer, Property Management dated 6"
 October, 2025 setting out the Disposal of property, in the form of Lease Agreement,
 comprising of 0.0298 Acres/0.012 hectares situate at Sheare’s Street, Kilmallock, Co.
 Limerick. (see attached report).
@@ -161,7 +166,9 @@ He confirmed that the LCSP was established under the 2025 Safety Partnership Reg
 in accordance with the Policing, Security and Community Safety Act 2024. This will replace
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the former Joint Policing Committees (JPC) as part of a national reform approved by the
@@ -210,10 +217,12 @@ Heritage. Subsequently, further works were undertaken by Limerick City & County 
 under archaeological excavation licence, to remove the general rubbish and grave waste
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-which had been deposited within the church. During this work architectural stone was
+which had been deposited within the church, During this work architectural stone was
 recovered. The works outstanding include the digitisation of the catalogue of architectural
 stone and agreement with the National Museum of Ireland on its final storage. This is likely
 to be in secure containers in an appropriate location within the graveyard. The stone is
@@ -249,7 +258,7 @@ not a hazard or potential hazard to persons using a public road, and that it doe
 obstruct or interfere with the safe use of a public road or the maintenance of a public
 road”
 
-10. bmitted by Coun
+10. ibmitted by Coun
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an update
 on the windows and doors being updated and installed in the houses at the Grove,
@@ -262,7 +271,9 @@ the next 4-6 weeks. The survey will include a condition of all elements of the p
 including the windows and doors.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -314,7 +325,9 @@ of a village park for Bruree.
 The Notice of Motion was proposed by Clir Conway, seconded by Clir Carey, and agreed.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -330,7 +343,7 @@ groups themselves.
 
 14, Notice of Motion submitted by Cllr Stokes
 
-| will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
+I will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
 information on water issues in the area be provided and communicated to all the
 Councillors by the local care takers as they arise.
 
@@ -359,9 +372,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

@@ -16,29 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 17th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach
-___ & Contae Luimnigh
+-e__, Comhairle Cathrach
+§ Contae Luimnigh
+AN ™
 
-AN a ™
-
-—— Limerick City
+— Limerick City
 & County Council
 
 12" July, 2023.
 
 Serbhisi Corparaideacha,
 
-Comhairte Catwach agus Contne Lulmrigh,
+Comhairte Catach agus Contne Lulmrigh,
 Ceanncheathri Chorparaidesch,
 
 Cé na gCeannsithe,
 
-Luimnesch
+Luimnescn
 
 Corporate Services,
 
@@ -48,7 +48,7 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 £H90
+EIRCODE V94 £190
 
 SO
 256
@@ -70,6 +70,8 @@ Is mise le meas,
 
 Meetings Administrator.
 
+AGENDA
+
 1. Minutes
 
 To adopt Minutes of the following Meetings:
@@ -77,7 +79,7 @@ To adopt Minutes of the following Meetings:
 (a) Special Meeting of the Council held on 5‘ April, 2023 (2pm).
 (b) Ordinary Meeting of the Council held on 22™ May, 2023.
 
-{c) Special Meeting of the Council held on 26" May, 2023
+{c) Special Meeting of the Council held on 26% May, 2023
 
 (d) Special Meeting of the Council held on 29" May, 2023.
 
@@ -87,23 +89,22 @@ To adopt Minutes of the following Meetings:
 
 To consider proposal for the disposal of land, in accordance with the provisions of
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
-
 Planning and Development Act, 2000 (as amended), at:
 
-Chorpardideach, Cé na gCeannaithe, Lutmneach
-
-Cearmecheathra
+Cearmecheathra Chorpardideach, Cé na gCeannaithe, Lutmneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a) 9, Rathbane Road, Rathbane, Limerick.
 
 (b) 11, Desmond Drive, Adare, Co. Limerick.
 
-{c) Land comprising Area ‘A’ 0.009 hectares (0.022 acres) at Childers Road, Limerick,
+(c) Land comprising Area ‘A’ 0.009 hectares (0.022 acres) at Childers Road, Limerick,
 and Land comprising Area ‘B’ 0.0052 hectares (0.012 acres) at Childers Road,
 Limerick.
 
@@ -146,7 +147,9 @@ Development, Enterprise and Planning Strategic Policy Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
@@ -192,7 +195,7 @@ Strategic Policy Committee Reports
 To consider reports as follows:
 
 (i) Chairperson’s Report — Meeting of Home and Social Development
-Strategic Policy Committee held on 8” June, 2023.
+Strategic Policy Committee held on 8 June, 2023.
 
 (Chairperson’s Report Enclosed)
 
@@ -202,7 +205,9 @@ Strategic Policy Committee held on 12" June, 2023.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iii) | Chairperson’s Report — Meeting of Climate Action, Biodiversity and
@@ -211,7 +216,7 @@ Environment Strategic Policy Committee held on 13™ June, 2023.
 (Chairperson’s Report Enclosed)
 
 (iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
-Policy Committee held on 20" June, 2023.
+Policy Committee held on 20“ June, 2023.
 
 (Chairperson’s Report Enclosed)
 
@@ -230,7 +235,7 @@ Section 9 of the Road Traffic Act, 2004.
 
 (Report and draft Bye-Laws Enclosed)
 
-(b) Section 85 Agreement - Patrickswell to Charleville Greenway
+(b) Section 85 Agreement — Patrickswell to Charleville Greenway
 
 To consider the entering into an Agreement with Cork County Council under
 Section 85 of the Local Government Act, 2001, as amended, in respect of the
@@ -248,7 +253,9 @@ Strategy 2023-2027: Embrace the Experience.
 (Report and Draft Strategy Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Update on Community CCTV in Limerick
@@ -294,7 +301,9 @@ To consider participation by Members at the following Conferences:
 held in Tullamore, Co. Offaly, on 1% June, 2023.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -342,14 +351,16 @@ Question submitted by Councillor S, Benson
 ! will ask at the next Meeting for an update regarding the feasibility study for a
 permanent ice facility for Limerick.
 
-Question submitted by Councillor E. O'Donovan
+Question submitted by Councillor E. O’Donovan
 
 | will ask at the next meeting for the total expenditure paid in 2022 and to date this
 year by the Local Authority for Occupational Therapist assessment for housing
 adaptation/older persons’ grants in Limerick.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -398,13 +409,15 @@ Working Group across Roads, Planning and Active Travel to determine how best we
 can facilitate those residents looking to bring their cars off the road but who reside on
 existing or planned Active Travel routes within architectural heritage areas
 
-Notice of Motion submitted by Councillor J. Scanlan
+Notice of Motion submitted by Councillor J, Scanlan
 
 | will move at the next Meeting that Service Level Agreements with the various
 providers of Public Lighting be reviewed as a matter of urgency.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -441,4 +454,6 @@ persons where Uisce Eireann connections are not available.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

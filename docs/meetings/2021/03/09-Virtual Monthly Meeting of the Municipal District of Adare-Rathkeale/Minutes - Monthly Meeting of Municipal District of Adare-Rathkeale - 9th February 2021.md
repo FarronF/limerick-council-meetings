@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-minutes-of-monthly-meeting-9th-february-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-minutes-of-monthly-meeting-9th-february-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 9TH** **FEBRUARY, 2021 AT 9:30 A.M.**
@@ -82,7 +83,9 @@ Murphy’s Cross to the traffic lights on the approach to Adare from the Rathkea
 The Senior Executive Engineer agreed to contact the Road Design Office on the matter
 
 and to provide and update at the March Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -154,7 +157,9 @@ Proposed by Councillor Teskey;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That Orchard Avenue, Rathkeale be taken in charge in accordance with Section 180 of
@@ -218,7 +223,9 @@ Seconded by Councillor O’Brien;
 And Resolved:
 
 “That the Section 183 Notice be brought to full Council for approval”.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -280,7 +287,9 @@ matter with Carmel Lynch, Senior Executive Engineer and revert.
  Councillor Keary queried the loss of carpark spaces outside the Old Stand in
 
 Shanagolden and requested an update for the March District Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 **9.**
@@ -348,7 +357,9 @@ allocate the following:
  €2,000 for Public Lighting in Coolcappagh Village.
 
  €300 for Christmas Crib in the Adare-Rathkeale Municipal District Office.
----
+
+[[PAGE_END:5]]
+
 6
 
 On the proposal of Councillor O’Brien, seconded by Councillor Teskey, it was agreed to
@@ -414,7 +425,9 @@ Councillor Sheahan wished to withdraw his Notice of Motion at this stage as the 
 lands are now for sale and it is hoped when sold they will be used for job creation
 
 purposes.
----
+
+[[PAGE_END:6]]
+
 7
 
 **12.**
@@ -478,4 +491,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

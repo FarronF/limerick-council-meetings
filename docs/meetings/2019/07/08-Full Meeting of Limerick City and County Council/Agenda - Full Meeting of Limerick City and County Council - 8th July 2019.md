@@ -16,22 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%20Ordinary%20Meeting%208th%20July%202019%20%281%29.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 8th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%20Ordinary%20Meeting%208th%20July%202019%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Seirbhisi Corparéideacha,
-Comnhaire Cathwach agus Contae Luimingh,
-—— & Contae Luimnigh p preacet teach enter
+Comhairle Cathrach Seirbhisi Corparaideacha,
+Comhaire Cathwach agus Contae Luiminigh,
+— & Contae Luimnigh Coeetteani Coneiionh,
 
-aArN Cé na gCeanmaithe,
-——> Limerick City Ludmnesch
+aArN Cé ma gCeanmaithe,
 & County Council
+
 Corporate Services,
+
 Limerick City and County Council,
+
 Corporate Headquarters,
+
 Merchants Quay,
+
 Limerick
 
 3" July, 2019. EIRCODE V94 E1190
@@ -42,7 +47,7 @@ f: +353 (0) 61 415 266
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of Limerick City and County Council to be held in the Council
-Chamber, Dooradoyle, Limerick, on Monday, 8 July, 2019 at 3.00 p.m. The business to be
+Chamber, Dooradoyle, Limerick, on Monday, 8” July, 2019 at 3.00 p.m. The business to be
 transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -59,13 +64,15 @@ To adopt Minutes of the following Meetings:
 (Copies Enclosed)
 2. Chief Executive Address to Council.
 cI
-@ wee timoricicic
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+@ wow timoriciic
+Ceanncheathra Chorpartideach, Cé na gCeannaithe, Luimneach w @LimerickCounci!
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Disposal of Land
@@ -84,7 +91,7 @@ Act, 2000 (as amended), at:
 
 (Statutory Notices dated 30" May, 7 June, 12™ June, 2019 already circulated)
 
-4.  SupPort Services Directorate
+4.  SuPPort Services Directorate
 
 (a) Chief Executive’s Report
 To consider Chief Executive’s Reports for the months of April and May, 2019.
@@ -107,7 +114,9 @@ To consider the Draft Strategic Policy Committee Scheme, 2019 — 2024.
 (Draft Scheme Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a) Local Traveller Accommodation Consultative Committee
@@ -145,7 +154,9 @@ To consider the nomination of the Mayor (ex-officio), together with a further 15
 Joint Policing Committee.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (h) Board of Governors of St. John’s Hospital
@@ -155,7 +166,7 @@ Board of Governors of St. John’s Hospital.
 
 (Annual Appointment).
 
-(i) Limerick Sports Partnership
+(i) | Limerick Sports Partnership
 
 To consider the nomination of 1 Member to the Limerick Sports Partnership.
 
@@ -191,10 +202,12 @@ To consider the nomination of 4 Members to the Local Community Development Commi
 To consider the nomination of 3 Members to the Rural Water Monitoring Committee.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(q) —_Belltable — Special Sub Committee of Board
+(q) _—_Belltable ~ Special Sub Committee of Board
 
 To consider the nomination of the Mayor (ex-officio) to the Belltable — Special Sub Committee of
 Board.
@@ -237,7 +250,9 @@ on 30" May to 1 June, 2019.
 June, 2019.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (cd) “From Ballot Box to Council Chamber” held in Wexford on 5" to 7" July, 2019.
@@ -262,7 +277,7 @@ Questions submitted by Councillor S. Benson
 to Mobility Aids Grants, Housing Adaptation Grants for People with Disabilities and Disabled
 Person's Grant for each year from 2015 to 2019 inclusive.
 
-11. ‘| will ask at the next meeting, the reason why the housing adaptation grants season closes
+11. | will ask at the next meeting, the reason why the housing adaptation grants season closes
 from October to January each year and if there are any plans to review this going forward,
 to allow for urgent applications to be processed and awarded during this time.
 
@@ -283,7 +298,9 @@ does Limerick Council currently have? What is the average time to return a void 
 into use? What measures are planned to reduce this turnaround time?
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 OF MOTION
@@ -304,7 +321,7 @@ Notice of Motion submitted by Councillor F. Kilcoyne
 the brick lodge and the roundabout on the N69 at Clarina Village as there already has been
 numerous fatalities at this location over the years.
 
-17. twill move at the next meeting, that this Council, write to the Minister for Housing, Planning
+17. | will move at the next meeting, that this Council, write to the Minister for Housing, Planning
 and Local Government requesting additional funding to clear the backlog of approved
 Disabled Person's Grants in Limerick City and County.
 
@@ -322,7 +339,9 @@ plant in Mungret which would increase their allowed emission limit from 500mg to
 it would be harmful to the air quality and thus the people of Limerick.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -350,4 +369,6 @@ specific geriatric ED facilities.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:8]]
+

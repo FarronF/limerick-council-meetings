@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-jan-2026.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th Jan 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-jan-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -40,8 +41,8 @@ Director of Services, Environment, Climate Action, and Fire (Mr. K. Lehane); Chi
 Fire & Emergency (Mr. P. McMahon); A/Senior Executive Engineer, Roads, Traffic and
 Cleansing (Mr. D. Sheehy), A/Senior Executive Officer, Municipal Districts (Ms. K. White),
 
-Administrative Officer, Environment & Climate Action (Ms. S$. Hourigan), Clerical Officer,
-Cappamore-Kilmallock Municipal District (Ms. H. O'Neill).
+Administrative Officer, Environment & Climate Action (Ms. S. Hourigan), Clerical Officer,
+Cappamore-Kilmallock Municipal District (Ms. H. O’ Neill).
 
 1. MINUTES
 
@@ -69,7 +70,9 @@ congratulated him on his recent appointment as Chief Fire Officer and they wishe
 in his new job.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -127,7 +130,9 @@ and County Council are considering the installation of additional signage at the
 enterprise junction on the R662.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -177,7 +182,9 @@ planning consent. This process is almost complete, with engagement ongoing with
 immediately adjoining landowners.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Elected Members will be briefed in the coming weeks of proposals, prior to lodging a
@@ -225,11 +232,13 @@ applications be explored for public lighting at the walkways in Kilmallock, espe
 Western Wall Walk.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
-The Notice of Motion was proposed by Clir Carey, seconded by Clir Conway, and agreed.
+The Notice of Motion was proposed by Cllr Carey, seconded by Cllr Conway, and agreed.
 Reply:
 
 Before any proposals to install lighting along the Walkway in Kilmallock, including the
@@ -276,7 +285,9 @@ The Director of Services, Travel & Transport referred to the process of funding 
 under the Schedule of Municipal District Works process, which also includes applicable
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -329,7 +340,9 @@ The Elected Members expressed disappointment at the content of the reply to the 
 stating that the reply did not address the Motion about continuous illegal dumping in the
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cappamore/Murroe areas. They requested that action be taken in tackling this specific illegal
@@ -370,9 +383,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

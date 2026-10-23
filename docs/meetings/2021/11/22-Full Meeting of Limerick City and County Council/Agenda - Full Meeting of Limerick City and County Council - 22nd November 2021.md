@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-november-council-meeting.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 22nd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-november-council-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-uel Comhairie Cathrach Convatie Cote raeghy hilar rami
-. . Co 2 sthywach agu ae Uuilry .
+a Comhairle Cathrach Combate Cate prety hilar rami
+. . Co 2 athwach agu ae Uuilny 5
 Z & Contae Luimnigh Ceanncheathna Chorpsraidesch,
-o™ = = Cé na gCeannaithe
-— Limerick City Luimneach
+o™ = = Cé na gCeannaithe.
+— Limerick City Luimyneach
 
 — & County Council
 Corporate Services,
-Limerick Cty and County Council,
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-EIRCODE V94 EH90
+EIRCODE V94 EHSO
 
 17" November, 2021. t: 4353 (0) 61 557150
 
@@ -45,13 +46,13 @@ To:
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, and Online, on Monday, 22” November, 2021, at 3pm. The
+Council Chamber, Dooradoyle, and Online, on Monday, 22 November, 2021, at 3pm. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-i
-—_— r——<
+Qe
+_— tr——<
 Laura Flannery,
 Meetings Administrator.
 AGENDA
@@ -73,13 +74,15 @@ Planning and Development Act, 2000 (as amended), at:
 (a) 53, O’Dwyer’s Villas, Thomondgate, Limerick.
 (b) 81, O’Dwyer’s Villas, Thomondgate, Limerick.
 (c) 187, Hyde Road, Prospect, Limerick.
-= customerservices@limerickte
-© Wen Jimarick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmnesch w @LtmerickCouncit
-Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
+= customerservices@limerick.te
+© Wen dimarick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimnesch w @LtmerickCouncit
+Corporate Headquarters, Merchants Quay, Limerick (. 061- 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) 10, Ash Hill, Kilmallock, Co. Limerick.
@@ -92,13 +95,13 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 (h) Turagh, Cappamore, Co. Limerick.
 
-(i)  Ballyorgan, Co. Limerick.
+(i) — Ballyorgan, Co. Limerick.
 
 (j) 27, Hillside Drive, Athea, Co. Limerick.
 
 (k) Parnell Street, Limerick.
 
-(I) Rathmale, Mungret, Co. Limerick.
+(I) | Rathmale, Mungret, Co. Limerick.
 
 (m) 1, Saint Peter Street, Limerick.
 
@@ -106,7 +109,7 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 Street, Michael Street and Bank Place, Limerick.
 
 (Statutory Notices dated 27™ and 30% September, 8 October and
-5", 8th, 9", 10" and 11" November, 2021, already circulated)
+5", 8th, 9'", 10" and 11" November, 2021, already circulated)
 
 Support Services
 
@@ -136,10 +139,12 @@ Manchester from 1* to 3% December, 2021.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(qd)
+(a)
 
 (e)
 
@@ -190,7 +195,9 @@ Environment Strategic Policy Committee held on 5" October, 2021.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -237,7 +244,9 @@ Limerick Theatre Bursaries 2021.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8.
@@ -254,7 +263,7 @@ October, 2021.
 (ii) ‘Connecting Ireland Virtual Briefing,’ held on 4" November, 2021.
 
 (iii) | ‘The Fair Deal Scheme — What’s the Deal with Nursing Home Care?’ held
-in Clonakilty, Co. Cork, from 5" to 7" November, 2021.
+in Clonakilty, Co. Cork, from 5" to 7° November, 2021.
 
 (iv) ‘Mental Health and Wellbeing,’ to be held in Carlingford, Co. Louth, from
 
@@ -276,7 +285,7 @@ to deliver proper recognition and compensation for healthcare workers at the
 frontline of the Health Service for their risk, sacrifice and exceptional efforts during
 the COVID-19 crisis.
 
-Aiatinn of Motion nena Nee eee Ee af_Ganeamare:
+tiation of Motion senen aa Dee eae Ee -f_Ganeamore:
 
 a Ryan, mM. Ryan, Teal.
 
@@ -286,7 +295,9 @@ is on the floor at the moment. This accordingly would support farmers and the lo
 economy.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -295,7 +306,7 @@ economy.
 
 13.
 
-14.
+14,
 
 15.
 
@@ -315,19 +326,19 @@ Question submitted by Councillor S. Kiely
 I will ask at the next Meeting how many playing pitches are owned by the Council and
 what are the terms and conditions for use of these presently.
 
-Question submitted by Councillor S$. Benson
+Question submitted by Councillor $. Benson
 
-I will ask at the next Meeting if a report or analysis is available, from the before and
+| will ask at the next Meeting if a report or analysis is available, from the before and
 after energy bills, that were collected from all houses that received a thermal upgrade,
 in Regeneration areas.
 
 Question submitted by Councillor S. Benson
 
-! will ask at the next Meeting when does the Council intend to submit a proposal to
+| will ask at the next Meeting when does the Council intend to submit a proposal to
 the Department of Housing regarding the removal of Pineview Gardens from the
 demolition area.
 
-Question submitted by Councillor E. O'Donovan
+Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting for an update on the use of Drones within public parks,
 public play areas and in residential areas; what signage and where has the Council
@@ -344,7 +355,9 @@ Government to put in place a properly financed 10-year working plan to upgrade t
 above.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -393,7 +406,9 @@ planting of fifty mature native broadleaf Irish trees per annum in site specific
 in an effort to combat climate change.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 22. Notice of Motion submitted by Councillor S. Benson
@@ -405,4 +420,6 @@ estates and in working order.
 23. Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

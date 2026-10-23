@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2019 — 04 - April
 
 * [03 Monthly Meeting Of The Municipal District Of Newcastle West](03-Monthly Meeting of the Municipal District of Newcastle West/README.md)
@@ -8,6 +12,7 @@
 * [11 Meeting Of The Joint Policing Sub Committee Of The Municipal District Of Cappamore Kilmallock](11-Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock/README.md)
 * [11 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](11-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
 * [12 Special Meeting Of The Municipal District Of Adare Rathkeale](12-Special Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* [15 Meeting Of The Community Leisure And Emergency Services Strategic Policy Committee](15-Meeting of the Community Leisure and Emergency Services Strategic Policy Committee/README.md)
 * [15 Monthly Meeting Of Metropolitan District Of Limerick](15-Monthly Meeting of Metropolitan District of Limerick/README.md)
 * [23 Meeting Of The Environment Strategic Policy Committee](23-Meeting of the Environment Strategic Policy Committee/README.md)
 * [23 Meeting Of The Home And Social Development Strategic Policy Committee](23-Meeting of the Home and Social Development Strategic Policy Committee/README.md)

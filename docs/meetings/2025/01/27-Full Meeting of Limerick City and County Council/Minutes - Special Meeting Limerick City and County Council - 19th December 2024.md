@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-c-minutes-special-meeting-limerick-city-and-county-council-19.12.2024.pdf)
+**Original file:** [Minutes - Special Meeting Limerick City and County Council - 19th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-c-minutes-special-meeting-limerick-city-and-county-council-19.12.2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND
@@ -80,7 +81,9 @@ Seconded by Councillor Secas;
 “That, Mr. Padraigh Reale, Garryowen, Limerick, be co-opted to the Council to fill the
 
 casual vacancy consequent on the election of Councillor Conor Sheehan to Dáil Éireann.”
----
+
+[[PAGE_END:1]]
+
 2
 
 As there were no other nominations, the Príomh Chomhairleoir declared Mr. Padraigh
@@ -154,7 +157,9 @@ Councillor Joe Leddin would be the replacement Chair-Designate of the Climate Ac
 Biodiversity and Environment Strategic Policy Committee consequent to the election of
 
 Councillor Conor Sheehan to Dáil Éireann.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Hickey-O’Mara seconded by Councillor Benson it was
@@ -222,7 +227,9 @@ Hartigan (S), Hartigan (T), Keary, Kiely, Kilcoyne, Leddin, McSweeney, Mayor Mor
 O’Donoghue, O’Hanlon, O’Sullivan (O), O’Sullivan (T), Pond, Reale, Ryan (E), Ryan (M),
 
 Scanlan, Secas, Sheahan, Slattery, Stokes, Talukder, Teefy, Teskey, Ward. **(34)**
----
+
+[[PAGE_END:3]]
+
 4
 
 **For Councillor Hickey-O’Mara**
@@ -282,7 +289,9 @@ McSweeney, O’Sullivan (O), O’Donoghue, Donoghue, Scanlan, Reale, Gavan, Bens
 Councillors Leddin, O’Hanlon, Pond, Collins (B), Foley, Kiely, Galvin, Stokes, Sheahan,
 
 Hartigan (S), Hartigan (T), Ryan (E), Daly, Secas, Hickey-O’Mara, Carey.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Travel and Transportation**
@@ -364,7 +373,9 @@ And Resolved:
 “That, the approval of the Council be and is hereby given to Sectoral Nominations to
 
 Strategic Policy Committees as set out below:
----
+
+[[PAGE_END:5]]
+
 6
 
 **Trade Union**
@@ -424,7 +435,9 @@ Strategic Policy Committees as set out below:
 **Community, Leisure, Arts, Heritage and Culture**
 
  Khurram Iqbal, Limerick Migrants Forum
----
+
+[[PAGE_END:6]]
+
 7
 
 The Príomh Chomhairleoir concluded the meeting by wishing everyone a Happy Christmas
@@ -442,4 +455,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

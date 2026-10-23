@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_june_0.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 3rd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_june_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_
+_——
 
-AN fi ™
+An fi ™
 ——
 Limerick
 CITY & COUNTY
@@ -66,18 +67,18 @@ Tre Lrove
 Tina Knox,
 Meetings Administrator.
 
-ean NNT lla tetelaiaatataiataiad
-
-ese nnn ee ee nen n ene nnn e ene e ee
-
-AGENDA
+en tlle talelletaiatatatataial
 
 1. Minutes
 
 To adopt Minutes of the following Meetings:
 
-(a) Municipal District of Newcastle West held on 6" May, 2015.
-(b) Special Meeting of Municipal District of Newcastle West held on 13" May, 2015.
+ewe nnn ee ne enn n ene nnn e ewe eee
+
+AGENDA
+
+(a) | Municipal District of Newcastle West held on 6" May, 2015.
+(b) | Special Meeting of Municipal District of Newcastle West held on 13" May, 2015.
 (c) Special Meeting of Municipal District of Newcastle West held on 19" May, 2015.
 
 2. Deputation
@@ -90,11 +91,13 @@ Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ customerservices@limerickie
- www.limerickie
+© www.limerickie
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -108,7 +111,7 @@ Proposal to remove four structures from The Record of Protected
 
 Structures
 
-To consider the Chief Executive's Report dated 22” May, 2015, on the proposed
+To consider the Chief Executive's Report dated 22" May, 2015, on the proposed
 removal of four structures (RPS 275, 381, 1461, and 1693) from The Record of Protected
 Structures contained in the County Development Plan, and decide whether or not the
 deletion shall be made in accordance with Section 55 (4) of the Planning and
@@ -137,4 +140,6 @@ Notice of Motion submitted by Councillor S. Browne
 repaired as a matter of urgency.
 
 
----
+
+[[PAGE_END:2]]
+

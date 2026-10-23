@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/04%20Minutes%2019th%20Sept%202019%20MD%20Mtg.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/04%20Minutes%2019th%20Sept%202019%20MD%20Mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -68,7 +69,9 @@ in various projects and initiatives, which they had delivered in the community o
 years,
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 At the end of the presentation, the Director, Community Development Directorate on behalf
@@ -106,14 +109,16 @@ in accordance with the approved Part Vill and there is no other scheme being
 
 considered. The Meetings Administrator noted that following receipt of this reply from the
 MWNRDO, that Clir Mitchell had subsequently requested that O’Rourke’s Cross not be
-included on the Agenda for the meeting with TIl.
+included on the Agenda for the meeting with Til.
 
 The Meetings Administrator also referred to correspondence from Conn Murray, former
 Chief Executive, Limerick City & County Council dated 11" March 2019, where the Chief
 Executive confirmed the position that he outlined to Members at the Special Meeting held
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 on the 26" September 2018, that the road scheme would proceed in accordance with the
@@ -158,7 +163,9 @@ Directorate and the supports being provided to various organisations and local
 communities.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 They especially stressed the importance of the work currently being done in the area of
@@ -200,7 +207,9 @@ Circulated, Housing Progress Report from the Director of Services, Housing Devel
 Directorate dated 4'" September, 2019, which was noted by the Members
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -221,7 +230,7 @@ bus shelters at various locations throughout the Municipal District.
 
 10. Notice of Motion submitted by Councillor Martin Ryan
 
-| will move at the next meeting of the Municipal District that Limerick City and County
+I will move at the next meeting of the Municipal District that Limerick City and County
 Council engage with the Road Safety Authority to seek funding assistance from the
 RSA to implement a planned programme of hedge cutting along road verges in the
 Municipal District in order to improve road safety and reduce risks to road users and
@@ -244,7 +253,9 @@ does not obstruct or interfere with the safe use of a public road or the mainten
 public road.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -262,7 +273,7 @@ footpaths.
 
 Proposed by Cllr. Teefy, seconded by Cllr. Mitchell
 
-Reply: There is currently a programme of footpath repairs within the Cappamore—
+Reply: There is currently a programme of footpath repairs within the Cappamore —
 Kilmallock Municipal District with a budget of €200,000 (including some General
 Municipal Allocation (GMA) funding), to carry out these works.
 
@@ -297,7 +308,9 @@ on the traffic calming measures being installed in Hospital, which was highlight
 previous Municipal District meetings in the interest of safety for all road users.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply: The detailed design for traffic calming measures has been completed and this
@@ -344,7 +357,9 @@ Reply: The Council has tendered for the works for the extension of Caherconlish
 graveyard. A consultant is currently assessing the tenders received.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17 .Question submitted by Councillor Martin Ryan
@@ -375,7 +390,7 @@ the Speed Ramp/Cushion be installed on the R513 in Caherconlish.
 
 Reply: There are two locations on the R513 where Speed Ramps / Cushions are
 proposed. At Lynch’s corner, a tabletop ramp is to be installed on the junction of the
-R513 / 1149 / LS5096. This is part of the ‘Lynches Corner Caherconlish’ LCSS. These
+R513 / 11149 / L5096. This is part of the ‘Lynches Corner Caherconlish’ LCSS. These
 works are to commence in the coming weeks.
 
 Another speed cushion has been requested on the Herbertstown approach to
@@ -389,4 +404,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:8]]
+

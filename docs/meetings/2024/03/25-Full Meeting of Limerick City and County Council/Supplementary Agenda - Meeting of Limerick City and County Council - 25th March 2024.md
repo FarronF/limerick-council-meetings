@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-i-supplementary-agenda-council-meeting-25.03.2024.pdf)
+**Original file:** [Supplementary Agenda - Meeting of Limerick City and County Council - 25th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-i-supplementary-agenda-council-meeting-25.03.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-OO Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
-ans , _————  ———
+ans , ———————————
 
 — Limerick City
 & County Council
 
 22" March, 2024.
 
-Seirbhisi Corparaideacha,
+Seirbnisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathné Chorpardideach,
@@ -43,11 +44,11 @@ Corporate Services,
 
 Limerick City and County Council,
 Corporate Headquarters,
-Merchants Quay,
+Merchants Quay.
 
 Limerick
 
-EIRCODE V94 EH9O
+EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -64,7 +65,7 @@ A Chomhairleoir, a chara,
 | will move at the next Meeting that this Council call for a commitment from
 Government for a minimum of €91m extra in funding for University Hospital Limerick
 (UHL) to bring staffing up to the national average for a Model 4 Hospital; notes that
-UHL is consistently the most overcrowded Emergency Department in the country; and
+UHLis consistently the most overcrowded Emergency Department in the country; and
 calls for (a) the allocation of €91m in extra funding for staffing and services to bring
 UHL up to the national average for a Model 4 Hospital; and (b) the creation of a
 Taskforce, led by the Taoiseach, that includes the HSE, Department of Health and Local
@@ -87,4 +88,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-2021-10-20-minutes-jpc-subcommittee.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Newcastle West - 20th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-2021-10-20-minutes-jpc-subcommittee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -60,7 +61,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -72,7 +75,7 @@ the Newcastle West Joint Policing Sub Committee Meeting. He also noted that the 
 was based on a problem solving approach by both the Gardai and the Council working together.
 
 The Chief Superintendent referred to the very strong challenges, which the Gardai faced over the
-last eighteen months due to the Covidi9 pandemic. He referred to the Limerick Covid19
+last eighteen months due to the Covidi9 pandemic. He referred to the Limerick Covidi9
 Community Response Team, which was one of the first in the country to be set up and involved
 various organisations including the Gardai and Limerick City and County Council operating a
 coordinated response to provide assistance to the vulnerable and elderly across Limerick City and
@@ -106,7 +109,9 @@ She also stressed the importance of the assistance of members of the public in t
 crime.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Superintendent Magner gave an overview of the joint initiatives which have taken place in the
@@ -140,7 +145,7 @@ above matters. She referred to the low statistics with regard to anti social beh
 based on the reports received by the Gardai and outlined the measures which are in place to deal
 with anti social behavior including patrolling the town park, patrolling at school times and a
 motor bike patrol of the town. She also stated that the Gardai engage closely with a number of
-Organisations on a continuous basis in Abbeyfeale. She, however, stressed the importance of
+organisations on a continuous basis in Abbeyfeale. She, however, stressed the importance of
 reporting any incidents to the Gardai.
 
 She stated that the issue with regard to children leaving school early is a matter for the
@@ -149,14 +154,16 @@ Department of Education but noted that the Gardai work closely with schools in t
 various matters.
 
 She noted that the telephone lines at Newcastle West Garda Station are diverted to Henry Street
-Garda Station from 9 p.m. to 7 a.m, daily, to a dedicated telephone line where calls are entered
+Garda Station from 9 p.m. to 7 a.m. daily, to a dedicated telephone line where calls are entered
 and the nearest patrol car is dispatched to incidents when necessary. She stated that the use of
 the 999 telephone number is effective in emergencies. She referred to CCTV which is the
-responsibility of Limerick City and County Council which offers great assistance to the Gardai and
+responsibility of Limerick City and County Council which offers great assistance to the Gardal and
 that the contact person with regard to any queries on CCTV is Garda Alan Doody.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She outlined to the Members the opening hours of the Garda Station in Abbeyfeale. She stated
@@ -196,4 +203,6 @@ Signed:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:4]]
+

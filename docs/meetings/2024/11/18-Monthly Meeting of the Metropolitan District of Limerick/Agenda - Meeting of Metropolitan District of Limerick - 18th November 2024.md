@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-meeting-of-metropolitan-district-of-limerick-18th-november-2024_0.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 18th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-meeting-of-metropolitan-district-of-limerick-18th-november-2024_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach
 ; & Contae Luimnigh
-Ao™ 2 _—_—=_=——_—
+ANN — _—_—S——_—_————
 
 Limerick City
 = & County Council
 
-13" November, 2024.
+13"" November, 2024.
 
-Se®bdhisi Corpardideacha,
+Se®bhisi Corpardideacha,
 
-Comnairte Cathrach agus Contae Luimnigh,
-Ceanncheathri: Chorparaideach,
+Comnairie Cathrach agus Contae Luimnigh,
+Ceanncheathré: Chorparaideach,
 
 Cé na gCeannaithe,
 
@@ -84,12 +85,14 @@ Corporate Headquarters, Merchants Quay, Limerick
 = customerservices@limerick ie
 © vewrw limerickie
 
-Y @LimerickCouncil
+YW @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Standing Orders for the Metropolitan District of Limerick
@@ -141,7 +144,9 @@ Developments.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Question submitted by Councillor S. Benson
@@ -196,7 +201,9 @@ Scheme that includes Mulcair Drive and Mountshannon Road".
 proposed footpath that will link Rich Hill Woods / Grangewood to the Mackey Roundabout.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17. Question submitted by Councillor U. Gavan
@@ -244,7 +251,9 @@ Patrickswell and also if consideration is being given to reducing the speed limi
 location from the current 50 kmph down to 30 kmph.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -258,7 +267,7 @@ Coach bus service in Annacotty has been very poor in recent months.
 
 25. Notice of Motion submitted by Councillor E. Secas
 
-| will move at the next Meeting of the Metropolitan District of Limerick that the Council writes to
+I will move at the next Meeting of the Metropolitan District of Limerick that the Council writes to
 the OPW to request an update on their progress in identifying a site for a Garda Station in
 Castletroy.
 
@@ -286,10 +295,12 @@ public thoroughfares are more heavily enforced.
 
 30. Notice of Motion submitted by Councillor S. Kiely
 
-| will move at the next Meeting of the Metropolitan District of Limerick that all the water
+1 will move at the next Meeting of the Metropolitan District of Limerick that all the water
 fountains previously installed by this local authority be cleaned and maintained.
 
 31. Correspondence (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

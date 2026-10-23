@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01-2019-03-06-Minutes-JPC-Subcommittee.pdf)
+**Original file:** [Minutes - Meeting of the Meeting of the Municipal District of Newcastle West Joint Policing Sub-Committee - 6th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01-2019-03-06-Minutes-JPC-Subcommittee.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -88,7 +89,9 @@ the District and asked if a review of the locations could be undertaken. A discu
 and the Superintendent confirmed that the Road Safety Authority designate locations in areas
 
 close to accident blackspots. The locations are also available on the Garda website.
----
+
+[[PAGE_END:1]]
+
 2
 
 2. Policing Issues in the District
@@ -164,4 +167,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

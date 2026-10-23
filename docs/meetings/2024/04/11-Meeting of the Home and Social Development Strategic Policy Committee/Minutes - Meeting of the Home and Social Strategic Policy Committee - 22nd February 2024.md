@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-22nd-february-2024.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 22nd February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-22nd-february-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -92,7 +93,9 @@ Mr. Noel Lindsey, Clerical Officer, Housing
 **Apologies:** Mr. Mike McNamara, Ms. Tracy McElligott, Ms. Dee Ryan, Mr. PJ O’Grady, Ms. Anne
 
 Cronin
----
+
+[[PAGE_END:1]]
+
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
 An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all members to the
@@ -164,7 +167,9 @@ Ms. Patricia Phillips A/ Head of Unit for Housing Welfare & Traveller Accommodat
 and Mr. Jamie Butler, Executive Engineer, Housing Welfare & Traveller Accommodation gave a
 
 presentation on the Traveller Accommodation Programme.
----
+
+[[PAGE_END:2]]
+
 The presentation highlighted progress to-date under the current plan and Ms. Phillips confirmed
 
 that the Council have commenced the preparation of the next 5-year Traveller Accommodation
@@ -248,7 +253,9 @@ engaged with the families and made offers of accommodation. Ms. Phillips stated 
 Accommodation Unit works very closely with Planning Enforcement and that the matter will have to
 
 go through the Court System.
----
+
+[[PAGE_END:3]]
+
 Cllr. Tom Collopy enquired (a) if rent was payable by families occupying unofficial sites, (b) if the
 
 caravan loan repayments are additional to rent paid and (c) how are maintenance issues addressed.
@@ -318,7 +325,9 @@ period as long as there is no break in social housing support.
 Cllr. Tom Collopy asked what the income was required before the current €11,000. Mr. McDonald
 
 confirmed the amount was reduced from €15,000 to €12,500 on 1st February 2022.
----
+
+[[PAGE_END:4]]
+
 **Item 6: SPC Programme of Work 2024**
 
 Ms. Caroline Curley, Director of Service outlined the following SPC Programme of Work 2024 as
@@ -400,7 +409,9 @@ the importanhoce of sustaining our current stock and that there will be addition
 Cllr. Tom Collopy asked how we get families out of emergency accommodation. Ms. Phillips stated
 
 that no-one wants to see a family in temporary accommodation but added that in some
----
+
+[[PAGE_END:5]]
+
 circumstances people have made themselves homeless on purpose having regard to the order of
 
 priority in the Council’s allocation scheme. Ms. Phillips added that vulnerable people are looked
@@ -424,4 +435,6 @@ stated that the properties were refurbished under the Rural Regeneration and Dev
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 
 **END OF MEETING**
----
+
+[[PAGE_END:6]]
+

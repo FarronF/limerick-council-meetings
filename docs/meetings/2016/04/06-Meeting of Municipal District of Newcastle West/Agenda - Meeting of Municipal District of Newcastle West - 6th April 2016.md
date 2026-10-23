@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 6th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 al Comhairle Cathrach agus Contae Luimnigh,
 
 ANF : Cé na gCeannaithe,
-—=>=> Luimneach
+—==> Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and coum Seah
+CITY & COUNTY Limerick City and coumy Seah
 COUNCIL a
 
 t: +353 (0) 61 407 100
@@ -64,13 +65,15 @@ To consider draft Schedule of Works for the Municipal District of Newcastle West
 
 (Report enclosed)
 
-& customerservices@timerick.ie
+= customerservices@timerick.ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wvew.timerick.ie
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach  wvew.limerick.ie
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -84,7 +87,7 @@ nN
 QUESTIONS
 Questions submitted by Councillor J. Scanian
 
-I will ask at the next Meeting what is the combined total of the Net Annual Value of the
+1 will ask at the next Meeting what is the combined total of the Net Annual Value of the
 Rateable Premises within the Desmond Business Park.
 
 | will ask at the next Meeting when black and amber markings will be placed (a) on the
@@ -121,11 +124,13 @@ Notices of Motion submitted by Councillor J. Scanlan
 infrastructure servicing the various Business Units within the Desmond Business Park at
 Gortboy, Newcastle West.
 
-I will move at the next Meeting that speed indication signage be put in place on the Kilready
+| will move at the next Meeting that speed indication signage be put in place on the Kilready
 approach towards Castlemahon school in the interest of safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -142,4 +147,6 @@ Abbeyfeale.
 Abbeyfeale be erected, to prevent antisocial behaviour.
 
 
----
+
+[[PAGE_END:3]]
+

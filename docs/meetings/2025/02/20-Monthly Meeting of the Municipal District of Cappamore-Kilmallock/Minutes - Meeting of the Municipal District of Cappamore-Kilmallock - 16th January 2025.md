@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/02-ck-md-meeting-minutes-16th-jan-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 16th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/02-ck-md-meeting-minutes-16th-jan-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
@@ -41,7 +42,7 @@ Councillor E. Ryan
 OFFICIALS IN ATTENDANCE:
 
 Executive Engineer, Roads Traffic & Cleansing (Mr. D. Sheehy); Meetings Administrator
-(Ms. K. Butler); Clerical Officer (Ms. #. O'Neill); Senior Executive Technician, Environment
+(Ms. K. Butler); Clerical Officer (Ms. H. O'Neill); Senior Executive Technician, Environment
 and Climate Action (Mr. B. Henry).
 
 ON-LINE:
@@ -51,12 +52,12 @@ Director of Services, Transportation & Mobility (Mr. 8. Kennedy)
 1. Adoption of Minutes
 
 (i) Circulated copy of draft Minutes of Monthly Meeting of the Municipal District of
-Cappamore-Kilmallock held on 11° December, 2024.
+Cappamore-Kilmallock held on 11"* December, 2024.
 (Copies Enclosed)
 
 The Cathaoirleach (Councillor Ryan (M) welcomed all to the meeting wishing all well for the
 New Year ahead and wished Councilor Ryan (E) well in his recovery following a recent
-medica! procedure
+medical procedure
 
 The Cathaoirleach also thanked all the staff both indoor and outdoor of the Cappamore-
 Kilmallock Municipal District for their efforts during recent adverse weather conditions.
@@ -64,7 +65,9 @@ Kilmallock Municipal District for their efforts during recent adverse weather co
 All Members concurred with the sentiments of the Cathaoirleach Councilor Martin Ryan.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councilor Conway (G) referred to local community contractors who had provided assistance
@@ -89,7 +92,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
-2. _—- Matters Arising
+2. _— Matters Arising
 
 Councillor Teefy (B) requested an update on the out of order flashing light signage in the
 District.
@@ -108,7 +111,9 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 There was no interest declared.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Property Disposal
@@ -145,10 +150,12 @@ Elected Members previously and the Meetings Administrator would arrange for re-
 circulation of same.
 
 Cathaoirleach Councillor Ryan (M) thanked the Deputation and commended them on all the
-great works carried out by them on the Kiiteely and Dromkeen burial grounds.
+great works carried out by them on the Kilteely and Dromkeen burial grounds.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -188,7 +195,9 @@ DOS Brian Kennedy, Transportation & Mobility advised contact be made by local re
 with the local Garda Roads Policing Unity to carry out speed checks at this location.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “| will move at the next meeting of the Cappamore-Kilmallock Municipal District that a
@@ -225,7 +234,9 @@ ready for a Category 1 RRDF application in the future. The deadline for the Cate
 application is the 14" March 2025.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Conway
@@ -255,7 +266,7 @@ invited to attend the February meeting of the Municipal District and agreed to f
 contact details for this group to the Meetings Administrator.
 
 It was also agreed a workshop on the Corporate Plan 2024-2029 would be convened for
-Wednesday 5“ of February, 2025 at 1pm in Aras Mainchin Seoige, Kilmallock with
+Wednesday 5" of February, 2025 at 1pm in Aras Mainchin Seoige, Kilmallock with
 Consultant Sean O Riordan in attendance.
 
 A discussion followed on Housing in the Area, and the Members requested that Micheal T.
@@ -273,4 +284,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:6]]
+

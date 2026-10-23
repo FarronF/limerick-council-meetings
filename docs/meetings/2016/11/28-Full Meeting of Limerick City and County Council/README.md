@@ -24,15 +24,15 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_council_meeting_281116.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2028th%20November%202016.md)
+Agenda - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_council_meeting_281116.pdf) - Text not extracted
 
-Minutes - Meeting of Limerick City and County Council - 19th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_council_meeting_190916.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2019th%20September%202016.md)
+Minutes - Meeting of Limerick City and County Council - 19th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_council_meeting_190916.pdf) - Text not extracted
 
-Minutes - Special Meeting of Limerick City and County Council - 21st October 2016 @ 2.30pm.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_special_meeting_211016_-_2.30_p.m.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20October%202016%20%40%202.30pm.md)
+Minutes - Special Meeting of Limerick City and County Council - 21st October 2016 @ 2.30pm.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_special_meeting_211016_-_2.30_p.m.pdf) - Text not extracted
 
-Minutes - Special Meeting of Limerick City and County Council - 21st October 2016 @ 3pm.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_special_meeting_211016_-_3_p.m.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20October%202016%20%40%203pm.md)
+Minutes - Special Meeting of Limerick City and County Council - 21st October 2016 @ 3pm.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_special_meeting_211016_-_3_p.m.pdf) - Text not extracted
 
-Minutes - Budget Meeting of Limerick City and County Council - 11th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_budget_meeting_111116.pdf) - [Extracted text](./Minutes%20-%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2011th%20November%202016.md)
+Minutes - Budget Meeting of Limerick City and County Council - 11th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_budget_meeting_111116.pdf) - Text not extracted
 
 Disposal of Land - Garryowen - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/disposal_of_land_-_garryowen.pdf) - Text not extracted
 
@@ -52,9 +52,9 @@ Chief Executive's Report - October 2016 - September 2016 - Meeting of Limerick C
 
 Murroe Twinning Project - October 2016 - September 2016 - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/murroe_twinning_project.pdf) - Text not extracted
 
-Chairperson's Report - Travel & Transportation SPC 10_10_16 - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/chairperson27s_report_-_travel_transportation_spc_101016_0.pdf) - Text not extracted
+Chairperson's Report - Travel & Transportation SPC 10/10/16 - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/chairperson27s_report_-_travel_transportation_spc_101016_0.pdf) - Text not extracted
 
-Chairperson's Report - Environment SPC 24_10_16 - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/chairpersons_report_-_environment_spc_241016.pdf) - Text not extracted
+Chairperson's Report - Environment SPC 24/10/16 - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/chairpersons_report_-_environment_spc_241016.pdf) - Text not extracted
 
 Chairperson's Report - Home & Social Dev. SPC - Meeting of Limerick City and County Council - 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/chairperson27s_report_-_home_social_dev._spc.pdf) - Text not extracted
 

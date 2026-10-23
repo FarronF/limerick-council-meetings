@@ -16,32 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 4th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Seirbhis{ Corpardidescha,
-Comhairle Cathrach agus Contae Ludmmnigh,
-il rb Freche ca sto rt
+Comhairle Cathrach Seirtbhis{ Corpardideacha,
+Comhairle Cathrach agus Contae Ludmnigh,
 
-ACN —, ee Cé na gCeannaithe,
-— Limerick City ; Luimneach
+ACN a Sonn anEreEEEEEiE Cé na gCeannaithe,
+— Limerick City ; Luimveach
 & County Council
 Corporate Services,
 Limerick City and County Council,
 Corporate Headquarters.
 Merchants Quay,
-1" March, 2022 Hiner
-EIRCODE V4 EH9O
-t: +353 (0) 61 557150
+1 March, 2022 Hiner
+EIRCODE V94 EH9O
+t: +353 (0) 61 57150
 
-TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE Stason eee
+TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE chai
 
 AChara,
 
 | wish to inform you that a Virtual Meeting of Limerick Joint Policing Committee will take place on
-Friday. 4" March, 2022 at 10.00 a.m.
+Friday. 4” March, 2022 at 10.00 a.m.
 
 Details of the Agenda and attachments to be discussed at the meeting are set out hereunder :
 
@@ -51,7 +51,7 @@ Laura Flannery
 Senior Executive Officer
 Corporate Services, Governance & Customer Services
 
-seceeccceccccncccsceccccenccccensscncssccscnscscescccnceseesecscccnccnesecnssceesesesssesesses sees mees eee cecceweeeecceses -cceces eee ee
+seceeecccccccnccwscecccsenecscensscacccccscnscsccscccscesecsecsescncsnesecnssceesesesssecesces sees meee ene cecceweeeecccses -ccece— eee ee
 
 AGENDA
 
@@ -69,17 +69,19 @@ Siochana Act 2005
 6. Question submitted by Maurice Quinlivan, T.D.:
 
 ‘| will ask at the next meeting for an update on the ongoing An Garda Siochdna Garda and
-Limerick Council operation “Operation Copég” in the St. Mary's Park area and if there have
+Limerick Council operation “Operation Copég" in the St. Mary's Park area and if there have
 been any targeted raids in the period since the last meeting of the Joint Policing Committee
 meeting’.
 @ customerservices@limerick.le
 © wwew.limerick.ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Maurice Quinlivan, T.D.:
@@ -96,4 +98,6 @@ been taken to ensure the safety of women in public spaces following the tragic d
 Ashling Murphy’.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-20th-november-2023.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-20th-november-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -86,7 +87,9 @@ And Resolved:
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
----
+
+[[PAGE_END:1]]
+
 2
 
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
@@ -156,7 +159,9 @@ The report, as circulated, was noted by Members.
 **4. Part 8 Procedure – Proposed Limerick City Pedestrian Wayfinding & Orientation Signage**
 
 Circulated, Report of the Director of Services, Planning, Environment and Place-Making dated 9th
----
+
+[[PAGE_END:2]]
+
 3
 
 November, 2023 and enclosed Chief Executive’s Report dated 8th November, 2023 setting out
@@ -234,7 +239,9 @@ areas):
 ***pedestrians to walk.***
 
 **REPLY**: The Cleansing Section is currently sweeping the Old Cork Road on a weekly basis, this will
----
+
+[[PAGE_END:3]]
+
 4
 
 continue until all leaf fall has been removed, subject to available resources.
@@ -320,7 +327,9 @@ be reset to the required level to provide positive drainage for the road.
 for completion is the end of April 2024 based on current status.
 
 **10.Question submitted by Councillor J. Leddin**
----
+
+[[PAGE_END:4]]
+
 5
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick to extend winter closing***
@@ -396,7 +405,9 @@ including the University of Limerick.
 **13.Question submitted by Councillor S. Kiely**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick that a bus stop and***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***pedestrian crossing be installed on the Ballysimon Road as soon as possible.***
@@ -510,7 +521,9 @@ managed by the Housing Agency and is available
 where a household faces the termination of their
 
 tenancy due to the landlord’s intention to sell the
----
+
+[[PAGE_END:6]]
+
 7
 
 property. To be eligible for consideration the net
@@ -602,7 +615,9 @@ One 15 Tonne Road sweeper all year round on a rota basis between the four MDs.
 **No**
 
 **Status**
----
+
+[[PAGE_END:7]]
+
 8
 
 30
@@ -686,7 +701,9 @@ Grants or the Grass Cutting Contract.
 ceremony for the switching on of the Christmas lights in the City Centre due to the high
 
 costs associated with managing an event of this scale. It is considered that the Council
----
+
+[[PAGE_END:8]]
+
 9
 
 budget available for Christmas in Limerick 2023 is best directed towards achieving the full
@@ -760,7 +777,9 @@ with an Garda Siochána in relation to same.
 ***funds applied for, and drawn down, by Limerick City and County Council from the Department of***
 
 ***Tourism, Culture, Arts, Gaeltacht, Sport and Media for the six years of 2018 to 2023 inclusive.***
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**: I set out below the total arts and culture funds applied for, and drawn down from the
@@ -868,7 +887,9 @@ environmental issues.
 ***Team identify and implement contraflow cycle routes to improve cyclability and create a denser***
 
 ***cycle network in line with the provisions of the new national cycle manual.***
----
+
+[[PAGE_END:10]]
+
 11
 
 The Notice of Motion was proposed by Councillor Novak Uí Chonchúir, seconded by Councillor
@@ -942,7 +963,9 @@ period, he noted that if Members collectively voluntarily agreed to declare the 
 poster free, it will help improve the visual look of the city, reduce littering and save on the costs of
 
 printing and erecting same.
----
+
+[[PAGE_END:11]]
+
 12
 
 Members welcomed this Motion and agreed that with the advent of social media and digital
@@ -1024,7 +1047,9 @@ for Vacant Property adopted as part of Budget 2024. The suggestion in relation t
 displays is noted and the Council will consider this as part of its continued engagement with
 
 property owners of planning for Christmas 2024.
----
+
+[[PAGE_END:12]]
+
 13
 
 We recognise the importance of creating a festive atmosphere and supporting local
@@ -1094,7 +1119,9 @@ advertisement of road closure notices is charged to applicants.
 **34.Notice of Motion submitted by Councillor C. Sheehan**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council revises***
----
+
+[[PAGE_END:13]]
+
 14
 
 ***its policy for the installation of speed ramps so that following on from a plebiscite of residents***
@@ -1170,7 +1197,9 @@ In proposing the Motion, Councillor Hartigan highlighted the need for a database
 Council housing to ensure they can be tackled at an early stage and ensure that tenant's
 
 accommodation is maintained properly.
----
+
+[[PAGE_END:14]]
+
 15
 
 **REPLY**: Limerick City and County Council are currently preparing documents to go out for tender to
@@ -1244,7 +1273,9 @@ In proposing the Motion, Councillor O’Sullivan referred to the successful Ligh
 areas and the positive atmosphere it could create in Limerick. She highlighted that preparations
 
 should commence early in the year for Christmas 2024.
----
+
+[[PAGE_END:15]]
+
 16
 
 **REPLY**: Unfortunately the Council are not in a position to implement a Light Trail for Christmas in
@@ -1302,4 +1333,6 @@ This concluded the Meeting.
 **Dated:** **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:16]]
+

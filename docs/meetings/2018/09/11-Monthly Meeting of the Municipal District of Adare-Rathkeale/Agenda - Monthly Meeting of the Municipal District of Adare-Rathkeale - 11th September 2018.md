@@ -16,19 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%2011th%20September%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%2011th%20September%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 
 Luim Comhairle Cathrach agus Contae Luimnigh.
 
-, Aenea ticks sd = Aras Séan Finn.
-° ° 5 Line Nua,
-
-—=-— Limerick City Rath Caola.
+oe Beech ticks id = Aras Séan Finn.
+—=-_> Limerick City Rath Caola.
 & County Council Co. Luimnigh.
 
 Adare-Rathkeale Municipal District.
@@ -44,8 +43,8 @@ Rathkeale,
 Co, Limerick.
 
 5" September, 2018. EIRCODE V94 HKIV
-t —_ (0) = 64047
-f+ 8) 63188
+t a (o) = 64047
+f+ (0 63188
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 Rathkeale
 
@@ -56,12 +55,12 @@ Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 11th Septemb
 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-[fi
+fi
 Karen Butler,
 
 Meetings Administrator.
 
-ee eee eee ee wen en teen enna ene meee ener nna n nen ne rere nee es eee eenr ener ness ne etea ements a neween aeeneeessseeees anne eee,
+ee eee eee ee ree een cena nee ene ween nnn n en en entre rene ee eee nen eee neness ne eten ae neerenneeeen aeeeeeessseeees anne eee ee,
 
 AGENDA
 
@@ -79,14 +78,16 @@ To consider the Chief Executive's Report, in accordance with the Planning & Deve
 Acts 2000 (as amended) and Part VIII of the Planning & Development Regulations 2001 (as
 
 amended).
-wcuncdhnpiasiasaélls
-Ceanncheathnii Chorpardideach, Cé na gCeannaithe,Luimneach | wew limerick ie
+mcuncthnpiasiasaéllse
+Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach | weew Himerick ie
 Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -109,7 +110,7 @@ Footpath from Kildimo to the Beer Garden Public House
 To note update on the footpath from Kildimo Village to the Beer Garden Public House.
 
 (Copy Enclosed)
-Traffic Calmin, ilcorn
+Traffic Calmin ilcorn
 To note update on proposed traffic calming scheme for Kilcornan.
 
 (Copy Enclosed)
@@ -129,7 +130,9 @@ To note update on proposals to address the flooding issues in Askeaton.
 te
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -145,6 +148,7 @@ te
 15.
 
 (Copy Enclosed)
+
 Flooding Issues in Foynes
 
 To note update on flooding issues in Foynes.
@@ -174,4 +178,6 @@ design/master plan for Shanagolden Village to incorporate traffic calming measur
 the R521 Newcastle West to Shanagolden road.
 
 
----
+
+[[PAGE_END:3]]
+

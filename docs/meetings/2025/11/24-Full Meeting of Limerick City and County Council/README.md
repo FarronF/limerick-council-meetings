@@ -46,7 +46,7 @@ Disposal of 0.0121 Acres (0.0049 Hectares) of land at 9 St. Joseph Street, Limer
 
 Disposal of 1.6917 Acres (0.06846 Hectares) of land at Ballyorgan, Co Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/disposal-of-1.6917-acres-0.06846-hectares-of-land-at-ballyorgan-co-limerick.pdf) - Text not extracted
 
-Disposal of Area _A_ - 0.022 Acres (0.009 Hectares)  and Area _B_ - 0.013 Acres (0.0052 Hectares) of land at Childers Road, Limerick to CIE.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/03-f-disposal-land-at-childers-road-limerick-to-cie.pdf) - Text not extracted
+Disposal of Area "A" - 0.022 Acres (0.009 Hectares)  and Area "B" - 0.013 Acres (0.0052 Hectares) of land at Childers Road, Limerick to CIE.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/03-f-disposal-land-at-childers-road-limerick-to-cie.pdf) - Text not extracted
 
 Disposal of 0.0069 Acres (0.0028 Hectares) of land at Churchtown, Newcastle West, Co Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/disposal-of-0.0069-acres-0.0028-hectares-of-land-at-churchtown-newcastle-west-co-limerick.pdf) - Text not extracted
 

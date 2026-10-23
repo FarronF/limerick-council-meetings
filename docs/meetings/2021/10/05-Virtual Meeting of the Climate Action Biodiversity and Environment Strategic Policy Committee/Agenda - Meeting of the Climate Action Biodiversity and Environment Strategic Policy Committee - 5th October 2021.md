@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20210920-agenda-cabe-spc.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 5th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20210920-agenda-cabe-spc.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **27 September, 2021**
@@ -46,7 +47,9 @@ The business to be transacted is set out in the appended agenda.
 **PLANNING, ENVIRONMENT AND PLACEMAKING DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -104,4 +107,6 @@ this chemical from any contractors who provide weed control / spraying to Limeri
 City and County Council and that of our own staff members also, given the possible
 
 health implications of its use on wildlife, domestic pets and people.
----
+
+[[PAGE_END:2]]
+

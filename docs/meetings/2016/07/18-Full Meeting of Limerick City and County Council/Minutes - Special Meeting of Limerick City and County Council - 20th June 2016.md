@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20June%202016.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 20th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -72,7 +73,9 @@ Hospital and that she was also a strong advocate on behalf of the business commu
 rate payers. Despite losing her seat in 1985, it was said that Win continued to campaign on
 
 many issues including the need for more gender balance in politics.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members expressed their condolences to the family of Jo Cox, MP, stating that her death
@@ -150,4 +153,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

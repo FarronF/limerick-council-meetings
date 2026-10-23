@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-2021-06-02-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 2nd June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-2021-06-02-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_———_— Comhairle Cathrach Cciche Bardais an Chaisleain Nua Thiar,
-& Contae Luimnigh Comhairle Cathrach agus Contae Lumnigh
-= , g Aves Wilkamn aaa chor
-an s . a Ls a,
-—<—> Limerick City _ An Caislean Nua Thiar,
+ee Comhairle Cathrach Dciche Bardais an Chaisleain Nua Thiar,
+& Contae Luimnigh Comhairle Cathrach agus Contae Luumnigh
+A a Aves Willan Smith O'Brien,
+= Limerick Cit cnr
+— y An Caisloan Nua Thiar,
 
 & County Council Co. Lusmnigh,
 
 Neercaslie West Municipal District,
-Limerick Cay and County Council,
+Limerick City and County Council,
 Ares William Smith O'Brien,
 
 Gortboy,
 Newcastle West,
 Co. Limerick.
-28" Make a2 bacey7s
+28" Mave a2 barev7s
 t: +353 (0) 69 62100
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 A Chomhairleoir, a chara,
@@ -63,7 +64,7 @@ To receive update on the Abbeyfeale Traffic Management Plan.
 
 To discuss illegal dumping within the Municipal District of Newcastle West.
 
-& customerservices@limerick.ic
+& customerservices@limerick.ie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wewwlimerickie
 Corporate Headquarters, Merchant's Quay, Limerick
 
@@ -71,7 +72,9 @@ Corporate Headquarters, Merchant's Quay, Limerick
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -124,7 +127,9 @@ crossings along the R522 at North Road and Liscarroll Road, Dromcolloger will ta
 place.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -151,7 +156,7 @@ indicator at or near the speed limit sign on the Southern side of Feohanagh vill
 
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor L. Galvin
-| will move at the next Meeting that this Council will support the progress of the
+! will move at the next Meeting that this Council will support the progress of the
 Abbeyfeale Traffic Management Plan. This plan has passed the Part 8 process and
 has also been passed by the Working Group.
 | will move at the next Meeting that this Council LCCC call on the Minister for Justice
@@ -187,4 +192,6 @@ Monagea National School be renewed.
 Correspondence.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-meeting-of-metropolitan-district-of-limerick-17th-may-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-meeting-of-metropolitan-district-of-limerick-17th-may-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+ail Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
 & County Council
 
-To: Th n Member of the Metro.
+To: Th n Member of the Metro
 
 A Chomhairleoir, a chara,
 
 Seirbhisi Corpartideacha,
 
-Comhairle Cathrach agus Contae Luimnigh,
+Comnairie Cathrach agus Contae Luimnigh,
 Ceanncheathré Chorparaideach,
 
 Cé na gCeannaithe,
@@ -80,14 +81,16 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 m customerservices@limerick.te
-© wvew limerick.ie
+© wevew limerick.ie
 
 w @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanala
@@ -127,7 +130,9 @@ engaged with the Council under the Repair and Lease Scheme to upgrade houses and
 of these houses per Electoral Area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor C. Slattery
@@ -169,7 +174,9 @@ possible use of solar compacting bins.
 measures and interventions in housing estates that have been designated a “30kph Slow Zone”.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor J. Collins
@@ -214,7 +221,9 @@ Clonmacken Part 8 housing development and if the Council could issue an explanat
 delay.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Question submitted by Councillor C. Sheehan
@@ -255,7 +264,9 @@ County Council engage with hospitality traders, other local traders and An Garda
 plans in place to create a designated outdoor dining area in Limerick City Centre.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next Meeting of the Metropolitan District of Limerick that road space on the
@@ -276,4 +287,6 @@ Environment and Climate Change to roll out the initiative nationwide.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

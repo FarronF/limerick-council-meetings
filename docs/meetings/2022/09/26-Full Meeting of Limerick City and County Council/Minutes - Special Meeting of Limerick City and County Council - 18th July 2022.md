@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28d%29%20Minutes%20Special%20Meeting%2018.07.2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 18th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28d%29%20Minutes%20Special%20Meeting%2018.07.2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON
@@ -82,7 +83,9 @@ elected as Cathaoirleach of Limerick County Council in 2009, which was a great h
 him and his family. The Deputy Mayor added that he was always full of life and full of energy,
 
 stating that he made a major contribution to his community during his time in the Council.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Mayor for calling the Special Meeting. They recalled David as an
@@ -132,4 +135,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

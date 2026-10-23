@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_december_2014.pdf)
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_december_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Seirbnis{ Corparaéideacha agus Bainistiocht Athruithe,
+_—_—_—_ Seirbnis{ Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ANF : Cé na gCeannaithe,
-—=—> : Luimneach
+—=~_> : Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL e aaace
+COUNCIL apace
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -49,13 +50,13 @@ Monday, 15'" December, 2014, at 4.00 p.m. in relation to the Year of Culture
 
 Is mise le) eas,
 
-Kt. ~
-
 Meetings Administrator.
 
-@ customerservices@limerickie
-Ceanncheathni Chorpardideach, Cé Lappe Luimneach © woewlimerickie
+= customerservices@limerickie
+Ceanncheathni Chorpardideach, Cé Brower Luimneach © wowlimerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

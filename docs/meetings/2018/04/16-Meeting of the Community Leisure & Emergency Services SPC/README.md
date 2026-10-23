@@ -30,5 +30,5 @@ Minutes - Meeting of the Community Leisure & Emergency Services SPC - 19th Febr
 
 Draft Limerick Integration Plan - Meeting of the Community Leisure & Emergency Services SPC - 16th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Item%203%20Draft%20Integration%20Plan%202017-21.pdf) - Text not extracted
 
-Update Get Ireland Active_ National Physical Activity Plan for Ireland and Get Ireland Walking - Meeting of the Community Leisure & Emergency Services SPC - 16th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Item%204%20Update%20NPAP%20and%20GIW.pdf) - Text not extracted
+Update Get Ireland Active: National Physical Activity Plan for Ireland and Get Ireland Walking - Meeting of the Community Leisure & Emergency Services SPC - 16th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Item%204%20Update%20NPAP%20and%20GIW.pdf) - Text not extracted
 

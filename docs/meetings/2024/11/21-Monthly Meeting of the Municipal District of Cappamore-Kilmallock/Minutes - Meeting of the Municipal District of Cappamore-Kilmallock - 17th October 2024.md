@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-17th-october-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-17th-october-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -68,7 +69,9 @@ Cappamore-Kilmallock held on 19th September, 2024.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising
 
 Councillor Teefy referred to her motion regarding 60kmph speed zone in Brackvone
@@ -116,7 +119,9 @@ at 5 Ash Hill, Kilmallock, Co. Limerick.
 September, 2024 setting out proposals for the disposal of freehold interest in
 
 property at 5 Ash Hill, Kilmallock, Co. Limerick.
----
+
+[[PAGE_END:2]]
+
 Councillor Carey (PJ) excused himself from meeting while this item was being discussed.
 
 Following discussion this Disposal was noted by Members.
@@ -190,7 +195,9 @@ the General Municipal Allocation of the Cappamore-Kilmallock Budgetary Plan 2025
 **General Municipal Allocation**
 
 **327,600**
----
+
+[[PAGE_END:3]]
+
 Proposed:
 
 Councillor Ryan (E)
@@ -254,7 +261,9 @@ Audrey Crowe, Administrative Officer responded saying the derelict nature of the
 has to be addressed and added the staff of the Property Management are available to engage
 
 with the owners of Derelict properties and Elected Members if required.
----
+
+[[PAGE_END:4]]
+
 Councillor Ryan (M) asked more work be invested in tracing ownership of derelict properties
 
 as some owners may not be aware of dereliction notices being placed on doorways of
@@ -312,7 +321,9 @@ NOTICES OF MOTION
 Limerick City and County Council would implement a programme of establishing
 
 Playgrounds throughout our municipality targeting Teenagers.
----
+
+[[PAGE_END:5]]
+
 *In proposing this motion Councillor Ryan (M) told the meeting following observations and local*
 
 *representation he had observed certain cohorts of young people in local communities who are*
@@ -372,7 +383,9 @@ In September 2024, Limerick City and County Council served statutory notices of 
 acquire compulsorily a further seven derelict sites pursuant to section 15 of the Derelict Sites
 
 Act, 1990 (as amended).
----
+
+[[PAGE_END:6]]
+
 One of the derelict sites intended to be acquired compulsorily by the Council, consists of a
 
 unit of three two-storey, terraced dwellings at 4 ,5 and 6 Orr Street Close, Kilmallock, case ref.
@@ -430,7 +443,9 @@ most appropriate funding authority to consider the provision of a budget.
 **Proposed: Councillor Teefy**
 
 **Seconded: Councillor M. Ryan**
----
+
+[[PAGE_END:7]]
+
 *Councillor Teefy (B) also requested Active Travel Department install a footpath for pedestrians*
 
 *at this location.*
@@ -484,7 +499,9 @@ earlier this week in relation to the above query.
 Cappamore Foileen Public Water Supply that the Boil Water Notice issued on 26 September
 
 2023 remains in place.
----
+
+[[PAGE_END:8]]
+
 This notice was issued as a precautionary measure to protect the health of approximately
 
 2,300 customers. The notice was put in place due to the detection of cryptosporidium in the
@@ -546,7 +563,9 @@ on BWNs. Customers are reminded that the water is safe to consume once boiled.�
 \* Preparation of salads and similar foods, which are not cooked prior to eating; 
 
 \* Brushing of teeth;
----
+
+[[PAGE_END:9]]
+
 \* Making of ice - discard ice cubes in fridges and freezers and filtered water in fridges.
 
 Make ice from cooled boiled water.  
@@ -612,7 +631,9 @@ Thank you for using Uisce Éireann’s Local Representative Support Desk.
 Yours sincerely,
 
 Geraldine Torreon
----
+
+[[PAGE_END:10]]
+
 Local Representative Support Desk
 
 Uisce Éireann
@@ -682,7 +703,9 @@ Uisce Éireann
 Bosca PO 860, Oifig Sheachadta na Cathrach Theas, Cathair Chorcaí, Éire
 
 Uisce Éireann
----
+
+[[PAGE_END:11]]
+
 Uisce Éireann, PO Box 860, South City Delivery Office, Cork City
 
 Telephone: 0818 178 178
@@ -744,7 +767,9 @@ is investing over €8m to improve water supply for 1,700 customers, improve net
 resilience while also supporting future social and economic development. The initial stage of
 
 this project is now complete with the construction of 6km of new pipeline connecting
----
+
+[[PAGE_END:12]]
+
 Croom to the Clareville Water Treatment Plant in Limerick City. This will improve the
 
 capacity of the existing water network and connect new proposed developments in the
@@ -806,7 +831,9 @@ Works are to commence on both sites in late October and will take 6 months to co
 after which the houses will return to active housing stock.
 
 **The Questions were taken as read.**
----
+
+[[PAGE_END:13]]
+
 Any Other Business
 
 Councillor Ryan (E) referred to local resident parking in Hospital town saying a number of
@@ -844,4 +871,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:14]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20Ordinary%20Meeting%2008.07.2019.pdf)
+**Original file:** [Minutes  - Full Meeting of Limerick City and County Council - 8th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20Ordinary%20Meeting%2008.07.2019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN**
 
 **THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 8TH** **JULY, 2019 AT 3PM.**
@@ -88,7 +89,9 @@ He stated that the Chief Executive faced a city and county that was getting back
 after the economic recession, recovering from challenging social problems and divided, from
 
 an administrative perspective. Deputy Mayor Teskey stated that while we respect your
----
+
+[[PAGE_END:1]]
+
 2
 
 decision to move on to pastures new and, we wish you well on this new phase of his life, we
@@ -172,7 +175,9 @@ partners. He concluded by with a quote from John Lennon who said
 *nobody liking you. You’ve just got to make the decision about what you think is your best, an**d*
 
 *do it.”*
----
+
+[[PAGE_END:2]]
+
 3
 
 On behalf of the people of Limerick, go raibh mile maith agat and go n-eiri an bothar leat.
@@ -256,7 +261,9 @@ projects such as Cleeves site, Gardens International and Mungret and how these p
 broke new grounds. Cllr Leddin thanked the Chief Executive and wished him well for the
 
 future.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr Leddin (B), on behalf of the Green Party, congratulated the Chief Executive on 40 years
@@ -336,7 +343,9 @@ Seconded by Councillor Collins (M);
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:4]]
+
 5
 
 **3.**
@@ -422,7 +431,9 @@ particulars of which were contained in Statutory Notice dated 12th June, 2019.�
 Circulated, copy of Statutory Notice dated 12th June, 2019, concerning disposal of land
 
 at Bohergar, Brittas, Co. Limerick.
----
+
+[[PAGE_END:5]]
+
 6
 
 Proposed by Councillor O’Hanlon;
@@ -504,7 +515,9 @@ also give an opportunity for thematic groups to be set up. Director of Services,
 confirmed that a staff member has been assigned to work with the PPN and is confident that
 
 the process will be completed in the near future.
----
+
+[[PAGE_END:6]]
+
 7
 
 As Chairman of the Community, Leisure and Cultural SPC, Councillor O’Hanlon requested an
@@ -572,7 +585,9 @@ Seconded by Councillor O’Hanlon;
 “That, Councillor Donegan be appointed to the Local Traveller Accommodation Consultative
 
 Committee”.
----
+
+[[PAGE_END:7]]
+
 8
 
 As there were no other nominations, the Meetings Administrator declared Councillors Daly,
@@ -638,7 +653,9 @@ Seconded by Councillor Sheahan (J);
 “That, Councillors Donegan and Murphy be appointed to the Board of Ballyhoura
 
 Development Limited.
----
+
+[[PAGE_END:8]]
+
 9
 
 As there were no other nominations, the Meetings Administrator declared Councillors
@@ -708,7 +725,9 @@ Limited.
 The Meetings Administrator advised that Limerick City and County Council was required to
 
 consider the nomination of 2 Members to the Hunt Museums’ Trust.
----
+
+[[PAGE_END:9]]
+
 10
 
 Proposed by Councillor Collins (M);
@@ -768,7 +787,9 @@ As there were no other nominations, the Meetings Adminstrator declared Councillo
 (B), Collins (J), Galvin, Keary, Kiely, Murphy, Ryan (M), Sheahan (M), Sheehan, Slattery,
 
 Talukder and Teskey appointed to the Joint Policing Committee.
----
+
+[[PAGE_END:10]]
+
 11
 
 **(h)**
@@ -838,7 +859,9 @@ Limited.
 Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
----
+
+[[PAGE_END:11]]
+
 12
 
 “That, Councillor O’Hanlon be appointed to the Board of Moyross Community Enterprise
@@ -902,7 +925,9 @@ Limerick.
 Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Galvin;
----
+
+[[PAGE_END:12]]
+
 13
 
 “That, Councillor Collins (J), O’Sullivan and Ryan (E) be appointed to the Board of Innovate
@@ -970,7 +995,9 @@ Councillors Benson, Carey, Costelloe, Daly, Hartigan, Kilcoyne, Leddin (B), Ledd
 O’Donovan, O’Donoghue, Secas, Sheehan, Teefy.
 
 The Meetings Administrator declared Councillor Teefy appointed to the Audit Committee.
----
+
+[[PAGE_END:13]]
+
 14
 
 Proposed by Councillor Sheahan (J);
@@ -1034,7 +1061,9 @@ Seconded by Councillor Collins (M);
 As there were no other nominations, the Meetings Administrator declared Councillors Keary
 
 and Ryan (E) appointed to the Rural Water Monitoring Committee.
----
+
+[[PAGE_END:14]]
+
 15
 
 **(q)**
@@ -1110,7 +1139,9 @@ Circulated, report of the Director of Service, Physical Development dated 3rd Ju
 enclosing draft Limerick City and County Council Climate Change Adaptation Strategy 2019 -
 
 2024 and Report on Public Consultation.
----
+
+[[PAGE_END:15]]
+
 16
 
 Members welcomed the Strategy and acknowledged the importance of this Strategy in the
@@ -1194,7 +1225,9 @@ and 8th June, 2019.
 Tullamore, Co. Offaly on 9th October, 2019.
 
 The Council approved the attendance of the following Members:
----
+
+[[PAGE_END:16]]
+
 17
 
 **Conference “Cross Border Tourism Conference 2019”** **Carlingford, Co. Louth.**
@@ -1286,7 +1319,9 @@ for various services, should they wish.
 461 households
 
 €2.9 million
----
+
+[[PAGE_END:17]]
+
 18
 
 2019\*
@@ -1378,7 +1413,9 @@ Cases will always be addressed.
 ***I will ask at the next meeting for a timeframe for the completion of the Limerick Shannon***
 
 ***Metropolitan Area Transport Strategy.***
----
+
+[[PAGE_END:18]]
+
 19
 
 **REPLY:**
@@ -1458,7 +1495,9 @@ account of current and predicted population, National Planning Framework
 objectives, national transport policies, existing plans and strategies in the
 
 region and existing transport assets.
----
+
+[[PAGE_END:19]]
+
 20
 
 Progress to date has included the collation of data in relation to land use
@@ -1536,7 +1575,9 @@ We committed to removing the current batch of Voids by June 2020,
 understanding that the return of properties, for various reasons, takes place
 
 on an on-going basis.
----
+
+[[PAGE_END:20]]
+
 21
 
 To manage the issue we have introduced a fast-track process that will see a
@@ -1612,7 +1653,9 @@ is causing.
 **the brick lodge and the roundabout on the N69 at Clarina Village as there already has been**
 
 **numerous fatalities at this location over the years.**
----
+
+[[PAGE_END:21]]
+
 22
 
 The motion was proposed by Councillor Kilcoyne and seconded by Councillor Collins (J).
@@ -1698,7 +1741,9 @@ With the agreement of the Deputy Mayor, Items 18 and 20 were taken together
 **Call on the Minister for Health Simon Harris TD to make an unannounced visit to**
 
 **Ennis and Limerick hospitals.**
----
+
+[[PAGE_END:22]]
+
 23
 
 **•**
@@ -1792,7 +1837,9 @@ lack of progress to date.
 It was agreed to refer this Motion to the Climate Change and Environment Strategic Policy
 
 Committee.
----
+
+[[PAGE_END:23]]
+
 24
 
 **21.**
@@ -1866,4 +1913,6 @@ amended, was also available on Alfresco for inspection by the Members.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:24]]
+

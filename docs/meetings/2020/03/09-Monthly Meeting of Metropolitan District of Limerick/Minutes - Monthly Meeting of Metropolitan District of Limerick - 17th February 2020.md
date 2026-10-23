@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-minutes-monthly-meeting-17th-february-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-minutes-monthly-meeting-17th-february-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
 **COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 17TH** **FEBRUARY, 2020**
@@ -96,7 +97,9 @@ Circulated, Report of the Head of Property and Community Facilities dated 7th Fe
 2020 setting out proposals to dispose of 0.227 Hectares (0.562 acres) at Ennis Road to
 
 Limerick Gaelic Grounds Limited and the intention to bring a Section 183 Notice to the
----
+
+[[PAGE_END:1]]
+
 2
 
 March Meeting of Council in this regard, for approval.
@@ -172,7 +175,9 @@ February, 2020, enclosing copy of the Chief Executive’s Report dated 7th Febru
 details to resolve to extend the life of the Patrickswell Local Area Plan 2015 – 2021 by a further 5
 
 years from today’s date, in accordance with the provisions of Section 19 of the Planning and
----
+
+[[PAGE_END:2]]
+
 3
 
 Development Act, 2000 (Amended), which provides for the extension of the valid life of a Local
@@ -256,7 +261,9 @@ supervision costs.
 100w LED lamp and photocell €730
 
 (replaces 250W and 400W son)
----
+
+[[PAGE_END:3]]
+
 4
 
 80w LED lamp and photocell
@@ -348,7 +355,9 @@ Chief Executive, Deputy Chief Executive and Director of Service in Economic
 Development. A detailed report will be presented to the next Metropolitan District
 
 meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICES OF MOTION**
@@ -428,7 +437,9 @@ The motion was proposed by Councillor Kilcoyne, seconded by Councillor Hartigan 
 Members supported the motion stating that the facility is urgently required by children and families
 
 with serious, life-limiting conditions.
----
+
+[[PAGE_END:5]]
+
 6
 
 It was agreed to write to the Head of the Political Parties and to write to the new Government when
@@ -496,7 +507,9 @@ be changed to Monday, 9th March, 2020 at 9.45am.
 A vote of sympathy was extended to the family of Garrett Fitzgerald, former CEO of Munster Rugby
 
 who passed away recently. Members observed a minute's silence in his memory.
----
+
+[[PAGE_END:6]]
+
 7
 
 This concluded the Meeting.
@@ -510,4 +523,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

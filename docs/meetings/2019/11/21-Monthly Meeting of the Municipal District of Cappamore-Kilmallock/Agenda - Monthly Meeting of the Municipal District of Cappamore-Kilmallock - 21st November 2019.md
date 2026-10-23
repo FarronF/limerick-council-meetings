@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/03%20Agenda%20Nov%202019%20MD%20Mtg.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/03%20Agenda%20Nov%202019%20MD%20Mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——_— Comhairle Cathrach
+— Comhairle Cathrach
 a & Contae Luimnigh
-a Limerick C
-—— merick City
+oie Limerick C
+———— merick City
 & County Council
 
 A Chomhairleoir, a chara,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ottig an Cheantay, Ares Mhainchin Seoighe,
+Ottig an Cheantaiy, Ares Mhainchin Seoighe,
 Cill Mechealég,
 
 Co. Luimnigh.
@@ -57,7 +58,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Rt lacy
+Kt lack,
 Mark Leahy,
 
 Meetings Administrator.
@@ -71,11 +72,11 @@ Cappamore-Kilmallock held on the 19"” September, 2019.
 (Copy enclosed)
 
 (ii) To consider the adoption of Minutes of Draft Budgetary Plan Meeting of the
-Municipal District of Cappamore-Kilmallock held on the 17'" October, 2019.
+Municipal District of Cappamore-Kilmallock held on the 17" October, 2019.
 
 (Copy enclosed)
 
-(iii) To consider the adoption of Minutes of Meeting of the Municipal District of
+(ili) To consider the adoption of Minutes of Meeting of the Municipal District of
 
 Cappamore-Kilmallock held on the 17" October, 2019.
 
@@ -83,7 +84,9 @@ Comhairle Cathrach agus Contac Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Capital Investment Directorate
@@ -126,7 +129,9 @@ Municipal District refer Limerick City and County Council’s Housing Allocation
 relation to the criteria for allocating social housing.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Notice of Motion submitted by Councillor Martin Ryan
@@ -169,7 +174,9 @@ update on the results of the legal title clarification sought from larnrod Eirea
 relation to part of land in Bruree, which was the subject of recent roadworks.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor Martin Ryan
@@ -186,4 +193,6 @@ Cappamore-Kilmallock Municipal District and also confirm what are the current fe
 applicable for grave spaces.
 
 
----
+
+[[PAGE_END:4]]
+

@@ -30,7 +30,7 @@ Minutes - Meeting of the Cultural SPC - 16th January 2018.pdf - [Original file]
 
 Report on recent workshops to consider the recommended strategic investment priorities identified for the delivery of the Limerick Cultural Strategy in 2018 - Meeting of the Cultural SPC - 5th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%202.pdf) - Text not extracted
 
-Creative Ireland _ Limerick Culture and Creativity Strategic Priorities for 2018 -2022 - Meeting of the Cultural SPC - 5th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%203.pdf) - Text not extracted
+Creative Ireland : Limerick Culture and Creativity Strategic Priorities for 2018 -2022 - Meeting of the Cultural SPC - 5th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%203.pdf) - Text not extracted
 
 Report on findings of research into the Summer Fun Nights programme in Cork - Meeting of the Cultural SPC - 5th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%204.pdf) - Text not extracted
 

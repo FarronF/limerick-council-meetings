@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20Special%20Meeting%20Capparmore%20Kilmallock%202nd%20July%202019.pdf)
+**Original file:** [Agenda - Special Meeting of the Cappamore-Kilmallock Municipal District - 2nd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20Special%20Meeting%20Capparmore%20Kilmallock%202nd%20July%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_———_ Comhairle Cathrach
+_——_ Comhairle Cathrach
 & Contae Luimnigh
-NIN F oO
+NIN F oOoOC———
 
 Limerick City
 = & County Council
 
 Comhairle Cathrach agus Contae Luimnigh,
-Otfig an Cheantaiy, Ares Mhainchin Seoighe.
-Cill Mochealiég.
+Otfig an Cheantair, Ares Mhainchin Seoighe,
+Cill Mochealég.
 
 Co, Luimnigh.
 
 Limerick City and County Council,
 Aras Mainchin Seoighe Area Office.
-Kilmallock,
+Kimallock,
 
 Co. Limerick,
 
@@ -54,15 +55,13 @@ Kilmallock
 A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Cappamore-
-Kilmallock to be held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on
+Kilmaliock to be held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on
 
 Tuesday, 2™ july, 2019 at 3.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-
-Wate
 
 Mark Leahy,
 Meetings Administrator.
@@ -82,4 +81,6 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

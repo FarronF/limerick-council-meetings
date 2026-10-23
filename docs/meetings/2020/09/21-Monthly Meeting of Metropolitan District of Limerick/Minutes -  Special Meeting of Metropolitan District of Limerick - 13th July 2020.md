@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01a-draft-minutes-special-meeting-13th-july-2020.pdf)
+**Original file:** [Minutes -  Special Meeting of Metropolitan District of Limerick - 13th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01a-draft-minutes-special-meeting-13th-july-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 13th** **JULY, 2020 at 11.00**
@@ -92,7 +93,9 @@ Policing Committee to be held on 24th July, 2020 :
 those over 18 when scramblers are seized.
 
  Clarification that bye-laws are not required in relation to scramblers/electric scooters.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Cathaoirleach then adjourned the meeting for five minutes.
@@ -148,4 +151,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

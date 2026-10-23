@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20meeting%2009.07.18.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 9th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20meeting%2009.07.18.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL DEVELOPMENT SPC**
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy Committee
@@ -104,7 +105,9 @@ in this regard
 **request that funding be re-appropriated from property acquisition to fund the repair of voids throughout**
 
 **the city and county’**
----
+
+[[PAGE_END:1]]
+
 **Item 3: Housing Delivery Update**
 
 Mr Seamus Hanrahan presented an update on the Housing Delivery Programme.
@@ -184,7 +187,9 @@ The Chair declared the motion defeated.
 
 
 The following motions were agreed:
----
+
+[[PAGE_END:2]]
+
 **Recommendation 1**
 
 **‘That Limerick City and County Council** **write to the Minister for Housing, Planning and Local Government urging**
@@ -214,4 +219,6 @@ The following motions were agreed:
 Sectoral Interests to be made aware of staff changes.
 
 **Date of next meeting**: Monday 22nd October 2018 at 3.00pm, Corporate Building, Dooradoyle.
----
+
+[[PAGE_END:3]]
+

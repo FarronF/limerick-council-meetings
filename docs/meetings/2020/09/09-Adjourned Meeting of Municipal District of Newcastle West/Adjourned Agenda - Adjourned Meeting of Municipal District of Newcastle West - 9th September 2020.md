@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-i-2020-09-09-adjourned-agenda.pdf)
+**Original file:** [Adjourned Agenda - Adjourned Meeting of Municipal District of Newcastle West - 9th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-i-2020-09-09-adjourned-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ll Comhairle Cathrach
 & Contae Luimnigh
-aAanN , a
+aAanN | a
 
 — Limerick City
 & County Council
 
 3 September, 2020
 
-Duiiche Bardais an Chaisiedin Nua Thiar,
-Comhairte Cathrach agus Contee Lulnnigh,
+Duiche Bardais an Chaisiedin Nua Thiar,
+Comhairle Cathrach agus Contee Lulnigh,
 Aras Wiliam Smith O'Brien,
 
 Gortbui,
@@ -42,12 +43,12 @@ Co. Luimnigh,
 
 Newcastle West Municipal District,
 Limerick City and County Council,
-Aras William Smith O'Bnen,
+Aras William Smith O'Brien.
 Gortboy,
 
 Newcastle Vest,
 
-Co, Umernick
+Co. Umernick
 
 Eircode: V42EH73
 
@@ -64,17 +65,21 @@ a.m., in order to complete the agenda as set out for the Meeting of 2% September
 
 Is mise le meas,
 
-“ncaa = corset
+evant Gt2dt-
+
+Margaret x
 Meetings Administrator.
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 & customerservices@limerick.ie
-© vow limerick.ie
+© vou limerick.ie
 
 @LimerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-9th-july-2024.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 9th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-9th-july-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach
+_——_ Comhairle Cathrach
 & Contae Luimnigh
-AN I 7S
+AmN I a
 
 — — Limerick City
 & County Council
@@ -34,9 +35,9 @@ A Chomhairleoir, a chara,
 
 Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
-Aras Séan Finn.
+Aras Séan Finn
 
-Une Nua
+Line Nua
 
 Rath Caola,
 
@@ -44,7 +45,7 @@ Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council
-Aras Sean Finn,
+Aras Sean Pinn,
 
 New Line,
 
@@ -79,20 +80,22 @@ held on 14” May, 2024.
 
 (b) To adopt Minutes of the Annual Meeting of the Municipal District of Adare-Rathkeale
 
-held on 25™ June, 2024
+held on 25" June, 2024
 
 2. Declaration of Interest
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe,Luimneach !
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach !
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copies Enclosed).
 
 VY @LimerickCouncil
-\ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -133,10 +136,12 @@ Question submitted by Councillor B. Collins
 of Adare has been forwarded to the relevant departments of Limerick City and County
 Council.
 
->?
+>
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -162,4 +167,6 @@ which aims to eliminate digital exclusion.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

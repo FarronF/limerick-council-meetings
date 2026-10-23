@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20October%202017.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 19th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle pcb
-& Contae Luimnig!
-NN 2 —_—_—_——————
+_—_——_ Comhairle precbot
+& Contae Luimnig’
+NN 2 —_—_—_—_——————
 — Limerick City
 & County Council
 
@@ -32,9 +33,9 @@ NN 2 —_—_—_——————
 Seirbhisi Corparaideacha.
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathri Chorparaideach.
+Ceanncheathri Chorparaideach,
 
-Cé na gCearnnaithe,
+Cé na gCearnaithe.
 
 Luimneach
 
@@ -68,7 +69,7 @@ ina Knox,
 
 Meetings Administrator.
 
--_ reese
+esses
 
 AGENDA
 
@@ -105,7 +106,9 @@ w @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -157,7 +160,9 @@ amended to include upgrade of Sewerage Treatment Plants which are not fit for
 purpose.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor B. Teefy
@@ -166,4 +171,6 @@ Notice of Motion submitted by Councillor B. Teefy
 urgency, that extra Gardai be assigned to the Bruff District.
 
 
----
+
+[[PAGE_END:3]]
+

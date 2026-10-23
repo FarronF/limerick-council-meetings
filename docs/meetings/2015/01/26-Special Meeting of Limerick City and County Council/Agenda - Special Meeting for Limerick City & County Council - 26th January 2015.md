@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_for_limerick_city_county_council_-_26th_january_2015_0.pdf)
+**Original file:** [Agenda - Special Meeting for Limerick City & County Council - 26th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_for_limerick_city_county_council_-_26th_january_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 
 Comhairle Cathrach agus Contae Luimnigh,
-ANS ~ Cé na gCeannaithe,
+a al ~ Cé na gCeannaithe,
 
 — Luimneach
 Limerick Corporate Services and Change Management,
@@ -32,7 +33,7 @@ CITY & COUNTY Limerick City and County Council
 
 Merchants Quay,
 
-COUNCIL phen
+COUNCIL phir
 
 21" January, 2015. t: +353 (0) 61 407 100
 
@@ -53,26 +54,35 @@ Is mise le "0
 Eugene Griffin,
 Meetings Administrator.
 customerservices@limerickie
-Ceanncheathru Chorpardideach, Cé na Leperaeaog Luimneach . © wwwalimerickie
+Ceanncheathru Chorpardideach, Cé na Leperseaoon Luimneach . © wwwalimerickie
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-We the undersigned on behalf of the Fianna Fail Party call a Special meeting of Limerick City
-and County Council to discuss the potential impact to the Limerick and Midwest Region of a
+We the undersigned on behalf of the Fianna F.
+and County Council to discuss the potential i
 
-‘eover of Aer Lingus by International Airlines Group (IAG) given the Strategic and balanced
-ional development importance of maintaining the Shannon/Heathrow landing slots.
+‘eover of Aer Lingus by International Ai
+ional development importance of mai
+
+ail Party call a Special meeting of Limerick City
+impact to the Limerick and Midwest Region of a
+lines Group (IAG) given the Strategic and balanced
+intaining the Shannon/Heathrow landing slots.
 
 \
 Loden
 
-(c4 WU
+(te4 CAGE
 
-gues (AGS
+aes (AGL
 
 
 
----
+
+[[PAGE_END:2]]
+

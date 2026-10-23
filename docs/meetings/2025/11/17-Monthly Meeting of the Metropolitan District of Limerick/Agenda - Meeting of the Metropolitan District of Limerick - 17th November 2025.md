@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-metropolitan-district-of-limerick-17th-november-2025.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 17th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-metropolitan-district-of-limerick-17th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-P Seirbhisi Corpardideacha,
+P Seirbhisi Corparsideacha,
 _ Comhairle Cathrach Comhairle Cathwach agus Contae Luimnigh,
 
-& Contae Luimnigh Ceanncheathné Chorpardideach,
-NINA 0 Se ee
+& Contae Luimnigh Ceanncheathnié Chorpardideach,
+NINA 0 Oe
 
 Cé na gCeannaithe,
 
@@ -40,13 +41,13 @@ Corporate Headquarters.
 
 Merchants Quay.
 
-Limerick
+Lirmerick
 
 EIRCODE V4 EH90
 
 t: +353 (0) 61 557150
 & +35 61 415 266
-12 November, 2025. +555 (0) 2
+12" November, 2025. +555 (0) 2
 
 A Chomhairleoir, a chara,
 
@@ -58,7 +59,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Lhotin Aohey
+Ahodin AoAey
 
 Aedin Foley,
 Meetings Administrator.
@@ -74,11 +75,13 @@ mm customerservices@limerick.te
 
 © wwewelimerickie
 
-Ceanncheathni Chorpariideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -117,14 +120,16 @@ the plan this year for the scheme or similar scheme.
 
 7. Question submitted by Councillor U. Gavan
 
-Iwill ask at the next meeting of the Metropolitan District of Limerick can Limerick City and County
+I will ask at the next meeting of the Metropolitan District of Limerick can Limerick City and County
 Council bring clarity to the Park and Ride facility at the Mackey Roundabout in light of the
 temporary announcement from Limerick City and County Council regarding same. Why are lands
 which were bought for a Park and Ride only having a temporary one in time for the Ryder Cup
 and then been returned to its original state.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor U. Gavan
@@ -158,7 +163,7 @@ Capital Asset Value for Amenity Trees (CAVAT) method for valuing trees as public
 monetary value to trees, and calculating compensation for damage or loss. If this method is not
 utilised, what method is used by this local authority for calculating same.
 
-13. Question submitted by Councillor S. Hickey O’Mara
+13. Question submitted by Councillor S. Hickey O'Mara
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on plans to
 secure a site for the proposed Caherdavin Playground.
@@ -173,7 +178,9 @@ authority over the past five years and for an explanation to be provided as to w
 felled.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor D. Butler
@@ -223,12 +230,14 @@ population centres along the route, such as Adare, Patrickswell and Rosbrien / D
 following on from my motion that was passed in October 2024 Metropolitan meeting.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21. Notice of Motion submitted by Councillor E. O’Donovan
 
-I will move at the next meeting of the Metropolitan District of Limerick for at least six week
+| will move at the next meeting of the Metropolitan District of Limerick for at least six week
 intervals for verge cutting in line with local and national biodiversity policies.
 
 22. Notice of Motion submitted by Councillor E. O'Donovan
@@ -262,4 +271,6 @@ Castletroy be ring fenced to build a much needed slip road from the Groody Road 
 Road R445.
 
 
----
+
+[[PAGE_END:5]]
+

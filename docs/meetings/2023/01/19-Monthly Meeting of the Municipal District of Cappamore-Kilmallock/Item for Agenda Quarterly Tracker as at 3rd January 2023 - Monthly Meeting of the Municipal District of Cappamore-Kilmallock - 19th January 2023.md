@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/05%20Item%20for%20Agenda%20Quarterly%20Tracker%20as%20at%203rd%20January%202023%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
+**Original file:** [Item for Agenda Quarterly Tracker as at 3rd January 2023 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/05%20Item%20for%20Agenda%20Quarterly%20Tracker%20as%20at%203rd%20January%202023%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 **%**
 
 **Withdrawn/**
@@ -630,7 +631,9 @@ Leasing Sub-Total as at 3rd January 2023
 **3rd January 2023**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **Delivery Stream**
 
 **Explanation of the Delivery Stream**
@@ -750,4 +753,6 @@ become available to buy.
 **EXPLANATION OF LEASING DELIVERY STREAMS**
 
 (Image omitted)
----
+
+[[PAGE_END:2]]
+

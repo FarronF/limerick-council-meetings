@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-adjourned-march-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
+**Original file:** [Draft Minutes - Adjourned March Meeting of Limerick City and County Council - 20th April, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-adjourned-march-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -116,7 +117,9 @@ Local Community Development Committee Annual Report 2025.
 No. 11
 
 Local Community Safety Partnership.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 No. 12
@@ -208,7 +211,9 @@ Members of the Council must vote in favour of a change to Standing Orders.
 Some Members were not in favour of live-streaming and recording of meetings, noting that
 
 resources could be used better elsewhere, while other Members strongly supported the live-
----
+
+[[PAGE_END:2]]
+
 **3**
 
 streaming and recording of meetings, highlighting the benefits of showing the work carried
@@ -278,7 +283,9 @@ as the Planning and Development Act 2024 no longer provides for the preparation 
 amendment of LAPs. Under the new legislation, the Development Plan will instead
 
 incorporate all settlements that were previously covered by LAPs.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 A variation to re-zone the Sheehy Hardware site cannot proceed in isolation. It would
@@ -352,7 +359,9 @@ properties go through the normal planning process.
 **31.**
 
 **Notice of Motion submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:4]]
+
 **5**
 
 I will move at the next Meeting of Limerick City and County Council to call on the Government
@@ -448,7 +457,9 @@ adjournment, and must complete by 6pm of that day, or be adjourned to another da
 **34.**
 
 **Correspondence**
----
+
+[[PAGE_END:5]]
+
 **6**
 
 This concluded the Meeting.
@@ -462,4 +473,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-special-meeting-of-the-home-and-social-strategic-policy-committee-28th-may-2026.pdf)
+**Original file:** [Minutes - Special Meeting of the Home and Social Strategic Policy Committee - 28th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-special-meeting-of-the-home-and-social-strategic-policy-committee-28th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -88,7 +89,9 @@ Mr. Matthew Fenlon, Corporate and Customer Service
 Mr. Alan Jacques, Limerick Post
 
 Cllr. Dan McSweeney
----
+
+[[PAGE_END:1]]
+
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
 An Cathaoirleach Cllr Stephen Keary opened the meeting and welcomed the members to the Special
@@ -164,7 +167,9 @@ Mr. Moran discussed the Four Pillars of the Affordable Rental Delivery Programme
 •
 
 Speed: Faster delivery of much needed homes using Modern Methods of Construction.
----
+
+[[PAGE_END:2]]
+
 •
 
 Value: it is a better use of public money as rents cover the costs and maintenance with non-
@@ -250,7 +255,9 @@ Mr. Moran explained that if the units did not have the minimum durability of 60 
 not be approved by the DHLGH for planning stage approval. Mr. Moran went on to respond to the
 
 second query, noting that we are not diverting housing delivery in other area, instead we are
----
+
+[[PAGE_END:3]]
+
 delivering a separate programme using public land which does not reduce housing opportunities for
 
 others in the area.
@@ -328,4 +335,6 @@ discretion of the SPC’s Members and Chairperson of that SPC.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:4]]
+

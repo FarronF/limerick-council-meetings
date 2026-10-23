@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20MD%20Meeting%2019th%20July%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20MD%20Meeting%2019th%20July%202018.pdf)
 
----
+[[FILE_START]]
+
 **Limerick City & County Council,**
 
 **Áras Mainchín Seoighe District Office,**
@@ -72,7 +73,9 @@ held on the 5th July, 2018.
 (Copy enclosed)
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -134,4 +137,6 @@ Notice of Motion submitted by Councillor Sheehy
 I will move at the next meeting that Limerick City & County Council immediately erect a
 
 stop sign and put lining at L8566 Cush Crossroads.
----
+
+[[PAGE_END:2]]
+

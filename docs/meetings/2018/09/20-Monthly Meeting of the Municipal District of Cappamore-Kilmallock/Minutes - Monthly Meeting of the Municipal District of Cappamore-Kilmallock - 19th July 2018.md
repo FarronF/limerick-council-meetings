@@ -16,15 +16,16 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/04%20Minutes%20of%20%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20held%20on%20Thursday%2019th%20July%2C%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/04%20Minutes%20of%20%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20held%20on%20Thursday%2019th%20July%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
-THURSDAY, 19" JULY, 2018, AT 3.30 P.M.
+THURSDAY, 19™ JULY, 2018, AT 3.30 P.M.
 
 PRESENT IN THE CHAIR:
 
@@ -60,7 +61,9 @@ And Resolved:
 subject to the amendment outlined above.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii) Circulated, copy of draft Minutes of Annual Meeting of the Municipal District of
@@ -83,8 +86,8 @@ And Resolved:
 
 2. Physical Development Directorate
 
-Re on the D: County of Limerick ation, Sto
-and Presentation of Household a ommercial Waste aws
+Re on the Di County of Limerick ation, Sto
+and Presentation of Household a ommercial Waste jaws
 2018.
 
 Circulated, report on the draft City and County of Limerick (Segregation, Storage and
@@ -105,7 +108,9 @@ Presentation of Household and Commercial Waste) Bye-Laws, 2018, which were propo
 by Councillor Gleeson and seconded by Councillor Sheehy.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. General Municipal Allocation
@@ -150,7 +155,9 @@ graveyard signage so that signage is short but effective. It was also agreed tha
 be enforced at all times to ensure full compliance with the rules.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor B. Teefy
@@ -171,9 +178,9 @@ Estates.
 
 NOTICE OF MOTION
 
-Ze Notice of Motion submitted by Councillor L.M. Sheehy
+Te Notice of Motion submitted by Councillor L.M. Sheehy
 
-I will move at the next meeting that Limerick City & County Council immediately erect a
+| will move at the next meeting that Limerick City & County Council immediately erect a
 stop sign and put lining at L8566 Cush Crossroads.
 
 REPLY: On Monday, 02 July 2018, the Roads Engineer, Diarmuid Sheehy instructed
@@ -194,10 +201,12 @@ welcome addition to Kilmallock, and they complimented Council staff and the cont
 involved in this project.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-« Emergency Services
+* Emergency Services
 
 The Members praised the work of the emergency services and Council staff following some
 recent car crashes and a fire in the District and acknowledged the work done by all under
@@ -231,9 +240,13 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

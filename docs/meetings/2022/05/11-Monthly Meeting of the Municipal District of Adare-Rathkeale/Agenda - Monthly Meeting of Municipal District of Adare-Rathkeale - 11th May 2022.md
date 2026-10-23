@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%2011th%20May%2C%202022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%2011th%20May%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ie Comhairle Cathrach
+i Comhairle Cathrach
 & Contae Luimnigh
-a ‘
+NTN x
 
 — Limerick City
 & County Council
@@ -40,10 +41,10 @@ Line Nua,
 
 Rath Caola,
 
-Co, Luimunigh.
+Co, Luimnigh.
 
 Adare-Rathkeale Municipal District,
-Limenck City and County Council,
+Limerick City and County Council,
 Aras Sean Finn.
 
 New Line,
@@ -55,7 +56,7 @@ Co. Limerick.
 EIRCODE V94 HKIV
 
 t: #353 (0) 69 64047
-f: +353 (0) 69 63183
+ft: +353 (0) 69 63183
 
 | District of Adare-Rathkeale
 
@@ -66,7 +67,7 @@ The Woodlands House Hotel, Adare, Co. Limerick on Wednesday 11" May, 2022 at 9.3
 
 business to be transacted is set out on the appended Agenda.
 
-Is mise le meas,
+ls mise le meas,
 
 Karen A
 
@@ -94,16 +95,18 @@ To note proposal for disposal of land as follows:
 (a) Disposal of Land at Bottlehill, Cappagh/Ballinvirick, Co. Limerick.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach 1
-Corporate Headquarters, Merchants Quay, Lirnerick.
+Corporate Headquarters, Merchants Quay, Limerick.
 
 customerservices@limerick.ie
-= © worwlimerick.ie
+= © werwlimerick.ie
 
 @LimerickCouncil
-( 061 - 556 000
+061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10,
@@ -147,4 +150,6 @@ take over of Beechwood Drive Estate, Ballingarry.
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

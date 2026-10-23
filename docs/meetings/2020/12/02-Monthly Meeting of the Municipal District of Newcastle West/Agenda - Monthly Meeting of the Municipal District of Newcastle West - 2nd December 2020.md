@@ -16,45 +16,45 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-12-02-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-12-02-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach PB sorte oe tccerticlpontpelden 5
-& Contae Luimnigh omhaiile Cathrach agus Contae Luimnag!
+__—_ Comhairle Cathrach Duiche Bardals an Choistedin Mua Tar
+& Contae Luimnigh Comhairle Cathwach agus Contae Luimnigh,
 Avas William Smith OBnen
 
-NN A . - - : Gortbui
-
-— Limerick City An Caislean Nua Thiar,
+NN A . . . : Gortbui
+—> Limerick City An Caislean Nua Thar,
 
 & County Council Co, Luimnigh
 
 Newcastle West Municipal District.
-Umenck City and County Council,
+LUmenck City and County Council,
 Aras Wittiam Smith O'Brien,
 
 Gortboy,
 
 27" November, 2020 Newcastle West,
 
-Ca Urmerick,
+Ca Urnerick,
 
 Eircode: V42EH73
 
-To: The Cathaoirleach and Each Member of the Municipal District of Newcastle t aceon
-2 PID2 WV
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle t re
+2 FID2 WV
 
 A Chomhairleoir, a chara,
-
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
+
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 2" December,
 2020, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Margaret Corbett,
+Margaret’ Corbett,
 Meetings Administrator.
 
 AGENDA
@@ -79,14 +79,16 @@ Law and Criminal Law (Miscellaneous Provisions) Act 2020 (Section 29) (Local Aut
 
 (Designation) Order 2020.
 (Report and Circular Enclosed)
-= customerservices@limerick.ie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wevewalimerick.ie
-
+& customerservices@limerick.ic
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevevalimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
+
 (061 - 586 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -109,7 +111,7 @@ house scheme for Local Authority housing.
 | will ask at the next Meeting for an update on the works for Ward's Cross and
 Devon Road Cross.
 
-t will ask at the next Meeting (a2) who owns/ has responsibility for the old railway
+| will ask at the next Meeting (a2) who owns/ has responsibility for the old railway
 store house in Abbeyfeale (b) can the building be boarded to stop antisocial
 behaviour (c) has a derelict site notice been served to the owner.
 
@@ -137,7 +139,9 @@ there are issues with electricity supplies.
 Soccer Club Abbeyfeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -154,4 +158,6 @@ I will move at the next Meeting that consideration be given to reconfiguring the
 flow at Ballykennedy Cross (Dore’s) in the interest of safety.
 
 
----
+
+[[PAGE_END:3]]
+

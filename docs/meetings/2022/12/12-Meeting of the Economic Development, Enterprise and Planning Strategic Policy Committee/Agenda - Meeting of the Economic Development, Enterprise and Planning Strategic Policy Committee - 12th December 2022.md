@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda-Economic-Development-Enterprise-Planning-SPC-Meeting-12th-December-22.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda-Economic-Development-Enterprise-Planning-SPC-Meeting-12th-December-22.pdf)
 
----
+[[FILE_START]]
+
 **25th** **November, 2022**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -60,4 +61,6 @@ Yours sincerely
 ***Cecilia Larkin, A/SEO,***
 
 ***Economic Development & Enterprise Directorate***
----
+
+[[PAGE_END:1]]
+

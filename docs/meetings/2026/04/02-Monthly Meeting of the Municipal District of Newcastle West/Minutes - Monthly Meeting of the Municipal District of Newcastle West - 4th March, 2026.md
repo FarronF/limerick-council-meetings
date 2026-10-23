@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/01-2026-03-04-minutes-march.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 4th March, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/01-2026-03-04-minutes-march.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -90,7 +91,9 @@ Seconded by: Councillor Ruddle
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -164,7 +167,9 @@ Councillor Sheahan €500
 On the proposal of Councillor Foley , seconded by Councillor Collins , it was agreed to allocate
 
 €1,800 to Abbeyfeale St. Patrick’s Day Committee.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Foley €900
@@ -234,7 +239,9 @@ Following its review of the submission, TII requested further clarification on c
 aspects of the updated Feasibility Report. The additional information sought has since
 
 been provided by the MWNRDO and a response from TII is currently awaited.
----
+
+[[PAGE_END:3]]
+
 4
 
 TII has allocated funding in 2026 to enable MWNRDO to undertake additional surveys and
@@ -310,7 +317,9 @@ Question submitted by Councillor T. Ruddle
 ***I will ask at the next*** **Meeting that Limerick City and County Council consider putting ramps**
 
 **and raised platforms on the Knockane/Monegea road to reduce speed.**
----
+
+[[PAGE_END:4]]
+
 5
 
 REPLY:
@@ -374,7 +383,9 @@ formal option approval (PR3) on 15 August 2025. Since then, Limerick City and Co
 OPW has responded that the scheme remains under review with no current timeline advised
 
 for a decision.
----
+
+[[PAGE_END:5]]
+
 6
 
 Limerick City and County Council will now write directly to the Minister of State with
@@ -444,7 +455,9 @@ assessed in terms of what is required. It is proposed that a plan will be
 developed and any works deemed necessary will be carried out subject to
 
 funding being available.
----
+
+[[PAGE_END:6]]
+
 7
 
 16. Notice of Motion submitted by Councillor T. Ruddle
@@ -508,7 +521,9 @@ new wastewater treatment facilities in collaboration with Uisce Éireann for sma
 developments of up to 40 homes.
 
 Councillors expressed concern on the timeframe for delivery of the project.
----
+
+[[PAGE_END:7]]
+
 8
 
 The following items were also raised.
@@ -558,4 +573,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

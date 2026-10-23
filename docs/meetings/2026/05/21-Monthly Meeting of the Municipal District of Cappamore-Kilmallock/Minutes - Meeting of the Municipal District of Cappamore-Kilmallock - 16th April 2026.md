@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-april-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 16th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, KILMALLOCK, CO. LIMERICK
-AND ONLINE ON THURSDAY, 16™ APRIL, 2026 AT 2PM.
+AND ONLINE ON THURSDAY, 16 APRIL, 2026 AT 2PM.
 
 PRESENT IN THE CHAIR: Councillor G. Conway, Cathaoirleach.
 MEM :
@@ -42,7 +43,7 @@ Clerical Officer, Cappamore-Kilmallock Municipal District (Ms. H. O’ Neill).
 The Cathaoirleach welcomed everyone to the Meeting. He also welcomed Mayor Moran to
 the Meeting and he referred to the Mayoral Reception in the Deebert House Hotel, that had
 taken place prior to the Monthly Meeting. The Mayoral Reception was for Mr. Clement
-Mc4uliffe Snr. who was a former founding member of the Golden Vale Mart (GVM) in
+McAuliffe Snr. who was a former founding member of the Golden Vale Mart (GVM) in
 Kilmallock, He thanked Mayor Moran for agreeing to hold a reception for Mr McAuliffe and
 he commended Mr McAuliffe for his work in establishing GVM.
 
@@ -60,17 +61,19 @@ And Resolved: “That, the draft Minutes, as circulated, be taken as read, adopt
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 2001, as amended, and the Code of Conduct, he was inviting those present to notify the
 
-Cathaoirleach of any declaration of interest In any Item due for discussion at the Meeting.
+Cathaoirleach of any declaration of interest in any Item due for discussion at the Meeting.
 
 No such interest was declared.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. PROPERTY DISPOSAL
 
-¢ Circulated, report of the Head of Property Services, Property Management dated 2°
+© Circulated, report of the Head of Property Services, Property Management dated 2°
 April 2026 regarding proposed disposal of 0.6925 Acres (0.2547 Hectares) of Land at
 Kilteely, Co. Limerick by way of 30-year lease to Cashel and Emly Diocesan Trust
 Company Limited by Guarantee.
@@ -79,8 +82,8 @@ The Elected Members referred to some queries and clarifications that had been ra
 relation to this proposed disposal in Kilteely. The Senior Executive Technician, Parks &
 Cleansing responded to the Members and clarified the queries that had been raised.
 
-® Circulated, report of the Head of Property Services, Property Management dated
-30* March 2026 regarding proposed disposal of 0.2133 Acres (0.0855 Hectares) of
+¢ Circulated, report of the Head of Property Services, Property Management dated
+30*" March 2026 regarding proposed disposal of 0.2133 Acres (0.0855 Hectares) of
 Land incorporating Playground at Bank Place, Hospital, Co. Limerick by way of 25-
 year lease to Hospital Playground Committee;
 
@@ -114,7 +117,9 @@ To consider the approval of allocations under the Community Initiative Scheme 20
 General Municipal Allocations (GMA).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by: Councillor Stokes;
@@ -129,37 +134,39 @@ Tidy Towns
 
 Martinstown Defibrillator Group
 Dromin Tidy Towns
-Staker Wallace GAA Bord Na N'Og
+Staker Wallace GAA Bord Na N’'Og
 Knockainy GAA
 Dromin Graveyard Committee
 Garrienderk Community Development CLG
 
 €2,000
 
-Ce TT
-DrominTidyTowns Greg Conway | C500 |
-GarrienderkCommunityDevelopmentCLG | ClrGregConway | _—€2, 000 |
-Colmanswell Community Councit civ oregconney | 00
-Kumalek HsoncalAssoegnon _nGieg Conway _,_€1,000
-BGMCommunityCounct | Cl GregConway | €1,000 |
-a CCC a
+Coe TT
+|DrominTidyTowns Greg Conway | C500 |
+|GarrienderkCommunityDevelopmentCLG | ClrGregConway | _—€2, 000 |
+Colmanswell Community Councit civoregconney —| 00
+Kunal HsencalAssoeanon _rGieg Conway _,_€1,000
+_BGMCommunityCounct | Cl Greg Conway | €1,000 |
+a CC a
 
-‘coi eines | oo
-€1 oD
+‘toi emmy asen |e,
+€1 0D
 ee
-Kiifinane CoshleaHistoricalSociety «| Cllr TommyO'Sullivan| ——€500 |
-Brutf Active Retirement Club cartinaes Onan [ea
+_Kiifinane CoshleaHistoricalSociety =| Cllr TommyO'Sullivan| ——€500 |
+Brutf Active Retirement Club carta Caen [ea
 Ballyorgan Community Councit 0
 
 Bruff Rugby Club | Cllr Tomr O'Sullivan |
 
 Galtee Gaels GAA Club
-sutrapycus ee tan
-aoe an
+‘sutrapycus exer
+== an
 
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Oola Tidy Towns Cllr Martin Ryan €500
@@ -170,7 +177,7 @@ Cappamore Women’s Shed
 14th Limerick Murroe Boher Scout Group
 Kilmallock Men’s Shed
 
-Murroe Marian Social Club
+Murroe Marian Sociat Club
 
 Kilteely Community Hall
 Kitteely Tidy Towns
@@ -184,51 +191,53 @@ Cllr Martin
 Cllr Martin
 
 3
-hae
+sae
 
-ee ellelelle
-3/5/8\s\s\s\s|s|s
-ida
+ee lelslelelele
+g/3/8\s\s\s\s|s|s
+inal
 
-OO A, Ss _| 66,730
-[KilteelyCommunityHall «| Ctr NoreenStokes =| €500
-|Kitteely/Dromkeen Graveyard Committee =| ClirNoreenStokes | 500 |
- Kitteely Dromkeen Community Council festival) _—(| ClirNoreenStokes | €500 |
-Grean Drama Productions (young at heart Christmas eee
+OO A, es _| 65,730
+[KiiteelyCommunityHalt «Ctr NoweenStokes =| €500
+|Kitteely/Dromkeen Graveyard Committee | ClirNoreenStokes | 500 |
+ Kitteely Dromkeen Community Council festival) _——| ClirNoreenStokes | €500 |
+Grean Drama Productions (young at heart Christmas ey
 party) Cllr Noreen Stokes
 
-/PallasgreenCamogeClub «| Cllr NoreenStokes =| 500
-|OolaTidyTowns ss C—C~“‘“*;C‘* ChllrNoretenn Stokes =| €500 |
-|OolaSeniorCitizen's «llr NoreenStokes | E500 |
+|PallasgreenCamogieClub «Ctr Noreen Stokes =| E500
+|OolaTidyTowns ss CSC~“‘“*C‘* ChllrNoretenn Stokes =| = €500 |
+|OolaSeniorCitien's = llr NoreenStokes | 500 |
 |MurroeBoherCommunityDev «Cllr Noreen Stokes | 500 |
-|MurroeMarianSocialClub | Cll Noreen Stokes | € 300
-JEfinGAAClub ss ilirNoreenStokes =| 500 |
-|RathkealeBoxingClub «| ClirNoreen Stokes | 500 |
+|MurroeMarianSocialClub | Cll Noreen Stokes | ——€ 300
+JEfinGAAClub ss  ilirNoreenStokes | 500 |
+|RathkealeBoxingClub «| ClirNoreen Stokes =| 500 |
 ey ee ee
-BrutfRugbyClub sd hie NreenStokes =| €750 |
+|BrutfRugbyClub sd hie Nreen Stokes =| €750 |
 | Grange Burial Ground (Boundary wallrepairs) =| Cllr BrigidTeety =| 500 |
-rHerbertsowniiub ——~S~S rig Teety | 500 |
+[Herbertstownliub ——~S«S rig Teety | 500 |
 
-Cittee
+<ittee
 Knockainey Historical Socie Clr Brigid Teety
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Murroe Marian Social Club Cllr Brigid Teefy €250
 Bruff Rugby Ck Club Cllr Brigid Teety | €750
 
-Friars Gate Theatre, Kilmatiock AULClr's €3,000
+Friars Gate Theatre, Kilmatiock AULCIr's €3,000
 
-Maigue River Trust AULCUr's I €3,000
+Maigue River Trust AULCUr's i €3,000
 
 6. PROPOSED MUNICIPAL DISTRICT RECEPTION
 
 To consider the approval of the following nominees for a Municipal District Reception, to
 take place in May 2026:
 
-e Coldiste ldéseaf, Kilmallock- In recognition of the school’s achievement in winning the
+¢ Coldiste léseaf, Kilmallock- In recognition of the school’s achievement in winning the
 AIB Future Sparks Schools Junior Small Group Environmental Prize 2025.
 
 ¢ Sophie Cronin, Kilfinane- In recognition of her achievements in winning County,
@@ -237,13 +246,13 @@ Munster and National boxing titles.
 ¢ Tara Grogan, Galbally- In recognition of her achievement in winning a Bravery Award
 from the National Ambulance Service.
 
-e Paudie Moloney, Kilmallock- In recognition of his achievements in the Traitors TV
+e Paudie Moloney, Kilmallock- in recognition of his achievements in the Traitors TV
 Series and also Dancing With The Stars.
 
 ¢ William O’Connor, Cappamore- In recognition of his achievement in competing
 internationally as a professional darts player.
 
-¢ Tiarnaén O'Donnell, Boher- In recognition of his achievements in competing
+® Tiarnaén O'Donnell, Boher- In recognition of his achievements in competing
 internationally in Wheelchair Basketball and Paralympic Rowing.
 
 ¢ Frank O’Dwyer, Ballylanders- In recognition of his achievement in floorball with the
@@ -260,7 +269,9 @@ That a Municipal District Reception take place to recognise the achievements of 
 proposed Nominees outlined above.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -319,7 +330,9 @@ as to when the white line will be reinstated on the R517 from Smiths Cross in Gl
 direction to Kilfinane, and joining the existing white line at McGraths Quarries.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -365,7 +378,9 @@ providing a pair of official bus stops on the R512 in Holycross. We are awaiting
 of timing from Bus Eireann.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -379,7 +394,7 @@ takes place on the traffic survey completed on the R517 (Wood Road, Kilfinane}, 
 intention of moving out the 60k signs a further 150 metres approx., combined with the
 Installation of driver feedback signs, along with other road safety measures at this location.
 
-The Notice of Motion was proposed by Cllr O'Sullivan, seconded by Cllr Carey, and agreed.
+The Notice of Motion was proposed by Cllr O'Sullivan, seconded by Clir Carey, and agreed.
 Reply:
 
 The 50 km/h speed limit on the R-517 Wood Road leaving Kilfinane currently applies for a
@@ -408,7 +423,7 @@ Response:
 
 An amendment to the Kilmaliock Local Area Plan (LAP) is not possible, as the Planning and
 Development Act 2024 no longer provides for amendment to, or the preparation of new
-LAPs,
+LAPs.
 
 Under the new legislation, the Development Plan will instead incorporate all settlements
 that were previously covered by LAPs. Due to legislative changes currently under
@@ -416,7 +431,9 @@ consideration, it is expected that the timeline for commencing the next Developm
 review may be delayed by up to two years.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In the interim, the Forward Planning team intends to bring forward a series of variations to
@@ -468,9 +485,13 @@ Signed: Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-may-2024.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 30th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -104,7 +105,9 @@ SPC meeting.
  
 
 **Proposed:** Cllr. Mike Donegan  **Seconded:** Cllr. Tom Collopy
----
+
+[[PAGE_END:1]]
+
 **Item 2: Matters arising from the Minutes** 
 
 No matters arising from previous minutes.
@@ -180,7 +183,9 @@ for Toppins Field. Mr. Forde-Bradley advised the trees are not in imminent dange
 maintenance plan will be put in place and as the trees are not now being removed & the council
 
 does not see it as being a possible planning concern for the local residents.
----
+
+[[PAGE_END:2]]
+
 Cllr. Kiely also enquired if MMC (Modern Methods of Construction) are quicker. Mr. Forde-Bradley
 
 advised that MMC are 10-50% quicker, there is often a higher quality of work and are broadly cost
@@ -244,4 +249,6 @@ Cllr. Collopy thanked Cllr. Keary for sitting as An Cathaoirleach of the Home an
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 
 **END OF MEETING**
----
+
+[[PAGE_END:3]]
+

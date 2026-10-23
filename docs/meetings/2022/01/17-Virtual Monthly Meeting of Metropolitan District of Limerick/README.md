@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th January 20
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th December 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-draft-minutes-monthly-meeting-20th-december-2021.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20December%202021.md)
 
-Disposal_ 14 Donnellan Buildings Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 17th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/02-disposal-14-donnellan-buildings-rosbrien.pdf) - Text not extracted
+Disposal: 14 Donnellan Buildings Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 17th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/02-disposal-14-donnellan-buildings-rosbrien.pdf) - Text not extracted
 
 Correspondence - Monthly Meeting of Metropolitan District of Limerick - 17th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/15-correspondence-metropolitan-district-of-limerick-17th-january-2022.pdf) - Text not extracted
 

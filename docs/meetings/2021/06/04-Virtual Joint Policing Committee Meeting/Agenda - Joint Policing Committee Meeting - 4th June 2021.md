@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/agenda.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 4th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-we Comhairle Cathrach combane Seirbhisi Corpardideachs,
+ee Comhairle Cathrach compan Seirbhisi Corpardideachs,
 
 omhairie Cathwach agus Contae Luimnigh,
 
-~A & Contae Luimnigh Ceanncheathrii Chorpardideach,
+~ & Contae Luimnigh Ceanncheathru Chorpardideach,
 
-f™ cé Cc ithe,
+f™ . cé iC ithe,
 
-— Limerick City = taaviveach
+— Limerick City ~ taaviveach
 & County Council
 
 Corporate Services,
@@ -58,11 +59,8 @@ Details of the Agenda and attachments to be discussed at the meeting are set out
 
 Is mise, le meas,
 
-Pron
 / laura ry
-
 Senior Executive Officer
-
 Corporate Services, Governance & Customer Services Department
 
 AGENDA
@@ -78,18 +76,20 @@ Metropolitan District of Limerick held on 19" March, 2021)
 ‘| will move at the next Meeting of the Metropolitan District of Limerick, that this Council
 write to the Garda Commissioner, requesting additional Garda resources to police the
 Northside of Limerick city, as a matter of urgency, in response to the continuous decline of
-resources in Mayorstone Garda Station and to tackle the increase in anti social behaviour
+resources in Mayorstone Garda Station and to tackle the increase in anti social! behaviour
 and crime. Also, to take note of the recommendations set out by the Fitzgerald Report 2007
 regarding Garda resources in Limerick city’.
 
 & customerservices@limerick te
 
 www. timerick,
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Rebrctrre si
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Rebrctore sine
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -106,7 +106,7 @@ Notice of Motion submitted by Councillor Liam Galvin
 ‘| will move at the next Meeting that this Council calls on the Minister for Transport to hand
 
 over full control of the Go Safe vans to the Department of Justice where the Gardai would
-have full contro! of their use particularly at accident black spots and known racing sections
+have full control of their use particularly at accident black spots and known racing sections
 of road”.
 
 Question submitted by Councillor Liam Galvin
@@ -122,7 +122,7 @@ in the Newcastle West District especially Abbeyfeale and a breakdown of the Gard
 for the district, what are the official opening times for Abbeyfeale Garda Station and why are
 the Garda numbers in Abbeyfeale cut down so low’.
 
-lon submitted by Councill hn
+ion submitted by Councill hn
 ‘| will ask at the next Meeting who funded the recent Garda operation in relation to the
 
 attempted seizure of stock by KPMG from Debenhams in Limerick on May 17/18’.
@@ -140,7 +140,7 @@ use of Exclusion Orders being increased’.
 
 Question submitted by Kieran O'Donnell, T.0.
 
-‘| will ask at the next Meeting for an update on Limerick Division's cyber security
+‘| will ask at the next Meeting for an update on Limerick Division’s cyber security
 preparedness in light of the HSE cyber attack and whether resources are available to the
 division to ensure IT systems are up to date’.
 
@@ -158,12 +158,14 @@ when you expect a response to the submission’.
 
 Question submitted by Maurice Quinlivan, T.0.
 ‘| will ask at the next Meeting for an update on the ongoing Garda/Counail operation
-‘Operation Copog’ in St Mary’s Park’. =
+‘Operation Copdg’ in St Mary’s Park’. .
 
 Question submitted by Maurice Quiniivan. T.D
 ‘| will ask at the next Meeting for an update on the number of seizures and arrests that have
-arisen to date from the ongoing Garda operation ‘Operation Copdg’ related to St. Mary's
+arisen to date from the ongoing Garda operation ‘Operation Copég’ related to St. Mary's
 Park’.
 
 
----
+
+[[PAGE_END:2]]
+

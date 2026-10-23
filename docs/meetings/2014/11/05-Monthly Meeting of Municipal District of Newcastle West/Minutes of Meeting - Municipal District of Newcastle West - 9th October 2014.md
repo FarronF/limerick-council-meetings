@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_newcastle_west_-_9th_october_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Newcastle West - 9th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_newcastle_west_-_9th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -42,7 +43,7 @@ M. McCarthy).
 
 December, 2015:
 
-Circulated, report from the Head of Finance dated 1°" October, 2014.
+Circulated, report from the Head of Finance dated 1° October, 2014.
 
 The Head of Finance referred to his report of 1st October, 2014, which set out the
 background to the General Municipal Allocation (GMA) under the Local Government
@@ -58,14 +59,16 @@ Executive to the GMA with €275,000 of this assigned to the Municipal District 
 Newcastle West, as follows:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NEWCASTLE WEST MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN 2015
 
 Municipal District
 General Municipal Allocation 275,000
-Increase/decrease in other charges | :
+Increase/decrease in other charges :
 
 Total (A) 275,000
 To finance Gross Revenue Expenditure
@@ -122,7 +125,9 @@ each of the Municipal Districts was €100,000 with €150,000 being provided fo
 the Metropolitan District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 * He clarified that it was not envisaged that each Member would get a specific
@@ -141,7 +146,7 @@ And Resolved:
 
 “That, the Budgetary Plan for the Newcastle West Municipal District for the financial
 
-year ending 31** December, 2015, as presented, in the total sum of €275,000 be
+year ending 31* December, 2015, as presented, in the total sum of €275,000 be
 adopted in accordance with Section 102 of the Local Government Act, 2001, as
 
 amended.”
@@ -154,4 +159,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

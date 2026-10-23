@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-draft-minutes-monthly-meeting-16th-november-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 16th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-draft-minutes-monthly-meeting-16th-november-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 16TH** **NOVEMBER, 2020 at 09:45**
@@ -84,7 +85,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -158,7 +161,9 @@ Authorities) (Designation) Order 2020.
 The Cathaoirleach noted that Section 130 of the proposed Standing Orders would be reviewed
 
 after six months.
----
+
+[[PAGE_END:2]]
+
 3
 
 It was proposed by Councillor Butler, seconded by Councillor Sheahan and agreed, to amend
@@ -236,7 +241,9 @@ roofs.
 **8.Question submitted by Councillor E. Secas**
 
 ***I will ask at the next meeting:***
----
+
+[[PAGE_END:3]]
+
 4
 
 ***- if the boundary wall project for Mount St. Oliver Graveyard will proceed this year as committed;***
@@ -320,7 +327,9 @@ early October 2020 and currently progressing through the Oireachtas – which wi
 give legal standing to the Climate Action Plan 2019.
 
 Section 3 of the Bill – as it is currently constituted – states that “The State shall
----
+
+[[PAGE_END:4]]
+
 5
 
 pursue the transition to a climate resilient and climate neutral economy by the end
@@ -404,7 +413,9 @@ Energy Efficiency Action Plan (2009) and the National Renewable Energy Action Pl
 balance, prepared for the Council by the Limerick Clare Energy Agency, which
 
 informed the development of the current City and County Development Plans.
----
+
+[[PAGE_END:5]]
+
 6
 
 The energy and emissions balance was a non-statutory exercise, which sought to
@@ -486,7 +497,9 @@ Funding for the broad range of energy and emissions related projects remains a
 challenge, which, it is hoped, will be addressed by the government commitment to
 
 carbon budgets in the forthcoming Climate Action and Low Carbon Development
----
+
+[[PAGE_END:6]]
+
 7
 
 (Amendment) Bill 2020.
@@ -578,7 +591,9 @@ December.
 **Recovered (released to owner)**
 
 25
----
+
+[[PAGE_END:7]]
+
 8
 
 **Notes**:
@@ -668,7 +683,9 @@ upgrade interventions;
 **Net Cost to Council**
 
 €118,803.34
----
+
+[[PAGE_END:8]]
+
 9
 
  Structural stabilisation of church bell tower, bell carriage and all ancillary works
@@ -758,7 +775,9 @@ figure format and endeavour to include these figures going forward in the CE Rep
 as requested.
 
 Please note that not all those on the waiting list are verified as rough sleepers.
----
+
+[[PAGE_END:9]]
+
 10
 
 August
@@ -840,7 +859,9 @@ that eventual construction is several years away at this time.
 ***I will ask at the next meeting how many fines this year so far have been issued in relation to***
 
 ***dog fouling offences which blights our city streets.***
----
+
+[[PAGE_END:10]]
+
 11
 
 **REPLY:**
@@ -932,7 +953,9 @@ with the Elected Members to discuss initial findings and research have already b
 held in each District and the Community, Culture and Leisure SPC received a briefing
 
 at its recent meeting on 9th November.
----
+
+[[PAGE_END:11]]
+
 12
 
 A draft strategy will now be finalised and brought to the February 2021 Meeting of
@@ -1004,7 +1027,9 @@ the Window Wonderland” initiative around Limerick City Centre.
 It was agreed to refer this motion to the Economic Development, Enterprise and Planning Strategic
 
 Policy Committee.
----
+
+[[PAGE_END:12]]
+
 13
 
 **28.Notice of Motion submitted by Councillor E. O’Donovan**
@@ -1076,4 +1101,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:13]]
+

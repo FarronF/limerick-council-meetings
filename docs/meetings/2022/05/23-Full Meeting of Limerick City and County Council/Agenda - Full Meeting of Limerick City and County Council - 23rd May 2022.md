@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%20Ordinary%20Meeting%2023.05.2022.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 23rd May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%20Ordinary%20Meeting%2023.05.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: Serbhisi Corperaideacha,
+‘ Serbhisi Corperaideacha,
 
-_—_ Comhairle Ca thrach Comhairle Cathrach sgus Contae Luimnigh.
+_—_—_ Comhairle Ca thrach Comhairle Cathrach sgus Contae Luimnigh.
 & Contae Luimnigh Ceanncheathni Chorpardideach,
-AmN 7 Fo _————— Cé na gCeannaithe,
-~ Limerick City ; Luimneach
+ArN Fo _—_—_—_—_——_———— Cé na gCeannaithe,
+= Limerick City ; Luimneach
 
-— & County Council Ssecnarhwvices
+— & County Council Comcnarhevices
 Limerick City and County Council,
 
 Corporate Headquarters,
@@ -48,7 +49,7 @@ Council Chamber, Dooradoyle, and Online on Monday, 23 May, 2022, at 3pm. The bus
 to be transacted is set out on the appended Agenda.
 
 Is mise le
-a” or
+a” er
 
 ‘Laura Flannery,
 
@@ -59,7 +60,7 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Ordinary Meeting of the Council held on 28 March, 2022.
+(a) Ordinary Meeting of the Council held on 28% March, 2022.
 (b) Special Meeting of the Council held on 10™ May, 2022.
 
 2. Appointment of Chief Executive
@@ -80,12 +81,14 @@ Costelloe, Councillor.
 (Report Enclosed)
 
 =
-© wernt kmorickie
+© wernmorickie
 Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -124,7 +127,7 @@ Planning and Development Act, 2000 (as amended), at:
 
 (d) 86, Lenihan Avenue, Prospect, Limerick.
 
-{e) 88, Lenihan Avenue, Prospect, Limerick.
+(e) 88, Lenihan Avenue, Prospect, Limerick.
 
 (f} 90, Lenihan Avenue, Prospect, Limerick.
 
@@ -132,17 +135,17 @@ Planning and Development Act, 2000 (as amended), at:
 
 (h) 112, Hyde Road, Prospect, Limerick.
 
-{i) 4, Hyde Villas, Prospect, Limerick.
+(i) 4, Hyde Villas, Prospect, Limerick.
 
 (j) 5, Hyde Villas, Prospect, Limerick.
 
 (k) 12, Hyde Avenue, Ballinacurra Weston, Limerick.
 
-(})} 18, Ballyclough Avenue, Ballinacurra Weston, Limerick.
+(}} 18, Ballyclough Avenue, Ballinacurra Weston, Limerick.
 
 (m) 24, Ballyclough Avenue, Ballinacurra Weston, Limerick.
 
-(n) 46, Garryglass Avenue,Ballinacurra Weston, Limerick.
+(n) 46, Garryglass Avenue, Ballinacurra Weston, Limerick.
 
 (0) 119, Shanabooly Road, Ballynanty, Limerick.
 
@@ -152,7 +155,9 @@ Limerick.
 (q) Disposal of 0.002 hectares of land at Galvone industrial Estate, Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 {r)
@@ -170,7 +175,7 @@ Street/Upper Gerald Griffin Street/Sexton Street, Limerick.
 Disposal of land at Moneymohill, Ballyhahill, Co. Limerick, V94XKT6.
 
 Disposal of House on 1 acre of land at Gortnadroma, Ballyhahill, Co. Limerick,
-VS4.W89P.
+VS4.we89P.
 
 Disposal, by way of lease, of Floor 3, Council Buildings, Dooradoyle, to Fundrock
 Management Company S.A. (Ireland Branch).
@@ -179,20 +184,20 @@ Management Company S.A. (Ireland Branch).
 
 (x)
 (y)
-(z)
+(2)
 
 26, Marine Cove, Foynes, Co. Limerick.
 16, Hawthorn Drive, Newcastle West, Co. Limerick.
 69-72, Mungret Street, Limerick.
 
-(Statutory Notices dated 28 March, 22"° and 26" April, 4th,
-6™, 9 and 11™ May, 2022, already circulated)
+(Statutory Notices dated 28 March, 22"¢ and 26" April, 4th,
+6", 9 and 11™ May, 2022, already circulated)
 
 Support Services
 
 (a)
 
-(b)
+{b)
 
 (c)
 
@@ -224,7 +229,9 @@ transfers.
 (Report already circulated)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (4)
@@ -254,7 +261,7 @@ to the Board of Ballyhoura Development CLG.
 Annual Report
 
 To consider the adoption of the Limerick City and County Council Annual
-Report 2021,
+Report 2021.
 (Annual Report Enclosed)
 
 Foreign Travel
@@ -267,7 +274,7 @@ Mayor of the City and County of Limerick, as set out below, under Section
 part of a Visit to Savannah, Georgia, USA. (retrospective approval)
 Note: Visit to Savannah previously approved at the January Meeting.
 
-(ii) Invitation to attend Illen Reception in London on 4"/5" May, 2022
+(ii) Invitation to attend Illen Reception in London on 4°/5" May, 2022
 (retrospective approval).
 
 (iii) —_ Invitation to attend 2022 MOVE - Mobility Re-Imagined Conference, to
@@ -275,12 +282,14 @@ be held in London on 15" and 16" June, 2022.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (k)
 
-()
+®
 
 To consider the approval of Sectoral Nominations to fill two vacancies on the
 Economic Development, Enterprise and Planning Strategic Policy Committee.
@@ -307,7 +316,7 @@ Strategic Policy Committee held on 4" April, 2022.
 (Chairperson’s Report Enclosed)
 
 (ii) Chairperson’s Report - Meeting of Economic Development, Enterprise
-and Planning Strategic Policy Committee held on 11™ April, 2022.
+and Planning Strategic Policy Committee held on 11" April, 2022.
 
 (Chairperson’s Report Enclosed)
 Recommendation No. 1
@@ -318,7 +327,9 @@ Regulations be amended to ensure that all new houses would include
 the installation of chimney stacks.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (m)
@@ -364,7 +375,9 @@ Response to Ukraine Crisis
 To receive update on response to the Ukraine crisis.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -401,7 +414,7 @@ GDPR of CCTV in Limerick City and County by Limerick City and County Council.
 
 Question submitted by Councillor G. Mitchell
 
-I will ask at the next meeting for clarification on the process (including fees and
+1 will ask at the next meeting for clarification on the process (including fees and
 appeals) relating to the Derelict Site Register and Compulsory Purchase Orders.
 
 Question submitted by Councillor P.J. Carey
@@ -418,7 +431,9 @@ to December 2021 to private marketing consultants engaged by this Authority; the
 names of the consultants and the type of service that they provided to this Authority.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -446,9 +461,7 @@ Notice of Motion submitted by Councillor J. Leddin
 of the Council in King John’s Castle to mark the formal acquisition of the Castle under
 Council ownership.
 
-Notice of Motion submitted by Councillor C. Sheehan
-
-I will move at the next Meeting that this Council write to the Minister for Health asking
+| will move at the next Meeting that this Council write to the Minister for Health asking
 him to establish a one-stop long COVID clinic in Limerick for long COVID sufferers.
 
 ncillor L. Galvin
@@ -469,4 +482,6 @@ DAFNE training will be provided to staff and to people with Diabetes.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

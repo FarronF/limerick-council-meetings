@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20-%20Agenda%20Meeting%20240717.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 24th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20-%20Agenda%20Meeting%20240717.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ‘ Seirbhisi Corpardideacha.
-_——_— Comhairle Cathrach Sin Catiwach agin Corean udwige
-& Contae Luimnigh Ceanncheathra Chorpardideach.
-ANrN [ae Cé na gCeannatthe,
-a Limerick City Luimneach
+_——_— Comhairle Cathrach iin Catiwach agin Corean Udi
+& Contae Luimnigh Ceanncheathru Chorpardideach.
+ANrN oe Cé na gCeannatthe,
+——— Limerick City Luimneach
 & County Council
-Limerick City and County Council
+Limerick City and County Council.
 Corporate Headquarters.
 
 Merchants Quay,
@@ -41,7 +42,7 @@ f: +353 (0) 61 415 266
 To: The Mayor and Each Member of Limerick City and County _
 Council
 
-A Chomhairleoir, a chara,
+A Chomhbairleoir, a chara,
 
 19" July, 2017.
 
@@ -54,7 +55,7 @@ Is mise le meas,
 Christy O'Connor,
 Meetings Administrator.
 
-settee ewww eww ennewee. Tete eee ene meee eee ee ene n eee e eee ween eeseenee
+Settee ewww wn ewnweee. Pte e ners meee een ee ene e eee e een eee eeeeenen
 
 AGENDA
 
@@ -66,7 +67,7 @@ To adopt Minutes of the following Meetings:
 (c} Annual Meeting of the Council held on 26" June, 2017.
 (Copies Enclosed)
 
-2 Disposal of Land
+2. Disposal of Land
 
 To consider proposal for the disposal of land at 16-19 Henry Street, Limerick,
 (Gardens International Site) to Limerick Twenty Thirty Strategic Development
@@ -75,13 +76,15 @@ Designated Activity Company.
 (Statutory Notice dated 12" July, 2017, already circulated, together with
 report from Head of Property Services)
 
-te
+ie
 © vewwimerickie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -121,7 +124,9 @@ Transportation Strategic Policy Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -141,7 +146,7 @@ To consider the approval of Sectoral Nomination to the Joint Policing
 Committee.
 (Report Enclosed)
 
-Limerick Joint Policing Committee Strategic Plan_2016-
+Limerick Joint Policing Committee Strategic Plan 2016-
 2021 and Annual Plan 2017
 
 To note the following Plans:
@@ -175,7 +180,9 @@ County Council Audit Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (i)
@@ -224,7 +231,9 @@ lines of the successful plastic bag tax or a deposit and return
 scheme etc.”
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iii)
@@ -274,7 +283,9 @@ To note the proposed allocations from the Development Fund 2017.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -318,7 +329,9 @@ Allocation (Amendment) Regulations, 2016.
 Allocation Scheme 2017 Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Service Operations Directorate
@@ -354,7 +367,7 @@ on 13/14" July, 2017.
 be held in Clonakilty, Co. Cork, from 21" to 23 July, 2017.
 
 (f) Conference on Changing Trends and Approaches to Drug and Alcohol
-Abuse, to be held in Baltimore, West Cork, from 1% to 3°° September, 2017.
+Abuse, to be held in Baltimore, West Cork, from 1% to 3° September, 2017.
 
 ({g) National Tourism Conference — Working as one on the Wild Atlantic Way,
 to be held in Listowel, Co. Kerry, on 6""/?" September, 2017.
@@ -369,7 +382,9 @@ Meeting/Event.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -401,7 +416,7 @@ further isolating West Limerick.
 
 UESTIONS
 
-Question submitted by Cmhir. S. O Ceallaigh
+Question submitted by Cmhir. S. 6 Ceallaigh
 
 | will ask at the next Meeting how many people have approached Limerick City and
 County Council in relation to the Council purchasing their houses, how many of these
@@ -420,7 +435,9 @@ this year under the Buy and Renew Scheme and Lease and Repair Scheme to bring
 vacant houses back into use.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -470,7 +487,9 @@ the Wild Atlantic Way and also asks what was done with the submissions made by
 Councillors on the Shannon Estuary Way at a Workshop with Failte Ireland.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -506,4 +525,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:10]]
+

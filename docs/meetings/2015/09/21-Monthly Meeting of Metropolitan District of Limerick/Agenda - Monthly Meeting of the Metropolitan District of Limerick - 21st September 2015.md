@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20September%202015.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 21st September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+a Seirbhisi Corpardideacha agus Bainistfiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 Pd Cé na gCeannaithe.
@@ -33,12 +34,12 @@ Limerick
 
 th t: +353 (0) 61 407 100
 
-i peprenven 27m f: +353 (0) 61 415 266
+i ‘cepremven27u f: +353 (0) 61 415 266
 
 To: The Mayor and each Member of the Metropolitan District of
 Limerick
 
-A Chomhairleoir, a chara,
+A Chombhairleoir, a chara,
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in
 
 the Council Chamber, Merchant’s Quay, Limerick, on Monday, 21°* September, 2015 at
@@ -46,13 +47,13 @@ the Council Chamber, Merchant’s Quay, Limerick, on Monday, 21°* September, 20
 
 Is mise le meas,
 
-Qe, Ot
+Ce, Ot.
 Christy O’Connor,
 Meetings Administrator.
 
 AGENDA
 
-1. Minutes
+41. Minutes
 
 To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 20th
 July, 2015.
@@ -67,11 +68,13 @@ High Level Goals.
 (Reports Enclosed).
 
 @ customerservices@limerick.ie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wewewslimerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vewewslimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -83,7 +86,6 @@ To consider the taking in charge of the following housing estate in accordance w
 Section 180 of the Planning & Development Acts 2000-2014 and Section 11 of the
 
 Roads Act 1993;
-
 Spring Grove, Mill Road, Corbally.
 (Report Enclosed).
 
@@ -103,7 +105,7 @@ Question submitted by Cmhir. Séighin 6 Ceallaigh
 complete works on the buildings adjacent to Colbert Station and when is it expected
 that people will be housed in this project?
 
-Question submitted by Cmhir. Séighin ce) Ceallaigh
+Question submitted by Cmhir. Séighin fe) Ceallaigh
 
 | will ask at the next meeting what is the current situation with Rathbane Golf
 Course, and do the Council intend on promoting and funding the Golf Club for the
@@ -116,7 +118,9 @@ Authority to remove, dispose of or store hazardous goods i.e. asbestos in the
 vicinity of the Dock Road, Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -162,7 +166,7 @@ Notice of Motion submitted by Councillor Maurice Quinlivan
 
 I will move at the next meeting that Limerick Metropolitan Council explore the
 possibility of obtaining and refurbishing the derelict flats commonly known as the
-“Newly Wed Flats" at the junction of Mary Street and Creagh Lane.
+“Newly Wed Flats” at the junction of Mary Street and Creagh Lane.
 
 Notice of Motion submitted by Councillor Malachy McCreesh
 
@@ -175,7 +179,9 @@ September to June. The unauthorised taxi activity taking place in Little Gerard
 Griffin Street continues to cause major problems for residents.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -198,7 +204,7 @@ reintroduced in 2016.
 
 Notice of Motion submitted by Councillor Sean Lynch
 
-I will move at the next meeting that Limerick City and County Council examine the
+| will move at the next meeting that Limerick City and County Council examine the
 possibility of developing the River Shannon area between the Docklands and
 Thomond Bridge as a regular space for water sports, recreation, etc. and that a
 dedicated sub-committee comprised of the relevant water bodies, users, officials
@@ -224,4 +230,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

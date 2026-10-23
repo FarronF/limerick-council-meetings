@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28b%29%20Minutes%20Special%20Council%20Meeting%2011.07.2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 11th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28b%29%20Minutes%20Special%20Council%20Meeting%2011.07.2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -80,7 +81,9 @@ Areas to include – Protected Crops,
 Fruit Production – Top Fruits (apples)
 
 Soft Fruits and the Seed Potato Sector.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Members referred to the ongoing crisis in the Ukraine, condemned the invasion of
@@ -158,4 +161,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-1st-may-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 1st May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-1st-may-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Aras Viilliaen Smith O'Brien,
+Aras Wiilliaen Smuth O'Brien.
 
 Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar.
-el 5 Corman laiteaagh Comhairie Cathrach agus Contae Luimnigh
+el & Corman leieeagh Comhairie Cathrach agus Contae Luimnigh
 
-AN if ™
+AN fi ™
 
 Gortbut
-<> Limerick City ; An C#slean Mua Thiar,
+> Limerick City ; An C#slean Mua Thiar,
 & County Council Co. Luimnigh
 
-Neweastle West Municipal District,
+Nevicastle West Municipal District,
 Limerick Cay and County Council,
 Aras Viiltiam Smith O'Brien,
 
@@ -50,7 +51,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 1°t Ma
 
 ) Is mise le meas,
 
-pre
+pic,
 
 Meetings Administrator.
 
@@ -71,10 +72,12 @@ V42P578.
 (Reports Enclosed)
 @ customerservices@limerick.te
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www.timerick.te
-Corporate Headquarters, Merchant's Quay, Limerick Yai
+Corporate Headquarters, Merchant's Quay, Limerick Yaoi
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -91,7 +94,7 @@ Transportation and Mobility Directorate
 To Receive Presentation on key projects and achievements in the Municipal District
 of Newcastle West 2019-2024.
 
-nvi -
+nvi a
 
 To Receive Presentation on the Draft Discussion Paper to begin the process of
 drafting the Limerick City and County Council Biodiversity Action Plan 2024/5 — 2030.
@@ -130,7 +133,9 @@ towards the Community Property at Feohanagh will be laid.
 Kerry Co-Op premises to the speed limit along Clooneyskehane will be constructed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -175,11 +180,13 @@ I will move at the next Meeting that the Council put up signage at the entrance 
 Demesne, pointing out the car parks that the Council have in charge for parking.
 People are not aware of these car parks.
 
-n . Colli
-t will move at the next Meeting that the roadway at Rooskagh East be considered for
+in . Colli
+! will move at the next Meeting that the roadway at Rooskagh East be considered for
 
 resurfacing and passing bays be installed now that traffic flow has increased in the
 locality due to a commercial business at the top of Rooskagh Hill.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%202022-09-07%20Agenda%20September.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%202022-09-07%20Agenda%20September.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach
+il Comhairle Cathrach
 & Contae Luimnigh
-aAar™N ra ~
+aAarT™ ~~ ~
 
 — Limerick City
 = & County Council
 
 2 September, 2022
 
-Dijiche Bardais an Chaisieain Nua Thiar,
-Comhairie Cathrach agus Contae Luimnigh,
+Diutiche Bardais an Chaisieain Nua Thiar,
+Comhairie Cathrach agus Contae Luimnugh,
 Aras William Smith O'Brien,
 
 Gortbul,
@@ -49,7 +50,7 @@ Newcastle West,
 
 Co. Limerick
 
-Eireode: V42EH73
+Etreode: V42EH73
 
 t: +353 (0) 69 62300
 
@@ -63,13 +64,13 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 7% Sept
 
 Is mise le meas
 
-<x
+<—me
 
 Meetings Administrator.
 
 AGENDA
 
-OB Minutes
+r Minutes
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
 
@@ -77,7 +78,7 @@ OB Minutes
 
 (b) To adopt Minutes of Special Meeting of the Municipal District of Newcastle West
 
-held on 3" August, 2022.
+held on 3 August, 2022.
 
 2. Disposal of Land
 
@@ -96,7 +97,9 @@ Corporate Headquarters, Merchant's Quay, Limerick
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -150,7 +153,9 @@ Park be cut back in the interest of safety locally.
 Broadford.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -167,7 +172,7 @@ I will ask at the next Meeting if the original Part 8 planning for Garryduff Cro
 Newcastle West includes public lighting? If it did when will it be installed. This is a
 very dangerous junction.
 
-t will ask at the next Meeting (a) how much did it cost to run the public toilet in The
+! will ask at the next Meeting (a) how much did it cost to run the public toilet in The
 Square, Newcastle West last year (b) revenue generated from the public toilet last
 year (c) can a proper toilet be built here instead.
 
@@ -200,4 +205,6 @@ the park in Mungret.
 as allotments in this Municipal area in the interest of sustainability.
 
 
----
+
+[[PAGE_END:3]]
+

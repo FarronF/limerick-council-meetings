@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-10-02-agenda-october.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 2nd October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-10-02-agenda-october.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairie Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+_—_——_ Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 
 imn Comhairle Cathrach agus Contae Lulmnigh,
-~~ a = 6 Contae Lu igh Aras William Smith OBrien.
+~~ i = 6 Contac Lu igh Aras William Smith O'Brien.
 “ Gortbut
 
-——> Limerick City An Caislean Nua Thiar,
+—<—> Limerick City An Caislean Nua Thiar,
 & County Council Co, Luimnigh
 
 Newcastle West Municipal District,
@@ -56,7 +57,7 @@ Meetings Administrator.
 AGENDA
 1. Minutes
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 11"
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 11""
 September, 2024.
 
 (Copy Enclosed)
@@ -68,14 +69,16 @@ To receive Update from the Housing Directorate for the Newcastle West Municipal
 
 District.
 (Report Enclosed)
-& customerservices@limerick.ie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ vevewlimerick.te
+@& customerservices@limerick.ie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © weve limerick.te
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -99,7 +102,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 QUESTIONS
 
-Questions submitted by Councillor J. Scanlan
+Questions submitted by Councillor J. Scanian
 
 | will ask at the next Meeting when the trees and vegetation on the Old Mill side of
 Evergreen Court will be cleared, also those backing the nearby Grotto so as to
@@ -118,7 +121,7 @@ Hotel to the local G.A.A. field and also an update on the stacking lane at Dore�
 Cross, Templeglantine.
 
 | will ask at the next Meeting for an update on the Low Cost Safety Schemes for the
-following junctions (a) Dromtrasna 17114 (b) Broadford L7017 (c) Athea L7085S.
+following junctions (a) Dromtrasna 17114 (b) Broadford L7017 (c) Athea L7085.
 
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor T. Ruddle
@@ -133,7 +136,9 @@ erected at the entrance to the Demesne letting people know where there is car
 parking available.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -155,7 +160,7 @@ be upgraded.
 
 Notices of Motion submitted by Councillor L. Galvin
 
-! will move at the next Meeting that a safety audit be carried out in Collins Park,
+| will move at the next Meeting that a safety audit be carried out in Collins Park,
 Abbeyfeale, in the following areas: (a) Parking especially the section from House No.
 38 to 51 and House No. 60 to 77, (b) All footpaths within the estate, (c) Road markings
 (d) Signage (e) Rights of way, back yards to be upgraded and drainage issues to be
@@ -166,4 +171,6 @@ Barnagh and Bus Eireann to provide a bus stop at Barnagh Gardens (b) that the
 Council request the Local Link to provide a bus service from Athea to Abbeyfeale.
 
 
----
+
+[[PAGE_END:3]]
+

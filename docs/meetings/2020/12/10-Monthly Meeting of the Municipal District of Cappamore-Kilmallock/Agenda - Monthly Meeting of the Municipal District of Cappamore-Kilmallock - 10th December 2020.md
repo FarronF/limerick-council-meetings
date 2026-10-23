@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-agenda-10th-december-2020-md-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-agenda-10th-december-2020-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 **3rd** **December, 2020.**
 
 **To/**
@@ -52,7 +53,9 @@ A G E N D A
 To consider the adoption of Minutes of Meeting of the Municipal District of
 
 Cappamore-Kilmallock held on the 19th November, 2020.
----
+
+[[PAGE_END:1]]
+
 2
 
 2. Community Development Directorate
@@ -104,7 +107,9 @@ I will move at the next meeting of the Municipal district of Cappamore/ Kilmallo
 Limerick City and County Council will erect signage to the spot where the Dromkeen Ambush
 
 took place.
----
+
+[[PAGE_END:2]]
+
 3
 
 12. Notice of Motion submitted by Councillor M. Ryan
@@ -162,4 +167,6 @@ I will ask at the next Municipal District meeting of Cappamore-Kilmallock that c
 given to carrying out improvement works at the bad bend on the Lough Gur to Holy Cross road
 
 L1500.
----
+
+[[PAGE_END:3]]
+

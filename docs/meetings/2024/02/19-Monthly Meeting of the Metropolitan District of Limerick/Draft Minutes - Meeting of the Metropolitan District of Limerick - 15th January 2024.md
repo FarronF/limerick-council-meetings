@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-15th-january-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 15th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-15th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -84,7 +85,9 @@ And Resolved:
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
----
+
+[[PAGE_END:1]]
+
 2
 
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
@@ -156,7 +159,9 @@ consideration and approval by the Councils Civic Memorial & Public Art Technical
 Committee. Other factors to be considered include the funding available for any proposed
 
 Civic Memorial, planning approval if applicable, and the possible consent of the landowner
----
+
+[[PAGE_END:2]]
+
 3
 
 to the erection of a Civic Memorial.
@@ -248,7 +253,9 @@ advertisement.
 ***cleaned at least once a week.***
 
 **REPLY**: A large road sweeper services Newenham Street, Davis Street and O’Connell Avenue every
----
+
+[[PAGE_END:3]]
+
 4
 
 morning. Litter bins on these streets are emptied on a daily basis. A staff member is assigned
@@ -318,7 +325,9 @@ Electric Vehicle charge points across the City and County.
 The strategy will focus on identifying the demand for charge points across all types of
 
 charging and will specifically identify public residential and destinationbased charging
----
+
+[[PAGE_END:4]]
+
 5
 
 needs up to 2025 and 2030. The power demand and charge point demand will be identified
@@ -402,7 +411,9 @@ Following a recent meeting with key personnel, the following has been confirmed:
  A recognised Conservation Engineering Consultancy has been appointed following
 
 completion of the requisite procurement process.
----
+
+[[PAGE_END:5]]
+
 6
 
  A recognised Conservation Architect Practice has been appointed following completion
@@ -482,7 +493,9 @@ Limerick City Centre Transport Plan and it is intended to commence preparation o
 in January.
 
 **17.Question submitted by Councillor D. McSweeney**
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the***
@@ -558,7 +571,9 @@ considered as part of specific projects there.
 ***e)**Can Active Travel install Nitrogen Dioxide NO2 sampling tubes around Scoil Íde;***
 
 ***f)**To date has the contractor incurred any delays.***
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY**: a) **Is the contractor going to take 18 months to complete works;**
@@ -636,7 +651,9 @@ and Kilmallock Roundabout as part of the 2024 works programme. We will keep the 
 Members informed once the National Transport Authority (NTA) 2024 funding allocation
 
 has been announced.
----
+
+[[PAGE_END:8]]
+
 9
 
 **NOTICES OF MOTION**
@@ -710,7 +727,9 @@ discuss the issues involved relating to these railway line works.
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council***
 
 ***acknowledges and supports the Athlunkard Street 200 year anniversary celebrations.***
----
+
+[[PAGE_END:9]]
+
 10
 
 The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Councillor Collopy and
@@ -776,7 +795,9 @@ works progress in their location.
 **27. Correspondence**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:10]]
+
 11
 
 This concluded the Meeting.
@@ -790,4 +811,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

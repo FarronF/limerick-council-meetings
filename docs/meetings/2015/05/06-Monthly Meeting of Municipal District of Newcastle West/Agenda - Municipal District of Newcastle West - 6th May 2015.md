@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_may_meeting_of_newcastle_west.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 6th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda_may_meeting_of_newcastle_west.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+ee Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ae ~ Cé na gCeannaithe,
-= Luimneach
+ANS ‘ Cé na gCeannaithe,
+=> Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL Lirastea
+COUNCIL Lies
 
 t: +353 (0) 61 407 100
 1% May, 2015. f: +353 (0) 61 415 266
@@ -51,33 +52,35 @@ rove.
 Tina Knox,
 Meetings Administrator.
 
-eee eee e eee ene eee ee eee eres ne en nese eee een enn nen n ens ee sess esses eee e RE NERS RRR R RR Remmi
+meee cece cncnc cere eeeececcccccccccc scenes eeeeee reese ncesennsses sess see essen renee ee serene nnn e See eee eESEOe OOOO OOD,
 
 AGENDA
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Municipal District of Newcastle West held on 1* April, 2015.
+(a) Municipal District of Newcastle West held on 1" April, 2015.
 (b) Special Meeting of Municipal District of Newcastle West held on 22” April, 2015.
 
 (Copies Enclosed)
 
-2.  Deputation
+2. Deputation
 
 To receive Deputation from West Fest Committee.
 
 3. Annual Meeting of Municipal District
 
-To consider fixing date of Annual Meeting of the Municipal District for Tuesday 23 June,
+To consider fixing date of Annual Meeting of the Municipal District for Tuesday 23° June,
 2015, at 10.00 a.m.
 
-customerservices@limerickie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach . @ www limerick.ie
+customerservices@timerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach . @ www limerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -120,9 +123,11 @@ Templeglantine and Abbeyfeale.
 
 Notice of Motion submitted by Councillor S. Browne
 
-| will move at the next meeting of the Council that measures be put in place to protect
+1 will move at the next meeting of the Council that measures be put in place to protect
 Athea National School and adjoining houses from river erosion and flooding as the
 school is in danger of losing its play ground and basketball court.
 
 
----
+
+[[PAGE_END:2]]
+

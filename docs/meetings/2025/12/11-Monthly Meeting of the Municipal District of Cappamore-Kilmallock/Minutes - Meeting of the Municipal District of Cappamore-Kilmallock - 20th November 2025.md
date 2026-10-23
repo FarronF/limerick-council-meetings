@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-november-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -67,7 +68,9 @@ The Meetings Administrator stated that, In line with Part 15 of the Local Govern
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 No such interest was declared.
@@ -117,7 +120,9 @@ be made available for the collapsed wall at Ballingaddy [Old] Graveyard and, if 
 timeline for commencement of works.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -162,27 +167,29 @@ note that applicants can choose between 1, 2 or 3 Areas of Choice so there will 
 duplication within the table.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Nurs$er of appticants | Namber ot spplicants
+Nursber of appiicants | Namber ot spplicants
 
-rR
-3
+rp
+:
 i
 i
 if
 
-Boiiyonders
-Cr
-(cr
+Boiiyionders
+CC
+(rr
 erwree
-uyscen
-Conerconiah |
-iMerbertsiown
+puyscen
+iConerconish
+iMerbertstown
 a
 
-nn
+A
 
 Pon
 
@@ -211,7 +218,9 @@ necessary to make this crossroads safer,
 The Notice of Motion was proposed by Cllr Conway, seconded by Cllr Carey, and agreed.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -263,4 +272,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+

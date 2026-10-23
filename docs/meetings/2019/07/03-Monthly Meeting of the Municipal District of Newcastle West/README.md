@@ -44,7 +44,7 @@ Disposal Report John Hough - Monthly Meeting of the Municipal District of Newca
 
 Disposal Report Joan Keating - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28g%29%20Disposal%20Report%20Joan%20Keating.pdf) - Text not extracted
 
-Taking in Charge of Estates, Declaration of Roads to be Public Roads_ Bushes Court, Glin & The Glebe, Monagea - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%202019-07-03%20TIC.pdf) - Text not extracted
+Taking in Charge of Estates, Declaration of Roads to be Public Roads: Bushes Court, Glin & The Glebe, Monagea - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%202019-07-03%20TIC.pdf) - Text not extracted
 
 Speed Limit Bye-Laws - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/05%20Speed%20Limit%20Bye-Laws.pdf) - Text not extracted
 

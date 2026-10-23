@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2020th%20June%202016.pdf)
+**Original file:** [Minutes of Meeting of Metropolitan District of Limerick held on 20th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2020th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
@@ -64,7 +65,7 @@ City of Limerick.
 (b) Disposal of Freehold Interest in dwelling house situate at 6 Quins Cottages, Rosbrien in the
 City of Limerick.
 
-({c) Disposal of Freehold Interest in dwelling house situate at 3 Colbert Park, Janesboro, in the
+(c) Disposal of Freehold Interest in dwelling house situate at 3 Colbert Park, Janesboro, in the
 City of Limerick.
 
 (d) Disposal of Freehold Interest in dwelling house situate at 9 An Casan, Garryowen, in the City
@@ -78,7 +79,9 @@ of Limerick.
 (C.1.E.) at Parnell Street by way of long term lease. Acquire from C.I.E. 2,446 square metres
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -125,7 +128,7 @@ and who would deliver the plan.
 e The 9 high level goals of the LECP and the action areas under the three pillars of economic,
 social and physical / environment.
 
-e¢ The presentation and implementation of the plan and the timeframe for its adoption.
+e The presentation and implementation of the plan and the timeframe for its adoption.
 
 In response to queries from Members, the following was clarified:
 
@@ -138,7 +141,9 @@ Agencies involved in the delivery of the LECP were mainly those represented on t
 included: Limerick City and County Council (and the LEO within the Council), Limerick and Clare
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -177,7 +182,6 @@ Development Regulations, 2001-2015 and it was proposed to proceed in accordance 
 Chief Executive’s Report.
 
 6. Service Operations Directorate
-
 Part 8 Procedure — Verdant Place Flood Defence Wall
 
 Circulated, Report of the Director of Services, Service Operations and attached Chief Executive’s
@@ -194,7 +198,9 @@ paid to the current service provider per annum, what service level agreement is 
 place and what are the future plans to secure a new management company.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The current operator has been engaged on a month by month basis, on the terms
@@ -246,7 +252,7 @@ advancing.
 
 Question submitted by Councillor James Collins
 
-1 will ask at the next Meeting what plans the Council has to provide facilities for St. Paul's
+! will ask at the next Meeting what plans the Council has to provide facilities for St. Paul's
 Scouts at Mungret College.
 
 REPLY:
@@ -258,7 +264,9 @@ Council will make arrangements with St. Paul’s Scouts to lease agreed
 accommodation accordingly.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 $
@@ -313,7 +321,9 @@ very significant fall in the membership of the club. The motion was seconded by 
 Collins.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -329,14 +339,14 @@ manage the facility. A procurement procedure was currently being undertaken to i
 operator for the course for a five year period, with an option to extend for an additional five
 years. The procurement process was at an advanced stage and it was hoped would be finalised
 shortly. In the interim a number of meetings had been held with the club members and efforts
-were being made to bring the course up to a satisfactory standard to allow competition
+were being made to bring the course up to a Satisfactory standard to allow competition
 schedules for the coming weeks / months to go ahead. The situation was being kept under
 review and every effort was being made to finalise the procurement process and install a new
 operator at an early stage.
 
 14. Noti Motion submitted by Councillor Joe Leddin
 
-! will move at the next Meeting that Limerick Metropolitan District introduce appropriate By-
+1 will move at the next Meeting that Limerick Metropolitan District introduce appropriate By-
 Laws to standardise the design of signage placed by retail and business owners in Limerick
 City so as to prevent the placement of unsuitable signage at the front of various businesses
 and shopfronts.
@@ -368,7 +378,9 @@ motion would be referred to the Economic Development, Enterprise and Planning St
 Policy Committee for further consideration.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -384,7 +396,7 @@ The motion was proposed by Councillor Leddin and seconded by Councillor Crowley.
 Reference was also made to the need for additional bins in public parks and also for bins in the
 Wetlands area in Westfield Park. A number of Members referred to the problems with littering
 and issues with weeds etc and reference was made to the need for replacement of the lamps on
-the Abbey Bridge as four lamps were currently not working. There was a problem also with the’
+the Abbey Bridge as four lamps were currently not working. There was a problem also with the”
 general condition of the area adjacent to where the coca-cola bikes were kept, which required
 
 tidying up.
@@ -426,7 +438,9 @@ He referred to the spiralling cost of insurance and to the expected additional i
 the increases proposed in the new book of quantum regarding insurance compensation.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The motion was seconded by Councillor O’Hanlon.
@@ -480,7 +494,9 @@ the terms of the Road Opening Licence and in accordance with the Purple Book,
 Backfilling and Reinstatement of Openings in Public Roads).
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
@@ -496,7 +512,8 @@ reinstatement and repair works will be completed over the next couple of weeks.
 The Director, Physical Development agreed that staff from Water Services would attend the
 next Operational Briefings in relation to items raised by the Members relevant to the Motion
 and with regard to works carried out by the contractor, on behalf of Irish Water, in other parts
-of the city. _
+
+of the city. oe
 
 20. Notice of Motion submitted by Councillors Frankie Daly and Michael Hourigan
 
@@ -520,7 +537,7 @@ There was a welcome from Members that a plan would be prepared in this case. It 
 requested that consideration be given in the plan for the provision of a pitch for Ballynanty
 Rovers who were in this area.
 
-21. Noti f Motion submitted mhlr. Séighin allaigh
+21. Noti f Motion submitted mblr. Séighin allaigh
 
 | will move at the next Meeting that this District calls on the Minister for Education to relocate
 the planned secondary school for Castletroy to Castleconnell.
@@ -537,7 +554,9 @@ required in that area. Reference was made to the potential for such a school at 
 Valley area which would then cater for the Singland and Garryowen areas and would curtail the
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -558,7 +577,7 @@ for her work in the promotion of a second school in that area.
 Thomondgate and St Mary's Park in relation to the proposed new bridge at the weir. _
 
 The motion was proposed by Councillor Costelloe who pointed out that many of the residents in
-this area were not in favour of the proposal. The motion was seconded by Councillor O’Hanlon.
+this area were not in favour of the proposal. The motion was seconded by Councillor O'Hanlon.
 
 REPLY: The Council will facilitate the meeting as has been sought.
 
@@ -595,7 +614,9 @@ Members pointed out that the consultation by Co-operative Housing Ireland had be
 inadequate in this instance and it was requested that officials from the Housing Section should
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 also attend the public meeting in relation to this matter.
@@ -612,4 +633,6 @@ MAYOR
 Dated:
 
 
----
+
+[[PAGE_END:11]]
+

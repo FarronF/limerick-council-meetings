@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-23.09.2024.pdf)
+**Original file:** [Minutes -  Ordinary Meeting of Limerick City and County Council - 23rd September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-23.09.2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -84,7 +85,9 @@ times when dealing with them, and also for her friendly and courteous manner and
 availability to deal with queries, both during office hours and also frequently at evenings and
 
 weekends.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director General, on his own behalf and on behalf of the staff, wished Laura
@@ -158,7 +161,9 @@ Declaration of Interest
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
----
+
+[[PAGE_END:2]]
+
 3
 
 Meeting of any declaration of interest in any item due for discussion at the Meeting. No such
@@ -234,7 +239,9 @@ Rural, Community and Culture Directorate
 (c) Circulated, copy of Statutory Notice dated 16th August, 2024, concerning disposal of
 
 property at Main Street, Bruff, Co. Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Sheahan (J);
@@ -308,7 +315,9 @@ particulars of which were contained in Statutory Notice dated 16th August, 2024.
 (f) Circulated, copy of Statutory Notice dated 16th August, 2024, concerning disposal of 2.72
 
 acres (1.1 hectares) of land at Skagh, Croom, Co. Limerick.
----
+
+[[PAGE_END:4]]
+
 5
 
 Proposed by Councillor Sheahan (J);
@@ -384,7 +393,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -462,7 +473,9 @@ an option to extend the sub-lease period, and the sub-lease to be subject to the
 and conditions contained therein, particulars of which were contained in Statutory Notice
 
 dated 11th September, 2024.”
----
+
+[[PAGE_END:6]]
+
 7
 
 (l) Circulated, copy of Statutory Notice dated 11th September, 2024, concerning disposal of
@@ -538,7 +551,9 @@ Tournafulla, Co. Limerick, to Declan Reidy, for the sum of €30,000, subject to
 and conditions contained within the contract, particulars of which were contained in
 
 Statutory Notice dated 16th August, 2024.”
----
+
+[[PAGE_END:7]]
+
 8
 
 (o) Circulated, copy of Statutory Notice dated 11th September, 2024, concerning disposal of
@@ -612,7 +627,9 @@ were contained in Statutory Notice dated 11th September, 2024.”
 (r) Circulated, copy of Statutory Notice dated 11th September, 2024, concerning disposal of
 
 property at The Village Inn, Feenagh, Co. Limerick.
----
+
+[[PAGE_END:8]]
+
 9
 
 Proposed by Councillor Sheahan (J);
@@ -678,7 +695,9 @@ of the voting was as follows:
 Councillors Benson, Carey, Donoghue, Gavan, Hickey-O’Mara, O’Donovan, Ryan (E), Scanlan,
 
 Teefy. **(9)**
----
+
+[[PAGE_END:9]]
+
 10
 
 **Against Deferral**
@@ -752,7 +771,9 @@ And Resolved:
 2001 (as amended), and Section 211 of the Planning and Development Act, 2000 (as
 
 amended), the approval of the Council be and is hereby given to the disposal of property at
----
+
+[[PAGE_END:10]]
+
 11
 
 Shannon House, Ballynacragga North, Foynes, Co. Limerick, to The Shannon House Foynes
@@ -826,7 +847,9 @@ seconded by Councillor Collins (M), to vary the basic rate of Local Property Tax
 fifteen per cent (15%) for the year ending 31st December, 2025.
 
 The result of the voting was as follows:
----
+
+[[PAGE_END:11]]
+
 12
 
 **For**
@@ -900,7 +923,9 @@ Circulated, report of the Senior Executive Officer, Corporate Services, Governan
 Customer Services dated 18th September, 2024, together with draft Strategic Policy
 
 Committee Scheme 2024-2029.
----
+
+[[PAGE_END:12]]
+
 13
 
 The report of the working group and the background to the draft Scheme, as set out,
@@ -974,7 +999,9 @@ Audit and Risk Committee for the previous term of the Committee, i.e. 5 years.
 specialising in European local governance, multi-level governance (MLG) and EU policies and
 
 served as Course Director for the BA Public Administration, BA European Studies, MPA and
----
+
+[[PAGE_END:13]]
+
 14
 
 MA/GD in Partnership Studies. Co-convenor of the PSAI Specialist Group on Teaching and
@@ -1046,7 +1073,9 @@ Seconded by Councillor Sheahan (J);
 “That, Councillor F. Daly be appointed as Chairperson of the Local Traveller
 
 Accommodation Consultative Committee.”
----
+
+[[PAGE_END:14]]
+
 15
 
 As there were no other nominations, the Príomh Chomhairleoir declared Councillor F.
@@ -1108,7 +1137,9 @@ years.
  Limerick Traveller Health Programme: Nora O’Neill and Kathleen Ward Benn.
 
  Limerick Traveller Network: Anita Pannell and Bridget Casey.”
----
+
+[[PAGE_END:15]]
+
 16
 
 5.
@@ -1186,7 +1217,9 @@ in the total amount of €8,700 under the Strategic under the Strategic Fund for
 Arts Scheme 2024, as set out in the report of the Arts Officer / Creative Ireland Co-Ordinator
 
 circulated with the agenda.”
----
+
+[[PAGE_END:16]]
+
 17
 
 7.
@@ -1268,7 +1301,9 @@ Members also asked for an update on the Council’s plans to prepare for the Ryd
 2027, and requested that a presentation on preparations would be given to the Elected
 
 Members, and this was agreed.
----
+
+[[PAGE_END:17]]
+
 18
 
 The Mayor referred to the progress report and acknowledged the work that has been
@@ -1352,7 +1387,9 @@ the Department of Housing, Local Government and Heritage and the Office of the P
 Regulator (High Court Record Number: 2022/1132 JR), listed for hearing on 26 - 28 November
 
 2024.”
----
+
+[[PAGE_END:18]]
+
 19
 
 8.
@@ -1422,7 +1459,9 @@ Question submitted by Councillor T. Ruddle
 ***2023 the details of schools that have been allocated funding under the Safe Routes to School***
 
 ***scheme, the amounts allocated to each school and the date of completion.***
----
+
+[[PAGE_END:19]]
+
 20
 
 **REPLY:**
@@ -1560,7 +1599,9 @@ Completed –
 August 2024
 
 R510 Scheme
----
+
+[[PAGE_END:20]]
+
 21
 
 Scoil Íde and St.
@@ -1810,7 +1851,9 @@ Funded
 through AT
 
 Schemes
----
+
+[[PAGE_END:21]]
+
 22
 
 Childers Rd
@@ -1926,7 +1969,9 @@ Question submitted by Councillor S. Hickey-O’Mara
 ***for the number of people who presented to the Homeless Action Team seeking Supported***
 
 ***Temporary Accommodation services over the past 12 months, including those who did not***
----
+
+[[PAGE_END:22]]
+
 23
 
 ***receive a service, so that we may be able to understand the true level of need in the city and***
@@ -2022,7 +2067,9 @@ Temporary Emergency Accommodation.
 Many of the people who are unable to avail of the Supported Temporary
 
 Accommodation are rough sleepers who have a range of complex needs that
----
+
+[[PAGE_END:23]]
+
 24
 
 prevent them from accessing services. In order to respond to this issue
@@ -2096,7 +2143,9 @@ for discussion. At that time, it will be determined how the Working Group can
 help raise awareness of the implementation of the new e-scooter regulations
 
 in Limerick.
----
+
+[[PAGE_END:24]]
+
 25
 
 Limerick City and County Council has a positive working relationship with An
@@ -2176,7 +2225,9 @@ In cases where no progress is being made by an owner to solve the dereliction
 and the site continues to detract from the neighbourhood, and where the
 
 owner has already been served with a series of statutory notices, the Council
----
+
+[[PAGE_END:25]]
+
 26
 
 may consider the compulsory acquisition of the site with the intention to make
@@ -2258,7 +2309,9 @@ Question submitted by Councillor S. Kiely
 ***I will ask at the next Meeting how much did the project at the Crescent this summer cost***
 
 ***and can the cost be outlined in tabulated format.***
----
+
+[[PAGE_END:26]]
+
 27
 
 **REPLY:**
@@ -2338,7 +2391,9 @@ use of the area.
 The Crescent also provided a space for cultural promotion with Ukraine
 
 Independence Day, groups from Brazil performing their traditional dances, to
----
+
+[[PAGE_END:27]]
+
 28
 
 Hip Hop and Opera all being showcased during the month of August. Local
@@ -2410,7 +2465,9 @@ Out of pocket costs were managed by
 (iv) activation of local residents to help in the project
 
 The full such costs, averaging €1,500.00 per day, are set out in the table below:
----
+
+[[PAGE_END:28]]
+
 29
 
 **The Crescent Costings**
@@ -2538,7 +2595,9 @@ Question submitted by Councillor C. Sheehan
 ***I will ask at the next Meeting how many planning permissions are inactive or dormant for***
 
 ***housing broken down by electoral area for the last five years.***
----
+
+[[PAGE_END:29]]
+
 30
 
 ***REPLY:***
@@ -2626,7 +2685,9 @@ Notice of Motion submitted by Councillor L. Galvin
 The Motion was proposed by Councillor Galvin and seconded by Councillor Kiely, and
 
 adopted.
----
+
+[[PAGE_END:30]]
+
 31
 
 **REPLY:**
@@ -2708,7 +2769,9 @@ With the permission of the Príomh Chomhairleoir the Motion was allowed to be
 discussed. This Motion was proposed by Councillor Kiely and seconded by Councillor Butler.
 
 In moving the motion, Councillor Kiely asked if it could be considered at the upcoming budget
----
+
+[[PAGE_END:31]]
+
 32
 
 meeting. Members outlined the issue with establishing ownership and this needs to be
@@ -2782,7 +2845,9 @@ In proposing the Motion, Councillor Hickey-O’Mara read testimonials of women w
 experienced visitor restrictions while in University Maternity Hospital Limerick.
 
 The Motion was seconded by Councillor O’Donovan and adopted.
----
+
+[[PAGE_END:32]]
+
 33
 
 28.
@@ -2860,7 +2925,9 @@ discussed. This Motion was proposed by Councillor Donoghue and seconded by Counc
 Keary. In moving the Motion Councillor Donoghue highlighted the need to consider ways of
 
 supporting those currently locked out of the housing market.
----
+
+[[PAGE_END:33]]
+
 34
 
 30.
@@ -2942,7 +3009,9 @@ Rental income from its housing stock (circa 5600 units) is a very important
 revenue stream for the Council and is projected to amount to in excess of
 
 €19m in 2024. Any downward adjustment to the income criteria would have
----
+
+[[PAGE_END:34]]
+
 35
 
 an inevitable impact on the level of services that the Council can provide. In
@@ -3022,7 +3091,9 @@ O’Donoghue, and adopted.
 **Correspondence**
 
 The Correspondence circulated with the agenda was taken as read.
----
+
+[[PAGE_END:35]]
+
 36
 
 **MAYOR / DIRECTOR GENERAL ORDERS:**
@@ -3046,4 +3117,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:36]]
+

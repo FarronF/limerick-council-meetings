@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 10th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 en Comhairle Cathrach
 & Contae Luimnigh
-are” F a ‘“
+aAr™ F ai ‘“
 
 ——. Limerick City
 & County Council
@@ -34,11 +35,11 @@ AChomhairleoir, a chara,
 
 Sezbdhisf Corpardideacha
 
-Comhairle Cathrach agus Contae Luimngh,
+Comhairle Cathrach agus Contae Luimmngh,
 
 Cearncheathna Chorparaideach,
 Cé na gCeannaithe,
-Luimneesch
+Luimnesch
 
 Corporate Services,
 
@@ -48,13 +49,13 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V4 EH90
+EIRCODE V34 EH90
 
 t: 4353 (0) 64 557150
 f: +353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
-Monday, 10™ July, 2023 at 9.45am in the Council Chamber, Dooradoyle, Limerick and Online via
+Monday, 10 July, 2023 at 9.45am in the Council Chamber, Dooradoyle, Limerick and Online via
 
 Microsoft Teams.
 
@@ -69,8 +70,8 @@ Meetings Administrator.
 
 To adopt Minutes of the following Meetings:
 
-(a) Monthly Meeting of the Metropolitan District of Limerick held on 19" June, 2023.
-(b) Annual Meeting of the Metropolitan District of Limerick held on 19"" June, 2023.
+(a) Monthly Meeting of the Metropolitan District of Limerick held on 19™ June, 2023.
+(b) Annual Meeting of the Metropolitan District of Limerick held on 19" June, 2023.
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
@@ -78,7 +79,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copies Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of interest.
@@ -105,7 +108,7 @@ QUESTIONS
 
 4. Question submitted by Councillor S. Hartigan
 
-| will ask at the next Meeting of the Metropolitan District of Limerick for a written update on
+1 will ask at the next Meeting of the Metropolitan District of Limerick for a written update on
 progress on ongoing issues with discharges to the Loughmore Canal that will address sources of
 discharges and engagement to date with those responsible, awareness among businesses in
 Raheen Business Park with the issues and involvement of the IDA and EPA in finding a solution.
@@ -123,12 +126,14 @@ being taken by the Council to rectify this issue.
 
 7. Question submitted by Councillor C. Slattery
 
-I will ask at the next Meeting of the Metropolitan District of Limerick, can the Council engage with
+| will ask at the next Meeting of the Metropolitan District of Limerick, can the Council engage with
 the Limerick Civic Trust regarding funding as they are looking after our graveyards in Limerick City
 and Limerick Civic Trust have very limited resources.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor C. Slattery
@@ -172,7 +177,9 @@ pathway around St. Mary’s Park.
 fouling bins present in Limerick City and who is responsible for emptying these bins.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor E. O'Donovan
@@ -214,7 +221,9 @@ the National Council for Special Education (NCSE) for the upcoming school year 2
 to request that all measures are taken to ensure no redundancies are made at this school.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21. Notice of Motion submitted by Councillor S. Hartigan
@@ -254,4 +263,6 @@ and restoration of the Sallors Home on O'Curry Street.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

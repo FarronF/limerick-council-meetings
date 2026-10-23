@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-Agenda-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-19th-October-2023_0.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 19th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-Agenda-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-19th-October-2023_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 13th October, 2023.
@@ -64,7 +65,9 @@ September, 2023.
 Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 21st September, 2023.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -122,7 +125,9 @@ count and speed survey to be undertaken outside Ardpatrick National School so sp
 can be installed and, subject to approval as per traffic calming policy, my 2023 GMA to be
 
 used as the funding source.
----
+
+[[PAGE_END:2]]
+
 3
 
 8.
@@ -174,4 +179,6 @@ with special emphasis on the bad bends.
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District as to when is
 
 the planned date for turning on the new public lights on the Kilmallock road in Bruff.
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-11th-march-2025.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-11th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 (Image omitted)
@@ -70,4 +71,6 @@ municipal refuse collection scheme be piloted in illegal dumping hot-spots in th
 including St. Mary’s Park, Ballinacurra Weston, Lenihan Avenue, Coonagh/Clondrinagh,
 
 Johnsgate and Kilmallock Road.
----
+
+[[PAGE_END:1]]
+

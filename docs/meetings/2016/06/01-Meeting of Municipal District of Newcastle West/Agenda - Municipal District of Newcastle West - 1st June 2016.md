@@ -16,37 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20June%202016.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i
-
-ar™N ,
-Limerick
-CITY & COUNTY
-
-COUNCIL
-
-26" May, 2016.
-
-Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
+a Seirbhisi Corpardideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-Cé na gCeannaithe,
+i Cé na gCeannaithe.
 
-Luimneach
+: = Luimneach
 
-Corporate Services and Change Management,
-Limerick City and County Council,
+Limerick Corporate Services and Change Management,
 
-Merchants Quay,
+CITY & COUNTY Limerick City and County Council,
 
-Limerick
+COUNCIL hacen ome
+meri
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
+
+26" May, 2016.
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West _
 
@@ -59,7 +52,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-> Yaove
+> Vaove
 
 na Knox,
 Meetings Administrator.
@@ -68,16 +61,14 @@ AGENDA
 
 1. Minutes
 
-To adopt Minutes of the Meeting of Municipal District of Newcastle West held on 4"" May,
+To adopt Minutes of the Meeting of Municipal District of Newcastle West held on 4" May,
 
 2016.
-2) Support Services Directorate
-
-Corporate Services
-
-(a) Annual Meeting
-
 (Copy Enclosed)
+
+2. Support Services Directorate
+Corporate Services
+(a) Annual Meeting
 
 To agree date for Annual Meeting of the Municipal District of Newcastle West.
 
@@ -85,15 +76,14 @@ To agree date for Annual Meeting of the Municipal District of Newcastle West.
 
 To agree date for July Meeting of the Municipal District of Newcastle West.
 
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
-
-2
-& wow limerick.ie
-w @LimerickCouncil
+customerservices@limerickie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach ee oo worwlimerickie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) Municipal Reception
@@ -135,13 +125,16 @@ maintenance.
 
 | will ask at the next Meeting for an update on Knocknagorna Bridge (a) when works will
 commence; (b) what is the total budget allocation; (c) how long will it take to complete the
+
 works.
 
 | will ask at the next Meeting for an update on the proposed works for Castletown/Ballyagran
 villages arising from the Municipal District Meeting held in the hall in Castletown.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -205,4 +198,6 @@ Glengurt National School (National School in Tournafulla) to allow safe access a
 for those attending the school.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%202017-06-07%20Agenda%20June%20Meeting.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 7th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%202017-06-07%20Agenda%20June%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Seirbhisi Corpardideacha,
+__ Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
-AM Ceanncheathri: Chorparaideach.
+AM fo Ceanncheathni Chorparaideach.
 =— Cé na gCeannaithe,
-COMHAIRLE Lummneech
+COMHAIRLE Luimneech
 CATHRACH & CONTAE
 
 : : Corporate Services
@@ -48,12 +49,13 @@ Newcastle West
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at
+
 Desmond Hall, The Square, Newcastle West, Co. Limerick, on Wednesday, 7" June, 2017, at 10.00
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Yong Kao
+Yous Kao
 na Knox,
 
 Meetings Administrator.
@@ -77,7 +79,9 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCounc!'
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -113,7 +117,7 @@ the back of properties on Bridge Street, Abbeyfeale.
 | will ask at the next Meeting for an update on progress in relation to resurfacing of the road
 at Mountmahon and Killarney Road, Abbeyfeale.
 
-Questions submitted by Councillor J. Scanian
+Questions submitted by Councillor J. Scanlan
 
 | will ask at the next Meeting when the collapsed storm water grid between Boyle Sports and
 Dooley’s Super Value at Bishop Street, Newcastle West will be reinstated.
@@ -134,7 +138,9 @@ carried out at Mountmahon to the Garda Station, Abbeyfeale.
 repaired as the road surface is deteriorating.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -165,4 +171,6 @@ the M7 motorway.
 on the Consultative Group for the Great Southern Greenway as ex-officio members.
 
 
----
+
+[[PAGE_END:3]]
+

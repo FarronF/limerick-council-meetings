@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_——_ Comhairle Cathrach
 & Contae Luimnigh
-aAr™ , ——————
+aAcr™ , ————
 
 —=—= Limerick City
 & County Council
@@ -31,7 +32,7 @@ aAr™ , ——————
 25" June, 2026.
 
 Ceantar Bardasach Ath Dara-Rath Cacia,
-Comhairle Cathrach agus Contae Lulnnigh,
+Comhairle Cathrach agus Contae Lulmnnigh,
 Aras Séan Finn,
 
 Line Nua,
@@ -40,7 +41,7 @@ Rath Caola,
 
 Co. Luimnigh
 
-Adare-Rathkeale Municipal District,
+Adare-Rathkeale Municipal! District,
 Limerick City and County Council,
 Avas Sean Pann,
 
@@ -50,9 +51,9 @@ Rathkcale,
 
 Co. Limerick
 
-EIRCODE V94 HKLV
+EIRCODE V94 HkLV
 
-t; +353 (0) 69 64047
+t: +353 (0) 69 64047
 f: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
@@ -76,10 +77,10 @@ AGENDA
 Part Vill = ier
 
 Pursuant to Section 179 of the Planning and Development Act, 2000 (as amended) and Part
-VIII of the Planning and Development Regulations, 2001 (as amended) to consider the
+VII of the Planning and Development Regulations, 2001 (as amended) to consider the
 Mayoral report for the proposed development at Kilteery Pier.
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Report Enclosed).
@@ -90,4 +91,6 @@ www. limerick te
 ( 061- 556 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/minutes-of-spc-17th-feb-2020_0.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 17th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/minutes-of-spc-17th-feb-2020_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD IN THE COUNCIL CHAMBER,**
@@ -82,7 +83,9 @@ P. Fitzgerald stated that this Notice of Motion would not be considered as Cllr.
 no longer a member of the committee. However, he stated that the matter regarding a Tall
 
 Buildings Strategy will be dealt with in Item 4.
----
+
+[[PAGE_END:1]]
+
 **Item 3**
 
 **Update on Limerick Food Strategy**
@@ -168,7 +171,9 @@ formed to consider the following topics: City & Environs, County Towns, Local Ar
 Infrastructure, Recreation & Social, Economic Development and Climate Change. Workshops
 
 and training will be provided for elected members.
----
+
+[[PAGE_END:2]]
+
 She also updated members on the following:
 
 **RSES** – adopted on 31/1/20 and working with Regional Assembly on implementation of the
@@ -242,4 +247,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

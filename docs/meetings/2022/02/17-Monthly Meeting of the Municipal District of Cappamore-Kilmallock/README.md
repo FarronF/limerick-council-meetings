@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17
 
 Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock -  20th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/2-.-minutes-of-20th-january-municipal-district-meeting.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%C2%A0%2020th%20January%202022.md)
 
-Disposal of Property Report_ Ardrahin Galbally - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/disposal-of-property-report-ardrahin-galbally-.pdf) - Text not extracted
+Disposal of Property Report: Ardrahin Galbally - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/disposal-of-property-report-ardrahin-galbally-.pdf) - Text not extracted
 
 Bruff Public Realm Plan - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/redscape-bruff-report-hires-211126_lr.pdf) - Text not extracted
 

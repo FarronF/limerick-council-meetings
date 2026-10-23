@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-10-12%20Minutes%20October.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-10-12%20Minutes%20October.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ Administrator in advance of the Meeting.
 The importance of showing respect and courtesy to colleagues and local authority employees
 
 was also raised.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -172,7 +175,9 @@ The Members expressed satisfaction and following a brief discussion, it was prop
 resolution to proceed with the development as described in the Chief Executive’s Report of
 
 August 29th 2022, prepared in accordance with Section 179 3(a) of the Planning and
----
+
+[[PAGE_END:2]]
+
 3
 
 Development Act 2000 (as amended) but to include the following variation in the interest of
@@ -236,7 +241,9 @@ On the proposal of Councillor Foley, seconded by Councillor Sheahan, it was agre
 On the proposal of Councillor Collins, seconded by Councillor Ruddle, it was agreed to allocate
 
 €3,000 to Newcastle West GAA public lighting.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Collins, seconded by Councillor Sheahan, it was agreed to
@@ -296,7 +303,9 @@ number of hedge cutting notices issued in the District. In replying, the Executi
 Engineer referred to the number of hedge cutting notices issued and stated that he would
 
 also be following up on blackspot areas in the District.
----
+
+[[PAGE_END:4]]
+
 5
 
 7.
@@ -360,7 +369,9 @@ Question submitted by Councillor J. Scanlan
 REPLY:
 
 A site meeting will be arranged to discuss further safety measures.
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTION
@@ -450,7 +461,9 @@ DS-040-
 Limerick
 
 On Derelict Sites Register
----
+
+[[PAGE_END:6]]
+
 7
 
 DS-043-
@@ -678,7 +691,9 @@ DS-074-
 Convent Road, Abbeyfeale
 
 Open derelict sites case
----
+
+[[PAGE_END:7]]
+
 8
 
 DS-075-
@@ -780,7 +795,9 @@ New Street, Abbeyfeale, Co. Limerick
  DS-119-19
 
 Convent Road, Abbeyfeale Co. Limerick
----
+
+[[PAGE_END:8]]
+
 9
 
 The former Convent of Mercy in Abbeyfeale is on the market for sale by the owner. As it
@@ -846,7 +863,9 @@ provider of the facility. He stated that Limerick City and County Council have a
 place for the operation and maintenance of this facility and a notice is applicable to break the
 
 contract.
----
+
+[[PAGE_END:9]]
+
 10
 
 14. Notice of Motion submitted by Councillor J. Scanlan
@@ -912,7 +931,9 @@ In replying, the Senior Engineer stated that the above properties are included i
 Refurbishment Programme and gave a comprehensive overview of the current situation with
 
 regard to these properties.
----
+
+[[PAGE_END:10]]
+
 11
 
 He also agreed to seek clarification on a query raised with regard to the passing of some of
@@ -978,6 +999,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+
 12
----
+
+[[PAGE_END:12]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20%28b%29%20Minutes%20Special%20Meeting%2010.05.2022_0.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 10th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20%28b%29%20Minutes%20Special%20Meeting%2010.05.2022_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE, ON TUESDAY, 10TH MAY, 2022, AT 9.30AM, IN
@@ -82,7 +83,9 @@ pleasure of working with him. The Members expressed their sincere sympathy to hi
 Anne, daughters Monica and Kathleen, his sons James and Patrick. They went on to say his
 
 loss would also be missed by all his family, friends and community.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Chief Executive also paid tribute to Paddy Hourigan, on his own behalf and on behalf of
@@ -110,4 +113,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

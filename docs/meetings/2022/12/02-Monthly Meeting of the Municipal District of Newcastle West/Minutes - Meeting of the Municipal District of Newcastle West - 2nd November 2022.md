@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-11-02%20Minutes%20November.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-11-02%20Minutes%20November.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(b)**
@@ -174,7 +177,9 @@ stated that the Department of Housing, Heritage and Local Government considers 1
 bedroomed units for additional space and also stated that a completion date of 2024 is
 
 expected for these units.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members queried if a social housing tenant is accommodated in an Approved Housing
@@ -240,7 +245,9 @@ Question submitted by Councillor L. Galvin
 REPLY:
 
 A. In and around 2016.
----
+
+[[PAGE_END:3]]
+
 4
 
 B. The length of the works was 130m long and the width of the works were 2.5m on
@@ -326,7 +333,9 @@ REPLY:
 This junction can be considered for the Low Cost Safety Scheme. We will need
 
 to consult and obtain permission from the relevant landowners.
----
+
+[[PAGE_END:4]]
+
 5
 
 10.
@@ -388,7 +397,9 @@ REPLY:
 If the Notice of Motion is agreed at the District meeting, we will write to the ESB requesting
 
 improved levels of services from them as a service provider.
----
+
+[[PAGE_END:5]]
+
 6
 
 It should be noted that Limerick City and County Council do try to actively engage with
@@ -450,7 +461,9 @@ reiterated and reference was also made to lands which have been sterilised for m
 In replying, the Senior Executive Engineer stated that the distributor road would most likely
 
 be a developer led project which would form part of the Local Area Plan.
----
+
+[[PAGE_END:6]]
+
 7
 
 The following items were also raised.
@@ -528,7 +541,9 @@ provisions of pay and pension entitlements for Members of An Garda Síochána”
 It was agreed that a Meeting would take place with Members of An Garda Síochána on Friday,
 
 4th November, 2022, at 10.00 a.m., at Áras William Smith OBrien.
----
+
+[[PAGE_END:7]]
+
 8
 
 It was agreed to hold the December Meeting of the District on Wednesday, 7th December,
@@ -546,4 +561,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

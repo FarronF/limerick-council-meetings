@@ -16,23 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20September%202015.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 17th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh
+——— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh.
 
-ANN ‘ Céna gCeannaithe,
-—=—=_ Luimneach
+ars a ‘
+
+Cé na gCeannaithe,
+—=— Luimneach
+
+. .
 Limerick Corporate Services and Change Management.
-ITY NTY Limerick City and County Council,
-Cc & COU: Merchants Quay.
+CITY & COUNTY Limerick City and oa
+y.
 COUNCIL Limerick
 
 t: +353 (0) 61 407 100
-11" September, 2015. {: +353 (0) 61 415 266
+11" September, 2015. f: +353 (0) 61 415 266
 
 To/ The _Cathaoirleach _and_each Member of _the Municipal
 District of Cappamore-Kilmallock
@@ -71,7 +76,9 @@ Chorpartideach, Cé na gCeannaithe, Luimneach . @ Weew Yimerick ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -95,4 +102,6 @@ Noti bmitted by Councillor Gleeson
 Enterprise Centre, Murroe in the interest of safety.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
+**Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -58,7 +59,9 @@ relation to proposed works at Boro Park, Janesboro.
 (Motion Attached).
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Section 139 of the Local Government Act 2001 (as amended) resolution in
@@ -84,7 +87,9 @@ existing residents to enjoy we the undersigned wish to propose this Council appr
 under Section 139 of the Local Government Act 2001 (as amended) that the Council shall not proceed
 with any further such works to advance the delivery of SMART Housing on the said site.
 
-Cle Sard, KS,
+Cle Sarxd, Ks,
 
 
----
+
+[[PAGE_END:2]]
+

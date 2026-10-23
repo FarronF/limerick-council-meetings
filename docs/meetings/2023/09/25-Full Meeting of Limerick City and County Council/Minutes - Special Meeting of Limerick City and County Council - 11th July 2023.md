@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-b-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-11th-July-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 11th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-b-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-11th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON
@@ -84,7 +85,9 @@ had served the people of Limerick extremely well, and they remembered him as a
 trustworthy, honourable and committed public representative, who was heavily involved in
 
 many aspects of his local community.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members paid tribute to John and the commitment he had to his community, his family, his
@@ -122,4 +125,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

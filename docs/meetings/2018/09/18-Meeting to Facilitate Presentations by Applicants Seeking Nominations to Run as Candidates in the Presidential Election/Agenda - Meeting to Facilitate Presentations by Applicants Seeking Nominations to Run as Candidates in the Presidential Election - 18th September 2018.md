@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20for%20Presentations%20by%20Applicants%20-%20Presidential%20Election.pdf)
+**Original file:** [Agenda - Meeting to Facilitate Presentations by Applicants Seeking Nominations to Run as Candidates in the Presidential Election - 18th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20for%20Presentations%20by%20Applicants%20-%20Presidential%20Election.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_— Comhairle Cathrach
+_—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-aAr™ , ae ee
-=— Limerick City
+aAr™ oe ora
+— Limerick City
 & County Council
 
 13" September, 2018.
@@ -48,7 +49,7 @@ Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 61 557150
+t: +383 (0) 61 557150
 f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -73,7 +74,7 @@ cb,
 James Clune, .
 egtings Administrator.
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Correspondence Enclosed)
@@ -81,7 +82,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 = customerservices@limerick.te
 © vevew limerick.te
 
-© 061 - $$7150
+© 061 - $7150
 
 
----
+
+[[PAGE_END:1]]
+

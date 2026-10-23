@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Signed%20Agenda%20MD%20Meeting%2013th%20June.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 13th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Signed%20Agenda%20MD%20Meeting%2013th%20June.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_— Comhairle Cathrach
 & Contae Luimnigh
-~ —> Limerick City
+~ — Limerick City
 & County Council
 
 Limerick City & County Council,
@@ -42,8 +43,8 @@ Limerick, on =
 
 The business to be transacted is set out on the appended Agenda.
 
-lacts
-Miss Y
+Mlacts
+Mist Y
 Meetings Administrator.
 
 AGENDA
@@ -55,4 +56,6 @@ office until the next Annual Meeting or until a successor has been elected.
 office until the next Annual Meeting or until a successor has been elected.
 
 
----
+
+[[PAGE_END:1]]
+

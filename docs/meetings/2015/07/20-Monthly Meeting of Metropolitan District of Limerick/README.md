@@ -38,11 +38,11 @@ Taking in Charge of Estates - Glenbrook, Glendale, Glendale Lawn, Old Singland R
 
 Draft Polling Scheme for Limerick City and County Council 2015 - Metropolitan District of Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Polling%20Scheme%20for%20Limerick%20City%20and%20County%20Council%202015%20-%20Metropolitan%20District%20of%20Limerick.pdf) - Text not extracted
 
-MAP_  Dail Constituencies of Limerick City and Limerick County - Meeting of Metropolitan District of Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Dail%20Constituencies%20of%20Limerick%20City%20and%20Limerick%20County%20-%20Meeting%20of%20Metropolitan%20District%20of%20Lime.pdf) - Text not extracted
+MAP:  Dail Constituencies of Limerick City and Limerick County - Meeting of Metropolitan District of Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Dail%20Constituencies%20of%20Limerick%20City%20and%20Limerick%20County%20-%20Meeting%20of%20Metropolitan%20District%20of%20Lime.pdf) - Text not extracted
 
-MAP_  Metropolitan Area - Meeting of Metropolitan District of Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Metropolitan%20Area%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick.pdf) - Text not extracted
+MAP:  Metropolitan Area - Meeting of Metropolitan District of Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Metropolitan%20Area%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick.pdf) - Text not extracted
 
-MAP_  Street Map Metropolitan Area.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Street%20Map%20Metropolitan%20Area.pdf) - Text not extracted
+MAP:  Street Map Metropolitan Area.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Street%20Map%20Metropolitan%20Area.pdf) - Text not extracted
 
 Part 8 Procedure - Mungret Environs Roadworks.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Part%208%20Procedure%20-%20Mungret%20Environs%20Roadworks.pdf) - Text not extracted
 

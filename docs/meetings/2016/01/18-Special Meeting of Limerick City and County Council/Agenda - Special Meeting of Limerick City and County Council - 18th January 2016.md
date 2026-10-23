@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2018th%20January%202016.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2018th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-all Seirbhist Corparaideacha agus Bainistiocht Athruithe.
+i Seirbhist Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh
 
-ANF ° Cé na gCeannaithe.
+NN« . Cé na gCeannaithe.
 Luimneach
 
-a
+Noe
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay.
@@ -46,7 +47,7 @@ The business to be transacted is set out below.
 
 Is mise le meas,
 
-Cha SS W—
+Cha SS UH —
 
 Christy O’Connor,
 Meetings Administrator.
@@ -65,4 +66,6 @@ Ceannchesthru Chorpardideach, Cé na gCeannaithe, Luimneach © www.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

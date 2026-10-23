@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-April-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-April-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF
 
 THE MUNICIPAL DISTRICT OF THE CAPPAMORE
@@ -80,7 +81,9 @@ The Elected members congratulated all groups involved with organizing St Patrick
 parades, and the Cathaoirleach thanked Councillors for representing LCCC at the various
 
 parades in the county.
----
+
+[[PAGE_END:1]]
+
 3. Disposal of Property
 
 The following disposals of property were noted:
@@ -142,7 +145,9 @@ An inspection of the windows and doors in Radharc Na Cille Estate will be arrang
 Housing Maintenance section of this Council.
 
 **Proposed: Councillor Carey**
----
+
+[[PAGE_END:2]]
+
 **Seconded: Councillor Donegan**
 
 7. Notice of Motion submitted by Councillor Teefy
@@ -186,7 +191,9 @@ Protocol Committee for consideration.
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor M Ryan**
----
+
+[[PAGE_END:3]]
+
 QUESTIONS
 
 9.  Question submitted by Councillors Carey and Mitchell
@@ -242,7 +249,9 @@ process is completed for these spaces.”
 The review of disability spaces across the Municipal District is ongoing. A report should be
 
 available for the May meeting of the Cappamore/Kilmallock MD
----
+
+[[PAGE_END:4]]
+
 12. Question submitted by Councillor Teefy
 
 “I will ask at the next meeting of the Cappamore/Kilmallock Municipal District what progress
@@ -294,7 +303,9 @@ Subject to continued budget availability and statutory approvals, a construction
 expected to be issued to our contractor in 2024. The works will improve the performance of the
 
 wastewater treatment plant but will not result in an increase in the loading capacity of the plant.
----
+
+[[PAGE_END:5]]
+
 14. Question submitted by Councillor Donegan
 
 “I will ask at the next meeting of the Cappamore/Kilmallock Municipal District to get the
@@ -356,7 +367,9 @@ her passing on 22nd March 2023.
 Congratulations
 
 The Elected Members wished to congratulate Betty McElholm on her 106th Birthday.
----
+
+[[PAGE_END:6]]
+
 The Elected Members also wished to congratulate Colaiste Iosaef on winning the Schools
 
 All Ireland Junior Ladies Football
@@ -372,4 +385,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:7]]
+

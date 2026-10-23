@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-of-spc-mtg-15th-feb-20211.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise & Planning SPC - 15th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-of-spc-mtg-15th-feb-20211.pdf)
 
----
+[[FILE_START]]
+
 **February, 2021**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -56,4 +57,6 @@ Yours sincerely
 ***Pat Fitzgerald***
 
 ***SEO, Economic Development Directorate***
----
+
+[[PAGE_END:1]]
+

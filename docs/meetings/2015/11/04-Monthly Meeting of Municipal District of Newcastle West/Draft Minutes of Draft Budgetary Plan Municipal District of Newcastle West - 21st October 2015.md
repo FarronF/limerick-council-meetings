@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20of%20Draft%20Budgetary%20Plan%20Municipal%20District%20of%20Newcastle%20West%20-%2021st%20October%202.pdf)
+**Original file:** [Draft Minutes of Draft Budgetary Plan Municipal District of Newcastle West - 21st October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20of%20Draft%20Budgetary%20Plan%20Municipal%20District%20of%20Newcastle%20West%20-%2021st%20October%202.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN ÁRAS
@@ -106,7 +107,9 @@ Municipal District of Newcastle West as follows:
 • Special Projects
 
 €100,000
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Acting Head of Finance for his presentation.
@@ -138,4 +141,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Cathaoirleach**
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

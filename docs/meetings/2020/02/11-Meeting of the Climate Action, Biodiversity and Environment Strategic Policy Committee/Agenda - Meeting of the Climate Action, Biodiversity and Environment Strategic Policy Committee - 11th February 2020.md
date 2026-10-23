@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-11th-february-2020-climate-action-biodiversity-env-spc-meeting.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-11th-february-2020-climate-action-biodiversity-env-spc-meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **6th** **February 2020**
@@ -46,7 +47,9 @@ appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -96,4 +99,6 @@ Limerick caused by the burning of solid fuels/coal”.
 process for weed control service contract to eliminate unnecessary herbicide application,
 
 reducing the frequency of spraying and reduce the volume of herbicides used”.
----
+
+[[PAGE_END:2]]
+

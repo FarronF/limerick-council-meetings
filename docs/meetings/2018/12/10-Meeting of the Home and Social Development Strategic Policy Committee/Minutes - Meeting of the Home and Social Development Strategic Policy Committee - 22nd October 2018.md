@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Minutes%2022.10.2018.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 22nd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Minutes%2022.10.2018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL DEVELOPMENT SPC**
 
 A meeting of Limerick City and County Council, Home and Social Development Strategic Policy Committee
@@ -104,7 +105,9 @@ A report of the discussions and recommendations from the workshop held on the 17
 circulated. Director of Service Aoife Duke also presented a summary of the main issues covered by the
 
 workshop as follows:
----
+
+[[PAGE_END:1]]
+
 Planned Maintenance Programme:
 
 It is proposed that Limerick City and County Council will borrow €15 million to carry out a Planned
@@ -214,7 +217,9 @@ simplify the number of areas by expanding the
 geographical boundaries.
 
 There was general agreement with this objective
----
+
+[[PAGE_END:2]]
+
 A discussion took place as follows:
 
  Planned Maintenance:
@@ -364,7 +369,9 @@ Colbert Terrace, Abbeyfeale
 November Meeting of Municipal
 
 District of Newcastle West
----
+
+[[PAGE_END:3]]
+
 07
 
 Gough Place, Rosbrien Road
@@ -428,4 +435,6 @@ it is currently being proofed and it as anticipated that it will be finalised in
 The meeting concluded.
 
 **Date of next meeting**: Monday 10th December 2018 at 3.00pm, Corporate Building, Dooradoyle
----
+
+[[PAGE_END:4]]
+

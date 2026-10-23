@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%28ii%29Supplementary-Agenda-Meeting-of-Metropolitan-District-of-Limerick-15th-May-2023.pdf)
+**Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%28ii%29Supplementary-Agenda-Meeting-of-Metropolitan-District-of-Limerick-15th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Sexbhisi Corpardideacha
-; Comhairle Cathvach agus Contae Luimnigh,
+Comhairle Cathrach Sexbhisi Corpardideacha
+a ; Comhairle Cathvach egus Contae Luimnigh,
 > & Contae Luimnigh Ceanncheathna Chorpardideach.
-aaa —— : Cé na gCeannatthe
+aaa —— : Cé na qCeannatthe
 — Limerick City iuimneach
 
 & County Council
@@ -39,7 +40,7 @@ EIRCODE V94 EH90
 t +353 (0) 61 587150
 f; +353 (0) 61 415 266
 
-11" May, 2023,
+11" May, 2023.
 
 A Chomhairleoir, a chara,
 
@@ -65,12 +66,14 @@ Is mise le meas,
 Mark Leahy,
 Meetings Administrator.
 
-om Customerservices@limerick.ie
+om customerservices@limerick.ie
 
-© weew limerick.ie
+© Ww. limerick.ie
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

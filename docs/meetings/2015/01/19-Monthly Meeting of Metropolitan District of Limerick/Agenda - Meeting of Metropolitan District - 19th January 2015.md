@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_19th_january_2015.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District - 19th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_19th_january_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_ Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
+_—_——_— Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-% = : Cé na gCeannaithe,
-—- : Luimneach *
+s = : Cé na gCeannaithe,
+—_ : Luimneach *
 
 Limerick Corporate Services and Change Management.
 
 CITY & COUNTY Limerick City and Caney fee
 
-erchants /,
+erchants ,
 
 COUNCIL racers
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-14" January, 2015.
+14” January, 2015.
 
 To: The Mayor and each Member of the Metropolitan District of Limerick
 
@@ -49,13 +50,13 @@ You are requested to attend a Meeting of the Metropolitan District of Limerick t
 the Council Chamber, Merchant's Quay, Limerick, on Monday, 19" January, 2015 at
 9.45 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is mise le m (5
+Is mise le m (5.
 
-0. ‘n
+0. nN
 Eugeng Griffin
 Meetings Administrator
 
-nn nnn en nn De nee
+eee ween nnn eee e nnn n enna esse eee Ree eee eRe e renee ener ene n ene e eens ee Knees eee eee eee eee Eee RE nnem
 
 AGENDA
 
@@ -75,11 +76,13 @@ e Dwelling House situate at 20 Linden Court, Kennedy Park, Limerick City.
 (Report Enclosed).
 
 customerservices@limerick.
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCourcil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development and Planning
@@ -117,7 +120,7 @@ to residents living in the immediate area where works will be carried out, and
 3) safety road signage will be put in place until the works are completed for local
 residents’ safety.
 
-Notice of Motion submitted by Cmhir. Séighin fo) Ceallaigh
+Notice of Motion submitted by Cmhir. Séighin fo} Ceallaigh
 
 | will move at the next meeting that the Metropolitan District of Limerick calls on the
 Minister for Arts, Heritage and Gaeltacht, Heather Humphreys, to recognise and act
@@ -132,7 +135,9 @@ developed as an historic quarter of our capital city, enhancing the living marke
 trading tradition and bringing to life the area's central role in the 1916 Rising.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -177,7 +182,9 @@ causing a real housing crisis and forcing many people including families into
 homelessness.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -213,4 +220,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,20 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-municipal-district-of-newcastle-west-1st-october-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 1st October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-municipal-district-of-newcastle-west-1st-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-I Comhairle Cathrach Dusiche Bardais an Chaisleain Nua Thiar,
+ae Comhairle Cathrach
+; & Contae Luimnigh
+AN ff \ — =
 
-Comhatrte Cathrach agus Contae Luimnigh
-~~ —, =e Luimnigh Avas William Smith OBrien.
-- = 7 Gortbut
+Limerick City
+= & County Council
 
-— Limerick City An Caisledn Nua Thiar,
+26" September, 2025
 
-& County Council Co. Luimnigh
+To: The Cathaoirleach and Each Member of the Munici
+
+Duache Bardais an Chaisledin Nua Thiar,
+Comhatrie Cathwach agus Contae Luimnigh
+Arvas William Smith OBrien,
+
+Gortbut
+
+An Caislean Nua Thier,
+
+Co. Luimnigh
 
 Newcastle West Municipal District,
 Umerick City and County Council,
@@ -40,25 +52,23 @@ Nevicastle West
 
 Co. Limerick
 
-26" September, 2025 Eircode: V42EH73
-
-To:
+Eircode: V42EH73
 
 t: +353 (0) 69 62100
 
-The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+| District of Newcastle West
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 1° October,
 
-{\ 2025, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
-
 Is mise le meas,
 
 Heather Supple,
 Meetings Administrator.
+
+{\ 2025, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 AGENDA
 
@@ -68,19 +78,26 @@ AGENDA
 
 September, 2025.
 
-(Copy Enclosed)
 2. Declaration of Interest.
+
+(Copy Enclosed)
+
 3. To Receive Update from the Dromcollogher26 Cinema Commemoration Committee.
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchant's Quay, Limerick
+
 (Report Enclosed)
-& customerservicesGlimerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wow. limerickie
-Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-4. Rural, Culture, Community, and Tourism Development Directorate
+4.
+
+Rural, Culture, Community, and Tourism Development Directorate
 
 To receive presentation on the Limerick Local Community Safety Partnership
 
@@ -107,15 +124,17 @@ Devon Hotel to Templeglantine G.A.A. field (Give detailed reply as to where this
 application is at), (b) The extension to the footpath and traffic calming at Killarney
 Road, Abbeyfeale towards Dalton’s Cross.
 
-8. | will ask at the next Meeting for an update on (a) Daly's building, Main Street,
+| will ask at the next Meeting for an update on (a) Daly's building, Main Street,
 Abbeyfeale (b) the house at the corner of New Street and Colbert Street, Abbeyfeale
 
-9. ! will ask at the next meeting what inspection has been carried out of works
+| will ask at the next meeting what inspection has been carried out of works
 completed from the school up to the graveyard in Athea? Please give me a detailed
 response.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -148,4 +167,6 @@ development of Riordan’s car park, Abbeyfeale.
 Abbeyfeale road towards the new scheme of houses.
 
 
----
+
+[[PAGE_END:3]]
+

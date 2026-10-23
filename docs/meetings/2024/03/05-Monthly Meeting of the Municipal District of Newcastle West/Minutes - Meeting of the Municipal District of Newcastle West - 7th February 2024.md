@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-7th-february-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 7th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-7th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -170,7 +173,9 @@ also made to progressing more Part VIII’s in other villages in the District.
 Following a brief discussion, the report was proposed by Councillor Galvin, seconded by
 
 Councillor Foley and agreed.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -236,7 +241,9 @@ On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agree
 On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agreed to allocate
 
 €1,000 to Meenkilly National School for defibrillator.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agreed to allocate
@@ -300,7 +307,9 @@ The Council will investigate the possibility of lighting at this location. There
 access issues for future maintenance if a light is to be placed on the ESB pole.
 
 Alternative solutions are being investigated in the vicinity of the ESB pole.
----
+
+[[PAGE_END:4]]
+
 5
 
 7.
@@ -380,7 +389,9 @@ Question submitted by Councillor F. Foley
 ***I will ask at the next Meeting**can funding be secured for safety improvement works at***
 
 ***Lyons Cross, Kilmorna Road, Abbeyfeale.***
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -440,7 +451,9 @@ REPLY:
 Footpath replacement works are due to commence within the first quarter of
 
 2024 at Castlemahon Graveyard.
----
+
+[[PAGE_END:6]]
+
 7
 
 NOTICES OF MOTION
@@ -510,7 +523,9 @@ Limerick City and County Council will carry out a survey under the GEO App
 and forward to TII for inclusion under the Minor Maintenance Pavement
 
 Programme.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Ruddle expressed dissatisfaction at the sunken condition
@@ -576,7 +591,9 @@ renewed between Moanroe and Broadford in the interest of safety.
 ***West be brought in line with the rate which applies to residents of Limerick city.***
 
 The Motion was seconded by Councillor Galvin.
----
+
+[[PAGE_END:8]]
+
 9
 
 REPLY:
@@ -652,7 +669,9 @@ matter.
 The repair of manhole covers in New Street, Abbeyfeale, outside the Pharmacy on the
 
 Killarney Road and in front of the National School in Abbeyfeale was raised. In replying, the
----
+
+[[PAGE_END:9]]
+
 10
 
 Senior Executive Engineer stated that there are two projects commencing in the Abbeyfeale
@@ -680,4 +699,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

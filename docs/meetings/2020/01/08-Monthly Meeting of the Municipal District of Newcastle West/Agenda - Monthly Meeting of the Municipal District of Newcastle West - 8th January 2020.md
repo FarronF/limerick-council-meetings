@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%202020-01-08%20Agenda%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 8th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%202020-01-08%20Agenda%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Drache Bardais an Chaisledin Nua Thiar,
-& Contae Luimnigh Cormbhuairie Cattwach agus Contae Luimnigh,
+Comhairle Cathrach Drache Bardais an Chaisleain Nua Thiar,
+& Contae Luimnigh Comhairle Cathwach agus Contae Luimnigh,
 
 ot
 
 Aras William Smith O'Brien,
 
 Gortbul,
-=_> Limerick City An Caistean Nua Thias,
-& County Council Co. Lasmnigh.
+=> Limerick City An Caistean Nua Thias,
+& County Council Go. Lasmnigh.
 
 Newcastle West Municipal District,
-Limerick City and County Council
-Aras Wiliam Smith O'Brien,
+Linverick City and County Council
+Aras Wittiam Smith O'Brien,
 
 Gortboy,
 Newcastle West,
@@ -51,7 +52,7 @@ at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-«et CoAeba
+«et CoAche
 ar; Corbett,
 Meetings Administrator.
 AGENDA
@@ -66,14 +67,16 @@ To note progress report from the Housing Development Directorate.
 To review position in relation to allocations under the General Municipal Allocation
 2019 & 2020.
 © customerservices@limerickte
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevews.imerick to
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevess imerick to
 Corporate Headquarters, Merchant's Quay, Limerick y
 
 @LimerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ADJOURNED QUESTIONS
@@ -83,7 +86,7 @@ Questions submitted by Councillor T. Ruddle
 Newcastle West Municipal District broken down as follows: (a) Newcastle West
 town, (b) Kilmeedy, (c) Dromcollogher, (d) Broadford, (e) Feenagh,(f) Castletown-
 Ballyagran, (g) Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbeyfeale,(!)
-Mountcollins, (m)Tournafullan) Templeglantine, (0) Ardagh-Carrigkerry (p)
+Mountcollins, (m)Tournafulla,n) Templeglantine, (0) Ardagh-Carrigkerry (p)
 Raheenagh (q) Ashford (r) Monagea (s) Athea.
 
 | will ask at the next Meeting if there has been any discussion with people on the
@@ -106,7 +109,6 @@ Newcastle West town in particular at Upper Maiden Street and Churchtown and that
 these roads should be placed on the Roads Programme 2020.
 
 NOTICES OF MOTION
-
 Notices of Motion submitted by Councillor J. Sheahan
 
 | will move at the next Meeting that the derelict property Dr. McGrath’s old surgery
@@ -118,4 +120,6 @@ statement for the village of Athea including public realm and traffic calming at
 entrances and exits in the village.
 
 
----
+
+[[PAGE_END:2]]
+

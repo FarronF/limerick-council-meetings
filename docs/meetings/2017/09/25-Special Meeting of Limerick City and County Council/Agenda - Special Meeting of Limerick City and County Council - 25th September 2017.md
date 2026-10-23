@@ -16,22 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/Agenda%20-%20Special%20Meeting%20of%20Council%20250917.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 25th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/Agenda%20-%20Special%20Meeting%20of%20Council%20250917.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
-__—_—_—" & Contae Luimnigh
-a —_—_—
+_—_—_— & Contae Luimnigh
+aaa —
 — Limerick City
 & County Council
 
 6" September, 2017.
 
-Seirbhisi Corpardideacha,
-
-Comhairle Cathrach agus Contae Luimnigh.
+Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathri Chorpardideach,
 
 Cé na gCeannaithe.
@@ -65,36 +64,35 @@ Requisition.
 
 Is mise le meas,
 
-s
+.
 CQ, a
 Christy O’Connor,
 Meetings Administrator.
 
-Ceanncheathri Chorparaéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-@ customerservicesalimerick.ie
-oe wevewslimerick.te
+@ customerservices@limerick.ie
+oe wrewslimerick.te
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ADR MO ™
+a
 
 <>
 
-— { os ee : o™~Afe,,
-\ : a
-
-COMHAIRLE >. a
-CATHRACH 6 CONTAE Moet Ser
-Luimnt gh Councillor Richard O'Donoghue
-Limerick sinc Novatel, m. 087-2565393 .
-COUNTY an Gharrat Ballingarry, © richard cdonog'ywetimerick!
-al Fy Co. Luimaigh Co. Umerick
+COMHAIRLE ~~. a
+CATHRACH 6 CONTAE Clete Ser
+Luimni gh Councillor Richard O'Donoghue
+Limerick Sica Novara, m. 087-2565393 .
+COUNTY an Gharrat Ballingarry, © richard odonogywettimerick|
+ald FA Co. Luimaigh Co. Umerick
 
 Monday 31" August 2017
 
@@ -105,25 +103,24 @@ Heather Humphries, who visited Knockfierna Hill, Ballingarry. Co. Limerick and a
 ihe Ume advised “ that Knockfierna Heritage Site would be an idea! location for the
 Commemoration but any application would have to be supported by the Local
 Authority.”
-This was not broughi to the attention of the Local Councillors, by the Local Authority.
+'his was not broughi to the attcntion of the Local Councillors, by the Local Authority.
 as instructed by the Minister.
 
 ¢
-Chis National Famine Commemoration event will now be held in Ballingarry, Co.
-Tipperary. Af 2). “7
+This National Famine Commemoration event will now be held in Ballingarry, Co.
+Tipperary. Af 2. “7
 
-ff ff
-«ick
-CGIAR 2 -tdas Kyau af
-| hescaep : he, 2a LOVE
+ff /
+| hescas ; hx, 2a ZOE
 
-Lnnadln Eeeynly MULNEL
+ued Leuenhs ene .
 
-wt Koa Sin 0
-co A Ver Bisse
+alt he
 
-(lt. Cok. Asi 282,
+(lke. Col As 28G2
 
 
 
----
+
+[[PAGE_END:2]]
+

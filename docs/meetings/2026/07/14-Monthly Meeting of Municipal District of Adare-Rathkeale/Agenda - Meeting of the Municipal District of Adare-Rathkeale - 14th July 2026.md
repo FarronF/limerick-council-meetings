@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-july-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 14th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+EE Comhairle Cathwach Ceantar Bardasach Ath Dara-Rath Caola,
 
 & Contae Luirmnigh Comhairle Cathrach agus Contae Luimnigh,
-Ara ¢
+Are C
 
-Ars ——_ _ ras Séan Finn,
+Ars ——_ aa ras Séan Finn,
 
-Limerick city path Cac
+Limerick City path Cac
 & County Council Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
@@ -42,7 +43,7 @@ Rathkeale,
 Co. Limerick.
 
 th
-9" July, 2026. EIRCODE V94 HKLV
+9™ July, 2026. EIRCODE V94 HKLV
 
 t: +353 (0) 69 64047
 f: +353 (0) 69 63188
@@ -65,22 +66,24 @@ Meetings Administrator.
 AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
-(a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 9” June, 2026.
+(a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 9" June, 2026.
 
 (b) Special Meeting of the Municipal District of Adare-Rathkeale held on 30" June, 2026.
-(c) Annual Meeting of the Municipal District of Adare-Rathkeale held on 30" June, 2026.
+(c) Annual Meeting of the Municipal District of Adare-Rathkeale held on 30™ June, 2026.
 
 (Copies Enclosed).
 2. Declaration of Interest
-m= customerservices@limerick.te
-Ceanncheathria Chorpardideach, Cé na gCeannaithe,Luimneach | © vevewslimerick.ie
+i= customerservices@limerick.te
+Ceanncheathria Chorpardideach, Cé na gCeannaithe,Luimneach | © vevevalimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick.
 
 @LimerickCouncil
-061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -115,4 +118,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-12th-may-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 12th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-12th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-& Contae Luimnigh Comnante Cathvach agus come reba
-ADR LON ah Tt
+& Contae Luimnigh Comnarte Cathvach agus cme oe
+NT ak it ly
 
-4 Limerick City Line Nu
+fe Limerick City Line Nu
 = & County Council Rath Cacta,
 
 Co, Luimnigh.
@@ -38,7 +39,7 @@ New Line,
 
 Rathkeale,
 
-Co. Limenck.
+Co. Limerick.
 
 EIRCODE V94 HKLV
 
@@ -71,26 +72,29 @@ on 14" April, 2026.
 (Copy Enclosed).
 2. Declaration of Interest
 =
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach | yi www. timerick.te
+Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach | pi www.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 © 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Transportation, Mobility and Public Realm Directorate
-Part 8 Procedure — Adare Public Realm Project
-To consider the Mayor's Report pursuant to Section 179 3(a) of the Planning and
 
+Part 8 Procedure — Adare Public Realm Project
+
+To consider the Mayor's Report pursuant to Section 179 3(a) of the Planning and
 Development Act, 2000 (as amended) and Part 8 of the Planning and Development
 Regulations, 2001 (as amended) in relation to the Adare Public Realm Project.
 
 (Report Enclosed).
 District Engineers Report
-To update Members on issues of interest in the District.
 
+To update Members on issues of interest in the District.
 (Report Enclosed).
 
 Active Travel Scheme, Adare
@@ -103,4 +107,6 @@ To review position in relation to allocations under the General Municipal Alloca
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

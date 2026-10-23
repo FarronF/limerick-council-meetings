@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-agenda-budget-meeting-1.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Cappamore-Kilmallock Municipal District - 15th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-agenda-budget-meeting-1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AN ff
+a
 
-Comhairle Cathrach Comhairie Cathrach agus Contae Luimmnigh,
-& Contae Luimnigh Olfig an Cheantaty, Aras Mhainchin Seoighe,
+Comhairle Cathrach Comhairle Cathrach agus Contae Luimmnigh,
+& Contae Luimnigh Olfig an Cheantaty, Aras Mhainchin Seoighe.
 
 Cill Mochealég,
 
-Py A ‘ Co, Luimrigh
-— Limerick City
+Py . ‘ Co, Luimrigh
+ss Limerick City
 
 & County Council Limenck City and County Council,
 
 Aras Mainchin Seoighe Area Office,
 
-Mlnaliock,
+Mnaliock,
 
 Co. Limerick
 
@@ -55,7 +56,7 @@ You are requested to attend a Workshop and Meeting to consider the Draft Budgeta
 2021 for the Municipal District of Cappamore-Kilmallock to be held on Thursday 15" October
 2020 in the Deebert House Hotel, Deebert, Kilmallock, Co. Limerick.
 
-°¢ 3pm Workshop;
+° 3pm Workshop;
 © 3.30pm Meeting.
 
 The business to be transacted is set out on the appended Agenda.
@@ -65,11 +66,13 @@ Is mise le meas,
 (i) To consider the Draft Budgetary Plan 2021 for the Municipal District of
 Cappamore-Kilmallock.
 
-& customerservices@limerick.ie
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © werlimerick.te
+& customerserviceselimerick.ie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © werimerick.te
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncit
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

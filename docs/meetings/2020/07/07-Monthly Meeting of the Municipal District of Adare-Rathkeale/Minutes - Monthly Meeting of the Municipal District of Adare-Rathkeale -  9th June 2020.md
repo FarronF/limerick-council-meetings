@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-a-minutes-of-monthly-meeting-09th-june-2020_0.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale -  9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-a-minutes-of-monthly-meeting-09th-june-2020_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -82,7 +83,9 @@ The Senior Executive Engineer informed Councillor O’Brien the list could be ac
 through Tom Hernon, Central Services, HQ to ascertain how many schemes are proposed
 
 for completion in 2021.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Collins requested an update regarding training with Transport Infrastructure
@@ -156,7 +159,9 @@ due course.
 Glenameade, Kildimo area following a recent oil spill on the N69. Councillor
 
 O’Brien advised some residents in that area have fresh water wells and asked the
----
+
+[[PAGE_END:2]]
+
 3
 
 Environment Department make contact with them due to the possibility of
@@ -250,7 +255,9 @@ Ballingarry Town Park
 Ballingarry Development Association
 
 €1,000
----
+
+[[PAGE_END:3]]
+
 4
 
 **Councillor Teskey**
@@ -322,7 +329,9 @@ Councillor Teskey proposed a letter be sent from the District to the Bank of Ire
 asking what the current status for the reopening schedule of all branches in the District.
 
 This was seconded by Councillor Sheahan and agreed.
----
+
+[[PAGE_END:4]]
+
 5
 
 Councillor Keary advised he has serious reservations about the condition of some parts
@@ -342,4 +351,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

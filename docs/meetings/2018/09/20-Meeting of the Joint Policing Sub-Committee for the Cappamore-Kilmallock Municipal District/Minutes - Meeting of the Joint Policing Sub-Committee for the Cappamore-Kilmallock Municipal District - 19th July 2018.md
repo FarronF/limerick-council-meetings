@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/02%20Minutes%20of%20Joint%20Policing%20Sub%20Committee%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20held%20on%20Thursday%2019th%20July%2C%202018.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee for the Cappamore-Kilmallock Municipal District - 19th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/02%20Minutes%20of%20Joint%20Policing%20Sub%20Committee%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20held%20on%20Thursday%2019th%20July%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
@@ -65,7 +66,9 @@ the formal launch and communication of this initiative was likely to take place 
 2018.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members acknowledged the work done by An Garda Siochana in the District and
@@ -96,4 +99,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

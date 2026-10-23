@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 14th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-Comhairie Cathvach egus Contae Luimmnigh,
-Se & Contae Luimnigh Aras Stan Forwn.
-Limerick Cit coe
+_—__ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+Comhairie Cathvach agus Contae Luimmnigh,
+a = & Contae Luimnigh Aras Stan Pow.
+Limerick Cit ry sg
 
-=> yY | Réth Cacia,
+=> yY _ Rath Cacia,
 
 & County Council Co. Luimnigh.
 
-Adare-Rathkeale Municipal District.
+Adare-Rathkeale Municipal District,
 
 Limerick City and County Council
 
@@ -57,7 +58,7 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-}
+:
 Karen 3s
 
 Meetings Administrator.
@@ -67,18 +68,20 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
-on 10” December, 2024.
+on 10" December, 2024.
 
 (Copy Enclosed).
 2. Declaration of Interest
 = ces@limerickie
-Ceanncheathri Chorpardideach, Cé na Warrenty Luimneach | www.timerickie
+Ceanncheathri Chorparaideach, Cé na preci Luimneach | www.timerickie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -119,4 +122,6 @@ burner if the current burner is unrepairable.
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

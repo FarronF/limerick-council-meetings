@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 14th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ Management Plan at the December District Meeting, which to date had not been
 furnished to Members, and again requested this matter be followed up by the Meetings
 
 Administrator.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -158,7 +161,9 @@ allocate €2,000 to Askeaton Civic Trust.
 **I will ask at the next Meeting given the fact that the proposed works to the Adare**
 
 **Heritage Centre have gone on display on E tenders can the Council confirm if it has**
----
+
+[[PAGE_END:2]]
+
 3
 
 **monies sanctioned for the proposed project if so how much is allocated and from what**
@@ -234,7 +239,9 @@ conditions these properties would not have heating or cooking facilities with ai
 installation. Councillor Teskey added there also is an extra burden on people with
 
 medial conditions who are reliant on electricity and added the Housing Adaptation Grant
----
+
+[[PAGE_END:3]]
+
 4
 
 scheme should be amended to include funding to purchase of generator for private
@@ -280,4 +287,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

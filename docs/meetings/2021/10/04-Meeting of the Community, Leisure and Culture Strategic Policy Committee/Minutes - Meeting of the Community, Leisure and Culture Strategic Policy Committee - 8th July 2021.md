@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-meeting-of-the-community-leisure-and-culture-strategic-policy-committee.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 8th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-meeting-of-the-community-leisure-and-culture-strategic-policy-committee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Community, Leisure & Culture Strategic Policy Committee Meeting 08/07/2021
@@ -37,7 +38,7 @@ Cllr. Elisa O’ Donovan
 Cllr. Dan McSweeney
 Cllr. Azad Talukder
 Clir. Francis Foley
-Cllr. Pj Carey
+Cllr, Pj Carey
 
 Cllr. Gerald Mitchell
 Cllr, Frankie Daly
@@ -68,7 +69,9 @@ Item 2: Matters Arising
 There were no matters arising from the minutes of the previous meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 P Little advised the members that the first meeting of the cultural subcommittee would take
@@ -121,7 +124,9 @@ P Moles enquired if the presentation could be given to the PPN linkage groups? E
 Humphreys stated that she would be delighted to present to the PPN at a later stage. He
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 also asked a question on behalf of M Conlon who was unable to attend the meeting with
@@ -173,7 +178,9 @@ board, and then the programme will be opened up to other organisations and devel
 committees.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 J Butler stated that a lot of groups are moving out of the city to county Limerick and County
@@ -185,12 +192,12 @@ Boat Club, this club was selected because of its location and its membership. He
 that it is not always about the facilities but about people not utilising certain clubs due to
 choice. He also stated that he is aware of issues with changing facilities and access and that it
 is something that Sports Partnership are looking at when they discuss possible barriers to
-sport. Clir KO’ Hanion also mentioned use of the river and the importance of getting the canal
+sport. Clir KO’ Hanlon also mentioned use of the river and the importance of getting the canal
 revitalised and cleaned up.
 
 Cllr A Talukder outlined that there is no cricket grounds in the metropolitan area and enquired
 is there any plans for same? P Macken stated that sports partnership are working with Cricket
-Ireland and Cricket Munster on the development of cricket in Limerick and that there is
+ireland and Cricket Munster on the development of cricket in Limerick and that there is
 ongoing work at looking at potential facilities for the area.
 
 M Meaney asked what plans sports partnership have to make sports more accessible to
@@ -207,15 +214,17 @@ Item 6: Date of next Meeting.
 The next meeting of the Community, Leisure and Culture SPC will take place on Monday 4"
 October 2021 at 3pm.
 
-Cilr O’ Hanlon thanked all speakers and acknowledged the hard work they had put in to
+Cllr O’ Hanlon thanked all speakers and acknowledged the hard work they had put in to
 today’s presentations. As there were no other matters for discussion, the meeting was
 brought to a close.
 
-Minutes Proposed By_ OAc Miclaol Oconee,
+Minutes Proposed by_ OAc Miclaol Ocnec,
 
-Minutes Seconded By: Ade Saco 1 s614
+Minutes Seconded By: Air Saco 1 soi
 
-Minutes Signed By Chair: Mara Qala et ela
+Minutes Signed By Chair: Mara AQ allan va Blan
 
 
----
+
+[[PAGE_END:4]]
+

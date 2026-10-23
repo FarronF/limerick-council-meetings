@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/item-1-minutes-of-spc-26th-april-2021.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 26th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/item-1-minutes-of-spc-26th-april-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON MONDAY 26th** **April, 2021 AT 2PM**
@@ -96,7 +97,9 @@ very difficult to get work carried out as Council Meetings were held bi-monthly 
 motions referred from SPC meetings could take up to 6 weeks to be considered at Full Council
 
 meeting and they also requested more prompt action from outcomes from Council meetings.
----
+
+[[PAGE_END:1]]
+
 M Lyes welcomed the 10 days’ notice for ordinary meetings, which allows sectoral representatives
 
 the opportunity to consult with their relevant sectors. She stated that it was fundamental to the
@@ -188,7 +191,9 @@ He also informed members that master planning was nearing completion on the Clee
 that it was proposed that it would be for a mixed use development and that once plans were in
 
 place, further information would be made available to members.
----
+
+[[PAGE_END:2]]
+
 Replying to members, he also confirmed that the Community Department were currently awaiting
 
 the outcome of funding for a number of projects in towns and villages in Limerick under the Rural
@@ -266,7 +271,9 @@ Street Events Licensing and the Urban Animation Investment Scheme
 The main points of the various schemes are:
 
  Up to €4,000 available to businesses to purchase additional outdoor seating/equipment
----
+
+[[PAGE_END:3]]
+
  Up to 19 Buildouts (widening of footpaths – 10 in Limerick Metropolitan District and 3 in
 
 each Municipal District) to facilitate outdoor dining, where heretofore it was not possible
@@ -344,7 +351,9 @@ walk and was informed by V. Murray that the Physical Directorate would be implem
 number of initiatives in the area for the Summer period and he would discuss proposals with B.
 
 Kennedy, Director of Service and report back to members.
----
+
+[[PAGE_END:4]]
+
 V. Murray assured members that he would discuss the matter of setting up of a Taskforce for the
 
 roll-out of the various schemes with the Chief Executive.
@@ -394,4 +403,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:5]]
+

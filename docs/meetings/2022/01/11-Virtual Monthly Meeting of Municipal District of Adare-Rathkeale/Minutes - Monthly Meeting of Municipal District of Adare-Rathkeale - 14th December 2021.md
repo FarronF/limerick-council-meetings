@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-minutes-of-monthly-meeting-14th-december-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-minutes-of-monthly-meeting-14th-december-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE RATHKEALE HOUSE HOTEL, RATHKEALE, CO. LIMERICK ON**
@@ -84,7 +85,9 @@ And Resolved:
 The Administrative Officer, Dereliction Vacancy and Reuse gave Members a presentation
 
 on the dereliction/vacancy in the Adare-Rathkeale Municipal District.
----
+
+[[PAGE_END:1]]
+
 2
 
 Discussion ensued, Councillor Keary expressed concern that a large portion of properties
@@ -162,7 +165,9 @@ Area Office and agreed to work with staff on this issue.
 Proposed by Councillor Teskey;
 
 Seconded by Councillor Collins;
----
+
+[[PAGE_END:2]]
+
 3
 
 And Resolved:
@@ -232,7 +237,9 @@ for the Maigue River Walk project. The Senior Executive Engineer, Service
 Operations West Division advised there are currently unresolved legal issues
 
 around the installation of CCTV cameras.
----
+
+[[PAGE_END:3]]
+
 4
 
  Councillor O’Donoghue requested an update on the issue of parking in Croom.
@@ -304,7 +311,9 @@ This was seconded by Councillor Teskey and agreed.
 **Irish Water provide all relevant information for a full breakdown on the issue of the**
 
 **boil water notice in Fedamore village: (1) When and what was detected for the boil**
----
+
+[[PAGE_END:4]]
+
 5
 
 **notice to be put in place (2) How many houses/people are affected (3) What has been**
@@ -384,7 +393,9 @@ be boiled before use.
 *installed and is presently at commissioning stage. Works are also being*
 
 *undertaken to connect the Fedamore Water Supply Scheme to an adjoining group*
----
+
+[[PAGE_END:5]]
+
 6
 
 *scheme which will provide future resilience during drought or interruptions. The*
@@ -458,7 +469,9 @@ Water’ can be used if no other water is available, for as short a time as poss
 important to keep babies hydrated. Great care should be taken with boiled water to
 
 avoid burns and scalds as accidents can easily happen, especially with children.
----
+
+[[PAGE_END:6]]
+
 7
 
 **7.**
@@ -534,7 +547,9 @@ due course.
 The motion was proposed by Councillor Sheahan, seconded by Councillor Collins and
 
 agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 **Reply:**
@@ -604,7 +619,9 @@ property is assessed in detail to ‘scope’ the nature and extent of the works
 required to be completed.
 
 A cost estimate based upon this scoping is then prepared.
----
+
+[[PAGE_END:8]]
+
 9
 
 A bundle of units is then included in a specific Lot and a submission is
@@ -674,7 +691,9 @@ Correspondence was noted and taken as read.
  Councillor Collins stated An Bord Pleanála had again pushed out their decision
 
 date for the Limerick to Foynes Road, including the Adare Bypass and requested
----
+
+[[PAGE_END:9]]
+
 10
 
 the Council plead with them to make a decision as it is impossible to hold events
@@ -696,4 +715,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:10]]
+

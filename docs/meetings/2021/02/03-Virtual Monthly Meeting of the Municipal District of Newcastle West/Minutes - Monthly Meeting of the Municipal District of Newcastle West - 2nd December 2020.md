@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-2020-12-02-minutes-december.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-2020-12-02-minutes-december.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ West District.
 The Cathaoirleach welcomed the Director, Housing Development and the A/Senior
 
 Executive Planner, Housing Development to the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director and Acting Senior Executive Planner gave an update to the Members on the
@@ -178,7 +181,9 @@ Item added to the Standing Orders to regulate the holding of remote meetings sho
 approved. The addition of the Supplementary Item to Standing Order was proposed by
 
 Councillor Sheahan and seconded by Councillor Scanlan with the recommendation that the
----
+
+[[PAGE_END:2]]
+
 3
 
 need for this Supplementary item be reviewed in June, 2021. Councillor Galvin also noted his
@@ -246,7 +251,9 @@ tenants of this option has been limited.
 Once the pilot project is complete, a full review will be undertaken which will
 
 formulate the basis of any future “self-help” scheme.
----
+
+[[PAGE_END:3]]
+
 4
 
 In addition, for clarity purposes, under insurance advice previously sought by
@@ -328,7 +335,9 @@ Infrastructure Ireland to Kerry County Council for road improvements and noted t
 should also be made available to Limerick City and County Council to progress the necessary
 
 works at Wards Cross and Devon Cross.
----
+
+[[PAGE_END:4]]
+
 5
 
 7.
@@ -408,7 +417,9 @@ REPLY:
 The above can be considered for a Low Cost Safety Scheme. However as an
 
 interim measure road markings will be improved in this area.
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTION
@@ -480,7 +491,9 @@ Roads allocation.
 In proposing the Motion, Councillor Galvin requested that a pedestrian crossing be provided
 
 in the interest of child safety and that funding of this crossing be considered under the Great
----
+
+[[PAGE_END:6]]
+
 7
 
 Southern Greenway Project.
@@ -548,7 +561,9 @@ referred to. In replying, the Executive Engineer gave an update to the Members o
 matter. He agreed to follow up on overgrown hedges at forestry owned lands in the Municipal
 
 District.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Senior Executive Engineer gave an update to the Members on the Newcastle West
@@ -596,4 +611,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ the design process.
 • Members request for the site to be connected to the water main and associated
 
 costs – Connecting the site to the water mains supply on the N69 would cost
----
+
+[[PAGE_END:1]]
+
 2
 
 approximately €54,000 ex. VAT in construction costs and an additional cost of
@@ -160,7 +163,9 @@ Following further discussion Councillor Collins proposed the Part VIII be adopte
 presented and thanked and acknowledged the team for the contribution and work they
 
 have put into the project to date.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Ward proposed a five minute adjournment to allow Members a private
@@ -230,4 +235,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

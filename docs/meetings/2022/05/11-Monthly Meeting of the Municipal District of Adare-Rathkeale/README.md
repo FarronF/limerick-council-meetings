@@ -28,9 +28,9 @@ Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th May 20
 
 Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Minutes%2012th%20April%2C%202022.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%C2%A0of%20the%C2%A0Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20April%202022.md)
 
-Disposal of Land_ 20 Bottlehill, Cappagh, Ballinvirick, Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/03%20%28a%29%20Disposal%20of%20Land%20at%20Bottlehill%2C%20Cappagh%20Ballinvirick%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: 20 Bottlehill, Cappagh, Ballinvirick, Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/03%20%28a%29%20Disposal%20of%20Land%20at%20Bottlehill%2C%20Cappagh%20Ballinvirick%2C%20Co.%20Limerick.pdf) - Text not extracted
 
-Disposal of Land_ Moneymohill, Ballyhahill, Co. Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/03%20%28b%29%20Disposal%20of%20Land%20at%20Moneymohill%2C%20Ballyhahill%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: Moneymohill, Ballyhahill, Co. Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/03%20%28b%29%20Disposal%20of%20Land%20at%20Moneymohill%2C%20Ballyhahill%2C%20Co.%20Limerick.pdf) - Text not extracted
 
 Adare Community Trust - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/04%20Adare%20Community%20Trust.pdf) - Text not extracted
 

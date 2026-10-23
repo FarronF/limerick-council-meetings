@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/01-minutes.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 17th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/01-minutes.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -57,7 +58,7 @@ Seconded by: Councillor Stokes
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
-2. Declaration of Interests
+2. Declaration of interests
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 2001, as amended, and the Code of Conduct, he was inviting those present to notify the
@@ -66,7 +67,9 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 There was no interest declared.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Rural, Cultural, Community & Tourism Development Directorate
@@ -78,7 +81,7 @@ Ceremony which had been recently announced for Kilmallock on the 17" May, 2025.
 
 He outlined how the event would take place in the Kilmallock Famine Memorial Park, which
 is located within the historic Kilmallock Union Workhouse complex. The ceremony will be
-attended by President Michael D. Higgins; Patrick O’Donovan, Minister for Arts, Culture,
+attended by President Michael D. Higgins; Patrick O'Donovan, Minister for Arts, Culture,
 Communications, Media and Sport; John Moran, Mayor of Limerick, along with other
 dignitaries and invited guests.
 
@@ -113,7 +116,9 @@ Seconded by: Councillor Teefy;
 And Resolved,
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 That the General Municipal Allocation (GMA) Projects 2025 for the Municipal District of
@@ -134,36 +139,36 @@ That the Community Initiative Scheme 2025 outlined below, be adopted.
 
 Community Initiative Scheme 2025
 
-‘ Coshlea Historical Society | €2,000
+| Coshlea Historical Society | €2,000
 
 Questions
 6. Question submitted by Councillor Carey
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an
-
 update on my motion from December 2024 regarding the audit and inspection of doors
-
 and windows at Riverview Estate, Kilmallock, Co. Limerick. | will ask how many units
 have been inspected and how many of these have had work done.
 
 REPLY:
+
 Riverview Estate:
 
-° 37 no. properties in Riverview Estate;
+. 37 no. properties in Riverview Estate;
+
 . Works carried out to 11 no. properties;
 
 . No maintenance cases raised in relation to windows & doors from remaining 26
-
 no. properties in 2024 and 2025.
 
 7. Question submitted by Councillor Carey
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an
-
 update on my motion from March 2023 regarding the audit and inspection of doors and
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 windows at Radharc Na Cille Estate, Kilmallock, Co. Limerick. | will ask how many units
@@ -173,13 +178,13 @@ REPLY:
 
 Radharc Na Cille:
 
-¢ 24no., Properties in Radharc Na Cille, Kilmallock:
+* 24no., Properties in Radharc Na Cille, Kilmallock:
 
 * 1no. Vacant Property;
 
 * Works carried out to 14 no. Properties;
 
-¢ No maintenance cases raised for remaining 9 no. properties in 2024 &2025.
+* No maintenance cases raised for remaining 9 no. properties in 2024 &2025.
 
 8. Question submitted by Councillor Teefy
 
@@ -202,7 +207,7 @@ Limerick City & County Council would roll out the use of CCTV cameras, or any ot
 initiatives in the Cappamore-Kilmallock Municipal District, to work on combating the
 blight on our District of the illegal dumping of roadside rubbish.
 
-The Notice of Motion was proposed by Cllr M. Ryan, seconded by Cllr Carey, and agreed.
+The Notice of Motion was proposed by Clir M. Ryan, seconded by Cllr Carey, and agreed.
 REPLY:
 
 In 2024, the Local Government Management Agency (LGMA) published 2 Code of
@@ -211,7 +216,9 @@ the Circular Economy Act 2022. It allows local authorities to install CCTV and p
 data for enforcement, where It is proportionate to do so. The Code sets out a detailed
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 process, which must be followed in order to install CCTV schemes lawfully for this
@@ -263,7 +270,9 @@ traffic management survey be carried out on Sarsfield Street, Kilmallock with a 
 placing a pedestrian crossing near Friars Gate.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Notice of Motion was proposed by Cllr Conway, seconded by Cllr Carey, and agreed.
@@ -297,4 +306,6 @@ Signed:
 Cathacirleach
 
 
----
+
+[[PAGE_END:6]]
+

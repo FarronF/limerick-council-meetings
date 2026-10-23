@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 4th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -106,7 +107,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -178,7 +181,9 @@ Planning and Development Act, 2000 (as amended)”.
 Planning, Environment and Place-Making Directorate
 
 Taking in Charge of Estates – Declaration of Roads to be Public Roads
----
+
+[[PAGE_END:2]]
+
 3
 
 (a)To consider the Taking in Charge of Estate Knight’s Court,
@@ -246,7 +251,9 @@ General Municipal Allocation (GMA)
 On the proposal of Councillor Galvin, seconded by Councillor Ruddle, it was agreed to allocate
 
 €1,500 to footpaths in Athea.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was agreed to
@@ -318,7 +325,9 @@ REPLY:
 Limerick City and County Council has engaged the services of CES Ltd, who has carried out
 
 extensive power cleansing of the surface water network in Kilmeedy, Newcastle West and
----
+
+[[PAGE_END:4]]
+
 5
 
 Abbeyfeale. The outcomes is to determine the condition of the pipe network, clear blockages
@@ -388,7 +397,9 @@ town is to be allocated on a pro-rata basis with the Limerick City allocation th
 for the Members at the Annual Budget Meeting.
 
 In proposing the Motion, Councillor Scanlan requested that funding be provided for Christmas
----
+
+[[PAGE_END:5]]
+
 6
 
 lighting in the town of Newcastle West on a pro-rata basis with Limerick city. A discussion
@@ -458,7 +469,9 @@ in the Municipal District of Newcastle West. One is located in Top Yard, Newcast
 one in Doonakenna. Both of these supervisors have crews operating out of these locations.
 
 Any additions to these bases would have staffing and financial implications that would need
----
+
+[[PAGE_END:6]]
+
 7
 
 to be approved by both Transportation Management and Human Resources. Regardless of
@@ -530,7 +543,9 @@ investigations which were carried out and thanked the landowners for their co-op
 stated that both schemes are sub-threshold for mandatory EIAR (Environmental Impact
 
 Assessment Report) and that following contact and recommendation from Limerick City and
----
+
+[[PAGE_END:7]]
+
 8
 
 County Council, An Bórd Pleanála directed that an EIAR be prepared which is ongoing at
@@ -608,7 +623,9 @@ Road in Abbeyfeale and to the length of time taken to remove ESB poles near the 
 and to an application made to the ESB with regard to this matter. In replying, the Director
 
 agreed to liaise with the ESB to get this issue resolved as soon as possible.
----
+
+[[PAGE_END:8]]
+
 9
 
 An update was sought on the Devon Road Cross, Templeglantine, and in replying, the Senior
@@ -680,6 +697,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+
 10
----
+
+[[PAGE_END:10]]
+

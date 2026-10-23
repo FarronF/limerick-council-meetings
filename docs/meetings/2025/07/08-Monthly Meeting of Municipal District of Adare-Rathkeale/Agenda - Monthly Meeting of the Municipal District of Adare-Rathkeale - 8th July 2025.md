@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-8th-july-2025_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-8th-july-2025_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach
+i Comhairle Cathrach
 & Contae Luimnigh
 
-— Limerick City
+=— Limerick City
 & County Council
 
-3 July, 2025.
+3" July, 2025.
 
 A Chomhairleoir, a chara,
 
@@ -35,9 +36,9 @@ Ceantar Bardasach Ath Dara-Rath Caola
 Comhairle Cathvach agus Contae Luimnigh
 Aras Séan Finny
 
-ine Nua.
+Line Nua.
 
-Rath Caola,
+Rath Caola.
 
 Co. Luimnigh
 
@@ -47,14 +48,14 @@ Aras Sean Finn,
 
 New Line,
 
-Rathkeale,
+Rathikeale,
 
 Co. imerick
 
 EIRCODE V94 HKIV
 
-t: 4353 (0) 69 64047
-f: +353 (0) 69 63188
+t: +353 (0) 69 64047
+f: +353 (0) 69 63198
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick AN Online via Microsoft Teams on Tuesday
@@ -82,13 +83,15 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copies Enclosed).
 
-wevew. limerick ie
+wevew. limerick te
 
 @LimerickCouncil
-\ 061-556 000
+( 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Declaration of Interest
@@ -120,7 +123,9 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2025.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -133,4 +138,6 @@ the latest update on the proposed project from the Cork/Limerick boundary to Pat
 9. A,O.B
 
 
----
+
+[[PAGE_END:3]]
+

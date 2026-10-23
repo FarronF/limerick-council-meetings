@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20190418.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20190418.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “Ars
@@ -26,15 +27,15 @@ file_type: "Agenda"
 Seirbhisi Corparaideacha.
 
 Comhairle Cathrach ; F
-: 3 Comhairle Cathrach agus Contae Luimnigh,
-_—_—_ & Contae Luimnigh Comwchaathed Charnaeakarh
+: 2 Comhairle Cathrach agus Contae Luimnigh,
+__—_—_—_ & Contae Luimnigh Comwchaatien Charneanarh
 
 Cé na gCeamnaithe,
 
-=— Limerick City Luamneach
+=—> Limerick City Luamneach
 & County Council
 
-Corporate Services.
+Corporate Serves.
 
 Limerick City and County Council
 Corporate Headquarters,
@@ -44,10 +45,10 @@ Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 61 SS71S0
+t: +353 (0) 61 SS71SO0
 f: +353 (0) 61 415 266
 
-13" April, 2018. =
+13" April, 2018. wass
 
 To/
 
@@ -58,7 +59,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 19" April,
-2018, at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
+2038, at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 ig mise le meas,
 
@@ -78,12 +79,14 @@ To note proposal for the disposal of land at Thomastown, Kilfinane, Co. Limerick
 3. General M ati
 To review the current position regarding the General Municipal Allocation 2018.
 = customerservices@limerick.te
-& wwew.timerick.ie
+& woew.timerick.ie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -117,4 +120,6 @@ of the Bruff Local Area Plan to include re-zoning of lands for residential devel
 which are required for the town.
 
 
----
+
+[[PAGE_END:2]]
+

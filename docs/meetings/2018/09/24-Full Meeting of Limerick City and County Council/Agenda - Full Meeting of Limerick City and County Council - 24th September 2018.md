@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20September%20Meeting%20240918.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 24th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20September%20Meeting%20240918.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Serbhisi Corparéideacha,
+Serbhisi Corpardideacha,
 
-_—_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+_—_—" Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathrii Chorpardideach,
-NN Gf aia Cé na gCeannaithe,
+NING . Cé na gCeannaithe,
 —>= Limerick City Luimneach
 & County Council
 
 Corporate Services,
-Limerick City and County Council,
+Limerick City and County Councit,
 Corporate Headquarters,
 Merchants Quay,
 Limerick
 EIRCODE V94 EH90
-19" September, 2018. : eee o i is 266
+19" September, 2018. : pee o at is 266
 
 To: The Mayor and Each Member of Limerick City and County
 
@@ -49,7 +50,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ja 5s Clune,
+Ja $$ Clune,
 Meetings Administrator.
 
 AGENDA
@@ -77,7 +78,9 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach  @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -86,7 +89,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 (c) Adare, Co. Limerick.
 
-(Statutory Notices dated 5", 7" and 12" September, 2018, already circulated)
+(Statutory Notices dated 5"", 7" and 12 September, 2018, already circulated)
 
 (Report also enclosed in relation to Item 2 (c) — Disposal of Land at Adare)
 
@@ -98,7 +101,7 @@ Support Services Directorate
 
 (c)
 
-(4)
+(a)
 
 - St
 To fix date for the 2019 Statutory Budget Meeting.
@@ -127,7 +130,9 @@ healthcare nationally and her bravery and leadership in highlighting
 issues with the cervical screening programme.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
@@ -178,15 +183,18 @@ Mayor of the City and County of Limerick, as set out below, under Section 142
 (Reports Enclosed)
 
 Strategic Policy Committee Reports
+
 To consider report and recommendations:
 
 Chairperson’s Report — Cultural Strategic Policy Committee Meeting held on
-3’ September, 2018.
+3" September, 2018.
 
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Recommendation No. 1
@@ -216,17 +224,17 @@ potential as tourist attractions and encourage civic pride.”
 (i) Participation by Members at Conferences
 To consider participation by Members at the following:
 
-(a) “Roger Casement Summer School, Peace and Neutrality Alliance” held in Duin
+(a) “Roger Casement Summer School, Peace and Neutrality Alliance” held in Dun
 Laoghaire, Co. Dublin, on 30°", 31% August and 1* September, 2018.
 
 (b) “Citizens Leading the Energy and Climate Transition” held in Clonmel, Co.
 Tipperary, on 12" September, 2018.
 
-(c) “EU Cohesion Policy 2014 — 2020” to be held in Clonakilty, Co. Cork, on 5", 6"
+(c) “EU Cohesion Policy 2014 — 2020” to be held in Clonakilty, Co. Cork, on 5", 6%
 and 7" October, 2018.
 
 (d) “A Practical Guide to Budget 2019” to be held in Carlingford, Co. Louth on
-12, 13 and 14" October, 2018.
+12, 13" and 14" October, 2018.
 
 (e) “Your Development Plan and Climate Change” to be held in Baltimore, West
 Cork, on 19", 20" and 21% October, 2018.
@@ -235,12 +243,14 @@ Cork, on 19", 20" and 21% October, 2018.
 held in Mohill, Co. Leitrim, on 22° October, 2018.
 
 (g) “Towards a Hard Brexit and its Consequences” to be held in Clonakilty, Co.
-Cork, on 26", 27" and 28" October, 2018.
+Cork, on 26", 27 and 28" October, 2018.
 
 (h) “Let’s Talk Tourism” to be held in Killarney, Co. Kerry, on 9° November, 2018.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -285,7 +295,9 @@ We will move at the next Meeting that the Budget 2019 provide €5,000 per Munic
 District per annum for Civic Receptions.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -313,4 +325,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

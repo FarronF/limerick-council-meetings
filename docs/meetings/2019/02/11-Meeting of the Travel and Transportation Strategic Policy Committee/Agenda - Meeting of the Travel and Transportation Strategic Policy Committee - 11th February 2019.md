@@ -16,40 +16,43 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/11th%20Feb%202019%20-%20Agenda%20Travel%20%26%20Transportation%20Strategic%20Policy%20Meeting.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 11th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/11th%20Feb%202019%20-%20Agenda%20Travel%20%26%20Transportation%20Strategic%20Policy%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
 
-_ & Contae Luimnigh
+—_ & Contae Luimnigh
 
 a i
-—. Limerick City
+— Limerick City
 
 & County Council
 
 5" February 2019
 
-To: The Chairperson and Each Member of the Travel & Trans: ition Strategic Poli
+To: The Chairperson and Each Member of the Travel & Trans; ition Strategic Poli
 Committee of Limerick City & County Council
 
 You are invited to attend a Meeting of the Travel and Transportation Strategic Policy
 Committee to be held in the Council r, Merchant’s Limerick, on Monday 11"
 February at 10:00 a.m. The business to be transacted is set out in the appended agenda.
 
-————
+LL
 CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
-1) pe Whe Goer
+i) p. We Ge
 Pf DIRECTOR OF SERVICE,
 
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
@@ -70,4 +73,6 @@ Dara McGuigan, A/S.E.O and Tom O'Neill, Heritage Officer.
 McAuliffe
 
 
----
+
+[[PAGE_END:2]]
+

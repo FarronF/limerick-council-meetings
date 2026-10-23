@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Minutes%20of%20Monthly%20Meeting%2008th%20November%2C%202022.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Minutes%20of%20Monthly%20Meeting%2008th%20November%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN CROOM CIVIC CENTRE, CROOM, CO. LIMERICK ON**
@@ -88,7 +89,9 @@ And Resolved:
 (a) Circulated, report of the Head of Property and Community Facilities dated 25th
 
 October, 2022 setting out proposals to dispose of derelict property on Lower Main
----
+
+[[PAGE_END:1]]
+
 2
 
 Street, Rathkeale, Co. Limerick and the intention to bring to Full Council for
@@ -158,7 +161,9 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 08th November, 2022 outlining details of proposed works, projects and future projects
 
 planned for the District.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following discussion the following issues were raised by Members:
@@ -224,7 +229,9 @@ to allocate the following:
  €1,416 to Adare Camogie Club.
 
  €1,000 to St James National School, Cappagh.
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.**
@@ -284,4 +291,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

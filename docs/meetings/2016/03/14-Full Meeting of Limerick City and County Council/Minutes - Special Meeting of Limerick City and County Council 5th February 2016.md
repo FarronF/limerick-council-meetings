@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%205th%20February%202016_0.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council 5th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%205th%20February%202016_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -78,7 +79,9 @@ Mayor Galvin pointed out that he had opened a Book of Condolence on the
 Monday and it was his intention to travel to England to the funeral to
 
 represent the people of Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Leddin pointed out that he had been Mayor of Limerick City when
@@ -134,7 +137,9 @@ on behalf of the staff, in paying tribute to Sir Terry Wogan. He referred to his
 upbringing in Limerick and to his father’s grocery shop which was located on
 
 the corner of Shannon Street and O’Connell Street.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor O’Donnell, seconded by Councillor Sheahan (J), it
@@ -154,4 +159,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

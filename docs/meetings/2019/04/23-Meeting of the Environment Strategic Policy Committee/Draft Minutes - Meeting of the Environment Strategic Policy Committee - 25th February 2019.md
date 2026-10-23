@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Draft-Minutes-of-the-Environment-Strategic-Policy-Committee-Meeting-25-Feb-2019.pdf)
+**Original file:** [Draft Minutes - Meeting of the Environment Strategic Policy Committee - 25th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Draft-Minutes-of-the-Environment-Strategic-Policy-Committee-Meeting-25-Feb-2019.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City & County Council Environment Strategic Policy**
@@ -74,7 +75,9 @@ weather events, to minimise the harmful effects and exploit any beneficial oppor
 climate change.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 The local authority sector is one of 12 sectors nationally which are charged with producing
@@ -146,7 +149,9 @@ be sent to Full Council for consideration. Cllr O’Hanlon seconded the Motion.
 “I will move at the next meeting that this Council immediately enact local bye-laws making
 
 all refuse collectors charge customers only on a pay by weight basis.”
----
+
+[[PAGE_END:2]]
+
 3
 
 In proposing the Motion, Cllr. Gilligan stated that the only payment option open to waste
@@ -172,4 +177,6 @@ appropriate.
 Following discussion by the Members, Cllr Gilligan thanked the Director for his response.
 
 Themeeting then concluded.
----
+
+[[PAGE_END:3]]
+

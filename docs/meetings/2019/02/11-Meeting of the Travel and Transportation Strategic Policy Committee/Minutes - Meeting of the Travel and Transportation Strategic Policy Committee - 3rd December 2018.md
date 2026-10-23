@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Draft%20Minutes%20Travel%20and%20Transportation%20Meeting%20-%203rd%20Dec%202018.pdf)
+**Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 3rd December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Draft%20Minutes%20Travel%20and%20Transportation%20Meeting%20-%203rd%20Dec%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_e Comhairle Cathrach
+_——_ Comhairle Cathrach
 & Contae Luimnigh
-AN ~ ,
+on |
 ——> Limerick City
 & County Council
 Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation
@@ -44,7 +45,7 @@ Officials Present:
 Mr. Brian Kennedy, Director of Service, Mr. Dara McGuigan, A/Senior Executive Officer, Ms.
 Anne Goggin, Senior Executive Engineer, Ms Sadbh Hanley, Smarter Travel Co-ordinator, Mr
 Dan Slavin, Executive Engineer, Mr. Liam Kennedy, Assistant Engineer, Ms. May Fitzgerald,
-Assistant Staff Officer, Ms. Amy O'Halloran, Clerical Officer.
+Assistant Staff Officer, Ms. Amy O’Halloran, Clerical Officer.
 
 Item 1: Adoption of Minutes
 
@@ -65,7 +66,9 @@ Limerick City and County Council would, with Clare County Council, urgently Prog
 1
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 development of the Northern Distributor Road (NDR), a vital piece of infrastructure for the
@@ -94,7 +97,7 @@ number of years, and it is vital that this development be progressed as quickly 
 Councillors had approved the variation to the local area plan to facilitate the NDR scheme, he
 stated.
 
-Clir. Secas said she was misrepresented in the media at the time, stating that she did not vote
+Cllr. Secas said she was misrepresented in the media at the time, stating that she did not vote
 for the variation, as she did not feel it was the best route, but that she was in favour of the
 road. She stated that Councillors are receiving queries about the Northern Distributor Road
 and that Members should be briefed on progress.
@@ -113,7 +116,9 @@ Limerick-Shannon Metropolitan Area Transport Strategy (L-SMATS) was scheduled fo
 the outcomes of the L-SMATS.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr. J Pond acknowledged the reply and stated that the Members of the SPC should receive a
@@ -161,9 +166,13 @@ Cllr. Pond and the Members thanked Ms. Goggin for her response.
 The Meeting then concluded.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

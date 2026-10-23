@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-09/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Com)hairle Cathvach agus Contae Luimnigh,
 ; Aras Séan Finn,
-a , i ed Line Nua,
+aArmN awn a Line Nua,
 — Limerick City Rath Caola,
 
 = & County Council Co. Luimnigh.
@@ -46,7 +47,7 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
 
-vm The business to be transacted is set out on the
+va The business to be transacted is set out on the
 appended Agenda.
 
 Is mise le meas,
@@ -59,7 +60,7 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
-on 14 July, 2026.
+on 14™ July, 2026.
 
 (Copy Enclosed).
 2. Declaration of Interest
@@ -70,14 +71,16 @@ To note proposals for the disposal of land as follows:
 (a) Disposal of Adare Heritage Centre to Discover Limerick DAC by way of a 30-year lease.
 =
 
-ee TH
-Ceanncheathra Chorpardideach, Cé na gCeannaitheLuimneach ) wevew timerick le
+Se aineidhe
+Ceanncheathra Chorpardideach, Cé na gCeannaitheLuimneach ) weew limerick le
 Corporate Headquarters, Merchants Quay, Limerick. VY @limerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -112,7 +115,7 @@ General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation 2026.
 
-, sa Scan Fownes & DiieichC ity Council
+D sa Scan Fovnes & DiimictC ity Council
 
 To receive a Deputation from Foynes & District Community Council.
 
@@ -128,7 +131,9 @@ notifications, sections and other procedures that must be in place be compliant 
 national and local policy.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -163,7 +168,7 @@ NOTICE OF MOTIONS
 Notice of Motion submitted by Councillor B. Collins
 
 | will move at the next Meeting that Limerick City and County Council write to An Garda
-Siochana, TIl and the NTA to stop bucket collections being licensed or allowed in the village
+Siochana, Til and the NTA to stop bucket collections being licensed or allowed in the village
 of Adare until after the bypass of the village is opened.
 
 Notice of Motion submitted by Councillor T. Hartigan
@@ -182,4 +187,6 @@ Community Involvement Scheme.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

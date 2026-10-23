@@ -16,16 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-6th-july-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 6th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-6th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
-& Contae Luimnigh Comhairle Cathrach agus Contae Luimnagh,
+& Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
-rf ~~ Aras Séan Finn,
-Se Limerick city ss, Coe
+Ff =~ Aras Séan Finn,
+
+A ~e*Uimeriek city Coe
 : Rath Caola,
 
 — & County Council Co, Luimnigh.
@@ -43,7 +45,7 @@ Co, Lamerick.
 EIRCODE V94 HKIV
 
 t: +353 (0) 69 64047
-f: +353 {0) 69 63188
+f: +353 {0) 69 63288
 
 01% July, 2021.
 
@@ -51,13 +53,13 @@ To:
 
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-the Council Chamber, on Tuesday, 6" July, 2021 at 9.30 a.m. The
+the Council Chamber on Tuesday, 6" July, 2021 at 9.30 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Karen a
+Karen ,
 Meetings Administrator.
 
 AGENDA
@@ -70,13 +72,15 @@ To adopt Minutes of Meeting of the following Meetings:
 
 (Copies Enclosed).
 & customorserviceselimerickie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach © vewwlimerickie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach © vewwelimerickie
 Corporate Headquarters, Merchants Quay, Limerick. ! ¥ @LimerickCouncit
 
-( 06:1 - 856 000
+( 061 - 856 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Housing Support Services
@@ -118,10 +122,12 @@ Notice of Motion submitted by Councillor B. Collins
 food or drink provides suitable bins for their customers and ensures that the environs of
 this business is kept clean and litter free.
 
-w
+ww
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -148,4 +154,6 @@ to the soccer pitch in Clonreask, Askeaton in charge.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

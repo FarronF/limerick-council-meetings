@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%20Minutes%20Monthly%20Meeting%2013th%20June%202017.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 13th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%20Minutes%20Monthly%20Meeting%2013th%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ brought to the full Council.
 It was noted that the Facilitators report on Christmas in Rathkeale was to be considered by the
 
 Management Team.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members referred to previous discussions on the activities of Approved Housing Bodies (AHBs)
@@ -154,7 +157,9 @@ The Senior Architect clarified a number of issues in relation to the Repair and 
 and noted that work was ongoing with the Derelict Sites Department to identify properties
 
 that might benefit from the scheme.
----
+
+[[PAGE_END:2]]
+
 3
 
 **2.**
@@ -230,7 +235,9 @@ The Senior Executive Engineer, Physical Development clarified the various method
 to control or eliminate the range of invasive plants and members thanked her for her
 
 informative presentation.
----
+
+[[PAGE_END:3]]
+
 4
 
 **5.**
@@ -300,7 +307,9 @@ House. The report, as circulated was noted by Members.
 **REPLY:**
 
 This work has been scheduled for the 8th June, 2017.
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICES OF MOTION**
@@ -374,7 +383,9 @@ In proposing the Motion Councillor O’Brien noted that he had received represen
 regarding road safety in Shanagolden that expressed concerns in relation to the speed of cars
 
 and trucks passing through the square.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members supported the Motion and noted the volume of trucks passing through
@@ -450,4 +461,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

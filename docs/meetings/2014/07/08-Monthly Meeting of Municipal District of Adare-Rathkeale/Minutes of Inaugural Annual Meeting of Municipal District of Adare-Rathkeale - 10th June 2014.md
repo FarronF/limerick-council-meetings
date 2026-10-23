@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_inaugural_annual_meeting_of_municipal_district_of_adare-rathkeale_-_10_june_2014.pdf)
+**Original file:** [Minutes of Inaugural Annual Meeting of Municipal District of Adare-Rathkeale - 10th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_inaugural_annual_meeting_of_municipal_district_of_adare-rathkeale_-_10_june_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
 
 THE MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS
@@ -84,7 +85,9 @@ the coming year. He said he would serve the area of Adare-Rathkeale to the best 
 his ability and that one of his main objectives for the year was to work on retaining
 
 and increasing the level of services available through the District office.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members and staff congratulated Councillor Neville and wished him well in his term
@@ -168,7 +171,9 @@ which would commence for the September Meetings. In conclusion, the Members
 were advised of Induction Training for Councillors which was being organised by the
 
 Association of Irish Local Governemnt (AILG) for Thursday, 26th June, 2014.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.**
@@ -212,4 +217,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

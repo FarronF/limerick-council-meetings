@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00-Agenda-10th-December-2019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00-Agenda-10th-December-2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
-————— Ps eantaa Lutmnigh Comhairle Cathrach agus Contae Luimnigh,
-ae ia ~ Aras Séan Finn,
+——— Ps eantaa Luimnigh Comhatrie Cathrach agus Contae Luimnigh,
+ae i ~ Aras Séan Finn,
 Line Nua,
 
 Limerick City Rath Caola,
@@ -34,17 +35,17 @@ Co. Luimnigh
 
 Adare-Rathkeale Municipal District
 Limerick City and County Council,
-Aras Sean Finn
+Aras Sean Finn,
 
 New Line.
 
 Rathkeale
 
-4* December, 2019. Co. Lirnerick
+4" December, 2019. Co. Lirnerick
 
 EIRCODE V94 HKLY
 
-To: The Cathaoirleach and Each Member of the Municipal District of ‘| ro phanel
+To: The Cathaoirleach and Each Member of the Municipal District of ‘| ro pheaneid
 Adare-Rathkeale
 
 A Chomhairleoir, a chara,
@@ -79,12 +80,14 @@ Local Area Plan in accordance with Section 20 (3) of the Planning and Developmen
 
 2000 (Amended).
 (Report Enclosed)
-= a
-Ceanncheathra Chorpardideach, Cé na gCeannaithe.Luimneach 1 wei limerickie
+= ———
+Ceanncheathra Chorpardideach, Cé na gCeannaithe.Luimneach 1 wwe limerickie
 Corporate Headquarters, Merchants Quay, Limerick, @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -129,4 +132,6 @@ the proposals that were recently proposed in relation to the new penalty points 
 (Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

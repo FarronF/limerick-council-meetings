@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2027th%20October%202017.pdf)
+**Original file:** [Minutes of Draft Budgetary Plan - Monthly Meeting of Metropolitan District of Limerick - 27th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2027th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE METROPOLITAN**
 
 **DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON**
@@ -106,4 +107,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:1]]
+

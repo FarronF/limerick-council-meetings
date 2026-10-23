@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%202018-02-07%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%202018-02-07%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—=_
+—=
 
-——
+—<—
 Limerick
 CITY & COUNTY
 
@@ -70,7 +71,7 @@ Meetings Administrator.
 
 AGENDA
 
-7 Minutes
+aL Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
 
@@ -94,12 +95,14 @@ To review position in relation to allocations under the General Municipal Alloca
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-mcustomerservices@limerickie
+@customerservices@limerickie
 @ wewlimerickie
-yw @LimerickCouncil
+w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -132,9 +135,9 @@ programme and if not, can they be included:
 | will ask at the next Meeting for an update on the progress for the dredging of the
 River in Athea.
 
-ion id by Councillor J. Scanian
+ion d by Councillor J. Scanian
 
-| will ask at the next Meeting that the Tl be requested to consider safety measures
+| will ask at the next Meeting that the TIl be requested to consider safety measures
 for traffic entering the N21 at Buckley's Cross, Templeglantine from the northern
 side.
 
@@ -150,7 +153,9 @@ Question submitted by Councillor F. Foley
 Knocknagorna Bridge in Athea.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -188,4 +193,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

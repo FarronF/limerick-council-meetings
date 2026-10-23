@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20JPC%20Meeting%2021st%20Nov%202018.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20JPC%20Meeting%2021st%20Nov%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
@@ -33,7 +34,7 @@ Councillor E. Ryan, An Cathaoirleach.
 
 MEMBERS PRESENT:
 
-Councillors Donegan, Gleeson, Mitchell, and Teety.
+Councillors Donegan, Gleeson, Mitchell, and Teefy.
 
 An apology for their inability to attend was received from Cllr O’Donnell & Cllr Sheehy.
 
@@ -66,7 +67,9 @@ owners. The Members also stressed the importance of CCTV cameras as a deterrent 
 criminals and as an important resource to support An Garda Siochana in tackling crime.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Superintendent informed the Members that the Small Area Policing Plan initiative would
@@ -99,4 +102,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

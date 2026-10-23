@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_of_special_meeting_of_the_metropolitan_district_of_limerick_-_21_july_2014.pdf)
+**Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 21st July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_of_special_meeting_of_the_metropolitan_district_of_limerick_-_21_july_2014.pdf)
 
----
+[[FILE_START]]
+
 **16th July, 2014.**
 
 **Corporate Services.**
@@ -74,7 +75,9 @@ forward draft design plans for the development of the Mungret site so that
 suitable zoning can be approved by Councillors to facilitate the provision of a
 
 Neighbourhood Park and new Primary/Secondary schools.
----
+
+[[PAGE_END:1]]
+
 4.
 
 Notice of Motion submitted by Councillor J. Leddin
@@ -118,4 +121,6 @@ the local authority area in light of the well documented evidence of suffering
 endured by the animals involved and the serious animal welfare issued
 
 raised.
----
+
+[[PAGE_END:2]]
+

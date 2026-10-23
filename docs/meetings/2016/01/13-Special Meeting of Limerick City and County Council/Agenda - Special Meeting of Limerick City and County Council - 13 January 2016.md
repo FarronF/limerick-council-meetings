@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2013%20January%202016.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 13 January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2013%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ————
 
-aAr™ i“
+ars wf *
 . .
 Limerick
 
@@ -61,7 +62,7 @@ attached Requisition.
 
 Is mise le meas,
 
-Chas S&-—
+Chas 8 &-—
 Christy O’Connor,
 Meetings Administrator.
 
@@ -69,34 +70,34 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 /
-H}/ b
-We the Fianna Fail Councillors Cait On the Mayor of Limerick City & County Council to convene a
+s/}/ b
+We the Fianna Fail Councillors Cait on the Mayor of Limerick City & County Council to convene a
 
 Special Meeting to;
 
-1. Discuss Recent Flooding and what plans are to be put in place to alleviate hardship ang
+1. Discuss Recent Flooding and what plans are to be put in place to alleviate hardship and
 financial loss for affected Land and Property Owners.
 
 damaged by recent flooding,
 James Collins MCC Noel Gleeson MCC
-/ a
+/ “
 
-Gls Bdesenan
-Michael Collins McC < ‘f- io
+Gils Sidesyenan
+Michael Collins McC <, cf. io
 
-« Cling |
-_ onl MCC Ae sheehan ICC
+«< Cling |
+a iad MCC yA) cheehan ACC
 
-Kh Dau a
-
-<a ee
+nt ee
 
 Francis Foley MCC
-Paden
+PAd cH
 
 Clie Sean Lynch
 
@@ -107,4 +108,6 @@ Cllr Kieran O'Hanlon
 Cllr Jerry O'Dea
 
 
----
+
+[[PAGE_END:2]]
+

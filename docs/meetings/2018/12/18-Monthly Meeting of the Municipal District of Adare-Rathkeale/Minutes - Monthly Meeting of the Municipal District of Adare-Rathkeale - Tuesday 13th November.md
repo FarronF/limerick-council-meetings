@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%20%28c%29%20Minutes%2013th%20November%2C%202018%20V2.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - Tuesday 13th November.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%20%28c%29%20Minutes%2013th%20November%2C%202018%20V2.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -88,7 +89,9 @@ Seconded by Councillor O’Donoghue;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(d)**
@@ -172,7 +175,9 @@ Circulated, report of the Staff Officer, Planning and Environmental Services, da
 November, 2018 setting out an update in relation to the taking in charge of An Curran,
 
 Pallaskenry. The report was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -244,7 +249,9 @@ the OPW.
 Shiels for her achievements in both European and National Clay Pigeon Shooting
 
 competitions. This was seconded by Councillor O’Donoghue.
----
+
+[[PAGE_END:3]]
+
 4
 
  The Meetings Administrator informed Members she had been in contact with Ray
@@ -312,7 +319,9 @@ O’Donoghue.
 Monthly Meeting from both Irish Water and Limerick City and County Council
 
 Water Services Department:
----
+
+[[PAGE_END:4]]
+
 5
 
 Report to identify where lead pipes are being used for drinking water in the area.
@@ -380,4 +389,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

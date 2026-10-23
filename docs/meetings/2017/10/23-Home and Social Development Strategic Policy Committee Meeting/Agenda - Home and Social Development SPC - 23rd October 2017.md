@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Home%20and%20Social%20Development%20SPC%20-%2023rd%20October%202017.pdf)
+**Original file:** [Agenda - Home and Social Development SPC - 23rd October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Home%20and%20Social%20Development%20SPC%20-%2023rd%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LIMERICK CITY & COUNTY COUNCIL
@@ -55,4 +56,6 @@ Chairperson
 Limerick City and County Council
 
 
----
+
+[[PAGE_END:1]]
+

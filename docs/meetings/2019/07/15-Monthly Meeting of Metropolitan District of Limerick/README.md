@@ -32,13 +32,13 @@ Minutes  - Annual Meeting of Metropolitan District of Limerick -  14th June 2
 
 Minutes - Special Meeting of Metropolitan District of Limerick - 20th June 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28c%29%20Minutes%20Special%20Meeting%2020th%20June%202019.pdf) - [Extracted text](./Minutes%20-%C2%A0Special%20Meeting%C2%A0of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%202019.md)
 
-Disposal of Land_ 43 O'Dwyer Villas Thomondgate - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28a%29%20Disposal%20of%20Land%20-%2043%20O%20Dwyer%20Villas%20Thomondgate.pdf) - Text not extracted
+Disposal of Land: 43 O'Dwyer Villas Thomondgate - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28a%29%20Disposal%20of%20Land%20-%2043%20O%20Dwyer%20Villas%20Thomondgate.pdf) - Text not extracted
 
-Disposal of Land_ 9 Hawthorn Court Kennedy Park - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28b%29%20Disposal%20of%20Land%20-%209%20Hawthorn%20Court%20Kennedy%20Park.pdf) - Text not extracted
+Disposal of Land: 9 Hawthorn Court Kennedy Park - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28b%29%20Disposal%20of%20Land%20-%209%20Hawthorn%20Court%20Kennedy%20Park.pdf) - Text not extracted
 
-Disposal of Land_ 25 Greenhills Road Garryowen - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28c%29%20Disposal%20of%20Land%20-%2025%20Greenhills%20Road%20Garryowen.pdf) - Text not extracted
+Disposal of Land: 25 Greenhills Road Garryowen - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28c%29%20Disposal%20of%20Land%20-%2025%20Greenhills%20Road%20Garryowen.pdf) - Text not extracted
 
-Disposal of Land_ 48 Singland Road Garryowen - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28d%29%20Disposal%20of%20Land%20-%2048%20Singland%20Road%20Garryowen.pdf) - Text not extracted
+Disposal of Land: 48 Singland Road Garryowen - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28d%29%20Disposal%20of%20Land%20-%2048%20Singland%20Road%20Garryowen.pdf) - Text not extracted
 
 Disposal of Former Southill Boxing Club - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28e%29%28i%29%20Disposal%20of%20Former%20Southill%20Boxing%20Club.pdf) - Text not extracted
 
@@ -48,11 +48,11 @@ Disposal of 36 Cecil Street - Monthly Meeting of Metropolitan District of Limer
 
 Disposal of 36 Cecil Street Map - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28f%29%28ii%29%20Disposal%20of%2036%20Cecil%20Street%20-%20Map.pdf) - Text not extracted
 
-Disposal of Land_ Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28g%29%28i%29%20Disposal%20of%20Land%20-%20Galvone%20Industrial%20Estate.pdf) - Text not extracted
+Disposal of Land: Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28g%29%28i%29%20Disposal%20of%20Land%20-%20Galvone%20Industrial%20Estate.pdf) - Text not extracted
 
-Disposal of Land_ Galvone Industrial Estate Map - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28g%29%28ii%29%20Disposal%20of%20Land%20-Galvone%20Industrial%20Estate%20-%20Map.pdf) - Text not extracted
+Disposal of Land: Galvone Industrial Estate Map - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28g%29%28ii%29%20Disposal%20of%20Land%20-Galvone%20Industrial%20Estate%20-%20Map.pdf) - Text not extracted
 
-Disposal of Properties_ Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28h%29%28i%29%20Disposal%20of%20Properties%20-%20Galvone%20Industrial%20Estate.pdf) - Text not extracted
+Disposal of Properties: Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28h%29%28i%29%20Disposal%20of%20Properties%20-%20Galvone%20Industrial%20Estate.pdf) - Text not extracted
 
 Disposal of Former Advanced Heating and Plumbing Map - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28h%29%28ii%29%20Disposal%20of%20Former%20Advanced%20Heating%20and%20Plumbing%20-%20Map.pdf) - Text not extracted
 

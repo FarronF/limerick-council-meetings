@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Item%201%20Mins%20SPC%20Mtg%2020th%20June%2022.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 20th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Item%201%20Mins%20SPC%20Mtg%2020th%20June%2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 20TH** **JUNE, 2022 at**
@@ -92,7 +93,9 @@ days of the adoption of the Plan, who subsequently may notify the Minister of an
 compliance with their recommendations, who has 6 weeks to issue a direction on the
 
 Development Plan.
----
+
+[[PAGE_END:1]]
+
 Six Local Area Plans (LAPS) have been incorporated into the Development Plan and ten LAPS
 
 will require review to ensure that they are in line with the Development Plan.
@@ -168,7 +171,9 @@ tables and chairs (€125 per table) has been waived for the remainder of the cu
 However, business owners who wish to cater for outdoor dining on public roads require a
 
 licence under S.254 of the Regulations and have Employers and Public Liability Insurance.
----
+
+[[PAGE_END:2]]
+
 While members welcomed the waiving of the fees for 2021/22, they queried the charge for
 
 future years and was informed that the fees charged were set out in the P&D Regs and such
@@ -248,7 +253,9 @@ more appropriate and would liaise directly with P. Rattigan regarding same.
 P. Rattigan pointed out that Foreign Direct Investment would not be affected in the mid-west
 
 region and that the Department of Enterprise, Trade and Employment, worked with
----
+
+[[PAGE_END:3]]
+
 stakeholders including Enterprise Ireland, the IDA and Fáilte Ireland in supporting their clients
 
 in attracting potential investments.
@@ -298,4 +305,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:4]]
+

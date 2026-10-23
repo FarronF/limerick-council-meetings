@@ -16,34 +16,40 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/00-2025-02-04-agenda.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 4th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/00-2025-02-04-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ae Comhairle Cathrach Duce Bardais an Chaisedin Nua Thiar,
-& Contae Luimnigh Conde coneises ree ae ,
+& Contae Luimnigh Conde cuneisen ree ae ,
 
-Limerick City a
-= — — An Caislean Nua Thiar,
+Limerick City ae
+—— — An Caislean Nua Thiar,
 & County Council co Luimnigh.
 
-Nevicastie West Municipal District
+Neuicastie West Municipal District
+
 Limerick City and County Council,
-Aras Willian Smith O'Brien.
+
+Aras William Smith O'Brien.
 
 Gortboy,
-Newcastle Véest,
-Co. Limerick
+
+Newcastle Vest,
+
+Co, Limerick
 
 Eircode: V42EH73
+
 30" January, 2025 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Tu 4" Fi 5
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Tu 4" F 5,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -61,14 +67,16 @@ January, 2025.
 To review position in relation to allocations under the General Municipal Allocation
 
 2025.
-@& custornerservices@limerick.ie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wevewsMmerickie
-Corporate Headquarters, Merchant's Quay, Limerick VW @limerickCouncil
+& custornerservices@limerick.te
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wevewdimerickie
+Corporate Headquarters, Merchant's Quay, Limerick VW a@limerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -95,10 +103,10 @@ entrance to the Demesne showing where we have parking available for visitors and
 shoppers to the town.
 
 ! will move at the next Meeting that the Community Council car park be made
-available for car parking to shoppers to the town, The Council have in recent times
+available for car parking to shoppers to the town. The Council have in recent times
 assisted with lighting to the car park here.
 
-Notices of Motion submitted by Councillor J. Scanlan
+Notices of Motion submitted by Councillor J. Scanian
 
 ! will move at the next Meeting that the need for enforceable average speed control
 is identified and implemented on Regional Roads within our Municipal Area.
@@ -107,4 +115,6 @@ is identified and implemented on Regional Roads within our Municipal Area.
 for a much needed Men’s Shed facility in the immediate Newcastle West vicinity.
 
 
----
+
+[[PAGE_END:2]]
+

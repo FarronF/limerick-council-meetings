@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%28b%29%202022-09-20%20Minutes%20Special%20Meeting.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 20th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%28b%29%202022-09-20%20Minutes%20Special%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -92,7 +93,9 @@ construction of 10 No. Housing Units in O’Connor Park, Reerasta
 North, Ardagh, County Limerick.
 
 At the outset, the Cathaoirleach welcomed everyone to the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Executive Architect commenced by referring to the Chief Executive’s Report on the Part
@@ -150,6 +153,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+
 3
----
+
+[[PAGE_END:3]]
+

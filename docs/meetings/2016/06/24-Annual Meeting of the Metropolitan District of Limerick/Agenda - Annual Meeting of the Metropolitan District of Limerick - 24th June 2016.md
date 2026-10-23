@@ -16,17 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2024th%20June%202016.pdf)
+**Original file:** [Agenda - Annual Meeting of the Metropolitan District of Limerick - 24th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2024th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_ Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
+__——_— Seirbhis{ Corpardideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ea Cé na gCeannaithe,
-
-. = Luimneach
+—=—=_—> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
@@ -47,11 +47,11 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-: oe
+‘ Wise
 Christy O’Connor,
 Meetings Administrator.
 
-eee w nee w ne eee ween een e renee ee nen nen ene ene n ence nena nen ences eeseesaeen eee nes sees eeenssnceseces
+neem nen ene en ew nee ewe nee ne nnn een en nen ene ene e ence nena nen es esse eseesaeen eee nes seeeesenssnseneses
 
 AGENDA
 
@@ -67,4 +67,6 @@ Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach oo wer limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-9th-march-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 9th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-9th-march-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+— Comhairle Cathrach
 & Contae Luimnigh
 ~ — Limerick Ci
 : merick City
@@ -29,10 +30,10 @@ ee Comhairle Cathrach
 
 4" March, 2021.
 
-To: The Cathaoirleach and Each Member of the Muni: Di
+To: The Cathaoirleach and Each Member of the Muni Di
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comhairie Cathrach agus Contae Luimnigh,
+Comphairie Cathrach agus Contae Luimnigh,
 Aras Séan Finn.
 
 Line Nua,
@@ -51,7 +52,7 @@ Rathkeale,
 
 Co. Limenck
 
-EIRCODE V34 HKIV
+EIRCODE V94 HKIV
 
 t: +353 (0) 69 64047
 f: 4353 (0) 69 63188
@@ -99,12 +100,14 @@ Corporate Headquarters, Merchants Quay, Limerick.
 & customerservices@limerickie
 © worn kmerickie
 
-W @LimorickCouncil
+W @LimerickCouncil
 
-( 061 - 556 000
+© 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -118,7 +121,7 @@ Housing Development Directorate
 To receive an update in relation to the proposed social housing development in
 Pallaskenry.
 Operations and Maintenance Services
-District Engin R t
+District Engin R
 To update Members on issues of interest in the District.
 
 (Report Enclosed).
@@ -140,7 +143,9 @@ Question submitted by Councillor B. Collins
 in the Adare-Rathkeale Electoral Area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -160,4 +165,6 @@ above issues.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

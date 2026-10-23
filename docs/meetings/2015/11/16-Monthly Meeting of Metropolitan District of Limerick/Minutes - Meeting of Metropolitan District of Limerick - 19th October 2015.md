@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
+**Original file:** [Minutes - Meeting of Metropolitan District of Limerick - 19th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ to the full Council for approval.
 Members noted the proposal for the disposal of land as follows :
 
  Dwelling situate at 258 Deer Court, Carew Park in the City of Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -178,7 +181,9 @@ the company went into receivership. An enforcement notice will be served
 on the appointed receiver in order to have the estate completed to a
 
 satisfactory standard.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Caislean na hAbhann, Castletroy**
@@ -266,7 +271,9 @@ and 14 of these units are currently vacant. In addition to the above eight
 families have been provided with emergency accommodation within or
 
 adjacent to the sites.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Council Executive will prepare a report on the current status, size,
@@ -298,4 +305,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

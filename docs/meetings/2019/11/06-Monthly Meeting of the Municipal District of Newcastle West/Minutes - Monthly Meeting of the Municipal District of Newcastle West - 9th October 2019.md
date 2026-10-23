@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29-2019-10-09-Minutes-October.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 9th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29-2019-10-09-Minutes-October.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -102,7 +103,9 @@ concerning proposal to dispose of 36, Cecil Street, Limerick.
 A discussion took place on the highest bid for the property and the future use of the
 
 building. The Members noted the proposed for the disposal of 36 Cecil Street, Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(b)**
@@ -178,7 +181,9 @@ their success and achievements and all voluntary groups working within Abbeyfeal
 Members also wished Abbeyfeale Community Council well in the upcoming All Ireland Pride
 
 of Place Awards.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -266,7 +271,9 @@ Road Markings and Traffic Signs
 Road markings and Road Traffic Signage plus poles
 
 Fingerpost signage
----
+
+[[PAGE_END:3]]
+
 4
 
 Footpaths
@@ -332,7 +339,9 @@ Question submitted by Councillor L Galvin
 ***within the Newcastle West Municipal District (b) has a survey been carried out of***
 
 ***problematic roads.***
----
+
+[[PAGE_END:4]]
+
 5
 
 REPLY:
@@ -422,7 +431,9 @@ Councillor Galvin requested an update with detailed drawings for the next Munici
 Meeting if these are available. The Members also complimented staff on the work carried
 
 out to date on the project.
----
+
+[[PAGE_END:5]]
+
 6
 
 9.
@@ -504,7 +515,9 @@ Question submitted by Councillor T. Ruddle
 ***were planted in the past 10 years at the Demesne Newcastle West as their growth is being***
 
 ***hindered.***
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -580,7 +593,9 @@ I wish to advise that Limerick City and County Council are in the process of
 appointing suitably qualified consultants to prepare a Sports & Recreation
 
 Strategy for the Council. This strategy will examine the need for new facilities.
----
+
+[[PAGE_END:7]]
+
 8
 
 It will also carry out a review of current facilities by the Local Authority in the
@@ -652,7 +667,9 @@ District was also raised.
 The cutting back of trees at Cullinagh Newcastle West was also requested as public lights are
 
 hidden by overgrown trees.
----
+
+[[PAGE_END:8]]
+
 9
 
 A query was raised on whether the Paddocks Housing Estate, Newcastle West, is taken in
@@ -674,4 +691,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

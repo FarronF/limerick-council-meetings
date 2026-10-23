@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01b%20Minutes%20Annual%20Meeting%2025th%20June%202018.pdf)
+**Original file:** [Minutes - Annual Meeting of Metropolitan District of Limerick - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01b%20Minutes%20Annual%20Meeting%2025th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 25TH** **JUNE, 2018,**
@@ -94,7 +95,9 @@ Seconded by Councillor McCreesh.
 “That Councillor John Costelloe be appointed Mayor of the Metropolitan District of Limerick to
 
 hold office until the next Annual Meeting or until a successor has been appointed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 A vote was taken which resulted as follows:
@@ -180,7 +183,9 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 *the mistakes of the past. In a time of change there is always pain and that is assured in the years*
 
 *ahead but we must not take one step back because this will be our single biggest shot of a*
----
+
+[[PAGE_END:2]]
+
 3
 
 *generation. We hear of multiple jobs announcement both here and in the region that now exposed*
@@ -278,7 +283,9 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 *I want to ask you my colleagues to help me achieve these goals so this can be an achievement*
 
 *together for the sake of our electorate.*
----
+
+[[PAGE_END:3]]
+
 4
 
 *Thank you to all those who honoured me with their vote but in particular I want to thank some*
@@ -376,7 +383,9 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 *my side in what has been a very tough 4 or 5 years. To all of you as a collective this is your*
 
 *achievement as much as mine and I share it with you all.*
----
+
+[[PAGE_END:4]]
+
 5
 
 *Thank you for listening and indulging me and apologies for the length but let me conclude briefly*
@@ -450,7 +459,9 @@ Councillor Hogan thanked the Members for electing her and stated that she looked
 working with the new Mayor and helping him in any way possible and also to assist in promoting
 
 the city over the coming year.
----
+
+[[PAGE_END:5]]
+
 6
 
 This concluded the Meeting.
@@ -460,4 +471,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-2024-09-11-minutes-september.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 11th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-2024-09-11-minutes-september.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -66,7 +67,9 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 such interests were declared.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Environment, Climate Action and Shared Services Directorate
@@ -94,7 +97,7 @@ appropriate funding, the need to increase grants for community groups, implement
 the byelaws and the costs associated with tree surgery works. An update was sought on
 works at Castlemahon cemetery, Reilig ide Naofa cemetery, Templegiantine cemetery, the
 provision of a new graveyard in Abbeyfeale and the remaining capacity in the existing Reilig
-Ide Naofa cemetery in Abbeyfeale. The purchasing of graves by members of the public not
+ide Naofa cemetery in Abbeyfeale. The purchasing of graves by members of the public not
 living in Ireland and the need to present to the Local Authority office in this instance was also
 raised. A request was made that the purchasing of graves without the need to present to the
 Council office in these situations be considered. In replying, the Senior Executive Engineer
@@ -106,17 +109,19 @@ acknowledged. The work carried out at Castlemahon burial ground was also acknowl
 
 4. Disposal of Land
 
-(a) Circulated, report of Senior Staff Officer, Housing Support Services, dated 26" July,
+(a) Circulated, report of Senior Staff Officer, Housing Support Services, dated 26"" July,
 2024, concerning proposal to dispose of Freehold interest in property at Knockbrack,
 Abbeyfeale, Co. Limerick.
 
 Members noted the proposal.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(b) —_ Circulated, report of Administrative Officer, Rural, Community and Culture
+(b) — Circulated, report of Administrative Officer, Rural, Community and Culture
 Development Directorate, dated 27" August, 2024, concerning proposal to dispose of
 property at 14 Bothar Bui, Newcastle West, Co. Limerick.
 
@@ -133,7 +138,7 @@ Members as to the reason why the house at Bothar Bui had not been retained by th
 for social housing.
 
 (c) Circulated, report of Administrative Officer, Rural, Community and Culture
-Development Directorate, dated 27” August, 2024, concerning proposal to dispose of
+Development Directorate, dated 27 August, 2024, concerning proposal to dispose of
 property at the Former School House, Feoghanagh, Co. Limerick.
 
 Members noted the proposal.
@@ -164,14 +169,16 @@ review of speed limits which took place as a result of a Programme for Governmen
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 implementation group was set up to review and reduce speed limits where appropriate. He
 stated that the purpose of the review was to address both road safety issues and carbon
 emissions. He stated that the group consisted of key state stakeholders including the
 Department of Transport, Transport Infrastructure Ireland, National Transport Authority, An
-Garda Siochana and the Local Authority sector.
+Garda Siochdna and the Local Authority sector.
 
 The Senior Executive Engineer noted that legislation was amended in respect of the default
 speed limits on the 12" April, 2024 and that the Bill addresses key matters in road safety
@@ -216,7 +223,9 @@ While the Members were in favour of road safety, dissatisfaction was expressed o
 Default Speed Limits being put in place for local roads. The Members referred to the financial
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 costs involved, the importance of enforcing proper speed on our roads, the importance of
@@ -266,42 +275,54 @@ Looking ahead, the current programme anticipates the construction phase to begin
 ensure the successful and timely delivery of this crucial project for the community.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 View 1 Proposed
 
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 <
 ?
 ~
-~
-o
+Y
+°o
 8
-6
+6.
 
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 View 2 Existing
@@ -309,13 +330,15 @@ View 2 Existing
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ss
 z
-we
-~
+w
+=
 3
 g
 a
@@ -324,19 +347,25 @@ o
 12
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14
 
 
----
+
+[[PAGE_END:14]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor L. Galvin
@@ -367,15 +396,14 @@ of funding.
 15
 
 
----
+
+[[PAGE_END:15]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-TI ae
+TI? =e
 
-promey hcp weal 2 1 Lue 2024
-
-Mr. Vincent Murray | :
-
+=. 21 nus 202k
 Director of Planning and Place Making  Place-Makiny «../ Public Realm
 Limerick City & County Council
 
@@ -386,16 +414,17 @@ Co. Limerick
 34 EHSO
 
 pata | pate Ar dtag ! Our Ret. Bhur dTag! Your Ref.
+
 19 August 2024 TH24-128336
 
-RE: Til Ref: N21 Abbeyfeale Town Pavement Scheme - 2024 Review of Planned Expenditure
+RE: —_Til Ref: N21 Abbeyfeale Town Pavement Scheme - 2024 Review of Planned Expenditure
 
 Dear Mr. Murray,
 
 Thank you for your correspondence of 9 August 2024 regarding the above. Transport Infrastructure
-tretand’s (Til's) position in relation to your enquiry is as follows.
+tretand’s (TI's) position in relation to your enquiry is as follows.
 
-Unfortunately, there are stili pressures on availsble funding. While Til is continuing to review and
+Unfortunately, there are still pressures on availsble funding. While Til is continuing to review and
 Monitor commitments and predicted out turn, we are not at present in a position to fund the pavement
 Projects as identified in our letter. Should there be any change in this position you will be advised by
 your senior engineering inspector.
@@ -403,31 +432,33 @@ your senior engineering inspector.
 | hope that this information is of assistance to you.
 Yours sincerely,
 
-Pececntiard BE serve prarsanta 2 stestifteastocr Obi gocertety tara Frdigie te Cocnét Sorrel atl ae Mtl ag wrew ie
-TR protons pereerat dase in ascartonce wil fs Oute Prmcuctiony Neto avatbes uh ween Ube,
+Pecerntiara BE serve prarsanta 2 stestifteatocr Obi gocertty tara Frdigie te Cocmént Sorrel atl ae HI ag wre ie
+TR proteeoes pereerat dase ini ascarntonce wih fs Cute Prvcuctiory Neto avatiates wh wren tbe.
 
 
----
+
+[[PAGE_END:16]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Question submitted by Councillor L. Galvin
 
-! will ask at the next Meeting for an update on (a) All Part 8 housing developments in this
+| will ask at the next Meeting for an update on (a) All Part 8 housing developments in this
 Municipality, (b) Provide an update on the vacant housing stock in this Municipality (Give
 timeframe when these houses will be made available) and (c) Give length of time these
 houses are unoccupied.
 
 REPLY:
 (a)
-Development Address |Noof |Status : Completion
+Development Address [Noof |Status : Completion
 | Units Timeframe
 Mountcollins ic Stage 2Approved : | 05/12/2025
-‘Broadford Phase 1 1 Stage 3 Approved _ ) 01/09/2025
+‘Broadford Phase 1 14 Stage 3 Approved _ “) 01/09/2025
 Sycamore Crescent, Stage 3 Approved 20/09/2026
 Newcastle West
-Church Glen, Ballylanders Stage 3 Approved | 15/12/2025
+Church Glen, Ballylanders Stage 3 Approved 15/12/2025
 ‘O'Connor Park, Ardagh 710 Stage 2 Approved — 20/10/2025
-Broadford Phase 2 A Stage 2 Approved ~ | 01/12/2026
+Broadford Phase 2 aE Stage 2 Approved ~ | 01/12/2026
 
 ‘Consultants currently workingon | 01/05/2026
 planning application pack. Planning
@@ -447,7 +478,7 @@ Stage 4 - Tender Report and approval from Department
 (b) & (c)
 
 Refurbishment Type | No. of Units | Completion Timeframe Time Vacant
-Major Refurbishment - 2024 — 4 units, 2025 - 5 units rs
+Major Refurbishment - 2024 — 4 units, 2025 - 5 units Vs
 
 |8to6Smonths |
 Greater than €100k. from the
@@ -458,11 +489,12 @@ funded
 16
 
 
----
+
+[[PAGE_END:17]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Minor Refurbishment. Voids | 13 2024 - 10 units, 2025 - 3 units 1toiSmonths —
-
+Minor Refurbishment. Voids | 13
 funding/Own resources
 
 11 units have been refurbished in the Newcastle West District to date in 2024. 5 units have
@@ -472,7 +504,7 @@ Housing Maintenance.
 
 11. Question submitted by Councillor J. Scanlan
 
-1 will ask at the next Meeting that the sight lines at Portland Estate, Newcastle West,
+/ will ask at the next Meeting that the sight lines at Portland Estate, Newcastle West,
 be significantly improved.
 
 REPLY: An application will be made to the Department of Transport for a Low Cost
@@ -492,13 +524,13 @@ consultants employed by Limerick City and County Council and emergency works wil
 carried out and completed by end of October 2024. These works will include repairs
 
 of scouring to the underside of the bridge and repairs to the bridge parapet with additional
-drainage works programmed,
+drainage works programmed.
 
 Ballynoe bridge has had a visual inspection carried out and it is deemed that there is no
 requirement for emergency works in 2024. It is planned to have a bridge inspection carried
 
 out by Limerick City and County Council's bridge consultants in early 2025 with a view to
-Carrying out works as necessary in 2025.
+carrying out works as necessary in 2025.
 
 13. Question submitted by Councillor J. Scanlan
 
@@ -507,8 +539,12 @@ Park be pruned in the interest of safety.
 
 17
 
+2024 - 10 units, 2025 - 3 units 1toiSmonths —
 
----
+
+
+[[PAGE_END:18]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: The Council will inspect the trees and will arrange for tree maintenance work
@@ -555,13 +591,15 @@ for all of the above.
 
 The Motion was seconded by Councillor Foley.
 
-REPLY: _Limerick City and County Council will investigate the need for additional proper
+REPLY: _ Limerick City and County Council will investigate the need for additional proper
 signage measures at the above locations. With regard to traffic calming
 
 18
 
 
----
+
+[[PAGE_END:19]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 measures, additional funding will be required and the Traffic Calming Policy
@@ -614,7 +652,9 @@ The Motion was seconded by Councillor Galvin.
 19
 
 
----
+
+[[PAGE_END:20]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Limerick City and County Council will arrange for signage to be put in place as
@@ -627,7 +667,7 @@ also stated that signage will be put in place shortly.
 
 20. Notice of Motion submitted by Councillor T. Ruddle
 
-/ will move at the next Meeting that (a) the Council write to Irish Water to find out
+! will move at the next Meeting that (a) the Council write to Irish Water to find out
 what is the current capacity for new houses left in the existing Wastewater Treatment
 Plant in Newcastle West (b) when is the upgrade of the Wastewater Treatment Plant
 facilities in Newcastle West taking place.
@@ -645,7 +685,7 @@ Your Uisce Eireann reference number for same was 25921.
 | am pleased to advise that my colleagues in our Asset Management Team at Uisce Eireann
 have reviewed your query and the following updated response has become available.
 
-As part of our commitment to support growth and development, Uisce Eireann publishes
+As part of our commitment to support growth and development, Uisce Fireann publishes
 annual water supply and wastewater treatment capacity registers on our website
 
 www, water.ie.
@@ -665,7 +705,9 @@ to both you and your (District) Members. Should you have any further queries, pl
 hesitate to contact us on the details below.
 
 
----
+
+[[PAGE_END:21]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Councillor Ruddle expressed dissatisfaction at the response received
@@ -718,7 +760,9 @@ Clouncagh.
 21
 
 
----
+
+[[PAGE_END:22]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The recent footpath works carried out on the R522 at Killeline, Newcastle West, was
@@ -769,4 +813,6 @@ Dated:
 
 
 
----
+
+[[PAGE_END:23]]
+

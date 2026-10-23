@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28b%29%20Minutes%20Adjourned%20Meeting%2030th%20September%202019.pdf)
+**Original file:** [Minutes  - Adjourned Meeting of Metropolitan District of Limerick - 30th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28b%29%20Minutes%20Adjourned%20Meeting%2030th%20September%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,**
@@ -94,7 +95,9 @@ Councillors Benson, Costelloe, Hartigan and O’Dea.
 **Against the Proposal**
 
 Councillors Butler, Collins, Daly, Kilcoyne, Leddin (J), McSweeney, Murphy, O’Hanlon,
----
+
+[[PAGE_END:1]]
+
 2
 
 O’Sullivan, Secas, Sheahan, Sheehan, Slattery and Talukder.
@@ -166,7 +169,9 @@ a vote would be taken on the proposed Amendment.
 Councillors Collins, Hartigan, O’Dea, Slattery and Talukder
 
 (5)
----
+
+[[PAGE_END:2]]
+
 3
 
 **Against the Proposal**
@@ -236,7 +241,9 @@ Murphy, O’Dea, O’Hanlon, O’Sullivan, Secas, Sheahan, Sheehan, Slattery and
 **Against the Proposal**
 
 (0)
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Daly;
@@ -280,4 +287,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

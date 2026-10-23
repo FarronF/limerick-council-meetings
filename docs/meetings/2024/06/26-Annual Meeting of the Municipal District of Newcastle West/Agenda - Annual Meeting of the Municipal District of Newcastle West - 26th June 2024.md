@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-annual-meeting-of-the-municipal-district-of-newcastle-west-26th-june-2024.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 26th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-annual-meeting-of-the-municipal-district-of-newcastle-west-26th-june-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Avas William Smith O'Brien,
 
-Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar,
+Comhairle Cathrach Duiiche Bardais an Chaisleain Nua Thiar,
 & Contae Luimnigh Comnairle Cathrach agus Contae Luimnigh
 
-AN fi ™
+Am fi ™
 
-. . . Gortbal,
+‘ . . Gortbal,
 — Limerick City An Caislean Nua Thiar,
 & County Council Co. Luimnigh.
 
@@ -36,7 +37,7 @@ Vv
 
 Nevicastle West Municipal District,
 Limerick City and County Council,
-#zas Wilbam Smith O'Bnen,
+#zas Wilbam Smith O'Bren,
 Gortboy,
 
 Newcastle West,
@@ -68,11 +69,13 @@ the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Municipal District of Newcastle West to hold
 office until the next Annual Meeting or until a successor has been elected.
 
-= customerservices@limerickie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © yevewlimarick.le
+& customerservices@limerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © yevewimarick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 { 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/01-draft-minutes-of-monthly-meeting-3rd-september-2024_0.pdf)
+**Original file:** [Draft Minutes - Meeting of the Municipal District of Adare-Rathkeale - 3rd September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/01-draft-minutes-of-monthly-meeting-3rd-september-2024_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -90,7 +91,9 @@ proposed purchaser of the Shannon House in Foynes due for discussion on the Agen
 under Item 3 Disposal of Land.
 
 It was agreed by the Cathaoirleach Item 8 on the Agenda would be taken next.
----
+
+[[PAGE_END:1]]
+
 2
 
 **8.**
@@ -166,7 +169,9 @@ due course.
 The report, as circulated, was proposed by Councillor Collins, seconded by Councillor
 
 Teskey and agreed.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Collins complimented the Executive on the work undertaken throughout the
@@ -242,7 +247,9 @@ Road Design Office to the Meeting.
 The Senior Executive Engineer, Mid West National Road Design Office gave Members an
 
 update on the current status of the N21 Foynes to Limerick Road (including Adare Bypass)
----
+
+[[PAGE_END:3]]
+
 4
 
 Project. The project is currently at Phase 5, Enabling & Procurement stage. Activities
@@ -322,7 +329,9 @@ secured with an early arrest made in relation to the incident. He further advise
 age crime is challenging for An Garda Síochána who are currently working with Tusla on
 
 the matter. Councillor Teskey queried if the Road Traffic Act applies on Greenways. The
----
+
+[[PAGE_END:4]]
+
 5
 
 Superintendent advised as the Greenway is a public place the Road Traffic Act and Public
@@ -388,7 +397,9 @@ On the proposal of Councillor Keary, seconded by Teskey it was agreed €2,000 w
 was nominated to Coolcappa Community Council at the May Adare-Rathkeale Municipal
 
 District Meeting be reallocated to St. Senan’s National School, Foynes.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICES OF MOTION**
@@ -464,7 +475,9 @@ Science.
 The Motion was proposed by Councillor Teskey, seconded by Councillor Hartigan and
 
 agreed.
----
+
+[[PAGE_END:6]]
+
 7
 
 In proposing the Motion Councillor Teskey agreed to forward the contact details for the
@@ -544,7 +557,9 @@ and agreed.
 In proposing the Motion Councillor O’Donoghue stated a budget is needed to cover the
 
 huge cost implications for maintaining all road verges. He further requested his Motion
----
+
+[[PAGE_END:7]]
+
 8
 
 be forwarded to Corporate Services with a view to it being forwarded for the Agenda of
@@ -614,7 +629,9 @@ for former Councillor Emmett O’Brien. The Cathaoirleach advised he would
 revert with a suitable date in due course. He also wished the former Councillor
 
 well on his forthcoming wedding day.
----
+
+[[PAGE_END:8]]
+
 9
 
 This concluded the Meeting.
@@ -628,4 +645,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

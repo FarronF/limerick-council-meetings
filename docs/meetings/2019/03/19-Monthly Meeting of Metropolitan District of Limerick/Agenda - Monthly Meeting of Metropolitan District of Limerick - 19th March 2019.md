@@ -16,102 +16,86 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20Meeting%2019th%20March%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20Meeting%2019th%20March%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Abele Cathrach
-—_= ontae Luimnigh
-~N . . -
-—>= Limerick City
+; Seirbhisi Corpardideacha,
+\4
+LT a7 Sileenlh bbe ak Comhairle Cathrach agus Contae Luimnigh,
+ee. g Ceanncheathni Chorparaideach,
+* . = : Cé na gCeannaithe.
+— Limerick City rpedheresbe
 
 & County Council
-
-13 March, 2019
-
-Seirbhisi Corpardideacha,
-
-Comhairle Cathrach agus Contae Luimnigh.
-Ceanncheathra Chorparaideach,
-
-Cé na gCeannaithe.
-
-Luimneach
-
 Corporate Services,
-
 Limerick City and County Council,
 Corporate Headquarters,
-Mercharts Quay.
 
+Mercharts Quay.
 Limerick
 
 EIRCODE V94 EH9O
 
-t: +353 (0) 63 557150
+13" March, 2019
+t: +353 (0) 61 557150
+
 f: +353 (0) 61415 266
 
 To: The Mayor and each Member of the Metropolitan District of Limerick
 
 A Chomhairleoir, a chara,
-
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-
 Council Chamber, Merchant’s Quay, Limerick on Tuesday, 19 March, 2019 at 9.45 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ody.
+Ode.
 
 Jame Clune,
 Meet)ngs Administrator.
 
 AGENDA
 
-1. Minutes
+1, Minutes
 
 To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 18" February,
-
 2019.
 
-2. Di lof Lan
-
+(Copy Enclosed).
+2: Di: Lof Lan
 To note proposal for the disposal of land as follows:
 
-(Copy Enclosed).
-
 (a) Disposal of Freehold Interest of premises consisting of a dwelling house situate at
-
 27 Collins Avenue, Kincora Park, Southill, Limerick.
 
 (b) Disposal of 0.0053 hectares of land at Castleview Gardens, Clancy Strand, Limerick
-
 to Rdisin and Conor Buckley.
-
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
 
 (Reports Enclosed).
 
-= customerservices@limerickiec
+= customerservices@limerickie
+
 © woo limerickie
 
-w @LimerickCouncil
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
-(061 - 557150
 
 
----
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
 
 (b)
 
-rvic tions Directo’
+rvic tions Directo:
 
 Planning and Environmental Services
 Taking in Charge of Estates — Declaration of Roads to be Public Roads
@@ -156,7 +140,9 @@ Question submitted by Comhairleoir S. 6 Ceallaigh
 LNDR and when it is expected that works on the second phase will begin.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -180,7 +166,7 @@ Question submitted by Councillor M. McCreesh
 | will ask at the next meeting what is the status of the €15m loan that was targeted for
 Housing Maintenance.
 
-u n submi ouncillor M. McCreesh
+u n submi ‘ouncillor M. McCreesh
 
 | will ask at the next meeting what is the timeframe for the programme of works planned to
 clean all the gutters in Watergate complex.
@@ -210,7 +196,9 @@ Question submitted by Comhairleoir S. 6 Ceallaigh
 District for a briefing on the current situation at the studio and its future plans.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -273,7 +261,9 @@ Notice of Motion submitted by Comhairleoir S. 6 Ceallaigh
 Minister for Housing to designate the Limerick Metropolitan District as a Rent Pressure Zone.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -291,4 +281,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+

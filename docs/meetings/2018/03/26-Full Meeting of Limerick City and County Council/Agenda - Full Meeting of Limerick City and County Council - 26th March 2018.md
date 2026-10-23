@@ -16,27 +16,34 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20March%20Meeting%20260318.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 26th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20March%20Meeting%20260318.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Seirbhisi Corparaideacha,
-_—_—_—_—_ B ondsa Laliminian Comhairle coher ee
-a leannchea'
-ArN : : : Cé na gCeannaithe,
-== Limerick City Luirnneech
+Comhairle Cathrach Seirbhisi Corperaideacha,
 
+_—_—_—_— B tondsa laliminian Comhairle ceria i ahiptdarrc
+
+5 eannchea'
+
+ArN : . : Cé na gCeannaithe,
 & County Council
+
 Corporate Services,
+
 Limerick City and County Council,
+
 Corporate Headquarters,
+
 Merchants Quay.
+
 Limerick
 
 EIRCODE V94 EH90
 
-21" March, 2018. t: 4353 (0) 61 557150
+21" March, 2018. t: +353 (0) 61 SS7150
 f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County _
@@ -45,7 +52,7 @@ Council
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, on Monday, 26" March, 2018, at 3.00 p.m. The
+Council Chamber, Dooradoyle, Limerick, on Monday, 26 March, 2018, at 3.00 p.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -80,15 +87,17 @@ To consider proposal for the disposal of land at:
 (Statutory Notices dated 19" February, 6" and 12”
 March, 2018, already circulated)
 
-@ Customerservices@limerick.ie
+@ customerservices@limerick.ie
 © veo limerickie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach vel
 
 imerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -129,7 +138,9 @@ To consider the adoption of the Audit Committee Work Programme
 (Report and Draft Work Programme Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
@@ -167,7 +178,7 @@ To consider reports and recommendations:
 
 (i)
 
-Chairperson’s Report — Home and Social Development Strategic
+Chairperson’s Report —- Home and Social Development Strategic
 Policy Committee Meeting held on 26" February, 2018.
 
 Recommendation
@@ -181,7 +192,9 @@ accommodation.”
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -231,17 +244,19 @@ Strategic Policy Committee Meeting held on 19” February, 2018.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(gs)
+(g)
 
 (v)
 
 (vi)
 
 Chairperson’s Report - Environment Strategic Policy Committee
-Meeting held on 26"" February, 2018.
+Meeting held on 26" February, 2018.
 
 R mendation No. 1
 
@@ -281,7 +296,9 @@ Act, 2001, as amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -328,7 +345,9 @@ Policy for Urban Areas, in accordance with Section 130 of the Local Government A
 (Report and Draft Policy Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Social Development Directorate
@@ -362,7 +381,7 @@ in Omagh, Co. Tyrone, on 9"" March, 2018.
 to 11" March, 2018.
 
 (f) “The 8" Amendment — A Constitutional Minefield” to be held in Clonakilty,
-Co. Cork, to be held in Clonakilty, Co. Cork, from 23 to 25" March, 2018.
+Co. Cork, to be held in Clonakilty, Co. Cork, from 23 to 25"" March, 2018.
 
 (g) “European Energy Poverty Conference 2018 — A United Approach” to be
 held in Dublin on 29" March, 2018.
@@ -376,7 +395,9 @@ on 11" April, 2018.
 (Details already circulated electronically)
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -428,7 +449,9 @@ caused to some tenants following the most recent review, could it be confirmed t
 these reviews will carried out on an annual basis.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -475,7 +498,9 @@ requested to consider retaining CSPE (Civic, Social and Political Education) as 
 Certificate examination subject.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -496,4 +521,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:10]]
+

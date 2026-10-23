@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Draft-Minutes-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
+**Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 10th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Draft-Minutes-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -86,7 +87,9 @@ Seconded by Councillor Pond;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 (b) Circulated, copy of draft Minutes of the Annual Meeting of the Metropolitan District of Limerick
@@ -156,7 +159,9 @@ The report, as circulated, was noted by Members.
 details of proposed disposal of land for the Plassey Park Road Improvement Scheme and the
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:2]]
+
 3
 
 The report, as circulated, was noted by Members.
@@ -230,7 +235,9 @@ the issues and ensure correct practices and procedures are in place for the use 
 systems.
 
 These communications are still ongoing and will continue until a source/sources of the
----
+
+[[PAGE_END:3]]
+
 4
 
 exceedances has been located or a resolution identified. LCCC and the IDA are actively
@@ -298,7 +305,9 @@ to reach agreement on an appropriate annual grant.
 ***many dog wardens are in Limerick City and County, their functions and hours of work, and if their***
 
 ***phone number has been published publicly.***
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY**: Limerick City and County Council employs two full-time dog wardens, who work a standard
@@ -378,7 +387,9 @@ help unlock significant potential for mixed tenure housing growth. A breakdown p
 demolitions is provided below.
 
 Moyross
----
+
+[[PAGE_END:5]]
+
 6
 
 **Tenure**
@@ -490,7 +501,9 @@ library service to this location.
 ***other, and social amenities, such as the paths and the viewing platform, in Westfield Wetlands.***
 
 **REPLY**: The Westfield Management Plan is in the final stages of drafting and we will be in a position
----
+
+[[PAGE_END:6]]
+
 7
 
 to present the Westfield’s Management plan, AA screening and Natura Impact Assessment
@@ -570,7 +583,9 @@ dispose of it in a proper manner
 **15.Question submitted by Councillor E. O’Donovan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick on how many parking fines***
----
+
+[[PAGE_END:7]]
+
 8
 
 ***have been issued in Limerick city in 2022 and to date this year.***
@@ -642,7 +657,9 @@ Members.
 ***I will move at the next Meeting of the Metropolitan District of Limerick that additional funding***
 
 ***be made available for the road at The Cat’s Cradle to address the dangerous conditions and try***
----
+
+[[PAGE_END:8]]
+
 9
 
 ***to prevent further accidents.***
@@ -716,7 +733,9 @@ catering to some of the most vulnerable members of society.
 The Notice of Motion was proposed by Councillor Hartigan, seconded by Councillor Secas and
 
 agreed.
----
+
+[[PAGE_END:9]]
+
 10
 
 In proposing the Motion, Councillor Hartigan outlined his frustration at the lack of engagement and
@@ -788,7 +807,9 @@ It was agreed to take Items 24 and 25 together.
 ***recently.***
 
 **25.Notice of Motion submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:10]]
+
 11
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council liaise***
@@ -848,4 +869,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

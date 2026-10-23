@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28b%29%20Draft%20Minutes%20-%20Special%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
+**Original file:** [Draft Minutes - Special Meeting of the Metropolitan District of Limerick - 15th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28b%29%20Draft%20Minutes%20-%20Special%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON THURSDAY, 15TH** **DECEMBER, 2022 AT 2.30PM IN THE COUNCIL CHAMBER, DOORADOYLE**
@@ -88,7 +89,9 @@ envisaging a replacement report by the Council and not merely a supplemental rep
 She confirmed that the High Court had ordered that the process should be reverted to the
 
 Council’s Chief Executive’s Report phase, and had further ordered that the Council had until the
----
+
+[[PAGE_END:1]]
+
 2
 
 21st December 2022 (17 days from the date of perfection of the High Court Order) to submit an
@@ -176,7 +179,9 @@ mini public plaza and provision for future public subscription bicycle stands;
 total number of build-to-rent apartments is 30, containing 104 bed spaces. Overall building
 
 area at or above ground level is 14,358m2.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following a detailed consideration and discussion of the application, the Members highlighted the
@@ -250,4 +255,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

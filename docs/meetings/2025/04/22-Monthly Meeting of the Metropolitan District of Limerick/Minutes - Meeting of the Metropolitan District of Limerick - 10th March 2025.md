@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 10th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -88,7 +89,9 @@ The Senior Engineer, Active Travel informed the Members that a review of the cur
 been completed. He confirmed that the report would be circulated to Elected Members and a
 
 Briefing would be arranged to discuss the outcome of the review.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Declaration of Interest**
@@ -166,7 +169,9 @@ to the proposed development of a Design and Innovation Hub at Nos. 35 – 39 Nic
 Proposed Protected Structure (Ref. No.: P.P.S. 2024/A)) to comprise artist studios, workspaces, retail
 
 area, exhibition space and café/restaurant with associated outdoor area adjoining St. Peter Street.
----
+
+[[PAGE_END:2]]
+
 3
 
 The development will include the erection of new part two storey, part single storey building
@@ -242,7 +247,9 @@ It is difficult to predict the overall expected number of units to be delivered 
 District over the lifetime of the plan to 2028. However, the Housing Directorate has a clear live
 
 overview of the affordable and social housing pipeline up to 2028, as outlined in Columns C and D.
----
+
+[[PAGE_END:3]]
+
 4
 
 As of the end of January 2025, in Limerick City and Suburbs and Metropolitan Area, live planning
@@ -474,7 +481,9 @@ advised that they received a cost estimate of €34,729.87 inclusive of VAT for 
 play items.
 
 In order to progress the project further, Clancourt Ltd have requested financial assistance
----
+
+[[PAGE_END:4]]
+
 5
 
 up to a maximum of 50% from the Council. No funding source has been identified by the
@@ -546,7 +555,9 @@ side of the castle. Further plans to light up the castle are subject to detailed
 environmental sensitivity analysis and this is being considered by Discover Limerick DAC, as
 
 part of wider plans for the castle.
----
+
+[[PAGE_END:5]]
+
 6
 
 **12.Question submitted by Councillor U. Gavan**
@@ -622,7 +633,9 @@ surgeons within the Department will be enforcing the Act when this transfer is c
 housing waiting list. This figure covers Limerick City and County and includes those on the
 
 transfer list.
----
+
+[[PAGE_END:6]]
+
 7
 
 **15.Question submitted by Councillor E. Secas**
@@ -702,7 +715,9 @@ Housing. These criteria are as follows:
  Significance of the Structure.
 
  Efficacy of the Grant in Achieving the Aims of the Historic Structures Fund.
----
+
+[[PAGE_END:7]]
+
 8
 
  Quality of the Methodology and Technical Merit of the Works Proposed.
@@ -778,7 +793,9 @@ role set out under the Act.
 will be made for the removal of the waste/litter after investigations by the Litter
 
 Management section.
----
+
+[[PAGE_END:8]]
+
 9
 
 **21.Question submitted by Councillor S. Hickey-O’Mara**
@@ -860,7 +877,9 @@ Eligibility check for Affordable Housing Fund (AHF) to meet a minimum of 15% red
 involving an independent all-in cost estimate alongside an independent valuation.
 
 Should that check above be deemed positive, the following steps are required:
----
+
+[[PAGE_END:9]]
+
 10
 
 
@@ -940,7 +959,9 @@ scheme. We will continue to follow up on this and provide an update once availab
 **NOTICES OF MOTION**
 
 With the permission of the Cathaoirleach, it was agreed to take Item No. 29 next.
----
+
+[[PAGE_END:10]]
+
 11
 
 **29.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
@@ -1014,7 +1035,9 @@ the people living in those areas.
 adjacent to the Men’s Shed in Dooradoyle. If it is decided to make this available for a
 
 Community Centre it is at this stage a feasibility study will be undertaken.
----
+
+[[PAGE_END:11]]
+
 12
 
 Members welcomed the Motion but expressed concerns regarding the necessity of conducting
@@ -1086,7 +1109,9 @@ any specific conditions associated with it.
 Administrative Officer, Housing Support Services agreed to update the Members on the outcome
 
 of an upcoming webinar organised by the Department of Housing, Local Government and Heritage.
----
+
+[[PAGE_END:12]]
+
 13
 
 **28.Notice of Motion submitted by Councillor S. Beasley**
@@ -1162,7 +1187,9 @@ any dogs being held in the shelter on an ongoing basis. That each animal has;
  The space necessary to assume normal postures such as lying, sitting, and standing.
 
  Protection from extreme weather whether hot or cold.
----
+
+[[PAGE_END:13]]
+
 14
 
 Stray dogs are kept in the Dog Pound for at least 5 days to allow the owner an opportunity
@@ -1230,7 +1257,9 @@ remains high.
 The Mayor has indicated his willingness to meet the community liaison group and is looking
 
 forward to engaging with the Councillor on the matter.
----
+
+[[PAGE_END:14]]
+
 15
 
 This concluded the Meeting.
@@ -1240,4 +1269,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:15]]
+

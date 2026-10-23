@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%202019-10-23%20Agenda%20Draft%20Budget%20Plan%202020.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Newcastle West - 23rd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%202019-10-23%20Agenda%20Draft%20Budget%20Plan%202020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_—_ Comhairle Cathrach
+— Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -31,27 +32,26 @@ file_type: "Agenda"
 
 A Chomhairleoir, a chara,
 
-Outiche Berdais ar: Chaiste4in Nua Thiar,
 Comhairle Cafiwach agus Contac Luimnigh.
 Aras William Smith O'Brien,
 
 Gortbut,
 
-An Caisledn Nua Thiar,
+An Caisledn Mua Thiar,
 
-Co. Luimnag.
+Co. Luimnagi.
 
 Nevecasthe West Municipal District,
 Lirnerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
-Newcastle West,
+Newcastle West.
 
 Co Limerick.
 
 Bircode: V42EH73
-&: +353 (0) 69 62100
+& +353 (0) 69 62100
 
 You are requested to attend a Meeting to consider the Draft Budgetary Plan 2020 for the
 Municipal District of Newcastle West to be held at Aras William Smith OBrien, Newcastle
@@ -67,10 +67,12 @@ AGENDA
 West.
 (Report Attached)
 customerservices@limerick.ie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach = © vewwlirmerickie
+Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach = © vewwlirmerickie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

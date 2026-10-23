@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/2-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-July-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/2-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS
@@ -74,7 +75,9 @@ Seconded by Councillor E.Ryan;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising
 
 The Cathaoirleach, Michael Donegan congratulated Councillor Mitchell on behalf of the
@@ -116,7 +119,9 @@ a 25 year lease to Kilmallock Tourism Development.
 (c) Disposal of former library building, Caherconlish, Co. Limerick.
 
 The reports as circulated, were noted by the Members.
----
+
+[[PAGE_END:2]]
+
 5. Planning, Environment and Place Making Directorate
 
 Local Authority Climate Action Plan
@@ -178,7 +183,9 @@ and Councillor Martin Ryan proposed a motion be forwarded from the Cappamore-
 Kilmallock Municipal District for inclusion on the Agenda for the next full Council meeting as
 
 follows:
----
+
+[[PAGE_END:3]]
+
 “I will move at the next meeting that Limerick City and County Council make representations
 
 to the Minister of Environment, Heritage and Local Government and the Minister for
@@ -234,7 +241,9 @@ dwellings, under the following circumstances –
 (downsizing);
 
 (c) medical/compassionate reasons;
----
+
+[[PAGE_END:4]]
+
 (d) on grounds of anti-social behaviour where the Housing Authority’s Estate
 
 Management Unit and a Superintendent of An Garda Siochana support the transfer
@@ -284,7 +293,9 @@ all transfer applications submitted to the Council, save in the following cases:
 Following the discussion, if a tenant requests a form to be issued, a form is issued and a
 
 note recorded of the discussion.
----
+
+[[PAGE_END:5]]
+
 8.Question submitted by Councillor Carey
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District as to what
@@ -326,7 +337,9 @@ With respect to energy efficiency retrofit, the most recent energy efficiency re
 programme ran from Qtr. 3 2022 to end of Qtr. 2 2023, it is now concluded.
 
 The scheme included 4 units in Murroe and 6 units in Ballylanders.
----
+
+[[PAGE_END:6]]
+
 10. Question submitted by Councillor Donegan
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District for a schedule
@@ -388,7 +401,9 @@ identified works to progress. In addition, it should also be noted that the impl
 traffic measures requires a public consultation process to be followed.
 
 **Seconded: Cllr M Ryan**
----
+
+[[PAGE_END:7]]
+
 12. Notice of Motion submitted by Councillor Teefy
 
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District that an
@@ -440,7 +455,9 @@ Football final in Dublin on Sunday 30th July.
  Cathaoirleach Michael Donegan congratulated Roisin Wiley who is representing New
 
 York in the 2023 Rose of Tralee festival. Her father Eddie Wiley is a native of Kilmallock.
----
+
+[[PAGE_END:8]]
+
  Councillor Donegan proposed as Cathaoirleach of the Cappamore-Kilmallock Municipal
 
 District to write to the Curator of the National Museum of Ireland to request the
@@ -474,4 +491,6 @@ Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

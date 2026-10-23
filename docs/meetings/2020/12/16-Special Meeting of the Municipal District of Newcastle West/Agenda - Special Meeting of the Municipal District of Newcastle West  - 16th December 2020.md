@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-2020-12-16-agenda-.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West  - 16th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-2020-12-16-agenda-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Cxiiche Bardais an Chaisleain Nua Thisr,
-_—_—_ Comhairle brah Comhairte Cathrach agus Contae Luimnigh,
+Cxiiche Bardais an Chaisledin Nua Thiar,
+_—_ oe cimmin Comhairte Cathrach agus Contae Luimnigh,
 
-& Contae Luimn gh Aras Véilham Smith O'Brien.
-AN if ™ ———
+Aras Viiliam Smith O'Brien.
+NIN f ~ a
 
 = Gortbui,
-— Limerick City An Caisleén Nua Thiar,
+—> Limerick City An Caisleén Nua Thiar,
 & County Council Co. Luimnigh
 
 Newcastle West Municipa! District,
@@ -42,7 +43,7 @@ Co. Limerick
 
 Bircode: V42EH73
 
-t: +353 (0) 69 62100
+t: +383 (0) 69 62100
 
 11" December, 2020
 
@@ -73,12 +74,14 @@ Development Regulations, 2001 (as amended) in relation to the following:
 (a) Construction of a new car park at Station Road, Newcastle West comprising of 50
 car parking spaces, associated surface lining, drainage, lighting and green area.
 
-& customerservices@limerick.ie
-Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach © vevevilimerick.ie
-Corporate Headquarters, Merchant's Quay, Limerick C061 - 556 000
+&® customerservices@limerick.ie
+Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach © vevrvilimerick.ie
+Corporate Headquarters, Merchant's Quay, Limerick C061 ~ 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Construction of six cattle underpasses and one cattle overpass at five locations
@@ -99,4 +102,6 @@ change of use to a community and tourism use along with ancillary site works.
 To review position in relation to allocations under the General Municipal Allocation 2020.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%208th%20October%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%208th%20October%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathract Ceantar Bardasach Ath Dara-Réth Caola,
-Le) aine Catnracn
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
+Le) aine Catnrac
 
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh
-Am™~ —— Ayas Séan Finn.
+Am —— Ayas Séan Finn.
 
-—— _ Limerick City Rath Cacia
+—— —_ Limerick City Rath Cacia
 & County Council :
 
 Co. Luimmnigh.
@@ -42,7 +43,7 @@ Rathkeale,
 
 Co. Limerick.
 
-EIRCODE V34 HK1Y
+EIRCODE 34 HK1Y
 3° October, 2019.
 t: +353 (0) 69 ¢4047
 f: +353 (0) 69 63188
@@ -58,15 +59,13 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-op
-
 Meetings Administrator.
 
 AGENDA
 
 1. Minutes
 
-To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10”
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10"
 September, 2019.
 
 (Copy Enclosed)
@@ -76,14 +75,16 @@ Disposal of Land
 
 (b) To note proposal for the disposal of property at 36 Cecil Street, Limerick.
 
-= customerservicesalimericic.ie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luirmneach 1 © vewruimericicie
+= customerservicesalimerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luirmneach 1 © vevuimericicie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) To note proposal for the disposal of property at Galvone Industrial Estate (Former
@@ -124,10 +125,12 @@ To review survey for parking in Adare
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-OTICE 10
+OTICE iTe)
 
 Notice of Motion submitted by Councillor K. Sheahan
 
@@ -138,9 +141,13 @@ to the N69.
 AOB
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

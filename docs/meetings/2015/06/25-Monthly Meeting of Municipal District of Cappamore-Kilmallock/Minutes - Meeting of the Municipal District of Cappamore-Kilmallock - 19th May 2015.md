@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20May%202015.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 19th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20May%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -55,7 +56,7 @@ And Resolved:
 
 2. Disposal of Land
 
-Circulated, report of the Director of Economic Development and Planning dated 1*
+Circulated, report of the Director of Economic Development and Planning dated 1°
 May, 2015, in relation to the proposed disposal of 17,000 sq ft Food Units at
 Hospital, Co. Limerick.
 
@@ -65,7 +66,9 @@ Lawlor of HL Commodity Foods who has leased the building since it was built in
 1999/2000.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Economic Development and Planning
@@ -117,7 +120,9 @@ the Meeting and the Question was therefore considered as having been dealt with:
 policy for the purchase of one off rural houses for letting to Council tenants.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The City and County Council sought approval from the DECLG for the
@@ -128,11 +133,13 @@ housing options the Council can consider taking a lease on a house for
 RAS tenants or indeed if an applicant is approved for HAP, they can
 seek to rent a suitable rural house.
 
+;
+
 NOTICES OF MOTION
 
-6. otice of Motion submitted by Counci Sheeh
+6. jotice of Motion submitted by Counci Sheeh
 
-| will move at the next Council Meeting that the issue of speeding with
+I will move at the next Council Meeting that the issue of speeding with
 reference to safety for walkers and cyclists on the Grange Road, Knocklong,
 be addressed with adequate signage, lining and Garda or speed van
 monitoring or other methods.
@@ -167,7 +174,9 @@ The Members wished the communities of Kilteely and Bruff well in the 2015 IPB
 Pride of Place Competition.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Cathaoirleach advised the Meeting that the 11th June had been confirmed as
@@ -189,4 +198,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:4]]
+

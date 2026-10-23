@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20Meeting%2016th%20April.pdf)
+**Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 16th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20Meeting%2016th%20April.pdf)
 
----
+[[FILE_START]]
+
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
 was held in Council Chamber, Limerick City and County Council, Merchants Quay, Limerick
@@ -92,7 +93,9 @@ Council at their next meeting.
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
----
+
+[[PAGE_END:1]]
+
 **Item 4:**
 
 **Presentation on National Physical Activity Plan, Get Ireland Walking, Phase 1 of**
@@ -152,4 +155,6 @@ Minutes Proposed By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

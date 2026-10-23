@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29%202022-06-15%20Minutes%20AGM%20Municipal%20District%20of%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 15th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29%202022-06-15%20Minutes%20AGM%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -84,7 +85,9 @@ The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach o
 Municipal District for the coming year.
 
 Proposed by: Councillor Collins
----
+
+[[PAGE_END:1]]
+
 2
 
 Seconded by: Councillor Scanlan
@@ -154,7 +157,9 @@ and wished him well in the year ahead.
 The Director on behalf of Management and staff also paid tribute to the Cathaoirleach and
 
 Leas-Cathaoirleach and wished them well in the year ahead.
----
+
+[[PAGE_END:2]]
+
 3
 
 This concluded the Meeting.
@@ -168,4 +173,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

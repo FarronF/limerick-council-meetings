@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-monthly-meeting-of-the-metropolitan-district-of-limerick-15th-november-2021-v1.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-monthly-meeting-of-the-metropolitan-district-of-limerick-15th-november-2021-v1.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -95,7 +96,9 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -143,7 +146,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick that the
 and a map of all vacant land in the ownership of Limerick City and County Council, that are identified
 
 as suitable for either housing or recreation purposes.
----
+
+[[PAGE_END:2]]
+
 2
 
 **7.Question submitted by Councillor C. Sheehan**
@@ -201,7 +206,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 management plan for the Parkway Roundabout given the volume of traffic back on our roads and
 
 the previous commitment that the possibility of traffic lights being installed would be examined.
----
+
+[[PAGE_END:3]]
+
 3
 
 **13.Question submitted by Councillor E. O’Donovan**
@@ -247,7 +254,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick, given t
 been set aside for the refurbishment of the Black Bridge in Plassey when will the necessary works
 
 commence and is there a timeframe involved to complete.
----
+
+[[PAGE_END:4]]
+
 4
 
 **NOTICES OF MOTION**
@@ -307,7 +316,9 @@ Education to consider establishing a new primary school in the Castletroy area t
 the significant increase in the population and new housing developments in the area, as the existing
 
 primary schools in the area are at their full capacity.
----
+
+[[PAGE_END:5]]
+
 5
 
 **24.Notice of Motion submitted by Councillor S. Kiely**
@@ -339,4 +350,6 @@ to facilitate members of the public who wish to use this facility in the evening
 **27.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:6]]
+

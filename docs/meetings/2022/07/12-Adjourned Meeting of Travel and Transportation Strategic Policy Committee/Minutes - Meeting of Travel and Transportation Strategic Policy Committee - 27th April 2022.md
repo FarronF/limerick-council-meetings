@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.04.22_0.pdf)
+**Original file:** [Minutes - Meeting of Travel and Transportation Strategic Policy Committee - 27th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.04.22_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Draft Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -68,7 +69,9 @@ The Chair opened the Meeting and welcomed Mr. Hugh Creegan, Mr. David Clements a
 Michael MacAree from the NTA.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 1: NTA Briefing on the second draft of the Limerick Shannon Metropolitan Area**
@@ -132,7 +135,9 @@ Mr. Kennedy thanked Mr. Creegan and Mr. Clements adding that there has been subs
 investment in Limerick with €18m in 2021 and over €24m allocated for this year. The Active Travel
 
 Team, which currently has a compliment of 17 staff, has been set up to implement the plan.
----
+
+[[PAGE_END:2]]
+
 3
 
 Mayor Butler referred to the absence of support for the LNDR in the new draft and stated that a
@@ -196,7 +201,9 @@ Mr. Creegan acknowledged the concerns raised by Mr. Harper in relation to reachi
 reduction targets and emphasised that achieving this goal will be a challenging task. Governance
 
 will continue to be monitored for effectiveness as the strategy progresses.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr. O’Brien asked what the timetable was for the rail line and station for Foynes. Cllr. Kilcoyne
@@ -260,7 +267,9 @@ to engage with the relevant stakeholders and agencies to develop a suburban rail
 Limerick and establish a channel of communication between the local authority, Iarnród Éireann,
 
 OPR and other relevant agencies.
----
+
+[[PAGE_END:4]]
+
 5
 
 In proposing the Motion, Cllr. Novak stated she was pleased that her Notice of Motion is being
@@ -332,7 +341,9 @@ Plan.
 Cllr. Sheahan (M) added that a railway station would not be viable without population growth
 
 and these areas will have to be allowed to grow.
----
+
+[[PAGE_END:5]]
+
 6
 
 **Item 5: Question submitted by Mr. Bruce Harper**
@@ -412,7 +423,9 @@ technology where the initiative can justify such a measure. The SpaceFinder serv
 by Limerick firm ParkMagic, has been supported and endorsed by the Disabled Drivers
 
 Association of Ireland (DDAI).
----
+
+[[PAGE_END:6]]
+
 7
 
 In addition authorised badge holders are entitled to use standard spaces available throughout
@@ -444,4 +457,6 @@ The Chair thanked all members for attending and confirmed that the next SPC Meet
 held on Monday, 27th June 2022.
 
 The Meeting then concluded.
----
+
+[[PAGE_END:7]]
+

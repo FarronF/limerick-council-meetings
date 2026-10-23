@@ -32,9 +32,9 @@ Housing Progress Report February 2019 Newcastle West - Monthly Meeting of the M
 
 Replies to Questions - Monthly Meeting of the Municipal District of Newcastle West  - 6th February 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/2019-02-06%20Replies%20to%20Questions.pdf) - Text not extracted
 
-Scoil Mhuire NS, Broadford_ Presentation - Monthly Meeting of the Municipal District of Newcastle West  - 6th February 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Scoil%20Mhuire%20NS%2C%20Broadford%20-%20Presentation.pdf) - Text not extracted
+Scoil Mhuire NS, Broadford: Presentation - Monthly Meeting of the Municipal District of Newcastle West  - 6th February 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Scoil%20Mhuire%20NS%2C%20Broadford%20-%20Presentation.pdf) - Text not extracted
 
-St. Fergus NS, Glin_ Presentation - Monthly Meeting of the Municipal District of Newcastle West - 6th February 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/03%20St.%20Fergus%20NS%2C%20Glin%20-%20Presentation.pdf) - Text not extracted
+St. Fergus NS, Glin: Presentation - Monthly Meeting of the Municipal District of Newcastle West - 6th February 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/03%20St.%20Fergus%20NS%2C%20Glin%20-%20Presentation.pdf) - Text not extracted
 
 Replies to Notices of Motion - Monthly Meeting of the Municipal District of Newcastle West  - 6th February 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/2019-02-06%20Replies%20to%20Notices%20of%20Motion.pdf) - Text not extracted
 

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Ordinary%20Meeting%20-%2014th%20March%202016.pdf)
+**Original file:** [Minutes of Ordinary Meeting - 14th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Ordinary%20Meeting%20-%2014th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY
@@ -96,4 +97,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:1]]
+

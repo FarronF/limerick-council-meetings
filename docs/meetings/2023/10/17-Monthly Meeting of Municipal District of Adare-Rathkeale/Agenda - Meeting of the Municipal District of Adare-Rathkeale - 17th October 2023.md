@@ -16,32 +16,33 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
-& Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh,
+& Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh
 A
 
-AnN —, ras Séan Finn.
+AnN ——_ ras Séan Finn.
 
-Line Nua
+Line Nua.
 
-— Limerick City Réth Csola,
+— Limerick City Réth Caola,
 & County Council Co, Luimnigh
 
-Adare-Rathkeale Municipal District.
+Adare-Rathkeale Municipal District,
 Limerick City and County Council,
 Aras Sean Pirin,
 
 New Line,
 
-Rathkeate,
+Rathkeale,
 
-Co. umenck.
+Co. umenck
 
 12" October, 2023. EIRCODE V34 MKIV
 
@@ -53,7 +54,7 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 17 October, 2023 at 9.30
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 17% October, 2023 at 9.30
 
 a.m. The business to be transacted is set out on the appended Agenda.
 
@@ -74,23 +75,25 @@ To adopt Minutes of the following Meetings:
 2023.
 (Copies Enclosed).
 1 & customerservices@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach © wewlimerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach © wevewlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 \ 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Declaration of Interest
+Declaration of interest
 
 Disposal of Land
 To note proposal for the disposal of sites at Towerfield, Croom
 
 (Report Enclosed).
 Roads, Traffic & Cleansing
-Part 8 — N69 Ballyengland Junction im nt Sch
+Part 8 — N69 Ballyengland Junction im nt Sch:
 To consider the Chief Executive’s Report pursuant to Section 179(3)(a) of the Planning and
 Development Act 2000 (as amended), and Part 8 of the Planning and Development
 
@@ -121,7 +124,9 @@ Ballydoole road tarred and reconstructed in 2021 under a Limerick City and Count
 Council Local Improvement Scheme.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -140,4 +145,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

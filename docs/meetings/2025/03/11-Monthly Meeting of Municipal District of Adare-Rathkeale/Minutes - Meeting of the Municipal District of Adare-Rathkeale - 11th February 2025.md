@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 11th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
 No such interest was declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -170,7 +173,9 @@ leading to construction sites presently and stated damage to these roads should 
 repaired on a weekly basis. Councillor O’Donoghue added such repairs should not be
 
 funded by the Adare-Rathkeale District local road maintenance budget. The Senior
----
+
+[[PAGE_END:2]]
+
 3
 
 Executive Engineer, Mid West National Road Design Office advised a haulage road has
@@ -244,7 +249,9 @@ increase on current funding levels for Active Travel projects in Limerick City a
 Councillor Collins requested an update on the proposed extension of the footpath from
 
 Kilcornan Church to the Burial Ground. The Senior Executive Engineer, Roads, Traffic
----
+
+[[PAGE_END:3]]
+
 4
 
 and Cleansing advised this was not an Active Travel project as funding is provided by the
@@ -318,7 +325,9 @@ again as a matter of urgency and was of the opinion it should be a priority of t
 to make this happen as soon as possible and he acknowledged that there are only a
 
 limited number of operators in the market who operate this type of resource.
----
+
+[[PAGE_END:4]]
+
 5
 
 Members welcomed Joe Delaney, Director, Regeneration, Sports and Recreation and
@@ -394,7 +403,9 @@ Report which was submitted in October 2024. An updated Options and Feasibility R
 was submitted to the Traffic Infrastructure Ireland in January 2025 and we await
 
 confirmation of funding to prepare the detailed design and contract documents to
----
+
+[[PAGE_END:5]]
+
 6
 
 construct the scheme. It is hoped funding will be allocated in 2025 to complete the
@@ -472,7 +483,9 @@ agreed to allocate the following:
  €1,000 to Adare Saint Patrick’s Day Parade.
 
  €2,000 to Askeaton Saint Patrick’s Day Parade.
----
+
+[[PAGE_END:6]]
+
 7
 
  €1,000 to Rathkeale Community Council.
@@ -548,7 +561,9 @@ further discussion would take place on this matter and would revert in due cours
 **11.**
 
 **Request to receive a briefing from Tusla**
----
+
+[[PAGE_END:7]]
+
 8
 
 The Meetings Administrator informed Members that a request had been received from
@@ -574,4 +589,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

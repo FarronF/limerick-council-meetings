@@ -28,11 +28,11 @@ Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16
 
 Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19 May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Minutes-19th-May-Monthly-Meeting-of-Cappamore-Kilmallock-Municipal-District.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019%20May%202022.md)
 
-Report - Proposed Disposal of Land_ Ballinamina, Kilfinane - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Report-for-Cappamore-Kilmallock-Municipal-District-Ballinamina-Kilfinane.pdf) - Text not extracted
+Report - Proposed Disposal of Land: Ballinamina, Kilfinane - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Report-for-Cappamore-Kilmallock-Municipal-District-Ballinamina-Kilfinane.pdf) - Text not extracted
 
-Report - Proposed Disposal of Property_ Forty Acres, Bruree - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Report-for-Cappamore-Kilmallock-Municipal-District-Forty-Acres.pdf) - Text not extracted
+Report - Proposed Disposal of Property: Forty Acres, Bruree - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Report-for-Cappamore-Kilmallock-Municipal-District-Forty-Acres.pdf) - Text not extracted
 
-Report - Proposed Disposal of Land_ Martinstown, Kilmallock - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Report-for-Cappamore-Kilmallock-Municipal-District-Land-at-Martinstown-Kilmallock.pdf) - Text not extracted
+Report - Proposed Disposal of Land: Martinstown, Kilmallock - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Report-for-Cappamore-Kilmallock-Municipal-District-Land-at-Martinstown-Kilmallock.pdf) - Text not extracted
 
 Presentation - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Presentation-Monthly-Meeting-of-Cappamore-%20Kilmallock-Municipal-District.pdf) - Text not extracted
 

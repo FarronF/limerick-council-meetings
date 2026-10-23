@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/1.-agenda-15th-april-md-meeting-final.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 15th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/1.-agenda-15th-april-md-meeting-final.pdf)
 
----
+[[FILE_START]]
+
 **8th** **April, 2021.**
 
 **To/**
@@ -56,7 +57,9 @@ Disposal of Property
 To note proposal for the disposal of property at Gragane, Caherconlish, Co. Limerick.
 
 (Report enclosed)
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Environment
@@ -114,7 +117,9 @@ I will ask at the next Meeting of the Cappamore-Kilmallock Municipal District wh
 going to commence on the Housing Project at the Old Creamery site in Cappamore.
 
 9.Question submitted by Councillor Donegan
----
+
+[[PAGE_END:2]]
+
 3
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update
@@ -160,4 +165,6 @@ investigate the possibility of putting a footpath on the R513 from the Primary S
 Hospital to Sully’s Cross (O’Sullivans) L8504 which is used as a loop walk by a large
 
 number of walkers.
----
+
+[[PAGE_END:3]]
+

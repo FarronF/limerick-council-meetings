@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20and%20Emergency%20Services%20SPC%20-%202nd%20December%202015.pdf)
+**Original file:** [Minutes - Community Leisure and Emergency Services SPC - 2nd December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20and%20Emergency%20Services%20SPC%20-%202nd%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
@@ -104,7 +105,9 @@ The Chair thanked Mr. Brady for his presentation and acknowledged the work and
 commitment in his role and that there was no better person to take on this role. He is looking
 
 forward to an exciting year and felt it is a great occasion for the country.
----
+
+[[PAGE_END:1]]
+
 Cllr. M. Hourigan queried how existing families will get involved. Mr. Brady informed the
 
 committee that Catriona Crowe is involved in a genealogy project where she is researching
@@ -184,7 +187,9 @@ SIPTU always hold their Limerick meetings in one of these hotels. She is looking
 committee’s endorsement of the campaign.
 
 The Chair thanked all involved in this very important work.
----
+
+[[PAGE_END:2]]
+
 A discussion was had amongst the members regarding issues concerning employees with
 
 their employment rights, how to join unions and work permits. It was felt that this is
@@ -256,7 +261,9 @@ in the amount of €251,000.
 The Chair thanked everyone for attending and for giving their time to all the speakers at the
 
 meeting.
----
+
+[[PAGE_END:3]]
+
 Minutes Proposed By:
 
 Minutes Seconded By:
@@ -264,4 +271,6 @@ Minutes Seconded By:
 Minutes Signed By Chair:
 
 Date:
----
+
+[[PAGE_END:4]]
+

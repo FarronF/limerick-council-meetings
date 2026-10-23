@@ -16,21 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20November%202015.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 10th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh,
+__—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh.
 
 NN > Cé na gCeannaithe,
 
-: —> Luimneach
+: — Luimneach
 Limerick Corporate Services and Change Management,
 Limerick City and County Council,
-
-mes gounr’ cc
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61
@@ -42,16 +41,17 @@ District of Adare-Rathkeale
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare- Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 10’ November, 2015
+
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 10" November, 2015
 at 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Zig ©
+Zag
 
 Meetings Administrator.
 
-eee newer nnn anne ns nese seen nese een ee eee eee e enn enn anes nn see ne reese sence eee enna n neces eens seen seasasaaaaes
+eee newer wan nnn ene nese cece nese eenee eee enee een enn anes nn seenerer eee eee e eee enna n nese eene seen seaeasaenaes
 
 AGENDA
 
@@ -72,12 +72,14 @@ Proposed N21 Adare Western Approach Improvement Scheme
 
 To hear update on the Proposed Scheme in advance of Part VIII advertisement.
 
-1 @ customerservices@limerickie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ vewew imerickie
+1 @ customerservicesa@limerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach oe veww imerickie
 Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -128,7 +130,9 @@ Kildimo on the N69 with suitable LED lights, in the interests of safety.
 
 Correspondence
 
-N
+wv
 
 
----
+
+[[PAGE_END:2]]
+

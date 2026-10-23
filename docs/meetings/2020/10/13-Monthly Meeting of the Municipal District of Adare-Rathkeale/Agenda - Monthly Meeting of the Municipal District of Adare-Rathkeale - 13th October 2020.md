@@ -16,20 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-13th-october-2020-1.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-13th-october-2020-1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Céantar Bardasach Ath Dara-Rith Caola,
-& Contae Luimnigh Comnainea Cathrach agus Contae Luirnnigh,
+= Comhairle Cathrach
 
+& Contae Luimnigh
+
+Ars :
+—> Limerick City
+
+& County Council
+
+8" October, 2020.
+
+Ceantar Bardasach Ath Dara-Rith Caola,
+Comhairle Cathrach agus Contae Luirnnigh,
 Aras Séan Finn,
 
-APN : . Lirvé Nua
-— Limerick City _ Réth Caola
+Uirvé Nua
 
-& County Council Co. Lainnnigh,
+Rath Caola
+
+Co. Lairnragh.
 
 Adare-Rathkeale Municipal District
 Unerick City ari County Council
@@ -37,14 +49,14 @@ Ayas Sean Finn
 
 Naw Line,
 
-Rathhkeale,
+Rathheale,
 
-Co. Uumerick
+Co. Uimerick
 
 EIRCODE VS4 HRY
 
-8" October, 2020. t; 4353 10) 69 G&D47
-£: 4353 (0) 69 63188
+t: 4353 (0) 69 64047
+f: +353 (0) 69 63188
 
 To: The Cathaoirl and Each ber of the Municipal District of Adare-Rathk:
 
@@ -62,27 +74,36 @@ Meetings Administrator.
 AGENDA
 1. Minutes
 
-To adopt Minutes of the Meeting of the Municipal District of Adare-Rathkeale held on 8°"
+To adopt Minutes of the Meeting of the Municipal District of Adare-Rathkeale held on 8**
+
 September, 2020.
+
+2. Planning and Environmental Services
 
 (Copy Enclosed).
 
-2. Planning and Environmental Services
 Taking in Charge of Estates — Declaration of Roads to be Public Roads
 
 To approve the taking in charge of Marine Cove, Foynes in accordance with Section 180 of
 the Planning and Development Act 2000 (as amended) and Section 11 of the Roads Act
 
 1993.
+
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach I
+Corporate Headquarters, Merchants Quay, Limerick.
+
 (Report Enclosed).
-Soneeeyeueee
-Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach I wwwilimerick.ie
-Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouncil
 
-© 061 - $56 000
+= aonenkneeees
+wwwlimerick ie
+W @limerickCouncil
+
+\ 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Operations and Maintenance Services
@@ -113,12 +134,14 @@ the Municipal District of Adare-Rathkeale.
 
 Notice of Motion submitted by Councillor A. Teskey
 
-| will move at the next Meeting that this District lobby Til in relation to upgrading and
+| will move at the next Meeting that this District lobby TI in relation to upgrading and
 instating the necessary lay-by turning lanes at Blossom Hill cross, Rathkeale for road
 safety reasons.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -137,4 +160,6 @@ I will move at the next Meeting that this committee would discuss the details of
 erection of a Christmas crib in the lobby of our office in Rathkeale.
 
 
----
+
+[[PAGE_END:3]]
+

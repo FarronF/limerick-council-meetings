@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-special-meeting-22.07.2024-at-2.30-pm_0.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - July 22nd 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-special-meeting-22.07.2024-at-2.30-pm_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach
+_—__ Comhairle Cathrach
 & Contae Luimnigh
-AN Kf _
+ArN f ™ =
 
 — Limerick City
 & County Council
@@ -32,10 +33,10 @@ AN Kf _
 
 Serbhisi Corparaideacha
 
-Comhairle Cathrach agus Contae Luimnigts
+Comhairle Cathrach agus Contae Luimnigt,
 Ceannchesthra Chorpsraidesch,
 
-Cé na gCeannaithe.
+Ceé na gCeannaithe.
 
 Luimneach
 
@@ -45,12 +46,12 @@ Limerick City and County Courxil,
 Corporate Headquarters,
 Merchants Quay,
 
-Limerck
+Limerick
 
 EIRCODE V94 EH99
 
-¢: +355 (0) 61 557150
-f: +353 S (0) 61 415 266
+t: +355 (0) 61 557150
+f: +353 5 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -74,7 +75,7 @@ consisting of light manufacturing, ancillary offices and to include relocation o
 pitch and all associated works. Plg. Ref. 24/60/159 refers.
 
 (Director General Report to follow)
-Local Area Plan 2020- -™M i Con
+Local Area Plan 2020-; -™ i Con
 Pursuant to Section 34(6) of the Planning and Development Act, 2000 (as amended)
 to consider a proposed material contravention of the Croom Local Area Plan 2020-
 2026 and to grant permission for the construction of a new sports grounds and all
@@ -86,4 +87,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,30 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2017th%20December%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2017th%20December%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach pees Corpertidaach
-_—__ 5 Contes takin Comhairle Cathrach agus Contae Luimnigh,
+Comhairle Cathrach pains Coperticaach
+_—_—_ 5 Contan Favicon Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathni Chorpardideach,
-aAr™ i a : : Cé na gCeannaithe.
-— Limerick City Luimreach
+aAr™ i ie : : Cé na gCeannaithe.
+—= Limerick City Luimeach
 & County Council
 Corporate Services,
-Limerick City and County Council
+Limerick City and County Council,
 Corporate Headquarters.
 
-Merchants Quay.
-Limerick
+Merchants Quay,
+Umerick
 
 12" December, 2018.
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
 
-To: _ The Mayor and each Member of the Metropolitan District of Limerick f: 4353 (0) 61415 266
+To: _ The Mayor and each Member of the Metropolitan District of Limerick £: 4353 (0) 61415 266
 
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
@@ -55,7 +56,7 @@ a. Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Meeting of the Metropolitan District of Limerick held on 19"" November, 2018.
-(b) Special Meeting of the Metropolitan District of Limerick held on 30" November, 2018.
+(b) Special Meeting of the Metropolitan District of Limerick held on 30 November, 2018.
 
 (Copies Enclosed).
 
@@ -71,15 +72,17 @@ Park, Limerick.
 Limerick.
 =
 
-limerick.ic
+imerick.ic
 
 © vewwlimerickie
 
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) Disposal of 3 Galvone View, Limerick in exchange for 207 Valley View, O'Malley Park,
@@ -131,7 +134,9 @@ To note the Public Consultation Report in relation to the Draft City and County 
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -183,7 +188,9 @@ conventional standard construction?
 Builds construction methods and conventional construction methods?
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -213,7 +220,7 @@ Question submitted by Councillor P.Keller
 
 | will ask at the next meeting :-
 
-1. Has there been any progress or forward movement with regard to planning
+41. Has there been any progress or forward movement with regard to planning
 
 permission for the former Parkway Valley / Horizon Mall.
 
@@ -255,7 +262,9 @@ national target of 12-15% of commencement notices received’ .
 4. What is the proposed number of inspectors budgeted for this service in 2019?
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -281,7 +290,7 @@ many houses were knocked in 2018.
 
 Question submitted by Cmhir. S. 6 Ceallaigh
 
-| will ask at the next meeting if there has been any further consideration by TIl in relation to
+| will ask at the next meeting if there has been any further consideration by TI in relation to
 adding Castleconnell to signage on the M7 at junction 27 at Birdhill.
 
 uestion submi Councillor J. Costelloe
@@ -315,7 +324,9 @@ O'Shea's pub now that the topographical and hydrographic surveys have been compl
 and consultants have been appointed.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -345,7 +356,7 @@ Following ongoing complaints from residents in this area. | will move at the nex
 Metropolitan Meeting that Limerick City and County Council seek funding from Transport
 Infrastructure Ireland to carry out road improvements to include street lighting, footpaths
 and other safety measures and also to improve sight lines for vehicles entering and exiting
-onto N24,
+onto N24.
 
 ice of Motion i by Councillor D. Butler
 
@@ -375,7 +386,9 @@ day national strike of ambulance staff is to take place on Wednesday 19th Decemb
 already some SIPTU members of staff have declared that they will not cross the pickets.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26.
@@ -387,7 +400,7 @@ already some SIPTU members of staff have declared that they will not cross the p
 Notice of Motion submitted by Cmhir. S. O Ceallaigh (to be referred to the Home and Social
 Development Strategic Policy Committee)
 
-I will move at the next meeting that Comhairle Cathrach agus Contae Luimnigh investigate
+| will move at the next meeting that Comhairle Cathrach agus Contae Luimnigh investigate
 the possibility of developing a pilot project for a modular home Council development in the
 Metropolitan District.
 
@@ -399,4 +412,6 @@ advantage of vulnerable people looking to access short term loans with exorbitan
 rates in excess of 60%.
 
 
----
+
+[[PAGE_END:7]]
+

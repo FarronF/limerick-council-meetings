@@ -16,53 +16,42 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-september-council-meeting-27.09.2021.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 27th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-september-council-meeting-27.09.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
-& Contae Luimnigh
-ars ———~ a
+. Se®bhisi Corpardideachs,
+al Comhairle Cathrach Comhairle Cathrach agus Contac Luimnigh,
 
-— Limerick City
-& County Council
-21% September, 2021.
-
-A Chomhairleoir, a chara,
-
-Se®bhisi Corpardideachs,
-
-Comhairle Cathrach agus Contac Lulmnigh,
-Ceanncheathni Chorparaideach,
-
-Cé na gCeannaithe,
-
-Luimneach
+& Contae Luimnigh Ceannchesthnii Chorparaidesch,
+AON ——————————— cé naithe,
+Limerick City mala oe
+= & County Council
 
 Corporate Services,
 Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-ae
+ny
+BIRCODE V94 EH9O
+21* September, 2021. t: +353 (0) 61 557150
 
-EIRCODE V34 EH90
-
-t: +355 (0) 61 557150
 f. +353 (0) 61 415 266
+
+A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
 Council Chamber, Dooradoyle, and Online, on Monday, 27" September, 2021, at 3pm. The
-
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-
+Laura a
 Meetings Administrator.
 
 AGENDA
-
 1. Minutes
 
 To adopt Minutes of the following Meetings:
@@ -76,22 +65,20 @@ To adopt Minutes of the following Meetings:
 
 To consider proposal for the disposal of land, in accordance with the provisions of
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
-
 Planning and Development Act, 2000 (as amended), at:
 
 (a) Ballywilliam, Rathkeale, Co. Limerick.
 (b) 12, Woodvale, Foynes, Co. Limerick.
 
-Ceanncheathni Chorpartideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
-
-]
-© werwlimerickic
-
-061 - 557150
+=
+© werwlimerickie
+Ceanncheathni Chorpartideach, Cé na gCeannaithe, Luimneach v
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -125,7 +112,7 @@ Glensharrold, Carrickerry, Co. Limerick.
 
 (m) Galvone Industrial Estate, Limerick.
 
-(Statutory Notices dated 29 July, 23° August, 1% 2", 14'* and 16"
+(Statutory Notices dated 29 July, 23° August, 1% 24, 14t* and 16"
 September, 2021, already circulated)
 
 Support Services
@@ -133,29 +120,30 @@ Support Services
 
 {b)
 
-(ce)
+(ec)
 
 To fix date for the 2022 Statutory Budget Meeting.
 
 (Copy of Department Circular Fin 16-2021 dated
-6™ September, 2021, Enclosed)
+6" September, 2021, Enclosed)
 
 Overdraft Accommodation
+
 To approve bank overdraft accommodation in the sum of €50m for the 12
 month period to 31* December, 2022, subject to the sanction of the Minister
-
 for Housing, Local Government and Heritage and in accordance with Section
 106(2) of the Local Government Act, 2001, as amended.
 
 Chief Executive’s Report
 
 To consider Chief Executive’s Report for the months of June, July and August
-
 2021.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -179,7 +167,7 @@ buried; and a tour of the battlefield in Landen, Belgium, where he was
 fatally wounded, from 19" - 21* July, 2021.
 
 Invitation to attend European Green Capital 2023 and European Green
-Leaf 2022 Awards Ceremony in Lahti, Finland, on 8/9 September,
+Leaf 2022 Awards Ceremony in Lahti, Finland, on 8/9" September,
 2021.
 
 (Reports Enclosed)
@@ -202,7 +190,7 @@ Meeting of Economic Development, Enterprise and Planning Strategic
 Policy Committee: Next Meeting scheduled for 11" October, 2021.
 
 Meeting of Climate Action, Biodiversity and Environment Strategic
-Policy Committee: Next Meeting scheduled for 5” October, 2021.
+Policy Committee: Next Meeting scheduled for 5" October, 2021.
 
 Chairperson’s Report — Meeting of Community, Leisure and Culture
 Strategic Policy Committee held on 8" July, 2021.
@@ -215,10 +203,12 @@ Policy Committee held on 9" July, 2021.
 (Chairperson’s Report Enclosed)
 
 Home and Social Development Strategic Policy Committee: Next
-Meeting scheduled for 20" October, 2021.
+Meeting scheduled for 20” October, 2021.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -244,7 +234,7 @@ under the Individual Arts Bursary Awards Scheme 2021.
 (d) Dolores O’Riordan Music Bursary Scheme 2021
 
 To consider approving recommended allocation from the Assessment Panel
-under the Dolores O'Riordan Music Bursary Scheme 2021.
+under the Dolores O’Riordan Music Bursary Scheme 2021.
 (Report Enclosed)
 
 Transportation and Mobility
@@ -263,13 +253,15 @@ Conferences
 To consider participation by Members at the following Conferences:
 
 (a) “Health and Safety in the Workplace” to be held in Clonakilty, Co. Cork,
-from 24* to 26" September, 2021.
+from 24" to 26" September, 2021.
 
 (b) “The Fair Deal Scheme — What's the Deal with Nursing Home Care?” to
 be held in Carlingford, Co. Louth, from 1* to 3" October, 2021.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -277,7 +269,7 @@ be held in Carlingford, Co. Louth, from 1* to 3" October, 2021.
 11.
 
 (c) “Mental Health and Wellbeing” to be held in Clonakilty, Co. Cork, from
-8" to 10™ October, 2021.
+8" to 10" October, 2021.
 
 (d) “A Practical Guide to Budget 2022” to be held in Clonakilty, Co. Cork,
 from 15" to 17% October, 2021.
@@ -315,7 +307,9 @@ with central government to change the current protocol on the grass-cutting proc
 in the interests of safety.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -331,19 +325,19 @@ in the interests of safety.
 17.
 
 Notice of Motion submitted by the Municipal District of Cappamore-
-Kilmailock (Councillors J. Egan (Proposer), P.J. Carey, M. Donegan, G.
+Kilmallock (Councillors J. Egan (Proposer), P.J. Carey, M. Donegan, G.
 Mitchell, E. Ryan, M. Ryan, B.Teefy
 
 We will move at the next Meeting that, in consultation with CIE, the railway line from
 Limerick to Limerick Junction be upgraded to ensure better connection to Cork.
 
-Notice of Motion submitted by Councillor $. Hartigan
+Notice of Motion submitted by Councillor S. Hartigan
 
 I will move at the next Meeting that Limerick City and County Council identify Council-
 owned sites suitable for afforestation under the Woodland Creation on Public Lands
 Scheme.
 
-Notice of Motion submitted by Councillor EB. Secas
+Notice of Motion submitted by Councillor E. Secas
 
 | will move at the next Meeting that this Council call on the Government and the HSE
 to deliver proper recognition and compensation for healthcare workers at the
@@ -352,7 +346,7 @@ the COVID-19 crisis.
 
 Notice of Motion submitted by the Municipal District of Cappamore-
 Kilmallock (Councillors G. Mitchell (Proposer), P.J. Carey. M. Donegan. J.
-Egan. E, Ryan. M. Ryan, B.Teefy
+Egan. E. Ryan. M. Ryan, B.Teefy
 
 We will move at the next Meeting that the Government and the Local Authority use
 woo! produce from sheep for house, business and commercial insulation as the price
@@ -369,4 +363,6 @@ legislation for the Directly Elected Mayor of Limerick.
 Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

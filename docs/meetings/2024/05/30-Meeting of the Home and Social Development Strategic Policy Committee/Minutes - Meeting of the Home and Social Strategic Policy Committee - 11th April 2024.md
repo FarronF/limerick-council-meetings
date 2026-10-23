@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-11th-april-2024.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 11th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-11th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -96,7 +97,9 @@ McElligott.
 **Proposed:** Cllr. Tom Collopy
 
 **Seconded:** Cllr. Sharon Benson
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 2: Matters arising from the Minutes**
@@ -174,7 +177,9 @@ of those houses and queried the cost planning for the future.
 Mr. Kidney answered that LCCC are in the process of tendering the stock condition survey at the
 
 moment.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Item 4: Defective Concrete Block Schemes**
@@ -242,7 +247,9 @@ there an allowance for contingency. Mr. Nash responded with that replacing a gab
 on the area of the wall itself, there are different rates and everything should be included by one
 
 rate.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Item 5: Housing Delivery Action Plan** **–** **Progress to Date**
@@ -318,7 +325,9 @@ the Council. We are looking to buy land., but majority of social housing is priv
 or with the AHB sector. Target 60% New build by LCCC and 40% New build with private land/private
 
 developers.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Sheehan was in agreement with Cllr. Leddin in relation to the LDA. Ms. Newell in reply added
@@ -378,4 +387,6 @@ dedication and hard work. Ms. Curley also welcomed Ms. Gillian McNamara, Adminis
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

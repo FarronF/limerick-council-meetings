@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 4th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -72,7 +73,9 @@ they correspond with the Newcastle West office outlining the content of the pres
 members of the Deputation then withdrew from the Meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1. Adoption of Minutes
@@ -90,7 +93,7 @@ Seconded by Councillor Foley;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed, subject
-to the amendment to the Minutes of the Meeting of the 7" October, 2015 as outlined above.”
+to the amendment to the Minutes of the Meeting of the 7"" October, 2015 as outlined above.”
 
 3. Economic Development and Planning
 Initiatives for the Municipal District of Newcastle West
@@ -132,7 +135,9 @@ priority enhancement measures as follows:
 > General cleaning/repair to footpaths.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -176,7 +181,7 @@ REPLY: The pedestrian crossing will be removed within the coming month.
 
 7. Question submitted by Councillor L. Galvin
 
-1 will ask at the next Meeting if proper illuminous signage can be put at the bend of the road
+! will ask at the next Meeting if proper illuminous signage can be put at the bend of the road
 at Knockbrack in both directions (where you turn up to Diarmuid O’Connor’s yard).
 
 REPLY: Signage ordered and to be erected as soon as possible.
@@ -186,7 +191,9 @@ REPLY: Signage ordered and to be erected as soon as possible.
 1 will ask at the next Meeting if the low wall at Harnetts Funeral Home Abbeyfeale can be
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -212,7 +219,7 @@ preliminary design for works was prepared. Unfortunately funding was not
 available to progress this project. However, works at this area are an objective of
 the Council and funding is still being sought for same.
 
-10. Notice of Motion submitted by Councillor J. Scanian
+10. Notice of Motion submitted by Councillor J. Scanlan
 
 1 will move at the next Meeting that we amend Standing Orders to allow the placer of any
 question to ask for clarification or place a supplementary question from the floor of the
@@ -241,7 +248,9 @@ Roads Authority be asked to look at the road. Councillor Scanlan in seconding th
 stated that he agreed that flood waters needed to be monitored.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -282,4 +291,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+

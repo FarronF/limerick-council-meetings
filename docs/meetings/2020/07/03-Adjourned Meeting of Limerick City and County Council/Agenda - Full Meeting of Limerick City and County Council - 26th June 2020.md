@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-meeting-26.06.2020.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 26th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-meeting-26.06.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Ceanncheathrnds Chorparaideach,
-neN —_—eeeee Cé na gCeannaithe,
+Ceanncheathnds Chorparaideach,
+nAeN — ee Cé na gCeannaithe,
 => Limerick City Luimneach
 & County Council
 Corporate Sarvices,
-Limerick Oity and County Council,
+Limerick Oity and County Council.
 Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-ae Comhairle Cathrach annie PO i al erry
-a & Contae Luimnigh eee wenn BGS werrthebayde
+el Comhairle Cathrach ae PO i al rr
+~~ & Contae Luimnigh see w enn OOS worry
 
-EIRCODE V94 EHSO
+EIRCODE V94 EH9O
 
 22™ June, 2020. t: 4383 (0) 61 557380
 f: +353 (0) 61 415 266
@@ -59,22 +60,23 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Special Meeting of the Council held on 24" January, 2020.
-(b) Ordinary Meeting of the Council held on 27™ January, 2020.
+(a) Special Meeting of the Council held on 24™ January, 2020.
+(b) Ordinary Meeting of the Council held on 27 January, 2020.
 (c) Special Meeting of the Council held on 25" February, 2020.
 (d) Special Meeting of the Council held on 10™ June, 2020.
 
 (Copies Enclosed)
 2. Coronavirus (COVID-19)
 To note update on status/planning.
-= customerservices@limerickie
-© wwvelimerickie
+@& customerservices@limerickie
 Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -87,7 +89,7 @@ Planning and Development Act, 2000 (as amended), at:
 
 (a)
 (b)
-{c)
+(c)
 (d)
 (e)
 (f)
@@ -160,16 +162,18 @@ To consider Draft Annual Report 2019
 (Report and Annual Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(ec)
+(c)
 
 (4)
 
 (e)
 
-(f
+(
 
 (gs)
 
@@ -217,7 +221,9 @@ Farming Sector to Strategic Policy Committees.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (i)
@@ -279,7 +285,9 @@ Committee Meeting held on 24" February, 2020.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Recommendation No. 1:
@@ -318,7 +326,9 @@ Mobility Award Scheme 2020 — Round 1.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -356,7 +366,9 @@ Question submitted by Councillor D. McSweeney
 funding to complete Phase Two of Patrickswell Village Renewal Scheme.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -404,18 +416,20 @@ people with special needs who wish to use the Greenway.
 
 Question submitted by Councillor E. O'Donovan
 
-t will ask at the next Meeting for a detailed breakdown of €175,000 allocated to meet
+| will ask at the next Meeting for a detailed breakdown of €175,000 allocated to meet
 Traveller needs during COVID-19 pandemic; has this money been spent and, if not,
 what are the plans for the rest of this funding.
 
 Question submitted by Councillor E. O'Donovan
-| will ask at the next Meeting for an update on the Council's allocations for Traveller-
+| will ask at the next Meeting for an update on the Council’s allocations for Traveller-
 
 specific accommodation; how much of this funding has been spent in 2020 and what
 are the plans for expenditure for 2020.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -439,7 +453,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor L. Galvin
 
-Iwill move at the next Meeting that (a) this Council totally reject the National Planning
+I will move at the next Meeting that (a) this Council totally reject the National Planning
 Framework policy regarding once-off rural housing based on social and economic
 need; (b) a Meeting be arranged with the Minister responsible to highlight the issues
 around this policy; and (c) this Motion be circulated to all Loca! Authorities to discuss
@@ -455,24 +469,26 @@ in many other jurisdictions.
 Notice of Motion submitted by Councillor J. Leddin (to be referred to Home and
 Social Development Strategic Policy Committee)
 
-I will move at the next Meeting that Limerick City and County Council ensure that the
+| will move at the next Meeting that Limerick City and County Council ensure that the
 maximum allocation of social and affordable houses is secured from the planned
 residential development by Limerick 2030 in Mungret and that the Council not accept
 any alternative options as provided under the relevant housing legislation.
 
-ak* Se S *2 WIiOLIO#n rMMITIEAL Oe J Vi Se | is
+ak* i‘ 2 MIiOLIO?n PMMITIIALOe J vi Se | is
 E, O’Brien, J. O'Donoghue: A. Teskey
 We will move at the next Meeting that the Council communicate with each of the
 Party Leaders in the Republic to adopt a policy granting each Credit Union branch the
 authorisation to become a Building Society.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
 
-Keary, E. O’Brien ’ % ‘Sheahan, A. Teskey
+Keary, E. O’Brien ’ q ‘Sheahan, A. Teskey
 
 We will move at the next Meeting that the Council communicate with each of the
 Party Leaders in the Republic to adopt a policy to revise some of the Planning
@@ -511,7 +527,9 @@ implement this urgently, considering the impact of public accessibility to Counc
 Meetings due to COVID-19 restrictions.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27.
@@ -548,4 +566,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:10]]
+

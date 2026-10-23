@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Joint-Policing-Sub-Committee-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
+**Original file:** [Minutes - Joint Policing Sub Committee Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Joint-Policing-Sub-Committee-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK
@@ -108,7 +109,9 @@ Section 3 assaults
 1
 
 4
----
+
+[[PAGE_END:1]]
+
 2
 
 In relation to burglaries, there were arrests in Baggotstown, Bruff and Kilfinane.
@@ -182,7 +185,9 @@ Superintendent regarding the issues highlighted above and provide an update on s
 Travel and Transport SPC in June and back to the Cappamore Kilmallock Joint Policing
 
 Committee.
----
+
+[[PAGE_END:2]]
+
 3
 
 New Operating Model
@@ -210,4 +215,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_19_september_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick City and County Council - 19 September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_19_september_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -78,7 +79,9 @@ that the Meeting would commence with a Powerpoint Presentation by Mr. Conroy in
 relation to the National Programme of Revaluation of Commercial and Industrial
 
 Properties with particular emphasis on the Limerick Revaluation.
----
+
+[[PAGE_END:1]]
+
 2
 
 Mr. Conroy addressed the Meeting and outlined the background, objectives and
@@ -138,7 +141,9 @@ Office could be extended.
 stated that not only did businesses pay rates, which funded services, but they
 
 also created employment and brought vibrancy and growth to the County.
----
+
+[[PAGE_END:2]]
+
 3
 
 • Members referred to the fact that over 70% of all Irish workers were employed
@@ -190,4 +195,6 @@ An Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

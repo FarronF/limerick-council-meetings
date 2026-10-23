@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-municipal-district-of-newcastle-west-13th-may-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 13th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-municipal-district-of-newcastle-west-13th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -63,7 +64,9 @@ In replying, Councillor Galvin expressed his appreciation to the Cathaoirleach, 
 staff of the District for the adjournment of the Meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Adoption of Minutes
@@ -110,10 +113,12 @@ schedules which have been drafted and reviewed by the Road Design Office and are
 being finalised.
 
 In conclusion, she stated that the Environmental Impact Assessment Report and Compulsory
-Purchase Order documentation is expected to be ready for submission to An Coimisidn
+Purchase Order documentation is expected to be ready for submission to An Coimisiin
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Pleandla by the end of the summer. She stated that subject to approvals, the scheme is on
@@ -123,14 +128,14 @@ The Senior Executive Engineer proceeded to give an update on the N21 Abbeyfeale 
 scheme. She stated that both schemes are being progressed in parallel but however the
 Abbeyfeale scheme is running slightly behind Newcastle West due to the hillier terrain around
 Abbeyfeale which makes the design process more complex and requires more careful
-consideration, She stated that as a result, approvals and publication for Abbeyfeale are
+consideration. She stated that as a result, approvals and publication for Abbeyfeale are
 expected to follow approximately two to three months after Newcastle West.
 
 Following the update given, the Members requested that the update be given in writing to
 the Members. The Members referred to a number of matters including the progression of
 both projects simultaneously, various phases in the projects, funding, more engagement with
 landowners, timeframe for submission of schemes to An Coimisitin Pleandla along with
-completion dates and that the two projects be given priority by An Coimisidin Pleandla. The
+completion dates and that the two projects be given priority by An Coimisidn Pleandla. The
 acquisition of houses by affected householders was raised and in replying the Executive
 Engineer stated that there is no funding available at present but however stated that priority
 would be given to this matter in due course and when funding is available. Prior to conclusion,
@@ -164,7 +169,9 @@ allocate €2,347.37 as follows to Tournafulla and District Vintage Club for med
 refreshments and printing:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e Councillor Collins €782.46
@@ -176,7 +183,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 © Councillor Galvin €666.67
 ¢ Councillor Foley €666.67
-¢ Councillor Ruddle €666.67
+e Councillor Ruddle €666.67
 
 On the proposal of Councillor Ruddle, seconded by Councillor Foley, it was agreed to allocate
 €3,000 as follows to Newcastle West Knights Basketball Club for basketball equipment:
@@ -190,7 +197,7 @@ allocate €1,500 as follows to Feohanagh/Castlemahon Community Games for outdoo
 and equipment:
 
 ¢ Councillor Collins €750
-® Councillor Ruddle €750
+© Councillor Ruddle €750
 
 On the proposal of Councillor Sheahan, seconded by Councillor Collins, it was agreed to
 allocate €2,000 to Ballyguiltenane National School for works to car park.
@@ -215,7 +222,9 @@ land where there is no dyke to carry the surface water.
 REPLY:
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Yes, the local authority can open inlets from a public road to private lands under Section 76
@@ -267,10 +276,12 @@ grass Cutting service for the 29.66 hectares of green areas in the charge of the
 
 within the Municipal District of Newcastle West. The contract requires 16 cuts annually
 
-s
+5
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (every two weeks during the growing season) at a rate of €126.50 per hectare per cut. This
@@ -280,7 +291,7 @@ NOTICES OF MOTION
 
 8. Notice of Motion submitted by Councillor J. Scanlan
 
-1 will move at the next Meeting that the Director of Service, Transportation, Mobility and
+! will move at the next Meeting that the Director of Service, Transportation, Mobility and
 Public Realm, to trail average speed cameras along the R520 and R522 and to revert to
 our Municipal Council with the outcome. Findings are needed in the interest of safety.
 
@@ -320,7 +331,9 @@ collision history, speed data and road geometry.
 farmhouse, The Hill, Abbeyfeale and carry out appropriate measures for child safety.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was seconded by Councillor Foley.
@@ -363,7 +376,7 @@ and collection) of €750 per hectare (2026 pricing) and a requirement for an ad
 Current budget allocation precludes the inclusion of grass collection as part of the grass
 cutting contract. Members are advised that grass collection is not a service provided in any
 District of Limerick City and County Council and the Parks Section provide the same level of
-Grass cutting service level across all Districts for green areas in the charge of the Council.
+grass cutting service level across all Districts for green areas in the charge of the Council.
 
 11. Notice of Motion submitted by Councillor F. Foley
 
@@ -371,7 +384,9 @@ Grass cutting service level across all Districts for green areas in the charge o
 our disabled parking spaces and that proper signage is in place.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was seconded by Councillor Collins.
@@ -401,7 +416,7 @@ The Motion was seconded by Councillor Collins.
 
 In proposing the Motion, Councillor Ruddle referred to the speed of traffic and accidents
 which have taken place on the Boherbui road and requested that traffic calming measures be
-considered near Scoil Mhuire agus [de secondary school. The Members concurred with
+considered near Scoil Mhuire agus ide secondary school. The Members concurred with
 Councillor Ruddle and referred to the issue of speeding and traffic calming measures on all of
 the Boherbui road, not just one particular section.
 
@@ -420,7 +435,9 @@ Village Boardwalk will be advertised shortly. He also stated that discussions ar
 landowners with regard to this project.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The condition of the road surface at Maiden Street and leading to the Courtenay School was
@@ -439,7 +456,7 @@ The issue of safety in the vicinity of the Abbeyfeale United Soccer Club and an 
 request for traffic calming measures at this location was raised. In replying, the Executive
 Engineer agreed to revert to the Members on this matter.
 
-An update was sought on Fuller's Folly and it was agreed that the Meetings Administrator
+An update was sought on Fuller’s Folly and it was agreed that the Meetings Administrator
 would seek an update for the next Meeting.
 
 The provision of a roads crew at Kinard Depot in Glin was raised and a request was made to
@@ -471,7 +488,9 @@ West. It was discussed that the plebiscite that was thought to be in place was n
 a plebiscite is required in order to consider this request.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Prior to conclusion of the Meeting, the Cathaoirleach and Members wished to acknowledge
@@ -495,4 +514,6 @@ Dated:
 10
 
 
----
+
+[[PAGE_END:10]]
+

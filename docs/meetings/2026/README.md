@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2026 Council Meetings
 
 Select a month to view records:
@@ -11,3 +15,4 @@ Select a month to view records:
 **[07 - July](07/README.md)**
 **[08 - August](08/README.md)**
 **[09 - September](09/README.md)**
+**[10 - October](10/README.md)**

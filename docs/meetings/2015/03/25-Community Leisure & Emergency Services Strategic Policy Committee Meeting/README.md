@@ -24,7 +24,7 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Community Leisure & Emergency Services SPC - 25-03-15.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015.pdf) - [Extracted text](./Agenda%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%2025-03-15.md)
+Agenda - Community Leisure & Emergency Services SPC - 25-03-15.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015.pdf) - Text not extracted
 
 Item 2 - Draft Standing Orders for SPC's - Community Leisure & Emergency Services SPC - 25-03-15.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/item_2_-_draft_standing_orders_for_spcs.pdf) - Text not extracted
 

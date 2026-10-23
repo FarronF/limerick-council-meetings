@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28c%29%20Minutes%20%20Budget%20Meeting%20151118.pdf)
+**Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 15th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28c%29%20Minutes%20%20Budget%20Meeting%20151118.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -84,7 +85,9 @@ on 17th September, 2018, with an initial Corporate Policy Group meeting. On 24th
 2018, the Council made its decision on the rate of Local Property Tax (LPT). There were two
 
 further Corporate Policy Group meetings held on 15th October and 12th November. Also, the
----
+
+[[PAGE_END:1]]
+
 2
 
 draft budgetary plan was approved by each of the Municipal Districts and Metropolitan
@@ -148,7 +151,9 @@ made the vital decisions that have restored belief, confidence and pride to the 
 It is important that to remind ourselves of some of the key decisions that enabled progress
 
 to be made.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Chief Executive outlined the key decisions that had been made such as;
@@ -220,7 +225,9 @@ Regeneration implementation plans and others.
 The Chief Executive stated that the leadership, vision and decision-making shown by the
 
 Members have supported all of these initiatives and this faith in the new Limerick story has
----
+
+[[PAGE_END:3]]
+
 4
 
 seen Limerick now become the fastest growing economy in Ireland and the Irish urban
@@ -294,7 +301,9 @@ economic development by progressing key capital projects across the City and Cou
 including Urban and Village renewal while also marketing Limerick as a great place to visit
 
 and do business.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Chief Executive thanked the Mayor and the Council Members for their foresight,
@@ -338,7 +347,9 @@ Circular Fin 05/2018 also refers to the prescribed period that applies for the h
 2018. It was agreed by the Members at the September Council meeting to hold the Annual
 
 Budget Meeting on Thursday 15th November 2018 at 11am, in Council Chamber, Dooradoyle.
----
+
+[[PAGE_END:5]]
+
 6
 
 **Budget Process**
@@ -420,7 +431,9 @@ Some key decisions include:
 stimulation of the local economy underlining our commitment to economic growth in
 
 order to generate employment and create an environment for continued prosperity.
----
+
+[[PAGE_END:6]]
+
 7
 
  The Members vision for the Opera Site received the backing and support of the
@@ -486,7 +499,9 @@ Limerick Regeneration implementation plans and others.
 into the Limerick City Development Plan 2010-2016 (as extended) with €170m
 
 committed by central Government in the national capital plan.
----
+
+[[PAGE_END:7]]
+
 8
 
 The leadership, vision and decision-making shown by the Members have supported all of
@@ -690,7 +705,9 @@ planning fees, library and sports facility fees, casual trading fees etc. ). So,
 at the sub-General Government level will have serious implications for national fiscal policy -
 
 expenditure increases in the LA & other sectors with own resource income will have to be
----
+
+[[PAGE_END:8]]
+
 9
 
 met by offsetting expenditure reductions in voted expenditure to ensure compliance with
@@ -764,7 +781,9 @@ also expected to see enabling works at the site, ahead of construction on what i
 most important developments ever undertaken in Limerick, one with the capacity to create
 
 3,000 jobs across a 450,000 sq ft campus.
----
+
+[[PAGE_END:9]]
+
 10
 
 Master-planning will also be advanced in 2019 at another key development, the 10-acre
@@ -838,7 +857,9 @@ While the standard allocation model will remain in place, it is our intention to
 Based Letting (CBL) model of allocation during 2019. The management of existing tenancies
 
 is a critical piece of work in which we continue to engage.
----
+
+[[PAGE_END:10]]
+
 11
 
 Consultation and communication with our Elected Representatives, our tenants and the wider
@@ -906,7 +927,9 @@ Local Government Act, 2001 as amended, the Draft Budget is required to set out t
 expenditure necessary to carry out the functions of the Council and the income estimated to
 
 accrue to the Council. The key objectives of the 2019 Budget are set out in the Table below:
----
+
+[[PAGE_END:11]]
+
 12
 
 **Outturn 2018**
@@ -1057,7 +1080,9 @@ targets and to meet the objectives of the Water Framework directive.
 ***6.***
 
 ***Continue to seek efficiencies in service provision, cost reduction and value for money.***
----
+
+[[PAGE_END:12]]
+
 13
 
 **Outturn 2018**
@@ -1161,7 +1186,9 @@ H - Misc Services
 **€561,322,552**
 
 **Table 2: Analysis of Expenditure by Division**
----
+
+[[PAGE_END:13]]
+
 14
 
 The following chart gives a breakdown of expenditure by each division.
@@ -1311,7 +1338,9 @@ Division, with comparative figures for 2018:
 **Analysis of Expenditure by Division €'m**
 
 **(Excl HAP)**
----
+
+[[PAGE_END:14]]
+
 15
 
 **Analysis of Income 2019**
@@ -1389,7 +1418,9 @@ The following Pie chart highlights the % split by income category excluding HAP.
 **30%**
 
 **Analysis of Income (excluding HAP)**
----
+
+[[PAGE_END:15]]
+
 16
 
 74% of the Council's income (excluding HAP) is now generated locally through Commercial
@@ -1481,7 +1512,9 @@ to adjust the LPT rate upwards by 7.5% in 2019 equating to an increase of €1,1
 **Draft Budget 2019 €'m**
 
 **Adopted Budget 2018 €'m**
----
+
+[[PAGE_END:16]]
+
 17
 
 The 2019 allocation from the Local Property Tax and the calculation provided by the DHPLG
@@ -1581,7 +1614,9 @@ resources for the delivery of the following services as follows:
 **€1,177k**
 
 **Table 5: Allocation of additional resources**
----
+
+[[PAGE_END:17]]
+
 18
 
 **Commercial Rates**
@@ -1659,7 +1694,9 @@ below in ***Table 6***:
 €1,050k
 
 **Table 6: Allocation of additional resources from proposed 1.90% Commercial Rate increase**
----
+
+[[PAGE_END:18]]
+
 19
 
 ***Table 7*** below outlines the combined effect for 2019 of the LPT increase of 7.5% with
@@ -1769,7 +1806,9 @@ meeting and that the rate of refund decided in respect of the relevant local ele
 shall apply to eligible persons for the year to which the budget relates. The budget has been
 
 framed on the basis the refund rates on vacant property noted in ***Table 8*** below.
----
+
+[[PAGE_END:19]]
+
 20
 
 The following amended vacant property scheme is proposed to continue in 2019:
@@ -1833,7 +1872,9 @@ businesses in all towns and villages across Limerick City and County Council. Th
 intended to address property vacancy rates, improve streetscapes and to support the
 
 business community.
----
+
+[[PAGE_END:20]]
+
 21
 
 **Housing Assistance Payment (HAP) Transactional Shared Service Centre**
@@ -1899,7 +1940,9 @@ to the communities we serve. In this regard, an Apprenticeship Programme will be
 in 2019. The Graph below shows our overall numbers at present and the number of retired
 
 staff, which will rise significantly towards the end of 2019.
----
+
+[[PAGE_END:21]]
+
 22
 
 **Chart 5: Analysis of staff numbers and number receiving pensions 2010-2019**
@@ -2007,7 +2050,9 @@ Council’s absolute commitment to the provision of responsive, efficient and in
 **Number Receiving Pension**
 
 **Number Staff**
----
+
+[[PAGE_END:22]]
+
 23
 
 services and we will continue to strive to deliver the highest possible quality of service to our
@@ -2121,7 +2166,9 @@ source of funding for the 3 year capital plan 2019 to 2021.
 17.605
 
 **Table 9: Summary Capital Plan 2019-2021**
----
+
+[[PAGE_END:23]]
+
 24
 
 Chart 6 profiles the Capital Expenditure for each of the three years:
@@ -2189,7 +2236,9 @@ ARV (Annual Rate on Valuation), and reflects the decision by elected members to 
 **Capital Expenditure 2019-2021 by Year**
 
 **€'m**
----
+
+[[PAGE_END:24]]
+
 25
 
 rate of Local Property Tax (LPT) by 7.5% for 2019. These increases will enable the Council to
@@ -2265,7 +2314,9 @@ within the Regeneration Programme
 public toilet in Abbeyfeale was inadequate and therefore would not be supporting the
 
 budget.
----
+
+[[PAGE_END:25]]
+
 26
 
 In addition, Members asked questions on several aspects of the Annual Budget Divisions
@@ -2327,7 +2378,9 @@ In addition, Members asked questions on several aspects of the Annual Budget Div
 & J which were responded to by the Chief Executive and relevant Directors of Service. The
 
 Council then noted the provisions made in the Draft Annual Budget for these Divisions.
----
+
+[[PAGE_END:26]]
+
 27
 
 Following this discussion, it was proposed by Cllr O Hanlon and seconded by Cllr M Collins to
@@ -2403,7 +2456,9 @@ service provision, cost reduction and value for money.
 Cllr Collins referred to the delivery of the HAP Programme which is a major and significant
 
 contract for this local authority with responsibility for a revenue of €518m.
----
+
+[[PAGE_END:27]]
+
 28
 
 Insurance and rising pension costs continues to be a major drain on this local authority’s
@@ -2475,7 +2530,9 @@ to adopt a revenue budget of approximately €170 million. He referred to other 
 authorities around the country today seeking the adoption of a budget of €35/40million
 
 and stated how progressive Limerick had become.
----
+
+[[PAGE_END:28]]
+
 29
 
 The inclusion of the HAP Shared Services is a significant addition to our budget. It was with
@@ -2555,7 +2612,9 @@ need for more housing projects and the investment that is required in housing. C
 ÓCeallaigh referred to the need for more housing adaptation grants and how there are
 
 people in care centres unable to return home as their house is not suitable.
----
+
+[[PAGE_END:29]]
+
 30
 
 The following amendment was proposed by Cmhlr Ó Ceallaigh and seconded by Cllr
@@ -2639,7 +2698,9 @@ O’Donoghue, O’Hanlon, Pond, Ryan, Scanlan, Secas, Sheahan (J), Sheahan (M), 
 Teefy, Teskey. **(31)**
 
 The Meetings Administrator declared the Amendment **defeated.**
----
+
+[[PAGE_END:30]]
+
 31
 
 Following further discussion the Mayor stated that a vote would be taken on the proposal to
@@ -2695,7 +2756,9 @@ AND THAT, in accordance with Section 135 of the Local Government Act 2001, as am
 by the Local Government Reform Act, 2014, the Report on Capital Projects 2019 — 2021 as
 
 presented to the meeting is considered (Item 3 on Meeting Agenda)
----
+
+[[PAGE_END:31]]
+
 32
 
 The Mayor then referred to items 4,5,6,7 & 8 on the Agenda which were proposed by Cllr
@@ -2757,7 +2820,9 @@ AND THAT Business & Retail Incentive Scheme for Vacant Property from 01/01/2019 
 by Section 43 of the Local Government Reform Act, 2014 subject to finances available, is
 
 adopted as circulated without amendment (Item 8 on Meeting Agenda)
----
+
+[[PAGE_END:32]]
+
 33
 
 The Mayor and Members thanked the Chief Executive, Director of Service and staff for their
@@ -2775,4 +2840,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:33]]
+

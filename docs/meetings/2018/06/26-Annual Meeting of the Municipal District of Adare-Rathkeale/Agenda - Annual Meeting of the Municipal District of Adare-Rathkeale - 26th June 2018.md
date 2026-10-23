@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Annual%20Meeting%2026th%20June%202018.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 26th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Annual%20Meeting%2026th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Po
+ae
 
 =
 Limerick
@@ -39,7 +40,7 @@ Aras Séan Finn.
 
 An Béthar Nua.
 
-Rath Caola.
+Rath Caola
 
 Co. Luimnigh
 
@@ -67,7 +68,7 @@ Is mise le meas,
 Karen Bu
 Meetings Administrator.
 
-ee ee ors
+See ee rr
 
 AGENDA
 
@@ -81,8 +82,10 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ Customerservices@limerickie
- wwrwlimerickte
-Ww @limerickCouncil
+& werwlimerickte
+w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

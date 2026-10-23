@@ -36,39 +36,39 @@ Minutes - Special Meeting of Limerick City and County Council - 23rd June 2022.p
 
 Minutes - Special Meeting of Limerick City and County Council - 30th June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28e%29-Minutes-Special-Meeting-30-06-2022.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2030th%20June%202022.md)
 
-Land Disposal_ 40 Acres, Bruree, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03-Disposal-Forty-Acres-Bruree.pdf) - Text not extracted
+Land Disposal: 40 Acres, Bruree, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03-Disposal-Forty-Acres-Bruree.pdf) - Text not extracted
 
-Land Disposal_ 30 Wingfield Orchard Newcastle West, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28b%29-Disposal-30-Wingfield-Orchard-NCW.pdf) - Text not extracted
+Land Disposal: 30 Wingfield Orchard Newcastle West, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28b%29-Disposal-30-Wingfield-Orchard-NCW.pdf) - Text not extracted
 
-Land Disposal_ Crawford Lane, Bruff, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28c%29-Disposal-Crawford-Lane-Bruff.pdf) - Text not extracted
+Land Disposal: Crawford Lane, Bruff, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28c%29-Disposal-Crawford-Lane-Bruff.pdf) - Text not extracted
 
-Land Disposal_ Drombanna, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28d%29-Disposal-Drombanna.pdf) - Text not extracted
+Land Disposal: Drombanna, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28d%29-Disposal-Drombanna.pdf) - Text not extracted
 
-Land Disposal_ Jesuit Lane, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28e%29-Disposal-Jesuit-Lane-Limerick.pdf) - Text not extracted
+Land Disposal: Jesuit Lane, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28e%29-Disposal-Jesuit-Lane-Limerick.pdf) - Text not extracted
 
-Land Disposal_ Mill Road, Corbally, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28f%29-Disposal-Mill-Road-Corbally.pdf) - Text not extracted
+Land Disposal: Mill Road, Corbally, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28f%29-Disposal-Mill-Road-Corbally.pdf) - Text not extracted
 
-Land Disposal_ Montpellier, O'Brien's Bridge, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28g%29-Disposal-Montpelier-O-Briensbridge.pdf) - Text not extracted
+Land Disposal: Montpellier, O'Brien's Bridge, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28g%29-Disposal-Montpelier-O-Briensbridge.pdf) - Text not extracted
 
-Land Disposal_ Ballinamina, Kilfinane, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28h%29-Disposal-Ballinamina-Kilfinane.pdf) - Text not extracted
+Land Disposal: Ballinamina, Kilfinane, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28h%29-Disposal-Ballinamina-Kilfinane.pdf) - Text not extracted
 
-Land Disposal_ Martinstown, Kilmallock, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28i%29-Disposal-Martinstown-Kilmallock.pdf) - Text not extracted
+Land Disposal: Martinstown, Kilmallock, Co. Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28i%29-Disposal-Martinstown-Kilmallock.pdf) - Text not extracted
 
-Land Disposal_ James Street, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28j%29-Disposal-James-Street-Limerick.pdf) - Text not extracted
+Land Disposal: James Street, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28j%29-Disposal-James-Street-Limerick.pdf) - Text not extracted
 
-Land Disposal_ 66 Lower Carey's Road, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28k%29-Disposal-66-Lr-Careys-Road.pdf) - Text not extracted
+Land Disposal: 66 Lower Carey's Road, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28k%29-Disposal-66-Lr-Careys-Road.pdf) - Text not extracted
 
-Land Disposal_ Galvone Business Park, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28l%29-Disposal-Galvone-Business-Park.pdf) - Text not extracted
+Land Disposal: Galvone Business Park, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28l%29-Disposal-Galvone-Business-Park.pdf) - Text not extracted
 
-Land Disposal_ King John's Castle, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28m%29-Disposal-King-Johns-Castle-Limerick.pdf) - Text not extracted
+Land Disposal: King John's Castle, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28m%29-Disposal-King-Johns-Castle-Limerick.pdf) - Text not extracted
 
-Land Disposal_ 20 Nicholas Street, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28n%29-Disposal-20-Nicholas-Street.pdf) - Text not extracted
+Land Disposal: 20 Nicholas Street, Limerick - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%28n%29-Disposal-20-Nicholas-Street.pdf) - Text not extracted
 
-Chief Executive's Report_ May 2022 - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28a%29-Chief-Executive-Report-May-2022.pdf) - Text not extracted
+Chief Executive's Report: May 2022 - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28a%29-Chief-Executive-Report-May-2022.pdf) - Text not extracted
 
 Appointment of Chairs to Strategic Policy Committees - Annual Meeting of Limerick City and County Council - 7th June 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28b%29-Appointment-SPC-Chairs.pdf) - Text not extracted
 
-Proposed Schedule of Dates_ SPC Meetings - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28c%29-Schedule-of-Dates-SPC-Meetings.pdf) - Text not extracted
+Proposed Schedule of Dates: SPC Meetings - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28c%29-Schedule-of-Dates-SPC-Meetings.pdf) - Text not extracted
 
 Limerick Market Trustees - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28d%29-Limerick-Market-Trustees.pdf) - Text not extracted
 
@@ -82,7 +82,7 @@ Chair's Report - Home and Social Development SPC Meeting - 15th June 2022.pdf -
 
 Chair's Report - Climate Action Biodiversity and Environment SPC Meeting - 21st June 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28f%29-%28iv%29-%28i%29-CABE-SPC-Report.pdf) - Text not extracted
 
-Cover Letter_ Draft Limerick City And Environs Green And Blue Infrastructure Strategy - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28f%29-%28iv%29-%28ii%29-Draft-Green-Blue-Infrastructure-Strategy-Report.pdf) - Text not extracted
+Cover Letter: Draft Limerick City And Environs Green And Blue Infrastructure Strategy - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28f%29-%28iv%29-%28ii%29-Draft-Green-Blue-Infrastructure-Strategy-Report.pdf) - Text not extracted
 
 Draft Limerick City And Environs Green And Blue Infrastructure Strategy - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/04%28f%29-%28iv%29-%28iii%29-Draft-Green-Blue-Infrastructure-Strategy.pdf) - Text not extracted
 
@@ -90,7 +90,7 @@ Affordable Housing Presentation - Full Meeting of Limerick City and County Counc
 
 Development Fund Allocations 2022 - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/06-Development-Fund-Allocations.pdf) - Text not extracted
 
-Recommendations_ Festivals and Events Grant Scheme - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/07%28a%29-Festivals-and-Events-Grant-Scheme-%281%29.pdf) - Text not extracted
+Recommendations: Festivals and Events Grant Scheme - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/07%28a%29-Festivals-and-Events-Grant-Scheme-%281%29.pdf) - Text not extracted
 
 Strategic Fund for Arts & Culture - Full Meeting of Limerick City and County Council - 11th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/07%28b%29-Strategic-Fund-for-Arts-and-Culture-%281%29.pdf) - Text not extracted
 

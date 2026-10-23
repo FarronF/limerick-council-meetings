@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-agenda-annual-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 21st June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-06/00-agenda-annual-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
@@ -47,7 +48,7 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EHSO
+EIRCODE V4 EHSO
 
 t: +383 (0) 61 557150
 f: +353 (0) 62 415 266
@@ -60,12 +61,12 @@ The business to be transacted Is set out on the appended Agenda.
 is mise le meas,
 
 a - =
-“laura Flannery
+“Laura Flannery
 
 Meetings Administrator.
 
 —
-_—_——
+——
 
 AGENDA
 
@@ -85,22 +86,24 @@ Districts of Cappamore-Kilmallock, Adare-Rathkeale and Newcastle West.
 
 Suggested Dates:
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 Metropolitan District of Limerick — Friday, 28 June, 2024, at 12 Noon.
-Municipal District of Adare-Rathkeale — Tuesday, 25 June, 2024, at 9.30 a.m.
-Municipal District of Newcastle West - Wednesday, 26" June, 2024, at 12 Noon.
+Municipal District of Adare-Rathkeale — Tuesday, 25" June, 2024, at 9.30 a.m.
+Municipal District of Newcastle West - Wednesday, 26 June, 2024, at 12 Noon.
 Municipal District of Cappamore-Kilmallock — Thursday, 27" June, 2024, at 3pm.
 
-= customerservices@limerick te
-© warwXimerickie
+‘= customerservices@lumerick te
+© vwrarwXmerickie
 
 Ww @LimerickCouncil
-( 061 - 857180
+( 061 - 557180
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -158,7 +161,9 @@ To consider the nomination of 2 Members of Limerick City and County Council to t
 of Ballyhoura Development CLG.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -219,7 +224,9 @@ Board.
 To consider the nomination of 3 Members to the Audit and Risk Committee.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 28.
@@ -255,4 +262,6 @@ To agree a date for the July Meeting of Limerick City and County Council (sugges
 8" July, 2024.)
 
 
----
+
+[[PAGE_END:4]]
+

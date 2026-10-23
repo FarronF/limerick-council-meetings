@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-special-meeting-of-limerick-city-and-county-council-8th-september-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 8th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-special-meeting-of-limerick-city-and-county-council-8th-september-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND
@@ -80,7 +81,9 @@ relation to the N/M20 Cork to Limerick Project:
 ***update from the N/M20 Design Team on the proposed scheme and to discuss the implications and***
 
 ***solutions for the Attyflin Junction 5 and the proposed Croom Junctions**.”***
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The N/M20 Project Coordinator, with the aid of a presentation, gave an update on the N/M20 Cork to
@@ -164,7 +167,9 @@ Team undertook further work to assess the feasibility of providing additional lo
 existing N20 and R526 at Attyflin to the M20/M21 motorway network. This additional local access
 
 would be for M20 /M21 motorway journeys to and from destinations around Attyflin Junction.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 The Members were advised that there were currently four options being investigated, F1 to F4, noting
@@ -234,7 +239,9 @@ and Road Traffic Regulations.
 The decision to select a motorway road type for the N/M20 project was announced at the June
 
 2024 project update. A comparative analysis considered four different forms of divided
----
+
+[[PAGE_END:3]]
+
 **4**
 
 carriageway (all options having a central median and associated safety barriers) and confirmed
@@ -334,7 +341,9 @@ working before reverting with the proposed design.
 A timeline for a possible solution to the junctions and for submission of planning application was
 
 requested.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 In response to the Members queries, the N/M20 Project Coordinator agreed to look at the solutions
@@ -390,4 +399,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

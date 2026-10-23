@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-metropolitan-district-of-limerick-17th-november-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 17th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-metropolitan-district-of-limerick-17th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE**
@@ -78,7 +79,9 @@ Councillor McSweeney expressed disappointment that there was no opportunity for 
 discussion on General Municipal Allocation (GMA), noting that it had been deferred from the
 
 September Meeting of the Metropolitan District.
----
+
+[[PAGE_END:1]]
+
 **2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -138,7 +141,9 @@ Some of the events outlined include:
 • Santa Paddle on The Shannon.
 
 • Leave a Light on Campaign.
----
+
+[[PAGE_END:2]]
+
 Members thanked the Head of Trade and Investment for his presentation and welcomed
 
 programme of festivities for Limerick City. Members emphasised the importance of
@@ -200,7 +205,9 @@ and Part 8 of the Planning and Development Regulations, 2001 (as amended).
 On the proposal of Councillor S. Hickey-O’Mara and seconded by Councillor Sarah Kiely, the
 
 Mayor’s Report, as circulated, was approved.
----
+
+[[PAGE_END:3]]
+
 **QUESTIONS**
 
 **6.Question submitted by Councillor S. Kiely**
@@ -262,7 +269,9 @@ Mayor to lend nonfinancial support to an initiative to continue the tradition in
 more appropriate form — perhaps led by the Príomh Chomhairleoir or the Chair of
 
 the Metropolitan District or any group of Councillors. If so, I would suggest that the
----
+
+[[PAGE_END:4]]
+
 Councillors wishing to maintain the tradition come up with rigorous and fair criteria
 
 for choosing the recipients and funding the scheme.
@@ -326,7 +335,9 @@ merely parking and bus provision.
 ***I will ask at the next meeting of the Metropolitan District of Limerick that following recent***
 
 ***requests by Councillors in Limerick City East has there been any movement on lane***
----
+
+[[PAGE_END:5]]
+
 ***alteration requests (left lane for BloodMill and Dunnes) improvements to Childers Road***
 
 ***and the Murroe Junction to Annacotty village in light of increasing traffic congestion in***
@@ -386,7 +397,9 @@ at Gardens International. Lease negotiations are advancing, and occupation is
 anticipated before year end, which will bring the building
 
 to full occupancy.
----
+
+[[PAGE_END:6]]
+
 Should you require any further clarification or additional details, please let me
 
 know.
@@ -466,7 +479,9 @@ Evidence of recent damage through a potential vehicular contact. This
 needs immediate attention.  The flooring presents an elevated risk to
 
 public safety.
----
+
+[[PAGE_END:7]]
+
 Crew Brewing
 
 Company
@@ -566,7 +581,9 @@ Kitchen
 The external walls are dirty. Timber shows signs of deep damp. The
 
 planting shelf has collapsed in parts and needs to be replaced
----
+
+[[PAGE_END:8]]
+
 throughout. Litter and potential drug paraphernalia have been left
 
 inside the walls. Business owner has installed caution signs regarding
@@ -632,7 +649,9 @@ future maintenance.
 provided for in our Tree Policy 2024-2030, Policy 41 and is being used for calculating
 
 the value of trees on Council lands as needed.
----
+
+[[PAGE_END:9]]
+
 **13.Question submitted by Councillor S. Hickey O’Mara**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on***
@@ -698,7 +717,9 @@ years:
 · 5no. Athea (storm damage)
 
 · 3no. Castleconnell (storm damage & structural damage)
----
+
+[[PAGE_END:10]]
+
 · 1no. Ted Russell Park (storm damage)
 
 · 1no. Greystones (storm damage)
@@ -756,7 +777,9 @@ more consideration by the National Transport Authority.
 ***needed from the St. Patrick’s Junction to the grotto at the Fairgreen.*** ***Children and elderly***
 
 ***pedestrians in the area need to be prioritised.***
----
+
+[[PAGE_END:11]]
+
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Pond and
 
 agreed***.***
@@ -816,7 +839,9 @@ seek a derogation, noting that other Countries sought derogation successfully.
 Following discussions, it was proposed by Councillor McSweeney, to write to the Minister of
 
 State for Older People and the Minister of State for Housing, and this was agreed.
----
+
+[[PAGE_END:12]]
+
 **19.Notice of Motion submitted by Councillor S. Kiely**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Limerick City***
@@ -880,7 +905,9 @@ It’s also important to note that, research and consultation indicated that the
 wanted a single, integrated platform - not only for visitors, but also for people living
 
 in Limerick who want to discover things to do within their own county. The “Discover
----
+
+[[PAGE_END:13]]
+
 Limerick” section successfully fulfils this dual role, catering both to external visitors
 
 and local audiences.
@@ -970,7 +997,9 @@ In terms of social stats, see below the figures from Limerick.ie social channels
 •
 
 13,762 new followers Year on Year
----
+
+[[PAGE_END:14]]
+
 **20.Notice of Motion submitted by Councillor F. Kilcoyne**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Limerick City***
@@ -1024,7 +1053,9 @@ noting that extending the cutting intervals for verges could play a key role.
 undertaken up to four times per year which is in line with local and national
 
 biodiversity policies.
----
+
+[[PAGE_END:15]]
+
 **22.Noticeof Motion submitted by Councillor E. O’Donovan**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that we write to***
@@ -1084,7 +1115,9 @@ causes of addiction, with a view to breaking the cycle.
 The Notice of Motion was proposed by Councillor Hickey O’Mara, seconded by Councillor
 
 O’Donovan and agreed.
----
+
+[[PAGE_END:16]]
+
 In proposing the Motion, Councillor Hickey O’Mara expressed his disappointment regarding
 
 the lack of seating at bus stops, emphasising that he felt this may discourage people from
@@ -1148,7 +1181,9 @@ road at this location will need to be considered in the context of the overall
 infrastructure projects to be funded including Bus Connects Implementation due to
 
 commence in the coming years.
----
+
+[[PAGE_END:17]]
+
 This concluded the meeting.
 
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -1156,4 +1191,6 @@ This concluded the meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:18]]
+

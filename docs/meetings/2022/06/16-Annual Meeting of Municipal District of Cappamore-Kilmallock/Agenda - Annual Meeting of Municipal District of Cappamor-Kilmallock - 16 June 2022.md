@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Agenda-Annual-Meeting-of-Municipal-District-of-Cappamore-Kilmallock-16-June-2022.pdf)
+**Original file:** [Agenda - Annual Meeting of Municipal District of Cappamor-Kilmallock - 16 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Agenda-Annual-Meeting-of-Municipal-District-of-Cappamore-Kilmallock-16-June-2022.pdf)
 
----
+[[FILE_START]]
+
 **10th** **June, 2022.**
 
 **To/**
@@ -50,4 +51,6 @@ office until the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas Cathaoirleach of the Municipal District of Cappamore Kilmallock to hold
 
 office until the next Annual Meeting or until a successor has been elected.
----
+
+[[PAGE_END:1]]
+

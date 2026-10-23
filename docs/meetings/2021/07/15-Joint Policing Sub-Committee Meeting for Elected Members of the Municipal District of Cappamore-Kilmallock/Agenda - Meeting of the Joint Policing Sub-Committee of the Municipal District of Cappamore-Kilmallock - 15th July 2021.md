@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-15-07-2021-meeting-of-the-joint-policing-sub-committee-cappamore-kilmallock.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-15-07-2021-meeting-of-the-joint-policing-sub-committee-cappamore-kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comair Catrrach Crop a err
-an oarvtalr as
-— & 9 Contae Luimnigh 9 a Mocheaiég.
-Limerick City ——
+Comair Catrrach er ery ay ert
+an oarvialr as
+— & 7 Contae Luimnigh 9 a Mocheaiég.
+Limerick City —
 
 = & County Council Limenck City and County Council,
 
@@ -32,7 +33,7 @@ Aras Mainchin Seoighe Area Office,
 
 K@mallock,
 
-Co. Limerick.
+Co. Umerick
 
 EIRCODE V35 K497
 
@@ -55,17 +56,19 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of Meeting of the Cappamore-Kilmallock Municipal District Joint Policing
-Sub-Committee held on 18" March, 2021.
+Sub-Committee held on 18"* March, 2021.
 
 2. Policing Issues
 
 To discuss policing issues in the District.
 
-(& Customerservices@limerickie
+(& customerservices@limerickie
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wewlimericicie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office ¥
 
 (063 960 19
 
 
----
+
+[[PAGE_END:1]]
+

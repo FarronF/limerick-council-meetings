@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-draft-minutes-of-special-meeting-27th-may-2025.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 27th May, 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-draft-minutes-of-special-meeting-27th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ Councillor Hartigan advised the entrance to the estate is dangerous and needs to
 addressed. The Senior Executive Officer, Strategy and Non LA Housing Construction
 
 advised the scheme is required to be taken in charge and the developer will be
----
+
+[[PAGE_END:1]]
+
 responsible for making the entrance safe in accordance with the conditions of the
 
 planning application.
@@ -136,4 +139,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

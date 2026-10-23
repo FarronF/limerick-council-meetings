@@ -30,7 +30,7 @@ Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th April 202
 
 Strategic Housing Development Applications - Monthly Meeting of Metropolitan District of Limerick - 16th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/03%20Strategic%20Housing%20Development%20Applications.pdf) - Text not extracted
 
-Report_ Limerick Dockless On-Street Bicycle Hire Draft Bye-Laws 2022 - Monthly Meeting of Metropolitan District of Limerick - 16th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/04%20Report%20-%20Limerick%20Dockless%20On-Street%20Bicycle%20Hire%20Draft%20Bye-Laws%202022.pdf) - Text not extracted
+Report: Limerick Dockless On-Street Bicycle Hire Draft Bye-Laws 2022 - Monthly Meeting of Metropolitan District of Limerick - 16th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/04%20Report%20-%20Limerick%20Dockless%20On-Street%20Bicycle%20Hire%20Draft%20Bye-Laws%202022.pdf) - Text not extracted
 
 Correspondence - Monthly Meeting of Metropolitan District of Limerick - 16th May 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/18%20Correspondence%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202022.pdf) - Text not extracted
 

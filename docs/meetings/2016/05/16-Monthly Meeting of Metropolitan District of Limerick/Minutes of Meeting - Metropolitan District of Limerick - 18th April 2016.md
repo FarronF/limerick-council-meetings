@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2018th%20April%202016.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 18th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2018th%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,** **18TH** **APRIL, 2016, AT**
@@ -90,7 +91,9 @@ Proposed Material Alterations to Proposed Amendment No. 2 to the Southern Enviro
 Area Plan, which related to an Amended Zoning and Master Plan for the Mungret Loughmore
 
 Area of Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members acknowledged the level of consultation engaged in by the Planning Department in
@@ -174,7 +177,9 @@ with Department of Transport guidelines.
  In relation to the ongoing pothole repair at Islanduane, Mungret, this road was included in
 
 the three year roads programme.
----
+
+[[PAGE_END:2]]
+
 3
 
  Irish Water was mandated to carry out reinstatement works in St. Mary’s Park and it was
@@ -258,7 +263,9 @@ allocate the units once completed.
 We will raise this question with Iarnrod Eireann who are in the process of
 
 refurbishment of the Plaza in front of Colbert Station.
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.**
@@ -348,7 +355,9 @@ The Public Bike Scheme is funded and managed by the National Transport
 Authority (NTA). Limerick City and County Council has assisted the NTA in the
 
 roll-out of this facility.
----
+
+[[PAGE_END:4]]
+
 5
 
 The sponsorship of the bikes and the contract for the maintenance of the facility
@@ -432,7 +441,9 @@ provisions of Section 36 of the Road Traffic Act 1994. This legislation empowers
 Limerick City and County Council as a Roads Authority to make provision for the
 
 management and control of on street parking and parking charges.
----
+
+[[PAGE_END:5]]
+
 6
 
 The Control and Management of traffic and on street parking is vital to enabling
@@ -516,7 +527,9 @@ forward best practice guidelines for energy efficient public lighting procuremen
 acknowledged that, given the scale of public lighting, this was an issue that needed to be
 
 addressed at a national level. In relation to carbon footprints, he noted that a presentation was
----
+
+[[PAGE_END:6]]
+
 7
 
 to be made to the Environment Strategic Policy Committee on foot of the COP21 Paris Climate
@@ -598,7 +611,9 @@ parent accommodation and an adjacent maternity hospital where high risk cases co
 with and thereby ensuring the best care for both mother and child.
 
 Some Members spoke in favour of the St. James’ site noting that a new children’s hospital was
----
+
+[[PAGE_END:7]]
+
 8
 
 first mooted in 1993 and was still not built and to change plans at this point would result in
@@ -618,4 +633,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-14th-June-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-14th-June-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-& Contae Luimnigh Comnairie Cathrach agus — sly
-aAaf“e™ a DN A Séa an
+& Contae Luimnigh Comnairle Cathrach agus — psa
+af“ a EN » Séa an
 
 Line Nua
 — Limerick City Rath Caola,
-— & County Council P
+—= & County Council .
 
 Co. Luimnigh
 
@@ -36,13 +37,13 @@ Umerick City and County Counct
 
 Aras Sean Finn,
 
-Nevé Line.
+Nevs Line.
 
 Rathkeale.
 
 Co. Limerick
 
-EIRCODE V94 HIV
+EIRCODE V94 HKIV
 
 ‘ t: +353 (0) 69 64047
 9™ June, 2022. f: +353 (0) 69 63188
@@ -61,7 +62,7 @@ Karen Butler,
 Meetings Administrator.
 
 AGENDA
-ED Minutes
+a. Minutes
 To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale held on
 11" May, 2022.
 (Copy Enclosed).
@@ -73,7 +74,9 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach 1 @ wewlimerici.ie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Housing Strategy & Non-LA Housing Construction
@@ -109,4 +112,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

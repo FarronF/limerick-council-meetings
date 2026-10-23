@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Agenda%20for%20May%202022%20MD%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Agenda%20for%20May%202022%20MD%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **13th** **May 2022.**
 
 **To/**
@@ -58,7 +59,9 @@ Relating to the Minutes of the Municipal District Meeting of 21st April.
 3.Correspondence
 
 Correspondence received from Minister Peter Burke’s Office.
----
+
+[[PAGE_END:1]]
+
 2
 
 4.Update on the N24 Cahir to Limerick Junction Project”.
@@ -82,4 +85,6 @@ development of 7 apartments at Wolfe Tone Street, Kilmallock be sold to the inte
 developer and brought back into viable housing provision, subject to a Site Specific Flood Risk
 
 Assessment.”
----
+
+[[PAGE_END:2]]
+

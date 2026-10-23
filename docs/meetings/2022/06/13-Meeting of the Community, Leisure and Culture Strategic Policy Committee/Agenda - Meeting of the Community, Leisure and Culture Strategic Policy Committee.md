@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-SPC-Community-Leisure-and-Culture-June-meeting.pdf)
+**Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-SPC-Community-Leisure-and-Culture-June-meeting.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community, Leisure and Culture**
@@ -102,7 +103,9 @@ Comhairle na Nog Presentation
 **Item 8**
 
 Autism Project Update
----
+
+[[PAGE_END:1]]
+
 **Item 9**
 
 Date of next meeting
@@ -114,4 +117,6 @@ Date of next meeting
 **Community, Leisure and Culture SPC**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:2]]
+

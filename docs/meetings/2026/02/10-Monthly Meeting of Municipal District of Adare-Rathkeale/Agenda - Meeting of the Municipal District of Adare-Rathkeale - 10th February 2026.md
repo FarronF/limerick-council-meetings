@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-10th-february-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-10th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_— Comhairle Cathrach
+A Comhairle Cathrach
 & Contae Luimnigh
-ANS S
+AN Ss
 
 — Limerick City
 & County Council
@@ -40,7 +41,7 @@ Line Nua,
 
 Rath Cacia,
 
-Co, Lusimnigh.
+Co, Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
@@ -70,7 +71,7 @@ The business to be transacted is set out on the
 
 AGENDA
 
-x Minutes
+I Minutes
 
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
 
@@ -83,15 +84,17 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
-& customerservices@limerick.ie
-© wwwalimerick.ie
+@& customerservices@limerick.ie
+© wwwalimerick.ic
 
-W @LimerickCouncil
+WY @LimerickCouncil
 
-© 061 - 556 000
+\ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -129,7 +132,7 @@ To review position in relation to allocations under the General Municipal Alloca
 QUESTIONS
 ion su ncillor T. Harti
 
-I will ask at the next Meeting for an update from the Transport Directorate regarding the
+| will ask at the next Meeting for an update from the Transport Directorate regarding the
 new but unused bus stop in Pallaskenry Village.
 
 Question submitted by Councillor T. Harti
@@ -140,7 +143,9 @@ including a date for a community information evening on the Bank of Ireland Aske
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -177,7 +182,7 @@ I will move at the next Meeting that we as the Elected Members of the Adare-Rath
 Municipal District receive an update on Askeaton Pool and Leisure every six months so as
 to be kept informed on the progress that has been made at this leisure facility.
 
-Notice of Moti bmitted byC illor T. Harti
+Notice of Moti bmitted by illor T. Harti
 | will move at the next Meeting that we as Elected Members request Limerick City and
 
 County Council adequately fund the three St. Patricks Day parades that will take place
@@ -189,7 +194,9 @@ Correspondence
 
 >
 °
-Co
+io
 
 
----
+
+[[PAGE_END:3]]
+

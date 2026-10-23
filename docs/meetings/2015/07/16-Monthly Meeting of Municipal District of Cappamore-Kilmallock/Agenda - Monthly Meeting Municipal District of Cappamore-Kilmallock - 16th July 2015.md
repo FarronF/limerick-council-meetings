@@ -16,46 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
+**Original file:** [Agenda - Monthly Meeting Municipal District of Cappamore-Kilmallock - 16th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
-
-_——_
-
-An fi ™
-. = .
-Limerick
-CITY & COUNTY
-COUNCIL
-
-10" July, 2015.
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-Cé na gCeannaithe,
+ANF - Cé na gCeannaithe,
+— —> Luimneach
 
-Lulmneach
-
-Corporate Services and Change Management,
-Limerick City and County Council,
-
-Merchants Quay,
-
-Limerick
+. .
+Limerick Corporate Services and Change Management,
+CITY & COUNTY Limerick City and Acard com
+COUNCIL Limerick
 
 t: +383 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-To/ The Cathaoirleach_and each Member of the Municipal
+10" July, 2015.
+
+To/ i Member of the
+
 District of Cappamore-Kilmallock
-
 A Chomhairleoir, a chara,
-
-Member of the
-i ul
-
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Thursday 16" July, 2015
 at 3.30pm. The business to be transacted is set out on the appended Agenda.
@@ -67,45 +53,38 @@ Tore Vroro
 Tina Knox,
 Meetings Administrator.
 
-1. Minutes
+AGENDA
+4. Minutes
 
 To adopt Minutes of the following Meetings:
 
-AGENDA
-
 (a) | Municipal District of Cappamore-Kilmallock held on 25" June, 2015.
-(b) | Annual Meeting of Municipal District of Cappamore-Kilmallock held on 25” June,
+(b) Annual Meeting of Municipal District of Cappamore-Kilmallock held on 25” June,
 
 2015.
 (Copies Enclosed)
 2. Corporate Services and Change Management
-
-Draft Polling Scheme
-
-Dail Constituenc
+Draft Polling Scheme 5- Dail Constituenc
 
 To Consider the Draft Polling Scheme 2015 - Revised Dail Constituencies.
 
-Ceanncheathra
-Corporate Headquarters,
-
-Chorparaideach, Cé na gC
-Merchants Quay,
-
-le
-
-eannaithe, Luimneach
-Limerick
-
 (Report and Map circulated)
 
+customerservicese@limerick.te
+Cearnncheathra Chorparaideach, Cé na gCeannaithe, Luimneach = @ Wvew Mimerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
----
+
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -153,7 +132,9 @@ Question submitted by Councillor O’Donnell
 5061 at Patrickswell can be renewed and enhanced in the interest of road safety?
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -176,11 +157,13 @@ works on the L8502 at Castlefarm, Hospital by placing appropriate signage at 90 
 bend where accidents are occurring on a continual basis on the Hospital to Kilteely road
 a short distance from St. Joseph's school, in the interests of safety for all road users.
 
-N. ‘ed ncillor
+N. ed ncillor
 
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that in
 setting the GMA for 2016, the District set aside a sum of €35,000 for a discretionary
 spend by the Director or as a contingency for possible emergencies.
 
 
----
+
+[[PAGE_END:4]]
+

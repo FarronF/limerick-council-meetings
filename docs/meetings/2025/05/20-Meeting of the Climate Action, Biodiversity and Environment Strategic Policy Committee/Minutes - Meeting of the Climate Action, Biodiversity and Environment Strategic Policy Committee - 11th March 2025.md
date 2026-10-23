@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/20250313-minutes-cabe-spc.pdf)
+**Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/20250313-minutes-cabe-spc.pdf)
 
----
+[[FILE_START]]
+
 Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and Environment
 
 Strategic Policy Committee held on Tuesday 11th March 2025 at 2.30pm.
@@ -58,7 +59,9 @@ Ms. H. Kenneally (Environmental Awareness Officer), Ms. Y. Rowland (Staff Office
 Mr. Conor McDonagh (Senior Executive Engineer)
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 
 
 Cllr. Leddin commenced the meeting by introducing himself as Chairperson and welcomed all
@@ -140,7 +143,9 @@ Management of 300 hectares of grass cutting, Tree planting and maintenance).
 Cemeteries Capital (e.g. Development of new cemeteries, existing cemeteries including
 
 Columbarium walls and management of Ancient Structures in cemeteries).
----
+
+[[PAGE_END:2]]
+
 
 
 Environmental Strategy (e.g. Agricultural Inspections and Water Framework Directive
@@ -236,7 +241,9 @@ can be drawn out and largely ineffective. A national register is being considere
 sanctioning sculptors nationally. A Graveyard Strategy for Limerick City and County Council is being
 
 drafted and will be published this year.
----
+
+[[PAGE_END:3]]
+
 Tree planting – Members discussed tree planting in general and the LCCC Tree Planting Policy. Cllr.
 
 Collins then asked where we are getting the seeds for the tree planting initiative, are they native. Mr.
@@ -310,7 +317,9 @@ I will move at the next meeting of the Metropolitan District of Limerick that a 
 refuse collection scheme be piloted in illegal dumping hot-spots in the city including St. Mary’s Park,
 
 Ballinacurra Weston, Lenihan Avenue, Coonagh/Clondrinagh, Johnsgate and Kilmallock Road.
----
+
+[[PAGE_END:4]]
+
 Response:
 
 In October 2024, under the Anti-Dumping Initiative a free Bulky Waste collection was offered to all
@@ -358,4 +367,6 @@ This concluded the business of this meeting.
 Cllr Joe Leddin
 
 Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee
----
+
+[[PAGE_END:5]]
+

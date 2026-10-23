@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-monthly-meeting-of-metropolitan-district-21st-december-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-monthly-meeting-of-metropolitan-district-21st-december-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 : Sebbhisi Corpardideacha,
-ae ne pled — Comhairle Cathrach agus Contae Luimnigh,
+el pe pilrede — Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathns Chorperaideach,
 
-cc, ———————— Ceé na gCeannaithe,
+cc —————————— Cé na gCeannaithe,
 — Limerick City ; Luimneach
 & County Council
 Corporate Services
@@ -37,9 +38,10 @@ Merchants Quay,
 Umerick
 EIRCODE V94 EH90
 th
-16" December, 2020. t: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+16" December, 2020. t: +353 (0) 61 $57150
+f: +353 (0) 61415 266
 To: e Member of the M itan District of Limeri
+
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
@@ -50,23 +52,25 @@ The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
 Jar Clune,
-Meéting Administrator.
+Meé@ting Administrator.
 
 1. Minutes
 To adopt Minutes of the following Meeting :
-Monthly Meeting of the Metropolitan District of Limerick held on 16'* November, 2020.
+Monthly Meeting of the Metropolitan District of Limerick held on 16"* November, 2020.
 
 (Copy Enclosed).
 
-«m customerservices@limerick.ie
+=m customerservices@limerick.ie
 
-© Wewwalimerick.ie
+© vewwalimerick.ie
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -110,10 +114,12 @@ facilitate plans to increase footfall in our city.
 
 | will ask Limerick Metropolitan Council to conduct an audit of all empty Georgian buildings in the
 city and outline what level of engagement is or has taken place to encourage owners to redevelop
-their properties.
+their properties,
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor C. Slattery
@@ -155,10 +161,12 @@ project, the percentage of funding spent on road resurfacing versus walking and 
 infrastructure.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-14, Question submitted by Councillor J, Costelloe
+14, Question submitted by Councillor J. Costelloe
 
 | will ask at the next meeting how many fines have been issued in relation to illegal dumping in the
 Northside this year 2020.
@@ -200,12 +208,14 @@ write to the Minister for Transport, Eamon Ryan requesting he sign off approval 
 Northern Distributor Road and allow this vital project to continue to proceed as a matter of urgency.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Notice of Motion submitted by Councillor C. Slattery
 
-| will move at the next Metropolitan Meeting that a pedestrian crossing be installed outside
+1 will move at the next Metropolitan Meeting that a pedestrian crossing be installed outside
 Castleconnell National School.
 
 | will move at the next meeting that this Council, write to the Minister for Transport asking him to
@@ -226,7 +236,7 @@ Unity referendum as provided in the Agreement; we call on the Irish government t
 outcome. We stand ready as a Council to work with all statutory bodies and with civic society to
 plan and prepare for the referendum on Irish Unity and for a positive outcome to the referendum.
 
-23. IWOMCE OF VIOUOT SUDITINS VUNCINOT >. NOVERK
+23. IWOMCE OF WIOCUOT SUDITIN VUNICINOT >. NOVERK
 
 and Transportation Strategic Policy Committee)
 
@@ -242,7 +252,9 @@ in St. Marys Park given that the issues of safety and ASB are of serious concern
 5
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Notice of Motion submitted by Councillor C. Sheehan
@@ -255,4 +267,6 @@ Councillor will take the Covid vaccine when they are deemed eligible and advised
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

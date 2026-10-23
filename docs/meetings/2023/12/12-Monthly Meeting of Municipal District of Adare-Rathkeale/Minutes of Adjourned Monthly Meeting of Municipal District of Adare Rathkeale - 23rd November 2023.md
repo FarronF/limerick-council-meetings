@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-b-minutes-of-adjourned-monthly-meeting-of-municipal-district-of-adare-rathkeale-23rd-november-2023.pdf)
+**Original file:** [Minutes of Adjourned Monthly Meeting of Municipal District of Adare Rathkeale - 23rd November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-b-minutes-of-adjourned-monthly-meeting-of-municipal-district-of-adare-rathkeale-23rd-november-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED MONTHLY MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD,**
@@ -90,7 +91,9 @@ residents of Adare affected by the Draft Adare Local Area Plan.
 To consider the Draft Adare Local Area Plan 2024-2030 and the Chief Executives Report
 
 dated 27th October 2023 on the submissions received during the public consultation on
----
+
+[[PAGE_END:1]]
+
 2
 
 the Draft Adare Local Area Plan 2024-2030 and decide whether or not to make or amend
@@ -172,7 +175,9 @@ Teskey proposed to make the Draft Adare Local Area Plan 2024 – 2030, subject t
 Chief Executive recommendations report dated the 27th October, subject to the
 
 following amendments:
----
+
+[[PAGE_END:2]]
+
 3
 
 1. In relation to submission 96. The zoning should be retained as open space and
@@ -256,7 +261,9 @@ Open Space and Recreation.
 would lead to compact growth and to ensure no overall loss of open space and
 
 recreation. This was seconded by Councillor Sheahan and agreed.
----
+
+[[PAGE_END:3]]
+
 4
 
 **1.**
@@ -332,7 +339,9 @@ would follow up with the Senior Executive Engineer over the CFRAM project.
 following recent water network works. The Executive Engineer, Roads, Traffic
 
 and Cleansing advised these works were carried out by Uisce Éireann and a
----
+
+[[PAGE_END:4]]
+
 5
 
 condition of their road opening licence is to carry out road reinstatement which
@@ -408,7 +417,9 @@ Estate allows a bus to turn and also allows for the bus stop to be relocated
 on the main street of Pallaskenry. The turning area was agreed with the
 
 community council in advance of the works.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICES OF MOTION**
@@ -486,7 +497,9 @@ February 2024 with a date to be clarified nearer the time.
 At this point Councillor Sheahan re-joined the Meeting. Councillor Teskey then proposed
 
 a Civic Reception be held to honour Jerry and Mary Morrissey, proprietors of the West
----
+
+[[PAGE_END:6]]
+
 7
 
 Limerick Observer, in recognition of their contribution to local media in West Limerick for
@@ -562,7 +575,9 @@ authorities. This was seconded by Councillor Teskey and agreed.
  Councillor O’Donoghue referred to the recent house fire in Glenma Estate,
 
 Croom. He requested a report for the December Meeting to include (a) what are
----
+
+[[PAGE_END:7]]
+
 8
 
 the costs associated with housing families in emergency accommodation
@@ -636,4 +651,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

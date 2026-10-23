@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/00-2020-03-04-agenda-.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-03/00-2020-03-04-agenda-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _ Comhairle Cathrach
 & Contae Luimnigh
-ars i“ ~N : —_——_—_———
+ars “a ~~ : —_——_——
 
 ——> Limerick City
 & County Council
@@ -33,8 +34,8 @@ ars i“ ~N : —_——_—_———
 A Chomhairleoir, a chara,
 
 Duliche Bardais an Chatsiedin Nua Thiar,
-Comhairie Cathrach agus Contae Luimnigh,
-Aras Witiam Smith O'Brien,
+Comhairie Cathrach agus Contae Lutmnigh,
+Aras Wiktiam Smith O'Brien,
 
 Gortbui,
 
@@ -47,13 +48,11 @@ Gortboy,
 
 Newcastle West,
 
-Co. Limerick
-
 Bircode: V42EH73
 
 t: +353 (0) 69 62100
 
-=
+ms
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
@@ -97,13 +96,15 @@ Corporate Headquarters, Merchant's Quay, Limerick
 (Report Enclosed)
 
 customerservices@limerick ie
-. © wore iimericcie
-VY @limerickCouncil
+- © wore kimericcie
+WY @limerickCouncil
 
 ( 061 - $6 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -117,8 +118,8 @@ General Municipal Allocation
 To review position in relation to allocations under the General Municipal Allocation
 2020.
 
-To consider reports on the Declaration of Public Roads at:
-(a) Nash's Lane, Newcastle West, Co. Limerick.
+To consider reports on the Dedciaration of Public Roads at:
+(a) Nash’s Lane, Newcastle West, Co. Limerick.
 (b) Brewery Lane, Newcastle West, Co. Limerick.
 (Reports to follow)
 Housing Development Directorate
@@ -152,7 +153,9 @@ out at Upper Maiden Street, Newcastle West as the road surface is poor and the s
 ramps are disintegrating.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -163,10 +166,10 @@ ramps are disintegrating.
 
 19.
 
-I will ask at the next Meeting for an update as to the acquisition of No. 15 Assumpta
+| will ask at the next Meeting for an update as to the acquisition of No. 15 Assumpta
 Park, Newcastle West.
 
-| will ask at the next Meeting when the footpath is likely to be extended from
+I will ask at the next Meeting when the footpath is likely to be extended from
 Churchtown Road, Newcastle West along the R522 towards the speed limit.
 
 | will ask at the next Meeting when drainage work is likely to be undertaken between
@@ -186,8 +189,10 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that a footpath be placed on the right hand side of the
 road from Dalton’s cross towards Abbeyfeale town in the interest of safety.
 
-| will move at the next Meeting that the dykes be closed at both sides of the road at
+I will move at the next Meeting that the dykes be closed at both sides of the road at
 the Tubarine Bridge (bridge between Abbeyfeale and Templegiantine).
 
 
----
+
+[[PAGE_END:3]]
+

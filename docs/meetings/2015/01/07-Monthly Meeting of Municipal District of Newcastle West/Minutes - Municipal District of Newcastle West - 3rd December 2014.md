@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_3rd_december_2014_0.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 3rd December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_3rd_december_2014_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -26,7 +27,7 @@ DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM
 SMITH OBRIEN, GORTBOY, NEWCASTLE WEST, CO. LIMERICK,
 ON WEDNESDAY, 3RD DECEMBER, 2014, AT 10.00 A.M.
 
-PRESENT IN THE CHAIR: — Councillor J. Scanian.
+PRESENT IN THE CHAIR: — Councillor J. Scanlan.
 
 MEMBERS PRESENT:
 
@@ -59,7 +60,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 At the outset with the Cathaoirleach's permission, it was agreed to take Item 3 at this point.
@@ -80,7 +83,7 @@ for €2,353,459 from the Department of the Environment for the construction of 
 units of accommodation in Newcastle West. She further stated that the Project was
 funded under the Capital Loan and Subsidy Scheme and involved a loan application by the
 Council to the Housing Finance Agency. The approval to draw down this amount was
-received from the Council on 13"" November, 2009.
+received from the Council on 13" November, 2009.
 
 The Director also outlined that, while the Project was at construction stage and
 unoccupied, loan charges were incurred by the Council on the loan of €2,353,459
@@ -111,7 +114,9 @@ Department approval within the timeframe specified. They also stated that Member
 would be kept up-to-date on progress of the scheme.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Two Representatives, Neil Bolton and James O'Halloran, attended on behalf of Cluid
@@ -154,7 +159,9 @@ Members again expressed concern about not having access to the Main Offices and,
 following a brief discussion, it was agreed to bring the matter to a Party Leader's Meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -166,6 +173,7 @@ that are vacant in Abbeyfeale, Athea, Mountcollins, Tournafulla, Glin and
 Templeglantine. When do the Council expect them to be allocated? What are the
 
 delays in allocating the properties?
+
 REPLY:
 
 Outlined below is a table of the status of vacant units in the Electoral area.
@@ -184,13 +192,26 @@ Abbeyfeale
 
 4
 
-a
-ee ee Te
+es ee TE
+
+on - going
+2 read -
+
+[Stand Pe
+[Templegiantine | | | | A ready | Priority 1
+
+a ee es ee
+Motaiataises a8) bis AB acca aces 2c 26S asl Venema: |
+There are a further 3 houses that have been allocated and are now occupied since 1*
+November 2014.There has been a high level of refusals in both Newcastle West and
+
+Abbeyfeale. The current allocated houses in Newcastle West have 20 refusals recorded on
+them in 2014. In some instances there have been multiple refusals on the same property.
 
 Allocation
-schedule
 
 Family
+schedule
 
 Type
 vacant
@@ -205,24 +226,13 @@ to date in
 respect of
 the vacant
 
-on - going
-
-Newcastle West 2 read
-
-[Stand |
-[Templegiantine [| | | | A ready | Priority 1
-
-a Rs es
-iC ee LET: SP] (PPP CR (EAE TR Se
-There are a further 3 houses that have been allocated and are now occupied since 1*
-November 2014.There has been a high level of refusals in both Newcastle West and
-
-Abbeyfeale. The current allocated houses in Newcastle West have 20 refusals recorded on
-them in 2014. In some instances there have been multiple refusals on the same property.
+Newcastle West
 
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The current allocation of 14 houses will be closely monitored and further offers will be
@@ -273,7 +283,9 @@ Carrig Desmond, Churchtown: A Legal Agreement is to be signed between Limerick C
 agreement is completed.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Daar River View, Gortboy: This estate is currently the responsibility of NAMA. The
@@ -295,7 +307,7 @@ Council and the Bond Holder. The contractor will commence on-site once this agre
 is completed.
 
 The Glebe, Monagea: The Snag List and the Planning conditions are almost complete.
-Public lighting is not operating in this estate as the ESB has not made the relevant
+Public lighting is not operating in this estate as the ESB has not made _ the relevant
 connections. When this is completed, Airtricity will rectify any public lights that are not
 operating and will also install missing light standards. The Developer had re-commenced
 work on the unfinished houses but ceased works there approximately 3 weeks ago. The
@@ -328,7 +340,9 @@ Repairs to The Mass Rock will be considered later in the year subject to
 sufficient funding being available.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Question submitted by Councillor M. Collins
@@ -336,7 +350,7 @@ sufficient funding being available.
 | will ask at the next Meeting if CCTV can be installed at Ash, Oak, Rowan and
 Sycamore Crescents to monitor and stop anti-social behaviour at these estates.
 
-REPLY: The Council’s Estate Management Unit is in close contact on an ongoing
+REPLY: The Council's Estate Management Unit is in close contact on an ongoing
 basis with individual residents within this estate and is not aware that there
 are any serious problems with anti-social behaviour there. The Unit is aware
 that a serious assault took place on the entrance road to the estate recently
@@ -359,7 +373,7 @@ NOTICES OF MOTION
 
 11. Notice of Motion submitted by Councillor L. Galvin
 
-| will move at the next Meeting that the agencies responsible for the repair of the
+! will move at the next Meeting that the agencies responsible for the repair of the
 river bank along the River Feale at the back of Padraig Twomeys, New Street, be
 contacted as a matter of urgency to repair the bank before further damage is done
 
@@ -378,7 +392,9 @@ of Public Works who have informed us that the property owner at this
 location is responsible for protecting his/her property against river erosion.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Notice of Motion submitted b uncillor M. Collins
@@ -429,7 +445,9 @@ removal by the Council's Parks and Landscaping Department and these
 trees have now been removed.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Correspondence:
@@ -460,4 +478,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+

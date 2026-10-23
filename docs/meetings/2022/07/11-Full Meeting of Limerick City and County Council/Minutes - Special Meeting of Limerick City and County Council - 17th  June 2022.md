@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28c%29-Minutes-Special-Meeting-17-06-2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 17th  June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28c%29-Minutes-Special-Meeting-17-06-2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE
@@ -100,7 +101,9 @@ This new Development Plan sets out an ambitious strategy for how Limerick City a
 will grow our population by almost 50,000 additional people, and provide almost 16,000
 
 new homes and create significant additional employment growth in Limerick by 2028.
----
+
+[[PAGE_END:1]]
+
 2
 
 The proposed new Development Plan is underpinned by a strategic vision intended to guide
@@ -174,7 +177,9 @@ Planning & Development Act 2000 (as amended) requires that the Competent Authori
 make a proposed Development Plan only after having determined that it shall not affect the
 
 integrity of a European site. She confirmed that the Chief Executive had issued this
----
+
+[[PAGE_END:2]]
+
 3
 
 determination that the Draft Plan and the material alterations set out in the Chief Executives
@@ -252,7 +257,9 @@ The Modification proposed by Councillor Slattery, seconded by Councillor Daly wa
 **Alteration No. 142 for the reasons set out at the Council Meeting dated 18February 2022**
 
 **as summarised below.**
----
+
+[[PAGE_END:3]]
+
 4
 
  The flood risk assessment accompanying the Draft Development Plan is based on the
@@ -328,7 +335,9 @@ approved.
  The LCETB has confirmed additional lands are not required for the adjoining
 
 Gaelcholaiste.
----
+
+[[PAGE_END:4]]
+
 5
 
  Located adjoining the City Centre zoned area with a school, park, college, hospital and
@@ -406,7 +415,9 @@ not be facilitated.
  Same flooding characteristics as the site granted permission for a school. Mixed use
 
 and schools are vulnerable uses, which require a Justification Test. The site adjoins the
----
+
+[[PAGE_END:5]]
+
 6
 
 city core and passes the Justification Test and flood mitigation measures can be
@@ -482,7 +493,9 @@ Report;
 relation to flood risk in respect of any future planning application, further strengthened
 
 by the minor modification proposed as part of this motion.
----
+
+[[PAGE_END:6]]
+
 7
 
 The Modification outlined was proposed by Councillor Leddin, seconded by Councillor Kilcoyne. Cllr
@@ -562,7 +575,9 @@ in its previous form justifying Enterprise and Employment zoning with an
 unsubstantiated conclusion reached that “Although not suitable for highly vulnerable
 
 development due to the level of residual risk and the brownfield nature of the site,
----
+
+[[PAGE_END:7]]
+
 8
 
 less vulnerable uses (Enterprise and Employment) with appropriately detailed FRA and
@@ -644,7 +659,9 @@ Councillors Hartigan, Novak.
 Councillors Benson, Butler, Carey, Collins (B), Collins (J), Collopy, Daly, Donegan, Egan, Foley, Galvin,
 
 Keary, Kiely, Kilcoyne, Leddin, McSweeney, Mitchell, Murphy, O’Dea, O’Hanlon, O’Sullivan, Ruddle,
----
+
+[[PAGE_END:8]]
+
 9
 
 Ryan (E), Ryan (M), Scanlon, Secas, Sheahan (J), Sheahan (K), Sheahan (M), Sheehan (C), Slattery,
@@ -688,4 +705,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

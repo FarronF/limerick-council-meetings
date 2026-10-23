@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-23-agenda.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 23rd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-23-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__— oontumis Catlirach.
-ontae Luimunigh
-aAr™N oo o‘\ -Co—
+ontae Luimnigh
+aArN ——————————
 
 —> Limerick City
 & County Council,
@@ -38,11 +38,9 @@ Gortbul,
 
 An Caisiedn Nua ‘Thiar,
 
-Co, Uslirrinigh.
-
 Newcastle West Municipal District,
 Limerick City and County Council,
-Aras Willian Smith O'Brien,
+Aras William Smith O'Brien,
 Goriboy,
 
 Newcastle West,
@@ -76,10 +74,12 @@ Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 & customerservices@limerick.te
-é www.limerick.ie
+e www.limerick.ie
 @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-special-meeting-of-limerick-city-and-county-council-23rd-march-2026.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Limerick City and County Council - 23rd March, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-special-meeting-of-limerick-city-and-county-council-23rd-march-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -94,7 +95,9 @@ the following comments:
 Limerick receives no direct benefit from this project, despite being a designated growth centre
 
 under the National Planning Framework.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 •
@@ -228,7 +231,9 @@ E.g. during Summer drought conditions flow in the Shannon can fall dramatically.
 conditions, the real source of water available is the stored water in Lough Derg and, at
 
 Ardnacrusha.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 •
@@ -356,7 +361,9 @@ framework in place.
 Indicated that the Water Resource Management Plans underpinning this project has no clear
 
 statutory basis, yet Uisce Éireann is relying on them to justify this development of national scale.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 The legal authority, oversight and accountability for allocating and managing this abstraction are
@@ -428,7 +435,9 @@ The Príomh Chomhairleoir instructed that a roll call vote would now be taken.
 No Member voted in favour of the proposed project.
 
 (0)
----
+
+[[PAGE_END:4]]
+
 **5**
 
 **Against**
@@ -458,4 +467,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-special-meeting-of-limerick-city-and-county-council-10th-february-2026.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-special-meeting-of-limerick-city-and-county-council-10th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE
@@ -86,7 +87,9 @@ the Meeting be adjournment to allow Members to consider the Corporate Plan in
 consultation with the Mayor and the Director General. The Meeting adjourned at 4.20 p.m.
 
 for one hour.
----
+
+[[PAGE_END:1]]
+
 2
 
 Upon resumption, it was agreed on the proposal of Councillor Kiely and seconded by
@@ -132,7 +135,9 @@ Following discussion, it was agreed on the proposal of the Príomh Chomhairleoir
 seconded by Councillor Collins (M) to extend the adjournment until 10.45 p.m.
 
 Circulated, Draft Corporate Plan 2025-2029 with proposed amendments and appendix:
----
+
+[[PAGE_END:2]]
+
 3
 
 **Limerick City and County Council**
@@ -144,7 +149,9 @@ Circulated, Draft Corporate Plan 2025-2029 with proposed amendments and appendix
 **“Strengthening Local Government in**
 
 **Limerick”**
----
+
+[[PAGE_END:3]]
+
 4
 
 **Contents**
@@ -210,7 +217,9 @@ Circulated, Draft Corporate Plan 2025-2029 with proposed amendments and appendix
 **Enterprise & Tourism ............................................................................................................. 39**
 
 (Image omitted)(Image omitted)(Image omitted)
----
+
+[[PAGE_END:4]]
+
 5
 
 **Foreword**
@@ -266,7 +275,9 @@ competes internationally and delivers locally.
 ***Príomh Chomhairleoir***
 
 ***Director General***
----
+
+[[PAGE_END:5]]
+
 6
 
 **Introduction**
@@ -322,7 +333,9 @@ City and County Council will ensure the administrative and oversight requirement
 addressed as necessary in the Corporate Plan.
 
 1 https://www.gov.ie/en/publication/29839-code-of-corporate-governance-for-local-authorities/
----
+
+[[PAGE_END:6]]
+
 7
 
 **Review of Key Achievements 2019-2024** **Corporate Plan**
@@ -412,7 +425,9 @@ quality of life in Limerick.
 •
 
 Election in June 2024 of the first Directly Elected Mayor in Ireland
----
+
+[[PAGE_END:7]]
+
 8
 
 **Challenges from Our Current Operational Environment**
@@ -474,7 +489,9 @@ continues to grow. This will require a multi-agency response. There is a demand 
 especially in emerging sectors, which could negatively impact job prospects and local economic
 
 growth. The facilitating and enabling role of education will also be key in addressing the socio-
----
+
+[[PAGE_END:8]]
+
 9
 
 economic gaps that are arising across Limerick are addressed, in a multi-agency context. There is a
@@ -500,7 +517,9 @@ and better delivery to further build an inclusive, sustainable, and competitive 
 A key challenge will be advocating for solutions to these challenges and seeking funding for these and
 
 all the other actions in this plan.
----
+
+[[PAGE_END:9]]
+
 10
 
 **Our Vision for our Council**
@@ -524,7 +543,9 @@ empower our community, driving smart growth, promoting accessibility and ensurin
 resilient, sustainable and connected Limerick for future generations, working to leave no-one behind
 
 while upholding the highest standards of integrity, transparency and accountability.
----
+
+[[PAGE_END:10]]
+
 11
 
 **Our Values**
@@ -584,13 +605,17 @@ effective.
 We are driven by bold ideas and innovation to guide our economic, social, digital, cultural and physical
 
 development. We strive to be courageous in our ambition for Limerick by creating the space for
----
+
+[[PAGE_END:11]]
+
 12
 
 transformation, growth and untapped potential, actively building a better future for everyone in
 
 Limerick.
----
+
+[[PAGE_END:12]]
+
 13
 
 **Corporate Commitments**
@@ -648,7 +673,9 @@ The Council is committed to working with openness and transparency by providing 
 and accessible information to the staff, elected members, stakeholders and the public to build trust
 
 in everything we do.
----
+
+[[PAGE_END:13]]
+
 **Socio-Economic Profile of Limerick**
 
 Census 2022 recorded a population of 209,536 in Limerick, reflecting an 8% growth since 2016.
@@ -704,7 +731,9 @@ Addressing this historic imbalance must be continued and supported by all agenci
 stakeholders.
 
 *Source: Pobal HP Deprivation Index 2022*
----
+
+[[PAGE_END:14]]
+
 **Infographic – TO BE INSERTED**
 
 •
@@ -744,7 +773,9 @@ Deprivation Index – 8.4% in disadvantaged areas, 13.9% in affluent areas.
 Skills & Workforce Composition – 39% senior/professional, 22% skilled trades.
 
 (Sustainability & Growth – Strong focus on digital and infrastructure development)
----
+
+[[PAGE_END:15]]
+
 **Profile of Our Council**
 
 Limerick City and County Council is responsible for providing local democratic governance, strategic
@@ -788,7 +819,9 @@ support depots, libraries and elsewhere. The Council provides shared service pla
 National Housing Assistance Payment Service on behalf of the Department of Housing, Local
 
 Government and Heritage and all 31 local authorities in the State.
----
+
+[[PAGE_END:16]]
+
 **Council Management**
 
 The framework for the Council’s Management is set out in the Local Government Act 2001 (as
@@ -840,7 +873,9 @@ the Mayoral Programme Office, led by the Assistant Director General as Programme
 LCCC is structured into eight directorates which play their parts in ensuring smooth and effective
 
 delivery of both the DG Functions and the Mayor Functions and the Mayoral Programme.
----
+
+[[PAGE_END:17]]
+
 The Directorates are:
 
 •
@@ -906,7 +941,9 @@ those outcomes. Our online services will be expanded, and we will leverage Artif
 new technology tools for improved efficiency and to better monitor and record delivery of tasks to
 
 deadlines.
----
+
+[[PAGE_END:18]]
+
 **Corporate Plan Implementation Supports**
 
 The implementation of the Corporate Plan requires effective decision making at Executive and Council
@@ -966,7 +1003,9 @@ Board considers relevant and, where deemed necessary, having met with management
 designated activity companies. Membership of this Board will include officials of LCCC, external
 
 experts when relevant and up to five councillors to be nominated by the Council.
----
+
+[[PAGE_END:19]]
+
 **Making Policy for a New Future for Limerick**
 
 Policy that sustains and improves Limerick is at the heart of the business of the Council.
@@ -1020,7 +1059,9 @@ initiatives which address both the statutory and non-statutory policy priorities
 County Council, many of which are priorities set out in the Mayoral Programme covering the term of
 
 each Council.
----
+
+[[PAGE_END:20]]
+
 The Mayor and the Executive may be assisted in the development of policy frameworks by a number
 
 of Expert Groups, comprised of outside experts selected by the Mayor and Councillors taking into
@@ -1076,7 +1117,9 @@ Policy must be progressed in the pathway outlined above, as the Full Council ret
 making authority on Council Policy. All policies brought before the Council must be in accordance with
 
 relevant and appropriate legislation refer to Appendices A.
----
+
+[[PAGE_END:21]]
+
 **Supporting Organisation**
 
 In addition to the renewal of Council structures, as set out above, the supporting staff architecture
@@ -1108,7 +1151,9 @@ frameworks described above including the proposed Business Committee(s) in accor
 role to support the effective operation of Council. All policies brought before the Council must be in
 
 accordance with relevant and appropriate legislation refer to Appendices A.
----
+
+[[PAGE_END:22]]
+
 **Our Strategic Objectives**
 
 Limerick City and County Council commit to:
@@ -1196,7 +1241,9 @@ performance indicators, and we commit to publishing progress updates on a quarte
 online portal, using the NOAC's service indicators as benchmarks for assessing performance, which
 
 will also be considered at Full Council half yearly.
----
+
+[[PAGE_END:23]]
+
 An online portal that will show progress against performance indicators is required in Limerick City
 
 and County Council to improve transparency, accountability, and public trust. By providing clear, up-
@@ -1248,7 +1295,9 @@ The Mayoral Programme, which is enabled by the annual Mayoral Fund, will also be
 Full Council with half yearly updates to be provided to Full Council.
 
 The Director General and the Mayor will provide separate monthly reports to the elected members.
----
+
+[[PAGE_END:24]]
+
 **Performance Goals**
 
 These Goals are subject to resource provisions and in accordance with the priority of the elected council.
@@ -1300,7 +1349,9 @@ Align workforce capacity with Council Policy and
 Corporate Plan.
 
 Advance equality and wellbeing
----
+
+[[PAGE_END:25]]
+
 **26**
 
 Promote health and safety culture
@@ -1362,7 +1413,9 @@ person-to-person access to services.
 2024 Digital
 
 Metrics
----
+
+[[PAGE_END:26]]
+
 **27**
 
 **Regeneration, Community, Sports and Rural Development**
@@ -1414,7 +1467,9 @@ Programmes delivered; Participation
 2024 Participation Data
 
 Strengthen inter-agency collaboration
----
+
+[[PAGE_END:27]]
+
 **28**
 
 Promote health and well-being by supporting
@@ -1466,7 +1521,9 @@ Grounds across the City and County.
 Protect and Enhance all Greenspaces including Parks
 
 and Residential Green Areas.
----
+
+[[PAGE_END:28]]
+
 **29**
 
 Better support local voluntary groups (Burial Ground
@@ -1512,7 +1569,9 @@ Meet or exceed the delivery of social housing Local
 Authority Own Build whilst complying with the mixed
 
 tenure and National policy.
----
+
+[[PAGE_END:29]]
+
 **30**
 
 Meet or exceed the delivery of Local Authority
@@ -1568,7 +1627,9 @@ Limerick
 Increase in employment levels leading to a decrease in
 
 live register figures
----
+
+[[PAGE_END:30]]
+
 **31**
 
 Realise the objectives of the Limerick 2030 Economic
@@ -1612,7 +1673,9 @@ and vacant buildings in the city, towns and villages, for
 economic, housing, community, culture and recreation
 
 and other uses.
----
+
+[[PAGE_END:31]]
+
 **32**
 
 **Transportation, Mobility and Placemaking**
@@ -1664,7 +1727,9 @@ rural areas
 Deliver effective planning service
 
 Strengthen enforcement and compliance
----
+
+[[PAGE_END:32]]
+
 **33**
 
 Support the taking-in-charge of estates in a timely
@@ -1704,7 +1769,9 @@ Members
 Liquidity levels to be sufficients
 
 Maintain moderate debt levels over the medium term
----
+
+[[PAGE_END:33]]
+
 **NOAC Performance Indicators** **–** **Limerick**
 
 All indicators from the NOAC 2023 and 2024 performance table are included below. The National
@@ -1914,7 +1981,9 @@ Carbon reduction (tCO2)
 334.20
 
 6.0
----
+
+[[PAGE_END:34]]
+
 **35**
 
 **Roads and Transport**
@@ -2136,7 +2205,9 @@ Regional roads strengthened (kms)
 12.6
 
 15.9
----
+
+[[PAGE_END:35]]
+
 **36**
 
 Regional roads strengthening
@@ -2382,7 +2453,9 @@ LED lighting proportion (%)
 66.99%
 
 72.23
----
+
+[[PAGE_END:36]]
+
 **37**
 
 **Planning and Building Control**
@@ -2616,7 +2689,9 @@ Attendance within 10 minutes (fire)
 54.4%
 
 63.34%
----
+
+[[PAGE_END:37]]
+
 **38**
 
 Attendance 10–20 minutes (fire)
@@ -2862,7 +2937,9 @@ Rent & annuities collected 2023 (%)
 87.4%
 
 72%
----
+
+[[PAGE_END:38]]
+
 **39**
 
 Housing loans collected 2023 (%)
@@ -3014,7 +3091,9 @@ Kilcoyne, Leddin, McSweeney, O’Hanlon, O’Sullivan (O), O’Sullivan (T), Rea
 Ryan (E), Ryan (M), Sheahan, Slattery, Stokes, Talukder, Teskey, Ward.
 
 **(26)**
----
+
+[[PAGE_END:39]]
+
 **40**
 
 **Against**
@@ -3060,4 +3139,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:40]]
+

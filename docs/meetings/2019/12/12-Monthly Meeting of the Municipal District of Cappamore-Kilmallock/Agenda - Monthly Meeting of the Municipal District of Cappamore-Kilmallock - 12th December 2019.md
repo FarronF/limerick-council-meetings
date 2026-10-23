@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01-Agenda-MD-Meeting-12th-Dec-2019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 12th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01-Agenda-MD-Meeting-12th-Dec-2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Oifig an Cheantair, Aras Mhainchin Seoighe,
 
 ~~ Cill Mechealéa,
-~ : Co. Luimnigh.
+™~ A Co. Luimnigh.
 ==> Limerick City
 & County Council Limerick City and County Council,
 Aras Mainchin Seoighe Area Office,
-Maimallock,
+Mimallock,
 Co. Limenck.
 EIRCODE V35 K497
 t: +353 (0) 63 980 19
-f. +353 (0) 63 985 94
+f: #353 (0) 63 985 9
 6" December, 2019.
 To/
 A Chomhairleoir, a chara,
@@ -53,14 +54,16 @@ Cappamore-Kilmallock held on the 21° November, 2019.
 
 (Copy enclosed)
 
-= hy
-Comhairte Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wow.limerickie
-Limerick City and County Council. Aras Mainchin Seoighe Area Office ¥
+= V
+Comhairte Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wowlimerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office ¥
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Capital Investment Directorate
@@ -78,7 +81,6 @@ capital programme in the Municipal District;
 
 (ii) To note Housing Progress Report from the Director of Services, Housing
 Development Directorate dated 2 December, 2019.
-
 NOTICE OF MOTION
 4. Notice of Motion submitted by Councillor Mitchell
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that an
@@ -104,7 +106,9 @@ Kilmallock Municipal District?
 Cappamore-Kilmallock Municipal District?
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor Teefy
@@ -114,4 +118,6 @@ many Electric Charging Points for Electric cars are in the Municipal District an
 are they located?
 
 
----
+
+[[PAGE_END:3]]
+

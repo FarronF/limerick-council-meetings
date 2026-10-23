@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore_-_kilmallock_-_22nd_october_2014.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore - Kilmallock - 22nd October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore_-_kilmallock_-_22nd_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -65,11 +66,13 @@ Limited.
 q. Adoption of Minutes:
 Circulated, copy of draft Minutes of the following Meetings:
 
-(a) | Meeting of the Municipal District of Cappamore-Kilmallock held on 18”
+(a) Meeting of the Municipal District of Cappamore-Kilmallock held on 18”
 September, 2014.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) | Budgetary Plan Meeting of the Municipal District held on 10" October, 2014.
@@ -119,7 +122,9 @@ customers to use the nearby car park in order to keep the road clear for
 road users.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor E. Ryan
@@ -140,9 +145,9 @@ of a clearway box required.
 The box will be placed within the next month to the agreed dimensions.
 
 NOTICES OF MOTION
-7. Notice of Motion submitted by Councillor W. O’ Donnell
+7s Notice of Motion submitted by Councillor W. O’ Donnell
 
-! will move at the next Meeting that the Council carry out an audit of lands
+/ will move at the next Meeting that the Council carry out an audit of lands
 available for the construction of Social Housing to include lands in the
 ownership of the Housing Sustainable Communities Agency.
 
@@ -172,7 +177,9 @@ limit. Limerick City and County Council considers that no more traffic
 calming measures are warranted at this stage.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Notice of Motion submitted by Councillor E. Ryan
@@ -219,7 +226,9 @@ Scheme with Limerick City and County Council providing the balance
 of funding.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer, Environment, updated the Members in relation to a
@@ -247,7 +256,7 @@ next Meeting.
 On the proposal of Councillor Ryan, seconded by Councillor Mitchell, it was agreed
 to hold a Civic Reception for the following at the next Meeting:-
 
-« Ballylanders Senior Football Team on winning the Senior County Football
+¢ Ballylanders Senior Football Team on winning the Senior County Football
 Final, and
 ¢ Kilmallock Senior Hurling Team on winning the Senior County Hurling Final.
 
@@ -260,9 +269,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

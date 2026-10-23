@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%202017-11-08%20Minutes%20November%20Monthly%20Meeting%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 8th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%202017-11-08%20Minutes%20November%20Monthly%20Meeting%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES
@@ -96,7 +97,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Galvin expressed his disappointment at the distribution of the Development Fund
@@ -174,7 +177,9 @@ On the proposal of Councillor Browne, seconded by Councillor Scanlan, it was agr
 allocate a further €500 to the Newcastle West Business Association for the Christmas Santa
 
 Grotto.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -246,7 +251,9 @@ The area referred to above is on the N21 and the approval of the TII would
 have to be sought prior to any works being carried out.
 
 Members requested an onsite meeting to discuss this matter and this would be arranged.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -322,7 +329,9 @@ Notice of Motion submitted by Councillor J. Scanlan
 ***I will move at the next Meeting that an audit of all Japanese Knotweed black spot***
 
 ***locations within the Municipal District be compiled.***
----
+
+[[PAGE_END:4]]
+
 5
 
 Councillor Scanlan in proposing the Motion stated that the National Parks and Wildlife
@@ -396,7 +405,9 @@ on the width of the footpaths. It was agreed that the provision of a pedestrian 
 this location would be reviewed as a safety measure in consultation with the Transport
 
 Infrastructure Ireland (TII).
----
+
+[[PAGE_END:5]]
+
 6
 
 The Motion was seconded by Councillor Foley.
@@ -472,4 +483,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

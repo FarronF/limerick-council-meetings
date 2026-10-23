@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20Meeting%2021st%20May%2018%20%283%29%20%284%29.pdf)
+**Original file:** [Minutes - Metropolitan Joint Policing Sub Committee Meeting  - 21st May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20Meeting%2021st%20May%2018%20%283%29%20%284%29.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF MEETING OF METROPOLITAN JOINT POLICING SUB COMMITTEE
 
 HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK ON MONDAY,
@@ -110,7 +111,9 @@ Council housing . These people should be evicted. Community policing very import
 stability to an area, Request additional community gardai in areas where anti social behaviour is
 
 taking place;
----
+
+[[PAGE_END:1]]
+
 
 
 Increase number of fines issued to non disabled people parking in disabled parking spaces;
@@ -216,7 +219,9 @@ The issue of anti social behaviour in Cornmarket Row and city centre is an ongoi
 presence had been increased there with between nine and eleven Gardai patrolling the city centre
 
 daily. Unfortunately there is limited CCTV in the area;
----
+
+[[PAGE_END:2]]
+
 
 
 A number of serious assaults have taken place in Johnsgate Village adding that none of the houses
@@ -264,4 +269,6 @@ This concluded the meeting.
 COUNCILLOR SEAN LYNCH
 
 JPC CHAIR
----
+
+[[PAGE_END:3]]
+

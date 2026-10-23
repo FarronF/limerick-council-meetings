@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-20th-may-2025.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 20th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-20th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **6th** **May 2025**
@@ -64,4 +65,6 @@ policy in the city, giving a baseline indicator of our current air quality. - Mr
 Senior Executive Scientist, Environment and Climate Action.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

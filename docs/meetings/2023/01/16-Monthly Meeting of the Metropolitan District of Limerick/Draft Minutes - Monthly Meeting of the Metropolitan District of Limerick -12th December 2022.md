@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28a%29%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-12th%20December%202022.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick -12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28a%29%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-12th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON MONDAY, 12TH**
@@ -92,7 +93,9 @@ gritting roads, footpaths in particular near schools, and the three bridges walk
 highlighted the importance of gritting across the Metropolitan District area where possible and
 
 especially including around schools, the O’Connell Street and city centre area. They also queried
----
+
+[[PAGE_END:1]]
+
 2
 
 whether footpaths could also be gritted to facilitate pedestrians.
@@ -160,7 +163,9 @@ setting out proposals for the Disposal of 21-23 Old Clare Street, Limerick and t
 bring a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.Planning, Environment and Place-Making Directorate**
@@ -228,7 +233,9 @@ Council will be applying to the Department of Housing for approval to designate 
 for this scheme, and agreed to keep Members updated on the progress of this application.
 
 The report, as circulated, was noted by the Elected Members.
----
+
+[[PAGE_END:3]]
+
 4
 
 **5.Transportation & Mobility Directorate**
@@ -304,7 +311,9 @@ archaeological potential. This advance contract is expected to be ongoing across
 quarter of 2023. Commencement of the main development contract is expected to follow
 
 through the ensuing summer months.
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.Question submitted by Councillor E. Secas**
@@ -380,7 +389,9 @@ to put forward for 2023.
 To install a new footpath along this route, the widening of three existing structures would
 
 be required i.e. an existing stone bridge that runs over a live watercourse, an under pass
----
+
+[[PAGE_END:5]]
+
 6
 
 bridge that runs under the N24 National Road and under pass bridge with supporting walls
@@ -460,7 +471,9 @@ determination and, subject to approval, proceed to construction of the scheme in
 2023, with an autumn opening of the link to the Castletroy area. Drawings and particulars
 
 of the scheme will be presented during the planning consultation mentioned above.
----
+
+[[PAGE_END:6]]
+
 7
 
 It should be noted that if An Bord Pleanála determine that an Appropriate Assessment
@@ -530,7 +543,9 @@ The Notice of Motion was proposed by Councillor Leddin, seconded by Councillor S
 agreed.
 
 In proposing the Motion, Councillor Leddin referred to the importance of carrying out maintenance
----
+
+[[PAGE_END:7]]
+
 8
 
 works, such as clearing footpaths and gutters, in Council owned housing developments and in
@@ -612,7 +627,9 @@ levels of crime at each specific potential location of a camera (using GPS coord
 If crime levels are deemed sufficiently high, this becomes the starting point of the
 
 official process.
----
+
+[[PAGE_END:8]]
+
 9
 
  A report must be created outlining the case and rationale for CCTV, including all
@@ -694,7 +711,9 @@ refurbished could be considered for commercial, civic or residential uses.
 Gaelscoil Sairséal (Cray Lane) school over the last twelve months with a view to its future
 
 use now as it is vacant and the owner is keen to look at potential uses including office.
----
+
+[[PAGE_END:9]]
+
 10
 
 I will engage with Limerick Twenty Thirty DAC and our Housing Department to examine if
@@ -738,4 +757,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

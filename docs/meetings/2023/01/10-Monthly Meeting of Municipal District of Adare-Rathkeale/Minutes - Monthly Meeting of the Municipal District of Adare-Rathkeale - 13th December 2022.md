@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2013th%20December%202022.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2013th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ for Phase One are expected to be completed by the end of 2024.
 Mr. Vaughan continued outlining Phase Two of the project, which will involve signalling
 
 and train control systems for the route and the installation of 13 no. CCTV level crossings
----
+
+[[PAGE_END:1]]
+
 2
 
 on public roads which will be completed by 2025, subject to funding allocations and
@@ -156,7 +159,9 @@ the project would proceed.
 Circulated, report of the Senior Staff Officer, Housing Support Services dated 21st
 
 October, 2022 setting out proposals to dispose of freehold interest in property at 21
----
+
+[[PAGE_END:2]]
+
 3
 
 Ballywilliam, Rathkeale, Co. Limerick and the intention to bring the Section 183 Notice to
@@ -222,7 +227,9 @@ to allocate €4,000 to Crecora Community Council.
 **Correspondence**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -250,4 +257,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

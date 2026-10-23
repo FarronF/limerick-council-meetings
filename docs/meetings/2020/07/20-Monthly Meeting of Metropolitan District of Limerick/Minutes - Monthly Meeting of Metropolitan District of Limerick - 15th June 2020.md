@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01a-draft-minutes-monthly-meeting-15th-june-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01a-draft-minutes-monthly-meeting-15th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 15th** **JUNE, 2020 at 09:45 A.M.**
@@ -94,7 +95,9 @@ dwelling house situate at 31 McDermott Avenue, Janesboro, Limerick and the inten
 bring a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 (b)Circulated, report of the Senior Staff Officer, Housing Support Services dated 30th March, 2020
@@ -168,7 +171,9 @@ at Milford Grange, Kilbane and Castletroy Heights
 **Limerick City West**
 
 €100,000 Construction of Patrickswell Community Centre
----
+
+[[PAGE_END:2]]
+
 3
 
 € 50,000 Upgrade of The People’s Park Playground
@@ -250,7 +255,9 @@ Council were not the deciding authority, and that the purpose of his presence wa
 proposed development to Members. He also outlined that the pre-planning process had been
 
 completed in full. Mr. Duclot stated that all amendments and observations will be taken on board
----
+
+[[PAGE_END:3]]
+
 4
 
 and form part of the Chief Executive’s report for An Bord Pleanála. Mr. Duclot also advised that he
@@ -322,7 +329,9 @@ Restoration Improvement Scheme.
 ***of the dog waste bins and the frequency of emptying.***
 
 **REPLY*:*** There are two dog wardens employed by Limerick City and County Council who cover all
----
+
+[[PAGE_END:4]]
+
 5
 
 of the City and County. A total of seven fines were issued for dog fouling in the Metropolitan District
@@ -400,7 +409,9 @@ currently there is Covid-19 / isolation housing accommodation by the HSE on the 
 ***measure performance of Limerick city centre and how these are incorporated into the design and***
 
 ***development of the city.***
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY:** Measurement of the performance of the city centre can fall under a number of different
@@ -474,7 +485,9 @@ Limerick City and County Council will be supportive of such efforts to similar l
 years, and within the resources available collect street clean-up material provided advance notice
 
 is advised.
----
+
+[[PAGE_END:6]]
+
 7
 
 **NOTICES OF MOTION**
@@ -548,7 +561,9 @@ him know in future if they see particular bins/areas that require attention and 
 resources accordingly.
 
 The motion was proposed by Councillor Hartigan, seconded by Councillor Benson and agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 **16. Notice of Motion submitted by Councillor S. Hartigan** **(to be referred to the Home and Social**
@@ -620,7 +635,9 @@ Strategic Policy Committee.
 ***purchasing goods and services from Limerick companies, where possible and within the***
 
 ***parameters of the procurement process, while still achieving value for money.***
----
+
+[[PAGE_END:8]]
+
 9
 
 **REPLY**: Limerick City and County Council’s Procurement Policy reflects the importance of access
@@ -698,7 +715,9 @@ would have a knock-on effect on local tourism and businesses. He suggested that 
 be removed from Shannon Group and transferred to The Office of Public Works and he proposed
 
 that the Minister for Culture, Heritage and the Gaeltacht be written to on the matter.
----
+
+[[PAGE_END:9]]
+
 10
 
 Councillor O’ Donovan requested a copy of the lease between Limerick City and County Council and
@@ -774,7 +793,9 @@ Councillor Sheehan stated that he was opposed to this Motion adding that employe
 tourism and hospitality sector should pay adequate wages to all workers including seasonal
 
 workers.
----
+
+[[PAGE_END:10]]
+
 11
 
 Councillor Benson proposed the following amendment to the Motion;
@@ -826,4 +847,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

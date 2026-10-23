@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%202018-01-10%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 10 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%202018-01-10%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_
+_——_
 
 “rN
 
-. ——
+* ——_
 Limerick
 CITY & COUNTY
 
@@ -33,7 +34,7 @@ COUNCIL
 
 5" january, 2018
 
-Diuiiche Bardais an Chaisledin Nua Thiar,
+Duiiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh.
 Aras Willian Smith O'Brien,
 
@@ -72,7 +73,7 @@ Corel
 Margaret Corbett,
 Meetings Administrator.
 
-i: Minutes
+nA Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
 
@@ -98,7 +99,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -139,7 +142,7 @@ the Roche site at New St., Abbeyfeale.
 | will ask at the next Meeting for a second costing to be carried out to do the
 necessary works on the river bank at New St., Abbeyfeale.
 
-uest itted by Councillor J l
+uest itted by Councillor J U
 
 | will ask at the next Meeting for an update on necessary traffic flow safety measures
 along Boherbui, Newcastle West between the Secondary School and Church
@@ -150,7 +153,9 @@ Lynch's Corner with The Square, and (b) opposite Dick Darby's at Church Street,
 Newcastle West.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -178,4 +183,6 @@ affected properties along New St., Abbeyfeale since the Department of the OPW
 have refused to do so.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-2025-06-03-agm-minutes.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 3rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-2025-06-03-agm-minutes.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -80,7 +81,9 @@ Municipal District for the coming year.
 Proposed by: Councillor Foley
 
 Seconded by: Councillor Ruddle
----
+
+[[PAGE_END:1]]
+
 2
 
 “*That, Councillor Michael Collins be appointed Cathaoirleach of the Municipal District of*
@@ -148,7 +151,9 @@ Seconded by: Councillor Sheahan
 As there were no other nominations, the Cathaoirleach declared Councillor Foley
 
 elected as Leas-Chathaoirleach of the Municipal District.
----
+
+[[PAGE_END:2]]
+
 3
 
 The incoming Leas-Chathaoirleach wished the very best to the incoming Cathaoirleach,
@@ -174,4 +179,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

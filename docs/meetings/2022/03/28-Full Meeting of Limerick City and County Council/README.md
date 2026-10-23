@@ -36,55 +36,55 @@ Minutes - Special Meeting of Limerick City and County Council - 3rd March 2022.p
 
 Minutes  - Special Meeting of Limerick City and County Council - 11th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-e-minutes-special-meeting-11.03.2022.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2011th%20March%202022.md)
 
-Land Disposal_ 14 Donnellan Buildings, Rosbrien, Limerick - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-a-land-disposal-14-donnellan-buildings-rosbrien-limerick.pdf) - Text not extracted
+Land Disposal: 14 Donnellan Buildings, Rosbrien, Limerick - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-a-land-disposal-14-donnellan-buildings-rosbrien-limerick.pdf) - Text not extracted
 
-Land Disposal_ Killarney Pole to Barnagh - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-b-land-disposal-killarney-pole-to-barnagh.pdf) - Text not extracted
+Land Disposal: Killarney Pole to Barnagh - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-b-land-disposal-killarney-pole-to-barnagh.pdf) - Text not extracted
 
-Land Disposal_ 4 Mitchell Street, Limerick - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-c-land-disposal-4-mitchell-street-limeric.pdf) - Text not extracted
+Land Disposal: 4 Mitchell Street, Limerick - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-c-land-disposal-4-mitchell-street-limeric.pdf) - Text not extracted
 
-Land Disposal_ Ballybehy South, Abbeyfeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-d-land-disposal-ballybehy-south-abbeyfeale.pdf) - Text not extracted
+Land Disposal: Ballybehy South, Abbeyfeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-d-land-disposal-ballybehy-south-abbeyfeale.pdf) - Text not extracted
 
-Land Disposal_ 2 Church St., Askeaton - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-e-land-disposal-2-church-st.-askeaton.pdf) - Text not extracted
+Land Disposal: 2 Church St., Askeaton - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-e-land-disposal-2-church-st.-askeaton.pdf) - Text not extracted
 
-Land Disposal_ 1 Fairhill, Rathkeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-f-land-disposal-1-fairhill-rathkeale.pdf) - Text not extracted
+Land Disposal: 1 Fairhill, Rathkeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-f-land-disposal-1-fairhill-rathkeale.pdf) - Text not extracted
 
-Land Disposal_ Holycross, Rathkeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-g-land-disposal-holycross-rathkeale.pdf) - Text not extracted
+Land Disposal: Holycross, Rathkeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-g-land-disposal-holycross-rathkeale.pdf) - Text not extracted
 
-Land Disposal_ 11 & 12 Clontarf Place - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-h-land-disposal-11-12-clontarf-place.pdf) - Text not extracted
+Land Disposal: 11 & 12 Clontarf Place - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-h-land-disposal-11-12-clontarf-place.pdf) - Text not extracted
 
-Land Disposal_ Woolworth's Lane, Limerick - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-i-land-disposal-woolworths-lane-limerick.pdf) - Text not extracted
+Land Disposal: Woolworth's Lane, Limerick - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-i-land-disposal-woolworths-lane-limerick.pdf) - Text not extracted
 
-Land Disposal_ 35 Lord Edward Street - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-j-land-disposal-35-lord-edward-street.pdf) - Text not extracted
+Land Disposal: 35 Lord Edward Street - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-j-land-disposal-35-lord-edward-street.pdf) - Text not extracted
 
-Land Disposal_ Clash North - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-k-land-disposal-clash-north.pdf) - Text not extracted
+Land Disposal: Clash North - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-k-land-disposal-clash-north.pdf) - Text not extracted
 
-Land Disposal_ 3 Mount Vincent Place - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-l-land-disposal-3-mount-vincent-place.pdf) - Text not extracted
+Land Disposal: 3 Mount Vincent Place - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-l-land-disposal-3-mount-vincent-place.pdf) - Text not extracted
 
-Land Disposal_ Galvone Business Park - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-m-land-disposal-galvone-business-park.pdf) - Text not extracted
+Land Disposal: Galvone Business Park - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-m-land-disposal-galvone-business-park.pdf) - Text not extracted
 
-Land Disposal_ Rathronan Gortnacross - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-n-land-disposal-rathronan-gortnacross.pdf) - Text not extracted
+Land Disposal: Rathronan Gortnacross - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-n-land-disposal-rathronan-gortnacross.pdf) - Text not extracted
 
-Land Disposal_ Ardrahin Galbally - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-o-land-disposal-ardrahin-galbally.pdf) - Text not extracted
+Land Disposal: Ardrahin Galbally - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-o-land-disposal-ardrahin-galbally.pdf) - Text not extracted
 
-Land Disposal_ 69 Castleview Estate - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-p-land-disposal-69-castleview-estate.pdf) - Text not extracted
+Land Disposal: 69 Castleview Estate - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-p-land-disposal-69-castleview-estate.pdf) - Text not extracted
 
-Land Disposal_ 6 Radharc na Feile - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-q-land-disposal-6-radharc-na-feile.pdf) - Text not extracted
+Land Disposal: 6 Radharc na Feile - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-q-land-disposal-6-radharc-na-feile.pdf) - Text not extracted
 
-Land Disposal_ 4 Lower Maiden Street, Newcastle West - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-r-land-disposal-4-lower-maiden-street-ncw.pdf) - Text not extracted
+Land Disposal: 4 Lower Maiden Street, Newcastle West - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-r-land-disposal-4-lower-maiden-street-ncw.pdf) - Text not extracted
 
-Land Disposal_ Kilmurry Feenagh - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-s-land-disposal-kilmurry-feenagh.pdf) - Text not extracted
+Land Disposal: Kilmurry Feenagh - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-s-land-disposal-kilmurry-feenagh.pdf) - Text not extracted
 
-Land Disposal_ Moneymohill, Ballyhahill - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-t-land-disposal-moneymohill-ballyhahill.pdf) - Text not extracted
+Land Disposal: Moneymohill, Ballyhahill - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-t-land-disposal-moneymohill-ballyhahill.pdf) - Text not extracted
 
-Land Disposal_ North Road Coolaboy, Dromcollogher - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-u-land-disposal-north-road-coolaboy-dromcollogher.pdf) - Text not extracted
+Land Disposal: North Road Coolaboy, Dromcollogher - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-u-land-disposal-north-road-coolaboy-dromcollogher.pdf) - Text not extracted
 
-Land Disposal_ Former Garda Station, Mary Street - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-v-land-disposal-former-garda-station-mary-street.pdf) - Text not extracted
+Land Disposal: Former Garda Station, Mary Street - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-v-land-disposal-former-garda-station-mary-street.pdf) - Text not extracted
 
-Land Disposal_ 1-10 Cois na Feile, Abbeyfeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-w-land-disposal-1-10-cois-na-feile-abbeyfeale.pdf) - Text not extracted
+Land Disposal: 1-10 Cois na Feile, Abbeyfeale - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/04-w-land-disposal-1-10-cois-na-feile-abbeyfeale.pdf) - Text not extracted
 
-Chief Executive's Report_ January 2022 - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-a-i-chief-executives-report-january-2022.pdf) - Text not extracted
+Chief Executive's Report: January 2022 - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-a-i-chief-executives-report-january-2022.pdf) - Text not extracted
 
-Chief Executive's Report_ February 2022 - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-a-ii-chief-executives-report-february-2022.pdf) - Text not extracted
+Chief Executive's Report: February 2022 - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-a-ii-chief-executives-report-february-2022.pdf) - Text not extracted
 
 Raising of Loan - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-b-raising-of-loan.pdf) - Text not extracted
 
@@ -92,7 +92,7 @@ Annual Service Delivery Plan 2022 - Full Meeting of Limerick City and County Co
 
 Annual Report 2021 - Full Meeting of Limerick City and County Council - 28th March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-d-annual-report-2021.pdf) - Text not extracted
 
-Chair's Report_ Economic Development, Enterprise and Planning Strategic Policy Committee - 23rd February 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-e-i-chairs-report-planning-spc.pdf) - Text not extracted
+Chair's Report: Economic Development, Enterprise and Planning Strategic Policy Committee - 23rd February 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-e-i-chairs-report-planning-spc.pdf) - Text not extracted
 
 Chair's Report - Climate Action Biodiversity and Environment Strategic Policy Committee - 28th February 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/05-e-ii-a-chairs-report-cabe-28.02.2022.pdf) - Text not extracted
 

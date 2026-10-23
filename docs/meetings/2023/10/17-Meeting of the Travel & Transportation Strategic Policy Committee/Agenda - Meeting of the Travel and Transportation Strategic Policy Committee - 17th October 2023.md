@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Agenda-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-17th-October-2023.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Agenda-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-17th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **6th October 2023**
@@ -51,7 +52,9 @@ set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -79,4 +82,6 @@ implement a public engagement policy which sets out best practice for engagement
 with local stakeholders when this district is advancing Part 8 Planning Applications and
 
 Section 38s.
----
+
+[[PAGE_END:2]]
+

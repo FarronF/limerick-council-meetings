@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_rathkeale_area_committee_meeting_-_01_may_2014.pdf)
+**Original file:** [Minutes of Rathkeale Area Committee Meeting - 1st May 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_rathkeale_area_committee_meeting_-_01_may_2014.pdf)
 
----
+[[FILE_START]]
+
 Minutes of Rathkeale Area Committee Meeting
 
 held in Áras Sean Finn,
@@ -74,7 +75,9 @@ extremely well during its time and the elected members had an ethos
 of getting business done for the people of the elected area which he
 
 said would continue into the future.
----
+
+[[PAGE_END:1]]
+
 Councillor Keary (S) asked if the Development Fund allocations
 
 agreed at the April meeting had been put in place & also asked for an
@@ -144,7 +147,9 @@ Customers of the Kilfinny GWS now refusing to pay for their water as
 they feel the water dies not meet the proper standards set out by the
 
 HSE.
----
+
+[[PAGE_END:2]]
+
 James Tagney went on to say the group scheme committee had
 
 been under the impression that funding would be made available for
@@ -208,7 +213,9 @@ Water the vulnerability of wells has to be looked at and added that the
 installation of UV filters would solve the problems with the Kilfinny
 
 Water scheme.
----
+
+[[PAGE_END:3]]
+
 Michael Griffin, A.O. concluded that the further information requested
 
 by the Department on the matter would be forwarded in the coming
@@ -268,7 +275,9 @@ town.
 Councillor Keary (S) expressed concern at laden trucks taking
 
 lechate into the Pallaskenry estate and added that he had received
----
+
+[[PAGE_END:4]]
+
 several representations from the developer of this particular estate
 
 which is not in the charge of Limerick County Council expressing
@@ -334,7 +343,9 @@ committee was trying to promote the famous tenor Christopher Lynch
 who had been born in Rathkeale and added that they were in the
 
 process of organising a Christopher Lynch musical weekend in
----
+
+[[PAGE_END:5]]
+
 October/November 2014 and would like to apply to the Council for
 
 permission to name the bridge on Church Street “The Christopher
@@ -396,7 +407,9 @@ Barry Martin SEE thanked the committee for their kind words and
 presentation saying it was much appreciated and went on to wish all
 
 the elected members well in the forthcoming elections.
----
+
+[[PAGE_END:6]]
+
 Item 7 – A.O.B.
 
 Councillor Sheahan (J) wished Councillor Naughton (D) well on his
@@ -424,4 +437,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Chairman.
 Dated this \_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2014.
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Secretary.
----
+
+[[PAGE_END:7]]
+

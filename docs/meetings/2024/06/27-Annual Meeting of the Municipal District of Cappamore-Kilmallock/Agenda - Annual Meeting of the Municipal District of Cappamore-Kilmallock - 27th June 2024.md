@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/01-agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-27th-june-2024.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 27th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-06/01-agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-27th-june-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 (Image omitted)
@@ -88,4 +89,6 @@ Kilmallock Municipal District (suggested date 18th July at 3pm) and Joint Polici
 Committee of the Cappamore Kilmallock Municipal District (suggested date 18th July at
 
 2pm).
----
+
+[[PAGE_END:1]]
+

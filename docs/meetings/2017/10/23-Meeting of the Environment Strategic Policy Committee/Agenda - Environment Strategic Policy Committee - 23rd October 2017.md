@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2023rd%20October%202017.pdf)
+**Original file:** [Agenda - Environment Strategic Policy Committee - 23rd October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2023rd%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 **17th** **October, 2017**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**
@@ -43,7 +44,9 @@ held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 23rd October, 2
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -91,4 +94,6 @@ prosecution, and the need to make it accountable to the Ombudsman”.
 5. **River Basin Management Plan: Feedback on Public Consultation and Prioritisation of**
 
 **Areas for Action** **–** **Ms. Anne Goggin**
----
+
+[[PAGE_END:2]]
+

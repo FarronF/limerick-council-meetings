@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%202022-09-20%20Agenda.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 20th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%202022-09-20%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__e__ Comhairle Cathrach
+__ Comhairle Cathrach
 & Contae Luimnigh
-AN LK ™
+AN if ™
 
 Limerick City
 = & County Council
 
-Dusche Bardais an Chaisieain Nua Thear.
-Com)atle Cathrach agus Corntae Luimnigh,
-Aras William Smith O'Brien.
+Dusche Bardais an Chaisieain Nua Thar.
+Com)atle Cathrach agus Cortae Luimnigh,
+Aras William Smith O'Brier.
 
 Gortbui,
 
-An Caislean Nua Thiar,
+An Caislean Nua Thar,
 
 Co. Luimnigh
 
@@ -81,10 +82,12 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 = customerservices@limerick.ie
-© wewlimerick.te
+© weewlimerick.te
 
 @LimerickCouncil
-\ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

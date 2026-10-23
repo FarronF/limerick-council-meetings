@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Ordinary%20Meeting%20271117.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 27th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Ordinary%20Meeting%20271117.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Seirbhis{ Corparaideacha,
-_————— & Contae Luimnigh aah oo tats
+Comhairle Cathrach Seirbhis{ Corpardideacha,
+_———— & Contae Luimnigh ag oI tats
 
-“NnrN ———_a..se.!|!|!~S*S*~*# Cé na gCeannaithe,
+“rN ack. ||!~S~*~*~*# Cé na gCeannaithe,
 Limerick City Luimneach
 
 = & County Council
 Corporate Services,
-Limerick City and County Council.
+Limerick City and County Council,
 Corporate Headquarters,
 
 Merchants Quay.
@@ -54,7 +55,7 @@ business to be transacted is set out on the appended Agenda.
 
 is mise le meas,
 
-CY&an 96
+CYan 96
 Christy O’Connor,
 Meetings Administrator.
 
@@ -69,7 +70,7 @@ To adopt Minutes of the following Meetings:
 
 (c) Adjourned Meeting of the Council held on 28 September, 2017.
 
-(d) Special Meeting of the Council held on 6” November, 2017, to discuss Housing
+(d) Special Meeting of the Council held on 6" November, 2017, to discuss Housing
 Action Plan.
 
 (e) Special Meeting of the Council held on 6" November, 2017, to discuss Ward’s
@@ -89,11 +90,13 @@ To consider proposal for the disposal of land at:
 = customerservices@limerick.ie
 © wwew.limerick.ie
 
-Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathra Chorparaéideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -104,7 +107,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 (h)
 (i)
 
-(j)
+(i)
 
 8, Ballyclough Avenue, Ballinacurra Weston, Limerick.
 19, Galvone Road, Kennedy Park, Limerick.
@@ -120,7 +123,7 @@ Caheranardish, Mungret, Co. Limerick
 
 74, Clare Street, Limerick.
 
-(Statutory Notices dated 3rd, 10", 11" and 12" October, and 6" and
+(Statutory Notices dated 3rd, 10", 11™ and 12" October, and 6" and
 14” November, 2017, already circulated)
 
 Support Services Directorate
@@ -153,7 +156,9 @@ the resignation of Councillor Sean Lynch from the Partnership.
 (Correspondence from Limerick Sports Partnership Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -199,7 +204,7 @@ Strategic Policy Committee Reports
 
 To consider reports and recommendations:
 
-(i) Chairperson’s Report — Home and Social Development Strategic
+(i) Chairperson’s Report —- Home and Social Development Strategic
 Policy Committee Meeting held on 23” October, 2017.
 
 Recommendation No. 1
@@ -213,7 +218,9 @@ scheme would act as a catalyst for the creation of additional housing units
 and optimise the utilisation of existing housing stock.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Recommendation No. 2
@@ -241,12 +248,12 @@ through Tipperary, further isolating West Limerick.
 (Report Enclosed)
 
 Chairperson’s Report - Economic Development, Enterprise and
-Planning Strategic Policy Committee Meeting held on 9" October,
+Planning Strategic Policy Committee Meeting held on 9°" October,
 
 2017.
 (Report Enclosed)
 
-Chairperson’s Report — Community, Leisure and Emergency Services
+Chairperson’s Report —- Community, Leisure and Emergency Services
 Strategic Policy Committee Meeting held on 9 November, 2017.
 
 Recommendation
@@ -257,7 +264,9 @@ embedded in all Council policy documents going forward.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -304,7 +313,9 @@ and Spatial Economic Strategy for the Southern Region.
 (Documentation Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Regional i Direct e
@@ -336,7 +347,7 @@ funding for the Open Call Festivals and Events Grant Scheme
 
 (Report Enclosed)
 
-Part Vill Procedure —- Proposed N24 Beary’s Cross Road
+Part Vill Procedure - Proposed N24 Beary’s Cross Road
 
 Improvement S me
 
@@ -358,7 +369,9 @@ accordance with Section 66 of the Local Government Act, 2001, as amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -376,7 +389,7 @@ amended).
 
 Conferences
 
-(i)
+i)
 
 Participation by Members at Conferences
 
@@ -392,12 +405,12 @@ in Buttevant, Co. Cork, on 14" October, 2017.
 Louth, on 24" October, 2017.
 
 (e) Rebuilding Ireland - Action Plan for Housing and Homelessness, held in
-Carlingford, Co. Louth, from 3 to 5 November, 2017.
+Carlingford, Co. Louth, from 3“ to 5 November, 2017.
 
 (f) Housing in Crisis — Defining the Role of the Councillor, held in Wexford on
 11/12" November, 2017.
 
-(g) World nZeb Forum 2017, held in Wexford on 15""/16"" November, 2017.
+(g) World nZeb Forum 2017, held in Wexford on 15"/16" November, 2017.
 
 (h) 8" Annual Tourism Policy Workshop, held in Dromoland, Newmarket-on-
 Fergus, Co. Clare, on 17/18" November, 2017.
@@ -412,7 +425,9 @@ Carlingford, Co. Louth, from 1* to 3 December, 2017.
 from 8" to 10" December, 2017.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -426,7 +441,7 @@ from 8" to 10" December, 2017.
 held in Clonakilty, Co. Cork, on 13"/14" December, 2017.
 
 (n) Local Authorities and Regional Assemblies Managing Executive
-Governance, to be held in Galway on 15/16" December, 2017.
+Governance, to be held in Galway on 1s*/16" December, 2017.
 
 (0) ODCE — Office of the Director of Corporate Enforcement, to be held in
 Clonakilty, Co. Cork, from 21 to 23° December, 2017.
@@ -458,7 +473,9 @@ County Council in 2017, how many were registered, how many were reclaimed, how
 many were re-homed, and how many were put down.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -471,7 +488,7 @@ many were re-homed, and how many were put down.
 
 16.
 
-tion bmi ill _P iville
+tion bmi it Pi iville
 
 | will ask at the next Meeting for a breakdown in tabular form of the reasons (e.g.
 mould, fire safety etc.) private rented accommodation has failed inspections so far
@@ -507,7 +524,9 @@ alarmed valves, located in reception tanks, to control the discharge of slurry f
 overground slurry stores to these reception tanks.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -528,7 +547,7 @@ support the establishment and funding of an Annual National “Make Way Day” w
 a local campaign in each region; and (c) promote a local “Make Way Limerick”
 campaign as part of the wider “Make Way Day.”
 
-Notice of Motion submitted by Cmhir. S. GO Ceallaigh (to be
+Notice of Motion submitted by Cmhir. S. GO Ceallaigh (fo be
 
 referred to Home and Social Development Strategic Policy
 Committee)
@@ -542,4 +561,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:10]]
+

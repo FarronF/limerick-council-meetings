@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-travel-and-transportation-strategic-policy-committee-17th-october-2023.pdf)
+**Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-travel-and-transportation-strategic-policy-committee-17th-october-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Draft** **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -66,7 +67,9 @@ to Greenways.
 The Chair thanked Mr. Leahy for the presentation and opened the floor to questions.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Cllr. Galvin stated that Abbeyfeale railway station is in need of a revamp and asked for an update
@@ -126,7 +129,9 @@ Carrigtwohill Greenway in Glounthaune in Cork which was constructed along the do
 N25 road. Substantial segregation with the existing road was provided to provide a safe walking
 
 and cycling environment.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. Keary stated thatit is 5 years since Members asked for a greenway from Rathkeale to Adare.
@@ -184,7 +189,9 @@ In response to questions Mr. Kennedy added the following: -
 commuter rail route. Mr. Kennedy advised that he will discuss the matter with Irish Rail
 
 & NTA going forward.
----
+
+[[PAGE_END:3]]
+
 4
 
  The objective is to create connectivity. LCCC will go as far as the county bounds with Clare
@@ -244,7 +251,9 @@ The Minutes of the Meeting of the Travel and Transportation Strategic Policy Com
 the 20th June 2023 were proposed by Cllr. McSweeney, seconded by Cllr. Mitchell and adopted.
 
 The Chair agreed to move to Item 4 on the Agenda.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Item 4: Notice of Motion submitted by Councillor D. McSweeney (referred from June Metro**
@@ -306,7 +315,9 @@ The Chair referenced the private briefing which Mr. Prenderville delivered to al
 on Friday, the 13th October. She very much welcomed this document and added that it is
 
 important that we have flexibility with the guidelines and all stakeholders.
----
+
+[[PAGE_END:5]]
+
 6
 
 With reference to Cllr. O’Donovan and Cllr. McSweeney’s input, Mr. Kennedy advised that he will
@@ -364,4 +375,6 @@ The Chair asked if we can move this item as a Presentation for the next SPC Meet
 the presenters and members for their contribution. She confirmed that the next SPC meeting is
 
 scheduled for Tuesday, the 12th December 2023. The meeting then concluded.
----
+
+[[PAGE_END:6]]
+

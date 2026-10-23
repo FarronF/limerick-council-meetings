@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th Januar
 
 Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th December 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-minutes-of-monthly-meeting-14th-december-2021.pdf) - [Extracted text](./Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20December%202021.md)
 
-Disposal of Land_ 2 Church St, Askeaton - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/02-disposal-of-land-2-church-st-askeaton.pdf) - Text not extracted
+Disposal of Land: 2 Church St, Askeaton - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/02-disposal-of-land-2-church-st-askeaton.pdf) - Text not extracted
 
 District Engineer's Report - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/03-district-engineers-report-11th-january-2022.pdf) - Text not extracted
 

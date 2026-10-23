@@ -32,29 +32,29 @@ Minutes - Special Meeting of Limerick City and County Council - 20th March 2019
 
 Minutes - Full Meeting of Limerick City and County Council  - 25th March 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%28b%29%20Minutes%20-%20March%202019%20Council%20Meeting.pdf) - [Extracted text](./Minutes%20-%C2%A0Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%C2%A0%20-%2025th%20March%202019.md)
 
-Disposal of Land_ Castleview Gardens, Clancy Strand - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28a%29%20Castleview%20Gardens%2C%20Clancy%20Strand.pdf) - Text not extracted
+Disposal of Land: Castleview Gardens, Clancy Strand - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28a%29%20Castleview%20Gardens%2C%20Clancy%20Strand.pdf) - Text not extracted
 
-Disposal of Land_ 27 Collins Ave, Kincora Park, Southill - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28b%29%2027%20Collins%20Ave%20Kincora%20Park%20Southill.pdf) - Text not extracted
+Disposal of Land: 27 Collins Ave, Kincora Park, Southill - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28b%29%2027%20Collins%20Ave%20Kincora%20Park%20Southill.pdf) - Text not extracted
 
-Disposal of Land_ 22 Mullally Lawn, Cappamore - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28c%29%2022%20Mullally%20Lawn%20Cappamore.pdf) - Text not extracted
+Disposal of Land: 22 Mullally Lawn, Cappamore - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28c%29%2022%20Mullally%20Lawn%20Cappamore.pdf) - Text not extracted
 
-Disposal of Land_ 2 Galtee View Galbally - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28d%29%202%20Galtee%20View%20Galbally.pdf) - Text not extracted
+Disposal of Land: 2 Galtee View Galbally - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28d%29%202%20Galtee%20View%20Galbally.pdf) - Text not extracted
 
-Disposal of Land_ Askeaton - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28e%29%20Askeaton.pdf) - Text not extracted
+Disposal of Land: Askeaton - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28e%29%20Askeaton.pdf) - Text not extracted
 
-Disposal of Land_ 33 Quins Cottages Prospect - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28f%29%2033%20Quins%20Cottages%20Prospect.pdf) - Text not extracted
+Disposal of Land: 33 Quins Cottages Prospect - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28f%29%2033%20Quins%20Cottages%20Prospect.pdf) - Text not extracted
 
-Disposal of Land_ 48 Keane Street - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28g%29%2048%20Keane%20Street.pdf) - Text not extracted
+Disposal of Land: 48 Keane Street - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%28g%29%2048%20Keane%20Street.pdf) - Text not extracted
 
-Disposal of Land_ Delmege Park, Hartigans Villas and College Avenue, Moyross - Full Meeting of Limerick City and County Council  - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28c%29%20Delmege%20Park%20Hartigans%20Villas%20College%20Avenue%20Moyross.pdf) - Text not extracted
+Disposal of Land: Delmege Park, Hartigans Villas and College Avenue, Moyross - Full Meeting of Limerick City and County Council  - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28c%29%20Delmege%20Park%20Hartigans%20Villas%20College%20Avenue%20Moyross.pdf) - Text not extracted
 
-Disposal of Land_ 9 Gaol Lane - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28a%29%209%20Gaol%20Lane.pdf) - Text not extracted
+Disposal of Land: 9 Gaol Lane - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28a%29%209%20Gaol%20Lane.pdf) - Text not extracted
 
-Disposal of Land_ Cosgrave Park, Moyross - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28b%29%20Cosgrave%20Park%20Moyross.pdf) - Text not extracted
+Disposal of Land: Cosgrave Park, Moyross - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28b%29%20Cosgrave%20Park%20Moyross.pdf) - Text not extracted
 
-Disposal of Land_ John Carew Park, Southill - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28d%29%20John%20Carew%20Park%20Southill.pdf) - Text not extracted
+Disposal of Land: John Carew Park, Southill - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02A%28d%29%20John%20Carew%20Park%20Southill.pdf) - Text not extracted
 
-Chief Executive's Report_ March 2019 - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/03%28a%29%20Chief%20Executives%20Report%20March%202019.pdf) - Text not extracted
+Chief Executive's Report: March 2019 - Full Meeting of Limerick City and County Council - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/03%28a%29%20Chief%20Executives%20Report%20March%202019.pdf) - Text not extracted
 
 Annual Report 2018 - Full Meeting of Limerick City and County Council  - 29th April 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/03%28b%29%20Annual%20Report%202018.pdf) - Text not extracted
 

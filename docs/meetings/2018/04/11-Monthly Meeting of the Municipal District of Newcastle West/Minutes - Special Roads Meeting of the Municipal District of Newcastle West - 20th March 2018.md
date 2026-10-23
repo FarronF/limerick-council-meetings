@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01c%202018-03-20%20Minutes%20Special%20Meeting%20Roads%20Matters.pdf)
+**Original file:** [Minutes - Special Roads Meeting of the Municipal District of Newcastle West - 20th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01c%202018-03-20%20Minutes%20Special%20Meeting%20Roads%20Matters.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL ROADS MEETING
 
 OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -88,7 +89,9 @@ level of rainfall over the past few months was also noted along with the increas
 made available through grants and the budget process. He stated that 80km of roadway was
 
 surface dressed in 2017 and 95km of roadway would be surface dressed in 2018.
----
+
+[[PAGE_END:1]]
+
 Discussion also took place on the possibility of appointing a Clerk of Works to oversee projects
 
 by third parties in order to ensure that road reinstatement works are carried out correctly.
@@ -122,4 +125,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

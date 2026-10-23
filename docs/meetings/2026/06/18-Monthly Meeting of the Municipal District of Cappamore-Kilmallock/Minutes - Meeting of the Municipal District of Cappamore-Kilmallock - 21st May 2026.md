@@ -16,19 +16,20 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-may-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGHE, KILIMALLOCK, CO. LIMERICK
-AND ONLINE ON THURSDAY, 21% MAY, 2026 AT 2PM.
+AND ONLINE ON THURSDAY, 21 MAY, 2026 AT 2PM.
 
 PRESENT IN THE CHAIR: Councillor G. Conway, Cathaoirleach.
-MEMBERS PRESENT;
+MEMBERS PRESENT:
 
-Councillors Carey, O’Sullivan, M. Ryan, Stokes, Teefy.
+Councillors Carey, O'Sullivan, M. Ryan, Stokes, Teefy.
 Apologies: Cllr E. Ryan.
 
 OFFICIALS IN ATTENDANCE:
@@ -64,7 +65,9 @@ work, especially in relation to the organisation and preparation for the Monthly
 District Meetings, and they wished her well in her retirement.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1. MINUTES
@@ -111,7 +114,9 @@ applications for the Municipal District from City Hall to the Kilmallock MD Offi
 this process would be completed in the coming months.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Elected Members welcomed the progress update and they agreed that the grants
@@ -154,10 +159,12 @@ and costings to re-build a fallen section of a wall at the back of Dromin Gravey
 
 Reply:
 In early February 2026, a section of Dromin Graveyard boundary wall collapsed. This section
-has been made safe, until such time as appropriate restoration work can be commenced. It
+has been made safe, until such time as appropriate restoration work can be commenced. !t
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 is envisaged the restoration works will commence in the first quarter of 2027. Based on
@@ -177,7 +184,7 @@ appoint contractor to carry out the works.
 
 NOTICE OF MOTION
 
-8. Notice of Motion submitted by Cllr Conway
+8. Notice of Motion submitted by Clir Conway
 
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that Limerick
 City & County Council provide a safer entrance to the Industrial area known as Millmount,
@@ -185,7 +192,7 @@ Kilmallock across from GVM Marts, also to provide extra parking and yellow boxes
 commercial vehicles to load and off-load their vehicles in a safer manner, to implement
 traffic restrictions in the form of ramps and new signage.
 
-The Notice of Motion was proposed by Clir Conway, seconded by Cllr Carey, and agreed.
+The Notice of Motion was proposed by Cllr Conway, seconded by Cllr Carey, and agreed.
 
 Reply:
 
@@ -195,7 +202,7 @@ view to developing a proposal that provides a safer environment, while ensuring 
 operational needs of the businesses are also accommodated.
 
 9. Notice of Motion submitted by Clir Carey
-| will move at the next Meeting of the Cappamore-Kilmatiock Municipal District that
+| will move at the next Meeting of the Cappamore-Kilmaliock Municipal District that
 whatever safety measures deemed necessary at the crossing between the Knockainy GAA
 
 grounds and Knockainy soccer pitches be designed and funding streams identified.
@@ -203,7 +210,9 @@ grounds and Knockainy soccer pitches be designed and funding streams identified.
 The Notice of Motion was proposed by Cllr Carey, seconded by Cllr Teefy, and agreed.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -256,7 +265,9 @@ Location 1: The Mean (average) speed was 69 km/h, the 85th percentile speed was 
 and the posted speed limit was 80 km/h;
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Location 2: The Mean (average) speed was 67 km/h, the 85th percentile speed was 76 km/h
@@ -272,8 +283,8 @@ Limits in Ireland.
 
 The Members noted the comments of the A/Senior Executive Engineer, Roads, Traffic and
 Cleansing and also the data referred to in the reply. They stated that the 85" percentile
-speed stated of 78km/h and 76km/h referred to in the analysis report is too high and
-therefore warranted a review of speed limits at this location. They believed that this was
+speed stated of 78km/h and 76km/h referred to In the analysis report is too high and
+therefore warranted a review of speed limits at this location, They believed that this was
 also in the context of the number of serious road accidents and fatalities at this location and
 the frequency of same.
 
@@ -290,4 +301,6 @@ Signed: Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:6]]
+

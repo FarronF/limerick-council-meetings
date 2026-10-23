@@ -16,26 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20Municipal%20District%20of%20Newcastle%20West%20-%2018th%20October%202017.pdf)
+**Original file:** [Agenda - Draft Budgetary Plan 2018 for Municipal District of Newcastle West - 18th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20Municipal%20District%20of%20Newcastle%20West%20-%2018th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Seirbhisi Corparaideacha,
-_——_—_— ip Helaaly elk a Comhairle Cathrach agus Contae Luimnigh,
-, ontae Luimnig Ceanncheathru Chorpardideach,
-“rN SE Cé na gCeannaithe,
-=— Limerick City Luimneach
-& County Council é _
+j Seirbhisi Corparaideacha,
+_—_—_ ip Helaaly ell any Comhairle Cathrach agus Contae Luimnigh,
+, ontae Luimnig Ceanncheathru Chorparaideach,
+nNrN SO Cé na gCeannaithe,
+— Limerick City Luimneach
+& County Council P -
 ‘orporate Services,
 Limerick City and County Council,
 Corporate Headquarters,
+
 Merchants Quay,
 Limerick
 
 EIRCODE V94 EH90
 
-t: 4353 (0) 61 557150
+t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 10th October, 2017
@@ -49,13 +51,15 @@ You are requested to attend a Meeting to consider the Draft Budgetary Plan 2018 
 Municipal District of Newcastle West to be held at Aras William Smith OBrien, Newcastle West,
 
 Co. Limerick, on Wednesday, 18th October, 2017, at 10.00 a.m. The business to be
+
 transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ti ro.
+Tau ro.
 
 Tina Knox,
+
 Meetings Administrator.
 
 AGENDA
@@ -63,12 +67,14 @@ AGENDA
 1. To consider the Draft Budgetary Plan 2018 for the Municipal District of Newcastle West.
 (Report Attached).
 
-& customerservices@limerick.ie
+& customerservices@limerick.ic
 
 © wwwlimerickie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

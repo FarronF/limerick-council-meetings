@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/02%20Minutes%20March%202019%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/02%20Minutes%20March%202019%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -64,7 +65,9 @@ mission is to protect, enhance and cherish the rivers and lakes of the Maigue ca
 the benefit and enjoyment of all.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She acknowledged the contribution of Limerick City & County Council in facilitating and
@@ -92,7 +95,7 @@ importance that angling played in monitoring and protecting the quality of river
 They agreed to look at options for funding support to ensure that the ongoing work of the
 Maigue River Trust would be supported into the future.
 
-3e Service Operations Directorate
+Se Service Operations Directorate
 (i) Planning & Environment Services
 
 The Cathaoirleach welcomed Seamus Martin, Assistant Engineer Planning & Environmental
@@ -112,7 +115,9 @@ provided at the May 2019 Meeting on the taking in charge of these eleven estates
 Municipal District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Operations & Main rvices-Threshold Project
@@ -150,12 +155,17 @@ Comhaltas Fleadh
 Glenbrohane Defibrillator Project
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-tala A
-(a a,
-lh
+Red Cross Group, South Limerick | oe
+Kilmallock Tourism Development Brochures _
+
+cela A
+(a a
+lah
 
 Glenroe Ballyorgan Community Council
 Defibrillator
@@ -184,7 +194,9 @@ Infrastructure Ireland (TIl), the Mid West National Road Design Office will comm
 tender process for the construction of the scheme.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion
@@ -197,7 +209,7 @@ out on the Sli na Sldinte walking route from Holycross to Bruff.
 Proposed by Cllr Teefy, seconded by Cllr Sheehy.
 
 REPLY: The Kilmallock Roads Crew would have undertaken minor upkeep works on the Sli
-Na Slainte walking route from Holycross to The Pike in Bruff during 2018 to address
+Na Sldinte walking route from Holycross to The Pike in Bruff during 2018 to address
 overgrowth onto the walkway. Following on from it the matter was discussed with the
 Kilmallock CE Scheme about including this work to their work schedule going forward. They
 have agreed to undertake these works, which will entail three to four visits during growing
@@ -228,7 +240,9 @@ also agreed that, given the cost of signage, that consideration should be given 
 of signage as an asset and the possible use of barcoding on signage for identification purposes.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 rM Arising:
@@ -260,4 +274,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:6]]
+

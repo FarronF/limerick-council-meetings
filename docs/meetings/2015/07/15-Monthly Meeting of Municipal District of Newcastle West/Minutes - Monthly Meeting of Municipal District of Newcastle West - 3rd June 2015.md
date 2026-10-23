@@ -16,14 +16,16 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%203rd%20June%202015.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Newcastle West - 3rd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%203rd%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN COMMUNITY HALL,
 DROMCOLLOGHER, CO. LIMERICK, ON WEDNESDAY, 3*°° JUNE, 2015,
+
 AT 10.00 A.M.
 
 PRESENT IN THE CHAIR: Councillor J. Scanlan, An Cathaoirleach.
@@ -69,7 +71,9 @@ Circulated, copy of draft Minutes of Special Meeting of Municipal District of Ne
 West held on 19" May, 2015.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Collins;
@@ -121,7 +125,9 @@ project in Abbeyfeale. There was general agreement however that the works on the
 estate should be completed as soon as possible.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -179,7 +185,9 @@ been complied with. He then outlined the reason for the proposed deletion of eac
 the properties.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -235,7 +243,9 @@ erected on delivery.
 Meelin from the Spout, Mountplummer, Broadford.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Asign has been ordered for the above location.
@@ -254,7 +264,7 @@ responded to by the Senior Executive Engineer, Roads.
 NOTICES OF MOTION
 7. Notice of Motion submitted by Councillor S. Browne
 
-1 will move at the next Meeting of the Municipal District of Newcastle West that the
+! will move at the next Meeting of the Municipal District of Newcastle West that the
 road in front of John Paul Terrace, Broadford, be repaired as a matter of urgency.
 
 Councillor Browne, in proposing the Motion, stated that there was a need for the road to
@@ -287,7 +297,9 @@ be deferred to a future meeting and that the possibility of capitalising this fu
 the coming years would also be considered.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Concern was expressed by the Members at the manner in which the General Municipal
@@ -310,4 +322,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

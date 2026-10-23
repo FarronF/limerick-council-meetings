@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20%28a%29%20Minutes%2012th%20February%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20%28a%29%20Minutes%2012th%20February%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -84,7 +85,9 @@ initiative and agreed to support the group in any way possible going forward. Th
 Cathaoirleach thanked Mr. Cribbin and Professor O’Donnell for their presentation and the
 
 Deputation left the Meeting at that point.
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.**
@@ -156,7 +159,9 @@ than one litter pick per year to combat the casual littering and also felt there
 litter warden present in the town in the evening time to prevent litter from shops and
 
 takeaways being dumped on the street in particular during the festive season.
----
+
+[[PAGE_END:2]]
+
 3
 
 With regard to the CCTV Members felt the CCTV in the District is not fit for purpose as live
@@ -224,7 +229,9 @@ village. This was seconded by Councillor Sheahan. The Senior Executive Engineer,
 Operations and Maintenance Services agreed to take Members queries and observations
 
 for National Roads back to Transport Infrastructure Ireland.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -288,7 +295,9 @@ works to be carried out and also included compensation to the landowner. Members
 expressed their disappointment at the long delay as well as the cost involved in
 
 completing this scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 **8.**
@@ -352,7 +361,9 @@ Circulated, report of the A/Senior Executive Engineer, Service Operations West D
 dated 6th February, 2019 giving an update in relation to the Taking-in-charge of An Curran,
 
 Pallaskenry. The report was noted by Members.
----
+
+[[PAGE_END:5]]
+
 6
 
 **14.**
@@ -418,7 +429,9 @@ to allocate the following:
 On the proposal of Councillor O’Donoghue, seconded by Councillor Keary, it was agreed
 
 to allocate €6,000 to Adare Community First Responders from 2019 GMA allocation.
----
+
+[[PAGE_END:6]]
+
 7
 
 **QUESTIONS**
@@ -482,7 +495,9 @@ A request to receive a deputation from Coolanoran Residence Committee was also
 received. It was agreed at the Meeting that the deputation would attend the April
 
 Monthly Meeting.
----
+
+[[PAGE_END:7]]
+
 8
 
 **18.**
@@ -520,4 +535,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

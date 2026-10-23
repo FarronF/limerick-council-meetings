@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2025.10.22.pdf)
+**Original file:** [Agenda - Travel & Transportation Strategic Policy Committee Meeting - 25th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2025.10.22.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **14th October, 2022**
@@ -51,7 +52,9 @@ set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -103,6 +106,10 @@ Category B Approved Driving Instructor Training syllabus to result in greater
 awareness of the illegality of parking on any footpath and/or footway, as per *Article*
 
 *36(i) of S.I. No. 182/1997 - Road Traffic (Traffic and Parking) Regulations, 1997*.
----
+
+[[PAGE_END:2]]
+
 3
----
+
+[[PAGE_END:3]]
+

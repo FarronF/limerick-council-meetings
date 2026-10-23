@@ -16,16 +16,17 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-10th-july-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 10th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-10th-july-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON
 THURSDAY, THE 10™ JULY 2025 AT 3.00PM.
 
-PRESENT IN THE CHAIR; ‘
+PRESENT IN THE CHAIR; :
 
 Councillor G. Conway, Cathaoirleach.
 
@@ -52,7 +53,7 @@ their Tailteann Cup Final against Kildare in Croke Park on Saturday 12™ July.
 1. Adoption of Minutes
 
 (i) Circulated copy of draft Minutes of Monthly Meeting of the Municipal District of
-Cappamore-Kilmallock held on 17™ June, 2025.
+Cappamore-Kilmallock held on 17" June, 2025.
 
 Proposed by: Councillor Stokes
 Seconded by: Councillor Teefy
@@ -61,11 +62,13 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii) Circulated copy of draft Minutes of Annual Meeting of the Municipal District of
-Cappamore-Kilmallock held on 17” June, 2025.
+Cappamore-Kilmallock held on 17% June, 2025.
 
 Councillor Carey referred to the Minutes of the Annual Meeting held on 17th June, 2025. He
 asked that the line at the end of the Minutes stating “that the election of Cathaoirligh was
@@ -109,7 +112,9 @@ confirmed that the favourable weather conditions in recent months, along with th
 availability of contractors, had also assisted in progressing works.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members thanked the Senior Executive Engineer for his presentation and commended
@@ -156,4 +161,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

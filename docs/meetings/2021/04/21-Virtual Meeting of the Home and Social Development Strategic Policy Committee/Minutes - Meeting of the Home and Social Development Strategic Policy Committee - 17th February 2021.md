@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/17022021_final_minutes.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 17th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/17022021_final_minutes.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -98,7 +99,9 @@ Cllr. Murphy also offered sympathies to Mr. PJ O’Grady on the recent death of 
 **Proposed:** Cllr. Sarah Kiely
 
 **Seconded:** Cllr. Eddie Ryan
----
+
+[[PAGE_END:1]]
+
 **Item 2: Matters arising from the Minutes**
 
 Cllr. Eddie Ryan thanked the Housing team and Allocations team for their help with the seven units
@@ -184,7 +187,9 @@ important not to focus solely on the two units in Clonlong as they have to be co
 the grand scale of allocations. Cllr. Kiely noted with praise, the work of the allocations team.
 
 **Item 4: Mortgage to Rent Update** **–** **Jennifer Ahern**
----
+
+[[PAGE_END:2]]
+
 Ms. Jennifer Ahern gave overview on MTR scheme and shared presentation.
 
 The main points of the presentation were:
@@ -268,7 +273,9 @@ the house. Ms. Ahern noted that the surveys are carried out by an independent pe
 appointed by either Home for Life or the AHB and they would send it to LCCC for review.
 
 Ms. Ahern asked Cllr. Benson to contact her about the constituent.
----
+
+[[PAGE_END:3]]
+
 
 
 Cllr. Tom Ruddle asked are the figures nationwide or just for Limerick. Ms. Ahern
@@ -372,7 +379,9 @@ and Southside.
 Some of the main points of the presentation were:
 
 A new introduction in the team is having technical staff as part of the Regeneration team.
----
+
+[[PAGE_END:4]]
+
 Ms. O’Connor noted that for the Social Intervention Fund 2021, there were over 200 applications
 
 submitted and deadline was extended due to request from December SPC.
@@ -452,7 +461,9 @@ Ms. Newell showed members paragraph of text that is being proposed to be brought
 allocation scheme. Ms. Newell gave brief overview of background of 2017 adopted allocation
 
 scheme and noted that we are proposing a draft revision. Ms. Newell went on to say that we are
----
+
+[[PAGE_END:5]]
+
 doing is we are proposing to input the scheme to allow us to operate the private downsizing
 
 (rightsizing) scheme.
@@ -530,7 +541,9 @@ by our April SPC we should have progressed through the Stage III approval with t
 come back with an update.
 
 **St.** **Anne’s Court Update**:
----
+
+[[PAGE_END:6]]
+
 Ms. Newell noted that we have funding for five sites in the City under the Serviced Sites Fund – one
 
 of those sites is Sonny’s Corner. We have received approval from the Dept. to progess that site for
@@ -616,7 +629,9 @@ scheme despite being eligible. Cllr. Keary voiced his frustration with the LCCC 
 the scheme but it is a fantastic scheme if administered correctly. Ms. Duke is aware of the
 
 case that Cllr. Keary was referring to and notec that the set of rules around the loan system
----
+
+[[PAGE_END:7]]
+
 are very black and white. Ms. Duke advised that we help people as much as possible but we
 
 have to adhere to the rules of the RIHL.
@@ -722,7 +737,9 @@ Newell clarified this is ongoing and there is a pilot in NCW. Ms. Newell noted t
 had recent discussions with Mr. Lowth and Ms. Phillips regarding the areas in the City. Ms.
 
 Newell also noted that we could give an update on that at the next SPC.
----
+
+[[PAGE_END:8]]
+
 b. Minister Darragh O’Brien Reply to HAP Letter – Rob Lowth
 
 Mr. Lowth noted that the letter reiterates the discussions up to that point and the situation remains
@@ -808,7 +825,9 @@ implemented in housing maintenance and housing support services. Cllr. Ryan note
 e-mails that had been sent out to members of Cappamore-Killmallock MD and TD’s in relation to a
 
 property in Galbally that was allocated and since then, was not taken up.
----
+
+[[PAGE_END:9]]
+
 *Cllr. Ryan sought support to limit reps to one rep for one person per elected representative.*
 
 **Proposed:** Cllr. Eddie Ryan
@@ -926,7 +945,9 @@ that Councillors get priority over TD’s. Cllr. Ryan agrees with Cllr. Kiely’
 he is not sure how that would work, and he went on to note that TDs are as entitled to make
 
 a rep for someone as Councillors are but only rep. Cllr. Kiely advised that anyone with a
----
+
+[[PAGE_END:10]]
+
 Limerick.ie address could be identified as Councillor and anyone with an Oireachtas.ie e-mail
 
 is identifiable as a TD and that way the Councillor reps could be weighted over a TD. Cllr.
@@ -1040,7 +1061,9 @@ officials in the Council who worked in St. Mary’s Park. Cllr. Costelloe thanke
 White and Ms. Elaine O’Connor for taking the time to go on a walk around St. Mary’s Park
 
 the previous week. Cllr. Costelloe noted the massive challenges in St. Mary’s Park and he will
----
+
+[[PAGE_END:11]]
+
 talk to LCCC officials on that. Cllr. Costelloe stated that we need to work on the problems in
 
 St. Mary’s Park.
@@ -1132,4 +1155,6 @@ END OF MEETING
 The Chair thanked everyone for logging in, for their presentations and everyone’s valuable
 
 contributions.
----
+
+[[PAGE_END:12]]
+

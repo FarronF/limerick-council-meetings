@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%202023-02-10%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%20%2010th%20February%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 10th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%202023-02-10%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%20%2010th%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Disiche Bardais an Chaisleain Nua Thiar,
-_—_—_—_ & Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh,
+Comhairle Cathrach Diiiche Bardais an Chaisleain Nua Thiar,
+__—_—_—_ & Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh,
 
-Aras William Smith O'Brien,
+Aras Wiliam Smith O'Brien,
 
 ArN Gorttul,
 — Limerick City An Caislean Nua Thiay,
@@ -33,7 +34,7 @@ ArN Gorttul,
 
 Newcastle West Municipal District,
 Umurick City and County Council,
-Aras Wilam Smith O'Brien,
+Aras Wiltam Smith O'Brien,
 Gortboy,
 
 Newcastle West
@@ -42,7 +43,7 @@ Co, Limerick
 
 Eircode: V42EH73
 
-3" February, 2023 t: +353 (0) 69 62100
+3 February, 2023 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -75,7 +76,9 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -86,7 +89,7 @@ To note proposal for the disposal of land at rear of 13 Michael Hartnett Close,
 Newcastle West, Co. Limerick.
 
 (Report Enclosed)
-Trans on and Mobility Directorate
+Trans ion and Mobility Directorate
 
 To receive Update on Maintenance of River Feale, Abbeyfeale.
 
@@ -121,11 +124,13 @@ Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting when Number 4 and 5 Lower Maiden Street, Newcastle
 West will be tenanted.
 
-! will ask at the next Meeting that remedial work be undertaken on the section of the
+| will ask at the next Meeting that remedial work be undertaken on the section of the
 road linking the River Arra and the Bridge of Tears Roundabout.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -187,7 +192,9 @@ people especially on higher ground.
 Passage, Meenoline South next to the Greenway.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -204,4 +211,6 @@ Notice of Motion submitted by Councillor M. Collins
 way system towards Assumpta Park in the interest of pedestrian and vehicular safety.
 
 
----
+
+[[PAGE_END:4]]
+

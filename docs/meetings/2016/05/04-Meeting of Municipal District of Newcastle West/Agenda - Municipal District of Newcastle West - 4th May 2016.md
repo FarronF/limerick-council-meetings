@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20May%202016.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 4th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—— Seirbhist Corparaideacha agus Bainistfocht Athrulthe,
+_—_—— Seirbhist Corparaideacha agus Bainistfocht Athrulthe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ANS ‘“ Cé na gCeannaithe,
@@ -30,7 +31,7 @@ Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL  viecaiee
+COUNCIL  iecaiee
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -49,8 +50,8 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-14]
-Tina Knox, '
+\ 2]
+Tina Knox, :
 Meetings Administrator.
 
 AGENDA
@@ -72,12 +73,14 @@ Update on road signage.
 
 Update on Cois na Feile, Abbeyfeale.
 
-& customerservices@limerick.ic
-Ceanncheathr Chorparaideach, Cé na gCeannaithe, Luimneach @ wvew.timerick.ie
+e& customerservices@limerick.ic
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach @ wwew.timerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -120,7 +123,7 @@ Notice of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that a street cleaning programme be put in place for the
 village of Mountcollins.
 
-Notices of Motion submitted by Councillor J. Scanian
+Notices of Motion submitted by Councillor J. Scanlan
 
 | will move at the next Meeting that the direction towards Monagea be incorporated on
 signage at the junction with the L 1315 at Boherbui, Newcastle West.
@@ -131,7 +134,9 @@ annual plan in place for grass cutting and general maintenance at the Glebe Esta
 Monagea.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -172,4 +177,6 @@ town of Glin.
 Main Street, Glin.
 
 
----
+
+[[PAGE_END:3]]
+

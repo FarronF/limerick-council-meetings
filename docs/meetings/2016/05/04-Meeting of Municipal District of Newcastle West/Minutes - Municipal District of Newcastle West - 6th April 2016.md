@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 6th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -43,7 +44,7 @@ recently taken over the position of Senior Executive Engineer, West Division.
 
 1. Adoption of Minutes
 
-Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West held on 2%
+Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West held on 2”
 March, 2016.
 
 Proposed by Councillor Foley;
@@ -67,14 +68,16 @@ Issue of double yellow lines at Cedarville Estate, Abbeyfeale.
 Circulated, report of Director of Services, dated 30" March, 2016, setting out details of the Draft
 Schedule of Works for the Municipal District of Newcastle West.
 
-eeeee
+eeeeese
 
 Members thanked the Roads Engineer for work that had gone into compiling the Schedule of
 Works. They welcomed the proposals in the Scheme but pointed out that Mountcollins was in
 urgent need of resurfacing. It was stated that Mountcollins was on the list for 2016-2018 which
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 would commence the following year.
@@ -118,7 +121,9 @@ and Transport Infrastructure Ireland. Public/Business Consultation will commence
 course.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. lor L.
@@ -150,7 +155,7 @@ NOTICES OF MOTION
 
 11. Notice of Motion submitted by Councillor J. Scanian
 
-| will move at the next Meeting that the Council move to take in charge the road infrastructure
+! will move at the next Meeting that the Council move to take in charge the road infrastructure
 servicing the various Business Units within the Desmond Business Park at Gortboy, Newcastle
 
 West.
@@ -170,12 +175,14 @@ Department.
 12. Notice of Motion submitted by Councillor J. Scanian
 
 1 will move at the next Meeting that speed indication signage be put in place on the Kilready
-approach towards Castlemahon school in the interest of safety.
+approach towards Castlemahon schoo! in the interest of safety.
 
 REPLY: A meeting is to be arranged on site with regard to this matter.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -229,7 +236,7 @@ REPLY: The Parks and Landscaping Department will arrange for a playground rules 
 
 erected.
 
-It was agreed to hold the May Meeting on Wednesday, 4"" May, 2016.
+It was agreed to hold the May Meeting on Wednesday, 4" May, 2016.
 
 This concluded the Meeting.
 
@@ -241,4 +248,6 @@ Cathaoirleach
 
 
 
----
+
+[[PAGE_END:4]]
+

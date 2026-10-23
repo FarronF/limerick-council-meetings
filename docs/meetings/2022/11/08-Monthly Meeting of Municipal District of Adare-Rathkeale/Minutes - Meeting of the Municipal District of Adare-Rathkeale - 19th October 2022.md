@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2019th%20October%2C%202022.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2019th%20October%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE ON**
@@ -86,7 +87,9 @@ current bus routes from Rathkeale to Limerick. He also requested a minimum stand
 of lighting, traffic calming and lay-bys be installed at bus stops in the Adare-Rathkeale
 
 District and asked the Local Authority to attend to this as a matter of urgency.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Keary proposed that the District write to Dublin Coach to request consideration
@@ -150,7 +153,9 @@ with Section 20 (3) of the Planning and Development Act 2000 (as amended) and pu
 public display for a further 4 weeks”.
 
 It was agreed Item 6 on the Agenda would be taken next.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.**
@@ -228,7 +233,9 @@ the mission of the company is to provide a quality, accessible and sustainable l
 public transport complementing where possible existing transport services allowing
 
 everyone in the community to have access to social, economic and other services. She
----
+
+[[PAGE_END:3]]
+
 4
 
 added 92% of buses are wheelchair accessible at present and this will increase to 100% at
@@ -288,7 +295,9 @@ Correspondence was noted and taken as read.
  It was agreed to hold the November District Meeting on the 8th November, 2022
 
 at 9.30 a.m. in Croom Civic Centre.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Meeting Adjournment**
@@ -310,4 +319,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

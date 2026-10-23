@@ -16,41 +16,42 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-18th-february-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-18th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-a i aT
+ARN LK ONO
 
 = — Limerick City
 & County Council
 
 12" February, 2025.
 
-Se®bhisi Corparaideacha
+Se®bhisi Corparaideacha,
 
-Comhairle Cathrach agus Contae Luimnigh
-Ceanncheathni Chorpardideach,
+Comhairle Cathvach agus Contae Luimnigh
+Ceanncheathni Chorparaideach,
 
 Cé na gCeannaithe,
 
-Lusdirruyesch
+Ludimmuyesch
 
 Corporate Services,
 
-Limerick City and County Council.
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-# +353 (0) 61 415 266
+& +353 (0) 61 415 266
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and County
 
@@ -75,15 +76,17 @@ AGENDA
 To sign the Declaration of Friendship Agreement between Limerick, Ireland, and
 Savannah, Georgia, United States of America.
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-= customerservicesélimerick.ic
-© wwe Mmerick.te
+m= customerservicesélimerick.ic
+© wewewMimerick.te
 
-YW @LimerickCouncil
+W @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

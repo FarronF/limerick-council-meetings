@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015_0.pdf)
+**Original file:** [Minutes of Meeting - Limerick City & County Council - 26th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY
 
 AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -98,7 +99,9 @@ The Meetings Administrator stated that amendments to the Minutes of Meeting of
 24th November, 2014, were required in relation to appointments to Strategic Policy
 
 Committees as follows:
----
+
+[[PAGE_END:1]]
+
 **2**
 
 **Home and Social Development**
@@ -176,7 +179,9 @@ Proposed by Councillor Gilligan;
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 **3**
 
 “That, the approval of the Council be and is hereby given to the lease of land
@@ -260,7 +265,9 @@ Proposed by Councillor Leddin;
 Seconded by Councillor Sheahan (M);
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 **4**
 
 “That, the approval of the Council be and is hereby given to the disposal of freehold
@@ -346,7 +353,9 @@ of €410.16, the disposal of be carried out by way of Deed of Conveyance of the
 Limerick City and County Council in the property, particulars of which were contained in
 
 Statutory Notice dated 15th January, 2015.”
----
+
+[[PAGE_END:4]]
+
 **5**
 
 (h)
@@ -422,7 +431,9 @@ The Director of Home and Social Development replied to query raised in relation 
 disposal of house at Corgrigg, Foynes, Co. Limerick, and, in particular, in relation to
 
 consideration/sale price for the house.
----
+
+[[PAGE_END:5]]
+
 **6**
 
 4.
@@ -504,7 +515,9 @@ of reference to the City Centre Strategy 2008 and replacement with reference to 
 Economic and Spatial Plan; (iii) Amendment to advertising policy relating to "Bus
 
 Shelters/Other Stand-Alone Structures" (page 196 in City Development Plan 2010).
----
+
+[[PAGE_END:6]]
+
 **7**
 
 A number of Members referred to the system in Planning whereby one Councillor
@@ -584,7 +597,9 @@ Limerick; (vii) Willowbrook, Abbeyfeale - be taken in charge, in accordance with
 180 of the Planning and Development Acts, 2000-2014, and Section 11 of the Roads Act,
 
 1993.”
----
+
+[[PAGE_END:7]]
+
 **8**
 
 6.
@@ -660,7 +675,9 @@ was agreed that the following Members would attend:
 **Carlingford, Co. Louth:** Councillors Leddin and Sheahan (M).
 
 **Galway:** Councillor O’Dea.
----
+
+[[PAGE_END:8]]
+
 **9**
 
 • **Reports on Conferences**
@@ -724,7 +741,9 @@ Local Property Tax Statistics as issued by Revenue Commission dated April
 Circular Fin 15/2014 provided information in relation to property valuation
 
 bands for each local authority area from the Revenue Commission.
----
+
+[[PAGE_END:9]]
+
 **10**
 
 **Bands €**
@@ -838,7 +857,9 @@ overall Council budget. The SMDW is currently being prepared for
 consideration and adoption, with or without amendment, by the Municipal
 
 District Members.
----
+
+[[PAGE_END:10]]
+
 **11**
 
 NOTICES OF MOTION
@@ -916,7 +937,9 @@ agreed to issue an invitation to the Management/Group Chief Executive Officer of
 University Hospital Limerick to address a future Meeting of Limerick City and County
 
 Council in relation to overcrowding in the Accident and Emergency Department.
----
+
+[[PAGE_END:11]]
+
 **12**
 
 14.
@@ -994,7 +1017,9 @@ Notice of Motion submitted by Cmhlr. S. Ó Ceallaigh
 ***write to each of these representatives and urge them to do so in each of their***
 
 ***authorities.***
----
+
+[[PAGE_END:12]]
+
 **13**
 
 The Motion was proposed by Councillor Ó Ceallaigh, seconded by Councillor
@@ -1064,7 +1089,9 @@ MulkearLIFE had been nominated by Councillor Secas and had won in the category o
 'Most significant contribution to Water Quality.' He stated that the award was for work
 
 done with local landowners to improve the quality of water in the Mulkear Catchment.
----
+
+[[PAGE_END:13]]
+
 **14**
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -1088,4 +1115,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:14]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-17th-february-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-17th-february-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__— Comhairle Cathrach
+_—_e Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -31,7 +32,7 @@ __— Comhairle Cathrach
 
 Seirbhisi Corparaideacha,
 
-Comhairte Cathwach agus Contae Luimnigh,
+Comhatrte Catlwach agus Contae Luimnigh,
 Ceanncheathni Chorparaideach,
 
 Cé na gCeannaithe,
@@ -44,9 +45,9 @@ Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
-EIRCODE V4 ENSO
+EIRCODE V34 ENSO
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -64,22 +65,24 @@ Os
 Ja Clune,
 ngs Administrator.
 
-1. Minutes
+1. — Minutes
 
 To adopt Minutes of Monthly Meeting of the Metropolitan District of Limerick held on 20°
 January, 2020.
 
 (Copy Enclosed).
-em customerservices@limerickic
+ee customerservicesa@limerickic
 @ weewlimerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick © 061 - §57150
+Corporate Headquarters, Merchants Quay, Limerick © 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. Disposal of Land
+2. _ Disposal of Land
 
 To note proposal for the disposal of land as follows:
 
@@ -118,7 +121,9 @@ accordance with the provisions of Section 19 of the Planning and Development Act
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -161,7 +166,9 @@ release funding for St. Gabriel’s Respite House for children with acute, life-
 which remains closed one year after completion so as it can be opened without delay.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -184,4 +191,6 @@ nurse in June 2020.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

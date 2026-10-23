@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%28a%29%20Minutes%2021st%20May%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st may 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%28a%29%20Minutes%2021st%20May%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 21ST** **MAY, 2018.**
@@ -84,7 +85,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -168,7 +171,9 @@ In response, the Munster CEO welcomed the support from the Members and looked fo
 working with them on creating a strategy and financial model that would benefit both Munster
 
 Rugby and Limerick City and County Council.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -254,7 +259,9 @@ of sections of the footpath in the core city centre area in the most efficient m
 stated that the product used was Ecoflex, which causes minimum disruption to the public, is
 
 environmentally friendly and is the most economical footpath repair.
----
+
+[[PAGE_END:3]]
+
 4
 
 **(c)**
@@ -334,7 +341,9 @@ The number of approved applicants for all categories, on the Housing Waiting Lis
 in the Metropolitan Area of Limerick for the same period is 2,640. This figure
 
 excludes HAP, RAS and Local Authority Tenant transfers.
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.**
@@ -416,7 +425,9 @@ this site.
 The Members further requested that no development progress on this site until the zoning issues
 
 are resolved.
----
+
+[[PAGE_END:5]]
+
 6
 
 **10.**
@@ -498,7 +509,9 @@ all three Notices of Motion would be forwarded to the Environmental Protection A
 submission from the Members of the Metropolitan District of Limerick.
 
 “The Irish Cement Plant in Mungret is currently before the courts due to poor environmental
----
+
+[[PAGE_END:6]]
+
 7
 
 performance and fugitive dust emissions. This prosecution was due to public pressure, and
@@ -586,7 +599,9 @@ understand or investigate the clusters of cancer and pulmonary ailments that hav
 in the vicinity of the plant over many decades. If there are significant unknown health risks with
 
 the existing process how can we allow that risk to be radically increased, by a firm just emerging
----
+
+[[PAGE_END:7]]
+
 8
 
 from the penalty box and currently facing prosecution, with an EPA that refuses to enforce and a
@@ -668,7 +683,9 @@ and greater profits for CRH.
 CRH’s application identifies 114 categories of industrial waste, used both as fuel and as
 
 “alternative raw materials” for cement to be incinerated. We are concerned that no evidence has
----
+
+[[PAGE_END:8]]
+
 9
 
 been provided to show that these compilations of “fuels” and “raw materials” have been
@@ -750,7 +767,9 @@ The remaining two properties require further pre-letting works following
 significant stabilisation works carried out in recent years. Therefore, these two
 
 buildings are not currently available for letting in the short-term.
----
+
+[[PAGE_END:9]]
+
 10
 
 On the proposal of Councillor Butler seconded by Councillor Hourigan, Standing Orders were
@@ -796,4 +815,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

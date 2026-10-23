@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-7th-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 7th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-7th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ And Resolved:
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
 Act, 2001, as amended, and the Code of Conduct, he was inviting those present to notify
----
+
+[[PAGE_END:1]]
+
 2
 
 the Cathaoirleach of any declaration of interest in any item due for discussion at the
@@ -154,7 +157,9 @@ manager from Tusla and a Director of Service from the Local Authority.
 They will hold six meetings annually beginning in 2026. One of these meetings will be a
 
 public meeting and a second meeting will be held with Elected Representatives only.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Chairperson and Vise-Chairperson will be elected for a three-year term on a
@@ -234,7 +239,9 @@ and preparations. Members agreed too that with the Junior Ryder Cup being held i
 Ballyneety that these and other representatives from all areas surrounding Adare could
 
 be invited to attend also.
----
+
+[[PAGE_END:3]]
+
 4
 
 Members agreed that a shortfall in funding for the Adare Hall refurbishment should be
@@ -300,7 +307,9 @@ Councillor Keary further proposed €2,000 which was nominated to Adare Communit
 Trust at the July 2023 Adare-Rathkeale Municipal District Meeting be reallocated to
 
 Askeaton Civic Trust. This was seconded by Councillor Teskey and agreed.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor Collins, it was agreed
@@ -366,4 +375,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

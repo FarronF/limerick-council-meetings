@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02a-draft-minutes-special-meeting-17th-september-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02a-draft-minutes-special-meeting-17th-september-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON FRIDAY, 17TH** **SEPTEMBER, 2021 at 9.30 A.M. IN THE COUNCIL CHAMBER, DOORADOYLE**
@@ -94,7 +95,9 @@ years ago and do not have deeds to their new homes.
 Members expressed concern in relation to proposals to relocate the site for the Community Centre
 
 in St. Mary’s Park and highlighted the need to have the Centre in the heart of the community.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members highlighted the need for job creation in the city’s employment blackspots. Members
@@ -164,4 +167,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

@@ -62,7 +62,7 @@ Local Property Tax.pdf - [Original file](https://www.limerick.ie/sites/default/f
 
 Strategic Fund for Culture and Arts Scheme 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/strategic-fund-for-culture-and-arts-scheme-2025.pdf) - Text not extracted
 
-Reports on Conference_ Seminar_ Meeting_ Event.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/conferences-report.pdf) - Text not extracted
+Reports on Conference/ Seminar/ Meeting/ Event.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/conferences-report.pdf) - Text not extracted
 
 Correspondence - Full Meeting of Limerick City and County Council - 14th July 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/correspondence.pdf) - Text not extracted
 

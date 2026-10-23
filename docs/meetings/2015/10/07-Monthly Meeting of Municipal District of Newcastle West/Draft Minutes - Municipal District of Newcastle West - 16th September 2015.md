@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
+**Original file:** [Draft Minutes - Municipal District of Newcastle West - 16th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -70,7 +71,9 @@ June, 2015.
 Proposed by Councillor Collins, seconded by Councillor Galvin, and resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -103,7 +106,7 @@ to allocate €10,000 from the General Municipal Allocation to fund the study.
 QUESTIONS
 4. Question submitted by Councillor S. Browne
 
-! will ask at the next Meeting if any progress has been made in providing bus and
+| will ask at the next Meeting if any progress has been made in providing bus and
 coach parking for visitors to Desmond Castle, Newcastle West.
 
 REPLY: The bus bay on the N21 for Desmond Castle is to be resurfaced by the
@@ -127,7 +130,9 @@ Discussion took place regarding the need for a bin at this location. It was sugg
 the bin currently located at the Vocational School, if not being utilised, be moved to
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -136,7 +141,7 @@ Church Street, Executive Engineer Roads agreed to follow up on the matter.
 
 6. Question submitted by Councillor J. Scanlan
 
-! will ask at the next Meeting (a) if advance notice to commence was served on
+/ will ask at the next Meeting (a) if advance notice to commence was served on
 Limerick City and County Council in respect of a recently commenced addition to
 the Glebe Housing Development at Monagea and, if so, the actual date served; (b)
 has a bond been put in place to cover finishings; (c) have the full development
@@ -184,7 +189,9 @@ It was stated that fencing off the site was not a safe option.
 replaced Ronaldson’s Bridge on the Shangarry Ballintubrid borders was taken.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -216,7 +223,7 @@ It was requested that all rubble inside the wall be removed in the interest of s
 ! will ask at the next Meeting for an update on the following National Roads
 Authority projects:
 
-(a) __Dalton’s Cross towards the filling stations, realignment; stacking lane for Town
+(a) Dalton’s Cross towards the filling stations, realignment; stacking lane for Town
 Park; footpath out to junction.
 
 (b) | Update on new application for Ward's Cross after a number of serious accidents.
@@ -243,7 +250,9 @@ facility would be available at the viewing point nearby to facilitate
 vehicles wishing to access Breens.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It was agreed to invite a staff member from the Road Design Office to the next Meeting.
@@ -273,7 +282,7 @@ NOTICES OF MOTION
 
 9. Notice of Motion submitted by Councillor S. Browne
 
-| will move at the next Meeting of the Municipal District of Newcastle West that the
+! will move at the next Meeting of the Municipal District of Newcastle West that the
 wall of the Fire Station in Abbeyfeale be repaired immediately.
 
 REPLY: The Fire Service is actively seeking quotations from suitably qualified
@@ -292,7 +301,9 @@ community for example the footpath, sewer, derelict houses and any outstanding
 planning issues that may require enforcement.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -325,7 +336,7 @@ e With regard to the 12 remaining houses, 10 were in ownership of Developer and
 e
 At the request of the Members, the Senior Executive Officer agreed to circulate possible
 dates when a Meeting with the Members for local residents could be held. Relevant
-Officials would also be invited to attend.
+officials would also be invited to attend.
 
 Not all Members supported the Motion as worded. A number of amendments were
 proposed and following a lengthy discussion Councillor Browne agreed to amend the
@@ -351,7 +362,9 @@ condition no 3 required the developer to pay a special contribution to the
 Council in respect of same. This money has been paid and the Council is
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -395,7 +408,7 @@ The Motion was seconded by Councillor Foley.
 
 12. Notice of Motion submitted by Councillor J. Scanlan
 
-! will move at the next Meeting of the Municipal District of Newcastle West that
+| will move at the next Meeting of the Municipal District of Newcastle West that
 funding for Christmas lighting be provided on a pro rata basis based on the
 overall population of City and County.
 
@@ -408,7 +421,9 @@ as part of the formulation of the Budget for 2016.
 This proposal was seconded by Councillor Collins and agreed.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -427,4 +442,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+

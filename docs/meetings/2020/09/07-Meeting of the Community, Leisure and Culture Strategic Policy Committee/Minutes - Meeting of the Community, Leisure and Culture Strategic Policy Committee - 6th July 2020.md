@@ -16,31 +16,42 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-6th-of-july-2020.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 6th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-6th-of-july-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _ Community, Leisure & Culture Strategic Policy Committee Meeting 06/07/2020 __
 
 A meeting of the Community, Leisure & Culture Strategic Policy Committee was held in the
-Council Chamber, Dooradoyle, Limerick on Monday, 6" July, 2020 at 3pm
+Council Chamber, Dooradoyle, Limerick on Monday, 6"" July, 2020 at 3pm
 
 The following were in attendance: -
 
-IN THE CHAIR: Clir. Kieran O’ Hanton
-PRESENT: Clir. Olivia O’ Sullivan
+IN THE CHAIR:
+
+PRESENT:
+
+IN ATTENDANCE:
+
+APOLOGIES:
+
+Clir. Kieran O’ Hanton
+
+Cllr. Olivia O’ Sullivan
 Cllr. Sarah Kiely
+
 Clir. Tom Ruddle
 
 Cllr. Gerald Mitchell
-Cllr. Elisa O’ Donovan
+Clir. Elisa O’ Donovan
 Cllr. Michael Donegan
 Clir. Dan McSweeney
 Cllr. Michael Collins
 Cllr. Frankie Daly
 
-Clir. Conor Sheehan
+Cllr. Conor Sheehan
 Cllr. Jerry O' Dea
 
 Cllr. Azad Talukder
@@ -54,12 +65,15 @@ Mr Oliver Creighton
 Ms Louise Donlon
 Mr Padraig Lohan
 
-IN ATTENDANCE: Mr Gordon Daly, Director of Services
+Mr Gordon Daly, Director of Services
+
 Ms Anne Rizzo, Administrative Officer
+
 Ms Kathy O’ Grady, Staff Officer
+
 Ms Una McCarthy, Director/Curator, Limerick City Gallery of Art
 
-APOLOGIES: Mr Mike Ryan
+Mr Mike Ryan
 Ms Donnah Vuma
 
 The Chair Clir K O’ Hanlon opened the meeting by welcoming the newly appointed sectoral
@@ -71,7 +85,9 @@ On the proposal of Clir J O’ Dea, seconded by Cllr D McSweeney the minutes of 
 committee meeting held on the 3" February, 2020 were unanimously adopted.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 2: Matter Arising
@@ -121,7 +137,9 @@ integrated ambitions, which focus on:
 * Investment for the Future
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 These ambitions were developed from consultation with stakeholders and emphasise
@@ -171,7 +189,9 @@ G Daly also highlighted that Limerick City & County Councils Marketing Departmen
 working closely with Failte Ireland on a campaign to advertise Limerick as a perfect staycation,
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr K O' Hanlon and the members thanked all those who made the presentations under each
@@ -180,7 +200,7 @@ at the meeting.
 
 Item 6: Date of next Meeting
 
-The next meeting of the Community, Leisure and Culture SPC will be held on Monday 7s
+The next meeting of the Community, Leisure and Culture SPC will be held on Monday 7
 September, at 3pm. Location to be decided.
 
 Cllr K O’ Hanlon thanked the members for their input into the meeting and as there were no
@@ -189,8 +209,10 @@ other matters for discussion, the meeting was brought to a close.
 Minutes Proposed By:
 Minutes Seconded By:
 
-Minutes Signed By Chair:”
+Minutes Signed By Chair:
 
 
 
----
+
+[[PAGE_END:4]]
+

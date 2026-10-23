@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Joint%20Policing%20Committee%20Meeting%20-%203rd%20March%202023.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 3rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Joint%20Policing%20Committee%20Meeting%20-%203rd%20March%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+ei Comhairle Cathrach
 ; & Contae Luimnigh
 ee — Limerick City
 : merick City
@@ -34,7 +35,7 @@ A Chara,
 
 Seirbhisi Corparéideacha,
 
-Comhairte Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathru Chorpardideach,
 
 Cé na gCearvwithe,
@@ -60,12 +61,12 @@ Details of the Agenda and attachments to be discussed at the meeting are set out
 
 Is mise, le meas,
 
-Calne
+Cate
 Corporate Services, Governance & Customer Services
 
 AGENDA
 
-1. To confirm Minutes of Joint Policing Committee Meeting held on 16” December, 2022
+1. To confirm Minutes of Joint Policing Committee Meeting held on 16" December, 2022
 
 (copy attached).
 
@@ -91,7 +92,9 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Question submitted by Maurice Quinlivan, T.D. :
@@ -108,7 +111,7 @@ laneways of Limerick city”.
 12. Question submitted by Councillor Conor Sheehan :
 
 “| will ask at the next meeting of the Joint Policing Committee for the number of scrambler bikes
-seized in the Metropolitan District of Limerick since the beginning of 2023".
+seized in the Metropolitan District of Limerick since the beginning of 2023”.
 
 13. Question submitted by Councillor Conor Sheehan :
 
@@ -117,13 +120,13 @@ anti social behaviour outside St. John’s Cathedral’.
 
 14. Question submitted by Councillor Tom Collopy :
 
-“will ask at the next meeting of the Joint Policing Committee for the number of reports to the local
+“1 will ask at the next meeting of the Joint Policing Committee for the number of reports to the local
 Divisional Protective Services Unit following on from the introduction of The Harrassment, Harmful
 Communications and Related Offences Act (Coco’s Law)”.
 
 15. Notice of Motion submitted by Councillor Conor Sheehan :
 
-“| will move at the next Meeting of the Joint Policing Committee that an Garda Siochdna put in
+“t will move at the next Meeting of the Joint Policing Committee that an Garda Siochdna put in
 place a targeted operation against the misuse of scrambler bikes on the Canal Bank from Lock Quay
 to the University of Limerick and on the Shannon Fields”.
 
@@ -142,4 +145,6 @@ person or persons entering private lands for any reason, including recreational 
 the prior knowledge and consent of the landowner”.
 
 
----
+
+[[PAGE_END:2]]
+

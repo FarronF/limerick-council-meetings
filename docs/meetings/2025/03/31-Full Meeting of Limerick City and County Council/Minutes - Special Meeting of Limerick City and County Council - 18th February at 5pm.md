@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-18th-february-at-5pm.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 18th February at 5pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-18th-february-at-5pm.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF ONLINE SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ON TUESDAY, 18TH FEBRUARY, 2025, AT 5.00 P.M. TO
@@ -86,7 +87,9 @@ Limerick and Savannah, Georgia, United States of America. He extended a warm wel
 to the Mayor of Savannah, Mr. Van R. Johnson II and the delegation from Savannah that
 
 travelled to Limerick for this momentous occasion.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Príomh Chomhairleoir outlined the history that is shared between Limerick and
@@ -158,7 +161,9 @@ Limerick and the City of Savannah, particularly the Foynes Port, the Port of Sav
 the colleges and schools, highlighting how they hoped businesses and connections would
 
 grow and benefit from this partnership.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 The Members also referred to the strong Irish connections with Savannah and highlighted
@@ -228,7 +233,9 @@ develop and cultivate relationships in order to promote and broaden their econom
 partnerships and cultural exchanges. Both will work together to examine issues of
 
 common interest and to look for areas of future cooperation.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 Now, therefore, be it proclaimed that Limerick, Ireland, and Savannah, Georgia,
@@ -254,4 +261,6 @@ Príomh Chomhairleoir
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

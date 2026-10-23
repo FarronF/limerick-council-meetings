@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/agenda-of-spc-mtg-11-april-22.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 11th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/agenda-of-spc-mtg-11-april-22.pdf)
 
----
+[[FILE_START]]
+
 **25th** **March 2022**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -68,4 +69,6 @@ Yours sincerely
 ***Pat Fitzgerald SEO,***
 
 ***Economic Development & Enterprise Directorate***
----
+
+[[PAGE_END:1]]
+

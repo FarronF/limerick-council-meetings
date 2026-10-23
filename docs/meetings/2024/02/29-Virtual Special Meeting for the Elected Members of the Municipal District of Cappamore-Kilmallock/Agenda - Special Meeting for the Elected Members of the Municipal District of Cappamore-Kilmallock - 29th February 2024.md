@@ -16,17 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-for-the-elected-members-of-the-municipal-district-of-cappamore-kilmallock-29th-february-2024.pdf)
+**Original file:** [Agenda - Special Meeting for the Elected Members of the Municipal District of Cappamore-Kilmallock - 29th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-for-the-elected-members-of-the-municipal-district-of-cappamore-kilmallock-29th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach —— a ng vi
-: ; ; fg an Cheantaty, Aras Mhainchin Seoighe,
-z ——_ & Contae Luimnigh Cill Mochealég,
-: : , Co, Usimnagh
-- Limerick City
-= & County Council Limerick City and County Council.
+Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+& Contae Luimnigh Otfig an Creantaty, Aras Mhainchin Seoighe,
+
+1 hog,
+Ns fr Cill Mochealég,
+
+P P . Co, Usimne
+=> Limerick City Arne
+& County Council Limerick City and County Council.
 Aras Mainchin Seoighe Area Office
 Kilmallock,
 Co. Limerick
@@ -48,7 +52,7 @@ be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-CWOLA OB 2_
+fWOLA OB 2_
 
 Dara O’Brien,
 Meetings Administrator.
@@ -58,9 +62,13 @@ AGENDA
 Special Meeting of the Cappamore Kilmallock Municipal District to approve the General
 Municipal Allocation 2024.
 
-wcmonameneieete
+“cmonamyeueneste
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Arps Mhainchin Seoighe www.limerick.te
-Limerick City and County Council, Aras Mainchin Seoighe Area Office sch
+Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncit
+
+(063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

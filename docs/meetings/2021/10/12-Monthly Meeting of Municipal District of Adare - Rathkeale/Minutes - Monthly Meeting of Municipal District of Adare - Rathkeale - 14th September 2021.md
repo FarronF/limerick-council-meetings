@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-minutes-of-monthly-meeting-14th-september-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 14th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-minutes-of-monthly-meeting-14th-september-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE COUNCIL CHAMBER, DOORADOYLE, CO. LIMERICK ON**
@@ -88,7 +89,9 @@ and platform, install benches with bike racks in the renovated car park and also
 set down area for coaches together with upgrade of the existing car park to include new
 
 paving, public lighting and a pedestrian crossing adjacent to the Rathkeale House Hotel.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members welcomed the proposed plans for the Greenway and queried if funding was
@@ -166,7 +169,9 @@ Proposed by Councillor Keary;
 Seconded by Councillor O’Donoghue;
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
@@ -238,7 +243,9 @@ On the proposal of Councillor O’Brien, seconded by Councillor O’Donoghue it 
 to allocate the following:
 
  €2,000 for Pallaskenry Scouts Troup.
----
+
+[[PAGE_END:3]]
+
 4
 
  €10,000 for Kilcornan Church car park.
@@ -308,7 +315,9 @@ September, 2021 setting out proposals to dispose of land at Croagh Commons,
 Croagh, Co. Limerick and the intention to bring to Full Council for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:4]]
+
 5
 
 **6.**
@@ -374,7 +383,9 @@ is due to be installed at this location shortly.
  Councillor Teskey requested contact be made with Transport Infrastructure
 
 Ireland in relation to funding delay for the traffic calming scheme at Coolanoran.
----
+
+[[PAGE_END:5]]
+
 6
 
 The Senior Executive Engineer, Road, Traffic & Cleansing agreed to follow up on
@@ -444,7 +455,9 @@ In proposing the motion Councillor O’Donoghue raised the issue of water being 
 off at night in Croom having huge implications on families and business owners in the
 
 area. Fedamore also has a boil water notice for a number of years now and Banogue
----
+
+[[PAGE_END:6]]
+
 7
 
 has an issue with clorine levels in the water. He requested Irish Water attend a Meeting
@@ -518,7 +531,9 @@ be adopted by Q2 2022.
 housing estates would include speed ramps as part of the planning process. This
 
 was seconded by Councillor Keary and agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
  Councillor Teskey also requested speed ramps be installed in all Council housing
@@ -556,4 +571,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

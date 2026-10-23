@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-municipal-district-of-newcastle-west-3rd-june-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 3rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-municipal-district-of-newcastle-west-3rd-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 — Comhairle Cathrach
 & Contae Luimnigh
-AN LK ™
+a
 
 ———> Limerick City
 & County Council
@@ -40,7 +41,7 @@ Gortbui,
 
 An Caisledn Nua Thiar,
 
-Co. Luimnigh,
+Co. Luimnigh.
 
 Newcastle West Municipal District,
 Limerick City and County Council
@@ -52,7 +53,8 @@ Newcastle West,
 Co. Limerick
 
 Eircode: V42EH73
-t: +353 (0) 69 62100
+
+& +353 (0) 69 62100
 
 | District of Newcastle West
 
@@ -88,7 +90,9 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -136,7 +140,9 @@ grass at the following locations (a) Ballynoe Cross (b) Castlemahon/Ardrine
 Cross. They are badly overgrown and it is difficult to see.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -183,4 +189,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda_0.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 18th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -76,10 +77,12 @@ O’Malley Park, Southill, being transferred to Limerick City and County Council
 @ customerservicesalimerick.ie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © www limerick.ie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -102,7 +105,7 @@ Carriglea, Corbally.
 
 (Report Enclosed).
 
-Part 8 Procedure — Catherine Str Roches St Junction Improvement Works
+Part 8 Procedure — Catherine Str Roches St: Junction Improvement Works
 
 To consider the Chief Executive’s Report pursuant to Section 179 3(a) of the Planning and
 Development Act 2000-2015, and Part 8 of the Planning and Development Regulations,
@@ -111,12 +114,11 @@ Development Act 2000-2015, and Part 8 of the Planning and Development Regulation
 (Reports Enclosed).
 
 Social Development Directorate
-Part 8 Procedure — 45a and 46a Cliona Park, Moyross and Cloncannane Road, Ballynanty
+Part 8 Procedure ~ 45a and 46a Cliona Park, Moyross and Cloncannane Road, Ballynanty
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
 Development Act 2000-2015, and Part 8 of the Planning and Development Regulations,
 2001-2015, in relation to 45a and 46a Cliona Park, Moyross and Cloncannane Road,
-
 Ballynanty.
 
 (Report Enclosed).
@@ -137,7 +139,9 @@ Fire Services Act, 1981 and 2003.
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6.
@@ -176,7 +180,7 @@ events this August, or next Summer, such as hosted in 2014?
 
 Question submitted by Councillor Paul Keller
 
-I will ask at the next Meeting who is responsible for monitoring health and safety
+1 will ask at the next Meeting who is responsible for monitoring health and safety
 precautions in hotels, bars and other publically accessible buildings, and how often are they
 
 inspected?
@@ -194,7 +198,9 @@ to attend a future Metropolitan Meeting and present their thoughts on what Limer
 do to enhance our tourism offerings and increase visitor numbers to the City.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -251,7 +257,9 @@ donations to be screened on the basis of risky sexual behaviour rather than the 
 prejudiced system.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -270,4 +278,6 @@ Correspondence.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

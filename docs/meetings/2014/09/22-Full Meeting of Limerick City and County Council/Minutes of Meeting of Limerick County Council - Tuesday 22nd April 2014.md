@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/3%20minutes_of_meeting_of_limerick_county_council_-_tuesday_22nd_april_2014.pdf)
+**Original file:** [Minutes of Meeting of Limerick County Council - Tuesday 22nd April 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/3%20minutes_of_meeting_of_limerick_county_council_-_tuesday_22nd_april_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK COUNTY
@@ -61,13 +62,15 @@ Authority continuing this important role.
 Circulated, copy of draft Minutes of Ordinary Meeting of the Council held on 24” March, 2014.
 
 Molta ag Councillor Galvin;
-Cuidit 6n Councillor Collins (M);
+Cuiditd 6n Councillor Collins (M);
 Agus an Cinneadh:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed."
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Keary stated that he was disappointed with the reply that he had received at
@@ -80,18 +83,18 @@ The Director of Economic Development & Planning confirmed that no estates had be
 taken-in-charge since the last Meeting but that it was the Council's intention to expedite work in
 this area.
 
-2 OD i of Land
+2 OD | of Land
 
 (a) Circulated, copy of Statutory Notice dated 28" March, 2014, concerning disposal of land
 at Killonan, Ballysimon,
 
 Molta ag Councillor Galvin;
-Cuidit 6n Councillor Collins (M);
+Cuidit on Councillor Collins (M);
 Agus an Cinneadh:
 
 “That, the approval of the Council be and is hereby given to the disposal of land
 comprising of 2 perches at Killonan, Ballysimon, to Conor Guinan, Killonan, Ballysimon, for the
-sum of €1.00 (One Euro), particulars of which were contained in Statutory Notice dated 28"
+sum of €1.00 (One Euro), particulars of which were contained in Statutory Notice dated 28”
 
 March, 2014."
 
@@ -104,7 +107,7 @@ Notice dated 8" December, 2011. It would therefore be necessary for the Council 
 previous resolution.
 
 Molta ag Councillor Galvin;
-Cuidit 6n Councillor Collins (M);
+Cuidid 6n Councillor Collins (M);
 Agus an Cinneadh:
 
 “That, the approval of the Council be and is hereby given to the disposal of land
@@ -119,10 +122,12 @@ which was passed at Council Meeting held on 20” December, 2011.”
 Gardenhill, Co. Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-It was noted that the Council had approved a resolution at its Meeting held on 27” May,
+It was noted that the Council had approved a resolution at its Meeting held on 27" May,
 2013, disposing of this property to Mr. Peter Kearney in accordance with Statutory Notice
 dated 8” May, 2013. It would therefore be necessary for the Council to rescind the previous
 resolution.
@@ -148,14 +153,14 @@ Agus an Cinneadh:
 Carrigkerry (0.025 hectare site) to Carrigkerry/Old Mill Development Association Limited for the
 sum of €10 per year on condition that the area is used as a playground per planning permission
 and by means of a 10 year lease, renewable at 5 year intervals thereafter, particulars of which
-were contained in Statutory Notice dated 7” April, 2014.”
+were contained in Statutory Notice dated 7" April, 2014.”
 
 3. Corporate Services
 Local Elections
 
 (ij) Polling Cards
 
-Circulated, County Secretary's report dated 7” April, 2014, in relation to the issue of
+Circulated, County Secretary's report dated 7" April, 2014, in relation to the issue of
 Polling Information Cards for the Local Elections 2014.
 
 The report stated that Regulations for taking the combined polls on 23” May provided
@@ -169,12 +174,14 @@ unanimously agreed to issue Polling Cards to electors who were entitled to vote 
 Elections only, i.e. those with the letter ‘L’ opposite their names on the register of electors.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii) Spending Limits for Local Election Candidates in May Election
 
-Circulated, County Secretary's report dated 7" April, 2014, in relation to the Disclosure of
+Circulated, County Secretary's report dated 7® April, 2014, in relation to the Disclosure of
 Donations and Expenditure, Spending Limits and Political Donation Accounts at the Local
 Elections on 23 May, 2014.
 
@@ -192,7 +199,7 @@ election posters. He made reference to documentation received from the Departmen
 Environment, Community and Local Government regarding posters and advertisements in
 relation to the forthcoming European and Local Elections which was circulated with the Agenda.
 
-4. Finance
+4, Finance
 Small and Medium Enterprise Support Scheme 2014
 
 (a) The Head of Finance introduced this item by informing the Members that it was proposed
@@ -204,20 +211,22 @@ to a number of terms and conditions. He stated that the support payments, aimed
 specifically at small and medium-sized enterprises, were between the range of €50 and
 €300 depending on the annual cost of commercial rates for the rate paying applicant. The
 Head of Finance stated that a condition of the scheme was for the commercial rates
-(including arrears) relating to the relevant account to be paid in full by 31" July, 2014, and
+(including arrears) relating to the relevant account to be paid in full by 31* July, 2014, and
 that this date was applicable for any payment method other than Direct Debit. For
 applicants paying by Direct Debit, it was noted that the commercial rates account was
 required to be paid in full by December 2014 in order for them to qualify under the
 scheme.
 
 An overview of the presentation consisted of the following:
-e¢ Target Group.
+¢ Target Group.
 
 ¢ Support Scheme Summary.
-e Support Payment Bands.
+e¢ Support Payment Bands.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Accounts Profile City & County.
@@ -266,7 +275,9 @@ Councillor Harty thanked her fellow Members for their support and approval for t
 Scheme.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Economic Development and Planning
@@ -281,7 +292,7 @@ and 6(b) together.
 (a) P sed Variation No. 2 to Limerick County De t Plan
 2016
 
-Circulated, report of the Director of Economic Development and Planning dated 28"
+Circulated, report of the Director of Economic Development and Planning dated 28”
 March, 2014, enclosing copy of Manager's Report dated 28” March, 2014, on the proposed
 Variation No. 2 to Limerick County Development Plan 2010-2016 in regard to Neighbourhood
 Centres/Discount Food Store Provision.
@@ -313,7 +324,9 @@ Councillor Hannon, in proposing the Variation to the Limerick County Development
 following into the Minutes:
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rationale for ing Variations
@@ -368,7 +381,9 @@ Replace (1* bullet point at Section 10.6.4.3)
 in area.”
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 With:
@@ -402,7 +417,7 @@ b. Within Neighbourhood Centres the gross convenience shopping floor area shall 
 no new comparison floor space will be permitted”.
 
 With:
-“It is an objective of Limerick County Council in relation to neighbourhood and village centres, fo:
+“It is an objective of Limerick County Council in relation to neighbourhood and village centres, to:
 
 a. Support the provision of modern convenience goods stores, of an appropriate scale, and associated retail and
 service units to enable these centres to meet the day to day needs of their local catchment population.
@@ -426,7 +441,9 @@ Reasons and Considerations
 The definition of neighbourhood centres in the Retail Planning Guidelines (2012) is as follows:
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “Comprise a small group of shops, typically comprising newsagent, small supermarket/ general grocery store, sub-
@@ -480,7 +497,7 @@ convenience stores in neighbourhood centres.
 
 It is well established that small supermarkets / discount foodstores in the region of 1,000 sq.m net floorspace are
 appropriate in neighbourhood centres in large urban areas in Ireland. The proposed variation will bring the policy of
-the County Development Pian and the Southern Environs LAP in to line with the policy prevailing in other similar
+the County Development Plan and the Southern Environs LAP in to line with the policy prevailing in other similar
 
 urban areas.
 It is noted that the Regional Planning Guidelines for the Mid West states at Page 66 that:
@@ -493,7 +510,9 @@ compliance with the Regional Planning Guidelines in this respect. The variation 
 additional zoning which would have the potential to impact upon the city centre.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -506,8 +525,6 @@ the daily needs of a very local area. Their function is extremely important loca
 shopping needs (i.e. those products which need replacing between main food shopping trips) and to provide local
 services, including the provision of takeaway food. From a policy perspective they are also important as they
 constitute a sustainable provision of retailing, removing the need to travel and also thereby reducing levels of
-
-congestion”.
 
 The development of a small supermarket / discount foodstore would overcome the current need for residents to
 travel out of the Souther Environs area to avail of a good choice of small supermarket / discount foodstore offer
@@ -559,15 +576,17 @@ The Retail Planning Strategy for the Mid West Region 2010 — 2016 at Paragraph 
 city centre and states that:
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “Those centres in the Metropolitan Area meeting the day to day needs of a local catchment population through the
 provision of main food shopping outlets should be supported and reinvigorated where necessary. However, their
-role should not be allowed fo expand to encompass a materially broader range of comparison goods as this could
+role should not be allowed to expand to encompass a materially broader range of comparison goods as this could
 lead to further competition with the City Centre. There should be no new permissions granted for additional out of
 centre retailing, including the extension of any existing store or retail park, and the broadening of the range of goods
-sold to encompass any categories other than bulky goods. Similarly these centres and retail parks should not be
+sold to encompass any categories other than bulky goods, Similarly these centres and retail parks should not be
 expanded beyond a scale appropriate for a suburban shopping location in Limerick. Consequently, there should not
 be any expansion of these shopping facilities in order to allow the City Centre to foster investment and improve its
 trading position”.
@@ -590,7 +609,7 @@ of the overall floorspace representing not more than 20% of the net floor area o
 Appropriate Assessment
 The Planning Authority has determined, using the screening criteria set out in Schedule 2A Planning and
 
-Development Regulations 2001-2004, the DOEHLG SEA Guidelines and Annex 2 of Directive 2001/42/EC, that a
+Development Regulations 2001-2004, the DoEHLG SEA Guidelines and Annex 2 of Directive 2001/42/EC, that a
 Strategic Environmental Assessment is not required for the proposed variation.
 
 An Appropriate Assessment Screening was undertaken of the proposed variation of the Limerick County
@@ -604,7 +623,7 @@ the Amendment to the Southern Environs Local Area Plan 2011-2017, as proposed by
 Councillor Hannon, was seconded by Councillor Butler.
 
 Molta ag Councillor Hannon;
-Cuidit é6n Councillor Butler;
+Cuidit 6n Councillor Butler;
 Agus an Cinneadh:
 
 “That, the Proposed Variation No. 2 to Limerick County Development Plan 2010-2016, in
@@ -620,13 +639,15 @@ Agus an Cinneadh:
 and Development Acts 2000-2013."
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) Proposed Material Contravention to the Limerick County Development
 Plan 2010-2016
 
-Circulated, report of the Director of Economic Development and Planning dated 17” April,
+Circulated, report of the Director of Economic Development and Planning dated 17" April,
 2014, attaching Planning Report which had been prepared pursuant to Section 34(6) of the
 Planning and Development Acts, 2000-2013.
 
@@ -656,17 +677,19 @@ Scanlan, Sheahan (J), Sheahan (K), Sheahan (M), Teefy, Wade and Walsh. (26)
 There were no abstentions.
 
 Molta ag Councillor Collins (M);
-Cuidiu 6n Councillor Galvin;
+Cuidit 6n Councillor Galvin;
 Agus an Cinneadh:
 
 “That, a decision to grant permission be made which would materially contravene the
 Limerick County Development Plan 2010-2016 for the construction of a two-storey post primary
 school, to be used for educational purposes, which would accommodate circa 1,000 no.
-students at Skagh, Croom, in accordance with Section 34 (6)(a)(iv) of the Planning and
+students at Skagh, Croom, in accordance with Section 34 (6)a)(iv) of the Planning and
 Development Acts, 2000-2013.”
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) Newcastle Wes | Area Plan 2014-2020
@@ -682,12 +705,12 @@ Wednesday, 14” May, 2014.
 
 (e) Pro Abbe le Local Plan 2014-2020
 
-Circulated, report of the Director of Economic ; Development and Planning dated 4” April,
+Circulated, report of the Director of Economic > Development and Planning dated 4" April,
 2014, enclosing copy of Manager's Report dated 4” April, 2014, on the proposed Abbeyfeale
 Local Area Plan 2014-2020.
 
 The report stated that the proposed Local Area Plan was placed on public display from
-25" January, 2014, to 10™ March, 2014, inclusive. During the statutory display period, a public
+25” January, 2014, to 10" March, 2014, inclusive. During the statutory display period, a public
 information meeting was held on 4" February. A total of 27 written submissions were received
 within the statutory timeframe and a report consisting of a summary of the submissions
 received, together with the recommendations of the Manager, was attached as required by
@@ -706,7 +729,7 @@ Council policy. The land was previously zoned ‘Mixed Use’ in the 2008 Local 
 The Amendment was seconded by Councillor Foley:
 
 Molta ag Councillor Galvin;
-Cuidité 6n Councillor Foley;
+Cuidi&é 6n Councillor Foley;
 Agus an Cinneadh:
 
 “That, the proposed material alterations to the proposed Abbeyfeale Local Area Plan
@@ -718,18 +741,20 @@ zoned as per the Submission, i.e. 3 Serviced Sites, and the remainder zoned for 
 Employment.”
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ve Community, Leisure and Emergency Services
+vs Community, Leisure and Emergency Services
 (a) Contribution Scheme 2014
 
-Circulated, report of the Director of Services, Community Department, dated 11" April,
+Circulated, report of the Director of Services, Community Department, dated 11” April,
 2014, setting out recommendations for allocations to various Bodies under the 2014
 Contribution Scheme.
 
 Molta ag Councillor Galvin;
-Cuidit én Councillor Collins (M);
+Cuidit é6n Councillor Collins (M);
 Agus an Cinneadh:
 
 “That, the approval of the Council be and is hereby given to the recommended
@@ -746,7 +771,7 @@ issue of the Agenda in relation to the allocation of Grants in accordance with t
 and he proposed to deal with the item at this point in the Meeting.
 
 Circulated, report of the A/Director of Community, Leisure and Emergency Services
-dated 14" April, 2014, setting out recommended grants in accordance with the Arts Act, 2003.
+dated 14” April, 2014, setting out recommended grants in accordance with the Arts Act, 2003.
 
 Molta ag Councillor Galvin;
 Cuidité 6n Councillor Collins (M);
@@ -769,7 +794,9 @@ highlighted the broad range of activities undertaken by the Litter Management Te
 course of 2013.
 
 
----
+
+[[PAGE_END:14]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A short discussion took place in relation to the level of fines, problem of dog fouling, role
@@ -782,7 +809,7 @@ Members.
 9. Conferences:
 
 Details of the following Conferences were circulated electronically to the Members: (a)
-Conference ‘Planning is More than Policy’ held in Portlaoise, Co. Laois, from 4" to 6" April,
+Conference ‘Planning is More than Policy’ held in Portlaoise, Co. Laois, from 4" to 6” April,
 2014; (b) Nuclear Free Local Authorities All Ireland Forum Spring 2014 Meeting held in Newry
 on 11" April, 2014; (c) Seminar — Environmental and Cost Effective Solutions to Waste Water
 Treatment held in Waterford from 11” to 13” April, 2014; (d) Seminar — Crime and Its Impact
@@ -796,8 +823,8 @@ Environment and the Community, to be held in Portlaoise, Co. Laois, from 25” t
 Rosscarbery, Co. Cork, from 25” to 27" April, 2014; (j) Seminar — Getting Your Vote Out, to be
 held in Letterkenny, Co. Donegal, from 2” to 4” May, 2014; (k) Seminar — Retirement
 Entitlements and Taxation Benefits for Councillors, to be held in Carlingford, Co. Louth, from
-2” to 4" May, 2014; (I) Seminar — Reformed Local Government and the Councillor, to be held
-in Bunclody, Co. Wexford, on 9"10" May, 2014; (m) Seminar - Waste Management
+2 to 4" May, 2014; (I) Seminar — Reformed Local Government and the Councillor, to be held
+in Bunclody, Co. Wexford, on 9"/10" May, 2014; (m) Seminar - Waste Management
 Legislation — Responsibilities of Local Authorities in Disposing and Recycling Electrical and
 Electronic Equipment, to be held in Rosscarbery, Co. Cork, from 9" to 11" May, 2014.
 
@@ -808,8 +835,8 @@ Waterford: Councillor Enright.
 
 Killarney: Councillor Enright.
 
-Letterkenny, Co. Donegal (18""/20" April, 2014): Councillors Sheahan (K) and Wade.
-Letterkenny, Co. Donegal (25""-27"" April) (Originally scheduled for Portlaoise from 25" to 27”
+Letterkenny, Co. Donegal (18"/20" April, 2014): Councillors Sheahan (K) and Wade.
+Letterkenny, Co. Donegal (25""-27" April) (Originally scheduled for Portlaoise from 25" to 27”
 
 April): Councillor Enright.
 
@@ -817,7 +844,9 @@ Letterkenny, Co. Donegal (2"%-4"™ May): Councillors Sheahan (K) and Wade.
 Rosscarbery, Co. Cork (9""-11"" May): Councillor P.C. Fitzgerald.
 
 
----
+
+[[PAGE_END:15]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the Council
@@ -829,23 +858,23 @@ Conference on National Register of Health Services Providers Identifiers - Galwa
 
 11°°/12" April, 2014: Councillor Ryan.
 
-Conference on MABS and the Insolvency Service of Ireland - Rosscarbery, Co. Cork - 11"
+Conference on MABS and the Insolvency Service of Ireland - Rosscarbery, Co. Cork - 41"
 
-to 13™' April, 2014: Councillor O'Donnell.
+to 13"' April, 2014: Councillor O'Donnell.
 
 Conference on the Local Government Arts Service - Knocknacarra, Galway, on 42'"/13"
 April, 2014: Councillor Riedy.
 
-Conference on River Flooding & Management Issues — Letterkenny, Co. Donegal — 2rdj4"
+Conference on River Flooding & Management Issues — Letterkenny, Co. Donegal — 2ndj4"
 May, 2014: Councillor Enright.
 
 Seminar on Managing Change in Local Government - Killarney, Co. Kerry - 9""/11" May,
 
 2014: Councillor Enright.
 
-Training Seminar “Strategic Environmental Assessments and Decision-Making” —
+Training Seminar “Strategic Environmental Assessments and _ Decision-Making” —
 
-Letterkenny, Co. Donegal — 16''/18"" May, 2014: Councillor Enright.
+Letterkenny, Co. Donegal — 16°'/18"" May, 2014: Councillor Enright.
 
 NOTICES OF MOTION
 
@@ -860,7 +889,7 @@ have been downgraded.
 The Motion was proposed by Councillor Fitzgerald, seconded by Councillor Teefy and
 agreed.
 
-11. Notice of Motion submitted by Councillor J. Scanian
+11. Notice of Motion submitted by Councillor J. Scanlan
 
 ! will move at the Next meeting that Limerick County Council call on the Minister for
 Finance to legislate to cap a maximum margin at 2.5% over Euribar for Variable Rate
@@ -871,7 +900,9 @@ The Motion was proposed by Councillor Scanlan, seconded by Councillor Riedy, and
 agreed.
 
 
----
+
+[[PAGE_END:16]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Correspondence
@@ -917,7 +948,9 @@ involved in the affairs of the County in a wide variety of areas. The Cathaoirle
 he was proud to have served as a Member of a local authority that had played such a key role
 
 
----
+
+[[PAGE_END:17]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 in the social and economic life of this great County. He concluded by commending all the hard-
@@ -970,13 +1003,15 @@ began during a time when Mr. Gallagher worked with the County Council and develo
 interest in its history.
 
 
----
+
+[[PAGE_END:18]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mr. Gallagher thanked the Council for its support in producing the book and said copies
 of his book were available for all in attendance.
 
-OPENING OF T PHI B 4
+OPENING OF T PHI B Y
 
 The County Secretary announced the opening of two Photographic Exhibitions in
 Dooradoyle. The first one was the Haselbeck Collection, featuring rare images of Limerick
@@ -998,14 +1033,18 @@ Sinithe:
 
 An Cathaoirleach
 
-An Runai Contae
+An Rinai Contae
 
 Data:
 
 
----
+
+[[PAGE_END:19]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:20]]
+

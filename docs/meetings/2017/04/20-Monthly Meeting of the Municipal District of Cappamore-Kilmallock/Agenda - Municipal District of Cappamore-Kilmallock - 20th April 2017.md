@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015_0.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock - 20th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 —S
-=
+=.
 
 COMHAIRLE
 CATHRACH & CONTAE
@@ -61,7 +62,7 @@ EIRCODE V94 EH90
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-unicipal_District_of Cappa
+unicipal_ District_of Cappa
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick on Thursday, 20" April,
@@ -69,7 +70,7 @@ held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick on Thursday, 
 
 Is mise le meas,
 
-Tre Vow
+Tes Vow
 Tina Knox,
 Meetings Administrator.
 
@@ -100,14 +101,16 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Report Enclosed)
 
 @ customerservices@limerick.ie
-© ww. limerick.ie
+© www.limerick.ie
 
-wv @LimerickCouncil
+w @LimerickCouncil
 
 (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) ferral of Notices to make a New for Hospi end the
@@ -138,7 +141,7 @@ regulate Sulky Racing on Publi imerick
 
 To consider and approve the publication of the Draft Limerick City and County
 Council (Control of Horses) Bye-Laws 2017, in accordance with Section 199 and
-Schedule 144 Part 1 of the Local Government Act, 2001 (as amended) to regulate
+Schedule 14A Part 1 of the Local Government Act, 2001 (as amended) to regulate
 
 Sulky Racing on Public Roads in Limerick.
 (Report Enclosed)
@@ -148,7 +151,7 @@ Sulky Racing on Public Roads in Limerick.
 To receive presentation on the Invasive Plants Application developed by the
 Council.
 
-Customer i ture and Arts Directorate
+Customer i Iture and Arts Directorate
 
 (a) Culture and Creativity Plan for Creative Ireland Programme in Limerick
 
@@ -158,7 +161,9 @@ Creativity Plan for Limerick.
 (National Creative Ireland Programme Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Arts Programme
@@ -189,4 +194,6 @@ provision of additional parking for residents at Sycamore Drive, Bruff, to inclu
 possible reduction of the existing green area.
 
 
----
+
+[[PAGE_END:3]]
+

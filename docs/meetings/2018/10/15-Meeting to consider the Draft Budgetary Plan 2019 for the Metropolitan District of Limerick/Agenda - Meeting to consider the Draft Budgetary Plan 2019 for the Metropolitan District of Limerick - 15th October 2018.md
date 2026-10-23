@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%2C%202018.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach Scenbabie Caine ee
-hairle ach agus tae Luimnigh,
-< & Contae Luimnigh rose sored shader ny
-o—™* ; ; Cc annaithe,
-==> Limerick City ei or
+_——_—_— Comhairle Cathrach ee ee
+hairtle ach agus tae Luimnigh,
+x & Contae Luimnigh rose sorely sbenadee ey
+oN = . Cé na gCeannaithe,
+—>> Limerick City Lubnneach
 
 & County Council
 Corporate Services,
@@ -41,7 +42,7 @@ th
 5" October, 2018. t: 4353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-To: __ The Mayor and each Member of the Metropolitan District of Limerick
+To: _ The Mayor and each Member of the Metropolitan District of Limerick
 
 A Chomhairleoir, a chara,
 
@@ -54,7 +55,7 @@ to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-lade’
+rn
 \
 
 mm
@@ -67,10 +68,12 @@ AGENDA
 
 (Report attached)
 =
-© wwwalimerick.te
+© www.limerick.te
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

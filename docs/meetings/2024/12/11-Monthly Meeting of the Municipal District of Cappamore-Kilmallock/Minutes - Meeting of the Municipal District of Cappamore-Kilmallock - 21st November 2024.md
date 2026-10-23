@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-november-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-november-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -74,7 +75,9 @@ Cappamore-Kilmallock held on 17th October, 2024.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising
 
 Councillor Teefy (B) referred her previous representations on Driver Feedback signs and
@@ -136,7 +139,9 @@ reflect current times for commencement and closing of District meetings.
 The Meetings Administrator confirmed this was an administrative error and Corporate
 
 Services would be advised to amend Standing Orders accordingly.
----
+
+[[PAGE_END:2]]
+
 The Standing Orders were unanimously agreed by all Elected Members
 
 And Resolved:
@@ -184,7 +189,9 @@ scheme and its success in local communities to date.
 The Elected Members then thanked David O’Grady and Brian Mackey for a very informative
 
 presentation.
----
+
+[[PAGE_END:3]]
+
 NOTICES OF MOTION
 
 7. Notice of Motion submitted by Councillor Conway
@@ -232,7 +239,9 @@ was adopted earlier this year
 **Proposed: Councillor M. Ryan**
 
 **Seconded: Councillor** **O’Sullivan**
----
+
+[[PAGE_END:4]]
+
 9. Notice of Motion submitted by Councillor Teefy
 
 “I will move at the next meeting of the Cappamore-Kilmallock Municipal District that the
@@ -282,7 +291,9 @@ Policy that was adopted earlier this year.
 **Proposed: Councillor Carey**
 
 **Seconded: Councillor M. Ryan**
----
+
+[[PAGE_END:5]]
+
 QUESTIONS
 
 11.
@@ -348,7 +359,9 @@ to allow the project to proceed. The Design Team is preparing a tender pack for 
 a contractor can be procured and appointed to carry out the work. It is planned to have this
 
 tender ready before the end of December and issued in January 2025.
----
+
+[[PAGE_END:6]]
+
 12.
 
 Question submitted by Councillor M. Ryan
@@ -416,7 +429,9 @@ infrastructure implemented to allow the village of Ballyorgan to develop.
 Councillor O’Sullivan (T) also told the meeting he would like to see an increase in Active
 
 travel funding for the District of Cappamore-Kilmallock.
----
+
+[[PAGE_END:7]]
+
 Councillor Stokes (N) requested an update on the bin waiver scheme and was advised
 
 scheme for 2025 is not active at present but would be in the coming weeks.
@@ -442,4 +457,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

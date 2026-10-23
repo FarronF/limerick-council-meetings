@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2010th%20November%202022.pdf)
+**Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 10th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2010th%20November%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach Carinae Gath Babe ee gary
-. . Ore re rac egus Oni lee wi wg! 1
-& Contae Luimnigh Cesnncheathni Chorparaideach,
-Ar 4 . aaa Sir aps Cé na gOeannaithe,
+i Comhairle Cathrach Cerinehie Gath Bethe ee iar
+: . orn re wu rac egus On Lae Ui srry! 1
+& Contae Luimnigh Ceanncheathni Chorparaideach,
+Ar™ 4 » ane Sires Cé na gCeannaithe,
 Limerick City Luimneach
 
 = & County Council
@@ -35,11 +36,9 @@ Umerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limerick
+28" October, 2022. EIRCODE V94 EH90
 
-28" October, 2022. EIRCODE V94 EH9O
-
-t: +353 (0) 63 $$7150
+t: +353 (0) 61 $$7150
 f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
@@ -53,7 +52,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Al ois
+Llc oy
 
 Mark Leahy,
 Meetings Administrator.
@@ -68,12 +67,14 @@ Nicholas Street Area
 High Street and Milk Market Area
 Update on the World-class Waterfront
 
-™ Customerservicesalimerick ie
+@ Customerservicesalimerick ie
 
-© wrew.imarick.ie
+© weew.imarick.ie
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmeach W @limerickCouncil
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimmeach W @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-adjourned-special-meeting-16.02.2021.pdf)
+**Original file:** [Agenda - Adjourned Special Meeting of Limerick City and County Council - 16th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-adjourned-special-meeting-16.02.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach papacy nasal eran
-ee Pa tke sah “ Comnhairte Cathrach agus Contae Luimnigh,
+Comhairle Cathrach papacy han ecrig
+ee pa file sah h Comhairte Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathru Chorparaideach,
 AN Sf —_—_—_____—_—
 
@@ -43,9 +44,9 @@ EIRCODE V4 EH90
 
 t: +353 (0) 61 557150
 
-15" June, 2021 f: +353 (0) 61415 266
+15" June, 2021 f: +353 (0) 61 415 266
 
-7
+,
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -58,11 +59,9 @@ Limerick, on Wednesday, 16" June, 2021, at 9am
 
 The business to be transacted is set out on the appended Agenda.
 
-Is wi le meas,
-
-< -
-= CS * z
-Laura Flannery, es
+Is ™ le meas,
+= CS" Z
+Laura Flannery, ae
 Meetings Administrator.
 
 AGENDA
@@ -85,4 +84,6 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

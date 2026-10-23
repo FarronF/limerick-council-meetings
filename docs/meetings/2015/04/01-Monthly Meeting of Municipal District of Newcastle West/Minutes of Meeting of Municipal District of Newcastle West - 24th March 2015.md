@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_24th_march_2015.pdf)
+**Original file:** [Minutes of Meeting of Municipal District of Newcastle West - 24th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_24th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -72,7 +73,9 @@ e Provision of footpath from village to St. Joseph’s Foundation House.
 e Directional signs to be placed in the village.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Cathaoirleach and Members commended the Deputation for their presentations
@@ -112,7 +115,7 @@ Centre to receive a Deputation. On the proposal of Councillor Scanian, and secon
 by Councillor Sheahan, it was agreed to receive Deputation at the next Meeting
 scheduled for 1* April 2015.
 
-45 Adoption of Minutes
+| Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West held
 on 4" February, 2015.
@@ -126,7 +129,9 @@ Community”. In referring to the Minutes and the discussion that took place on 
 Councillor Collins stated that he wished to have it recorded that he did not agree that
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -188,7 +193,9 @@ Collins said that the site in question had been rezoned and was fully serviced a
 the speed limit of the town.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Operations Manager stated that funding for the feasibility study could be
@@ -238,19 +245,21 @@ REPLY: This work can be considered under the programme of works for 2015
 which will be presented shortly to the Municipal District Councillors.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 With the permission of the Cathaoirleach, it was agreed to take Items 8 and 10 together.
 
 8. Question submitted by Councillor L. Galvin
 
-| will ask at the next Meeting for a full update/detailed report on the purchase of a
+/ will ask at the next Meeting for a full update/detailed report on the purchase of a
 new graveyard in Abbeyfeale.
 
 10. Question submitted by Councillor F. Foley
 
-| will ask at the next Meeting what is the current position is with the provision of a
+! will ask at the next Meeting what is the current position is with the provision of a
 new burial ground in Abbeyfeale and if funding has been sought.
 
 REPLY: The existing cemetery in Abbeyfeale is almost full and the Council is
@@ -285,12 +294,14 @@ following the receipt of quotations. In the short term temporary works have
 been completed.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor J. Scanlan
 
-! will ask at the next Meeting when will the footpath system be put in place along
+| will ask at the next Meeting when will the footpath system be put in place along
 Kilready, Castlemahon, from sanitary works towards Dore’s Cross.
 
 REPLY: The cost of proposed project is approximately €50,000. This could be
@@ -336,7 +347,9 @@ National Roads Authority. National Roads Authority approval for a bus stop
 is necessary on the N21.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Notice of Motion submitted by Councillor J. Sheahan
@@ -387,14 +400,16 @@ Scanlan on the detail of his request and this will also be forwarded to Irish
 Water.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
 
-417. Notice of Motion submitted by Councillor J. Scanlan
+17. Notice of Motion submitted by Councillor J. Scanlan
 
-! will move at the next Meeting that the issue of the disturbed road verge, right
+1 will move at the next Meeting that the issue of the disturbed road verge, right
 hand side, past the entrance to Newcastle West Rugby Club and onward beyond
 the Physiotherapy Centre be addressed and resurfaced in the interest of safety
 
@@ -419,4 +434,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+

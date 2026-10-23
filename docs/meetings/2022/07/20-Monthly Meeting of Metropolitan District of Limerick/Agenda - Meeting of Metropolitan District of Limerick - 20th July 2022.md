@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202022_0.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202022_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_e_e Comhairle Cathrach Comhairle Gucumatseu Lae
+_——_ Comhairle Cathrach Comhairle Guvematseunn nee
 & Contae Luimnigh Ceanncheathna Chorpardideach;
-“wt” Cé na gCeannaithe,
-—e Limerick City Luirmneach
+art” Cé na gCeannaithe,
+— Limerick City Luirmuneach
 
 = & County Council
 Corporate Services,
-Limerick City and County Council,
+Limerick Cty and County Council,
 Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-EIRCODE V94 EHS0
+EIRCODE V94 EHSO
 
-14" July, 2022. t: +353 (0) 61 597150
+14" July, 2022. t: +353 (0) 61 $7150
 f: +353 (0) 61 415 266
 
 AChomhairleoir, a chara,
@@ -47,8 +48,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-aware
-Mark aby,
+Mark tahy,
 Meetings Administrator.
 
 1. Minutes
@@ -63,7 +63,9 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -117,7 +119,9 @@ the derelict property at 79 Roundwood Estate as to when works will start to refu
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor J. Leddin
@@ -134,7 +138,7 @@ Summer season.
 10. Question submitted by Councillor J. Leddin
 | will ask Limerick Metropolitan Council to clarify what measures are being instigated with the
 
-purchasers of the former Dunnes Stores building on O'Connell Street regarding them providing a
+purchasers of the former Dunnes Stores building on O’Connell Street regarding them providing a
 timeframe to renovate and upgrade the building.
 
 11. Question submitted by Councillor E, O’Donovan
@@ -163,7 +167,9 @@ extended to Annacotty and Groody/Ballysimon Road as soon as possible
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Notice of Motion submitted by Councillor E. Secas
@@ -186,4 +192,6 @@ the soccer pitch.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

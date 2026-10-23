@@ -16,24 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 17th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AN if ™
-
 a Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-Olfig an Cheantair, Aras Mhainchin Seoighe,
 
-& Contae Luimnigh Cill Mochealég,
-Limerick City Co, Luimnigh.
+& Contae Luimnigh Olfig an Cheantair, Aras — chee
 
-= & County Council Limerick City and County Council,
+~ \4 . P Fi Co, Luimnigh.
+— Limerick City
+
+& County Council Limerick City and County Council,
 
 Aras Mainchin Seoighe Area Office,
 
-Kilnallock,
+Kilallock,
 
 Co. Limerick.
 
@@ -48,7 +48,7 @@ To: The Cathaoirleach and Each Member of the Municipal District of Cappamore-Kil
 A Chomhairleoir, a chara,
 
 You are requested to attend the Annual Meeting of the Municipal District of Cappamore-Kilmallock to
-be held in Aras Mainchin Seoighe, Kilmallock , Co. Limerick on Tuesday 17" June 2025 at 2.00 p.m.
+be held in Aras Mainchin Seoighe, Kilmallock , Co. Limerick on Tuesday 17 June 2025 at 2.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
@@ -56,7 +56,6 @@ Is mise le meas,
 \\
 
 Mark Leahy,
-
 Meetings Administrator.
 
 AGENDA
@@ -68,10 +67,12 @@ the next Annual Meeting or until a successor has been elected.
 until the next Annual! meeting or until a successor has been elected.
 
 1 & customerseryices@limerick.ie
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © weve timerickice
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wevestimerickice
 Limerick City and County Council, Aras Mainchin Seoighe Area Office y
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

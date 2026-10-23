@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/20210128-agenda-cabe-spc-february.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment SPC - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/20210128-agenda-cabe-spc-february.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **28 January,2021**
@@ -46,7 +47,9 @@ The business to be transacted is set out in the appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -78,4 +81,6 @@ tree in all new housing developments and suitable existing communities with the
 Council and community pledging to care for this individual tree until it reaches the
 
 Ancient tree category age of 400 years +.
----
+
+[[PAGE_END:2]]
+

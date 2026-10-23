@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20October%202015.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 14th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -72,7 +73,9 @@ Level Goals, Draft Report on Submissions and Observations received, dated August
 e Local Economic and Community Plan (LECP) for Limerick City and County,
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -124,7 +127,9 @@ the landfill was in their District, and requested that they be briefed by suitab
 independent consultants on gasification.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -145,7 +150,7 @@ plans to have a facility for waste disposal at Gortadroma.
 
 REPLY: The next step regarding the proposals for a gasification plant will be for
 Cadence Enviropower Ltd to commence the statutory planning process with
-An Bord Pleanala and, in particular, to submit sufficient details to them to
+An Bord Pleandala and, in particular, to submit sufficient details to them to
 determine whether this proposal qualifies as Strategic Infrastructure
 Development. In parallel they will also have to submit an application for a
 waste licence to the Environmental Protection Agency. Cadence
@@ -154,7 +159,7 @@ processes in the coming months.
 
 NOTICES OF MOTION
 
-7Z Notice of Motion submitted by Councillor K. Sheahan
+a Notice of Motion submitted by Councillor K. Sheahan
 
 | will move at the next Meeting for an update on the proposals to address the
 flooding issues in Foynes, Askeaton and Ballysteen.
@@ -164,7 +169,7 @@ when high spring tides were predicted. He requested that this item remain on the
 and that Members be briefed on progress.
 
 Councillor O’Brien, in seconding the Motion, requested that the OPW be written to seeking
-clarification on the role and responsibility of the OPW £ in relation to tidal / flood
+clarification on the role and responsibility of the OPW in relation to tidal / flood
 embankments within the Municipal District of Adare-Rathkeale and requested that the
 OPW highlight the embankments in their charge. Members agreed to same and asked
 that a further invitation be extended to a representative of the OPW to attend at a future
@@ -176,7 +181,9 @@ recommend flood alleviation measures for Askeaton. Design works will be
 on-going over the coming months.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -233,7 +240,9 @@ Executive Engineer met again with members of the committee and the
 school principal.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Line markings, as agreed, were completed at this time. The committee
@@ -284,7 +293,9 @@ Sheahan suggested that businesses be encouraged to use space at the rear of thei
 premises.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -295,7 +306,7 @@ advanced as funding or other resource opportunities become available.
 
 12. Notice of Motion submitted by Councillor E. O’Brien
 
-! will move at the next Meeting that Adare-Rathkeale Municipal District calls on the
+/ will move at the next Meeting that Adare-Rathkeale Municipal District calls on the
 Minister for Education to commit funding for the construction of a new secondary
 school in Croom.
 
@@ -339,7 +350,9 @@ suggested that all residents in houses 1-12 Friary Court, Askeaton be asked for 
 opinion on the matter.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Corres n
@@ -362,7 +375,7 @@ charitable status and any profits made were redirected back into the community.
 Members commended Croom Development Association and the community for their vision
 and the work achieved.
 
-— eee nnn nnn nn nn ne nnn nen ne nnn ne en nn en en nn enn nnn nee eee n ee nn cece ee eee eee e eee ees eee esses eeeeees
+— eee nnn nn nn nen nnn nn nn nnn nn ee enn en nnn enn nnn nee eee e nnn nee ne eee nee e cone nesses eee eee eeeeee
 
 The following items were discussed at the conclusion of the Meeting.
 
@@ -391,7 +404,9 @@ Members agreed to request the Gardai to attend at the next District Meeting to d
 rural crime.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -409,4 +424,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+

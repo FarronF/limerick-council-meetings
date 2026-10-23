@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/03%20Minutes%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202018%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting  of the Municipal District Cappamore-Kilmallock - 18th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/03%20Minutes%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202018%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
@@ -41,9 +42,9 @@ Administrator (Mr. M. Leahy), A/Senior Executive Engineer's, Cappamore-Kilmalloc
 Murphy & Mr J. Sheehan), Executive Engineer, Cappamore-Kilmallock (Mr. D. Sheehy), Clerical
 Officer, Cappamore-Kilmallock (Mrs Helen O'Neill)
 
-1. Budget PI 019
+1. Budget Pl 019
 
-Circulated, report dated 4 October, 2018 from the Director, Support Services-Finance,
+Circulated, report dated 4" October, 2018 from the Director, Support Services-Finance,
 Corporate, HR & ICT which set out the background and legal provisions relating to the Draft
 Budgetary Plan, along with details of the Draft Budgetary Plan 2019 for the Municipal District
 of Cappamore-Kilmallock in the total sum of €250,000.
@@ -74,7 +75,9 @@ unicipal Allocation-2019
 
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation
@@ -102,4 +105,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

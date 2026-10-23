@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-11th-march-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 11th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-11th-march-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -90,7 +91,9 @@ Directorate dated 29th February, 2024 setting out proposals for the disposal of 
 acres/3.5205 hectares of land at Skagh, Croom, Co. Limerick and the intention to bring
 
 the Section 183 Notice to Full Council for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was proposed by Councillor Teskey, seconded by Councillor
@@ -170,7 +173,9 @@ years. The aim of the plan is to identify areas for noise mitigation based on no
 and the harmful effects assessment to reduce environmental noise where exposure levels
 
 affect human health. A public consultation on the Draft Noise Action Plans will be held at
----
+
+[[PAGE_END:2]]
+
 3
 
 the end of March 2024 with the final Noise Action Plans to be submitted to the
@@ -244,7 +249,9 @@ West Road Design Office advised the Archaeologist needs access to the site for
 archaeological investigations prior to construction and added as this is a lengthy
 
 process the site has to be fenced off at this stage of the project.
----
+
+[[PAGE_END:3]]
+
 4
 
  Councillor Teskey queried if there are plans for a service plaza on the new section
@@ -318,7 +325,9 @@ Proposed by Councillor Teskey;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 “That, the Draft Schedule of Municipal District Works for the Municipal District of Adare-
@@ -388,7 +397,9 @@ Uisce Éireann upgrade works to lift Boil Water Notice for customers
 supplied by Foynes/Shannon Estuary Public Water Supply are nearing
 
 completion.
----
+
+[[PAGE_END:5]]
+
 6
 
 Our teams have successfully carried out the necessary shutdowns at the
@@ -464,7 +475,9 @@ Gaeltacht, Sport and Media under the Creative Ireland Initiative.
 Adare-Rathkeale MD is home to a number of practitioners and
 
 organisations who are supported through various grants schemes and
----
+
+[[PAGE_END:6]]
+
 7
 
 funding opportunities provided through Limerick City and County Council
@@ -536,4 +549,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

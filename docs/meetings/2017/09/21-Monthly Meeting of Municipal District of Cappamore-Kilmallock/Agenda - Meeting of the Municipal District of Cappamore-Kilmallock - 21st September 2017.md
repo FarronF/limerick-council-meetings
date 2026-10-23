@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20Meeting%20210917.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20Meeting%20210917.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-7 a —————
-=— Limerick City
+ ———————————
+— Limerick City
 & County Council
 
 15" September, 2017.
 
-Seirbhisi Corpardideacha,
+Seirbhisi Corpardideacha.
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathra Chorpardideach,
@@ -51,7 +52,7 @@ EIRCODE V34 EH90
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-To/ The Cathaoirleach and Each Member of the Municipal District _of Cappamore- ~—
+To/ The Cathaoirleach and Each Member of the Municipal District of Cappamore- —
 
 Kilmallock
 
@@ -59,7 +60,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 21°
-September, 2017 i .m. The business to be transacted is set out on the appended
+September, 2017 F .m. The business to be transacted is set out on the appended
 
 Agenda.
 
@@ -100,7 +101,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 87150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -139,7 +142,9 @@ To note proposal for the establishment of Geographical Sub-Committee of the Join
 Policing Committee and to agree arrangements for Sub-Committee Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -185,4 +190,6 @@ future.
 Correspondence.
 
 
----
+
+[[PAGE_END:3]]
+

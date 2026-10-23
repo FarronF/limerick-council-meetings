@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10
 
 Minutes -  Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th November 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-19th-november-md-meeting.pdf) - [Extracted text](./Minutes%20-%C2%A0%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20November%202020.md)
 
-Report to December 2020 Cappamore Kilmallock Meeting_ Gibbonstown, Kilmallock - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/03-report-to-december-2020-cappamore-kilmallock-meeting-gibbonstown-kilmallock.pdf) - Text not extracted
+Report to December 2020 Cappamore Kilmallock Meeting: Gibbonstown, Kilmallock - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/03-report-to-december-2020-cappamore-kilmallock-meeting-gibbonstown-kilmallock.pdf) - Text not extracted
 
 Moore Street, Cappamore Report for District - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/04-moore-street-cappamore-report-for-district.pdf) - Text not extracted
 

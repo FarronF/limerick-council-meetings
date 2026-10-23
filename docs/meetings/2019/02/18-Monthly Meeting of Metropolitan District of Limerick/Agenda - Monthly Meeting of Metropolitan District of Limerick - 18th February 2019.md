@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2018th%20February%202019%20%284%29.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 18th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2018th%20February%202019%20%284%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-il Comhairle Cathrach —e Papa Slag rent
+a Comhairle Cathrach —e Papa Calapan
 . mnhairie Cathra: s ie Luimng!
-& Contae Luimnigh Cas Seennt Chores 4
+& Contae Luimnigh Cas Sannin Choreid 4
 
-aAr™ ———————————— > i
+aAr™ ————————————— i
 
-— Limerick City “ens iment
+— Limerick City “ens Seen
 & County Council
 
 Corporate Services,
@@ -41,20 +42,19 @@ th
 
 t: +353 (0) 61 557150
 
-To: The or and each Member of the Metropolitan District of Limerick Bim alas
+To: The or and each Member of the Metropolitan District of Limerick Ete alas
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-
 Council Chamber, Merchant’s Quay, Limerick on Monday, 18 February, 2019 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-QQ
+Qa
 
-James Clune,
+Jathes Clune,
 Meetings Administrator.
 
 AGENDA
@@ -75,15 +75,17 @@ Ireland Ltd.
 
 ¢ Disposal of 93 St.Munchin’s Street, St. Mary’s Park, Limerick to Barbara Troy in
 
-exchange for 180, St. Munchin’s Street, St. Mary’s Park, Limerick, snerservice sglimericicie
+exchange for 180, St. Munchin’s Street, St. Mary’s Park, Limerick, smerservice. sglimericicie
 
-& wevew.limerickie
+© wevew.limerickie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -122,7 +124,7 @@ Question submitted by Councillor J. Costelloe
 | will ask at the next Meeting at what stage phase 1 of a new 30 unit build in Cosgrave Park
 is at, considering approval was granted over 2 years ago.
 
-uestio! llor J. Costelloe
+uestio’ llor J. Costelloe
 
 | will ask at the next Meeting if funding has been secured for flood defences in vulnerable
 areas i.e, St. Mary's Park, Corbally, Castleconnell and Mountpelier.
@@ -138,7 +140,9 @@ Question submitted by Comhairleoir S. 6 Ceallaigh
 on the current situation and future plans for Rathbane Golf Club.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -166,7 +170,7 @@ Notice of Motion submitted by Comhairleoir S. 6 Ceallaigh (To be referred to Tra
 
 Transportation SPC
 
-| will move at the next Meeting that Chomhairle Cathrach agus Contae Luimnigh extends
+I will move at the next Meeting that Chomhairle Cathrach agus Contae Luimnigh extends
 the cycle lane on Childers Road the entire length of the road from the Parkway
 Roundabout to Ballinacurra Road.
 
@@ -177,4 +181,6 @@ We will move at the next Limerick Metropolitan Meeting, to agree to allocate €
 Patrick’s Day Parade out of the General Municipal Allocation.
 
 
----
+
+[[PAGE_END:3]]
+

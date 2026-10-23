@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-april-2026.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-april-2026.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -62,7 +63,9 @@ The Chair thanked Hugh McGrath for working with the Committee, who has taken up 
 with Clare County Council, and welcomed Patrick O’ Rourke, Senior Executive Technician.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 2: Presentation - Update on the Implementation of Built-up and Urban Area Speed Limits**
@@ -126,7 +129,9 @@ increase from 50km to 60km. This is not getting any hearing.
 JOK is to check this out. Guidelines are quite clear, Ballylander is a very rural location, and does
 
 not believe this area is suitable for reduction.
----
+
+[[PAGE_END:2]]
+
 3
 
 DT – Many fatalities in 2025 and 2024, 30km limit applies to all urban areas. 6 schools in
@@ -182,7 +187,9 @@ taxi and hackney insurance.
 Cllr Jerome Scanlon – lack of connectivity locally. There is a bus from Newcastlewest to Dublin
 
 but not to the city centre. There are no taxis in Newcastlewest after 7pm.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr Peter Doyle stated that Urban Rail should be established across all of Limerick. Limerick City
@@ -208,4 +215,6 @@ and 2029.
 • Identifying solutions to overcome the challenges
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:4]]
+

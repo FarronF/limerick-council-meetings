@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-july-2025.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 21st July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-july-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 .
 
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
-AN ~~ ——_——_—
+a a ~~ ——_————
 
 — Limerick City
 & County Council
 
 16" July, 2025.
 
-Seirbhisi Corparaideacha,
+Seirbhiisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathri Chorparaideach.
@@ -49,10 +50,10 @@ Merchants Quay.
 
 Limerick
 
-EIRCODE V94 EH90
+EIRCODE V94 EHS0
 
-t: +353 (0) 61 5571250
-f: +353 (0) 62 415 266
+t: +353 (0) 61 557150
+f: +353 (0) 61 415 266
 
 To: r of ropolitan District of Limerick
 
@@ -85,15 +86,17 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copies Enclosed).
 
-mcustomerservices@limerick.ie
-© wwe limerickie
+mcustomerservices@limerick.ic
+& wwe limerickie
 
 yw @LimerickCouncil
 
-061 - 557150
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -102,7 +105,7 @@ To note proposals for the disposal of land as follows:
 (a) Proposed Disposal of Commercial Freehold Interest in property at Moore's Lane, Lelia
 
 Street, Limerick.
-(b) Proposed Disposal of 37 Churchfield, O'Malley Park, Limerick.
+(b) Proposed Disposal of 37 Churchfield, O’Malley Park, Limerick.
 
 (Reports Enclosed).
 
@@ -141,7 +144,9 @@ night activity in our local economy.
 number of Notice to Quits that the Housing Department is currently handling.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor S. Beasley
@@ -189,7 +194,9 @@ of public toilets to serve the expected increase in the number of people to loca
 part of this project? If so, where will these additional public toilets be located.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16. Question submitted by Councillor S. Hickey-O’Mara
@@ -197,7 +204,7 @@ part of this project? If so, where will these additional public toilets be locat
 I will ask at the next meeting of the Metropolitan District:
 
 (2) How often was the Council contacted to remove roadkill in the Metropolitan area over the
-past 5 years.
+past 5S years.
 
 {b) If any roadkill blackspots have been identified by the Council as a result.
 
@@ -241,7 +248,9 @@ detailed and itemised basis.
 for No. 58 O'Connell Street, the building formerly occupied by Narrative 4 and now sitting vacant.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -256,12 +265,12 @@ given there is plenty of green space already in the area.
 1 will move at the next Meeting of the Metropolitan District of Limerick can Limerick City and
 County Council write to the Minister for Health for an update on the review of Emeis Ireland -
 previously known as Orpea, that was to be initiated immediately following the documentary on
-private nursing homes aired on RTE on the 5 June 2025 to address all issues.
+private nursing homes aired on RTE on the 5" June 2025 to address all issues.
 
 24. by Coun . Leddin
 
-I will move at the next Meeting of the Metropolitan District of Limerick that the Council introduce
-a reduced speed limit from 50km to 30km on the Ballinacurra Road and O'Connell Avenue to align
+| will move at the next Meeting of the Metropolitan District of Limerick that the Council introduce
+a reduced speed limit from S0km to 30km on the Ballinacurra Road and O'Connell Avenue to align
 with the new 30km limit in the city centre.
 
 25. Notice of Motion submitted by Councillor U. Gavan
@@ -269,7 +278,7 @@ with the new 30km limit in the city centre.
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 County Council support an artistic campaign for Post Office Lane and Todd’s Bow.
 
-26. Notice of Motion submitted by Councillor S, Beasley
+26. Notice of Motion submitted by Councillor S. Beasley
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 County Council write to the Minister for Housing, that children who are languishing in emergency
@@ -277,7 +286,7 @@ accommodation for longer than 6 months, should be entitled to counselling. Fundi
 made available as down the line these children could have mental health issues.
 
 1 will move at the next meeting of the Metropolitan District of Limerick for this Council to liaise
-with Laurel Hill, St. Clements, Scoil Mhathair De and An Mhodh Scoil for a designated school drop
+with Laurel Hill, St. Clements, Scoil Mhathair De and An Mhodh Scoil fora designated schoo! drop
 off and pick up area to accommodate students as vehicular traffic is causing significant safety
 issues on South Circular Road/O’Connell Ave and other roads close to these schools.
 
@@ -288,7 +297,9 @@ installing a disabled parking space in the Go-Car space outside the Strand Hotel
 Car service has been withdrawn.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 29. Notice of Motion submitted by Councillors S. Kiely and D. McSweeney
@@ -332,10 +343,12 @@ tenure policy is implemented more authoritatively within the City Centre, throug
 planning conditions in accordance with the LCCC’s own Development Plan and in accordance with
 national guidance, to repair and create sustainable communities by integrating different types of
 housing — social, affordable, and private - to avoid concentrated areas of social housing and
-promote social inclusion,
+promote social inclusion.
 
 35. Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

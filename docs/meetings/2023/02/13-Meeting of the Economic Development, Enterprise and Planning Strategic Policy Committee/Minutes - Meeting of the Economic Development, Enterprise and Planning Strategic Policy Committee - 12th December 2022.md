@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2012th%20December%202022.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2012th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 12 DECEMBER 2022 at 2PM IN**
@@ -84,7 +85,9 @@ in writing.
 *Quarter”.*
 
 In the absence of Cllr E. O’Donovan, this item was deferred to the next meeting of the SPC.
----
+
+[[PAGE_END:1]]
+
 **Item 3:**
 
 **Presentation on Shannon Foynes Port** **–** **Jerry Hallissey, Head of Business Development**
@@ -192,7 +195,9 @@ on the framework, including The University of Limerick, Arthur’s Quay Shopping
 and the owner of the Debenhams building. The Council is currently seeking tenders for a multi-
 
 disciplinary team to prepare a Framework Plan for the area. In advance of full development, the
----
+
+[[PAGE_END:2]]
+
 council is considering some meanwhile uses of some of the area, specifically Honan’s Quay/ rear of
 
 UL and Kings Island Green.
@@ -294,7 +299,9 @@ Funding from Failte Ireland is for the city only but they may look at other vill
 at a later stage and any opportunity for signage in county towns will be taken up.
 
 **Item 6**
----
+
+[[PAGE_END:3]]
+
 **Nomination of Sectoral Interest to LECP Advisory Group**
 
 The Limerick PPN have nominated Brian Thompson as their representative on the LECP Advisory
@@ -318,4 +325,6 @@ Cllr. Stephen Keary asked if there had been a response from the Minister to his 
 Director of Service Economic Development and Enterprise, confirmed that the notice went to the
 
 Minister but no response has been received to date.
----
+
+[[PAGE_END:4]]
+

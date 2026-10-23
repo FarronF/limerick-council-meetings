@@ -30,7 +30,7 @@ Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 8th Dece
 
 Update on Limerick City and County Council Control of Horses Bye-Laws 2017 - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/03-update-on-limerick-city-and-county-council-control-of-horses-bye-laws-2017.pdf) - Text not extracted
 
-Taking in Charge_ Orchard Avenue, Rathkeale - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/04-taking-in-charge-orchard-avenue-rathkeale.pdf) - Text not extracted
+Taking in Charge: Orchard Avenue, Rathkeale - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/04-taking-in-charge-orchard-avenue-rathkeale.pdf) - Text not extracted
 
 Report on Vacant Land and Site in Rathkeale - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/05-report-on-vacant-land-and-site-in-rathkeale.pdf) - Text not extracted
 

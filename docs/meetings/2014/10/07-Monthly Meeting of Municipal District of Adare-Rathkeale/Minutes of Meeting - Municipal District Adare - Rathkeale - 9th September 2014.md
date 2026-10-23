@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_9th_september_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District Adare - Rathkeale - 9th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_9th_september_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -68,7 +69,9 @@ Seconded by Councillor O'Donoghue;
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -123,7 +126,9 @@ developer on 14” August, 2014.
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -181,7 +186,9 @@ Limerick City & County Council is currently preparing an Assets Needs Brief
 for submission to Irish Water in relation to the issue at Askeaton.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It will, on receipt of the submission from the Council, be a matter for Irish
@@ -228,7 +235,9 @@ financially in these types of situations.
 It is intended to meet on site in the near future to discuss the matter further.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Demonstration on Alfresco System
@@ -258,4 +267,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-agenda-sept-2020-mthly-mtg.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-agenda-sept-2020-mthly-mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-& Contae Luimnigh Oifig an Cheantair, Aras er pte
+& Contae Luimnigh Oifig an Cheantair, Aras ler reg
 
-~ \ 4 P A , Co, Luimnigh.
+~ \ 4 P 2 , Co, Luimnigh.
 —- Limerick City
 
 = & County Council Limerick City and County Council,
@@ -48,7 +49,7 @@ To/
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
-held on Thursday 17° September at 3.30pm in the Deebert House Hotel, Deebert, Kilmallock,
+held on Thursday 17‘ September at 3.30pm in the Deebert House Hotel, Deebert, Kilmallock,
 Co. Limerick.
 
 The business to be transacted is set out on the appended Agenda.
@@ -64,19 +65,21 @@ Meetings A
 Cappamore-Kilmallock held on the 16" July, 2020.
 
 @& customerservices@limerick.te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe © worwhimearick.ie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe © vwoorwdimearick.ie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W alimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. National & Regional Services Directorate
 
 Part 8 Planning Application for a Fire Service Training Centre at
-k Ard I, Bruree Road, Kilmaliock
+k Ard |, Bruree Road, Kilmallock
 Limerick.
 (Report enclosed)
 
@@ -112,7 +115,9 @@ the Office of Public Works complete a feasibility flood risk solution for the ar
 including tributaries of the Loobagh and Maigue Rivers.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Notice of Motion submitted by Councillor Martin Ryan
@@ -156,7 +161,9 @@ Cappamore-Kilmallock Municipal District to assist in the deliberations on the
 Development Plans that will have to be dealt with in the near future.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor Martin Ryan
@@ -166,4 +173,6 @@ update on Bruree regarding planning enforcement on the railings and any feedback
 from Irish Rail on Bridge and land ownership.
 
 
----
+
+[[PAGE_END:4]]
+

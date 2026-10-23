@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-a-minutes-of-monthly-meeting-29th-june-2021-1.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 29th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-a-minutes-of-monthly-meeting-29th-june-2021-1.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE RATHKEALE HOUSE HOTEL, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ dated 16th June, 2021 and enclosed Chief Executive’s Report dated 15th June, 2
 out details in relation to Rathkeale Enterprise Centre, Rathkeale Industrial Estate,
 
 Rathkeale, Co. Limerick. The report had been prepared in accordance with Section 179(3)
----
+
+[[PAGE_END:1]]
+
 2
 
 of the Planning and Development Act 2000 (as amended) and Part VIII of the Planning and
@@ -158,7 +161,9 @@ these signs would only be erected in an area where there is no traffic calming
 measures in place. A number of studies were carried out on the N20 at Banogue
 
 prior to the installation of traffic calming measures and due to a number of
----
+
+[[PAGE_END:2]]
+
 3
 
 incidents in the area throughout the years it was agreed, due to the high risk for
@@ -228,7 +233,9 @@ would be provided for this at the July District Meeting.
 fountain in Adare Village. The Senior Executive Engineer advised these works
 
 were carried out by the Community Development Directorate. Councillor Teskey
----
+
+[[PAGE_END:3]]
+
 4
 
 then requested a Member of staff from the Community Development Directorate
@@ -298,7 +305,9 @@ in the Orchard Avenue Estate. He requested funding be made available to
 upgrade the current fencing in the estate. Councillor Keary also offered to
 
 provide GMA monies towards the cost of these works.
----
+
+[[PAGE_END:4]]
+
 5
 
  Councillor Teskey requested an inspection of the public lighting in Orchard
@@ -370,7 +379,9 @@ allocate the following:
  €2,500 for Kilcornan National School.
 
  €2,500 for Kildimo National School.
----
+
+[[PAGE_END:5]]
+
 6
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor Teskey, it was
@@ -438,7 +449,9 @@ the VOIDS 2021 Programme.
 **Reply:**
 
 Please note below the response received from Irish Water.
----
+
+[[PAGE_END:6]]
+
 7
 
 “Unfortunately, Irish Water staff are not available to attend the Adare-
@@ -486,4 +499,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

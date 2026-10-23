@@ -16,22 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/agenda_meeting_18th_july_2016.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 18th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/agenda_meeting_18th_july_2016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seirbinisi Corparaideacha agus Bainistiocy Athrulthe
+Seirbinisi Corparaideacha agus Bainistioc Athrulthe
 Comhairle Cathrach agus Contae Luimnnigh.
 
-APN 4A : Ce na gCeannaithe.
+APN 4 . Ce na gCeannaithe,
 —=—=— Luimneach
 
 . .
 Limerick Corporate Services and Change Management
-Umerick City and County Council
-CITY & COUNTY ye arches Coan
-COUNCIL Limerick
+CITY & COUNTY Limerick Cty end County Counce
+y.
 
 & +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -81,7 +81,9 @@ To consider proposal for the disposal of land at:
 (f) Arthur's Quay, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -89,7 +91,7 @@ To consider proposal for the disposal of land at:
 (g)
 (h)
 (i)
-(ij)
+(i)
 
 Blackabbey, Adare, Co. Limerick.
 
@@ -143,10 +145,12 @@ Board of Innovate Limerick.
 Limerick and Clare Education and Training Board.
 Stakeholder Group of Limerick 2020.
 
-eeee
+eeeee
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -174,7 +178,7 @@ To consider the approval of Sectoral nominations to the Joint Policing
 Committee.
 (Report Enclosed)
 
-Strategic Policy Committees - Sectoral Nominations
+Strategic Policy Committees —- Sectoral Nominations
 
 To consider the approval of Sectoral nominations to the Strategic Policy
 
@@ -195,14 +199,16 @@ Annual Report.
 (Annual Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (h)
 
 (i)
 
-(i)
+i)
 
 (k)
 
@@ -243,7 +249,9 @@ Government Act, 2001, as amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -256,8 +264,8 @@ Twinning Visit to Hohenlohe
 
 To consider approving twinning visit to Hohenlohe by a delegation from
 Limerick City and County Council under Section 142(5) of the Local
-
 Government Act, 2001, as amended.
+
 (Report Enclosed)
 
 Standing Orders
@@ -291,12 +299,13 @@ Limerick Local Economic and Community Plan (LECP)
 2016-2021
 
 To consider the adoption of the Local Economic and Community Plan (LECP)
-
 for Limerick 2016-2021.
 (Report and copy of Draft Plan Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -342,7 +351,7 @@ A Commemoration in memory of John A. Costello — 1891-1976, held in
 Blackrock, Co. Dublin, on 19" June, 2016.
 
 Conference on Oireachtas Reform and the Councillor held in
-Edgeworthstown, Co. Longford, on 24""/25" June, 2016.
+Edgeworthstown, Co. Longford, on 24""/25™ June, 2016.
 
 Conference “Entitlement to Health Services” held in Clonakilty, Co. Cork,
 from 8" to 10" July, 2016.
@@ -365,7 +374,9 @@ National Heritage Week to be held in Kilkenny from 20™ to 28” August,
 (Details already circulated electronically)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -406,7 +417,9 @@ from other Local Authorities to assist Limerick City and County Council and the 
 associated with same.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -456,7 +469,9 @@ Tee
 We will move at the next Meeting that this Council appoints a Tourism Officer.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor J. Leddin
@@ -493,4 +508,6 @@ continues.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:9]]
+

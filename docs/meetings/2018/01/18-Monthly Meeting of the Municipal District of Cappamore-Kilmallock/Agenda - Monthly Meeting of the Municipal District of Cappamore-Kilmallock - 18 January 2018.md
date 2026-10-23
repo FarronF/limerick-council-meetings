@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20180118.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20180118.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ _——_i Comhairle Cathrach
+__——_£i Comhairle Cathrach
 & Contae Luimnigh
-DBL OO Oe
+DBL Oe
 
-— Limerick City
+=— Limerick City
 & County Council
 
 12" January, 2018.
@@ -33,7 +34,7 @@ DBL OO Oe
 Seirbhisi Corparaideacha.
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathru Chorparaideach,
+Ceanncheathnu Chorparaideach,
 
 Cé na gCeannaithe.
 
@@ -52,7 +53,7 @@ EIRCODE V94 EH90
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-To/ The Cathaoirleach_ and Each Member of the Municipal District_of Cappamore-
+To/ The Cathaoirleach_ and Each Member of the Municipal District _of Cappamore-
 
 Kilmallock
 
@@ -62,7 +63,7 @@ You are requested to attend a Meeting of the Municipal District of Cappamore-Kil
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 18”
 January, 2018, at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
-is ise le meas,
+Is ise le meas,
 0
 Tina Knox,
 Meetings Administrator.
@@ -93,12 +94,14 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 = customerservices@limerick.ic
-© wwew.limerick.ie
+© www.limerick.ie
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -121,4 +124,6 @@ District write to Irish Rail to invite them to attend a future Meeting of the Di
 discuss this proposal.
 
 
----
+
+[[PAGE_END:2]]
+

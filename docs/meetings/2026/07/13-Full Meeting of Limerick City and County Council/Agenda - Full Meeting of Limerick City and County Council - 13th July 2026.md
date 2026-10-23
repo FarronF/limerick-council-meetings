@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-full-meeting-of-limerick-city-and-county-council-13th-july-2026.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 13th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-full-meeting-of-limerick-city-and-county-council-13th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Comhairle Cathrach Seirbhisi Corpardideacha, Rialachais & Custaiméara
 : ‘ Comhairle Cathrach & Contae Luimnigh
-——s & Contae Luimnigh | Cearnchearthii Chorpardideach
-NrN Cé na gC the
+—_ & Contae Luimnigh Cearnchearthui Chorpardideach
+ANnr™N Cé na gC the
 Limerick City na gCeannat
-—=> : Luimneach. V94 EH90
+—=> ; Luimneach. V94 EH90
 & County Council
 Corporate. Governance & Customer Services
 Limerick City and County Council
 Corporate Headquarters
 Merchant's Quay
-Limerick. V94 EH90
+Limerick. VO4 EH90
 
 8" July, 2026. t: +353 (0) 61557 150
 
@@ -41,12 +42,12 @@ Limerick City and County Council
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 13” July, 2026, at 3pm.
+Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 13" July, 2026, at 3pm.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
-C.Yaveldl
+C.Yavelll
 
 Ciara Farrell,
 Meetings Administrator.
@@ -62,18 +63,20 @@ To adopt Minutes of the following Meetings:
 
 (d) Special Meeting of the Council held on 29" May, 2026.
 
-(e) Annual Meeting of the Council held on 30 June, 2026.
+(e) Annual Meeting of the Council held on 30" June, 2026.
 
-2. Declaration of interest
+2. Declaration of Interest
 
-td] limerick.ie
+J limerick.ie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www.limerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -124,7 +127,9 @@ Grant and Award Scheme.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -138,7 +143,9 @@ Grant and Award Scheme.
 14.
 
 3
+
 Christmas Lights Funding Open Call 2025
+
 To consider the approval of Grants under the Christmas Lights Funding Open Call 2025.
 (Report Enclosed)
 
@@ -178,7 +185,9 @@ Development Act 2024.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -192,7 +201,7 @@ Development Act 2024.
 4
 
 Part 8 - Ryder Cup Temporary Park and Ride Facility
-Collopys Cross, Attyflin, Patrickswell PT8LL383
+Collopys Cross, Attyflin, Patrickswell PTS8LL383
 
 To consider the Mayor’s Report and Recommendation in accordance with Section 179 of
 the Planning and Development Act, 2000 (as amended) in relation to the proposal to
@@ -207,7 +216,7 @@ To agree Schedule of Proposed Dates for Strategic Policy Committee Meetings up t
 
 (Report Enclosed)
 Financial Update
-(a) Update on Limerick City and County Council's Financial position.
+(a) Update on Limerick City and County Council’s Financial position.
 (b) Update on Mayoral Fund.
 Strategic Policy Committee Reports
 To consider reports as follows:
@@ -228,11 +237,13 @@ for approval.
 
 (Draft Work Programme Enclosed)
 
-2. That Museum Policies be submitted to the Full Council for approvol.
+2. That Museum Policies be submitted to the Full Council for approval.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -296,7 +307,9 @@ Event.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -334,7 +347,7 @@ estion itted . McSweene
 Directorate to provide the source of funding and rationale for the recently published
 request for tender seeking a communications advisory service to deliver an integrated
 Public Relations (PR), Digital Marketing and Social Media campaign in support of the
-Council's Housing Programme.
+Council’s Housing Programme.
 
 Question submitted by Councillor E. O'Donovan
 
@@ -346,10 +359,12 @@ data centres are located adjacent to, or are intended to be powered by, renewabl
 sources.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-24.
+24,
 
 7
 
@@ -368,7 +383,7 @@ disabilities and making decisions in the area of accessibility.
 NOTICES OF MOTION
 Notice of Motion submitted by Councillor O. O'Sullivan
 
-I will move at the next Meeting of Limerick City and County Council that this Council will
+| will move at the next Meeting of Limerick City and County Council that this Council will
 recognise the value of strategic continuity and the need to maximise previous public
 investment in promoting Limerick nationally and internationally and provide a report to
 the July Plenary Meeting of Limerick City and County Council on the current status,
@@ -378,7 +393,7 @@ governance, ownership, delivery and future direction of the Limerick Place Brand
 Notice of Motion submitted by Councillor G. Ward (to be referred to the Travel
 and Transportation Strategic Policy Committee)
 
-! will move at the next Meeting of Limerick City and County Council that this Council
+I will move at the next Meeting of Limerick City and County Council that this Council
 acknowledges the critical need to improve and protect road users with the necessary
 clearance for wide agricultural machinery. | would like to propose that all village and town
 centres under the renewal schemes would adopt a hatched road marking in the centre of
@@ -396,7 +411,9 @@ on the Killarney Road, Abbeyfeale and that this Motion if passed be forwarded to
 Mayor's Office and also placed on the next full Council agenda.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
@@ -442,4 +459,6 @@ support and mentorship he gave to generations of Limerick artists.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

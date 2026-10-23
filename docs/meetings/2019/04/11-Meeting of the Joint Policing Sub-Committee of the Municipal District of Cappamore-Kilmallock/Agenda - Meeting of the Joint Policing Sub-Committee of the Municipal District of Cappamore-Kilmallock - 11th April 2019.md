@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Agenda%20JPC%20Meeting%2011th%20April%202019.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 11th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Agenda%20JPC%20Meeting%2011th%20April%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-tn | ee ten
+_—_—_— Comhairle Cathrach
 & Contae Luimnigh
-AN ™
+AN hf ™
 
 —> Limerick City
 & County Council
@@ -45,13 +46,14 @@ Is mise le meas,
 
 Kare r,
 Meetings Administrator.
-GENDA
+
+AGENDA
 1, Minutes
 
 To adopt Minutes of Meeting of the Cappamore-Kilmallock Municipal District Joint Policing
 Sub-Committee held on 28th February, 2019,
 
-2. Policing Issues
+2. Policing issues
 
 To discuss policing issues in the District.
 
@@ -59,4 +61,6 @@ Limerick City & County Council, Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick. V35 K497 063-98019
 
 
----
+
+[[PAGE_END:1]]
+

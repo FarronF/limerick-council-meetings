@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_15th_january_2015.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 15th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_15th_january_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANF : Cé na gCeannaithe,
+ANF . Cé na gCeannaithe,
 
 => , Luimneach *
 . .
@@ -33,7 +34,7 @@ Limerick Corporate Services and Change Management,
 
 CITY NTY Limerick City and County Council,
 
-& rie Merchants Quay,
+& ee Merchants Quay,
 
 COU L Limerick
 
@@ -56,7 +57,7 @@ Tina Knox,
 Meetings Administrator.
 
 AGENDA
-as Minutes
+is Minutes
 
 To adopt the Minutes of the Meeting of the Municipal District of Cappamore-Kilmallock
 held on 11" December, 2014.
@@ -67,18 +68,19 @@ To receive Deputation from Old Pallas/ Nicker /New Pallas combined Residents
 Association.
 
 QUESTIONS
-
 uestions submitted by Councillor W. O’Donnell
 
 3. | will ask at the next meeting for an update on the proposed upgrading of the Waste
 Water Treatment Plant in Oola.
 
 @ customerservices@limerick.ie
-Ceanncheathni Chorpardéideach, Cé na gCeannaithe, Luimneach © vewewlimerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vewewlimerickie
 Corporate Headquarters, Merchants Quay, Limerick YW @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -97,4 +99,6 @@ Towns Committees to ascertain what assistance can be given in advance of this ye
 Tidy Towns Competition.
 
 
----
+
+[[PAGE_END:2]]
+

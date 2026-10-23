@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Minutes%20Monthly%20Meeting%2015.04.19_1.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Minutes%20Monthly%20Meeting%2015.04.19_1.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 15TH** **APRIL, 2019**
@@ -86,7 +87,9 @@ And Resolved:
 It was proposed by Councillor Sheahan, seconded by Councillor Loftus and agreed that the May
 
 Meeting of the Metropolitan District of Limerick would be held on 20th May, 2019.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -166,7 +169,9 @@ be fast tracked in order to provide homes to people on the housing waiting list.
 to the units that are currently vacant and requested the Executive to complete the refurbishment
 
 works on these properties as soon as possible.
----
+
+[[PAGE_END:2]]
+
 3
 
 **4.**
@@ -236,7 +241,9 @@ operation and management models. The most recent visit was to the Clondalkin
 Equine Centre in Dublin. Arrangements will be made to convene a meeting, at
 
 which members will be updated on the learnings from the Clondalkin study visit.
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.**
@@ -326,7 +333,9 @@ anticipated to complete by December 2019. Exact dates will be coordinated with
 Community Support Services as the project approaches completion to align
 
 timing of allocations of the units with the completion date.
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICES OF MOTION**
@@ -420,7 +429,9 @@ The motion was proposed by Councillor Hogan and seconded by Councillor Leddin.
 ***Boherbuoy Band***
 
 ***€1,000***
----
+
+[[PAGE_END:5]]
+
 6
 
 The motion was proposed by Councillor Collins and seconded by Councillor O’Hanlon.
@@ -506,7 +517,9 @@ In 2008, extensive public realm improvements providing a pedestrian focus were c
 out on Thomas Street and Catherine Street, at a cost of €4.3 million, which has seen the
 
 development of a cafe quarter within the prime city centre retail area.
----
+
+[[PAGE_END:6]]
+
 7
 
 The Limerick 2030 Economic and Spatial Plan adopted in 2014, endorsed the Limerick City
@@ -584,7 +597,9 @@ The motion was then proposed by Councillor O’Hanlon and seconded by Councillor
 It was agreed that this Notice of Motion be referred to the Environment Strategic Policy
 
 Committee.
----
+
+[[PAGE_END:7]]
+
 8
 
 This concluded the Meeting.
@@ -598,4 +613,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

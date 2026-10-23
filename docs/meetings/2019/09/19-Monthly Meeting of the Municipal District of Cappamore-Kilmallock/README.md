@@ -32,7 +32,7 @@ Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 2
 
 Disposal of Land at Doon - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/04%20Disposal%20Doon%20South%2C%20Doon.pdf) - Text not extracted
 
-Taking in Charge of Estates_ The Paddocks, Bruree - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/05%20Taking%20in%20Charge.pdf) - Text not extracted
+Taking in Charge of Estates: The Paddocks, Bruree - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/05%20Taking%20in%20Charge.pdf) - Text not extracted
 
 Housing Progress Report - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/06%20Housing%20Progress%20Report%204-9-19.pdf) - Text not extracted
 

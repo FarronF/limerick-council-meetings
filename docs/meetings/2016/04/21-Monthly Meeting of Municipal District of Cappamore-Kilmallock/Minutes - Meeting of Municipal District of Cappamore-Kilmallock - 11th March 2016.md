@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2011th%20March%202016.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 11th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2011th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,**
@@ -88,7 +89,9 @@ located in the old FCJ Convent. There was also a renewed focus on tourism in the
 The following issues were raised :
 
  A traffic management plan and off street parking were required in the town.
----
+
+[[PAGE_END:1]]
+
 2
 
  There were problems with traffic congestion, speeding and shortage of parking outside
@@ -166,7 +169,9 @@ that Members could forward requests for road marking works or other queries to h
 and requests can also be forwarded to the Executive Engineer (Mr. J. Moloney).
 
 Councillor Donegan requested that signage at O’Rourkes Cross be looked at.
----
+
+[[PAGE_END:2]]
+
 3
 
 **NOTICES OF MOTION ADJOURNED FROM PREVIOUS MEETING**
@@ -250,7 +255,9 @@ directions.
 Additional signage was erected to remind drivers of the speed limit that
 
 exists.
----
+
+[[PAGE_END:3]]
+
 4
 
 
@@ -330,7 +337,9 @@ GMA workshop.
 The following items were raised at the completion of the Agenda:
 
 It was agreed that a representative from Limerick Youth Service would be invited to attend the
----
+
+[[PAGE_END:4]]
+
 5
 
 April or May Meeting to give an update on the Youth Bank.
@@ -370,4 +379,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

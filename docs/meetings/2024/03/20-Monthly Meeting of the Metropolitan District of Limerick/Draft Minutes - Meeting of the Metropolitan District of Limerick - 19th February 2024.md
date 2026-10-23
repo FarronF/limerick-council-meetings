@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-february-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 19th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -88,7 +89,9 @@ declared.
 (a) Circulated, Report of the Senior Staff Officer, Housing Support Services dated 30th January,
 
 2024, setting out proposals for disposal of Freehold Interest of premises consisting of a dwelling
----
+
+[[PAGE_END:1]]
+
 2
 
 house situate at 1 Larch Court, Kennedy Park, Limerick and the intention to bring a Section 183
@@ -156,7 +159,9 @@ a Section 183 Notice to Full Council in this regard, for approval.
 The report, as circulated, was noted by Members.
 
 **4.Planning, Environment and Place-Making Directorate**
----
+
+[[PAGE_END:2]]
+
 3
 
 **Taking in Charge of Estates - Declaration of Roads to be Public Roads**
@@ -228,7 +233,9 @@ amended)”
 Circulated, Report of the Director of Services, Transportation and Mobility Directorate dated 12th
 
 February, 2024 and enclosed Chief Executive’s Report dated 12th January, 2024 setting out details
----
+
+[[PAGE_END:3]]
+
 4
 
 in relation to the St. Pauls Roundabout to Ballykeeffe Roundabout Active Travel Scheme. The report
@@ -302,7 +309,9 @@ also giving pedestrians a safe opportunity to cross Hyde Road. There are further
 pedestrian crossings locations along Hyde Road.
 
 **7.Question submitted by Councillor C. Slattery**
----
+
+[[PAGE_END:4]]
+
 5
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, in relation to the pedestrian***
@@ -378,7 +387,9 @@ Council’s Public Realm Section is reviewing the long term strategy for outdoor
 in Limerick City.
 
 **10.Question submitted by Councillor J. Leddin**
----
+
+[[PAGE_END:5]]
+
 6
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what progress is being made***
@@ -464,7 +475,9 @@ responsibilities to clear up after their pets.
 ***permission, and what steps will be taken to address this issue, given that no operational creche***
 
 ***has been provided under any of those permissions to-date.***
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY**: The responsibility to ensure that planning permissions, including the attached conditions,
@@ -538,7 +551,9 @@ the Elected Members of the Metropolitan District on drinking water quality in th
 City area.
 
 **16.Question submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:7]]
+
 8
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick if Limerick City and County***
@@ -616,7 +631,9 @@ extension of the playground has also been requested by the Elected Members. An
 extension of the playground may be warranted if funding can be provided given the
 
 proposed increase in housing in the village. All possible sources of funding for these works
----
+
+[[PAGE_END:8]]
+
 9
 
 will be examined and the engineer responsible has commenced looking at options and
@@ -690,7 +707,9 @@ the Garda Commissioner.
 **REPLY**: There are 5615 unpaid parking fines from 1st January, 2022 to 1st February 2024 and the
 
 total amount outstanding to date is €175,265.
----
+
+[[PAGE_END:9]]
+
 10
 
 All unpaid fines are followed up by the Council’s Accounts Receivable Section, up to three
@@ -760,7 +779,9 @@ In proposing the Motion, Councillor Kilcoyne highlighted the increase in noise l
 vegetation had been removed along the railway line, and pointed out the difficulties this was
 
 causing for residents living near the line.
----
+
+[[PAGE_END:10]]
+
 11
 
 Councillor O’Donovan proposed an amendment to the Motion to also include from Patrickswell to
@@ -830,7 +851,9 @@ was urgently in need of an upgrade.
 expansion of Castleconnell playground in 2024. It is not clear the level of funding that can
 
 be provided from the 2024 contributions. It may be the case that the project will be funded
----
+
+[[PAGE_END:11]]
+
 12
 
 over a period of one or two years. The Council can consider this further once the projects
@@ -898,7 +921,9 @@ at the University for Councillors and for Staff of the Council who need to engag
 to resolve issues in the location.
 
 **33.Notice of Motion submitted by Councillor C. Sheehan**
----
+
+[[PAGE_END:12]]
+
 13
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick, that Limerick City and***
@@ -972,7 +997,9 @@ Limerick City & County Council will endeavour to carefully and meticulously supp
 process, engaging with An Garda Síochána, Elected Members and the Public.
 
 **35.Correspondence**
----
+
+[[PAGE_END:13]]
+
 14
 
 Correspondence was noted and taken as read.
@@ -992,4 +1019,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20July%202017.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20July%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -90,7 +91,9 @@ On the proposal of Councillor Sheahan, seconded by Councillor Teskey it was agre
 Superintendent Tom O’Connor be invited to a Special Meeting of the District to discuss
 
 policing issues.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director, Regional Services informed the Meeting that, in relation to the facilitators report
@@ -170,7 +173,9 @@ The Cathaoirleach welcomed Dr. Mihai Bilauca, the Head of Digital Strategy and M
 McDermott, Project Manager to the Meeting. The Head of Digital Strategy presented an
 
 overview of the background, scope and funding for the project and reviewed the detail of
----
+
+[[PAGE_END:2]]
+
 3
 
 where it was proposed to install cameras in the towns of Foynes, Askeaton, Rathkeale, Adare
@@ -246,7 +251,9 @@ informed the Meeting of a conflict of interests as he was acting as auctioneer f
 under discussion and stressed that he would make a public statement of interest should the
 
 sale, as discussed, proceed. Councillor O’Brien and McMahon expressed reservations that
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Sheahan had proposed the purchase of a property in which he had a beneficial
@@ -326,7 +333,9 @@ opening hours
 The Environmental Awareness Officer thanked Members for their suggestions and undertook
 
 to take same into consideration.
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.**
@@ -406,7 +415,9 @@ Planning permission for a housing development on the Blackabbey Road is still
 currently being applied for. The new development if granted will provide a
 
 section of footpath towards the GAA pitch.
----
+
+[[PAGE_END:5]]
+
 6
 
 We are currently procuring a consultant to examine the feasibility of the
@@ -482,7 +493,9 @@ Rathkeale is €119,600. The estimated annual cost of street cleaning is €254,
 The significant balance of €134,400 is subsidised through Local Roads General
 
 Maintenance.
----
+
+[[PAGE_END:6]]
+
 7
 
 **16.**
@@ -552,7 +565,9 @@ W: www.water.ie
 **making a special effort to have the towns and villages in the District cleaned up.**
 
 The Motion was proposed by Councillor Sheahan and seconded by Councillor O’Brien.
----
+
+[[PAGE_END:7]]
+
 8
 
 **19.**
@@ -630,7 +645,9 @@ Correspondence, as circulated, was noted by Members.
 On the proposal of Councillor Keary, seconded by Councillor Teskey it was agreed that
 
 standing orders be suspended to allow for the completion of the Agenda.
----
+
+[[PAGE_END:8]]
+
 9
 
 **22.**
@@ -772,7 +789,9 @@ To install 3 phase electrical fuse board and
 isolators to run the heaters in the large hall.
 
 €1,000
----
+
+[[PAGE_END:9]]
+
 10
 
 **23.**
@@ -844,7 +863,9 @@ and requested an updated report for the next Meeting and that the design team
 mentioned attend.
 
 This concluded the Meeting.
----
+
+[[PAGE_END:10]]
+
 11
 
 Signed:
@@ -856,4 +877,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:11]]
+

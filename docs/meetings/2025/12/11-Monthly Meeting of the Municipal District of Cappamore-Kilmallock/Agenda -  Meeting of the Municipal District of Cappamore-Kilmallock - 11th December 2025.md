@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-11th-december-2025_1.pdf)
+**Original file:** [Agenda -  Meeting of the Municipal District of Cappamore-Kilmallock - 11th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-11th-december-2025_1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 nail Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh
 
-& Contae Luimnigh Oli an Chserte, Ams ainehin Sacigh
+& Contae Luimnigh Oli an Cheeta, Ams ainehin Seige
 
-~“ : . : Co. Wuirnrégn
+~“ : : : Co. Luirnrégn
 — Limerick City
 
 & County Council Limerick City and County Council,
 
-Aras Mairnchin Secoighe Area Office
+Aras Mainchin Seoighe Area Office
 
 Vitmatiock,
 
-C4. Limerick
+Co. Limerick
 
-EIRCODE V35 K497
+EIRCODE W35 K497
 
 t: +353 (0) 63 980 19
 f: +353 (0) 63 985 99
@@ -70,13 +71,15 @@ To adopt Minutes of the following Meeting:
 
 Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 
-20* November, 2025. (Copy enclosed)
-© customerservices@limerick te
-Comhairie Cathrach agus Contae Luimnigh, Oifig an Cheantair, Ards Mhainchin Seoighe © woe dimerickie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office Ww @LimerickCouncil
+20° November, 2025. (Copy enclosed)
+© customerservices@limerickie
+Comhairie Cathrach agus Contae Luimnigh, Oifig an Cheantair, Ards Mhainchin Seoighe © wore timerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . Declaration of Interest
@@ -119,7 +122,9 @@ accommodation in the Municipal District of Cappamore-Kilmallock in 2024-
 to each Notice to Quit issued?
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motions
@@ -133,4 +138,6 @@ resurfacing works in the 2026 Schedule of Municipal District Works Programme.
 10. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

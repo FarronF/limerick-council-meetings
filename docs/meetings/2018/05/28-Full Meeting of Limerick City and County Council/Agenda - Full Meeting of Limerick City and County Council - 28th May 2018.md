@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%20May%20Meeting%20of%20Council.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 28th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%20May%20Meeting%20of%20Council.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Setrbhisi Corparaideacha,
 
 Comhairle Cathrach :
--_.-—_i & Contae Luimnigh Comhairle Ee Sn Luimnigh.,
+“i & Contae Luimnigh Comhairle Ee a Luimnigh,
 
-Nr™N
+NeN
 
 Céna gCeannaithe,
 
-— Limerick City Luimneach
+=— Limerick City Luimneach
 & County Council
 
 Corporate Services.
@@ -46,7 +47,7 @@ t: +353 (0) 61 557150
 
 23 May, 2018. f: +353 (0) 61 415 266
 
-To: n imerick Ci
+To: n imerick Ci -
 
 Council
 
@@ -58,7 +59,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-> Gano
+> Gane
 James Clune,
 
 tings Administrator.
@@ -88,15 +89,17 @@ To consider proposal for the disposal of land at:
 (f) 40, Downey Street, Killalee, Limerick.
 
 @ customerservices@limerickic
-& wwwilimerickie
+@& wwwalimerickie
 
 ve
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -114,7 +117,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 (m)  Carrowkeel, Co. Limerick.
 
-(Statutory Notices dated 24" and 30" April and 1%, 4 8", 9" 11" and 15”
+(Statutory Notices dated 24" and 30" April and 1%, 4 8", 9", 11" and 15”
 May, 2018, already circulated)
 
 Support Services Directorate
@@ -150,7 +153,9 @@ transfers.
 (Report already circulated)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -167,7 +172,7 @@ Limerick Twenty Thirty Strategic Development DAC Funding
 
 To consider the granting of a further loan facility to Limerick Twenty Thirty
 Strategic Development DAC for €13,767,225 to complete the Gardens
-International Development to Shell and Core and Category A fit-out for three
+Internationa! Development to Shell and Core and Category A fit-out for three
 floors, and additional funding of €47,256 for Troy Studios completion, in
 accordance with Section 66 of the Local Government Act, 2001, as amended.
 
@@ -199,7 +204,9 @@ Development Strategic Policy Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (i)
@@ -234,7 +241,6 @@ Local Government Act, 2001, as amended.
 (Report Enclosed)
 
 Requests for Council Nomination to be a Candidate -
-
 Presidential Election
 
 To consider requests from Ms. Marie Goretti Moylan and Mr. Kevin Sharkey
@@ -244,7 +250,9 @@ Election Act, 1993.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (m)
@@ -298,7 +306,9 @@ Note: Integration Strategy for Limerick City and County included for
 consideration under Item No. 6 on the Agenda.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (v) Chairperson’s Report - Environment Strategic Policy Committee
@@ -346,7 +356,9 @@ O'Connell Str: Li
 To receive update on the O’Connell Street Limerick Project.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Regional and Cultural Services Directorate
@@ -384,6 +396,7 @@ To consider approving recommended grants under the Arts Act, 2003.
 (Report Enclosed)
 
 Limerick Short Film Bursary Awards 2018
+
 To consider approving recommended Short Film Bursaries 2018.
 
 (Report Enclosed)
@@ -395,7 +408,9 @@ To consider approving recommended Limerick Theatre Bursary Awards 2018.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (f) Cross-Party Committee - Centenary Events 2019-2021
@@ -426,18 +441,20 @@ on 17" April, 2018.
 Qualified?” held in Termonfeckin, Co. Louth, on 5™ May, 2018.
 
 (c) “Accessibility and Inclusion through Infrastructure” held in Waterville, Co.
-Kerry, from 11" to 13" May, 2018.
+Kerry, from 11 to 13" May, 2018.
 
 (d) “Public Private Partnership! Opportunities or Threat?” to be held in
 Wexford from 8" to 10" June, 2018.
 
-(e) “Inspire Training with Women for Election” to be held in Cork on 23 June,
+(e) “Inspire Training with Women for Election” to be held in Cork on 23% June,
 
 2018.
 (Details already circulated electronically)
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -452,7 +469,7 @@ Meeting/Event.
 
 ADJOURNED NOTICE OF MOTION
 
-Notice of Motion submitted by Councillor J. Scanlan
+Notice of Motion submitted by Councillor J. Scanian
 
 | will move at the next Meeting that the Minister for Education and Skills be
 requested to consider retaining CSPE (Civic, Social and Political Education) as a Junior
@@ -460,7 +477,7 @@ Certificate examination subject.
 
 QUESTIONS
 
-Questions submitted by Councillor S. O Ceallaigh
+Questions submitted by Councillor S. 6 Ceallaigh
 
 | will ask at the next Meeting for a definitive date when works will begin and are
 envisaged to be completed on the collapsed wall and footpath next to the
@@ -479,7 +496,9 @@ County Council immediately commence the harmonisation of housing rent payable
 by tenants between City and County.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -497,7 +516,7 @@ by tenants between City and County.
 10
 
 f M mi | M. Collins, F. Foley, J.
-Scanian, L. Galvin, J. Sheahan and S. Browne
+Scanlan, L. Galvin, J. Sheahan and S. Browne
 
 We will move at the next Meeting that additional funding be sought for road
 repairs within the Municipal District of Newcastle West due to the damage caused by
@@ -537,7 +556,9 @@ established on stolen Palestinian land and therefore urges Senators to support t
 Control of Economic Activity (Occupied Territories) Bill, 2018.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -568,4 +589,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:11]]
+

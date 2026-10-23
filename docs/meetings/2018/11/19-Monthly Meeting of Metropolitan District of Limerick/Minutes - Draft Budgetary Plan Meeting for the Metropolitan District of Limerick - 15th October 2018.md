@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01b%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%202018.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting for the Metropolitan District of Limerick - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01b%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE METROPOLITAN**
 
 **DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON**
@@ -132,7 +133,9 @@ Nil
 **General Municipal Allocation**
 
 **€503,000**
----
+
+[[PAGE_END:1]]
+
 2
 
 As all Members were not in favour of the proposal, a vote was taken which resulted as follows:
@@ -170,4 +173,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

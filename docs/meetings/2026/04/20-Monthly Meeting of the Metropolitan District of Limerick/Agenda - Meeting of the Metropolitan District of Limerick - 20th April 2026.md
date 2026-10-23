@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-metropolitan-district-of-limerick-20th-april-2026_0.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-metropolitan-district-of-limerick-20th-april-2026_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach Sakti Corpanidencie, Midlachels 6 Custetméans
-& Contae Luimnigh — ean ne
+i Comhairle Cathrach Sakti Corpanidencie, Midlachels 6 Custetméans
+& Contae Luimnigh — ane ne
 
 — Limerick City Luimne
 & County Council —
 
 Governance & Custorner Services
 
-© +353 (0) 61 557 150
+©: +353 (0) 61 $57 150
 
 15" April 2026
 
@@ -54,14 +55,16 @@ To adopt Minutes of the following Meetings:
 
 (Copies Enclosed).
 
-a
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www .limerickie
-Corporate Headquarters, Merchant's Quay, Limerick shag ae
+2 cemmengiinniin
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www limerickie
+Corporate Headquarters, Merchant's Quay, Limerick sha ae
 
-063 - 556 000
+061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -103,7 +106,9 @@ To receive an update on the progress of a Community Centre in the
 Dooradoyle/Raheen/Mungret area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Part 8 Procedure ~ King’s Island Youth and Community Centre
@@ -145,7 +150,9 @@ Limerick.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -185,11 +192,13 @@ part of the redevelopment works on O'Connell Street, was not completed.
 14. Question submitted by Councillor O'Donovan
 
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
-second stage of the O’Connell Street Revitalisation Project as there is an urgent need to
+second stage of the O'Connell Street Revitalisation Project as there is an urgent need to
 resurface footpaths here especially outside the Belltable Theatre.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor Hickey O’Mara
@@ -221,7 +230,7 @@ pedestrian crossing on the Ballysimon Road.
 
 19. Question submitted by Councillor Gavan
 
-| will ask at the next meeting of the Metropolitan District of Limerick for an update from TIl
+| will ask at the next meeting of the Metropolitan District of Limerick for an update from Til
 regarding a preferred route and funding allocations (as referenced to my January query)
 regarding the UL - Castleconnell - Montpelier Greenway.
 
@@ -232,7 +241,9 @@ Clarina/Ballybrown Public Realm Enhancement Plan and when can we expect a final 
 be published.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21. Question submitted by Councillor McSweeney
@@ -252,14 +263,14 @@ NOTICES OF MOTION
 
 23. Notice of Motion submitted by Councillor Pond
 
-i will move at the next meeting of the Metropolitan District of Limerick that Limerick City &
+I will move at the next meeting of the Metropolitan District of Limerick that Limerick City &
 County Council would engage with Uisce Eireann to kick start the process of installing a
 wastewater treatment plant for the village of Montpellier to stop the flow of untreated
 sewerage entering the River Shannon.
 
 24. of Motion submitted b
 
-| will move at the next meeting of the Metropolitan District of Limerick that all residential
+I will move at the next meeting of the Metropolitan District of Limerick that all residential
 streets between Barrington Street and New Street, on both sides of O'Connell Avenue and
 including Lord Edward Street and the Rosbrien Road are reviewed and a traffic strategy is
 developed to ensure greater safety for pedestrians, reduced congestion for residents, and
@@ -278,7 +289,9 @@ the strategic role of BusConnects in delivering sustainable mobility, supporting
 urban growth, and enabling Transport Oriented Development in line with national policy.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Notice of Motion submitted by Councillor O’Donovan
@@ -287,14 +300,14 @@ urban growth, and enabling Transport Oriented Development in line with national 
 scheme be piloted in partnership with local cafes and 2GoCup to reduce single use coffee
 cups in Limerick City.
 
-27. Notice of Motion submitted by Councillor O’Donovan
+27. Notice of Motion submitted by Councillor O'Donovan
 
 | will move at the next meeting of the Metropolitan District of Limerick for speed reduction
 measures to be installed in Huntsfield Estate, Dooradoyle due to the significant speeding
 currently in the estate.
 
 28. Notice of Motion submitted by Councillors O’Sullivan, Butler, McSweeney, Kiely
-and Dovle
+and Doyle
 
 We will move at the next meeting of the Metropolitan District of Limerick that Limerick City
 and County Council write to Taoiseach Micheal Martin and Tanaiste Simon Harris to formally
@@ -322,7 +335,9 @@ be installed at the pedestrian crossing at Orombanna and the speed be reduced to
 hour.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 32. Notice of Motion submitted by Councillor Hickey O’Mara
@@ -346,4 +361,6 @@ residents of Caherdavin Lawn and the surrounding estates.
 35. Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

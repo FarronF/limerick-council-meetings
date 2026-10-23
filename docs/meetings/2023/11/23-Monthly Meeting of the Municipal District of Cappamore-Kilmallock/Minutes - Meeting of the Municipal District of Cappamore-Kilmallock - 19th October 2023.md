@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/02-Minutes-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-19th-October-2023.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 19th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/02-Minutes-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-19th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN ARAS
@@ -80,7 +81,9 @@ Francis "Honey Fitz" Fitzgerald.
 It was agreed that follow up in relation to the submission to the protocol committee would
 
 take place.
----
+
+[[PAGE_END:1]]
+
 Councillor Mitchell advised that contact had been made by the Mayors Office with Mr Joe
 
 Kennedy’s office ( United States Special Envoy to Northern Ireland), with a view to a possible
@@ -136,7 +139,9 @@ To note proposal for the disposal of land as follows:-
 Purchase of Freehold: - 2 Crawford Street, Bruff, Co Limerick.
 
 The reports as circulated, were noted by the Members.
----
+
+[[PAGE_END:2]]
+
 NOTICES OF MOTION
 
 **The meeting was adjourned for 15 minutes by An Cathaoirleach and the press were asked**
@@ -190,7 +195,9 @@ connectivity from the Abbeyowney Estate in Murroe to the village. The Roads Engi
 determine the most appropriate solution and an application will be made to the Limerick
 
 Active Travel office/NTA to fund improvement works under annual Active Travel allocations.
----
+
+[[PAGE_END:3]]
+
 9. Notice of Motion submitted by Councillor Teefy
 
 I will move at the next Municipal District meeting that remedial/safety works be carried out
@@ -246,7 +253,9 @@ The Cappamore Kilmallock MD Roads Engineer carries out continual reviews of the 
 Any defects on existing road markings or signage on the R513 between Garyspillane and
 
 Ballylanders will be rectified as soon as practicable.
----
+
+[[PAGE_END:4]]
+
 12. Question submitted by Councillor Donegan
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District as to when is
@@ -320,7 +329,9 @@ o Space outside recycling centre to be topsoiled and reseeded, and will be
 maintained by the local Community Employment Scheme.
 
 o It was requested that the pedestrian crossings are also repainted.
----
+
+[[PAGE_END:5]]
+
 o A request was made that correspondence be sent to Nora Higgins, Herbertstown, on
 
 her 100th birthday.
@@ -384,4 +395,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

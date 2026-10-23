@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/03.03.2025-economic-development-enterprise-tourism-and-planning-spc-agenda.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 3rd March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/03.03.2025-economic-development-enterprise-tourism-and-planning-spc-agenda.pdf)
 
----
+[[FILE_START]]
+
 1
 
 (Image omitted)
@@ -76,7 +77,9 @@ calls on the Government to provide additional financial incentives and supports 
 encourage the owners of unoccupied properties located in the city centre to redevelop
 
 for commercial and or residential purposes.
----
+
+[[PAGE_END:1]]
+
 2
 
 (Image omitted)
@@ -98,4 +101,6 @@ Monday, 13th October 2025
 
 
 Monday, 8th December 2025
----
+
+[[PAGE_END:2]]
+

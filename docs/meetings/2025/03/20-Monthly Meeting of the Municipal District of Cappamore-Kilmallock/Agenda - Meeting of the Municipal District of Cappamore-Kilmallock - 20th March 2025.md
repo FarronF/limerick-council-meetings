@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-march-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach — in Chetan Anke Decne ne ;
+ae Comhairle Cathrach — an Chetan Ane Sener sect ;
 
-& Contae Luimnigh Olfig an Cneantair, Aras “Cl Mochesig.
+& Contae Luimnigh Oilfig an Cneantair, Aras “Cl Mochesig
 
-AN 4 , : Co, Lusimnigh.
+AN 4 . : Co, Luimnigh.
 a Limerick City
 
 & County Council Limerick City and County Council,
@@ -38,10 +39,10 @@ Co. Limenck.
 
 EIRCODE V35 K497
 
-t: 4383 10) 63 88015
+t: 4.383 10) 63 88015
 f: 353 10) 63 985 99
 
-14™ March, 2025.
+14 March, 2025.
 
 A Chomhairleoir, a chara,
 
@@ -69,18 +70,20 @@ February, 2025.
 (Copy enclosed)
 2. Declaration of Interest
 = imerick.te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe www.limericiie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe www.limericikie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncit
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
 
-7.
+YB
 
 Deputation
 
@@ -122,7 +125,9 @@ works re the Market House and the Old Creamery, Kilfinane and what are the next 
 projects.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Conway
@@ -164,4 +169,6 @@ measures be put in place on a section of the road edge on the R513 at Boskill, C
 where there is only a grass margin on the boundary of the road.
 
 
----
+
+[[PAGE_END:3]]
+

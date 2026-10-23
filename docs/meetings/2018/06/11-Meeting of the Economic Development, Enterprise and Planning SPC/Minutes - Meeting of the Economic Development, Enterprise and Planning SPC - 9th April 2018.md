@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20SPC%209th%20April%202018.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20SPC%209th%20April%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES**
 
 **OF**
@@ -124,7 +125,9 @@ commence 2019)
 Committee members highlighted the lack of growth in rural areas and the need for
 
 schools and more housing in rural areas. It was stated that future development
----
+
+[[PAGE_END:1]]
+
 should address this in order to grow rural areas in a way that encourages people to
 
 live there, as young people are currently forced to leave rural towns and go to cities.
@@ -218,7 +221,9 @@ Key issues covered in the presentation included:
  On-going Initiatives
 
  Strategic Partners
----
+
+[[PAGE_END:2]]
+
  Rathkeale Enterprise Centre
 
  Kantoher and Bruree Enterprise Centre
@@ -260,4 +265,6 @@ This concluded the business of the meeting
 **Councillor Vivienne Crowley**
 
 Chairperson
----
+
+[[PAGE_END:3]]
+

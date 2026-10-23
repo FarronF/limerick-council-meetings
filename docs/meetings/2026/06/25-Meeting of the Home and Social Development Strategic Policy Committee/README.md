@@ -26,3 +26,5 @@ Files:
 
 Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 25th June 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-25th-june-2026.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Home%20and%20Social%20Development%20Strategic%20Policy%20Committee%20-%2025th%20June%202026.md)
 
+Minutes – Meeting of the Home and Social Development Strategic Policy Committee –25th June 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-meeting-of-the-home-and-social-development-strategic-policy-committee-25th-june-2026.pdf) - [Extracted text](./Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Development%20Strategic%20Policy%20Committee%20%E2%80%9325th%20June%202026.md)
+

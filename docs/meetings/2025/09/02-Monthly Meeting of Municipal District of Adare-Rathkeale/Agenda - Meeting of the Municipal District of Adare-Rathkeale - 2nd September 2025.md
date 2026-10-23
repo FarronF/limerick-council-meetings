@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-08/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-2nd-september-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 2nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-08/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-2nd-september-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+_——_—_ Comhairle Cathrach
 & Contae Luimnigh
-ACN ns
+ACN as
 —— Limerick City
 & County Council
 
@@ -42,14 +43,14 @@ Rath Caola.
 Co. Luimnigh
 
 Adare-Rathkeale Municipal District,
-Limerick City and County Council
+Limerick City and County Covncil
 Aras Sean Finn,
 
 New Line,
 
 Rathkeale,
 
-Co. Limerick
+Co. Limerick.
 
 EIRCODE V94 HKLV
 
@@ -58,14 +59,14 @@ EIRCODE V94 HKLV
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
+Aras Sedan Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
 Tuesday 2” September, 2025 at 10.00 a.m. The business to be transacted is set out on the
 
 appended Agenda.
 
 Is mise le meas,
 
-a
+oe
 
 Meetings Administrator.
 
@@ -88,10 +89,12 @@ Corporate Headquarters, Merchants Quay, Limerick.
 © weewlimerickie
 @Limeric
 
-{ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -128,14 +131,16 @@ access junction opposite the old golf course.
 
 Question submitted by Councillor B. Collins
 
-| will ask at the next Meeting that Limerick City and County Council provides an update to
+t will ask at the next Meeting that Limerick City and County Council provides an update to
 the Councillors at the next meeting of the Adare/Rathkeale EA on the draft proposed
-routes which are being considered as a solution to the current NM20 plan that is
+routes which are being considered as 2 solution to the current NM20 plan that is
 indicating that all traffic travelling from the southern or Cork direction will have to travel
 through the village of Patrickswell to access the Dublin (M7) motorway.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -145,7 +150,7 @@ I will move at the next Meeting that this District write to the Minister for Agr
 improve substantially approval times in relation to the Targeted Agricultural Modernisation
 Scheme grant applications.
 
-11. Notice bmitted by Coun 0’ ue
+11. Notice ibmitted by Coun 0’ ue
 
 | will move at the next Meeting that this District write to the Minister of State at the
 Department of Education and request that any person regardless of age be allowed to drive
@@ -155,4 +160,6 @@ meet the health requirements .
 12. A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

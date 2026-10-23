@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-ii-2020-09-02-agenda.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 2nd September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-ii-2020-09-02-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-gL Comhairle Cathrach
+gE Comhairle Cathrach
 & Contae Luimnigh
-An ~~ — —
 
 - — Limerick City
 & County Council
@@ -31,14 +31,14 @@ An ~~ — —
 28" August, 2020
 
 Duiche Bardais an Chaisiedin Nua Thiar.
-Comhatte Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
 Gortbul,
 
 An Caisle4n Nua Thin
 
-Co. Luiennigh
+Co. Lluiennigh
 
 Newcastle West Municipal District,
 Umerick City and County Council,
@@ -51,16 +51,16 @@ Co. Limerick.
 
 Sircode: V42EH73
 
-To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West” =——_
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West” =—_
 
-AChomhairleoir, a chara,
+A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 2" September,
 2020, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-Margarét’ Corbett,
+Margarét Corbett,
 
 Meetings Administrator.
 
@@ -94,7 +94,9 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -130,7 +132,7 @@ diverting water to the Abbeyfeale Water Treatment Plant.
 
 Questions submitted by Councillor T. Ruddle
 
-| will ask at the next Meeting regarding a major safety issue which has arisen in
+t will ask at the next Meeting regarding a major safety issue which has arisen in
 relation to cycling on footpaths, and the latest gadget motorised small type scooters
 which are highly dangerous for young and old pedestrians when used on footpaths in
 Newcastle West. Can the Council put signs, message on footpaths to make people
@@ -149,7 +151,9 @@ along the right hand Beechwood Avenue approach to Meadow Court Estate., as well
 as that fronting properties towards House No. 20 on the left hand side therein.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -191,7 +195,7 @@ Park, Abbeyfeale to divert water to the treatment plant.
 
 Notice of Motion submitted by Councillor T. Ruddle
 
-I will move at the next Meeting that the Council would initiate plans for a permanent
+| will move at the next Meeting that the Council would initiate plans for a permanent
 memorial structure in honour of Sophie Pierce a pioneering global aviator to be
 erected in the town of Newcastle West where she was brought up. This is in
 recognition of her leadership in promoting the role of women in society, her
@@ -214,12 +218,16 @@ Bus Eireann to provide two bus shelters at South Quay, Newcastle West, one servi
 passengers travelling South West and the other serving passengers going North East.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-21. —_‘ It will move at the next Meeting that Limerick City and County Council look at the
+21. —_‘t will move at the next Meeting that Limerick City and County Council look at the
 cleaning and security of Newcastle West playground. In recent times the playground
 has become an area for littering and anti social behaviour.
 
 
----
+
+[[PAGE_END:4]]
+

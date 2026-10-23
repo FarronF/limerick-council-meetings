@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-draft-minutes-monthly-online-meeting-19th-march-2021.pdf)
+**Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-draft-minutes-monthly-online-meeting-19th-march-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON FRIDAY, 19TH** **MARCH, 2021 at 09:45 A.M.**
@@ -86,7 +87,9 @@ The report, as circulated, was noted by Members.
 house situate at 40 St. Lawrence Park, Garryowen, Limerick and the intention to bring a Section
 
 183 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -154,7 +157,9 @@ April 2021.
 ***d) How many signs in total have been acquired by Limerick City and County Council.***
 
 **REPLY**: (a) The signs were ordered in December 2020 and were received at the Annacotty Depot
----
+
+[[PAGE_END:2]]
+
 3
 
 on 29th January, 2021.
@@ -224,7 +229,9 @@ weekly charge of € 3.80 paid to the Council. The Council provide maintenance s
 the property.
 
 c. Tenants are always communicated with in relation to the nature of the arrangement
----
+
+[[PAGE_END:3]]
+
 4
 
 with the AHB and many transfer to full Council Tenancies after 11 months.
@@ -298,7 +305,9 @@ A review of the programme by way of detailed statistical analysis is also carrie
 b. See number of jobs created in Table A and B below.
 
 Table A: Number of jobs created
----
+
+[[PAGE_END:4]]
+
 5
 
 Table B: Number of Projects
@@ -347,7 +356,9 @@ be provided to all Members in the coming weeks.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:5]]
+
 6
 
 **10.Question submitted by Councillor C. Slattery**
@@ -425,7 +436,9 @@ position to award a contract for the completion of the respective works.
 There are number of thermal upgrade contracts (2 / 3 no.) yet to be commenced in the
 
 Carew Park area. These will be progressed on a lagged sequential basis. It is not possible to
----
+
+[[PAGE_END:6]]
+
 7
 
 give accurate dates for the commencement of the works on each contract given the
@@ -497,7 +510,9 @@ circulated as part of the reply.
 ***detailed plan with time frames for removing walls around Moyross to increase permeability and***
 
 ***improve social inclusion.***
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY**: The Regeneration Team are working with the relevant stakeholders with a view to
@@ -573,7 +588,9 @@ The disposal of property by Limerick City and County Council to an external orga
 including Limerick 2030, is a reserved function of the Members, as set out in Section 183 of
 
 the Local Government Act, 2001, as amended.
----
+
+[[PAGE_END:8]]
+
 9
 
 **18.Question submitted by Councillor J. Costelloe**
@@ -649,7 +666,9 @@ Council lands at:
 The Expression of Interest deadline was extended to 4pm on the 18th December 2020.
 
 An Evaluation Panel was convened on the 11th January 2021 and each submission was
----
+
+[[PAGE_END:9]]
+
 10
 
 assessed. Details on members of the Panel are contained within the table below.
@@ -735,7 +754,9 @@ Below find the expenditure for the Festivals and Events Grant Schemes and the Ci
 Festivals and Events Grant Scheme 2019-2020
 
 **€270,000**
----
+
+[[PAGE_END:10]]
+
 11
 
 **The Civic Festivals**
@@ -833,7 +854,9 @@ Where there is a prolonged exceptional cold spell, measures may be taken at Dist
 to address some additional areas within the resources and budgets available and having
 
 given priority to the approved plan. In such periods salt stocks must be managed to ensure
----
+
+[[PAGE_END:11]]
+
 12
 
 strategic routes are prioritised in accordance with the published plan.
@@ -895,7 +918,9 @@ Councillor Benson expressed her ongoing support for the workers at Iconic News b
 Notice of Motion as a Special Meeting of Limerick City and County Council had taken place on this
 
 issue, since her Notice of Motion had been submitted.
----
+
+[[PAGE_END:12]]
+
 13
 
 **26.Notice of Motion submitted by Councillor J. Leddin**
@@ -969,7 +994,9 @@ The motion was proposed by Councillor Leddin, seconded by Councillor O’Donovan
 reduced significantly due to the anticipated impact of Covid 19 and the budget that was
 
 allocated is being used for the delivery of the planned digital content for these events.
----
+
+[[PAGE_END:13]]
+
 14
 
 Limerick City and County Council are currently working with Fáilte Ireland in relation to
@@ -1043,7 +1070,9 @@ The motion was proposed by Councillor Butler, seconded by Councillor Costelloe a
 In proposing the motion, Councillor Butler highlighted the issues in relation to speeding in housing
 
 estates and the ongoing concerns of local residents regarding same.
----
+
+[[PAGE_END:14]]
+
 15
 
 Members supported the motion but also agreed that speed ramps were not the only solution and
@@ -1119,7 +1148,9 @@ unacceptable.
 ***UL Governing Authority and the Gardai on a proposal to install cameras in the community***
 
 ***adjoining the estates near the UL campus.***
----
+
+[[PAGE_END:15]]
+
 16
 
 The motion was proposed by Councillor Kiely, seconded by Councillor Sheahan (M) and agreed.
@@ -1193,4 +1224,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:16]]
+

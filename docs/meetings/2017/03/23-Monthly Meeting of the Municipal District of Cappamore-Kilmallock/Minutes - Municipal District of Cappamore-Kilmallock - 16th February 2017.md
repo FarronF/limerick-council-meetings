@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-03</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-02-16_meeting_minutes.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 16th February 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-02-16_meeting_minutes.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN
@@ -88,7 +89,9 @@ under the following headings:
 • Change Programme.
 
 • Limerick 2020 Bid / Limerick Cultural Strategy / 8 Steps to Inclusive Practice.
----
+
+[[PAGE_END:1]]
+
 2
 
 • Confidence – Community Engagement.
@@ -170,7 +173,9 @@ study. The presentation gave a view of surface dressed walkway showing typical c
 with buff chippings and also gave a view of surface dressed walkway showing typical
 
 construction with grey limestone chippings.
----
+
+[[PAGE_END:2]]
+
 3
 
 This initiative was a medium-scale project under the Rural Economic Development
@@ -242,7 +247,9 @@ It was noted that the Cappamore Project for 2016 included:
 residents, businesses and visitors.
 
 • Budget: €35,520.
----
+
+[[PAGE_END:3]]
+
 4
 
 An attitudinal survey would be conducted once construction of the footpaths had taken
@@ -310,7 +317,9 @@ carried out on this road in the meantime as part of routine maintenance
 works and the Supervisor will be requested to carry out whatever
 
 patching is appropriate.
----
+
+[[PAGE_END:4]]
+
 5
 
 Other Matter Raised:
@@ -332,4 +341,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

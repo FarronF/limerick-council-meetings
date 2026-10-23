@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District - 20th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ANA : Cé na gCeannaithe,
-—=—-> Luimneach
+—=—> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay.
@@ -52,7 +53,7 @@ Is mise le meas,
 Eugene Griffin
 Meetings Administrator
 
-een wo on a nn nnn nn enn een ee ere err an wens eee er eee re ee eres mere nnn ne nena nnn e nnn nnn nnn n nnn nnn nnn en nn eeee
+een we on a nn nnn nn ene een ee en errr nn een e enter ener eee wees mere nnn re nnn nn nee nnn nnn n nen nnn nnn nnn eeeeeeee
 
 AGENDA
 1. Minutes
@@ -65,14 +66,16 @@ September, 2014.
 To note proposal for the disposal of land as follows:
 e Dwelling house situate at 33, Kilmurry Court (Cuirt Cill Mhuire), Garryowen,
 Limerick;
-e Dwelling house situate at 12, The Path (An Casan), Garryowen, Limerick;
+e¢ Dwelling house situate at 12, The Path (An Casan), Garryowen, Limerick;
 e Dwelling house situate at 20, Linden Court, Kennedy Park, Limerick;
 
-Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -126,12 +129,14 @@ this amenity, reopen the path to the public and allow for an increase in the wat
 flow between the River Shannon and Westfield Lake and visa versa.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor Joe Leddin
 
-. [will move at the next Meeting that Limerick City and County Council carry out
+. | will move at the next Meeting that Limerick City and County Council carry out
 the necessary refurbishment works to Mungret College to enable local community
 groups and voluntary organisations to benefit through the use of this building for
 
@@ -145,7 +150,7 @@ throughout the city and county which is a total eyesore and litter problem.
 
 Notice of Motion submitted by Councillor Joe Crowley
 
-. twill move at the next Meeting that Limerick City and County Council will connect
+. | will move at the next Meeting that Limerick City and County Council will connect
 any houses on the Old Clonmacken Road, not already connected, to the main
 sewerage system and, in addition, that the connection to “Knocklyon” be
 completely overhauled and an adequate sewerage system be incorporated to a
@@ -163,6 +168,7 @@ Notice of Motion submitted by Councillor Michael Hourigan
 11.1 will move at the next Meeting that Limerick City and County Council carry out
 works to clear reeds in the wetland area adjacent to the Condell Road, in
 particular, the viewing stand as this amenity is in severe danger of being lost
+
 without maintenance work.
 
 Notice of Motion submitted by Councillor Malachy McCreesh
@@ -170,11 +176,12 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 12.1 will move at the next Meeting that Limerick City and County Council give
 consideration to the request by residents of Little Gerard Griffin Street to have the
 ability to park on the street outside their homes whether by a permit system or
-
 more permanent designated parking.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor Malachy McCreesh
@@ -192,7 +199,7 @@ immediately to upgrade, clean and restore name and information plaques on the
 
 Notice of Motion submitted by Councillor Maria Byrne
 
-15.| will move at the next Meeting to have my Notice of Motion, which was passed re
+15.1 will move at the next Meeting to have my Notice of Motion, which was passed re
 parking initiatives, to be debated on the floor of this Chamber and bring forward
 policy proposals on how we intend to deal with this problem, because it refers to
 parking at Christmas and, if we are to wait until the SPC is set up, we will be
@@ -224,7 +231,9 @@ Limerick’, which is ‘Ceantar Cathrach Luimnigh’ in the Council Chamber,
 Merchant's Quay.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Cmhir. Séighin O Ceallaigh
@@ -239,4 +248,6 @@ Notice of Motion submitted by Councillor Gerry O’Dea
 long term future and plans for our municipal golf course at Rathbane.
 
 
----
+
+[[PAGE_END:5]]
+

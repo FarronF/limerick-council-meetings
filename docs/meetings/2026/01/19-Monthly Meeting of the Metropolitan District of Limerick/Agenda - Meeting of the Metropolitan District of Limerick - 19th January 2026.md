@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-metropolitan-district-of-limerick-19th-january-2026.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 19th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-metropolitan-district-of-limerick-19th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -80,7 +81,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -94,7 +97,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 To consider the Director General's Report under Section 238(3)(c) of the Planning and
 Development Act 2000, as amended, recommending the Licences for the Limerick St.
-Patrick’s Day Parade 2026 and International Band Championship 2026 events to be held,
+Patrick’s Day Parade 2026 and International Band Championship 2026 events to be held.
 
 (Report Enclosed).
 QUESTIONS
@@ -121,7 +124,9 @@ Park at the junction of Parnell Street and Sexton Street be open for use by loca
 and visitor to Limerick City.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Question submitted by Councillor P. Doyle
@@ -160,7 +165,7 @@ Question submitted by Councillor S. Beasley
 a)
 b)
 c)
-d)
+qd)
 
 ©)
 
@@ -199,10 +204,12 @@ Of these births, how many families remained in homeless services for:
 
 @ More than 6 months after the birth
 
-@ More than 12 months after the birth
+® More than 12 months after the birth
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 c) What specific supports are provided to expectant mothers and newborns living in
@@ -220,7 +227,7 @@ costs associated with the following two events:
 
 14. Question submitted by Councillor U. Gavan
 
-| will ask at the next meeting of the Metropolitan District of Limerick for an update on the
+I will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 route for the Greenway path from UL to Castleconnell/Montpellier.
 
 15. Question submitted by Councillor U. Gavan
@@ -242,14 +249,16 @@ Limerick City West and the year they were acquired by this Authority.
 expenditure in addition to the original contract sum and a full breakdown of such costs for
 each of the following Active Travel Schemes:
 
-@ R510 Quinn’s Cross to Raheen Roundabout Scheme
+¢ R510 Quinn’s Cross to Raheen Roundabout Scheme
 
 e Fr. Russell Road Scheme
 
 * Mill Road
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18. Question submitted by Councillor M. Donoghue
@@ -291,12 +300,14 @@ water quality in Corbally Baths and the City Centre and if the pian is continuin
 bathing facilities at these sites.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 24. Question submitted by Councillor D. McSweeney
 
-I will ask at the next meeting of the Metropolitan District of Limerick for an update on the
+| will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 Clarina/Ballybrown Public Realm Enhancement Plan.
 
 25. Question submitted by Councillor Hickey O’Mara
@@ -309,7 +320,7 @@ Riverfest 2026.
 
 | will ask at the next meeting of the Metropolitan District for a full breakdown in tabular
 form of:
-¢ The number of dogs destroyed each month at Limerick Dog Shelter in 2024.
+@ The number of dogs destroyed each month at Limerick Dog Shelter in 2024.
 
 ¢ The number of dogs destroyed each month at Limerick Dog Shelter in 2025.
 
@@ -337,14 +348,16 @@ planned, and current multi-unit residential development in Limerick City North w
 timelines.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
 
 30. Notice of Motion submitted by Councillor C. Slattery
 
-twill move at the next meeting of the Metropolitan District of Limerick that Limerick City
+| will move at the next meeting of the Metropolitan District of Limerick that Limerick City
 and County Council explain why the graveyard gates were not open Christmas Day at Mount
 St. Oliver Cemetery and what measures they are taking to prevent this happening again.
 
@@ -370,7 +383,7 @@ evaluation:
 ¢ Mayorstone Dog Park
 ¢ Castletroy Park Dog Park
 e Plassey Riverwalk/Canal Bank
-Cc) Public usage data and costs after the pilot period to inform future expansion across
+c) Public usage data and costs after the pilot period to inform future expansion across
 the Metropolitan District.
 
 33. Notice of Motion submitted by Councillor S. Beasley
@@ -381,7 +394,9 @@ providers to strengthen inter-agency cooperation and implement measurable protoc
 combat drug and alcohol misuse in homeless accommodation facilities in Limerick.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 34. Notice of Motion submitted by Councillor E. Secas
@@ -421,10 +436,12 @@ value, e.g.:
 
 e Invasive works to the value of €25,000
 
-e Extension or significant internal remodelling to the value of €50,000
+¢ Extension or significant internal remodelling to the value of €50,000
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next meeting of the Metropolitan District of Limerick for salt to be placed
@@ -457,4 +474,6 @@ structured regular discussion on city policing matters for all Metropolitan elec
 43. Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

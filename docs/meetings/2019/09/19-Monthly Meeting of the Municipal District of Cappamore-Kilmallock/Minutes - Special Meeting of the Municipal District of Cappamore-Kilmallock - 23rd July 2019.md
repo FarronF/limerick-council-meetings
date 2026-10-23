@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20Minutes%20Special%20Meeting%2023rd%20July%202019.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 23rd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20Minutes%20Special%20Meeting%2023rd%20July%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -36,7 +37,7 @@ OFFICIALS IN ATTENDANCE:
 
 Meetings Administrator (Ms. K. Butler), Senior Executive Engineer, Cappamore-Kilmallock (Mr
 B. Kidney), A/Senior Executive Planner (Ms. K. Burke), Executive Planner (Ms. B Collins),
-Clerical Officer (Ms. H. O’Neill).
+Clerical Officer (Ms. H. O’ Neill).
 
 4. Imall
 
@@ -57,7 +58,9 @@ accommodate a playing pitch in the interest of active lifestyle and student well
 adjacent to Colaiste lésaef.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Following discussions on completion of the presentation, it was agreed to amend the
@@ -104,4 +107,6 @@ Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:2]]
+

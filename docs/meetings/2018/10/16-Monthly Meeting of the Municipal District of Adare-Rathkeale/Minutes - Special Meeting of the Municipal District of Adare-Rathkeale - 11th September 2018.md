@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%20%28b%29%20Minutes%2011th%20September%2C%202018%20v2.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 11th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%20%28b%29%20Minutes%2011th%20September%2C%202018%20v2.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ Meeting.
 Regarding Item 2 in the Minutes, Counillor Keary enquired if there was any programme in
 
 place for money to be reappropriated to return voids back into stock. The Senior Architect
----
+
+[[PAGE_END:1]]
+
 2
 
 informed Members there is a programme in place and to date some voids have been
@@ -152,7 +155,9 @@ Circulated, report of the Staff Officer, Planning and Environmental Services dat
 August, 2018 setting out the position in relation to the taking in charge of An Curran,
 
 Pallaskenry. The report was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -216,7 +221,9 @@ were in agreement a masterplan was needed for Adare to address pedestrian and tr
 issues in unison.
 
 This was proposed by Councillor Sheahan and seconded by Councillor Keary.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -280,7 +287,9 @@ dated 28th August, 2018 giving an update in relation to flooding issues in Foyne
 Members note the report, as circulated, and requested an update report for the October
 
 Monthly Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 **11.**
@@ -346,7 +355,9 @@ public using the bridge in Rathkeale. He noted the major success of footbridges 
 erected in Newcastle West and Kilmallock. The Director informed Members this motion
 
 would be raised with Central Services.
----
+
+[[PAGE_END:5]]
+
 6
 
 **15.**
@@ -410,7 +421,9 @@ limited office budget and suggested €5,000 per district per year should be
 provided in the estimates. Councillor Keary proposed a Motion should go to the
 
 full Council Meeting, this was seconded by Councillor Teskey.
----
+
+[[PAGE_END:6]]
+
 7
 
  Councillor O’Donoghue thanked the other Members for their help completing the
@@ -454,4 +467,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

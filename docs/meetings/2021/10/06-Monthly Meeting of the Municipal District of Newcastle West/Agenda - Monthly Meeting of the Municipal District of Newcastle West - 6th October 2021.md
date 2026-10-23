@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-06-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 6th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-06-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ditiche Bardais an Chaisledin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
-~ lf” ™ Aras Willlam Smith O'Brien,
+~ i” ™ Aras William Smith O'Brien,
 
-Gortbul,
-—=_> Limerick City An Caisiean Nua Tha,
+Gortbui,
+—=__> Limerick City : An Caisiean Nua Thaw,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
-Limenck City and County Council.
+Limerick City and County Council.
 Aras William Smith O'Brien,
 Gortboy,
 
@@ -39,14 +40,14 @@ Newcastle West,
 
 Co. Limerick
 
-1* Octoker. 802 2n<73
+1* Octoker. 80220073
 t: +353 (0) 69 62100
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6" October,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6'” October,
 2021, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas, .
@@ -68,14 +69,16 @@ Road, Newcastle West, Co. Limerick.
 
 To receive update on the proposed by passes for Abbeyfeale and Newcastle West.
 
-® customerservicesa@limerick.ie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © vouvelimerickie
+= customerservicesa@limerick.ie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © vouvelimerickie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -124,7 +127,9 @@ Question submitted by Coundillor F. Foley
 Plan and also when can we expect work to being on the new car park.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -157,4 +162,6 @@ year working plan to upgrade the above.
 Sugar CRM system will have the responses sent back by email also.
 
 
----
+
+[[PAGE_END:3]]
+

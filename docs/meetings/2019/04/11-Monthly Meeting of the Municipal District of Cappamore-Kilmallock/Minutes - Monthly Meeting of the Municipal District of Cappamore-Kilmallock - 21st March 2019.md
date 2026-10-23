@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%20Minutes%2021st%20March%202019%20Monthly%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%20Minutes%2021st%20March%202019%20Monthly%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -51,7 +52,7 @@ currently underway.
 
 The Elected Members thanked Mr O’Hara for agreeing to host the Monthly Meeting and
 complimented the school on their achievements to date. They also welcomed the following
-pupils of Scoil Pdi to the Monthly Meeting: Uinsinn McCarthy, Brazil Carroll, Rian Keogh,
+pupils of Scoil Pdl to the Monthly Meeting: Uinsinn McCarthy, Brazil Carroll, Rian Keogh,
 Thyannaha Coleman, Eabha Coles, Ellen Cronin.
 
 1. Adoption of Minutes
@@ -66,7 +67,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Presentation on the proposed Trailhead Visitor Centre and
@@ -113,7 +116,9 @@ dated 7th March, 2019 setting out the background to the proposed disposal of
 land at 22 Mullally Lawn, Cappamore, Co.Limerick. It was intended to bring the
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 proposed disposal to the Full Council for approval. The Members noted the
@@ -121,7 +126,7 @@ report as circulated.
 
 b) Draft Schedule of Municipal District Works 2019
 
-Circulated, report from the Director, Support Services dated 4*" March, 2019 setting out
+Circulated, report from the Director, Support Services dated 4" March, 2019 setting out
 details in relation to the Draft Schedule of Works for the Municipal District of Cappamore-
 Kilmallock 2019.
 
@@ -154,10 +159,12 @@ circulated, be adopted.
 4. Housing Development Directorate
 
 Circulated, Housing Progress Report from the Director of Services, Housing Development
-Directorate dated 8'* March, 2019, which was noted by the Members.
+Directorate dated 8" March, 2019, which was noted by the Members.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions
@@ -204,7 +211,9 @@ Notice of Motion
 Council review the traffic calming measures in the proximity of Scoil P6l Secondary School,
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the National School, and the GAA Grounds in Kilfinane with a view to possibly installing
@@ -251,7 +260,9 @@ that the City parade received commercial sponsorship while all of the County par
 funded in a voluntary capacity.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Speed Ramps Galbally
@@ -287,4 +298,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:6]]
+

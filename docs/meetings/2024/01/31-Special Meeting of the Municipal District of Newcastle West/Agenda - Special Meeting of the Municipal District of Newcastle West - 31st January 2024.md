@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 31st January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AN 7 “
+AN 7 ‘
 
-Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar,
-_——_ & Contae Luimnigh Comhairle Cathvach agus Contae Luimnigh
+Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar.
+_——_ & Contae Luimnigh Comhairle Cathyach agus Contae Luimnigh
 
 Aras William Smith OBrien,
 
 A Gortbui
-=> Limerick City _ An Caislean Nua Thiar,
+= Limerick City _ An Caislean Nua Thiar,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
-Limerick City and County Counei,
-Aras Wiliam Smith O'Brien.
+Limerick City and County Counci,
+Aras Viiiliam Smith O'Brien.
 Gortboy,
 
 Newcastle West
@@ -53,12 +54,12 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Newcastle West to
 be held in Aras William Smith OBrien, Newcastle West, Co. Limerick, and Online, on
-Ww st 4, at 10.00 a.m. The business to be transacted is set out on the
+Ww hes 4, at 10.00 a.m. The business to be transacted is set out on the
 appended Agenda.
 
-(| Is mise le meas,
+() Is mise le meas,
 
-ale
+alee
 
 Meetings Administrator.
 
@@ -81,14 +82,16 @@ camper van parking bays. Installation of a railway carriage on the site for comm
 community, and tourism use, and all associated site works. Construction of extensions to the
 Station House and Goods Shed. Works to include all site development works for the buildings
 
-& customerse erickic
-Ceanncheathru Chorparaideach, Cé na gCeannaithe., Luimneach wwwvslimorickie
+& customerse erick&ic
+Ceanncheathru Chorparaideach, Cé na gCeannaithe., Luimneach wwwslimorickie
 Corporate Headquarters, Merchant's Quay, Limerick WY a@limerickCouncil
 
-& 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 and site including utilities, drainage, landscaping and public realm. Widening of the existing
@@ -118,4 +121,6 @@ proposal is a continuation of the previously approved Part 8 Planning for a carp
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Minutes%2018th%20December%202017.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Minutes%2018th%20December%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 18TH** **DECEMBER, 2017**
@@ -90,7 +91,9 @@ Circulated, Report of the Acting Director, Social Development dated 28th Novembe
 outlining proposals for the disposal of land at 5 Byrne Avenue, Prospect, Limerick in
 
 consideration of ownership of 33 Byrne Avenue, Prospect, Limerick being transferred to the
----
+
+[[PAGE_END:1]]
+
 2
 
 Council and the intention to bring a related Section 183 Notice to the Full Council for approval.
@@ -208,7 +211,9 @@ facilities, in conjunction with same.
 Circulated, Report of the Director of Services, Service Operations Directorate dated 13th
 
 December, 2017 and enclosed Chief Executive’s Report dated 13th December, 2017 setting out
----
+
+[[PAGE_END:2]]
+
 3
 
 details of proposed residential refurbishment / development (12 units) at 1-12 Bourke Avenue,
@@ -290,7 +295,9 @@ to technical faults. The O'Connell Street monitor was offline from 25th May unti
 12th June due to a cable fault. The Mungret monitor was offline from 28th Nov.
 
 to 13th Dec. due to a blown transformer.
----
+
+[[PAGE_END:3]]
+
 4
 
 The results from the monitors show the air quality in the three locations to be
@@ -454,7 +461,9 @@ properties by this Council utilising choice based letting.
 CSS is to examine the feasibility of undertaking a pilot CBL project in 2018 and
 
 will report on this matter to the Housing SPC in advance of same.
----
+
+[[PAGE_END:4]]
+
 5
 
 **9.**
@@ -676,7 +685,9 @@ Temporary Emergency Provision – Lord Edward Street
 21
 
 20
----
+
+[[PAGE_END:5]]
+
 6
 
 24
@@ -798,7 +809,9 @@ community. A number of Developers have opted, in consultation with Limerick
 City and County Council, to meet their Part V obligations with the provision of
 
 community dwellings and elderly accommodation.
----
+
+[[PAGE_END:6]]
+
 7
 
 **13.**
@@ -880,7 +893,9 @@ into consideration.
 ***I move at the next Meeting that, given the scale of the housing crisis in the City, the***
 
 ***Metropolitan District call for a halt to the sell off of Council owned lands suitable for housing,***
----
+
+[[PAGE_END:7]]
+
 8
 
 ***and instead for these lands to be used for public housing, including a mix of social rental and***
@@ -962,7 +977,9 @@ planning application for the development would have to be submitted to An Bord P
 noted the Chief Executive’s commitment to brief the Members, prior to submission of the
 
 planning application, which would take into consideration any submissions already made.
----
+
+[[PAGE_END:8]]
+
 9
 
 **17.**
@@ -1044,7 +1061,9 @@ Full Council.
 It was agreed that this Notice of Motion be referred to the Travel and Transportation Strategic
 
 Policy Committee.
----
+
+[[PAGE_END:9]]
+
 10
 
 **19.**
@@ -1090,4 +1109,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

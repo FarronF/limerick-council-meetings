@@ -30,7 +30,7 @@ Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd Dec
 
 Minutes - Special Meeting of the Municipal District of Newcastle West - 16th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-2020-12-16-minutes-december-special-meeting.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20December%202020.md)
 
-Taking in Charge of Estates_ Elliswood Abbeyfeale - Monthly Meeting of the Municipal District of Newcastle West - 3rd February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/02-2021-02-03-tic-elliswood-abbeyfeale.pdf) - Text not extracted
+Taking in Charge of Estates: Elliswood Abbeyfeale - Monthly Meeting of the Municipal District of Newcastle West - 3rd February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/02-2021-02-03-tic-elliswood-abbeyfeale.pdf) - Text not extracted
 
 Report Nash's Lane Newcastle West - Monthly Meeting of the Municipal District of Newcastle West - 3rd February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/03-2021-02-03-report-nashs-lane-ncw.pdf) - Text not extracted
 

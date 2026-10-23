@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-april-2026_0.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-april-2026_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **10th** **April 2026**
@@ -51,7 +52,9 @@ appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -69,4 +72,6 @@ Policy Committee held on the 18th of February 2026.
 **work programme for the remainder of the current council with Facilitator Dr Philip**
 
 **Byrne of Byrne Training and Consultation Ltd.**
----
+
+[[PAGE_END:2]]
+

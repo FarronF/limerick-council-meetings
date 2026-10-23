@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Meeting%2015th%20June%252c%202017.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Meeting%2015th%20June%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-<——
-—=_>
+<—
+—=>
 
 COMHAIRLE
 CATHRACH & CONTAE
@@ -32,7 +33,7 @@ Limerick
 CITY & COUNTY
 COUNCIL
 
-9" June, 2017.
+9" june, 2017.
 
 Seirbhisi Corpardideacha,
 
@@ -51,7 +52,7 @@ Merchants Guay.
 
 Limerick
 
-EIRCODE V9 EH90
+EIRCODE V94 EH90
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -63,7 +64,7 @@ Kilmallock
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
-held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 15™ June,
+held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 15” June,
 2017, at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 Meetings Administrator.
@@ -91,7 +92,9 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -112,7 +115,7 @@ has been allocated to Tourism in the District’s General Municipal Allocation.
 
 Notice of Motion submitted by Councillor M. Donegan
 
-I will move at the next Meeting that this District call on Irish Water to carry out upgrade
+| will move at the next Meeting that this District call on Irish Water to carry out upgrade
 works to the Waste Water Treatment Plant in Oola to comply with current regulations.
 
 Notice of Motion submitted by Councillor E. Ryan
@@ -122,4 +125,6 @@ complete the necessary road works and footpath at Nicker - this footpath to run 
 the Priest’s house to Nicker School with pedestrian crossing to School.
 
 
----
+
+[[PAGE_END:2]]
+

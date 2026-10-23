@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20An%20Meeting%20of%20Munil%20District%20of%20.pdf)
+**Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore-Kilmallock - 23rd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20An%20Meeting%20of%20Munil%20District%20of%20.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO.**
@@ -90,7 +91,9 @@ gave the following address:
 *I would like to pay tribute to the various individuals and groups that have received civic receptions*
 
 *during the year. The civic reception is an honour not only for the recipient but is also an honour for*
----
+
+[[PAGE_END:1]]
+
 2
 
 *us and we have been honoured to pay tribute during the year to John the Baptist Community*
@@ -170,7 +173,9 @@ Seconded by Councillor Gleeson;
 As there were no other nominations, the outgoing Cathaoirleach declared Councillor Ryan elected
 
 as Cathaoirleach and offered him his congratulations and best wishes for the coming year.
----
+
+[[PAGE_END:2]]
+
 3
 
 On taking the Chair, Councillor Ryan thanked his Proposer and Seconder and said that he was
@@ -226,4 +231,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

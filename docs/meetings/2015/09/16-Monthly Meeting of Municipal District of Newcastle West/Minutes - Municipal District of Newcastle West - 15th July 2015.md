@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 15th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -44,7 +45,7 @@ Economic Development and Planning (Ms. B. Quinn), Staff Officer, Corporate Servi
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West held
-on 3% June, 2015.
+on 3” June, 2015.
 
 Proposed by Councillor Galvin;
 Seconded by Councillor Foley;
@@ -64,7 +65,9 @@ And Resolved:
 signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Deputation
@@ -120,7 +123,9 @@ Members noted the contents of the Senior Executive Officer's Report dated 8" Jul
 2015.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -176,7 +181,9 @@ On the Proposal of Councillor Scanlan, seconded by Councillor Collins, it was ag
 that this item would be deferred to the next Meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -193,7 +200,7 @@ Programme for the Newcastle West Municipal District.
 
 8. Question submitted by Councillor L. Galvin
 
-! will ask at the next Meeting for the up-to-date position regarding provision of
+| will ask at the next Meeting for the up-to-date position regarding provision of
 graveyard in Abbeyfeale.
 
 REPLY: The Council has been actively pursuing a suitable site for the development
@@ -234,7 +241,9 @@ Newcastle West Area are as follows:
 2014 €48,000
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2015 €35,000
@@ -293,7 +302,9 @@ that he would make enquiries from local people to try and establish the register
 owner.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -337,7 +348,7 @@ view to finding out who carried out the Safety Inspection.
 
 16. Notice of Motion submitted by Councillor L. Galvin
 
-! will move at the next Meeting of the Municipal District of Newcastle West that
+1 will move at the next Meeting of the Municipal District of Newcastle West that
 measures be put in place to stop the traffic eroding the bank fronting the hedge at
 Curtin’s bend, Church Road, Templeglantine.
 
@@ -346,13 +357,15 @@ be improved to alert oncoming traffic of the bend ahead.
 
 17. Notice of Motion submitted by Councillor L. Galvin
 
-|! will move at the next Meeting of the Municipal District of Newcastle West that
+| will move at the next Meeting of the Municipal District of Newcastle West that
 funding be provided to repair and preserve the Cistercian Church, Fairy Street,
 
 Athea.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Templeathea Church and graveyard are Recorded Monuments, LI034-
@@ -404,14 +417,16 @@ This matter had been investigated and our records show that this area
 was private property.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
 
 19. Notice of Motion submitted by Councillor M. Collins
 
-! will move at the next Meeting of the Municipal District of Newcastle West that
+| will move at the next Meeting of the Municipal District of Newcastle West that
 €15,000 be allocated from the General Municipal Allocation to Westfest Festival
 Committee to assist in the running of the 2015 event.
 
@@ -431,7 +446,7 @@ from General Municipal Allocation.
 
 20. Notice of Motion submitted by Councillor M. Collins
 
-! will move at the next Meeting of the Municipal District of Newcastle West that
+1 will move at the next Meeting of the Municipal District of Newcastle West that
 €15,000 be allocated from the General Municipal Allocation, to Newcastle West
 Chamber of Commerce and Newcastle West Community Council, to fund a
 feasibility study which will research and coordinate all clubs, organisations,
@@ -459,10 +474,12 @@ District, however the Head of Finance has expressed that he would
 welcome further clarity of this funding. If it is agreed by the Members that
 funding be allocated to setting up this Development Association,
 arrangements can be made to allocate the relevant funding from the
-General Municipal Allocation.
+General Municipal Allocation,
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members asked that an item be included on the September Agenda in relation to
@@ -476,4 +493,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+

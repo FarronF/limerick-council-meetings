@@ -16,63 +16,52 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00_agenda_18th_april2c_2017.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 18th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00_agenda_18th_april2c_2017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-aLN td ‘
-=
-COMHAIRLE
-CATHRACH & CONTAE
+_— Seirbhisi Corpardideacha,
+Comhairle Cathrach agus Contae Luimnigh,
 
-Luimnigh
+a
+te Ceanncheathva Chorpardideach,
+= Cé na gCeannaithe,
+COMHAIRLE Luimneach
+CATHRACH & CONTAE ' ;
 
-Limerick
-CITY & COUNTY
+2 2 rate s
+Luimnigh Linmiecoyau cineca
+. . it ers,
+Limerick aa Meee ter
+CITY & COUNTY Limerick
+
 COUNCIL
+EIRCODE V94 EHS0
+12" April, 2017. t: +353 (0) 61.407 100
 
-12" April, 2017.
+1: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
-Seirbnisi Corpardideacha.
-
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathra Chorpardideach,
-
-Cé na gCeannaithe,
-
-Luimneach
-
-Corporate Services,
-Limerick City and Courty Council,
-
-EIRCODE V94 EH90
-
-t: +353 (0) 61 407 100
-1: +353 (0) 61 415 266
-
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in
 the Council Chamber, Merchant's Quay, Limerick on Tuesday, ig™ April, 2017 at 9.45 a.m. The
-
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-Chia ———
+
+Cha SO——
 
 Christy O’Connor,
-
 Meetings Administrator.
 
 AGENDA
-
 1. Minutes
 
-To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 20”
+To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 20"
 
 March, 2017.
-
 (Copy Enclosed).
 
 2. Service Operations Directorate — Planning and Environmental Services
@@ -80,19 +69,21 @@ Taking in Charge of Estates — Declaration of Roads to be Public Roads
 
 To consider the taking in charge of the following housing estates in accordance with
 Section 180 of the Planning and Development Acts 2000-2015 and Section 11 of the
+
 Roads Act 1993;
-
 Caisleann na hAbhann, Castletroy (Phase 1)
-
 Woodhaven, Castletroy
 (Report Enclosed)
 =
-of wen limerickie
+of wor limerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -129,7 +120,7 @@ To consider and approve the publication of the Draft Limerick City and County Co
 Part 1 of the Local Government Act 2001 (as amended).
 
 (Report Enclosed)
-Presen art Phone Invasive Plants .
+Presen art Phone Invasive Plants :
 
 To receive presentation on Smart Phone Invasive Plants App.
 
@@ -140,7 +131,7 @@ Question submitted by Councillor J. Costelloe
 | will ask at the next Meeting what funding is currently allocated to the Council
 Mortgage Allowance Scheme for the current year.
 
-Question submitted by Cmhir. S. O Ceallaigh
+Question submitted by Cmhir. S. 6 Ceallaigh
 
 | will ask at the next Meeting what is the current situation with regards the
 development of the Horizon Mall.
@@ -151,7 +142,9 @@ Question submitted by Cmhlr. S. 6 Ceallaigh
 Bloodmill Road will be completed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -199,7 +192,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor C. Prendiville (to be referred to the
 
-i En i Planni ic Pi
+i En i Planni ic P
 
 | will move at the next Meeting of Limerick's Metropolitan District that the Council look
 to amend our development plan to ban the development of incineration, gasification,
@@ -213,7 +206,9 @@ the restoration of the Black Bridge, a facility which has been used for recreati
 purposes by people across the whole Metropolitan District.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -246,4 +241,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

@@ -32,7 +32,7 @@ Minutes - Draft Budgetary Plan 2020 Meeting of the Municipal District of Adare-R
 
 N20 Banogue Traffic Calming Scheme - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/02%20N20%20Banogue%20Traffic%20Calming%20Scheme.pdf) - Text not extracted
 
-Part 8 Procedure_Towerfield, Croom, Co. Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/03%20Part%208%20Procedure%20-%20Towerfield%2C%20Croom%2C%20Co.%20Limerick.pdf) - Text not extracted
+Part 8 Procedure:Towerfield, Croom, Co. Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/03%20Part%208%20Procedure%20-%20Towerfield%2C%20Croom%2C%20Co.%20Limerick.pdf) - Text not extracted
 
 Housing Progress Report - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/04%20Housing%20Progress%20Report.pdf) - Text not extracted
 

@@ -30,7 +30,7 @@ Minutes - Meeting of the Municipal District of Newcastle West - 2nd November 202
 
 Minutes - Special Meeting of the Municipal District of Newcastle West - 16th November 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%202022-11-16%20Minutes%20Special%20Meeting.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20November%202022.md)
 
-Signed Planning Report_ Newcastle West Greenway Hub - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/02%202022-12-02%20Signed%20Planning%20Report%20NCW%20Greenway%20Hub.pdf) - Text not extracted
+Signed Planning Report: Newcastle West Greenway Hub - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/02%202022-12-02%20Signed%20Planning%20Report%20NCW%20Greenway%20Hub.pdf) - Text not extracted
 
 Replies to Questions - Meeting of the Municipal District of Newcastle West - 2nd November 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/2022-12-02-Replies-to-Questions.pdf) - Text not extracted
 

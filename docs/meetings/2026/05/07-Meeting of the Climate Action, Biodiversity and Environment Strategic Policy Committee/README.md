@@ -26,3 +26,5 @@ Files:
 
 Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 7th May 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Climate%20Action%2C%20Biodiversity%20and%20Environment%20Strategic%20Policy%20Committee%20-%207th%20May%202026.md)
 
+Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 7th May 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20the%20Climate%20Action%2C%20Biodiversity%20and%20Environment%20Strategic%20Policy%20Committee%20-%207th%20May%202026.md)
+

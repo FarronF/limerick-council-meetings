@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-13th-january-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-13th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -82,7 +83,9 @@ O’Donoghue and agreed. Councillor Teskey also expressed his gratitude to the s
 Limerick City and County Council who assisted the Gardaí as part of the interagency
 
 response team over the Christmas period in the District.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -154,7 +157,9 @@ City and County Librarian advised there will be a programme of events in place i
 library which will increase footfall into the library. All Members were fully supportive of
 
 this project.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members welcomed the update on the proposed repurposing of the Bank of Ireland
@@ -236,7 +241,9 @@ of Rathkeale if funding is made available to deliver same.
 **Transportation, Mobility and Public Realm Directorate**
 
 **District Engineers Report**
----
+
+[[PAGE_END:3]]
+
 4
 
 Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansing dated
@@ -308,7 +315,9 @@ On the proposal of Councillor Hartigan, seconded by Councillor O’Donoghue, it 
 agreed to allocate the following:
 
 • €333.33 to Adare Saint Patricks Day Parade.
----
+
+[[PAGE_END:4]]
+
 5
 
 • €333.33 to Askeaton Saint Patricks Day Parade.
@@ -374,7 +383,9 @@ allocate the following:
 **7.**
 
 **Notice of Motion submitted by Councillor J. O’Donoghue**
----
+
+[[PAGE_END:5]]
+
 6
 
 **I will move at the next Meeting that the proposed budget schedule works of**
@@ -412,4 +423,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

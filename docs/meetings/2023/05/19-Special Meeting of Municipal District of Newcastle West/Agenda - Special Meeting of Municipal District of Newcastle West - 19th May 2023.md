@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Municipal District of Newcastle West - 19th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+ee Comhairle Cathrach Duiche Bardais an Chaistieain Nua Thiar,
 Comhairle Cathvach agus Contae Luimnigh,
-Arms —_~ o Corman Lassner Aras Williarn Smith O'Brien,
+Arms ——_~ o Corvas Lassner Aras Williarn Smith O'Brien,
 
 ; Gortbus,
-——> Limerick City An Caisiean Nua Thisr,
+——> Limerick City An Caisiean Nua Thiar,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
@@ -36,7 +37,7 @@ Gortboy,
 
 Newcastle West,
 
-Co. Limerick
+Co, Limerick
 
 Eircode: V42EH73
 t: +353 (0) 69 62100
@@ -70,11 +71,12 @@ the current Newcastle West Local Area Plan and to also ensure it is included in 
 new proposed Local Area Plan 2023 to 2029.
 
 & customerservices@limerick.le
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach é www.limerick.le
-Corporate Headquarters, Merchant's Quay, Limerick
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach ro www.limerick.le
 
 @LimerickCouncil
-( 061 - 856 000
+( 061 - 586 000
 
 
----
+
+[[PAGE_END:1]]
+

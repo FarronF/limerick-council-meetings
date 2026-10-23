@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-20%20B%20-%20Agenda%20Special%20Meeting%20on%20LA%20houses.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West to discuss Local Authority Houses within the Municipal District of Newcastle West - 20th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-20%20B%20-%20Agenda%20Special%20Meeting%20on%20LA%20houses.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———
+——=
 
-. —
+. —a
 Limerick
 CITY & COUNTY
 
@@ -66,11 +67,11 @@ Newcastle West. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Aen
+oA ele
 
 rgaret Corbett,
 Meetings Administrator.
-PE s and Maintenance Services /Commu es
+PE s and Maintenance Services /Commu. es
 
 To discuss Local Authority houses within the Municipal District of Newcastle West.
 
@@ -83,4 +84,6 @@ mcustomerservices@limerick.le
 y @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

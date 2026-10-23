@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02%20Agenda%20Municipal%20District%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02%20Agenda%20Municipal%20District%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Comhairle Cathrach
-= oo~ ° Contas —_
-— Saar Coed
+ee Comhairle Cathrach
+= —_ ° Conas —_
+—— cae Cond
 Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
@@ -40,9 +41,8 @@ You are requested to attend a Meeting of the Municipal District of Cappamore-Kil
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 18 Oct
 2018, at 2.30 p.m. The business to be transacted is set out on the appended Agenda.
 
-View
+Vie
 
-WA
 Mark Leahy,
 Meetings Administrator.
 
@@ -56,7 +56,7 @@ the 20" September, 2018.
 
 (b) To adopt Minutes of Meeting of Special Meeting of the Municipal District of
 
-Cappamore-Kilmallock held on the 26"" September, 2018.
+Cappamore-Kilmallock held on the 26" September, 2018.
 (To follow)
 
 2. Social Development Directorate
@@ -67,7 +67,9 @@ Social Development Directorate.
 Update on Threshold Project in Kilmallock, Co.Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Service Operations Directorate
@@ -99,4 +101,6 @@ Question submitted by Councillor Teefy
 with the parking at Cahercorney Graveyard on the R514 road.
 
 
----
+
+[[PAGE_END:2]]
+

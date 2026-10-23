@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/minutes-of-jpc-meeting-5th-march-2021.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 5th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/minutes-of-jpc-meeting-5th-march-2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT VIRTUAL MEETING OF THE JOINT
 
 POLICING COMMITTEE HELD ON 5TH MARCH, 2021 AT 10.00 A.M.
@@ -106,7 +107,9 @@ required by the Law Enforcement Directive, as transposed by the Data Protection 
 stated that the issue around admissibility of CCTV could be detrimental to prosecution and result in
 
 significant fines to the Council for breaches.
----
+
+[[PAGE_END:1]]
+
 **18.**
 
 **Notice of Motion submitted by Councillor Liam Galvin**
@@ -200,7 +203,9 @@ the courts. Property Crime and non aggravated burglary is down in all areas with
 Crimes against the person and overall assaults are also down. The Gardaí continue to police people
 
 moving outside 5 kms from their home with 972 covid 19 fixed penalty notices issued.
----
+
+[[PAGE_END:2]]
+
 **3.**
 
 **Overview on Crime Statistics from Senior Crime and Policing Analyst**
@@ -300,7 +305,9 @@ animals should have the land or property to keep them in.
 The Members congratulated the Council and the Gardaí for the work they are doing in addressing
 
 the horse issue in the city.
----
+
+[[PAGE_END:3]]
+
 **5.**
 
 **Update from Superintendent Sugrue on addressing anti social behaviour in Johnsgate**
@@ -384,7 +391,9 @@ The objectives of this operation are :
 
 
 To ensure compliance with Health Act legislation and regulations;
----
+
+[[PAGE_END:4]]
+
 
 
 To provide a high visibility policing presence in the area;
@@ -484,7 +493,9 @@ to discuss with the Council.
 **9.**
 
 **Question submitted by Councillor Conor Sheehan**
----
+
+[[PAGE_END:5]]
+
 *“I will ask at the next Meeting if the CCTV cameras on t**he Park Canal and Shannon Fields are*
 
 *monitored”.*
@@ -574,7 +585,9 @@ in stations, these machines were mobilised during Q4 of 2020. Two additional mac
 were allocated to the Division and went to Henry Street and Roxboro respectively in early
 
 January;
----
+
+[[PAGE_END:6]]
+
 
 
 7 machines in total – 6 mobile, 1 static in Bruff;
@@ -686,7 +699,9 @@ Newcastle West.
 *checkpoints a Covid 19 action or a response to the known drug dealing occurring wihin the estate ?*
 
 *Have the Gardaí been in contact with Limerick City and County Council with regards to the derelict*
----
+
+[[PAGE_END:7]]
+
 *houses that are allegedly used to store drugs ? Are there any intentions to investigate these*
 
 *abandoned premises ?”.*
@@ -788,7 +803,9 @@ of houses need to be speeded up as this is a contributing factor to the drugs is
 **14.**
 
 **Question submitted by Maurice Quinlivan, T.D.**
----
+
+[[PAGE_END:8]]
+
 *“I will ask at the next Meeting for data with regards to Garda response* *times to calls from the public*
 
 *and also how many call outs had the force in Limerick to make in relation to stray, wandering and*
@@ -856,7 +873,9 @@ Roxboro Road – 1
 0 Control of Horses
 
 1 Attention & Complaints
----
+
+[[PAGE_END:9]]
+
 The Chief Superintendent confirmed there were 128 seizures in 2020 and 1 seizure in January 2021
 
 and 21 seizures in February 2021.
@@ -916,4 +935,6 @@ This concluded the Meeting.
 **Councillor Adam Teskey, Chairman**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

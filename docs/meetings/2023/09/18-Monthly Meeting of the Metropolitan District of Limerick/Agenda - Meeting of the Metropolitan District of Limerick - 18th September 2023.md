@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 18th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
- _——ee Comhairle Cathrach
+__—ee Comhairle Cathrach
 & Contae Luimnigh
-NN —__—_—_—__
+NN o>"
 
 — Limerick City
 & County Council
@@ -36,7 +37,7 @@ A Chomhairleoir, a chara,
 Selrbhdsi Corpardideacha,
 
 Comhairle Cathrach agus Contae Lulmnigh,
-Ceanncheathns Chorparaideach,
+Ceanncheathna Chorparaidesch,
 
 Cé na gCeannaithe,
 
@@ -50,10 +51,10 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EH9O
+EIRCODE V94 EHSO
 
-*: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+t: +353 (0) 61 557150
+f- +353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
 Monday, 18 September, 2023 at 9.45am in the Council Chamber, Dooradoyle, Limerick and
@@ -80,7 +81,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest.
@@ -109,7 +112,7 @@ Road, Prospect, Limerick.
 
 4. Transportation and Mobility Directorate
 Part 8 Planning — Proposed N69 Mungret & Bolands Cross Road Safety Improvement Scheme
-To consider the Chief Executive's report pursuant to Section 179 of the Planning and
+To consider the Chief Executive’s report pursuant to Section 179 of the Planning and
 Development Act, 2000 (as amended) and Part 8 of the Planning and Development Regulations,
 2001 (as amended) for the proposed N69 Mungret & Bolands Cross Road Safety Improvement
 Scheme.
@@ -134,7 +137,9 @@ attractiveness for new business to establish in the city centre.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ja Question submitted by Councillor J. Leddin
@@ -144,7 +149,7 @@ and maintain dog fouling bins and what is the frequency of collection times.
 
 8. Question submitted by Councillor J. Leddin
 
-i will ask at the next Meeting of the Metropolitan District of Linierick how many applications have
+| will ask at the next Meeting of the Metropolitan District of Linierick how many applications have
 been submitted, the number approved and refused for a Local Authority Home Loan over the last
 
 year.
@@ -171,7 +176,7 @@ but were not provided with emergency homeless accommodation or a HAP/social hous
 tenancy; the breakdown of the reasons emergency accommodation or HAP/social housing
 tenancy was not provided in each case.
 
-12. Question submitted by Councillor C. Sheehan
+12. Question submitted by Coundillor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the taking
 in charge process for Danesfort estate in Corbally.
@@ -179,16 +184,18 @@ in charge process for Danesfort estate in Corbally.
 13. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
-progress of the widening of Golf Links Road by O'Shea's Pub.
+progress of the widening of Golf Links Road by O’Shea's Pub.
 
-14. , Question submitted by Councillor E. Secas
+14. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 progress on the distributor road connecting Groody Road to Golf Links Road/Old School House
 Road junction.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor E. Secas
@@ -219,14 +226,14 @@ when these bollards will be reinstated.
 quality testing at The Loughmore Canal. What are the most recent water quality results and if
 the source of contamination has been found.
 
-20. Question submitted by Councillor J. Pond
+20. Question submitted by Coundillor J. Pond
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a progress update on
 the construction program for the proposed new distributor road linking the Golf Links Road with
 the Kilbane Roundabout on the Groody Road. The construction of this Link Road is extremely
 urgent as the new secondary school is near completion and about to open.
 
-21. n submitted b incillor J. P.
+21. in submitted b incillor J. P.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for progress update on the
 approved Road Widening and Bridge Upgrade Works at the Junction of the Golf Links Road
@@ -243,7 +250,9 @@ enable the inclusion of a new policy in these same plans that would seek to ensu
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 housing developments (excluding single apartment block developments in the city centre) of
@@ -292,7 +301,9 @@ roundabout maintenance plan and sponsorship scheme with particular reference to 
 Coonagh and Clondrinagh roundabouts and the upkeep of same.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 29. Question submitted by Councillor O. O’Sullivan
@@ -330,15 +341,15 @@ the Economic Directorate on Cruises Street and that the Council convenes a worki
 all relevant stakeholders including Councillors to consider the future of Cruises Street and
 address the level of vacancy and dereliction on the street.
 
-34. Notice of Motion submitted by Councillor C. Sheehan
-
 | will move at the next Meeting of the Metropolitan District of Limerick that the Council writes
 to the Minister for Education to ask her to ensure that a bus service is provided for children
 attending the Limerick Educate Together Secondary School who are eligible but currently
 without a school bus place.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 35. Notice of Motion submitted by Councillor S. Kiely
@@ -389,11 +400,15 @@ into education for our children in a pre-school setting receive no salary out of
 many to consider leaving the profession.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 42. Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:8]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-joint-policing-committee-meeting-1st-march-2024.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 1st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-joint-policing-committee-meeting-1st-march-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
 **CHAMBER, DOORADOYLE AND ONLINE ON FRIDAY, 1ST** **MARCH, 2024 AT 10.00 A.M.**
@@ -108,7 +109,9 @@ recently, entitled ‘Think Before you Park’. The aim of this initiative is to
 repercussions of obstructive parking, which can pose challenges for various road users including
 
 people with disabilities, cyclists, parents pushing buggies and other pedestrians.  He also referred to
----
+
+[[PAGE_END:1]]
+
 Mobility No Insurance App, which was launched in Limerick recently. Thirty cars were seized in the
 
 first two weeks of its launch. He informed Members that the Operational Life Saver Education, which
@@ -188,7 +191,9 @@ Greenways and suburban areas, the Chief Superintendent stated that the next grou
 are due out from Templemore on 20th March, 2024 and he has requested at least thirty new recruits
 
 for Limerick. He said he will do all he can to ensure Limerick gets these additional vital resources. He
----
+
+[[PAGE_END:2]]
+
 stated that Limerick has received a number of new Garda pedal bikes, however, no update in relation
 
 to e bikes. A new app has also been launched which identifies vehicles that have no insurance. It also
@@ -260,7 +265,9 @@ buying stolen goods, they are supporting criminality. He appealed to the public 
 reputable traders. He also promoted property marking, which greatly assists Gardaí when stolen
 
 goods are retrieved.
----
+
+[[PAGE_END:3]]
+
 Cllrs. Teskey and Keary voiced their concern at people calling to houses asking if they wanted
 
 tarmacadam done as they had some left over from local road works in the area, and they asked that
@@ -332,7 +339,9 @@ E mails from Waterford Council and Fingal Council acknowledging receipt of Resol
 Limerick Joint Policing Committee Meeting held on 8th December, 2023, that the Commissioner be
 
 written to voicing the Council’s opposition to proposals to disband dedicated community policing.
----
+
+[[PAGE_END:4]]
+
 **6.QUESTION SUBMITTED BY COUNCILLOR AZAD TALUKDER**
 
 ***“I will ask at the next Meeting of the Joint Policing Committee if additional re**sources can be directed***
@@ -402,7 +411,9 @@ result of this engagement Limerick City North Community Engagement & Crime Funct
 an application to relaunch Op Feabhsaigh in a similar format as seen in 2023. It’s aim again is to confront and
 
 challenge the issue of drugs and anti-social behaviour which worked very successfully in the past.
----
+
+[[PAGE_END:5]]
+
 **8.QUESTION SUBMITTED BY DEPUTY MAURICE QUINLIVAN, T.D.**
 
 ***“I will ask at the next Meeting of the Joint Policing Committee, in relation to the issue of wandering and***
@@ -576,9 +587,13 @@ That concluded the business of the meeting.
 **Councillor Adam Teskey, Chairman**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:7]]
+

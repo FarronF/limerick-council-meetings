@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 12th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seirdhisi Corparéideacha agus Bainistiocht Athruithe,
+Seirdhisi Corparaéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-ANS “ Cé na gCeannaithe,
-—=>= Luimneach
+ANS ~“ Cé na gCeannaithe,
+—=>=> Luimneach
 
 . .
 Limerick Corporate Services and Change Management.
@@ -36,7 +37,7 @@ COUNCIL Limerick
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-7" January, 2016.
+7 January, 2016.
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
@@ -50,7 +51,7 @@ Is mise le meas,
 
 Meetings Administrator.
 
-pe nn a ne eee ee een ee ne ener nnn ne ne nnn nnn ene nnn nnn nnn nnn nen ns eee n ee ee ee eeeeeseneeeseeesness
+enn nn ne ee ee eee ee ne enn enn nen ne nnn nnn nnn nnn nnn nnn nnn nee n seen nee en see eeeesenseeeeeesnees
 
 AGENDA
 
@@ -65,12 +66,14 @@ December, 2015.
 
 To consider receiving Deputation from Rathkeale Community Council at the next Meeting.
 
-1 @ customerservices@limerickic
+1 © customerservices@limerickic
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach  wwewlimerickie
-Corporate Headquarters, Merchants Quay, Limerick W @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation
@@ -100,4 +103,6 @@ public in Rathkeale during the Christmas period.
 Correspondence
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-special-meeting-of-limerick-city-and-county-council-29th-may-2026.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-special-meeting-of-limerick-city-and-county-council-29th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
- _—_e Comhairle Cathrach Seirbnisi Corpantidaachs, Ridiachels Stes prc
-ae + M omvarie Catryac ontae Wun
-ye & Contae Luimnigh Ceannchearthu Chorparaideach
-“rN ——————
+_——“_ Comhairle Cathrach Seirbnisi Corpantidaach, Risiachels Aes prc
+ae ; 1 omvarie Catryrac ontae Uuiinines
+Pee & Contae Luimnigh Ceannchearthu Chorparaideach
+“rN ————
 
 Cé na gCeannaithe
 
-—=—_ Limerick City ; Luimneach, V94 EH90
+=> Limerick City ; Luimneach, V94 EH90
 & County Council
 
 Corporate. Governance & Customer Services
@@ -55,7 +56,7 @@ The business to be transacted is set out below.
 
 Is mise le meas,
 
-C. Lonel
+C. Yared
 
 Ciara Farrell,
 Meetings Administrator.
@@ -75,8 +76,10 @@ An Coimisiun Pleanala Reference Number 324163-26.
 
 (Report already circulated)
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach www.limerick.ie
-Corporate Headquarters, Merchant's Quay, Limerick Cesisaecons
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www. limerick.ie
+Corporate Headquarters, Merchant's Quay, Limerick Cesisseccns
 
 
----
+
+[[PAGE_END:1]]
+

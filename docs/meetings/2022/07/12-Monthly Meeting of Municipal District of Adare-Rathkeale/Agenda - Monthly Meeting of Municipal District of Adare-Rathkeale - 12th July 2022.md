@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20Monthly%20Meeting%20Adare-Rathkeale%2012th%20July%202022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20Monthly%20Meeting%20Adare-Rathkeale%2012th%20July%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-& Contae Luimnigh Comnairle Cathwach agus Contae Luimnigh,
+& Contae Luimnigh Comhairle Cathwach agus Contae Luimnigh,
 
 Aras Séan Finn,
 
-~“ \ Line Nua,
+“ \ Line Nua,
 — Limerick City Rath Caola,
 
 & County Council Co. Luimnigh
@@ -34,8 +35,6 @@ Aras Séan Finn,
 Adare-Rathkeale Municipal District
 Limenck City and County Council
 Aras Sean Finn,
-
-New Line,
 
 Rathkeale,
 
@@ -55,7 +54,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Karen >
+Karen A
 Meetings Administrator.
 
 AGENDA
@@ -70,13 +69,15 @@ June, 2022.
 June, 2022.
 (Copies Enclosed).
 & customerservices@limerickie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1] © wvewlimerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach 1 © wwewlimerickie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4,
@@ -119,4 +120,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

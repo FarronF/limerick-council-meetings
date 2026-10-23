@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02-jpc-minutes.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District - 21st November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02-jpc-minutes.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
@@ -64,7 +65,9 @@ measures to address same. He also confirmed that while drink driving detections 
 reduced, that drug driving detections had increased when compared between 2018 and 2019.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Detective Sergeant Ted Riordan spoke about cyber fraud and outlined some of the ways in
@@ -80,7 +83,7 @@ to ring the company involved to verify things.
 Superintendent Ryan confirmed that following the recent successful event in Cappamore on
 rural security, crime prevention and well-being, that it was hoped to run a similar event in
 Ballylanders in early 2020. Superintendent Ryan also outlined details of an open day being
-held in Bruff Garda Station on the 23 November and gave details of a presentation a
+held in Bruff Garda Station on the 23" November and gave details of a presentation a
 commercial company would be doing at the Open Day for an etching machine that could etch
 ownership details, such as name and Eircode information, etc, on equipment and personal
 items of value to people.
@@ -101,10 +104,12 @@ dealing and supply which are a scourge across the Municipal District.
 
 This concluded the business of the meeting.
 
-Signed: —O———$——$——
+Signed: ——EE
 Cathaoirleach
 
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

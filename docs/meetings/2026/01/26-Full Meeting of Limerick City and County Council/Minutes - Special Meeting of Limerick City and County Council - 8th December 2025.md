@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-8th-december-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 8th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-8th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE, ON MONDAY, 8TH DECEMBER, 2025, AT 3.00 P.M.
@@ -88,7 +89,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor O’Donovan;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 “That, in accordance with the provisions of Section 183 of the Local Government Act, 2001
 
 (as amended) and Section 211 of the Planning and Development Act, 2000 (as amended), the
@@ -126,4 +129,6 @@ This concluded the meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

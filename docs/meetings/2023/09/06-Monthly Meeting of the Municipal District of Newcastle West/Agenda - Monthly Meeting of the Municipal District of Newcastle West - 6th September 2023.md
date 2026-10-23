@@ -16,31 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 6th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiay,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
-a Aras Wiltiam Smith O'Brien,
+5 Aras Wiltiam Smith O'Brien,
 
-ANeN Gortbul,
-—— Limerick City An Caisledn Nua Thiar,
+AN Gortbul,
+——— Limerick City An Caisledn Nua Thiar,
 
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council,
-Aras Wiltiam Smith O'Brien,
+Aras Wittiam Smith O'Brien,
 Gortboy
 
 Newcastle West,
 
 Co. Limerick
 
-Exrcode: V42EH73
+Ewrcode: V42EH73
 
 1* September, 2023 t: +353 (0) 69 62100
 
@@ -49,7 +50,7 @@ To: The Cathaoirleach and Each Member of the Municipal District of Newcastle Wes
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on W 6" Se ber,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on W 6" Se. ber,
 2023, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le mea
@@ -67,20 +68,22 @@ a. Minutes
 2. Declaration of Interest.
 
 3. Planning, Environment and Place-Making Directorate
-D N a
+D N as
 
 Consideration of the Chief Executive’s Report on the submissions received as part of
 the public consultation on the Draft Newcastle West Local Area Plan 2023 — 2029.
 
 (Report already circulated)
-= eee
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach weve limerick te
+= aca pa
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach weve timerickte
 Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -114,7 +117,7 @@ Templeglantine (c) Bus Shelters at Templeglantine and Killarney Road, Abbeyfeale
 ! will ask at the next Meeting for an update on the Ray’s Estate, Mountcollins. When
 is the road going to be done.
 
-! will ask at the next Meeting for a detailed update on the Programme of Works for
+| will ask at the next Meeting for a detailed update on the Programme of Works for
 Abbeyfeale Traffic Management Plan and Dates.
 
 Questions submitted by Councillor J. Scanian
@@ -122,7 +125,7 @@ Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting for (a) A listing of the AHB’s that either own or manage
 properties in the Municipality and (b) The location of each property.
 
-! will ask at the next Meeting for an update on the provision and location of the
+| will ask at the next Meeting for an update on the provision and location of the
 proposed Newcastle West Dog Park.
 
 | will ask at the next Meeting for an update as to the number of applications for
@@ -136,7 +139,9 @@ especially around South Quay and The Square targeting loose cobbles and moss
 growing. A number of constituents have been in contact about this.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -178,4 +183,6 @@ charge and put the laneway from Gortboy to the Desmond Complex beside the
 Courtenay School into a safe and usable condition for the people using it.
 
 
----
+
+[[PAGE_END:3]]
+

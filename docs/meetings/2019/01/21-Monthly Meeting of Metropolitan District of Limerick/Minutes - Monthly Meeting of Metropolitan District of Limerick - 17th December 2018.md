@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Draft%20%20Minutes%2017th%20December%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Draft%20%20Minutes%2017th%20December%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
@@ -45,7 +46,7 @@ McCormack), Staff Officer (Mr. J. Cregan), Clerical Assistant, (Ms. A .O’Hallo
 1. Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of the Metropolitan District of Limerick held
-on 19" November, 2018.
+on 19 November, 2018.
 
 Proposed by Councillor; Hurley
 Seconded by Councillor; Leddin
@@ -70,7 +71,9 @@ Clir Leddin referred to the CPO legislation and the use of this legislation by t
 Rural Community Development team. Cllr Leddin requested an update on the CPO process
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -110,7 +113,7 @@ Limerick.
 Disposal of 3 Galvone View, Limerick in exchange for 207 Valley View, O’Malley Park,
 
 Limerick.
-Disposal of 4 Galvone View, Limerick in exchange for 205 Valley View, O’Malley Park,
+Disposal of 4 Galvone View, Limerick in exchange for 205 Valley View, O'Malley Park,
 
 Limerick.
 Disposal of 5 Galvone View, Limerick in exchange for 206 Valley View, O'Malley Park,
@@ -126,7 +129,7 @@ The report, as circulated, was noted by members.
 
 Capital Investment Directorate
 
-Pr re— h PI rien Road,
+Pr re— h Pl rien Road,
 
 Circulated, Report of the Chief Executive pursuant to Section 179 3(a) of the Planning and
 Development Act, 2000 as amended and Part 8 of the Planning and Development Regulations,
@@ -139,7 +142,9 @@ this Item to the January Meeting of the District.
 Economic Development Directorate
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Castletroy Local Area Plan 2019-2025
@@ -192,7 +197,9 @@ Executive Officer, Physical Development confirmed that the flat rate pricing wil
 the pay by weight or pay by lift option will be used. Mr McGuigan stated that the public
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -200,7 +207,7 @@ the pay by weight or pay by lift option will be used. Mr McGuigan stated that th
 consultation report was for noting at the Metropolitan meeting and the new Bye-Laws will be on
 the Agenda at the January 2019 full Council meeting.
 
-6. Operations Directo -P i nd Environmental Services
+6. Operations Directo: -P i nd Environmental Services
 
 (a) Taking in Charge of Estates — Declaration of Road to be Public Roads
 
@@ -210,7 +217,7 @@ Circulated, report of the Acting Senior Planner, Planning and Environmental Serv
 November, 2018 seeking the District’s approval to the taking in charge of estate at Heron Court,
 North Circular Road.
 
-Proposed by Clir. O’Hanlon
+Proposed by Cllr. O’Hanlon
 Seconded by Clir. Hourigan
 And resolved:
 
@@ -240,7 +247,7 @@ the Greenfields Road, clarification on the possibility of reopening the junction
 ¢ Members requested that the speed limit on the Mountshannon Road to be reviewed
 again.
 
-¢ Drombanna/Ahane - As a result of ribbon development on this road Members requested
+¢ Drombanna/Ahane — As a result of ribbon development on this road Members requested
 that the speed limit for an urban road be applied
 
 ¢ Members requested that there be no changes on the N69 until the new road is
@@ -252,7 +259,9 @@ operational
 zones.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -279,7 +288,7 @@ e St Patrick’s Day Festival
 
 e Riverfest
 
-¢ 48th Limerick International Band Championship
+© 48th Limerick International Band Championship
 
 Ms Deegan listed the additional Festival Programming through external partnership which was
 successful and added greatly to the Festival offerings.
@@ -310,19 +319,21 @@ of Riverfest 2019.
 Suspension of Standing Orders
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
 
-It was proposed by Cllr J Leddin and seconded by Cllr J O’Dea to suspend Standing Orders in order
+It was proposed by Cllr J Leddin and seconded by Cllr ) O’Dea to suspend Standing Orders in order
 to complete the Agenda.
 
 QUESTIONS
 
 Question submitted by Councillor J.Leddin
 
-1 will ask at the next meeting for the current status of the Limerick cycling strategy and the
+! will ask at the next meeting for the current status of the Limerick cycling strategy and the
 proposed new route network including the route from Mary Immaculate College to Bishops
 Quay via Henry Street.
 
@@ -341,7 +352,7 @@ forms part of the Limerick-Shannon Metropolitan Area Transport Strategy.
 
 Questions submitted by Councillor P.Keller
 
-1 will ask at the next meeting :-
+| will ask at the next meeting :-
 
 Define the term “Rapid Build”
 
@@ -375,7 +386,9 @@ Procurement Framework Information Document.
 construction. The main time saving is at Stage 3 and 4 (site stage). On a current
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -416,7 +429,7 @@ Questions submitted by Councillor P.Keller
 
 1.
 
-w
+ba
 
 Has there been any progress or forward movement with regard to planning permission
 for the former Parkway Valley/Horizon Mall.
@@ -442,7 +455,9 @@ remedial measures in order to prevent land becoming or continuing to be
 a Derelict Site.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21, Question submitted by Councillor S.Lynch
@@ -487,12 +502,11 @@ of commencement notices received’.
 
 3. Can the total number of commencement notices received for each year be provided?
 
-4. What is the proposed number of inspections budgeted for this service in 2019?
+4, What is the proposed number of inspections budgeted for this service in 2019?
 
 [2017 [2018 | 2019
 1pttime | 1 WTE 1 WTE
 
-ae ee
 12/12/18)
 
 Number of Inspectors 1pt time
@@ -505,7 +519,9 @@ Commencement Notices
 
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 received
@@ -539,7 +555,7 @@ adding Castleconnell to signage on the M7 at junction 27 at Birdhill.
 
 REPLY: The addition of Castleconnell as a destination to be signed at Junction 27 (Birdhill)
 to Southbound traffic on the M7 would necessitate the modification of
-approximately 13 signs on the M7 itself, the R454 Link road to Birdhill and on the
+approximately 13 signs on the 7 itself, the R454 Link road to Birdhill and on the
 R445 Old Dublin road. If any sign faces need to be increased in size, then there
 could also be additional cost implications, should the existing posts or foundations
 need to be upgraded. The cost of the changes to the signage and the associated
@@ -553,7 +569,7 @@ at the dangerous railway bridge in Rhebogue.
 
 REPLY: Limerick City and County Council and Irish Rail previously carried out a preliminary
 study, in advance of the Smarter Travel works in Rhebogue, to look at the feasibility
-of providing 2 pedestrian walkway to the side of the existing railway bridge.
+of providing a pedestrian walkway to the side of the existing railway bridge.
 
 From a preliminary examination, the provision of a pedestrian walkway is feasible,
 however the estimated cost is in the order of €400,000 to €500,000 and some
@@ -564,7 +580,9 @@ other traffic calming works were provided in the Rhebogue area. The Council
 proposes to examine the provision of a pedestrian walkway now, under the
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -572,12 +590,11 @@ proposes to examine the provision of a pedestrian walkway now, under the
 Limerick-Shannon Metropolitan Area Transport Strategy and we will seek grant
 funding for this work if a feasible solution is identified.
 
-17. uestion submitted fe Ilo
+17. uestion submitted - Ilo
 
 | will ask at the next meeting how many people will remain in emergency accommodation this
 
 Christmas.
-Location — % ;
 ixed Low threshold
 ccommodation for
 igher threshold
@@ -593,14 +610,16 @@ pocommodated in
 
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-NOTI MOTION
+NOT! MOTION
 
 18. Notice of Motion submitted by Councillor J. Gilligan
 
-! will move at the next meeting that this Council request the Minister to ban all domestic single
+1 will move at the next meeting that this Council request the Minister to ban all domestic single
 use batteries and replace them with rechargeable ones.
 
 The motion was proposed by Councillor Gilligan and seconded by Councillor Loftus.
@@ -638,11 +657,13 @@ targets laid down by the Directive, with a 52% collection rate for portable batt
 19. Notice of Motion submitted by Councillor J. Gilligan (to be referred to the Environment
 Strategic Policy Committee)
 
-! will move at the next meeting that this Council immediately re-act local bye-laws making all
+| will move at the next meeting that this Council immediately re-act local bye-laws making all
 refuse collectors charge customers on a pay by weight basis.
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12
@@ -669,7 +690,7 @@ submit Part 8 in Q1 2019.
 21. Notice of Motion submitted by Councillor J. Leddin (to be referred to the Home and
 Social Development Strategic Policy Committee)
 
-| will move at the next meeting that Limerick Metropolitan Council re-evaluate the housing
+! will move at the next meeting that Limerick Metropolitan Council re-evaluate the housing
 strategy for Ballinacurra Weston and Prospect so that clarity can be provided to residents in
 terms of housing upgrades, new builds, new road and demolitions.
 
@@ -689,7 +710,7 @@ A/Senior Executive Officer, Physical Development confirmed that Limerick City & 
 will arrange to contact Transport Infrastructure Ireland (TIl) to discuss these representations. Mr
 Mc Guigan stated that he will ask them to work with the Roads Engineers of Limerick City and
 County Council, to examine the issues raised, and to establish what remedial measures are
-warranted and can be funded by TIl at this time. Mr McGuigan confirmed that he will revert to
+warranted and can be funded by Til at this time. Mr McGuigan confirmed that he will revert to
 the Members in the District with the response from TI.
 
 23. Notice of Motion submitted by Councillor D. Butler
@@ -697,7 +718,9 @@ the Members in the District with the response from TI.
 I call on my fellow Metropolitan Councillors to join me in calling for the national core responders
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13
@@ -752,7 +775,9 @@ members of the National Ambulance Service Representative Association (NASRA) and
 Psychiatric Nurses Association (PNA) and have been denied recognition by the HSE. A one day
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14
@@ -790,7 +815,9 @@ Signed:
 
 MAYOR
 
-Dated: ——————————————
+Dated: _——————————————
 
 
----
+
+[[PAGE_END:14]]
+

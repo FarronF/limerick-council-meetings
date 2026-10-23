@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20January%202016.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Cappamore-Kilmallock - 21st January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,**
@@ -86,7 +87,9 @@ House, Grange and thanked staff from the Property Department and all those invol
 carrying out the works. In addition, the Cathaoirleach thanked Councillor Gleeson for his
 
 ongoing work as their representative on the Committee.
----
+
+[[PAGE_END:1]]
+
 2
 
 **QUESTIONS**
@@ -174,7 +177,9 @@ and the estate taken in charge.
 The Council seeks to effectively maintain its roads assets within its resources. At
 
 present as many patching crews as Health and Safety Regulations allow are
----
+
+[[PAGE_END:2]]
+
 3
 
 operating until the severe weather damage has been alleviated. During the
@@ -252,7 +257,9 @@ The following items were raised at the completion of the Agenda:
 Members thanked staff in the Kilmallock Office who were available over the Christmas period
 
 when houses in Galbally had been at risk of flooding.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor O’Donnell, seconded by Councillor Mitchell it was unanimously
@@ -296,4 +303,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

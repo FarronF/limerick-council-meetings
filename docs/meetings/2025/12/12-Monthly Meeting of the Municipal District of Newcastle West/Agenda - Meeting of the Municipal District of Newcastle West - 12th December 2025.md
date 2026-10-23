@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-newcastle-west-12th-december-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 12th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-newcastle-west-12th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach
+_—_— Comhairle Cathrach
 & Contae Luimnigh
-AN Kf  ™
+AN Kf ™
 
 — Limerick City
 & County Council
@@ -51,7 +52,7 @@ Co. Limerick
 
 Eircode: V42EH73
 
-t: +353 (0) 69 62200
+t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -88,20 +89,22 @@ erection and development of 12 no. residential units at Cois Na Féile, Abbeyfea
 
 Co. Limerick.
 
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Lutmneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
 © customerservices@limerickie
-© wvritimerickie
+© wvrwtimerickie
 
-W @LimerickCouncit
+W e@LimerickCouncit
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -115,7 +118,7 @@ District.
 Transportation and Mobility Directorate
 
 To Receive Update from the Mid West National Road Design Office on safety
-measures at the Devon Road Cross, Templeglantine, on the N21.
+measures at the Devon Road Cross, Templegiantine, on the N21.
 
 To review position in relation to allocations under the General Municipal Allocation
 2025.
@@ -144,7 +147,9 @@ renew sections of the N21 from South Quay towards Cullinagh.
 Danganbeg side of Bunoke Bridge.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -160,7 +165,7 @@ Danganbeg side of Bunoke Bridge.
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor T. Ruddle
 
-| will move at the next Meeting (a) What is the up-to-date position with Visce
+| will move at the next Meeting (a) What is the up-to-date position with Uisce
 Eireann on new connections to the sewer at Newcastle West, (b) Have we obtained
 extra capacity for the construction of new houses in Newcastle West, and (c) When
 will there be a full upgrade on the sewer.
@@ -190,4 +195,6 @@ National School.
 Newcastle West to aid older persons, disability sector and children crossing in safety.
 
 
----
+
+[[PAGE_END:3]]
+

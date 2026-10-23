@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%202018-06-15%20Minutes%20June.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 15th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%202018-06-15%20Minutes%20June.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -172,7 +175,9 @@ before the Full Council for adoption at the July Meeting and the adoption of CFR
 facilitate further detailed design studies and assessments in relation to the development of
 
 appropriate flood mitigation and defences.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members welcomed the Flood Risk Management Plans, which included Newcastle West
@@ -238,7 +243,9 @@ A brief is currently being finalised for the Newcastle West Integrated
 Movement Plan, which will take traffic flow on the Boherbui area into
 
 consideration.
----
+
+[[PAGE_END:3]]
+
 4
 
 This brief will be forwarded to consultants for tendering within the next two
@@ -314,7 +321,9 @@ Question submitted by Councillor L. Galvin
 ***I will ask at the next Meeting for an update on the takeover of Brewery Lane, Newcastle***
 
 ***West.***
----
+
+[[PAGE_END:4]]
+
 5
 
 REPLY:
@@ -394,7 +403,9 @@ policy.
 Councillor Collins requested that the process as outlined in the Traffic Calming in Urban Areas
 
 commence for this request.
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTION
@@ -464,7 +475,9 @@ The Council will work with both groups over the coming weeks and, if
 appropriate, a licence agreement could be issued to allow for this land to be
 
 developed.
----
+
+[[PAGE_END:6]]
+
 7
 
 18.
@@ -536,7 +549,9 @@ apartments are currently being allocated and he referred to the large number of 
 within the Abbeyfeale area seeking accommodation.
 
 The following items were also raised.
----
+
+[[PAGE_END:7]]
+
 8
 
 The provision of a graveyard in Tournafulla was noted and Members asked if contact could
@@ -584,4 +599,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

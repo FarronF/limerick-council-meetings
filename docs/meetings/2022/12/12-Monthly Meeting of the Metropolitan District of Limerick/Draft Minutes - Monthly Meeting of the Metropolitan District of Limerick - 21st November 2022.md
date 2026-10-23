@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Draft%20Minutes%20Monthly%20Meeting%2021st%20November%202022.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick - 21st November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Draft%20Minutes%20Monthly%20Meeting%2021st%20November%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON MONDAY, 21ST**
@@ -82,7 +83,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -154,7 +157,9 @@ review. Subject to approval, a 5-year timeframe is envisaged for project deliver
 ***based on current pre planning discussions and planning approvals within the next two years.***
 
 **REPLY**: Within Limerick City and Environs, 2,450 residential units have the benefit of planning
----
+
+[[PAGE_END:2]]
+
 3
 
 permission, on sites where no development has commenced, there is an additional 373
@@ -238,7 +243,9 @@ Spend to date.
 paperwork has been submitted payment is issued in the following two weeks in line with
 
 accounts payable payment runs.
----
+
+[[PAGE_END:3]]
+
 4
 
 **9.Question submitted by Councillor C. Slattery**
@@ -314,7 +321,9 @@ road.
 **REPLY**: The Council is in the process of seeking quotations for Consultants to prepare a design for
 
 an extension to the Castleconnell playground. It is intended that a Consultant will be
----
+
+[[PAGE_END:4]]
+
 5
 
 appointed by the end of the year.
@@ -400,7 +409,9 @@ v.
 ***Fund, if so please advise the number of units.***
 
 **REPLY:** i. In May 2022, Limerick City and County Council applied for 10 posts.
----
+
+[[PAGE_END:5]]
+
 6
 
 ii.
@@ -488,7 +499,9 @@ sweeping. Public roads are continuously assessed for leaf fall and to decide the
 of available resources. The Council gives additional attention to areas where large amounts
 
 of leaf fall are a regular occurrence.
----
+
+[[PAGE_END:6]]
+
 7
 
 **19.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -568,7 +581,9 @@ be planted in four groups of three in the raised planter boxes on the four corne
 Roche’s St / Shannon St junction. The remainder of the raised and long planters will be
 
 planted with a variety of bulbs, shrubs and grasses.
----
+
+[[PAGE_END:7]]
+
 8
 
 Planting works will be undertaken by the Contractor on the site on Thomas St and on
@@ -648,7 +663,9 @@ requirement to acquire some lands by CPO. This scheme is managed by Active Trave
 **24.Question submitted by Councillor J. Pond**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
----
+
+[[PAGE_END:8]]
+
 9
 
 ***approved Road Widening and Bridge Upgrade Works at the Junction of Golf Links Road L1116***
@@ -724,7 +741,9 @@ support more cyclists and ensuring the security of their bicycles and equipment.
 ***meeting to answer questions about the deterioration of the Guinness canal between the city***
 
 ***centre and UL and to outline the management plans they have for the canal.***
----
+
+[[PAGE_END:9]]
+
 10
 
 The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Councillor O’Sullivan
@@ -804,7 +823,9 @@ improved communication from the team, as members of the public were not clear re
 locations where they could meet with Active Travel so as to make submissions on schemes;
 
  Members agreed that Section 38 could be considered appropriate to use in certain
----
+
+[[PAGE_END:10]]
+
 11
 
 circumstances, but not for segregated cycle lanes in accordance with the adopted motion.
@@ -876,7 +897,9 @@ Limerick in a timely manner. Members supported the motion.
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor McSweeney and
 
 agreed.
----
+
+[[PAGE_END:11]]
+
 12
 
 In proposing the motion, Councillor Kiely highlighted a number of arts projects, which had been
@@ -950,7 +973,9 @@ travel infrastructure in Business Parks would facilitate employees to switch to 
 of transport and that it was important that these facilities complimented what were being provided
 
 by Active Travel.
----
+
+[[PAGE_END:12]]
+
 13
 
 **35.Correspondence**
@@ -968,4 +993,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:13]]
+

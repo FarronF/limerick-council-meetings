@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-07-01-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 1st July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-07-01-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ _——il Comhairle Cathrach
+_ —-—il Comhairle Cathrach
 & Contae Luimnigh
-aAnmN - SS
-—> Limerick City
+aAnmN - a
+—>=> Limerick City
 & County Council
 
 26" June, 2020
@@ -37,16 +38,14 @@ Gortbul,
 
 An Caisiedn Nua Thiay,
 
-Co. Luymnigtt
+Co. Lusmnigh.
 
-Newcastle West Municipal District
+Newcastle Wiest Municipal District
 Limerick City and County Council
 Aras William Srnith O'Bnen,
 Cartboy,
 
 Newcastle West,
-
-Co. Limerick
 
 Eircode: V42EH73
 
@@ -62,7 +61,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 1° Jul
 
 Is mise le meas,
 
-et Ctr olt
+~t Cutholt
 
 Margaret Corbett,
 
@@ -80,7 +79,7 @@ June, 2020.
 
 (b) To adopt Minutes of Annual General Meeting of the Municipal District of
 
-Newcastle West held on 10" June, 2020.
+Newcastle West held on 10 June, 2020.
 
 Physical Development Directorate
 
@@ -94,19 +93,21 @@ Physical Development Directorate
 
 Bye-Laws, 2020.
 
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
 =
-© wouritimerickie
+© wounitimerickie
 
 @LimerickCouncit
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -121,7 +122,7 @@ General Municipal Allocation
 To review position in relation to allocations under the General Municipal Allocation 2020.
 
 QUESTIONS
-Questions submitted by Councillor J. Scanlan
+Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting that (a) the open entrance to the green area on the R522
 
 from O’Connor Park, Ardagh be retired in the interest of safety and (b) that the hay shed
@@ -154,15 +155,17 @@ for the Hill Road, Abbeyfeale from Dennison’s junction up to the Four Cross Ro
 | will move at the next Meeting that safety measures be put in place at Riordan’s junction
 at Ballybehy, Abbeyfeale and that the crash barrier be extended along by the stream.
 
-Noti: i by Councillor J. Scanian
+Noti i by Councillor J. Scanian
 
-. [will move at the next Meeting that our Authority take immediate steps to restore the
+. Iwill move at the next Meeting that our Authority take immediate steps to restore the
 
 open park area at O’Connor Park, Ardagh, to the standard it had been maintained at prior
 to the undertaking of works by Irish Water in the interests of safety and public amenity.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Notice of Motion submitted by Councillor M. Collins
@@ -172,4 +175,6 @@ to slow down traffic accessing Cluain Arra, Daar River Walk, Daar River View, Da
 Close and the houses on that lane in the interest of safety.
 
 
----
+
+[[PAGE_END:3]]
+

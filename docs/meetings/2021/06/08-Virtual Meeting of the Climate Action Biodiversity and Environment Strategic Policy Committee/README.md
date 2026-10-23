@@ -30,7 +30,7 @@ Minutes - Meeting of the Climate Action Biodiversity and Environment Strategic 
 
 Replies to Notices of Motion - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 8th June 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/notice-of-motions-and-replies-from-cabe-8th-june-2021.pdf) - Text not extracted
 
-Green & Blue Infrastructure Strategy_ Access and Connectivity and People, Health and Wellbeing Presentation - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee  - 8th June 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/limerick-2-access-people.pdf) - Text not extracted
+Green & Blue Infrastructure Strategy: Access and Connectivity and People, Health and Wellbeing Presentation - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee  - 8th June 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/limerick-2-access-people.pdf) - Text not extracted
 
 FNL Swift presentation - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 8th June 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/2021.06.08-fnl-swift-presentation.pdf) - Text not extracted
 

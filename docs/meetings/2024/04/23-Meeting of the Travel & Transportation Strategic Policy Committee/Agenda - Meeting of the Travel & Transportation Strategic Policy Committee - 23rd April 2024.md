@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-23rd-april-2024.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 23rd April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-23rd-april-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **12th** **April, 2024**
@@ -51,7 +52,9 @@ is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -87,4 +90,6 @@ I will move at the next meeting that the charge for resident parking permits in
 Newcastle West be brought in line with the rate which applies to residents of
 
 Limerick City.
----
+
+[[PAGE_END:2]]
+

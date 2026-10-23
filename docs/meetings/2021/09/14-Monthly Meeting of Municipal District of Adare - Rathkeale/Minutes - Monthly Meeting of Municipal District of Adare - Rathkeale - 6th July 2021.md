@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-a-minutes-of-monthly-meeting-6th-july-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 6th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-a-minutes-of-monthly-meeting-6th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE COUNCIL CHAMBER, DOORADOYLE, CO. LIMERICK ON**
@@ -88,7 +89,9 @@ discussion, Members raised concerns over the spiralling costs of the works and r
 a report be prepared outlining the full breakdown of where exactly the current
 
 expenditure of €177,585.50 was spent given the original estimate for the works was in
----
+
+[[PAGE_END:1]]
+
 2
 
 the region of €40,000 together with the consultancy cost to date.  Councillor Sheahan
@@ -164,7 +167,9 @@ Adare Footpaths
 Total
 
 € 50,000
----
+
+[[PAGE_END:2]]
+
 3
 
 The recommended allocations were proposed by Councillor O’Donoghue, seconded by
@@ -226,7 +231,9 @@ facilities would have a bathroom available for use of a toilet and hand basin. C
 Collins agreed to same. Following discussion it was agreed to refer this Motion to the
 
 SPC to relook at improving the litter byelaws.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Reply:**
@@ -302,7 +309,9 @@ Act 2000 (as amended). Sites must be shown to be of special interest
 under one or more of the following headings: Architectural; Artistic;
 
 Archaeological; Historic; Scientific; Technical; Cultural; Social significance.
----
+
+[[PAGE_END:4]]
+
 5
 
 As the Covid-19 restrictions are lifted the standard research repositories,
@@ -370,7 +379,9 @@ Correspondence, as circulated, was noted by Members.
 Councillor Sheahan proposed the painting grant scheme for painting external Council
 
 houses would be reintroduced. This was seconded by Councillor Teskey, and agreed.
----
+
+[[PAGE_END:5]]
+
 6
 
 Councillor Teskey raised the issue of Pyrite damaged homes in Limerick and requested
@@ -402,4 +413,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

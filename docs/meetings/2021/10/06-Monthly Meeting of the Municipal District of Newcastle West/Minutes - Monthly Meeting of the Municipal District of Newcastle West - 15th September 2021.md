@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-2021-09-15-minutes-september.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 15th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-2021-09-15-minutes-september.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -30,7 +31,7 @@ CO. LIMERICK, ON WEDNESDAY, 15 September, 2021, AT
 PRESENT IN THE CHAIR: Councillor L. Galvin, Cathaoirleach.
 MEMBERS PRESENT:
 
-Councillors Collins, Foley, Ruddle, Scanlan and Sheahan.
+Councillors Collins, Foley, Ruddle, Scanian and Sheahan.
 
 OFFICIALS IN ATTENDANCE:
 
@@ -65,7 +66,9 @@ With the agreement of the Cathaoirleach, Ms. O’Connell addressed the Meeting a
 outline to the Members of her experience to date in various Local Authorities.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members welcomed the Senior Planner and they highlighted the following items:
@@ -120,7 +123,9 @@ Administrator agreed to forward this item to Corporate Services.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. uestion submi by Councill
@@ -132,7 +137,7 @@ attend our next Meeting for much needed discussions.
 REPLY: Please note that Irish Water have advised that they will be organising a clinic
 
 in the coming weeks and can meet Councillors to discuss this matter at the
-clinic.
+Clinic.
 
 Neal Boyle, Acting Senior Executive Engineer will attend the meeting on behalf
 of Water Services.
@@ -167,7 +172,9 @@ Riverview Manor Estate are particularly affected. He welcomed the response from 
 with regard to the new borehole and waste water treatment plant.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. General Municipal Allocation (GMA)
@@ -207,7 +214,7 @@ This item was dealt with as part of No. 2 on the Agenda.
 
 6. Question submitted by Councillor L. Galvin
 
-1 will ask at the next Meeting for (a) an update on the safety measures at Gleason’s Cross,
+! will ask at the next Meeting for (a) an update on the safety measures at Gleason’s Cross,
 Cratloe (b) the safety measures for the bend up from Gleason’s Cross on the Abbeyfeale to
 Athea Road (c) an update on the replacement of the broken railing at the top of
 Knocknaboul, Athea.
@@ -219,7 +226,9 @@ and once agreement is reached, works will commence shortly thereafter.
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Te Question submitted by Councillor F. Foley
@@ -252,7 +261,7 @@ local newspapers and seeking submissions from the public.
 
 9. Question submitted by Councillor J. Scanian
 
-I will ask at the next Meeting that the matter of confused house numbers at Daar River Walk
+| will ask at the next Meeting that the matter of confused house numbers at Daar River Walk
 and Daar River View, Newcastle West be addressed.
 
 REPLY: The area in question is currently on the Council list for the taking in charge.
@@ -270,7 +279,9 @@ REPLY: This private laneway will be checked to ascertain the cost of works neces
 to bring this laneway to an acceptable standard.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In order to take a roadway/laneway in charge there is a formal process under
@@ -279,7 +290,7 @@ local newspapers and seeking submissions from the public.
 
 11. Question submitted by Councillor J. Scanlan
 
-1 will ask at the next Meeting what percentage of cyclists who visited/utilised our Green
+! will ask at the next Meeting what percentage of cyclists who visited/utilised our Green
 Way in July and August brought their own bikes.
 
 REPLY: There are currently 8 counters at various locations along the Greenway
@@ -299,7 +310,7 @@ NOTICES OF MOTION
 
 12. Notice of Motion submitted by Councillor L. Galvin
 
-| will move at the next Meeting that this Council put in place a working plan during the
+! will move at the next Meeting that this Council put in place a working plan during the
 holiday period when staff are on leave for all Council Departments. The current situation is
 a shambles from a day to day working point of view.
 
@@ -323,7 +334,9 @@ if someone is working from home, that they should be able to do the same work fr
 6
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 as in the office but this was not the case in some instances. However, it was also noted that
@@ -368,7 +381,7 @@ Education Officer.
 
 15. Notice of Motion submitted by Councillor J. Sheahan
 
-1 will move at the next Meeting that that irish Water immediately put in place the required
+1 will move at the next Meeting that that Irish Water immediately put in place the required
 investment to bring both water supply and wastewater treatment for the town of Glin to a
 first world standard to serve the residents of Glin.
 
@@ -377,7 +390,9 @@ This item was dealt with as part of Item 2 on the Agenda.
 7
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16. Notice of Motion submitted Councillor J. Scanlan
@@ -427,7 +442,9 @@ from the Housing Directorate to deal with housing matters in the Newcastle West 
 replying, the Director agreed to raise these items with the Director, Housing.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Clarification was also sought on the proposed development at Woodfield Manor, Newcastle
@@ -439,7 +456,7 @@ An update was sought on the taking in charge of Rays Estate, Mountcollins along 
 update on the proposed works at Wards Cross and Cryle View Junction, Abbeyfeale. An
 update on the proposed works for Relig ide Naofa graveyard Abbeyfeale was also requested.
 
-The Executive Engineer gave an update to the Members on Lee's Cross. He noted that tenders
+The Executive Engineer gave an update to the Members on Lee’s Cross. He noted that tenders
 for survey works and the appointment of consultants is currently underway. He stated that
 once consultants are appointed a design for the junction can be progressed.
 
@@ -473,9 +490,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

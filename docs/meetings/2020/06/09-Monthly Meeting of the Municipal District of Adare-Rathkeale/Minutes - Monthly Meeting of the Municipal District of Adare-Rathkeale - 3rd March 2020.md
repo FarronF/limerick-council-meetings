@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-minutes-3rd-march-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 3rd March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-minutes-3rd-march-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -57,12 +58,14 @@ Discussion ensued in relation to right hand turn lanes. Councillor Keary and Cou
 Teskey informed the Senior Executive Engineer, Mid West National Road Design Office
 they would not be supporting the Traffic Calming Scheme if a right hand turn lane was
 not included in the scheme plans. The Senior Executive Engineer advised Members it
-was his opinion the Til would resist the installation of a right turn lane, however, he
+was his opinion the TI! would resist the installation of a right turn lane, however, he
 agreed to discuss the matter with TIl and revert to Members in the format of a Special
 Meeting which would need to be convened to meet the timelines of the scheme.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Keary requested a bus stop and good quality bus shelter also be included in
@@ -76,7 +79,7 @@ crossing has been provided for in front of the Petrol Station.
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-Rathkeale
-held on 11 February, 2020.
+held on 11" February, 2020.
 
 Proposed by Councillor Keary;
 Seconded by Councillor Teskey;
@@ -106,7 +109,9 @@ And Resolved:
 with Section 20 (3)(n) of the Planning and Development Act 2020 (Amended)”.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Operations and Maintenance Services
@@ -158,7 +163,9 @@ Village.
 €130 for two road mirrors on L69005 at Corgrigg, Foynes.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e €2,500 for Ballysteen Carnegie Library.
@@ -173,7 +180,7 @@ allocate the following:
 €1,000 for Askeaton St. Patrick’s Day Parade.
 €2,000 for Deel Manor Residents Association.
 
-On the proposal of Councillor O’Donoghue, seconded by Councillor Teskey, it was
+On the proposal of Councillor O’ Donoghue, seconded by Councillor Teskey, it was
 agreed to increase previous allocation of €5,000 for Croom Civic Centre to €6,000.
 
 On the proposal of Councillor Collins, seconded by Councillor Keary, it was agreed to
@@ -183,7 +190,7 @@ On the proposal of Councillor Teskey, seconded by Councillor O’Donoghue, it wa
 agreed to allocate the following:
 
 e €5,000 for St. Mary's Church, Askeaton.
- €1,000 for Limerick Celtics Basketball Club.
+@ €1,000 for Limerick Celtics Basketball Club.
 e €10,000 for Shounrade AFC.
 
 QUESTION
@@ -205,7 +212,9 @@ Councillor Sheahan requested the Director of Services, Gordon Daly, attend a Spe
 Meeting to discuss.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor K. Sheahan
@@ -256,7 +265,9 @@ could be arranged for Members. The Senior Executive Engineer agreed to liaise wi
 Til’s Road Safety Engineer and revert.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Keary advised lighting is required on the Sli na Slainte in Askeaton. The Senior
@@ -275,4 +286,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

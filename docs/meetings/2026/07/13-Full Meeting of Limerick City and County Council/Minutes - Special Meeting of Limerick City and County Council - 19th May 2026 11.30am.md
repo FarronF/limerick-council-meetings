@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-19th-may-2026.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 19th May 2026 11.30am.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-19th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE
@@ -88,7 +89,9 @@ convened to consider the Motion as set out on the Agenda.
 **and recorded in full by audio and video means, and that such recordings shall be made**
 
 **publicly available on the Council’s official website (www.limerick.ie) no later than two**
----
+
+[[PAGE_END:1]]
+
 **business days following the conclusion of each meeting, without unnecessary barriers or**
 
 **registration requirements.**
@@ -160,7 +163,9 @@ proposed system would be examined and costings obtained.
 It was agreed on the proposal of Councillor Collins (B), seconded by Councillor Slattery, to
 
 take a short adjournment.
----
+
+[[PAGE_END:2]]
+
 Upon resumption, the Mayor and Members agreed that further clarification was necessary
 
 regarding recording of meetings and the legal protections available to Members. It was
@@ -180,4 +185,6 @@ This concluded the meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

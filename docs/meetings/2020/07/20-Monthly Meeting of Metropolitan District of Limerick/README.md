@@ -30,15 +30,15 @@ Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th June 2020
 
 Minutes - Annual Meeting of Metropolitan District of Limerick - 15th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01b-draft-minutes-annual-meeting-15th-june-2020.pdf) - [Extracted text](./Minutes%20-%20Annual%20Meeting%C2%A0of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20June%202020.md)
 
-Disposal of Land_ Former Fulflex Property Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02a-disposal-of-land-former-fulflex-property-galvone-industrial-esta.pdf) - Text not extracted
+Disposal of Land: Former Fulflex Property Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02a-disposal-of-land-former-fulflex-property-galvone-industrial-esta.pdf) - Text not extracted
 
-Disposal of Land_ 82 Keane Street Killalee - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02b-disposal-of-land-82-keane-street-killalee.pdf) - Text not extracted
+Disposal of Land: 82 Keane Street Killalee - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02b-disposal-of-land-82-keane-street-killalee.pdf) - Text not extracted
 
 Community Initiative Scheme 2020 - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/03-community-initiative-scheme-2020-1.pdf) - Text not extracted
 
-Taking in Charge of Estates_ Bru na Gruadan Castletroy - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/04-taking-in-charge-of-estates-bru-na-gruadan-castletroy.pdf) - Text not extracted
+Taking in Charge of Estates: Bru na Gruadan Castletroy - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/04-taking-in-charge-of-estates-bru-na-gruadan-castletroy.pdf) - Text not extracted
 
-Draft Parking Places Bye-Laws 2020_ Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/05a-draft-parking-places-bye-laws-2020-cover-letter.pdf) - Text not extracted
+Draft Parking Places Bye-Laws 2020: Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/05a-draft-parking-places-bye-laws-2020-cover-letter.pdf) - Text not extracted
 
 Draft Metropolitan District of Limerick (Parking Places)(Amendment.) - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/05b-draft-metropolitan-district-of-limerick-parking-placesamendment.pdf) - Text not extracted
 

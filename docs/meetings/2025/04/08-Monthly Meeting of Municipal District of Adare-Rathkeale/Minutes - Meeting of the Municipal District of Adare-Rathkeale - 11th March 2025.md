@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ Seconded by Councillor O’Donoghue;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Following the adoption of the minutes Councillor O’Donoghue stated he had requested
@@ -170,7 +173,9 @@ Teskey queried who would be responsible for maintaining the timber boundary fenc
 the future. The Town Regeneration Officer, Rural Development agreed to discuss
 
 maintenance issues with the Parks Department and revert to Members. Councillor Keary
----
+
+[[PAGE_END:2]]
+
 3
 
 requested consideration be given to change the specification of the fencing to mesh
@@ -244,7 +249,9 @@ design has not been finalised and the installation of street lighting will be lo
 then. Councillor O’Donoghue requested the survey costs associated with the footpath
 
 extension from Kildimo to the Beer Garden be provided by the next meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 **5.**
@@ -316,7 +323,9 @@ to allocate €3,000 to Manor Fields, Adare.
 On the proposal of Councillor Teskey, seconded by Councillor Collins, it was agreed to
 
 allocate the following:
----
+
+[[PAGE_END:4]]
+
 5
 
  €2,000 to Coolcappa Community Centre.
@@ -388,7 +397,9 @@ in the summer.
 **and for the Local Authority to explain the exact areas for which the appointment will be**
 
 **responsible for and what exactly are the functions of the said appointment.**
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY:**
@@ -470,7 +481,9 @@ structurally unsound and dangerous property) is available for the
 refurbishment of vacant properties for occupation as a principal private
 
 residence, and for properties which will be made available for rent,
----
+
+[[PAGE_END:6]]
+
 7
 
 including the conversion of properties which have not been used as
@@ -556,7 +569,9 @@ How many applications did not have a Section 5 request.
 The Motion was proposed by Councillor Teskey, seconded by Councillor O’Donoghue and
 
 agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion Councillor Teskey requested a full breakdown of what the
@@ -634,7 +649,9 @@ The Adare Rathkeale Velocity Patcher operated for 210 days during 2024.
 This compares favourably with the other rural districts of Kilmallock –
 
 Cappamore 202 days and Newcastle West 222 days.
----
+
+[[PAGE_END:8]]
+
 9
 
 There were periods throughout the year when there were interruptions to
@@ -716,7 +733,9 @@ April Municipal District Meeting to discuss the Adare Bypass, in particular the
 commencement location on the Limerick side of the project.
 
 This concluded the Meeting.
----
+
+[[PAGE_END:9]]
+
 10
 
 Signed:
@@ -728,4 +747,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:10]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_19th_february_2015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 19th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_19th_february_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -42,21 +43,15 @@ Hayes), Education Officer (Ms. S. McDonnell), Senior Executive Engineer (Mr. G.
 O'Connor), Executive Engineer (Mr. J. Sheehan), Asst. Staff Officer (Ms. E. Buckley).
 
 1. Adoption of Minutes
-
 Circulated, copy of draft Minutes of the following Meetings:
-
-(a) Special Meeting of the Municipal District held on 8 January, 2015.
+(a) Special Meeting of the Municipal District held on 8"" January, 2015.
 Proposed by Councillor Teefy;
-
 Seconded by Councillor Sheehy;
 And Resolved:
-
-“That, the draft Minutes, as circulated, by taken as read and adopted and signed".
+“That, the draft Minutes, as circulated, by taken as read and adopted and signed”.
 (b) | Ordinary Meeting of the Municipal District held on 15” January, 2015.
 Proposed by Councillor Sheehy;
-
 Seconded by Councillor Donegan;
-
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
@@ -64,7 +59,9 @@ And Resolved:
 With the Cathaoirleach’s permission, it was agreed to take Item 4 at this point.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Economic Development and Planning
@@ -114,7 +111,9 @@ would dilute the potential impact of the scheme which should be given an opportu
 to achieve its objectives and then extend to other areas.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Environment & Water Services
@@ -123,7 +122,7 @@ Team Limerick Clean-Up Campaign
 
 Mr. Noel Earlie representing the JP McManus Benevolent Fund gave an update on
 the Team Limerick Clean-Up Campaign. He stated that the clean-up day in Limerick
-would take place on Good Friday 3% April, 2015 from 9.00 a.m. to 1.00 p.m. The
+would take place on Good Friday 3” April, 2015 from 9.00 a.m. to 1.00 p.m. The
 Campaign was intended to raise environmental awareness and would be urging all
 members of the public to get together to collect and recycle litter in their local area in
 an effort to tidy up the City and County.
@@ -159,11 +158,13 @@ can arrange for the permanent removal of bins, if required.
 
 6. uestion submitted by Councillor O’Donnell
 
-! will ask at the next Meeting for an update on action taken by Limerick City &
+| will ask at the next Meeting for an update on action taken by Limerick City &
 County Council in relation to the old Store premises in Herbertstown.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -220,7 +221,9 @@ Housing be made available at District Meeting”
 The response was as follows:
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A meeting will be arranged with the Councillors who have been
@@ -269,7 +272,9 @@ The Motion was proposed by Councillor O'Donnell and seconded by Councillor
 Teefy.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion Councillor O'Donnell indicated that the scheme is not
@@ -293,7 +298,7 @@ Any proposals to extend the scope of the current scheme will have to
 have regard to the implications for those groups who currently benefit
 from the scheme.
 
-11. Notice of Motion submitted by Councillor Teefy
+141. Notice of Motion submitted by Councillor Teefy
 
 | will move at the next Meeting that improvement works be carried out in
 Caherconlish at the junction at Lynch's corner on the R513.
@@ -323,7 +328,9 @@ In the past the grant stream used for works of this nature was ‘Specific
 Improvement Grant’ from the Department of Transport. Due to the
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 recent recession this grant stream has stopped and has not been
@@ -339,9 +346,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

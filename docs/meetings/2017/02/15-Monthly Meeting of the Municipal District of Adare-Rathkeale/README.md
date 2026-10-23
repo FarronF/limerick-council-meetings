@@ -24,11 +24,11 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Monthly Meeting Municipal District of Adare-Rathkeale - 15th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_15th_february2c_2016.pdf) - [Extracted text](./Agenda%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%2015th%20February%202017.md)
+Agenda - Monthly Meeting Municipal District of Adare-Rathkeale - 15th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_15th_february2c_2016.pdf) - Text not extracted
 
-Minutes of Meeting - Municipal District of Adare-Rathkeale - 12th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_of_meeting_12th_january2c_2017.pdf) - [Extracted text](./Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202017.md)
+Minutes of Meeting - Municipal District of Adare-Rathkeale - 12th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_of_meeting_12th_january2c_2017.pdf) - Text not extracted
 
-Minutes of Meeting - Municipal District of Adare-Rathkeale - 25th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_of_meeting_25th_january2c_2017.pdf) - [Extracted text](./Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2025th%20January%202017.md)
+Minutes of Meeting - Municipal District of Adare-Rathkeale - 25th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_of_meeting_25th_january2c_2017.pdf) - Text not extracted
 
 Disposal of Freehold Interest - Ballynamucky, Ballingarry -- Monthly Meeting Municipal District of Adare-Rathkeale - 15th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/03_i_disposal_of_freehold_interest_-_ballynamucky2c_ballingarry.pdf) - Text not extracted
 

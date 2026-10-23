@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20December%202015.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 17th December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -51,14 +52,14 @@ Una io
 Tina Knox,
 Meetings Administrator.
 
-ee ee
+ea ene nn een eee eee ene e een mee wen ener an nae n nnn nen nnn nee ene n nn en eee e eee eens neeeeeweene
 
 AGENDA
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Meeting of the Municipal District of Cappamore-Kilmallock held on 19" November,
+(a) Meeting of the Municipal District of Cappamore-Kilmallock held on 19"" November,
 
 2015.
 (b) Adjourned Meeting of the Municipal District of Cappamore-Kilmallock held on 23"
@@ -74,7 +75,9 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Question submitted by Councillor Donegan
@@ -90,7 +93,7 @@ to prevent continued and future flooding of the road in this area.
 
 Question submitted by Councillor O’Donnell
 
-! will ask at the next meeting if Limerick City and County Council can carry out urgent
+| will ask at the next meeting if Limerick City and County Council can carry out urgent
 repair works adjacent to the Mulcahy property on the L-5064 at Ballinard,
 Herbertstown and to investigate flooding on this road.
 
@@ -113,4 +116,6 @@ Correspondence.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

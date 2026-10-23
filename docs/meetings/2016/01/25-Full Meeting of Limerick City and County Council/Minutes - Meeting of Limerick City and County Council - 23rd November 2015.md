@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20November%202015.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 23rd November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY
@@ -102,7 +103,9 @@ report of the Director, Environment and Water Services, dated 16th
 September, 2015, in relation to the disposal of land, by means of lease, at
 
 Ballinacarriga, Kildimo.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Gilligan;
@@ -182,7 +185,9 @@ Strategic Policy Committee and the Director of Environment and Water, dated 4th
 November, 2015, together with Draft Limerick City and County Council (Cemeteries)
 
 Bye-Laws, 2015.
----
+
+[[PAGE_END:2]]
+
 3
 
 The report stated that the Draft Bye-Laws had been prepared and considered
@@ -252,7 +257,9 @@ Circulated, report of the A/Head of Finance dated 19th November, 2015,
 attaching Schedules setting out details of the Revenue and Capital Accounts for the
 
 nine month period ended 30th September, 2015.
----
+
+[[PAGE_END:3]]
+
 4
 
 The report stated that the total expenditure on the Revenue Account for the
@@ -324,7 +331,9 @@ Compassionate Communities Project
 In view of time constraints, the scheduled presentation on this item was
 
 deferred to the January Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 5.
@@ -406,7 +415,9 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Collins
 **Dublin (7th** **November, 2015):** Councillor O’Brien.
 
 **Sligo:** Councillor Gilligan.
----
+
+[[PAGE_END:5]]
+
 6
 
 (ii)
@@ -494,7 +505,9 @@ per hour varies depending on type of incident as follows:
 € 550 per hour for private domestic, road traffic accidents,
 
 refuse skip/refuse bin fires etc.
----
+
+[[PAGE_END:6]]
+
 7
 
 € 1,100 per hour for Commercial Buildings.
@@ -588,7 +601,9 @@ Committee)
 It was agreed to refer this Motion to the Home and Social Development
 
 Strategic Policy Committee.
----
+
+[[PAGE_END:7]]
+
 8
 
 10.
@@ -654,7 +669,9 @@ The Motion was agreed.
 Correspondence
 
 The Correspondence circulated with the Agenda was taken as read.
----
+
+[[PAGE_END:8]]
+
 9
 
 MACRA NA FEIRME ANNUAL CONFERENCE:
@@ -692,4 +709,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

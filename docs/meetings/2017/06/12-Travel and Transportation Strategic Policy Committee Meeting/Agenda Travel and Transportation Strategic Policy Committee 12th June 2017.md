@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%2012th%20June%202017.pdf)
+**Original file:** [Agenda Travel and Transportation Strategic Policy Committee 12th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%2012th%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 **6th** **June, 2017**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
@@ -46,7 +47,9 @@ June, 2017 at 10:00 a.m. The business to be transacted is set out in the appende
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -82,4 +85,6 @@ implementation of ramps, across the Metropolitan District”.
 **6.Presentation on Government Road Funding** **–** **Capital Plan** **–** **Kieran Lehane and Vincent**
 
 **Murray**
----
+
+[[PAGE_END:2]]
+

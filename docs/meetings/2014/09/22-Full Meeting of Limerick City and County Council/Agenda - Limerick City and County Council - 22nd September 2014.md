@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20limerick_city_and_county_council_meeting_agenda_-_monday_22nd_september_2014.pdf)
+**Original file:** [Agenda - Limerick City and County Council - 22nd September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20limerick_city_and_county_council_meeting_agenda_-_monday_22nd_september_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 el Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-AN ™ Cé na gCeannaithe,
-—=>> Luimneach
+AN f ™ Cé na gCeannaithe,
+—==> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL fore
+COUNCIL fae
 
 t: +353 (0) 61407 100
 147th September, 2014. f: +353 (0) 61 415 266
@@ -41,18 +42,16 @@ Council
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-
 Council Chamber, Dooradoyle, Limerick, on Monday, 22"? September, 2014, at 3.00 p.m. The
 
 business to be transacted is set out on the appended Agenda.
 
 Is mise le "tT :
-Fur WY
 
 : Eug Griffin,
 Meetings Administrator.
 
-Ca ee ee en ee ee aaa atealatalatelatabetatatetalatatetateneel
+Cae ee eee eee eee eee taal ataletalatabatettataaatetatenatal
 
 AGENDA
 
@@ -61,16 +60,16 @@ To adopt Minutes of the following Meetings:
 
 (a) Ordinary Meeting of Limerick County Council held on 22™ April, 2014.
 
-(b) | Ordinary Meeting of Limerick City Council held on 28 April, 2014.
+(b) Ordinary Meeting of Limerick City Council held on 28” April, 2014.
 
-(c) | Special Meeting of Limerick County Council held on 14” May, 2014.
+(c) Special Meeting of Limerick County Council held on 14” May, 2014.
 
-(d) Special Meeting of Limerick County Council held on 16” May, 2014.
+(d) | Special Meeting of Limerick County Council held on 16” May, 2014.
 
 (e) Inaugural Annual Meeting of Limerick City and County Council held on 6” June,
 2014.
 
-(f) Special Meeting of Limerick City and County Council held on 20” June, 2014.
+(f) Special Meeting of Limerick City and County Council held on 20" June, 2014.
 
 (g) Special Meeting of Limerick City and County Council held on 7” July, 2014.
 
@@ -80,21 +79,23 @@ To adopt Minutes of the following Meetings:
 2. Di sal of Land
 To consider proposal for the disposal of land at:
 
-(a) _ Ballynanty, Limerick.
-(b) | 103 Mayorstone Grove, Limerick.
+(a) Ballynanty, Limerick.
+(b) 103 Mayorstone Grove, Limerick.
 (c) — Lissanalta House, Dooradoyle, Limerick.
 
 (Statutory Notices dated 10th September, 2014)
 
 @ customerservices@limerick.ie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vevevelimerick.ie
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach  vevewelimerick.ie
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Finance
+3. Finance
 (a) LFi cial Statement 2013 for Limerick City Council
 
 (i) To consider the Annual Financial Statement for year ended 31** December,
@@ -114,7 +115,7 @@ Gratuities” to fund future gratuity costs.
 
 (b) Annual Financial Statement 2013 for Limerick County Council
 
-(i) To consider the Annual Financial Statement for year ended 31% December,
+(i) To consider the Annual Financial Statement for year ended 31° December,
 2013, for Limerick County Council.
 
 (Annual Financial Statement and Report from
@@ -129,7 +130,9 @@ Gratuities" to fund future gratuity costs.
 (Report already circulated)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) Raising of Loan
@@ -174,10 +177,12 @@ Report.
 (Annual Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(a)
+(4)
 
 (e)
 
@@ -220,7 +225,7 @@ Home and Social Development
 
 (b)
 
-Vv iv:
+Vv ivi
 
 To appoint Local Authority Officials and Traveller Representatives to the Local
 Traveller Accommodation Consultative Committee.
@@ -231,7 +236,9 @@ Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development and Planning
@@ -274,7 +281,9 @@ To consider approving recommended Grants under the Arts Act, 2003.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -310,21 +319,21 @@ Donegal, from 20" to 25" July, 2014.
 Public Health Seminar on HSE Tobacco Control Policy held in Clonakilty, Co. Cork,
 on 9” August, 2014.
 
-Parnell Summer School 2014 ‘War and Peace - Marking the Centenary of the
+Parnell Summer School 2014 ‘War and Peace — Marking the Centenary of the
 Outbreak of the First World War held in Rathdrum, Co. Wicklow, from 10" to 14”
 
 August, 2014.
 
 Kennedy Summer School 2014 ‘History Repeats Itself held in New Ross, Co.
-Wexford, from 11" to 13 September, 2014.
+Wexford, from 11" to 13” September, 2014.
 
 The 13” Benedict Kiely Literary Weekend held in Omagh, Co. Tyrone, from 12” to
 14" September, 2014.
 
 Seminar on Social Housing in Ireland held in Dublin from 12” to 14” September,
-2014.
+2014,
 
-La Touche Legacy Seminar to be held in Greystones, Co. Wicklow, from 26” to 28"
+La Touche Legacy Seminar to be held in Greystones, Co. Wicklow, from 26" to 28"
 September, 2014.
 
 Seminar on the Public Healthcare System to be held in Dublin from 26" to 28"
@@ -343,7 +352,9 @@ different modes across the country with discounts being offered by some Council 
 but not in Limerick.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -392,7 +403,9 @@ We will move at the next Meeting that Limerick City and County Council use its p
 under current legislation to reduce the Local Property Tax by 15%.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -446,7 +459,9 @@ Scheme that operates in the County so as to treat all citizens of the amalgamate
 Authority equally.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23.
@@ -497,7 +512,9 @@ opposition to the planned introduction of water charges, and supports the people
 Limerick who actively resist and oppose this unjust tax.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor J. Loftus
@@ -509,4 +526,6 @@ participating in any further Gateway/JobBridge Schemes.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:10]]
+

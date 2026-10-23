@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%202017-10-18%20Minutes%20Draft%20Budgetary%20Plan%20Newcastle%20West.pdf)
+**Original file:** [Minutes Draft Budgetary Plan - Meeting of Municipal District of Newcastle West - 18th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%202017-10-18%20Minutes%20Draft%20Budgetary%20Plan%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
@@ -35,7 +36,7 @@ Apologies for their inability to attend were received from Councillors Foley, Ga
 
 OFFICIALS IN ATTENDANCE:
 
-A/Head of Finance (Mr. S. Coughlan), A/Director of Services (Mr. J. Delaney), Senior Executive
+A/Head of Finance (Mr. S$. Coughlan), A/Director of Services (Mr. J. Delaney), Senior Executive
 Engineer, West Division (Mr. B. Noonan), Administrative Officer, Corporate Services (Ms. T.
 Knox), Senior Staff Officer, Newcastle West (Ms. M. Corbett), Clerical Officer, Corporate Services
 
@@ -62,15 +63,17 @@ Newcastle West as follows:
 Svc General Municipal Allocation 2018 Municipal District of Newcastle West
 804 Local Roads € 95,000
 
-DOS
+DOs
 Community Initiatives
 
 |__| Special Projects — LA Infrastructure
-TOTAL: | General Municipal Allocation ss €225,000—~—“‘C*™S
+TOTAL: | General Municipal Allocation —€225,0000——————=”
 
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -98,4 +101,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

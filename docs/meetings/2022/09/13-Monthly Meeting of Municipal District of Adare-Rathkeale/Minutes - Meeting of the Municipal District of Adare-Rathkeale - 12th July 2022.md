@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Minutes%20of%20Monthly%20Meeting%2012th%20July%2C%202022_0.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Minutes%20of%20Monthly%20Meeting%2012th%20July%2C%202022_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE ON**
@@ -82,7 +83,9 @@ Seconded by Councillor O’Brien;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 (b)
@@ -150,7 +153,9 @@ address the issue of Ash die back in the City and County.
  Councillor Teskey proposed the District write to the McManus family to thank them
 
 for the success of the Pro-Am held in The Adare Manor in July. Councillor Teskey
----
+
+[[PAGE_END:2]]
+
 3
 
 further proposed the District write to the Chief Superintendent of An Garda
@@ -216,7 +221,9 @@ allocate €1,000 to Askeaton Ballysteen Tennis Club.
 On the proposal of Councillor Sheahan, seconded by Councillor Keary, it was agreed to
 
 allocate €3,000 to Robertstown Church.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Keary, seconded by Councillor Sheahan, it was agreed to
@@ -278,7 +285,9 @@ provide roof finish to arrest further deterioration, until such time as a use ha
 found for the property.
 
 Any interest or funded proposals for the future of this property would be most welcome.
----
+
+[[PAGE_END:4]]
+
 5
 
 **(b)**
@@ -342,7 +351,9 @@ agreed.
 Correspondence, as circulated, was noted by Members.
 
 This concluded the Meeting.
----
+
+[[PAGE_END:5]]
+
 6
 
 Signed:
@@ -354,4 +365,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

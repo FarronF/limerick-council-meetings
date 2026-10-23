@@ -16,38 +16,40 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_cappamore_-_kilmallock_-_agenda_12_june_2014.pdf)
+**Original file:** [Agenda - Municipal District Cappamore - Kilmallock - 12th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_cappamore_-_kilmallock_-_agenda_12_june_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
+——
 
-——_
-oe
+ArN i” ~
+a
 
 . .
 Limerick
 CITY & COUNTY
-5% June, 2014. COUNCIL
+5%» June, 2014. COUNCIL
 
 Corporate Services.
 Seirbhisi Corparaideacha.
 
 To: Each Member of the Municipal District of
-Cappamore-Kilmallock
+Cappamore-Kilmailock
 
 A Chomhairleoir, a chara,
 
 You are requested to attend the Inaugural Annual Meeting of the Municipal District of
 Cappamore-Kilmallock to be held at Aras Mainchin Seoighe, Millmount, Kilmatlock, Co.
-Limerick, on Thursday, 12" June, 2014, at 10.00 a.m. The business to be transacted is set
+Limerick, on Thursday, 12"" June, 2014, at 10.00 a.m. The business to be transacted is set
 out on the appended Agenda.
 
 Is mise le meas,
 
 Meetings Administrator.
 
-owen me nenmenneeere nen e renee ee eswneeensenenawen sss eenseneneee
+owen ne nenmenneeeee een e eer ee eens wn neem swnenawen ses eenseneneee
 
 CLAR
 
@@ -59,7 +61,7 @@ office until the next Annual Meeting or until a successor has been elected.
 
 3. To agree Schedule of Meetings.
 
-4, Suggested Rules of Procedure for Municipal Districts.
+4. Suggested Rules of Procedure for Municipal Districts.
 
 (Circular Letter LG 11/2014 and Regulations received from the Department of the
 Environment, Community and Local Government Enclosed)
@@ -69,9 +71,11 @@ Environment, Community and Local Government Enclosed)
 
 6. Any Other Business.
 
-res,
-ig Cé na gCeannaithe, Luimneach t: 061 407100 e@: info@timerickcity.ie
-* 2 Merchant's Quay, Limerick f: 061 415266 w: www.limerickcity.ie
+wre,
+iS Cé na gCeannaithe, Luimneach t: 061 407100 e@: infoetimerickcity.ie
+* Fy Merchant's Quay, Limerick f: 061 415266 w: www.limerickcity.ie
 
 
----
+
+[[PAGE_END:1]]
+

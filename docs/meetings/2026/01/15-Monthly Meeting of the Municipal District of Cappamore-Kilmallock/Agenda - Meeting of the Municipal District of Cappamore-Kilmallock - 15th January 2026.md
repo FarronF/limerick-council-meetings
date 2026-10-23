@@ -16,13 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-january-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 15th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 1
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Declaration of Interest**
@@ -86,7 +89,9 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 update on the current status and any future plans for the former Bank of Ireland
 
 building in Bruff, now in the ownership of Limerick City and County Council.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Notice of Motions**
@@ -130,4 +135,6 @@ rubbish dumping that is occurring in the Cappamore/Murroe area on a continuous
 basis over a long period of time now.
 
 **12. A.O.B**
----
+
+[[PAGE_END:3]]
+

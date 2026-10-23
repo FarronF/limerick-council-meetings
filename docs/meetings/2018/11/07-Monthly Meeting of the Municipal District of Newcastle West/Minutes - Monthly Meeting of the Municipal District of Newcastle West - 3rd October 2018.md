@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%202018-10-03%20Minutes%20October.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%202018-10-03%20Minutes%20October.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 With the permission of the Cathaoirleach discussion on the Minutes was deferred and it was
@@ -174,7 +177,9 @@ To receive update on Invasive Species.
 The Senior Executive Engineer, Physical Development Directorate, gave a presentation to
 
 Members on Japanese Knotweed in County Limerick.
----
+
+[[PAGE_END:2]]
+
 3
 
 She referred to the Invasive Species App and noted that approximately 500 reports of
@@ -250,7 +255,9 @@ Question submitted by Councillor L. Galvin
 REPLY:
 
 Repairs works will be carried out on the above within the next two weeks.
----
+
+[[PAGE_END:3]]
+
 4
 
 7.
@@ -332,7 +339,9 @@ properties within the District and questioned why these properties are not being
 and brought back into stock given the acute housing shortage and the extensive housing
 
 waiting list.
----
+
+[[PAGE_END:4]]
+
 5
 
 Members requested that an official from the Housing Development Directorate attend a
@@ -410,7 +419,9 @@ Notice of Motion submitted by Councillor L. Galvin
 ***Management Plan with regard to the following: (i) the purchase of*** ***O’ Riordan’s Bar (ii)***
 
 ***update on Nellie Lane’s Yard (iii) details on the funding to complete the plan (iv) proposed***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***commencement date of the works as per the Part VIII (v) update on the provision of a public***
@@ -506,7 +517,9 @@ and New Street needed to be addressed and it was envisaged that the housing issu
 location be addressed in unison. The Director informed Members that the derelict sites at
 
 Colbert Terrace were actively being pursued.
----
+
+[[PAGE_END:6]]
+
 7
 
 The Motion was seconded by Councillor Browne.
@@ -568,4 +581,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20SPC%20Meeting%2026th%20June%202017.pdf)
+**Original file:** [Agenda - Environment SPC - 26th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20SPC%20Meeting%2026th%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——,
+——
 
-——-
+——_—-
 Limerick
 CITY & COUNTY
 
 COUNCIL
 
-19" june, 2017
+19" June, 2017
 
 To: The Chai nan h Member of the Environment Strategi icy Committ f
 
@@ -43,7 +44,9 @@ DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
@@ -66,4 +69,6 @@ release of Sky Lanterns (Chinese Lanterns) and ban the release of helium balloon
 
 
 
----
+
+[[PAGE_END:2]]
+

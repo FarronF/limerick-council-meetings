@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-2024-07-03-agenda-july.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 3rd July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-2024-07-03-agenda-july.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar
-: Camihnairie Cathrach agus Contae Luimnigh.
-an i = = ee Aras William Smith OBrien
+__——_i Comhairle Cathrach Duliche Bardais an Chaisledin Nua Thiar
+‘ Caminairie Cathrach agus Contae Luimnigh.
+an i = eee Aras William Smith OBrien
 
-Gortbui
-= Limerick City - An Calsiean Nua Thar,
+Gortbut
+—=—=—> Limerick City . An Calsiean Nua Thar,
 & County Council Co, Luimnigh
 
 Newcastle West Municipal District.
@@ -64,17 +65,19 @@ held on 26" June, 2024.
 
 (Copies Enclosed)
 
-2. Declaration of Interest.
+2. _ Declaration of Interest.
 3. To Adopt Standing Orders for the Municipal District of Newcastle West.
 
 & customerservices@limerick.te
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www timerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www limerick.te
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
-\ 061 - 556 000
+{ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -126,7 +129,9 @@ public lighting.
 Orchard housing estate, Abbeyfeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -159,7 +164,7 @@ NOTICES OF MOTION
 | will move at the next Meeting that appropriate safety measures are put in place
 between the 50kph limit and the traffic lights along the R522 at Killeline.
 
-I will move at the next Meeting that disability bays be provided in the area between
+| will move at the next Meeting that disability bays be provided in the area between
 the Post Office and the Supervalu premises on Bishop Street, Newcastle West.
 
 Notices of Motion submitted by Councillor L. Galvin
@@ -186,4 +191,6 @@ Place, Glin and Corbry Estate, Glin. This application should also include traffi
 calming measures.
 
 
----
+
+[[PAGE_END:3]]
+

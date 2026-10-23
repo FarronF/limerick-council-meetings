@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-draft-minutes-monthly-online-meeting-18th-january-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-draft-minutes-monthly-online-meeting-18th-january-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON MONDAY, 18TH** **JANUARY, 2021 at 09:45 A.M.**
@@ -86,7 +87,9 @@ And Resolved:
 Councillor McSweeney requested that the minutes in future, would distinguish between
 
 Councillors Conor Sheehan and Michael Sheahan.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Economic Development**
@@ -156,7 +159,9 @@ Q4 2020 and will continue during week beginning 18th January 2021, weather permi
 **REPLY**: The location of each litterbin in Limerick City is shown on the attached maps. A map of the
 
 location of bins in the Dooradoyle / Raheen / Mungret area will be provided in due course.
----
+
+[[PAGE_END:2]]
+
 3
 
 Maps showing the location of litterbins were circulated as part of the reply.
@@ -324,7 +329,9 @@ Tuesday 1 September 2020
 1027
 
 112
----
+
+[[PAGE_END:3]]
+
 4
 
 Wednesday 2 September 2020
@@ -522,7 +529,9 @@ cannot be opened permanently. This traversing pathway has to be managed by the
 respective owners and the Council must respect their wishes to manage their property as
 
 they see fit. The alternative route across Matthew Bridge is but a brief diversion.
----
+
+[[PAGE_END:4]]
+
 5
 
 **8.Question submitted by Councillor J. Costelloe**
@@ -596,7 +605,9 @@ relocation of the fire service as result of Covid 19 restrictions) and the area 
 Market at weekend. In the compilation of the Winter Maintenance Programme 2021/2022,
 
 other routes may be considered in severe weather conditions.
----
+
+[[PAGE_END:5]]
+
 6
 
 **11.Question submitted by Councillor O. O’Sullivan**
@@ -676,7 +687,9 @@ All Social Media communication platforms will be updated to advise of this exten
 member of the public who requires assistance can contact Limerick City and County Council
 
 Customer Service or the Bin Waiver Team.
----
+
+[[PAGE_END:6]]
+
 7
 
 **13.Notice of Motion submitted by Councillor S. Benson (to be referred to the Protocol**
@@ -746,7 +759,9 @@ Cola Bike Scheme.
 ***I will move at the next meeting of Limerick Metropolitan Council that Covid-19 mobility plans for***
 
 ***South Circular Road and Howleys Quay be reinstated during Level 5 restrictions.***
----
+
+[[PAGE_END:7]]
+
 8
 
 The motion was proposed by Councillor O’Donovan and seconded by Councillor Novak Uí
@@ -824,7 +839,9 @@ In proposing the motion, Councillor McSweeney stated that animal cruelty is a se
 city and county and highlighted the urgency that an Animal Cruelty Inspector would be reinstated
 
 in Limerick.
----
+
+[[PAGE_END:8]]
+
 9
 
 The Members agreed that animal cruelty should not be tolerated and they noted that An Garda
@@ -852,4 +869,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

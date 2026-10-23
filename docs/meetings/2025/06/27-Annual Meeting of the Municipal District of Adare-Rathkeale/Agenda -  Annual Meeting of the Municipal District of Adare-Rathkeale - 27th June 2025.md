@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-the-municipal-district-of-adare-rathkeale-27th-june-2025.pdf)
+**Original file:** [Agenda -  Annual Meeting of the Municipal District of Adare-Rathkeale - 27th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-the-municipal-district-of-adare-rathkeale-27th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__-——e Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
+a Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
 . & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
-Aes i ~ Aras Séan Finn,
+anaes i ~ Aras Séan Finn,
 
 Line Nua,
 
-—— Limerick City ne Nu
+—=— Limerick City ne Nu
 & County Council Rath Caola,
 
 Co, Luimnigh.
@@ -66,8 +67,10 @@ next Annual Meeting or until a successor has been elected.
 until the next Annual Meeting or until a successor has been elected.
 
 & customerservices@limerick.ie
-Ceameichaaiierk CHareastiaiacty C6 na pcomeanhel maaan 1 © wevalimerick.te
-Corporate Headquarters, Merchants Quay, Limerick. YW @LimerickCouncil
+Ceameichaetied Chareaetiaeacty C6 na scone eset 1 © woevalimerick.te
+Corporate Headquarters, Merchants Quay, Limerick. VW @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

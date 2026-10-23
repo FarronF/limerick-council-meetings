@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Annual%20Meeting%20290618.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 29th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Annual%20Meeting%20290618.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_——_ Comhairle Cathrach
 & Contae Luimnigh
-NN ‘ limeiciy ick City
+NIN ‘ limeicciy ick City
 — imerick Ci
 & County Council
 
@@ -41,14 +42,14 @@ Luimneach
 Corporate Services,
 
 Limerick City and County Council,
-Corporate Headqueters,
+Corporate Headqusters,
 Merchants Quay.
 
 Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 61 557150
+t: +353 (0) 61 5S7150
 f; +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -65,7 +66,7 @@ Is mise le meas,
 James Clune,
 tings Administrator.
 
-Sateen ee
+Potter en nee mere erat neem ans meant nee nes wenn enn nn nnn nnn nen ween en nen een ne eee en een nen nennsaeeenenesnes cee ececcen cence e eee ee
 
 AGENDA
 
@@ -76,11 +77,13 @@ for the ensuing year or until a successor is elected.
 2. To consider the election of a Deputy Mayor of the City and County of Limerick to
 hold office for the ensuing year or until a successor is elected.
 
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 w @LimerickCouncil
-(061 - $$7150
+061 - $$7150
 
 
----
+
+[[PAGE_END:1]]
+

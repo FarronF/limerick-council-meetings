@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Municipal District of Newcastle West - 12th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-04-12_agenda_april_meeting.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2012th%20April%202017.md)
+Agenda - Municipal District of Newcastle West - 12th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-04-12_agenda_april_meeting.pdf) - Text not extracted
 
-Minutes - Municipal District Newcastle West - 1st March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-03-01_minutes_march_municipal_district_newcastle_west_.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20Newcastle%20West%20-%201st%20March%202017.md)
+Minutes - Municipal District Newcastle West - 1st March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-03-01_minutes_march_municipal_district_newcastle_west_.pdf) - Text not extracted
 
 Report on Disposal of Land - Municipal District of Newcastle West - 12th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/04_report_disposal_land.pdf) - Text not extracted
 

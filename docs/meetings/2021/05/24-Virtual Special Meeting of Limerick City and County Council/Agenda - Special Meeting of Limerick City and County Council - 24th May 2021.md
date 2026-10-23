@@ -16,17 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-special-meeting-24.05.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 24th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-special-meeting-24.05.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comal Cattrach sonata conn at pn
-& Contae Luimnigh . “es :
+& Contae Luimnigh : “ets .
 
-An Kf ™
+An fi ™
 
-Ceanncheathra Chorpardideach,
+Ceanncheathra Chorparaideach,
 Cé na gCeannaithe,
 
 — Limerick City Luimneach
@@ -40,7 +40,7 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 ENH90
+EIRCODE V94 EN90
 
 t: +353 (0) 61 557150
 
@@ -60,25 +60,23 @@ Is mise le meas,
 
 J
 
-ZO ———— »)
-=e
-
-Laura Flannery, a
-
+Laura Flannery, —
 Meetings Administrator.
 
 AGENDA
 
-i. Closure of Aer Lingus Cabin Crew Base at Shannon Airport
+1. Closure of Aer Lingus Cabin Crew Base at Shannon Airport
 
 To discuss the decision of Aer Lingus in relation to the closure of its cabin crew base
 
 in Shannon Airport.
 m customerservices@limerick.le
-@ werwilimerick.ie
+@ wervilimerick.ie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+

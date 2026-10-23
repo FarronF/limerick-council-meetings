@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-7th-april-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 7th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-7th-april-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -86,7 +87,9 @@ with demand.
 The Senior Engineer, Local Authority Housing Maintenance, gave a PowerPoint presentation
 
 to the Members on housing voids. He informed the Members that within Limerick City and
----
+
+[[PAGE_END:1]]
+
 **2**
 
 County Council housing stock of 6,192 of which 113 were awaiting minor repairs and 103 were
@@ -156,7 +159,9 @@ was aware of the Council’s current situation in relation to voids.
 after becoming vacant and asked for clarification on the turn-around time to get these
 
 voids back into stock.
----
+
+[[PAGE_END:2]]
+
 **3**
 
  Members queried how many tradespeople were employed by the Council and what type
@@ -228,7 +233,9 @@ The Mayor supported the Motion and highlighted the need for funding as the Counc
 have the capacity within its own budget. He referred to the need for more housing and how
 
 Limerick must find alternative solutions to this issue. He agreed that some houses were
----
+
+[[PAGE_END:3]]
+
 **4**
 
 returned in a reasonable condition but this Local Authority must meet minimal rental
@@ -254,4 +261,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

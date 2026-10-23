@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-special-meeting-of-limerick-city-and-county-council-27th-november-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 27th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-special-meeting-of-limerick-city-and-county-council-27th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Seirbhisi Corpardideacha, Rialachais & Custaiméara
 Comhairle Cathrach & Contae Luimnigh
 
-——_, & Contae Luimnigh Ceannchearthu Chorparéideach
+—_ & Contae Luimnigh Ceannchearthu Chorparéideach
 
 APN A . . Cé na gCeannaithe
 Limerick City _ Luimneach, V94 EH90
@@ -55,7 +56,7 @@ out below.
 
 Is mise le meas,
 
-C Voec.0l
+C Vee c.0l
 
 Ciara Farrell,
 Meetings Administrator.
@@ -64,16 +65,18 @@ AGENDA
 
 1. Strategic Infrastructure Development (SID) Windfarm Application
 
-To consider the Director Generat’s Report in accordance with the requirements of Section
+To consider the Director General's Report in accordance with the requirements of Section
 37E (4) and 37E (5) of the Planning and Development Act 2000, as amended in relation to
 the proposed Ballinlee Wind Farm.
 
 (Report enclosed)
 customerservices@limerick.le
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © vevewlimerick.te
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © vevew limerick.te
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

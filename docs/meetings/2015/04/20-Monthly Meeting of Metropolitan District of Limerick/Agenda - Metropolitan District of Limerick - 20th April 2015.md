@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_20th_april_2015_0.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 20th April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_20th_april_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+az Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANG : Cé na gCeannaithe,
+AONG : Cé na gCeannaithe,
 — Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL saa
+COUNCIL eae
 
 15" April, 2015. t: +353 (0) 61 407 100
 
@@ -49,7 +50,7 @@ Is mise le meas,
 
 Meetings Administrator
 
-enn eee en nee wenn ene w ene ennen ene nn enn nn ane nes ee eeeeeeee:
+eee en wen eee ene e ween ennenes eee nee een n eee e wenn ennnn enn n nen nnn ane nen ee eeeeeeee,
 
 AGENDA
 
@@ -74,7 +75,9 @@ Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach & wwwaimerickic
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development and Planning
@@ -82,7 +85,6 @@ Taking in Charge of Estates - Declaration of Roads to be Public Roads
 
 To consider the taking in charge of the following housing estates in accordance
 with S.180 of the Planning & Development Acts 2000-2014 and S.11 of the
-
 Roads Act 1993;
 
 1. Dromroe, Rhebogue
@@ -120,10 +122,13 @@ To receive Presentation on the following:
 
 e RAS
 e Approved Housing Bodies and Voluntary Housing Associations
+
 e Leasing
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -176,7 +181,9 @@ and apartment blocks in the Metropolitan Area in the last year and give details 
 any issues found and the follow up procedures.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -193,4 +200,6 @@ grant permission to Horizon Mall application.
 Correspondence
 
 
----
+
+[[PAGE_END:4]]
+

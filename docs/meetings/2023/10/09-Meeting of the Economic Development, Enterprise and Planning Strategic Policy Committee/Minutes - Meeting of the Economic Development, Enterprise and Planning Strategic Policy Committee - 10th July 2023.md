@@ -16,18 +16,19 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Economic-Development-Enterprise-and-Planning-Strategic-Policy-Committee-10th-July-2023.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 10th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Economic-Development-Enterprise-and-Planning-Strategic-Policy-Committee-10th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Pleanail, Comhshaol agus Cruthu Aite
-_—_—_—_ i Covlina Laltsodon Comhairle Cathrach agus Contae Luimnigh
+_—_—_—_ 6 Corina Laltecden Comhairle Cathrach agus Contae Luimnigh
 
-Ars ———— a Luimneach
-—=_— Limerick City Planning, Environment and Place-Mal
+Ars ————_ a Luimneach
+—=-_ Limerick City Planning, Environment and Place-Mal
 
-& County Council fea et City and Couney Cons
+& County Council da ett City and Coane Come
 
 Limerick
 
@@ -54,7 +55,7 @@ Paraic Rattigan, MW Regional Enterprise;
 APOLOGIES;
 Councillor: Martin Ryan, Jerome Scanlan
 
-item 1
+{tem 1
 
 Adoption of Minutes from Economic Development, Enterprise and Planning SPC Meeting of 10 July
 2023.
@@ -65,7 +66,7 @@ amended:
 Brian Thompson, PPN asked for his contribution on Taking in Charge to be recorded in the minutes;
 Mr Thompson recommended that a transfer agreement be signed between a consultant and the
 developer to transfer liability from the developer to the consultant. Ms Nuala O'Connell, Planning
-Environment & Place Making, confirmed that Mr Thompson’s contribution had been received and
+Environment & Ploce Making, confirmed that Mr Thompson’s contribution had been received and
 thot an update on the toking in charge process would be circulated soon.
 
 Mr Thompson made the point that the draft proposals have the liability imposed on the Consultant
@@ -74,24 +75,26 @@ its members to sign such an undertaking and for individual consultants to do so.
 acknowledged as a good point at the meeting and an undertaking was given by officials to review
 the proposals with the LCCC Legal Advisors and return to the committee on this matter.
 
-The draft minutes were adopted on the proposal of Clir. Eddie Ryan, seconded by Cllr. Stephen
+The draft minutes were adopted on the proposal of Cllr. Eddie Ryan, seconded by Cllr. Stephen
 Keary.
 
 Matters arising from the minutes:
 
 Brian Thompson asked if review of the taking in charge process has been done. Response was that
-this Is in hand and LCCC currently getting legal advice. There will be additional workshops in
+this is in hand and LCCC currently getting legal advice. There will be additional workshops in
 August/September. Mr Thompson responded that he looks forward to getting the review by next
 meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Economic Development, Enterprise and Planning SPC Meeting now sits with the Planning,
 Environment & Place-Making Directorate.
 
-Keith Enright and Diarmuid O'Shea have resigned from the Committee. Replacements will be
+Keith Enright and Diarmuid O’Shea have resigned from the Committee. Replacements will be
 nominated at the next meeting.
 
 Item 2
@@ -111,7 +114,7 @@ where Commencement Notice was submitted to the Local Authority on or after 28" M
 2028 and to residential developments for which a 7 Day Notice was submitted to the Local
 Authority on or after 4” April 2023.
 
-¢ Developer/promotor will not pay OC to LA but will have to submit Commencement Notice to
+* Developer/promotor will not pay OC to LA but will have to submit Commencement Notice to
 LA, LA will draw down the levy from the DHLGH on a monthly basis, verify that development
 has commenced on site and that the project has completed within the timeframes.
 Developers/promotors have to pay Uisce Eireann water and waste water connection
@@ -133,23 +136,25 @@ last 2 years. Over the last 3 months there has been 140 to 150 per month.
 ¢ tf commencement notice came in in early March is it not eligible for waiver? The cut-off date
 as per the Circular is 28" March so it would be exempt.
 
-* In the instance where the developer/promotor submitted the Commence Notice early, can
+¢ Inthe instance where the developer/promotor submitted the Commence Notice early, can
 this notice be cancelled and resubmitted? Mr McGuigan responded that there would be
 cases where Commencement Notices are resubmitted.
 
 ¢ it was queried that if there was no contribution being collected will the LA be reimbursed?
 The LA will be invoicing the DHLGH on 2 monthly basis to collect the contribution.
 
-¢ Is the waiver subject to tax? No guidance regarding tax in Circular but there may be in the
+e Is the waiver subject to tax? No guidance regarding tax in Circular but there may be in the
 additional guidance from DHLGH. Not a tax issue. Unknown what the uptake in the waiver
 will be as it will take developers time to mobilise before submitting a Commencement
 Notice to LA. It may be September before those figures emerge.
 
-© Does waiver cover Group Water Scheme? Response, these schemes are not specified in the
+e Does waiver cover Group Water Scheme? Response, these schemes are not specified in the
 Circular. Response — this is not covered in Circular.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr Keary proposed the following on the Group Water Scheme:
@@ -167,7 +172,7 @@ The above was seconded by Cllr Ryan.
 The Motion was brought before the July meeting of the Council.
 
 Item 3:
-Presentation from Ronan O’Brien, Executive, Construction Industry Federation (CIF).
+Presentation from Ronan O'Brien, Executive, Construction Industry Federation (CIF).
 
 Mr O'Brien gave an overview of the challenges facing developers that affect the viability of
 constructing multi-unit private residential units in Limerick and outlined how the Local Authorities
@@ -209,7 +214,9 @@ land use and better planning going forward.
 There will be a taking in charge briefing at the next meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ftem 4;
@@ -235,7 +242,7 @@ would it be worth having a presentation from Dr Kirrane, UCC, Head of Sustainabi
 Action at UCC to SPC/Full Council on what UCC did? Cllr Collins has a keen interest in this area as she
 completed the AILG UCC Level 7 Course on Climate Action & Environment Protection.
 
-Clir Ryan asked what kind of projects will be funded under the Community Climate Action Fund of
+Cllr Ryan asked what kind of projects will be funded under the Community Climate Action Fund of
 €811,000. Mr Reeves responded that it will be up to the communities and there is still guidance
 coming forward on that matter.
 
@@ -254,26 +261,28 @@ for 3 days to help make them more efficient.
 
 The following are eligible for the Energy Grant:
 
-e Small enterprises (employing between 1 - 50).
+¢ Small enterprises (employing between 1 - 50).
 
 e Who have undertaken a Green for Micro, GreenStart or recent audit by SEAI registered
 energy auditor and who are not currently clients of Enterprise Ireland/IDA.
 
 e Who are established, registered and operate within the area of the Local Enterprise Office.
 
-e Where turnover is in excess of €30,000.00 annually and business is trading in excess of this
+© Where turnover is in excess of €30,000.00 annually and business is trading in excess of this
 month.
 
 There was a query to clarify that while not all businesses are eligible for the grant, retail is eligible.
 
-For full details of the scheme including a and vied costs, Ineligible businesses and how to
+For full details of the scheme including spe and a costs, Ineligible b businesses and how to
 apply go to Gree prise Offic: e
 
 Full details of scheme will be circulated to members.
 
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 6
@@ -287,7 +296,9 @@ issue going forward.
 
 No other business was raised.
 
-Clir. B. Collins, Chairperson
+Cllr. B. Collins, Chairperson
 
 
----
+
+[[PAGE_END:5]]
+

@@ -72,7 +72,7 @@ Provision of Loan by European Investment Bank.pdf - [Original file](https://www.
 
 Newcastle West Community Council Twinning Project.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/03%20%28e%29%20Newcastle%20West%20Community%20Council%20Twinning%20Project.pdf) - Text not extracted
 
-UDITE_ Council of Europe - Proposed Visit to Madrid.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/03%20%28f%29%20UDITE%20-%20Council%20of%20Europe%20-%20Proposed%20Visit%20to%20Madrid.pdf) - Text not extracted
+UDITE: Council of Europe - Proposed Visit to Madrid.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/03%20%28f%29%20UDITE%20-%20Council%20of%20Europe%20-%20Proposed%20Visit%20to%20Madrid.pdf) - Text not extracted
 
 Report - Meeting of the Home and Social Development Strategic Policy Committee - 23rd October 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/03%20%28g%29%20%28i%29%20SPC%20Report%20-%20Home%20and%20Social%20Development%20-%20Meeting%20231017.pdf) - Text not extracted
 
@@ -86,7 +86,7 @@ Report - Meeting of the Environment Strategic Policy Committee - 23rd October 2
 
 Limerick Digital Strategy.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/04%20%28b%29%20Limerick%20Digital%20Strategy.pdf) - Text not extracted
 
-Presentation_ Limerick Digital Strategy.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/2017-11-27%20Limerick%20Digital%20Strategy.pdf) - Text not extracted
+Presentation: Limerick Digital Strategy.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/2017-11-27%20Limerick%20Digital%20Strategy.pdf) - Text not extracted
 
 Issues Paper for the Regional Spatial and Economic Strategy for the Southern Region.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/04%20%28c%29%20Issues%20Paper%20for%20the%20Regional%20and%20Spatial%20Economic%20Strategy%20for%20the%20Southern%20Region.pdf) - Text not extracted
 

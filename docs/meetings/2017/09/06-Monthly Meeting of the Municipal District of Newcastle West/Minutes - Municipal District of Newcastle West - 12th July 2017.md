@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%202017-07-12%20Minutes%20July.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 12th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%202017-07-12%20Minutes%20July.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF NEWCASTLE WEST HELD IN ÁRAS WILLIAM SMITH
@@ -82,7 +83,9 @@ Seconded by Councillor Sheahan;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 Members again raised the condition of road surface on certain stretches of the N21. The Acting
@@ -164,7 +167,9 @@ Application process under the following headings:
 • Maximum Loan and Lending Limits.
 
 • Application Fee and Interest Rates.
----
+
+[[PAGE_END:2]]
+
 3
 
 • Home Improvement Loan.
@@ -248,7 +253,9 @@ tenants in advance of significant works being undertaken on the relevant
 property. In all such cases the tenants are advised, at the outset, of the timeline
 
 when the unit will be ready for occupation. Examples of such allocations would
----
+
+[[PAGE_END:3]]
+
 4
 
 include situations where specific alterations are required to the dwelling to
@@ -322,7 +329,9 @@ recommendation to the Municipal District of Newcastle West on the Communities Fa
 Grants Scheme 2017 stated that 28 applications had been received of which 27 were eligible
 
 and 10 were recommended for funding as follows:
----
+
+[[PAGE_END:4]]
+
 5
 
 **Group/Organisation**
@@ -502,7 +511,9 @@ makes a recommendation of ‘LCDC approved’ or ‘LCDC denied’ on each proje
 with the LCDC recommendation will then be submitted to the Municipal District Committee
 
 who will make the final decision on project approval taking into consideration the LCDC
----
+
+[[PAGE_END:5]]
+
 6
 
 recommendation. A clear reasoning must be noted in the case where a project is approved or
@@ -584,7 +595,9 @@ solution and works will be carried out in August.
 **REPLY:**
 
 (a) Church Street, Newcastle West - Safety measures will be considered at this
----
+
+[[PAGE_END:6]]
+
 7
 
 location later in the year as part of footpath improvement works.
@@ -650,4 +663,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

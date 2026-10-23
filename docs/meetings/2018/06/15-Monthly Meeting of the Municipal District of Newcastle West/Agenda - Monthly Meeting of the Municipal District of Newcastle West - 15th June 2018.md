@@ -16,19 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-15%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 15th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-15%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_———_
+_—_
 
-AN f™
+AN M™
 
-——=-
+=
 Limerick
 CITY & COUNTY
-
 COUNCIL
 
 12" June, 2018
@@ -60,10 +60,10 @@ f: +353 (0) 69 62861
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Friday, 15" June, 2018, at
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Friday, 15 June, 2018, at
 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is Le le meas,
+Is ae le meas,
 Margaret Corbett,
 Meetings Administrator.
 
@@ -97,14 +97,16 @@ Corporate Headquarters, Merchants Quay, Limerick
 {Report Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
 11.
 
-IM ition
+1M tion
 
 To review position in relation to allocations under the General Municipal Allocation
 2018.
@@ -150,7 +152,9 @@ Questions submitted by Councillor M. Collins
 entrance) can be piped or filled to make the road edge safe for road users.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -203,4 +207,6 @@ Ardagh along the R521 towards Shanagolden to give safe pedestrian access for
 residents accessing Ardagh Village.
 
 
----
+
+[[PAGE_END:3]]
+

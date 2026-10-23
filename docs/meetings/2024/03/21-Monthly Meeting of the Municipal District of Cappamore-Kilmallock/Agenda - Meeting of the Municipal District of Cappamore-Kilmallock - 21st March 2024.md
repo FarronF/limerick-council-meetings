@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 15th February, 2024.
@@ -70,7 +71,9 @@ Special Meeting to approve the General Muncipal Allocation 2024 held on 28th
 February 2024
 
 (Copy Enclosed)
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -130,7 +133,9 @@ District
 Environment and Climate Action - Cemeteries
 
 Kilteely Dromkeen Cemetery
----
+
+[[PAGE_END:2]]
+
 3
 
 NOTICES OF MOTION
@@ -198,7 +203,9 @@ I will move at the next meeting of the Cappamore/Kilmallock Municipal District c
 Limerick City and County Council to complete a review of the footpaths, road signage and
 
 public lighting in Ballyorgan village.
----
+
+[[PAGE_END:3]]
+
 4
 
 QUESTIONS
@@ -234,4 +241,6 @@ Question submitted by Councillor Teefy
 charge (how many and where?)
 
 2. What progress is being made regarding taking these outstanding estates in charge”
----
+
+[[PAGE_END:4]]
+

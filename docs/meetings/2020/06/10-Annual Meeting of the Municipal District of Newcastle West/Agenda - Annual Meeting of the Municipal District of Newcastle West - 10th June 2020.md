@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda-agm.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda-agm.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 hairle Cathrach Dutiche Bardais an Chaisledin Nua Thiar,
-_—_—_ payed Lutmmioh Comhairle Cathrach agus Contae Luimnagh,
+_—_—_ pas belitl Luinmioh Comhairle Cathrach agus Contae Luimnigh,
 
 Aras William Smith O'Brien.
-ANS ‘
+a a ‘
 
 Gortbut,
 
-Limerick City _ An Caislean Nua Thier,
+Limerick City An Caislean Nua Thier,
 
 = & County Council Co. Luimnagh,
 Newcastle West Municipal District,
@@ -43,7 +44,7 @@ Newcastle West,
 Co. Limerick.
 
 Eircode: V42EH73
-t: +353 {01 69 62100
+t: +353 (0) 69 62100
 5th June, 2020
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
@@ -58,7 +59,7 @@ appended Agenda.
 Is mise le meas,
 
 Abpea t Cte tt-
-al hretecc
+ie Cores
 Meetings Administrator.
 
 AGENDA
@@ -69,11 +70,13 @@ the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Municipal District of Newcastle West to hold
 office until the next Annual Meeting or until a successor has been elected.
 
-@& customerservices@limerick.ic
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © vvowimerick.ie
+@& custormerservices@limerick.ic
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © vvowsimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

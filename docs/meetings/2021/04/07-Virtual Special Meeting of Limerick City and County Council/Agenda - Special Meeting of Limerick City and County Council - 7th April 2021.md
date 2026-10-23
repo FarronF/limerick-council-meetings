@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-special-meeting-07.04.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 7th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-special-meeting-07.04.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach ae Pater Corpartideacha,
-7 Combhairie Catrvach agus Corvtae Lulrmnigh
-> & Contae Luimnigh Ceanncheathra Chorpardideach,
-NaN —__———— Cé na gCeannaithe.
-— Limerick City Luimneach
+—_— Comhairle Cathrach NE Nl ring
+- Combairle Cattvach agus Corvtae Luimnigh
+& Contae Luimnigh Ceanncheathna Chorpardidesch,
+ACN fF - SS Cé na gCeannaithe
+= Limerick City Luimneach
 & County Council
 Corporate Sernoes,
 Limenck City and County Council,
@@ -33,10 +34,10 @@ Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-EIRCODE V94 EH90
+EIRCODE V94 EH9D
 
 30" March, 2021. t: +353 (0) 61 557150
-f: +353 (0} 61 415 266
+f; +353 (0} 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
@@ -50,7 +51,7 @@ Is mise le meas,
 
 i
 
-safes Cue
+safes Clune
 
 M ngs Administrator.
 
@@ -71,17 +72,19 @@ companies were in as a result of COVID, have held several special Strategic Poli
 Committee meetings to consider this matter and to make 2 submission to the SME
 Taskforce on behalf of Mid-West SMEs who were preparing a report ‘The National
 SME and Entrepreneurship Plan’ during 2020 and again in 2021 to review the
-recommendations in the completed report of the Taskforce. a
+recommendations in the completed report of the Taskforce. ny
 
-@& customerservices@limerick.ie
+& customerservices@limerick.le
 
 © wreerlimerick.te
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 At our most recent Strategic Policy Committee meeting to consider this matter, the
@@ -102,4 +105,6 @@ Committee and will be supported by staff members from Innovate and Economic
 Development.
 
 
----
+
+[[PAGE_END:2]]
+

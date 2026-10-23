@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20-%20Special%20Meeting%2006.12.22.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - Tuesday 6th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20-%20Special%20Meeting%2006.12.22.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-“i Comhairle Cathrach Combuirle Chitunch enue ConeLuirnion
-vw ag. ie UTTY .
-Ll ™ & Contae Luimnigh Ceanncheathra Chorpardidesch,
-A o™N —— Cé na gCeannaithe,
+“a Comhairle Cathrach Cormbhuirle Chitunch enue ConeeLuineion
+vw ag ee UTTY .
+, & Contae Luimnigh Ceanncheathra Chorpardidesch,
+AC™, —— Cé na gCeannaithe,
 
 — Limerick City Luimneach
 County Council
@@ -37,12 +38,10 @@ Corporate Headquarters,
 
 Merchants Quay,
 
-Limerick
-
 EIRCODE V94 EHSO
 5" December, 2022.
 
-t: +353 (0) 61 557150
+t: 4353 (0) 61 557150
 f: 4353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -55,12 +54,13 @@ Special Meeting of Limerick City and County Council to be held on Tuesday, 6" De
 Cathaoirleach of Limerick County Council, Michael Collins, RIP.
 
 Is mise le meas,
-ie x
-Aduta Flan
+Aauta Flan
 Meetings Administrator.
 
-Ceanncheathra Chorparakieach, Cé na gCeannaithe, Luirmmeach
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557180
+Ceanncheathra Chorparakieach, Cé na gCeannaithe, Luirmeach
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

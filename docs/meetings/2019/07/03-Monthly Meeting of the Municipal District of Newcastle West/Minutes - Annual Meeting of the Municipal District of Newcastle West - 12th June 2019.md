@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%202019-06-12%20Minutes%20AGM.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 12th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%202019-06-12%20Minutes%20AGM.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
@@ -67,7 +68,9 @@ The Members congratulated Councillor Scanlan on his appointment as Cathaoirleach
 wished him well in the year ahead.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On taking the Chair, Councillor Scanlan expressed his appreciation on being appointed
@@ -114,4 +117,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

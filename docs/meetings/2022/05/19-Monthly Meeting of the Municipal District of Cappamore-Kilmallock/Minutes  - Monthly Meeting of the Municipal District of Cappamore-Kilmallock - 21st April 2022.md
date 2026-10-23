@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/2%20.%20%20Minutes%20of%2021st%20April%20%20Municipal%20District%20Meeting.pdf)
+**Original file:** [Minutes  - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/2%20.%20%20Minutes%20of%2021st%20April%20%20Municipal%20District%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -82,7 +83,9 @@ Purchase Order.
 A request was made that feedback be received from Minister Peter Burkes office regarding
 
 correspondence sent from the Municipal District.
----
+
+[[PAGE_END:1]]
+
 3. Correspondence
 
 Correspondence was received from Gotoon/Ballingaddy residents association and taken as
@@ -140,7 +143,9 @@ and environmental initiatives to be used in the development.
 **Proposed: Councillor E Ryan**
 
 **Seconded: Councillor Mitchell**
----
+
+[[PAGE_END:2]]
+
 6. Strategy & Non LA Housing Construction
 
 
@@ -212,7 +217,9 @@ determine the most appropriate infrastructure to be used at this location.
 **Proposed by: Councillor Donegan**
 
 **Seconded by: Councillor Carey**
----
+
+[[PAGE_END:3]]
+
 8. Notice of Motion submitted by Councillor Egan
 
 I will move at the next meeting of the Cappamore Kilmallock Municipal District that a
@@ -266,7 +273,9 @@ may be required*.*
 **Proposed by: Councillor Teefy**
 
 **Seconded by: Councillor Mitchell**
----
+
+[[PAGE_END:4]]
+
 QUESTIONS
 
 10.
@@ -344,7 +353,9 @@ considered for compulsory acquisition under the derelict sites legislation where
 14 of the Act provides that a local authority may acquire by agreement or compulsorily any
 
 derelict site within their functional area. An application is made to An Bord Pleanála for
----
+
+[[PAGE_END:5]]
+
 consent to the acquisition, on foot of an objection received from an Owner to a Notice of
 
 Intention to Acquire Compulsorily.
@@ -406,7 +417,9 @@ The Cappamore Kilmallock MD Roads Staff are currently compiling a new drainage
 maintenance programme for 2022/2023 for cleaning inlets and gullies.
 
 ***The Questions were taken as read.***
----
+
+[[PAGE_END:6]]
+
 Any other Business
 
 **Expressions of Sympathy**
@@ -470,4 +483,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:7]]
+

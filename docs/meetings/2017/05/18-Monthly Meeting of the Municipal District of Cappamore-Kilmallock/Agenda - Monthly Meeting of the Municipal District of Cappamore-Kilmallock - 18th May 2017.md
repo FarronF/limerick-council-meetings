@@ -16,28 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20May%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20May%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-il Seirbhisi Corpardideacha,
+i Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANF . Ceanncheathni Chorpardideach.
-—=_ Cé na gCeannaithe.
-COMHAIRLE Lamnench
-CATHRACH & CONTAE Corporate S
+ANG : Ceanncheathni Chorpardideach.
+—=_ Cé na gCeannaithe,
+COMHAIRLE Lammeech
+CATHRACH & CONTAE Corporate $
 . . rate Services,
-Luimnigh Limerick City and County Council,
 . . Corporate Headquarters.
 Limerick Merchants Quay.
 CITY & COUNTY Limerick
 COUNCIL
-EIRCODE V94 EH190
+
+EIRCODE V94 E190
+
 th t: +353 (0) 61 407 100
-12” May, 2017. f: +353 (0) 61 415 265
+12” May, 2017. f: +353 (0) 61415 266
 To/ haoirleach_and Ea r i ict_of Cappamore- __
+
 Kilmallock
 
 A Chomhairleoir, a chara,
@@ -48,8 +51,8 @@ held at John the Baptist School, Hospital, Co. Limerick, on Thursday, 18 May, 20
 
 3.45p.m. The business to be transacted is set out on the appended Agenda.
 
-Is le meas,
-a ent 2
+Is x le meas,
+a ent? 2
 
 Meetings Administrator.
 
@@ -76,13 +79,15 @@ To note proposal for the disposal of land at:
 
 © customerservices@limerick.ic
 
- wwewlimerick.ic
+@ woewlimerick.ic
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Lubmneach yw @LimerickCouncil
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Lubmneach wv @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -121,4 +126,6 @@ improve visibility at the dangerous junction outside the church in Bulgaden and 
 markings and signage and take precautions to reduce speed on this route.
 
 
----
+
+[[PAGE_END:2]]
+

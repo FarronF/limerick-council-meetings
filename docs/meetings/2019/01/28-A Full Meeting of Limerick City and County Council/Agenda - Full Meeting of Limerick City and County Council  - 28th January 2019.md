@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%20January%20Council%20Meeting%20280119.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council  - 28th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%20January%20Council%20Meeting%20280119.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 , Seirbhisi Corpartideacha,
-————— Comhairle Cathrach shia Ciliach aan Corian Gikerdch,
+ae Comhairle Cathrach site Culiwach apm Gates Ghent,
 
-& Contae Luimnigh Ceanncheathra Chorpardidéach,
-aAr™ SB Cé na gCeannaithe.
-— Limerick City Luimneach
+& Contae Luimnigh Ceanncheathra Chorparaidéach,
+aAr™N Sinaia |=(~€«~*~*# Cé na gCeannaithe.
+—— Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council
@@ -40,7 +41,7 @@ To: ri i
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, on Monday, 28" January, 2019, at 3.00 p.m. The
+Council Chamber, Dooradoyle, Limerick, on Monday, 28*" January, 2019, at 3.00 p.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -68,14 +69,16 @@ Planning and Development Act, 2000 (as amended), at:
 (b) 4, McDonagh Avenue, Janesboro, Limerick.
 (c) Devon Road, Templegiantine, Co. Limerick.
 
-(d) 2, Galvone View, Limerick. © customerservices@limerick.ie
-of wow limerick.te
+(d) 2, Galvone View, Limerick. om customerservicesellimerick.ie
+© vewrwslimerick.ie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) 3, Galvone View, Limerick.
@@ -93,7 +96,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 (k) 3, Beechgrove Avenue, Ballinacurra Weston, Limerick.
 (1) 13, North Claughaun Road, Garryowen, Limerick.
 
-(Statutory Notices dated 22"° November, 10" December, 2018 and 8"" January, 2019,
+(Statutory Notices dated 22"° November, 10" December, 2018 and 8" January, 2019,
 
 already circulated)
 
@@ -141,7 +144,9 @@ will partner and collaborate with the Sporting Limerick website and
 include content from the Sporting Limerick website on the Limerick.ie
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 platform in order to achieve the objective 3.0 (unlocking the potential)
@@ -154,18 +159,18 @@ Tourism Development Strategy at the Full Council meeting in January
 2019.”
 (Chairperson’s Report Enclosed)
 
-ii. Chairperson’s Report — Home and Social Development Strategic Policy
+ii. | Chairperson’s Report — Home and Social Development Strategic Policy
 Committee Meeting held on 10 December, 2018.
 
 (Chairperson’s Report Enclosed)
 
-iii. | Chairperson’s Report — Travel and Transportation Strategic Policy
+iii. Chairperson’s Report — Travel and Transportation Strategic Policy
 Committee Meeting held on 28" December 2018.
 
 (Chairperson’s Report Enclosed)
 
 iv. Chairperson’s Report — Environment Strategic Policy Committee
-Meeting held on 10°" December 2018.
+Meeting held on 10" December 2018.
 (Chairperson’s Report Enclosed)
 
 v. Community Leisure and Emergency Services Strategic Policy
@@ -189,7 +194,9 @@ Social Devel ent
 (b) To receive a presentation on - ‘Decade of Centenaries 1912-1923’
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Physical Development
@@ -213,11 +220,11 @@ To consider participation by Members at the following Conferences:
 (a) “Politics Needs Women” held in North Wall Quay, Dublin 1 on 14"
 December, 2018.
 
-(b) “The Finance Act, 2018” held in Carlingford, Co. Louth on 11°", 12" and 13"
+(b) “The Finance Act, 2018” held in Carlingford, Co. Louth on 11'", 12" and 13"
 January, 2019.
 
 (c) “Understanding the Asylum Process in Ireland” held in Clonakilty, Co. Cork
-on 18°, 19" and 20" January, 2019.
+on 18", 19" and 20" January, 2019.
 
 (d) “Insolvency Services in Ireland” to be held in Dungarvan, Co. Waterford on
 25", 26" and 27" January 2019.
@@ -226,7 +233,7 @@ on 18°, 19" and 20" January, 2019.
 in Clonakilty, Co. Cork on 25", 26", and 27" January, 2019.
 
 (f) “A Guide to EU Educational Programmes” to be held in Carlingford, Co. Louth
-on 8", 9" and 10" February 2019.
+on 8", 9 and 10" February 2019.
 
 (g) “Good Governance of Community, Voluntary & Charitable Organisations in
 Ireland” to be held in Clonakilty, Co. Cork on 22", 23" and 24" February,
@@ -244,7 +251,9 @@ Meeting/Event.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -272,7 +281,7 @@ Questions submitted by Councillor J. Scanlan
 commercial property lettings within Limerick City in each of the years 2016, 2017
 and 2018.
 
-| will ask as to “the number of currently vacant local authority properties within
+[ will ask as to “the number of currently vacant local authority properties within
 Limerick City & County”
 
 Questions submitted by Councillor R. O’Donoghue
@@ -293,7 +302,9 @@ would provide greater flexibility and coverage to areas of Limerick City & Envir
 not currently covered with Coca Cola Bike stations.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -330,4 +341,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

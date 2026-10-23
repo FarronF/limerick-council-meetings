@@ -16,38 +16,41 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20January%20Council%20Meeting%20220118.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 22 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20January%20Council%20Meeting%20220118.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Seirbhisi Corpardidescha,
+Ars
 
-_— ap Mal neers Comhairle Cathrach agus Contae Luimnigh.
+Seirbhisi Corpardidescha,
 
-- g Ceanncheathru Chorparaideach,
+Comhairle Cathrach
+Comhairle Cathrach agus Contae Luimnigh.
+— & Contae Luimnigh Ceanncheathru Chorparaideach,
 
-AN-N s . : Cé na gCeannaithe,
+Cé na gCeannaithe,
 
-bs Limerick City Luimneach
-= & County Council
+; Limerick City Luimneach
+= & County Council _
 
 Corporate Services,
 
 Limerick City and County Council,
-
 Corporate Headquarters,
+Merchants Quay.
 
-Mercharts Quay.
 Limerick
 
-EIRCODE V94 EH90
+EIRCODE V94 EHS0
 
 17" January, 2018.
 t: +353 (0) 61 557150
-f: 4353 (0) 61 415 266
 
-To: Th h i k_ Ci
+To:
+
+f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
@@ -56,43 +59,32 @@ Council Chamber, Dooradoyle, Limerick, on Monday, 22° January, 2018, at 3.00 p.
 business to be transacted is set out on the appended Agenda.
 
 is mise le meas,
+
 Christy O’Connor,
 Meetings Administrator.
-
-oO eR Oe R Re een nn eee nw arenes ennenee
-
 AGENDA
-
 1. Minutes
-
 To adopt Minutes of the following Meetings:
-
 (a) Ordinary Meeting of the Council held on 27" November, 2017.
 (b) Special Meeting of the Council held on 4°" December, 2017.
-
 (c) Special Meeting of the Council held on 8" January, 2018.
 (Copies Enclosed)
-
 2. Disposal of Land
-
 To consider proposal for the disposal of land at:
-
 (a) 18 Sycamore Avenue, Rathbane, Limerick.
 (b) Ballynamucky, Ballingarry, Co. Limerick.
 (c) 5, Byrne Avenue, Prospect, Limerick.
-
 (Statutory Notices dated 7" December, 2017, and 3°
 and 4" January, 2018, already circulated)
-
-@ customerservices@limerickie
-
-© worwlimerick.ie
-
+@ customerservices@limerici.ice
+ woew limerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach vy @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -115,6 +107,7 @@ To note the provisions of the Electoral Amendment (Dail Constituencies) Act,
 (Report Enclosed)
 
 (c) Cultural Strategic Policy Committee
+
 (i) Sectoral Nomination
 To consider the approval of Sectoral Nomination to the Cultural
 
@@ -129,7 +122,9 @@ Nominations to the Cultural Strategic Policy Committee.
 (Report to follow}
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -142,7 +137,7 @@ Nominations to the Cultural Strategic Policy Committee.
 
 Statutory A Report 2016
 
-To consider the Audit Committee's report dated 15" January, 2018, on the
+To consider the Audit Committee’s report dated 15" January, 2018, on the
 Statutory Audit Report 2016 for Limerick City and County Council.
 
 Documentation Enclosed as follows:
@@ -153,7 +148,7 @@ Documentation Enclosed as follows:
 Statement for the Year Ended 31* December, 2016.
 
 (iii) Limerick City and County Council Statutory Audit Report for
-the Year Ended 31* December, 2016.
+the Year Ended 31 December, 2016.
 
 Twinning Visit to Hohenlohe
 
@@ -180,7 +175,9 @@ Government Act, 2001, as amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (h)
@@ -204,7 +201,6 @@ Chairperson’s Report - Economic Development, Enterprise and
 Planning Strategic Policy Committee Meeting held on 4" December,
 
 2017.
-
 Recommendation
 
 “That, Limerick City and County Council support Limerick Food
@@ -237,7 +233,9 @@ private, profit-making events.”
 relation to Recommendation No. 1)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -263,10 +261,9 @@ Committee.
 (Chairperson’s Report Enclosed)
 
 Regional Services
-
 Limerick Cultural Strategy: Open Call Bursary Schemes
-To consider approving the following Schemes:
 
+To consider approving the following Schemes:
 (a) Bursary Schemes for Theatre and Short Film.
 
 (Report Enclosed)
@@ -285,14 +282,16 @@ Organisations, held in Limerick on 1* December, 2017.
 2018.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) Entitlement to Health Services, to be held in Clonakilty, Co. Cork, from 19"
 to 21* January, 2018.
 
 (d) EU Cohesion Policy 2014-2020, to be held in Carlingford, Co. Louth, from
-2 to 4" February, 2018.
+2" to 4" February, 2018.
 
 (e) Health and Safety for your Council, the Workplace and your Constituents,
 to be held in Leighlinbridge, Co. Carlow, from 9" to 11™ February, 2018.
@@ -326,7 +325,9 @@ decide to evict them.
 Limerick City Centre.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -356,14 +357,14 @@ Notice of Motion submitted by Councillor V. Crowley (to be referred to
 
 Economic Development, Enterprise and Planning Strategic Policy Committee)
 
-| will move at the next Meeting that this Local Authority will no longer approve
+I will move at the next Meeting that this Local Authority will no longer approve
 planning on sites where there is a live infestation of Japanese Knotweed.
 
 Notice of Motion submitted by Councillor J. Loftus (to be referred to
 
 Environment Strategic Policy Committee)
 
-| will move at the next Meeting that Limerick City and County Council initiate
+I will move at the next Meeting that Limerick City and County Council initiate
 Environmental Awareness classes and lectures in all Primary and Secondary Schools
 throughout the City and County.
 
@@ -380,4 +381,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

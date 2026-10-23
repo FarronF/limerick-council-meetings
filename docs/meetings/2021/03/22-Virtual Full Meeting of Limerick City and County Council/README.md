@@ -36,25 +36,25 @@ COVID presentation for local Councillors - Full Meeting of Limerick City and Co
 
 ULHG Presentation for Limerick City and County Council - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/ulhg-presentation-for-limerick-council-220321.pdf) - Text not extracted
 
-Public Representatives Presentation March 2021_ HSE Midwest Community Healthcare - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/public-representatives-presentation-march-2021-hse-midwest-community-healthcare-.pdf) - Text not extracted
+Public Representatives Presentation March 2021: HSE Midwest Community Healthcare - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/public-representatives-presentation-march-2021-hse-midwest-community-healthcare-.pdf) - Text not extracted
 
-Land Disposal_ 13 Sarsfield Ave., Garryowen, Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-a-land-disposal-13-sarsfield-ave.-garryowen-limerick.pdf) - Text not extracted
+Land Disposal: 13 Sarsfield Ave., Garryowen, Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-a-land-disposal-13-sarsfield-ave.-garryowen-limerick.pdf) - Text not extracted
 
-Land Disposal_ Clooncommons, Castleconnell - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-b-land-disposal-clooncommons-castleconnell.pdf) - Text not extracted
+Land Disposal: Clooncommons, Castleconnell - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-b-land-disposal-clooncommons-castleconnell.pdf) - Text not extracted
 
-Land Disposal_ 1 and 2 Long's Lane, Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-c-land-disposal-1and-2-longs-lane-limerick.pdf) - Text not extracted
+Land Disposal: 1 and 2 Long's Lane, Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-c-land-disposal-1and-2-longs-lane-limerick.pdf) - Text not extracted
 
-Land Disposal_ Smithfield, Croagh, Co. Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-d-land-disposal-smithfield-croagh-co.-limerick.pdf) - Text not extracted
+Land Disposal: Smithfield, Croagh, Co. Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-d-land-disposal-smithfield-croagh-co.-limerick.pdf) - Text not extracted
 
-Land Disposal_ 48 Carey's Road, Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-e-land-disposal-48-careys-road-limerick.pdf) - Text not extracted
+Land Disposal: 48 Carey's Road, Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-e-land-disposal-48-careys-road-limerick.pdf) - Text not extracted
 
-Land Disposal_ Hartstonge Street Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-f-land-disposal-hartstonge-street-limerick.pdf) - Text not extracted
+Land Disposal: Hartstonge Street Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-f-land-disposal-hartstonge-street-limerick.pdf) - Text not extracted
 
-Land Disposal_ Castle Demesne, Newcastle West - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-g-land-disposal-castle-demesne-newcastle-west.pdf) - Text not extracted
+Land Disposal: Castle Demesne, Newcastle West - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-g-land-disposal-castle-demesne-newcastle-west.pdf) - Text not extracted
 
-Land Disposal_ Loghill Co. Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-h-land-disposal-loghill-co.-limerick.pdf) - Text not extracted
+Land Disposal: Loghill Co. Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-h-land-disposal-loghill-co.-limerick.pdf) - Text not extracted
 
-Land Disposal_ 7 Bawnmore Road Kennedy Park Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-i-land-disposal-7-bawnmore-road-kennedy-park-limerick.pdf) - Text not extracted
+Land Disposal: 7 Bawnmore Road Kennedy Park Limerick - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-i-land-disposal-7-bawnmore-road-kennedy-park-limerick.pdf) - Text not extracted
 
 Chief Executive's Report January 2021 - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04-a-i-chief-executives-report-january-2021.pdf) - Text not extracted
 
@@ -64,7 +64,7 @@ Draft Annual Report 2020 Cover Letter - Full Meeting of Limerick City and Count
 
 Draft Annual Report 2020 - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/lccc_annual-report_2020_rev4.pdf) - Text not extracted
 
-LG Audit AFS 2019_ Report of Audit Committee - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04-c-i-a-lg-audit-afs-2019-report-of-audit-committee.pdf) - Text not extracted
+LG Audit AFS 2019: Report of Audit Committee - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04-c-i-a-lg-audit-afs-2019-report-of-audit-committee.pdf) - Text not extracted
 
 Audited AFS 2019 - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04-c-i-b-audited-afs-2019.pdf) - Text not extracted
 
@@ -96,7 +96,7 @@ Chair's Report - Home & Social Development SPC Meeting - 17th February 2021.pdf
 
 Revision to Allocation Scheme 2017 - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04-g-v-ii-revision-to-allocation-scheme-2017.pdf) - Text not extracted
 
-West Limerick Resources_ Bridging Finance - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/05-a-west-limerick-resources-bridging-finance.pdf) - Text not extracted
+West Limerick Resources: Bridging Finance - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/05-a-west-limerick-resources-bridging-finance.pdf) - Text not extracted
 
 LCDC Annual Report 2020 - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/05-b-lcdc-annual-report-2020.pdf) - Text not extracted
 

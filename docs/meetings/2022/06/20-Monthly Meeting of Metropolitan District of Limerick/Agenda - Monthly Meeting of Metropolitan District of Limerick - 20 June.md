@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-June-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20 June.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-June-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach
+Comhairie Cathrach
 ; o~ & Contae & Contae Luimnigh
-a“™
+a“™”
 — Limerick Cit City
 — & County Council
 
-15" June, 2022.
+15" june, 2022.
 
 A Chomhairleoir, a chara,
 
-SComhairte Cathrach agus Contae Lulmnigh,
-Ceanncheativu Chorparakiesch,
+Cormhairte Cathrach agus Contae Lulmnigh,
+Ceanncheatinu: Chorparakiesch,
 
 Cé na gCeannaithe,
 
@@ -46,7 +47,7 @@ Limerick
 EIRCODE V94 EH90
 
 & +553 (0) 61 557150
-t: 4353 (0) 61415 266
+t: 4353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
 Monday, 20" June at 9.45 am. in the Council Chamber, Dooradoyle, Limerick.
@@ -65,7 +66,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
 2022.
 
-Ceanncheathni Chorparaideach, Cé na gCearnaithe, Luimnoach
+Ceanncheathni Chorparaideach, Cé na gCearmaithe, Luimnoach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
@@ -76,7 +77,9 @@ oe werwkimerickie
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -92,7 +95,7 @@ To note proposal for the disposal of land as follows:
 
 (e) Proposed Disposal of Property at Drombanna, Co. Limerick.
 
-(f Proposed Disposal of Property at Galvone Industrial Estate, Limerick.
+( Proposed Disposal of Property at Galvone Industrial Estate, Limerick.
 
 (g) Proposed Sub-Lease of King John’s Castle and Interpretive Centre and Lease of 20 Nicholas
 Street, Limerick.
@@ -119,7 +122,7 @@ their location, frequency of collection and the cost and design options for new 
 been approved for the bin waiver scheme, what is the total 2022 budget for the scheme and what
 is the cost per waiver to the local authority for the service.
 
-6. Question submitted by Councillor E. O'Donovan
+6. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that Limerick Council will
 
@@ -127,7 +130,9 @@ consider closure of Back Lane at Mother Macs with a start time of 11am and not 6
 very successful for this area last Summer.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor E. O’Donovan
@@ -169,7 +174,9 @@ audit for Loughmore Canal.
 have for St. Anne’s Court and if they could provide an update on any developments.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -211,4 +218,6 @@ Ballynanty areas.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

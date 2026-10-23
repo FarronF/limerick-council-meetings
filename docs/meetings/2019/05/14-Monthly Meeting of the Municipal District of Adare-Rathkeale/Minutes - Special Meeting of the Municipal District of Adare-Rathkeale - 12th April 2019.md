@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28c%29%20Minutes%2012th%20April%2C%202019.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28c%29%20Minutes%2012th%20April%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -78,7 +79,9 @@ allocated to a road scheme in Ballysteen in 2018, that did not progress and a fu
 The Senior Executive Engineer requested approval to use €30,000 of this funding to
 
 commence works on the Slí na Slainte in Askeaton in the interim and informed Members
----
+
+[[PAGE_END:1]]
+
 this €30,000 would be returned to the Ballingarry Traffic Calming Scheme when
 
 Development Fund monies 2019 were allocated.
@@ -110,4 +113,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%2018.09.17.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 18th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%2018.09.17.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; Seirbhrisi C bideact
-ee Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-& Contae Luimnigh Saamuhaamnd c sy
-NON 4 : 7 . Cé na gCeannaithe,
-— Limerick City Lulrneach
+a Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+& Contae Luimnigh Saanmahaamnd c sy
+NIN 4 : 7 . Cé na gCeannaithe,
+— Limerick City Lulrneachi
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -43,12 +44,12 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant’s Quay, Limerick on Monday, 13” September, 2017 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick on Monday, 1g” September, 2017 at 9.45 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 e
-Rt GY Goce
+Pt GY Goce
 Christy O’Connor,
 Meetings Administrator.
 
@@ -79,13 +80,15 @@ View, O’Malley Park, Limerick being transferred to Limerick City and County Co
 
 @ customerservices@limerickie
 
-& wwwlimerickie
+& wwlimerickie
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -116,7 +119,7 @@ To note the publication of Limerick Heritage Plan 2017 — 2030.
 
 (Report Enclosed).
 
-Customer Servi | Arts Directorate
+Customer Servi 1 Arts Directorate
 
 To agree allocations under the Metropolitan GMA 2017.
 
@@ -130,7 +133,9 @@ To note the proposal for the establishment of Geographical Sub Committee of the 
 Policing Committee and to agree arrangements for Sub Committee Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -182,7 +187,9 @@ This was sent to the Economic and Development SPC but that seems to have schedul
 meetings for May, June, July, August or September.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -203,14 +210,14 @@ uesti bmitted b' hir. S. O Ceallaigh
 | will ask at the next meeting, for the estimated cost to complete each of the regeneration
 projects in Limerick City.
 
-uestion submitted by Cmhir. S. llaigh
+uestion submitted by Cmhir. S. Haigh
 
 | will ask at the next meeting, how much the Irish Cement Oral Hearing cost Limerick City
 and County Council, in terms of consultants, staff and travel.
 
 Question submitted by Councillor M. McCreesh
 
-1 will ask at the next meeting that clarification be provided with regard to the unfinished
+I will ask at the next meeting that clarification be provided with regard to the unfinished
 road works on Lord Edward Street at the junctions with Meagher Ave/Caledonian Square
 and Wolfe Tone St. This is currently a very dangerous traffic concern.
 
@@ -235,7 +242,9 @@ residential development, subject to zoning, to enable debate on fast-tracking th
 of more social and affordable houses
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -264,6 +273,7 @@ Notice of Motion submitted by Councillor E. Hogan
 
 | will move at the next Metropolitan Area Meeting that a Driver Feedback Sign be erected
 at the Ballinacurra side of the Dooradoyle Flyover to slow traffic in Ballinacurra which is
+
 currently speeding on the road.
 
 Notice of Motion submitted by Councillor C. Prendiville
@@ -292,4 +302,6 @@ to engage with the Council's housing department, with the aim of making these pr
 available.
 
 
----
+
+[[PAGE_END:5]]
+

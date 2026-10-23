@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-23rd-march-2018.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 23rd March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-23rd-march-2018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 StiirthGireacht na Forbartha Soisiaita,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANF = Ceanncheathrt Chorparéiieech,
- —_— Cé na gCeannaithe,
-COMHAITRLE Eiroaach
+ANG —_ Ceanncheathrt Chorparéiieech,
+—_— Cé na gCeannaithe,
+COMHAIRLE birsaach
 CATHRACH & CONTAE ;
-* . Soctal Development Directorate,
-Luimnigh Limenick City and Coursty Coursil,
-. . Corporate Headquarters,
+. . Soctal Development Directorate,
+Luimnigh Limerick City and Coursty Coursil,
+‘ . Corporate Headquarters,
 Limerick Merchants Quay,
-COUNCIL ™
+COUNCIL _
 
-EIRCODE V34 £190
+EIRCODE V34 £i790
 
 16" March, 2018. t: +353 (0) 61 407 100
 f: #353 (0) 61 415 266
@@ -43,7 +44,7 @@ TO EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL JOINT POLICING COMMITTEE
 
 A Chara,
 | wish to inform you that a Meeting of Limerick City and County Council Joint Policing Committee will
-take place in The Exhibition Are imerick Ci ne Loum oun OrPora Heag Quarters
+take place in The Exhibition Are imerick Ci ne Loum oun OrPors reac Quarters
 
 Details of the Agenda and attachments to be discussed at the meeting are set out hereunder :
 
@@ -67,8 +68,10 @@ Meeting”.
 
 = Customerservicesa@limerick.ie
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Lutmneach vy
-Corporate Headquarters, Merchants Quay, Limerick enon - 406300
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Lufmneach vy
+Corporate Headquarters, Merchants Quay, Limerick Cont - 406800
 
 
----
+
+[[PAGE_END:1]]
+

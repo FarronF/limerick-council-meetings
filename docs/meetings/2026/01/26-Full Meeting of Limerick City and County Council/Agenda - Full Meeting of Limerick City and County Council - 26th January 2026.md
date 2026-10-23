@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-full-meeting-of-limerick-city-and-county-council-26th-january-2026.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 26th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-full-meeting-of-limerick-city-and-county-council-26th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-. Selbhisi Corparaideacha.
- _——_ Comhairle Cathrach Comhatrie Cathvach agus Conteae Luimnigh,
-& Contae Luimnigh Ceanncheathni Chorpardideach,
+A Sewbhisi Corparaideacha,
+-_—— Comhairle Cathrach Comhatrie Cathvach agus Contee Luimnigh,
+& Contae Luimnigh Ceanncheathni Chorparaideach,
 
-ACN fF  _ Cé na gCeannsithe,
+AN  __ Cé na gCeannsithe,
 = —— Limerick City Luirmneach
 & County Council
 
@@ -64,19 +65,21 @@ To adopt Minutes of the following Meetings:
 (a) Budget Meeting of the Council held on 21* November, 2025.
 (b) Ordinary Meeting of the Council held on 24" November, 2025.
 (c) Special Meeting of the Council held on 27"" November, 2025.
-(d) Special Meeting of the Council held on 8 December, 2025.
-(e) Special Meeting of the Council held on 16" December, 2025.
+(d) Special Meeting of the Council held on 8" December, 2025.
+(e) Special Meeting of the Council held on 16"" December, 2025.
 
 2. Declaration of Interest
 
 @ customerservices@limerick.te
-© vevrwimerick.ie
+© vewrwlimerick.ie
 
-paises ecabr bation lela ¥ @LimerickCouncil
+fs eisberegr cabelas lip ill ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -124,7 +127,9 @@ ended 31" December, 2024.
 Limerick City and County Council for the Year ended 31% December, 2024.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -175,7 +180,9 @@ and Culture Strategic Policy Committee held on 10" December, 2025.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -183,7 +190,7 @@ and Culture Strategic Policy Committee held on 10" December, 2025.
 12.
 
 (iv) | Chairperson’s Report — Meeting of the Travel and Transportation Strategic
-Policy Committee held on 17 December, 2025.
+Policy Committee held on 17" December, 2025.
 
 (Chairperson’s Report Enclosed)
 Recommendation
@@ -198,14 +205,14 @@ To consider approving recommended allocation from the Assessment Panel
 under the Dolores O’Riordan Music Bursary Scheme 2026.
 (Report Enclosed)
 
-(ii) Limerick Theatre Bursaries Award Scheme 2026
+(ii) —— Limerick Theatre Bursaries Award Scheme 2026
 
 To consider approving recommended allocations from the Assessment Panel
 
 for Limerick Theatre Bursaries 2026.
 (Report Enclosed)
 
-(iii) “Individual Arts Bursary Awards 2026
+(iii) ‘Individual Arts Bursary Awards 2026
 
 To consider approving recommended allocations from the Assessment Panel
 under the Individual Arts Bursary Awards Scheme 2026.
@@ -227,7 +234,9 @@ to create a Temporary Park and Ride Facility at Croagh North and South PT8LL303.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -274,7 +283,9 @@ Mayoral Fund
 To receive an update on the Mayoral Fund.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -311,7 +322,7 @@ to address ongoing traffic congestion and associated road safety concerns; and
 whether he will commit to further engagement with these bodies to help accelerate
 the delivery of this project.
 
-Question submitted by Councillor E. O'Donovan
+Question submitted by Councillor E. O’Donovan
 | will ask the Mayor at the next Meeting of Limerick City and County Council of the
 
 feasibility of Limerick Council purchasing the Sailors home on O’Curry Street to be
@@ -324,7 +335,9 @@ Question submitted by Councillor J. Scanian
 (a) Limerick City, (b) Newcastle West and (c) Abbeyfeale for 2026.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -355,7 +368,7 @@ Question submitted by Councillor D. McSweeney
 
 information to be presented in tabulated format in relation to housing delivery.
 
-{i) What were the targets for Limerick City and County Council for LA Build for
+(i) What were the targets for Limerick City and County Council for LA Build for
 2022, 2023, 2024, 2025.
 
 (ii) How many LA Build properties were delivered in 2022, 2023, 2024, 2025.
@@ -384,7 +397,9 @@ MY/2025/592 to include the following information:
 (iv) Any cost savings for the Local Authority as a result of any changes.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Question submitted by Councillor S. Keary
@@ -430,7 +445,9 @@ to the Government's intention to abolish the Triple Lock which governs the
 deployment of Irish Defence Forces.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
@@ -449,7 +466,7 @@ proposed 2026 Roads Schedule of Municipal District Works be prepared to ensure a
 equal allocation of the roads budget, per kilometre of road network, across all
 Districts.
 
-Notice of Motion submitted by Councillor E. O’Donovan
+Notice of Motion submitted by Councillor E. O'Donovan
 
 | will move at the next Meeting that Limerick City and County Council write to the
 Department of Housing, Local Government and Heritage to request that the basic
@@ -479,4 +496,6 @@ per km of road network across all Districts.
 Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

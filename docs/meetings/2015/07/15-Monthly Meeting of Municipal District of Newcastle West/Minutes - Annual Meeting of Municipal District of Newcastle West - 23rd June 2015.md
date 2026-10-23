@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2023rd%20June%202015.pdf)
+**Original file:** [Minutes - Annual Meeting of Municipal District of Newcastle West - 23rd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2023rd%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
@@ -78,7 +79,9 @@ He promised to do his best in the role of Cathaoirleach for the year. He stated 
 Meetings would be run as efficiently as possible and that he expected the full support of
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the Members in this regard.
@@ -91,7 +94,7 @@ coming year.
 Proposed by Councillor Galvin;
 Seconded by Councillor Sheahan;
 
-“That, Councillor Francis Foley be appointed Leas-Chathaoinleach of the Municipal District
+“That, Councillor Francis Foley be appointed Leas-Chathaoirleach of the Municipal District
 of Newcastle West to hold office to the next Annual Meeting or until his successor is
 
 appointed.”
@@ -126,7 +129,7 @@ Deputation from Knockaderry Community Council
 
 On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was agreed to
 receive a Deputation from Knockaderry Community Council at the July Meeting to be held
-on Wednesday, 15" July’ 2015.
+on Wednesday, 15" July; 2015.
 
 This concluded the Meeting.
 
@@ -135,4 +138,6 @@ _Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

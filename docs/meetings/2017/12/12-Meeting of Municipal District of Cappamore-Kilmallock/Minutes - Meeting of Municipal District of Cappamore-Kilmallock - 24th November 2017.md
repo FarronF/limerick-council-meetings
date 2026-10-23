@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20241117.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 24th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20241117.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -80,7 +81,9 @@ Seconded by Councillor Sheehy;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -154,7 +157,9 @@ there were many options available to the public. Members raised the issue of int
 provided by the Council and asked that the public be made aware of the competitiveness of
 
 the rates being offered.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Administrative Officer agreed to circulate the presentation to Members.
@@ -222,7 +227,9 @@ Speed Limit Review 2015-2017 Limerick National Road Draft Bye-Laws Document:
 • N24 – Ballysimon Interchange approaches, Dromkeen, Pallasgreen, Brooks Bridge
 
 and Oola.
----
+
+[[PAGE_END:3]]
+
 4
 
 The A/Senior Engineer, Operations and Maintenance, (Mr. G. O’Connor), noted that
@@ -296,7 +303,9 @@ development should occur from the core of the village centre out and not in a pi
 fashion. The recently published Draft National Planning Framework outlined this as a key
 
 objective.
----
+
+[[PAGE_END:4]]
+
 5
 
 Proposed by Councillor Ryan;
@@ -368,7 +377,9 @@ year, would include the Zebra Crossing and tabletop construction. There was an a
 Members, in noting the report, welcomed the proposal and, in particular, the phased
 
 basis for the proposed development.
----
+
+[[PAGE_END:5]]
+
 6
 
 ADJOURNED NOTICE OF MOTION
@@ -434,7 +445,9 @@ Notice of Motion submitted by Councillor W. O’Donnell
 **in Herebertstown under the provisions of the Derelict Sites Act.**
 
 The Motion was proposed by Councillor O’Donnell and seconded by Councillor Teefy.
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY:**
@@ -504,7 +517,9 @@ nominees.
 • On the proposal of Councillor Mitchell, seconded by Councillor Ryan, it was agreed to
 
 receive a Deputation from Hospital Community Council at the December Meeting.
----
+
+[[PAGE_END:7]]
+
 8
 
 • On the proposal of Councillor Sheehy, seconded by Councillor Teefy, it was agreed to
@@ -526,4 +541,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

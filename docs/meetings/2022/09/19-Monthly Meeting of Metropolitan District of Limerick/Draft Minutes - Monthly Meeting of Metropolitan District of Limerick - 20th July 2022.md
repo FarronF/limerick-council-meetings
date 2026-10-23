@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Draft%20Minutes%20Monthly%20Meeting%2020th%20July%202022.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Draft%20Minutes%20Monthly%20Meeting%2020th%20July%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON WEDNESDAY, 20TH**
@@ -86,7 +87,9 @@ And Resolved:
 (b) Circulated, copy of draft Minutes of the Annual Meeting of the Metropolitan District of Limerick
 
 held on 20th June, 2022.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Leddin;
@@ -156,7 +159,9 @@ The report, as circulated, was noted by Members.
 out proposals for the disposal of 0.0606 hectares of land at Teach na hAbhann, Rhebogue,
 
 Limerick and the intention to bring a Section 183 Notice to Full Council in this regard, for
----
+
+[[PAGE_END:2]]
+
 3
 
 approval.
@@ -222,7 +227,9 @@ still ongoing.
 the 14 units with an anticipated completion date of October 2022.
 
 **6.Question submitted by Councillor C. Slattery**
----
+
+[[PAGE_END:3]]
+
 4
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, can you advise if there are***
@@ -298,7 +305,9 @@ communicated to the successful tenderer.
 ***hours of the Limerick Museum to include weekends to facilitate increased visitors especially***
 
 ***during Summer season.***
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY**: Limerick Museum is currently open 5 days per week, Monday to Friday, 10am to 5pm
@@ -386,7 +395,9 @@ Event Mgmt. Costs (ins, licence plan) € 3,490
 Total (ex VAT)
 
 €40,640
----
+
+[[PAGE_END:5]]
+
 6
 
 VAT
@@ -468,7 +479,9 @@ Dooradoyle, and Online
 The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Sheahan (M) and
 
 agreed.
----
+
+[[PAGE_END:6]]
+
 7
 
 In proposing the motion, Councillor Secas highlighted the difficulties caused by the suspension of
@@ -542,7 +555,9 @@ Following an appeal to the original decision, the Expression of Interest Process
 reviewed and has now concluded with the final decision of Gordon Daly, Director of Service,
 
 Community, Tourism and Culture on the matter as follows:
----
+
+[[PAGE_END:7]]
+
 8
 
 1. To offer a 12 month licence over pitch 2 to Newtown Rovers FC
@@ -604,4 +619,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

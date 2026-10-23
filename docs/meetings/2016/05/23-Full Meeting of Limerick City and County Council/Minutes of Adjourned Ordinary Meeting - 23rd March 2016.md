@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Ordinary%20Meeting%20-%2023rd%20March%202016.pdf)
+**Original file:** [Minutes of Adjourned Ordinary Meeting - 23rd March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Ordinary%20Meeting%20-%2023rd%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -104,7 +105,9 @@ Brussels, Belgium.
 New Members
 
 The Mayor and Members welcomed the newly co-opted Members to the Meeting.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 European Cities of the Future Awards
@@ -194,7 +197,9 @@ January, 2016.”
 Circulated, copy of Statutory Notice dated 1st March, 2016, concerning disposal of
 
 freehold interest in 13 Donnellans Buildings, Rosbrien, Limerick.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 Proposed by Councillor Collins (M);
@@ -268,7 +273,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Hourigan;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 **4**
 
 “That, the approval of the Council be and is hereby given to the disposal of the
@@ -354,7 +361,9 @@ July Meeting
 -
 
 Monday, 18th July, 2016, at 3pm.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 (b)
@@ -442,7 +451,9 @@ existed on this SPC. On the proposal of Councillor Browne, seconded by Councillo
 Councillor John Costelloe was appointed to replace Cmhlr. Séighan Ó Ceallaigh on the
 
 Community, Leisure and Emergency Services Strategic Policy Committee.
----
+
+[[PAGE_END:5]]
+
 **6**
 
 On the proposal of Councillor Browne, seconded Councillor Sheehy, it was agreed
@@ -524,7 +535,9 @@ Social Inclusion
 Maureen Browne, Step Forward
 
 Disability Group
----
+
+[[PAGE_END:6]]
+
 **7**
 
 Environment
@@ -610,7 +623,9 @@ Councillors Butler, Collins (J), Collins (M), Daly, Donegan, Galvin, Gleeson, Ho
 Keary, Leddin, Lynch, Mitchell, O’Donnell, O’Hanlon, Pond, Ryan, Scanlan, Secas, Sheahan
 
 (M), Teskey.  **(21)**
----
+
+[[PAGE_END:7]]
+
 **8**
 
 **For Cmhlr. Ó Ceallaigh**
@@ -694,7 +709,9 @@ Accordingly, it was agreed to deal with nominations to the Limerick Market Trust
 Stakeholder Group of Limerick 2020 first. The remaining vacancies, which would be filled by
 
 majority, would then be dealt with.
----
+
+[[PAGE_END:8]]
+
 **9**
 
 **Limerick Market Trustees**
@@ -762,7 +779,9 @@ consequent on the death of Councillor Joe Crowley, RIP:
  **Board of Management of St. Munchins Community Development Company Limited.**
 
  **Limerick Marketing Board.**
----
+
+[[PAGE_END:9]]
+
 **10**
 
 (d)
@@ -840,7 +859,9 @@ the drive to reduce arrears.
  *4% support if arrears at 1**st* *February cleared by July 2016 and / or by*
 
 *December 2016 if paid by Direct Debit.*
----
+
+[[PAGE_END:10]]
+
 **11**
 
  *3% support if arrears at 1**st* *February cleared by December 2016.*
@@ -914,7 +935,9 @@ necessary resources to advance the project which had to date restricted its prog
 The report recommended to the Council the approval of the Section 183 transfer. In
 
 this regard, copy of Statutory Notice dated 10th March, 2016, concerning the disposal of
----
+
+[[PAGE_END:11]]
+
 **12**
 
 land at 16-19 Henry Street, Limerick City, had already been circulated and had been noted at
@@ -986,7 +1009,9 @@ Proposed by Councillor Hourigan;
 Seconded by Councillor Mitchell;
 
 And Resolved:
----
+
+[[PAGE_END:12]]
+
 **13**
 
 “That, the approval of the Council be and is hereby given to the payment of grants
@@ -1060,7 +1085,9 @@ He stated that the ‘asks’ from City and County Councillors were the followin
 2. That they put down a Motion at their own Council Meeting seeking Council support
 
 for the Charter.
----
+
+[[PAGE_END:13]]
+
 **14**
 
 3. That a Congress representative be invited to address a meeting of Councillors.
@@ -1132,7 +1159,9 @@ agreed that the following Members would attend:
 **Carlingford, Co. Louth: Councillor Gilligan.**
 
 **Dublin:** **Councillors Loftus, O’Hanlon, Hourigan, Lynch.**
----
+
+[[PAGE_END:14]]
+
 **15**
 
 (ii)
@@ -1276,7 +1305,9 @@ up or unoccupied, broken down by Municipal District.
 **2**
 
 **95**
----
+
+[[PAGE_END:15]]
+
 **16**
 
 **Metropolitan District Major Refurbishments (14)**
@@ -1360,7 +1391,9 @@ There are currently 18 No. persons on placement through the JobBridge
 Internship Scheme. There are currently 47 No. participants employed on the
 
 Gateway Scheme.
----
+
+[[PAGE_END:16]]
+
 **17**
 
 NOTICES OF MOTION
@@ -1426,7 +1459,9 @@ structures) in the towns and villages of County Limerick.
 In the absence of Councillor O’Donoghue, it was agreed to defer this Motion to the
 
 May Meeting of the Council.
----
+
+[[PAGE_END:17]]
+
 **18**
 
 17.
@@ -1474,4 +1509,6 @@ The Register of Decisions on applications under the Planning and Development Act
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:18]]
+

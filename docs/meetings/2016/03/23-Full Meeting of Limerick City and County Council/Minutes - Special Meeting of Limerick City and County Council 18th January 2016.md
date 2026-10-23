@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2018th%20January%202016.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council 18th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2018th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -98,7 +99,9 @@ The report stated that the aims of the CFRAM Studies were to:
 • Identify viable structural and non-structural measures and options for managing the
 
 flood risks for localised high-risk areas.
----
+
+[[PAGE_END:1]]
+
 2
 
 • Work towards strategic Flood Risk Management Plan (FRMP) that sets out the
@@ -166,7 +169,9 @@ Hazard Maps. After receipt of observations on the Flood Hazard Maps, the OPW wou
 proceed with the next stage of the process which would involve the preparation of the
 
 Flood Risk Management Plans.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Senior Engineer went on to state that under the relevant regulations, the Council could
@@ -250,7 +255,9 @@ maintained and protected.
 That flooding protection and embankments be provided at Castleconnell and
 
 Corbally.
----
+
+[[PAGE_END:3]]
+
 4
 
 •
@@ -322,4 +329,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

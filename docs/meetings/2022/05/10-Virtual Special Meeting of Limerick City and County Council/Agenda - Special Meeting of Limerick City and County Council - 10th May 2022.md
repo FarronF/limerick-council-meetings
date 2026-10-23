@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/Agenda%20Special%20Meeting%2010.05.2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 10th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/Agenda%20Special%20Meeting%2010.05.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-. Se®bhisi Corpardéideacha,
+. Sembhisi Corpardéideacha,
 
-_ parted poredaber dy Comhairle Cathrach agus Contae Lutmnigh,
+_ par telrolef peredaberd Comhairle Cathrach agus Contae Lutmnigh,
 
 ontae Luimnigh Ceanncheathna Chorparaidesch,
 
-ACN \ ———— Cé na gCeannaithe,
+ACN N\ ——— Cé na gCeannaithe,
 
 Limerick City Luimneach
 = & County Council
@@ -42,7 +43,7 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EH90
+EIRCODE V94 EH9O
 
 t: +353 (0) 61 $$7150
 
@@ -54,7 +55,7 @@ To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
 The Mayor of the City and County of Limerick, Councillor Daniel Butler, has called an Online
-Special Meeting of Limerick City and County Council to be held on Tuesday, 10" May, 2022,
+Special Meeting of Limerick City and County Council to be held on Tuesday, 10™ May, 2022,
 at 9.30 a.m. in order to pass a Vote of Sympathy on the death of former Member and
 Chairman of Limerick County Council, Paddy Hourigan, RIP.
 
@@ -63,12 +64,14 @@ Is mise le meas,
 Laura Flannery,
 Meetings Administrator.
 
-© Customerservices@limerick.ie
+= Customerservices@limerick.ie
 
-© wwwlimerick.te
+© www.limerick.te
 
-Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmneach w @LimerickCouncti
 Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+

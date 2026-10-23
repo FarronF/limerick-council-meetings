@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Special%20Joint%20Policing%20Committee%20Meeting%20-%2023rd%20December%202022.pdf)
+**Original file:** [Minutes - Special Joint Policing Committee Meeting - 23rd December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Special%20Joint%20Policing%20Committee%20Meeting%20-%2023rd%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF SPECIAL MEETING (IN COMMITTEE) OF THE LIMERICK JOINT POLICING**
 
 **COMMITTEE HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE AT 10.00 A.M., ON FRIDAY,**
@@ -110,7 +111,9 @@ come from this meeting aimed at tackling the issues arising.
 The Chief Superintendent thanked the JPC for their welcoming comments. He confirmed that there was a
 
 robust Policing Plan in place, a lot of which has been successful in Rathkeale. However, he agreed that what
----
+
+[[PAGE_END:1]]
+
 had happened on this occasion was very serious. He confirmed that a large Garda presence, including
 
 ordinary Gardai, the Roads Policing Unit, the Public Order Unit and the Armed Response Unit were now on
@@ -204,7 +207,9 @@ and has builders employed. This individual should be investigated to see where t
 to purchase such large quantities of property. He referred to two properties which the Council sought
 
 Councillors approval to sell and he asked that these two properties be taken off the market, refurbished
----
+
+[[PAGE_END:2]]
+
 and given to worthy tenants. He welcomed Minister Harris’s visit to Rathkeale and added that law and
 
 order is becoming a serious problem, not just in Rathkeale but nationally. Gardaí need legislation to be
@@ -292,7 +297,9 @@ Councillor Kevin Sheahan pointed out that as the longest serving Councillor on t
 listened to this issue in Rathkeale being discussed every year. He pointed out that there has been no
 
 request for meetings from local community representatives in Rathkeale this year. He stated that it is
----
+
+[[PAGE_END:3]]
+
 believed that the trouble is caused by three or four families in the town and not from the influx of people
 
 coming into the town for Christmas.
@@ -378,7 +385,9 @@ Committee Meeting.
 Councillor Keary, supported by the Chairperson, stated that there should be an element of joined up
 
 thinking regarding inspection of caravans parked in private sites. He asked the Chief Superintendent to
----
+
+[[PAGE_END:4]]
+
 contact the owners of the shop on N21 and ask them to consider agreeing close on Christmas day if
 
 possible, having regard to possible road safety concerns.
@@ -464,7 +473,9 @@ there are regular litter and dog warden inspections carried out in Rathkeale and
 however, such prosecutions have to be applied equally to all residents. She added that addresses of
 
 offenders are required to issue litter fines.
----
+
+[[PAGE_END:5]]
+
 Councillor S. Kiely stated that there are no traveler representatives on any committee and a representative
 
 from Pavee Point need to be brought in to engage with the Council and other agencies and that they be
@@ -542,10 +553,14 @@ The Chairperson thanked Members for attending this meeting and for their frank a
 on this difficult matter and he wished all a very happy Christmas and a peaceful new year.
 
 This concluded the business of the Meeting.
----
+
+[[PAGE_END:6]]
+
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Councillor Adam Teskey, Chairperson**
 
 **Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

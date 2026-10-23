@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-april-2026_0.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West  - 2nd April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-april-2026_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -174,7 +177,9 @@ Construction Completion June 2026.
 The Acting Senior Executive Engineer relayed details of the project to the Members which
 
 included provision of car park with 80 spaces including disability spaces, EVCP spaces and
----
+
+[[PAGE_END:2]]
+
 3
 
 coach parking, public realm area, signalised pedestrian crossing, provision of hard standing
@@ -250,7 +255,9 @@ Transportation and Mobility Directorate
 To consider Draft Schedule of Works for the Municipal District of
 
 Newcastle West.
----
+
+[[PAGE_END:3]]
+
 4
 
 Circulated, report of Director of Services, dated March 2026, setting out the details of the
@@ -328,7 +335,9 @@ The Members referred to a number of other matters including timeframe for comple
 the Schedule, drainage works, patching units, cost of inflation and current staffing levels to
 
 carry out the works outlined in the Schedule.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Members acknowledged the excellent work of the Senior Executive Engineer, Executive
@@ -400,7 +409,9 @@ application as further information is awaited from the Group.
 A GMA application was received from Tournafulla GAA. It was agreed to defer this application
 
 pending further information.
----
+
+[[PAGE_END:5]]
+
 6
 
 QUESTIONS
@@ -478,7 +489,9 @@ Question submitted by Councillor L. Galvin
 ***Plan (b) the new graveyard in Abbeyfeale.***
 
 REPLY:
----
+
+[[PAGE_END:6]]
+
 7
 
 **(a)**The Council are preparing a Part VIII application for a new burial ground for Abbeyfeale.
@@ -578,7 +591,9 @@ Abbeyfeale
 3 bed terrace
 
 Complete to Builders Finish
----
+
+[[PAGE_END:7]]
+
 8
 
 Convent Road \*\*
@@ -676,7 +691,9 @@ Square in Newcastle West town.
 NOTICES OF MOTION
 
 14. Notice of Motion submitted by Councillor F. Foley
----
+
+[[PAGE_END:8]]
+
 9
 
 ***I will move at the next Meeting that the road from Dromtrasna North to Meenaheala***
@@ -746,7 +763,9 @@ REPLY:
 Limerick City and County Council roads personnel will meet with relevant
 
 stakeholders to discuss this matter.
----
+
+[[PAGE_END:9]]
+
 10
 
 17. Notice of Motion submitted by Councillor L. Galvin
@@ -812,7 +831,9 @@ that has been highlighted.
 ***associated with works done by utility companies.***
 
 The Motion was seconded by Councillor Collins.
----
+
+[[PAGE_END:10]]
+
 11
 
 In proposing the Motion, Councillor Sheahan referred to the quality of reinstatement works
@@ -870,4 +891,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

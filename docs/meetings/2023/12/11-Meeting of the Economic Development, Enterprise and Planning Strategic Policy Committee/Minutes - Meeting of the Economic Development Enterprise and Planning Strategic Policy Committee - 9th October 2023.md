@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-9th-october-2023.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 9th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-9th-october-2023.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 **Draft Minutes of the Blended Meeting of Limerick City & County Council Economic Development,**
@@ -78,7 +79,9 @@ this regard, and Mr McGuigan said that he would raise the matter with the TIC te
 **Item 2 - Presentation on the Shannon Estuary Economic Taskforce Report: Next Steps**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 (Image omitted)
 
 Mr O’Sullivan gave a presentation on the recently published Shannon Estuary Economic Taskforce
@@ -168,7 +171,9 @@ Cllr Egan asked where the money to develop Foynes port would come from? Mr O’S
 responded that the Taskforce Report is a conduit to support local authorities in the region to get
 
 investment for infrastructure and industries.
----
+
+[[PAGE_END:2]]
+
 (Image omitted)
 
 Mr Murray concluded that the Council would be reviewing the valuation base and rates in general,
@@ -246,7 +251,9 @@ Mr Murray advised that Gardens International was currently at 75% capacity, and 
 the member’s concerns to Limerick 2030 DAC.
 
 **Item 4** **–** **Presentation on the** **Emerging Arthur’s Quay Framework Plan**
----
+
+[[PAGE_END:3]]
+
 (Image omitted)
 
 Ms D Murray of Metropolitan Workshop outlined progress to date on the Framework Plan. There are
@@ -332,7 +339,9 @@ interest from the membership that the PPN would be involved.
 Mr Murray provided the following response: The Limerick Development Plan and its supporting
 
 strategies approved in June 2022 by the elected members set out the policies and objectives that are
----
+
+[[PAGE_END:4]]
+
 (Image omitted)
 
 the blueprint for balanced and sustainable economic and physical development of the city centre. At
@@ -416,7 +425,9 @@ core through grant funding via the ‘Business and Retail Incentive Scheme’. I
 retail incentive of €6,000 was introduced in last year’s budget to promote new retail start-
 
 ups in the core city centre.
----
+
+[[PAGE_END:5]]
+
 (Image omitted)
 
 6. Adopt a pilot programme for the extension of opening hours to allow for late night shopping
@@ -474,4 +485,6 @@ Is mise le meas,
 **Bridie Collins**
 
 **Chairperson of the Economic Development, Enterprise and Planning Strategic Policy Committee**
----
+
+[[PAGE_END:6]]
+

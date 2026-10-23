@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 19th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha,
+al Seirbhisi Corpardideacha,
 Comhairte Cathrach agus Contae Luimnigh,
 
-APNG Ceanncheathni Chorpardideach.
+APNG Ceanncheathni Chorparaideach.
 —- Cé na gCeannaithe,
-COMHAIRLE Uuimneach
+COMHAIRLE Uuimineach
 CATHRACH & CONTAE
 Corporate Services,
 Luimnigh Limerick City and County Council
-Limerick aia ey
-CITY & COUNTY ‘
+Limerick SEE cae ae
+CITY & COUNTY i
 COUNCIL —
 EIRCODE V94 EH90
 
@@ -51,7 +52,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-ol Y cs
+ol Y Cs
 Christy O’Connor,
 Meetings Administrator.
 
@@ -79,7 +80,9 @@ eS ee v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -103,7 +106,7 @@ Curragh Birin, Castletroy
 Operations and Maintenance Services
 Extinguishment of Public Right of Way
 
-To consider the Extinguishment of Public Right of Way at Alleyway known as Cassidy's Lane
+To consider the Extinguishment of Public Right of Way at Alleyway known as Cassidy’s Lane
 leading to Sarsfield Court, Garryowen in accordance with Section 73 of the Roads Act 1993.
 
 (Report Enclosed).
@@ -130,7 +133,9 @@ GMA Festivals and Events Grant Scheme.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -178,14 +183,16 @@ ion mi mhir. S. llaigh
 | will ask at the next meeting what the current expected completion date is for the
 Regeneration Project in Limerick.
 
-uestion submitted hir. S. Hai
+uestion submitted hir. S. lai
 
 | will ask at the next meeting what the current situation is regarding the Council owned car
 park in Arthur's Quay, and when it is expected to be returned to the Council Chamber for
 either the approval or refusal of its lease.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -240,4 +247,6 @@ Links Road, Thornfield and Cherryfield estates in Castletroy/Monaleen, whose pro
 back on to M7.
 
 
----
+
+[[PAGE_END:4]]
+

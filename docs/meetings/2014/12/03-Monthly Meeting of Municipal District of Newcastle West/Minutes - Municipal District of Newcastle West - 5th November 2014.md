@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 5th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -49,7 +50,7 @@ Proposed by Councillor Galvin;
 Seconded by Councillor Collins;
 And Resolved:
 
-“That, the draft Minutes, as circulated, be taken as read and adopted and signed."
+“That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 2. Issues with An Garda Siochana:
 
@@ -64,7 +65,9 @@ had been a dramatic fall-off in Halloween incidents in 2014. Members welcomed th
 efforts made by both Council staff and the Gardai.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Zz
@@ -92,7 +95,7 @@ Department of Social Welfare and the Council.
 
 >» The firming up of the Joint Policing Committee.
 
-VVVVVWV
+VVVVVW
 
 Vv
 
@@ -121,7 +124,7 @@ criminals travelling from outside the area.
 
 It was stated that work was ongoing in relation to the re-establishment and strengthening
 of the Joint Policing Committee and that there was a requirement for a 6 Year Strategic
-Plan.
+Plan,
 
 In relation to the problem of boy racers, particularly in Abbeyfeale and Dromcollogher, the
 Superintendent said that he would work with the Community Alert to alleviate the problem.
@@ -132,7 +135,9 @@ write to the Department of Social Protection requesting that the use of Dates of
 Nos. (Personal Public Service Nos.).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Customer Services:
@@ -158,7 +163,7 @@ and photocopiers.
 
 Members also expressed concern about not having access to the Main Offices. Following
 discussions on the matter, Members strongly requested that they be granted access to
-staff in the Main Offices.
+Staff in the Main Offices.
 
 QUESTIONS
 
@@ -177,7 +182,9 @@ It was proposed by Councillor Browne and seconded by Councillor Foley that a Mee
 arranged with Cluid Housing Association in the near future.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Question submitted by Councillor J. Scanlan
@@ -199,7 +206,7 @@ with the various local roads along the R522.
 REPLY: This request can be considered as part of next years Road Maintenance
 Programme.
 
-7 Question submitted by Councillor J. Scanlan
+7; Question submitted by Councillor J. Scanlan
 
 ! will ask at the next Meeting when signage for Broadford will be put in place from
 the N21 and R522 exits at Newcastle West.
@@ -223,7 +230,9 @@ A short discussion ensued on this Motion and, again, it was stressed that a Traf
 Management Plan was urgently required for the town.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: There is considerable merit in acquiring this building from a transportation
@@ -249,7 +258,7 @@ Estates.
 
 10. Notice of Motion submitted by Councillor J. Scanlan
 
-! will move at the next Meeting that Limerick City and County Council restore the
+| will move at the next Meeting that Limerick City and County Council restore the
 practice of issuing listings of offered tenancies to Councillors within the Newcastle
 
 West Municipal District.
@@ -273,10 +282,12 @@ Protection Acts, 1988 and 2003.
 
 We require immediate confirmation from your offices that this practice has
 
-now ceased."
+now ceased.”
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Following receipt of the above direction, the Council confirmed to the Office
@@ -323,7 +334,9 @@ REPLY: There is no funding available in the current year for the provision of
 additional street bins in Abbeyfeale.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Members welcomed that the Fire Station in Abbeyfeale was re-opened but they stated that
@@ -346,4 +359,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+

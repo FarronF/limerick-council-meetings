@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-12th-december-2023.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 12th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-12th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -64,7 +65,9 @@ Cllr. Secas noted that the elected Members have no representative on the working
 asked if there was national funding for implementing the plan.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 In response Ms. McDonnell confirmed that the working group is an interagency group comprising
@@ -124,7 +127,9 @@ measures and a survey was undertaken by an engineer. Residents were confident th
 would commence, however it was decided that the works were not suitable. He suggested that
 
 the engineers should carry out the survey first and then inform residents.
----
+
+[[PAGE_END:2]]
+
 3
 
 He gave an example of 10 residents living on the road between the Dublin Road and Aldi,
@@ -190,7 +195,9 @@ The Chair welcomed that the focus is taken away from speed ramps, however, it is
 the end of speed ramps as they do an amazing job at schools. She added that there are a lot of
 
 schools on the Dublin Road and knowing what is on the road should be applied as an additional
----
+
+[[PAGE_END:3]]
+
 4
 
 check when deciding on traffic calming. She referenced Brookville Avenue and Childers Road,
@@ -250,7 +257,9 @@ and also asked if the EV provision will be incentivized. In relation to Tender, 
 there will be more than 20 GoCars and if the project is approved only for the city or if the
 
 county is included.
----
+
+[[PAGE_END:4]]
+
 5
 
 In response to questions, Mr. O’Leary advised that the number, locations and uses, including the
@@ -280,4 +289,6 @@ The Chair thanked the members and presenters and wished everybody a happy Christ
 confirmed that the next meeting is Tuesday, the 13th of February 2024.
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:5]]
+

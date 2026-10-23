@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%2010th%20April%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%2010th%20April%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AO
+Ao
 
 a
 Limerick
@@ -45,14 +46,14 @@ Adare-Rathkeale Municipal District,
 Limerick City and County Council,
 Aras Séan Finn,
 
-New Une Road,
+New Line Road,
 
 Rathkeale
 
 Co. Limerick
 
 t: +353 (0) 69 64047 / 64129
-f: +353 (0) 69 63188
+f; +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 
@@ -70,9 +71,9 @@ Is mise le meas,
 Karen Butler,
 Meetings Administrator.
 
-eee ee ee ee eee nee men nen nn een neem nee n ene re enter eres n ene nsenreneeneeereees
+eee eee ee ee ene men men wen nen mene nnn n nen eran erent eres e neers eneeneesereeees
 
-oot ee ee ene enn ene n nnn n ne nee ne ence nee n renee nen ennenn
+eet ee me nee enn n ene e ne nee ne ween ener nen nnn ennene
 
 AGENDA
 
@@ -88,7 +89,7 @@ Footpath from Kildimo to the Beer Garden Public House
 
 To received an update on the path from Kildimo Village to the Beer Garden Public House.
 
-peatcherear tobe el eager thee el sary lata
+ee eee
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed)
@@ -96,11 +97,13 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Regional Services Directorate
-P. Road Improvemen rks at
+Pi Road Improvemen rks at
 
 Update regarding proposed Road Improvements at Banogue Village.
 
@@ -138,7 +141,9 @@ To note update on proposed traffic calming scheme for Kilcornan.
 w
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -165,9 +170,13 @@ To note update on flooding issues in Foynes.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

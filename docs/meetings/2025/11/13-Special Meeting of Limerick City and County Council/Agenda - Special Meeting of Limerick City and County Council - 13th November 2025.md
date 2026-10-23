@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-special-meeting-of-limerick-city-and-county-council-13th-november-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 13th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-special-meeting-of-limerick-city-and-county-council-13th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach
+_——_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 Limerick City
@@ -31,12 +32,12 @@ Limerick City
 
 Seibhisi Corparaideacha,
 
-Comhairle Cathrach agus Contae Luimnigh
+Comhairle Cathrach agus Contae Luimnigh:
 Ceanncheathru Chorparéidesch,
 
 Cé na gCeannaithe.
 
-Luimneach
+Luamneach
 
 Corporate Services,
 
@@ -44,11 +45,11 @@ Limerick City and County Council
 Corporate Headquarters,
 Merchants Guay,
 
-Limenck
+Limerick
 
 EIRCODE V4 EH90
 
-t: +3583 (0) 61 557150
+t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and
@@ -64,7 +65,7 @@ Meetings Administrator.
 
 AGENDA
 
-4. St infrastructure Devoe
+4. St infrastructure Deve
 
 SID) Windfarm ation
 
@@ -78,7 +79,9 @@ Co. Limerick.
 = customerservices@limerickie
 © wow limerick ie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Lutmneach v @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

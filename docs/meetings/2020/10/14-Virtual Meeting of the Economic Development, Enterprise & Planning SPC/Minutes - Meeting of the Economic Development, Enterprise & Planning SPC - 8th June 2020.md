@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-of-spc-mtg-8th-june-2020.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning SPC - 8th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-of-spc-mtg-8th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON MONDAY, 8th** **JUNE,**
@@ -100,7 +101,9 @@ in other cities.
 V. Murray stated that this initiative was part of a short term strategy for the redevelopment
 
 of Limerick City, he also outlined medium / long term goals such as the delivery of Kirkland
----
+
+[[PAGE_END:1]]
+
 office development, Project Opera, UL City Centre Campus, Cleeves Campus, World Class
 
 Waterfront, Docklands, Colbert Quarter, New Arthur’s Quay and other private sector
@@ -184,7 +187,9 @@ and Webinars and Tourism Sector Support Scheme.
 While Members welcomed the presentation, they suggested that Byelaws for street trading
 
 should be reviewed before the plan is enacted, that local authority staff be on-hand to identify
----
+
+[[PAGE_END:2]]
+
 pressure points and monitor queues once businesses reopened and that a reduction in
 
 interest rates applied to business loans should also be examined.
@@ -268,7 +273,9 @@ over, as it has expired since 2016 and we have a legal obligation to implement n
 She also pointed out that should the new Development Plan not be adopted by the Council
 
 then the responsibility for its adoption would fall to the Chief Executive.
----
+
+[[PAGE_END:3]]
+
 On the proposal of Cllr. Scanlan, seconded by Cllr. Egan, it was unanimously agreed to
 
 recommend that the full Council request an urgent meeting with the Minister with
@@ -332,4 +339,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:4]]
+

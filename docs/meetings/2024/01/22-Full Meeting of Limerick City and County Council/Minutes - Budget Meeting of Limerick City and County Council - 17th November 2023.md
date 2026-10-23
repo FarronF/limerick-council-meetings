@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-b-minutes-budget-meeting-limerick-city-and-county-council-17.11.2023.pdf)
+**Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 17th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-b-minutes-budget-meeting-limerick-city-and-county-council-17.11.2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -86,7 +87,9 @@ Statutory Budget Meeting and he appealed for co-operation to assist with the eff
 running of the Meeting. The Meetings Administrator then proceeded to set out the meetings
 
 protocol for the Statutory Budget Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Mayor then went on to say that the Budget process for the preparation, consideration
@@ -160,7 +163,9 @@ on a number of income heads and ongoing controls on expenditure were in place.
 The draft Annual Budget for 2024 has been prepared in the context of maintaining the service
 
 provision at the same levels as 2023 while also enhancing resources in key priority areas
----
+
+[[PAGE_END:2]]
+
 3
 
 identified through engagement with Councillors. These key priority areas would bring focus
@@ -236,7 +241,9 @@ businesses were facing which included the approval for the Increased Cost of Bus
 Scheme (ICOB), which was a once-off grant to benefit up to 130,000 small and medium
 
 businesses at a cost of €250m. The detailed terms and conditions attached to the grant were
----
+
+[[PAGE_END:3]]
+
 4
 
 to be finalised by the Minister. The details of the scheme would be finalised for
@@ -306,7 +313,9 @@ Despite the challenges, there were a number of opportunities for Limerick in 202
 beyond, as Limerick’s “different kind of energy” positioned the City and County as the centre
 
 of the renewable energy landscape.
----
+
+[[PAGE_END:4]]
+
 5
 
 Limerick, along with its regional partners, had the potential to develop a floating offshore
@@ -380,7 +389,9 @@ Limerick Twenty Thirty DAC would progress key strategic sites including the Oper
 Development and Cleeves. The DAC aimed to continue to self-develop and partner with other
 
 developers, as well as local and national agencies, to transform strategic sites.
----
+
+[[PAGE_END:5]]
+
 6
 
 Innovate Limerick would continue to maximise the benefits and strengths arising in
@@ -452,7 +463,9 @@ services to Beneficiaries of Temporary Protection living, working and / or being
 Limerick City and County.
 
 **Capital Programme**
----
+
+[[PAGE_END:6]]
+
 7
 
 The budget also made clear the Council’s Capital Works Programme for the next three years
@@ -524,7 +537,9 @@ He expressed special thanks to all the Finance Team for the dedicated work and s
 drafting and presenting the Budget, which, he was sure, the Members would agree, was
 
 exemplary.
----
+
+[[PAGE_END:7]]
+
 8
 
 In conclusion, the Chief Executive recommended the Draft Budget to the Elected Members
@@ -598,7 +613,9 @@ Cappamore / Kilmallock Municipal District
 Newcastle West Municipal District
 
 1st November
----
+
+[[PAGE_END:8]]
+
 9
 
 ***Step 3 - Consultation with the Corporate Policy Group (CPG) and adoption of the Draft***
@@ -666,7 +683,9 @@ The key areas where additional resources have been provided include:
  Local and Regional Roads own resources
 
  Town Centre first with particular focus on Rathkeale
----
+
+[[PAGE_END:9]]
+
 10
 
  Street-cleaning with particular emphasis on enhanced City Centre Public Realm
@@ -742,7 +761,9 @@ to the spring 2023 forecasts) largely reflecting the headwinds associated with t
 monetary policy working its way through the economy. Consumer spending, the largest
 
 component of MDD, is forecast to grow by 3.3 per cent this year and 3.2 per cent next year,
----
+
+[[PAGE_END:10]]
+
 11
 
 a downward revision in both years of just over ½ percentage point from the spring 2023
@@ -836,7 +857,9 @@ Real GDP
 4.5
 
 4.5
----
+
+[[PAGE_END:11]]
+
 12
 
 Real GNP
@@ -988,7 +1011,9 @@ There are key strategic milestones on the horizon also, with the 2023 publicatio
 Shannon Foynes Taskforce report, the M20 and Foynes Road projects alongside planning for
 
 the 2027 Ryder Cup in Adare Manor.
----
+
+[[PAGE_END:12]]
+
 13
 
 Despite the challenges, there are a number of opportunities for Limerick in 2024 and beyond,
@@ -1044,7 +1069,9 @@ Local Government Rates & Other Matters Act 2019 as amended, the Draft Budget is 
 to set out the expenditure necessary to carry out the functions of the Council and the income
 
 estimated to accrue to the Council.
----
+
+[[PAGE_END:13]]
+
 14
 
 ***The key objectives of the 2024 Budget are set out below:***
@@ -1116,7 +1143,9 @@ the Water Framework directive and the climate action plan.
  Deliver on e-planning project thereby enhancing engagement with applicants and the public
 
 through the planning process
----
+
+[[PAGE_END:14]]
+
 15
 
 **5.Rural and Community Development**
@@ -1196,7 +1225,9 @@ the retail sector.
  Continue to promote and develop the Limerick Brand and Limerick as a destination for
 
 investment, socialise, work and reside.
----
+
+[[PAGE_END:15]]
+
 16
 
 **Outturn 2023**
@@ -1266,7 +1297,9 @@ events such as Ukraine Refugee response and extreme weather.
  Support the DEM and implementation of programme
 
 **13.Continue to seek efficiencies in service provision, cost reduction and value for money**
----
+
+[[PAGE_END:16]]
+
 17
 
 **Division**
@@ -1380,7 +1413,9 @@ Division, with comparative figures for 2023:
 **Draft Budget 2024 - Analysis of Expenditure**
 
 **(excl HAP 79%)**
----
+
+[[PAGE_END:17]]
+
 18
 
 **Chart 2: Analysis of Expenditure (excl HAP) by Division - Draft Budget 2024 versus Budget 2023**
@@ -1540,7 +1575,9 @@ The following Pie chart highlights the % split by income category excluding HAP.
 **Analysis of Expenditure by Division**
 
 **(Excl HAP)**
----
+
+[[PAGE_END:18]]
+
 19
 
 **Chart 3: Analysis of Draft Budget 2024 Income (excluding HAP)**
@@ -1644,7 +1681,9 @@ Comparative figures for Budgets 2024 and 2023 are shown hereunder.
 **Draft Budget 2024 €'m**
 
 **Adopted Budget 2023 €'m**
----
+
+[[PAGE_END:19]]
+
 20
 
 **Goods and Services Income**
@@ -1714,7 +1753,9 @@ payment of €12.84m, which does not include any additional pay increase for 202
 Local Property Tax (LPT) is a key funding source for Local Government replacing the General
 
 Purpose Grant funding allocation.
----
+
+[[PAGE_END:20]]
+
 21
 
 **LPT Baseline Review 2024:**
@@ -1786,7 +1827,9 @@ Rate by a maximum increase or decrease of 15%. In September 2022, the Council de
 adjust the LPT rate upwards by 15% for 2023 and 2024 equating to an increase of €2,275,125.
 
 It should also be noted that after the 2021 property revaluation for LPT assessment over 50%
----
+
+[[PAGE_END:21]]
+
 22
 
 of properties in Limerick now fall into the 1st valuation category with a base value for Local
@@ -1874,7 +1917,9 @@ Commercial Rates is a significant contributor to the total budgeted income for t
 and it is vital to the level of service delivery that income from this source is maximised. In this
 
 respect it is critically important that the Valuation Office reverts promptly with new valuations
----
+
+[[PAGE_END:22]]
+
 23
 
 during 2024. Limerick City and County Council will continue to ensure that all commercial
@@ -1950,7 +1995,9 @@ including €30,000 but not less than €1 in 2024. The proposed % support for 2
 13.5% subject to a maximum refund of €1,500, which will be subject to a number of terms
 
 and conditions.
----
+
+[[PAGE_END:23]]
+
 24
 
 **Retail Economic Incentive Scheme**
@@ -2024,7 +2071,9 @@ Accommodation Centres for Beneficiaries of Temporary Protection (those fleeing t
 Ukraine). Additional opportunities to refurbish state owned properties for temporary
 
 accommodation centres will be explored and the Ukrainian Response Team will continue to
----
+
+[[PAGE_END:24]]
+
 25
 
 work with potential commercial proposals to ensure national standards for such
@@ -2094,7 +2143,9 @@ budget has included a general Municipal/ Metropolitan allocation of €1.463m in
 district members, which will provide a focus and clarity as regards how the elected members
 
 want to account for the expending of monies within their area.
----
+
+[[PAGE_END:25]]
+
 26
 
 **Workforce**
@@ -2222,7 +2273,9 @@ expenditure system.
 **Number of staff employed**
 
 **Number receiving pension**
----
+
+[[PAGE_END:26]]
+
 27
 
 **Directly Elected Mayor:**
@@ -2324,7 +2377,9 @@ funding for the 3-year capital plan 2024 to 2026.
 **Table 8: Summary Capital Plan 2024-2026**
 
 Chart 6 profiles the Capital Expenditure for each of the three years:
----
+
+[[PAGE_END:27]]
+
 28
 
 **Chart 6: Summary Capital Plan 2024-2026 by year**
@@ -2394,7 +2449,9 @@ this budget.
 **€386.10**
 
 **Capital Expenditure 2024-2026 by Year €'m**
----
+
+[[PAGE_END:28]]
+
 29
 
 I also wish to express my appreciation to the Management Team and their own teams for
@@ -2462,7 +2519,9 @@ On behalf of the Fine Gael Group, he formally proposed the Draft Budget for 2024
 Councillor O’Hanlon, speaking on behalf of the Fianna Fail Group, welcomed the Budget and
 
 thanked the Chief Executive, the Deputy Chief Executive, and their team for the work that had
----
+
+[[PAGE_END:29]]
+
 30
 
 gone in to the preparation of the Budget. He noted the fact that there was no increase in
@@ -2536,7 +2595,9 @@ housing rather than leasing and stressed the importance of the continued deliver
 range of services across the City and County. He confirmed that the Labour Party would be
 
 supporting the budget.
----
+
+[[PAGE_END:30]]
+
 31
 
 **Councillor Hartigan**
@@ -2604,7 +2665,9 @@ Up to €3,000 Annual Rate Demand (with payment of
 of 50% required)
 
 50%
----
+
+[[PAGE_END:31]]
+
 32
 
 €12,001 to €60,000 Annual Rate Demand (with
@@ -2668,7 +2731,9 @@ amended.
 by the Local Government Reform Act, 2014, the Report on Capital Projects 2024 – 2026 as
 
 presented to the meeting is considered (Item 3 on Meeting Agenda)
----
+
+[[PAGE_END:32]]
+
 33
 
 **AND THAT** Limerick City and County Council makes a scheme for the abatement of rates due
@@ -2720,4 +2785,6 @@ Signed:
 **Mayor**
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:33]]
+

@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Municipal District of Newcastle West - 5th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_october_2016.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%205th%20October%202016.md)
+Agenda - Meeting of Municipal District of Newcastle West - 5th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_october_2016.pdf) - Text not extracted
 
-Minutes - Meeting of Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_of_meeting_municipal_district_of_newcastle_west_070916.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20September%202016.md)
+Minutes - Meeting of Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_of_meeting_municipal_district_of_newcastle_west_070916.pdf) - Text not extracted
 
 Taking in charge of Estates - Meeting of Municipal District of Newcastle West - 5th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/taking_in_charge_of_estates_-_meeting_of_municipal_district_of_newcastle_west_-_5th_october_2016.pdf) - Text not extracted
 

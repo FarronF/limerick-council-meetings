@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20-%20Meeting%20of%20Council%20-%2025th%20March%202019.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council  - 25th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%20-%20Meeting%20of%20Council%20-%2025th%20March%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-p Seirbhisi Corpardideacha,
+: Seirbhisi Corpardideacha,
 ee Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Ceanncheathni Chorparaideach,
 
-aArcN —
-—<—— Limerick city alia pe
+aArc™N
+—— Limerick city alia pa
 
 & County Council
 Corporate Services,
@@ -44,7 +45,7 @@ t: +353 (0) 61 557150
 
 f; +353 (0) 61 415 266
 
-To: |The Mayor and Each Member of Limerick City and County Council
+To: The Mayor and Each Member of Limerick City and County Council
 
 A Chomhairleoir, a chara,
 
@@ -63,7 +64,7 @@ AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Ordinary Meeting of the Council held on 28" January, 2019.
+(a) Ordinary Meeting of the Council held on 28™ January, 2019.
 (b) Special Meeting of the Council held on 25"" February, 2019.
 
 (Copies Enclosed)
@@ -76,11 +77,13 @@ To agree revised date for the May Meeting of the Council to Monday, 29" April, 2
 
 & wew.limerick.ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Disposal of Land
@@ -130,7 +133,9 @@ of €1,775,000, in accordance with Section 66 of the Local Government Act, 2001
 facilitate CAT A fit out as per report enclosed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii) Cleeves and Former Salesians Convent
@@ -159,12 +164,12 @@ Meeting held on 25" February, 2019.
 
 (Chairperson’s Report Enclosed)
 
-(iii) | Chairperson’s Report - Travel and Transportation Strategic Policy Committee Meeting
+(iii) | Chairperson’s Report — Travel and Transportation Strategic Policy Committee Meeting
 held on 11" February, 2019.
 
 (Chairperson’s Report Enclosed)
 
-(iv)  Chairperson’s Report — Environment Strategic Policy Committee Meeting held on 25%
+(iv) | Chairperson’s Report — Environment Strategic Policy Committee Meeting held on 25%
 February, 2019.
 
 Recommendation
@@ -180,11 +185,13 @@ Committee held on 18 February, 2019.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
-(vi) Chairperson’s Report - Cultural Strategic Policy Committee held on 12" February, 2019.
+(vi) Chairperson’s Report - Cultural Strategic Policy Committee held on 12'" February, 2019.
 R mendation No. 1
 
 “That the Guidelines for the Strategic Fund Award Scheme go forward to Full Council for
@@ -199,7 +206,7 @@ Recommendation No. 3
 
 “That the recommendations and allocations from the recent workshop for strategic
 investment in the delivery of the Limerick Cultural Strategy for 2019 go forward to Full
-Council for approval in the amount of €497,000".
+Council for approval in the amount of €497,000”.
 
 (Chairperson’s Report Enclosed)
 
@@ -222,7 +229,9 @@ To hear presentation from Eamon Ryan, Head of Enterprise, Local Enterprise Offic
 on the implementation of the Food Strategy and the plans for 2019.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Conferences
@@ -232,9 +241,9 @@ on the implementation of the Food Strategy and the plans for 2019.
 To consider participation by Members at the following Conferences:
 
 (a) “Eurocities Creative Competitive Cities 2018” held in Edinburgh, Scotland on 28", 29' and
-30°” November, 2018.
+30" November, 2018.
 
-(b) “The Finance Act, 2018 Cost Analysis” held in Clonakilty, Co. Cork on 22", 23°? and 24" March,
+(b) “The Finance Act, 2018 Cost Analysis” held in Clonakilty, Co. Cork on 22", 23°? and 24% March,
 2019.
 
 (c) “Register of Electors and Boundary Changes” held at New Lind Road, Wexford on 22nd, 23
@@ -256,7 +265,7 @@ held at High Street, Kilkenny on 22"¢ March, 2019.
 To note reports by Members who have participated at Conference / Seminar / Meeting / Event.
 
 (Reports Enclosed)
-QUESTIONS 7
+QUESTIONS
 
 uestions submitted by Comhairleoir S. Hai
 8. | will ask at the next meeting how many cases have been logged on the CRM System in the
@@ -269,7 +278,9 @@ control or the sub committee on centenary events have taken place as of yet, and
 is intended for these sub-committees to meet.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -285,7 +296,7 @@ target, we will have to pay a fine for exceeding our quota. As this will constit
 cost on all our building activities, | propose that this be factored in on all our major
 developments.
 
-Notice of Motion submitted by Councillor M. Cahillane (to be refi the Travel an
+Notice of Motion submitted by Councillor M. Cahillane (to be ref the Travel an
 
 Transportation Strategic Policy Committee)
 
@@ -324,7 +335,9 @@ Donogh O'Malley, T.D. as Minister for Education, to be situated at an appropriat
 in his home city where his legacy lives on to this day.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -338,7 +351,7 @@ autonomy rights of other citizens and as voted for in two referenda.
 
 Notice of Motion submitted by Councillor E. Ryan (to be referred to the Environment Strategic
 
-Policy Committee
+Policy Committee’
 
 15. | will move at the next meeting of Limerick City and County Council that Limerick City and
 County Council provide yearly funding for the day to day running of the Maigue River
@@ -349,4 +362,6 @@ Trust, funding required in the region of €3,000 per year.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:7]]
+

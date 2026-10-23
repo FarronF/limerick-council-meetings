@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20June%202015.pdf)
+**Original file:** [Agenda - Environment Strategic Policy Committee - 22nd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 ENVIRONMENT SECTION.
 
 12th June, 2015.
@@ -78,4 +79,6 @@ hereby invited to attend.
 **6.To consider draft Standing Orders for SPC’s**
 
 7. **Any Other Business.**
----
+
+[[PAGE_END:1]]
+

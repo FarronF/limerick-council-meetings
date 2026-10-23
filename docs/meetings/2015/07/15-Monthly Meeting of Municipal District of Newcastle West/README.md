@@ -32,7 +32,7 @@ Minutes - Monthly Meeting of Municipal District of Newcastle West - 3rd June 201
 
 Draft Polling Scheme 2015 - Monthly Meeting of Municipal District of Newcastle West - 15th July 2015.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Polling%20Scheme%202015%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf) - Text not extracted
 
-MAP_ Dail Constituencies of Limerick City and Limerick County.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Dail%20Constituencies%20of%20Limerick%20City%20and%20Limerick%20County_0.pdf) - Text not extracted
+MAP: Dail Constituencies of Limerick City and Limerick County.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/MAP%20Dail%20Constituencies%20of%20Limerick%20City%20and%20Limerick%20County_0.pdf) - Text not extracted
 
 Newcastle West Pool Feasibility Report - Monthly Meeting of Municipal District of Newcastle West - 15th July 2015.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Newcastle%20West%20Pool%20Feasibility%20Report.pdf) - Text not extracted
 

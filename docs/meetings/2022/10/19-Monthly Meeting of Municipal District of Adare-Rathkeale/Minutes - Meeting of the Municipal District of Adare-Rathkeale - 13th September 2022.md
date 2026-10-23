@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01-Minutes-of-Monthly-Meeting-13th%20September-2022-Adare-Rathkeale.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01-Minutes-of-Monthly-Meeting-13th%20September-2022-Adare-Rathkeale.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE ON**
@@ -80,7 +81,9 @@ County Council and request him to resist this directive. He also stated that Mem
 should have an input in any directive in relation to the National Flag.
 
 This was seconded by Councillor Collins and agreed.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Cathaoirleach welcomed the Director, Community, Tourism and Culture to the
@@ -152,7 +155,9 @@ August, 2022 setting out proposals to dispose of land adjacent to 12 Ballywillia
 Rathkeale, Co. Limerick and the intention to bring to Full Council, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 (b) Circulated, report of the Head of Property & Community Facilities, dated 25th
@@ -220,7 +225,9 @@ Circulated, report of the A/Senior Executive Architect, Place-Making & Public Re
 7th September, 2022 setting out an update in relation to the Adare Public Realm Plan.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -288,7 +295,9 @@ allocate the following:
  €3,000 to Askeaton Tidy Towns.
 
  €2,000 to Adrian Columb Art c/o Askeaton Civic Trust.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor Collins, seconded by Councillor Keary, it was agreed to
@@ -356,7 +365,9 @@ helpful also to gain traction for upgrade in services.
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Keary and
 
 agreed.
----
+
+[[PAGE_END:5]]
+
 6
 
 In proposing the Motion, Councillor O’Donoghue highlighted the dangers of the restriction
@@ -432,7 +443,9 @@ City and County through a number of educational initiatives.
 This involves working with local stakeholders, the Gardaí, emergency
 
 services and the Department of Education to raise awareness among all
----
+
+[[PAGE_END:6]]
+
 7
 
 road users in every way possible to save lives and prevent injuries by
@@ -486,4 +499,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

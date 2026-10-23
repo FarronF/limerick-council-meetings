@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Travel-and-Transportation-Adjourned-SPC-Meeting-12th-July-2022.pdf)
+**Original file:** [Agenda - Adjourned Meeting of Travel and Transportation Strategic Policy Committee - 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Travel-and-Transportation-Adjourned-SPC-Meeting-12th-July-2022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **30th** **June, 2022**
@@ -51,7 +52,9 @@ is set out on the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -75,4 +78,6 @@ Tuesday 18th April 2023 @ 3:30 p.m.
 **5.Active Travel Update on the recent visit to Dún Laoghaire** **–** **Mr. Sean McGynn,**
 
 **A/Senior Engineer**
----
+
+[[PAGE_END:2]]
+

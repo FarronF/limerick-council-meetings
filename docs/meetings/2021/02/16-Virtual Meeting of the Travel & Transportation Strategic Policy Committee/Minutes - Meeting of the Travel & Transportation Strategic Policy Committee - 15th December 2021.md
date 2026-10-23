@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/minutes-travel-transportation-spc-meeting-15th-dec-2020.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 15th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/minutes-travel-transportation-spc-meeting-15th-dec-2020.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Draft** **Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation**
@@ -72,7 +73,9 @@ on the 20th October 2020 were proposed by Cllr. Foley, seconded by Cllr. Ryan an
 Mr. Kennedy updated the Committee on items arising from the last meeting:
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Response to Mr. Bruce Harper’s question if it was known how much the LSMATS will increase
@@ -148,7 +151,9 @@ efficiency targets contained in the Climate Action Plan 2019. Ministerial guidan
 content and preparation of the local authority climate action plan is also provided for under
 
 Section 14A of the Bill.
----
+
+[[PAGE_END:2]]
+
 3
 
 5. Forthcoming guidelines from the Environmental Protection Agency relating to Green
@@ -220,7 +225,9 @@ see more focus on pedestrians as part of the Council’s strategy. He stated tha
 a particular problem for residents and added that the importance of having students and
 
 parents drive this will give the best results.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr. O’Donovan fully supports the initiative and the pilot is very welcome. She advised that
@@ -296,7 +303,9 @@ Scheme. The purpose of the presentation is primarily to inform the members and a
 a proposal in relation to how the schemes should be ranked and prioritised going forward.
 
 The Chair opened up the floor to comments / questions.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Michael Sheahan stated that a lot of rural members are very dissatisfied with the
@@ -368,7 +377,9 @@ concerns that the Members have raised.
 **Item 5: Notice of Motion submitted by Councillor F. Kilcoyne (referred from the**
 
 **Metropolitan District).**
----
+
+[[PAGE_END:5]]
+
 6
 
 “I will move at the next Metropolitan Meeting, to request free car parking for Limerick city to
@@ -444,7 +455,9 @@ Mr. McGrath replied that bollards were installed owing to concerns regarding pub
 issues, and that this decision was now being reviewed. He stressed the need to come up with
 
 a solution that meets the needs of all concerned parties.
----
+
+[[PAGE_END:6]]
+
 7
 
 Mr. Harper advised that it was reported in the Limerick Leader that a commitment was given
@@ -458,4 +471,6 @@ In response Mr. Gallagher replied that consultation is progressing to resolve th
 Chair asked for forbearance whilst consultation is ongoing.
 
 The Chair closed the meeting by wishing all a safe, peaceful and happy Christmas.
----
+
+[[PAGE_END:7]]
+

@@ -16,23 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%2013th%20November%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%2013th%20November%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 __—_—_ Comhairle Cathrach
+
 & Contae Luimnigh
-aM OO
-‘ imerick Ci
-—> Limerick City
+
+ae
+—=> Limerick City
 
 & County Council
 
-8'" November, 2018.
+8" November, 2018.
 
 Ceantar Bardasach Ath Dara-Rath Caola.
-Comhairle Cathrach agus Contae Luimnigh.,
+Comhairle Cathrach agus Contae Luimnigh.
 Aras Séan Finn,
 
 Une Nua.
@@ -86,21 +88,23 @@ To adopt Minutes of the following Meetings:
 (c) Meeting of the Municipal District of Adare-Rathkeale held on 16" October, 2018,
 (d) Draft Budgetary Plan 2019 Meeting of the Municipal District of Adare-Rathkeale held
 
-on 16™ October, 2018.
+on 16" October, 2018.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach »
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copies Enclosed)
 
-a
+mae
 wwwilimericcie
 WY @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation (GMA) 2018
@@ -111,7 +115,7 @@ Social Development Directorate
 
 To consider the Community Initiative Scheme allocations 2018.
 
-Service i r at
+Service i ir at
 
 Planning and Environmental Services
 
@@ -148,4 +152,6 @@ nw
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

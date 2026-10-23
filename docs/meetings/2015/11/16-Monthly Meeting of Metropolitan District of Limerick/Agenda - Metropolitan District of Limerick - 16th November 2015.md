@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2016th%20November%202015.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 16th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2016th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh,
+__—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh.,
 
 ea Cé na gCeannaithe,
 . = Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
-COUNCIL ae ee
+COUNCIL ee
 
 eric
 
 11" November, 2015.
-t: +353 (0) 61 407 100
+t: #353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
@@ -43,12 +44,12 @@ Limerick
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in
 
-the Council Chamber, Merchant's Quay, Limerick, on Monday, 16'" November, 2015 at
+the Council Chamber, Merchant's Quay, Limerick, on Monday, 16" November, 2015 at
 9.45 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-QQaax OCo———
+QC Que OCo——
 
 Christy O’Connor,
 Meetings Administrator.
@@ -58,7 +59,7 @@ AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Meeting of the Metropolitan District of Limerick held on 19th October, 2015.
+(a) | Meeting of the Metropolitan District of Limerick held on 19th October, 2015.
 (b) Draft Budgetary Plan Meeting for the Metropolitan District of Limerick held on
 
 19" October, 2015.
@@ -77,11 +78,13 @@ and Davis Street Urban Realm and Street Improvement Works.
 (Report Enclosed).
 @ customerservices@limerickie
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ wwwlimerick.ie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach & wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -115,6 +118,7 @@ Notice of Motion submitted by Councillor Joe Crowley
 
 | will move at the next meeting that the Council include Upper Gerald Griffin Street
 for immediate upgrade along with the streets in the vicinity that are in the Plans at
+
 present.
 
 Notice of Motion submitted by Councillor Daniel Butler
@@ -137,7 +141,9 @@ Government to put a 10% tax on chewing gum to be paid to the Council to clean up
 the mess chewing gum makes on our streets.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -161,7 +167,6 @@ Notice of Motion submitted by Councillor Cian Prendiville
 | will move at the next meeting that Limerick Metropolitan District calls on the
 Minister for the Environment and the Minister for Finance for the introduction of real
 rent controls, linking rents to inflation, to stop the sky-rocketing of rents currently
-
 taking place.
 
 Notice of Motion submitted by Councillor Frankie Daly
@@ -188,4 +193,6 @@ junction improvements at Walker's Road/Lane, Castletroy, which leads on to the
 main Dublin Road, R445.
 
 
----
+
+[[PAGE_END:3]]
+

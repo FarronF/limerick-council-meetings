@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-27th-October-2023.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 27th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-27th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+_—_—_—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 . : Comhairie Cathvach agus Contae Lutmnigh,
-—_ & Contae Luimnigh Ines Sars Fem
-NAN _ Une Nua,
-= Limerick C ity . Rath Caota,
+a & Contae Luimnigh lees Sars Fon.
+NAN ~ Une Nua,
+= Limerick ity . Rath Cacia,
 
 & County Council Co. Luimnigh
 
@@ -44,7 +45,7 @@ Co. Limerick
 EIRCODE V94 HKLV
 
 t: 4353 (0) 69 64047
-24" October, 2023. f: +353 (0) 69 63188
+24" October, 2023. f; +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 
@@ -67,11 +68,13 @@ AGENDA
 
 To discuss water quality issues in Foynes.
 
-= customerservices@limerickie
+= customerservices@limerick.ie
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe,Luimneach 1 @ weewslimerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach 1 @ weewslimerickie
 Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
-\ 061 - 586 000
+( 061 - 586 000
 
 
----
+
+[[PAGE_END:1]]
+

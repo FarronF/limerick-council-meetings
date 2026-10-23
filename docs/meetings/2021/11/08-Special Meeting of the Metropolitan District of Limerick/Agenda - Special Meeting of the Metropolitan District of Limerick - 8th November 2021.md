@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/agenda-special-meeting-of-the-metropolitan-district-of-limerick-8th-november-2021.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 8th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/agenda-special-meeting-of-the-metropolitan-district-of-limerick-8th-november-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-‘ Se&bhis{ Corpardidescha,
-_—__ Comhairle Cathrach Comhairie Cathyach agus Contae Luinynigh,
-& Contae Luimnigh Ceanncheathni Chorpardideach,
-ACN 4 ae *  Cé na gCeannaithe,
+‘ Se&bhis{ Corparaidescha,
+_—_——_ Comhairle Cathrach Comhairie Cathvach agus Contae Luinynigh,
+& Contae Luimnigh Ceanncheathns Chorpardideach,
+ACN 4 ee “  Cé na gCeannaithe,
 ~- Limerick City Luinwneach
 —= & County Council
 Corporate Services,
@@ -33,7 +34,7 @@ Corporate Headquarters.
 Merchants Quay,
 Limerick
 
-3 November, 2021. BIRCODE V94 EH90
+3 November, 2021. EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -43,14 +44,14 @@ To: The Cathaoirleach and Each Member of the Metropolitan District of Limerick
 A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Metropolitan District of Limerick to be
-held on Monday, 8" November, 2021 at 12 Noon in the Council Chamber, Dooradoyle and
+held on Monday, 8 November, 2021 at 12 Noon in the Council Chamber, Dooradoyle and
 Online.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-S\renee
+N\renee
 
 Mark Leahy,
 Meetings Administrator.
@@ -62,7 +63,7 @@ Development DAC.
 
 (Report to Follow).
 
-= Customerservices@limerick.ie
+@ Customerservices@limerick.ie
 
 © Wwewlimerick.ie
 
@@ -70,4 +71,6 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

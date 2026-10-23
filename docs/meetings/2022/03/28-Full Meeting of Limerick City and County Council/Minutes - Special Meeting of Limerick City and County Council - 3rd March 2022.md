@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-d-minutes-special-meeting-03.03.2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 3rd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-d-minutes-special-meeting-03.03.2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -84,7 +85,9 @@ Councillor Galvin described the crisis as heartbreaking and suggested countries 
 Ukraine should be congratulated for embracing people fleeing the conflict. He called on the
 
 local authority, members of the public, the Department of Housing and the Government to
----
+
+[[PAGE_END:1]]
+
 2
 
 help support those in need. He suggested the Council appoint a coordinator within the
@@ -160,7 +163,9 @@ Councillor Mitchell reiterated the comments of the other Elected Members and exp
 dismay at the heartbreaking and unprovoked action. Councillor Hartigan described the
 
 actions of Russia as a disgrace.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Collins M. advised the Elected Members that measures were in place in Newcastle
@@ -244,4 +249,6 @@ Date:
 \_\_\_\_\_\_\_\_\_\_\_
 
 **Mayor**
----
+
+[[PAGE_END:3]]
+

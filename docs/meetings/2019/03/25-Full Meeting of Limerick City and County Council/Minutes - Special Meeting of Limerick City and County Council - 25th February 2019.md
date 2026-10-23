@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28b%29%20Minutes%20Special%20Meeting%2025th%20February%202019.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 25th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28b%29%20Minutes%20Special%20Meeting%2025th%20February%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 25TH** **FEBRUARY,**
@@ -86,7 +87,9 @@ tourism. The Mayor outlined the assistance from Government that Cork is to recei
 Limerick is borrowing money from the European Investment Bank to finance the
 
 redevelopment of the City.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Mayor stated this Strategy should be putting Limerick and Cork together to work in their
@@ -170,7 +173,9 @@ Area.
 Key Attributes and Enablers of Limerick including City Centre Revitalisation, the
 
 Georgian Quarter and creation of a Living City are not represented and are requested
----
+
+[[PAGE_END:2]]
+
 **3**
 
 to be included. Other key attributes not recognised include Thomond Park, the Milk
@@ -252,7 +257,9 @@ Southern Region
 • The Galway-Ennis-Shannon-Limerick Economic Network is a new initiative, which has
 
 not yet commenced. However, this is not clear in the document. As this is not a tried
----
+
+[[PAGE_END:3]]
+
 **4**
 
 and tested initiative, it is requested that this proposed network is removed as best
@@ -340,7 +347,9 @@ acknowledged the work of Ms Woods and Ms Burke in preparing this submission. A
 discussion then took place and the Members raised the following issues:
 
 • The growth and development of rural Limerick is not considered in this Strategy
----
+
+[[PAGE_END:4]]
+
 **5**
 
 • Lack of ambition for Limerick which will curtail the plans and projected growth set out
@@ -426,7 +435,9 @@ Regional Waste Management Plan. Ms Woods indicated that it is the view of the
 Executive that to include a policy that bans incineration in the RSES would be contrary to
 
 national policy.
----
+
+[[PAGE_END:5]]
+
 **6**
 
 In response to the queries Ms Woods clarified the following;
@@ -480,4 +491,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

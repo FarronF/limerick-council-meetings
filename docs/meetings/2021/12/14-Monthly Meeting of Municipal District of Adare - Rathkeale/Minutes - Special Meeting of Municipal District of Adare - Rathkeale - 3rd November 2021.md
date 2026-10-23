@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-special-meeting-3rd-november-2021.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare - Rathkeale - 3rd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-special-meeting-3rd-november-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE RATHKEALE HOUSE HOTEL, RATHKEALE, CO. LIMERICK**
@@ -112,7 +113,9 @@ Special Projects – LPT
 **General Municipal Allocation**
 
 **270,000**
----
+
+[[PAGE_END:1]]
+
 Following discussion, the following was agreed:
 
 Proposed by Councillor O’Donoghue;
@@ -184,7 +187,9 @@ done on the fountain some Members expressed serious concerns on the overall cost
 the project and asked the Executive if something could be put in place to prevent this
 
 type of overspend occurring in future project.
----
+
+[[PAGE_END:2]]
+
 At the conclusion of the Agenda and with the consent of the Cathaoirleach, the
 
 Meetings Administrator advised Members that due to non-availability of personnel from
@@ -206,4 +211,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

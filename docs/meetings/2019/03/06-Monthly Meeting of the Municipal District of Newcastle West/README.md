@@ -34,7 +34,7 @@ The Bracken Newcastle West Report & Map - Monthly Meeting of the Municipal Dist
 
 Housing Progress Report to NCW Municipal District March Meeting - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/06%20Housing%20%20Progress%20Report%20to%20NCW%20Municipal%20District%20March%20Meeting%202019.pdf) - Text not extracted
 
-Draft Schedule of Municipal District Works (SMDW)_ Newcastle West Municipal District - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/05%20SMDW%20Report%20NCW%20MD%20March%202019.pdf) - Text not extracted
+Draft Schedule of Municipal District Works (SMDW): Newcastle West Municipal District - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/05%20SMDW%20Report%20NCW%20MD%20March%202019.pdf) - Text not extracted
 
 Replies to Questions - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/2019-03-06%20Replies%20to%20Questions.pdf) - Text not extracted
 

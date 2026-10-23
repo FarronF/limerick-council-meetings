@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-d-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-d-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON
@@ -84,7 +85,9 @@ and signed by a number of Members as follows:
 **required, to assist them in increasing housing supply.**
 
 **Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**
----
+
+[[PAGE_END:1]]
+
 The motion was proposed by Councillor Benson and seconded by Councillor Collopy.
 
 The Mayor outlined the background to the convening of the meeting and summarised legal
@@ -136,7 +139,9 @@ Members expressed their concerns over the amount of people homeless that aren’
 reporting it, and pointed out these people are not included in the report on homeless
 
 figures.
----
+
+[[PAGE_END:2]]
+
 The Director of Housing thanked the Members for their questions and confirmed that the
 
 Council has been in contact with the Department for additional resources and advised that
@@ -166,4 +171,6 @@ The Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

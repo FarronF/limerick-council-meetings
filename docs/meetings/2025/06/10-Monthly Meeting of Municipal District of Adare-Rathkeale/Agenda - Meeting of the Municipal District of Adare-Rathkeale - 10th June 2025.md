@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/00-agenda-10th-june-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/00-agenda-10th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
-& Contae Luimnigh Comhairle Cathrach agus bag a4 y=
+& Contae Luimnigh Comhairle Cathrach agus bag a4 t=
 
-AN fF \ Line Nua,
+ACN fF . ‘Une Nua,
 Limerick City ; Rath Caola,
 
 = & County Council Co. Luimnigh
@@ -43,7 +44,7 @@ Co. Limerick.
 
 EIRCODE V94 HKLV
 
-& 4353 (0) 69 64047
+& +353 (0) 69 64047
 f: +353 (0) 69 63188
 5" june, 2025.
 
@@ -55,7 +56,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-oa
+om
 
 Karen Butl
 Meetings Administrator.
@@ -69,13 +70,15 @@ To adopt Minutes of the following:
 
 (Copies Enclosed).
 = customerservices@limerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaitheLuimneach | é www. limerickte
-Corporate Headquarters, Merchants Quay, Limerick. ¥ @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaitheLuimneach | e www.limerickie
+Corporate Headquarters, Merchants Quay, Limerick. ¥ @limerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Declaration of Interest
@@ -115,7 +118,9 @@ funding for the maintenance and utilization of same. This is to include vacant o
 properties, commercial or residential.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Notice of Motion submitted by Councillor J. O’Donoghue
@@ -131,4 +136,6 @@ policy relating to noise.
 11. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

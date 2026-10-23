@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-19th-september-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-19th-september-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
@@ -37,9 +38,9 @@ OFFICIALS IN ATTENDANCE:
 
 Director of Services, Transportation & Mobility (Mr B. Kennedy); Senior Executive Engineer,
 Roads Traffic & Cleansing (Mr T. McKechnie); Meetings Administrator (Ms K. Butler); Clerical
-Officer (Ms H. O’Neill); Staff Officer, Property Services (Ms D. Ruth); Senior Engineer,
+Officer (Ms H. O'Neill); Staff Officer, Property Services (Ms D. Ruth); Senior Engineer,
 Strategy and Non LA Housing (Mr B. Kidney); Senior Executive Engineer, Roads Traffic &
-Cleansing (Mr S. O'Reilly); Senior Executive Technician, Roads Traffic & Cleansing (Mr P.
+Cleansing (Mr S, O'Reilly); Senior Executive Technician, Roads Traffic & Cleansing (Mr P.
 O’Rourke) and Senior Planner, Forward Planning & Public Realm (Ms Maria Woods).
 
 1. Adoption of Minutes
@@ -61,7 +62,9 @@ held on 5" September, 2024.
 (Copies Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by: Councillor Carey
@@ -79,7 +82,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 There was no interest declared.
 
-4. —_— Property Disposal
+4. _—_— Property Disposal
 
 (a) Circulated, report of the Head of Property Management dated 4" September,
 2024 setting out proposals for the disposal of property acquired under the
@@ -102,7 +105,9 @@ Cleansing) to the meeting who proceeded with his presentation on the proposed 60
 ‘
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 default speed limits due to be introduced on the local roads network in November 2024
@@ -151,7 +156,9 @@ the County Development Plan.Members agreed with the explanation given by Maria
 Woods in requesting extension of current local area plan until 2028.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed: Councillor Ryan (M)
@@ -159,7 +166,7 @@ Seconded: Councillor Conway (G)
 
 NOTICES OF MOTION
 
-7. No M U Hivan
+7. No M L Hivan
 
 “Iwill move at the next meeting of the Cappamore-Kilmallock Municipal District that Limerick
 City and County Council arrange a presentation/workshop to this Municipal District from the
@@ -194,7 +201,9 @@ Proposed: Councillor Conway
 Seconded: Councillor M. Ryan
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. N of Motion submitted by Councillor Ca
@@ -232,7 +241,9 @@ Proposed: Councillor M. Ryan
 Seconded: Councillor Stokes
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11, Notice of Motion submitted by Councillor Teefy
@@ -269,12 +280,14 @@ works in Ballyorgan will remain on the Municipal District’s programme of propo
 Travel projects and will continue to be submitted for consideration by the NTA.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor O’Sullivan
 
-“t will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update
+“twill ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update
 on the proposal for a footpath in Anglesboro to connect the National School to the
 crossroads in the village and if there are any plans to construct a footpath from the
 Cluaindara Estate to the same junction.”
@@ -310,7 +323,9 @@ the Department of Children, Equality, Disability, Integration and Youth ‘Build
 Capital Grant’.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor Conway
@@ -356,7 +371,9 @@ advertised and interested parties could apply to the Council.
 Funding would need to be identified to progress any works prior to taking on any such lease.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17. Question submitted by Councillor Carey
@@ -374,17 +391,19 @@ Accommodation. 5 properties have had windows and doors replaced to date and a fu
 property is due to have windows and doors replaced in the coming weeks.
 
 18. Question submitted by Councillor Ryan
-“1 will ask at the next meeting of the Cappamore-Kilmallock Municipal District for a current
+“| will ask at the next meeting of the Cappamore-Kilmallock Municipal District for a current
 list of housing application numbers for the Cappamore Area including breakdown of
 preferences.”
 
-REPLY:-
+REPLY:
 
 Cappamore - 85 (Total
 
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Question submitted by Councillor Ryan
@@ -421,7 +440,9 @@ liaising with suppliers on improved security of the units.
 The Questions were taken as read.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Any Other Business
@@ -469,9 +490,13 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:12]]
+

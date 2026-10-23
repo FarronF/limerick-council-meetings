@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02-minutes-of-july-2021-jpc-sub-committee-meeting.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02-minutes-of-july-2021-jpc-sub-committee-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING
@@ -90,7 +91,9 @@ burglaries of private houses and sheds over the period and added the following d
  Drug detection (4) no cases in 2020
 
  Road Traffic Collisions up 50% on 2020 stats
----
+
+[[PAGE_END:1]]
+
 2
 
 **Bruff Division**
@@ -162,7 +165,9 @@ The Superintendent agreed to raise the matter with the roads policing units in t
 Trevor McKechnie agreed to look at the location with a view to submitting an application for
 
 funding of Driver Feed Back signs under the low cost safety improvement funding scheme.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Egan asked if there could be an update on the matter provided for the next
@@ -234,4 +239,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

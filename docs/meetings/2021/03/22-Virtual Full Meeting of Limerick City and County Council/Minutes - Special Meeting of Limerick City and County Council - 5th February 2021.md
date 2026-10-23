@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-b-minutes-special-meeting-05.02.2021.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 5th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-b-minutes-special-meeting-05.02.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON FRIDAY, 5TH FEBRUARY, 2021, AT
@@ -92,7 +93,9 @@ Technology. He said the Government had announced funding for the delivery of its
 *Programme for Government,* which mentioned the Coonagh to Knockalisheen Road, and that
 
 a third of the project budget had already been spent on a number of enabling works with
----
+
+[[PAGE_END:1]]
+
 2
 
 contractors now waiting at the starting line to begin the road proper. He pointed out that the
@@ -170,7 +173,9 @@ road.
 this project.
 
  Limerick Institute of Technology was in support of the road being completed.
----
+
+[[PAGE_END:2]]
+
 3
 
  The project was not a new project; it was listed in the sign-off in the National
@@ -242,7 +247,9 @@ main link between Longpavement and Coonagh. Progressing the overall road
 scheme and upgrading the Knockalisheen Road would avoid this and allow for
 
 significant traffic calming within Moyross;
----
+
+[[PAGE_END:3]]
+
 4
 
 o There were significant HGV movements on the Knockalisheen Road and the
@@ -324,7 +331,9 @@ social benefits.
 contained a provision to widen two bridges to facilitate twin-track development
 
 within the road scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
  It was questioned that should the proposed alternative road project commence,
@@ -390,7 +399,9 @@ physical infrastructure and community centre projects and that there was much mo
 She also pointed out the Council had received very positive feedback from the communities
 
 in Regeneration areas about Regeneration initiatives that had been completed.
----
+
+[[PAGE_END:5]]
+
 6
 
 An amendment to the original Motion was proposed by Councillor O’ Hanlon, and seconded
@@ -458,7 +469,9 @@ None
 **Abstentions:**
 
 Councillors Hartigan and Novak. (2)
----
+
+[[PAGE_END:6]]
+
 7
 
 The Mayor declared the Amended Motion proposed by Councillor Leddin and seconded by
@@ -478,4 +491,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

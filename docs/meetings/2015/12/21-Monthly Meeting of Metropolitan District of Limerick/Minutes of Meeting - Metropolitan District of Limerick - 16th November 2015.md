@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2016th%20November%202015.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 16th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2016th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,** **16TH** **NOVEMBER, 2015,**
@@ -94,7 +95,9 @@ Councillors Byrne, Clifford, Collins, Crowley, Daly, Gilligan, Hourigan, Hurley,
 O’Dea, O’Hanlon and Secas
 
 **(13)**
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGAINST**
@@ -176,7 +179,9 @@ In seconding the motion Councillor Leddin noted that the Council was the owner o
 site on Upper Gerald Griffin Street that had trees growing from same and asked that this be
 
 addressed.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Keller highlighted issues in relation to 26 / 27 Edward Street and asked that these be
@@ -264,7 +269,9 @@ response to same.
 **Notice of Motion submitted by Councillor Daniel Butler**
 
 ***I will move at the next meeting that all representative bodies that work in the city centre are***
----
+
+[[PAGE_END:3]]
+
 4
 
 ***invited to participate on a committee to develop a night time strategy for Limerick City centre.***
@@ -344,7 +351,9 @@ structure of any committee and it was agreed that the matter would be referred t
 ***particular.***
 
 The motion was proposed by Councillor Crowley and seconded by Councillor Daly.
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY**:
@@ -444,7 +453,9 @@ in
 conjunction
 
 with the Council’s Capital Works Department, designs are being considered for
----
+
+[[PAGE_END:5]]
+
 6
 
 the reassignment of traffic lane provisions on the Dock Road R510 (between
@@ -524,7 +535,9 @@ following additional points were raised during discussion on same:
  That issues relating to planning should be included for discussion on the agenda for District
 
 meetings.
----
+
+[[PAGE_END:6]]
+
 7
 
  Many support services were required in conjunction with social housing and Members were
@@ -614,7 +627,9 @@ In the Call for Proposals 15 projects were submitted with 6 receiving funding
 approval in principle.
 
 All AHB’s have responsibility for the delivery of the approved projects and have to
----
+
+[[PAGE_END:7]]
+
 8
 
 go through the normal planning permission process.
@@ -694,7 +709,9 @@ Councillor Secas also acknowledged the co-operation of staff in bringing forward
 resolve this issue which had already been discussed in detail at the operational briefings and
 
 asked that these proposals be discussed with local residents.
----
+
+[[PAGE_END:8]]
+
 9
 
 **REPLY**:
@@ -742,4 +759,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

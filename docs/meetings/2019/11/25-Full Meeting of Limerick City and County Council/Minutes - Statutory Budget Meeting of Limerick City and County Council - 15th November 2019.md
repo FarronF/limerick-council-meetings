@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28b%29%20Minutes%20Budget%20Meeting%20151119.pdf)
+**Original file:** [Minutes - Statutory Budget Meeting of Limerick City and County Council - 15th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28b%29%20Minutes%20Budget%20Meeting%20151119.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -86,7 +87,9 @@ formal Statutory Meetings and numerous Workshops. The Chief Executive stated tha
 Budget 2020 process for engagement with Members commenced on September 16th with an
 
 initial Corporate Policy Group meeting. There were two further Corporate Policy Group
----
+
+[[PAGE_END:1]]
+
 2
 
 meetings held on 14th October and 11th November. This was followed that day with a Full
@@ -168,7 +171,9 @@ was continuing to be one of the top performing investment locations in Ireland. 
 delivered more than 17,000 jobs in the last six years, with more than 1,500 jobs announced
 
 since January 2019, including new investments from Nautilus Technologies, Fund Rock and
----
+
+[[PAGE_END:2]]
+
 3
 
 QAD, and expanding facilities such as Regeneron, J&J, Becton Dickinson, BDO, EY, to name
@@ -248,7 +253,9 @@ communities. It would address enhancing quality of life for citizens by supporti
 realm projects and programmes across the City and County in libraries, galleries, museums,
 
 cultural and arts centres, and across events.
----
+
+[[PAGE_END:3]]
+
 4
 
 It would also focus on the dereliction/vacancy issue and delivery of public realm
@@ -320,7 +327,9 @@ The Budget also made clear the Council’s Capital Works Programme for the next 
 wide-ranging over the 3-year period for public projects for Limerick, was projected to cost
 
 €703 million, which was funded from, in the main, central grants and loans.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Chief Executive stated that the draft Budget 2020 - which included significant feedback
@@ -386,7 +395,9 @@ statutory compliance with a number of steps, which can be summarised as follows:
 ***following a public consultation process.*** This decision was made at the Council Meeting on
 
 the 23rd September.
----
+
+[[PAGE_END:5]]
+
 6
 
 ***Step 2 - Allocation of the General Municipal/ Metropolitan Allocation (GMA).The Draft*
@@ -468,7 +479,9 @@ summer and have prompted a re-starting of the ‘Quantitative Easing’ programm
 European Central Bank. Many of these factors are inter-related and, at least at this stage,
 
 appear unlikely to subside in the near-term.
----
+
+[[PAGE_END:6]]
+
 7
 
 The UK exit out of the EU will dent economic activity in the final quarter of this year and
@@ -670,7 +683,9 @@ expenditure increases in the LA & other sectors with own resource income will ha
 met by offsetting expenditure reductions in voted expenditure to ensure compliance with
 
 fiscal rules.
----
+
+[[PAGE_END:7]]
+
 8
 
 **Local Outlook:**
@@ -748,7 +763,9 @@ wider citizen. Limerick City and County Council will work towards providing the 
 infrastructure for key sites in our ownership to allow for the eventual delivery of affordable
 
 homes in Limerick through Serviced Sites Funding. Strong collaboration with Approved
----
+
+[[PAGE_END:8]]
+
 9
 
 Housing Bodies will continue as a means of enhancing delivery mechanisms while also
@@ -826,7 +843,9 @@ Before we close the 2019 chapter, it’s worth recalling that, with Troy Studios
 running, the first major build under Limerick Twenty Thirty, Gardens International, was
 
 completed and opened. The 112,000 sq. ft development was finished to tenant fit-out stage
----
+
+[[PAGE_END:9]]
+
 10
 
 after an 18 month build. The project has been built to LEED Gold standards - among the top
@@ -904,7 +923,9 @@ convert that building into a much needed E-Hub for the town.
 2020 will see the launch of Limerick’s new brand to help win further indigenous and foreign
 
 investment and reflect its resurgence as a thriving economic and visitor destination.
----
+
+[[PAGE_END:10]]
+
 11
 
 The Mid West National Road Design Office continues to progress key major infrastructural
@@ -978,7 +999,9 @@ expenditure necessary to carry out the functions of the Council and the income e
 accrue to the Council.
 
 The key objectives of the 2020 Budget are set out in the Table below:
----
+
+[[PAGE_END:11]]
+
 12
 
 (Image omitted)
@@ -1133,7 +1156,9 @@ Framework directive.
 
 
 ***Continue to seek efficiencies in service provision, cost reduction and value for money.***
----
+
+[[PAGE_END:12]]
+
 13
 
 **Outturn 2019**
@@ -1237,7 +1262,9 @@ H - Misc Services
 **€689,584,588**
 
 **Table 2: Analysis of Expenditure by Division**
----
+
+[[PAGE_END:13]]
+
 14
 
 The following chart gives a breakdown of expenditure by each division.
@@ -1389,7 +1416,9 @@ Division, with comparative figures for 2019:
 **Analysis of Expenditure by Division**
 
 **(Excl HAP)**
----
+
+[[PAGE_END:14]]
+
 15
 
 **Analysis of Income 2020**
@@ -1471,7 +1500,9 @@ The following Pie chart highlights the % split by income category excluding HAP.
 **29%**
 
 **Analysis of Income (excluding HAP)**
----
+
+[[PAGE_END:15]]
+
 16
 
 72% of the Council's income (excluding HAP) is now generated locally through Commercial
@@ -1567,7 +1598,9 @@ on the basis of this allocation is set out in ***Table 4*** below:
 **Draft Budget 2020 €'m**
 
 **Adopted Budget 2019 €'m**
----
+
+[[PAGE_END:16]]
+
 17
 
 ***Limerick City and County Council - 2020 LPT Allocation***
@@ -1677,7 +1710,9 @@ resources for the delivery of the following services as follows:
 ***€2,359k***
 
 **Table 5: Allocation of additional resources**
----
+
+[[PAGE_END:17]]
+
 18
 
 The additional 7.5% Local Property Tax on 2019 levels has enabled the Council to have an
@@ -1755,7 +1790,9 @@ law in relation to the refund of rates on vacant properties. This change now giv
 to the members of local authorities to vary the level of rates refunds that apply in individual
 
 local electoral areas within the overall administrative area of the local authority.
----
+
+[[PAGE_END:18]]
+
 19
 
 Article 29 of the Local Government (Financial & Audit Procedures) Regulations 2014 provides
@@ -1839,7 +1876,9 @@ businesses in all towns and villages across Limerick City and County Council. Th
 intended to address property vacancy rates, improve streetscapes and to support the
 
 business community.
----
+
+[[PAGE_END:19]]
+
 20
 
 **Housing Assistance Payment (HAP) Transactional Shared Service Centre**
@@ -1909,7 +1948,9 @@ members want to account for the expending of monies within their area.
 Recruitment of staff within the Organisation will continue and in particular will focus on the
 
 replacement of staff following retirements, promotions and departures.
----
+
+[[PAGE_END:20]]
+
 21
 
 As a major employer in the region, it is important that we provide employment opportunities
@@ -1999,7 +2040,9 @@ system will provide the organization with project status and financial reporting
 **Number Receiving Pension**
 
 **Number Staff**
----
+
+[[PAGE_END:21]]
+
 22
 
 assists in monitoring progress, budgets and ensures our priorities are aligned with our
@@ -2099,7 +2142,9 @@ source of funding for the 3 year capital plan 2020 to 2022.
 14.96
 
 **Table 7: Summary Capital Plan 2020-2022**
----
+
+[[PAGE_END:22]]
+
 23
 
 Chart 6 profiles the Capital Expenditure for each of the three years:
@@ -2159,7 +2204,9 @@ place to visit and do business.
 **€223.73**
 
 **Capital Expenditure 2020-2022 by Year €'m**
----
+
+[[PAGE_END:23]]
+
 24
 
 During 2019, the Council again had to react to unforeseen events, which demonstrated the
@@ -2229,7 +2276,9 @@ Revenue Budget for 2020 is set at a total of €825.4m.  He stated that this is 
 the Council’s budget including Revenue and Capital exceeds €1 billion.  Councillor Sheahan
 
 referred to the national housing and homelessness crisis and welcomed the additional
----
+
+[[PAGE_END:24]]
+
 25
 
 Homeless provision of €1.8m increase to a total of €6.7m. He welcomed the overall with
@@ -2305,7 +2354,9 @@ Executive to work with Councillor Collins and his FF colleagues.
 Councillor Collins commended the team in Finance along with all Directors and their staff in
 
 presenting a balanced budget here today. Councillor Collins also mentioned the management
----
+
+[[PAGE_END:25]]
+
 26
 
 and staff members of the Municipal District offices along with the outdoor staff who do
@@ -2393,7 +2444,9 @@ Councillor Collins thanked Director Housing Development and her staff for the de
 commitment to this area which in my estimation is one of the most challenging areas of this
 
 authority. It’s very easy for members to be critical of aspects of this directorate but we can’t
----
+
+[[PAGE_END:26]]
+
 27
 
 forget that we are often hamstrung by National Policy and lack of funding. Vacant properties,
@@ -2479,7 +2532,9 @@ depending solely on an already busy sports arena at Plassey. To grow athletics i
 we need this project delivered on and Councillor Collins requested that the Chief Executive
 
 and his management team to identify funding sources with ping our resources.
----
+
+[[PAGE_END:27]]
+
 28
 
 Councillor Collins referred to the emails received emails in the past few days in relation to
@@ -2561,7 +2616,9 @@ during the budget process.
 Councillor Benson’s proposed amendments were circulated to all Members for
 
 consideration.
----
+
+[[PAGE_END:28]]
+
 29
 
 On behalf of the Green Party, Councillor Leddin (B) referred to the positive budget that was
@@ -2637,7 +2694,9 @@ demand for social housing in the County towns and villages and the need for the
 construction of social housing in these areas. She also referred the need for additional
 
 resources within estate management.
----
+
+[[PAGE_END:29]]
+
 30
 
 Members asked questions on several aspects of each Division which were responded to by
@@ -2709,7 +2768,9 @@ Upon resumption, the Mayor confirmed that 3 amendments had been received. The
 Meetings Administrator confirmed that a vote would be called on each amendment, which
 
 had been received in writing.
----
+
+[[PAGE_END:30]]
+
 31
 
 **Proposed Amendment No.1**
@@ -2785,7 +2846,9 @@ proposed by Councillor Costelloe and seconded by Councillor Benson;
 That the €50,000 contribution to the Ryder Cup 2026 to be transferred to a Mental Health
 
 Awareness Programme in conjunction with the HSE.
----
+
+[[PAGE_END:31]]
+
 32
 
 The result of the Vote was as follows;
@@ -2855,7 +2918,9 @@ Seconded by: Councillor Collins (M)
 and circulated by the Chief Executive be adopted, be amended as per the schedule attached
 
 and be adopted.
----
+
+[[PAGE_END:32]]
+
 33
 
 **AND THAT**, as so amended, the Annual Budget be and is hereby adopted as per Tables A, B,
@@ -2905,7 +2970,9 @@ without amendment (Item 5 on Meeting Agenda)
 Reform Act, 2014, is adopted as circulated without amendment. (Item 6 on the Meeting
 
 Agenda).
----
+
+[[PAGE_END:33]]
+
 34
 
 **AND THAT** the Tourism Sector Support Scheme 2020 in accordance with Section 66 of the
@@ -2963,4 +3030,6 @@ Signed:
 **Mayor**
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:34]]
+

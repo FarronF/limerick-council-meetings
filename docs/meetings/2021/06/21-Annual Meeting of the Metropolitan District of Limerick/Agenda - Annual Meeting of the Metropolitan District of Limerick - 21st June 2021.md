@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/agenda-annual-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
+**Original file:** [Agenda - Annual Meeting of the Metropolitan District of Limerick - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/agenda-annual-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach Comhairle Catbunch aca Conle unbtetih
+__—_ Comhairle Cathrach Comhairle Catbuach aoa Corie inbtetih
 immigh,
 & Contae Luimnigh Ceanncheathni Chorparaideach,
-ars 2 a eens Cé na gCeannaithe,
+arn 1 cecal Cé na gCeannaithe,
 
-———> Limerick City Luimneach
+— Limerick City Luimneach
 & County Council
 
 Corporate Services,
@@ -42,7 +43,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-+s +353 | 1415
+: +353 { 1415
 16" June, 2021. f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
@@ -69,10 +70,12 @@ the next Annual Meeting or until a successor has been elected.
 
 m customerservices@limerick.le
 
-© wevewelimerick.te
+© wevevelimerick.te
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

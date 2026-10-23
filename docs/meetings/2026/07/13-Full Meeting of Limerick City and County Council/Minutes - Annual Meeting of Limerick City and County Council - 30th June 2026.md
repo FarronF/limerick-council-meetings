@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-limerick-city-and-county-council-30th-june-2026.pdf)
+**Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-limerick-city-and-county-council-30th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND ONLINE ON MONDAY, 30TH**
@@ -86,7 +87,9 @@ When I was elected to this role, it was truly one of the proudest moments of my 
 the people of Limerick in this capacity has been both a privilege and a responsibility that I
 
 have carried every day over the past year.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 I am particularly proud to have been the first female Príomh Chomhairleoir of our Council. I
@@ -164,7 +167,9 @@ and county, nationally and internationally. From school visits to gatherings wit
 citizens, International Women’s Day celebrations to community events, each occasion
 
 reinforced one message—that from Limerick, you can achieve anything.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 We
@@ -260,7 +265,9 @@ Seconded by Councillor Galvin;
 “That, Councillor Tom Ruddle be appointed Príomh Chomhairleoir of Limerick City and County
 
 Council to hold office until the next Annual Meeting or until a successor is appointed.”
----
+
+[[PAGE_END:3]]
+
 **4**
 
 As there were no other nominations, the outgoing Príomh Chomhairleoir declared Councillor
@@ -336,7 +343,9 @@ I aim to raise awareness of the difficulties that people face each day and i wil
 wherever I can. Where inclusion is not just an ambition but a reality across our services, our
 
 public spaces, and our communities.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 I am also committed to promoting the many local amenities and attractions across all our
@@ -410,7 +419,9 @@ Seconded by Councillor Stokes;
 County Council to hold office until the next Annual Meeting or until a successor has been
 
 appointed.”
----
+
+[[PAGE_END:5]]
+
 **6**
 
 As there were no other nominations, the Príomh Chomhairleoir declared Councillor Adam
@@ -480,7 +491,9 @@ It was proposed by Councillor Slattery and seconded by Councillor McSweeney to h
 Reception for the Limerick Minor Hurling Team on winning the All-Ireland Minor Hurling Final
 
 2026.
----
+
+[[PAGE_END:6]]
+
 **7**
 
 It was proposed by Councillor Teskey and seconded by Councillor Collins (B) to hold a Civic
@@ -498,4 +511,6 @@ This concluded the meeting.
 **Date:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

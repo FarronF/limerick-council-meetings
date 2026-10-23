@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20Special%20Meeting%20080118.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council to discuss the proposed exit to Adare from the proposed new Limerick_Foynes Road - 8th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%20Special%20Meeting%20080118.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—__ Comhairle Cathrach
+_—__ Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -65,13 +66,15 @@ to Adare from the proposed new Limerick-Foynes Road.
 
 Is mise le meas,
 
-Cite OOL_
+Cite OO
 
 Christy O’Connor,
 Meetings Administrator.
 
 eathru Chorpardideach, Cé na gCeannaithe, Luimneach
-Compendia Wastamaraae sanicr ott remteet
+Compendia Waster sunch eat eanieenes
 
 
----
+
+[[PAGE_END:1]]
+

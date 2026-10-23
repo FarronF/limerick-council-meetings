@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%202022-05-25%20Agenda.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 25 May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%202022-05-25%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-nr Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+——— Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach egus Contae Luimnigh,
-a Aras Wiliam Smith O'Brien,
+a Aras William Smith O'Brien,
 AEN Gortbuf,
-—=—_—>. Limerick City - An Caisledn Nua Thar,
+—=—_—>. Limerick City ; An Caisledn Nua Thar,
 
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
-Limerick Cay and County Counal
-Aras Villian Smith O'Brien,
+Limerick Cty and County Counal
+Aras William Smith O'Brien,
 Gortboy.
 
-Nevscastle West,
+Nevecastle West,
 
 Co. Limerick.
 
-Eircode: VA2EH73
+Eircode: V42EH73
 t; +353 (0) 69 62100
 20" May, 2022
 
@@ -51,7 +52,7 @@ be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday,
 2022, at 12 noon. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-eg ee
+geal
 “ —
 Martin Curran,
 Meetings Administrator.
@@ -62,12 +63,14 @@ AGENDA
 
 To discuss water outages in the Broadford/Dromcollogher areas.
 
-© customerservices@limerick.ic
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wvewlimerick.ie
+= customerservices@limerick.ic
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wvewlimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick
 
 @LimerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

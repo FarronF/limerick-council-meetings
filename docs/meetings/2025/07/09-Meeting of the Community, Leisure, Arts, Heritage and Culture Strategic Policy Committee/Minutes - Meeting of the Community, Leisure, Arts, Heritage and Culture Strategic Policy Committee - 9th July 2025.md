@@ -16,69 +16,75 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-9th-july-2025.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee - 9th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-9th-july-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ES Comhairle Cathrach
-‘ontae Luimnigh
+Comhairle Cathrach
+—— & Contae Luimnigh
 
-&C
-mene Limerick Cit
-SS tty
+NNT
+
+=—
+
+Limerick City
 & County Council
 
 Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee Hybrid
-Meeting 14/05/2025
+Meeting 09/07/2025
 
 A meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy
-Committee (CLAHC SPC) was held on Wednesday, 14" May 2025 at 3pm in the Council
+Committee (CLAHC SPC) was held on Wednesday, 09" July 2025 at 3pm in the Council
 Chamber Dooradoyle and Online via Microsoft Teams.
 
 MEMBERS PRESENT:
-
 CHAIRPERSON: Cllr. Fergus Kilcoyne
-Cllr. Azad Talukder
-Cllr. Brigid Teefy
-Cllr. Daniel Butler
-Cllr. Dan McSweeney
-Cllr. John Sheahan
+Clir. Azad Talukder
+Clir. Brigid Teefy
+Clir. Dan McSweeney
+Clir. Daniel Butler
+Clir. John Sheahan
 Cllr. PJ. Carey
 Clir. Padraigh Reale
+Cllr. Sarah Beasley
 Cllr. Shane Hickey O'Mara
-Ms Louise Crowley
+Cllr. Tommy Hartigan
+Ms. Marion Hurley, ~~
 Mr. John Ward
 Mr. Pete Moles
+Mr. Padraig Lohan
 Mr. Randal Hodkinson
-Mr. Daniel Nedelcu
+Mr. Khurram Iqbal
 
-APOLOGIES:
-Clir. Tommy Hartigan
-Clir. Catherine Slattery
+APOLOGIES: Cllr. Martin Ryan
 
 IN ATTENDANCE: Mr. Stephane Duclot, Director of Service
+Mr. Declan White, Director of Service
 Ms. Anne Rizzo, Senior Executive Officer
-Ms. Karen Burke, Town Centre First Officer
+Ms, Karen Burke, Town Centre First Officer
 Ms. Fiona McCormack, Senior Executive Officer
+Ms. Eileen Gleeson, Staff Officer
 Ms. Jane Kissane, Executive Architect
-Ms. Etain McCooey, Arts Officer
-Mr. Cathal Brodie, Senior Executive Scientist
-Ms. Lucy Medlycott, FRSA Director
-Ms. Aoife O'Connell, Assistant Arts Officer
-Mr. Aidan Finn, Senior Engineer
-Ms. Joanna O'Donoghue, Staff Officer
-Ms. Amy Hanna, Assistant Staff Officer
+Mr. Damien Brady, City & County Librarian
+Ms. Fiona Ismail, Senior Executive Librarian
+Ms. Joanna O’Donoghue, Staff Officer
+Ms. Aisling Coughlan, Assistant Staff Officer
+Ms. Orla Battles, Clerical Officer
+Mr. Eamon O'Hanlon, Community Safety Administrator
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
- <-e Comhairle Cathrach
+————— Comhairie Cathrach
 & Contae Luimnigh
 
-oe — wu kC
-imerick City
+“ue — Limerick City
+imeri ity
 & County Council
 Declaration of Interest:
 
@@ -87,148 +93,139 @@ Act, 2001, as amended, and the Standing Order, all present members should notify
 Cathaoirleach of any declaration of interest in any item due for discussion at the
 Meeting. No such interests were declared.
 
+Minute of silence was held in memory of Daniel Nedelcu, Community, Leisure, Arts,
+Heritage and Culture Strategic Policy Committee member, who passed away on the 12""
+of June.
+
 Item 1: Minutes:
 
 The Minutes of the Community, Leisure, Arts, Heritage and Culture Strategic Policy
-Committee held on 12th March 2025 were proposed by Cllr. B. Teefy and seconded by
-Mr. John Ward and adopted.
+Committee held on 14th May 2025 were proposed by Clir. B. Teefy and seconded by Clir
+A. Talukder and adopted.
 
-item2: Matters Arising
+Item2: Matters Arising
 No matters arising were brought forward.
 
-item 3: Presentation on Draft Limerick Outdoor Recreation Strategy
+Item 3: Presentation on the Limerick Outdoor Recreation Plan
 
-A presentation was given by Karen Burke, Town Regeneration Officer on Draft Limerick
-Outdoor Recreation Strategy. The Limerick Outdoor Recreation Plan will aim to
-strengthen and support the sustainable development of the outdoor recreation sector
-in Limerick for years to come.
+A presentation was given by Karen Burke, Town Regeneration Officer on Limerick
+Outdoor Recreation Plan. This is a high-level plan with key actions for the next 5 years.
+The Limerick Outdoor Recreation Plan aims to strengthen and support the sustainable
+development of the outdoor recreation sector in Limerick for years to come.
 
-Members were advised that interdepartmental Project Team that included external
-stakeholders was formed to develop the Plan. Extensive public consultation was
-undertaken to inform the actions of the plan and Outdoor Recreation Committee is being
-formed with wider membership. Draft Action Plan was prepared including themes such
-as Leadership, Environment, Awareness, Opportunities, Expertise and Access.
+Members were updated on the consultation process, which took place across Limerick,
+in May and June. Consultation included public display, online submissions and drop in
+consultations, 3 submissions were received, and comments have been incorporated into
+the Plan.
 
-Town Regeneration Officer advised that next steps would include: circulation of the Draft
-Plan to the SPC Members, completion of Environmental assessments and four week
-public display, after which, the final Plan will be presented back to SPC at the July
-meeting for recommendation to be brought to the full Council meeting for noting.
+Town Regeneration Officer advised of the requirement to establish an Outdoor
+Recreation Forum to continue a stakeholder engagement process to highlight potential
+projects. It was advised that calls for participation will be widely circulated in the coming
+months.
 
-Cllr. A. Talukder asked the question on how interested groups could contact the team to
-have their input and if they are interested to discuss funding. K. Burke advised that the
-plan will be on public display with option for a public to have their say. It was also advised
-that draft plan will be circulated to all SPC Members. If any group would like to discuss
-funding opportunities they can contact team at any stage.
+Cllr. D. McSweeney asked for clarification if the Limerick Outdoor Recreation Plan should
+be going to the full council for adoption rather than noting and if the planned Outdoor
+Recreation Forum would have any restrictions for elected members to participate. Town
+Regeneration Officer advised that The Plan is not a statutory document, therefore does
+not require adoption by full council, however the support of the Council will be shown
+by noting. Ms Burke advised that the planned Outdoor Recreation Forum will be opened
+to all and will not have restrictions for elected members to join.
 
-Cllr. S. Hickey O'Mara acknowledged the great work on this plan and asked if there is a
-way for community members to join the Outdoor Recreation Committee. Town
-Regeneration Officer advised that once the Plan is finalised the team will notify Elected
-Members, where they will get opportunity to invite suitable interested parties that might
-willing to join the Committee.
+Recommendation to consider the Limerick Outdoor Recreation Strategy, prepared in line
+with Guidelines for Development — County Outdoor Recreation Plans, to proceed to the
+September Full Council Meeting for noting, proposed by Ms Marion Hurley seconded by
 
-Item 4: Presentation on Developing Street Performance in Limerick
-
-At the September 2024 Full Council meeting it was requested that Street Performance
-and Busker Byelaws laws adoption be deferred so that the views of the Arts and Tourism
-Departments on street performance and buskers could be sought before the draft Bye-
-Laws were brought back to the Council for approval.
+2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach
+ae Comhairte Cathrach
 & Contae Luimnigh
-arn a ‘
+ONS 7
+~ — Limerick City
+= & County Council
+Cllr F. Kilcoyne, that the Limerick Outdoor Recreation Plan go to the Full Council for
 
-= Limerick Ci
+noting.
 
-— ty
-& County Council
+Item 4: Update on the Local Sports Plan
 
-Etain McCooey, Arts Officer gave presentation to the members on Developing Street
-Performance in Limerick.
+Fiona McCormack, A/SEO, Regeneration, Sports and Recreation Directorate, presented
+on the progress of Local Sports Plan.
 
-Members were informed that Environment Section has been leading on the
-development of regulatory Street Performance and Busker byelaws, and that the Arts
-Office is working on positive initiatives to encourage buskers aiming to support the
-development of quality street performance in Limerick City and County. These are
-professional development type initiatives that can run in parallel with the regulatory
-byelaws that are planned for Limerick.
+The update was given to the members on the consultation process that already took
+place and is still outgoing. Members were asked to help in promoting surveys /
+consultations with children, young people, residents and stakeholders that are available
+online on My Point. The deadline for submission was extended till Friday 11° of July to
+allow more participation.
 
-The first of these, is a professional development and capacity building workshop, which
-has been developed for Limerick City and County Council by the national body ISACS —
-the Irish Street Arts and circus network, together with Lumen Street Theatre, in
-partnership with the Arts Office.
+Final Draft of The Local Sports Plan will be presented to Community, Leisure, Arts,
+Heritage and Culture Strategic Policy Committee members upon completion.
 
-ISACS and Lumen Street Theatre will deliver the workshop on 11th June 2025, and it is
-open to all interested in street performance. The SPC members were invited to attend.
-The Arts Officer asked SPC members to give consideration under the 2026 budget
-process, to establish 2 new bursary categories, specific to Street Performance for
-Individuals and for Street Performance Organisations or groups, through increasing the
-budget on the existing arts bursaries programme for 2026. The bursaries would be
-awarded primarily for artistic development, training, mentoring, upskilling, production
-and development.
+Ms M. Hurley asked if it would be still possible to engage with teenagers that are often
+left out from consultation process and their voice should be heard. Ms F. McCormack
+advised that those comments will be taken on board.
 
-Lucy Medlycott, from the Irish Street Arts, Circus and Spectacle Network gave overview
-of the organisation vision, mission and membership, supports to ISACS members were
-also outlined.
+Item 5: Presentation on The National Famine Commemoration 2025
 
-The presentation was welcomed by the members. It was recommended that
-consideration be given, as part of the 2026 budget process, to establishing 2 new bursary
-categories by increasing the budget for the existing Arts Bursaries Programme. It was
-also agreed to bring the draft Street Performance and Buskers byelaws to the May
-Council meeting for adoption.
+The City & County Librarian, Damien Brady, presented overview of 2025 National Famine
+Commemoration that took place in Kilmallock, County Limerick on Saturday, 17th May
+2025.
 
-Cllr. S. Hickey O'Mara welcomed the new initiative and advised of his own experience
-with Street Performance and antisocial behaviour. It was pointed out that safety is one
-of the big issues for the artists and question was asked if this would be addressed.
+The timeline for organising the event was short, however great work was done by
+Limerick City and County Staff, Kilmallock community and other stakeholders. During the
+week of the Commemoration Day, a programme of community events was held in
+Kilmallock including exhibitions, historical talks, lectures and activities that were very
+well attended.
 
-Ms L. Medlycott admitted that safety can be an issue, therefore it is always very
-important to look at all the eventualities and a lot of planning is needed before the
-performance can take place.
+The commemoration was a formal State ceremony and included a keynote address by
+President Michael D. Higgins and Minister Patrick O’Donovan. It was also attended by
+officials including the Mayor of Limerick, Limerick City and County Councilors and 56
+diplomats. In total 570 people attended the ceremony, which got widespread coverage
+across local and national print and online media and getting the front page in Limerick
+Post.
 
-Members acknowledged that street arts and busking can be a great way to revitalise city
-centre and other towns, therefore artists should be supported and their voice taken into
-account. It was also pointed out that it would be good to have a structure in place.
-
-Chairperson asked if it is planned for Limerick to have a specific locations close to each
-other like in Galway assigned for street performance.
+Councillors congratulated Mr Brady and his team for organising such a great event and
+acknowledged great support and collaboration with Kilmallock community.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
+AN” ™ ——
 
-a
-
-—>
+—
 
 Limerick City
 & County Council
 
-Arts Officer advised that feedback from consultation process will be assessed, however
-for now there is no such plans.
+Chairperson complemented the work done by all involved and thanked them for
+organisation of The National Famine Commemoration.
 
-Date of Next Meeting
-Wednesday, 9"" July 2025.
-
-Item 5: Date of next meeting
+Item 6: Date of next meeting
 
 The Chairperson Cllr Fergus Kilcoyne thanked all for the presentations made. The next
 meeting of the Community, Leisure, Arts, Heritage and Culture SPC will take place on
-Wednesday 9" July 2025 in Council Chamber, Dooradoyle at 3pm and online. Dates of
-the future meetings will be circulated to members.
 
-Meeting ended at 3.50 pm
+Wednesday 15*" October 2025 in Council Chamber, Dooradoyle at 3pm and online. Dates
+of the future meetings will be circulated to members.
 
-Minutes Proposed By: CiiQ f>. ! ee tY
+Meeting ended at 3.40 pm
 
-Minutes Seconded By: ClL2 =. JALUKDEK VA LUKDOS
+Minutes Proposed By: Cig D. Ovjiree
+Minutes Seconded By: MR - i. Ward
 
-Minutes Signed By Chair: _7 4s K. he “y Date: Wa Yeh f As
+Minutes Signed By Chair: LD Date: (5 lle {25
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,30 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20April%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20April%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comnairle Cathrach agus Contar Luiranigh
 & Contae Luimnigh Oifig an Cheantais, Aras Mhainchin Seoighe
 
-— Limerick City /
+= Limerick City ;
 = & County Council
 
-Limerick City and Coumity Council
+Limerick City and Cormity Council
 Aras Mainchin Seoigne Aréa Office,
 Kirnaliock,
 
-Co. uime»nck.
+Co. Uime»nck.
 
 EIRCODE V35 K497
 
-t: 4353 (0) 63 960 19
-f: +555 (0) 63 985 99
+t: #353 (0) 63 980 19
+f: 43555 (0) 63 985 99
 
-14" April 2023.
-To/ The Cathaoirleach and Each Member of the Municipal District of Cappamore-Kilmallock
+14” April 2023.
+To/ TheCathaoirleach and Each Member of the Municipal District of Cappamore-Kilmallock
 
 A Chomhairleoir, a chara,
 
@@ -74,12 +75,14 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office ve
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Property Services
 
-*® Proposed disposal of Property at 3 Ath Alainn, Bruree, Co Limerick.
+* Proposed disposal of Property at 3 Ath Alainn, Bruree, Co Limerick.
 ¢ Proposed land disposal in the form of a lease to Caherconlish AFC
 ¢ Proposed disposal, by way of a lease, of Old School House, Grange.
 
@@ -120,7 +123,9 @@ Stud delineators “Cats eyes” be put in place on the Regional Roads in the ar
 are not already in place. They are very effective and are a safety measure on the roads.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -132,4 +137,6 @@ people are currently on the housing waiting list with Kilmallock as their area o
 how many of these are in receipt of HAP.
 
 
----
+
+[[PAGE_END:3]]
+

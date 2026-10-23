@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Joint-Policing-Committee-Meeting-2nd-June-2023.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 2nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Joint-Policing-Committee-Meeting-2nd-June-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-. Seisbhisi Corpardideacha,
-a Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+. Seisbhisi Corparaideacha,
+az Comhairle Cathrach Comhairle Cathwach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathni Chorperéidesch,
 
-ACN fF 7 re Cé na gCeannaithe
+AmN fF 7 re Cé na gCeannaithe
 — Limerick City Luimnesch
 & County Council
 Corporate Services,
@@ -35,7 +36,7 @@ Merchants Quay,
 Limenck
 TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE EIRCODE V94 EH90
 
-t: +353 (0) 61 5$7180
+t: +353 (0) 61 $$7180
 f +353 (0) 61 415 266
 
 A Chara,
@@ -47,9 +48,9 @@ Details of the Agenda and attachments to be discussed at the meeting are set out
 
 Is mise, le meas,
 
-Marcts
+Mlacts
 
-es Flannery
+eae Flannery
 Senior Executive Officer
 Corporate Services, Governance & Customer Services
 
@@ -70,20 +71,22 @@ AGENDA
 address the misuse of scrambler motorbikes in Limerick, especially in the city centre, urban
 estates and public green areas across both Limerick City and County”.
 
-7. Question submitted by Maurice Quinlivan, T.D. :
+7. Question submitted by Maurice Quintivan, T.D, :
 
 “| will ask at the next meeting for an update regarding the number of Community Gardai
 operating in Limerick city per area and what plans are in place to increase these numbers”.
 
 customerservices@limerick.ic
 
-' © woe limerick.ie
+. © weve limerick.ie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -100,9 +103,9 @@ scramblers on the riverside path from The Lock to the University of Limerick”
 Notice of Motion submitted by Councillor Sean Hartigan :
 
 “| will move at the next Meeting that action be taken to deal with speeding on the
-Castleconnell to Montpellier Road”.
+Castleconnell to Montpellier Road".
 
-Notice of Motion submitted by Maurice Quintivan, TD. :
+Notice of Motion submitted by Maurice Quinlivan, TD. :
 
 “| will move at the next meeting for the creation of an action plan, similar to Operation
 Copég, to target the ongoing drug dealing and associated crime in the Weston and Prospect
@@ -120,4 +123,6 @@ operating in, displayed on the vehicle or at an appropriate distance of not more
 from the vehicle in either direction”.
 
 
----
+
+[[PAGE_END:2]]
+

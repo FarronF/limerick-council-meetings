@@ -16,15 +16,16 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/03%20Minutes%20Municipal%20District%20Meeting%2020th%20Sept%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/03%20Minutes%20Municipal%20District%20Meeting%2020th%20Sept%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
-THURSDAY, 20 SEPTEMBER, 2018, AT 3.30 P.M.
+THURSDAY, 20™ SEPTEMBER, 2018, AT 3.30 P.M.
 
 PRESENT IN THE CHAIR:
 
@@ -33,7 +34,7 @@ Councillor E. Ryan, An Cathaoirleach.
 MEMBERS PRESENT:
 Councillors Donegan, Gleeson, Mitchell, and Teefy.
 
-Apologies for their inability to attend the Meeting were received from Councillor O'Donnell
+Apologies for their inability to attend the Meeting were received from Councillor O’Donnell
 & Councillor Sheehy.
 
 OFFICIALS IN ATTENDANCE:
@@ -56,7 +57,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Service Operations Directorate
@@ -92,7 +95,7 @@ Reception to the Meetings Administrator.
 QUESTIONS
 4. Question submitted by Councillor Donegan
 
-1 will ask at the next Meeting for an update on the traffic calming measures being
+| will ask at the next Meeting for an update on the traffic calming measures being
 implemented at Lynch’s bend in Ballygibba, Kilmallock.
 
 REPLY: Limerick City & County Council will carry out improvement works to the
@@ -101,7 +104,9 @@ appointed Ecoflex Ltd to lay 500 sq. metres of anti-skid surfacing at the
 location. This will be followed by the renewal of the white lines.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The works are expected to be carried out by 15"" October 2018, subject to
@@ -116,7 +121,7 @@ Municipal District;
 
 e How long are they vacant;
 
-¢ Is the funding in place to carry out the required works on these voids?
+e Is the funding in place to carry out the required works on these voids?
 
 REPLY: (a) There are currently thirteen vacant Local Authority houses in the
 Cappamore-Kilmallock Municipal District. Two of these houses are receiving
@@ -143,7 +148,7 @@ the Municipal District as this would be a quicker way of housing provision in th
 
 6. Question submitted by Councillor Teefy
 
-| will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for an
+I will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for an
 update on the works to be carried out at the new extension to Caherconlish Graveyard.
 
 REPLY: It was the intention to tender this project out for construction in the spring of
@@ -152,7 +157,9 @@ City & County Council, offering to take down and bury the existing over
 ground three-phase power line between the old and new burial grounds, as
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 they were doing works in an adjacent property. By doing so, it would both
@@ -198,10 +205,12 @@ by the policy document ‘Limerick City and County Council Traffic Calming
 Policy for Urban Areas’.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-In common with all housing estates in Kilmallock, the Council will erect 30
+in common with all housing estates in Kilmallock, the Council will erect 30
 kph signs at Millmount Estate following approval of the Speed Limit Byelaws
 in late 2018.
 
@@ -219,7 +228,7 @@ Local Conditions
 Through Road
 
 The provision of traffic calming measures is often a contentious issue with
-residents, Consequently, the Policy requires a plebiscite of residents in which
+residents. Consequently, the Policy requires a plebiscite of residents in which
 two thirds of the residents on the street affected have indicated that they are
 in favour of the proposed measures. Any such plebiscite shall be restricted to
 residents living within 100 meters of the location of the proposed traffic
@@ -244,7 +253,9 @@ drainage issue within the burial ground. Limerick City & County Council has
 assessed the drainage issue along with the deleterious condition of the
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 existing footpaths and decided to install new surface water drainage in the
@@ -293,13 +304,15 @@ The Members agreed that the Municipal District would write to both Bus Eireann a
 John Halligan, who as Minister for State had school transport as one of his Ministerial
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 responsibilities, to outline the concerns that the Elected Members felt in relation to this issue
 and seeking a meeting with both parties to discuss their concerns .
 
-e k Local E Community P’ 4
+e k Local E Community P. 4
 
 The Members agreed that it would be worthwhile to invite the relevant groups involved in
 this plan to give a presentation on the contents of this plan to the Members in the near future
@@ -311,7 +324,7 @@ The Director advised the Members that they should consider their proposals under
 heading as these would be discussed as part of the Draft Budgetary Plan 2019 meeting which
 would take place in October 2018.
 
-e« Vo ith
+« Vo th
 
 The Members extended a Vote of Sympathy to Helen O'Neill, Kilmallock District Office on
 the recent passing of her father, Michael (Mick) Dillon, Newpark, Effin, Co. Limerick.
@@ -325,12 +338,12 @@ recent passing.
 The Members extended best wishes to Miriam Kennedy, Domestic Science Teacher in
 Hospital Secondary School who is currently undergoing treatment for a serious illness.
 
-° Compliments ae
+° Compliments _
 
 The Members expressed their compliments to the Roads Staff on recent road related works
 including works on Ballinahown Passage and Ballycahill Junction in the Municipal District area.
 
-¢ Congratulations
+* Congratulations
 
 The Members congratulated the Limerick Senior Hurling Team, as well as the Limerick Ladies
 Junior Footballers, on their recent All Ireland successes, which had brought huge pride and
@@ -345,7 +358,9 @@ for the Municipal District.
 This concluded the Meeting.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Signed:
@@ -355,4 +370,6 @@ Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:8]]
+

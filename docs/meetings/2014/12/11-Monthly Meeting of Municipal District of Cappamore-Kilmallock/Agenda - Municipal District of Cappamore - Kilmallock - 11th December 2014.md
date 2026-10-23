@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore_-_kilmallock_-_11th_december_2014.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore - Kilmallock - 11th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore_-_kilmallock_-_11th_december_2014.pdf)
 
----
+[[FILE_START]]
+
 5th December, 2014.
 
 **To/ The Cathaoirleach and each Member of the Municipal**
@@ -66,7 +67,9 @@ Notice of Motion submitted by Councillor W. O'Donnell
 I will move at the next meeting that Limerick City & County Council install appropriate
 
 speed ramps at Hillview Terrace, Caherconlish, in the interest of road safety.
----
+
+[[PAGE_END:1]]
+
 2
 
 Notice of Motion submitted by Councillor L.M. Sheehy
@@ -78,4 +81,6 @@ I will move at the next meeting that the ramp by the new library in Cappamore be
 removed completely and a pedestrian crossing with flashing lights be fitted instead and a
 
 lowering in the footpaths for safe wheelchair access.
----
+
+[[PAGE_END:2]]
+

@@ -16,28 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda-Annual%20Meeting%20Limerick%20City%20and%20County%20Council-27%20June%202016.pdf)
+**Original file:** [Agenda-Annual Meeting Limerick City and County Council-27 June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda-Annual%20Meeting%20Limerick%20City%20and%20County%20Council-27%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seabrisi Corparakieacha agus Batnistiocnt Athrulthe.
-Comnhairte Cathrach agus Contae Luimmoh.
+Seabrisi Corparakieacha agus Batnistiocht Athruithe.
+Comnhairie Cathrach agus Contae Luimmoh
 
 = Ce na gCeannaithe
 = = Luimneach
 . .
 
 Limerick Corporate Services and Change Management
-americ! y rt cil
+ameri! j 3 cil
 
-CITY & COUNTY Limenck City ag eters Dp
+CITY & COUNTY Limenck City ag eters nape
 terchants Guay
-
-Coulee Limerick
+ee Limerick
 
 &: +353 (0) 63 407 100
-1: +353 (0) 61 415 266
+1: +353 (0) 63 415 266
 
 22" June, 2016.
 
@@ -52,11 +52,11 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-CQw, QYar—
+CQ wa, QQr—
 Christy O'Connor,
 Meetings Administrator.
 
-| ceteieteneieetetetatatsetetetaletehalatetetetatetealeteieleetietteieaetetetaeeieiteeteeiteideeieeieeeE EEE EEE E EET
+| eteieteteienetenetetatsatetetelsteheatetetelateteteleteeletetietetaeteeteteteeteaeieieteetedeiie ieee EEE EEE
 
 AGENDA
 
@@ -75,4 +75,6 @@ Market Trustees.
 (List of Representatives Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+

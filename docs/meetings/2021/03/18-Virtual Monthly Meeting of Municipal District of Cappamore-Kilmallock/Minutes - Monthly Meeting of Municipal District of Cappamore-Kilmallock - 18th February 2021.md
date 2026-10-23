@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04.-minutes-of-18th-february-md-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 18th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04.-minutes-of-18th-february-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF ONLINE MONTHLY MEETING OF
@@ -86,7 +87,9 @@ Councillors and the next workshop was scheduled for 22nd March for which an invi
 would issue. An update was also provided that the National Water Resources Plan Draft
 
 Framework was open for submissions to be submitted by the deadline of 1st March 2021. A
----
+
+[[PAGE_END:1]]
+
 2
 
 presentation which had been delivered to the Strategic Policy Committee for the
@@ -156,7 +159,9 @@ and Business Park Charges. Circulated via email prior to the meeting, Report dat
 February, Kilmallock Business Park Update.
 
 A frank and open discussion was had by all.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Elected Members welcomed the timely update and thanked the Director of Services for
@@ -212,7 +217,9 @@ as there are frequent outages and low pressure to a number of households in the 
 **Proposed by: Councillor Donegan**
 
 **Seconded by : Councillor M Ryan**
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY:**
@@ -272,7 +279,9 @@ The Roads Senior Engineer did not give the final approval for the proposed works
 and requested further information.
 
 Subject to the approval of the Senior Engineer these works will be advanced in 2021.
----
+
+[[PAGE_END:4]]
+
 5
 
 7. Question submitted by Councillor Teefy
@@ -378,7 +387,9 @@ Property 2
 Property 3
 
 09/01/2020 Acquired property – not previously tenanted
----
+
+[[PAGE_END:5]]
+
 6
 
 Property 4
@@ -446,7 +457,9 @@ Cappamore.
 Thanks was also expressed to James O’Rourke, Roads Supervisor and his team, for attending
 
 to and preventing incidents of flooding recently.
----
+
+[[PAGE_END:6]]
+
 7
 
 **Dog Fouling**
@@ -508,7 +521,9 @@ and Holycross, Tipperary, who passed away on 5th February 2021.
 A Vote of Sympathy was expressed to the family of the late Emer Williams, Kilmallock, and
 
 Caherdavin, daughter of ex Councillor Hurley, who passed away on the 25th January 2021.
----
+
+[[PAGE_END:7]]
+
 8
 
 A Vote of Sympathy was expressed to the family of the late Emma McManus, nee Ledbetter,
@@ -554,4 +569,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:8]]
+

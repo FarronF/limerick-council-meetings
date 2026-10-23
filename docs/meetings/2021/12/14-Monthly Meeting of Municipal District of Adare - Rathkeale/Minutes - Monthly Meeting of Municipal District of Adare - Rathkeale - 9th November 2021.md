@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-monthly-meeting-9th-november-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-monthly-meeting-9th-november-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE RATHKEALE HOUSE HOTEL, RATHKEALE, CO. LIMERICK ON**
@@ -84,7 +85,9 @@ requested a representative from the Environmental Protection Agency would attend
 December Municipal District meeting to discuss the water quality issues and lack of a
 
 proper sewerage system in Askeaton. Councillor Teskey requested an update on the
----
+
+[[PAGE_END:1]]
+
 2
 
 discussion that took place at the October Municipal District meeting whereby it was
@@ -150,7 +153,9 @@ dated 9th November, 2021 outlining details of proposed works, projects and futur
 projects planned for the District.
 
 Following discussion the following issues were raised by Members:
----
+
+[[PAGE_END:2]]
+
 3
 
  A number of footpath upgrades were requested for the following areas:
@@ -224,7 +229,9 @@ speed count would be carried out in the vicinity of Pallaskenry National School 
 if traffic calming was required in the area and added that the Safe Routes to School
 
 programme was a means of activating funding for these type of works.
----
+
+[[PAGE_END:3]]
+
 4
 
 **5.**
@@ -294,7 +301,9 @@ produced for Adare be compiled for Askeaton given 2023 will be the 500th anniver
 the Treaty of Askeaton. He also requested costing figures for the Adare logo for the
 
 December District Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Reply:**
@@ -354,4 +363,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

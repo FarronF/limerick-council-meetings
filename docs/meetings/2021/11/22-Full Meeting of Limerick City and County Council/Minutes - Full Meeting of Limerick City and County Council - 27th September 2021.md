@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-i-minutes-council-meeting-27.09.2021.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 27th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-i-minutes-council-meeting-27.09.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -84,7 +85,9 @@ by the Municipal District of Adare-Rathkeale did not appear on the agenda. The M
 confirmed that the Motion had been removed following receipt of legal advice, which was
 
 subsequently circulated to the Municipal District Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -164,7 +167,9 @@ Disposal of Land
 Circulated, copy of Statutory Notice dated 29th July, 2021, concerning disposal of land
 
 at Ballywilliam, Rathkeale, Co. Limerick.
----
+
+[[PAGE_END:2]]
+
 3
 
 Proposed by Councillor Collins (M);
@@ -246,7 +251,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheehan (C);
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -330,7 +337,9 @@ property at 56, Delmege Park, Moyross, Limerick, to Mr. James Daly, in exchange 
 Delmege Park, Moyross, Limerick, particulars of which were contained in Statutory Notice
 
 dated 2nd September, 2021.”
----
+
+[[PAGE_END:4]]
+
 5
 
 (h)
@@ -412,7 +421,9 @@ Moneymohill, Ballyhahill, Co. Limerick (V94WK4W), to Mr. Leon Fitzpatrick, for t
 €37,000, particulars of which were contained in Statutory Notice dated 14th September,
 
 2021.”
----
+
+[[PAGE_END:5]]
+
 6
 
 (k)
@@ -490,7 +501,9 @@ be by way of Lease Agreement for a period of three years and subject to the cove
 conditions contained therein, particulars of which were contained in Statutory Notice dated
 
 16th September, 2021.”
----
+
+[[PAGE_END:6]]
+
 7
 
 Members discussed the process in relation to the disposal of properties and sought
@@ -572,7 +585,9 @@ Circulated, report of the Senior Executive Officer, Corporate Services, Governan
 Customer Services dated 13th September, 2021, seeking retrospective approval to a
 
 visit by the Mayor of the City and County of Limerick to Huy and Landen, Belgium, from
----
+
+[[PAGE_END:7]]
+
 8
 
 19th to 21st July, 2021, to attend a Presentation of the ‘Sarsfield Homecoming Project’
@@ -652,7 +667,9 @@ Policy Committee dated 9th September, 2021, in relation to Meeting of the Commit
 held on 8th July, 2021.
 
 The Report was noted by the Council.
----
+
+[[PAGE_END:8]]
+
 9
 
 (iv)
@@ -734,7 +751,9 @@ Circulated, report of the Arts Officer dated 14th September, 2021, seeking the C
 approval to recommended allocations under Limerick City and County Council Festivals and
 
 Events Grant Scheme 2021/2022.
----
+
+[[PAGE_END:9]]
+
 10
 
 Proposed by Councillor O’Hanlon;
@@ -808,7 +827,9 @@ the approval of the Council be and is hereby given to the grant of a Civic Recep
 the Limerick Senior Hurlers in recognition of their achievement in winning the 2021 All-Ireland
 
 Senior Hurling Championship.”
----
+
+[[PAGE_END:10]]
+
 11
 
 6.
@@ -884,7 +905,9 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 Meeting / Event.
 
 The reports were noted by the Council.
----
+
+[[PAGE_END:11]]
+
 12
 
 **Irish Water**
@@ -960,7 +983,9 @@ QUESTIONS
 Replies to the following Questions on the agenda were circulated to all Members prior
 
 to the Meeting and the Questions were therefore considered as having been dealt with:
----
+
+[[PAGE_END:12]]
+
 13
 
 8.
@@ -1046,7 +1071,9 @@ The presence of the algal bloom was also discussed with Waterways Ireland. It
 is expected that the algae will dissipate as the temperature drops over the next
 
 number of weeks.
----
+
+[[PAGE_END:13]]
+
 14
 
 The Council is commencing discussions with Waterways Ireland regarding the
@@ -1128,7 +1155,9 @@ Sheahan, A. Teskey)
 **central government to change the current protocol on the grass-cutting process, in the**
 
 **interests of safety.**
----
+
+[[PAGE_END:14]]
+
 15
 
 In proposing the Motion, Councillor Keary referred to the grass-cutting process and,
@@ -1204,7 +1233,9 @@ Notice of Motion submitted by Councillor E. Secas
 **Health Service for their risk, sacrifice and exceptional efforts during the COVID-19 crisis.**
 
 This Motion was adjourned to the November Meeting of the Council.
----
+
+[[PAGE_END:15]]
+
 16
 
 15.
@@ -1266,4 +1297,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:16]]
+

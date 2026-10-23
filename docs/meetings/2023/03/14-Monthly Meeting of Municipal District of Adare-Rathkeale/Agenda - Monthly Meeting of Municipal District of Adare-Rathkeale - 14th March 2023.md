@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
-& Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
-no i ~ See _——— Aras Séan Finn,
+__—_—_—_ S Contec ladweieh Comhuirle Cathrach agus Contse ra
+AEN = ‘ —_ Line Nua,
+= Limerick City Rath Caola,
 
-— Limerick City ire Nas
-& County Council Co. aigh
+= & County Council Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Umerick City and County Council,
-Aras Sean Firm,
+Aras Sean Pir,
 
 New Line,
 
@@ -42,7 +43,7 @@ Co. Limerick.
 BIRCODE V94 HKIV
 
 h
-9"" March, 2023. t: 4353 (0) 69 64047
+9" March, 2023. t: 4353 (0) 69 64047
 f; +353 (0) 69 63188
 
 To: M he M
@@ -57,14 +58,13 @@ Is mise le meas,
 
 AGENDA
 
-a. Minutes
+ai. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
 on 14" February, 2023.
 (Copy Enclosed).
 
 2. Roads, Traffic & Cleansing
-
 Schedule of Municipal District Works for the Adare-Rathkeale District
 
 To consider the Draft Schedule of Municipal District Works for the Adare-Rathkeale
@@ -72,13 +72,15 @@ To consider the Draft Schedule of Municipal District Works for the Adare-Rathkea
 District for 2022.
 (Report Enclosed).
 customerservices@limerick ice
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach . © Worm imerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach I . © Worm imerickie
 
-Corporate Headquarters, Merchants Quay, Limerick. 1 @LimerickCouncil
-€ 061 - $56 000
+Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
+& 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -102,4 +104,6 @@ To review position in relation to allocations under the General Municipal Alloca
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

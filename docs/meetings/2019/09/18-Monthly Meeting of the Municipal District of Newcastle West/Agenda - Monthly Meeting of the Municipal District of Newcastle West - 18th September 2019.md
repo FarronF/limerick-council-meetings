@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%202019-09-18%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 18th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%202019-09-18%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach rere — sens parler
-7 Comhairle Cattwach warring)
-~ & Contae Luimnigh Avas William Smith O'Brien,
+_ Comhairle Cathrach reese — scenes pple
+‘4 Comhairle Cattwach arrireg)
+~ & Contae Luimnigh Acas William Smith O'Brien,
 oN ; Gorthui,
-——= Limerick City An Caisledn Nua Thier,
+— Limerick City An Caisledin Nua Thier,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
-Limerick City and County Counall
-Aras Wiliam Smith O'Brien,
+Limerick City and County Counal,
+Aras Wittiam Smith O'Brien,
 Gartboy,
 
 13 September, 2019 Eircode: V42EH73
@@ -49,7 +50,7 @@ AGENDA
 
 1. Minutes
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 3
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 3°
 July, 2019.
 (Copy Enclosed)
 2. Disposal of Land
@@ -61,20 +62,21 @@ Commons, Tournafulla, Co. Limerick, to Mary Kiely.
 Dromcollogher, Co. Limerick, to Abbey Moulding Contractors Limited.
 
 (Reports Enclosed)
-3. Service Operations Directorate
 
 To consider and approve the Speed Limit Bye-Laws for National and Non-National
 
 Roads.
 (Report Enclosed)
 =
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach www limerickie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach veww hme4nick. ie
 Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -102,7 +104,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 QUESTIONS
 
-Questions submitted by Councillor L._ Galvin
+Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting for an update on the following: (a) traffic management
 plan for Collins Park, Abbeyfeale (b) progress on Wards Cross junction (c) progress on
@@ -111,7 +113,7 @@ Devon Cross junction.
 | will ask at the next Meeting for an update on the issues raised by the Cryle View
 Residents Association at a recent meeting of the District.
 
-Question mdsretted by Councillor L Scant
+Question mdetted by Councillor L Scant
 
 I will ask at the next Meeting when action is likely to be taken to address the potential
 environmental damage from residual asbestos (a) the former night club near Aldi at
@@ -119,7 +121,9 @@ Church Street, Newcastle West and (b) the now derelict poultry and dairy plant a
 Castlemahon Village.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -137,7 +141,7 @@ there are some big potholes in front of the funeral home.
 
 Questions submitted by Councillor T. Ruddle
 
-! will ask at the next Meeting (a) when are the Council doing the drainage works at
+t will ask at the next Meeting (a) when are the Council doing the drainage works at
 Kilready, Castlemahon (b) can the ground be risen at Kilready so that residents can
 access their properties without scrapping the bottom of their cars as the kerb height
 is high.
@@ -164,4 +168,6 @@ I will move at the next Meeting that the water supply be upgraded at Old Mill/Ba
 Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+

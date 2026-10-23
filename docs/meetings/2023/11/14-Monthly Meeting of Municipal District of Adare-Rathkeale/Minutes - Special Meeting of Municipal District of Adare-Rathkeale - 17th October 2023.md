@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-b-Minutes-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare-Rathkeale - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-b-Minutes-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK**
@@ -110,7 +111,9 @@ Special Projects – LPT
 **General Municipal Allocation**
 
 **270,000**
----
+
+[[PAGE_END:1]]
+
 Following discussion, the following was agreed:
 
 Proposed by Councillor Teskey;
@@ -138,4 +141,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/00%20Agenda%2014th%20May%2C%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/00%20Agenda%2014th%20May%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh,
 
-AD Ll» Aras Séan Finn,
+Am Ll ~ Aras Séan Finn,
 
-——=_—sLimerick City rele;
+——= —s Limerick City rele;
 Rath Caola,
 & County Council Co. Luinragh.
 
-Adare-Rathkeale Municipal Diszict.
+Adare-Rathkeale Municipal District,
 Limerick City and County Council
 Aras Sean Finn.
 
@@ -42,8 +43,8 @@ Co. Limerick.
 
 EIRCODE V94 HKIV
 
-t: +353 (0) 69 64047
-7 May, 2019. £: +353 (0) 69 63188
+t +353 (0) 69 64047
+7 May, 2019. f: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 Rathkeale
@@ -52,12 +53,12 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 14°" May, 2019 at 9.00 a.m.
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 14°* May, 2019 at 9.00 a.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Kar tr,
+Kar r,
 Meetings Administrator.
 
 AGENDA
@@ -70,44 +71,48 @@ To adopt Minutes of the following Meetings:
 (c) Special Meeting of the Municipal District of Adare-Rathkeale held on 12 April, 2019.
 
 (Copies Enclosed)
-alesis
-Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach l www.limerickie
+tails
+Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach I www.timerickie
 Corporate Headquarters, Merchants Quay, Limerick. WY @limerickCouncit
 
-( 061 - 556 000
+{ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Design and Delivery Services
 
-Ki vil ic Ho
+Ki Vil icHo
 To receive an update on the path from Kildimo Village to the Beer Garden Public House.
 (Copy Enclosed)
 n n i
+
 Drainage Issues in Courtmatrix
+
 To note update on drainage issues at Courtmatrix.
 (Copy Enclosed)
 Flooding Issues in Askeaton
+
 To note update on proposals to address the flooding issues in Askeaton.
+
 (Copy Enclosed)
 Flooding Issues in Foynes
 To note update on flooding issues in Foynes.
+
 (Copy Enclosed)
-
 Sli na Slainte, Askeaton
-
 To note update on the Sli na Slainte in Askeaton.
 
 (Copy Enclosed)
-
 Marine Cove, Foynes
-
 To receive an update on Marine Cove, Foynes.
+
 (Copy Enclosed)
 
-i I nt Dir ate
+i I nt Dir: ate
 Development Fund Allocation 2019
 
 To note Development Fund allocations 2019.
@@ -115,7 +120,9 @@ To note Development Fund allocations 2019.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -144,8 +151,8 @@ employment for general operatives 2019.
 
 NOTICE OF MOTION
 
-f Mi ibm K,
-I will move at the next Meeting that this Committee call on the people of Adare-
+f Mi ibm K.
+| will move at the next Meeting that this Committee call on the people of Adare-
 
 Rathkeale Municipal District to vote no in the forthcoming plebiscites for a directly-
 elected mayor.
@@ -153,4 +160,6 @@ elected mayor.
 AOB
 
 
----
+
+[[PAGE_END:3]]
+

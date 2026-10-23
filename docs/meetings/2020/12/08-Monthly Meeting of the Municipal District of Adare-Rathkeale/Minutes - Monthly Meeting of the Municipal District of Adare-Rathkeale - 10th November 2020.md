@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-minutes-of-monthly-meeting-10th-november-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-minutes-of-monthly-meeting-10th-november-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK ON TUESDAY,**
@@ -84,7 +85,9 @@ and proposed the Chairman of the Adare Rathkeale Municipal District liaise with 
 Mayor to commemorate this event. This proposal was seconded by Councillor Sheahan
 
 and agreed.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Sheahan proposed a representative of Irish Water be in attendance for the
@@ -154,7 +157,9 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 dated 10th November, 2020 outlining details of works, projects and future projects
 
 planned for the District.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following discussion the following issues were raised by Members:
@@ -228,7 +233,9 @@ The Senior Executive Engineer advised that lands and funding have been provided 
 the walkway/eco park and works should proceed for this aspect of the project at the
 
 present time. Members were in agreement these works should commence, however,
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor O’Brien noted that the Special Meeting should also go ahead as he wanted
@@ -292,7 +299,9 @@ GMA funding available.
 On the proposal of Councillor Sheahan, seconded by Councillor Teskey, it was agreed to
 
 allocate €2,000 for Christmas Crib in the Adare-Rathkeale Municipal District Office.
----
+
+[[PAGE_END:4]]
+
 5
 
 **QUESTIONS**
@@ -358,7 +367,9 @@ Proposed by Councillor Collins;
 Seconded by Councillor Teskey;
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 6
 
 “To amend Standing Orders to allow for remote meetings in light of Local Government
@@ -390,4 +401,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

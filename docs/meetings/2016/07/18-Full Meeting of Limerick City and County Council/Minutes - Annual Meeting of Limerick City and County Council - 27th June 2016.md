@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20June%202016.pdf)
+**Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 27th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -98,7 +99,9 @@ The outgoing Mayor, Councillor Galvin, opened the Meeting by giving the followin
 **have supported the 1916 Commemoration Programme, and participated in**
 
 **initiatives such as Team Limerick Cleanup, Pride of Place and Tidy Towns.** **It**
----
+
+[[PAGE_END:1]]
+
 2
 
 **was great to see that Limerick City and County Council continued to support and**
@@ -192,7 +195,9 @@ The outgoing Mayor, Councillor Galvin, opened the Meeting by giving the followin
 **Representatives for the courtesy and support they have shown me in the last**
 
 **year.**
----
+
+[[PAGE_END:2]]
+
 3
 
 **I also want to thank the Chief Executive, Conn Murray, and his Management**
@@ -256,7 +261,9 @@ Hourigan, Hurley, Keary, Leddin, Lynch, Mitchell, O’Brien, O’Dea, O’Donnel
 O’Hanlon, Pond, Ryan, Scanlan, Secas, Sheahan (J), Sheahan (K), Sheahan (M), Teefy, Teskey.
 
 (29**)**
----
+
+[[PAGE_END:3]]
+
 4
 
 For Councillor Sheehy
@@ -330,7 +337,9 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 ***world have been accomplished by people who have kept on trying when there***
 
 ***seemed to be no hope at all. ‘***
----
+
+[[PAGE_END:4]]
+
 5
 
 **We needed leadership and we were lucky to have it in abundance. We have**
@@ -426,7 +435,9 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 **equally determined to ensure the spread of this remarkable recovery in**
 
 **Limerick is felt in every corner of our proud County. In addition to being on the**
----
+
+[[PAGE_END:5]]
+
 6
 
 **Board of Shannon Foynes Port Company, I worked in West Limerick for 30**
@@ -526,7 +537,9 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 **twinning arrangement with Boston in the US. I intend to lead a delegation with**
 
 **fellow Councillors on behalf of the local authority that will also include**
----
+
+[[PAGE_END:6]]
+
 7
 
 **representatives of Limerick Chamber, Third Level stakeholders and An Garda**
@@ -620,7 +633,9 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 **even further down the road to becoming a major driver of regional and national**
 
 **economic prosperity.”**
----
+
+[[PAGE_END:7]]
+
 8
 
 2.
@@ -672,7 +687,9 @@ Councillors Browne, Costelloe, McCreesh, Cmhlr. Ó Ceallaigh, Sheehy. (5)
 For Councillor Keller
 
 Councillors Keller, Loftus, Prendiville. (3)
----
+
+[[PAGE_END:8]]
+
 9
 
 The Mayor declared Councillor Gleeson elected as Deputy Mayor of the City and County of
@@ -744,7 +761,9 @@ and County, Councillor Mitchell.
 In conclusion, he thanked the outgoing Mayor and Deputy Mayor and Cathaoirligh and Leas-
 
 Chathaoirligh for the work in their respective Metropolitan and Municipal Districts.
----
+
+[[PAGE_END:9]]
+
 10
 
 3.
@@ -792,4 +811,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:10]]
+

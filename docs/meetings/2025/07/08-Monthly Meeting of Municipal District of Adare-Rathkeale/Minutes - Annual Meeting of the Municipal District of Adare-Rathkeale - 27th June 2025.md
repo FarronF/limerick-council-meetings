@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-draft-minutes-of-annual-meeting-27th-june-2025_0.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 27th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-draft-minutes-of-annual-meeting-27th-june-2025_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -88,7 +89,9 @@ Seconded by Councillor Collins;
 Adare-Rathkeale to hold office until the next Annual Meeting or until a successor has
 
 been appointed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor O’Donoghue thanked the outgoing Cathaoirleach for his help throughout the
@@ -158,4 +161,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

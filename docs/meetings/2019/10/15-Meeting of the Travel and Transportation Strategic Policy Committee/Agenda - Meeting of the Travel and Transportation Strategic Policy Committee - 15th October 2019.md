@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%2015.10.19%20-%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.docx.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%2015.10.19%20-%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.docx.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_ Comhairle Cathrach
+_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-NY a
+NY Aa
 — Limerick City
 & County Council
 10” October 2019
@@ -35,23 +36,25 @@ You are invited to attend a Meeting of the Travel and Transportation Strategic P
 Committee to be held in the Council Chamber, Merchant’s Quay, Limerick, on Tuesday 15"
 October at 3:00 p.m. The business to be transacted is set out in the appended agenda.
 
-DO ene
+Oe en
 
 CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
-es a "
-D ‘OR OF SER a
+es xq "
+D ‘OR OF SER :
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1.
 
 Agenda
 
-hi: itan Area Trans) Strat LSMATS) -
+hi itan Area Trans: Strat LSMATS) -
 
 recht, Netherlands looking a ling | -
 
@@ -59,4 +62,6 @@ recht, Netherlands looking a ling | -
 10% of its Transport budget to cycling”.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-special-meeting-of-limerick-city-and-county-council-10th-february-2026.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-special-meeting-of-limerick-city-and-county-council-10th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach Seirbhisi Corparaideacha, Rialachais & Custaiméara
-Comhairle Cathrach & Contac Luimnigh
-& Contae Luimnigh acbaerlesth dy S
+_—_ Comhairle Cathrach Seirbhisi Corparaideacha, Rialachais & Custaiméara
+Comhairle Cathrach & Contac Luimngh
+& Contae Luimnigh Harber “4
 
 Am f™ ee Cé na gCeannaithe
 
-Limerick City _ Luimneach, V94 EH90
+Limerick City _ Luimneach, V94 E90
 = & County Council
 Corporate. Governance & Customer Services
 Limerick City and County Council
@@ -57,10 +58,12 @@ To consider the Corporate Plan (deferred from January Meeting of Limerick City a
 Council).
 (Report Enclosed)
 = limerick.te
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach wow. limerick.te
-Corporate Headquarters, Merchant's Quay, Limerick YW @LimerickCouncil
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www. limerick.te
+Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

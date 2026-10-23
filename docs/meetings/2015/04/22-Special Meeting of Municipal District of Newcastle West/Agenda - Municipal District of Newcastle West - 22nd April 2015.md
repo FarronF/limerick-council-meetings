@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_22nd_april_2015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 22nd April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_22nd_april_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ae
 
-aAr™ —,
+aAr™ —_
 —=_
 Limerick
 
@@ -71,9 +72,9 @@ Meetings Administrator.
 
 To receive Deputations from the following:
 
-« Newcastle West Community Council.
+¢ Newcastle West Community Council.
 
-ee en nen anew seen n ns teen tee nee e een n nnn see:
+ee ee nn eee nse e enn ne eee nee e meee een nner eae
 
 AGENDA
 
@@ -83,4 +84,6 @@ Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,16 +16,17 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-municipal-district-of-newcastle-west-3rd-september-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 3rd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-municipal-district-of-newcastle-west-3rd-september-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
 
-co. LIMERICK, AND ONLINE ON WEDNESDAY, 3”°
+co. LIMERICK, AND ONLINE ON WEDNESDAY, 3"
 SEPTEMBER, 2025, AT 10AM.
 
 PRESENT IN THE CHAIR: Councillor M. Collins, Cathaoirleach.
@@ -64,7 +65,9 @@ Transport Strategy on the passing of his father, Mr. Brendan McGrath.
 West, held on 2™ July, 2025.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Galvin referred to the Minutes of the Monthly Meeting of 2 July, 2025, in relation
@@ -113,7 +116,9 @@ She also referred to a drainage zone, parking zone and linkage from the Cemetery
 Greenway.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer made reference to the next steps in the Plan which include a
@@ -150,13 +155,13 @@ The Cathaoirleach welcomed Ms. Marcella Conneely and Ms. Catherine Coakley, Clui
 Housing, to the Meeting.
 
 Ms. Conneely gave an overview of the property portfolio in the District. She stated that 1,525
-new homes were delivered by Cluid Housing in 2024 and that as of 31 December, 2024,
+new homes were delivered by Cluid Housing in 2024 and that as of 31* December, 2024,
 12,836 homes were in management with a total of 31,988 residents. She stated that Cluid
 Housing currently own 140 homes in Limerick City and County, with 39 homes in Newcastle
 West and gave an update to the Members on the locations and current status of housing in
 Newcastle West.
 
-She outlined to the Members the role Cluid Housing has in Tenancy Management, Estate
+She outlined to the Members the role Cldid Housing has in Tenancy Management, Estate
 Management, Lettings and empty homes, regular and holistic estate inspections, customer
 contact and the anti-social behaviour policy and procedures.
 
@@ -167,7 +172,9 @@ to report anti-social behaviour to Cluid Housing, play facilities for children, 
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 older people in housing estates and the manner in which vacant houses are dealt with in
@@ -219,7 +226,9 @@ advanced with a view to opening before Christmas 2025 and that discussions would
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 to take place with Transport Infrastructure Ireland, the Mayor and the Minister with regard
@@ -267,7 +276,9 @@ Meeting and the Questions were therefore taken as having been dealt with.
 Mountcollins (b) is this road on a roads programme.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: The High Road at Mountcollins is currently not on the Roads Programme for
@@ -283,7 +294,7 @@ improve traffic safety.
 
 12. t itted b
 
-| will ask at the next Meeting for a detailed update on the Abbeyfeale Traffic
+I will ask at the next Meeting for a detailed update on the Abbeyfeale Traffic
 Management Plan costings - start dates, detailed outline of works and importance of
 opening the carpark.
 
@@ -314,10 +325,12 @@ propose to proceed to complete the detailed design for this area as the second p
 delivered.
 
 It is most likely that any further works will require additional funding applications such as
-RRODF.
+RRDF.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 We would hope to be in a position to tender the initial project at O’Riordan’s link/car park
@@ -369,7 +382,9 @@ Officer and four Community Sustainment Officers and each of these Officers have
 responsibility for specific areas within the Metropolitan and Municipal Districts of the Council.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Community Sustainment Unit is comprised of three main strands: (i) Estate Support (ii)
@@ -420,7 +435,9 @@ bridges and to improve conveyance of rivers and streams and to clear silt, grave
 from the river bed.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17. Question submitted by Councillor J. Sheahan
@@ -441,7 +458,7 @@ to be Q3 2027.
 
 18. Question submitted by Councillor J. Sheahan
 
-| will ask at the next Meeting for the survey report on the bridge at the Old Castle in Glin
+I will ask at the next Meeting for the survey report on the bridge at the Old Castle in Glin
 which should include recommendations if any.
 
 REPLY:
@@ -467,7 +484,9 @@ of Motion at Item 19 and Item 20 on the Agenda would be deferred to the October 
 of the Municipal District of Newcastle West.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21. Notice of Motion submitted by Councillor L. Galvin
@@ -493,7 +512,7 @@ Transport Infrastructure Ireland on site to discuss this matter.
 
 22. Notice of Motion submitted by Councillor L. Galvin
 
-I will move at the next Meeting that the shortfall of monies to commence and complete the
+| will move at the next Meeting that the shortfall of monies to commence and complete the
 Abbeyfeale Traffic Management Plan be taken from development levies collected.
 
 The Motion was seconded by Councillor Collins.
@@ -501,7 +520,7 @@ REPLY:
 
 There is a very significant shortfall in funding for the Abbeyfeale Traffic Management Plan as
 currently envisaged. There is a funding commitment of €14m from funders Limerick City &
-County Council, NTA and TIl.
+County Council, NTA and TI.
 
 The total scheme costs are estimated in the region of €26million indicating a shortfall in the
 region of €12million.
@@ -516,11 +535,13 @@ other funding opportunities.
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The development levy’s collected countywide are in the region of €3million per annum and
-allocated across projects across the County. The levy’'s collected are not sufficient to allocate
+allocated across projects across the County. The levy’s collected are not sufficient to allocate
 to fund such a significant shortfall on a capital project.
 
 We will continue to explore further funding opportunities to progress the overall scheme
@@ -547,9 +568,9 @@ In proposing the Motion, Councillor Scanlan requested that residents parking per
 be made uniform throughout Limerick and that the charge in Newcastle West be aligned with
 the city.
 
-24. Notice of Motion submitted by Councillor J. Scanlan
+24. Notice of Motion submitted by Councillor J. Scanian
 
-1 will move at the next Meeting that we call on Uisce fireann to have a senior representative
+1 will move at the next Meeting that we call on Uisce Fireann to have a senior representative
 attend our next Meeting to brief Members on the likely timeframe for the upgrade of our
 County Towns Wastewater Treatment Plant.
 
@@ -568,7 +589,9 @@ Newcastle West Wastewater Treatment Plant.
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Uisce Eireann can confirm that the Newcastle West Wastewater Treatment Plant project is
@@ -621,7 +644,9 @@ The car parking will remain as per design, constructed and per approved Road Saf
 12
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Councillor Sheahan referred to traffic calming works which were
@@ -654,7 +679,7 @@ buildings will also be demolished. It was agreed that the Acting Senior Executiv
 Municipal Districts would seek a further update on this matter.
 
 The Members acknowledged the excellent work and assistance which was carried out by all
-in response to the flooding which took place in Dromcollogher on the 20" July, 2025. A
+in response to the flooding which took place in Dromcollogher on the 20° July, 2025. A
 discussion took place on a number of matters including the work which has been carried out
 to remedy the problem, responsibility of the Office of Public Works, current status on the
 provision of humanitarian aid and an area to be designated an area for humanitarian aid in
@@ -673,7 +698,9 @@ Executive Officer stated that the Community Health Officer has made contact with
 13
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 households affected by the flooding in Dromcollogher and she agreed to follow up on the
@@ -713,4 +740,6 @@ Dated:
 
 
 
----
+
+[[PAGE_END:14]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/minutes-of-travel-transportation-spc-meeting-held-on-19th-oct-2021.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 19th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/minutes-of-travel-transportation-spc-meeting-held-on-19th-oct-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Draft Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -64,7 +65,9 @@ as it will provide funding certainty and is fundamental to the Limerick Developm
 2028.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 1: LSMATS Update**
@@ -138,7 +141,9 @@ momentum behind Active Travel and all schemes will be complementary to LSMATS. H
 examples of schemes such as the recently opened Castletroy Urban Greenway, and the fully
 
 segregated cycleways on Dooradoyle Road and at Groody Road. He added that Part VIII planning
----
+
+[[PAGE_END:2]]
+
 3
 
 has been secured for Mill Road, Corbally and Part VIII planning should be secured soon for the
@@ -206,7 +211,9 @@ engage with private landowners. She also asked if users with reduced mobility ca
 for and if e-bikes would be included in the scheme. She agrees that competition is good and
 
 needs to be done in conjunction with the Council’s Park and Ride.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr. Butler added that there is a great need to have bike access for the UL campus to city centre
@@ -282,7 +289,9 @@ of Transport, the NTA and TII. He advised that TII are taking over the role as a
 for the development of Greenway schemes from the DoT and will be managed through the Mid-
 
 West National Road Design Office (NWMRDO) and there will be a requirement to comply with TII
----
+
+[[PAGE_END:4]]
+
 5
 
 guidelines and spending codes. Some of the Greenway schemes include the Rathkeale to City
@@ -348,7 +357,9 @@ City Greenway, and asked about the timeline for this scheme. Mr. Kennedy advised
 projects will be subject to a process involving an Environmental Impact Assessment (EIA) and An
 
 Bord Pleanála approval and all schemes have the potential to be referred for judicial review.
----
+
+[[PAGE_END:5]]
+
 6
 
 **Item 5: Notice of Motion submitted by Cllr. S. Hartigan (referred from Metro** **Meeting)**
@@ -410,4 +421,6 @@ The Chair added that there is value in the Notice of Motion and thanked all for 
 confirmed that the next Meeting is scheduled for Tuesday, 14th December, 2021.
 
 The Meeting then concluded.
----
+
+[[PAGE_END:6]]
+

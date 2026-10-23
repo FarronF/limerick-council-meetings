@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/10th%20Dec%202018%20-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Agenda - Meeting of the Environment Strategic Policy Committee - 10th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/10th%20Dec%202018%20-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_——_ Comhairle Cathrach
 & Contae Luimnigh
-nAr™ _—_—
-—. Limerick City
+nAr™ —
+— Limerick City
 
 & County Council
 
@@ -44,7 +45,9 @@ CHAIRPERSON OF THE ENVIRONMENT STRATEGIC POLICY COMMITTEE
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
@@ -82,4 +85,6 @@ leaks in Islanduane, Mungret.”
 the city for recycling plastic bottles.”
 
 
----
+
+[[PAGE_END:2]]
+

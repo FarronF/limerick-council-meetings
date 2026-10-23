@@ -16,17 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Municipal-District-of-Newcastle-West-1st-November-2023_0.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 1st November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Municipal-District-of-Newcastle-West-1st-November-2023_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Comhairle Cathrach
 & Contae Luimnigh
-a i aaa
 
-— Limerick City
+Amn f*™
+
+—> Limerick City
 & County Council
+
+27" October, 2023
 
 Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathwach agus Contae Luimnigh,
@@ -39,7 +43,7 @@ An Caislean Nua Thiar,
 Co. Luimnigh.
 
 Newcastle West Municipal District,
-Limenck City and County Council,
+Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
@@ -48,25 +52,27 @@ Newcastle West,
 Co. Limerick.
 
 Eircode: V42EH73
-27" October, 2023 t: +353 (0) 69 62100
+
+t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
-A Chomhairleoir, a chara,
-You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
+A Chombhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 1% November,
 2023, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-uppIe,
+UppIe,
 Meetings Administrator.
 
 AGENDA
 
 1. Support Services Directorate
 
-Draft Budgetary Plan 2024 —- General Municipal Allocation
+Draft Budgetary Plan 2024 - General Municipal Allocation
 
 To consider and adopt the Draft Budgetary Plan 2024 — General Municipal Allocation for the
 Municipal District of Newcastle West.
@@ -80,7 +86,9 @@ October, 2023.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 utation
@@ -118,7 +126,9 @@ To review position in relation to allocations under the General Municipal Alloca
 2023.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -171,7 +181,7 @@ leaving Castletown for the R521.
 | will ask at the next Meeting that a clean-up be organised for Sharwood Estate,
 Newcastle West, locally.
 
-estion sul ed by Cou F. Fole’
+estion sui ed by Cou F. Fole’
 ! will ask at the next Meeting can repairs be carried out to the footbridge in Athea.
 
 NOTICES OF MOTION
@@ -184,7 +194,9 @@ Luachra, Abbeyfeale, (c) Radharc Na Féile, Abbeyeale, (d) Hill View Drive,
 Abbeyfeale.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -203,7 +215,7 @@ the Government do likewise.
 
 Notice of Motion submitted by Councillor F. Foley
 
-| will move at the next Meeting that traffic calming measures be put in place on St Ita's
+| will move at the next Meeting that traffic calming measures be put in place on St Ita’s
 Road, Abbeyfeale.
 
 Notices of Motion submitted by Councillor M. Collins
@@ -231,4 +243,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

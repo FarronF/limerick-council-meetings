@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-monthly-meeting-of-the-metropolitan-district-18th-october-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 18th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-monthly-meeting-of-the-metropolitan-district-18th-october-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach Selrbhis{ Corparsideacha
-2 : Comhairle Cathrach agus Contae Lutmnigh,
-"”™ & Contae Luimnigh Ceanncheathrii Chorparaideach,
-ars : p Cé na gCeannaithe,
-=— Limerick City Luimneach
+_—_—_ Comhairle Cathrach Selrbhis{ Corparsideacha
+Py : Comhairle Cathrach agus Contae Lutmnigh,
+—_ & Contae Luimnigh Ceanncheathrui Chorparaideach,
+Ars . . p Cé na gCeannaithe,
+— Limerick City Luimneach
 
 & County Council
 Corporate Services,
@@ -45,7 +46,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
 
-Monday, 18” October, 2021 at 9.45 am in the Council Chamber, Dooradoyle and Online.
+Monday, 18™ October, 2021 at 9.45 am in the Council Chamber, Dooradoyle and Online.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -67,14 +68,16 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - $7150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Special Meeting of the Metropolitan District of Limerick held on 17" September, 2021.
-(b) Monthly Meeting of the Metropolitan District of Limerick held on 20" September, 2021.
+(b) Monthly Meeting of the Metropolitan District of Limerick held on 20'" September, 2021.
 
 (Copies Enclosed).
 3. Disposal of Land
@@ -109,7 +112,9 @@ letting.
 City and County Council residential properties currently listed for sale or disposal.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor C. Sheehan
@@ -155,7 +160,9 @@ study for footpaths along the Rossbrien Road.
 the Old Garda Barracks in Lord Edward Street.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor J. Costelloe
@@ -173,7 +180,7 @@ expected to be carried out in the Metropolitan area once the Covid rules permit 
 16. Question submitted by Councillor E. Secas
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council have received a
-response from the TI on the final cost benefit assessment report concerning the M7 Noise and if
+response from the TIl on the final cost benefit assessment report concerning the M7 Noise and if
 there is an update on this matter.
 
 17. Question submitted by Councillor E. Secas
@@ -200,7 +207,9 @@ surgeons in the Limerick City West area to the tune of 50,000 euro. | hope this 
 in the upcoming budget.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21. Question submitted by Councillor O. O’Sullivan
@@ -219,7 +228,7 @@ the Minister for Transport to ask him to introduce an automatic fine along with 
 for anyone caught parking in a cycle lane, in a bus lane, on a corner, in a bus stop, in a clearway or
 obstructing a footpath.
 
-Development Strategic Policy Comealtiaa!
+Development Strateaic Policy Comealtiaa!
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and County
 Council consider hiring a dedicated vacant homes officer to deal with the scourge of empty houses.
@@ -238,7 +247,9 @@ existing staff and student cars to prevent overflow to the surrounding neighbour
 residences and businesses).
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27. Notice of Motion submitted by Councillor S. Hartigan
@@ -277,4 +288,6 @@ bin sponsorship be examined as 2 way to provide revenue for the provision of mor
 and its environs and to support local businesses to be more visible on their respective streets / areas.
 
 
----
+
+[[PAGE_END:6]]
+

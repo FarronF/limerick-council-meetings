@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/01-2025-02-05-minutes-february.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 4th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/01-2025-02-05-minutes-february.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -88,7 +89,9 @@ roads.
 It was agreed that the Meetings Administrator would seek a date for the holding of the Special
 
 Meeting(s) to discuss these matters.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -168,7 +171,9 @@ contract will go to construction in Q3 2025.
 6.
 
 Question submitted by Councillor J. Scanlan
----
+
+[[PAGE_END:2]]
+
 3
 
 ***I will ask at the next Meeting when the footpath extension towards the Community House***
@@ -240,7 +245,9 @@ In proposing the Motion, Councillor Scanlan requested that a premises for a Men�
 Newcastle West be sourced in the interests of wellbeing. He stated that the Day Hospital in
 
 Newcastle West had been vacated by the HSE and if this building could be considered as a
----
+
+[[PAGE_END:3]]
+
 4
 
 suitable location for a Men’s Shed. Councillor Scanlan also made reference to the Parish Hall
@@ -308,6 +315,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+
 5
----
+
+[[PAGE_END:5]]
+

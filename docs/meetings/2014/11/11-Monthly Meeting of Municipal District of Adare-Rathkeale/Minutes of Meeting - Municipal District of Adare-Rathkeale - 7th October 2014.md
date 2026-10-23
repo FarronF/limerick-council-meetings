@@ -16,13 +16,14 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_adare-rathkeale_-_7th_october_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Adare-Rathkeale - 7th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_adare-rathkeale_-_7th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
-OF ADARE-RATHKEALE HELD IN BALLYNEETY GOLF’ CLUB,
+OF ADARE-RATHKEALE HELD IN BALLYNEETY GOLF CLUB,
 BALLYNEETY, CO. LIMERICK, ON TUESDAY, 7™ OCTOBER, 2014, AT 9.30
 
 A.M.
@@ -71,10 +72,12 @@ Members commended the Delegation for its presentation adding that it was a worth
 project.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-3. Environment and Water
+3 Environment and Water
 
 Gortad ndfil
 
@@ -123,7 +126,9 @@ the pre-letting work on houses. Members queried when the next Council Purchase
 Scheme would take place.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Travel and Transportation
@@ -157,7 +162,7 @@ floodgates to prevent floodwaters entering these buildings. Longer term,
 Limerick City & County Council will seek funding from the National Roads
 Authority to increase the capacity of the surface water drainage system.
 
-7. Questions submitted by Councillor C. McMahon
+Te Questions submitted by Councillor C. McMahon
 
 ! will ask at the next Meeting, from a road safety perspective, if letters have been
 sent out to farmers regarding hedge cutting. If so, what is the Council’s procedure
@@ -177,7 +182,9 @@ works specified in the notice itself in any case where the person on whom
 the notice was served fails to comply with it.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -202,7 +209,7 @@ location at the present time.
 
 8. Notice of Motion submitted by Councillor T. Neville
 
-| will move at the next Meeting that the Council erect electronic speed indicators in
+! will move at the next Meeting that the Council erect electronic speed indicators in
 Kilfinny village.
 
 Councillor Neville, in proposing the Motion, stated that electronic speed indicators were a
@@ -223,4 +230,6 @@ in Kilfinny.
 Cathaoirleach
 
 
----
+
+[[PAGE_END:4]]
+

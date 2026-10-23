@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-21st-september-2018.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 21st September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-21st-september-2018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
@@ -27,7 +28,7 @@ FRIDAY, 21* SEPTEMBER, 2018, AT 10.00 A.M.
 
 PRESENT IN THE CHAIR: Councillor Sean Lynch
 
-MEMBERS PRESENT: Councillors Keller, Costelloe, O Ceallaigh,
+MEMBERS PRESENT: Councillors Keller, Costelloe, © Ceallaigh,
 Gilligan, Daly, Keary, Mitchell, O’Donoghue,
 Ryan, O’Brien.
 
@@ -54,7 +55,7 @@ APOLOGIES: Chief Executive (Mr. C. Murray)
 
 1. Adoption of Minutes
 
-Circulated, copy of draft Minutes of Meeting of the Joint Policing Committee held on 13" July
+Circulated, copy of draft Minutes of Meeting of the Joint Policing Committee held on 13 July
 2018.
 
 Proposed by Councillor Mitchell;
@@ -68,7 +69,9 @@ Garda road signs being removed from National Primary Routes. The Chief Superinte
 requested that details of same be forward to Sergeant O'Donoghue for his attention.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ms. McElvaney requested that the names of all the Community Guards and the areas
@@ -116,7 +119,9 @@ vehicles being left unlocked. He informed the Members that the amount of burglar
 decreased over the last few months due to an increase of patrolling and arrest of anumber
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 of offenders. He stated that an anti-burglary strategy had been drawn up for the remainder
@@ -166,7 +171,9 @@ In proposing, the Motion Councillor Keary highlight the controls of selling most
 and services. The Members acknowledged that Traffic Corps were proactive in policing this
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 issues but legislation for same needed to be strengthen. Following further discussion, the
@@ -194,4 +201,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:4]]
+

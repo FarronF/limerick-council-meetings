@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-annual-meeting-15th-june-2020.pdf)
+**Original file:** [Agenda - Annual Meeting of the Metropolitan District of Limerick - 15th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-annual-meeting-15th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+__—_e Comhairle Cathrach
 & Contae Luimnigh
-arm” “i NS —
+ar” y “ NS OO
 
-—>= Limerick City
+—= Limerick City
 & County Council
 
 10° June, 2020.
@@ -35,7 +36,7 @@ Seirbhisi Corparaideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathra Chorparaideach
 
-Cé na gCeannaithe.
+Cé na gCeannaithe
 
 Luimneach
 
@@ -45,7 +46,7 @@ Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V94 EHSO
 
@@ -81,4 +82,6 @@ w @LimerickCouncil
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

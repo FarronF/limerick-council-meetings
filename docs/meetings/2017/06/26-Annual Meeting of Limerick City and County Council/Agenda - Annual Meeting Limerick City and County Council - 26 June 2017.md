@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%20260617.pdf)
+**Original file:** [Agenda - Annual Meeting Limerick City and County Council - 26 June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%20260617.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-oe Seirbhis{ Corpardideacha,
-Comhairle Cathrach ——— Luimnigh,
-Ceanncheatu
+en Seirbhis{ Corpardideacha,
+Comhairle Cathrach —— Luimnigh,
+Ceanncheathu
 
-a.
-ad Chorpardide ach,
+a
+£ Chorpardide ach,
 = Cé na gCeannaithe,
 COMHAIRLE Luynneach
 CATHRACH & CONTAE -
 
 Luimnigh Limerick City aret County Council,
 . . Headquarters,
-Limerick Corpora erchants Ouay
+Limerick Common erchants Ouuy
 CITY & COUNTY Limerick
 
 COUNCIL
@@ -48,7 +49,7 @@ A Chomhairleoir, a chara,
 
 The Annual Meeting of Limerick City and County Council will be held in the Council
 Chamber, Dooradoyle, Limerick, on Monday, 26” june, 2017, at 3.00 p.m. The business to
-be transacted is set out on the appended Agenda.
+be transacted Is set out on the appended Agenda.
 
 Is mise le meas,
 
@@ -57,7 +58,7 @@ Meetings Administrator.
 
 AGENDA
 
-1. Toconsider the election of a Mayor of the City and County of Limerick to hold office
+1. To-consider the election of a Mayor of the City and County of Limerick to hold office
 for the ensuing year or until a successor is elected.
 
 2. To consider the election of a Deputy Mayor of the City and County of Limerick to
@@ -69,9 +70,11 @@ of the Council, as members of the Limerick Market Trustees.
 
 (List of Representatives Enclosed)
 
-oe worulirnerick.ie
-ee reas ee eee w @LimerickCouncit
+oe wor lirnerick.te
+Peer rr one ay rsa ech a w @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+

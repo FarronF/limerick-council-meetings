@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-minutes-of-monthly-meeting-13th-april-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 13th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-minutes-of-monthly-meeting-13th-april-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 13TH** **APRIL, 2021 AT 9:30 A.M.**
@@ -84,7 +85,9 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 dated 13th April, 2021 outlining details of works, projects and future projects planned for
 
 the District.
----
+
+[[PAGE_END:1]]
+
 2
 
 Following discussion the following issues were raised by Members:
@@ -154,7 +157,9 @@ allocate the following:
  €1,000 for Captain Thomas Keane Memorial Cup.
 
  €2,500 for Pallaskenry Scout Troop (2020 Allocation).
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor Teskey, it was
@@ -220,7 +225,9 @@ also advised David Lamont, Rathkeale Community Council requested to be included 
 the Meeting. Members agreed to hold a meeting in committee with Rathkeale
 
 Community Council and An Garda Síochána, followed by the JPC prior to the May
----
+
+[[PAGE_END:3]]
+
 4
 
 Monthly Meeting to be held on the 11th May, 2021. The Meetings Administrator agreed
@@ -282,4 +289,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

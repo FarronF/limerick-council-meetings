@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018%20May%202017.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 18th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018%20May%202017.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN JOHN THE BAPTIST
@@ -86,7 +87,9 @@ Fixing of Date
 It was agreed that the Annual Meeting of the Municipal District of Cappamore-
 
 Kilmallock would take place on Thursday, 15th June, 2017, at 5pm.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -168,7 +171,9 @@ The Executive Planner, Social Development, gave a PowerPoint presentation on the
 Action Plan for Housing and Homelessness. She informed the Members that it was a five-year
 
 plan with five key Pillars, which were as follows:
----
+
+[[PAGE_END:2]]
+
 3
 
 1. Address Homelessness.
@@ -248,7 +253,9 @@ pressure on private rental availability in towns within the District. The Member
 the importance of the supply from Part V developments for a spectrum of applicants on the
 
 housing waiting list.
----
+
+[[PAGE_END:3]]
+
 4
 
 In reply to queries raised by the Members, the Director of Social Development stated
@@ -326,7 +333,9 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 ***improve visibility at the dangerous junction outside the church in Bulgaden and improve road***
 
 ***markings and signage and take precautions to reduce speed on this route.***
----
+
+[[PAGE_END:4]]
+
 5
 
 The Motion was proposed by Councillor Sheehy and seconded by Councillor Donegan.
@@ -402,7 +411,9 @@ Economic Development, and Majella O’Brien, Staff Officer, Economic Development
 invited to the next Meeting).
 
 This concluded the Meeting.
----
+
+[[PAGE_END:5]]
+
 6
 
 Signed:
@@ -414,4 +425,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

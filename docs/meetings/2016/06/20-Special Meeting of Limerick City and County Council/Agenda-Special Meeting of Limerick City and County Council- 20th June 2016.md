@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda-Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council-%2020th%20June%202016.pdf)
+**Original file:** [Agenda-Special Meeting of Limerick City and County Council- 20th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda-Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council-%2020th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-ANF ‘ Cé na gCeannaithe,
+NNT ‘ Cé na gCeannaithe,
 — Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
@@ -66,12 +67,15 @@ of Councillor Maria Byrne to Seanad Eireann.
 
 (Report dated 3 May, 2016, already circulated)
 
-@ customerservices@limerick.le
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach & vewevalimerick.te
+@ customerservices@limerick.te
+
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach oo wewevalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Filling of Vacancies on Strategic Policy Committees and
@@ -105,4 +109,6 @@ Limerick and Clare Education and Training Board.
 Stakeholder Group of Limerick 2020.
 
 
----
+
+[[PAGE_END:2]]
+

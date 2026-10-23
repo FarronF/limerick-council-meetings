@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_11th_december_2014.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 11th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_11th_december_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -49,7 +50,7 @@ Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappam
 Kilmallock held on 27" November, 2014.
 
 Proposed by Councillor Mitchell;
-Seconded by Councillor O'Donnell:
+Seconded by Councillor O’Donnell:
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
@@ -65,7 +66,9 @@ noted that there might be sufficient resources in 2015 to upgrade the existing l
 In the interim where bulbs were being replaced it was with a higher wattage.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Travel and Transportation:
@@ -117,7 +120,9 @@ Championship, and
 ¢ Bruff Hurling Team on winning the Intermediate Hurling Final.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Gleeson, seconded by Councillor Teefy it was agreed
@@ -136,9 +141,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

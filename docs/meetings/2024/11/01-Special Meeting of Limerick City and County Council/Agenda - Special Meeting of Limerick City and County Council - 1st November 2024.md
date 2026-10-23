@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-special-meeting-of-limerick-city-and-county-council-1st-november-2024.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 1st November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-special-meeting-of-limerick-city-and-county-council-1st-november-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A Sezbhisi Corparaideacha,
-a Comhairle Cathrach Combate Cathrach agus Contae Luimnigh,
+ee Comhairle Cathrach Comhaite Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorpardidesch,
 
 Am ~~
@@ -65,14 +66,13 @@ on Frida
 The business to be transacted is set out below.
 
 Is mise le meas, A
-PD fy,
-C ad fe. Le
+2 fy
 Ciara Farrell,
 Meetings Administrator
 AGENDA
 1.
 
-To consider the Director General's Report under Section 37E of the Planning and
+To consider the Director General's Report under Section 37€ of the Planning and
 Development Act 2000 (as amended) on the proposed Strategic Infrastructure
 Development at Knockshanvo, Co. Clare, which includes a temporary transition
 compound in Court, Kildimo, County Limerick.
@@ -85,14 +85,16 @@ To consider the final draft of the Standing Orders for Limerick City and County 
 2024 — 2029 prepared by the Standing Orders Working Group.
 (Report to follow)
 
-m customerservices@limerick.ie
+= customerservices@limerick.ie
 © vevevalimerick.te
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Foreign Travel
@@ -113,4 +115,6 @@ International Passport to the World Festival in Austin, Texas, US.
 To confirm date of Budget Meeting.
 
 
----
+
+[[PAGE_END:2]]
+

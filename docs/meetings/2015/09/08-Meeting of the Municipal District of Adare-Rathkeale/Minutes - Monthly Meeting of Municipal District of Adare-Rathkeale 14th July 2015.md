@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale 14th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -66,7 +67,9 @@ And Resolved:
 Rathkeale held on 9" June, 2015.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Sheahan;
@@ -119,7 +122,9 @@ ability. The delegation then withdrew from the Meeting.
 It was agreed that Item 8 would be taken next.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Environment and Water
@@ -155,7 +160,7 @@ Circulated, report of the A/Director of Travel and Transportation dated 2" July,
 enclosing copy of the Chief Executive's Report dated 1% July, 2015, prepared pursuant to
 Section 179 3(a) of the Planning and Development Act, 2000 — 2014, and Part 8 of the
 Planning and Development Regulations, 2001-2013, in relation to Foynes Flood Alleviation
-Scheme. It was proposed to proceed in accordance with the Chief Executive's Report.
+Scheme. It was proposed to proceed in accordance with the Chief Executive’s Report.
 
 Members welcomed the proposed works and in reply to Members queries, the Senior
 Engineer, Travel and Transportation, indicated that Limerick City and County Council was
@@ -164,7 +169,9 @@ commence during the week. Members requested that when the contract was awarded a
 press release would issue at the same time to inform the public.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -172,7 +179,7 @@ press release would issue at the same time to inform the public.
 5. Economic Development and Planning
 Proposed amendment to the Croom Local Area Plan 2009
 
-Circulated, report of the Chief Executive dated 29” June, 2015 on the proposed
+Circulated, report of the Chief Executive dated 29" June, 2015 on the proposed
 amendment to the Croom Local Area Plan to accommodate the development of a post
 primary school at Skagh, Croom, Co. Limerick and zone the land for education and
 
@@ -181,7 +188,7 @@ community use.
 The Chief Executive’s Report presented the submissions made following publication of the
 proposed amendment to the Croom Local Area Plan (LAP) 2009-2015 (which was
 extended for a further 5 years) and set out the Chief Executive's responses to the issues
-raised. It was noted that the Proposed Amendment was placed on public display from 2
+raised. It was noted that the Proposed Amendment was placed on public display from 2”
 May, 2015 to 15” June, 2015 inclusive and that a total of 9 written submissions were
 received within the statutory timeframe.
 
@@ -222,14 +229,16 @@ Socio-Economic Statement, including High Level Goals, derived from a Socio-Econo
 Analysis of Limerick City and County prepared by Dr. Eileen Humphreys (UL) and
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 s
 
 Bernadette Quinn on behalf of the Local Community Development Committee. Members
 were invited to consider the document and make any observations they had in relation to
-same in writing to Bernadette Quinn before 23 July, 2015.
+same in writing to Bernadette Quinn before 23” July, 2015.
 
 Members were informed that all submissions and observations would be considered by the
 Advisory Steering Group and, where relevant, the Socio-Economic Statement and High
@@ -249,10 +258,10 @@ with attached Draft Polling Scheme and summary list of proposed changes. The Sen
 Executive Officer's Report noted that it was necessary to prepare a new Polling Scheme
 as a result of the changes to the Dail Constituencies and the establishment of Limerick
 City and County Council, that the Draft Scheme was on public display for five weeks and
-the closing date for receipt of submissions to the Draft Polling Scheme 2015 was 14"
+the closing date for receipt of submissions to the Draft Polling Scheme 2015 was 44"
 August, 2015.
 
-Members noted the contents of the Senior Executive Officer's Report dated 8” July, 2015.
+Members noted the contents of the Senior Executive Officer's Report dated 8" July, 2015.
 
 9. Request to hold Meeting at Kilcornan Community Centre
 
@@ -272,7 +281,9 @@ weather playing facility/Kilcornan Community Centre together with enhanced traff
 calming/safety measures at this location.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -290,13 +301,13 @@ location.
 
 11. Question submitted by Councillor S. Keary
 
-| will ask at the next Meeting for the Executive Director of the Municipal District of
+/ will ask at the next Meeting for the Executive Director of the Municipal District of
 Adare-Rathkeale to provide a full and clear definition of the General Municipal
 Allocation for Elected Members of a Local Authority.
 
 REPLY:
 
-S.1. No. 226 of 2014 Local Government (Financial and Audit Procedures) Regulations
+S.l. No. 226 of 2014 Local Government (Financial and Audit Procedures) Regulations
 2014 sets out a general interpretation.
 
 “general municipal allocation” — means discretionary funding which is made
@@ -320,7 +331,9 @@ to it, and the non-discretionary costs that must be met as a first call on that 
 including at municipal district level.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -370,7 +383,9 @@ junction may be improved by introducing a mandatory STOP on 3 of the approaches,
 allowing right of way only for traffic travelling from the South towards the N69 (Killeen
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -419,13 +434,15 @@ Development Fund Allocation for Unfinished Estates in 2016 in order to secure th
 balance of funding.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
 17. Notice of Motion submitted by Councillor S. Keary
 
-! will move at the next Meeting that the two thatched dwelling houses which were
+/ will move at the next Meeting that the two thatched dwelling houses which were
 recently destroyed by fire in Adare Village be temporarily removed from the list of
 Protected Structures to allow their full reinstatement at the earliest possible date
 but in doing so permit the use of modern materials, with the appropriate fire ratings,
@@ -467,7 +484,9 @@ increased by at least 50% to allow the urgent upgrading of the road network arou
 the District which is dangerously unfit for purpose.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -516,4 +535,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:10]]
+

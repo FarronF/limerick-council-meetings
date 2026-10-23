@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-draft-minutes-monthly-online-meeting-19th-april-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-draft-minutes-monthly-online-meeting-19th-april-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 19TH** **APRIL, 2021 at 09:45 A.M.**
@@ -86,7 +87,9 @@ house situate at 30 St. Laurence Park, Garryowen, Limerick and the intention to 
 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 (c)
@@ -192,7 +195,9 @@ St Patrick’s Men’s Shed
 Woodhaven Residents Association
 
 €300
----
+
+[[PAGE_END:2]]
+
 3
 
 **LIMERICK CITY NORTH**
@@ -314,7 +319,9 @@ And Resolved;
 Chief Executive’s Recommendations dated 19th March, 2021, under Section 20(3)(n) of the
 
 Planning and Development Act, 2000 (as amended)”.
----
+
+[[PAGE_END:3]]
+
 4
 
 **QUESTIONS**
@@ -384,7 +391,9 @@ to providing a consistent frequency of service across the District on the main r
 secondary routes. The review will also take into consideration the possibility of providing
 
 a service to housing estates in the District.
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.Question submitted by Councillor E. Secas**
@@ -460,7 +469,9 @@ Networks the length of time of vacancy and certification costs, whereas natural 
 connection costs vary due to the availability of supply, length of connection, trenching
 
 etc.).
----
+
+[[PAGE_END:5]]
+
 6
 
 In 2020, costs for disconnections/reconnections for electricity and gas to vacant units
@@ -644,7 +655,9 @@ Patrickswell
 ***County Council advise what are the plans for the railway line running behind Rathbane and***
 
 ***Janesboro. This unused railway line is causing anti-social behaviour and rubbish dumping***
----
+
+[[PAGE_END:6]]
+
 7
 
 ***which is leading to rat infestation. Can the Council liaise with Irish Rail to get this problem***
@@ -730,7 +743,9 @@ The Council is awaiting TII’s costings in order to finalise the report.
 ***I will ask at the next meeting of the Metropolitan District of Limerick if temporary public toilets***
 
 ***could be installed over the Summer months to support people accessing the city.***
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY**: There are no plans to provide temporary public toilets in the city centre during
@@ -810,7 +825,9 @@ centres whilst meeting the needs of all citizens. It will be focusing on the cit
 centres that have the biggest tourism impact and subsequently the street or area within
 
 these city and town centres that will facilitate the optimum number of year-round
----
+
+[[PAGE_END:8]]
+
 9
 
 outdoor dining spaces.
@@ -886,7 +903,9 @@ Q2.
 The drawings are currently being finalised and will be circulated to all members once
 
 available.
----
+
+[[PAGE_END:9]]
+
 10
 
 **18.Question submitted by Councillor J. Collins**
@@ -960,7 +979,9 @@ informal defences in the City, as an early Programme Item. The existing walls in
 Quay will be assessed as part of this Survey.
 
 **22.Question submitted by Councillor C. Sheehan**
----
+
+[[PAGE_END:10]]
+
 11
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what the assessment***
@@ -1042,7 +1063,9 @@ Limerick Regeneration Framework Implementation Plan.
 It was agreed to refer this Notice of Motion to the Community, Leisure and Culture Strategic
 
 Policy Committee.
----
+
+[[PAGE_END:11]]
+
 12
 
 24.
@@ -1122,7 +1145,9 @@ An explanatory document “New Tree Felling Requirements” from the Dept. of Ag
 ***District of Limerick City and County Council engage with OPW and other relevant agencies to***
 
 ***remove the Annacotty Weir on the River Mulkear so that lampreys can travel the river freely.***
----
+
+[[PAGE_END:12]]
+
 13
 
 As this Notice of Motion was already discussed at the Climate Action, Biodiversity and
@@ -1208,7 +1233,9 @@ review of the existing Plan and the preparation of a new Plan.
 28.
 
 **Notice of Motion submitted by Councillor F. Kilcoyne (to be referred to the Local**
----
+
+[[PAGE_END:13]]
+
 14
 
 **Electoral Area Briefings)**
@@ -1286,7 +1313,9 @@ Programmes of 2020 and 2021. Limerick City and County Council will undertake a
 feasibility study and estimate of cost for this project for consideration in future funding
 
 applications.
----
+
+[[PAGE_END:14]]
+
 15
 
 32.
@@ -1364,7 +1393,9 @@ initiatives in support of businesses that have been closed due to Covid.
 These include the operation of the Outdoor Seating and Accessories for Tourism and
 
 Hospitality Business Scheme. Businesses, which sell food for consumption on the
----
+
+[[PAGE_END:15]]
+
 16
 
 premises, can apply to Limerick City and County Council for grant funding of up to €4,000 
@@ -1446,4 +1477,6 @@ Correspondence was noted and taken as read. This concluded the Meeting.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:16]]
+

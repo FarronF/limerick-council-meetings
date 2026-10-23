@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-2021-03-03-agenda-jpc-subcommittee.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West - 3rd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-2021-03-03-agenda-jpc-subcommittee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairie Cathrach
+az Comhairie Cathrach
 = & Contae Luimnigh
-oa Li k Ci
-. — imerick City
+oi Li k Ci
+. ——> imerick City
 & County Council
 
 26" February, 2021
@@ -32,21 +33,21 @@ oa Li k Ci
 A Chomhairleoir, a chara,
 
 Duiiche Bardais an Chaisiedin Nua Thiar,
-Comr
+Com
 
-ante Cathwach agus Contae Luimmnuigh,
+\airle Cathwach agus Contae Luimnugh,
 Sras Viilliam Smith O'Brien.
 
 Gortbut
 
 An Caislean Nua Thiar.
 
-Co. Luimnigh.
+Co. Luimnigh
 
 Nevrcastie West Municipa! District
 Limenck City and County Council
 Aras William Smith OBnen
-Gortboy.
+Gortboy
 
 Nevrcastie West
 
@@ -63,7 +64,7 @@ be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Mago
+Ma got
 
 Meetings Administrator.
 
@@ -79,10 +80,10 @@ District of Newcastle West held on Sth February, 2020.
 
 To discuss policing issues in the District.
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
-{Copy Enclosed)
+(Copy Enclosed)
 
 @& customerservices@limerickie
 © wonwlimerickie
@@ -92,4 +93,6 @@ W @limerickCouncil
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+

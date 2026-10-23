@@ -36,33 +36,33 @@ Minutes  - Adjourned Meeting of Limerick City and County Council -  3rd July 2
 
 Minutes - Special Meeting of Limerick City and County Council - 3rd July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-e-minutes-special-meeting-03.07.2020.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%203rd%20July%202020.md)
 
-Land Disposal_ 31 McDermott Ave., Janesboro - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-a-land-disposal-31-mcdermott-ave.-janesboro.pdf) - Text not extracted
+Land Disposal: 31 McDermott Ave., Janesboro - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-a-land-disposal-31-mcdermott-ave.-janesboro.pdf) - Text not extracted
 
-Land Disposal_ 29 Marian Ave Roxboro Road - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-b-land-disposal-29-marian-ave-roxboro-road.pdf) - Text not extracted
+Land Disposal: 29 Marian Ave Roxboro Road - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-b-land-disposal-29-marian-ave-roxboro-road.pdf) - Text not extracted
 
-Land Disposal_ 8 Colbert Terrace Abbeyfeale - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-c-land-disposal-8-colbert-terrace-abbeyfeale.pdf) - Text not extracted
+Land Disposal: 8 Colbert Terrace Abbeyfeale - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-c-land-disposal-8-colbert-terrace-abbeyfeale.pdf) - Text not extracted
 
-Land Disposal_ 1 Clarke Ave Janesboro - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-d-land-disposal-1-clarke-ave-janesboro.pdf) - Text not extracted
+Land Disposal: 1 Clarke Ave Janesboro - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-d-land-disposal-1-clarke-ave-janesboro.pdf) - Text not extracted
 
-Land Disposal_ Gibbonstown, Kilmallock - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-e-land-disposal-gibbonstown-kilmallock.pdf) - Text not extracted
+Land Disposal: Gibbonstown, Kilmallock - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-e-land-disposal-gibbonstown-kilmallock.pdf) - Text not extracted
 
-Land Disposal_ 82 Keane Street, Limerick - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-f-land-disposal-82-keane-street-limerick.pdf) - Text not extracted
+Land Disposal: 82 Keane Street, Limerick - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-f-land-disposal-82-keane-street-limerick.pdf) - Text not extracted
 
-Land Disposal_ Corgrig, Foynes - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-g-land-disposal-corgrig-foynes.pdf) - Text not extracted
+Land Disposal: Corgrig, Foynes - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-g-land-disposal-corgrig-foynes.pdf) - Text not extracted
 
-Land Disposal_ Knight Street, Ballingarry - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-h-land-disposal-knight-street-ballingarry.pdf) - Text not extracted
+Land Disposal: Knight Street, Ballingarry - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-h-land-disposal-knight-street-ballingarry.pdf) - Text not extracted
 
-Land Disposal_ Galvone Ind. Estate, Limerick - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-i-land-disposal-galvone-ind.-estate-limerick.pdf) - Text not extracted
+Land Disposal: Galvone Ind. Estate, Limerick - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-i-land-disposal-galvone-ind.-estate-limerick.pdf) - Text not extracted
 
-Land Disposal_ West Square, Askeaton - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-j-land-disposal-west-square-askeaton.pdf) - Text not extracted
+Land Disposal: West Square, Askeaton - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-j-land-disposal-west-square-askeaton.pdf) - Text not extracted
 
-Land Disposal_ Shanagolden Demesne - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-k-land-disposal-shanagolden-demesne.pdf) - Text not extracted
+Land Disposal: Shanagolden Demesne - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-k-land-disposal-shanagolden-demesne.pdf) - Text not extracted
 
-Land Disposal_ 3 Abbeyview, Askeaton - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-l-land-disposal-3-abbeyview-askeaton.pdf) - Text not extracted
+Land Disposal: 3 Abbeyview, Askeaton - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-l-land-disposal-3-abbeyview-askeaton.pdf) - Text not extracted
 
-Circular_ 2021 Budget Meeting and Other Budgetary Matters - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-a-circular-2021-budget-meeting-and-other-budgetary-matters.pdf) - Text not extracted
+Circular: 2021 Budget Meeting and Other Budgetary Matters - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-a-circular-2021-budget-meeting-and-other-budgetary-matters.pdf) - Text not extracted
 
-Presentation on Financial Update_Local Property Tax - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-b-and-c-presentation-financial-update-and-lpt.pdf) - Text not extracted
+Presentation on Financial Update/Local Property Tax - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-b-and-c-presentation-financial-update-and-lpt.pdf) - Text not extracted
 
 Local Property Tax  Budget 2021 - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-c-local-property-tax-budget-2021.pdf) - Text not extracted
 
@@ -78,7 +78,7 @@ Appointment of External Member to Audit Committee - Full Meeting of Limerick Ci
 
 Proposed Schedule of Dates for Strategic Policy Committee Meetings - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-h-proposed-schedule-of-dates-for-strategic-policy-committee-meetings.pdf) - Text not extracted
 
-PPN Nominations_ SPCs, JPC and LCDC - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-i-ppn-nominations-spcs-jpc-and-lcdc.pdf) - Text not extracted
+PPN Nominations: SPCs, JPC and LCDC - Full Meeting of Limerick City and County Council - 28th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-i-ppn-nominations-spcs-jpc-and-lcdc.pdf) - Text not extracted
 
 Chairperson's Report - Community, Leisure & Culture SPC Meeting - 6th July 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03-j-i-i-chairs-report-comm-leis-culture-spc-meeting-06.07.2020.pdf) - Text not extracted
 

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 18th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF
@@ -50,7 +51,7 @@ He thanked the Management and Staff of Limerick City & County Council for their
 engagement and support during the previous 12 months. In particular, he acknowledged the
 work of the staff, both indoor and outdoor, working in the Municipal District. He outlined
 how working on behalf of the Municipal District had been an honour and privilege. He also
-wished to acknowledge his Leas Cathaoirleach, Cllr O’Sullivan, for his support and assistance
+wished to acknowledge his Leas Cathaoirleach, Cllr O'Sullivan, for his support and assistance
 during the year, and acknowledged the support of Mayor Moran too during his tenure.
 
 The Members congratulated Cllr Conway on his year as Cathaoirleach, and they
@@ -69,13 +70,15 @@ Cappamore-Kilmallock, to hold office until the next Annual Meeting or until a su
 been appointed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 As there were no other nominations, the Elected Members declared Councillor O'Sullivan
-elected as Cathaoirleach of the Municipal District of Cappamore-Kilmaliock.
+elected as Cathaoirleach of the Municipal District of Cappamore-Kilmallock.
 
-Cllr O'Sullivan stated that it was a huge honour for both him and his family to be elected as
+Clir O'Sullivan stated that it was a huge honour for both him and his family to be elected as
 Cathaoirleach of the Municipal District, which is the biggest Municipal District in Limerick.
 He congratulated the outgoing Cathaoirleach for the way he managed Meetings and events
 as Cathaoirleach during his term. He looked forward to working with all his fellow
@@ -91,7 +94,7 @@ activities of the local authority, to raise awareness of all the work being done
 authority and the Elected Members.
 
 3. To elect a Leas-Cathaoirleach of the Municipal District of Cappamore-Kilmallock to
-ice until t! nual Meeting o: uccessor has been elected.
+ce until t nual Meeting o: uccessor has been elected.
 
 The newly elected Cathaoirleach then invited nominations for the office of Leas-Cathaoirleach
 of the Municipal District of Cappamore-Kilmallock for the forthcoming year.
@@ -120,4 +123,6 @@ Cathaoirleach
 
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/2.-minutes-of-18th-march-md-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 18th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/2.-minutes-of-18th-march-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF ONLINE MONTHLY MEETING OF
@@ -82,7 +83,9 @@ Minister for State with responsibility for Planning and Local Government, Peter 
 Clarification was received that it was proposed that John Kiely be invited to a Civic
 
 Reception with the Municipal District once restrictions are removed.
----
+
+[[PAGE_END:1]]
+
 2
 
 Thanks was extended to the staff of the Area office for corresponding with Irish Water and
@@ -148,7 +151,9 @@ Municipal District may, by Resolution, for which at least one half of the total 
 Members of the District votes in favour, amend or revoke Standing Orders and make new
 
 Standing Orders.”
----
+
+[[PAGE_END:2]]
+
 3
 
 3. Corporate Services
@@ -208,7 +213,9 @@ regular basis and responds to all incidents of illegal dumping. It is the policy
 vigorous enforcement action in respect of all such incidents. The Council also has a dedicated
 
 commercial waste team who investigate suspected incidents of commercial waste dumping e.g.
----
+
+[[PAGE_END:3]]
+
 4
 
 "construction and demolition" waste regardless of the location, and who likewise, will instigate
@@ -280,7 +287,9 @@ traffic passing through and coming to the town and improve the safety of vehicle
 pedestrians and road users.
 
 **Proposed by: Councillor Mitchell**
----
+
+[[PAGE_END:4]]
+
 5
 
 **Seconded by: Councillor E Ryan**
@@ -344,7 +353,9 @@ currently how many applications are on the waiting list awaiting funding.
 The allocation for the Cappamore Kilmallock Municipal District for the Housing adaptation
 
 grant for private homeowners is €601297.75.
----
+
+[[PAGE_END:5]]
+
 6
 
 We have 27 applications on the waiting list which are comprised of applications that have
@@ -418,7 +429,9 @@ hold an oral hearing to hear objections to the compulsory purchase order on the 
 2021 which will be heard virtually via MS Teams. Following the oral hearing, we will await
 
 the decision of An Bord Pleanála to either confirm or annul the compulsory purchase order.
----
+
+[[PAGE_END:6]]
+
 7
 
 12.
@@ -490,7 +503,9 @@ on works planned for the R512/L1502 junction at Holycross and when is the planne
 commencement date.
 
 **REPLY:**
----
+
+[[PAGE_END:7]]
+
 8
 
 The Municipal District Engineering Staff is currently revising the previous drawings that
@@ -564,7 +579,9 @@ these locations. We will review both locations and revert at the April meeting. 
 that the public lighting section does not have any funding currently allocated in the budget for
 
 the provision of new lighting.
----
+
+[[PAGE_END:8]]
+
 9
 
 18.
@@ -620,4 +637,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:9]]
+

@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%209th%20January%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/00%20Agenda%209th%20January%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Duiiche Bardais Ath Dara-Rath Caola,
+a Duiiche Bardais Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
 
 NN ‘“ Aras Séan Finn,
 
-= >>> An Béthar Nua,
+= >> An Béthar Nua,
 
 . . Rath Caola,
 
 Limerick Co, Luimnigh
-CITY & COUNTY _—
+CITY & COUNTY _
 
-COUNCIL ‘Lnwalt Chy and County Counc
+COUNCIL ‘Lnwaht Chy and County Cou
 
 Aras Séan Finn,
 
@@ -65,7 +66,7 @@ oon dK
 Karen Butler,
 Meetings Administrator.
 
-ee een
+enna ewer mene eee ne nen ne an meee nn ene cmeeeeene
 
 AGENDA
 
@@ -83,16 +84,18 @@ To review position in relation to allocations under the General Municipal Alloca
 
 To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
 (Copy Enclosed)
-! @ customerservices@limerick.te
+I @ customerservices@limerick.te
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wwwAimerick.te
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach & wwwAlimerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
--9O an
+-9O0 an
 Traffic ing at Kilcornan
 
 To note update on proposed traffic calming scheme for Kilcornan.
@@ -103,7 +106,7 @@ F ing | in Ask
 To note update on proposals to address the flooding issues in Askeaton.
 (Copy Enclosed)
 
-Footpath fr il t Garden Public H
+Footpath fr: il r Garden Public H
 
 To note update on the path from Kildimo Village to the Beer Garden Public House.
 
@@ -123,4 +126,6 @@ Correspondence
 ~
 
 
----
+
+[[PAGE_END:2]]
+

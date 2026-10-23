@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03%20MD%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03%20MD%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_— Comhairle Cathrach
-= ——_ & Contae ——
-= roe om
+= a & Contae ——
+= roe a
 
 Limerick City & County Council,
 
@@ -43,10 +44,11 @@ You are requested to attend a Meeting of the Municipal District of Cappamore-Kil
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 20% Sept,
 2018, at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
-Is fle meas,
+Is fleas meas,
+“cleats
 
-Sc Leacts
 Mark Leahy,
+
 Meetings Administrator.
 
 AGENDA
@@ -70,7 +72,9 @@ Pallas, Co. Limerick.
 (Report enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -110,12 +114,14 @@ NOTICE OF MOTION
 
 Notice of Motion submitted by Councillor Donegan
 
-1 will move at the next meeting that the Municipal District of Cappamore-Kilmallock
+| will move at the next meeting that the Municipal District of Cappamore-Kilmallock
 would consider installing speed ramps/traffic calming measures within Millmount Estate,
 Kilmallock.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -128,8 +134,10 @@ causing flooding there.
 
 Notice of Motion submitted by Councillor O’Donnell
 
-I will move at the next meeting that Limerick City & County Council investigate all options
+| will move at the next meeting that Limerick City & County Council investigate all options
 for the provision of off street parking in Bruff Town.
 
 
----
+
+[[PAGE_END:3]]
+

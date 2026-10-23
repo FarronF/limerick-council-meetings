@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%2015th%20June%2C%202015.pdf)
+**Original file:** [Minutes of Meeting - 15th June, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%2015th%20June%2C%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ In response to a query raised by Members, the Administrative Officer, Mid West N
 Road Design Centre confirmed that no rights of way to the walkways on the adjacent
 
 wetlands were affected by the disposal.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -180,7 +183,9 @@ anticipated a high demand for these houses. Members stressed the importance of
 providing local employment during the construction phase and noted that a social clause
 
 was included in the construction contract for same.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -256,7 +261,9 @@ would be included in the construction contract.
 raised with the Property Department attached to the Economic Development and
 
 Planning Directorate.
----
+
+[[PAGE_END:3]]
+
 4
 
  200m of the Knockalisheen Road would be upgraded and the Cratloe Road would be
@@ -342,7 +349,9 @@ County, including this site.
 Question submitted by Councillor Elena Secas
 
 ***I will ask the next meeting if Limerick City and County Council would consider***
----
+
+[[PAGE_END:4]]
+
 5
 
 ***giving Munster Rugby funding yearly to ensure all Munster Rugby training and***
@@ -434,7 +443,9 @@ Morning inbound traffic establishes sporadic vehicle queues from between
 8.25am to 9.00am. Evening outbound traffic can sometimes establish a
 
 persistent queue from 5.30pm to 6.10pm.
----
+
+[[PAGE_END:5]]
+
 6
 
 Analysis of the outbound flow patterns and queues indicate merging
@@ -520,7 +531,9 @@ railing repaired and the litter at the left hand side of the memorial to be remo
  The need for an inventory of monuments in the city to be carried out to include a
 
 report on the condition of each monument and any repair works needed.
----
+
+[[PAGE_END:6]]
+
 7
 
  The need to map all monuments, historic sites and tourist attractions and provide
@@ -610,7 +623,9 @@ in the roll-out of this facility.
 The sponsorship of the bikes and the contract for the maintenance of the
 
 facility is a matter for the NTA.
----
+
+[[PAGE_END:7]]
+
 8
 
 In reply to queries raised by Members the Acting Director, Travel and Transportation
@@ -700,7 +715,9 @@ In proposing the motion Councillor Hourigan noted that the Spring growth had tak
 over a considerable portion of the wetland area and that, if left unchecked, by 2016 there
 
 would be no need for the viewing stand as it would be covered in reed. He stressed the
----
+
+[[PAGE_END:8]]
+
 9
 
 need to protect the existing investment on the site which was frequently visited by local
@@ -786,7 +803,9 @@ The Notice of Motion as submitted by Councillor Elena Secas should be
 referred directly to Irish Water for response if the Notice of Motion is
 
 adopted by Council.
----
+
+[[PAGE_END:9]]
+
 10
 
 Councillor Elena Secas has been contacted and advised of the telephone
@@ -874,7 +893,9 @@ courthouse.
 The Deputy Chief Executive stated that the use of various venues for the Civil Ceremony
 
 of Marriage was increasing. He pointed out that the Council had agreed procedures and
----
+
+[[PAGE_END:10]]
+
 11
 
 the appropriate insurance for the use of the building by non employees and that the
@@ -948,4 +969,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

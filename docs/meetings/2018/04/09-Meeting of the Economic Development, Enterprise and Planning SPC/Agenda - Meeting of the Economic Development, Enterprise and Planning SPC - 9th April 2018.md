@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Agenda%20of%20SPC%209th%20of%20April%202018.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Agenda%20of%20SPC%209th%20of%20April%202018.pdf)
 
----
+[[FILE_START]]
+
 23rd March 2018
 
 **To/Each Member of the Economic Development, Enterprise and Planning**
@@ -58,4 +59,6 @@ Yours sincerely
 Senior Executive Officer
 
 Economic Development
----
+
+[[PAGE_END:1]]
+

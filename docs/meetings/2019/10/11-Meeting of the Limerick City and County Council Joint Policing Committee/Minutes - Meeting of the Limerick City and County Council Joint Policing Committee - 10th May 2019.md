@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Minutes%20of%20JPC%20Meeting%2010th%20May%2019.pdf)
+**Original file:** [Minutes - Meeting of the Limerick City and County Council Joint Policing Committee - 10th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Minutes%20of%20JPC%20Meeting%2010th%20May%2019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, DOORADOYLE, ON FRIDAY, 10TH** **MAY, 2019 AT 2.00 P.M.**
@@ -92,7 +93,9 @@ After the demonstration Garda O’Dwyer pointed out that this bike is the only b
 which is being trialed on the Mobility Project. The bike has an inbuilt camera and can read seven
 
 number plates per second and has minimum interference with traffic.
----
+
+[[PAGE_END:1]]
+
 **4.RECEIVE UPDATE FROM CHIEF SUPERINTENDENT**
 
 The Chief Superintendent informed Members that there are seventy probationers in Limerick at
@@ -176,7 +179,9 @@ The prison area underneath the courthouse is dealt with by the prison services, 
 look after the court room and custody area. He added that he contacted the Minister for Justice
 
 recently on this matter and will update Members in due course.
----
+
+[[PAGE_END:2]]
+
 **5.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D. AND COUNCILLOR SÉIGHÍN Ó**
 
 **CEALLAIGH:**
@@ -250,7 +255,9 @@ city. Begging on the streets is also being addressed.
 **LIMERICK, I MOVE THAT THIS COMMITTEE ASK THE GARDA COMMISSIONER TO SEEK RESOURCES**
 
 **FOR AND PROVIDEA** **GARDA SUBSTATION IN THE AREA’.**
----
+
+[[PAGE_END:3]]
+
 **11.NOTICE OF MOTION SUBMITTED BY COUNCILLOR JOE POND (REFERRED FROM MEETING**
 
 **OF METROPOLITAN DISTRICT OF LIMERICK HELD ON 21ST** **JANUARY, 2019):**
@@ -328,7 +335,9 @@ done up and are manned with a guard in each one.
 **INVOLVING SAME, WHETHER ADDITIONAL LEGISLATION IS REQUIRED AND ANY OTHER RELEVANT**
 
 **INFORMATION WHICH CAN BE PROVIDED’.**
----
+
+[[PAGE_END:4]]
+
 **12.NOTICE OF MOTION SUBMITTED BY COUNCILLOR PAUL KELLER :**
 
 **‘I PROPOSE, SINCE THE EXISTING ROAD TRAFFIC LEGISLATION** **DOES NOT APPLY TO GREEN SPACES,**
@@ -360,4 +369,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

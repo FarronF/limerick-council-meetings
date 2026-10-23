@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 19th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiiche Bardais an Chaistedin Nua Thiar,
-- _——_ Contes Luimnigh Comhairle Cathwach agus Contae Luimnigh
+ae 6 Contes Luimnigh Comhairle Cathwach agus Contae Luimnigh
 
 Aras William Smith O'Brien,
 
 NAN : Gortbuf,
-= — Limerick City _ An Caislean Nua Thiar,
+= — Limerick City An Caislean Nua Thiar,
 & County Council Co, Luimnigh
 
 Newcastle West Municipal District,
@@ -35,10 +36,10 @@ Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
-Nevicastle West,
+Nevwicastle West,
 Co. Limerick.
 
-Eircode: V42EH73
+Ercode: V42EH73
 
 12" June, 2026 t: +353 (0) 69 62100
 
@@ -46,7 +47,7 @@ To: The Cathaoirleach and Each Member of the Municipal District of Newcastle Wes
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
-in Aras William Smith OBrien, Newcastle West, Co. Limerick, and Online, on Fr 19" June,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick, and Online, on Fr 19" June.
 2026, at 3 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -70,11 +71,13 @@ To review position in relation to allocations under the General Municipal Alloca
 
 2026.
 @& customerservices@limerick.ie
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach © wvevilimerick.ie
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach @ wvevelimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -85,7 +88,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 12.
 
-ons submitted b illor T.
+ions submitted b illor T.
 
 | will ask at the next Meeting when will repair works to the Killoughteen Bridge, Road
 L7077 commence.
@@ -101,13 +104,13 @@ Questions submitted by Councillor L. Galvin
 | will ask at the next Meeting for an update again on all the Council vacant houses in
 the Newcastle West Municipal District.
 
-I will ask at the next Meeting for a detailed update on Daly's building at Main Street,
+| will ask at the next Meeting for a detailed update on Daly's building at Main Street,
 Abbeyfeale.
 
 | will ask at the next Meeting for a detailed update on the Cluid housing
 development at Clash, Abbeyfeale.
 
-Questions submitted by Councillor J. Scanlan
+Questions submitted by Councillor J. Scanian
 
 | will ask at the next meeting when resident only parking signage will be put in place
 within Hawthorne Drive & Chapel Close Estates, Newcastle West.
@@ -119,7 +122,9 @@ Newcastle West town.
 Tournafulla School be repaired/maintained.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -159,4 +164,6 @@ directorate with Uisce Eireann the ongoing matter of water damage to the Milford
 line Dromcollogher
 
 
----
+
+[[PAGE_END:3]]
+

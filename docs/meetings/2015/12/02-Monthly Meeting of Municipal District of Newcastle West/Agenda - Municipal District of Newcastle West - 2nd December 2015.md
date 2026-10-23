@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 2nd December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ot Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+i Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-“ NF . Cé na gCeannaithe,
+“ NF : Cé na gCeannaithe,
 
 . = Luimneach
 Limerick Corporate Services and Change Management.
@@ -34,7 +35,7 @@ Limerick
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 2
-27" November, 2015 - =
+27" November, 2015 ™ =
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -46,11 +47,9 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Carano
-
 Meetings Administrator.
 
-ee eeee een eee erence en ecnncnncc neces snc seesen esa eeee een res ers nescesees ces eceeeen ese ees aes arena er ensrnee ae eneenneen sense mee mee:
+ee eee ween nee erence we ecncennce neces ses seeeen ees eeeeeee res ers nes cesees ccs eceeeen ese eeenes arena rr ensenee aeeneen nse n sense mee mee
 
 AGENDA
 
@@ -68,12 +67,14 @@ To consider fixing date for January Meeting.
 
 To receive deputation from Calvary Cemetery.
 
-= customerservices@limerick.ie
-| Ceannchesthra Chorpardideach, Ofna gCeannaithe, Luimneach & wwwalimerick.ie
+= customerservicese@limerick.ie
+| Ceannchesthra Chorpardideach, Ofna gCeannaithe, Luimneach & wwwalimerickie
 | Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -117,7 +118,9 @@ to remove the very significant leaf fall in the area.
 replaced at Chapel Close.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -145,6 +148,7 @@ Notices of Motion submitted by Councillor L. Galvin
 
 I will move at the next Meeting that the Members call on the National Roads Authority to
 undertake a Safety Audit of all right hand turn lanes on the N21 from Newcastle West to the
+
 Kerry Border.
 
 | will move at the next Meeting that immediate steps are taken to prepare a Traffic
@@ -171,4 +175,6 @@ for vehicle owners accessing the regional road.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

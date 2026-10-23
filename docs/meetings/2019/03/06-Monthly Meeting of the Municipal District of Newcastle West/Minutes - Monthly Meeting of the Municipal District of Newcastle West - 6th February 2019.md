@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%202019-02-06%20Minutes%20February.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%202019-02-06%20Minutes%20February.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -102,7 +103,9 @@ He said that a set down area was developed in 2007 in response to concerns regar
 of pupils, pedestrians and motorists. He also noted that 91 of the 167 pupils walk to and from
 
 school. He mentioned that proposed upgrade roadworks on the R515 offers an ideal
----
+
+[[PAGE_END:1]]
+
 2
 
 opportunity to put warning lights, speed detectors and a pedestrian crossing in place for
@@ -176,7 +179,9 @@ representatives on the above matter.
 It was agreed that costings for the requested safety measures at Scoil Mhuire, Broadford, St.
 
 Fergus Glin and Killoughteen National Schools would be sought and the Members advised on
----
+
+[[PAGE_END:2]]
+
 3
 
 same by the Senior Executive Engineer. Discussion also took place on the possibility of
@@ -240,7 +245,9 @@ REPLY:
 Footpath upgrade works along Scanlan’s Lane will be carried out within the
 
 next two weeks.
----
+
+[[PAGE_END:3]]
+
 4
 
 7.
@@ -350,7 +357,9 @@ Kerb Joints to be filled with
 suitable material
 
 500.00
----
+
+[[PAGE_END:4]]
+
 5
 
 4
@@ -492,7 +501,9 @@ Contingences at 10%
 TOTAL
 
 60,170.00
----
+
+[[PAGE_END:5]]
+
 6
 
 A brief discussion took place on the above including the bond available and the need for
@@ -562,7 +573,9 @@ NOTICES OF MOTION
 ***I will move at the next Meeting that a traffic management plan be created for Collins Park,***
 
 ***Abbeyfeale.***
----
+
+[[PAGE_END:6]]
+
 7
 
 In proposing the Motion, Councillor Galvin stated that it is difficult for emergency vehicles to
@@ -634,7 +647,9 @@ town.
 ***I will move at the next Meeting that the RSA carry out a traffic safety audit along the R520***
 
 ***eastward bound approach to Ballynoe Cross.***
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Scanlan stated that there are a number of households in
@@ -694,7 +709,9 @@ The Motion was seconded by Councillor Scanlan.
 REPLY**:**
 
 This request will be forwarded to the TII for consideration.
----
+
+[[PAGE_END:8]]
+
 9
 
 18. Correspondence
@@ -764,4 +781,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

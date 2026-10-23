@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20191017.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 19th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20191017.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
 CAPPAMORE-KILMALLOCK
@@ -96,7 +97,9 @@ entrance which was now causing a hazard.
 • Housing Estates – All housing estates had requested speed limit signs to be erected at the
 
 entrances.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Deputation for the presentation and stated that many of the
@@ -168,7 +171,9 @@ would be brought to the Full Meeting of the Council in November because of the f
 improvement scheme was located in both the Metropolitan District area and the Cappamore-
 
 Kilmallock Municipal District area.
----
+
+[[PAGE_END:2]]
+
 3
 
 A PowerPoint presentation was delivered on the public consultation process. It was
@@ -288,7 +293,9 @@ of the Planning and Development Act 2000 (as amended) and Part VIII of the Plann
 Development Regulations 2001 (as amended).
 
 It was proposed to proceed with the development as outlined in the report.
----
+
+[[PAGE_END:3]]
+
 4
 
 A PowerPoint presentation was delivered on the public consultation process. It was
@@ -394,7 +401,9 @@ to the parking area.
 Staff from the Mid-West National Road Design Office, and the Consultant, responded to
 
 queries from the Members as follows:
----
+
+[[PAGE_END:4]]
+
 5
 
 • The accident frequency at 5-leg roundabouts was 1.6 times that associated with a 4-leg
@@ -474,7 +483,9 @@ This work will be complete by early December 2017. Thereafter, subject to
 appropriate funding being provided, a Contractor will be appointed and the
 
 works complete in 2018.
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTION
@@ -530,7 +541,9 @@ Brian.
 A Vote of Congratulations was extended to the team representing Cappamore Fire Brigade
 
 on winning ‘Limerick’s Fittest Superstars.’
----
+
+[[PAGE_END:6]]
+
 7
 
 A Vote of Congratulations was also extended to Murroe/Boher on winning the County
@@ -548,4 +561,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-8th-april-2025_0.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-8th-april-2025_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **28th** **March, 2025**
@@ -51,7 +52,9 @@ out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -107,6 +110,10 @@ scale implementation for the full rollout of the BusConnects project.
 **3.Limerick City Centre Transport Plan Update:**
 
 **4.Presentation of the Active Travel Interactive Map - Toby Goodwin**
----
+
+[[PAGE_END:2]]
+
 3
----
+
+[[PAGE_END:3]]
+

@@ -32,7 +32,7 @@ Minutes - Special Meeting of Metropolitan District of Limerick - 28th November 
 
 Taking in Charge of Estates - Monthly Meeting of Metropolitan District of Limerick - 16th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02%20Taking%20in%20Charge%20of%20Estates.pdf) - Text not extracted
 
-Housing Progress Report_ Housing Development - Monthly Meeting of Metropolitan District of Limerick - 16th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/03%20Housing%20Progress%20Report%20-%20Housing%20Development.pdf) - Text not extracted
+Housing Progress Report: Housing Development - Monthly Meeting of Metropolitan District of Limerick - 16th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/03%20Housing%20Progress%20Report%20-%20Housing%20Development.pdf) - Text not extracted
 
 Report UL City Centre Campus - Monthly Meeting of Metropolitan District of Limerick - 16th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/04%28a%29%20Report%20UL%20City%20Centre%20Campus.pdf) - Text not extracted
 

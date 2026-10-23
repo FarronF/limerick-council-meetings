@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/2.-minutes-of-15th-april-md-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 15th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/2.-minutes-of-15th-april-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF ONLINE MONTHLY MEETING OF
@@ -86,7 +87,9 @@ The submission of queries specific to the Cappamore Kilmallock Municipal Distric
 Irish Water Clinic for Elected Members was acknowledged, and a query was raised as to
 
 whether responses were circulated via email. It was confirmed that the responses had been
----
+
+[[PAGE_END:1]]
+
 2
 
 circulated, and the Meetings administrator agreed to circulate again to ensure all Elected
@@ -150,7 +153,9 @@ A suggestion of the use of mobile CCTV Cameras was raised, however it was noted 
 Director, Support Services-Finance, Corporate, HR & ICT that currently there is no legal basis
 
 in legislation for the use of CCTV cameras in relation to litter. CCTV cameras currently in use
----
+
+[[PAGE_END:2]]
+
 3
 
 are by way of agreement with An Garda Siochana to detect crime. GDPR would not allow
@@ -206,7 +211,9 @@ suggested that the vote be deferred to the September Meeting.
 **Proposed by: Councillor Egan**
 
 **Seconded by: Councillor Teefy.**
----
+
+[[PAGE_END:3]]
+
 4
 
 GMA Community Nominations
@@ -368,7 +375,9 @@ Kilteely Tidy Towns
 Cllr M Ryan with Cllr Egan
 
 and Cllr Mitchell
----
+
+[[PAGE_END:4]]
+
 5
 
 Oola Tidy Towns
@@ -520,7 +529,9 @@ Cllr Teefy with Cllr M Ryan
 and Cllr Mitchell
 
 **€4,225.00**
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTIONS
@@ -598,7 +609,9 @@ between Killonan Junction and Limerick Junction which is currently a single-trac
 with a passing loop at Dromkeen.
 
 **Proposed: Councillor Egan**
----
+
+[[PAGE_END:6]]
+
 7
 
 **Seconded: Councillor Donegan**
@@ -664,7 +677,9 @@ calming measures.
 **Proposed by: Councillor Mitchell**
 
 **Seconded by: Councillor M Ryan**
----
+
+[[PAGE_END:7]]
+
 8
 
 QUESTIONS
@@ -726,7 +741,9 @@ update on the safety works planned for the railway bridge on Railway Road, Gotoo
 Kilmallock, including footpath replacement and improved signage for the safety of
 
 pedestrians crossing the bridge.
----
+
+[[PAGE_END:8]]
+
 9
 
 **REPLY:**
@@ -792,7 +809,9 @@ Tenders are being prepared in order to quantify the cost of works required to fa
 bringing Cluain Foinse Estate to a taking in charge standard. Upon completion of these
 
 works the formal taking in charge process will be commenced.
----
+
+[[PAGE_END:9]]
+
 10
 
 6.Question submitted by Councillor Mitchell
@@ -862,7 +881,9 @@ Ballysimon, who passed away on 8th April.
 A vote of sympathy was extended by the Elected Members to the community, family and
 
 friends of Sr Claude Meagher, Presentation Convent, Hospital, who passed away on 23rd
----
+
+[[PAGE_END:10]]
+
 11
 
 February. The Elected Members wished to acknowledge the contribution Sr Claude made to
@@ -912,4 +933,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:11]]
+

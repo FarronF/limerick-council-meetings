@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-2020-02-05-minutes-february.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West  - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-2020-02-05-minutes-february.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ Circulated, report of Senior Executive Engineer, Mid West National Road Design O
 Members welcomed the report and referred to the importance of progressing the Distributor
 
 Roads for Newcastle West and Abbeyfeale. The Members also referred to matters including
----
+
+[[PAGE_END:1]]
+
 2
 
 funding for the scheme and the necessity of having a route selected. In replying, the Senior
@@ -174,7 +177,9 @@ Maintenance Programme 2020 but are subject to landowner/occupier
 agreement.
 
 Councillor Galvin noted the response and requested a timeframe for the completion of the
----
+
+[[PAGE_END:2]]
+
 3
 
 works. In replying, the Executive Engineer stated that subject to landowner agreement the
@@ -246,7 +251,9 @@ provision of CCTV and the funding required to maintain the park. In replying, th
 stated that a Meeting will be arranged with the Park Committee to discuss the various funding
 
 streams which may be available for upgrade works in the park.
----
+
+[[PAGE_END:3]]
+
 4
 
 7.
@@ -326,7 +333,9 @@ Question submitted by Councillor T. Ruddle
 REPLY:
 
 Thank you for your recent communications.
----
+
+[[PAGE_END:4]]
+
 5
 
 I have received an update advising that the details of the remaining capacity in waste water
@@ -408,7 +417,9 @@ Carrigkerry WWTP - capacity remaining in Carrigkerry WWTP is 155 PE (57 no housi
 units)
 
 15. Raheenagh – not an Irish Water agglomeration.
----
+
+[[PAGE_END:5]]
+
 6
 
 16. Ashford - not an Irish Water agglomeration.
@@ -484,7 +495,9 @@ Notice of Motion submitted by Councillor L. Galvin
 ***I will move at the next Meeting that public lighting be provided at the entrance to Maple***
 
 ***Grove, Templeglantine.***
----
+
+[[PAGE_END:6]]
+
 7
 
 In proposing the Motion, Councillor Galvin requested that public lighting be provided at the
@@ -556,7 +569,9 @@ The Director referred to arranging a workshop with the Members to discuss strate
 within the District for the next five years. It was agreed that a date would be arranged in
 
 March to discuss this matter.
----
+
+[[PAGE_END:7]]
+
 8
 
 A workshop on the draft Newcastle West Traffic Movement and Public Realm plan was agreed
@@ -580,4 +595,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

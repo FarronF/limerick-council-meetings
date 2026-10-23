@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
+**Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 15th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach Cornhairie Car reach up Cone Lneae,
-* . c r he Th ag eu! u
-& Contae Luimnigh Ceanncheathni: Chorpardideach.
-NTN 4 Cé na gCeannaithe,
-= Limerick City Ludennesch
+eel Comhairle Cathrach Cornhairie Car reach up Cone Lineae,
+: : c r e a ag ie wu! u
+& Contae Luimnigh Ceanncheathni: Chorpardideach
+NTN A Cé na gCeannaithe,
+— Limerick City Ludennesch
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -35,10 +36,10 @@ Limerick
 
 EIRCODE V94 EHSO
 
-9 December, 2022.
+9" December, 2022.
 
-t: +353 (0) 61 557150
-t: 4353 (0) 61 415 266
+t: +353 (0) 61 57150
+f: 4353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
@@ -51,23 +52,25 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Me ds
+U\ ae
 
 Mark Leahy,
 Meetings Administrator.
 AGENDA
-1. Strategic Housing Development (SHD) Application to An Bord Pl U Cross
-Umerick.
+1. Strategic Housing Development (SHD) Application to An Bord PI l Cross
+Limerick.
 
-To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanala,
+To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanila,
 at Punches Cross, Limerick.
 
-= Customerservices@limerick.ic
+= Customerservices@limerickic
 
-© Wrew limerick ie
+© Wvew limerick ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimmeach w @limerickCouncil
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

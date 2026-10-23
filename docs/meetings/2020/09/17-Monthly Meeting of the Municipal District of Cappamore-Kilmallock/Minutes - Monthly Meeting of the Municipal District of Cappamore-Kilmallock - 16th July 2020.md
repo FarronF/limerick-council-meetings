@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/04-minutes-july-2020-mthly-mtg.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/04-minutes-july-2020-mthly-mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -69,7 +70,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Under Matters Arising, the Elected Members referred to recent media reports citing a
@@ -96,7 +99,7 @@ Members prior to the Annual Meeting to try to change the election pact that was 
 
 2. Physical Development Directorate
 
-Muni District of Ca ore-Kilma Places
+Mun District of Ca ore-Kilma Places
 (Amendment) Bye Laws 2020
 
 Circulated, report of Acting Senior Executive Officer, dated 8" June, 2020, setting out details
@@ -115,7 +118,9 @@ four hours and that this exemption would be reviewed after a period of twenty-fo
 from their adoption to take account of possible developments in the Electric Vehicle sector.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 He confirmed that the statutory Bye-Law process required the Local Authority to undertake
@@ -158,10 +163,12 @@ Limerick City and County Council install traffic calming measures and appropriat
 the west side approach road into Bruree village on the R518.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Proposed by Clir. Donegan, seconded by Clir. Carey and agreed.
+Proposed by Clir. Donegan, seconded by Cllr. Carey and agreed.
 Reply:
 
 A Driver Feedback Sign, in addition to the replacement of existing missing signage, will be
@@ -183,7 +190,7 @@ Within the Council’s Economic Development Directorate, there are three busines
 have as their remit the support of the jobs / business units of the Economic Development of
 the Council are structured along the following lines:
 
-e Trade & Investment — mainly deals with the large FD! companies and supports IDA/E|
+¢ Trade & Investment — mainly deals with the large FD! companies and supports IDA/EI
 in their promotion of Limerick as an investment location
 
 ¢ Innovate Limerick — drives business innovation for all sizes of company and develops
@@ -208,7 +215,9 @@ the Paul Partnership each have a role to play in business support in their own r
 areas.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Anew Head of Enterprise in the Limerick Enterprise Office will be appointed in the next two
@@ -259,7 +268,9 @@ equipment. There are a further 12 prosecutions pending at present.
 number of illegal dumping/waste issues recorded.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. There is no specific annual budget for CCTV equipment but the costs are paid from
@@ -309,7 +320,9 @@ that are operated by Limerick City and County Council and Shannon Commercial Pro
 Reply:
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Shannon Commercial Properties no longer have any Business Parks in the Cappamore
@@ -334,11 +347,11 @@ was awaiting a reply to it.
 
 11. Any Other Business
 
-e Maigue Rivers Trust
+¢ Maigue Rivers Trust
 
 Cllr E. Ryan confirmed to the Members that he was stepping down as the Elected Member
 Representative on the Maigue Rivers Trust. The Elected Members commended Cllr E. Ryan
-on his work over the years with the Maigue Rivers Trust. On the proposal of Clir Mitchell,
+on his work over the years with the Maigue Rivers Trust. On the proposal of Cllr Mitchell,
 seconded by Cllr M. Ryan and unanimously agreed, Cllr Donegan was selected as the Elected
 Member Representative on the Maigue River Trust.
 
@@ -351,7 +364,9 @@ agreed to invite AnneMarie McDonald, Community Sustainment Officer, Limerick Cit
 County Council to the Meeting.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Thomastown Railway Crossing
@@ -369,4 +384,6 @@ Cathaoirleach
 
 
 
----
+
+[[PAGE_END:8]]
+

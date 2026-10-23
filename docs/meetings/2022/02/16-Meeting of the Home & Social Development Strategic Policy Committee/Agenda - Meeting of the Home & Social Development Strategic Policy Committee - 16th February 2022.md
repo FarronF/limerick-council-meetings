@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/1602022_spc_agenda.pdf)
+**Original file:** [Agenda - Meeting of the Home & Social Development Strategic Policy Committee - 16th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/1602022_spc_agenda.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
 **DEVELOPMENT STRATEGIC POLICY COMMITTEE**
@@ -42,4 +43,6 @@ on the 16th February 2022
 5. AOB
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

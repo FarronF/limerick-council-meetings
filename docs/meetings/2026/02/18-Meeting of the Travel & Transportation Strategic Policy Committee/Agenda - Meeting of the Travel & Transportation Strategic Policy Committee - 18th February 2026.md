@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 **6th** **February 2026**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
@@ -49,7 +50,9 @@ transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **AGENDA**
 
 **1.Minutes:**
@@ -77,4 +80,6 @@ Update on the Car-Share scheme and operation of same within Limerick.
 To discuss the Council’s approach to pedestrianisation and pedestrian-priority spaces
 
 across Limerick and how enforcement of existing pedestrian spaces is addressed.
----
+
+[[PAGE_END:2]]
+

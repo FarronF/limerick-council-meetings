@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-b-minutes-ordinary-meeting-27.01.2020.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 27th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-b-minutes-ordinary-meeting-27.01.2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -82,7 +83,9 @@ withdrawn prior to it being seconded.
 With the Mayor’s permission, sympathy was extended to the following on their recent
 
 bereavements:
----
+
+[[PAGE_END:1]]
+
 2
 
 
@@ -168,7 +171,9 @@ And Resolved:
 approval of the Council be and is hereby given to the disposal of 94, Assumpta Park, Newcastle West,
 
 Co. Limerick, to Richard Long, for the sum of €125.42, the disposal to be by way of Deed of
----
+
+[[PAGE_END:2]]
+
 3
 
 Conveyance of the interest of Limerick City and County Council in the property, particulars of which
@@ -252,7 +257,9 @@ Proposed by Councillor O’Hanlon;
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act, 2001
@@ -334,7 +341,9 @@ approval of the Council be and is hereby given to the disposal of property (hous
 Ballingarry, Co. Limerick, to Phelim O’Neill, for the sum of €31,000, particulars of which were
 
 contained in Statutory Notice dated 13th January, 2020.”
----
+
+[[PAGE_END:4]]
+
 5
 
 3.
@@ -412,7 +421,9 @@ communities was a key aspect in the National Broadband Plan rollout in Limerick.
 the 2019-Q3 Broadband statistics and confirmed the members of the Limerick Broadband Steering
 
 Group.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members thanked Mr. Hanrahan and Dr. Bilauca for their comprehensive presentation and
@@ -476,7 +487,9 @@ role as Broadband Officer for Limerick City and County, he would liaise between 
 Elected Members and various organisations, contractors and sub-contractors to co-ordinate a
 
 successful rollout of NBP in the City and County of Limerick.
----
+
+[[PAGE_END:6]]
+
 7
 
 4.
@@ -548,7 +561,9 @@ Sheahan was appointed to fill the casual vacancy on the Joint Policing Committee
 the resignation of Councillor Slattery as a member of the Committee, for the remainder of the
 
 lifetime of the current Council.
----
+
+[[PAGE_END:7]]
+
 8
 
 (e)
@@ -634,7 +649,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor O’Hanlon;
 
 And Resolved:
----
+
+[[PAGE_END:8]]
+
 9
 
 “That, the approval of the Council be and is hereby given to visit by the Mayor, and a
@@ -710,7 +727,9 @@ contribution of €150,000 to DVM Productions Limited (Dolans), in support of a 
 accordance with Section 66 of the Local Government Act, 2001, as amended, repayable by 30th
 
 November, 2020.”
----
+
+[[PAGE_END:9]]
+
 10
 
 (g)
@@ -784,7 +803,9 @@ Councillor Leddin (J), Chairperson of the Travel and Transportation Strategic Po
 Committee, presented an overview of matters discussed at the Meeting.
 
 The report was noted by the Council.
----
+
+[[PAGE_END:10]]
+
 11
 
 (iv)
@@ -864,7 +885,9 @@ for the replacement of unsafe non-ESBN Columns which would be financed through H
 Finance Agency loans to each Local Authority. As part of this project, an Asset Condition Survey
 
 would also be completed.
----
+
+[[PAGE_END:11]]
+
 12
 
 The Director, Physical Development, outlined to the Members the estimated project costs
@@ -940,7 +963,9 @@ the Council’s approval to the making of an Agreement with Cork County Council,
 of the Local Government Act, 2001, as amended, for the proposed Local Authority Public Lighting
 
 Energy Efficiency Project – Southern Region.
----
+
+[[PAGE_END:12]]
+
 13
 
 The Director, Physical Development, referred to his presentation on the Local Authority
@@ -1018,7 +1043,9 @@ Proposed by Councillor Galvin;
 Seconded by Councillor O’Hanlon;
 
 And Resolved:
----
+
+[[PAGE_END:13]]
+
 14
 
 “That, in accordance with Section 74 of the Local Government Act, 2001, as amended, the
@@ -1094,7 +1121,9 @@ Question submitted by Councillor E. Secas
 ***I will ask at the next Meeting if the Council has a legal base for the CCTV in the City and County***
 
 ***and is GDPR compliant.***
----
+
+[[PAGE_END:14]]
+
 15
 
 **REPLY:**
@@ -1268,7 +1297,9 @@ to horses being re-homed to charities, some horses have been released to their
 owners when the owners fulfil the legal requirements for the keeping of horses.
 
 Similarly, a proportion of dogs seized are returned to their owners.
----
+
+[[PAGE_END:15]]
+
 16
 
 **Horses**
@@ -1450,7 +1481,9 @@ illumination, taking down and storage, and the spend was €105,535.
 Free car parking was provided at Cleeves, O’Callaghan Strand, the Council Car Park
 
 (via Nicholas Street) and the Irish Rail Depot, Roxboro Road.
----
+
+[[PAGE_END:16]]
+
 17
 
 11.
@@ -1626,7 +1659,9 @@ Notice of Motion submitted by Councillor J. Scanlan
 ***rural communities.***
 
 The Motion was proposed by Councillor Scanlan. There was no Seconder for the Motion.
----
+
+[[PAGE_END:17]]
+
 18
 
 13.
@@ -1698,7 +1733,9 @@ Notice of Motion submitted by Councillor L. Galvin
 ***not working from my point of view.***
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor Sheahan (J).
----
+
+[[PAGE_END:18]]
+
 19
 
 **REPLY:**
@@ -1764,7 +1801,9 @@ CHIEF EXECUTIVE’S ORDERS:
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
 available on SharePoint and Alfresco for inspection by the Members.
----
+
+[[PAGE_END:19]]
+
 20
 
 PLANNING AND DEVELOPMENT:
@@ -1782,4 +1821,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:20]]
+

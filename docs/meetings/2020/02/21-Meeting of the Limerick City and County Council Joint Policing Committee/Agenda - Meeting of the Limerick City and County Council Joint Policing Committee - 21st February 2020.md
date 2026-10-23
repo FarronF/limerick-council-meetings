@@ -16,46 +16,36 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-21st-february-2020.pdf)
+**Original file:** [Agenda - Meeting of the Limerick City and County Council Joint Policing Committee - 21st February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-21st-february-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__ Comhairle Cathrach
-; — & Contae Luimnigh
-~ ——o Limerick C
-s imerick City
+ae Comhairle Cathrach Sewbhisi Corpardideacha,
+Camhniairie Cathrach agus Coritae Lulmnigh,
+=% ~ wf” ™ & Contae Luimnigh Ceanncheathru Chorpardideach,
+Fi . Cé na gCeannaithe,
+—> Limerick City Luinnesch
 & County Council
-
-14" February, 2020.
-
-Sewbhisi Corpardideacha,
-
-Camnairie Cathrach agus Cortae Lulmnigh,
-Ceanncheathru Chorpardideach,
-
-Cé na gCeannaithe
-
-Lubnneach
-
 Corporate Services.
-
 Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay.
-
 Limenck
 
 EIRCODE V94 EH90
 
-t: +355 (0) 61 557150
+t: +3535 (0) 61 557150
 f: +353 (0) 61.415 266
+
+14" February, 2020.
 
 TO EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL JOINT POLICING COMMITTEE
 
 A Chara,
 
-I wish to inform you that a Meeting of en ave and —— Council Joint = ei Committee will
+I wish to inform you that a Meeting of en ave and ee Council Joint eae Committee will
 take place in The Cor orporat
 
 Details of the Agenda and attachments to be discussed at the meeting set out hereunder :
@@ -66,19 +56,13 @@ Sera
 
 A/Senior Executive Officer
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
-
 AGENDA
 
 1. Confirmation of Minutes of Joint Policing Committee Meeting held on 12 December, 2019
-
 (copy attached).
 
 2. To receive update from Chief Superintendent.
-
 3. Presentation by Ms. Grace O’Sheahan on the Role of The Community Policing Co-Ordinator.
-
 4. Presentation by Sergeant Martin McCarthy, Divisional Drugs Unit.
 
 5. Presentation by Mr. Seamus Hayes, Housing Services Officer, on Community
@@ -88,15 +72,16 @@ Sustainment/Estate Management.
 
 “t will ask at the next Meeting, as an aid to policing within the city centre, do CCTV cameras
 continue to be monitored at Henry Street Garda Station and has there been any reduction
-
 in the level of monitoring in the past year?”.
 
-om customerservices@limerick.te
-© werw timerick.ie
+mm customerservices@limerick.ie
 
-w @LimerickCouncil
+© won Mimerick.te
 
-(061 - 557150
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

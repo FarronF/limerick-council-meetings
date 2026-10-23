@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20February%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN** **ADARE RECREATION & COMMUNITY COMPLEX,** **THE**
@@ -84,7 +85,9 @@ Seconded by Councillor O’Donoghue;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -166,7 +169,9 @@ On the proposal of Councillor Teskey, seconded by Councillor Sheahan, it was agr
 receive a Deputation from Kilteery Pier Group at a future Meeting of the Municipal District
 
 of Adare-Rathkeale.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -234,7 +239,9 @@ allocate the following:
  €1,000 to Adare St. Patrick’s Day Parade.
 
  €1,000 to Askeaton St. Patrick’s Day Parade.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Collins, seconded by Councillor O’Donoghue, it was agreed
@@ -306,7 +313,9 @@ water disposal system and to be met prior to the commencement of
 development. The onus is on the applicant to ensure all necessary consents are in
 
 place prior to the commencement of development.
----
+
+[[PAGE_END:4]]
+
 5
 
 2.
@@ -376,7 +385,9 @@ Limerick will also be seeking funding through Rural Regeneration Development Fun
 Town and Village Grants to deliver the approved scheme which will be a good example
 
 of deliver on Governments Town Centre first Policy.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICE OF MOTION**
@@ -446,7 +457,9 @@ Accordingly, there are no plans to carry out Traffic Calming on Roches Road.
 **Correspondence**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:6]]
+
 7
 
 **12.**
@@ -488,4 +501,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

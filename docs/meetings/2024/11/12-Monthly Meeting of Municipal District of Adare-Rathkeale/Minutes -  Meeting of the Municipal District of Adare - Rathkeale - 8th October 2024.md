@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-october-2024_0.pdf)
+**Original file:** [Minutes -  Meeting of the Municipal District of Adare - Rathkeale - 8th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-october-2024_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ to proceed on the village hall in Adare.
 Councillor Keary raised concerns in relation to an issue which arose in Asgard Cove,
 
 Loughill with a farmer spreading slurry in the green area of the estate. Members had
----
+
+[[PAGE_END:1]]
+
 2
 
 reported their concerns to the Environment Department in Limerick City and County
@@ -162,7 +165,9 @@ Teskey and agreed to defer this item to a future Municipal District Meeting.
 Arlene Mellett, Senior Executive Engineer, Environment and Climate Action and Conor
 
 McDonagh, Senior Executive Engineer, Limerick Clare Energy Agency, Environment and
----
+
+[[PAGE_END:2]]
+
 3
 
 Climate Action gave Members a presentation on maximising potential future usage of
@@ -240,7 +245,9 @@ Members thanked the Executive Engineer, Active Travel for his presentation. Disc
 ensued in relation to the issue of buses stopping on the public road. Councillor
 
 O’Donoghue queried if the stop could be moved into the green area and off road. The
----
+
+[[PAGE_END:3]]
+
 4
 
 Executive Engineer, Active Travel advised the green area is privately owned and it would
@@ -316,7 +323,9 @@ Cleansing advised there is currently no budget in the District for footpath
 rehabilitation works and an application would need to be made to the Active Travel
 
 Department for consideration.
----
+
+[[PAGE_END:4]]
+
 5
 
  Councillor Keary raised the issue of street furniture on the footpath outside
@@ -390,4 +399,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20December%202015.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 21st December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-all Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+aa Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-* a Cé na gCeannaithe,
-: = Luimneach
+Z Cé na gCeannaithe,
+: —— Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -41,13 +42,12 @@ To: __ The Mayor and each Member of the Metropolitan District of Limerick
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-
 Council Chamber, Merchant's Quay, Limerick, on Monday, 21" December, 2015 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ch 06...
+Ch 66...
 
 Christy O’Connor,
 Meetings Administrator.
@@ -67,9 +67,10 @@ To note proposal for the disposal of land as follows:
 
 ¢ Disposal of Freehold Interest in dwelling house situate at 36 Marian Avenue, Roxboro
 Road in the City of Limerick.
-¢ Disposal of Freehold Interest in dwelling house situate at 100 Glasgow Park in the City
 
+¢ Disposal of Freehold Interest in dwelling house situate at 100 Glasgow Park in the City
 of Limerick.
+
 ¢ Disposal of Freehold Interest in dwelling house situate at 3 Flood Street, Pennywell in
 the City of Limerick.
 Disposal of 3 Lilac Court, Keyes Park, Southill, Limerick.
@@ -78,11 +79,13 @@ Disposal of Freehold (Ground Rent) at 1 Farranshone, Limerick City.
 (Reports Enclosed).
 
 customerservices@limerick.'
-Ceanncheathni Chorparéideach, Cé na ree Luimneach = é eiimanichale
+Ceanncheathni Chorparéideach, Cé na eee Luimneach - é ‘suetimnichcle
 Corporate Headquarters, Merchants Quay, vy @Limeri ickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -103,7 +106,7 @@ Ritaville, Old Cork Road, Limerick.
 
 (Report Enclosed).
 
-Part 8 Procedure — Former Dell Building, Plassey Road, Castletroy, Limerick
+Part 8 Procedure ~ Former Dell Building, Plassey Road, Castletroy, Limerick
 
 To consider the Chief Executive’s Report pursuant to Section 179 3(a) of the Planning and
 Development Act 2000-2015, and Part 8 of the Planning and Development Regulations,
@@ -139,7 +142,9 @@ Question submitted by Councillor Elena Secas
 concept in housing estates in the Metropolitan District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -180,7 +185,7 @@ junction.
 Notice of Motion submitted by Cmhlr. Séighin O Ceallaigh
 
 | will move at the next meeting that this District calls for prominence to be given to the
-Irish Language in the Limerick 2020 bid and for the language to be included in the title of
+irish Language in the Limerick 2020 bid and for the language to be included in the title of
 the bid, making it Limerick2020Luimneach.
 
 Notice of Motion submi mhlr. Séighin 6 Ceallaigh
@@ -190,7 +195,9 @@ act on its promise to provide for flood defences in Limerick City, and to extend
 defences to the Castleconnell/Lisnagry/Montpelier areas.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -209,7 +216,7 @@ Operational Briefings
 old Dunnes Stores, that were put in place to facilitate loading, be removed and replaced
 with normal disc parking measures. The store has been closed now for many years.
 
-Notice of Motion submi' b uncillor Daniel Butler (to be referred to the Local Area
+Notice of Motion submi b uncillor Daniel Butler (to be referred to the Local Area
 
 Operational Briefin
 
@@ -220,4 +227,6 @@ Correspondence.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

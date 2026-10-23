@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-i-Supplementary-Item-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
+**Original file:** [Supplementary Agenda - Meeting of Limerick City and County Council - 17th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-i-Supplementary-Item-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—__ Comhairle Cathrach
+__ Comhairle Cathrach
 & Contae Luimnigh
-ar™ , ooo
+ar™ , a oe
 
 Limerick City
 = & County Council
 
 13" July, 2023.
 
-Seirbhisi Corpardideacha,
+Seirbhisi Corparaideacha,
 
 Com)hairie Cathrach agus Contae Luimnigh,
 Ceanncheathri Chorpardideach,
@@ -45,7 +46,7 @@ Limenck City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V94 EH90
 
@@ -83,4 +84,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557180
 
 
----
+
+[[PAGE_END:1]]
+

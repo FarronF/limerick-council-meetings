@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/03%20Minutes%20Annual%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2028thJune2018.pdf)
+**Original file:** [Minutes  - Annual Meeting Municipal District Cappamore-Kilmallock  - 28th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/03%20Minutes%20Annual%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2028thJune2018.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS
@@ -74,7 +75,9 @@ That Councillor Eddie Ryan be appointed Cathaoirleach of the Municipal District 
 Cappamore-Kilmallock to hold office until the next Annual Meeting or until a successor has
 
 been appointed”
----
+
+[[PAGE_END:1]]
+
 2
 
 As there were no other nominations, the outgoing Cathaoirleach declared Councillor Ryan
@@ -130,4 +133,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

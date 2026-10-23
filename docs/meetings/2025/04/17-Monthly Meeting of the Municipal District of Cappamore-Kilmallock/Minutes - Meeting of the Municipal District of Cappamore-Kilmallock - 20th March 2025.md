@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/01-minutes.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/01-minutes.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -29,7 +30,7 @@ PRESENT IN THE CHAIR:
 
 Councillor M. Ryan Cathaoirleach.
 
-MEMBERS PRESENT;
+MEMBERS PRESENT:
 Councillors Carey, Conway, O’Sullivan, E. Ryan, Stokes and Teefy.
 OFFICIALS IN ATTENDANCE:
 
@@ -63,7 +64,9 @@ announcement and agreed that it was a great honour for the District and for Lime
 Cappamore-Kilmallock held on 20" February, 2025.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by: Councillor Stokes
@@ -108,7 +111,9 @@ Proposed by: Councillor E. Ryan;
 Seconded by: Councillor M. Ryan;
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 And Resolved.
@@ -124,7 +129,7 @@ Schedule of Municipal District Works 2025
 The Senior Executive Engineer outlined the various aspects of the draft Schedule for the
 Municipal District of Cappamore-Kilmallock for the Members and he confirmed the details
 of the proposed works for 2025. He also explained that allocations from Transport
-Infrastructure Ireland (TII) for certain road related projects were likely to be received in the
+Infrastructure Ireland (TI|) for certain road related projects were likely to be received in the
 coming weeks.
 
 Proposed by: Councillor Teefy;
@@ -150,7 +155,7 @@ And Resolved,
 That the Community Initiative Scheme 2025 outlined in the listing below, be adopted.
 
 Community Initiative Scheme 2025
-_Ardpatrick Development Projects Group ltd
+| Ardpatrick Development Projects Group ltd
 | Athlacca Community Hall _ ;
 | Ballingaddy Graveyard Committee
 | Ballylanders Development Association
@@ -159,7 +164,9 @@ Bruff Afterschool Project
 
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Colmanswell Community Council
@@ -180,45 +187,40 @@ olycross AFC Soccer Club
 ospital Family Resource Centre CLG
 KDB (Kilteely Dromkeen) Cemetery Committee
 
-ieceigacages
+ieceigaengaa
 
 Kilmallock Athletic Club
 Kilmallock Mens Shed
-Kilmallock Tidy Towns
-
 Kilteely Community Hall
 
-__€500
+___€500
 Kilteely Community Hall €500—
-__ €500
+_ €500
 
 Kilteely Tidy Towns
-
 Kilteely Tidy Towns
-
 Knockainy Historical & Conservation Soci €500
-
 Knockane GAA
-
 Knockcarron Community Council
 Limerick Mountain Biking Club
 Meanus Community Council
 Murroe Marian Social Club
 
-500,
-Murroe Boher 14" Limerick Murroe Boher Scout Group —  €250—
+Murroe Boher 14" Limerick Murroe Boher Scout Group
 Oola Tidy Towns
 Pa
 
-llasgreen GAA (Ladies Football Team) —  -€500—
+llasgreen GAA (Ladies Football Team) €500—
 Pallasgreen Tidy Towns __ €500
-__ €500
+__€500
 
 Pallas United FC
 Rockhill/Bruree Tidy Towns
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions
@@ -240,7 +242,7 @@ allocate the units 1-2 weeks later. Sophia have advised us that the connection o
 be paid immediately upon receipt. Limerick City and County Council's Allocations team
 have identified potential tenants for the units and will progress this once the delayed
 water connection issue has been resolved and once they have an accurate timeline for
-completion,
+completion.
 
 In addition to the 7 no. 1-bed and 2 no. 2-bed apartments Sophia are also near
 completion on a Communal Facility space within the building. This facility is aimed at
@@ -264,7 +266,9 @@ community ownership and seek funding to develop the overall lands, in line with 
 funding calls.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Conway
@@ -308,7 +312,9 @@ such as children with autism, from being possibly excluded from society, as this
 can be their main way of communicating when out in public.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Notice of Motion was proposed by Cllr Stokes, seconded by Cllr M. Ryan, and
@@ -349,7 +355,7 @@ The Roads Engineer from the Cappamore-Kilmallock Municipal District will review 
 criteria set out in the Limerick City and County Council Traffic Calming Policy to
 determine if traffic measures are warranted for Fairyfield.
 
-14. Notice of Motion submitted by Cllr Teefy
+14. Notice of Motion submitted by Clir Teefy
 
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
 safety measures be put in place on a section of the road edge on the R513 at Boskill,
@@ -358,7 +364,9 @@ Caherconlish where there is only a grass margin on the boundary of the road.
 The Notice of Motion was proposed by Cllr Teefy, seconded by Cllr M, Ryan, and agreed.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -386,4 +394,6 @@ This concluded the business of the meeting.
 Signed:
 
 
----
+
+[[PAGE_END:8]]
+

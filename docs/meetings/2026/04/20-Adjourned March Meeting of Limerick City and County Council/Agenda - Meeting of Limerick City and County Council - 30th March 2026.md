@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-limerick-city-and-county-council-30th-march-2026.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 30th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-limerick-city-and-county-council-30th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Seitbhisi Corpardideacha. Rislachais § Custaiméara
-P Comhairie Cathrach & Contae Luimnigh
-§ Contae Luimnigh Ceannchearthu Chorparaidesch
-NIN ; cé aithe
-——_—_siLimerick City Luimnench V4 B80
+as Comhaire Cathrach Seitbhisi Corpardideacha. Rislachais § Custaiméara
+, Comhairie Cathrach & Contae Luimnigh
+& Contae Luimnigh Ceannchearthu Chorparaidesch
+NINA : cé aithe
+——>_—_siLimerick City Luimneach V4 B80
 & County Council
 Corporate. Governance & Customer Services
 Limerick City and County Council
@@ -40,7 +41,7 @@ Limerick
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 30" March, 2026, at 3pm.
+Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 30™ March, 2026, at 3pm.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
@@ -66,11 +67,13 @@ To adopt Minutes of the following Meetings:
 2. Declaration of Interest
 
 = ie
-és _ eamats ee
+é _ eamaats leat focneo mest
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -120,7 +123,9 @@ To consider the Audit and Risk Committee Annual Report 2025.
 (Report and copy of Audit and Risk Committee Annual Report 2025 Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -136,13 +141,13 @@ Council Audit and Risk Committee.
 (Report and copy of Draft Charter and Terms of Reference Enclosed)
 
 Proposed Variation No. 2 to the Limerick Development Plan 2022-2028 (as
-to remove text in TR_O37
+to remove text in TR_0O37
 
 substandard roads
 
 To consider Proposed Variation No. 2 to the Limerick Development Plan 2022-2028 (as
 varied) and the Mayor's Report submitted to the members of the planning authority on
-the 23” of February 2026, to remove text in Chapter 7, Objective TR 037 regarding access
+the 23 of February 2026, to remove text in Chapter 7, Objective TR 037 regarding access
 to substandard roads and decide, by resolution, whether to make the Proposed Variation
 with or without further modification, in accordance with Section 58 (12) of the Planning
 and Development Act 2024.
@@ -169,7 +174,9 @@ Committee.
 (Report and Draft Annual Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -232,7 +239,9 @@ Culture Strategic Policy Committee held on 11 February, 2026.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -268,7 +277,7 @@ between Hohenlohe and Limerick, 4°" —6"" May, 2026.
 
 Conferences
 
-(a) ‘Participation by Members at Conferences
+(a) _—_ Participation by Members at Conferences
 
 To consider participation by Members at the following Conference:
 
@@ -283,7 +292,9 @@ Event.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -303,7 +314,7 @@ enforcement activities across Limerick:
 (a) How many individuals and/or entities have been fined or prosecuted for illegal
 dumping offences in each of the last five years (2021, 2022, 2023, 2024, 2025).
 
-({b) Of these enforcement actions, please provide a breakdown between: -
+(b) Of these enforcement actions, please provide a breakdown between: -
 Domestic/residential offenders - Commercial/business offenders - Breakdown by
 Municipal/Metropolitan District area.
 
@@ -347,7 +358,9 @@ sums due for derelict sites levy in each Municipal District for each of the past
 the total sums paid and the number of proceedings taken in the district and circuit courts.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -403,7 +416,9 @@ when called as a witness on behalf of a constituent when the case is being taken
 Limerick City and County Council,
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 34.
@@ -425,7 +440,7 @@ ncillor L. Galvin
 initiates proceedings on the Sheehy's Hardware site, Killarney Road, Abbeyfeale to
 facilitate re-zoning of lands from Enterprise and Employment to Retail.
 
-NOTIC OF MOTION Supmitted © me NWuUnictip: VIStrict OF Newcast n
+NOTIC OF Motion Submitted nme MUNICIDP: wiStrict OF Newcast ‘
 
 J. Sheahan
 
@@ -455,7 +470,9 @@ Government to amend the Israeli Settlements in the Occupied Palestinian Territor
 (Prohibition of importation of Goods) Bill to include the prohibition of trade in services.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
@@ -479,7 +496,7 @@ That this Council hold a minute’s silence in memory of the 923 children who di
 in Bessborough mother and baby home between 1922 and 1994.
 
 Notice of Motion submitted by Councillors M. Donoghue, U. Gavan, T. Hartigan,
-J, O'Donoghue, E. Ryan. J. Scanlan, E. Secas, B. Teefy (to be referred to the
+J, O'Donoghue, E. Ryan. J, Scanlan, E, Secas, B. Teefy (to be referred to the
 Protocol Committee)
 
 We will move at the next Meeting of Limerick City and County Council that:
@@ -511,4 +528,6 @@ date.
 Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

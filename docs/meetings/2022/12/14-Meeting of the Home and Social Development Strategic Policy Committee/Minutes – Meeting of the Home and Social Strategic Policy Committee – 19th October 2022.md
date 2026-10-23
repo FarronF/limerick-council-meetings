@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2019th%20October%202022.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2019th%20October%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -106,7 +107,9 @@ Cllr. Stephen Keary opened the meeting and welcomed all members to the October S
 **Seconded:** Cllr. Tom Ruddle
 
 **Item 2: Matters arising from the Minutes**
----
+
+[[PAGE_END:1]]
+
 2
 
 No matters arising from previous minutes.
@@ -184,7 +187,9 @@ being done.
 Ms. Mary Hayes, Senior Executive Officer, Housing Support Services presented the draft “Homeless
 
 Policy Document”
----
+
+[[PAGE_END:2]]
+
 3
 
 A discussion took place and the main points were:
@@ -258,7 +263,9 @@ A discussion ensued on the matter and Mr. Hayes, Ms. Patricia Phillips and Ms. M
 to a number of questions on a variety of topics including:
 
 1. Enforcement powers available to Council.
----
+
+[[PAGE_END:3]]
+
 4
 
 2. Number of cases dealt with by Community Sustainment Unit.
@@ -338,7 +345,9 @@ Ms. Newell explained that the Council arrange for an independent valuation of th
 provided an example of the financial contribution payable by the applicant and as set out in Limerick
 
 City and County Council’s Allocation Scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Keary, asked what the Council do with the 25% financial contribution. Ms. Curley advised that
@@ -418,7 +427,9 @@ stating that she was aware of cases where tenants who had agreed payment plans t
 arrears, and were adhering to such plans, had nevertheless received such letters thereby causing
 
 them distress. Mr. Hayes advised that he would be very surprised if that was the case and it was
----
+
+[[PAGE_END:5]]
+
 6
 
 agreed that Cllr. Benson would engage with him subsequent to the meeting with specific details so
@@ -442,4 +453,6 @@ Income thresholds for social housing.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:6]]
+

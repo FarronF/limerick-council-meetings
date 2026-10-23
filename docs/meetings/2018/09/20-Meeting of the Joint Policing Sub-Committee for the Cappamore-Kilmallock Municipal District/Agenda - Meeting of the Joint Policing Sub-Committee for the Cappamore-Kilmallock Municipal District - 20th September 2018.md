@@ -16,13 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20JPC%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20Joint%20Policing%20Sub-Committee.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee for the Cappamore-Kilmallock Municipal District - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20JPC%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20Joint%20Policing%20Sub-Committee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_— Comhairle Cathrach
-<=
+a‘ Comhairle Cathrach
 & County Council Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
@@ -44,7 +44,7 @@ Limerick, on Thursday, 20" September, 2018, at 3.00 p.m. The business to be tran
 
 out on the appended Agenda.
 
-VWinstn
+VWinst
 
 Mark Leahy,
 Meetings Administrator.
@@ -61,4 +61,6 @@ Sub-Committee held on 19" July, 2018.
 To discuss policing issues in the District.
 
 
----
+
+[[PAGE_END:1]]
+

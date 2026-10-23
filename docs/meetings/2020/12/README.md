@@ -1,9 +1,14 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2020 — 12 - December
 
 * [02 Monthly Meeting Of The Municipal District Of Newcastle West](02-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [03 Full Meeting Of Limerick City And County Council](03-Full Meeting of Limerick City and County Council/README.md)
 * [04 Virtual Joint Policing Committee Meeting](04-Virtual Joint Policing Committee Meeting/README.md)
 * [08 Monthly Meeting Of The Municipal District Of Adare Rathkeale](08-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* [08 Virtual Meeting Of The Climate Action, Biodiversity And Environment Strategic Policy Committee](08-Virtual Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee/README.md)
 * [10 Joint Policing Sub Committee Meeting For Elected Members Of The Municipal District Of Cappamore Kilmallock](10-Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock/README.md)
 * [10 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](10-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
 * [14 Virtual Meeting Of The Economic Development, Enterprise & Planning Spc](14-Virtual Meeting of the Economic Development, Enterprise & Planning SPC/README.md)

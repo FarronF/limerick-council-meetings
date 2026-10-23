@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_adjourned_draft_budgetary_plan_meeting_for_metropolitan_district_-_20th_october_2014.pdf)
+**Original file:** [Agenda for Adjourned Budgetary Plan Meeting for Metropolitan District - 20th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_adjourned_draft_budgetary_plan_meeting_for_metropolitan_district_-_20th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+a Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NN ‘ Cé na gCeannaithe,
+NN . Cé na gCeannaithe,
 — Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and Pract Council,
+CITY & COUNTY Limerick City and Pract A Council,
 rchants Quay,
 
-COUNCIL iarcerice
+COUNCIL tirerich
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -51,23 +52,21 @@ the Council Chamber, Merchant's Quay, Limerick. The business to be transacted is
 on the appended Agenda.
 
 Is mise le meas,
-We f
+oe f
 
-ugene) Griffin
+ugene Griffin
 Meetings Administrator
-
-2
-
-eee ewww ewe nnnneneennnnnenaa= eee eee nnn nee e en cee e nnn en ene nn ee en ene enneseeenes
-
 AGENDA
 1. To consider the General Municipal Allocation for the Metropolitan District of Limerick
 for the financial year ending 31st December, 2015.
+
 (Report already circulated).
 = customerservices@limerick.ie
 Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach © wwew.limerick.te
 
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

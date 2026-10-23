@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-21-agenda-draft-budgetary-plan.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Municipal District of Newcastle West - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-21-agenda-draft-budgetary-plan.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Dulche Bardais an Chaisiedin Nua Thiar,
-& Contae Luimnigh Comhairle Cathrach agus Contse Luimragh,
+Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+& Contae Luimnigh Comhairle Cathrach agus Contsee Luimrugh,
 
-= - - Aras William Smith O'Bnen,
-™ Li rick Ci Gortbut
+= - 7 Aras William Smith O'Bnen,
+m™ Li rick Ci Gortbut
 = merick City : An Caislean Nua Thiar,
 
 & County Council Co. Luimnagh
 
 Newcastle West Municipal District
-Limenck City and County Council
-Aras Viilliam Smith O'Bnen.
+Limenck City and County Councit
+Aras Viilliam Smith OBnen.
 Gortboy,
 
 Newcastle West,
@@ -43,7 +44,7 @@ Eircode: V42EH73
 
 t: +353 (0) 69 62100
 
-16" October, 2020
+16” October, 2020
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -67,7 +68,9 @@ West.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wvewlimerick.ie
 
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
-© 061 - $56 000
+C 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+

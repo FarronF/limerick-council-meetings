@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%20240918.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 24th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%20240918.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -90,7 +91,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -172,7 +175,9 @@ million (excluding VAT), subject to the covenants and conditions contained withi
 contract and the Council retaining wayleave/right-of-way access over the site, particulars of
 
 which were contained in Statutory Notice dated 12th September, 2018.”
----
+
+[[PAGE_END:2]]
+
 3
 
 3.
@@ -248,7 +253,9 @@ Accordingly, the Mayor directed that a Vote be taken on the Amendment proposed b
 Councillor Collins (M) and seconded by Councillor Ryan that there would be a 7.5% increase
 
 on the basic rate of Local Property Tax for 2019.
----
+
+[[PAGE_END:3]]
+
 4
 
 A Vote was taken which resulted as follows:
@@ -320,7 +327,9 @@ her bravery and leadership in highlighting issues with the cervical screening pr
 The Meetings Administrator confirmed that Ms. Phelan had indicated that the evening
 
 of Thursday, 18th October, 2018, was suitable.
----
+
+[[PAGE_END:4]]
+
 5
 
 (ii)
@@ -400,7 +409,9 @@ Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 
 September, 2018, in relation to the nomination of a Member to the Cultural Strategic Policy
 
 Committee consequent on the resignation of Councillor Scanlan from the Committee.
----
+
+[[PAGE_END:5]]
+
 6
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor Butler, this item was
@@ -470,7 +481,9 @@ And Resolved:
 City and County of Limerick to Austin, Texas, under Section 142(5) of the Local Government
 
 Act, 2001, as amended.”
----
+
+[[PAGE_END:6]]
+
 7
 
 (iv) Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 10th
@@ -544,7 +557,9 @@ Meeting.
 On the Proposal of Councillor O’Hanlon, seconded by Councillor Collins (M),
 
 Recommendation No. 2 was agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 **Recommendation No. 3**
@@ -614,7 +629,9 @@ approved the attendance of the following Members:
 **Dún Laoghaire, Co. Dublin:** Councillor O’Dea.
 
 **Clonmel, Co. Tipperary:**  Cmhlr. Ó Ceallaigh.
----
+
+[[PAGE_END:8]]
+
 9
 
 **(ii)**
@@ -702,7 +719,9 @@ consideration of the General Municipal Allocation (GMA) (Draft Budgetary
 Plan) discussions. Specific budgetary provision for Civic Receptions for each
 
 District can also be considered as part of the Statutory Budget 2019 process.
----
+
+[[PAGE_END:9]]
+
 10
 
 **Suspension of Standing Orders:** The Mayor drew attention to the time which was
@@ -760,7 +779,9 @@ CHIEF EXECUTIVE’S ORDERS:
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
 available on Alfresco for inspection by the Members.
----
+
+[[PAGE_END:10]]
+
 11
 
 PLANNING AND DEVELOPMENT:
@@ -778,4 +799,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:11]]
+

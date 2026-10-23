@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2024 — 03 - March
 
 * [01 Joint Policing Committee Meeting](01-Joint Policing Committee Meeting/README.md)
@@ -7,3 +11,4 @@
 * [20 Monthly Meeting Of The Metropolitan District Of Limerick](20-Monthly Meeting of the Metropolitan District of Limerick/README.md)
 * [21 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](21-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
 * [25 Full Meeting Of Limerick City And County Council](25-Full Meeting of Limerick City and County Council/README.md)
+* [28 Special Meeting Of The Economic Development, Enterprise And Planning Strategic Policy Committee](28-Special Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee/README.md)

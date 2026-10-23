@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare_-_rathkeale_-_2nd_december_2014.pdf)
+**Original file:** [Agenda - Municipal District of Adare - Rathkeale - 2nd December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare_-_rathkeale_-_2nd_december_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-il Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
+aE Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-oe® Cé na gCeannaithe,
-—= Fi Luimneach
+oe Cé na gCeannaithe,
+—= 7 Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -50,7 +51,7 @@ Is mise le meas,
 Tina Knox,
 Meetings Administrator.
 
-eae een ween ewe we ee ee ener n nn nner nn enna nnn nnn e nnn ne eee eeeeeee
+eae e eee n nen eee e wn ee ee ene wenn nnn nn nner n enn nn ne nen eens eeeeeeee
 
 AGENDA
 
@@ -66,18 +67,18 @@ To hear update on Proposed Lease of Gortadroma Landfill
 @ customerservices@limerickie
 
 ]
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © Wwerwlimerickie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © Werwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Bi
+[[PAGE_END:1]]
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
 
-rc
+ae
 
 Economic Development and Planning
 
@@ -126,7 +127,9 @@ sales process and state who were the stakeholders involved in influencing the pr
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -137,4 +140,6 @@ Notice of of
 Ballyvareen Estate, Kildimo and An Curran Estate, Pallaskenry.
 
 
----
+
+[[PAGE_END:3]]
+

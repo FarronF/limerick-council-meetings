@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-7th-of-september-2020.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 7th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-7th-of-september-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Community, Leisure & Culture Strategic Policy Committee Meeting 07/09/2020
@@ -28,9 +29,17 @@ Council Chamber, Dooradoyle, Limerick on Monday, 7 September, 2020 at 3pm
 
 The following were in attendance: -
 
-IN THE CHAIR: Cllr. Kieran O" Hanlon
+IN THE CHAIR:
 
-PRESENT: Clir. Michael Collins
+PRESENT:
+
+IN ATTENDANCE:
+
+APOLOGIES:
+
+Cllr. Kieran O° Hanlon
+
+Cllr. Michael Collins
 Cllr. Olivia O' Sullivan
 Cllr. Sarah Kiely
 
@@ -41,7 +50,7 @@ Cllr. Conor Sheehan
 Cllr. Jerry O’ Dea
 
 Cllr. Azad Talukder
-Cilr. PJ Carey
+Cllr. PJ Carey
 
 Ms Josephine Butler
 Ms Louise Crowley
@@ -51,24 +60,31 @@ Mr Padraig Lohan
 
 Mr Mike Ryan
 
-IN ATTENDANCE: Mr Gordon Daly, Director of Services
+Mr Gordon Daly, Director of Services
+
 Mr Seamus O’ Connor, Senior Social Worker/ Chief Officer LCDC
 Ms Kathy O’ Grady, Staff Officer
+
 Mr Denis Tierney, Communications Officer
+
 Ms Aoife Potter Coogan, A/ Administrative Officer
+
 Cllr Sean Hartigan
 
-APOLOGIES: Cllr Elisa O’ Donovan
+Cllr Elisa O’ Donovan
 Ms Louise Donlon
+
 Item 1: Adoption of Minutes
 
 On the proposal of Clir S Kiely, seconded by Cllr D McSweeney the minutes of the previous
 committee meeting held on the 6" July, 2020 were unanimously adopted.
 
-_
+|
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 2: Matters Arising
@@ -87,7 +103,7 @@ Item 4: Limerick 50 days of Summer Programme (Presentation)
 
 The members received an update on Limerick.ie’s Limerick 50 days of Summer programme.
 The presentation explained that the campaign provided an opportunity to explore and win
-one of 50 unique ways to spend the most memorable holiday in Limerick. It was an 8 week
+one of SO unique ways to spend the most memorable holiday in Limerick. It was an 8 week
 campaign that ran across social, digital, print, local and national radio advertising. The
 presentation outlined that this resulted in over 84,000 competition entries and a huge
 increase in traffic to Limerick social media sites. The Marketing and communications team are
@@ -116,12 +132,14 @@ L Crowley highlighted that she would like to see more county based festivals and
 emphasis on attracting rural visitors to the city and vice versa.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A Potter Coogan outlined that there are already a number of festivals and events taking
-place around County Limerick such as Eigse Michael! Hartnett, Hearsay Festival and
-soulscapes,
+place around County Limerick such as Eigse Michael Hartnett, Hearsay Festival and
+soulscapes.
 
 Item 6: Notice of Motion submitted by Cllr Sean Hartigan
 
@@ -158,7 +176,7 @@ Item 8: Meeting Schedule
 Provisional dates for future meetings of the Community, Leisure and Culture SPC were
 agreed as follows:
 
-9” November, 2020 3:00pm
+9" November, 2020 3:00pm
 8” February, 2021 3.00pm
 12" April, 2021 3.00pm
 12" July, 2021 3.00pm
@@ -166,7 +184,9 @@ agreed as follows:
 11" October, 2021 3.00pm
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Locations of the above meetings are to be decided.
@@ -178,4 +198,6 @@ As there were no other matters for discussion, the meeting was brought to a clos
 
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-Metropolitan-District-of-Limerick-7th-September-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 7th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-Metropolitan-District-of-Limerick-7th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_—— Comhairle Cathrach
+—_—" Comhairle Cathrach
 & Contae Luimnigh
-Ne ae
 
 2 — Limerick City
 & County Council
@@ -32,10 +32,10 @@ Ne ae
 
 A Chomhairleoir, a chara,
 
-Seirbhisi Corpardideacha,
+Seirbhisi Corparaideacha,
 
-Comnhairie Cathrach agus Contae Luimnigh,
-Ceanncheathru Chorpardideach.,
+Comhairie Cathrach agus Contae Luimnigh,
+Ceanncheathra Chorparaideach.
 
 Cé na gCeannaithe,
 
@@ -69,7 +69,7 @@ Is mise le meas,
 Mark Leahy,
 Meetings Administrator.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 =
@@ -78,4 +78,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

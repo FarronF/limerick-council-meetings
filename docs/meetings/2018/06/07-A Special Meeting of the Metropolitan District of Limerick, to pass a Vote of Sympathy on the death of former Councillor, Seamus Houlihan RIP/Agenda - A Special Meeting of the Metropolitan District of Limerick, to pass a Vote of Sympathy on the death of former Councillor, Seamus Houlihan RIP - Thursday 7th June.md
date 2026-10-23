@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%207th%20June%202018.pdf)
+**Original file:** [Agenda - A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP - Thursday 7th June.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%207th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . Seirbhisi Corpardideacha,
 
-__—_—— epee anda Comhairle Cathrach agus Contae Luimnigh.
+_—_—_— eee aol Comhairle Cathrach agus Contae Luimnigh.
 
-ontae Luimnig Ceanncheathra Chorpardideach,
+ontae Luimnig Ceanncheathna Chorpardideach,
 
-ArcN ; . ; Cé na gCeannaithe,
+ArcN . . . Cé na gCeannaithe,
 
-—=—>2 Limerick City Luimneach
+—=—>>2 Limerick City Luimneach
 & County Council
 
-Corporate Services,
+Corporate Services.
 
-Limerick City and County Council
+Limerick City and County Council,
 
 Corporate Headquarters,
 
@@ -58,7 +59,7 @@ held in the Exhibition Space, Merchant's Quay, Limerick on Thursday, 7 June, 201
 
 Is mise le meas,
 
-itis C Qua
+ities C Qua
 James Clune,
 eetings Administrator.
 
@@ -68,7 +69,7 @@ AGENDA
 
 © customerservices@limerick.ie
 
-© werwlimerickie
+& wenwlimerickie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
 ( 061 - 557150
@@ -76,4 +77,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

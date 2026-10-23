@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-03</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-03-23_meeting_agenda.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock - 23rd March 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-03-23_meeting_agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Setrbiiisi Corparaideacha.
-> Comhairle Cathrach agus Contae Luimnigh,
+- Comhairle Cathrach agus Contae Luimnigh,
 
-AON GS Ceanncheathri Chorpardideach,
+AON G Ceanncheathri Chorpardideach,
 —=> Cé na gCeannaithe.
 COMHAIRLE Luimneach
 CATHRACH & CONTAE
 
-ri ° Corporate Services,
+ri r Corporate Services,
 Luimnigh Limerick City and County Council,
-ar er oe ee Corporate Headquarters.
+“er ee oe ae Corporate Headquarters,
 Limerick Merchants Quay,
 CITY & COUNTY Limerick
 
@@ -40,7 +41,7 @@ EIRCODE V94 EH9O
 
 th
 
-16" March, 2017. t: 4353 (0) 61.407 100
+16" March, 2017. t: +353 (0) 61407 100
 
 f: +353 (0) 61 415 266
 
@@ -74,19 +75,18 @@ To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock he
 Superintendent William Duane, Bruff District, to give update on policing for the District.
 
 3. Disposal of Land
-
 To note proposal for the disposal of land at Bohergar, Boher, Co. Limerick.
-
 (Report Enclosed)
-customerservices@limerick.ic
-
-© ww limerick.te
+customerservices@limerick.tc
+© www limerick.ie
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation
@@ -124,7 +124,9 @@ Amendment to County Development Plan
 To receive a presentation in relation to the Northern Distributor Road.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -157,7 +159,7 @@ provide extra dog dirt bags; (c) penalise offenders with fines.
 
 otice of Motion submitt ouncillor W. O’Donnell
 
-! will move at the next meeting that Limerick City and County Council identify a
+| will move at the next meeting that Limerick City and County Council identify a
 permanent solution to the recurring road damage on the R514 adjacent to Cahercorney
 Graveyard and also adjacent to the Council Compound.
 
@@ -168,4 +170,6 @@ immediately upgraded, as a matter of urgency, to make it fit for purpose to comp
 with present regulations.
 
 
----
+
+[[PAGE_END:3]]
+

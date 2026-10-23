@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/agenda.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Committee - 15th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Seibhisi Corpardideacha,
+Comhairle Cathrach Sewbhisi Corpardideacha,
 Comhairle Cathrach agus Comae Luénnigh,
 
-a & Contae Luimnigh Conneaut th stent
-aArN Cé na gCeannaithe,
+a & Contae Luimnigh Commchaaant th rae
+aAr™N Cé na gCeannaithe,
 Limerick City Luimneach
 
 = & County Council
@@ -39,7 +40,7 @@ Limerick
 
 EIRCODE V94 EH9O
 
-t: +353 (0) 61 557150
+t; +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 11" September, 2017.
@@ -77,15 +78,17 @@ Committee Meetings.
 
 6. City centre policing.
 @ customerservices@limerick.ie
-& wurwlimerick.ie
-Cé na gCeannaithe, Luimneach vy @LimerickCouncil
-061 - 557150
+& wor limerick.ie
+Cé na gCeannaithe, Luimneach y @LimerickCouncil
+(061 - 557150
 
-Ceanncheathru Chorparaideach,
+Ceanncheathru Chorpardideach,
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -127,7 +130,7 @@ fear of thefts, burglaries or madness on our roads.”
 
 To consider the following Notice of Motion submitted by Councillor F. Daly :
 
-“lam calling on the Chief Superintendent to make sure that there will be sufficient Gardai on
+“Lam calling on the Chief Superintendent to make sure that there will be sufficient Gardai on
 our streets going forward to reassure the business people, shoppers and those out
 socialising that all can trade, shop and enjoy themselves without any hassle / fear”.
 
@@ -139,4 +142,6 @@ the long evenings to alleviate fears out there from the elderly, vulnerable and 
 public”.
 
 
----
+
+[[PAGE_END:2]]
+

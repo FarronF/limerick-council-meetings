@@ -16,22 +16,23 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/11.02.19%20Draft%20Minutes%20of%20Travel%20and%20Transportation%20SPC%20Meeting.pdf)
+**Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 11th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/11.02.19%20Draft%20Minutes%20of%20Travel%20and%20Transportation%20SPC%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_ Comhairle Cathrach
 
 & Contae Luimnigh
 
-aaa
-— Limerick City
+nN r™
+—> Limerick City
 
 & County Council
 
 Minutes of the Meeting of Limerick City & County Council's Travel and Transportation
-Strategic Policy Committee held on Monday 11” February 2019 at 10:00am in the Council
+Strategic Policy Committee held on Monday 11 February 2019 at 10:00am in the Council
 Chamber, Merchant’s Quay, Limerick.
 
 Members Present:
@@ -54,12 +55,12 @@ Assistant Staff Officer, Ms. Amy O’Halloran, Clerical Officer.
 Item 1: Ado) es
 
 On the proposal of Cllr. Lynch, seconded by Cllr. Donegan the minutes of the previous
-committee meeting held on 3‘ December 2018 were unanimously adopted.
+committee meeting held on 3" December 2018 were unanimously adopted.
 
 Item 2: Update on Road Grants 2019 — Mr. Vincent Murray, S.E.
 
 Mr. Murray gave a presentation on the Roads Grants advised by the respective funding
-bodies Transport Infrastructure Ireland (TI), the Department of Transport (DTTAS), Tourism
+bodies Transport Infrastructure Ireland (Tl), the Department of Transport (DTTAS), Tourism
 and Sport and the National Transport Authority (NTA) to the Council for 2019.
 
 The combined total of grants for 2019 for Limerick is €39.25 million, which is an increase of
@@ -70,7 +71,9 @@ to the high proportion of motorway and national roads schemes in the mid-west re
 Funding in the amount of €2.15 million has been provided to advance the M20 Limerick to
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cork scheme, and funding in the amount of €1.4 million has been provided to advance the
@@ -113,9 +116,9 @@ Road.
 (2) Til funding for the Abbeyfeale Traffic Management Plan.
 
 In response, Mr Murray advised that the Roads Design Office is in the process of appointing
-consultants from the TIl Framework for both the Abbeyfeale and Newcastle West Relief
+consultants from the Tll Framework for both the Abbeyfeale and Newcastle West Relief
 Roads. He confirmed that no routes had been identified as yet. He also advised that the
-Council is speaking with TIl with a view to agreeing a funding split for the Abbeyfeale Traffic
+Council is speaking with THl with a view to agreeing a funding split for the Abbeyfeale Traffic
 Management Plan.
 
 Clir Lynch: (1) No funding provided for traffic management at Clarina.
@@ -124,7 +127,9 @@ Mr Murray advised that the speed limit of this stretch will be reduced if the Co
 approves the Review of the Speed Limits, which will come before it shortly. He added that
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 this may allow the Council to bring forward proposals for further calming and
@@ -137,7 +142,7 @@ Cllr Donegan: (1) Funding for Croom Distributor Road.
 In response, Mr Murray confirmed that the cost of the Croom Distributor Road have been
 agreed between the Council, LCETB and DTTAS. He also confirmed that there was a small
 bit of land remaining to be compulsorily purchased for this scheme. He stated that no
-funding had been allocated in 2019 by TIl for traffic calming or public lighting at Banogue,
+funding had been allocated in 2019 by Til for traffic calming or public lighting at Banogue,
 but that the local engineer could apply for GeoApp funding for this. He advised that he was
 not aware of Anhid Cross being included in the N20 Ballyphilip to Howardstown scheme. Mr
 Kennedy advised the contractor was doing upgrades to the junctions under the scope of the
@@ -170,7 +175,7 @@ next meeting of the SPC. This proposal was seconded by Cllr Lynch.
 
 Item 3: Presentation on the Limerick City and County Council Climate Adaptation
 
-Strategy ~ Mr Dara McGuigan, A/S.E.0. and Mr. Tom O'Neill, Heritage
+Strategy ~ Mr Dara McGuigan, A/S.E.O. and Mr. Tom O'Neill, Heritage
 Officer.
 
 Mr McGuigan advised the committee that the Physical Development Directorate, in
@@ -179,7 +184,9 @@ conjunction with Economic Development Directorate, was preparing a draft Climate
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Adaptation Strategy in accordance with the requirements of the Climate Action and Low
@@ -215,4 +222,6 @@ welcomed the funding and hoped that the issues raised could be resolved.
 The Meeting then concluded.
 
 
----
+
+[[PAGE_END:4]]
+

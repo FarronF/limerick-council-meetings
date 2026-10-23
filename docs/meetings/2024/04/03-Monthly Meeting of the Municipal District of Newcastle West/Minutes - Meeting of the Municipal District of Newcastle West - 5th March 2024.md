@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 5th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
 such interests were declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -172,7 +175,9 @@ number of matters including ways to reduce noise, the impact of surface material
 roads to reduce noise in residential areas, speed ramps and what measures can be taken to
 
 reduce the effect of noise from traffic on nearby dwelling houses.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -246,7 +251,9 @@ West Municipal District.
 Circulated, report of Senior Executive Officer, Strategy and Non LA Housing Construction
 
 dated 8th February, 2024.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Senior Executive Officer, Strategy and Non LA Housing Construction provided a summary
@@ -322,7 +329,9 @@ allocate €1,000 to St. Ita’s Parish Hall.
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
 
 allocate €1,000 to Newcastle West Music Trail Festival.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
@@ -388,7 +397,9 @@ Question submitted by Councillor L. Galvin
 REPLY:
 
 TII are not in a position to confirm funding for this scheme at the moment. However, they
----
+
+[[PAGE_END:5]]
+
 6
 
 have flagged that there may be an opportunity in the coming weeks for LA’s to apply for
@@ -458,7 +469,9 @@ between the Church and the GAA field. In order to strengthen the road additional
 reinforcement will have to be made to sub grade which will be quite expensive. We may not
 
 be in a position to upgrade the footpaths in 2024 due to lack of financial resources.
----
+
+[[PAGE_END:6]]
+
 7
 
 12.
@@ -546,7 +559,9 @@ Question submitted by Councillor M. Collins
 ***speed limits in place for our towns and villages in the District with particular emphasis on***
 
 ***our schools where pedestrian activity is highest.***
----
+
+[[PAGE_END:7]]
+
 8
 
 REPLY:
@@ -614,7 +629,9 @@ REPLY:
 The Newcastle West District Office is awaiting a plebiscite from the businesses
 
 of the Desmond Business Park in order to progress this.
----
+
+[[PAGE_END:8]]
+
 9
 
 In proposing the Motion, Councillor Scanlan referred to the condition of the road at the
@@ -682,7 +699,9 @@ erect any sign or notice that makes a traffic sign less visible to road users.
 These are the current regulations with regard to election posters. It is open to members of
 
 the Newcastle West Municipal District to voluntarily agree not to erect election posters in the
----
+
+[[PAGE_END:9]]
+
 10
 
 area in the run up to the Local Government Elections in June, however this agreement would
@@ -750,7 +769,9 @@ In proposing the Motion, Councillor Sheahan referred to various accidents which 
 occurred at the above location and wished to amend the Notice of Motion to read “I will move
 
 at the next Meeting that Limerick City and County Council realign the traffic movement at the
----
+
+[[PAGE_END:10]]
+
 11
 
 bridge at the entrance to Costello Aluminium in Kilfergus, Glin, due to the high volume of
@@ -828,7 +849,9 @@ policy, this item was referred to the Travel and Transportation SPC for consider
 An update was sought on the issue of speeding on the R523 from The Pike in Ardagh to the
 
 Kerry bounds along with other roads in the District and in replying, the Senior Engineer stated
----
+
+[[PAGE_END:11]]
+
 12
 
 that a speed survey can be carried out at various locations on the R523. He stated that if
@@ -874,4 +897,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

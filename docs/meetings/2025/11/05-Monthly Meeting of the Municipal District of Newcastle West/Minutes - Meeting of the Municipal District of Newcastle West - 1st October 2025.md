@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-newcastle-west-1st-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 1st October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-newcastle-west-1st-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -33,7 +34,7 @@ MEMBERS PRESENT:
 
 Councillors Foley, Galvin, Ruddle, Scanian and Sheahan.
 
-FIci !
+Fici Ly
 
 Director, Rural, Culture, Community and Tourism Development (Mr. S. Duclot), A/Senior
 Executive Officer, Municipal Districts (Ms. K. White), Meetings Administrator, Newcastle West
@@ -66,7 +67,9 @@ Municipal Allocation process or to continue with the existing arrangement when d
 the Community Initiative Scheme.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Following discussion and as no agreement was reached by the Members, the Cathaoirleach
@@ -114,7 +117,9 @@ is to take place on the 5" September 2026. He referred to the Limerick Library's
 website which will host a permanent, dedicated feature on the Dromcollogher disaster. He
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 stated that Limerick City and County Library has compiled materials of the disaster and he
@@ -126,7 +131,7 @@ the importance of same.
 The Arts Officer addressed the Meeting and briefed the Members on a Choral Piece Project
 to commemorate the 100" Anniversary of the Dromcollogher Fire (1926 — 2026) which is
 ongoing at present. She stated that part of the Plan is to engage with community members
-in creative workshops and rehearsals and to present a public performance on 5" September,
+in creative workshops and rehearsals and to present a public performance on 5 September,
 2026, as part of the Dromcollogher Commemoration events. The Arts Officer gave an
 overview of the key activities and various timelines in the project. Reference was also made
 to staging of the play “The Bellringer” which will be performed in Dromcollogher over several
@@ -164,7 +169,9 @@ logistics of organising the site for the day, location for the event, numbers fo
 manner in which invitations are to be issued and funding for the project.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer made reference to the role of the Local Authority in terms of
@@ -215,7 +222,9 @@ It was proposed by Councillor Galvin, seconded by Councillor Foley and agreed by
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the extension of the bye-laws at Convent Street, Abbeyfeale be implemented subject to
@@ -257,7 +266,7 @@ Replies to the following Questions on the Agenda were circulated to all Members 
 Meeting and the Questions were therefore taken as having been dealt with.
 
 7. estion mitted b illor alvin
-| will ask at the next Meeting for an update on (a) the proposed footpath from the Devon
+! will ask at the next Meeting for an update on (a) the proposed footpath from the Devon
 Hotel to Templeglantine G.A.A. field [Give detailed reply as to where this application is at],
 
 (b) the extension to the footpath and traffic calming at Killarney Road, Abbeyfeale
@@ -266,7 +275,9 @@ towards Dalton’s Cross.
 REPLY:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a) The current proposal is with Transport Infrastructure Ireland for approval to allow the
@@ -277,13 +288,13 @@ meeting.
 
 (b) Limerick City and County Council are currently conducting a Survey and Feasibility
 options report to which we hope to present to Transport Infrastructure Ireland at next
-monthly meeting. There are three options being presented to the TI with the likely
+monthly meeting. There are three options being presented to the Til with the likely
 option to receive funding being a Pedestrian Crossing at the Town Park with footpath
 extension to the 60 KMPH speed limit.
 
 8. Question submitted by Councillor L. Galvin
 
-| will ask at the next Meeting for an update on (a) Daly's building, Main Street, Abbeyfeale
+| will ask at the next Meeting for an update on (a) Daly’s building, Main Street, Abbeyfeale
 (b) the house at the corner of New Street and Colbert Street, Abbeyfeale.
 
 REPLY:
@@ -318,7 +329,9 @@ In response to the above, the Senior Executive Engineer stated that a Meeting is
 6
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 with Active Travel and the Roads Team with regard to the design of the above project which
@@ -327,7 +340,7 @@ has taken place at this location. He agreed to revert to the Members on this mat
 ADJOURNED NOTICES OF MOTION
 10. Notice of Motion submitted by Councillor T. Ruddle
 
-! will move at the next Meeting that Limerick City and County Council maintain our public
+/ will move at the next Meeting that Limerick City and County Council maintain our public
 park/Demesne to a much higher standard for the enjoyment of the public in terms of grass
 cutting and hedge cutting.
 
@@ -366,7 +379,9 @@ of grass and weed control. There will be washing and cleaning of the Square in t
 weeks and this will be programmed going forward.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Councillor Ruddle referred to the condition of The Square in
@@ -413,7 +428,9 @@ Limerick City and County Council will include this potential scheme within the N
 for 2026/2027.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Councillor Galvin requested that the footpath be extended in Athea
@@ -460,4 +477,6 @@ Dated:
 
 
 
----
+
+[[PAGE_END:9]]
+

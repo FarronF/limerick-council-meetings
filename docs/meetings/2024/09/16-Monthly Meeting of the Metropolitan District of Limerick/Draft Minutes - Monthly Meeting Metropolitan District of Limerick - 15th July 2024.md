@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-draft-minutes-monthly-meeting-15th-july-2024.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting Metropolitan District of Limerick - 15th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-draft-minutes-monthly-meeting-15th-july-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -86,7 +87,9 @@ And Resolved:
 (b) Circulated, copy of draft Minutes of the Annual Meeting of the Metropolitan District of
 
 Limerick held on 28th June, 2024:
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Hartigan;
@@ -154,7 +157,9 @@ relation to identifying lands that would be suitable for the delivery of such a 
 the Metropolitan District of Limerick.
 
 **5.Question submitted by Councillor J. Leddin**
----
+
+[[PAGE_END:2]]
+
 3
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what criteria is used to***
@@ -232,7 +237,9 @@ satisfactory and therefore there is no requirement for Eircodes.
 ***the Council to go in and refurbish/repair the property and is there funding specifically available***
 
 ***for these properties.***
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY:** The Department of Housing, Local Government and Heritage funds both the acquisition and
@@ -306,7 +313,9 @@ secondary schools.
 A facility of this size and range requires significant planning and resources, both capital and
 
 revenue and progress must be set in the context of other local authority demands.
----
+
+[[PAGE_END:4]]
+
 5
 
 Therefore, we are not in a position at this stage to have a definite timeline for delivery of
@@ -386,7 +395,9 @@ road markings will be considered as guidance for road traffic users in this area
 **REPLY:** Funding of €410,000 has been allocated for a new playground for the Caherdavin
 
 community, consisting of a combination of General Municipal Allocation and Development
----
+
+[[PAGE_END:5]]
+
 6
 
 Contributions funding. A number of sites have been reviewed and narrowed down. It is the
@@ -462,7 +473,9 @@ constructed the Canal, back drains, sluices, bridge, sections of pipeline, fenci
 fifty years carried out continuous maintenance work on the Canal in conjunction with various other
 
 statutory bodies including SFADCO and the IDA.
----
+
+[[PAGE_END:6]]
+
 7
 
 We have not been provided with any evidence that any party other than the Council has any
@@ -536,7 +549,9 @@ accordance with the guidelines.
 **REPLY:** The project for resolving the THM issues at Clareville WTP was handed over for
 
 infrastructure delivery in Q3 2023.
----
+
+[[PAGE_END:7]]
+
 8
 
 The solution requires extensive bench trials and experimental design to study the efficacy
@@ -730,7 +745,9 @@ Accommodation
 **28**
 
 **30**
----
+
+[[PAGE_END:8]]
+
 9
 
 **January to December 2023 Exits**
@@ -1030,7 +1047,9 @@ Accommodation
 **19**
 
 **60**
----
+
+[[PAGE_END:9]]
+
 10
 
 **19.Question submitted by Councillor S. Beasley**
@@ -1100,7 +1119,9 @@ Members supported the Motion and stated that the Bye-Laws should be reviewed als
 **REPLY**: Limerick City and County Council employs two dog wardens, a kennel assistant and
 
 administrative support in operating the LCCC Dog Shelter and in enforcing the Control of
----
+
+[[PAGE_END:10]]
+
 11
 
 Dogs Act, including regulations regarding restricted dog breeds. The team responds to all
@@ -1174,7 +1195,9 @@ same. It was also agreed to include the Play and Recreation Policy for discussio
 ***on the progress made on the crypt in Mount St. Laurence and the commitment given to improve***
 
 ***it and make it safe.***
----
+
+[[PAGE_END:11]]
+
 12
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor Doyle and agreed.
@@ -1248,7 +1271,9 @@ national roads, relevant local and national policies and not impact on the capac
 safety of the existing national road infrastructure. It is noted that this section of the
 
 national road network also forms part of the Limerick Tunnel PPP concession contract.
----
+
+[[PAGE_END:12]]
+
 13
 
 **26.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
@@ -1302,4 +1327,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:13]]
+

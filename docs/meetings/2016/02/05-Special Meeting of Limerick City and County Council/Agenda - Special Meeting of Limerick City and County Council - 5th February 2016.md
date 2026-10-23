@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20February%202016.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 5th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-oes Cé na gCeannaithe.
-—=>> Luimneach
+ore Cé na gCeannaithe.
+——=>>=>- Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and ale Some
+CITY & COUNTY Limerick City and comm Somes
 y.
 
-COUNCIL pee
+COUNCIL es
 
 t: +353 (0) 61407 100
 f: +353 (0) 61 415 266
@@ -49,13 +50,15 @@ on 15" June, 2007.
 
 Is mise le meas,
 
-Ch. St.
+Ch. St.—
 
 Christy O'Connor,
 Meetings Administrator.
 
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach A
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

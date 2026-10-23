@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%20%28b%29%20%20Minutes%20Special%20Meeting%20%20041217.pdf)
+**Original file:** [Minutes Special Meeting - Full Meeting of Limerick City and County Council - 4 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%20%28b%29%20%20Minutes%20Special%20Meeting%20%20041217.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -84,7 +85,9 @@ Limerick City and County Development Plan and Local Area Plans over the 12 year 
 2040. She pointed out that any submissions on the Issues Paper had to be submitted by 26th
 
 January, 2018. At that stage, the draft Regional Spatial and Economic Strategy would be
----
+
+[[PAGE_END:1]]
+
 2
 
 prepared and would be put out to public consultation. It was anticipated that the Strategy
@@ -186,7 +189,9 @@ Region. She expressed her concerns in relation to the proposals being brought fo
 outlined a number of issues for consideration by the Members in relation to a possible
 
 submission on their behalf on this matter, as follows:
----
+
+[[PAGE_END:2]]
+
 3
 
 **Population Allocation:**
@@ -264,7 +269,9 @@ to voice their strong opposition to the proposals being brought forward. He adde
 3 representatives on the Southern Regional Assembly would also be voicing their opposition
 
 to proposals put forward at the forthcoming Southern Regional Assembly meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 There was unanimous support across the Chamber to this proposal, with Members from all
@@ -336,7 +343,9 @@ draft National Planning Framework which recognised Cork as an **Emerging Interna
 **Centre of Scale**, while Limerick, Galway and Waterford would be recognised at a lower tier
 
 as **Important National and Regional Drivers of Growth.** This would have significant
----
+
+[[PAGE_END:4]]
+
 5
 
 implications for the development of Limerick into the future. He also expressed concerns
@@ -400,4 +409,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

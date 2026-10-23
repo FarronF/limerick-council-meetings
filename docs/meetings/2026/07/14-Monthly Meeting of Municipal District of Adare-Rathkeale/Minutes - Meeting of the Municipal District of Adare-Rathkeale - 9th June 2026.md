@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-9th-june-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-9th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ May, 2026”.
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to
----
+
+[[PAGE_END:1]]
+
 2
 
 notify the Cathaoirleach of any declaration of interest in any item due for discussion at
@@ -156,7 +159,9 @@ with a view to allowing pubic access on a trial basis, however, this request wou
 come with additional operational costs. Members queried what costs would be
 
 involved. The Town Regeneration Officer, Rural Development advised the toilet facility
----
+
+[[PAGE_END:2]]
+
 3
 
 would have waste storage capacity which would be cleaned and removed to a waste
@@ -230,7 +235,9 @@ Anniversary Celebration at the May 2026 Adare-Rathkeale Municipal District meeti
 amended to Marathon Team Event c/o Terrance Madigan. This was seconded by
 
 Councillor O’Donoghue and agreed.
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Ward proposed €2,000 which was nominated to Kildimo National School at
@@ -300,7 +307,9 @@ The Conservation Section are happy to engage with the owners in relation to any
 structural or conservation assessments required, the identification of appropriate works,
 
 and any available conservation grant supports.
----
+
+[[PAGE_END:4]]
+
 5
 
 Councillor Teskey added that the owners of this property are financially unable to carry
@@ -378,7 +387,9 @@ June Municipal District Meeting for a briefing on public lighting schedule for t
 District and advised correspondence was received from Matthew Clarke,
 
 Executive Engineer, Central Services, Limerick City and County Council advising
----
+
+[[PAGE_END:5]]
+
 6
 
 the public lighting team are due to brief all Councillors on a public lighting related
@@ -424,4 +435,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

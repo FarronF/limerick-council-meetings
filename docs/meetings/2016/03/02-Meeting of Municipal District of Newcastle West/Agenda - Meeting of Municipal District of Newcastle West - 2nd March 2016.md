@@ -16,17 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 2nd March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-gill Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+ee Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-at —, Cé na gCeannaithe,
-
-— Luimneach
+—= Luimneach
 
 Limerick Corporate Services and Change Management,
 
@@ -42,14 +41,14 @@ f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 A Chomhairleoir, a chara,
-
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at Aras
-William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, a= March, 2016 at 10.00 a.m.
+
+William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, = March, 2016 at 10.00 a.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-le he
+lhe
 
 Meetings Administrator.
 
@@ -63,13 +62,15 @@ To discuss promotion of Desmond Hall as tourist/heritage site.
 (Report Attached)
 3. Service Operations
 Update on installation of double yellow lines at Cedarville Estate, Abbeyfeale.
-= customerservices@limerick.le
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & weew limerick.te
+= customerservicese@limerick.le
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & weew. limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -117,7 +118,9 @@ Sheahan’s Road junctions with the N21 with a view to placing mini roundabout s
 each location so as to enable the smooth flow of traffic locally.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -160,4 +163,6 @@ Notice of Motion submitted by Councillor L. Galvin
 viewing location at Barnagh.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,36 +16,37 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-3rd-april-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 3rd April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-3rd-april-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach
 & Contae Luimnigh
-aAanm™. —_ —_—_—_————_————
+aAarn™. ——_~ ————————_—————
 
-=> Limerick City
+==> Limerick City
 & County Council
 
 28" March, 2023
 
-Dulche Bardais an Chaisledin Nua Thiar,
+Duliche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras Wiliam Smith O'Brien,
 
 Gortbul,
 
-An Catsiean Nua Thiar,
+An Caisiean Nua Thiar,
 
-Co. Lutmnigh.
+Co. Luimnigh.
 
 Newcastle West Municipal District,
 Limerick City and County Council,
 Azas William Smith O'Bnen.
 Gortboy,
 
-Newcastle West.
+Newcastle West,
 
 Co. Limerick.
 
@@ -63,7 +64,7 @@ at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Aah dle
+jak dle
 
 Heather Supple,
 Meetings Administrator.
@@ -76,7 +77,7 @@ AGENDA
 
 March, 2024.
 
-2. Declaration of Interest.
+2. Declaration of interest.
 
 (Copy Enclosed)
 
@@ -90,7 +91,9 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Abbeyfeale Goods Shed and site will become one of the main Visitor Experiences
@@ -131,11 +134,13 @@ Questions submitted by Councillor L. Galvin
 | will ask at the next Meeting for a detailed update on the Abbeyfeale Traffic
 Management Plan.
 
-| will ask at the next Meeting for a costing to be carried out for a handrail from the
+I will ask at the next Meeting for a costing to be carried out for a handrail from the
 bottom of the Giants Garden, Athea to the graveyard.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -159,7 +164,7 @@ Questions submitted by Councillor J. Scanlan
 | will ask at the next Meeting that a study of local traffic volumes be undertaken at
 the River Arra and Bridge of Tears roundabout in Newcastle West.
 
-I will ask at the next Meeting when the present system for car parking payment will
+| will ask at the next Meeting when the present system for car parking payment will
 be digitalised.
 
 | will ask at the next Meeting (a) when can | expect the footpath extension from
@@ -183,7 +188,7 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that a pedestrian crossing be placed in the vicinity of
 the Town Park in Abbeyfeale.
 
-! will move at the next Meeting that immediate steps be taken to seek funding for
+| will move at the next Meeting that immediate steps be taken to seek funding for
 drainage works from Harnett’s funeral home up to Clash. This stream is known as the
 Glérach.
 
@@ -193,12 +198,14 @@ Notices of Motion submitted by Councillor T. Ruddle
 bend towards Ballingarry road where the L6041 from Kilmeedy joins the L6042
 Ballingarry road.
 
-I will move at the next Meeting that the Council consider extending the speed limit
+| will move at the next Meeting that the Council consider extending the speed limit
 from Kilmeedy Village L6041 before it joins the L6042 Ballingarry road as this would
 be in line with the recent upgrade of footpaths.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -222,4 +229,6 @@ repair the concrete steps and footpath locally known as the Mass Path from Maide
 Street to Assumpta Park, Newcastle West.
 
 
----
+
+[[PAGE_END:4]]
+

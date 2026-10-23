@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/16022022_final_spc_minutes.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 16th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/16022022_final_spc_minutes.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -94,7 +95,9 @@ meeting.
 **Seconded:** Cllr. Stephen Keary
 
 **Item 2: Matters arising from the Minutes**
----
+
+[[PAGE_END:1]]
+
 -
 
 Cllr. Stephen Keary queried the status of Ballywilliam Close, Rathkeale. Ms. Caroline
@@ -194,7 +197,9 @@ into what accommodation is suitable for applicants.
 Cllr. Eddie Ryan flagged a concern in relation to tenants taking out a loan to do work
 
 on an LA house.
----
+
+[[PAGE_END:2]]
+
 **Proposal to write to the Minister for Housing to ask him implement a scheme which would**
 
 **allow an existing Local Authority tenant to extend property where needed due to social or**
@@ -298,7 +303,9 @@ tenant. Ms. Phillips advised rent is based on differential rent which is based o
 income. Ms. Curley advised that HAP is considered social housing and if a person/s
 
 financial situation changes, they are to advise LCCC.
----
+
+[[PAGE_END:3]]
+
 **Item 5: AOB**
 
  An Cathaoirleach, Cllr. Murphy complimented Mr. Patrick English on the GAA
@@ -336,4 +343,6 @@ END OF MEETING
 The Chair thanked everyone for joining the SPC, the contributions made and Threshold for
 
 their presentation. The next SPC is the 20th April.
----
+
+[[PAGE_END:4]]
+

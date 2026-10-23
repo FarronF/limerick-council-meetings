@@ -32,17 +32,17 @@ Minutes  - Adjourned Meeting of Metropolitan District of Limerick - 30th Sept
 
 Minutes  - Special Meeting of Metropolitan District of Limerick - 7th October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28c%29%20Minutes%20Special%20Meeting%207th%20October%202019.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%207th%20October%202019.md)
 
-Disposal of Land_ 81 Upper Careys Road - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28a%29%20Disposal%20of%20Land%20-%2081%20Upper%20Careys%20Road.pdf) - Text not extracted
+Disposal of Land: 81 Upper Careys Road - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28a%29%20Disposal%20of%20Land%20-%2081%20Upper%20Careys%20Road.pdf) - Text not extracted
 
-Disposal of Land_ 48 St Lawrence Park Garryowen - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28b%29%20Disposal%20of%20Land%20-%2048%20St%20Lawrence%20Park%20Garryowen.pdf) - Text not extracted
+Disposal of Land: 48 St Lawrence Park Garryowen - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28b%29%20Disposal%20of%20Land%20-%2048%20St%20Lawrence%20Park%20Garryowen.pdf) - Text not extracted
 
-Disposal of Land_ 27 Kilmurry Avenue Garryowen - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28c%29%20Disposal%20of%20Land%20-%2027%20Kilmurry%20Avenue%20Garryowen.pdf) - Text not extracted
+Disposal of Land: 27 Kilmurry Avenue Garryowen - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28c%29%20Disposal%20of%20Land%20-%2027%20Kilmurry%20Avenue%20Garryowen.pdf) - Text not extracted
 
-Disposal of Land_ 16 Revington Park North Circular Road - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28d%29%20Disposal%20of%20Land%20-%2016%20Revington%20Park%20North%20Circular%20Road.pdf) - Text not extracted
+Disposal of Land: 16 Revington Park North Circular Road - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/02%28d%29%20Disposal%20of%20Land%20-%2016%20Revington%20Park%20North%20Circular%20Road.pdf) - Text not extracted
 
-Orchard Site King's Island_ Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%28a%29%20Orchard%20Site%20Kings%20Island%20-%20Cover%20Letter.pdf) - Text not extracted
+Orchard Site King's Island: Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%28a%29%20Orchard%20Site%20Kings%20Island%20-%20Cover%20Letter.pdf) - Text not extracted
 
-Orchard Site King's Island_ CE Report - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%28b%29%20Orchard%20Site%20Kings%20Island%20-%20CE%20Report.pdf) - Text not extracted
+Orchard Site King's Island: CE Report - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%28b%29%20Orchard%20Site%20Kings%20Island%20-%20CE%20Report.pdf) - Text not extracted
 
 Orchard Site King's Island Planning Drawings - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%28c%29%20Orchard%20Site%20Kings%20Island%20Planning%20Drawings.pdf) - Text not extracted
 

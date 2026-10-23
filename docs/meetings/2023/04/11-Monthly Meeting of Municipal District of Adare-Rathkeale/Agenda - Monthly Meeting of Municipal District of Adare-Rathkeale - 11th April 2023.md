@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__ Comhairle Cathrach
+___ Comhairle Cathrach
 & Contae Luimnigh
-ACN ~~
+ACN ~< ———————————
 
 — Limerick City
 & County Council
@@ -34,14 +35,14 @@ Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Lutmnigh,
 Aras Séan Finn,
 
-Line Nua,
+Une Nua,
 
 Rath Caola,
 
 Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
-Limerick City and Coamey Conareil,
+Limerick City and Coamey Consrcil,
 Aras Sean Finn.
 
 New Line,
@@ -89,13 +90,15 @@ Corporate Headquarters, Merchants Quay, Limerick,
 
 (Report Enclosed).
 customerservices@limerickie
-* © weurvilimericicie
+* © wurwlimericicie
 
 W @LimerickCouncil
-© 061-556 000
+( 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Roads, Traffic & Cleansing
@@ -129,8 +132,10 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 >
-°
+o
 @
 
 
----
+
+[[PAGE_END:2]]
+

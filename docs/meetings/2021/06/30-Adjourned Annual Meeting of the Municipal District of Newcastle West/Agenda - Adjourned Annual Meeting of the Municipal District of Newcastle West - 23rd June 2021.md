@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-30-agenda-adj-agm.pdf)
+**Original file:** [Agenda - Adjourned Annual Meeting of the Municipal District of Newcastle West - 23rd June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-30-agenda-adj-agm.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach Diliche Berdale — otea' =
-— gh Aras Wiliam Smith O'Brien,
-aArN i“ =
+_—_—_—_—_ Comhairle Cathrach Diliche Berdale —— nea’ =
+—- gh Aras Wiliam Smith O'Brien,
+aArN i a =
 
-Limerick City hes Cabsotn Dean, Thies
-= & County Council Co. Luimnigh,
+Limerick City hos Cabot Dean, Thies
+— & County Council Co. Luimnigh,
 
 Nevrcastle West Municipal District,
 Limerick City and County Council,
@@ -50,8 +51,8 @@ Annual Meeting of the Municipal District of Newcastle West on Wednesday, 30™ J
 at 12.30 p.m at Aras William Smith OBrien, Newcastle West Co. Limerick, The business to be
 transacted is set out on the appended Agenda.
 
-Is ‘eR le meas,
-ak Cas Bh
+Is RL le meas,
+wk Case Th
 °
 MargaretCorbett,
 Meetings Administrator.
@@ -65,8 +66,10 @@ the next Annual Meeting or until a successor has been elected.
 office until the next Annual Meeting or until a successor has been elected.
 
 c heathri C = le
-are amaaaaag [a
+eine ee
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

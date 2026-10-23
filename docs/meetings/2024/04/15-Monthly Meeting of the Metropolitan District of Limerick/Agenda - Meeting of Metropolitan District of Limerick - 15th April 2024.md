@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-april-2024.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 15th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Comhairle Cat Bit eet
+a Comhairle Cathrach Comhairle Cat Baten oty
 
-i} wle mre : A UMT i egrl,
+i wle re ’ a LUT egrl,
 
-lf” ™ & Contae Luimnigh Ceanncheathra Chorperaideach,
+f”™ & Contae Luimnigh Ceanncheathra Chorperaideach,
 
-aAr™N ; Cé na gCeannaithe,
+Ars ; Cé na gCeannaithe,
 
 — Limerick City Luimneach
 & County Council
@@ -47,7 +48,7 @@ EIRCODE V4 EH90
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-10" April, 2024.
+10° April, 2024.
 
 To: The Cathaoirleach and each Member of the Metropolitan District of Limerick
 
@@ -66,19 +67,21 @@ Meetings Administrator.
 
 1. Minutes
 
-To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 20%
+To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 20°"
 March, 2024.
 
 (Copy Enclosed).
 2. Declaration of Interest.
-«= Customerservices@limerick.te
-© vweww limerick.te
+«=m Customerservices@limerick.te
+© www limerick.te
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 
-Corporate Headquarters, Merchants Quay, Limerick (\ 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Disposal of Land
@@ -126,7 +129,9 @@ as the new LED lights are not adequately providing sufficient lighting.
 provision of a dog park in Castletroy Park.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. Question submitted by Councillor E. Secas
@@ -181,7 +186,9 @@ communicate with the Council in the delivery of an efficient public service.
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Notice of Motion submitted by Councillor S. Kiely
@@ -221,4 +228,6 @@ the school.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

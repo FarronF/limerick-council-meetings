@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 15th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,** **15TH** **FEBRUARY, 2016,**
@@ -86,7 +87,9 @@ the City of Limerick.
  Disposal of Freehold Interest in dwelling house situate at 45 Galvone Road, Kennedy Park in
 
 the City of Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -160,7 +163,9 @@ agricultural use as there is sufficient zoned land for housing and that the text
 document should be changed as necessary. The land zoned as established residential is along
 
 the front of the site as shown on the map submitted (see Appendix 1)”.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members discussed the appropriate use and zoning of Mungret College going forward and in
@@ -238,7 +243,9 @@ Councillors Butler, Byrne, Collins, Crowley, Hourigan, Hurley, Lynch, McCreesh, 
 and Sheahan
 
 **(11)**
----
+
+[[PAGE_END:3]]
+
 4
 
 **AGAINST**
@@ -320,7 +327,9 @@ attributed to people using the University Hospital, Limerick.
 We will engage with the Management of the Hospital in relation to these issues
 
 to ascertain their proposals in relation to same.
----
+
+[[PAGE_END:4]]
+
 5
 
 In the longer term the most effective solution in terms of controlling parking
@@ -402,4 +411,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

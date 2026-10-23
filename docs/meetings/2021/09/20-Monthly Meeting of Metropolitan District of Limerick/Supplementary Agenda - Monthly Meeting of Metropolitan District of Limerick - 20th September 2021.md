@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/04bi-supplementary-agenda.pdf)
+**Original file:** [Supplementary Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/04bi-supplementary-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ie Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
 ON
 
@@ -32,7 +33,7 @@ ON
 
 Se&bhisi Corparaideacha,
 
-Comhairle Cathrach agus Contae Ludmnigh,
+Cominairie Cathrach agus Contae Luimnigh,
 Ceanncheathra Chorpardideach,
 
 Cé na gCeannaithe,
@@ -73,7 +74,7 @@ Any inconvenience caused is regretted.
 
 Is mise le meas,
 
-pp heedllerec
+pp licedllerec
 Meetings Administrator.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
@@ -82,4 +83,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+

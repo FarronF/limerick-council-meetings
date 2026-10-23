@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_7th_january_2015.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 7th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_7th_january_2015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF NEWCASTLE WEST HELD IN ÁRAS WILLIAM
@@ -84,7 +85,9 @@ issue in the context of the overall Traffic Management Plan for Abbeyfeale. The 
 stated that they did not have enough information to make a decision and deferred the item
 
 to a future Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 QUESTIONS
@@ -166,7 +169,9 @@ Question submitted by Councillor J. Scanlan
 **REPLY:**
 
 The above signage will be ordered and will be erected once it is delivered.
----
+
+[[PAGE_END:2]]
+
 3
 
 NOTICES OF MOTION
@@ -226,7 +231,9 @@ Councillor Galvin seconded the Motion.
 Members stated that the bin collection service at Monagea had been suspended and that
 
 Ardagh Cemetery had no tap water.
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY:**
@@ -312,7 +319,9 @@ the extension of the footpath was essential in the interest of safety for indivi
 families using the trail. Members asked if funding could be sought from the National
 
 Transport Authority.
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY:**
@@ -382,7 +391,9 @@ Newcastle West Arts Committee. On the proposal of Councillor Collins, seconded b
 Councillor Scanlan, it was agreed to receive a Deputation from Newcastle West Arts
 
 Committee at the next monthly Meeting to be held on 4th February, 2015.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members requested that the March Meeting be held in the Community Hall in Castletown
@@ -400,4 +411,6 @@ Signed:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 Cathaoirleach
 
 Dated:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

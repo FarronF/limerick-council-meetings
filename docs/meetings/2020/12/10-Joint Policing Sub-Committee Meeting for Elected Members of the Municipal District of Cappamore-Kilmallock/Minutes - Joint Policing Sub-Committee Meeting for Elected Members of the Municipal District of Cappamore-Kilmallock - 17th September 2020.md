@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-sept-2020-jpc-sub-committee-meeting.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 17th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-sept-2020-jpc-sub-committee-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING
@@ -92,7 +93,9 @@ Superintendent Ryan gave an update on current policing issues within the Bruff G
 He confirmed that while there had been a reduction in certain crime categories, including
 
 burglaries, public order offences and minor assaults, that domestic incidents and drug
----
+
+[[PAGE_END:1]]
+
 2
 
 possessions in particular had seen an increase from the previous figures. These increases were
@@ -166,4 +169,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

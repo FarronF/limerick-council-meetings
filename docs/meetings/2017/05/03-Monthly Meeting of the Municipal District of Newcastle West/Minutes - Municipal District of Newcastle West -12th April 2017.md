@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01%202017-04-12%20Minutes%20April%20Meeting%20Municipal%20District%20%20Newcastle%20West%20.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West -12th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01%202017-04-12%20Minutes%20April%20Meeting%20Municipal%20District%20%20Newcastle%20West%20.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
 NEWCASTLE WEST HELD IN ÁRAS WILLIAM SMITH OBRIEN, NEWCASTLE
@@ -90,7 +91,9 @@ complaints had been made in relation to road bowling it was not possible to purs
 In reply to Members questions in relation to new Garda Station for Newcastle West, the
 
 Superintendent stated that he had been advised that a new station was to be built on the
----
+
+[[PAGE_END:1]]
+
 2
 
 existing site. It was envisaged that this would take at least another 12 months. The issue of
@@ -164,7 +167,9 @@ On the proposal of Councillor Browne, seconded by Councillor Collins it was agre
 On the proposal of Councillor Sheahan, seconded by Councillor Galvin it was agreed to allocate
 
 €1,000 to Athea Phone Booth Defibrillator.
----
+
+[[PAGE_END:2]]
+
 3
 
 **(b)**
@@ -236,7 +241,9 @@ charge of estates in the District. Members raised queries in relation to the fol
 The Senior Executive Engineer stated that he would revert back with further information at a
 
 future Meeting of the District.
----
+
+[[PAGE_END:3]]
+
 4
 
 **5.**
@@ -318,7 +325,9 @@ It was noted that funding of €600,00O had been agreed by the Council for Arts 
 Director for Customer Services, Culture and Arts stated that the mapping out indicating where
 
 the funding would go was very important.
----
+
+[[PAGE_END:4]]
+
 5
 
 Members thanked them for the presentation and commended the good work done in relation
@@ -392,7 +401,9 @@ reduction in travel times from Coonagh to University of Limerick, significant re
 through city centre and enhanced competitiveness to Limerick and the Mid West through the
 
 availability of efficient transport routes.
----
+
+[[PAGE_END:5]]
+
 6
 
 **(b)**
@@ -478,7 +489,9 @@ This matter is being investigated in order to agree the necessary works.
 ***between Regional and Local Roads in the Ashford, Broadford, Castlemahon and***
 
 ***Dromcollogher areas.***
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY:**
@@ -558,7 +571,9 @@ the Development Levy Fund might be a source of funding. Members were of the opin
 simple bypass in the style of Castleisland was required.
 
 The Motion was seconded by Councillor Collins.
----
+
+[[PAGE_END:7]]
+
 8
 
 **16.**
@@ -628,7 +643,9 @@ The Motion was seconded by Councillor Galvin.
 A condition survey of the footpaths within the immediate Town Centre of
 
 Newcastle West will be carried out in the coming weeks.
----
+
+[[PAGE_END:8]]
+
 9
 
 **19.**
@@ -646,4 +663,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

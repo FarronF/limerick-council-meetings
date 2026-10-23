@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01b-minutes-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 31st January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01b-minutes-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -84,7 +85,9 @@ Officer, Newcastle West (Ms. A. Lenihan).
 **buildings and site including utilities, drainage, landscaping and public realm. Widening of**
 
 **the existing entrance to accommodate 2-way traffic.**
----
+
+[[PAGE_END:1]]
+
 2
 
 ***The Development of the West Limerick Tourism Hub @ Fullers Folly***
@@ -162,7 +165,9 @@ Director also acknowledged the work which has gone into the all the projects to-
 thanked the elected members for their ongoing support. The Members expressed full
 
 support for the projects.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following discussion, the Part 8 Reports for **(a)** the development of a services building at
@@ -190,4 +195,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

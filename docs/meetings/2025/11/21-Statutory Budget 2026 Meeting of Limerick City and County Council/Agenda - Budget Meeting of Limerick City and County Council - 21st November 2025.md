@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-budget-meeting-of-limerick-city-and-county-council-21st-november-2025.pdf)
+**Original file:** [Agenda - Budget Meeting of Limerick City and County Council - 21st November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-budget-meeting-of-limerick-city-and-county-council-21st-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_ Comhairle Cathrach
 & Contae Luimnigh
 
-Ars 7 ‘
+Ar 7 ‘
 
-——— Limerick City
+——. Limerick City
 & County Council
 
 13" November, 2025
 
 Seirbhisi Corparéideacha,
 
-Com)airie Cathwach agus Contae Luimnigh,
+Comhairle Cathwach agus Contae Luimnigh,
 Ceanncheathnii Chorparaideach,
 
 Cé na gCeannaithe.
@@ -65,8 +66,8 @@ November, 2025, at 10.00 a.m.
 
 The business to be transacted is set out on the appended Agenda.
 
-C mi le meas,
-Ciara fae,
+0 mi le meas,
+Ciara fae
 
 Meetings Administrator.
 
@@ -91,7 +92,9 @@ Merchants Quay, Limerick
 Corporate Headquarters,
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -121,7 +124,7 @@ Miscellaneous Provisions Act 2024.
 
 (Copy of proposed Vacant Property Refund Scheme 2026 enclosed)
 
-. To consider the adoption of the Small and Medium Business Support Scheme 2026
+. Toconsider the adoption of the Small and Medium Business Support Scheme 2026
 in accordance with Section 66 of the Local Government Act, 2001, as amended by
 Section 43 of the Local Government Reform Act, 2014 and Local Government
 (Mayor of Limerick) and Miscellaneous Provisions Act 2024.
@@ -137,4 +140,6 @@ Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024.
 enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

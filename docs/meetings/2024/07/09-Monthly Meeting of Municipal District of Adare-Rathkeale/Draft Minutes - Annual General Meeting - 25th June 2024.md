@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-b-draft-minutes-of-annual-meeting-25th-june-2024.pdf)
+**Original file:** [Draft Minutes - Annual General Meeting - 25th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-b-draft-minutes-of-annual-meeting-25th-june-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -90,7 +91,9 @@ wished him every success in the coming year. Councillor O’Donoghue asked for
 Members to consider him and Councillor Hartigan for Cathaoirleach and Leas
 
 Cathaoirleach at some point during the five year term.
----
+
+[[PAGE_END:1]]
+
 2
 
 On taking the Chair, Councillor Teskey thanked his proposer and seconder and said he
@@ -160,7 +163,9 @@ Mayor Moran asked Members to compile a list of eight to ten objectives that can 
 included in the Mayoral Programme for the next five years and suggested a Workshop
 
 be convened by Members to assist in compiling these objectives on or before the 12th
----
+
+[[PAGE_END:2]]
+
 3
 
 July. It was agreed the Mayoral Programme be circulated in advance of this Workshop
@@ -200,4 +205,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

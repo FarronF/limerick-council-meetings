@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Items%20for%20Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
+**Original file:** [Supplementary Items for Agenda - Municipal District of Newcastle West - 16th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Items%20for%20Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Seirohisi Corpardideacha agus Bainistiocht Athruithe,
+_—_——_ Seirohisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 7 Cé na gCeannaithe,
@@ -68,14 +69,16 @@ accidents.
 (d) — Right turning lane at Barnagh for Breens.
 
 @ customerservices@limerick.ie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ wwwlimerickie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ wwwAlimerickie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-8c ___| will ask at the next Meeting for the following Information:
+8c | will ask at the next Meeting for the following Information:
 
 (a)
 
@@ -95,7 +98,7 @@ West.
 
 Notices of Motion submitted by Councillor L. Galvin
 
-11a _ | will move at the next Meeting of the Municipal District of Newcastle West that
+11a_ | will move at the next Meeting of the Municipal District of Newcastle West that
 a footpath be provided from Abbey United Soccer Field to the Railway Bar in
 the interest of safety.
 
@@ -115,4 +118,6 @@ Tina Knox,
 Meetings Administrator.
 
 
----
+
+[[PAGE_END:2]]
+

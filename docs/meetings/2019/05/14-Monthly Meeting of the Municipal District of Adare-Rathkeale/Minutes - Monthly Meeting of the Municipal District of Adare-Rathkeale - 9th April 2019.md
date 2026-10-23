@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28b%29%20Minutes%209th%20April%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28b%29%20Minutes%209th%20April%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -80,7 +81,9 @@ Seconded by Councillor Sheahan;
 And Resolved:
 
 “That, the N69 Kilcornan Traffic Calming Scheme, as circulated, be adopted”.
----
+
+[[PAGE_END:1]]
+
 2
 
 It was agreed Item 4 on the Agenda would be taken next.
@@ -148,7 +151,9 @@ Conservation Officer informed Members contact has been made with the agent actin
 behalf of the owners of the statue and explained he is in the process of arranging a meeting
 
 with the owners to discuss replicating the statue and returning it to its original location.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members requested the Conservation Officer provide them with a full costing of the works
@@ -214,7 +219,9 @@ Circulated, report of the Senior Architect, Housing Development Directorate, dat
 March, 2019 giving details of the number of casual vacancies/void houses and houses
 
 requiring major refurbishment within the Adare-Rathkeale Municipal District.
----
+
+[[PAGE_END:3]]
+
 4
 
 The A/Director of Service, Capital Investment informed Members an update would be
@@ -278,7 +285,9 @@ all six Elected Members of the Adare-Rathkeale Municipal District that were requ
 meeting with TII in Dublin to discuss their concerns on the proposed Adare/Limerick
 
 scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 **11.**
@@ -344,7 +353,9 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 27th March, 2019 giving an update on Marine Cove, Foynes. The report was noted by
 
 Members.
----
+
+[[PAGE_END:5]]
+
 6
 
 **16.**
@@ -408,7 +419,9 @@ allocate the following:
  €800 to Skoolhill, Fedamore.
 
  €2,500 to the L1478 Ballyourgan, Croom.
----
+
+[[PAGE_END:6]]
+
 7
 
 **QUESTIONS**
@@ -480,7 +493,9 @@ Regeneration and Development Fund (RRDF), to provide the Bridge.
 The listing for electrical charging points in the Adare-Rathkeale District is
 
 provided on the ecar website and includes locations at Adare and Foynes.
----
+
+[[PAGE_END:7]]
+
 8
 
 The operation and maintenance of these points is managed by Electric
@@ -540,7 +555,9 @@ This roadway is currently scheduled for works in 2021 at an estimated cost of
 €130,000.
 
 Members welcomed the response.
----
+
+[[PAGE_END:8]]
+
 9
 
 This concluded the Meeting.
@@ -554,4 +571,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

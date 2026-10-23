@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20200417.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20200417.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN
@@ -86,7 +87,9 @@ Circulated, report of the Director, Economic Development Directorate, dated 7th 
 2017, enclosing a copy of the Chief Executive’s Report dated 7th April, 2017, on the proposal to
 
 extend the life of the Bruff Local Area Plan 2012-2018 for a further five years.
----
+
+[[PAGE_END:1]]
+
 2
 
 In response to queries raised by Members, the Senior Planneroutlined that very little
@@ -164,7 +167,9 @@ Proposed by Councillor Mitchell;
 Seconded by Councillor Teefy;
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That, in accordance with the provisions of Section 19 of the Planning and Development
@@ -234,7 +239,9 @@ Varying views were expressed by the Members in relation to the Draft Bye-Laws. S
 Members felt rural life was being attacked and that the proposed amendment to the Bye-Laws
 
 could impinge on traditional rural pursuits such as sulky racing.
----
+
+[[PAGE_END:3]]
+
 4
 
 A lengthy discussion ensued and the following points were raised by the Members:
@@ -308,7 +315,9 @@ and individuals. Through the information submitted, she said it was hoped to dev
 strategy to control invasive plants on Council’s land and develop guidelines for other land
 
 owners.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Members thanked the Senior Executive Engineer for the interesting and
@@ -376,7 +385,9 @@ In reply, the Director, Customer Services, Culture and Arts said that they were 
 of the need for greater countywide inclusion. She informed the Members that resources had
 
 been increased and that the strategy would be reviewed.
----
+
+[[PAGE_END:5]]
+
 6
 
 (b)
@@ -452,7 +463,9 @@ The main challenges facing the project were noted as follows:
 • Procurement and supplier management.
 
 • Governance arrangements.
----
+
+[[PAGE_END:6]]
+
 7
 
 (d)
@@ -542,7 +555,9 @@ Bond payment received, Council to complete works
 Cluain Foinse, Hospital
 
 Bond claimed, schedule of works and costs required
----
+
+[[PAGE_END:7]]
+
 8
 
 Dromsally Woods, Cappamore
@@ -614,7 +629,9 @@ The Members commended all those involved in TLC3 which they said was a fantastic
 success again this year and conveyed their congratulations to everyone who supported the
 
 initiative.
----
+
+[[PAGE_END:8]]
+
 9
 
 The following items were agreed:
@@ -666,4 +683,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-of-the-travel-transportation-spc-meeting-08.04.25.pdf)
+**Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-of-the-travel-transportation-spc-meeting-08.04.25.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -76,7 +77,9 @@ o Bus Éireann
 o National Transport Authority (NTA)
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 o Industrial Development Authority (IDA)
@@ -144,7 +147,9 @@ Delivery Board Transport Sub-Group has not yet met, and it is essential that the
 up as soon as possible. She added that it is a much more powerful mechanism to go through the
 
 Mayor’s office.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. Gavan concurred with Cllr. O’Donovan adding that in addition to Raheen, there are 3,000
@@ -220,7 +225,9 @@ as discussions have been ongoing for five years and councillors have already had
 consultation. The motion only refers to Raheen & Mungret, however, there is also poor bus
 
 services to Castletroy, and we need to be fair-minded. She queried the three schools referred
----
+
+[[PAGE_END:3]]
+
 4
 
 in the motion and Ms. McDonnell confirmed that there are 2 primary schools and one secondary
@@ -282,7 +289,9 @@ city is consultation with the residents.
 Cllr. O’Donovan added that she is in favour of the bus corridor on O’Connell Street, however
 
 when O’Connell Street was developed, Blue Badge parking was removed. More car sharing
----
+
+[[PAGE_END:4]]
+
 5
 
 schemes in the city are required and she highlighted illegal parking in disabled spaces and EV
@@ -346,7 +355,9 @@ he advised that congestion happens at specific times, and we need to look at sta
 times. He is currently talking to businesses in relation to starting and finishing times for
 
 employees.
----
+
+[[PAGE_END:5]]
+
 6
 
 In response to questions, Mr. McGrath advised that there are acute stringent requirements
@@ -406,7 +417,9 @@ added the public bike share scheme is not currently on the map and asked if ther
 on TFI bikes in Limerick. Cllr. Gavan added that TFI scheme could be extended as far as
 
 Castleconnell.
----
+
+[[PAGE_END:6]]
+
 7
 
 Mr. Goodwin advised that a cyclebility audit is being undertaken and information is currently
@@ -454,4 +467,6 @@ members of Local Authority SPC’s on the 17th of April next.
 The Chair thanked all for their attendance and contribution and advised that the next meeting is
 
 Tuesday, the 10th of June 2025. This concluded the business of the meeting.
----
+
+[[PAGE_END:7]]
+

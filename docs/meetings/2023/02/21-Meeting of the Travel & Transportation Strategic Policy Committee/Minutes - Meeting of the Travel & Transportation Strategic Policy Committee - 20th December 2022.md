@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2020th%20Dec%202022.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 20th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2020th%20Dec%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -64,7 +65,9 @@ that the implementation can now begin.
 Cllr. Secas asked if there is funding ring fenced for projects in the implementation plan.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Cllr. Mc Sweeney asked who will be funding the maintenance of the Park and Ride infrastructure
@@ -136,7 +139,9 @@ HGVs still pay tolls on M50.
 In response to Cllr Novak, Mr. Creegan advised that all routes are indicative and flexible. There
 
 are benefits of rail to Shannon airport however it is some years away yet.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. Mitchell concurred with Cllr. Ryan regarding the omission of the LNDR, citing its importance
@@ -206,7 +211,9 @@ houses, probably being the most difficult for home charging.
 Cllr. Ryan asked if the next phase is imminent. He noted Bruff and Kilmallock are on the list and
 
 they are quite close and could be spread out better.
----
+
+[[PAGE_END:3]]
+
 4
 
 In response, Mr. Gallagher agreed there are not enough charging points, and charging locations
@@ -278,4 +285,6 @@ Port Company to a future SPC Meeting.
 The Chair thanked the presenters and members for their contribution and wished all a Happy and
 
 Peaceful Christmas. The meeting then concluded.
----
+
+[[PAGE_END:4]]
+

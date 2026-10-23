@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/agenda-meeting-of-limerick-city-and-county-council-22.01.2024.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 25th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/agenda-meeting-of-limerick-city-and-county-council-22.01.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-en Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -31,7 +32,7 @@ en Comhairle Cathrach
 
 A Chomhairleoir, a chara,
 
-Se®bhisi Corpartideacha,
+Serbhisi Corpartideacha,
 
 Comhairle Cathwach agus Contae Luimnigh
 Ceanncheathri Chorparaideach,
@@ -42,11 +43,11 @@ Luimneach
 
 Corporate Services,
 
-Limenck City and County Council,
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay.
 
-Limernck
+Limerick
 
 EIRCODE V94 E90
 
@@ -54,21 +55,23 @@ t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 25% March, 2024, at 3pm.
+Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 25" March, 2024, at 3pm.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-innery,
+AGENDA
+
+nnery,
 Meetings Administrator.
 1. Minutes
 
 To adopt Minutes of the following Meetings:
 
-(a) Ordinary Meeting of the Council held on 22" January, 2024.
+(a) Ordinary Meeting of the Council held on 22™ January, 2024.
 (b) Special Meeting of the Council held on 26" February, 2024. (2pm)
-(c) Special Meeting of the Council held on 26" February, 2024. (3.30 p.m.)
+(c) Special Meeting of the Council held on 26% February, 2024. (3.30 p.m.)
 
 2. Declaration of Interest
 
@@ -80,10 +83,12 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 w @LimerickCouncil
 
-< 061 - 557150
+( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -116,7 +121,7 @@ General Disposals
 (j) 0.01 acres (0.0042 hectares) at 1, St. Joseph Street, Limerick.
 
 (k) Property at 110 Dalgaish Park, Moyross, Limerick. (Regeneration House Exchange)
-(Il) 0.03 acres/0.013 hectares at Baunacloka, Mungret, Limerick.
+(I) 0.03 acres/0.013 hectares at Baunacloka, Mungret, Limerick.
 
 (m)0.80 acres (Site F) at Kilmallock Business Park, Kilmallock, Co. Limerick.
 (n) 8.6994 acres (3.5205 hectares) at Skagh, Croom, Co. Limerick.
@@ -128,7 +133,7 @@ Derelict Disposals
 (p) Property at 34, Smith O’Brien Avenue, Kileely, Limerick.
 (q) Property on Wolfe Tone Street Kilmallock, Co. Limerick. (Old Grain Store).
 
-(Statutory Notices dated 2" and 23"¢ February, and 11" and
+(Statutory Notices dated 2 and 23'¢ February, and 11" and
 12™ March, 2024, already circulated)
 
 Support Services
@@ -138,7 +143,9 @@ To consider Chief Executive's Report for the months of January and February.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -164,7 +171,7 @@ Standing Orders
 To consider report on Limerick City and County Council Standing Orders.
 (Report Enclosed)
 
-Pu Participation N PN i - Vacancy Home
+Pui Participation N PN i - Vacancy Home
 and Social Development Strategic Policy Committee
 
 To consider approving the appointment of PPN representative to fill vacancy
@@ -193,7 +200,9 @@ noting.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -205,7 +214,7 @@ noting.
 (v)
 
 Chairperson’s Report — Meeting of Travel and Transportation Strategic
-Policy Committee held on 13 February, 2024.
+Policy Committee held on 13” February, 2024.
 
 (Chairperson’s Report Enclosed)
 Recommendation No. 1
@@ -242,7 +251,9 @@ Strategic Policy Committee held on 22™ February, 2024.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -289,7 +300,9 @@ Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8.
@@ -304,7 +317,7 @@ To consider participation by Members at the following Conferences:
 February, 2024.
 
 (b) A Practical Guide to Personal Taxation in Ireland, held in Clonakilty, Co. Cork,
-from 1* to 3" March, 2024.
+from 1° to 3“ March, 2024.
 
 (c) The Place Race 2024, to be held in Limerick on 16" May, 2024.
 
@@ -324,7 +337,7 @@ UESTIONS
 
 estion subm i le
 
-I will ask at the next Meeting (a) what funding was advanced to the Dublin Bike Hire
+| will ask at the next Meeting (a) what funding was advanced to the Dublin Bike Hire
 business and its associated companies on foot of this Authority's Loan Agreement of
 2022; (b) for a listing of those companies and their addresses; (c) how many bicycles
 were purchased; (d) where and when were they provided; (e) how many remain in
@@ -333,7 +346,9 @@ advanced; (g) what, if any, funds remain due to the Council; and (h) the anticip
 date of full repayment should monies remain due to the Council.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -348,7 +363,7 @@ date of full repayment should monies remain due to the Council.
 
 Question submitted by Councillor J. Scanian
 
-| will ask at the next Meeting (a) how many septic tank inspections were carried out
+I will ask at the next Meeting (a) how many septic tank inspections were carried out
 by this Authority in 2023; (b) the number of those deemed inadequate and requiring
 remedial works; (c) the amount of grant-aid called for; and (d) how much was paid
 out.
@@ -377,4 +392,6 @@ shadow flicker; (d) damage to residential amenity.
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

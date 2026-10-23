@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%28a%29%20Minutes%20Special%20Meeting%2020.03.2019.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 20th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%28a%29%20Minutes%20Special%20Meeting%2020.03.2019.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -80,7 +81,9 @@ rate in order to assist the business community and promote Limerick City. Member
 referred to his passion for Limerick and the dignified manner in which he represented
 
 Limerick City as a Mayor and public representative.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Members spoke of his love of all sports and that he was a proud Young Munster fan.
@@ -120,4 +123,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

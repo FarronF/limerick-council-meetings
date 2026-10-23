@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%202018-09-05%20Minutes%20September.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 5th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%202018-09-05%20Minutes%20September.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ Seconded by: Councillor Collins
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -162,7 +165,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 On the proposal of Councillor Browne, seconded by Councillor Galvin, it was agreed to
 
 allocate €1,000.00 for the provision of a bus shelter in Newcastle West.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to allocate
@@ -268,7 +273,9 @@ the eastern end of the village. Based on the 2016 Census
 the total connected residential population is 85 PE and the
 
 potential load including the school is higher. The design
----
+
+[[PAGE_END:3]]
+
 4
 
 capacity of the individual WWTPs and load split between
@@ -350,7 +357,9 @@ defects that require maintenance. This junction along with other hazards
 identified on the N21 and indeed on all other National roads within Limerick
 
 will be assessed for suitable improvement works over the next few months.
----
+
+[[PAGE_END:4]]
+
 5
 
 6.
@@ -424,7 +433,9 @@ sites within and around the core area rather than focusing on
 rapid growth driven by one very large site. Specifically in
 
 (Image omitted)
----
+
+[[PAGE_END:5]]
+
 6
 
 ***Tiers 2*** ***–*** ***4***: Generally no one proposal for residential
@@ -489,7 +500,9 @@ growth of the settlement.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:6]]
+
 7
 
 In addition to the above, **Objective SS O1: Scale of**
@@ -563,7 +576,9 @@ villages shall be in the form of a number of well integrated
 sites within and around the core area rather than focusing on
 
 (Image omitted)
----
+
+[[PAGE_END:7]]
+
 8
 
 rapid growth driven by one very large site. Specifically in
@@ -637,7 +652,9 @@ considered. A limited increase beyond this may be permitted
 where demonstrated to be appropriate.
 
 (Image omitted)
----
+
+[[PAGE_END:8]]
+
 9
 
 7.
@@ -707,7 +724,9 @@ REPLY:
 Consultation will have to take place with the existing business in this location
 
 with regard to the removal of the loading bay.
----
+
+[[PAGE_END:9]]
+
 10
 
 NOTICES OF MOTION
@@ -779,7 +798,9 @@ The provision of funding for a public toilet for Abbeyfeale can be considered
 as part of the budget process and this request will be forwarded to the Physical
 
 Department for discussion.
----
+
+[[PAGE_END:10]]
+
 11
 
 13. Notice of Motion submitted by Councillor F. Foley
@@ -853,7 +874,9 @@ the coming weeks.
 Cllr. Collins stated that he was unhappy with the response and requested that a meeting be
 
 arranged with Irish Water regarding the water quality at O’Connor Park, Ardagh.
----
+
+[[PAGE_END:11]]
+
 12
 
 15. Correspondence
@@ -923,4 +946,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

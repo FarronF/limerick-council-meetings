@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-2021-10-20-minutes-draft-budgetary-meeting.pdf)
+**Original file:** [Minutes - Draft Budgetary Meeting - 20th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-2021-10-20-minutes-draft-budgetary-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
@@ -44,9 +45,9 @@ Deputy Chief Executive (Mr. S. Coughlan), Director, Community Development Direct
 Newcastle West (Ms. M. Corbett), Clerical Officer, Newcastle West (Ms. A. Lenihan), Clerical
 Officer, Newcastle West (Ms. F. Hennessy), Clerical Officer, Newcastle West (Ms. C. O'Carroll).
 
-41. Draft Budgetary Plan 2022
+1. Draft Budgetary Plan 2022
 
-Circulated, report dated 14 October, 2021, from the Deputy Chief Executive, which sets out
+Circulated, report dated 14" October, 2021, from the Deputy Chief Executive, which sets out
 the background and legal provisions relating to the Draft Budgetary Plan, along with details
 of the Draft Budgetary Plan 2022 for the Municipal District of Newcastle West in the total sum
 of €270,000.
@@ -62,17 +63,19 @@ West as follows:
 
 | Sve | General Municipal Allocation — 2020 | Newcastle West Municipal
 a | — __ District _
-B04 Local Roads ____| 95,000 :
-005 Tourism Development Recreation & | 10,000
+BO4 Local Roads ____ |. 95,000 :
+00s Tourism Development Recreation & | 10,000
 
 | [Amenity |
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Community Initiatives
-Special Projects — LA Infrastructure _
+Special Projects — LA Infrastructure
 
 Special Projects — LPT
 General Municipal Allocation
@@ -88,7 +91,7 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That the Budgetary Plan for Municipal District of Newcastle West for the financial year ended
-31* December, 2022, in the total sum of €270,000 and including the amendment to move the
+31 December, 2022, in the total sum of €270,000 and including the amendment to move the
 amount of €100,000 from Special Projects — LA Infrastructure and the amount of €45,000 —
 Special Projects — LPT to DOS Tourism Development, Recreation and Amenity, be adopted in
 accordance with Section 102 of the Local Government Act, 2001, as amended.
@@ -108,4 +111,6 @@ Cathaoirleach
 Dated
 
 
----
+
+[[PAGE_END:2]]
+

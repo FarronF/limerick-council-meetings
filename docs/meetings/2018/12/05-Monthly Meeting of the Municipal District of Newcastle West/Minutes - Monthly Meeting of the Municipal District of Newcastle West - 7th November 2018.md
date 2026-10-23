@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%28a%29%202018-11-07%20Minutes%20November.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%28a%29%202018-11-07%20Minutes%20November.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ Seconded by: Councillor Scanlan
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -174,7 +177,9 @@ The Director also acknowledged the work of the LCDC and the Municipal District O
 progressing the projects outlined. Members also asked that regular updates be given on the
 
 work of the Directorate.
----
+
+[[PAGE_END:2]]
+
 3
 
 3.
@@ -244,7 +249,9 @@ On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agr
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
 
 €250.00 to the Scouts, Newcastle West.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
@@ -326,7 +333,9 @@ Unit 1
 Works such as specifications, tendering, scheduling and construction are
 
 progressing.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Tournafulla**
@@ -416,7 +425,9 @@ REPLY:
 Footpath upgrade works are due to be carried out at this location within the
 
 next month.
----
+
+[[PAGE_END:5]]
+
 6
 
 11.
@@ -526,7 +537,9 @@ Unit 1
 05/02/2018
 
 **Abbeyfeale** – 5 units as follows:
----
+
+[[PAGE_END:6]]
+
 7
 
 **Name of Unit**
@@ -626,7 +639,9 @@ REPLY:
 As per our records held, I wish to confirm that the Peter McVerry Trust manage
 
 6 units in the Newcastle West District Area.
----
+
+[[PAGE_END:7]]
+
 8
 
 NOTICES OF MOTION
@@ -698,7 +713,9 @@ In proposing the Motion, Councillor Scanlan stated that traffic management arran
 along the Boherbui road from the Church towards the junction with Old Killeline in Newcastle
 
 West be reviewed. The Senior Executive Engineer stated that tenders have been received
----
+
+[[PAGE_END:8]]
+
 9
 
 with regard to the Newcastle West Integrated Movement Plan but additional funding is
@@ -764,4 +781,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

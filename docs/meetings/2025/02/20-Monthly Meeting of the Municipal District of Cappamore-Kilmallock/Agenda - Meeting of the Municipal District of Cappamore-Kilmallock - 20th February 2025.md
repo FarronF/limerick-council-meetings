@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/01-agenda-ck-md-meeting-20th-feb-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/01-agenda-ck-md-meeting-20th-feb-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Comhairle Golieach agus Contae Luimnigh,
-& Contae Luimnigh Oifig an Cheantam, Aras M) grit .
-noe a ‘ Cu c ‘
+Comhairie Cathrach Comhairle Gotheach agus Contae Luimnigh,
+& Contae Luimnigh Oifig an Cheantam, Aras M) rine a.
+no i ~“ Cu c ‘
 
-: A Co. Lugnragh.
+: ‘ Co. Lugnragh.
 
 — Limerick City =
-& County Council Limerick City and County Council,
+& County Council Limerick City and Courity Council,
 Aras Mainchin Seoighe Area Office
 
 EIRCODE V35 K497
@@ -51,10 +52,10 @@ on the appended Agenda.
 
 Is mise le meas,
 
-Mark aby
+Mark lab
 Meetings Administrator.
 
-een n een n nnn nnn nnn one ne nn none e-- +--+ + +--+,
+owen nee enn n nnn nnn nnn one one nn en nee +--+ + +.
 
 1. Minutes
 
@@ -63,15 +64,17 @@ To adopt Minutes of the following Meeting:
 (a) | Monthly Meeting of the Municipal District of Cappamore-Kilmallock held
 
 on the 16" January, 2025.
-(Copy enclosed) 7
+(Copy enclosed) '
 =
-Comhairle Cathrach agus Contae Lutmnigh, Oifig an Cheantair, Ards Mhainchin Seoighe © werwimerickte
+Comhairte Cathrach agus Contae Lutmnigh, Oifig an Cheantair, Ards Mhainchin Seoighe © werwlimerickte
 Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -110,7 +113,9 @@ Doon.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -158,7 +163,9 @@ that immediate action is undertaken on the road leading to Killeenavere Quarry,
 Dromkeen, Co. Limerick.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -179,4 +186,6 @@ that Limerick City & County Council review the existing drainage systems at
 Maiden Hall, Kilmallock, Co. Limerick.
 
 
----
+
+[[PAGE_END:4]]
+

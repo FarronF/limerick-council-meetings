@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-c-minutes-special-meeting-limerick-city-and-county-council-22.07.2024-at-2.30pm_0.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 22nd July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-c-minutes-special-meeting-limerick-city-and-county-council-22.07.2024-at-2.30pm_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND
@@ -84,7 +85,9 @@ to consider a proposed material contravention of the Croom Local Area Plan 2020-
 consisting of light manufacturing, ancillary offices and to include relocation of soccer
 
 pitch and all associated works. Plg. Ref. 24/60/159 refers.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 2. Pursuant to Section 34(6) of the Planning and Development Act, 2000 (as amended)
@@ -148,7 +151,9 @@ None
 There were no Abstentions.
 
 Accordingly, the following resolution was adopted by the same voting:
----
+
+[[PAGE_END:2]]
+
 **3**
 
 Proposed by Councillor O’Donoghue;
@@ -212,7 +217,9 @@ None
 There were no Abstentions.
 
 Accordingly, the following resolution was adopted by the same voting:
----
+
+[[PAGE_END:3]]
+
 **4**
 
 Proposed by Councillor Collins (B);
@@ -240,4 +247,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

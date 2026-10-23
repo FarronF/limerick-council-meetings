@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Newcastle-West-10th-February-2023.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub Committee of the Municipal District of Newcastle West - 10th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Newcastle-West-10th-February-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES
@@ -88,7 +89,9 @@ Municipal District of Newcastle West held on 12th October, 2022.
 Proposed by: Councillor Scanlan
 
 Seconded by: Councillor Sheahan
----
+
+[[PAGE_END:1]]
+
 2
 
 And Resolved:
@@ -154,7 +157,9 @@ incidents to the Gardaí.
 Following a query on the use of e-scooters on footpaths, Sergeant Cummins stated a nationwide
 
 problem exists with regard to the use of e-scooters.
----
+
+[[PAGE_END:2]]
+
 3
 
 In replying, the Acting Superintendent stated that education in our schools is ongoing and that
@@ -202,4 +207,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

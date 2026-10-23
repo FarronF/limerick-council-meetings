@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-d-minutes-special-meeting-10.06.2020.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-d-minutes-special-meeting-10.06.2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING (QUORUM ONLY) OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -80,7 +81,9 @@ also not available to host the Meeting.
 On the proposal of Councillor Ryan (E), seconded by Councillor Sheahan (J), it was agreed to
 
 select Limerick Racecourse, Patrickswell, as the venue for the Annual Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.Fixing of Date and Venue for next Ordinary Meeting of the Council
@@ -132,4 +135,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

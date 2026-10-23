@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%28b%29%20Minutes%20Special%20Meeting%2029th%20July%202019.pdf)
+**Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 29th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%28b%29%20Minutes%20Special%20Meeting%2029th%20July%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 29TH** **JULY, 2019**
@@ -92,7 +93,9 @@ the course of discussion of the item the following points were made :
  Serious concerns with regard to the lack of public consultation with neighbours, lack of
 
 understanding around the development, difficult for lay person to understand plans and
----
+
+[[PAGE_END:1]]
+
 2
 
 particulars. Proper public consultation with 3D modelling of project should have been
@@ -168,4 +171,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

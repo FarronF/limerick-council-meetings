@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%28b%29%202022-08-03%20Minutes%20Special%20Meeting.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 3rd August 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%28b%29%202022-08-03%20Minutes%20Special%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -82,7 +83,9 @@ Seconded by: Councillor Ruddle
 “*That, Councillor Michael Collins be appointed Cathaoirleach of the Municipal District of*
 
 *Newcastle West to hold office to the next Annual Meeting or until his successor is appointed”.*
----
+
+[[PAGE_END:1]]
+
 2
 
 As there were no other nominations, the outgoing Cathaoirleach declared Councillor Collins
@@ -150,7 +153,9 @@ Newcastle West and Fuller’s Folly, Newcastle West.
 The condition of the road surface on a section of the N21 Devon Road, Templeglantine was
 
 raised. In replying, the Senior Executive Engineer agreed to follow up on this matter.
----
+
+[[PAGE_END:2]]
+
 3
 
 An update was also sought on the Local Area Plans for Newcastle West and Abbeyfeale and
@@ -182,6 +187,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+
 4
----
+
+[[PAGE_END:4]]
+

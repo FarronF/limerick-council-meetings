@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-metropolitan-district-of-limerick-17th-february-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 17th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-metropolitan-district-of-limerick-17th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -90,7 +91,9 @@ amended, and the Code of Conduct, she was inviting those present to notify the C
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
 
 declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -164,7 +167,9 @@ And Resolved:
 “That Crannog, Dublin Road, Limerick be taken in charge in accordance with Section 180 of the
 
 Planning and Development Act 2000 (as amended) and Section 11 of the Roads Act, 1993”.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.Housing Directorate**
@@ -244,7 +249,9 @@ immediate context, an area of predominantly two-and three-storey buildings. We w
 the amendment includes a mirror sensitive response to the context by reflecting the adjacent
 
 building heights”.
----
+
+[[PAGE_END:3]]
+
 4
 
 With the permission of the Cathaoirleach and on the proposal of Councillor Butler, seconded by
@@ -318,7 +325,9 @@ retirement and thanked her for all her work over the years.
 ***update following my passed motion for a sensory garden in the walled garden in Mungret over***
 
 ***six months ago.***
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY**: The Council has held a number of discussions with internal departments in the Council in
@@ -392,7 +401,9 @@ maintaining public order and safety. Under Section 38 of An Garda Síochána Act
 Garda Commissioner has the authority to approve the presence of such cameras, ensuring
 
 that each scheme or individual location is justified, proportionate, and necessary.
----
+
+[[PAGE_END:5]]
+
 6
 
 The CCTV infrastructure installed at the junction of Crossagalla and Bawnmore Road are
@@ -468,7 +479,9 @@ funding is secured.
 **13.Question submitted by Councillor F. Kilcoyne**
 
 ***I will ask at the next**meeting of the Metropolitan District of Limerick, on behalf of the Residents***
----
+
+[[PAGE_END:6]]
+
 7
 
 ***of Ballinacurra Gardens, where the entrance stone to Baggot Estate, erected back in 2014, has***
@@ -560,7 +573,9 @@ Below is a summary of the number of Families and Singles placed in December of 2
 2024 as per the Executive Reports which are published monthly by Limerick City and County
 
 Council.
----
+
+[[PAGE_END:7]]
+
 8
 
 This is a demand led service and as such the Homeless Action team regularly review the demand
@@ -726,7 +741,9 @@ Total
 184
 
 December 08/12/2023
----
+
+[[PAGE_END:8]]
+
 9
 
 Families
@@ -876,7 +893,9 @@ the Council and funding has been granted by TII. We will continue to monitor the
 of this scheme and provide updates as they become available.
 
 **17.Question submitted by Councillor S. Kiely**
----
+
+[[PAGE_END:9]]
+
 10
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
@@ -948,7 +967,9 @@ as follows:
 (a) Significance of the Structure.
 
 (b) Efficacy of the Grant in Achieving the Aims of the Historic Structures Fund.
----
+
+[[PAGE_END:10]]
+
 11
 
 (c) Quality of the Methodology and Technical Merit of the Works Proposed.
@@ -1026,7 +1047,9 @@ the business park linked to the storm sewer system. The Council has been issuing
 under the Water Pollution Act 1977 when necessary. In 2024, 77 inspections of businesses
 
 were conducted, and 26 notices were issued. The primary issues identified included the
----
+
+[[PAGE_END:11]]
+
 12
 
 improper discharge of wastewater from activities like power washing vehicles on-site,
@@ -1102,7 +1125,9 @@ The MyWaste project is ongoing and progressing steadily with businesses being vi
 an individual basis by a waste advisor. A number of coffee outlets in Limerick have decided
 
 independently to move to reusables in support of sustainability. This initiative is supported
----
+
+[[PAGE_END:12]]
+
 13
 
 by the ongoing distribution to the public of reusable coffee cups by Limerick City and County
@@ -1196,7 +1221,9 @@ submitted to the Department under the **Libraries Capital Programme 2023** **–
 In April 2024, the Department announced the approval of 11 capital projects for funding.
 
 However, Limerick was not included on this list.
----
+
+[[PAGE_END:13]]
+
 14
 
 We were informed that, which the Stage 2 Design Plan submitted for the new Limerick city
@@ -1268,7 +1295,9 @@ measure with the communities interlinking the estates which can also be advanced
 ***I will move at the next Meeting of the Metropolitan District of Limerick that we discuss setting***
 
 ***up a humanitarian hub in the Southside of Limerick City.***
----
+
+[[PAGE_END:14]]
+
 15
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor O’Donovan and
@@ -1342,7 +1371,9 @@ Please see below statement issued by the owners last week.
 ***infrastructure are vital to ease traffic congestion in this area.***
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Doyle and agreed.
----
+
+[[PAGE_END:15]]
+
 16
 
 In proposing the Motion, Councillor Pond highlighted the serious traffic congestion in the area. He
@@ -1416,7 +1447,9 @@ In proposing the Motion, Councillor Kiely highlighted the difficulties for pedes
 O’Connell Street, in particular doming from Bedford Row, and stressed the urgent need to reinstate
 
 the pedestrian crossing here. She referred to the many calls Councillors had received in relation to
----
+
+[[PAGE_END:16]]
+
 17
 
 same.
@@ -1486,7 +1519,9 @@ Active Travel to discuss the request for a pedestrian crossing at the Parkway Ro
 ***Road.***
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
----
+
+[[PAGE_END:17]]
+
 18
 
 Strategic Policy Committee.
@@ -1514,4 +1549,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:18]]
+

@@ -16,46 +16,49 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-09-11-agenda-september.pdf)
+**Original file:** [Agenda -  Monthly Meeting of the Municipal District of Newcastle West - 11th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-09-11-agenda-september.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
-Comhairle Cathrach agus Contae Luimnigh,
-& Contae Luimnigh pa ser tl
+Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+——_ Comhairle Cathrach agus Contae Luimnigh,
 
-NON A Mz cdc: Pl S!S!S*~S# Gortbul,
+o—~ & Contae Luimnigh Aras William Srnith O’Brien,
 
-—=—— Limerick City An Caislean Nua Thiay,
+NEN Gortbul,
+—=— Limerick City An Caislean Nua Thiay,
+
 & County Council Co. Luimnigh.
 
 Newcastle West Municipal District.
 Limerick City and County Council,
-Aras Wililam Smith OBrien,
+Aras Wililam Smith OBrien.
 Gortboy,
 
 Newcastle West,
 
 Co. Limerick
 
-Encode: V42EH73
-
+Eircode: V42EH73
 6" September, 2024 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 11% September,
 2024, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-\s mise le meas,
+Ns mise le meas,
 
-Pple,
+pple,
 Meetings Administrator.
 
 AGENDA
+
 1. Minutes
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 3%
@@ -67,20 +70,22 @@ July, 2024.
 
 3. Environment, Climate Action and Shared Services Directorate
 To Receive Update on Maintenance of Cemeteries in the District.
+
 4. Disposal of Land
 
 (a) To note proposal for the disposal of Freehold Interest in property at Knockbrack,
 Abbeyfeale, Co. Limerick.
 
-& customerservicesa@limerick.ie
+& customerservices@limerick.ie
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vers limerick.ie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © veorwlimerick.ie
+Corporate Headquarters, Merchant's Quay, Limerick ee gr
+061 - 556 000
 
-Corporate Headquarters, Merchant's Quay, Limerick et aT
-061 - 556
 
 
----
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -131,11 +136,13 @@ length of time these houses are unoccupied.
 
 Questions submitted by Councillor J. Scanian
 
-I will ask at the next Meeting that the sight lines at Portland Estate, Newcastle West,
+| will ask at the next Meeting that the sight lines at Portland Estate, Newcastle West,
 be significantly improved.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -196,7 +203,9 @@ Treatment Plant in Newcastle West (b) when is the upgrade of the Wastewater
 Treatment Plant facilities in Newcastle West taking place.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -208,4 +217,6 @@ comprehensive works programme for traffic safety measures to be put in place for
 our towns and villages and that it would be properly funded.
 
 
----
+
+[[PAGE_END:4]]
+

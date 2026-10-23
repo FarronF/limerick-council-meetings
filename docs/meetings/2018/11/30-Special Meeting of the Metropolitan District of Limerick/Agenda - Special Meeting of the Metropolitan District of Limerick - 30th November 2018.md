@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%2030th%20November%202018.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 30th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%2030th%20November%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seirbhisi Corparaideacha.
+Seirbhisi Corpardideacha.
 
 Comhairle Ca thrach Comhairle Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Ceanncheathri Chorparaideach,
 
-NEON : Cé na gCeannaithe.
+NEON ; Cé na gCeannaithe.
 — Limerick City Luimneach
-& County Council onuataninn
+& County Council caneuataninn
 
 Limerick City and County Council
 
@@ -45,7 +46,7 @@ t: +353 (0) 61 557150
 f; +353 (0) 61 415 266
 
 27 November, 2018.
-To: The Mayor and each Member of the Metropolitan District of Limerick
+To: _ The Mayor and each Member of the Metropolitan District of Limerick
 
 A Chomhairleoir, a chara,
 
@@ -57,7 +58,7 @@ Agenda.
 
 Is mise le meas,
 
-L
+L,
 Ja Clune,
 
 ings Administrator.
@@ -68,11 +69,13 @@ Municipal Allocation, 2018.
 
 (Copy attached).
 @ customerservices@limerick.ie
-© wvevalimerick.ie
+©) wvevalimerick.ie
 w @LimerickCouncil
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach 06s - Be7i50
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach 06s - be7i50
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

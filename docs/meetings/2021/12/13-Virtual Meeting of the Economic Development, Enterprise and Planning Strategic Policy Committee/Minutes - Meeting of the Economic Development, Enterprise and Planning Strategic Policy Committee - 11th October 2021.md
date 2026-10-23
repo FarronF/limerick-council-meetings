@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/minutes-of-spc-mtg-11th-october-21.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 11th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/minutes-of-spc-mtg-11th-october-21.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 11TH** **OCTOBER, 2021**
@@ -102,7 +103,9 @@ On the Proposal of Cllr. Hartigan, seconded by Cllr. Novak Uí Chonchúir, it wa
 agreed to make the inclusion of swift bird nesting boxes on suitable sites, a planning condition
 
 as part of the planning application process.
----
+
+[[PAGE_END:1]]
+
 **Item 3**
 
 **To consider Notice of Motion referred from Metropolitan Meeting of the Council held on 19th** **April,**
@@ -200,7 +203,9 @@ was agreed by the SPC, with one member opposing it. Members were informed that
 following public display, the Chief Executive would prepare a report on the submissions
 
 received, for the members to consider. M. Woods confirmed that another workshop for
----
+
+[[PAGE_END:2]]
+
 elected members would be convened in advance of Council Meeting in January. The
 
 members will make or amend the proposed scheme at the January 2022 Council Meeting.
@@ -282,7 +287,9 @@ Mr. Moloney referred to the following EI supported projects/initiatives in Limer
  Community Enterprise Centres funded by EI
 
  Research and Innovation at 3rd level and business
----
+
+[[PAGE_END:3]]
+
 EI has 593 clients in Limerick, with 9,774 people employed and provide a wide range of services to
 
 these companies.
@@ -360,7 +367,9 @@ Item to be deferred to next meeting.
 Members welcomed the large amount of outdoor dining facilities available in Limerick during the
 
 pandemic, which had been funded under the Outdoor Seating & Accessories for Tourism and
----
+
+[[PAGE_END:4]]
+
 Hospitality Business Scheme, run by Failte Ireland and the Local Authorities. They also expressed
 
 concern that the licence fees for outdoor furniture on public areas, which had been waived for
@@ -396,4 +405,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:5]]
+

@@ -16,25 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-9th-november-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-9th-november-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-ne & Contae Luimnigh Comnhattie Cathrach agus Contae Luimnigh,
+a & Contae Luimnigh Comnhatte Cathrach agus Contae Luimnigh,
 
-Aareo a ~ Aras Séan Pinri,
+AN —a———_ Aras Séan Pinri,
 
-. . ; Line Nua,
-Limerick City Rath Cake
+Limerick City Rath Cece
 = & County Council Co. Luimnigh.
 
-Adare-Rathkeale Mamnicipal District,
+Adare-Rathkeale Municipal District,
 Limenck City and County Council,
 Aras Sean Finn,
 
-New urw,
+New ure,
 
 Rathkeale,
 
@@ -51,7 +51,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 
-the Rathkeale House Hotel, Rathkeale, Co. Limerick, on Tuesday, 9" November, 2021 at 9.30
+the Rathkeale House Hotel, Rathkeale, Co. Limerick, on Tuesday, 9” November, 2021 at 9.30
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -75,14 +75,16 @@ Transportation Regulation Act 2009 (Section 46).
 
 (Report Enclosed).
 = customerservices@hmerickie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach © wee imerickie
+Ceanncheathrii Chorpardiieach, Cé na gCeannaithe, Luimneach © weve lmerickie
 Corporate Headquarters, Merchants Quay, Limerick, 1 y
 
 @LimerickCouncil
-(\ 061-886 000
+\ 061-886 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8.
@@ -110,7 +112,7 @@ be put in place (2) How many houses/people are affected (3) What has been done t
 to bring this to a resolution and (4) When will it be resolved.
 
 NOTICES OF MOTION
-Notice of Moti bmitted by C illor K. Sheat
+Notice of Moti bmitted by ¢ illor K. Sheat
 I will move at the next meeting the Council would agree to erect appropriate and suitable
 
 signage at the approaches to Askeaton to indicate it is the oldest town in the County.
@@ -120,4 +122,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

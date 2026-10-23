@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_meeting_of_kilmallock_area_committee_-_24_april_2014.pdf)
+**Original file:** [Minutes of Meeting of Kilmallock Area Committee - 24th April 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_meeting_of_kilmallock_area_committee_-_24_april_2014.pdf)
 
----
+[[FILE_START]]
+
 **DRAFT**
 
 **Minutes of Meeting of Kilmallock Area Committee held Aras Mainchin Seoighe,**
@@ -86,7 +87,9 @@ minutes as a mark of respect. His proposal was seconded by Cllr. Houlihan, and t
 meeting was adjourned.
 
 Meeting reconvened after 15 minutes.
----
+
+[[PAGE_END:1]]
+
 Circulated copy of draft minutes of meeting of Committee held on the 20th
 
 March.2014.
@@ -168,7 +171,9 @@ Mr. O’Connor stated that there are no plans presently to do this, as it is not
 condition of Planning. It can be included if funding is made available.
 
 The members thanked Mr. O’Connor for his briefing.
----
+
+[[PAGE_END:2]]
+
 **Discuss road repairs and signage for upcoming bike championship event in**
 
 **Kilfinane- Ballyhoura (Cllr. Houlihan)**
@@ -246,7 +251,9 @@ They thanked the chairman and congratulated him on his excellent tenure.
 Chairman David Moloney thanked the members for their kind works, and addressed
 
 the committee.
----
+
+[[PAGE_END:3]]
+
 **Chairman’s address to the Committee :**
 
 Since being co-opted as a Councillor onto Limerick County Council in place of
@@ -326,7 +333,9 @@ the projects that it is to be put toward will make significant contributions to 
 - At the beginning of this year we have seen a milestone both nationally and a local
 
 level with the transfer of assets to Irish water. Progress is underway in this respect as
----
+
+[[PAGE_END:4]]
+
 homes all over the area and county have or are getting water meters fitted.
 
 - Also in water, let us not forget the outstanding Chambers Ireland Award that the
@@ -406,9 +415,13 @@ END
 The meeting then concluded.
 
 Signed\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Chairman
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

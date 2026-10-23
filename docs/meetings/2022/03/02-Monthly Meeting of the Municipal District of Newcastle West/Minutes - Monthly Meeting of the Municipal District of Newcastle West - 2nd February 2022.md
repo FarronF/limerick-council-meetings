@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-2022-02-02-minutes-february.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-2022-02-02-minutes-february.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -102,7 +103,9 @@ January, 2022, concerning proposal to dispose of land comprising 0.161 Ha. at Ki
 Barnagh, Co. Limerick, to John Geary, The Garage, Kilmeedy, Co. Limerick.
 
 Members noted the proposal.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -180,7 +183,9 @@ town,
  provision of a public toilet as part of the programme of works and
 
  the demolition of Jack Riordan’s pub.
----
+
+[[PAGE_END:2]]
+
 3
 
 The resurfacing of a section of the road at Mountmahon, Abbeyfeale was also raised and it
@@ -254,7 +259,9 @@ and economic development opportunities in the towns. The funding costs to date f
 project and the money allocated in identifying the docking points of the Distributor Roads
 
 was raised.
----
+
+[[PAGE_END:3]]
+
 4
 
 It was proposed by Councillor Collins, seconded by Councillor Scanlan and agreed by all, that
@@ -322,7 +329,9 @@ identified. An internal layout will then be designed taking account of the const
 Following the completion of the scoping and design then the tender competition to procure
 
 a contractor will be undertaken. It is estimated that the work phase from the date of
----
+
+[[PAGE_END:4]]
+
 5
 
 appointment of a contractor to completion will take six months. It is not possible to give a
@@ -396,7 +405,9 @@ It was noted that the correct title of the estate is Cluain Dara, Broadford.
 Question submitted by Councillor T. Ruddle
 
 ***I will ask at the next Meeting*** ***what progress has been made on the taking over of the***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***laneway from the Courtenay School to the Desmond Complex Newcastle West.***
@@ -466,7 +477,9 @@ Of these, there are **19 no.** cases where the particulars of the land are enter
 Sites Register maintained by the Council.
 
 In summary, the status of cases is as follows:
----
+
+[[PAGE_END:6]]
+
 7
 
 **REF. NO.**
@@ -666,7 +679,9 @@ Limerick
 Open derelict sites case
 
 **The following list provides more detail on the status of cases in the area:**
----
+
+[[PAGE_END:7]]
+
 8
 
 **Land that has been compulsorily acquired by LCCC**
@@ -772,7 +787,9 @@ Question submitted by Councillor L. Galvin
 ***I will ask at the next Meeting for (a) a report on the repair of the boundary fence at Reilig***
 
 ***Íde Naofa, The Hill, Abbeyfeale (b) an update on the new burial ground for Abbeyfeale.***
----
+
+[[PAGE_END:8]]
+
 9
 
 REPLY:
@@ -842,7 +859,9 @@ project.
 ***front of the Old Carnegie Library, Bishop Street, Newcastle West as traffic parking here is***
 
 ***impeding traffic flow and causes vehicular traffic to back up in both directions.***
----
+
+[[PAGE_END:9]]
+
 10
 
 The Motion was seconded by Councillor Ruddle.
@@ -928,7 +947,9 @@ Newcastle West Calvary
 Springfield Broadford (Ext)
 
 98
----
+
+[[PAGE_END:10]]
+
 11
 
 Templeglantine (New)
@@ -998,7 +1019,9 @@ the Chief Executive.
 ***I will move at the next Meeting that the green be removed in Collins Park, Abbeyfeale to aid***
 
 ***parking and skip waste removals (small section), this was raised previously.***
----
+
+[[PAGE_END:11]]
+
 12
 
 The Motion was seconded by Councillor Foley.
@@ -1042,4 +1065,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

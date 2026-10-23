@@ -16,16 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-agenda-october-md-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-agenda-october-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Lusmniigh,
-& Contae Luimnigh Ov‘g an Cheantair, Aras Maar fre: ten
-An f™ e -alig,
-
-mips; Co. Luk nh.
+_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Lasmnigh,
+& Contae Luimnigh Ov‘g an Cheantair, Aras Maar frees tes
 
 : — Limerick City 0. LMA
 & County Council Limerick City and County Council,
@@ -39,15 +37,15 @@ Co. Limerick
 EIRCODE V35 K497
 
 t: +353 (0) 63 980 19
-f: +353 (0) 63 985 99
+f; +353 (0) 63 985 99
 
 9" October, 2020.
 
 A Chomhairleoir, a chara,
 
 You are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
-Kilmatilock to be held on Thursday 15" October at 3.45pm in the Deebert House Hotel, Deebert,
-Kilmallock, Co. Limerick.
+Kilmallock to be held on Thursday 15" October at 3.45pm in the Deebert House Hotel, Deebert,
+Kilmatllock, Co. Limerick.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
@@ -60,15 +58,17 @@ Meetings Administrator.
 Cappamore-Kilmallock held on the 17" September, 2020.
 
 (ii) To consider the adoption of Minutes of Special Meeting of the Municipal District
-of Cappamore-Kilmallock held on the 1% October, 2020. man le
-tomerservices@limerick,
+of Cappamore-Kilmallock held on the 1 October, 2020. an le
+tomerservices@limerick.
 
-Comhairle Cathrach agus Contae Luimnigh, Otfig an Cheantair, Aras Mhainchin Seoighe © wevowiimerickie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wevowiimerickie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office v rg ~
 053 980
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Physical Development Directorate
@@ -107,7 +107,9 @@ application for a National Fire Training Centre in Kilmallock Business Park, com
 phase 1 & 2.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Notice of Motion submitted by Councillor John Egan
@@ -140,4 +142,6 @@ Regional road from Caherconlish to Mitchelstown and assess what improvements can
 put in place for this road and if it needs to be upgraded to National route status.
 
 
----
+
+[[PAGE_END:3]]
+

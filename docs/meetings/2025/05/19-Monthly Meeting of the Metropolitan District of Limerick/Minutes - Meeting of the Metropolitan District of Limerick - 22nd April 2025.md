@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-meeting-of-the-metropolitan-district-of-limerick-22nd-april-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 22nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-meeting-of-the-metropolitan-district-of-limerick-22nd-april-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -86,7 +87,9 @@ And Resolved:
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
 amended, and the Code of Conduct, she was inviting those present to notify the Cathaoirleach of
----
+
+[[PAGE_END:1]]
+
 2
 
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
@@ -186,7 +189,9 @@ Meeting of the Metropolitan District of Limerick at 9.45am on Monday, 23rd June,
 **6.Planning and Place-Making Directorate**
 
 **Taking in Charge of Estates - Declaration of Roads to be Public Roads**
----
+
+[[PAGE_END:2]]
+
 3
 
 Circulated, Report of the Senior Planner, Planning and Place-Making Directorate dated 8th April,
@@ -256,7 +261,9 @@ building to progress the development of the site.
 ***increase the number of bins along Plassey walkway along the riverbank due to lack of same.***
 
 **REPLY**: The Cleansing Section cannot service bins along this walkway due to access restrictions for
----
+
+[[PAGE_END:3]]
+
 4
 
 collection vehicles. Consideration will be given to the provision of bins where the walkway
@@ -328,7 +335,9 @@ disability then the team will endeavour to provide any necessary available suppo
 explore suitable homeless accommodation options.
 
 **13.Question submitted by Councillor E. Secas**
----
+
+[[PAGE_END:4]]
+
 5
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the total cost of the***
@@ -412,7 +421,9 @@ Enquiries for the past 5 years are as follows:
 **REPLY**: In 2023, the expenditure for the provision of Emergency Accommodation by Limerick City
 
 and County Council was €3,221,755.11 and in 2024 this figure was €4,735,578.89.
----
+
+[[PAGE_END:5]]
+
 6
 
 This is a demand led service, and the Homeless Action team in response to demand from
@@ -522,7 +533,9 @@ backdrop of King John’s Castle was another highlight.
 180 capacity event. The event showcased LSAD fashion students alongside established
 
 designers. €14,089.65.
----
+
+[[PAGE_END:6]]
+
 7
 
 **The Riverfest Village** featured a mix of 35 food and craft traders and musical entertainment.
@@ -596,7 +609,9 @@ friendly event. €1,000.00.
 **St. Mary Cathedral.** Vintage car show in the grounds of Limericks iconic St. Mary Cathedral.
 
 €500.00.
----
+
+[[PAGE_END:7]]
+
 8
 
 **Milk Market Trustees.** Potato Market support. €2,000.00
@@ -682,7 +697,9 @@ The forecast model is informed and updated through data from Met Éireann, which
 includes Limerick Dock tide levels and times, wind direction and speed, wave action, air
 
 pressure and surge. In addition, the River Shannon water levels and discharge from the
----
+
+[[PAGE_END:8]]
+
 9
 
 ESB’s generating station at Ardnacrusha and the discharge at Parteen Weir are taken into
@@ -756,7 +773,9 @@ Information Centre in a central location in the city centre. The Members welcome
 was agreed to invite Fáilte Ireland to brief the Elected Members of the Metropolitan District of
 
 Limerick on their future plans for Limerick City.
----
+
+[[PAGE_END:9]]
+
 10
 
 **22.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
@@ -830,7 +849,9 @@ In proposing the Motion, Councillor Gavan highlighted the benefits of introducin
 services, noting it would help improve the process and possibly encourage more people to use
 
 public transport. She referred to transport systems across the UK and Europe where contactless
----
+
+[[PAGE_END:10]]
+
 11
 
 payment was already in place and highlighted the efficiencies this offered.
@@ -908,7 +929,9 @@ Members welcomed the Motion and agreed the issue needs to be addressed. They not
 use of stencils on footpaths has been effective in tackling dog fouling and requested additional
 
 stenciling in areas across the Metropolitan District.
----
+
+[[PAGE_END:11]]
+
 12
 
 Members commended all who took part in Team Limerick Clean-Up, noting that it was a huge
@@ -964,4 +987,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

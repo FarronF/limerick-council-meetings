@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2021-12-01-minutes-december-.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 1st December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2021-12-01-minutes-december-.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ The Cathaoirleach welcomed representatives from Broadford Voluntary Housing and
 Community Childcare Facility CLG. The Deputation consisted of Ms. Mary Lee Geary and Mr.
 
 Mike Boyce.
----
+
+[[PAGE_END:1]]
+
 2
 
 Ms. Geary thanked the Members for the opportunity to address the Meeting.
@@ -178,7 +181,9 @@ has been received and is being considered. It was also noted that the Housing Di
 wish to hold a workshop with the Newcastle West Councillors on the 8th December and the
 
 Broadford Development at Nunan’s Corner could be raised at this.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -254,7 +259,9 @@ At the present time there are renovations taking place at a private house above 
 funeral home in Athea. Once these renovations are complete, footpath repairs will be
 
 carried out subject to the availability of funding.
----
+
+[[PAGE_END:3]]
+
 4
 
 **(c)**
@@ -326,7 +333,9 @@ REPLY:
 This request will be considered under the Roads Programme of Works for
 
 2022.
----
+
+[[PAGE_END:4]]
+
 5
 
 9.
@@ -422,7 +431,9 @@ Glin
 Kilmeedy
 
 19
----
+
+[[PAGE_END:5]]
+
 6
 
 Knockaderry
@@ -492,7 +503,9 @@ The most an applicant can get is €8,000 or 95% of the total cost of the work a
 local authority (whichever is less). This grant can go towards the total cost of the work
 
 including the VAT.
----
+
+[[PAGE_END:6]]
+
 7
 
 **1.Mobility Aid Grant**
@@ -527,7 +540,9 @@ than €60,000, after the disregards and deductions are applied.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:7]]
+
 8
 
 A discussion took place on the Standard Unit Costs and Cllr. Sheahan noted that he had been
@@ -597,7 +612,9 @@ have to agree to this and there would be a cost to them if this solution was to 
 ***I will move at the next Meeting that the Council improve the sight lines at Buckley's Cross,***
 
 ***Abbeyfeale (Kilmorna Junction).***
----
+
+[[PAGE_END:8]]
+
 9
 
 The Motion was seconded by Councillor Foley.
@@ -657,7 +674,9 @@ Daar River View, Newcastle West.
 The Motion was seconded by Councillor Sheahan.
 
 REPLY:
----
+
+[[PAGE_END:9]]
+
 10
 
 It would appear that Daar River View has not been taken in charge as yet, and therefore the
@@ -725,7 +744,9 @@ It was noted that a private Virtual Briefing on the Housing Delivery Action Plan
 for the Municipal District of Newcastle West is to take place on Wednesday, 8th December,
 
 2021.
----
+
+[[PAGE_END:10]]
+
 11
 
 It was agreed to hold the January Meeting of the District on Wednesday, 12th January, 2022,
@@ -759,4 +780,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

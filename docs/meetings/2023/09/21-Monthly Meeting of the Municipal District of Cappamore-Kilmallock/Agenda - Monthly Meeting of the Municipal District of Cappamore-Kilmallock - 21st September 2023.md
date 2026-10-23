@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/1-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/1-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 15th September, 2023.
@@ -64,7 +65,9 @@ July, 2023.
 Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 20th July, 2023.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -106,7 +109,9 @@ Taking in charge of Glengrove , Gortboy
 Housing Strategy, Capital and Maintenance
 
 Housing Construction and SPC update
----
+
+[[PAGE_END:2]]
+
 3
 
 NOTICES OF MOTION
@@ -166,7 +171,9 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District t
 programme be put in place as a matter of priority for the ongoing maintenance of inlets and
 
 drainage grates on the roads in the district.
----
+
+[[PAGE_END:3]]
+
 4
 
 QUESTIONS
@@ -194,4 +201,6 @@ Question submitted by Councillor Carey
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District that flexi-bollards
 
 are erected outside the Ardpatrick National School.
----
+
+[[PAGE_END:4]]
+

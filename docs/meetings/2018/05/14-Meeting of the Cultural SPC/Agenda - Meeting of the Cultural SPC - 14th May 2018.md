@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Agenda%20Cultural%20SPC%2014th%20May%202018%20V2.pdf)
+**Original file:** [Agenda - Meeting of the Cultural SPC - 14th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Agenda%20Cultural%20SPC%2014th%20May%202018%20V2.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**
@@ -86,7 +87,9 @@ I call at the next Meeting on Limerick City and County Council to develop an inv
 of all Limerick's historical and artistic assets to ensure their preservation and to exploit
 
 their potential as tourist attractions and encourage civic pride.
----
+
+[[PAGE_END:1]]
+
 **Item 9**.
 
 Notice of Motion referred from full Council Meeting of January 2018
@@ -132,4 +135,6 @@ Any Other Business
 **Cathaoirleach**
 
 **Cultural SPC, Limerick City & County Council**
----
+
+[[PAGE_END:2]]
+

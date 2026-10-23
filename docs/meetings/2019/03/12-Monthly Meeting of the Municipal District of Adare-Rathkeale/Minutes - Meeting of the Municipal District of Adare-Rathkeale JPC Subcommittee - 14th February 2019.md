@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20%28b%29%20Minutes%20JPC%2014th%20February%2C%202019.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale JPC Subcommittee - 14th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20%28b%29%20Minutes%20JPC%2014th%20February%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE JPC SUBCOMMITTEE HELD IN ÁRAS SÉAN FINN, NEW LINE ROAD,**
@@ -90,7 +91,9 @@ Discussion took place in relation to the policing plan for the Adare-Rathkeale D
 the Christmas period. Members complimented the Superintedent and his staff for the
 
 excellent policing of the District over the season. While some residents of the town of
----
+
+[[PAGE_END:1]]
+
 Rathkeale had complained of over policing due to checkpoints etc. it was agreed that the
 
 District experienced a relatively crime free Christmas season as a result of this policing
@@ -164,4 +167,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

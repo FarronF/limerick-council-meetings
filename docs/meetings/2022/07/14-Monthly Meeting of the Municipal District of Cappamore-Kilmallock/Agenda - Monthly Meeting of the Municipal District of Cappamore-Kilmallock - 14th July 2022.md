@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20Agenda%20for%20July%202022%20Municipal%20District%20of%20Cappamore-Kilmallock%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20Agenda%20for%20July%202022%20Municipal%20District%20of%20Cappamore-Kilmallock%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **8th** **July 2022.**
 
 **To/**
@@ -58,7 +59,9 @@ Kilmallock Municipal District held on the 16th June 2022.
 2.Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 16th June.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Correspondence.
@@ -108,7 +111,9 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District t
 of averaging Speed cameras in towns and villages be considered in the Municipal District
 
 where speed is a concern.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -158,4 +163,6 @@ Question submitted by Councillor Mitchell
 I will ask at the next meeting of the Cappamore-Kilmallock District for ramps to be installed in
 
 Knocklong immediately in the interest of health and safety.
----
+
+[[PAGE_END:3]]
+

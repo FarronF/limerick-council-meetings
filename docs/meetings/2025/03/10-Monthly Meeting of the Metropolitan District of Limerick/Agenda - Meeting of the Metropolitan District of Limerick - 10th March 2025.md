@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 10th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 
-AN MK
+a
 
 — Limerick City
 & County Council
 
-5" March, 2025.
+5'" March, 2025.
 
 To:
 
-SeirdDhisi Corparaideacha.
+SeirdDhisi Corparaideacha,
 
 Com)nairie Cathrach agus Contae Luimnigh,
 Ceanncheathni Chorpsrdidesch,
@@ -44,7 +45,7 @@ Luimneach
 
 Corporate Services.
 
-Limenck City and County Council
+Limerick City and County Council
 Corporate Headquarters,
 Marchants Quay,
 
@@ -52,8 +53,8 @@ Limenck
 
 EIRCODE V4 EH90
 
-t: +353 (0) 62 557150
-f: +353 (0) 61 415 266
+t: +353 (0) 61 557150
+f: +383 (0) 61 415 266
 
 AChomhairleoir, a chara,
 
@@ -81,14 +82,16 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-em Customerservices@limerick.ie
-© vevevatimerick.ie
+em Customerservices@limerickie
+© vevevetimerick.ie
 
 ¥ @LimerickCouncit
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -111,7 +114,7 @@ Limerick for 2025.
 5. Planning and Place-Making Directorate
 (a) Part 8 Procedure — Nos, 35-39 Nicholas Street, Limerick
 
-To consider the Mayor's Report pursuant to Section 179(3)(a) of the Planning and Development
+To consider the Mayor’s Report pursuant to Section 179(3)(a) of the Planning and Development
 Act, 2000 (as amended) and Part 8 of the Planning and Development Regulations, 2001 (as
 amended) in relation to the proposed development of a Design and Innovation Hub at Nos. 35 —
 39 Nicholas Street (a Proposed Protected Structure (Ref. No.: P.P.S. 2024/A)) to comprise artist
@@ -137,7 +140,9 @@ Development Act 2000 (as amended).
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -184,7 +189,9 @@ dockless bike scheme for Castletroy/Annacotty and when will it be expanded beyon
 to Corbally and Castleconnell.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor U. Gavan
@@ -230,15 +237,17 @@ Council travel from.
 
 20. Question submitted by Councillor S. Hickey-O’Mara
 
-1 will ask at the next Meeting of the Metropolitan District of Limerick for this Council to please
+| will ask at the next Meeting of the Metropolitan District of Limerick for this Council to please
 clarify which department has responsibility for the removal of dumped waste/litter from green
 spaces in the Metropolitan area.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-21. Question submitted by Councillor S. Hickey-O’ Mara
+21. Question submitted by Councillor S. Hickey-O’Mara
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a timeline for the
 installation of automatic red-light cameras to monitor road users who break red lights throughout
@@ -246,7 +255,7 @@ the Metropolitan area.
 
 22. Question submitted by Councillor D. McSweeney
 
-1 will ask at the next meeting of the Metropolitan District of Limerick for an update on the
+| will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 proposed 24 units at Barnakyle, Patrickswell and in particular the request by the elected members
 whilst considering the Part 8 that 50% of these units be made available for purchase under the
 Affordable Purchase Scheme.
@@ -285,7 +294,9 @@ Situ scheme, as the delays from the Department are causing unnecessary stress fo
 tenants and Council officials.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 28. Notice of Motion submitted by Councillor S. Beasley
@@ -295,7 +306,7 @@ County Council conduct an immediate Safety Audit of the Parkway Roundabout in Li
 
 29. Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
-I will move at the next Meeting of the Metropolitan District of Limerick that this Council urge
+| will move at the next Meeting of the Metropolitan District of Limerick that this Council urge
 Limerick Libraries to adopt a home delivery service similar to that of other Local Authorities
 around the country for residents who are unable to visit their local library due to illness, reduced
 mobility or disability.
@@ -311,4 +322,6 @@ Director General liaise with UL and An Garda Siochana, to set up and chair a tas
 car parking problems in residential areas around the University of Limerick.
 
 
----
+
+[[PAGE_END:6]]
+

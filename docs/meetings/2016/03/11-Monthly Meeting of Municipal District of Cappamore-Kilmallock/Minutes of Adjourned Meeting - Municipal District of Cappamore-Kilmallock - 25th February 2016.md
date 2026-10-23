@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20February%202016.pdf)
+**Original file:** [Minutes of Adjourned Meeting - Municipal District of Cappamore-Kilmallock - 25th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO.**
@@ -82,7 +83,9 @@ The following issues were raised :
  Hyland’s Bend was very dangerous as there was a very steep drop with little protection.
 
  Drake’s Cross and Malone’s Crossroads required signage.
----
+
+[[PAGE_END:1]]
+
 2
 
  Roads in the area were in poor condition and required remedial works.
@@ -160,7 +163,9 @@ South Division and attached Chief Executive’s Report in relation to the Constr
 Pedestrian Bridge and Ancillary Works at Northbridge, Kilmallock which had been prepared in
 
 accordance with Section 179 3(a) of the Planning and Development Act 2000-2015, and Part 8
----
+
+[[PAGE_END:2]]
+
 3
 
 of the Planning and Development Regulations, 2001-2015 and it was proposed to proceed in
@@ -244,7 +249,9 @@ Members requested that copies of the presentations be made available to them.
 On the proposal of Councillor O’Donnell, seconded by Councillor Ryan, it was agreed that the
 
 March Meeting would be held on Friday, 11th March, 2016.
----
+
+[[PAGE_END:3]]
+
 4
 
 **QUESTIONS**
@@ -334,7 +341,9 @@ Consulting Engineers by April of 2016. This schedule is still on track and the
 factors associated with any proposed change on such a heavily trafficked road
 
 are being given careful consideration by the Consultants, both with regard to
----
+
+[[PAGE_END:4]]
+
 5
 
 feasibility and impact on the operation and safety of the junction. Following
@@ -398,4 +407,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

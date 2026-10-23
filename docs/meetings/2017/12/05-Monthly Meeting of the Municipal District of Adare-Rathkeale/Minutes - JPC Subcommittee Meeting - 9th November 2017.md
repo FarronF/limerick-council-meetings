@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28a%29%20Minutes%20JPC%20Subcommittee%209th%20November%2C%202017.pdf)
+**Original file:** [Minutes - JPC Subcommittee Meeting - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28a%29%20Minutes%20JPC%20Subcommittee%209th%20November%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -90,7 +91,9 @@ years were not repeated.
 In response to queries from Members, Superintendent O’Neill noted that he would be in
 
 dialogue with the various state agencies, as appropriate, as issues arose. With regard to
----
+
+[[PAGE_END:1]]
+
 2
 
 issues that might arise from unsupervised children on the street in Rathkeale, the Gardaí
@@ -166,7 +169,9 @@ Motion was agreed by Members.
 “That this District calls on the Minister for Justice and Equality to arrange for an
 
 advertising campaign on national television, targeted in particular at the elderly,
----
+
+[[PAGE_END:2]]
+
 3
 
 warning of the risks of engaging with rogue traders and builders who pressurise the
@@ -206,4 +211,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

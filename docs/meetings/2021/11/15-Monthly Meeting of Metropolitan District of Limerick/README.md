@@ -30,11 +30,11 @@ Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th October 2
 
 Minutes  - Adjourned Special Meeting of Metropolitan District of Limerick - 18th October 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-draft-minutes-adjourned-special-meeting-18th-october-2021.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Adjourned%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20October%202021.md)
 
-Disposal_ 24 Cuirt Clochan - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/02a-disposal-24-cuirt-clochan.pdf) - Text not extracted
+Disposal: 24 Cuirt Clochan - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/02a-disposal-24-cuirt-clochan.pdf) - Text not extracted
 
-Disposal_ 55 Keane Street Killalee - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/02b-disposal-55-keane-street-killalee.pdf) - Text not extracted
+Disposal: 55 Keane Street Killalee - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/02b-disposal-55-keane-street-killalee.pdf) - Text not extracted
 
-Strategic Housing Development_ Former Greenpark Racecourse - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/03-strategic-housing-development-former-greenpark-racecourse.pdf) - Text not extracted
+Strategic Housing Development: Former Greenpark Racecourse - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/03-strategic-housing-development-former-greenpark-racecourse.pdf) - Text not extracted
 
 Correspondence - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/27-correspondence-metropolitan-district-of-limerick-15th-november-2021.pdf) - Text not extracted
 

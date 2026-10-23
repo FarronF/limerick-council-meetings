@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28a%29%20Minutes%20Annual%20Meeting%2007.07.2022.pdf)
+**Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 7th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28a%29%20Minutes%20Annual%20Meeting%2007.07.2022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND
@@ -92,7 +93,9 @@ Council.
 He thanked the Chief Executive, Management and staff across all Departments, including
 
 District Offices, and outdoor staff, for their work on a daily basis for all of Limerick. He thanked
----
+
+[[PAGE_END:1]]
+
 2
 
 the staff in Corporate Services for their support during the year and in particular, Eleanor
@@ -166,7 +169,9 @@ Before I continue it important for me to mention our colleague Jerry O’Dea RIP
 a huge personal moment for my family, and me it would be remiss of me not to mention my
 
 friend and colleague. It was his sudden passing that triggered this event for me and while it is
----
+
+[[PAGE_END:2]]
+
 3
 
 a hugely joyous day for me, it is bittersweet. Again, I would like to express my condolences
@@ -250,7 +255,9 @@ remains very strong.
 Limerick is a place that people from many different countries and creeds call home. I will
 
 represent all communities in Limerick and ensure that every section of these communities
----
+
+[[PAGE_END:3]]
+
 4
 
 receives and acknowledges due recognition and service for our council and that nobody is left
@@ -324,7 +331,9 @@ huge amounts of joy and happiness, at a time when collectively we were at a low 
 hope their and our dream of a three-in-a-row becomes a reality on Sunday week.
 
 Luimneach Abú-Go raibh míle maith agaibh
----
+
+[[PAGE_END:4]]
+
 5
 
 2.
@@ -400,4 +409,6 @@ Signed:
 Mayor
 
 Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,32 +16,40 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%2015th%20May%202018.pdf)
+**Original file:** [Agenda - JPC Subcommittee Meeting of the Municipal District of Adare-Rathkeale.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%2015th%20May%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——
+a Duiche Bardais Ath Dara-Réth Caola.
+Comhairle Cathrach agus Contae Luimnigh
 
-Duiche Bardais Ath Dara-Réth Caola.
+NON > Aras Séan Finn.
 
-Comhairle Cathrach agus Contae Luimnigh,
-ae ‘ Aras Séan Finn.
-— An Bothar Nua,
-Li . k Rath Caola.
-meric Co. Luimnigh
+—=_>== An Bothar Nua,
 
-CITY & COUNTY ;
+s 5 Rath Caoila.
+
+Limerick co. Lumnigh
+CITY & COUNTY
+
 Adare-Rathkeale Municipal District.
+
 COUNCIL Limerick City and County Council.
-Aras Séan Finn,
+
+Aras Séan Finn.
+
 New Line Road,
+
 Rathkeale
-9" May, 2018. se laalaat
+
+gt May, 2018. Co. Limerick
+
 t: +353 (0) 69 64047 / 64129
 f: +353 (0) 69 63188
-
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
+
 Rathkeale
 
 A Chomhairleoir, a chara,
@@ -63,8 +71,10 @@ i. Policing Issues
 
 (b) To discuss installation of CCTV cameras in Askeaton and Rathkeale.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach o www limerickie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

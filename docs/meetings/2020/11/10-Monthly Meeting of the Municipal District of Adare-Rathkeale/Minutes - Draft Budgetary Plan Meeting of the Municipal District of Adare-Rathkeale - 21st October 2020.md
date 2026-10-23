@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-b-minutes-of-draft-budgetary-plan-2021-meeting-21st-october-2020.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Adare-Rathkeale - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-b-minutes-of-draft-budgetary-plan-2021-meeting-21st-october-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE,**
@@ -108,7 +109,9 @@ Special Projects – LPT
 **General Municipal Allocation**
 
 **270,000**
----
+
+[[PAGE_END:1]]
+
 Following discussion, the following was agreed:
 
 Proposed by Councillor O’Brien;
@@ -136,4 +139,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

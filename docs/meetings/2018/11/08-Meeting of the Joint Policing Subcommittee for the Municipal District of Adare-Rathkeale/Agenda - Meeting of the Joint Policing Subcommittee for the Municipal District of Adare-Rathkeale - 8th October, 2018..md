@@ -16,39 +16,40 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%208th%20November%2C%202018.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Subcommittee for the Municipal District of Adare-Rathkeale - 8th October, 2018..pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%208th%20November%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-..—el Comhaltie’ rear
+ee Comhalrie’ ohare
 
 ontae Luimni
 
-we Fa Limerick city
+a Fa Limerick city
 & County Council
 
-5** November, 2018.
+5" November, 2018.
 
 Ceantar Bardasach Ath Dara-Rath Caola
 Comhairle Cathrach agus Contae Luimnigh
-Aras Séan Finn
+Aras Séan Fim
 
 Line Nua
 
 Rath Caola
 
-Co. Luimnagh,
+Co. Luimragh.
 
 Adare-Rathkeale Municipal District
-Limerick City and County Council
+LUmerick City and County Council
 Aras Sean Finn
 
 New Line,
 
-Rathkealle.
+Rathkeale.
 
-Co, Limerick
+Co. Limerick
 
 EIRCODE V94 HKIV
 
@@ -74,7 +75,7 @@ Kore
 Karen r
 Meetings Administrator.
 
-enn a nnn nn ne nn ne nnn ne nnn ee nnn wen te nnn nnn enn nn enn nnn nn enn nn enna enn ee meen e ee eee eee enon eee neneeeeneee
+enn a nen enn ne nn enn nnn nn wenn net nnn enn nn enn enn ne enn nen n nn enn ee een eee e eee e ene n eee eeneseeeees
 
 AGENDA
 
@@ -83,8 +84,10 @@ AGENDA
 To discuss policing issues in the Adare-Rathkeale District.
 
 = ie
-— ; aiieaiagi fafa
+— ; aiicaiagh fantom
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

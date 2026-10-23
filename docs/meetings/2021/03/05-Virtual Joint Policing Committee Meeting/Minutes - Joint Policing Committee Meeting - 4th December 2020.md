@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/minutes-of-jpc-meeting-held-on-4th-dec-2020.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 4th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/minutes-of-jpc-meeting-held-on-4th-dec-2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT VIRTUAL MEETING OF THE JOINT
 
 POLICING COMMITTEE HELD ON 4TH DECEMBER, 2020, AT 10.00 A.M.
@@ -98,7 +99,9 @@ working from home in the city which has resulted in reduced house burglaries in 
 **3.Overview on Crime Statistics from Senior Analyst**
 
 Ms. L. Collins gave a brief statistical overview of current crime statistics.
----
+
+[[PAGE_END:1]]
+
 The Chief Superintendent stated that the Gardaí in Limerick launched an initiative a few years ago in
 
 relation to domestic violence. Procedures are in place nationally, however, this initiative is the only
@@ -184,7 +187,9 @@ the period 24th November, 2020 to 10th January, 2021 which is an increase of two
 additional budget was applied for and granted. The Gardai have an extensive engagement with key
 
 stakeholders in Rathkeale and the main aim is to identify any breach of legislation. Loitering on the
----
+
+[[PAGE_END:2]]
+
 street is an issue so Gardai are on the streets to address this problem and are also targeting illegal
 
 parking. There has been a significant increase in the number of people coming into Rathkeale for
@@ -282,7 +287,9 @@ Traffic Act were as follows :
 “I will ask at the next Meeting how many illegal scramblers and quad bikes have been seized in the
 
 Limerick policing district in 2019 and 2020 to date”.
----
+
+[[PAGE_END:3]]
+
 The Chief Superintendent replied as follows :
 
 2018 :
@@ -360,7 +367,9 @@ area who are supported by divisional resources from traffic and local crime unit
 assist with all investigations and policing matters. Garda Edel Moloney operates between Oola and
 
 Pallasgreen Garda Stations providing policing to both areas.
----
+
+[[PAGE_END:4]]
+
 **12.Question submitted by Councillor Martin Ryan**
 
 *“I will ask at the next Meeting will Garda Management increase it’s operation in Johnsg**ate Village*
@@ -432,7 +441,9 @@ public in Rathkeale, the Chief Superintendent stated that it is not mandatory to
 out in pubic but are required to be worn on all public transport, shops, shopping centres, libraries
 
 etc. He added that it is the responsibility of the retailers to ensure compliance by people entering
----
+
+[[PAGE_END:5]]
+
 their premises. From 7th December members of the public can be subject to on the spot fines for not
 
 wearing a face covering in mandated areas.
@@ -490,4 +501,6 @@ This concluded the Meeting.
 **Councillor Adam Teskey, Chairman**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

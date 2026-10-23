@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20JPC%20Subcommittee%20Meeting%20October%202022.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West - 12th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20JPC%20Subcommittee%20Meeting%20October%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
-—_— pled Luimnigh Comhairle Cathrach egus Contae Luimunigh,
+_——_ rll Luimnigh Comhairle Cathrach egus Contae Luimnigh,
 
 ~~ Aras William Smith O'Brien.
 
-” Li ick Ci Gortbut
-— merick City ; An Caislean Nua Thiar,
+~ Li ick Ci Gortbut
+— mierick City ; An Caislean Nua Thiar,
 
-—— & County Council Co. Luimnigh
+= & County Council Co. Luinnigh
 
 Newcastle West Municipal District
 Limerick City and County Council
@@ -69,9 +70,11 @@ District of Newcastle West held on 30" March, 2022.
 (Copy Enclosed)
 2. Poli |
 To discuss policing issues in the District.
-& customerservices@limerick.ic
-Ceanncheathri: Chorparaideach, Cé na gCeannaithe, Luimneach © vewwlimerick.ie
+&& customerservices@limerick.ic¢
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © vewwlimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W' @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

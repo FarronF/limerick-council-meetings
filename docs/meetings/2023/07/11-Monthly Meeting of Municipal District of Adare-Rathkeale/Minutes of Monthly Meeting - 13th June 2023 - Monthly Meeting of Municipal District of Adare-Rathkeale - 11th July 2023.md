@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-of-Monthly-Meeting-13th-June-2023-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
+**Original file:** [Minutes of Monthly Meeting - 13th June 2023 - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-of-Monthly-Meeting-13th-June-2023-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ management of the pool in its present state along with the tendering process for
 plant room upgrades and procurement of an operator to manage the centre when works
 
 are complete and the centre reopens for business. The Meetings Administrator concluded
----
+
+[[PAGE_END:1]]
+
 2
 
 that for the meantime the centre will remain closed until these necessary works are
@@ -154,7 +157,9 @@ to Abbeyfeale for the July District Meeting.
 would be completed. The Senior Executive Engineer, Roads, Traffic and Cleansing
 
 advised works would be completed by the end of the year.
----
+
+[[PAGE_END:2]]
+
 3
 
  Councillor Teskey requested an update on when works would start on the
@@ -226,7 +231,9 @@ allocate the following:
  €2,000 to Adare Ladies Gaelic Football Club.
 
  €1,500 to Adare 2020 Club.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor Teskey, it was agreed to
@@ -260,4 +267,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

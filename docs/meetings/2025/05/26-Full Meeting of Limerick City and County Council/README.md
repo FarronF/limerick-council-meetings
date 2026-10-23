@@ -72,7 +72,7 @@ Unaudited Annual Financial Statement 2024 - Presentation.pdf - [Original file](h
 
 Limerick Street Performance and Busker Bye-Laws 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/limerick-street-performance-and-busker-bye-laws-2025_0.pdf) - Text not extracted
 
-Festivals and Events Grants Scheme 2025_2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/festivals-and-events-grants-scheme-2025-2026.pdf) - Text not extracted
+Festivals and Events Grants Scheme 2025/2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/festivals-and-events-grants-scheme-2025-2026.pdf) - Text not extracted
 
 Conferences Reports.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/attendance-at-annual-st-patrick-s-day-celebration-in-new-york.pdf) - Text not extracted
 

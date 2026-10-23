@@ -32,11 +32,11 @@ Minutes  - Monthly Meeting of Metropolitan District of Limerick - 20th July 202
 
 Minutes  - Special Meeting of Metropolitan District of Limerick - 4th September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01c-draft-minutes-special-meeting-4th-september-2020.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%204th%20September%202020.md)
 
-Disposal of Land_ 27 Donnellans Buildings Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02a-disposal-of-land-27-donnellans-buildings-rosbrien.pdf) - Text not extracted
+Disposal of Land: 27 Donnellans Buildings Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02a-disposal-of-land-27-donnellans-buildings-rosbrien.pdf) - Text not extracted
 
-Disposal of Land_ The Avenue Newtown Clarina - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02b-disposal-of-land-the-avenue-newtown-clarina.pdf) - Text not extracted
+Disposal of Land: The Avenue Newtown Clarina - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02b-disposal-of-land-the-avenue-newtown-clarina.pdf) - Text not extracted
 
-Disposal of Land_ 0.068 Ha. Abhann Road Raheen Industrial Estate Report - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02ci-disposal-of-land-0.068-ha.-abhann-road-raheen-industrial-estate-report.pdf) - Text not extracted
+Disposal of Land: 0.068 Ha. Abhann Road Raheen Industrial Estate Report - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02ci-disposal-of-land-0.068-ha.-abhann-road-raheen-industrial-estate-report.pdf) - Text not extracted
 
 Disposal of Land - 0.068 Ha. Abhann Road Raheen Industrial Estate Map - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02cii-disposal-of-land-0.068-ha.-abhann-road-raheen-industrial-estate-map.pdf) - Text not extracted
 
@@ -44,13 +44,13 @@ Disposal of Land - 0.079 Ha. Abhann Road Raheen Industrial Road Report - Monthl
 
 Disposal of Land - 0.079 Ha. Abhann Road Raheen Industrial Estate Map - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02dii-disposal-of-land-0.079-ha.-abhann-road-raheen-industrial-estate-map.pdf) - Text not extracted
 
-Disposal of Land_ 6 Daly Avenue Janesboro - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02e-disposal-of-land-6-daly-avenue-janesboro.pdf) - Text not extracted
+Disposal of Land: 6 Daly Avenue Janesboro - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02e-disposal-of-land-6-daly-avenue-janesboro.pdf) - Text not extracted
 
-Disposal of Land_ 40 Kilmurry Road Garryowen - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02f-disposal-of-land-40-kilmurry-road-garryowen.pdf) - Text not extracted
+Disposal of Land: 40 Kilmurry Road Garryowen - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02f-disposal-of-land-40-kilmurry-road-garryowen.pdf) - Text not extracted
 
-Disposal of Land_ 5.78 Acres at Rosbrien - Monthly Meeting of Metropolitan District of Limerick  - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02g-disposal-of-land-5.78-acres-at-rosbrien.pdf) - Text not extracted
+Disposal of Land: 5.78 Acres at Rosbrien - Monthly Meeting of Metropolitan District of Limerick  - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02g-disposal-of-land-5.78-acres-at-rosbrien.pdf) - Text not extracted
 
-Disposal of Land_ 1.39 Acres at Annacotty Business Park - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02h-disposal-of-land-1.39-acres-at-annacotty-business-park.pdf) - Text not extracted
+Disposal of Land: 1.39 Acres at Annacotty Business Park - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02h-disposal-of-land-1.39-acres-at-annacotty-business-park.pdf) - Text not extracted
 
 Draft 30KPH Special Speed Limit Bye Laws Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/03i-draft-30kph-special-speed-limit-bye-laws-cover-letter.pdf) - Text not extracted
 

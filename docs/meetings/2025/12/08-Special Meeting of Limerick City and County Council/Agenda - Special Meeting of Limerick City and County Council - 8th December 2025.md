@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-special-meeting-of-limerick-city-and-county-council-8th-december-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 8th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-special-meeting-of-limerick-city-and-county-council-8th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Seabinis{ Corpardideacha, Rialachais & Custaiméara
+ee Comhairie Cathrach Sebinis{ Corpardideacha, Rialachais & Custaiméara
 on imnicgh Comhairle Cathrach & Contae Luimnigh
-anArN fens, palcabeedlonmelals sll Ceannchearthu Chorpardideach
+oa fs, a Ceannchearthu Chorpardideach
 Cé na gCeannaithe
 
-— Limerick City Lulmneech, V94 EH90
+— Limerick City Lulmnesch, V94 EH90
 & County Council
 
 Corporate, Governance & Customer Services
@@ -37,7 +38,7 @@ Corporate Headquarters
 
 Merchant's Quay
 
-Limerick. V94 EH90
+Limerick. V94 EHS0
 
 1 December, 2025 t: 4353 (0) 61557 150
 
@@ -48,13 +49,13 @@ A Chomhairleoir, a chara,
 
 The Priomh Chomhairleoir, Councillor Catherine Slattery, has called a Special Meeting of
 Limerick City and County Council to be held Online, on Monday, 8 December, 2025,
-at 3 p.m.
+at3 p.m.
 
 The business to be transacted is set out below.
 
 Is mise le meas,
 
-Cheah
+C focal
 
 Ciara Farrell,
 Meetings Administrator.
@@ -78,4 +79,6 @@ already circulated).
 Corporate Headquarters, Merchant's Quay, Limerick WY @lLimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

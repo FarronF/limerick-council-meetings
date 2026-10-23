@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_13th_january_2014.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 13th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_13th_january_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
 OF ADARE-RATHKEALE HELD AT FOYNES FLYING BOAT & MARITIME
@@ -90,7 +91,9 @@ school.
 Members thanked the delegation for their positive presentation and the delegation then
 
 withdrew from the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -168,7 +171,9 @@ Circulated Report of the Director of Home and Social Development dated 18th Dece
 Members noted and approved the disposal of land as set out below :-
 
 • Dwelling house and site situate at Corgrigg, Foynes, Co. Limerick.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -256,7 +261,9 @@ of the Area Offices maintenance programme. There is one junction
 box on the Rathkeale Road that is scheduled to be refreshed as soon
 
 as weather permits.
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Neville queried the rationale for refusing the push button pedestrian crossing in
@@ -346,7 +353,9 @@ Port Company (SFPC) had a framework in place with Consulting Engineers
 for minor works in the port. This framework expired on the 1st May 2014 and
 
 therefore could not be used for this scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 It should be noted that a detailed design was not carried out by the SFPC's
@@ -422,7 +431,9 @@ Notices of Motion submitted by Councillor T. Neville
 Councillor Neville, in proposing the Motion, stated that a number of existing ramps in St.
 
 Mary’s Park, Rathkeale were insufficient and high powered cars were able to drive over
----
+
+[[PAGE_END:5]]
+
 6
 
 them with ease. Members expressed the view that tarmac ramps were more efficient in
@@ -504,4 +515,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

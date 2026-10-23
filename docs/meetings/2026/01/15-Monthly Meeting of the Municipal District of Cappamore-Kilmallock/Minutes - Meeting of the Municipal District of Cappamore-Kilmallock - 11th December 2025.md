@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-11th-december-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 11th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-11th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -65,7 +66,9 @@ And Resolved: “That, the draft Minutes, as circulated, be taken as read, adopt
 2. DECLARATION OF INTEREST
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -110,7 +113,9 @@ He confirmed that the full allocated budget for the Municipal District, totallin
 been fully expended during 2025 and this entailed 140 applications that were fully processed
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -149,7 +154,7 @@ Reply:
 
 There are CCTV cameras installed at one Bring Bank site in the Cappamore Kilmallock district
 at Kilmallock Bring Bank. Two fines have been issued for waste and litter offences at the
-site.
+Site.
 
 8. Question submitted by Councillor Teefy
 
@@ -163,7 +168,9 @@ Limerick City and County Council have been notified of 49 Notice to Quits in the
 Kilmallock Municipal District in 2024 & 2025.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -209,7 +216,9 @@ Workshop after the January Monthly Meeting to discuss same, and to start work on
 planning for same.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -226,9 +235,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

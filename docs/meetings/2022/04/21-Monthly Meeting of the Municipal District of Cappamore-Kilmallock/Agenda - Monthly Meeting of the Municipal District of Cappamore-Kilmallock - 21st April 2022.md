@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-agenda-for-april-2022-md-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-agenda-for-april-2022-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 **11th** **April 2022.**
 
 **To/**
@@ -66,7 +67,9 @@ plaque for James Bouchier.
 Agreement of wording of Question from January JPC Meeting to be submitted to next Full
 
 Meeting of Limerick City and County Council.
----
+
+[[PAGE_END:1]]
+
 2
 
 5.Housing Directorate
@@ -124,7 +127,9 @@ on the L5128 Road serving Caherline NS. Parents park at the Church Car Park and 
 have to cross the road to the school morning and evening. A pedestrian crossing/traffic
 
 calming is needed for safe crossing to the school.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -164,4 +169,6 @@ be put in place to open the gully's and inlets on all the regional and local roa
 area. Great work has been done on the roads and on the various drainage schemes carried
 
 out but the ongoing maintenance is needed.
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/02%20JPC%20Minutes%2019-9-19.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee for the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/02%20JPC%20Minutes%2019-9-19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
@@ -68,7 +69,9 @@ in crimes against the person from 2018 to 2019 and he confirmed that An Garda Si
 were looking at measures to address same.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Superintendent Ryan confirmed that Garda Jim Ryan from the Bruff Garda Station had retired
@@ -118,4 +121,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Monthly%20Meeting%2013th%20June%252c%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale – Tuesday 13th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Monthly%20Meeting%2013th%20June%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——_ Seirbhisi Corpardideacha,
+—_ Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ° = Ceanncheathni Chorpardideach.
@@ -33,15 +34,15 @@ CATHRACH & CONTAE
 
 i i Corporate Services,
 
-Luimnigh Lerch cy 0 ere Servos
+Luimnigh ere cy 0 ere Servos
 
-Limerick Corporate Header oi rer :
+Limerick Corporate Headauar oe rer :
 
 CITY & COUNTY s Quay,
 
-COUNCIL Lanes
+COUNCIL nae
 
-8" june, 2017. EIRCODE V94 E190
+8" june, 2017. EIRCODE V94 E1190
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -56,7 +57,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Tom O'C: faghan, a
+Tom O'C: faghan, —~
 
 Meetings Administrator.
 
@@ -65,8 +66,8 @@ AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Meeting of the Municipal District of Adare-Rathkeale held on 17™ May, 2017.
-(b) Special Meeting of the Municipal District of Adare-Rathkeale held on 23 May, 2017.
+(a) Meeting of the Municipal District of Adare-Rathkeale held on 17"™ May, 2017.
+(b) Special Meeting of the Municipal District of Adare-Rathkeale held on 23" May, 2017.
 (Copies Enclosed)
 
 2. Service Operations — Planning & Environmental Services
@@ -78,12 +79,14 @@ Act 1993:-
 
 e Ballyvareen, Kildimo
 
-1 @ veers emericicie
+1 @ wore lemericicie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Lutmneach
-Corporate Headquarters, Merchants Quay, Limerick eee a0aa0e
+Corporate Headquarters, Merchants Quay, Limerick een a0aa0e
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) | To note update on the Taking-In-Charge of An Curran Estate, Pallaskenry.
@@ -96,7 +99,7 @@ Presentation on Invasive Plants Smart Phone App.
 To receive presentation on Invasive Plants Smart Phone App.
 
 Social Development Directorate
-Limerick City an un ncil Housi
+Limerick City ani un ncil Housi
 
 To receive presentation of the Limerick City and County Council Housing Programme 2017.
 
@@ -125,7 +128,9 @@ To note update on the path from Kildimo Village to the Beer Garden.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -156,4 +161,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

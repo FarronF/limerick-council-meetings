@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%209th%20April%2C%202019%20v3.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%209th%20April%2C%202019%20v3.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—" Comhairle Cathrach
+__—_—" Comhairle Cathrach
 = & Contae Luimnigh
 * — Limerick Cit
-merick City
+= merick City
 & County Council
 
 4" April, 2019.
@@ -73,7 +74,7 @@ Is mise le meas,
 Karen Butler,
 Meetings Administrator.
 
-eee e en eens a een nese eeeee an neeee ne eereanneesa nn ereen a eeeeaneeersa reese snes eesenenes.
+eee en eee ne a meee nese nents an neesa nn eeeeannensa nn eeesa snares ne eersareeesnn sane eesenenes
 
 AGENDA
 
@@ -96,14 +97,16 @@ a.m.).
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach ;
 Corporate Headquarters, Merchants Quay, Limerick.
 
-= cust s@timerick.te
-wwwlimerickie
+= cust s@timerick le
+wwwilimerickie
 
 @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Planning and Environmental Services
@@ -115,8 +118,8 @@ Traffic Calming Scheme Ballingarry
 
 To discuss Traffic Calming measures in Ballingarry.
 
-| ment Directorate
-Bal ul] Derelict Esta
+I ment Directorate
+Bal i] Derelict Esta
 
 To receive an update in relation to the derelict estate in Ballywilliam.
 
@@ -140,7 +143,9 @@ Development Regulations 2001 (As Amended), for Kilcornan
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -153,7 +158,7 @@ Development Regulations 2001 (As Amended), for Kilcornan
 
 14.
 
-i ll i
+i il i
 To receive an update on the path from Kildimo Village to the Beer Garden Public House.
 (Copy Enclosed)
 Physical Development Directorate
@@ -185,7 +190,9 @@ To note update on the Sli na Slainte in Askeaton.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -229,7 +236,7 @@ our district for the charging of electric cars and what are their locations.
 
 NOTICE OF MOTION
 
-motion ncil .T
+motion ncil T
 
 | will move at the next Meeting that Limerick City and County Council, in view of the
 damage spiralling insurance costs are causing to community groups, voluntary
@@ -238,10 +245,12 @@ insurance reform programme. In particular, Limerick City and County Council call
 Government to immediately establish a distinct Insurance Fraud Unit with An Garda
 Siochana, establish an interim Judicial Council which will address excessive awards made
 in our courts and insist on greater transparency in relation to claims and premiums from
-irish insurers.
+Irish insurers.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -254,4 +263,6 @@ costs to upgrade the Ballywilliam Road into Rathkeale.
 AOB
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-16th-december-2025.pdf)
+**Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 16th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-16th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach = oh as Caloech 6 Crees IGA
-oO irie Lal “ac? AO UN
+_—_—_ Comhairle Cathrach _— Corrie fs Calloech 6 Chivas SEGA
+or ric Cal “ac? AO UN
 
-, & Contae Luimnigh Ceannchearthu Chorperdideach
+fo. & Contae Luimnigh Ceannchearthu Chorperdideach
 
-NEN 7 Cé na gCeannaithe
+NEN : Cé na gCeannaithe
 
 — Limerick City Luimneach. V94 EH9O
 
 & County Council
-Corporate, Governance & Customer Services
+Corporate. Governance & Customer Services
 Limerick City and County Council
 Corporate Headquarters
 Merchant's Quay
@@ -60,9 +61,13 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach wwwatimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick vy
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:2]]
+

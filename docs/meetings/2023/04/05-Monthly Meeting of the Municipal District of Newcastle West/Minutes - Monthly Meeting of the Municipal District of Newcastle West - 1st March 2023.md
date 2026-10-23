@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Minutes%20March%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20March%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 1st March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Minutes%20March%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20March%202023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -104,7 +105,9 @@ Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
 West, held on 10th February, 2023.
 
 Proposed by: Councillor Galvin
----
+
+[[PAGE_END:1]]
+
 2
 
 Seconded by: Councillor Scanlan
@@ -172,7 +175,9 @@ priority will be given to the transfer of water schemes to Uisce Éireann, the p
 representative desk is to remain in place and that the whole area of policy is yet to be
 
 determined.
----
+
+[[PAGE_END:2]]
+
 3
 
 3.
@@ -248,7 +253,9 @@ for Housing Local Government and Heritage to review the Croí Cónaithe scheme t
 derelict units that will be refurbished and made ready for the rental market and not just
 
 principle places of residence for the owner”.
----
+
+[[PAGE_END:3]]
+
 4
 
 4.
@@ -316,7 +323,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was proposed to
 
 allocate €500 to drainage issues in Carrickerry.
----
+
+[[PAGE_END:4]]
+
 5
 
 ADJOURNED NOTICE OF MOTION
@@ -384,7 +393,9 @@ Question submitted by Councillor J. Scanlan
 ***I will ask at the next Meeting*** ***when reinstatement works are expected to be carried out to***
 
 ***the verge of the R521 at Ballynoe.***
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -464,7 +475,9 @@ Notices. Consequently, LCCC made applications to An Bord Pleanála for consent t
 the sites and the consent was granted by the Board in July 2020. In September 2020, the
 
 Owner was granted leave by the High Court for a judicial review of the An Board Pleanála
----
+
+[[PAGE_END:6]]
+
 7
 
 decision to grant LCCC consent to acquire the sites. LCCC awaits the outcome of this judicial
@@ -536,7 +549,9 @@ change in the bye-laws and agreement from the residents.
 In proposing the Motion, Councillor Ruddle requested that double yellow lines be put in front
 
 of the houses across from Oakpark, Estate, Gortboy, Newcastle West, and in replying the
----
+
+[[PAGE_END:7]]
+
 8
 
 Executive Engineer agreed to check this matter.
@@ -600,7 +615,9 @@ In proposing the Motion, Councillor Scanlan requested that flashing speed indica
 provided on the northern approach to Feohanagh village. A discussion followed on a number
 
 of matters including the use of flashing speed indicator signs and speed ramps in the District.
----
+
+[[PAGE_END:8]]
+
 9
 
 15. Notice of Motion submitted by Councillor L. Galvin
@@ -670,6 +687,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+
 10
----
+
+[[PAGE_END:10]]
+

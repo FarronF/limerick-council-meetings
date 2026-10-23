@@ -16,31 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%2012th%20November%2C%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%2012th%20November%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
-& Contae Luimnigh Comhairle Cathrach agus “ee prey ty
-~ a ns = = Line Nua,
-——> Limerick City Rath Caola,
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+& Contae Luimnigh Comhairle Cathrach agus “ prey ty
+~ \ 4 = Line Nua,
 
+—> Limerick City _ Rath Caola,
 & County Council Co. Luimnigh
+Adare-Rathkeale Municip2! District,
 
-Adare-Rathkeale Municip2t Distinct,
-
-Umerick City and County Council
+Limerick City and County Council
 
 Aras Sean Finn
 
 New Line,
 
-Rathkeale,
+Rathkeale
 
-Co. Lemerick.
+Co. Limerick
 
-6" November, 2019. EIRCODE V94 HIV
+6" November, 2019. EIRCODE V94 HKIV
 
 t; +353 (0) 69 64047
 f: +353 (0) 69 63188
@@ -75,11 +75,13 @@ To discuss Traffic Calming Scheme at N20 Banogue.
 (Drawings Enclosed)
 
 & customerservices@limerickie
-Ceanncheathri Chorparéideach, Cé na gCeannaitheLuimneach ! © won limericcie
-Corporate Headquarters, Merchants Quay, Limerick. Ld Coeksases0
+Ceanncheathri Chorparéideach, Cé na gCeannaitheLuimneach ! © won limerickie
+Corporate Headquarters, Merchants Quay, Limerick. Ld Coth.stee00
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Capital Investment Directorate
@@ -111,13 +113,15 @@ To update Members on issues of interest in the District.
 (Report Enclosed)
 
 QUESTIONS
-Questions submitted by Councillor 8. Collins
+Questions submitted by Councillor B. Collins
 
 | will ask at the next Meeting if a full time village caretaker or maintenance operative has
 been appointed in Adare on the occasion of the retirement of Mike Brouder.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -144,8 +148,8 @@ We will move at the next Meeting that the Adare Rathkeale area approves traffic 
 measures at Castlequarter Heights, Cluain Ard, Ballyea Close and Clohessy Park
 Fedamore.
 
-llor E. ncillor R. O'Donoghue,
-C illor K. Shea T: illor A. Tesh
+lor E. ncillor R. O'Donoghue.
+C illor K. Shea Ts illor A. Test
 We will move at the next Meeting that the Council carry out a traffic survey in Loughill,
 
 Co. Limerick with a view to having traffic calming measures installed.
@@ -157,4 +161,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare-rathkeale_-_13th_january_2015.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 13th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare-rathkeale_-_13th_january_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+a Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NIN F 7 Cé na gCeannaithe,
+NIN «F : Cé na gCeannaithe,
 
 . =— Luimneach
 Limerick Corporate Services and Change Management,
@@ -33,7 +34,7 @@ COUNCIL Merchants Quay,
 Limerick
 
 t: +353 (0) 61 407 100
-8% January, 2015. f: +353 (0) 61 415 266
+8 January, 2015. f: 4353 (0) 61 415 266
 
 To: The Cathaoirl h_and Each Mem f the Munici
 District of Adare-Rathkeale
@@ -49,7 +50,7 @@ Is mise le meas,
 Tina Knox,
 Meetings Administrator.
 
-eos eenenenenenenenenenehenenanebenahenananananeneienananenenetaneananaiabiaieiaheaabeieiatel
+eeccccccccccccccccccccwcecoecccccccccccccccssessseesessesscecccccesscsssssseseeerese ses ees ee ee eeee SNe SeSeSSSSSSSSSSESE ERNE N SS
 
 AGENDA
 
@@ -61,12 +62,14 @@ To adopt Minutes of Meeting of the Municipal District held on 2" December, 2014.
 
 To receive Deputation from Foynes Flying Boat & Maritime Museum.
 
-! = customerservices@limerick.le
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach @ weewlimerick.ie
+l & customerservices@limerick.le
+Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach © wevew limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -111,15 +114,17 @@ pedestrian crossing in Adare (b) the realigning of the roads in the village of A
 Question submitted by Councillor K. Sheahan
 
 | will ask at the next Meeting for a report regarding
+
 (a) The provision of a pedestrian crossing at or near White's Shop, New Line,
-
 Rathkeale.
-(b) The results of the recent traffic count which was carried out in the vicinity of
 
+(b) The results of the recent traffic count which was carried out in the vicinity of
 White's Shop
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -156,4 +161,6 @@ between Pallaskenry Village and the Salesian College called the Saint Don Bosco 
 This year is the 200" Anniversary of the birth of Saint Don Bosco.
 
 
----
+
+[[PAGE_END:3]]
+

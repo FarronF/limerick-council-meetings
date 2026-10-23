@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-monthly-meeting-20th-january-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-monthly-meeting-20th-january-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach Seirbhisi Corparaideacha
-Comnhairie Cathrach agus Contae Luimnigh,
-~~ & Contae Luimnigh Cearncheathré Chorparaideach,
-NeN rs Cé ma gCeannaithe,
+ae Comhairle Cathrach Seirbhisi Corparaideacha,
+Comhairte Cathrach agus Contae Luimnigh,
+~~ & Contae Luimnigh Cearincheathné Chorparaideach,
+Nes as Cé ma gCeannaithe,
 
 — Limerick City Luimnesch
 & County Council
@@ -37,7 +38,7 @@ Corporate Headquarters,
 
 Merchants Quay,
 
-Lumenck
+Lmenck
 
 15" January, 2020. EIRCODE V4 EH90
 
@@ -48,13 +49,13 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant’s Quay, Limerick on Monday, 20" January, 2020 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick on Monday, 20 January, 2020 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 Ja lune,
-cag ngs Administrator.
+= ngs Administrator.
 
 1. Minutes
 
@@ -63,14 +64,16 @@ December, 2019.
 
 (Copy Enclosed).
 
-=
+a
 
-© wvew timerick.te
+© wvew.timerick.te
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - §57150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -115,7 +118,9 @@ that was supposed to happen in late 2019 and whether consideration has been give
 acquire more land at Kilmurry or create another cemetery for Castletroy.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -161,7 +166,9 @@ living in student villages under each of the following: HAP, RAS, long term leas
 contracts,
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -189,7 +196,7 @@ parking enforcement.
 
 17. Question submitted by Councillor B, Leddin
 
-l ask at the next Meeting how many properties were added and removed from the derelict sites
+| ask at the next Meeting how many properties were added and removed from the derelict sites
 register in 2019, and to be provided with a list of said properties and their addresses.
 
 18. Question submitted by Councillor B. Leddin
@@ -198,7 +205,7 @@ register in 2019, and to be provided with a list of said properties and their ad
 increase in participation in public consultations, and whether internal capacity exists within
 Limerick City and County Council to make minor improvements to the system.
 
-19. ‘ otice O VLIUT? > i J SUNT tt WO VE =
+19. . otice 0 VLIUT? > i J SUNT ft LO OE =
 Action, Biodiversity and Environment Strategic Policy Committee)
 
 | wish to propose a motion that Limerick City and County Council review its tender process for
@@ -206,7 +213,9 @@ weed control service contract to eliminate unnecessary herbicide application, re
 frequency of spraying and reduce the volume of herbicides used.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | propose that Limerick City and County Council write to the Minister for Health demanding that
@@ -235,7 +244,7 @@ the blocking of the cycle lane that occur regularly.
 | will move at the next Metropolitan Meeting of Limerick City and County Council that the Council
 review the timing/sequence of the traffic lights at the Dublin Road/Park Road junction.
 
-Develo scam Stencil se and aaind Strategic Policy Committee)
+Develo reat. lnterntl se and aang Strategic Policy Committee)
 
 As the National Planning Framework envisages Limerick City to grow by 50% in the coming years,
 and in order to underpin the principle of compact growth, while protecting the built and natural
@@ -249,7 +258,9 @@ intersections of O'Connell Street with Cecil Street, Glentworth Street, Hartston
 Barrington Street to the standard set out in the Design Manual for Urban Roads and Streets.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next Meeting that our Metropolitan Council follow through on our support for
@@ -260,4 +271,6 @@ and it’s Academy continue its work for soccer football in Limerick.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

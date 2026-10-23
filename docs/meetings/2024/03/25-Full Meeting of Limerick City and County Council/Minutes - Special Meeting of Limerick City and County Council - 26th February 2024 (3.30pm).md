@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-citya-nd-county-council-26.02.2024-3.30-pm.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 26th February 2024 (3.30pm).pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-citya-nd-county-council-26.02.2024-3.30-pm.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
 **IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON MONDAY, 26TH FEBRUARY, 2024 AT**
@@ -86,7 +87,9 @@ schemes. It was the view of some Members that the allocation was more favourable
 City, while others pointed out that a lot of money was allocated to rural areas, in particular, the
 
 Limerick Greenway and they felt the allocation was fair and appropriate.
----
+
+[[PAGE_END:1]]
+
 During discussions, Members called on the Director for Transportation and Mobility to give an
 
 update on the various funding received for Active Travel schemes in Limerick City and County, and
@@ -148,4 +151,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

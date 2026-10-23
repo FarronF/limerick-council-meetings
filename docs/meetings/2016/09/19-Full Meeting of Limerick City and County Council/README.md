@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Limerick City & County Council - 19-09-16.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_of_limerick_city_county_council_-_19-09-16.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Limerick%20City%20%26%20County%20Council%20-%2019-09-16.md)
+Agenda - Meeting of Limerick City & County Council - 19-09-16.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_meeting_of_limerick_city_county_council_-_19-09-16.pdf) - Text not extracted
 
-Minutes - Meeting of Limerick City & County Council - 18-07-16.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_meeting_of_limerick_city_county_council_-_18-07-16.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Limerick%20City%20%26%20County%20Council%20-%2018-07-16.md)
+Minutes - Meeting of Limerick City & County Council - 18-07-16.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_meeting_of_limerick_city_county_council_-_18-07-16.pdf) - Text not extracted
 
 Casual Vacancy - Meeting of Limerick City & County Council - 19-09-16.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/casual_vacancy_-_meeting_of_limerick_city_county_council_-_19-09-16.pdf) - Text not extracted
 

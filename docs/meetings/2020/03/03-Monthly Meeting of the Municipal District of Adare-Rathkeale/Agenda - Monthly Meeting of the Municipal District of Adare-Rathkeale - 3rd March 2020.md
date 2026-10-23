@@ -16,19 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-3rd-march-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 3rd March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-3rd-march-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnugh,
 
-Aras Sé nn,
-ams yas Séan Finn,
+ams vas Séan Finn,
 
-— Limerick City rath Cacta,
-— & County Council
+— Limerick City rath Coola,
+= & County Council
 
 Co, Luimnigh,
 
@@ -45,7 +45,7 @@ Co. Limerick.
 EIRCODE V94 HKLV
 
 t: +353 (0) 69 64047
-f: +353 0) 69 63188
+f: +353 (0) 69 63188
 
 To:
 
@@ -58,7 +58,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Karen rs
+Karen 5
 Meetings Administrator.
 
 AGENDA
@@ -77,11 +77,13 @@ amended) in relation to the proposed N20 Banogue Traffic Calming Scheme.
 
 (Report Enclosed)
 
-= customerservices@limerick.te
-Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © weunilimerick.te
+= customerservicesa@limerick.te
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © weuilimerick.te
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 I - 202
@@ -118,7 +120,9 @@ Party Leaders in the Republic to adopt a policy granting each credit union branc
 authorisation to become a Building Society.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -136,4 +140,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

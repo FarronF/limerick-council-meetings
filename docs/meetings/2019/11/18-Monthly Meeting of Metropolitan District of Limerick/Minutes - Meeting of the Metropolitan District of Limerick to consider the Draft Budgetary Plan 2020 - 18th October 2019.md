@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202019.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick to consider the Draft Budgetary Plan 2020 - 18th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK TO**
 
 **CONSIDER THE DRAFT BUDGETARY PLAN 2020 HELD IN THE COUNCIL CHAMBER, MERCHANT’S**
@@ -116,7 +117,9 @@ Special Projects – LA Infrastructure
 Special Projects – LPT
 
 €65,000
----
+
+[[PAGE_END:1]]
+
 2
 
 Director of Services, Support Services suggested that over the 5 year period of the current council,
@@ -202,7 +205,9 @@ Following further discussion, the Members queried if the amount of strategic pro
 increased from three to four projects. Director, Support Services confirmed that the monies would
 
 be ringfenced in the Capital Account and allocated up to four strategic projects per electoral area.
----
+
+[[PAGE_END:2]]
+
 3
 
 Proposed by Councillor Secas;
@@ -236,4 +241,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

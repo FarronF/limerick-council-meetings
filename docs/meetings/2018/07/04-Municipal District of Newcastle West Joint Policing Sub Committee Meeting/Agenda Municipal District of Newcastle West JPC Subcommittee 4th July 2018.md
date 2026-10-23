@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda%20Municipal%20District%20of%20Newcastle%20West%20JPC%20Subcommittee.pdf)
+**Original file:** [Agenda Municipal District of Newcastle West JPC Subcommittee 4th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda%20Municipal%20District%20of%20Newcastle%20West%20JPC%20Subcommittee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 =
 
-ars
+ar™N
 
 ——-
 Limerick
@@ -68,13 +69,13 @@ appended Agenda.
 
 Is mise le meas,
 
-fa emer
+fam eral
 
 Meetings Administrator.
 
 1. Minutes
 
-To adopt Minutes of Meeting of the Newcastle West JPC Subcommittee held on 7™
+To adopt Minutes of Meeting of the Newcastle West JPC Subcommittee held on 7"
 
 March, 2018.
 
@@ -89,7 +90,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed)
 2 le
 & vewwlimerick.le
-yw @LimerickCouncil
+vw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20February%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 18th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_——_—_— Seirbhisi Corpardideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANF . Cé na gCeannaithe.
-—=—> Luimneach
+NF . Cé na gCeannaithe.
+—=—=—> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -36,7 +37,7 @@ th
 
 f: +353 (0) 61 415 266
 
-To/ The Cathaoirleach_and each Member of the Municipal District_of Cappamore-
+To/ The Cathaoirleach_and each Member of the Municipal _District_of Cappamore-
 
 Kilmallock
 
@@ -70,11 +71,13 @@ Luke Conlon, Inspector Acting Superintendent, Bruff District to give update on p
 for the District.
 
 @ customerservices@limerick.ie
-Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach & wewwlimerick.le
+Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach  wewwAlimerick.le
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncit
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -112,16 +115,18 @@ To consider fixing date for March Meeting.
 
 QUESTIONS
 
-Questions submitted by Councillor W. O'Donnell
+Questions submitted by Councillor W. O’Donnell
 
-1 will ask at the next Meeting for an update on the Council investigation into the
+| will ask at the next Meeting for an update on the Council investigation into the
 proposed Traffic Calming Measures adjacent to the National School in Knockainey.
 
 I will ask at the next Meeting what arrangements are in place for the carrying out of
 Road Marking Works in 2016.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -138,7 +143,7 @@ Questions submitted by Councillor B. Teefy
 Caherline to Dromkeen Road at Caherline N.S. in the interests of safety for the children
 crossing the road to the School.
 
-I will ask at the next Meeting for an update on the design for the proposed construction
+| will ask at the next Meeting for an update on the design for the proposed construction
 works at Bearys Cross on N24.
 
 NOTICES OF MOTION
@@ -161,4 +166,6 @@ Caherconlish be one of the estates in Cappamore-Kilmallock Municipal District to
 this speed limit of 30km per hour.
 
 
----
+
+[[PAGE_END:3]]
+

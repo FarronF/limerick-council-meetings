@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-limerick-city-and-county-council-26th-august-2024.pdf)
+**Original file:** [Minutes - Meeting of  Limerick City and County Council - 26th August 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-limerick-city-and-county-council-26th-august-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ORDINARY MEETING OF LIMERICK CITY
 
 AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -88,7 +89,9 @@ Denis was a thorough gentleman who represented his constituents with great enthu
 and his dedication to his community was unwavering. He took his duties seriously, always
 
 preparing meticulously for events and ensuring he represented the council with insight and
----
+
+[[PAGE_END:1]]
+
 **2**
 
 grace. One of Denis’s significant contributions during his tenure was his focus on
@@ -164,7 +167,9 @@ Members thanked the Mayor for his presentation and welcomed a plan to progress L
 further. However, some Members raised concerns around the timeline to draft this
 
 programme and encouraged the Mayor to meet with the Members of the Districts to agree
----
+
+[[PAGE_END:2]]
+
 **3**
 
 priorities for each area. Some Members emphasised the importance of addressing issues in
@@ -230,7 +235,9 @@ Moran, O’Donoghue, Ryan (E), Scanlan, Secas, Sheehan (C), Teefy. (16)
 **Abstentions**
 
 There were no Abstentions.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 This concluded the Meeting.
@@ -244,4 +251,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

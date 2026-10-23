@@ -16,24 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Special%20Meeting%20041217.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council to consider the Issues Paper for the Regional and Spatial Economic Strategy for the Southern Region - 4th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Special%20Meeting%20041217.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-. Seirbhisi Corpardideacha,
+i ‘ ideacha,
+Comhairle Cathrach es arece Cone —
 
-Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-
-& Contae Luimnigh Ceanncheathni Chorpardideach,
-
-NIN ‘ Cé na gCeannaithe.
+& Contae Luimnigh Ceanichannd pcteacherie
+AroN ~“ Cé na gCeannaithe,
 — Limerick City _ Luamneach
 
-& County Council a
+& County Council .
 
 Limerick City and County Council,
-
 Corporate Headquarters.
 
 Merchants Quay.
@@ -42,7 +40,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+f; +353 (0) 61 415 266
 
 29" November, 2017.
 
@@ -57,17 +55,19 @@ Council to be held in the Council Chamber, Dooradoyle, Limerick, on Monday,
 Spatial Economic Strategy for the Southern Region.
 
 Is mise le meas,
-Cus i Cee
+Chis Cee
 
 Christy O’Connor,
 
 Meetings Administrator.
 
 ie
-wen limericicie
+@ wen limericiie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corportet Headquarters, Merchants Quay, Limerick ( 061 - 587150
+Corpordee t Headquarters, Merchants Quay, Limerick ( 061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

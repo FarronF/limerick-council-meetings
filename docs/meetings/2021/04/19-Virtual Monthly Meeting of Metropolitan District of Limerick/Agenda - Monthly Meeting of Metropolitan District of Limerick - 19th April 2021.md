@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-online-meeting-of-metropolitan-district-of-limerick-19th-a.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-online-meeting-of-metropolitan-district-of-limerick-19th-a.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Comhairle Cathrach
+all Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -29,7 +30,7 @@ al Comhairle Cathrach
 
 A Chomhairleoir, a chara,
 
-Setrbdnisi Corparéideacha
+Setrbdnisi Corpartideacha
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathni Chorparaideach,
@@ -46,7 +47,7 @@ Merchants Quay.
 
 Limerick
 
-EIRCODE V94 EHSO
+EIRCODE V94 EHS0
 
 t: +353 (0) 61 557150
 
@@ -61,7 +62,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-M sche
+MM lscley
 
 Mark Leahy,
 Meetings Administrator.
@@ -78,12 +79,14 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 == customerservices@limerickie
-© wewrw imerickie
+© wevrw imerickie
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -135,7 +138,9 @@ County Council allocate a permanent sweeper to the Limerick City East area.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor E. Secas
@@ -164,7 +169,7 @@ County Council for 2020.
 (1) How many developers have current full planning permission in Patrickswell area for housing.
 (2) How many houses are presently granted full planning permission in Patrickswell.
 
-11. necillor C. Slatte
+11. ncillor C. Slatte
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can Limerick City and County
 Council advise what are the plans for the railway line running behind Rathbane and Janesboro. This
@@ -180,7 +185,9 @@ fitted to be opened during the day so people can go walking. Also it would be a 
 trees along the border.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor C. Slattery
@@ -228,10 +235,12 @@ enforcement notices have the Council issued since March 2020 up until March 2021
 Northside of the city.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-20. llor J. Costell
+20. lor J. Costell
 
 | will ask at the next Meeting of the Metropolitan District of Limerick what are the results of the
 extensive structural examination of the concrete structures on the Weir Bridge which is situated in
@@ -263,7 +272,9 @@ of Limerick City and County Council engage with OPW and other relevant agencies 
 Annacotty Weir on the River Mulkear so that lampreys can travel the river freely.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Notice of Motion submitted by Councillor E. Secas (to be referred to the Climate Action,
@@ -304,9 +315,7 @@ Briefings)
 Vartry Field to Vartry Park, Raheen in light of recreational works and public lighting carried out on
 behalf of local residents.
 
-29. Notice of Motion subi d ounci Kilcoyne
-
-E a I Committee
+E a | Committee
 
 | will move at the next Meeting of the Metropolitan District of Limerick, that in order to encourage
 development to start and once full planning permission is granted, that Limerick City and County
@@ -315,7 +324,9 @@ development commences within the first two and half years.
 
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 30. Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Travel and
@@ -354,4 +365,6 @@ Council identify suitable locations for additional! public toilets within the Me
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%2023.09.19.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%2023.09.19.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -84,7 +85,9 @@ engagement with the Elected Members in relation to the role and functions.
 Following further discussion, it was agreed that a briefing on the proposal for a Directly
 
 Elected Mayor with Executive Functions would be held in October.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -168,7 +171,9 @@ deceased, for the sum of €169.45, the disposal to be by way of Deed of Conveya
 of Limerick City and County Council in the property, particulars of which were contained in Statutory
 
 Notice dated 29th July, 2019.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (d)
@@ -250,7 +255,9 @@ case, particulars of which were contained in Statutory Notice dated 15th August,
 Circulated, copy of Statutory Notice dated 15th August, 2019, concerning disposal of land at
 
 Garryduff, Newcastle West, Co. Limerick. (0.053 ha)
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Collins (M);
@@ -336,7 +343,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act, 2001
@@ -420,7 +429,9 @@ In response to Members’ queries, the A/Director, Capital Investment, confirmed
 assessment had been completed by the Senior Architect and Head of Property Services. He also
 
 confirmed the internal process involved before disposing of a property had been completed and no
----
+
+[[PAGE_END:5]]
+
 6
 
 strategic objective had been outlined for this particular property. Members discussed the
@@ -500,7 +511,9 @@ Proposed by Councillor O’Brien;
 Seconded by Councillor O’Donoghue;
 
 And Resolved:
----
+
+[[PAGE_END:6]]
+
 7
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act, 2001
@@ -584,7 +597,9 @@ matters.
 On the proposal of Councillor Sheahan (J), seconded by Councillor Galvin, the following dates
 
 were agreed:
----
+
+[[PAGE_END:7]]
+
 8
 
 **Briefing on Budget 2020:**
@@ -666,7 +681,9 @@ Chief Executive’s Reports to the Council, together with Chief Executive’s Re
 June, July and August 2019.
 
 The Chief Executive’s Reports were noted by the Members.
----
+
+[[PAGE_END:8]]
+
 9
 
 (d)
@@ -748,7 +765,9 @@ Committees.
 It was now recommended that (i) the Draft Scheme, as circulated, be adopted; and (ii) the
 
 Council Members be appointed to each Strategic Policy Committee.
----
+
+[[PAGE_END:9]]
+
 10
 
 At the outset of discussion on this item, it was agreed on the proposal of Councillor Collins
@@ -816,7 +835,9 @@ Limerick Market Trustees
 Circulated, list of Members appointed to the Limerick Market Trustees at the First Annual
 
 Meeting of the Council held on 7th June, 2019.
----
+
+[[PAGE_END:10]]
+
 11
 
 The Meetings Administrator advised that the Council was required to consider the
@@ -888,7 +909,9 @@ David Costelloe: CEO of Sarsfield Credit Union Ltd. with 28 years’ experience 
 business development, portfolio management, relationship management and distressed debt
 
 recovery.
----
+
+[[PAGE_END:11]]
+
 12
 
 John Coady: Independent Consultant **-** Former Vice President, Administration and Finance Mary
@@ -966,7 +989,9 @@ And Resolved:
 the City and County of Limerick to Hangzhou, China, under Section 142(5) of the Local Government
 
 Act, 2001, as amended.”
----
+
+[[PAGE_END:12]]
+
 13
 
 (iii)
@@ -1044,7 +1069,9 @@ Draft Traveller Accommodation Programme 2019-2024
 Circulated, report of the Director, Housing Development, dated 18th September, 2019,
 
 enclosing Draft Traveller Accommodation Programme 2019-2024.
----
+
+[[PAGE_END:13]]
+
 14
 
 Proposed by Councillor Daly;
@@ -1120,7 +1147,9 @@ Circulated, reports by Members who had participated at Conference / Seminar / Me
 Event.
 
 The reports were noted by the Council.
----
+
+[[PAGE_END:14]]
+
 15
 
 QUESTIONS
@@ -1206,7 +1235,9 @@ of that date. However, given the outdated nature of both plans, it is proposed t
 the review will commence with the publication of an Issues Paper in Quarter 2, 2020.
 
 This will commence the statutory 99 week process of preparing a new Development
----
+
+[[PAGE_END:15]]
+
 16
 
 Plan. The preliminary work will commence in advance of this date and briefing
@@ -1290,7 +1321,9 @@ Authority that provides information and advice to the Irish Human Rights and
 Equality Commission in its role as the official monitoring body for Ireland’s
 
 compliance with the UN Convention on the Rights of Persons with Disabilities.
----
+
+[[PAGE_END:16]]
+
 17
 
 The National Disability Authority’s work includes the development and provision of
@@ -1368,7 +1401,9 @@ and Transportation Strategic Policy Committee)
 It was agreed to refer this Motion to the Travel and Transportation Strategic Policy
 
 Committee.
----
+
+[[PAGE_END:17]]
+
 18
 
 16.
@@ -1450,7 +1485,9 @@ loss.
 With the permission of the Mayor, the following Notice of Motion, in the name of Councillor
 
 Sheehan, was taken:
----
+
+[[PAGE_END:18]]
+
 19
 
 17(a)
@@ -1504,4 +1541,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:19]]
+

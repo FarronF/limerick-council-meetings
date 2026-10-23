@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%20Adare-Rathkeale%2014th%20June%202022.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%20Adare-Rathkeale%2014th%20June%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE WOODLANDS HOTEL, ADARE ON TUESDAY, 14TH**
@@ -84,7 +85,9 @@ matter. This was seconded by Councillor O’Brien and agreed.
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-Rathkeale
 
 held on 11th May, 2022.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor O’Donoghue;
@@ -150,7 +153,9 @@ breakdown of the number of occupied and unoccupied houses. The Senior Engineer, 
 Housing Construction & Maintenance agreed to attend the July District Meeting and
 
 provide requested report.
----
+
+[[PAGE_END:2]]
+
 3
 
 **4.**
@@ -220,7 +225,9 @@ agreed to allocate the following:
 On the proposal of Councillor Keary, seconded by Councillor O’Brien, it was agreed to
 
 allocate €4,000 to Croagh Community Council.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it was agreed
@@ -284,7 +291,9 @@ Askeaton Public Realm Plan.
 Councillor Keary requested hedge cutting take place at Limetree Avenue, Adare and
 
 advised the avenue footpath is also damaged due to HGVs attempting to access the
----
+
+[[PAGE_END:4]]
+
 5
 
 location. The Senior Executive Engineer agreed to carry out an inspection of the
@@ -302,4 +311,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%20Council%20Meeting%2023.09.19.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%20Council%20Meeting%2023.09.19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Comhairt Gumnchena Come tuberdgh
-Fain & Contae Luimnigh Ceanncheathru: Chorparaideach,
-“A coN ——————— Cé na gCeannaithe.
-—=—=>> Limerick City Luimneach
+ee Comhairle Cathrach Comnhairt Cunachana come tuberdgh
+Fa & Contae Luimnigh Ceanncheathru Chorparaideach,
+AcN —————— Cé na gCeannaithe.
+—=>>= Limerick City Luimneach
 
 & County Council
 
@@ -38,10 +39,10 @@ Limerick
 
 EIRCODE V94 EH90
 
-18" September, 2019. t: +353 (0) 61 557150
-#: +353 (0} 61 415 266
+18" September, 2019. t: 4353 (0) 61 557150
+t: +353 (0} 61 415 266
 
-To: M dé
+To: M dE
 
 A Chomhairleoir, a chara,
 
@@ -80,12 +81,14 @@ Development Act, 2000 (as amended), at:
 (f) Garryduff, Newcastle West, Co. Limerick (0.067ha).
 
 =
-@ wevews Kimerick.ie
+@ wevews timerick.ie
 Ceanncheathré Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick . (061 - 587150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -95,7 +98,7 @@ Corporate Headquarters, Merchants Quay, Limerick . (061 - 587150
 (i)
 (i)
 (k)
-())
+()
 (m)
 (n)
 {o)
@@ -138,7 +141,7 @@ ices Directo
 Fixing of Date ~- Statutory Budget Meeting
 To fix date for the 2020 Statutory Budget Meeting.
 
-(Copy of Departmental Circular Fin 07/2019 dated 29" August, 2019, Enclosed)
+(Copy of Departmental Circular Fin 07/2019 dated 29"" August, 2019, Enclosed)
 
 Local Property Tax
 To consider whether to pass a resolution to vary the basic rate of Local Property Tax
@@ -152,10 +155,12 @@ To consider Chief Executive's Reports for the months of June, July and August 20
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(4)
+(a)
 
 (e)
 
@@ -201,34 +206,44 @@ West to the Board of Paul Partnership.
 To consider the nomination of 4 external members to the Audit Committee.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(g) Foreign Travel
+(g)
+
+Foreign Travel
 
 To consider approving of foreign travel in respect of invitations received by the Mayor
-
 of the City and County of Limerick, as set out below, under Section 142 (5) of the
-
 Local Government Act, 2001, as amended:
 
-(i) Participation at the European Green Leaf Awards in Oslo, Norway.
+(i)
+
+(ii)
+
+(ili)
+
+(iv)
+
+Participation at the European Green Leaf Awards in Oslo, Norway.
 (retrospective approval)
 
-(ii) Progression of economic links and attendance at 2019 Hangzhou
+Progression of economic links and attendance at 2019 Hangzhou
 International Sisters City Mayors Conference in Hangzhou, China.
 (retrospective approval)
 
-(ili) Official Twinning invite to Spokane, Washington State, USA. (retrospective
+Official Twinning invite to Spokane, Washington State, USA. (retrospective
 approval)
 
-{iv) Invitation to UNESCO Institute of Lifelong Learning Fourth international
+Invitation to UNESCO Institute of Lifelong Learning Fourth international
 Conference on Learning Cities — ‘inclusion - A Principle for Lifelong Learning
 and Sustainable Cities,’ in Medellin, Colombia, South America.
 
 (Reports Enclosed)
-Physical Development Directorate
 
+Physical Development Directorate
 Limerick City and County Council Litter Management Plan 2019-2022
 
 To consider the report on the Public Consultation and to adopt the Limerick City and County
@@ -245,7 +260,9 @@ accordance with the Housing (Traveller Accommodation) Act, 1998.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Service Operations Directorate
@@ -258,9 +275,9 @@ Act, 2004.
 
 (Report Enclosed)
 
-Ve Conferences
+Te Conferences
 
-{i) Participation by Members at Conferences
+(i) Participation by Members at Conferences
 
 To consider participation by Members at the following Conferences:
 
@@ -272,9 +289,9 @@ To consider participation by Members at the following Conferences:
 (f)
 
 La Touche Legacy Weekend — Ireland Through the Turbulent 1930s, held in
-Greystones, Co. Wicklow, on 13°/14™ September, 2019.
+Greystones, Co. Wicklow, on 13°/14" September, 2019.
 A Practical Guide to Budget 2020, to be held in Carlingford, Co. Louth, from
-11" to 13™ October, 2019.
+11" to 13 October, 2019.
 Embracing Diversity — A Future Together, to be held in Ballyhaunis, Co. Mayo,
 on 19" October, 2019.
 Ireland and Plastic Waste, to be held in Clonakilty, Co. Cork, from 25" to 27%
@@ -299,7 +316,9 @@ Questions submitted by Councillor J, Scanlan
 measures due for implementation in the final Quarter of the current financial year.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -319,10 +338,10 @@ the County and City.
 
 Questions submitted by Councillor B. Leddin
 
-twill ask at the next Meeting that the Council provide details of any traffic studies performed
+I will ask at the next Meeting that the Council provide details of any traffic studies performed
 by the Council in 2018/2019 and any traffic volumes collected directly by the Council.
 
-| will ask at the next Meeting for a progress report on the Council’s plans to develop a cycle
+I will ask at the next Meeting for a progress report on the Council’s plans to develop a cycle
 lane between Mary immaculate College and Limerick Institute of Technology.
 
 by Councillor E. O’Donovan
@@ -340,7 +359,7 @@ gravespace within its burial grounds in Co. Limerick.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-I will move at the next Meeting that this Council provide a direct public reps support desk,
+| will move at the next Meeting that this Council provide a direct public reps support desk,
 for example similar to Irish Water, in light of difficulties with the current system; also, that
 reps made by Councillors to various Departments contact should be made directly by phone
 or email.
@@ -352,7 +371,9 @@ and Transportation Strategic Policy Committee)
 Transport budget to Cycling.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -363,7 +384,7 @@ Transport budget to Cycling.
 
 Notice of Motion submitted by Councillor E. O'Donovan
 
-I call on Limerick Council and all relevant Council departments to support the Make Way Day
+| call on Limerick Council and all relevant Council departments to support the Make Way Day
 Campaign on September 26th which draws attention to the needs of people with disabilities
 in public spaces.
 
@@ -376,4 +397,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

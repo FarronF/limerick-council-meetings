@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-minutes-of-monthly-meeting-8th-march-2022.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 8th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-minutes-of-monthly-meeting-8th-march-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE WOODLANDS HOUSE HOTEL, ADARE, CO. LIMERICK ON**
@@ -84,7 +85,9 @@ Seconded by Councillor Keary;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -152,7 +155,9 @@ The report, as circulated, was noted by Members.
 The Cathoirleach welcomed the A/Senior Executive Engineer, Executive Engineer and
 
 Assistant Engineer, Mid West National Road Design Office to the Meeting.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Executive Engineer updated Members on the proposals for the N21 Coolanoran
@@ -226,7 +231,9 @@ The report, as circulated, was noted by Members.
 On the proposal of Councillor Teskey, seconded by Councillor Keary it was agreed to
 
 allocate €500 to Adare St. Patrick’s Day Parade.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor O’Brien, seconded by Councillor Sheahan, it was agreed to
@@ -318,7 +325,9 @@ Vacant
 2
 
 Awaiting Minor Repairs
----
+
+[[PAGE_END:4]]
+
 5
 
 CROOM
@@ -430,7 +439,9 @@ media platforms to form part of the education curriculum.
 **audit on all water Hydrants that are in place to help our fire service access much**
 
 **needed water, within the inspection I am requesting 1. For a detailed map outlining**
----
+
+[[PAGE_END:5]]
+
 6
 
 **the exact location of all hydrants, 2. A survey to be carried out with regards to the**
@@ -498,4 +509,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

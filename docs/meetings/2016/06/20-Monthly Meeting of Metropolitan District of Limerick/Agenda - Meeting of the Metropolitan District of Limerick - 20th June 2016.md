@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%202016.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 20th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ANF . Cé na gCeannaithe,
-—=>=> Luimneach
+—==>=> Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
-COUNCIL Limerick
+COUNCIL Linnerick
 
 th
-aor ine, 2008: t: +353 (0) 61.407 100
+oer ne, 201s: t: +353 (0) 61.407 100
 
 f: +353 (0) 61 415 266
 To: The Mayor and each Mem he Metropolitan District of Limerick
@@ -41,12 +42,12 @@ A Chomhairleoir, a chara, =
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant’s Quay, Limerick, on Monday, 20" June, 2016 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick, on Monday, 20" june, 2016 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-e
-WS Cares
+a
+WS Care
 Christy O’Connor,
 Meetings Administrator.
 
@@ -72,18 +73,20 @@ the City of Limerick.
 (d) Disposal of Freehold Interest in dwelling house situate at 9 An Casan, Garryowen, in the
 City of Limerick.
 (e) Disposal of 7 Sites at Dromdarrig, Mungret, Co. Limerick.
-@ customerservices@limerickie
-Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach  wwew.limerickie
+@ customerservices@limerickic
+Ceanncheathni Chorpardéideach, Cé na gCeannaithe, Luimneach  wwew.limerickie
 
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
 
-(f) Sub-lease of Arthur’s Quay Car Park for a further period of 3 years from 1” May, 2017.
+(f) Sub-lease of Arthur’s Quay Car Park for a further period of 3 years from 1 May, 2017.
 
 (g) Disposal of 2 areas of land, totalling 347 square metres (approx.) to Coras lompar
 Eireann (C.I.E.) at Parnell Street by way of long term lease. Acquire from C.I.E. 2,446
@@ -124,7 +127,7 @@ and No. 19 Henry Street, Limerick.
 (Report Enclosed).
 
 Service Operations Directorate
-- lace Fi
+- lace F!
 
 To consider the Chief Executive’s Report pursuant to Section 179 3(a) of the Planning and
 Development Act 2000-2015, and Part 8 of the Planning and Development Regulations,
@@ -133,7 +136,9 @@ Development Act 2000-2015, and Part 8 of the Planning and Development Regulation
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -189,7 +194,9 @@ programme of short-term works in order to allow the Club host visiting clubs and
 competitions this Summer.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -210,7 +217,7 @@ competitions this Summer.
 
 Notice of Motion submitted by Councillor Joe Leddin
 
-1 will move at the next Meeting that Limerick Metropolitan District introduce
+| will move at the next Meeting that Limerick Metropolitan District introduce
 appropriate By-Laws to standardise the design of signage placed by retail and business
 owners in Limerick City so as to prevent the placement of unsuitable signage at the front of
 various businesses and shopfronts.
@@ -243,7 +250,7 @@ We will call at the next Meeting for the Council to have the resurfacing of Nort
 Road and Mill Road, Corbally and the repair of footpaths that have been damaged by the
 installation of water pipes carried out as a matter of urgency.
 
-i i lors Franki ly and Mich
+i i llors Franki ly and Mich
 
 We will move at the next Meeting that a strategic plan be developed, in conjunction with
 the community, to develop the LPYMA Ground into an amenity that will benefit the whole
@@ -251,7 +258,9 @@ community and address ongoing issues such as anti-social behaviour. This under-u
 resource to be maintained and secured while a long term plan is brought forward.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -266,7 +275,7 @@ $
 
 Notice of Motion submitted by Cmhir. Séighin Haigh
 
-1 will move at the next Meeting that this District calls on the Minister for Education to
+| will move at the next Meeting that this District calls on the Minister for Education to
 relocate the planned secondary school for Castletroy to Castleconnell.
 
 Noti
@@ -289,4 +298,6 @@ Correspondence.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

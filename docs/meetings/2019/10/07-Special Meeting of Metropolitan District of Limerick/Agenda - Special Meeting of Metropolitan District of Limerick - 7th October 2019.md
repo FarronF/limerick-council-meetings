@@ -16,30 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%20-%20Monday%2007.10.19.pdf)
+**Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 7th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%20-%20Monday%2007.10.19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 — Comhairle Cathrach
 
 & Contae Luimnigh
 
-nAr™N
+anAr™N
 —> Limerick City
 
 & County Council
 
-2"4 October, 2019.
+24 October, 2019.
 
 : The and Each M
 
 A Chomhairleoir, a chara,
 
-Seirbhisi Corparaideacha,
+Seirbnisi Corparaideacha,
 
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathri Chorparaideach,
+Comhairle Cathrach agus Contae Luirmnigh,
+Ceanncheathra Chorparaideach,
 
 Cé na GCeannaithe,
 
@@ -47,7 +48,7 @@ Luamneach
 
 Corporate Services,
 
-Limerick City and County Council,
+Limerick City and County Council.
 Corporate Headquarters,
 Merchants Quay.
 
@@ -55,7 +56,7 @@ Limerick
 
 EIRCODE V4 EH90
 
-t: +353 (0) 61 557150
+t +353 (0) 61 557150
 f: +353 (0) 61415 266
 
 Limerick
@@ -74,13 +75,14 @@ To discuss the EPA’s decision to grant an incineration licence to Irish Cement
 Mungret.
 
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
-
 Corporate Headquarters, Merchants Quay, Limerick
 
-im customerservices@limerickic
-@ worwtimerick.ie
+i Customerservices@limerickic
+@ wonwtimerici.ie
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 18th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -70,7 +71,9 @@ The members welcomed the presentation and agreed it was positive to see the upgr
 Limerick Junction and highlighted the following issues: -
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 • Vegetation clearance on the Limerick to Foynes freight line and the impact on animal
@@ -144,7 +147,9 @@ to be considered in the commuter rail study
 • A commuter rail study is being progressed with the NTA including Ballysimon Park and Ride,
 
 and he hopes to revert by September with an update.
----
+
+[[PAGE_END:2]]
+
 3
 
 • Foynes to Limerick line, is being considered as a commuter line but not in the near future.
@@ -206,7 +211,9 @@ MC read the response as follows:
 • *Court Penalties: Failure to pay the fixed charge notice can lead to court prosecution, where*
 
 *fines can be significantly higher.*
----
+
+[[PAGE_END:3]]
+
 4
 
 • *Pedestrianised Areas: Article 45 prohibits vehicles from entering or parking in a*
@@ -278,7 +285,9 @@ We have reviewed your request and can confirm that the following is the position
 *clearing debris) that would not fall under the requirement of the need for a Road Opening*
 
 *Licence.*
----
+
+[[PAGE_END:4]]
+
 5
 
 *Any such maintenance does not relieve the Roads Authority of the duty to maintain.*
@@ -348,7 +357,9 @@ accessibility objectives of LSMATS?
 *Unfortunately, neither of the procurement processes resulted in a success bidder for the service*
 
 *provision as we did not receive any tenders.*
----
+
+[[PAGE_END:5]]
+
 6
 
 *The existing service provider in limerick (Go Car) were part of an original pilot project in the city.*
@@ -396,4 +407,6 @@ agreed that this would be circulated. She also reminded members of the upcoming 
 make a work programme.
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:6]]
+

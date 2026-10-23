@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/agenda-travel-transportation-spc-meeting-27th-april-2022.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 27th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/agenda-travel-transportation-spc-meeting-27th-april-2022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **14th April, 2022**
@@ -51,7 +52,9 @@ out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.National Transport Authority (NTA) Briefing:**
@@ -121,4 +124,6 @@ allocation for disabled drivers?
 
 
 When will the next review take place?
----
+
+[[PAGE_END:2]]
+

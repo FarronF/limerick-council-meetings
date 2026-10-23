@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-20th-may-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 20th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-20th-may-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF ONLINE MONTHLY MEETING OF
@@ -61,7 +62,9 @@ Members also agreed a strategy for the development of business in the Municipal 
 Cappamore-Kilmallock needed to be a priority into the future.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 After further discussion it was proposed by Councillor Donegan that a Special Meeting of the
@@ -108,7 +111,9 @@ the June meeting of the Municipal District.
 This proposal was seconded by Councillor Mitchell and agreed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTIONS
@@ -150,7 +155,9 @@ City and County Council that they consider installing dog waste bins at the entr
 areas of the loop walks in Kilmallock town.”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -201,7 +208,9 @@ submitted to the members at the July Meeting.
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Question submitted by Councillor Mitchell
@@ -217,7 +226,7 @@ both the Emly Road and also the Bruff Road
 
 5. Question submitted by Councillor Egan
 
-“| will ask at the next meeting of the Cappamore/Kilmallock Municipal District when
+“twill ask at the next meeting of the Cappamore/Kilmallock Municipal District when
 Limerick City and County Council plan to start improvement works in Clare Glens.”
 
 REPLY:
@@ -239,7 +248,9 @@ L5093 in Caherconlish when resources are available. A report on the need for tra
 measures in this area will be prepared in due course.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor Teefy
@@ -254,7 +265,7 @@ The HWL details for the Cappamore-Kilmallock District are below, the figures for
 applications could include duplicate applicants due to applicants having more than one area
 of choice in the Cappamore-Kilmallock District:
 
-| Total Applications 1° Preference
+| Total Applications 1% Preference
 Cappamore 8B
 
 Kilmallock 137
@@ -266,9 +277,9 @@ Ballylanders
 [1% Preference
 300
 530
-36000
-a
-Oo
+3600
+ao
+Ce
 8
 
 3
@@ -281,13 +292,15 @@ Ballyagran 13
 Ballyagran
 Glenbrohane jaa
 
-oOo
-42
-[Anglesboro
+Oo
+[42
+|Anglesboro
 ja
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Any Other Business
@@ -314,4 +327,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:7]]
+

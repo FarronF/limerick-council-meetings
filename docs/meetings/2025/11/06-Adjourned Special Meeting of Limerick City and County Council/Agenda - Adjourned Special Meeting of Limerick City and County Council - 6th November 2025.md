@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-adjourned-special-meeting-of-limerick-city-and-county-council-6th-november-2025.pdf)
+**Original file:** [Agenda - Adjourned Special Meeting of Limerick City and County Council - 6th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-adjourned-special-meeting-of-limerick-city-and-county-council-6th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_— Comhairle Cathrach
+__—_——_ Comhairle Cathrach
 & Contae Luimnigh
-aAr™ —_, —————————————
+nArc™ ———_ ——————————————
 
 — Limerick City
 & County Council
 
 31" October, 2025.
 
-Se#bhisi Corparaideacha.
+Se#bhisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh
 Ceanncheathria: Chorparaideach,
@@ -45,7 +46,7 @@ Limerick City and County Council,
 corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE v94 EHSO
 
@@ -59,19 +60,21 @@ County Council
 A Chomhairleoir, a chara,
 
 You are requested to attend the Adjourned Special Meeting of Limerick City and County
-Council to be held in the Council Chamber, Dooradoyle, and Online, on Thursday, 6**
+Council to be held in the Council Chamber, Dooradoyle, and Online, on Thursday, 6'»
 
 November, 2025, at 11.30 a.m., in order to receive an update on the Mayoral Fund.
 
 Is mise le meas,
 
-¢y Ciara Farrell,
+ey Ciara Farrell,
 Meetings Administrator.
 
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Lulmneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

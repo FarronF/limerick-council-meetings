@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_newcastle_west_-_1st_october_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Newcastle West - 1st October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_newcastle_west_-_1st_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -68,7 +69,9 @@ affected. He also stated that discussions were ongoing with Human Resources and 
 to try to resolve the matter.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members voiced grave concerns about the closure of the Fire Station, particularly as
@@ -91,7 +94,7 @@ General Municipal Allocation
 The following date was fixed for a Meeting to consider the General Municipal Allocation for
 the Municipal District of Newcastle West:
 
-Thursday, 9" October, 2014, at 12 Noon at the Fire Station, Abbeyfeale, Co. Limerick.
+Thursday, 9"" October, 2014, at 12 Noon at the Fire Station, Abbeyfeale, Co. Limerick.
 
 4. Travel & Transportation:
 
@@ -114,14 +117,16 @@ attend a meeting of the Municipal District of Newcastle West and he had given an
 undertaking that he would attend the November Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
 
 5. uestion submitted by Councillor vin
 
-/ will ask at the next Meeting what is the hold up with the purchase of Ahern’s Old
+| will ask at the next Meeting what is the hold up with the purchase of Ahern’s Old
 Butcher Stall, Abbeyfeale.
 
 REPLY: In-depth discussions concerning traffic management issues on Main Street,
@@ -160,7 +165,9 @@ new works of this nature. The funding position can be reviewed towards
 year end, and the works considered if funding is available.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor J. Scanlan
@@ -205,7 +212,9 @@ danger at present. It should be noted that they survived Storm Darwin on
 12" February, 2014.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -257,7 +266,9 @@ phase of the Scheme which is expected to commence in November of this
 year.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Notice of Motion submitted by Councillor S. Browne
@@ -277,7 +288,7 @@ Desmond Castle is the responsibility of the O.P.W.
 
 15. Notices of Motion submitted by Councillor S. Browne
 
-! will move at the next Meeting that the Council increases the allocation and
+1 will move at the next Meeting that the Council increases the allocation and
 selection of books to Newcastle West District Libraries.
 
 In proposing the Motion, Councillor Browne requested that an increased selection of books
@@ -310,7 +321,9 @@ with all other Council Departments, had to experience reduced budgets. This
 has inevitably impacted on the Council’s capacity to purchase new books.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 However, the Council's records would indicate that Newcastle West Library
@@ -333,4 +346,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+

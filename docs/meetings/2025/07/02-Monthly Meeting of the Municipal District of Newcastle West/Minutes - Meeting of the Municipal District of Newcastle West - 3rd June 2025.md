@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-2025-06-03-minutes-june.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 3rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-2025-06-03-minutes-june.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ And Resolved:
 amendment outlined above to the Minutes of the Municipal District of Newcastle West held
 
 on 6th May, 2025”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -166,7 +169,9 @@ Currently the NTA office at Barrow House have procured a consultant to carry
 out the design for these works. It is hoped that by Q3 2025, a design proposal
 
 will be available.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -246,7 +251,9 @@ The primary challenge currently facing the Phase 1 Works is the funding shortfal
 sources of funding are actively being explored and a Meeting has been requested with Uisce
 
 Éireann by Limerick City and County Council (LCCC) on behalf of the Mayor to help unlock
----
+
+[[PAGE_END:3]]
+
 4
 
 further financial support.
@@ -316,7 +323,9 @@ Review Request Form for further consideration by the Office of Public Works.
 *question.*
 
 *For full details of the Flood Map Review Programme Guidance Note go to* *www.floodinfo.ie**.*
----
+
+[[PAGE_END:4]]
+
 5
 
 *If Newcastle West Municipal District would like to request a new Flood Map Review, please*
@@ -386,7 +395,9 @@ REPLY:
 Member Quarterly Management Claims Trend Report for Quarter 4 2024 attached
 
 provides full details on all personal injury claims for the period 2022 – 2024.
----
+
+[[PAGE_END:5]]
+
 6
 
 The level of detail requested above is not available from the I.P.B system. The report
@@ -464,7 +475,9 @@ abruptly and access to a stream at the back of social housing was raised. A requ
 made to have the ESB substation protected in the interest of safety. In replying, the Senior
 
 Executive Engineer stated that a Meeting has taken place on site and quotations are also
----
+
+[[PAGE_END:6]]
+
 7
 
 awaited from FRS Fencing. It was agreed that a further update would be given at the July
@@ -534,7 +547,9 @@ REPLY:
 This area has been examined and it is not deemed to require a road safety
 
 audit.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Scanlan referred to the issue of safety exiting Liosán
@@ -604,7 +619,9 @@ upon by year end. Following discussion, the Members proposed that 50% of this al
 spent on general maintenance in The Square, Newcastle West and in replying, the Town
 
 Centre First Officer agreed to revert to the Mayor with regard to this request.
----
+
+[[PAGE_END:8]]
+
 9
 
 17. Correspondence
@@ -666,7 +683,9 @@ The Meetings Administrator referred to the Community Initiative Scheme for 2025 
 agreed that a Workshop would take place on Wednesday, 2nd July, 2025, at 9.15 a.m., at Áras
 
 William Smith O’Brien to discuss this matter.
----
+
+[[PAGE_END:9]]
+
 10
 
 It was agreed to hold the July Meeting of the District on Wednesday, 2nd July, 2025, at 10.00
@@ -684,4 +703,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

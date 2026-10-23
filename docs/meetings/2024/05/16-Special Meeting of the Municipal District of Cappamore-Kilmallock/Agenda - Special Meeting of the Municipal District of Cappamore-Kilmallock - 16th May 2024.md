@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-may-2024.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 16th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 10th May , 2024.
@@ -52,4 +53,6 @@ Declaration of Interest
 2.
 
 Discussion on Athenacey Graveyard
----
+
+[[PAGE_END:1]]
+

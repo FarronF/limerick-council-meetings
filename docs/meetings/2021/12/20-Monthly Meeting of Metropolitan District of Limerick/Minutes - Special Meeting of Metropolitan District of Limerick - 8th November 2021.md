@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01a-draft-minutes-special-meeting-8th-november-2021.pdf)
+**Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 8th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01a-draft-minutes-special-meeting-8th-november-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON MONDAY, 8TH** **NOVEMBER, 2021 at 12 NOON IN THE COUNCIL CHAMBER, DOORADOYLE**
@@ -86,7 +87,9 @@ Site would be transferred to Limerick Twenty Thirty, who would then deal with th
 agreements, contracts, wayleaves and servicing of common areas, as this was seen as the most
 
 efficient method of managing the multiple leases and agreements across the site. The Library,
----
+
+[[PAGE_END:1]]
+
 2
 
 Revenue and Granary Buildings would be subsequently transferred back to Limerick City and
@@ -170,7 +173,9 @@ to date, which related to development, planning, enabling and demolition works. 
 confirmed that loan funding secured to date from the European Investment Bank (EIB) was in the
 
 amount of €25m.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Disposal was noted by the Members.
@@ -186,4 +191,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

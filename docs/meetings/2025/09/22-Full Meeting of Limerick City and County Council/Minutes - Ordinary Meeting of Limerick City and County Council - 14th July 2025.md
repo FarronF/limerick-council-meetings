@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-ordinary-meeting-of-limerick-city-and-county-council-14th-july-2025.pdf)
+**Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 14th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-ordinary-meeting-of-limerick-city-and-county-council-14th-july-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -92,7 +93,9 @@ interest to make this spend publicly available.
 The Mayor confirmed he would engage with the elected members to discuss Local
 
 Property Tax in advance of the meeting to vary the rate.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Mayor stated he was continuing to monitor and sign Mayoral orders while abroad
@@ -166,7 +169,9 @@ Act, 2001, as amended, and the Code of Conduct, she was inviting those present t
 Meeting of any declaration of interest in any item due for discussion at the Meeting. No such
 
 interests were declared.
----
+
+[[PAGE_END:2]]
+
 3
 
 3.
@@ -246,7 +251,9 @@ particulars of which were contained in Statutory Notice dated 2nd July, 2025.”
 Circulated, copy of Statutory Notice dated 2nd July, 2025, concerning disposal of
 
 property at 174 Cliona Park, Moyross, Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor O’Hanlon;
@@ -332,7 +339,9 @@ And Resolved:
 amended), the approval of the Council be and is hereby given to the disposal of land as follows
 
 - (i) Lease 999 year – Parcel 5, Opera Square, Limerick (Ground Floor 1,346 m2 approx. and
----
+
+[[PAGE_END:4]]
+
 5
 
 Basement 1,936 m2 approx.) including airspace above in accordance with the maps attached
@@ -414,7 +423,9 @@ The Director General confirmed that the DAC’s are operating successfully and c
 out important work. He noted that a special meeting was previously held to discuss the
 
 governance of DACs.
----
+
+[[PAGE_END:5]]
+
 6
 
 In response to a query in relation to the timing of works to be carried out to the Adare
@@ -496,7 +507,9 @@ were contained in Statutory Notice dated 2nd July, 2025.”
 which was approaching 5.30 p.m. and on the proposal of Councillor O’Donovan, seconded by
 
 Councillor Stokes, Standing Order No. 4 was suspended in order to complete the agenda.
----
+
+[[PAGE_END:6]]
+
 7
 
 5.
@@ -564,7 +577,9 @@ Customer Services dated 9th July, 2025, together with Schedule of Proposed Dates
 Strategic Policy Committee Meetings up to June 2026.
 
 The Schedule, as circulated, was noted and agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 (d)
@@ -636,7 +651,9 @@ The position was noted by the Council in relation to Recommendation No. 1.
 **Meeting of the Full Council for noting.**
 
 The Draft Plan was noted by the Council.
----
+
+[[PAGE_END:8]]
+
 9
 
 (iv)
@@ -720,7 +737,9 @@ made to the Department of Housing for additional funds. The Director agreed to c
 update on the grants to the members and to write a letter to the Department regarding a
 
 Clawback condition.
----
+
+[[PAGE_END:9]]
+
 10
 
 The Director of Environment, Climate Action and Shared Services noted his colleagues
@@ -780,7 +799,9 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 Meeting / Event.
 
 The Reports were noted by the Council.
----
+
+[[PAGE_END:10]]
+
 11
 
 MAYOR’S QUESTIONS
@@ -872,7 +893,9 @@ method compared to Traditional Build - which is more expensive and takes longer.
 Show successful case studies of this type of construction achieved in other
 
 jurisdictions closeby - Cardiff, Bristol, London for example - who have been delivering
----
+
+[[PAGE_END:11]]
+
 12
 
 3D Modular solutions for more than 20 years as part of their housing capital
@@ -968,7 +991,9 @@ significant step up in delivery than seen in previous years can now be achieved 
 make housing costs more affordable for all and for this important housing and economic
 
 intervention for the benefit of not only the City but the entire Mid-West region.
----
+
+[[PAGE_END:12]]
+
 13
 
 We welcome continued dialogue as the programme progresses and will keep members and
@@ -1046,7 +1071,9 @@ Question submitted by Councillor E. Secas
 **and updates of local development plans to align with the forthcoming revised National**
 
 **Planning Framework, stressing the need to identify deliverable housing sites with access to**
----
+
+[[PAGE_END:13]]
+
 14
 
 **infrastructure, if Limerick City and County Council is going to start the review process of its**
@@ -1130,7 +1157,9 @@ All aspects of safety associated with the re-opening of the Foynes to Limerick
 Railway (including statutory responsibilities and appointments) are the
 
 responsibility of Irish Rail.
----
+
+[[PAGE_END:14]]
+
 15
 
 Where the rail interacts with roads infrastructure we have had engagement
@@ -1214,7 +1243,9 @@ which is happening from October 7th to 13th, 2025.
 x 5, Healthy Relationships Programme, Healthy Plate - Healthy You, Island
 
 Gardens Project, Oak Lodge Community Kitchen, Greenway Wellness Events x
----
+
+[[PAGE_END:15]]
+
 16
 
 5, International Soccer Competition, O’Brien Park enhancements, SALAAM
@@ -1294,7 +1325,9 @@ where communities can apply to the Council for a maintenance grant to
 maintain their respective green spaces. There were fifty five grants paid to
 
 date for 2025.
----
+
+[[PAGE_END:16]]
+
 17
 
 The breakdown for each of the Districts and average allocation is as follows:
@@ -1368,7 +1401,9 @@ O’Donovan.
 Members supported this motion and suggested this could be considered as part of the
 
 Night Time Economy Plan.
----
+
+[[PAGE_END:17]]
+
 18
 
 19.
@@ -1452,7 +1487,9 @@ G. Ward
 The Motion was proposed by Councillor Ryan (M) and seconded by Councillor Foley.
 
 It was agreed that the Motion would be forwarded to all Local Authorities for support.
----
+
+[[PAGE_END:18]]
+
 19
 
 21.
@@ -1522,7 +1559,9 @@ Notice of Motion submitted by Councillor J. Scanlan
 The Motion was proposed by Councillor Scanlan and was seconded by Councillor
 
 Hartigan (T).
----
+
+[[PAGE_END:19]]
+
 20
 
 **REPLY:**
@@ -1596,7 +1635,9 @@ Notice of Motion submitted by Councillor D. McSweeney ***(to be referred to***
 It was agreed to refer the Motion to the Community, Leisure, Arts, Heritage and
 
 Culture Strategic Policy Committee.
----
+
+[[PAGE_END:20]]
+
 21
 
 27.
@@ -1654,7 +1695,9 @@ previous weekend.
 The Register of Orders made by the Mayor or the Director General up to the date of
 
 the Meeting was available on sharepoint for inspection by the Members.
----
+
+[[PAGE_END:21]]
+
 22
 
 **PLANNING AND DEVELOPMENT:**
@@ -1672,4 +1715,6 @@ The Register of Decisions on Applications under the Planning and Development Act
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:22]]
+

@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/8th%20April%202019-Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 8th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/8th%20April%202019-Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——_ Comhairle Cathrach
+—_ Comhairle Cathrach
 
-= & Contae Luimnigh
+— & Contae Luimnigh
 
-“™ oN . . .
-—- Limerick City
+“™ oN . * .
+—— Limerick City
 
 & County Council
 
@@ -39,13 +40,13 @@ You are invited to attend a Meeting of the Travel and Transportation Strategic P
 Committee to be held in the Council Chamber, Merchant's Quay, Limerick, on Monday 8"
 April at 10:00 a.m. The business to be transacted is set out in the appended agenda.
 
-swree: Arter FA.
-
 CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
@@ -66,7 +67,7 @@ McElligott and Brian Connolly (Bus Eireann)
 6. Notice of Motion submitted by Cllr. E. Hogan (deferred from Metropolitan
 Meeting)
 
-“1 will move at the next meeting that Limerick City and County Council engage with
+“| will move at the next meeting that Limerick City and County Council engage with
 An Garda Siochana to deal with the problem of cyclists using the footpath in
 Ballinacurra to cycle out of the city, particularly as there is a designated purpose built
 cycle lane behind the houses”
@@ -87,14 +88,16 @@ extends the cycle lane on Childers Road the entire length of the road from the
 Parkway Roundabout to Ballinacurra Road”.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
 
 ~
 
-ition submitted hillane (deferred from Metropolitan
+tion submitted hillane (deferred from Metropolitan
 Meeti
 
 “We will move at the next Limerick and County Council Meeting that the following
@@ -114,10 +117,14 @@ Expand the 301 Augustinian bus stop to avoid congestion.
 Investigate bus corridors from the City Centre to the University of Limerick”.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Li
+5
 
 
----
+
+[[PAGE_END:4]]
+

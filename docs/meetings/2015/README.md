@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2015 Council Meetings
 
 Select a month to view records:

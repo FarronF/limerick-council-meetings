@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015.pdf)
+**Original file:** [Agenda - Special Meeting of Municipal District of Newcastle West - 19th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—___ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+_ —_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 TW Cé na gCeannaithe,
@@ -46,7 +47,7 @@ at 10.00 a.m The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Proglhare
+Peryglhare
 
 Meetings Administrator.
 
@@ -61,4 +62,6 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

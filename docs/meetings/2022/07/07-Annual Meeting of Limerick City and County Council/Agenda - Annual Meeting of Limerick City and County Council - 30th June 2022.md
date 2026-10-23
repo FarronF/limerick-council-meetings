@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda%20-%20Annual%20Meeting%2030.06.2022.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 30th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda%20-%20Annual%20Meeting%2030.06.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Serbhis{ Corpardideacha.
+; Sebhist Corpardideacha.
 
-ee eo ca pba Comhairle Cathrach agus Contae Luimnigh,
+ee Sip lease te btat Combhairie Cathrach agus Contae Luimnigh,
 ontee Luimnig Ceanncheathni Chorpardideach,
 
-ACN —°F——_—_—_—_—_—_—- Cé na gCeannaithe,
+ACN —°—_—_—_—__ Cé na gCeannaithe,
 
 Limerick City Luimneach
 — & County Council
@@ -53,8 +54,8 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-a a .omee
-Laura Flannery, - _
+a i
+Laura Flannery, 7 _
 Meetings Administrator.
 
 AGENDA
@@ -62,15 +63,17 @@ AGENDA
 1. Toconsider the election of a Mayor of the City and County of Limerick to hold office
 for the ensuing year or until a successor is elected.
 
-2. Toconsider the election of a Deputy Mayor of the City and County of Limerick to hold
+2.  Toconsider the election of a Deputy Mayor of the City and County of Limerick to hold
 office for the ensuing year or until a successor is elected.
 
 @ customerservices@limerick.te
 
-© wwownimerick.ie
+© wwewlimerick.ie
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20%28b%29%20Minutes%20-%20Special%20Meeting%20180918.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 18th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20%28b%29%20Minutes%20-%20Special%20Meeting%20180918.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -80,7 +81,9 @@ Seconded by Councillor Sheahan (M);
 “That, Mr. Peter Casey be nominated as a candidate for the Presidential Election 2018,
 
 in accordance with Section 16 of the Presidential Elections Act, 1993.”
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Loftus;
@@ -144,4 +147,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

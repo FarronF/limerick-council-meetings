@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Monthly%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2028thJune2018.pdf)
+**Original file:** [Minutes  - Monthly Meeting Municipal District Cappamore-Kilmallock - 28th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Monthly%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2028thJune2018.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -92,7 +93,9 @@ certain comments I made about a solicitor in Newcastlewest, whom the Limerick Le
 subsequently named as Rossa McMahon. I acknowledge that these comments unfairly
 
 characterised his concerns about the CCTV scheme.
----
+
+[[PAGE_END:1]]
+
 2
 
 I accept that I unfairly suggested that he had an untoward motive, that he stood to profit
@@ -164,7 +167,9 @@ The Members thanked the Director of Services for his presentation but noted the 
 generated in areas other than road traffic, which were also a source of major nuisance and
 
 concern for the general public.
----
+
+[[PAGE_END:2]]
+
 3
 
 Consideration and Adoption of the Draft Municipal District of
@@ -248,7 +253,9 @@ the junction improvement works currently being proposed.
 The Elected Members highlighted the fact that there had been significant engagement by
 
 the community in Caherconlish in the original Part 8 proposals and stressed the importance
----
+
+[[PAGE_END:3]]
+
 4
 
 of re-engaging with the local community to update them on what works would now be
@@ -320,7 +327,9 @@ of August 2018.
 The Elected Members expressed disappointment at the fact that the full-time general
 
 operative who had been based in Bruff and who had recently retired, was not being
----
+
+[[PAGE_END:4]]
+
 5
 
 replaced by a full time person. They were concerned at the impact this would have on the
@@ -390,7 +399,9 @@ Herbertstown, Co. Limerick following his recent passing.
 
 
 Appointment of Superintendent
----
+
+[[PAGE_END:5]]
+
 6
 
 The Members welcomed the appointment of Brian Sugrue as Garda Superintendent for the
@@ -444,4 +455,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

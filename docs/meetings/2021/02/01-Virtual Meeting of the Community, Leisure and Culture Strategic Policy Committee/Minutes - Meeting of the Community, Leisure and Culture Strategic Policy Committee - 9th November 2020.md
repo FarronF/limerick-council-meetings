@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-9th-of-november-2020.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 9th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-9th-of-november-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Community, Leisure & Culture Strategic Policy Committee Meeting 09/11/2020
@@ -54,13 +55,13 @@ IN ATTENDANCE: Mr Gordon Daly, Director of Services
 Mr Seamus O’ Connor, Senior Social Worker/ Chief Officer LCDC
 Ms Fiona McCormack, A/Senior Executive Officer
 Mr Damien Brady, Limerick City & County Librarian
-Ms Kathy O' Grady, Staff Officer
+Ms Kathy O’ Grady, Staff Officer
 Ms Carmel Lynch, Senior Executive Engineer
 Ms Sarah McCutcheon, Executive Archaeologist
 Ms Alice Hennessy, Assistant Staff Officer
 Mr Eanna Rowe. Project Manager, Waterways Ireland
 
-APOLOGIES: Clir. Dan McSweeney
+APOLOGIES: Cllr. Dan McSweeney
 
 item 1: Adoption of Minutes
 
@@ -68,7 +69,9 @@ On the proposal of Clir 0’ Sullivan, seconded by Clir M Collins the minutes of
 committee meeting held on the 7" September, 2020 were adopted.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 2: Matters Arising
@@ -78,7 +81,7 @@ There were no matters arising from the minutes of the previous meeting.
 Item 3: River Tourism Masterplan (Presentation)
 
 The members received a presentation from Mr Eanna Rowe, Regional Manager, Waterways
-Ireland on plans for tourism development along the River Shannon, The presentation
+Ireland on plans for tourism development along the River Shannon. The presentation
 outlined how the masterplan will be a key step in the evolution of the new Failte Ireland
 Strategy for ‘Irelands Hidden Heartlands’ which is one of the key regional tourism brands.
 The Masterplan includes Limerick and it is noted that the Council has a representative sitting
@@ -120,12 +123,14 @@ ambitions, which focus on:
 * Access — Strengthening Public Engagement
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 * Investment for the Future
 
-It was proposed by Cllr M Donegan, seconded by Clir O’ Sullivan and agreed that the Draft
+It was proposed by Cllr M Donegan, seconded by Cllr O’ Sullivan and agreed that the Draft
 Limerick City Gallery of Art Strategy go to the next Full Council for their consideration.
 
 G Daly informed that with the recommendation of the Community, Leisure and Culture SPC,
@@ -151,8 +156,8 @@ of the current 2015 Cemetery Bye-Laws”
 As Clir McSweeney was unable to attend the meeting it was agreed to defer this notice of
 motion to the next Community, Leisure and Culture SPC taking place on 1* February, 2021.
 
-Item 8: Notice of Motion submitted by Cllr Elisa O’ Donovan.
-“| will move at the next meeting that this Council put in place a working group to establish
+Item 8: Notice of Motion submitted by Cllr Elisa O’ Donovan. —
+“1 will move at the next meeting that this Council put in place a working group to establish
 Limerick as an Autism-friendly City”
 
 Cllr O’ Donovan briefed the members on the notice and potential benefits for Limerick to be
@@ -167,7 +172,9 @@ members the following wording was agreed
 Limerick as an Autism-friendly City & County”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 9: Notice of Motion submitted by Cllr Azad Talukder
@@ -196,10 +203,12 @@ Cilr O’ Hanlon thanked all speakers and acknowledged the hard work they had pu
 today’s presentations.
 
 As there were no other matters for discussion, the meeting was brought to a close.
-Minutes Proposed By: Chhe Conor Shee Len
-nnsessecontsste Cllr Wou's_<lenen,.
+Minutes Proposed By Chhe Conor Ghee Len
+sinsesceconteste Cle Wout. <lenen,.
 
-Minutes Signed By Chair: Veasgn OA cules. pate: lato;
+Minutes Signed By Chair: Yoasgn OA cules. pate: lato;
 
 
----
+
+[[PAGE_END:4]]
+

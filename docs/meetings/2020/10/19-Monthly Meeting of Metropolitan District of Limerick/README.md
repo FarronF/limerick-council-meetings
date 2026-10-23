@@ -28,19 +28,19 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th October 20
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-draft-minutes-monthly-meeting-21st-september-2020.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20September%202020.md)
 
-Disposal_ Exchange of Property Castletroy College - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02a-disposal-exchange-of-property-castletroy-college.pdf) - Text not extracted
+Disposal: Exchange of Property Castletroy College - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02a-disposal-exchange-of-property-castletroy-college.pdf) - Text not extracted
 
-Disposal_ 129 Cosgrave Park Moyross - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02b-disposal-129-cosgrave-park-moyross.pdf) - Text not extracted
+Disposal: 129 Cosgrave Park Moyross - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02b-disposal-129-cosgrave-park-moyross.pdf) - Text not extracted
 
-Disposal_ 130 Cosgrave Park Moyross - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02c-disposal-130-cosgrave-park-moyross.pdf) - Text not extracted
+Disposal: 130 Cosgrave Park Moyross - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02c-disposal-130-cosgrave-park-moyross.pdf) - Text not extracted
 
-Disposal_ 2_3 Mallow Street - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02d-disposal-2-3-mallow-street.pdf) - Text not extracted
+Disposal: 2/3 Mallow Street - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02d-disposal-2-3-mallow-street.pdf) - Text not extracted
 
-Disposal_ LPYMA Grounds Ennis Road - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02e-disposal-lpyma-grounds-ennis-road.pdf) - Text not extracted
+Disposal: LPYMA Grounds Ennis Road - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02e-disposal-lpyma-grounds-ennis-road.pdf) - Text not extracted
 
-Report_ Taking in Charge - Rathlinn Castleconnell - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-report-taking-in-charge-rathlinn-castleconnell.pdf) - Text not extracted
+Report: Taking in Charge - Rathlinn Castleconnell - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-report-taking-in-charge-rathlinn-castleconnell.pdf) - Text not extracted
 
-Report_ Draft Budgetary Plan 2021 GMA - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-report-draft-budgetary-plan-2021-gma.pdf) - Text not extracted
+Report: Draft Budgetary Plan 2021 GMA - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-report-draft-budgetary-plan-2021-gma.pdf) - Text not extracted
 
 Draft Parking Places Amendment Bye Laws 2020 Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/05i-draft-parking-places-amendment-bye-laws-2020-cover-lette.pdf) - Text not extracted
 

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28b%29%20Minutes%20of%20Annual%20Meeting%20Adare-Rathkeale%2028th%20June%202022.pdf)
+**Original file:** [Minutes - Annual Meeting of Municipal District of Adare-Rathkeale - 28th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28b%29%20Minutes%20of%20Annual%20Meeting%20Adare-Rathkeale%2028th%20June%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -84,7 +85,9 @@ On taking the Chair, Councillor Keary thanked his proposer and seconder and said
 was looking forward to working with all Members, Management and Staff over the next
 
 twelve months in his role as Cathaoirleach of the Adare-Rathkeale Municipal District.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -128,4 +131,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%2015th%20January%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%2015th%20January%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 15TH** **JANUARY, 2018**
@@ -90,7 +91,9 @@ Proposed by Councillor Hourigan;
 Seconded by Councillor Hurley;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -174,7 +177,9 @@ appreciation for this gracious gesture.
 I am not aware of any contracts between Limerick City and County Council and
 
 Aramark for food, property, or other goods or services.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.**
@@ -306,7 +311,9 @@ Merchants Quay.
 Launch of Science Foundation Ireland’s new SFI Research
 
 Centres in Dublin Castle.
----
+
+[[PAGE_END:3]]
+
 4
 
 11th September
@@ -440,7 +447,9 @@ This query refers to an issue raised by a resident of the LP1122 who lives on th
 Left Hand Side of road between the railway bridge and Ahane Church. There is an
 
 old masonry wall along this stretch of road that is maintained by the
----
+
+[[PAGE_END:4]]
+
 5
 
 residents and the wall is kept in good condition. The boundary ditch opposite this
@@ -522,7 +531,9 @@ Electoral Area Briefings.
 ***austerity cuts imposed on our health services to pay for the bank bailouts.***
 
 The motion was proposed by Councillor Prendiville and seconded by Councillor McCreesh.
----
+
+[[PAGE_END:5]]
+
 6
 
 In proposing the motion Councillor Prendiville highlighted the ongoing issues with overcrowding
@@ -608,7 +619,9 @@ prospective tenants which contain a section regarding minimum standards. In
 addition, a copy of the Department of Housing, Planning and Local Government
 
 “Guide to Minimum Standards in Rented Accommodation (Sept 2017)” is
----
+
+[[PAGE_END:6]]
+
 7
 
 included in the pack. A copy of this document can be found at the following link:
@@ -682,7 +695,9 @@ It was agreed to refer this Notice of Motion to the Local Electoral Area Briefin
 Councillor Hurley expressed disappointment with the decision to refer this item to the Local
 
 Electoral Area Briefings.
----
+
+[[PAGE_END:7]]
+
 8
 
 **17.**
@@ -766,7 +781,9 @@ vacant sites in the Metropolitan District.
 **Correspondence**
 
 Correspondence was noted.
----
+
+[[PAGE_END:8]]
+
 9
 
 This concluded the Meeting.
@@ -780,4 +797,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

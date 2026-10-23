@@ -16,29 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%202022%20JPC.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%202022%20JPC.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-- ——_é Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-P : Comhairle Cathvach agus Contae Luimnigh.
-= a~ & Contae Luimnigh hous Star. Fou.
-. : Une Nua,
-Limerick City Rath Caola,
-= & County Council Co. Luirnnigh.
-Adare-Ratnkeale Municipal District,
+a Comhairle Cathrach Ceantar Bardasgach Ath Dara-Rath Caola,
+‘ : Comhairle Cathvach agus Contae Luimnigh.
+mn o™ & Contae Luimnigh ires Sdar\ Flo
+. Une Nua,
+& County Council Co. Luirmnigh.
+Adare-Rathkeale Municipal District,
 Limerick City and County Council
 Aras Sean Finn,
-New Line.
+New Line,
 Rathkesle,
 Co. Limerick.
 rd EIRCODE V94 HKIV
-
 3 November, 2022.
 
 t: +353 (0) 69 64047
-f: +383 (0) 69 63188
+f: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
@@ -58,16 +57,17 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of the Meeting of the Joint Policing Sub-Committee of the Municipal
-District of Adare-Rathkeale held on 12" November, 2019.
+District of Adare-Rathkeale held on 12 November, 2019.
 
 (Copy Enclosed).
-2. Policing Issues
 To discuss policing issues in the District.
 customerservices@limerickie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 © wwwlimerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 © wwnwlimerickie
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

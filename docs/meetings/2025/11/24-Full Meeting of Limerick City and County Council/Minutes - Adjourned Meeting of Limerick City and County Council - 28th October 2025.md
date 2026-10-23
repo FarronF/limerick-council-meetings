@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-adjourned-meeting-of-limerick-city-and-county-council-28th-october-2025.pdf)
+**Original file:** [Minutes - Adjourned Meeting of Limerick City and County Council - 28th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-adjourned-meeting-of-limerick-city-and-county-council-28th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -86,7 +87,9 @@ confirmed his confidence in the Director General, Executive and staff of the org
 He noted that he does not have confidence in the current level of resources available to
 
 deliver the Mayoral programme, emphasising the need for more support.
----
+
+[[PAGE_END:1]]
+
 A discussion took place regarding the need to create a respectful environment for all within
 
 the Council, and the importance of working together to deliver for the people of Limerick. It
@@ -158,7 +161,9 @@ The Mayor stated that the Council Budget 2026 was currently running at a deficit
 highlighted the importance of working together to produce a balanced budget. He invited
 
 Members to submit their priorities for projects to be include in the Mayoral Fund 2026.
----
+
+[[PAGE_END:2]]
+
 The Mayor presented the objectives and associated budget costs for the pillars More
 
 Liveable Limerick, More Prosperous Limerick and More Healthy Limerick and outlined the
@@ -182,4 +187,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

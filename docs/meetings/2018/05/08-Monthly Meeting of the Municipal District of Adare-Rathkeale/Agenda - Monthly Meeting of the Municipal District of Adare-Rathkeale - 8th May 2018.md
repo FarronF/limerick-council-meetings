@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%208th%20May%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%208th%20May%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-<—
+<——
 
-=
+—_=
 Limerick
 
 CITY & COUNTY
@@ -65,7 +66,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-210. 3h
+10 5h
 
 Meetings Administrator.
 
@@ -85,16 +86,18 @@ Litter Control in Limerick City and County
 
 To receive a presentation on Litter Control in Limerick City and County.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathria Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-1
+|
 
-@ customerservices@limerickie
-W @limerickCouncil
+@ customerservices@limerick.ie
+VW @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -134,7 +137,9 @@ To note update on drainage issues at Courtmatrix.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -147,7 +152,7 @@ Pedestrian Controlled Crossing for Adare
 
 To note update on pedestrian controlled crossing for Adare.
 
-Flooding issues in Askeaton
+Flooding Issues in Askeaton
 
 To note update on proposals to address the flooding issues in Askeaton.
 
@@ -165,16 +170,20 @@ Service Operations Directorate — Planning and Environmental
 
 (Copy Enclosed)
 
-{Copy Enclosed)
-
 (Copy Enclosed)
 
 (Copy Enclosed)
 
+(Copy Enclosed)
 
----
+
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

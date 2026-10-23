@@ -24,13 +24,13 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Limerick City and County Council – 23rd January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_council_meeting_230117.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20%E2%80%93%2023rd%20January%202017.md)
+Agenda - Meeting of Limerick City and County Council – 23rd January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_council_meeting_230117.pdf) - Text not extracted
 
-Minutes - Meeting of Limerick City and County Council – 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_ordinary_meeting_281116.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20%E2%80%93%2028th%20November%202016.md)
+Minutes - Meeting of Limerick City and County Council – 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_ordinary_meeting_281116.pdf) - Text not extracted
 
-Minutes - Special Meeting of Limerick City and County Council – 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_special_meeting_281116.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20%E2%80%93%2028th%20November%202016.md)
+Minutes - Special Meeting of Limerick City and County Council – 28th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_special_meeting_281116.pdf) - Text not extracted
 
-Minutes - Special Meeting of Limerick City and County Council – 6th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_c_minutes_special_meeting_060117.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20%E2%80%93%206th%20January%202017.md)
+Minutes - Special Meeting of Limerick City and County Council – 6th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_c_minutes_special_meeting_060117.pdf) - Text not extracted
 
 Disposal of Land - Castleview, Ballybrown, Clarina - Meeting of Limerick City and County Council – 23rd January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_a_disposal_of_land_-_castleview2c_ballybrown2c_clarina.pdf) - Text not extracted
 

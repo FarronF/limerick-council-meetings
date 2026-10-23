@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda.pdf)
+**Original file:** [Agenda - Meeting to consider Draft Budgetary Plan 2019_ General Municipal Allocation for the Municipal District of Cappamore-Kilmallock - 18th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach
-
+_—_— Comhairle Cathrach
 & Contae Luimnigh
+—— & Late a
 Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
@@ -57,4 +58,6 @@ Kilmallock.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/minutes-of-cappamore-kilmallock-municipal-district-meeting-thursday-24th-march-2022.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 24th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/minutes-of-cappamore-kilmallock-municipal-district-meeting-thursday-24th-march-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF CAPPAMORE KILMALLOCK HELD ON THURSDAY 24TH** **MARCH**
@@ -68,7 +69,9 @@ Meeting held on the 17th February 2022
 **Proposed: Councillor Mitchell**
 
 **Seconded: Councillor Teefy and agreed**
----
+
+[[PAGE_END:1]]
+
 **3. DEPUTATION**
 
 It was proposed that the Deputation by the Gotoon /Ballingaddy Residents Group be
@@ -154,7 +157,9 @@ sites become derelict over a long period, which owners are aware of.
 Mr. Daly confirmed that the presentation would be circulated to all Members following the
 
 meeting.
----
+
+[[PAGE_END:2]]
+
 **9. Notice of Motion submitted by Councillor G. Mitchell**
 
 The Chairman in agreement with Members to take Item 9 (Notice of Motion Submitted by
@@ -226,7 +231,9 @@ Limerick City and County Council is required to maintain a statutory Register of
 Derelict Sites. Properties entered in it are levied an annual charge payable by the
 
 property owners. However, where properties continue to remain in a derelict state
----
+
+[[PAGE_END:3]]
+
 and all reasonable alternatives have been exhausted with the owners, the option to
 
 acquire the property compulsorily through statutory powers will be considered.
@@ -306,7 +313,9 @@ is approximately up to 6 months (though may be extended by the Board).
 Where no objection is received to the Notice of intention to Acquire Compulsorily, an
 
 objection is withdrawn, or consent is granted by the Board following objection, the
----
+
+[[PAGE_END:4]]
+
 property may be vested in the Council by Order and Notice under Section 17/18 of the
 
 Act. The Vesting Order has the effect of making the site "free from encumbrance and
@@ -370,7 +379,9 @@ The Members thanked Mr. O’Boyle and Mr. Culloo for the presentation
 **Seconded: Councillor Mitchell and agreed.**
 
 (Image omitted)
----
+
+[[PAGE_END:5]]
+
 **6. SCHEDULE OF MUNICIPAL DISTRICT WORKS**
 
 The Senior Executive Engineer briefed the Members on the schedule of works and gave a
@@ -440,7 +451,9 @@ Grageen Bog is also one of four Natural Heritage Area’s (NHA) in Limerick desi
 bog/peat habitats, but is additionally important because of the presence of the Fen, fed by
 
 local ground water. The peat habitats would be vulnerable to any form of construction. The
----
+
+[[PAGE_END:6]]
+
 area is acknowledged as being botanically diverse and is important from a regional level. It
 
 would be important to ensure that open undisturbed uplands are kept that way to address
@@ -498,7 +511,9 @@ Recreational pursuits for further discussion.
 **Proposed: Councillor - M.Ryan**
 
 **Seconded: Councillor - E. Ryan and agreed**
----
+
+[[PAGE_END:7]]
+
 **8. Notice of Motion submitted by Councillor PJ Carey**
 
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District that an update
@@ -576,7 +591,9 @@ element of the project to detailed design stage.
  Carry out archaeological investigations within the remainder of the building and within
 
 the adjoining plot to the south.
----
+
+[[PAGE_END:8]]
+
  Work with the State partners to prepare for resubmission of the application under the
 
 Fáilte Ireland Large Capital Grant Scheme.
@@ -626,7 +643,9 @@ acquisition required and the scheme will require the normal planning approvals�
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor M. Ryan and Agreed**
----
+
+[[PAGE_END:9]]
+
 **11. Question submitted by Councillor G. Mitchell**
 
 I will ask at the next meeting of the Cappamore Kilmallock Municipal District that
@@ -684,7 +703,9 @@ Councillor M. Donegan proposed a vote of sympathy be extended to
  The family of Detective Garda Ben O’Sullivan, who passed away on the 25th
 
 February 2022.
----
+
+[[PAGE_END:10]]
+
 **Expression of Congratulation**
 
 The Chair, Councillor Donegan wished to acknowledge and congratulate Ms. Betty
@@ -728,4 +749,6 @@ the media.
 **be held on Thursday 21st** **April 2022 at 3pm in Dooradoyle Council Chambers as a**
 
 **blended/online meeting.**
----
+
+[[PAGE_END:11]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-draft-minutes-of-monthly-meeting-10th-june-2025-2_0.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-draft-minutes-of-monthly-meeting-10th-june-2025-2_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ during his seven year role as Executive Engineer in the District and queried if 
 Engineer for the District had been appointed. All Members expressed their well wishes
 
 to Mr. O’Keeffe and agreed with Councillor Teskeys sentiments.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Senior Executive Engineer, Roads, Traffic and Cleansing commended Mr. O’Keeffe for
@@ -160,7 +163,9 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 10th June, 2025 outlining details of proposed works, projects and future projects planned
 
 for the District.
----
+
+[[PAGE_END:2]]
+
 3
 
 The report, as circulated, was noted by Members.
@@ -226,7 +231,9 @@ allocate €1,000 to Askeaton Ballysteen Active Retirement Group.
 **ownership for a period of 12 months or more in the Adare-Rathkeale District,**
 
 **residential or commercial.**
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY:**
@@ -342,7 +349,9 @@ reports pending)
 **Resolutions**
 
 **Reports pending**
----
+
+[[PAGE_END:4]]
+
 5
 
 02/11/2020
@@ -442,7 +451,9 @@ form part of this Agenda item.
 The “energy policy relating to noise” presentation will be presented to the
 
 September meeting of the Municipal District of Adare-Rathkeale.
----
+
+[[PAGE_END:5]]
+
 6
 
 **10.**
@@ -524,7 +535,9 @@ agreed to revert to Members when a date is agreed.
  Councillor Collins requested a Private Briefing to receive an update on the
 
 Deerpark site in Adare.
----
+
+[[PAGE_END:6]]
+
 7
 
  Councillor O’Donoghue asked for the Districts support at the upcoming briefing in
@@ -562,4 +575,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

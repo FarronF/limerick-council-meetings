@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%202020%20-%2018th%20October%202019.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Metropolitan District of Limerick - 18th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%202020%20-%2018th%20October%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+Te Comhairle Cathrach
 & Contae Luimnigh
-nN r™ ineikcy
-- — imerick City
+nN r™ imneikcy
+= — imerick City
 & County Council
 
 10" October, 2019
 
-Serbhisi C lay yreerany
+Serbhisi € saaloyyreerany
 
-Comhairle Cathrach agus Contae Lu’
-Ceanncheathri ocmdet
+Comnairle Cathwach agus Contae Lu’
+Ceanncheathri Gonna
 
-Cé na gCearnnaithe.
+Cé na gCeannaithe.
 
-Lurieach
+Lu@rieach
 
 Corporate Services,
 
@@ -44,11 +45,11 @@ Limerick City and Caunty Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 61 557150
+: +353 (0) 61 557150
 f; +353 (0) 61415 266
 
 A Chomhairleoir, a chara,
@@ -68,9 +69,11 @@ AGENDA
 
 (Report attached).
 @ Customerservices@limerick.ie
-© wewwalimerick.e
+© vewwalimerick.ie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

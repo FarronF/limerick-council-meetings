@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%28b%29%20Minutes%20Annual%20Meeting%2023rd%20June%202017.pdf)
+**Original file:** [Minutes - Annual Meeting of the Metropolitan District of Limerick - 23rd June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%28b%29%20Minutes%20Annual%20Meeting%2023rd%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON** **FRIDAY, 23RD** **JUNE, 2017,**
@@ -96,7 +97,9 @@ The outgoing Mayor, Councillor Hourigan opened the Meeting by giving the followi
 *Lastly, I want to thank my fellow Councillors for their support during the year. I also want to*
 
 *thank my Deputy Mayor, Daniel Butler.*
----
+
+[[PAGE_END:1]]
+
 2
 
 *I would like to thank Kieran Lehane, Chr**isty O’Connor, Freda Ryan and Siobhan and all the staff*
@@ -174,7 +177,9 @@ one or more than one Member could be proposed and seconded.
 
 
 where there was only one candidate that candidate would be elected.
----
+
+[[PAGE_END:2]]
+
 3
 
 
@@ -266,7 +271,9 @@ On taking the Chair, the incoming Mayor, Councillor Lynch gave the following add
 *Keeping it on the sporting field, in my years working here with An Garda Síochána, I have never*
 
 *seen Limerick in better shape. Better prepared.*
----
+
+[[PAGE_END:3]]
+
 4
 
 *This is now, for sure, a championship city. A top tier city. A city that now - thanks to four years of*
@@ -348,7 +355,9 @@ On taking the Chair, the incoming Mayor, Councillor Lynch gave the following add
 *left our city and gone on to greater things. We need to tap them on the shoulder and look for*
 
 *their support.*
----
+
+[[PAGE_END:4]]
+
 5
 
 *Another fervent wish for the year ahead is that that we really put our shoulder to the wheel in*
@@ -428,7 +437,9 @@ Seconded by Councillor McCreesh.
 “That Councillor John Costelloe be appointed Deputy Mayor of the Metropolitan District of
 
 Limerick to hold office until the next Annual Meeting or until a successor is appointed”.
----
+
+[[PAGE_END:5]]
+
 6
 
 Proposed by Councillor Prendiville;
@@ -504,4 +515,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

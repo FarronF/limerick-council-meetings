@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2024th%20October%202022.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 24th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2024th%20October%202022.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -99,7 +100,9 @@ Metropolitan District of Limerick.
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **2.Minutes**
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on
@@ -165,7 +168,9 @@ dividers to a divider that will leave cars pull in to let an ambulance pass. I h
 paramedics about this matter. Lives are being saved in the back of an ambulance and every second
 
 counts.
----
+
+[[PAGE_END:2]]
+
 3
 
 **7.Question submitted by Councillor C. Slattery**
@@ -219,7 +224,9 @@ HAP inspections were carried out in 2022 and what the outcome of these inspectio
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on when the
 
 planning application for housing at Donnellan's Field in Thomondgate will be submitted.
----
+
+[[PAGE_END:3]]
+
 4
 
 **14.Question submitted by Councillor E. O’Donovan**
@@ -271,7 +278,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 the Metropolitan District do not have a central heating system and what plans will now be put in
 
 place to rectify this situation.
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICES OF MOTION**
@@ -327,7 +336,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 providing additional safety measures for Caherdavin Boys School and Caherdavin Girls School, as
 
 part of the safe routes to school programme.
----
+
+[[PAGE_END:5]]
+
 6
 
 **26.Notice of Motion submitted by Councillor S. Benson (to be referred to the Community, Leisure**
@@ -387,7 +398,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 recycling public bins within the city is recycled and an education campaign is run to inform people
 
 of appropriate precyclable waste.
----
+
+[[PAGE_END:6]]
+
 7
 
 **31.Notice of Motion submitted by Councillor T. Collopy**
@@ -405,4 +418,6 @@ I will move at the next Meeting of the Metropolitan District of Limerick that we
 for Transport and Irish Rail and impress upon them the need to allow leap cards to be used across
 
 the rail network especially the Limerick routes to Dublin and Cork which should be a priority.
----
+
+[[PAGE_END:7]]
+

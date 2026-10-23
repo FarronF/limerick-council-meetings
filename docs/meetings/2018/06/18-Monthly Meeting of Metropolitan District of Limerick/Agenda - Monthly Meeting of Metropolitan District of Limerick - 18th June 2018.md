@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2018th%20June%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 18th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2018th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach
 Comhairle Cathrach agus Contae Luimnigh,
-a & Contae Luimnigh Ceanncheathri Chorpardideach,
-ArN ——— Cé na gCeannaithe,
+a & Contae Luimnigh Ceanncheathni Chorpardideach,
+ArN — Cé na gCeannaithe,
 — Limerick City Luimneach
 
 & County Council
@@ -34,10 +35,10 @@ ArN ——— Cé na gCeannaithe,
 Corporate Services,
 Limerick City and County Council,
 Corporate Headquarters,
-13" June, 2018. iiahaad shod
+13" June, 2018. iiahaad beers
 Limerick
 EIRCODE V94 EH90
-To: The Mayor an h Member of the Metropolitan District of Limerick t: 4353 (0) 61 57150
+To: The Mayor an hh Member of the Metropolitan District of Limerick t: 4353 (0) 61 57150
 
 f: +353 (0) 61 415 265
 
@@ -45,7 +46,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant's Quay, Limerick on Monday, 18 June, 2018 at 9.45 a.m. The business
+Council Chamber, Merchant’s Quay, Limerick on Monday, 18 June, 2018 at 9.45 a.m. The business
 to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -78,10 +79,12 @@ Raheen Men’s Shed Limited.
 © customerservices@limerick.ie
 & vewrvatimerickie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -96,7 +99,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 Physical Development Directorate
 
-Consideration and Adoption of the Draft Metropolitan District_of_ Limerick (Parking
+Consideration and Adoption of the Draft Metropolitan District_of Limerick (Parking
 Places)(Amendment) Bye-Laws 2018
 
 To consider and adopt the Metropolitan District of Limerick (Parking Places)(Amendment)
@@ -124,7 +127,7 @@ Castleconnell, County Limerick
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
 Development Act, 2000 (as amended) and Part 8 of the Planning and Development
-Regulations, 2001 (as amended) in relation to Housing Development at St Patrick’s Villas,
+Regulations, 2001 (as amended) in relation to Housing Development at St Patrick's Villas,
 Stradbally North, Castleconnell, County Limerick.
 
 (Report Enclosed).
@@ -141,7 +144,9 @@ Sexton Street North (2 units) and Quarry Road (3 units), Limerick.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -172,7 +177,7 @@ Question submitted by Cmhir. S. 6 Ceallaigh
 | will ask at the next meeting for an update on plans to create a safe walkway for access to
 Gaelscoil Chaladh an Treoigh, and when it is envisaged to have a safe access route in place.
 
-Question submitted by Cmhir. S. 6 Ceallaigh
+Question submitted by Cmhlir. S. O Ceallaigh
 
 | will ask at the next meeting for an update on plans to significantly improve the junction of
 the N24 and R513, more commonly known as Beary’s Cross, and when it is envisaged such
@@ -195,7 +200,9 @@ sites currently listed in the vacant sites register and to supply a copy of the 
 to Members for consideration.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -214,14 +221,14 @@ to Members for consideration.
 
 NOTICES OF MOTION
 
-Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
+Notice of Motion submitted by Cmhlr. S. 6 Ceallaigh
 
 | will move at the next meeting that Comhairle Cathrach agus Contae Luimnigh will hold a
 meaningful workshop with all Councillors of the Metropolitan District regarding the
 proposed plans to upgrade O'Connell Street, and that the views expressed by local
 representatives will be respected and adhered to.
 
-Notice of Motion submitted by Cmhir. S. 6 Ceallaigh (to be referr h nomi
+Notice of Motion submitted by Cmhir. S. O Ceallaigh (to be referr h nomi
 
 Development, Enterprise and Planning Strategic Policy Committee)
 
@@ -261,4 +268,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/Agenda%20-%20Special%20Meeting%20of%20Council%20-%2020th%20March%202019.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 20th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/Agenda%20-%20Special%20Meeting%20of%20Council%20-%2020th%20March%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach
+__—_ Comhairle Cathrach
 & Contae Luimnigh
 aArN —————
 — Limerick City
 & County Council
 
-19" March, 2019.
+19° March, 2019.
 
 Seirbhisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathni Chorpardideach.
+Ceanncheathni Chorpardideach,
 
 Cé na gCeannaithe,
 
@@ -62,20 +63,23 @@ Limerick, on Wednesday, 20 March, 2019 at 10.30 a.m. in order to pass a Vote of 
 on the death of former Mayor of Limerick, Dick Sadlier, RIP.
 
 Is mise le meas,
-Cn CO,
-Ja Clune,
 
+an Ch
+
+Ja Clune,
 Meetings Administrator.
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-@ customerservicesa@limerick.ie
-© wwelimerickie
+@ customerservicesalimerick.ie
+© wwwelimerickie
 
 wv @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-ordinary-meeting-of-limerick-city-and-county-council-24th-november-2025.pdf)
+**Original file:** [Agenda - Ordinary Meeting of Limerick City and County Council - 24th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-ordinary-meeting-of-limerick-city-and-county-council-24th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach Setrtiisi Corparéideacha, Rialachais & Custairnéara
-& Contae Contae Luimnigh Conmmaie Cathrach a Luimnigh
+& Contae  Contae Luimnigh Conbabie Cathrach cheer Luimnigh
 
 Cé na gCeannaithe
 
-—=>> Limerick City Luimneach, V94 EH90
+—=—> Limerick City Luimneach. V94 EH90
 
 & County Council
-Corporate, Governance & Customer Services
+Corporate, Govemance & Customer Services
 
 Limerick City and County Council
 Corporate Headquarters
 Merchant's Quay
 
-Limerick. V94 EHS0
+Limerick. V34 EHSO
 
-© +353 (0) 61 $57 150
+& +353 (0) 61 $57 150
 
 14" November, 2025.
 
@@ -67,7 +68,7 @@ To adopt Minutes of the following Meetings:
 (b) Ordinary Meeting of the Council held on 22™ September, 2025.
 
 (c) Adjourned Special Meeting of the Council held on 28" October, 2025.
-(d) Adjourned Special Meeting of the Council held on 6"" November, 2025.
+(d) Adjourned Special Meeting of the Council held on 6'" November, 2025.
 (e) Special Meeting of the Council held on 13 November, 2025.
 
 2. Declaration of Interest
@@ -75,11 +76,13 @@ Dis posal of Land
 To consider proposal for the disposal of land, in accordance with the provisions of
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
 Planning and Development Act, 2000 (as amended), at
-= me
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach wee timerickie
+= ee =
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach wees timerickie
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rural, Community, Culture and Tourism Development Directorate
@@ -87,31 +90,46 @@ Rural, Community, Culture and Tourism Development Directorate
 General Disposals
 
 (a) Disposal of Freehold Interest in Property at 10 Mayorstone Drive, Limerick.
+
 (b) Disposal of 37 Churchfield, O’ Malley Park, Limerick. (House Exchange)
+
 (c) Disposal of Property at Glin Library (Annex), Glin, Co Limerick by way of Lease.
+
 (d) Disposal of 0.0121 Acres (0.0049 Hectares) of Land at 9 St. Joseph Street, Limerick.
+
 (e) Disposal of 1.6917 Acres (0.6846 Hectares) of Land at Ballyorgan, Co. Limerick.
-{f} Disposal of Area “A”- 0.022 Acres {0.009 Hectares) and Area “B” — 0.013 Acres
+
+{f} Disposal of Area “A”- 0.022 Acres {0.009 Hectares) and Area “8B” — 0.013 Acres
 (0.0052 Hectares) of Land at Childers Road, Limerick to CIE.
+
 (g) Disposal of 0.0069 Acres {0.0028 Hectares) of Land at Churchtown, Newcastle
 West, Co. Limerick.
+
 (h) Disposal of 0.0049 Acres (0.002 Hectares) of Land at Lisnagry Football Club,
 Scanlon Park, Castieconnell, Limerick.
-(i) Disposal of 0.0019 Acres (7.8m?) of Land at Main Street, Adare, Co. Limerick.
+
+{i} Disposal of 0.0019 Acres (7.8m?) of Land at Main Street, Adare, Co. Limerick.
+
 )} Disposal of 7.113 Acres (2.879 Hectares) of Land at Pallaskenry (Dromore United
 FC), Co. Limerick by way of Lease.
-{k) Disposal of 0.0094 Acres (0.0038 Hectares) of Land at the Rear of 19 Clare Street,
+
+(k) Disposal of 0.0094 Acres (0.0038 Hectares) of Land at the Rear of 19 Clare Street,
+
 Derelict Disposals
-(\) Disposal of Property at 13 The Hawthorns, Ballyagran, Co. Limerick.
-({m) Disposal of Property at 3 Creagh Lane, Limerick.
-(nm) Disposal of Property at 4 Creagh Lane, Limerick.
+
+()) Disposal of Property at 13 The Hawthorns, Ballyagran, Co. Limerick.
+
+(m) Disposal of Property at 3 Creagh Lane, Limerick.
+
+(n) Disposal of Property at 4 Creagh Lane, Limerick.
+
 (Statutory Notices dated 15" August, 21° and 24"
 October and 7 November 2025, already circulated)
+
 Corporate Services, Human Resources and Organisational Development
 
 (a) Executive Report
 To consider Executive Report for the months of September and October.
-
 (Reports Enclosed)
 
 (b) Corporate Plan
@@ -120,12 +138,14 @@ To consider the Corporate Plan.
 (Report To Follow)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(c)
+(ce)
 
-(9)
+(3)
 
 (e)
 
@@ -134,13 +154,13 @@ Foreign Travel
 To consider retrospective approval of foreign travel, in accordance with
 Section 142 (5) of the Local Government Act, 2001, as amended, in respect of
 attendance of Councillor Michael Collins at the 12" European Greenway
-Awards 2025 in Bilbao, Spain, 8 — 10* October, 2025.
+Awards 2025 in Bilbao, Spain, 8" — 10* October, 2025.
 
 (Report Enclosed)
 
 Twinning
 To consider reports as follows:
-@) Murroe Boher (Evry-Greay sur Yerres, France) Twinning Project
+® Murroe Boher (Evry-Greay sur Yerres, France) Twinning Project
 
 To consider application for financial assistance from Murroe Boher Twinning
 Association, in accordance with the provisions of Section 66 of the Local
@@ -175,11 +195,13 @@ Strategic Policy Committee held on 9"" October, 2025.
 (Chairperson’s Report Enclosed)
 Recommendation 1
 
-On the proposal of Clir. Sharon Benson seconded by Cllr. Elisa O’ Donovan it
+On the proposal of Cllr. Sharon Benson seconded by Cllr. Elisa O’ Donovan it
 was agreed that the Council write to the Department of Housing, Local
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Government and Heritage regarding Second Hand Acquisitions and ask that a
@@ -199,8 +221,8 @@ Enterprise, Tourism and Planning Strategic Policy Committee held on
 13" October, 2025.
 {Chairperson’s Report Enclosed)
 
-(iv)  Chairperson’s Report — Meeting of the Community, Leisure, Arts,
-Heritage and Culture Strategic Policy Committee held on 15 October,
+(iv) Chairperson’s Report — Meeting of the Community, Leisure, Arts,
+Heritage and Culture Strategic Policy Committee held on 15" October,
 
 2025.
 (Chairperson’s Report Enclosed)
@@ -226,10 +248,10 @@ Community Liaison Committee.
 (Report Enclosed)
 
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Te.
+[[PAGE_END:4]]
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Strategic Fund for the Culture and Arts allocation recommendation
 
@@ -238,9 +260,8 @@ to successful applicants of the Strategic Fund for Culture and Arts.
 
 (Report Enclosed)
 
-Conferences
+6. Conferences
 (a) Participation by Members at Conferences
-
 To consider participation by Members at the following Conferences:
 
 (i) “Saving the Irish Salmon Annual Conference” held in Athlone, Co
@@ -257,21 +278,23 @@ Meeting / Event.
 
 MAYOR'S QUESTIONS
 
-Question submitted by Councillor C. Slattery
+Va, Question submitted by Councillor C. Slattery
 
 To ask the Mayor what steps has or is he taking to revitalise the City Centre of
 Limerick with the exception of the Opera Site. Has he provided any incentives or
 initiatives to bring small businesses into the City Centre for trading.
 
-Question submitted by Councillor E. O’Donovan
+8. Question submitted by Councillor E. O’Donovan
 
-| will ask the Mayor at the next Meeting of the Full Council for an update on the
+t will ask the Mayor at the next Meeting of the Full Council for an update on the
 South Circular Road Active Travel Scheme and the considerations given to residential
 parking solutions in accordance with traffic management plans as was passed by
 Members.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -293,7 +316,7 @@ number set up specific to extreme weather conditions; (c) have we engaged with
 Uisce Eireann, the IFA, ESB; and (d) has the ESB been encouraged to cut back all trees
 from overhead power lines.
 
-Question submitted by Councillor S. Hickey-O’Mara
+Question submitted by Councillor S. Hickey-O’"Mara
 
 | will ask at the next Meeting of Limerick City and County Council for the results of
 the sustainability audit carried out on Riverfest 2025 to be immediately shared with
@@ -319,13 +342,15 @@ for Limerick.
 
 Question submitted by Councillor D. McSweeney
 
-1 will ask at the next meeting of Limerick City and County Council for an update on
+| will ask at the next meeting of Limerick City and County Council for an update on
 the rollout of insurance cover for Local Authority backed Tidy Towns Groups which
 was announced earlier this year by IPB and in particular guidance for Tidy Towns
 groups to ensure they are covered under this scheme.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -346,7 +371,7 @@ Notice of Motion submitted by Councillor J. O'Donoghue
 write to the Minister for Agriculture to substantially improve approval times in relation
 to the Targeted Agricultural Modernisation Scheme (TAMS) grant applications.
 
-Notice submitted Counc’
+Notice submitted Counc
 
 I will move at the next Meeting of Limerick City and County Council that a discussion
 takes place on storm preparations and emergency response planning.
@@ -360,14 +385,14 @@ Eireann engineer on call or water supervisor.
 
 Sia
 
-mney S O é AL ree s ul J fPOUNC! O J 5? VE SSE ) as
+a s 0 Py Al ae is . +2 fOUNC! O J 3? VE SS el ) as
 the Home and Social Development Strategic Policy Committee)
 
 | will move at the next Meeting of Limerick City and County Council that this Council
 commence an immediate review of the Housing Mixed Tenure Policy to feed into an
 updated Housing Strategy and Housing Need and Demand Assessment.
 
-MOTICe OF MIOTION SUL OUNCIHOF =
+MOTtTICe OF MIOTION SUH BDUNCIHOF s
 
 to the Travel and Transportation Strategic Policy Committee)
 
@@ -377,16 +402,19 @@ other toxic herbicides in a community that they:
 
 (i) Inform the community in advance via a letter drop indicating the precise
 location that it will be used in.
-(ii) Erect warning signs or notices at the precise location before and after the use
 
+(ii) Erect warning signs or notices at the precise location before and after the use
 of glyphosate or other toxic herbicides.
+
 (iii) Use any viable alternative to glyphosate or other toxic herbicides in their work,
 
 (iv) Agree to end the use of glyphosate and other toxic herbicides in our
 communities by a fixed date.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -396,7 +424,7 @@ Notice of Motion submitted by Councillor B. Collins (to be referred to the
 Economic Development, Enterprise, Tourism and Planning Strategic Policy
 Committee)
 
-| will move at the next Meeting of Limerick City and County Council immediately starts
+I will move at the next Meeting of Limerick City and County Council immediately starts
 the process to make a material alteration to Limerick's County Development Plan to
 reflect the High Court Decision that over-ruled both a local authority and An Coimisiin
 Pleanala decision and ruled that permission for a one off rural house should be
@@ -432,4 +460,6 @@ granted a posthumous presidential pardon.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

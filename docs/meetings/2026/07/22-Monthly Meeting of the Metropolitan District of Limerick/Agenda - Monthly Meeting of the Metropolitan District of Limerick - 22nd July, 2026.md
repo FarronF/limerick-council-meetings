@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-monthly-meeting-of-the-metropolitan-district-of-limerick-22nd-july-2026.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 22nd July, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-monthly-meeting-of-the-metropolitan-district-of-limerick-22nd-july-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 — Comhairle Cathrach Seirbhisi Corpardideacha, Rialachais & Custaiméara
 imni Comhairle Cathrach & Contae Luimnigh
-_—_ & Contae Luimnigh ——: sere
-“ — Limerick Ci Cé na gCeannaithe
-= ‘ Luimneach V94 EH90
+= & Contae Luimnigh =: sereigh
+“ — > Limerick Ci Cé na gCeannaithe
+4 ; Luimneach V94 EH90
 
 & County Council
 
@@ -35,7 +36,7 @@ Corporate Headquarters
 
 Merchant's Quay
 
-Limerick V94 EH90
+Lirnerick V94 EH90
 
 © +353 (0) 61 557 150
 
@@ -51,7 +52,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-hn thee
+te thee
 
 Meetings Administrator.
 
@@ -59,15 +60,17 @@ Meetings Administrator.
 To adopt Minutes of the following Meetings:
 (a) Monthly Meeting of the Metropolitan District of Limerick held on 15" June 2026.
 
-(b) Annual Meeting of the Metropolitan District of Limerick held on 22” June 2026.
+(b) Annual Meeting of the Metropolitan District of Limerick held on 22 June 2026.
 (c) Special Meeting of the Metropolitan District of Limerick held on 10" July 2026.
 
 (Copies Enclosed).
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach = @ wrerulinerickie
-Corporate Headquarters, Merchant's Quay, Limerick Y @LimerickCouncil
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach = @ weorulioerickie
+Corporate Headquarters, Merchant's Quay, Limerick YW e@LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -81,7 +84,7 @@ Limerick to GRS Ventures Ltd.
 Ballinacurra Weston, Limerick to Céras lompair Eireann.
 
 (c) Proposed Disposal of 2 Portions of Land at the Railway Crossing, Childers Road to
-Céras lompair Eireann,
+Céras lompair Eireann.
 
 Derelict Disposal
 
@@ -89,7 +92,7 @@ Derelict Disposal
 
 (Reports Enclosed).
 
-4. Community Initiative Scheme 2026 — General Municipal Allocation (GMA)
+4. Community Initiative Scheme 2026 - General Municipal Allocation (GMA)
 
 To consider approval of allocations under the Community Initiative Scheme 2026 — General
 Municipal Allocations (GMA).
@@ -110,7 +113,9 @@ Pursuant to Section 179 of the Planning and Development Act 2000 (as amended) an
 of the Planning and Development Regulations 2001 (as amended) consider the proposal for
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the development of 6 no. dwellings and associated site works at Knock Hill, Ferndale,
@@ -153,7 +158,9 @@ bus stops, such as on Childers Road across from Claughaun GAA Club and on the Ba
 Road at the stop on the Woodlawn Park side.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. Question submitted by Councillor Gavan
@@ -180,7 +187,7 @@ implementation of BusConnects in Limerick?
 Can the Council also confirm whether the planned BusConnects network for Limerick will be
 supported by a "Tap and Go" payment system and the integrated 90-minute fare structure
 currently available in other urban areas, to ensure the smooth and efficient operation of the
-enhanced bus services when BusConnects is introduced in Limerick.
+enhanced bus services when BusConnects Is introduced in Limerick.
 
 14. Question submitted by Councillor Reale
 
@@ -197,7 +204,9 @@ of the previous two years (2024 and 2025), and how many of these inspections ide
 breaches of the Housing (Standards for Rented Houses) Regulations 2019.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16. Question submitted by Councillor Hickey O’Mara
@@ -206,7 +215,7 @@ breaches of the Housing (Standards for Rented Houses) Regulations 2019.
 have been installed in each Metropolitan Electoral Area to date in addition to the specific
 areas where they have been installed.
 
-17. Question submitted by Councillor Hickey O’ Mara
+17. Question submitted by Councillor Hickey O’Mara
 
 | will ask at the next meeting of the Metropolitan District of Limerick what public consultation
 was Carried out in advance of the installation of the Caherdavin Dog Park and what plans the
@@ -236,7 +245,9 @@ in arranging a commemorative plaque is set out clearly and publicised on Limeric
 the public's desire to formally mark placed of social and historical interest.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 22. Question submitted by Councillor O’Donovan
@@ -280,7 +291,9 @@ to prohibit the use of e-scooters on public roads, footpaths and/or open green a
 Metropolitan District.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 28. Notice of Motion submitted by Councillor Reale
@@ -323,11 +336,13 @@ Limerick Lawn Tennis Club.
 | will move at the next meeting of the Metropolitan District of Limerick that relevant Council
 personnel engage with residents living on the Old Cratloe Road, Pass Road and Willow Grove
 and support them in their request that, as part of current roadworks on the Old Cratloe Road,
-2 pump station be installed and that all 41 properties in the aforementioned areas are
+@ pump station be installed and that all 41 properties in the aforementioned areas are
 connected to this station and, through this action, to a public waste system.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 33. Notice of Motion submitted by Councillor Donoghue
@@ -357,4 +372,6 @@ appropriate Municipal District or Metropolitan Members before a final decision i
 36. Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

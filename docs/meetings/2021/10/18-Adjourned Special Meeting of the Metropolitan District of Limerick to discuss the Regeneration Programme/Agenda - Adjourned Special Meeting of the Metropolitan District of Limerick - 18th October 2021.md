@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-adjourned-special-meeting-of-the-metropolitan-district-18th-october-2021.pdf)
+**Original file:** [Agenda - Adjourned Special Meeting of the Metropolitan District of Limerick - 18th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-adjourned-special-meeting-of-the-metropolitan-district-18th-october-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-os — Limerick C
+oo — Limerick C
 = merick City
 & County Council
 
-_——_— Comhairle Cathrach
-—_ & Contae Luimnigh
+__—_—_ Comhairle Cathrach
+i & Contae Luimnigh
 
 13" October, 2021.
 
-Serbhisi Corparaideacha,
+Setrbhisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathni Chorparaideach,
@@ -45,7 +46,7 @@ Limerick City and County Council
 Corporate Headquarters,
 Merchants Quay,
 
-Limerick
+Umerick
 
 EIRCODE V94 EH90
 
@@ -70,12 +71,14 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Report to Follow).
 
-= customerservices@limerick.ie
-© wevews limerickie
+m customerservices@limerick.ie
+© wevewelimerickie
 
-w @LimerickCouncil
+W @LimerickCouncil
 
 ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

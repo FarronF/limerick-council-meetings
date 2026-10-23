@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_15_december_2014_0.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_15_december_2014_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_——_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_——_—_—" Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NPN F . Cé na gCeannaithe,
+NON F . Cé na gCeannaithe,
 
-—=—_—> ‘ Luimneach
+—=—_—> : Luimneach
 
 Limerick Corporate Services and Change Management.
 Li
@@ -35,10 +36,10 @@ CITY & COUNTY imerick City and County Council,
 
 Merchant A
 
-COUNCIL wage
+COUNCIL sag een
 
-t: +353 (0) 61 407 100
-f: +353 (0) 61 415 266
+t: +4353 (0) 61 407 100
+f; +353 (0) 61 415 266
 
 10" December, 2014.
 
@@ -79,7 +80,9 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -94,7 +97,7 @@ the Planning and Development Acts, 2000 - 2014, and Part 8 of the Planning and
 Development Regulations, 2001 - 2013, in relation to Rhebogue Neighbourhood
 Greenway, Limerick.
 
-. HH] n, Castletroy and Newtown |
+: HT] n, Castletroy and Newtown |
 
 Improvements
 
@@ -132,7 +135,9 @@ the slipway at Howley's Quay, to make them more visible at night and provide mor
 safety for any person in their vicinity.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -157,10 +162,8 @@ can allow people to sleep overnight in their reception area.
 Notice of Motion submitted by Councillor Paul Keller
 
 | will move at the next meeting of the Metropolitan District of Limerick that we
-
 register our support for the recent secondary school teachers' strike and write to the
 Minister for Education calling on her to scrap plans to introduce school-based
-
 assessment that would put enormous strains on the relations between teachers,
 
 pupils and parents.
@@ -175,4 +178,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

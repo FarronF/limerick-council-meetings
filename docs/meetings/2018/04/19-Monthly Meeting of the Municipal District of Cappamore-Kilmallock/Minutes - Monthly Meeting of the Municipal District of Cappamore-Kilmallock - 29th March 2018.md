@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20290318.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 29th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20290318.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -84,7 +85,9 @@ subject to the amendment outlined above.”
 With the permission of the Cathaoirleach, it was agreed that Item No. 3 would be
 
 taken at this point.
----
+
+[[PAGE_END:1]]
+
 2
 
 NOTICE OF MOTION
@@ -164,7 +167,9 @@ update on the CLÁR Programme and welcomed the proposed funding for 2018. Howeve
 there was agreement amongst the Members that the criteria for selecting DED areas under
 
 this Programme needed to be reviewed as simply basing it on population decline was not a
----
+
+[[PAGE_END:2]]
+
 3
 
 fair yardstick or measure, and that additional criteria should also be considered when
@@ -232,7 +237,9 @@ obligations and requirements in dealing with same at their Municipal District Me
 They agreed that clarification should be sought as to what options were open and available
 
 to the Members when dealing with a Part 8 application.
----
+
+[[PAGE_END:3]]
+
 4
 
  **Historic Towns Initiative 2018**
@@ -296,4 +303,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2015th%20April%202015.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 15th April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2015th%20April%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -86,7 +87,9 @@ death of her husband, Michael Ryan, former Member of Limerick City Council.
 the death of her husband, Dan Murphy, one of the founders of West Limerick
 
 Resources.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Deputy Chief Executive, on his own behalf and that of the staff, associated
@@ -164,7 +167,9 @@ And Resolved:
 Boston, Massachusetts, in accordance with Section 142(5)of the Local Government
 
 Act, 2001.”
----
+
+[[PAGE_END:2]]
+
 3
 
 **1.**
@@ -226,7 +231,9 @@ Health Organisation (WHO) Themes:
 *of age, who had active social networks, tended to feel happier about their*
 
 *lives.”*
----
+
+[[PAGE_END:3]]
+
 4
 
 • **Theme 5 - Social Participation:**
@@ -276,4 +283,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/10%20%28ii%29%20S.%2085%20Agreement%20-%20Minutes%20Mtg%20Clare%20Co%20Co.pdf)
+**Original file:** [S. 85 Agreement - Minutes of Monthly Meeting Clare County Council - 11th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/10%20%28ii%29%20S.%2085%20Agreement%20-%20Minutes%20Mtg%20Clare%20Co%20Co.pdf)
 
----
+[[FILE_START]]
+
 **Minutes of the July Monthly Meeting of Clare County Council held in the**
 
 **Council Chamber, Áras Contae an Chláir, New Road, Ennis, Co. Clare and via**
@@ -116,7 +117,9 @@ The Kennelly family Newmarket on Fergus on the death of Margaret Kennelly
 RIP
 
 1
----
+
+[[PAGE_END:1]]
+
 **Item 1:**
 
 **Minutes of Council Meetings.**
@@ -178,7 +181,9 @@ Cuidithe ag Cllr. C. Colleran Molloy agus glacadh leis
 the 17th June, 2022 be noted.”
 
 2
----
+
+[[PAGE_END:2]]
+
 **Item 4:**
 
 **Minutes of S.P.C. Meetings.**
@@ -260,7 +265,9 @@ of water services operation and activities.
 Water as permanent employees between now and 2026.
 
 3
----
+
+[[PAGE_END:3]]
+
 • the identification of opportunities for water services staff not transferring to
 
 Irish Water and to avail of opportunities to re-deploy to other areas within
@@ -340,7 +347,9 @@ Ard na Gréine, Ennis, Co. Clare subject to the conditions as set out in the not
 served on the members dated 21st June, 2022.”
 
 4
----
+
+[[PAGE_END:4]]
+
 **Item 8:**
 
 **Disposal of lands at Ballyvally, Killaloe, Co. Clare pursuant to**
@@ -434,7 +443,9 @@ Cuidithe ag Cllr. P.J. Ryan agus glacadh leis
 under Section 85 of the Local Government Act 2001 (as amended) with Limerick City
 
 5
----
+
+[[PAGE_END:5]]
+
 and County Council for the carrying out by Limerick City and County Council of the
 
 relevant statutory procedures, procuring the necessary design work, acquiring the land
@@ -514,7 +525,9 @@ Cllr. G. Flynn and seconded by Cllr. P. McMahon.
 **Approval of draft memorial policy for Clare County Council.**
 
 6
----
+
+[[PAGE_END:6]]
+
 Report dated 6th July, 2022 from Mary McMahon, Administrative Officer, Corporate
 
 Services was circulated with the agenda together with the Draft Clare County Council
@@ -590,7 +603,9 @@ Proposed location of plaque is at Promenade Wall, at Slipway to beach.
 The plaque will be worded as follows:
 
 7
----
+
+[[PAGE_END:7]]
+
 ‘In recognition of the lifetime achievement of local man, Pat Conway. Acknowledging
 
 an outstanding contribution to various charities and our community. Marking 50 years
@@ -674,7 +689,9 @@ continued that the interim report will then be produced and forwarded to An Tán
 and that the final report will be produced in October/November.
 
 8
----
+
+[[PAGE_END:8]]
+
 Pat Dowling, Chief Executive thanked Mr. O’Sullivan and Mr. Rattigan for the
 
 presentation and noted that the Strategic Integrated Framework Plan was shared with
@@ -764,7 +781,9 @@ the Shannon Estuary Economic Taskforce.
 **Public Liability Claims.**
 
 9
----
+
+[[PAGE_END:9]]
+
 Ar moladh Cllr. P.J. Kelly
 
 “That the following information with regard to public liability claims be made
@@ -852,7 +871,9 @@ Zero
 **2020/2021**
 
 10
----
+
+[[PAGE_END:10]]
+
 (e) Average award (includes ancillary costs)
 
 €5,670.44
@@ -934,7 +955,9 @@ and also we
 care and protection of underage children in such households
 
 11
----
+
+[[PAGE_END:11]]
+
 \* This strategy was adopted in 2021 to prevent and reduce anti-social behaviour in the
 
 3,000 plus tenancies in areas across Clare where the Council has Tenancy Dwellings
@@ -1030,7 +1053,9 @@ develop relationships and engagement with tenants and that they will continue to
 with situations that develop around the county.
 
 12
----
+
+[[PAGE_END:12]]
+
 **Item 17.**
 
 **Upkeep of local authority housing estates.**
@@ -1122,7 +1147,9 @@ P. Dowling, Chief Executive informed the members that this can be examined in th
 context of the budget for 2023.
 
 13
----
+
+[[PAGE_END:13]]
+
 **Item 18.**
 
 **Sustainable living options in rural towns and villages.**
@@ -1206,7 +1233,9 @@ felt that when choosing a rural location to live in, people need assurance regar
 viability, sustainability and level of investment in the area.
 
 14
----
+
+[[PAGE_END:14]]
+
 **Item 19.**
 
 **Shannon Heritage sites.**
@@ -1298,7 +1327,9 @@ Cealtra Visitor Experience offers the opportunity for further balance of the ext
 Tourism portfolio of Clare County Council amongst the four Municipal Districts.
 
 15
----
+
+[[PAGE_END:15]]
+
 In 2019 Clare County Council embarked on the development of an “*evidence based,*
 
 *forward looking, innovative tourism strategy which would set the direction for tourism*
@@ -1386,7 +1417,9 @@ and economic benefits of tourism in the local host community across the
 county of Clare first and foremost.
 
 16
----
+
+[[PAGE_END:16]]
+
 3. A continual mechanism of involvement in oversight in the implementation of
 
 the Strategy for representatives nominated by the host community of
@@ -1478,7 +1511,9 @@ days per annum with extended opening hours maximising opportunity direct and
 indirect benefits and drawing attention to the West of Ireland being open for business
 
 17
----
+
+[[PAGE_END:17]]
+
 in the winter period. Fáilte Ireland research suggests that Overseas Holidaymakers on
 
 average spend €96 per day and Domestic Overnight Visitors spend €74 per day.
@@ -1574,7 +1609,9 @@ of community experience. They contribute hugely on issues and concerns of the lo
 community, who communicate regularly with them and directly entrust the raising of
 
 18
----
+
+[[PAGE_END:18]]
+
 their community concerns. They also raise opportunities for collaboration and
 
 coordination on marketing and projects. This input of the community representatives
@@ -1662,7 +1699,9 @@ c. Assess the current connectivity of the region and make recommendations as to
 how this could be enhanced;
 
 19
----
+
+[[PAGE_END:19]]
+
 d. Specify the actions required from national and local government, as well as from
 
 other stakeholders, to exploit those areas of potential; and
@@ -1756,7 +1795,9 @@ seminar in the autumn on the subject of renewable energy both large scale and sm
 scale involving experts in this field.
 
 20
----
+
+[[PAGE_END:20]]
+
 P. Dowling, Chief Executive stated that engagement has taken place with companies
 
 in relation to offshore wind wave energy on the Shannon Estuary. Mr. Dowling stated
@@ -1840,7 +1881,9 @@ The elected members agreed that parking and toilet facilities should be provided
 the N18/M18 as the current situation whereby people are using the side of the
 
 21
----
+
+[[PAGE_END:21]]
+
 motorway as a toilet is a safety issue. It was also felt that parking should be provided
 
 for commercial vehicles and buses to enable drivers take the rest period stipulated.
@@ -1930,7 +1973,9 @@ the Planning and Development Act, 2000 (as amended) in December 2020 on foot of
 the preliminary CSO data from this year’s census. The census data is due to be finalised
 
 22
----
+
+[[PAGE_END:22]]
+
 in 2023 and at that stage the Department will consider further any reviews that they
 
 consider necessary.
@@ -2022,7 +2067,9 @@ rent and the availability of rental property is contributing to homelessness for
 people who are struggling to survive on their current income.”
 
 23
----
+
+[[PAGE_END:23]]
+
 The members agreed that the anomaly that exists in relation to income thresholds
 
 needs to be addressed urgently. The members noted that the income threshold was
@@ -2106,7 +2153,9 @@ property tax.
 relation to Michael Houlihan & Partners LLP.
 
 24
----
+
+[[PAGE_END:24]]
+
 6. Correspondence dated 27th June, 2022 from Pat Dowling, Chief Executive in
 
 relation to Water Sector Transformation Update.
@@ -2152,4 +2201,6 @@ Date:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 25
----
+
+[[PAGE_END:25]]
+

@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Agenda%2019th%20June%252c%202017.pdf)
+**Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 19th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Agenda%2019th%20June%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Seirbhisi Corparéideacha,
-a oo™ Comhairle Cathrach agus Contae Luimnigh,
+_ _-il Seirbhisi Corpardideacha,
+a oo™ Comhairle Cathrach agus Contae Luimnigh.
 
 £ Ceanncheathna Chorpardideach,
-= Cé na gCeannaithe,
+—=_ Cé na gCeannaithe,
 COMHAIRLE Luimneach
-CATHRACH & CONTAE Germans Saeaed
-. . Sorpora S,
+CATHRACH & CONTAE Seecieees Sanne
+= . Corpora S,
 Luimnigh Limerick City and County Council,
-: . Corporate Headquarters,
+: = Corporate Headquarters,
 Limerick Merchants Quay,
 CITY & COUNTY Limerick
 COUNCIL
 EIRCODE V94 EH90
-16™ June, 2017. t: +353 (0) 61 407 100
+16" June, 2017. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
@@ -59,14 +60,16 @@ Kilmurry Court, Garryowen.
 (Report Enclosed)
 Any inconvenience caused by this omission is regretted.
 Is mise le meas,
-CQ © UO
+CQ © UO __
 Christy O’Connor,
 Meetings Administrator.
 a
-@ wevew limerickie
+@ wevew.limerickie
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+

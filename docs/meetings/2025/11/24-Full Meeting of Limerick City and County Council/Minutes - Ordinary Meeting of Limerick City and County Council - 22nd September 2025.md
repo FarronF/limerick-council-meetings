@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-ordinary-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf)
+**Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 22nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-ordinary-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -86,7 +87,9 @@ Circulated, copy of draft Minutes of the following Meetings:
 (b) Special Meeting of the Council held on 26th August, 2025.
 
 (c) Special Meeting of the Council held on 8th September, 2025.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor O’Hanlon;
@@ -158,7 +161,9 @@ Election.
 An amendment was proposed as follows:
 
 Proposed by Councillor Sheahan;
----
+
+[[PAGE_END:2]]
+
 3
 
 Seconded by Councillor Galvin;
@@ -222,7 +227,9 @@ Election candidate.”
 Proposed by Councillor Teefy;
 
 Seconded by Councillor Daly;
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, Donncha MacGabhann be nominated for consideration as a Presidential
@@ -278,7 +285,9 @@ Councillors Beasley, Benson, Butler, Carey, Conway, Doyle, Galvin, Gavan, Hartig
 Keary, Kiely, Leddin, McSweeney, O’Donovan, O’Sullivan (O), O’Sullivan (T), Ruddle, Ryan
 
 (E), Sheahan, Stokes, Teskey. **(21)**
----
+
+[[PAGE_END:4]]
+
 5
 
 **Abstain**
@@ -336,7 +345,9 @@ The Príomh Chomhairleoir declared that as no person nominated had reached a
 majority, Limerick City and County Council would not be putting a candidate forward for the
 
 Presidential Election 2025.
----
+
+[[PAGE_END:5]]
+
 6
 
 4.
@@ -412,7 +423,9 @@ And Resolved:
 amended), the approval of the Council be and is hereby given to the disposal of property at
 
 Sheares Street, Kilmallock, Co. Limerick, to Kilmallock Tourism Development CLG, for the sum
----
+
+[[PAGE_END:6]]
+
 7
 
 of €1, subject to the covenants and conditions contained within the Lease, particulars of
@@ -488,7 +501,9 @@ today was in advance of publication of the survey results.
 The Chief Economist and Director of Policy, Limerick Chamber, outlined the key
 
 findings of the Chamber’s housing research as follows:
----
+
+[[PAGE_END:7]]
+
 8
 
 • Granted Planning Permissions are not necessarily indicative of what will come to market.
@@ -564,7 +579,9 @@ that members of the Chamber across the city and county were surveyed, noting the
 barometer is a county-wide issue. He explained that the survey was carried out to give
 
 members a voice. The Chief Economist and Director of Policy outlined that people do want
----
+
+[[PAGE_END:8]]
+
 9
 
 to live near their workplace, highlighting that the next Census will provide a better view of
@@ -644,7 +661,9 @@ Parade 2026 in New York City, USA.”
 Circulated, report of the Senior Executive Officer, Corporate Services, Governance and
 
 Customer Services dated 16th September, 2025, seeking the Council’s approval for
----
+
+[[PAGE_END:9]]
+
 10
 
 attendance and participation by a delegation from the Council in the Annual St.
@@ -720,7 +739,9 @@ Proposed by Councillor McSweeney;
 Seconded by Councillor Sheahan;
 
 And Resolved:
----
+
+[[PAGE_END:10]]
+
 11
 
 “That, the approval of the Council be and is hereby given to the appointment of
@@ -798,7 +819,9 @@ to the Statutory Budget Meeting and other budgetary matters.
 On the proposal of Councillor Sheahan, seconded by Councillor Butler, the following
 
 date was agreed:
----
+
+[[PAGE_END:11]]
+
 12
 
 2026 Statutory Budget Meeting:
@@ -872,7 +895,9 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Slattery;
 
 And Resolved:
----
+
+[[PAGE_END:12]]
+
 13
 
 “That, pursuant to Section 48 of the Planning and Development Act, 2000 (as
@@ -944,7 +969,9 @@ Proposed by Councillor Collins (B);
 Seconded by Councillor Sheahan;
 
 And Resolved:
----
+
+[[PAGE_END:13]]
+
 14
 
 “That, the Limerick City and County Council Tourism Plan 2025-2030, as circulated, be
@@ -1020,7 +1047,9 @@ Its current membership comprises:
 • John Moran, Mayor of Limerick
 
 • Dr. Pat Daly, Director General, Limerick City and County Council
----
+
+[[PAGE_END:14]]
+
 15
 
 • Gordon Daly, Chief Executive, Clare County Council
@@ -1106,7 +1135,9 @@ the specific experiences and concerns she has highlighted are reflected in
 those discussions, I would welcome a more detailed briefing note from
 
 Councillor O’Donovan setting out the particular schemes where she or others
----
+
+[[PAGE_END:15]]
+
 16
 
 felt consultation was lacking, and the issues encountered, so that these can be
@@ -1168,7 +1199,9 @@ No. of Commencement Notices received for Developer-Led Builds - 34
 \*This is the number of Commencement Notices, not the number of housing
 
 units.
----
+
+[[PAGE_END:16]]
+
 17
 
 12.
@@ -1246,7 +1279,9 @@ Question submitted by Councillor E. O’Donovan
 **authority home loan in the last three years, how many have been successful and how many**
 
 **rejected, with reasons for same.**
----
+
+[[PAGE_END:17]]
+
 18
 
 **REPLY:**
@@ -1364,7 +1399,9 @@ proven
 from
 
 documentation provided.
----
+
+[[PAGE_END:18]]
+
 19
 
 • **Unsatisfactory Financial Management**
@@ -1438,7 +1475,9 @@ basis.
 **Cappamore-Kilmallock**
 
 • 8 no. Kilteely
----
+
+[[PAGE_END:19]]
+
 20
 
 • 15 no. Kilmallock Riverside Park
@@ -1518,7 +1557,9 @@ NOM below).
 *following a mobilisation period which is advancing well. It is expected to see a*
 
 *steady supply of new shelters to commence from later this year based on the*
----
+
+[[PAGE_END:20]]
+
 21
 
 *new designs. In that regard the NTA has advised that it must conduct a due*
@@ -1594,7 +1635,9 @@ request under paragraph (a) to the elected members within four weeks of the
 adoption of the resolution.
 
 Following further discussion, the Mayor agreed to commence a review as requested.
----
+
+[[PAGE_END:21]]
+
 22
 
 19.
@@ -1664,7 +1707,9 @@ In moving the Motion Councillor O’Donoghue highlighted the demand for school
 buses in the city and county and emphasised the benefits of allowing people over the age of
 
 70 to drive school buses.
----
+
+[[PAGE_END:22]]
+
 23
 
 22.
@@ -1736,7 +1781,9 @@ by the Council:
 **referred to the Health Service Executive for proper investigation as a matter of**
 
 **urgency.”**
----
+
+[[PAGE_END:23]]
+
 24
 
 **REPLY:**
@@ -1808,7 +1855,9 @@ A/Director of Rural, Community, Culture and Tourism advised the Members that,
 through the Limerick Age Friendly Programme, the Council is already undertaking work to
 
 become dementia-friendly and agreed to consider additional areas for development.
----
+
+[[PAGE_END:24]]
+
 25
 
 28.
@@ -1878,7 +1927,9 @@ The Correspondence circulated with the agenda was taken as read.
 The Register of Orders made by the Mayor or the Director General up to the date of
 
 the Meeting was available on sharepoint for inspection by the Members.
----
+
+[[PAGE_END:25]]
+
 26
 
 **PLANNING AND DEVELOPMENT:**
@@ -1896,4 +1947,6 @@ The Register of Decisions on Applications under the Planning and Development Act
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:26]]
+

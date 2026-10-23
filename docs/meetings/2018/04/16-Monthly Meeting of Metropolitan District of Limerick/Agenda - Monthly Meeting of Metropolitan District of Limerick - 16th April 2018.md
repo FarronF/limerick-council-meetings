@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%2016th%20April%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%2016th%20April%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-“_r™
+“_nr™
 
 — >
 
 Seirbhisi Corpardideacha,
 
 irl h
-_—_—" patel patti Combhairle Cathrach agus Contae Luimnigh.
-g Ceanncheathna Chorparaideach,
+_—_—" patel} pathic Combhairle Cathrach agus Contae Luimnigh.
+ig Ceanncheathna Chorparaideach,
 
-3 . Cé na gCeannaithe,
+: A Cé na gCeannaithe,
 Limerick City . Luimneach
 
 & County Council
@@ -48,7 +49,7 @@ EIRCODE V9++ EH90
 To: __ The Mayor and each Member of the Metropolitan District of Limerick —t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-A Chomhairleoir, a chara, =
+A Chomhairleoir, a chara, -
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
@@ -58,8 +59,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-V0 leg ~
-Christy O’Connor,)
+Christy O'Connor,
 re / Meetings Administrator.
 
 AGENDA
@@ -84,15 +84,17 @@ Scanlon.
 Treaty City Brewery.
 (f) Disposal of portion of land at Rich Hill, Co. Limerick to Patrick and Ann Minehan.
 customerservices@limerick.ie
-. @ vewrelimerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach (Reports Enclosed)... @rimerickCouncil
+. © vewruimerickie
+Ceanncheathra Chorparsideach, Cé na gCeannaithe, Luimneach (Reports Enclosed)... @rimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 ( 061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -120,7 +122,7 @@ Regulations, 2001 (as amended) in relation to conversion of 6 vacant 1 bedroom u
 into 3 new 2 bedroom units at Chas Flats, Mary Street, Limerick City.
 (Report Enclosed)
 
-Regional Services Directorate — Mid West National Road Design Office
+Regional Services Directorate —- Mid West National Road Design Office
 Proposed Road Improvement Works on N69 Mungret and Bolands Cross
 
 To note proposals for Road Improvements on N69 Mungret and Bolands Cross.
@@ -142,7 +144,9 @@ become trapped in a burning high rise buildings such as the 17 storey city hotel
 two 15 storey city centre apartments.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -171,7 +175,7 @@ Question submitted by Councillor C. Prendiville
 for promoting cycling and providing cycle lanes throughout the city, and can a report on
 this be circulated to Elected Members.
 
-uestion subi n P. Keller
+uestion sub’ n P. Keller
 
 | will ask at the next Meeting for a response to the following enquiry.
 
@@ -204,16 +208,18 @@ improve fish stocks and manage the river Shannon and its tributaries and ask Inl
 Fisheries what they are doing to prevent erosion of the banks.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
 
-14.
+14,
 
 4
 
-N . lt be referred to the H
+N . Ht be referred to the H
 
 and Social Development Strategic Policy Committee
 
@@ -225,4 +231,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

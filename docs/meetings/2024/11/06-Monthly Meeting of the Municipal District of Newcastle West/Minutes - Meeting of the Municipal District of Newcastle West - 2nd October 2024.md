@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-october-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-october-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
 such interests were declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 3. Deputation
@@ -174,7 +177,9 @@ and Sycamore Crescent, Newcastle West.
 A discussion followed and the Members referred to a number of matters including housing
 
 projects in progress in the District, various timeframes and the number of outstanding
----
+
+[[PAGE_END:2]]
+
 3
 
 housing maintenance cases on Dynamics CRM. The success of compulsorily acquisition of
@@ -250,7 +255,9 @@ Following the presentation, the Members welcomed safety measures at this locatio
 however raised a number of queries including what engagement had taken place with the
 
 Board of Management of the school, the number of students driving to school and the
----
+
+[[PAGE_END:3]]
+
 4
 
 provision of car parking within the school. Concerns were raised with regard to the layout of
@@ -326,7 +333,9 @@ REPLY:
 The existing light no. 13 on Sheehan’s Road has been upgraded to LED. The
 
 lights within the Liosán Development will be upgraded to LED as part Limerick
----
+
+[[PAGE_END:4]]
+
 5
 
 City and County Council’s participation in the South West Region Public Light
@@ -402,7 +411,9 @@ REPLY:
 The Electoral Commission and Department of Housing, Local Government and Heritage ran
 
 campaigns to promote voter participation prior to recent electoral events and will continue
----
+
+[[PAGE_END:5]]
+
 6
 
 to promote participation.
@@ -470,7 +481,9 @@ with representatives of the Community Centre and revert to the Members on this m
 ***Roads.***
 
 The Motion was seconded by Councillor Collins.
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -544,7 +557,9 @@ it was agreed that a site meeting would be arranged to discuss this matter furth
 ***way, back yards to be upgraded and drainage issues to be addressed at House No. 32 to 37***
 
 ***and House No. 39 to 42.***
----
+
+[[PAGE_END:7]]
+
 8
 
 The Motion was seconded by Councillor Sheahan.
@@ -618,7 +633,9 @@ An update was sought on the repair of the boundary wall at Reilig Íde Naofa, Th
 Abbeyfeale, and in replying, the Director stated that tender documents are to issue this week.
 
 An update was also sought on the provision of a new burial ground for Abbeyfeale.
----
+
+[[PAGE_END:8]]
+
 9
 
 An update was sought on the western wall of the new graveyard in Templeglantine and the
@@ -672,4 +689,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

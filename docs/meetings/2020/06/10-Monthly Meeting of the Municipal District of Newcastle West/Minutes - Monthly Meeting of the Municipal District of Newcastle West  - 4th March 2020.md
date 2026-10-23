@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-2020-03-04-minutes-march.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West  - 4th March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-2020-03-04-minutes-march.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -108,7 +109,9 @@ The Cathaoirleach thanked representatives from Athea Tidy Towns, which consisted
 Henry Moran, Treasurer and Mr. Damian Ahern, Secretary, for hosting the March meeting of
 
 the Newcastle West District at the Carnegie Library in Athea.
----
+
+[[PAGE_END:1]]
+
 2
 
 Mr. Moran addressed the Meeting and welcomed all in attendance to Athea. He stated that
@@ -188,7 +191,9 @@ Senior Engineer, Mid West National Road Design Office, also advised the Members 
 dedicated Liaison Officer has been appointed to the project. Discussion took place on route
 
 selection, funding and environmental impact.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -262,7 +267,9 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 On the proposal of Councillor Ruddle, seconded by Councillor Foley, it was agreed to allocate
 
 € 3,000 to flashing signs on Athea to Carrickerry road.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Scanlan, seconded by Councillor Ruddle, it was agreed to
@@ -344,7 +351,9 @@ Housing Development Directorate
 To note progress report from the Housing Development
 
 Directorate
----
+
+[[PAGE_END:4]]
+
 5
 
 Circulated, Housing Progress Report of the Director of Service, Housing Development, dated
@@ -430,7 +439,9 @@ regional road, the R515 that commences at Hartnett’s Service station, to the
 west.
 
 Staff of the Road Design Office have reviewed the options developed and the draft
----
+
+[[PAGE_END:5]]
+
 6
 
 report was also submitted to TII for their consideration.
@@ -510,7 +521,9 @@ Question submitted by Councillor T. Ruddle
 ***re-surfacing of the N21 at South Quay, Newcastle West as the roadway is in very bad***
 
 ***condition with sinking in parts and is a danger at present.***
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -592,7 +605,9 @@ Question submitted by Councillor J. Scanlan
 ***I will ask at the next Meeting when drainage work is likely to be undertaken between the***
 
 ***Pike and Lenihan’s garage in Dromcollogher.***
----
+
+[[PAGE_END:7]]
+
 8
 
 REPLY:
@@ -670,7 +685,9 @@ of existing footpaths to mitigate the risk to users in recent years. However, it
 is also the case that there has been serious underinvestment in this service for
 
 many years.
----
+
+[[PAGE_END:8]]
+
 9
 
 Having regard to the details set out above, it is not possible, regrettably to
@@ -742,7 +759,9 @@ capacity.
 The current status of the remaining twelve houses at the Cois Na Feile estate, Abbeyfeale
 
 was referred to and the request to have these twelve houses purchased. The extension of
----
+
+[[PAGE_END:9]]
+
 10
 
 the footpath leading to the estate was also requested.
@@ -778,4 +797,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

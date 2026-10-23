@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/02-minutes-of-monthly-meeting-20-2-20.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/02-minutes-of-monthly-meeting-20-2-20.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -62,7 +63,9 @@ charging points in the Municipal District, given the significant environmental i
 increased usage of electric cars could provide.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Deputation from Step Forward Disability Group
@@ -111,7 +114,9 @@ Circulated, Housing Progress Report from the Director of Services, Housing Devel
 Directorate dated 31st January, 2020, which was noted by the Members.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -129,7 +134,7 @@ Reply:
 
 ShannonDoc has reiterated that it is ‘service as usual’ at all of its treatment centres
 throughout the Mid-West. More than 10,000 patients used our service over the Christmas
-period (21° December to 5" January) in our treatment centres across Limerick, Clare and
+period (21°* December to 5" January) in our treatment centres across Limerick, Clare and
 North Tipperary. However, ShannonDoc is undertaking a major review of operations to
 ensure its future sustainability.
 
@@ -154,7 +159,9 @@ are confident that we can deliver a viable plan which will be sustainable in the
 our patients, GPs and staff.”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Notice of Motion submitted by Councillor Mitchell
@@ -201,7 +208,9 @@ or backyard burning may also report it to Limerick City and County Council Custo
 Services at 061-556000 or the free phone litter line 1800 201 501 or the See /t? Say It! App.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -248,7 +257,9 @@ to certain land relating to these works;
 relating to fence and entrance at old bridge?
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -290,7 +301,9 @@ agreed to invite Michael Ryan, Chief Fire Officer to give a presentation on the 
 the fire service to the Elected Members at a Municipal District Meeting later in the year.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e¢ Vote of Sympathy
@@ -299,7 +312,7 @@ The Elected Members extended a Vote of Sympathy to Marie O'Neill, Finance Servic
 Limerick City and County Council, along with family and friends, following the death of her
 father Eugene Gleeson, Athlacca.
 
-The Elected Members extended a Vote of Sympathy to Noreen Sheehan, Kilmallock Library,
+The Elected Members extended a Vote of Sympathy to Noreen Sheehan, Kilmaliock Library,
 
 Limerick City and County Council, along with family and friends, following the death of her
 father Denis Hayes, Bruff.
@@ -315,9 +328,13 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

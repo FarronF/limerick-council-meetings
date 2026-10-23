@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023_0.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach ‘ on Ain Dae Pa —_=
+— Comhairle Cathrach ‘ a An Dae 2am —
 & Contae Luimnigh omhairie Cathvach agus Contae Luimnig
-= Sé es
-= \ a" Aras Séan Pin,
+_— Sé -
+= \ a" Aras Séan Pinn,
 
 = Line Nua.
 = — Limerick City Rath Caola,
@@ -42,7 +43,7 @@ Co. Limerick.
 
 EIRCODE V94 HKIV
 
-12" October, 2023. 1: 2353 (0) 69 63188
+12" October, 2023. 2353 (0) 69 63188
 To:
 A Chomhairleoir, a chara,
 
@@ -59,11 +60,13 @@ AGENDA
 
 (Report Attached).
 & customerservices@limerick.ic
-Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © veonilimerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © weunilimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. yw
 
 @LimerickCouncil
-\ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

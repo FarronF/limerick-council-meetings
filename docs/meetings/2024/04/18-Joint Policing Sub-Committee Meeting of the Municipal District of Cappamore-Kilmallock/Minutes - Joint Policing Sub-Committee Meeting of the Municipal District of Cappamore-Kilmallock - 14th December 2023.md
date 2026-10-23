@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK
@@ -64,7 +65,9 @@ of Cappamore Kilmallock held on 21st September, 2023.
 Matters Arising
 
 There were no matters arising
----
+
+[[PAGE_END:1]]
+
 2
 
 Report from Superintendent Reidy
@@ -164,7 +167,9 @@ that the proposed roster did not come into operation allowed the area to retain 
 It was noted that there was no aggravation or interaction involved in the house burglaries, and
 
 the fraud was all online, which is on the increase.
----
+
+[[PAGE_END:2]]
+
 3
 
 Report from Inspector Thompson
@@ -270,7 +275,9 @@ bikes and e scooters. This legislation will have to be enforced throughout Europ
 There was acknowledgement of the patrols at Halloween, and those in attendance noted the
 
 need to think of road safety at Christmas.
----
+
+[[PAGE_END:3]]
+
 4
 
 Inspector Thompson highlighted that An Garda Siochana are heavily dependent on calls from
@@ -348,7 +355,9 @@ The Director of services outlined that the Road Safety plan was brought to the S
 inviting any submissions.
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 *The next Joint Policing Committee Meeting of the Cappamore Kilmallock*
@@ -364,4 +373,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Cathaoirleach**
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

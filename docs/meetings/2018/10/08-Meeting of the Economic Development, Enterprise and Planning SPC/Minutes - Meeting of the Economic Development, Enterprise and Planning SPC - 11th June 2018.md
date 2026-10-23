@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20SPC%2011th%20June%202018.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 11th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20SPC%2011th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES**
 
 **OF**
@@ -122,7 +123,9 @@ consideration and ratification.
 Members received a presentation on Regional Skills by the Regional Skills Co-
 
 ordinator, Mr. J. Leddin. The presentation covered the following areas;
----
+
+[[PAGE_END:1]]
+
  National Context
 
  Skills Strategy
@@ -208,7 +211,9 @@ was a consensus that Limerick needed another hotel to meet rising demand.
 **Item 5**
 
 **AOB Notice of Motion from Cllr. K. Sheahan**
----
+
+[[PAGE_END:2]]
+
 With the permission of the Chairperson, the following Notice of Motion was
 
 discussed.
@@ -234,4 +239,6 @@ This concluded the business of the meeting
 **Councillor Vivienne Crowley**
 
 Chairperson
----
+
+[[PAGE_END:3]]
+

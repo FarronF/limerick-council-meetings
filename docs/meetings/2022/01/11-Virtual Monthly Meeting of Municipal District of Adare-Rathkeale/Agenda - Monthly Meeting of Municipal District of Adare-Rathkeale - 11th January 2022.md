@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-11th-january-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-11th-january-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
-el S-Contae Lumen Comhairle Cathrach agus Contae Luimnigh,
+ae B-Contae Lumen Comhairle Cathrach agus Contae Luimnigh,
 
 Aras Séan Finn.
 
 AEN : : Line Nua,
-—> Limerick City _ Réth Caola,
+—> Limerick City Réth Caola,
 
 & County Council Co. Luimnigh.
 
@@ -43,13 +44,13 @@ Co. Limerick
 
 EIRCODE V94 HKiV
 
-- (: 4353 (0) 69 64047
+- ( 4353 (0) 69 64047
 6" January, 2022. f: +353 (0) 69 63188
 
 A Chomhairleoir, a chara,
 
 You are requested to attend an Online Meeting of the Municipal District of Adare-Rathkeale to be
-held on Tuesday, 11% January, 2022 at 10.00a.m. The business to be transacted is set out on the
+held on Tuesday, 11" January, 2022 at 10.00a.m. The business to be transacted is set out on the
 appended Agenda.
 
 Is mise le meas,
@@ -66,12 +67,14 @@ To note proposal of the Disposal of portion of land at 2 Church Street, Askeaton
 Limerick.
 (Report Enclosed).
 
-aed ease
-Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach } wrw.timericiie
-Corporate Headquarters, Merchants Quay, Limerick. *Cost-seees0
+a eae
+Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach } wrw.timericicie
+Corporate Headquarters, Merchants Quay, Lirnerick. Cost-seees0
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -113,4 +116,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

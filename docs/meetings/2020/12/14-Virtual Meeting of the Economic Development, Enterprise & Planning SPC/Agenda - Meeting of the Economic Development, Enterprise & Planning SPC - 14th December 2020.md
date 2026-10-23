@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/agenda-of-spc-mtg-14th-dec-2020.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise & Planning SPC - 14th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/agenda-of-spc-mtg-14th-dec-2020.pdf)
 
----
+[[FILE_START]]
+
 **8th** **December, 2020**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -72,4 +73,6 @@ Yours sincerely
 ***Pat Fitzgerald***
 
 ***SEO, Economic Development Directorate.***
----
+
+[[PAGE_END:1]]
+

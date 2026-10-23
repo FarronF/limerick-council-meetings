@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%20Minutes%20of%20Monthly%20Meeting%2010th%20September%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%20Minutes%20of%20Monthly%20Meeting%2010th%20September%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN PALLASKENRY COMMUNITY CENTRE, MAIN STREET,**
@@ -84,7 +85,9 @@ All Members were fully supportive of the project and wished them well with their
 fundraising which will support the cost of the project. The Deputation then withdrew
 
 from the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.**
@@ -160,7 +163,9 @@ beneficial for the elected Members to see for themselves what is achievable on t
 Limerick trail. Councillor O’Donoghue felt Members should view the Limerick prior to
 
 the Waterford visit, however, the Director, National and Regional Shared Services
----
+
+[[PAGE_END:2]]
+
 3
 
 suggested they travel to Waterford initially to see the standard of this complete
@@ -226,7 +231,9 @@ It was agreed Item 13 on the Agenda would be taken next.
 **Public Works to establish extensive cleaning of the River Deel and to establish the**
 
 **amount of fish in its waters.**
----
+
+[[PAGE_END:3]]
+
 4
 
 In proposing the Motion, Councillor Teskey remarked on the amount of rushes growing
@@ -298,7 +305,9 @@ Circulated, report of the Senior Executive Engineer, Design and Delivery dated 3
 August, 2019 giving an update in relation to the footpath from Kildimo Village to the
 
 Beer Garden Public House.
----
+
+[[PAGE_END:4]]
+
 5
 
 Members expressed their disappointment at the reply received from Design and
@@ -364,7 +373,9 @@ It was agreed to take Item 14 on the Agenda next.
 **I will move at the next Meeting that the Adare-Rathkeale area approves of traffic**
 
 **calming measures on Main Street, Pallaskenry.**
----
+
+[[PAGE_END:5]]
+
 6
 
 In proposing the Motion, Councillor O’Brien advised there is a heavy volume of traffic on
@@ -426,7 +437,9 @@ Sinead Flanagan on winning the Rose of Tralee 2019 and to wish her every success
 the future.
 
 This was also seconded by Councillor Collins.
----
+
+[[PAGE_END:6]]
+
 7
 
 **QUESTIONS**
@@ -500,4 +513,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

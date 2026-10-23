@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-meeting-of-metropolitan-district-of-limerick-21.06.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
-QR MN a _“*—————
+QR MLO a —— —s ——_
 
 Limerick City
 = & County Council
 
-A Chomhairleoir, a chara,
+A Chomhairleoir, 2 chara,
 
 Seirbhisi Corpardideacha,
 
@@ -49,7 +50,7 @@ Limerick
 
 EIRCODE V94 EHSO
 
-t: +353 (0) 61 $$7150
+t: #353 (0) 61 $$7150
 f: +353 (0) 61 415 266
 
 16" June, 2021.
@@ -81,7 +82,7 @@ To note proposal for the disposal of land as follows:
 
 (a) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 214 O’Malley
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 = customerservices@limerick.ie
@@ -91,7 +92,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Park, Southill, Limerick.
@@ -99,7 +102,7 @@ Park, Southill, Limerick.
 (c) Proposed Disposal at 1-4 Parnell Street, Limerick.
 (d) Proposed Exchange of Property at Main Street, Patrickswell, Co. Limerick.
 (e) Proposed Disposal of Freehold (Ground Rent) at 35 Thomas Street, Limerick.
-(f} Proposed Disposal at Castletroy, Limerick.
+(f) Proposed Disposal at Castletroy, Limerick.
 
 (Reports Enclosed).
 
@@ -114,7 +117,7 @@ Car na Ree, Bloodmill Road.
 4. Strategic Housing Develo DJA ion to An Bord Pleanala at Punches Cross
 Limerick
 
-To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanala
+To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleandla
 at Punches Cross, Limerick.
 
 (Report Enclosed).
@@ -138,7 +141,9 @@ a. Why after being placed on the vacant site on 19/06/18 was this site removed f
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 and when?
@@ -185,7 +190,9 @@ Government funding, or a commitment of Government funding, and if there are comm
 existing for funding from the University of Limerick, Clare County Council or Waterways Ireland to
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 contribute to the development of the Black Bridge in Plassey and if any discussions have been had
@@ -211,7 +218,7 @@ planning compliance by the operator of Ballyneety Quarry.
 NOTI F MOTION
 
 15. Notice of Motion submitted by Councillor S. Hartigan (to be referred to the Economic
-Development, Enter prise and Planning Strategic Policy Committee)
+Development, Enterprise and Planning Strategic Policy Committee)
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick Metropolitan
 District Council requires that Limerick City and County Council make the inclusion of swift bird
@@ -220,7 +227,7 @@ nesting boxes on suitable sites, a planning condition as part of the planning ap
 16.N lor E. Secas
 | will move at the next Meeting that the Metropolitan District:
 
-(a) write to TIl to clarify what funding mechanism / scheme the latter have in place to address
+(a) write to Tl to clarify what funding mechanism / scheme the latter have in place to address
 mitigation measures where residents in existing residential developments living near roads
 are exposed to existing high noise levels from transportation;
 
@@ -232,7 +239,9 @@ for mitigation measures, and when considering planning for new residential
 developments.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17. Notice of Motion submitted by Councillor S. Kiely (to be referred to the Climate Action,
@@ -257,4 +266,6 @@ movement between the two counties.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+

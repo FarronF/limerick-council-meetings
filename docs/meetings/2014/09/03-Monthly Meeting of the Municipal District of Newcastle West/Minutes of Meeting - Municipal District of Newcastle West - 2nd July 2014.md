@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_of_newcastle_west_-_minutes_of_meeting_02_july_14.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Newcastle West - 2nd July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_of_newcastle_west_-_minutes_of_meeting_02_july_14.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
 OF NEWCASTLE WEST HELD IN ÁRAS WILLIAM SMITH OBRIEN,
@@ -72,7 +73,9 @@ It was agreed that Meetings of the Municipal District of Newcastle West would be
 held on the first Wednesday of every month at 10.00 a.m. It was noted that the next
 
 Meeting would take place on Wednesday, 3rd September, 2014 at 10.00 a.m.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -142,7 +145,9 @@ agreed to recommend the scheme for approval to the full Council.
 Councillor Collins stated that he was not in agreement with the scheme, as
 
 presented, and did not support the proposal.
----
+
+[[PAGE_END:2]]
+
 3
 
 Questions submitted by Councillor J. Scanlan:
@@ -214,7 +219,9 @@ It was noted that this bridge was the responsibility of both Limerick City and C
 Council and Kerry County Council. It was agreed that the matter would be raised
 
 with Castleisland Area Office.
----
+
+[[PAGE_END:3]]
+
 4
 
 9.
@@ -260,4 +267,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

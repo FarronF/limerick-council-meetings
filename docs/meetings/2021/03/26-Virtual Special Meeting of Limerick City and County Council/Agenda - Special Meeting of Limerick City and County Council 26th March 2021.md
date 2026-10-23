@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-08/Agenda%20Special%20Meeting%2026.03.2021_0.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council 26th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-08/Agenda%20Special%20Meeting%2026.03.2021_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-19 March, 2021.
+19" March, 2021.
 
 To: The Mayor and Each Member of Limerick City and County Council
 
 A Chomhairleoir, a chara,
 
 The Mayor, Councillor Michael Collins, has called an Online Special Meeting of Limerick City
-and County Council to be held on Friday, 26* March, 2021, at 2pm in order to discuss the
+and County Council to be held on Friday, 26** March, 2021, at 2pm in order to discuss the
 issue as set out in the attached Requisition in relation to the proposed closure of Bank of
 
 Ireland branches in Limerick.
@@ -40,7 +41,9 @@ James Clune,
 Meetings Administrator.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 We request a Special Meeting of Limerick City and County Council to discuss
@@ -61,4 +64,6 @@ Councillor F. Daly.
 Councillor J. O'Donoghue.
 
 
----
+
+[[PAGE_END:2]]
+

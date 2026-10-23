@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-2021-07-14-minutes-july.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 14th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-2021-07-14-minutes-july.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -50,13 +51,13 @@ Prendiville, Journalist, Limerick Leader to the Newcastle West Municipal Distric
 replying, Ms. Prendiville, thanked all the Members for their help and support. The
 Cathaoirleach on behalf of the Members wished her well on her return.
 
-Director of Service, Community Development Directorate (Mr. G. Dally).
+Director of Service, Community Development Directorate (Mr. G. Daly).
 Executive Engineer, Housing (Mr. D. Toomey).
 
 1. Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
-West, held on 2 June, 2021.
+West, held on 2" June, 2021.
 
 Proposed by: Councillor Collins
 Seconded by: Councillor Foley
@@ -67,7 +68,9 @@ And Resolved:
 (b) Circulated, copy of draft Minutes of Adjourned Annual General Meeting of Municipal
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 District of Newcastle West held on 23” June, 2021.
@@ -117,7 +120,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 €3,000 for upgrade works to the footbridge in Athea to Athea Tidy Towns .
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
@@ -168,7 +173,9 @@ Directorate.
 10. Question submitted by Councillor L. Galvin
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will ask at the next Meeting for (a) a detailed update on the takeover of the Rays in
@@ -218,7 +225,9 @@ Councillor Galvin referred to the length of time taken to get houses into occupa
 that family type houses be considered in smaller villages in the District.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Notice of Motion submitted by Councillor L. Galvin
@@ -266,7 +275,7 @@ e
 
 The remaining sites will progress to feasibility stage over the coming months.
 
-in proposing the Motion, Councillor Galvin requested that the Council put in place Part 8
+In proposing the Motion, Councillor Galvin requested that the Council put in place Part 8
 housing applications for villages in the District.
 
 The Acting Senior Executive Planner stated that when an application is made to the
@@ -276,7 +285,9 @@ involved. The Members also referred to a number of matters including an audit of
 waiting list, sewerage capacity in towns and villages for new housing developments.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Disposal of Land
@@ -326,7 +337,9 @@ addition, there is an outstanding commitment of €19,739.92. (b) When the
 6
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 works that are required to bring the estate to taking in charge standard are
@@ -353,7 +366,7 @@ be prioritised over the coming years depending on funding.
 
 9. Question submitted by Councillor J. Scanlan
 
-| will ask at the next Meeting what was the total spend on retrofitting of the Houses
+I will ask at the next Meeting what was the total spend on retrofitting of the Houses
 Nos. 13 to 24 at Castleview, Newcastle West and how much of this outlay was
 incurred on the air to water heating systems installed.
 
@@ -377,7 +390,9 @@ reducing\eliminating ongoing maintenance issues.
 7
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Outturn costs for the air-to-air heating system accounted for 15% of the average cost of the
@@ -426,7 +441,9 @@ proposed amendments. The necessary amendments were incorporated and on the 02/07
 Tit provided approval to LCCC to proceed to the next stage of the approval process.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Next stage
@@ -452,7 +469,7 @@ crossroads has been inspected last week and is acceptable.
 
 13. Question submitted by Councillor T. Ruddle
 
-I will ask at the next Meeting can the Council investigate the level and severity of pyrite and
+| will ask at the next Meeting can the Council investigate the level and severity of pyrite and
 mica damage to houses and buildings in the Newcastle West Municipal District and the
 remainder of the county. With this information to apply to the Department of Housing for
 a redress scheme for householders affected. This is the first step to accelerate a
@@ -480,7 +497,9 @@ This item was dealt with as part of Item No. 3 on the Agenda.
 9
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next Meeting that this Council replaces the chain link fence and wire in
@@ -508,7 +527,7 @@ Administrator agreed to follow up on this matter with the relevant Directorate.
 
 16. Notice of Motion submitted by Councillor J. Scanlan
 
-1 will move at the next Meeting that an immediate clean up be undertaken at Castleview
+| will move at the next Meeting that an immediate clean up be undertaken at Castleview
 Estate, Newcastle West with particular emphasis on the area next to house 12 and to the
 side of house 13 as well as in the area surrounding the ESB installation in that area.
 
@@ -527,12 +546,14 @@ The Motion was seconded by Councillor Collins.
 
 REPLY: Untenanted vacant properties are managed so as not to cause undue nuisance
 to adjoining properties. All units are renovated to a letting standard in advance
-of being relet. The maintenance of the unit while vacant is limited to necessary
+of being relet. The maintenance of the unit while vacantis limited to necessary
 
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 immediate issues that require to be addressed and within the level of
@@ -540,7 +561,7 @@ resources available.
 
 18. Notice of Motion submitted by Councillor J. Sheahan
 
-1 will move at the next Meeting that Limerick City and County Council carry out a full
+| will move at the next Meeting that Limerick City and County Council carry out a full
 re-instatement of footpaths and road overlay at Churchview, Ballyagran, Co. Limerick.
 
 The Motion was seconded by Councillor Scanlan.
@@ -581,9 +602,13 @@ Dated:
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:12]]
+

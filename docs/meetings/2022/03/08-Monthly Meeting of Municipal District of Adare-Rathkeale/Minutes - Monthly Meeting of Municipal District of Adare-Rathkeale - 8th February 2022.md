@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-minutes-of-monthly-meeting-8th-february-2022.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 8th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-minutes-of-monthly-meeting-8th-february-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE CARNEGIE LIBRARY, BALLYSTEEN, CO. LIMERICK ON TUESDAY,**
@@ -94,7 +95,9 @@ that there has been an excellent working relationship between the principal
 response agencies throughout the pandemic as part of the ‘whole of
 
 government approach’ at the local and regional level.
----
+
+[[PAGE_END:1]]
+
 2
 
 The issue of ambulances is currently being discussed at national level
@@ -166,7 +169,9 @@ Following discussion the following issues were raised by Members:
 presented at the Community, Leisure and Cultural Strategic Policy Committee
 
 held on the 7th February, 2022.
----
+
+[[PAGE_END:2]]
+
 3
 
  Councillor Keary asked if the funding approved under Active Travel could be put
@@ -238,7 +243,9 @@ Councillor Collins, it was agreed to allocate the following:
  €1,000 to Ballysteen Carnegie Library.
 
  €3,000 to Croom Development Association.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor O’Donoghue, it was
@@ -310,7 +317,9 @@ Housing Construction and Maintenance advised a burial ground strategy is being
 complied presently and he agreed to provide an update to Members when this strategy
 
 is complete.
----
+
+[[PAGE_END:4]]
+
 5
 
 **5.**
@@ -388,7 +397,9 @@ serious and fatal accidents which have occurred on this stretch of road in recen
 times. Councillor Keary added he had spoken with the Gardaí on a number of
 
 occasions requesting a speed van be placed on this roadway to address speeding
----
+
+[[PAGE_END:5]]
+
 6
 
 traffic concerns and further requested the Adare-Rathkeale Municipal District
@@ -452,4 +463,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

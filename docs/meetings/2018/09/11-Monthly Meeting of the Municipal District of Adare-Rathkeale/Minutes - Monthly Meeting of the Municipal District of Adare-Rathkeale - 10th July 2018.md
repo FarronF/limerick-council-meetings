@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20Minutes%2010th%20July%2C%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20Minutes%2010th%20July%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ Municipal District Members, they will then go through the public consultation pr
 On the proposal of Councillor O’Donoghue, seconded by Councillor Keary it was agreed
 
 this item should also go to the Full Council Meeting.
----
+
+[[PAGE_END:1]]
+
 **1.**
 
 **Minutes**
@@ -158,7 +161,9 @@ the current Housing Delivery Programme. Councillor O’Donoghue suggested a diff
 approach be taken for the County due to restrictions on new builds. He also suggested
 
 there should be less restrictions on listed buildings. On the proposal of Councillor
----
+
+[[PAGE_END:2]]
+
 O’Donoghue, seconded by Councillor Sheahan it was proposed a letter be sent to Tom
 
 Cassidy asking that a more pragmatic approach be adopted with the owners of listed
@@ -222,7 +227,9 @@ The Cathaoirleach deferred Item 4 (a) until the September Meeting.
 **(b)** **To note update on the Taking-In-Charge of An Curran, Pallaskenry**
 
 The Cathaoirleach deferred Item 4 (b) until the September Meeting.
----
+
+[[PAGE_END:3]]
+
 **5.**
 
 **Operations and Maintenance Services**
@@ -282,7 +289,9 @@ being prepared to An Bord Pleanála.
 **Correspondence**
 
 The Cathaoirleach deferred this item until the September Meeting.
----
+
+[[PAGE_END:4]]
+
 At the conclusion of the Agenda the following were raised by Members.
 
  Councillor Teskey requested to write to Irish Water to raise the serious issue of
@@ -340,4 +349,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

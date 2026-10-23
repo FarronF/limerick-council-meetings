@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%20for%20Metropolitan%20District%20of%20Limerick%20-%2027th%20October%202017.pdf)
+**Original file:** [Agenda - Draft Budgetary Plan Meeting for Metropolitan District of Limerick - 27th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%20for%20Metropolitan%20District%20of%20Limerick%20-%2027th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-nNr™N
+aAr™N
 
 Comhairle Cathrach
 
 el & Contae Luimnigh
 
-— Limerick City
+=— Limerick City
 & County Council
 
 19" October, 2017.
@@ -39,7 +40,7 @@ Ceanncheathni Chorparaideach,
 
 Cé na gCeannaithe.
 
-Luimnneach
+Luinneach
 
 Corporate Services,
 
@@ -49,7 +50,7 @@ Merchants Guay.
 
 Limerick
 
-EIRCODE V94 EH9O
+EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -67,13 +68,13 @@ on the appended Agenda.
 
 Is mise le meas,
 
-CRA 2 C—
+CRA OS C—
 Christy O’Connor,
 Meetings Administrator.
 
 1. To consider the Draft Budgetary Plan 2018 for the Metropolitan District of Limerick.
 (Report attached).
-] te
+2 te
 @ wer imerick.ie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 (061 - 557150
@@ -81,4 +82,6 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

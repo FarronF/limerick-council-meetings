@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-metropolitan-district-of-limerick-21st-july-2025.pdf)
+**Original file:** [Minutes - Meeting of The Metropolitan District of Limerick - 21st July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-metropolitan-district-of-limerick-21st-july-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -94,7 +95,9 @@ Proposed by Councillor McSweeney;
 Seconded by Councillor O’Hanlon;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -168,7 +171,9 @@ route.
 created.
 
 He also outlined that in the coming months it is intended to launch the national Night Time
----
+
+[[PAGE_END:2]]
+
 3
 
 Economy ‘Safe and Sound’ Campaign and the ‘Leave a Light On’ campaign in the run up to
@@ -240,7 +245,9 @@ support both the daytime and night time economies. The Senior Executive Engineer
 Elected Members that the Place-Making Team collaborated closely with all relevant Departments
 
 within Limerick City and County Council, on the development of the scheme. He further noted that
----
+
+[[PAGE_END:3]]
+
 4
 
 extensive public consultation had taken place, including meetings with key stakeholders of the
@@ -300,7 +307,9 @@ licence rebates.
 2023. To date, Limerick City and County Council have been notified of 906 NTQs. Please see
 
 current breakdown below, as at 11/07/25:
----
+
+[[PAGE_END:4]]
+
 5
 
 **9.Question submitted by Councillor S. Beasley**
@@ -342,7 +351,9 @@ Plan is assessed and agreed between Limerick City & County Council and any prefe
 tenderer.
 
 (Image omitted)
----
+
+[[PAGE_END:5]]
+
 6
 
 **11.Question submitted by Councillor E. O’Donovan**
@@ -412,7 +423,9 @@ retained as part of the Old Cratloe Road Active Travel Scheme.
 ***I will ask at the next meeting of the Metropolitan District of Limerick if, given the plans for***
 
 ***forthcoming ‘August Activations’*** ***throughout the city, the Council plans to increase the provision***
----
+
+[[PAGE_END:6]]
+
 7
 
 ***of public toilets to serve the expected increase in the number of people to locations outlined as***
@@ -494,7 +507,9 @@ the bye-law making and commencement. Furthermore, the making of the bye-laws and
 commencement notice will be advertised in local newspapers and published in *Iris Oifiguil*.
 
 The bye-laws are available on the Limerick City and County Council website.
----
+
+[[PAGE_END:7]]
+
 8
 
 https://www.limerick.ie/council/services/environment-and-climate-
@@ -570,7 +585,9 @@ from these fines.
 ***Riverfest, specifically pertaining to the Festival Village cost of €144,211.35, is broken down on a***
 
 ***detailed and itemised basis.***
----
+
+[[PAGE_END:8]]
+
 9
 
 **REPLY**: The Riverfest village is the anchor event for Riverfest attracting in excess of 60,000 patrons
@@ -700,7 +717,9 @@ Total
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what the future plans are***
 
 ***for No. 58 O’Connell Street, the building formerly occupied by Narrative 4 and now sitting vacant.***
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**: Part 8 Planning Permission has been obtained for the development of the building at 58
@@ -772,7 +791,9 @@ the documentary. She emphasised the need to enact the Adult Safeguarding Bill.
 ***a reduced speed limit from 50km to 30km on the Ballinacurra Road and O'Connell Avenue to align***
 
 ***with the new 30km limit in the city centre.***
----
+
+[[PAGE_END:10]]
+
 11
 
 The Notice of Motion was proposed by Councillor Leddin, seconded by Councillor O’Donovan and
@@ -844,7 +865,9 @@ reasonably offer within existing resources.
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Hickey-O’Mara
 
 and agreed.
----
+
+[[PAGE_END:11]]
+
 12
 
 In proposing the Motion, Councillor Beasley referred to the large number of children in emergency
@@ -916,7 +939,9 @@ agreed between Limerick City & County Council and any preferred tenderer.
 **29.Notice of Motion submitted by Councillors S. Kiely and D. McSweeney**
 
 ***We will move at the next meeting of the Metropolitan District of Limerick that we examine the***
----
+
+[[PAGE_END:12]]
+
 13
 
 ***rollout of a Home Improvement Grant Scheme for Social Housing Tenants of Limerick City and***
@@ -992,7 +1017,9 @@ agreed to revert to Members in this regard.
 ***stating that this District condemn the Government’s plans to reinstate the €3,000 college***
 
 ***contribution fee for students given the increased financial burden that this will place on students***
----
+
+[[PAGE_END:13]]
+
 14
 
 ***and their families.***
@@ -1064,7 +1091,9 @@ On the proposal of Councillor O’Sullivan, seconded by Councillor Kiely, Standi
 suspended in order to complete the agenda.
 
 **33.Notice of Motion submitted by Councillor M. Donoghue**
----
+
+[[PAGE_END:14]]
+
 15
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Forward Planning***
@@ -1146,7 +1175,9 @@ Alternatively, an applicant may seek to bring forward a mixed tenure scheme invo
 ownership, private rental, social-rental, and affordable housing (both affordable sale and affordable
 
 rental) integrated within the same development.
----
+
+[[PAGE_END:15]]
+
 16
 
 While Part V of the Planning and Development Act, 2000 has express provision for a planning
@@ -1226,7 +1257,9 @@ Members requested that a Briefing on the Council’s Mixed Tenure Policy would b
 **35.Correspondence**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:16]]
+
 17
 
 This concluded the Meeting.
@@ -1236,4 +1269,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:17]]
+

@@ -16,32 +16,33 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-monthly-meeting-of-the-cappamore-kilmallock-municipal-district-19th-march-2026.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Cappamore-Kilmallock Municipal District - 19th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-monthly-meeting-of-the-cappamore-kilmallock-municipal-district-19th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Comhairle Cathvach agus Contae Luimnigh,
+hair hr Comhairle Cathrach agus Contae Luimnigh,
 
-ee particle frrandibah Olfg an Cheuntair, Aras Mhainchin Seoighe,
+ee pasha frrandibeh Oilfig an Cheuntair, Aras Mhainchin Seoighe,
 
-o— g Cill Mochealog,
+~~ : g Cill Mochealog,
 
-NPN ' Co. Luimnigh.
-: Limerick City
+NEN 7 Co, Luimnigh.
+- Limerick City
 
-a & County Council Limerick City and County Council,
+— & County Council Limerick City and County Council,
 
 Aras Mainchin Seoighe Area Office,
 
-Kinallock,
+Kimalliock,
 
 Co, Limerick
 
 EIRCODE V35 K497
 
 t; #553 (0) 63 980 19
-f: +353 (0) 65 985 99
+f: +353 (0) 63 985 99
 
 13" March, 2026.
 
@@ -63,7 +64,7 @@ Mark Leahy,
 
 Meetings Administrator.
 
-| ceielaiahteietteieteteietetetetetetetetaetataetaetee ee
+| ieielaiehieteieieieteieietetteteieteieiaeteateeatet tee
 
 AGENDA
 
@@ -74,10 +75,12 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 
 17" February, 2026. (Copy enclosed)
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Mhainchin Seoighe www.limerick ie
-Sinnerich Gly and Guay Gourte heapeicus eign ones W @limerickCouncil
+Sinnorich Cy and Ounny Gouna ca cus sean er ones W @limerickCounciél
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -121,7 +124,9 @@ re-surfacing works at the council-owned Kilmallock Business Park.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Teefy
@@ -148,7 +153,7 @@ to access the town.
 that the proposed lease for a site at Kilteely Graveyard be finalised by Limerick
 City and County Council.
 
-12. Notice of Motion submitted by Clir Conway
+12. Notice of Motion submitted by Cllr Conway
 
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District
 that Limerick City & County progress with the installation of extra public lighting
@@ -157,7 +162,9 @@ Limerick.
 
 13. A.O.B
 
-—_—_—_———=
+=
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%201%20%20Minutes%20of%20Meeting%2018%20June%202018.pdf)
+**Original file:** [Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 18th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%201%20%20Minutes%20of%20Meeting%2018%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
 was held in Council Chamber, Limerick City and County Council, Dooradoyle, Limerick on
@@ -94,7 +95,9 @@ anticipates the successful implementation of same.
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
----
+
+[[PAGE_END:1]]
+
 **Item 3:**
 
 **Presentation on Civil Defence**
@@ -166,7 +169,9 @@ Cllr. L.M. Sheehy proposed that lifebuoys be installed at quarry sites.
 Cllr. Sheehan proposed that the Executive substantially increase the Water Safety budget for
 
 next year. The proposal was seconded by Cllr. G. Mitchell.
----
+
+[[PAGE_END:2]]
+
 **Item 5:**
 
 **Presentation on Development and Scope of Work in the Southill Area**
@@ -222,4 +227,6 @@ Minutes Proposed By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

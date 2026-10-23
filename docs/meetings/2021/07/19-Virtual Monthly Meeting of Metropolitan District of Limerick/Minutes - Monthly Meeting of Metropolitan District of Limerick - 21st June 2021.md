@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01a-draft-minutes-monthly-meeting-21st-june-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01a-draft-minutes-monthly-meeting-21st-june-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 21ST** **JUNE, 2021 at 09:45 A.M. IN THE COUNCIL CHAMBER,**
@@ -90,7 +91,9 @@ setting out proposals to dispose of 1 Grennan Villas, St. Joseph’s Terrace, Li
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 (c)
@@ -166,7 +169,9 @@ Members on the proposed Strategic Housing Development Application and briefed th
 on the content of the proposed application.
 
 Following a detailed discussion of the application, the Members highlighted the following in
----
+
+[[PAGE_END:2]]
+
 3
 
 relation to the application:
@@ -252,7 +257,9 @@ to ensure that their comments had been accurately captured, before they were sub
 Bord Pleanála and the A/Senior Executive Officer, Planning and Environmental Services agreed to
 
 circulate this summary to the Members.
----
+
+[[PAGE_END:3]]
+
 4
 
 **QUESTIONS**
@@ -330,7 +337,9 @@ of the site. Limerick City and County Council will open a Vacant Site case and c
 inspection in relation to the lands that remain vacant.
 
 d. No
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.Question submitted by Councillor S. Benson**
@@ -466,7 +475,9 @@ taken not to
 enter the site
 
 on the
----
+
+[[PAGE_END:5]]
+
 6
 
 register due
@@ -626,7 +637,9 @@ LK67743F
 NO
 
 Submission
----
+
+[[PAGE_END:6]]
+
 7
 
 (155083.452,156714.3
@@ -800,7 +813,9 @@ Gerald Griffin Street
 LK41562F
 
 YES
----
+
+[[PAGE_END:7]]
+
 8
 
 **8.Question submitted by Councillor C. Slattery**
@@ -876,7 +891,9 @@ completion of the planning documentation and internal consultation.
 ***Government funding, or a commitment of Government funding, and if there are commitments***
 
 ***existing for funding from the University of Limerick, Clare County Council or Waterways Ireland***
----
+
+[[PAGE_END:8]]
+
 9
 
 ***to contribute to the development of the Black Bridge in Plassey and if any discussions have been***
@@ -964,7 +981,9 @@ the COVID 19 pandemic and the emerging needs that arose, particular attention wa
 those considered high risk such as persons in direct provision, undocumented persons and those
 
 considered highly vulnerable.
----
+
+[[PAGE_END:9]]
+
 10
 
 The IWG meets on a quarterly basis and monitors the progress of the working groups and it is
@@ -1040,7 +1059,9 @@ noise levels and highlighted the importance of having national guidelines in pla
 health and wellbeing of communities, especially those communities located close to major road
 
 networks and infrastructure.
----
+
+[[PAGE_END:10]]
+
 11
 
 **17.Notice of Motion submitted by Councillor S. Kiely (to be referred to the Climate Action,**
@@ -1108,4 +1129,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

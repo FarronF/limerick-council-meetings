@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare-Rathkeale 14th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2014th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
@@ -54,6 +55,7 @@ Scheme which formed part of the above €65,000).
 The Head of Finance circulated proposals for spending the €20,000 allocated to
 Community Initiatives under the 2015 Adare-Rathkeale GMA combined with €5,000 which
 formed part of 2015 budget. Members agreed to the allocation of €25,000 as set out
+
 below to Community Initiatives.
 
 Adare-Rathkeale Municipal District - Community Initiatives
@@ -71,7 +73,10 @@ Agreement was reached to the allocation of €40,000 under the heading Parks, Pi
 Playgrounds.
 
 
----
+
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor O'Brien and seconded by Councillor Neville agreement was
@@ -85,4 +90,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,31 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%2020th%20November%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%2020th%20November%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach
 
-_—_— S Corea Nigh Comhairle pcr aa — Luimnigh,
-NIN SF 2 ee Cé na gCeannaithe.
+_—_— SCoeAS enon Comhairle pcre re — Luimnigh,
+NIN 2 eee Cé na gCeannaithe.
 —— Limerick City Lubmnesch
 
 & County Council °
-‘orporate Services,
+lorporate Services,
 Limerick City and County Council,
 Corporate Headquarters.
 Merchants Quay,
 Limerick
 
-15*" November, 2017.
+15" November, 2017.
 EIRCODE V'94 EH90
 
 t: +353 (0) 61 557150
-To: __ The Mayor and each Member of the Metropolitan District of Limerick f: +353 (0) 61 415 266
+To: _ The Mayor and each Member of the Metropolitan District of Limerick f: +353 (0) 61 415 266
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 Council Chamber, Merchant’s Quay, Limerick on Monday, 20” November, 2017 at 9.45 a.m. The
@@ -50,8 +51,8 @@ business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
 >
-ap Whe onhot,
-Ss Meetings Administrator.
+ip Wie ‘onhgt
+bo Meetings Administrator.
 
 AGENDA
 
@@ -76,12 +77,14 @@ Sycamore Avenue, Rathbane, Limerick.
 
 (Report Enclosed).
 = customerservices@limerick.ie
-€ wewlimerickie
+@ weewlimerickie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Service Operations Directorate
@@ -94,7 +97,7 @@ approval to the publication of the Draft Bye-Laws for public consultation.
 
 QUESTIONS
 
-Question submitted by Cmhlr. S. O Ceallaigh
+Question submitted by Cmhlr. S. 6 Ceallaigh
 
 | will ask at the next meeting when is it envisaged that the works to install a crossing for
 pedestrians at the junction of Cruises Street and O'Connell Street will commence, as voted
@@ -125,7 +128,9 @@ Committee)
 Sarsfield, | propose that his statue be moved to a more prominent position.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -160,4 +165,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

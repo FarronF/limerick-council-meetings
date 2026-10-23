@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-annual-meeting-limerick-city-and-county-council-30.06.2025.pdf)
+**Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-annual-meeting-limerick-city-and-county-council-30.06.2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND ONLINE, ON MONDAY,**
@@ -84,7 +85,9 @@ Taskforce, which was recently established to focus on reforming and strengthenin
 government.
 
 The Príomh Chomhairleoir then gave the following address:
----
+
+[[PAGE_END:1]]
+
 **2**
 
 “Mayor John Moran, Fellow Councillors, Director General Dr. Pat Daly, Council Officials,
@@ -160,7 +163,9 @@ debates — but that is the cornerstone of democracy. Debate, disagreement, and 
 are not flaws.
 
 In fact, those debates took on added importance this year, as for the first time in the history
----
+
+[[PAGE_END:2]]
+
 **3**
 
 of the State, executive functions rest with a single political office holder: the Directly Elected
@@ -232,7 +237,9 @@ congratulated her on her election.
 Having taken the Chair, the incoming Príomh Chomhairleoir, Councillor Slattery, gave the
 
 following address:
----
+
+[[PAGE_END:3]]
+
 **4**
 
 Mayor, fellow Councillors, friends, family, and members of the community,
@@ -310,7 +317,9 @@ time with residents in St. Camillus Hospital and community groups across the cit
 individuals were once the voice of our communities, and now it is our duty to be theirs—to
 
 protect, support, and celebrate them in their later years.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 The priorities I have outlined are not pipe dreams. They are realistic and achievable—but
@@ -380,7 +389,9 @@ work involved in the positions and assured them of their full support. Members w
 the election of a female Príomh Chomhairleoir, and noted that it was a great occasion for
 
 her and her family.
----
+
+[[PAGE_END:5]]
+
 **6**
 
 Members congratulated the outgoing Príomh Chomhairleoir, Councillor Dan McSweeney,
@@ -436,4 +447,6 @@ This concluded the meeting.
 **Date:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

@@ -20,13 +20,13 @@ file_type: "Meeting Overview"
 
 **Date and Time:** 2017-04-20 15:30:00
 
-**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock)**
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-45)**
 
 Files: 
 
-Agenda - Municipal District of Cappamore-Kilmallock - 20th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015_0.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20April%202017.md)
+Agenda - Municipal District of Cappamore-Kilmallock - 20th April 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_25th_march_2015_0.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20April%202017.md)
 
-Minutes - Municipal District of Cappamore-Kilmallock - 23rd March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_-_meeting_municipal_district_cappamore-kilmallock_230317.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20March%202017.md)
+Minutes - Municipal District of Cappamore-Kilmallock - 23rd March 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_-_meeting_municipal_district_cappamore-kilmallock_230317.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20March%202017.md)
 
 Proposal to extend the life of the Bruff Local Area Plan 2012-2018 - Municipal District of Cappamore-Kilmallock - 20th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_a_proposal_to_extnd_the_life_of_the_bruff_local_area_plan_2012-2018.pdf) - Text not extracted
 

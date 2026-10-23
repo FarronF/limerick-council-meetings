@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2022-01-12-minutes-january.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2022-01-12-minutes-january.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD ON
@@ -88,7 +89,9 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 On the proposal of Councillor Ruddle, seconded by Councillor Collins, it was agreed to allocate
 
 €500 for Newcastle West Christmas lights.
----
+
+[[PAGE_END:1]]
+
 2
 
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
@@ -152,7 +155,9 @@ on the N21.
 The request for a full re-surfacing of the N21 from Dee’s Filling Station to Lacey’s Cross,
 
 Newcastle West will be forwarded to the TII for their consideration.
----
+
+[[PAGE_END:2]]
+
 3
 
 6.
@@ -232,7 +237,9 @@ Executive Engineer, Place-Making and Public Realm to the next Meeting of the Dis
 discuss the Abbeyfeale Traffic Management Plan. The Director also agreed to raise these
 
 matters with the relevant Directorate.
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Galvin referred to the works which were carried out at Cryle View Junction,
@@ -298,7 +305,9 @@ lakes. The primary agencies responsible are:
 **Office of Public Works** – responsible for Rivers and Channels associated with Arterial Drainage
 
 Schemes and assess applications for culverting of watercourses/works to structures.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Waterways Ireland** – responsible for inland navigable waterways primarily for recreational
@@ -384,7 +393,9 @@ Question submitted by Councillor J. Scanlan
 **are the terms of offer to the public likely to be advertised and (c) when those units will be**
 
 **available for occupancy.**
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -452,7 +463,9 @@ the line be carried out from Coole to Keale in Athea and that a detailed report 
 programme of works to alleviate the problem be submitted to the Council.
 
 It was agreed that the Meetings Administrator would write to the E.S.B on this matter.
----
+
+[[PAGE_END:6]]
+
 7
 
 14. Notice of Motion submitted by Councillor L. Galvin
@@ -514,7 +527,9 @@ There is a public toilet located at the Market Yard, Newcastle West, which is cl
 Demesne Park. Signage will be erected at the Demesne Park to advise users of the location of
 
 the public toilet and its distance from the park.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Scanlan referred to the need for public toilets at the
@@ -586,7 +601,9 @@ Local Authorities are charging. The buying of burial ground plots in advance was
 discussed. In replying, the Director stated that the Scale of Charges is an executive function
 
 of the Council and that he was aware that correspondence had been sent to the Chief
----
+
+[[PAGE_END:8]]
+
 9
 
 Executive Officer regarding this matter. He also agreed to advise the Chief Executive of the
@@ -608,4 +625,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

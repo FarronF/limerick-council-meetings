@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20October%202017.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 4th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ae Comhairle Cathrach
@@ -48,7 +49,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: +353 (0) 61 415 265
+f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District_of
 
@@ -64,14 +65,14 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Tine Por
+Tine for
 
 Tina Knox,
 Meetings Administrator.
 
 AGENDA
 
-1. Minutes
+4. Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 6"
 
@@ -87,7 +88,7 @@ To receive Deputation from Kantoher Development Group CLG.
 
 To review position in relation to allocations under the General Municipal Allocation.
 
-Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 = customerservices@limerick.te
@@ -98,7 +99,9 @@ w @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -158,11 +161,15 @@ Notices of Motion submitted by Councillor L. Galvin
 Great Southern Greenway to advise dog owners to keep their dogs on a lead at all times.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. | will move at the next Meeting that a safety survey be carried out at the junction known
 locally as Lees Cross on the Bruff line (R521).
 
 
----
+
+[[PAGE_END:3]]
+

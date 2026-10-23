@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-january-2024.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 15th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -97,7 +98,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -163,7 +166,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 schemes will be available in Limerick in 2024 and can they be listed by area and date they will be
 
 available.
----
+
+[[PAGE_END:2]]
+
 3
 
 **9.Question submitted by Councillor E. O’Donovan**
@@ -225,7 +230,9 @@ eligible/entitled to be housed in these proposed Community Dwellings.
 I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the Traffic
 
 Management Plan for the City Centre.
----
+
+[[PAGE_END:3]]
+
 4
 
 **17.Question submitted by Councillor D. McSweeney**
@@ -295,7 +302,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 a cross department working group to assist and advise the owners of Georgian buildings with their
 
 redevelopment for residential use.
----
+
+[[PAGE_END:4]]
+
 5
 
 **23.Notice of Motion submitted by Councillor J. Leddin**
@@ -333,4 +342,6 @@ trees, shrubbery, and foliage by Irish Rail along the railway line.
 **27.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:5]]
+

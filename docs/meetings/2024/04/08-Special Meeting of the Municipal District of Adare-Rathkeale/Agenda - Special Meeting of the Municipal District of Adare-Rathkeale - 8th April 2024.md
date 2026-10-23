@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 8th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/00-agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Comhairle Cathrach
 & Contae Luimnigh
 
-i
-=—
+oe
+—
 
 3° April, 2024.
 
@@ -44,7 +45,7 @@ Co, Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
-Aras Sean Pirnn,
+Aras Sean Finn,
 
 New Line,
 
@@ -55,14 +56,14 @@ Co. Limerick
 EIRCODE V94 HKLV
 
 t: +353 (0) 69 64047
-t: +353 (0) 65 63188
+ft: +353 (0) 65 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Adare-
-Rathkeale to be held in Ards Sean Finn, New Line Rathkeale on Monday 8” April, 2024 at
+Rathkeale to be held in Ards Sean Finn, New Line Rathkeale on Monday 8" April, 2024 at
 4.00 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -76,9 +77,11 @@ AGENDA
 
 Municipal District.
 
-Ceanncheathra Chorpardéideach, Cé na gCeannaithe,Luimneach
+Ceanncheathra Chorparéideach, Cé na gCeannaithe,Luimneach
 
 Corporate Headquarters, Merchants Quay, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+

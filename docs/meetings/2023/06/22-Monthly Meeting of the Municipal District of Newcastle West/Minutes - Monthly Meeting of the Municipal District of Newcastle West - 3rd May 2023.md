@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-a-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-3rd-May-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-a-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-3rd-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -102,7 +103,9 @@ Circulated, report of Head of Property and Community Facilities, dated 20th
 April, 2023, concerning proposal to dispose of property at 16 Hawthorn
 
 Drive, Newcastle West, Co. Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members noted the proposal.
@@ -174,7 +177,9 @@ When the estate is fully taken in charge, Limerick City and County Council will
 install 30km speed limit signage. Limerick City and County Council do not have
 
 the budgetary allocation to implement traffic calming at this stage.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -254,7 +259,9 @@ Question submitted by Councillor J. Scanlan
 ***I will ask at the next Meeting*** ***for an update on car parking arrangements to complement***
 
 ***our Greenway Facilities at Newcastle West.***
----
+
+[[PAGE_END:3]]
+
 4
 
 REPLY:
@@ -332,7 +339,9 @@ REPLY:
 Limerick City and County Council have included this traffic calming measure as
 
 part of the NTA works which is due to commence shortly.
----
+
+[[PAGE_END:4]]
+
 5
 
 NOTICES OF MOTION
@@ -400,7 +409,9 @@ the proposed works.
 **to keep their dogs secured on leads when in a public area.**
 
 The Motion was seconded by Councillor Scanlan.
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -466,7 +477,9 @@ In proposing the Motion, Councillor Galvin stated that the new playground is at 
 the car park and that access to the new playground is through the car park. He requested
 
 that the playground be insured under the Council’s portfolio and that clarification be sought
----
+
+[[PAGE_END:6]]
+
 7
 
 on having the car park insured also. It was agreed that the Meetings Administrator would
@@ -542,7 +555,9 @@ The Executive Engineer, Roads, gave an update to the Members on the proposed ins
 of double yellow lines at Gortboy, Newcastle West, and to drawings which have recently been
 
 prepared.
----
+
+[[PAGE_END:7]]
+
 8
 
 Reference was made to the turning count survey on Dore’s Cross and to a feasibility report
@@ -602,4 +617,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01a-draft-minutes-monthly-meeting-19th-july-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01a-draft-minutes-monthly-meeting-19th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 19TH** **JULY, 2021 at 09:45 A.M.**
@@ -90,7 +91,9 @@ And Resolved:
 Circulated, report of the Senior Staff Officer, Housing Support Services dated 22nd June,
 
 2021 setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling
----
+
+[[PAGE_END:1]]
+
 2
 
 house situate at 29 Clarke Avenue, Janesboro, Limerick and the intention to bring a Section 183
@@ -166,7 +169,9 @@ prepared in accordance with Section 179 3(a) of the Planning and Development Act
 amended) and Part 8 of the Planning and Development Regulations, 2001 (as amended) and
 
 noted that it was proposed to proceed in accordance with Section 5 of the report.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members raised the following concerns in relation to the development:
@@ -242,7 +247,9 @@ The use of CCTV apparatus to monitor taxi ranks for the purpose of issuing Fixed
 Notices is prohibited under current G.D.P.R. regulations.
 
 The estimated cost of providing CCTV apparatus at taxi ranks where CCTV is not currently
----
+
+[[PAGE_END:3]]
+
 4
 
 available is €100k.
@@ -318,7 +325,9 @@ activated shortly afterwards.
 ***or any other circumstances where the Council are taking on long term leases from pension***
 
 ***funds, what checks are the Council putting in place to ensure that these pension funds have not***
----
+
+[[PAGE_END:4]]
+
 5
 
 ***competed with first time buyers when acquiring properties.***
@@ -424,7 +433,9 @@ IPSFA
 In the context of the housing crisis in Limerick, the Long-term Leasing Scheme is now making a
 
 significant and very welcome contribution to social housing waiting lists.
----
+
+[[PAGE_END:5]]
+
 6
 
 **12.Question submitted by Councillor S. Benson**
@@ -514,7 +525,9 @@ Councillor O’Sullivan stated that she wished to withdraw this Notice of Motion
 **15.Notice of Motion submitted by Councillor A. Talukder (to be referred to the Community,**
 
 **Leisure and Culture Strategic Policy Committee)**
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that consideration be***
@@ -588,7 +601,9 @@ The motion was proposed by Councillor Kiely, seconded by Councillor O'Sullivan a
 In proposing the motion, Councillor Kiely expressed concern that funding for Regeneration
 
 projects was used outside the Regeneration areas.
----
+
+[[PAGE_END:7]]
+
 8
 
 Members requested that updated boundary maps for each Regeneration area would be
@@ -656,7 +671,9 @@ numbers have increased by approx. 1000.
 Indications so far for 2021 are that licences at year end will be approx. 200 ahead of the
 
 2020 figure.
----
+
+[[PAGE_END:8]]
+
 9
 
 The concentration in relation to information campaigns this year has been on dog fouling
@@ -694,4 +711,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

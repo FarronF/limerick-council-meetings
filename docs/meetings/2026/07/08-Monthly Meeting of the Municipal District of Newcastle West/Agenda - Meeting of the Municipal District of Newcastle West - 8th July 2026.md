@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 8th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 Comhairle Cathrach
@@ -98,7 +99,9 @@ www.limerick.ie if
 000
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -176,7 +179,9 @@ Templeglantine (c) Devon Road Cross, Templeglantine.
 **10.**
 
 I will ask at the next Meeting for an update on the housing development at Mountcoilins.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Questions submitted by Councillor J. Scanlan**
@@ -258,4 +263,6 @@ I will move at the next Meeting that Limerick City and County Council use the po
 over dereliction to do whatever is necessary to bring the two derelict commercial units in
 
 Ardmoyle estate, Carrigkerry into use either as commercial or residential.
----
+
+[[PAGE_END:3]]
+

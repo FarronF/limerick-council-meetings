@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-29th-may-2026.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-29th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
 **HELD ONLINE, ON FRIDAY, 29TH** **MAY 2026 AT 10.00 A.M.**
@@ -92,7 +93,9 @@ infrastructure. They expressed the view that the scale of proposed development a
 of infrastructure warranted a wider Options Report highlighting that alternative options
 
 should be more thoroughly investigated.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members expressed disappointment at the level of community engagement and consultation
@@ -168,7 +171,9 @@ objectives to achieve sustainable population growth and balanced regional develo
 They examined the potential impacts on future generations in the area and discussed the
 
 following issues:
----
+
+[[PAGE_END:2]]
+
 3
 
 • The development would effectively sterilise sections of the road network which could
@@ -244,10 +249,14 @@ This concluded the Meeting.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Leas Phríomh Chomhairleoir**
----
+
+[[PAGE_END:3]]
+
 4
 
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/00-agenda.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/00-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach Comhairle Cathrach agus Conta Luimnigh,
+—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Olfig an Cheantaly, Aras Mha we n seoighe,
 
-: : : Co Luinvygt
-= Limerick City —
+‘ : : Co Luinvygt
+= Limerick City —_—
 & County Council Limerick City and County Council
 
 Aras Mainchin Seoighe Area Office,
@@ -38,7 +39,7 @@ EIRCODE V35 K497
 t: +353 (0) 63 980 19
 f: +353 (0) 63 985 99
 
-11™ April, 2025.
+11” April, 2025.
 
 A Chomhairleoir, a chara,
 
@@ -52,10 +53,10 @@ Is mise le meas,
 
 \ \c x
 
-SO
+YS
 
 Mark Leahy, WA
-Meetings Adniinistrator.
+Meetings Administrator.
 
 AGENDA
 
@@ -68,13 +69,15 @@ March, 2025.
 (Copy enclosed)
 2. Declaration of Interest
 & customerservices@limerickie
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Arks Mhainchin Seoighe © vewwalimerici.ie
+Comhairie Cathrach agus Contae Luimnigh, Oifig an Cheantair, Arks Mhainchin Seoighe © vewwalimericicie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Rural, Cultural, Community & Tourism Development Directorate
@@ -93,7 +96,7 @@ General Municipal Allocations (GMA).
 Questions
 6. Question submitted by Councillor Carey
 
-I will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an update on my
+| will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for an update on my
 motion from December 2024 regarding the audit and inspection of doors and windows at
 Riverview Estate, Kilmallock, Co. Limerick, | will ask how many units have been inspected and
 how many of these have had work done.
@@ -112,7 +115,9 @@ with the name of the estate ‘The Oaks’ in Liscreagh, Murroe can be replaced 
 has deteriorated.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motions
@@ -137,4 +142,6 @@ management survey be carried out on Sarsfield Street, Kilmallock with a view to 
 pedestrian crossing near Friars Gate.
 
 
----
+
+[[PAGE_END:3]]
+

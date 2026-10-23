@@ -24,7 +24,7 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Special Meeting of Municipal District of Adare-Rathkeale - 15th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_special_meeting_15th_february2c_2017.pdf) - [Extracted text](./Agenda%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2015th%20February%202017.md)
+Agenda - Special Meeting of Municipal District of Adare-Rathkeale - 15th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_special_meeting_15th_february2c_2017.pdf) - Text not extracted
 
 Proposed Works Kilcornan Community Centre - Special Meeting of Municipal District of Adare-Rathkeale - 15th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_proposed_works_kilcornan_community_centre.pdf) - Text not extracted
 

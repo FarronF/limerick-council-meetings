@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2020-01-08-minutes-january.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 8th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2020-01-08-minutes-january.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ provide social housing in smaller villages along with the need to provide servic
 smaller towns and villages for private development. The necessity of having a mix of social
 
 and private housing in areas was also highlighted. The difficulty in obtaining planning
----
+
+[[PAGE_END:1]]
+
 2
 
 permission for one off rural housing was also raised and the new proposals on rural housing
@@ -174,7 +177,9 @@ Question submitted by Councillor T. Ruddle
 ***Kilmeedy, (c) Dromcollogher, (d) Broadford, (e) Feenagh,(f) Castletown-Ballyagran, (g)***
 
 ***Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbeyfeale,(l) Mountcollins,***
----
+
+[[PAGE_END:2]]
+
 3
 
 ***(m)Tournafulla,(n) Templeglantine, (o) Ardagh-Carrigkerry (p) Raheenagh (q) Ashford (r)***
@@ -300,7 +305,9 @@ The selection options available to applicants are noted on the Housing
 Application Form. Applicants approved for housing for longer than one year
 
 have the option to request a change to their areas of choice.
----
+
+[[PAGE_END:3]]
+
 4
 
 QUESTIONS
@@ -370,7 +377,9 @@ In replying, the Director of Services acknowledged the demand for playgrounds an
 that this property was being dealt with under the Derelict Sites Act legislation. He also noted
 
 the curtilage of the property was under separate ownership and that normally the Council
----
+
+[[PAGE_END:4]]
+
 5
 
 would provide a site for a playground from existing Council land rather than purchasing a site
@@ -448,7 +457,9 @@ congestion. The Executive Engineer agreed to make contact with the Gardai on thi
 An update on the provision of grave spaces for sale subject to availability in active cemeteries
 
 within the Newcastle West Muncipal District was requested. A brief discussion followed and
----
+
+[[PAGE_END:5]]
+
 6
 
 the Director stated that Limerick City and County Council are currently in the process of
@@ -510,4 +521,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

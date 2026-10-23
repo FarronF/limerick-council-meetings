@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20November%202022.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 21st November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20November%202022.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -97,7 +98,9 @@ To adopt Minutes of the following Meetings of the Metropolitan District of Limer
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -155,7 +158,9 @@ for the Westfield Wetland’s will come before the Climate and Biodiversity SPC,
 estimated budgetary cost required for the implementation of said plan is and an indicative
 
 timeline for implementing the measures of the plan.
----
+
+[[PAGE_END:2]]
+
 3
 
 **7.Question submitted by Councillor C. Sheehan**
@@ -211,7 +216,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 widening of the Golf Links Road by O'Shea's Pub and also an update on the proposed link road
 
 connecting Groody Road to Golf Links Road/Old School House Road.
----
+
+[[PAGE_END:3]]
+
 4
 
 **14.Question submitted by Councillor E. Secas**
@@ -275,7 +282,9 @@ place with the NTA regarding the additional bus lane in O'Connell Street.
 I will ask at the next meeting of the Metropolitan District of Limerick if the Director responsible
 
 could provide leaf cleaning schedule for the City area.
----
+
+[[PAGE_END:4]]
+
 5
 
 **19.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -337,7 +346,9 @@ for this road, I am requesting an update on when the improvements works will com
 and how long it will take to complete the scheme and if it is anticipated that it will be completed
 
 during 2023.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICES OF MOTION**
@@ -397,7 +408,9 @@ the Minister for Housing, Local Government and Heritage, Darragh O’Brien and t
 Micheál Martin outlining the urgent need for the allocation of additional funding to recruit the
 
 additional staff required to deliver affordable housing within our City and County.
----
+
+[[PAGE_END:6]]
+
 7
 
 **31.Notice of Motion submitted by Councillor S. Kiely**
@@ -439,4 +452,6 @@ connecting in to these IDA owned lands and Business Parks.
 **35.Correspondence**
 
 (Copy of Correspondence Enclosed)
----
+
+[[PAGE_END:7]]
+

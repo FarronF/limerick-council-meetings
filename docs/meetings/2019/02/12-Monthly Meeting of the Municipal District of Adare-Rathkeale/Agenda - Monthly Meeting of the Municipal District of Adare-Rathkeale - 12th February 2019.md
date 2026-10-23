@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2012th%20February%2C%202019_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%2012th%20February%2C%202019_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimngh,
 
-m , a, Aras Sean Finn,
+4 , Aras Sean Finn,
 
-> _—CsLimerick City Rath Coola,
+——— _—sLimerick city Rath Coola,
 & County Council Co. Luimnigh,
 
 Adare-Rathkeale Municipal District,
@@ -55,11 +56,11 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-aa Sat
+ao Sat
 
 Meetings Administrator.
 
-nnn nn nn nn nn nn ne nn nn nn ns enn en nnn nnn nn nn nn eee ene een nee eee eee eee eee eee nent eee e eee eee eee e eee e ee eee eee Reese nena
+nn nn nn nn nn nn nn nn nnn nn enn enn nnn nn ne nee ne eee ne nen nee eee eee eee eee R teen eee e Reese eee ee ee eee eee eee eee Renee nena
 
 AGENDA
 
@@ -73,18 +74,20 @@ To adopt Minutes of the following Meetings:
 2019,
 (Copies Enclosed)
 os limerickie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach | www.limerick.ie
+Ceanncheathni Chorparaideach, Cé na gCeannaithe,Luimneach | www.limerick.ie
 
 Corporate Headquarters, Merchants Quay, Limerick. w @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-utation from ir’ r
+utation from ir r
 
-To receive Deputation from the Cardiac First Responder Group. (Item to be taken at 9.00
+To receive Deputation from the Cardiac First Responder Group. (item to be taken at 9.00
 a.m.).
 
 Christmas in Rathkeale Update
@@ -121,7 +124,9 @@ To receive an update on the path from Kildimo Village to the Beer Garden Public 
 tw
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -178,7 +183,9 @@ To review position in relation to allocations under the General Municipal Alloca
 2018/2019.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -207,4 +214,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

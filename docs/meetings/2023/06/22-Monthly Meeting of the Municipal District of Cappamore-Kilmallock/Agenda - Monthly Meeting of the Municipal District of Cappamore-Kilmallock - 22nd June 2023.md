@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
----
+[[FILE_START]]
+
 **16th** **June 2023.**
 
 **To/**
@@ -54,7 +55,9 @@ Kilmallock held on the 18th May 2023
 2.Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 18th May 2023.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Deputation by Garrienderk Community Development.
@@ -102,4 +105,6 @@ in store for the building.
 I will ask at the next Municipal District meeting are there any plans for a Columbarium Wall
 
 or Ash Plots in the District.
----
+
+[[PAGE_END:2]]
+

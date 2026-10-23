@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%2C%202019.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 20th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+__—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-ON
-—= Limerick City
+ON i ———_
+—>= Limerick City
 & County Council
 
 14” june, 2019.
 
-Setrdnisi Corpartideacha,
+Setrbdhisi Corpartideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Cesnncheathna Chorpardideach,
+Cesnncheathns Chorpardideach,
 
 Cé na gCeannaithe,
 
@@ -46,9 +47,9 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V9 EH9O
+EIRCODE V9 EHSO
 
-t: 4353 (0) 61 557150
+t: 4383 (0) 61 557150
 f: +353 (0) 61 415 266
 
 TO: The Cathaoirleach and Each Member of the Metropolitan District of Limerick
@@ -63,13 +64,13 @@ Agenda.
 
 Is mise le meas,
 
-~
+n
 
 Ja 165 Clune,
 Me&ting Administrator.
 SS
 
-meme een n nee nn enn ee nnn eee rr rw ene nn ne wn cen w enn en meen nnn ne en eee nn cane enn ee nes eens none nee ee eee nnn eee
+Pree e nnn nn en enn ee nnn er rn re ewe nn na wn ween enn n meen ene ween eee nn cane en nee nes eens ene n nnn e eee enn e- eee
 
 AGENDA
 
@@ -81,9 +82,11 @@ Corporate Headquarters, Merchants Quay, Limerick
 ™ customerservices@limerick.te
 © wvewlimerickic
 
-w @LimerickCouncil
+Ww @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

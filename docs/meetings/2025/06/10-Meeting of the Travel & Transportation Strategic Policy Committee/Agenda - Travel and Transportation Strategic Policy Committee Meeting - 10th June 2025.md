@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-travel-transportation-spc-meeting-10.06.25.pdf)
+**Original file:** [Agenda - Travel and Transportation Strategic Policy Committee Meeting - 10th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-travel-transportation-spc-meeting-10.06.25.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **30th** **May, 2025**
@@ -51,7 +52,9 @@ out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -119,7 +122,9 @@ Policy Committee write to the **Minister for Transport**, the **Chairperson of t
 call for urgent prioritisation and full delivery of the **Rathkeale to Limerick City**
 
 **Greenway** in advance of the **Ryder Cup in 2027**.
----
+
+[[PAGE_END:2]]
+
 3
 
 ***Note: The full delivery of the Greenway - from Rathkeale to Limerick City - should*
@@ -149,4 +154,6 @@ including milestones completed to date, current stage of planning or design,
 estimated timelines for construction, and any obstacles that may impact the project's
 
 delivery ahead of the 2027 Ryder Cup.
----
+
+[[PAGE_END:3]]
+

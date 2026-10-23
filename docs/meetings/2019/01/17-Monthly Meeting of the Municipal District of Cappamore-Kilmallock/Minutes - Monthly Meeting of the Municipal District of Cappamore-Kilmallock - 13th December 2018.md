@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/02%20Minutes%20Dec%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 13th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/02%20Minutes%20Dec%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -53,7 +54,7 @@ Donegan in the USA. As a mark of respect, the Meeting was adjourned for fifteen 
 1. Ad n
 
 (i) Circulated, copy of draft Minutes of Monthly Meeting of the Municipal District of
-Cappamore-Kilmallock held on the 21 November, 2018.
+Cappamore-Kilmallock held on the 21* November, 2018.
 
 Proposed by Councillor Mitchell;
 Seconded by Councillor Gleeson;
@@ -62,7 +63,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. HearSay19
@@ -107,7 +110,9 @@ various areas in the Municipal District during 2018 and complimented all the sta
 Limerick City & County Council on this work.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Support Services Directorate
@@ -153,7 +158,9 @@ The Head of Digital Strategy also stressed the importance that these Smart CCTV 
 would be fully compliant with privacy, GDPR and legal requirements to ensure that they were
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 operated in an effective and responsible manner by the local authority. He outlined the
@@ -194,4 +201,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:4]]
+

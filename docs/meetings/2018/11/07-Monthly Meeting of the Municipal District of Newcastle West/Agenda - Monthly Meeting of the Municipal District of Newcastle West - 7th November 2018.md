@@ -16,39 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%202018-11-07%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%202018-11-07%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a
+Duiiche Bardais an Chaisleain Nua Thiar,
+_—_—— Comhairle Cathrach agus Contae Luimnigh,
+AN ff ™ Aras William Smith O'Brien,
 
-Ani ™
-Limerick
-CITY & COUNTY
-
-COUNCIL
-
-2 November , 2018
-
-Duiche Bardais an Chaisledin Nua Thiar,
-Comhairle Cathrach agus Contae Luimnigh,
-Aras William Smith O'Brien,
-
-Gortbui
-
+Gortbut
 An Caislean Nua Thiar,
 
-Co. Luimnigh
+—
+Limerick CatLarnion
 
-Newcastle West Municipal District,
-Limerick City and County Council,
+CITY & COUNTY Newcastle West Municipal District,
+COUNCIL Liners Chy aad Coaney CoLncR.
 Aras William Smith O'Brien,
 
 Newcastle West.
 Co. Limerick
 
-t: +353 (0) 69 62100
+22 N ber , 2018
+ovember , 2 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -60,42 +52,38 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 7 Novem
 
 Is mise le meas,
 
-argarét Corbett,
+argaré&t Corbett,
 Meetings Administrator.
 
 AGENDA
-
-ad. Minutes
-
+1. Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Municipal District of Newcastle West held on 3" October, 2018.
-(b) Oraft Budgetry Plan 2019 held on 19" October, 2018
-
-2. Social Development Directorate
+(b) Oraft Budgetry Plan 2019 held on 19 October, 2018
 
 (Copies Enclosed)
 
-To receive presentation o1 Community Development/Town and Village Renewal
+2. Social Development Directorate
 
+To receive presentation o1 Community Development/Town and Village Renewal
 Initiatives.
 
 3. Di lof
 
-To note proposal for the disposal! of freehold interest at 7 Connolly Terrace,
-
+To note proposal for the disposa! of freehold interest at 7 Connolly Terrace,
 Newcastle West, Co. Limerick.
 
-Preecitwr betel prere repreni-p-atal
-Corporate Headquarters, Merchants Quay, Limerick
-
 (Report Enclosed)
+@ customerservices@limerick.ie
 
-@ customerservices@limerick.te
-wv @limerickCouncil
+Preece betes onl prereset depron o alata @ Vvewwlimerickie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
@@ -150,7 +138,9 @@ Hazelgrove, Newcastle West.
 own within the Municipal District of Newcastle West and for how long they are vacant.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -169,11 +159,13 @@ Notices of Motion submitted by Councillor L. Galvin
 Abbeyfeale and from Leahy’s Cross to Kelliher’s house.
 
 | will move at the next Meeting that a disability bay be placed in the Athea village.
-N f ion i il ca
+N f jon i il ca
 | will move at the next Meeting that immediate steps are taken in terms of
 
 reviewing traffic management arrangements along Boherbui road from the Church
 towards the junction with Old Killeline in Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+

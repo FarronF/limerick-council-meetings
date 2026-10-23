@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 09 - September
 
 * [03 Meeting Of The Cultural Spc](03-Meeting of the Cultural SPC/README.md)
@@ -12,3 +16,4 @@
 * [20 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](20-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)
 * [21 Joint Policing Committee Meeting](21-Joint Policing Committee Meeting/README.md)
 * [24 Full Meeting Of Limerick City And County Council](24-Full Meeting of Limerick City and County Council/README.md)
+* [26 Special Meeting Of The Cappamore Kilmallock Municipal District](26-Special Meeting of the Cappamore-Kilmallock Municipal District/README.md)

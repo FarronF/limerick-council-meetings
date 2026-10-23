@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN CUAN
@@ -80,7 +81,9 @@ District meeting. The dates agreed are as followed:
 23rd March – 2pm Workshop on Speed Limit Review
 
 3pm March Monthly Meeting of Cappamore Kilmallock Municipal District
----
+
+[[PAGE_END:1]]
+
 3. Disposal of Property
 
 An update was provided by Property Services on the disposal of property at Foxhall West.
@@ -150,7 +153,9 @@ Development CLG. Ms Healy also outlined the branding and website relating to the
 Heartlands initiative. A presentation on the region was delivered to the Elected members
 
 and leaflets circulated.
----
+
+[[PAGE_END:2]]
+
 Notices of Motion
 
 7.Notice of Motion submitted by Councillor Mitchell
@@ -214,7 +219,9 @@ Annual St. Patrick’s Day Parades planned within the Municipal District.”
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor M Ryan**
----
+
+[[PAGE_END:3]]
+
 **REPLY:**
 
 The Festivals and Events team have put in place a grant scheme for St Patrick’s Day Parades
@@ -280,7 +287,9 @@ Cluain Foinse is currently included on the Council’s 2023 Taking in Charge wor
 bond has been drawn down. Therefore, it is estimated that the formal procedures to take the estate
 
 in charge and works will commence in Q4 2023.
----
+
+[[PAGE_END:4]]
+
 12.
 
 Question submitted by Councillor Mitchell
@@ -332,4 +341,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore-kilmallock_-_23rd_april_2015_0.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 23rd April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore-kilmallock_-_23rd_april_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -66,7 +67,9 @@ Seconded by Councillor Gleeson;
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That, the following estates — (i) Bellview, Kilmallock; (ii) Glen Grove, Kilmallock - be
@@ -95,7 +98,7 @@ dealt with:
 
 4. Question submitted by Councillor Mitchell
 
-! will ask at the next Meeting when will both Hospital and Caherconlish
+/ will ask at the next Meeting when will both Hospital and Caherconlish
 libraries be re-opened due to closures from Tuesday 7th April as a result of
 staffing shortages.
 
@@ -118,7 +121,9 @@ e Every Friday afternoon 2pm - 4pm in Hospital, (adjacent to
 O'Sullivan’s Centra Shop).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 As soon as further information is available Limerick City and County Council will
@@ -126,7 +131,7 @@ inform all Councillors.
 
 uestion submitted by Councillor O’Donnell
 
-| will ask at the next meeting on how many occasions during the winter period
+/ will ask at the next meeting on how many occasions during the winter period
 2014/2015 was Regional Road R514 treated under the Winter Maintenance
 
 Programme.
@@ -168,7 +173,9 @@ With the Cathaoirleach’s permission, sympathy was extended to the following on
 their recent bereavements:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Sean & Dominic Treacy, on the death of their father, Jeremiah Treacy,
@@ -190,4 +197,6 @@ Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:4]]
+

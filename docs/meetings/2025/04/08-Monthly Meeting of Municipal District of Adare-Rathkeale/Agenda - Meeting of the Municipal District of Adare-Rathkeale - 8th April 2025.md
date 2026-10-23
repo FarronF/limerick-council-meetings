@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach 7 bay herboseaph Ath Dara-Rath Caola,
-.. Ps Somhairie Cathrach agus Contae Lutmnigh,
+_ Comhairle Cathrach P a horbosragh Ath Dara-Rath Caola,
+., Py Somhairie Cathrach agus Contae Lutmnigh,
 
-= a~ & Contae Luimnigh Aras Séan Fenn,
-\ s . . Line Nua,
-—=— Limerick City Rath Ceola,
+= ~~ & Contae Luimnigh Aras Séan Fenn,
+\ . . A Line Nua,
+—=— Limerick City Rath Coola,
 
 & County Council Co. Luimnigh.
 
-Adare-Rathkeale Municipal District,
+Adare-Rathkeale Municpal District,
 Limerick City and County Council,
 Aras Sean Finn,
 
@@ -42,7 +43,7 @@ Co. Limerick.
 
 EIRCODE V94 HKIV
 
-t: +353 (0) 69 64047
+t +353 (0) 69 64047
 ft: +353 (0) 69 63188
 2" April, 2025.
 
@@ -54,7 +55,7 @@ You are requested to attend a Meeting of the Municipal District of Adare-Rathkea
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 8" April, 2025 at 9.30 a.m.
 The business to be transacted is set out on the appended Agenda.
 
-ls mise le meas,
+Is mise le meas,
 Karen Butler,
 Meetings Administrator.
 AGENDA
@@ -64,13 +65,15 @@ To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale
 (Copy Enclosed).
 2. Declaration of Interest
 am customerservices@limerick.ie
-Ceanncheathri Chorparéideach, Cé na gCeannaithe,Luimneach | © vevrwimerick.ie
+Ceanncheathri Chorparéideach, Cé na gCeannaithe,Luimneach | © veurwimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -104,7 +107,9 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2025.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -146,4 +151,6 @@ National School, Croom.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

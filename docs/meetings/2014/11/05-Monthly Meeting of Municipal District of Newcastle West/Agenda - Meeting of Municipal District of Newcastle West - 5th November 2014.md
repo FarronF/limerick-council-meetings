@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 5th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_— Seirohisi Corparaideacha agus Bainistiocht Athruithe,
+_—_—_— Seirohisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NINA : Cé na gCeannaithe,
+ANN Cé na gCeannaithe,
 — Luimneach
 
 . .
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and prec Council
-erchants Quay,
-COUNCIL Ceramic
+lerchants Quay,
+COUNCIL race
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -44,7 +45,7 @@ District of Newcastle West.
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at
-Aras William Smith OBrien, Gortboy, Newcastle West, Co. Limerick, on Wednesday, 5h
+Aras William Smith OBrien, Gortboy, Newcastle West, Co. Limerick, on Wednesday, 5
 November, 2014, at 10.00 a.m. The business to be transacted is set out on the appended
 
 Agenda.
@@ -59,17 +60,19 @@ AGENDA
 1. Minutes:
 To adopt the Minutes of the following Meetings:
 
-(a) Ordinary Meeting of the Municipal District held on 1* October, 2014.
+(a) | Ordinary Meeting of the Municipal District held on 1* October, 2014.
 (b) Budgetary Plan Meeting of the Municipal District held on 9" October, 2014.
 
 2. Discuss issues with An Garda Siochana (Superintendent, Mr. Thomas O'Connor,
 Newcastle West Garda Station, will be in attendance).
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wewwlimerick.te
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ne
@@ -110,7 +113,9 @@ estates in our charge to reduce the speed limit as asked by Minister Paschal Don
 following a campaign by the family of the late Jake Brennan.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -138,4 +143,6 @@ Notice of Motion submitted by Councillor S. Browne
 Abbeyfeale.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/03-february-2020-md-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/03-february-2020-md-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__ Comhairle Cathrach Comranie Catt nay agus area Luimnigh,
+_—__ Comhairle Cathrach Comnanie Cath nny agus area Luimnigh,
 
-z dig an Cheantat, Aras Mhainchin Seoighe,
+Py dig an Cheantat, Aras Mhainchin Seoighe,
 
 ~~ & Contae Luimnigh Cill Mochealig,
 
-NN ; Co, Luimnigh
+NN - Co, Luimnigh
 —. Limerick City
 
 & County Council Limerick City and County Council,
@@ -41,7 +42,7 @@ Co. Limerick
 EIRCODE V35 K497
 
 t: +353 (0) 635 980 19
-ft: +353 (0) 63 985 99
+t: +353 (0) 63 985 99
 
 14" February, 2020.
 
@@ -69,16 +70,18 @@ Cappamore-Kilmallock held on the 16th January, 2020.
 
 (Copy enclosed)
 
-2. Deputation from Step Forward Disability Group
+2.Deputation from Step Forward Disability Group
 
 To receive Deputation from Deputation from the Step Forward Disability Group,
 
 Hospital, Co. Limerick. as
-Comhairie Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe wwwlimerickie
-Limerick City and County Council. Aras Mainchin Seoighe Area Office v
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe www.limerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Capital Investment Directorate
@@ -123,7 +126,9 @@ Knocklong, Knockainey, Kilteely, Herbertstown, Galbally, Ballylanders, Martinsto
 Bulgaden, Meanus, Grange, Bruff, Garrydoolis and Templebraden.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Notice of Motion submitted by Councillor Martin Ryan
@@ -137,7 +142,7 @@ dumping that has blighted the roads and fields of County Limerick.
 QUESTIONS
 10. Question submitted by Councillor Mike Donegan
 
-I will ask at the next meeting of the Municipal District of Cappamore-Kilmallock for an
+| will ask at the next meeting of the Municipal District of Cappamore-Kilmallock for an
 update on the taking in charge of Castle Court and Ashill Manor estates in Kilmallock.
 
 11. estio mitted by Councillor Brigid Teef
@@ -167,4 +172,6 @@ that will become available within the next 6 months in each village/town in the
 Cappamore-Kilmallock Municipal District.
 
 
----
+
+[[PAGE_END:3]]
+

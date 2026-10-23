@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-metropolitan-district-of-limerick-21st-october-2024.pdf)
+**Original file:** [Agenda - Meeting of The Metropolitan District of Limerick - 21st October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-metropolitan-district-of-limerick-21st-october-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _——_ Comhairle Cathrach
 & Contae Luimnigh
-at iT rors
 — Limerick City
 & County Council
 
@@ -34,7 +34,7 @@ A Chomhairleoir, a chara,
 Setbhisi Corpardideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathnd Chorpardideach,
+Ceanncheathrd Chorpardideach,
 
 Cé na gCeannaithe
 
@@ -46,7 +46,7 @@ Limerick City and County Council
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V4 EHS0
 
@@ -54,7 +54,7 @@ t: 4353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
-Monday, 21" October, 2024 at 9.45am in the Council Chamber, Merchant’s Quay, Limerick and
+Monday, 21" October, 2024 at 9.45am in the Council Chamber, Merchant's Quay, Limerick and
 
 Online via Microsoft Teams.
 
@@ -69,7 +69,7 @@ Meetings Adptinistrator.
 
 1. Support Services Directorate
 
-Draft Bud Plan 2025 — General Munici
+Draft Bud, Plan 2025 — General Munici
 
 To consider and adopt the Draft Budgetary Plan 2025 General Municipal Allocation for the
 Metropolitan District of Limerick in accordance with Section 102 (4) of the Local Government Act,
@@ -81,15 +81,17 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Report Enclosed).
 
-[= customerservicesa@limerickie
+&= customerservicesa@limericiie
 © veorvidimerickie
 
-W @LimerickCouncil
+YW @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Minutes
@@ -135,14 +137,16 @@ the requirements of Section 200(1) of the Local Government Act 2001 (as amended)
 Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. i rts and R ion Directorate
 
 Part 8 — Southside Connectivity Project
 
-To consider the Mayor's Report pursuant to Section 179 3({a) of the Planning and Development
+To consider the Mayor's Report pursuant to Section 179 3(a) of the Planning and Development
 Act, 2000 (as amended) and Part 8 of the Planning and Development Regulations, 2001 (as
 amended) in relation to the Southside Connectivity Project.
 
@@ -187,7 +191,9 @@ many local authority houses are boarded-up.
 many people are on the Limerick City and County Council social housing list.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor S. Beasley
@@ -241,7 +247,9 @@ Roundabout in Lisnagry.
 are considering for the development of the site that was purchased at Annacotty Roundabout.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Question submitted by Councillor U. Gavan
@@ -257,7 +265,7 @@ release of numbers that over 100 dogs were put down in Limerick and as LCCC does
 veterinary office can LCCC confirm who is euthanizing these animals as the drug can only be
 administered by a qualified vet.
 
-22. Question submitted by Councillor S$. Benson
+22. Question submitted by Councillor $S. Benson
 
 | will ask at the next Meeting of the Metropolitan District of Limerick why the Council's emergency
 out of hours number went unanswered on the night of October 6th and if the Council is aware of
@@ -279,8 +287,8 @@ renovate the building was applied for and granted to the Council.
 | will ask at the next Meeting of the Metropolitan District of Limerick can solar speed signs be
 erected on the approach to Donoughmore Cross R512 to tackle speeding in the area.
 
-26. lon llor C.
-1 will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
+26. ion llor C.
+| will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 
 discussions between the NTA and Limerick City and County Council on the expansion of the
 dockless bike scheme beyond Castletroy into other suburbs such as Corbally.
@@ -291,7 +299,9 @@ dockless bike scheme beyond Castletroy into other suburbs such as Corbally.
 unauthorised developments that have had to be removed/demolished between 2019 and 2024.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 28. Question submitted by Councillor C. Sheehan
@@ -320,7 +330,7 @@ e The number of dogs voluntarily surrendered to the shelter over the past five y
 proposed Ennis Road to City Centre bus route and whether such a proposed route will serve
 Ashbrook, Fortmary Park and the North Circular Road.
 
-32. Question submitted by Councillor O. O’Sullivan
+32. Question submitted by Councillor O. O'Sullivan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how many staff are directly
 employed by the Council for a) tourism b) festivals and events c) the Arts Office and what role
@@ -332,7 +342,7 @@ does each staff member hold.
 funds applied for and drawn down, by Limerick City and County Council from the Department of
 Tourism, Culture, Arts, Gaeltacht, Sport and Media for 2023 and 2024 to date.
 
-34. Question submitted by Councillor O. O'Sullivan
+34. Question submitted by Councillor O. O’Sullivan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can the Active Travel
 Department explain what is happening with the green area by the Moylish roundabout opposite
@@ -348,14 +358,16 @@ Department to establish if, with the focus on DAC-led cultural institutions and 
 6
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 in the tourism survey and other marketing materials, will there be similar avenues of support for
 non-DAC attractions to access over the coming months / years, ahead of the new tourism strategy
 being introduced.
 
-36. Question submitted by Councillor M, Donoghue
+36. Question submitted by Councillor M. Donoghue
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that the Festival & Events
 Department to set out the structure of funding given to events providers and performers and
@@ -374,14 +386,14 @@ NOTICES OF MOTION
 38. Notice of Motion submitted by Councillor J. Leddin (to be referred to the Travel and
 Transportation Strategic Policy Committee)
 
-| will move at the next Meeting of the Metropolitan District of Limerick that this Council amend
+I will move at the next Meeting of the Metropolitan District of Limerick that this Council amend
 our traffic calming policy to allow the delivery of traffic calming measures where an elected
 member provides the funding and the necessary petition is signed and submitted by residents.
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 County Council agree to source more hostel beds for individual homeless people.
 
-| will move at the next Meeting of the Metropolitan District of Limerick that this Council writes to
+I will move at the next Meeting of the Metropolitan District of Limerick that this Council writes to
 Irish Rail asking for compensation for homes within the Metropolitan District which are currently
 experiencing rodent infestation due to works completed along the Limerick to Foynes railway line.
 
@@ -394,7 +406,9 @@ County Council would present to city centre retailers at no cost parking ticket 
 7
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2025 provided the retailers have paid their 2024 rates in full. | would suggest large retailers who
@@ -412,7 +426,7 @@ car parking problems in residential areas around the University of Limerick.
 44. Notice of Motion submitted by Councillor F. Kilcoyne
 
 | will move at the next Meeting of the Metropolitan District of Limerick requesting that the Local
-Authority liaises with the National Transport Authority, lrish Rail and the Department of Transport
+Authority liaises with the National Transport Authority, Irish Rail and the Department of Transport
 to explore the option of constructing temporary rail platforms for passenger travelling between
 Foynes and Limerick for the duration of the 2027 Ryder Cup event at all population centres along
 the route, such as Adare, Patrickswell and Rosbrien / Dooradoyle.
@@ -436,7 +450,9 @@ establish an online directory of Limerick based professional artists from across
 disciplines akin to Clare Arts Office's online directory at clarearts.ie.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 49. Notice of Motion submitted by Councillor S. Hickey-O’Mara
@@ -465,4 +481,6 @@ due to reviews by the Mayor including but not limited to housing and property di
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:9]]
+

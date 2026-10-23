@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%20Minutes%2018th%20June%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%20Minutes%2018th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 18TH** **JUNE, 2018.**
@@ -88,7 +89,9 @@ Seconded by Councillor Butler;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members requested an update as to the maintenance of the pumping station at Ritaville, Old Cork
@@ -166,7 +169,9 @@ The Members thanked Dr. Fitzgerald for his presentation and made the following p
 Dr. Fitzgerald responded to the points made and welcomed the support from the Members. The
 
 Mayor thanked Dr. Fitzgerald for his comprehensive address.
----
+
+[[PAGE_END:2]]
+
 3
 
 **2.**
@@ -254,7 +259,9 @@ Ministerial approval received.
 -
 
 Funding under Project Ireland 2040 National Development Plan.
----
+
+[[PAGE_END:3]]
+
 4
 
 -
@@ -346,7 +353,9 @@ place at planning stage.
 • Are noise levels from wind turbine at Vistakon recorded?
 
 • Shannonvale, Old Cratloe Road should be included in Plan.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Senior Executive Engineer, Physical Development responded to the issues raised.
@@ -418,7 +427,9 @@ that it was proposed to proceed in accordance with Section 5 of the report.
 Members welcomed the proposed development and requested that a 2.4 metre boundary wall
 
 would be part of the scheme.
----
+
+[[PAGE_END:5]]
+
 6
 
 **(b)**
@@ -502,7 +513,9 @@ Limerick City and County Council and the National Transport Authority are
 commencing the Limerick Transport Strategy this Summer and as the R445 is a
 
 major access route to the City Centre, this study will also examine the R445 in its
----
+
+[[PAGE_END:6]]
+
 7
 
 entirety and determine the appropriate transport measures to be applied on this
@@ -610,7 +623,9 @@ breakdown between HAP and RAS properties.
 **Up**
 
 **Inspections 1.1.18**
----
+
+[[PAGE_END:7]]
+
 8
 
 **to 10.6.18**
@@ -702,7 +717,9 @@ an emerging preferred option and invited comment from the Elected Members,
 interested stakeholders and the general public. At all times the views of the Elected
 
 Members have been respected and changes made as a result of the various
----
+
+[[PAGE_END:8]]
+
 9
 
 consultations. If requested, a further workshop can be held with the Elected
@@ -784,7 +801,9 @@ road improvement scheme for the area finalised.
 Limerick City and County Council and the National Transport Authority are
 
 commencing the Limerick Transport Strategy this Summer, and as the R445 is a
----
+
+[[PAGE_END:9]]
+
 10
 
 major access route to the City Centre, this study will also examine the R445 in its
@@ -848,4 +867,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

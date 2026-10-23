@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%202019-05-01%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 1st May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%202019-05-01%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———_ Comhairle Cathrach Dich Bandai an Chaisedin Niue Thr
+———— Comhairle Cathrach Dich Bendel an Cheisedin Nun Thr
 Comhairle Cathrach ‘ont imni
 
-ex & Contae Luimnigh ical Wan ORE
+a & Contae Luimnigh ical WUE SORE
 
-—>= Limerick City An Caislean Nua Thar
+—= Limerick City An Caislean Nua Thar
 
 & County Council Co, Luimnigh.
 
@@ -38,7 +39,7 @@ Gortboy,
 Newcastle West,
 
 Eircode: V42EH73
-outatie
+ontatie
 26" April, 2019 t: +353 (0) 69 62100
 
 To: Th i h f the Municipal Di West
@@ -72,11 +73,13 @@ To note progress report from the Housing Development Directorate.
 To receive presentation on the Municipal District of Newcastle West.
 
 os
-cena emma 4
-Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
+cena samammiaay ot
+Corporate Headquarters, Merchant's Quay, Limerick W e@limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6.
@@ -140,7 +143,9 @@ Notices of Motion submitted by Councillor J. Scanian
 Cross/junction in Clouncagh.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -184,4 +189,6 @@ Correspondence
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

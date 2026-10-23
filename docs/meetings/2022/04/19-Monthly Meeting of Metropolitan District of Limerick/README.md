@@ -28,19 +28,19 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-draft-minutes-monthly-meeting-21st-march-2022.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202022.md)
 
-Disposal_ Ballycarrane Patrickswell - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02a-disposal-ballycarrane-patrickswell.pdf) - Text not extracted
+Disposal: Ballycarrane Patrickswell - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02a-disposal-ballycarrane-patrickswell.pdf) - Text not extracted
 
-Disposal_ 28 Quins Cottages Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02b-disposal-28-quins-cottages-rosbrien.pdf) - Text not extracted
+Disposal: 28 Quins Cottages Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02b-disposal-28-quins-cottages-rosbrien.pdf) - Text not extracted
 
-Disposal_ 69-72 Mungret Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02c-disposal-69-72-mungret-street.pdf) - Text not extracted
+Disposal: 69-72 Mungret Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02c-disposal-69-72-mungret-street.pdf) - Text not extracted
 
-Disposal_ Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02d-disposal-galvone-industrial-estate.pdf) - Text not extracted
+Disposal: Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02d-disposal-galvone-industrial-estate.pdf) - Text not extracted
 
-Disposal_ Wickham Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02e-disposal-wickham-street.pdf) - Text not extracted
+Disposal: Wickham Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02e-disposal-wickham-street.pdf) - Text not extracted
 
-Disposal_ Houses - Prospect, Ballinacurra Weston and Ballynanty - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02f-disposal-houses-prospect-ballinacurra-weston-and-ballynanty.pdf) - Text not extracted
+Disposal: Houses - Prospect, Ballinacurra Weston and Ballynanty - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02f-disposal-houses-prospect-ballinacurra-weston-and-ballynanty.pdf) - Text not extracted
 
-Disposal_ Council Offices Dooradoyle - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02g-disposal-council-offices-dooradoyle.pdf) - Text not extracted
+Disposal: Council Offices Dooradoyle - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02g-disposal-council-offices-dooradoyle.pdf) - Text not extracted
 
 Community Initiative Scheme 2022 - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/03-community-initiative-scheme-2022.pdf) - Text not extracted
 

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-25th-September-2023.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-25th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 eel Comhairle Cathrach
@@ -34,8 +35,8 @@ A Chomhairleoir, a chara,
 
 Seirbhisi Corparaideacha,
 
-Comhairle Cathvach agus Contae Luimnigh,
-Ceanncheathrii Chorperaideach
+Comhairle Cathrach agus Contae Luimnigh,
+Ceanncheathrii Chorperaideach,
 
 Cé na gCeannaithe,
 
@@ -43,7 +44,7 @@ Luimneach
 
 Corporate Services,
 
-Limerick City and County Council,
+Umerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -63,9 +64,9 @@ Council Chamber, Dooradoyle, Limerick, and Online, on
 
 The business to be transacted Is set out on the appended Agenda.
 
-Is mise le meas, > a
-: Laura naan F >
-Meetings Administrator
+Is mise le meas, ae
+7 Laura sean F >
+Meetings Administrator:
 
 AGENDA
 1. Minutes
@@ -87,11 +88,13 @@ Planning and Development Act, 2000 (as amended), at:
 (a) 1, Hennessy Avenue, Kileely, Limerick.
 (b) 14, Cregan Avenue, Kileely, Limerick.
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 {c)
@@ -99,7 +102,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 (e)
 (f)
 
-(g)
+(e)
 (h)
 (i)
 
@@ -120,11 +123,11 @@ lease.
 
 (j) 0.111 hectares (0.27 acres) at Ballyvareen, Kildimo, Co. Limerick.
 (k) 0.033 hectares at Plassey Park, Castletroy, Limerick.
-(l) 0.096 hectares at Adare, Co. Limerick.
-(Statutory Notices dated 13" and 21% July, 8'", 13, 14" and 18""
+(1) 0.096 hectares at Adare, Co. Limerick.
+(Statutory Notices dated 13" and 21" July, 8", 13", 14 and 18""
 September, 2023, already circulated)
 Support Services
-(a) ‘Fixing of Date ~ Statutory Budget Meeting
+(a) ‘Fixing of Date - Statutory Budget Meeting
 To fix date for the 2024 Statutory Budget Meeting.
 (Copy of Department Circular Fin 06/2023
 dated 23 August, 2023, Enclosed)
@@ -142,35 +145,35 @@ To consider Chief Executive’s Report for the months of June, July and August
 To consider reports as follows:
 
 (i) Chairperson’s Report — Meeting of Economic Development, Enterprise
-and Planning Strategic Policy Committee held on 10" July, 2023.
+and Planning Strategic Policy Committee held on 10™ July, 2023.
 
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(i) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
+(ii) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
 Environment Strategic Policy Committee held on 12 September, 2023.
 
 (Chairperson’s Report Enclosed)
 
 (iii) | Community, Leisure and Culture Strategic Policy Committee: Next
-Meeting scheduled for 2° October, 2023.
+Meeting scheduled for 2" October, 2023.
 
-{iv) Home and Social Development Strategic Policy Committee: Next
-Meeting scheduled for 12" October, 2023.
+(iv) Home and Social Development Strategic Policy Committee: Next
+Meeting scheduled for 12™ October, 2023.
 
 (v) Travel and Transportation Strategic Policy Committee: Next Meeting
-scheduled for 17" October, 2023.
+scheduled for 17°" October, 2023.
 
 Transportation and Mobility
 
 (a)
 
 (b)
-
-30 km/h Speed Limit) Bye-Laws 2023
 
 To consider the making of the Limerick City and County Council Road Traffic
 (Limerick City Centre 30 km/h Speed Limit) Bye-Laws 2023, in accordance with
@@ -195,7 +198,9 @@ Limerick City and County Council Festivals and Events Grant Scheme 2023/2024.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -252,7 +257,9 @@ I will ask at the next Meeting what budget has been specifically allocated to im
 Limerick City and County Council Traffic Calming Policy for Urban Areas in 2023.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -281,7 +288,7 @@ was in 2022 and in 2023 and, if there was a reduction in weight allowance, could
 Council provide a reason for this.
 
 Question submitted by Councillor S$, Benson
-1 will ask at the next Meeting if Limerick City and County Council has had any
+| will ask at the next Meeting if Limerick City and County Council has had any
 
 discussions with Clare County Council or if there are any plans to connect Coonagh to
 the Shannon Greenway towards Bunratty.
@@ -311,7 +318,9 @@ Revenue Commissioners to grant a tax rebate to people who contribute to have pub
 roads repaired under the Community Involvement Grant Scheme.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -364,7 +373,9 @@ Eireann to ask that the decision to no longer accept individual third level ID b
 reversed or at least done on a phased basis.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23.
@@ -385,4 +396,6 @@ City and County Council Traffic Calming Policy for Urban Areas.
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

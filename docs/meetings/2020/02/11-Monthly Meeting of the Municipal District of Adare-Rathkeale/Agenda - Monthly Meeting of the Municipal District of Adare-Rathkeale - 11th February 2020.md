@@ -16,17 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-11th-february-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-agenda-11th-february-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caota,
-& Contae Luimnigh Comhairte Cathrach agus —— oe
-NN ‘“ ean Finn,
+& Contae Luimnigh Comhairte Cathrach agus = o_o
 
-=> Limerick City pine hs,
-& County Council a, uareaghe
+=> Limerick City Bile
+& County Council fo, aria
 
 Adare-Rathkeale Municipal District,
 
@@ -52,7 +52,7 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Karen r,
+Karen tr,
 Meetings Administrator.
 
 AGENDA
@@ -72,14 +72,16 @@ for affordable housing at Deerpark & Rathkeale Road, Adare, Co. Limerick.
 
 (Report Enclosed)
 = customerservices@limerick.
-Ceanncheathni Chorparéideach, Cé na gCeannaithe,Luimneach | Sania
+Ceanncheathni Chorparéideach, Cé na gCeannaithe,Luimneach | Sanaa
 Corporate Headquarters, Merchants Quay, Limerick. v
 
 @LimerickCouncil
 ( 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -126,7 +128,9 @@ To update Members on issues of interest in the District.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -162,4 +166,6 @@ How was this funded and where exactly did the monies come from to support same.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

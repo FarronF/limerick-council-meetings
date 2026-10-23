@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-draft-minutes-annual-meeting-28th-june-2024.pdf)
+**Original file:** [Draft Minutes - Annual Meeting of the Metropolitan District of Limerick - 28th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-draft-minutes-annual-meeting-28th-june-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER,** **MERCHANT’S QUAY** **AND ONLINE, ON FRIDAY, 28TH** **JUNE, 2024**
@@ -86,7 +87,9 @@ Councillors Beasley, Butler, Daly, Doyle, Kiely, Kilcoyne, Leddin, McSweeney, O�
 Pond, Secas, Sheehan, Slattery and Talukder
 
 (15)
----
+
+[[PAGE_END:1]]
+
 2
 
 **For Councillor Benson**
@@ -164,7 +167,9 @@ The Cathaoirleach invited nominations for the Office of Leas Chathaoirleach of t
 District of Limerick.
 
 Proposed by Councillor Slattery;
----
+
+[[PAGE_END:2]]
+
 3
 
 Seconded by Councillor Pond;
@@ -226,4 +231,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

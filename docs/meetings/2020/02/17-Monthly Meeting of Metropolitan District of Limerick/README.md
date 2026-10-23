@@ -28,11 +28,11 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th February 2
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th January 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-monthly-meeting-20th-january-2020.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20January%202020.md)
 
-Disposal of Land_ 77 Lenihan Avenue Prospect - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02a-disposal-of-land-77-lenihan-avenue-prospect.pdf) - Text not extracted
+Disposal of Land: 77 Lenihan Avenue Prospect - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02a-disposal-of-land-77-lenihan-avenue-prospect.pdf) - Text not extracted
 
-Disposal of Land_ Ennis Road - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02b-disposal-of-land-ennis-road.pdf) - Text not extracted
+Disposal of Land: Ennis Road - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02b-disposal-of-land-ennis-road.pdf) - Text not extracted
 
-Lease of Land_ Scanlon Park Castleconnell - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02c-lease-of-land-scanlon-park-castleconnell.pdf) - Text not extracted
+Lease of Land: Scanlon Park Castleconnell - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02c-lease-of-land-scanlon-park-castleconnell.pdf) - Text not extracted
 
 Housing Progress Report - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/03-housing-progress-report-january-2020.pdf) - Text not extracted
 

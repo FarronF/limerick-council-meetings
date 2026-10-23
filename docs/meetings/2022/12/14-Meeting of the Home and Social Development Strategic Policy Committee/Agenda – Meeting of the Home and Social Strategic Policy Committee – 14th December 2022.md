@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
+**Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
 **DEVELOPMENT STRATEGIC POLICY COMMITTEE**
@@ -68,4 +69,6 @@ and (ii) ensuring the household that is right-sizing has a quality home to move
 into. (PPN Linkage Group)
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

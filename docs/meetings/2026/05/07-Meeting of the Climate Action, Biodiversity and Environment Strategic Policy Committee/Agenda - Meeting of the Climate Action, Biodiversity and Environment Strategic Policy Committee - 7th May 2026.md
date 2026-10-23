@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 7th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **To: The Chairperson and Each Member of the Climate Action, Biodiversity and Environment**
@@ -60,4 +61,6 @@ presented by Kieran Reeves Climate Action Coordinator.
 Strategic Policy Committee - Sinead Hourigan – Administrative Officer.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

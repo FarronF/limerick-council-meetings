@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Agenda%20-%20Special%20Meeting%2015.11.19.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 15th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Agenda%20-%20Special%20Meeting%2015.11.19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-wl Comhairle Cathrach
+i Comhairle Cathrach
 & Contae Luimnigh
-ano” “a — ote
-——— imerick City
+—— imerick City
+
 & County Council
 
 8" November, 2019.
@@ -32,7 +33,7 @@ ano” “a — ote
 Serbhisi Corpardieacha
 
 Comhairle Cathrach agus Coritae Luimnigh,
-Ceanncheathnu Chorparaideach,
+Ceanncheathru Chorparaideach,
 
 Cé na gCeannaithe,
 
@@ -44,9 +45,9 @@ Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Linvenck
+Limerick
 
-EIRCODE V34 EH90
+EIRCODE V94 EH90
 
 t: #353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -70,20 +71,22 @@ ings Administrator.
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-= customerservices@limerick.ie
+= Customerservices@limerick.ie
 © weew.limerick.ie
 
 w @LimerickCouncil
 
-061 - 557150
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 -------- Original message --------
 
-From: "Sheehan, Conor" <conor,shechan limerick.ic>
+From: "Sheehan, Conor" <conor,shechan@ limerick.ic>
 Date: 08/11/2019 10:38 (GMT+00:00)
 
 To: "Clune, James" <james,clune@limerick.ie>
@@ -99,23 +102,25 @@ Best wishes,
 Conor
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-» » FY FY YY
+» » FY FY
 
-i ae A
+i ar
 
-af Move felis f/?) a,
+arf Mere Hoi E72) a,
 
-I. wer. Yocte,
-Cf f. Fane Se cons
-Clr. rca Led
+g vce. Yocte,
 cN.
 
-Dern Geran,
+Der Geran,
 CMe, Sond iat
 
 
 
----
+
+[[PAGE_END:3]]
+

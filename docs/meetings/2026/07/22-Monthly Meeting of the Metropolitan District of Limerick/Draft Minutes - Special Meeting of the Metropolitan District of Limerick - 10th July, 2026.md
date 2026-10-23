@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
+**Original file:** [Draft Minutes - Special Meeting of the Metropolitan District of Limerick - 10th July, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ONLINE ON FRIDAY 10th** **JULY 2026 AT 9:45 A.M.**
@@ -62,4 +63,6 @@ This concluded the Meeting.
  
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:1]]
+

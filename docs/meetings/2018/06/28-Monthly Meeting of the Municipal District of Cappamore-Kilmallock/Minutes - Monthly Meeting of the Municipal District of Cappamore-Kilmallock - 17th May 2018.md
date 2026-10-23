@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20Minutes%2017th%20May%2C%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20Minutes%2017th%20May%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -88,7 +89,9 @@ Circulated, report of the Director of Services, Service Operations Directorate, 
 14th May, 2018, enclosing Chief Executives Report in relation to the proposed construction of
 
 20 housing units at Glenview Drive, Hospital, Co. Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Chief Executives Report set out details of the proposed development under a number of
@@ -166,7 +169,9 @@ require additional sub-base and bituminous surfacing, drainage measures and
 white lining. The cost per linear metre of verge improvement would be high in
 
 comparison to full width road reconstruction.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -228,7 +233,9 @@ include this requirement in the City and County Council Development Plan.
 Ducting will be beneficial for CCTV and also for broadband and co-location and
 
 co-development of other communications infrastructure.
----
+
+[[PAGE_END:3]]
+
 4
 
 8.
@@ -300,7 +307,9 @@ both City and County areas of Limerick and the importance of retaining young peo
 rural areas of the County. Following a general discussion on the issues involved, the Elected Members
 
 agreed to submit the following Notice of Motion to the next full Council meeting:
----
+
+[[PAGE_END:4]]
+
 5
 
 **“We will move at the next meeting that due to the lack of construction of local authority**
@@ -360,4 +369,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

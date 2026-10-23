@@ -16,23 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-3rd-november-2021.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 3rd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-3rd-november-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+_ Comhairle Cathrach ; oor a — —_ a Caola,
+=) ynihawie Cathrach agus viae Lutnwagh,
 
-& Contae Luimnigh Comhat#ie Cathracn agus C ee cme
-
-earn ron,
-
-NON F ‘ : Line Nua,
-=> Limerick City Rath Caota,
+= oom & Contae Luimnigh Aras Séan Fenn.
+. P P Line Nua,
+— Limerick City Rath Cacia,
 
 & County Council Co. Luimnigh.
 
-Adare-Rathweale Municipal Dictrict,
+Adare-Rathweale Municipal District,
 Limerick City and County Council,
 Aras Sean Finn,
 
@@ -67,10 +66,12 @@ i. To consider the Draft Budgetary Plan 2021 for the Municipal District of Adare
 2. To discuss Pallaskenry Housing Scheme.
 3. To receive an update on the Adare Fountain.
 customerservices@limerick.ie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach * © vevew limerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach “ © Wevew limerick.ie
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
-i ( 061 - 886 000
+; ( 061 - 886 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/01-2025-07-02-minutes-july-meeting-of-the-municipal-district-of-newcastle-west.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/01-2025-07-02-minutes-july-meeting-of-the-municipal-district-of-newcastle-west.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Proposed by: Councillor Foley
 Seconded by: Councillor Galvin
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -166,7 +169,9 @@ System which oversees and addresses faults across the national road network and 
 are recorded as Geo Apps. He also stated that the TII oversees a comprehensive programme
 
 of pavement maintenance and renewal across the national road network and while the TII
----
+
+[[PAGE_END:2]]
+
 3
 
 sets the strategic direction and allocates funding, the Regional Design Office plays a pivotal
@@ -246,7 +251,9 @@ Detailed Design Stage, Phase 1 is nearing completion and that a Quantity Surveyo
 Phase 1 Bill of Quantities to generate the pretender estimate. He referred to a Meeting which
 
 was held with Uisce Éireann on the 25th June regarding funding sought.
----
+
+[[PAGE_END:3]]
+
 4
 
 He outlined to the Members proposed changes to Phase 1 and 2 of the project. He referred
@@ -316,7 +323,9 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 On the proposal of Councillor Galvin, seconded by Councillor Collins, it was agreed to allocate
 
 €500 to Templeglantine Community Development.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
@@ -388,7 +397,9 @@ is no funding stream available.
 Gardaí have responded positively. In order to proceed this further, it will be necessary to
 
 advertise in the local newspapers and make public our intention to extend the byelaws at
----
+
+[[PAGE_END:5]]
+
 6
 
 this location. Based on the timeframe required, it will be presented to the Councillors for
@@ -450,7 +461,9 @@ Castlemahon currently and this scheme extends to the Church and beyond.
 Limerick City and County Council will set back the road verge within that
 
 scheme.
----
+
+[[PAGE_END:6]]
+
 7
 
 NOTICES OF MOTION
@@ -516,7 +529,9 @@ REPLY:
 The temporary nature of the surfacing within the car park area, along with the lack of
 
 adequate lighting and road markings, does not make it suitable for regular use. Permanent
----
+
+[[PAGE_END:7]]
+
 8
 
 access for patrons would require appropriate surfacing, lighting, and drainage infrastructure.
@@ -586,7 +601,9 @@ the Environment Section. It was agreed that the Executive Engineer would seek an
 for the September Municipal District Meeting and if not resolved at that stage, a Meeting
 
 would take place with the Environment Section.
----
+
+[[PAGE_END:8]]
+
 9
 
 18. Correspondence
@@ -656,7 +673,9 @@ The Members wished to congratulate the Senior Executive Engineer, Roads, Traffic
 Cleansing, on the taking up of his recent promotion at Limerick City and County Council offices
 
 in Dooradoyle, Limerick.
----
+
+[[PAGE_END:9]]
+
 10
 
 The Members also wished the best of luck to the Limerick Senior Football Team in the 2025
@@ -678,4 +697,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

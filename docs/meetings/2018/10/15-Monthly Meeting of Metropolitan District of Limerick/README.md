@@ -30,9 +30,9 @@ Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th September
 
 Minutes  - Adjourned Meeting of Metropolitan District of Limerick -  20th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01b%20Minutes%20Adjourned%20Meeting%2020th%20September%202018.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Adjourned%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%C2%A0%C2%A020th%20September%202018.md)
 
-Disposal of Land_ 4 McDonagh Avenue Janesboro - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02a%20Disposal%20of%20Land%20-%204%20McDonagh%20Avenue%20Janesboro.pdf) - Text not extracted
+Disposal of Land: 4 McDonagh Avenue Janesboro - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02a%20Disposal%20of%20Land%20-%204%20McDonagh%20Avenue%20Janesboro.pdf) - Text not extracted
 
-Disposal of Land_ 8 O Donoghue Avenue Janesboro - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02b%20Disposal%20of%20Land%20-%208%20O%20Donoghue%20Avenue%20Janesboro.pdf) - Text not extracted
+Disposal of Land: 8 O Donoghue Avenue Janesboro - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/02b%20Disposal%20of%20Land%20-%208%20O%20Donoghue%20Avenue%20Janesboro.pdf) - Text not extracted
 
 Part 8 Chief Executive's Report - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/03a%20Part%208%20CE%20Report.pdf) - Text not extracted
 

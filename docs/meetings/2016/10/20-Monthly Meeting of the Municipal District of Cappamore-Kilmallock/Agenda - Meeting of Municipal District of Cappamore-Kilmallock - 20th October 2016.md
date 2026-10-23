@@ -16,38 +16,39 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_20th_october_2016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 20th October 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/agenda_20th_october_2016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
-AN ~ Cé na gCeannaithe.
-—=>. Luimneach
+ANS ~ Cé na gCeannaithe.
+—=_> Luimneach
 Limerick Corporate Services and Change Management,
 ITY Limerick City and County Council,
 c & COUNTY Merchants Quay,
 COUNCIL Limerick
 
-th t: +353 (0) 61407 100
+th t: +353 (0) 61 407 100
 
 14” October, 2016. f: +353 (0) 61 415 266
 
-To/ The Cathaoirleach and each Member of the Municipal District_of Cappamore- —
+To/ The Cathaoirleach_and each Member of the Municipal District_of Cappamore- —
 
 Kilmallock
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
-held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Thursday, 20"" October,
+held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Thursday, 20" October,
 2016 at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-‘Gs Ac
+‘Ge Acw
 
 Tina Knox,
 Meetings Administrator.
@@ -56,20 +57,23 @@ AGENDA
 
 : Minutes
 To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
-15"" September, 2016.
-{Copy Enclosed).
+15" September, 2016.
+(Copy Enclosed).
 2. Derelict Sites
 To receive update and information in relation to Derelict Sites.
 @ customerservices@limerick.te
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach é wewlimerick.te
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ weowlimerick.te
+w @LimerickCouncil
 
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-nw
+nN
 
 Question submitted by Councillor B. Teefy
 
@@ -90,11 +94,13 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 notifications, when possible, to residents in instances where their water is effected by
 maintenance of pipes etc.
 
-Notice of Motion mitted b uncillor B. T
-
+Notice of Motion submitted b uncillor B. T
 | will move at the next Meeting that work be carried out on the footpath on the R512,
+
 the Limerick side of Bruff. This footpath is part of the Sli na Slainte route in Bruff and
 regularly used.
 
 
----
+
+[[PAGE_END:2]]
+

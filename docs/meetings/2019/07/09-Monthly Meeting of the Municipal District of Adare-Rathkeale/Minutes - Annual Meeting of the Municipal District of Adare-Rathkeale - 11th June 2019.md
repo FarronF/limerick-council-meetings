@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28b%29%20Minutes%20of%20Annual%20Meeting%2011th%20June%2C%202019.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 11th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28b%29%20Minutes%20of%20Annual%20Meeting%2011th%20June%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF
@@ -66,7 +67,9 @@ Pallaskenry also be included on the Agenda for the July Meeting, to enable
 discussion.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 With the consent of the Cathaoirleach Councillor O'Donoghue proposed a five minute
@@ -75,7 +78,7 @@ On the resumption of the Meeting the election of the Cathaoirleach and Leas-
 Cathaoirleach continued.
 
 1. To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to hold
-Annual Meeting or until L
+Annual Meeting or until Le
 
 The outgoing Cathaoirleach, Councillor Teskey invited nominations for the Office of
 Cathaoirleach for the coming year.
@@ -109,7 +112,9 @@ Councillors Sheahan and O’Brien expressed their thanks at their nomination and
 and looked forward to working with their fellow Councillors in the year ahead.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 This concluded the Meeting.
@@ -120,4 +125,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

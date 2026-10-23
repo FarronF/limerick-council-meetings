@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/20250514-clahc-spc-agenda-2.pdf)
+**Original file:** [Agenda - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee - 14th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/20250514-clahc-spc-agenda-2.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 **LIMERICK CITY AND COUNTY COUNCIL**
@@ -76,4 +77,6 @@ Date of next meeting
 **Community, Leisure, Arts, Heritage and Culture SPC**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

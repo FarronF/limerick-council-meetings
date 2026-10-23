@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-full-meeting-of-limerick-city-and-county-council-25th-may-2026.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th May, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-full-meeting-of-limerick-city-and-county-council-25th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Serbhisi Corpardideacha, Rialachais & QCustaiméara
-_ peal pret ot Comhairle Cathrach & Contae Luimnigh
+i Serbhisi Corpardideacha, Rialachais & Qustaiméara
+_ ape pprdet ot Comhairle Cathrach & Contae Luimnigh
 Contae Luimn 9 Ceannchearthu Chorparaideach
 
-NTN = = Cé na gCeannaithe
+NIN A = = Cé na gCeannaithe
 
 => Limerick City Lulnneach, V94 ESO
 nty Council
 
-aCeu we Corporate, Governance & Customer Services
+aceu we Corporate, Governance & Customer Services
 
 Limerick City and County Council
 
@@ -63,21 +64,23 @@ To adopt Minutes of the following Meetings:
 
 (a) Special Meeting of the Council held on 23 March, 2026.
 (b) Ordinary Meeting of the Council held on 30°" March, 2026.
-(c) Adjourned Meeting of the Council held on 20° April, 2026,
+(c) Adjourned Meeting of the Council held on 20" April, 2026.
 (d) Special Meeting of the Council held on 20" April, 2026.
 
 (e) Special Meeting of the Council held on 12" May, 2026.
 
 2. Declaration of interest
 
-@& customerservicesalimerick.ie
-Chorparéideach, Luimneach © vewunlimerick.ic
+@ customerservicesalimerick.ie
+Chorparéideach, Luimneach © vewurlimerick.ic
 Ceanncheathra Cé na gCeannaithe, ¥ @limerickCouncil
 
-Corporate Headquarters, Merchant's Quay, Limerick C061 - 5$6 000
+Corporate Headquarters, Merchant's Quay, Limerick C061 - 5S6 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -130,7 +133,9 @@ transfers.
 (Report already circulated)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -176,7 +181,9 @@ Funding Open Call.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -237,7 +244,9 @@ Tourism and Planning Strategic Policy Committee held on 13" April, 2026.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -261,7 +270,7 @@ Committee held on 22™ April, 2026.
 (Chairperson’s Report Enclosed)
 
 Chairperson’s Report — Meeting of the Home and Social Development Strategic
-Policy Committee held on 30"" April, 2026.
+Policy Committee held on 30" April, 2026.
 
 (Chairperson’s Report Enclosed)
 
@@ -273,7 +282,7 @@ residual units in partially sold developments in settlements outside of the Lime
 
 City Metropolitan District subject to:
 
-¢ Value for money (i.e. independent market valuation).
+* Value for money (i.e. independent market valuation).
 
 * Ensuring last units purchased of a scheme are for either Incremental Sale or
 Affordable Sale subject to funding approvol and AHF eligibility to ensure an
@@ -300,7 +309,9 @@ Nomination of a delegation to visit Tallinn, Estonia.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -319,7 +330,7 @@ To consider participation by Members at the following Conference:
 2026.
 
 (Details already circulated electronically)
-(b) e on Conference / Seminar / ing/
+(b) e on Conference / Seminar / ing /
 
 To note reports by Members who have participated at Conference / Seminar / Meeting /
 Event.
@@ -352,12 +363,14 @@ exemptions for properties accommodating International Protection Applicants and 
 ensure that all properties go through the normal planning process.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
 
-Notice of Motion submitted by Councillor E. O’Donovan
+Notice of Motion submitted by Councillor E, O’Donovan
 
 | will move at the next Meeting of Limerick City and County Council to call on the
 Government to amend the Israeli Settlements in the Occupied Palestinian Territory
@@ -379,7 +392,7 @@ in Bessborough mother and baby home between 1922 and 1994.
 
 Notice of Motion submitted by Councillors M. Donoghue. U. Gavan, T. Hartigan,
 
-4 Vono gnu i n canian POC a! z ber) [oO De reterred fo
+4 Vono gnu i n canian POC a! P er) [Oo De reterred fo
 
 Protocol Committee)
 
@@ -395,14 +408,14 @@ in the Council Chamber only.
 « Proposed adjournments shall be substantiated before proposing and seconding, in
 alignment with current Standing Orders.
 
-« Allitems discussed during adjournments shall be raised in the Council Chamber prior
++ All items discussed during adjournments shall be raised in the Council Chamber prior
 to proposing and seconding following the end of the adjournment if pertaining to the
 meeting at hand.
 
 « item 78 on current Standing Orders is revised to: “every motion or amendment shall
 NOT be moved and seconded, before being discussed or put to the meeting".
 
-* All afternoon meetings shall break after every 2 hours for a 30-minute recess
+« All afternoon meetings shall break after every 2 hours for a 30-minute recess
 regardless of adjournment, and following this, will continue only for an additional 1-
 hour. Any adjournments following this 1-hour continuation shall be to another date.
 
@@ -411,7 +424,9 @@ of adjournment, and must complete by 6pm of that day, or be adjourned to another
 date.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27.
@@ -429,12 +444,12 @@ specifically:
 any meeting of the Transport Sub-Group to discuss the delays and future delivery
 timelines for BusConnects in Limerick; and
 
-- Whether any progress has been made in relation to my request, raised at the September
+~ Whether any progress has been made in relation to my request, raised at the September
 2025 meeting of Limerick City and County Council, for Bus Route No. 1 to service the
 Mulcair Road area.
 
 ESTIONS
-C] lor D. Mc
+t] Illor D. Mc
 
 | will ask at the next Meeting of Limerick City and County Council that a full breakdown of
 expenditure on legal advice incurred by Corporate Services and the Office of the Mayor
@@ -454,14 +469,16 @@ non-construction-related services, including professional services such as archi
 engineering and consultancy services.
 
 NOTICES OF MOTION
-Notice of Motion submitted by Councillor C. Slattery
+Notice of Motion submitted by Councillor C. Siattery
 
 | will move at the next Meeting of Limerick City and County Council that this Council look
 at ways of preventing unnecessary disposal of bottles and cans in Council bins on our
 streets and ways of mitigating the effects of scavenging in bins for these cans and bottles.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
@@ -499,4 +516,6 @@ Commission and the UN.
 Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

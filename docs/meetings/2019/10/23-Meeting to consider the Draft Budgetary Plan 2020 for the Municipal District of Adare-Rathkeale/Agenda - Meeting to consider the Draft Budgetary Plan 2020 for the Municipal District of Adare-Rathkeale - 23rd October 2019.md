@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%2023rd%20October%2C%202019_0.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale - 23rd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%2023rd%20October%2C%202019_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
-— & Contas Luimnigh Comhairle Cathrach agus Contae Luimnigh,
+— 6 Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
-se ea, Aras Séan Finn,
-”~“ or . P A Line Nua,
+= poe Aras Séan Finn
+”~ o . . A Line Nua.
 — Limerick City Rath Caola
 & County Council Co, Luimnigh
 Adare-Rathkeale Municipal District
@@ -34,8 +35,8 @@ Aras Sean Finny
 New Line.
 Rathkeale.
 Co. Limerick.
-16" October, 2019. EIRCODE V94 HKIV
-t: +353 (0) 69 64047
+16" October, 2019. EIRCODE 94 HK1V
+t: +3553 (0) 69 64047
 f: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
@@ -57,9 +58,11 @@ AGENDA
 
 (Report Attached)
 
-im customerservices@limerickic
-Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach | @ wenilimerickie
-Corporate Headquarters, Merchants Quay, Limerick. “C celcbaaecs
+m& customerservices@limerickie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach | © wenilimerickie
+Corporate Headquarters, Merchants Quay, Limerick. “C elcuaaes
 
 
----
+
+[[PAGE_END:1]]
+

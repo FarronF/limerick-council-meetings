@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20January%202023_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20January%202023_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach aqus Contae Luimnigh,
 & Contae Luimnigh Olfig an Cheantair, Aras Mhaichin Seoighe,
 
-AN —_ ~ Cill Mochealig,
+AN —_ ~ Cill Mechealig,
 
-LO rt rye
-—=_= Limerick City Luirnragh
+oe) rt rye
+—= Limerick City Luirnragh
 & County Council Limerick City and County Council,
-Aras Mairychin Seoighe Area Office
+Aras Mairchin Seoighe Area Office
 Mibmaiiock,
 Co. Limenck.
 
@@ -43,13 +44,13 @@ f; #353 (0) 63 985 99
 A Chomhairleoir, a chara,
 
 You are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
-Kilmatlock to be held on Thursday 19 January at 3 pm in Lough Gur.
+Kilmatlock to be held on Thursday 19" January at 3 pm in Lough Gur.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-(ac OAUR
+(arc OAUX
 
 Dara O’Brien
 Meetings Administrator.
@@ -64,14 +65,16 @@ Kilmallock held on the 8" December 2022
 
 Relating to the Minutes of the Municipal District Meeting of 8"° December 2022.
 
-= customerservicesa@limerick.ie
+& customerservices@limerick.ie
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © voor limerick.ie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office wW @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Property Services
@@ -103,7 +106,7 @@ NOTICES OF MOTION
 
 8. Notice of Motion submitted by Councillor Carey
 
-“1 will move at the next meeting of the Cappamore-Kilmallock Municipal District that
+“| will move at the next meeting of the Cappamore-Kilmallock Municipal District that
 Limerick City and County Council address objective T12 of the Kilmallock Local Area Plan
 [supporting the future development of Kilmallock Railway Station) by calling for a feasibility
 study with a view to re-open the station.”
@@ -116,7 +119,9 @@ available to properly repair the leakage in the water schemes in the Cappamore -
 Kilmallock District.”
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -146,4 +151,6 @@ Outdoor Recreation Infrastructure Scheme (ORIS) grant announced by the departmen
 recently. “
 
 
----
+
+[[PAGE_END:3]]
+

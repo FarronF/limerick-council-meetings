@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%202017-09-06%20Agenda.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 6th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%202017-09-06%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 : Seirbhisi Corparéideacha,
-ee a teleoalat paella Comhairle Cathrach agus Contae Luimnigh.
+a a teleaalat peal Comhairle Cathrach agus Contae Luimnigh.
 , g Ceanncheathru Chorparaideach,
-ArN . Fi Cé na gCeannaithe,
+ArN . 7 Cé na gCeannaithe,
 —==> Limerick City Luimneach
 
 & County Council
@@ -49,13 +50,13 @@ Newcastle West
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at
-Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 6"* September, 2017, at
+Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 6°" September, 2017, at
 
 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Oyo
+Cy
 Tina Knox,
 
 Meetings Administrator.
@@ -83,13 +84,15 @@ Ballinruane, Kilmeedy (R.P.S. Reg No. 52), Flynn’s Thatched House, Balliniska,
 @ customerservices@limerick.ie
 © wvew limerick.ie
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
 (061 - 557150
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -143,7 +146,9 @@ Questions submitted by Councillor L. Galvin
 Ballykennedy South, Ballingarry in the interest of safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -204,4 +209,6 @@ the elder community within the immediate town centre area.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

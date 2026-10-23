@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00%20Agenda%2028th%20June%2C%202022.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 28th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00%20Agenda%2028th%20June%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rathy Cacia,
-& Contae Luimnigh Com)nairle Cathrach agus Contae Luimnish,
+& Contae Luimnigh Com)nairle Cathrach agus Contae Luimnigh,
 
-= a Aras Séan Finn,
+= 5 Aras Séan Finn,
 
-™ P a Line Nua,
+~™ P P Line Nua,
 — Limerick City Rath Caola,
 
 & County Council Co, Luimnigh.
@@ -67,11 +68,13 @@ until the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Municipal District of Adare-Rathkeale to hold
 office until the next Annual Meeting or until a successor has been elected.
 = customerservices@limerick.ie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach © wvevelimerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach © wvewehimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. v
 
 @LimerickCouncil
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2021st%20December%202015.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 21st December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2021st%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,** **21ST** **DECEMBER, 2015,**
@@ -94,7 +95,9 @@ proposed disposal of 3 Lilac Court, Keyes Park, Southill.
 relation to the proposed disposal of the freehold (ground rent) at 1 Farranshone, Limerick
 
 City.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members noted the contents of the reports as circulated.
@@ -174,7 +177,9 @@ indicated in Section 5 of same.
 December, 2015 setting out potential revisions to the Part VIII, as originally circulated, to
 
 reflect the considered outcome of further workshop and consultation.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members acknowledged the importance of the proposed development in improving the
@@ -260,7 +265,9 @@ to discuss the issue with his colleagues and revert to the Members as soon as po
 It is intended to bring draft byelaws to the February Meeting of the Metropolitan
 
 District to be held on Monday, 15th February, 2015.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -348,7 +355,9 @@ sleeping persons. LHAT has not received any indication that there are persons
 consistently rough sleeping in Limerick.
 
 The Limerick Homeless Action Team office hours are 9am to 5pm, Monday to
----
+
+[[PAGE_END:4]]
+
 5
 
 Friday. Our telephone number is 061 481212. Anyone who is homeless or at risk
@@ -428,7 +437,9 @@ Members acknowledged the great work carried out in maintaining flood defences du
 recent extreme weather but expressed concern at the flooding that had occurred in Corbally. It
 
 was proposed by Councillor Quinlivan and seconded by Cmhlr. Ó Ceallaigh that this District calls
----
+
+[[PAGE_END:5]]
+
 6
 
 on Waterways Ireland to attend a Metropolitan Meeting to discuss the recent flooding of
@@ -512,7 +523,9 @@ alternative Irish language version of the logo be used in some circumstances. Me
 noted that, as we were applying for European Capital of Culture Status, other cultures had to be
 
 taken into consideration.
----
+
+[[PAGE_END:6]]
+
 7
 
 Cmhlr. Ó Ceallaigh indicated his satisfaction with the response he had received to his notice of
@@ -580,4 +593,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

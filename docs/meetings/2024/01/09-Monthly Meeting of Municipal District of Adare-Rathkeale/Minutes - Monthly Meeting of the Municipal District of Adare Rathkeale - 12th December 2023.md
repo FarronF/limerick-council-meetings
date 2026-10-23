@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-minutes-monthly-meeting-of-the-municipal-district-of-adare-rathkeale-12th-december-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare Rathkeale - 12th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-minutes-monthly-meeting-of-the-municipal-district-of-adare-rathkeale-12th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -94,7 +95,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 of any declaration of interest in any item due for discussion at the Meeting. No such
 
 interests were declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 It was agreed Item 4 on the Agenda would be taken next.
@@ -170,7 +173,9 @@ is planned for December 2025.
 All Members welcomed the update on the project. Following discussion a number of
 
 queries were raised by Members:
----
+
+[[PAGE_END:2]]
+
 3
 
  Councillor O’Brien queried if the objection lodged against plans to raise the height
@@ -242,7 +247,9 @@ changes to the Housing Delivery report for the District since the last report an
 the percentage targets being met in accordance with the Housing Delivery Action Plan.
 
 Discussion ensued and the following issues were raised by Members.
----
+
+[[PAGE_END:3]]
+
 4
 
  Councillor Keary queried how planning permission had been granted for a housing
@@ -322,7 +329,9 @@ Project to date.
 Members requested a timeline for when the scheme would be completed. The Senior
 
 Executive Engineer, Mid West Road Design Office advised it is hoped the scheme would
----
+
+[[PAGE_END:4]]
+
 5
 
 be completed by mid-2027, but noted that this was a very ambitious target and that there
@@ -392,7 +401,9 @@ District of Adare-Rathkeale.
 **I will move at the next Meeting no election posters for the 2024 local elections are**
 
 **erected in the Adare-Rathkeale Municipal District area.**
----
+
+[[PAGE_END:5]]
+
 6
 
 It was agreed to defer this item to the January 2024 Monthly Meeting of the Municipal
@@ -458,4 +469,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

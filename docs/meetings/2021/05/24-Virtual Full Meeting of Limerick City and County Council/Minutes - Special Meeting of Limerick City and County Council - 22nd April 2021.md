@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-d-draft-minutes-special-meeting-22.04.2021.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 22nd April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-d-draft-minutes-special-meeting-22.04.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON THURSDAY, 22ND APRIL, 2021, AT
@@ -88,7 +89,9 @@ Councillor Collins (B).
 It was proposed by Councillor Sheahan (J), seconded by Councillor Egan to nominate
 
 Councillor Kiely.
----
+
+[[PAGE_END:1]]
+
 2
 
 It was proposed by Councillor Leddin, seconded by Councillor Ryan (E) to nominate
@@ -162,7 +165,9 @@ Amended) and the requirement to commence the development plan making process wit
 12 months of the adoption of the Regional Spatial and Economic Strategy (RSES) for the
 
 Southern Region. The timelines for making the development plan are prescribed in the Act.
----
+
+[[PAGE_END:2]]
+
 3
 
 V. Murray confirmed that the Draft Development Plan would be presented to Elected
@@ -196,4 +201,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%202018-02-07%20Minutes%20February.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%202018-02-07%20Minutes%20February.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ General Municipal Allocation (GMA)
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
 
 €500 to footpath upgrades at Daar River, Newcastle West.
----
+
+[[PAGE_END:1]]
+
 2
 
 On the proposal of Councillor Foley, seconded by Councillor Collins, it was agreed to allocate
@@ -172,7 +175,9 @@ Question submitted by Councillor L. Galvin
 ***if not, can they be included:***
 
 ***(a)**L7093 Dromtrasna***
----
+
+[[PAGE_END:2]]
+
 3
 
 ***(b)**Healy’s Forge to Horan’s Cross***
@@ -248,7 +253,9 @@ Executive Officer stated that approval of the CFRAM schemes from the Office of P
 is awaited. It was agreed that the Senior Executive Engineer would follow up on this matter
 
 with the Office of Public Works.
----
+
+[[PAGE_END:3]]
+
 4
 
 8.
@@ -322,7 +329,9 @@ Councillor Sheahan also noted pipe laying by Gas Networks Ireland and compliment
 Roads Executive Engineer, Adare/Rathkeale Municipal District on ensuring that road
 
 standards are being maintained following these works.
----
+
+[[PAGE_END:4]]
+
 5
 
 12.
@@ -390,7 +399,9 @@ The Motion was seconded by Councillor Browne.
 In replying, the Senior Executive Officer stated that the Director, Service Operations had
 
 committed to commence a Public Realm Study for Dromcollogher Town.
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY**:**
@@ -466,7 +477,9 @@ Discussion took place on the maintenance of public lighting and the length of ti
 out repairs. It was agreed that the Members would forward their comments with regard to
 
 this matter to the Senior Executive Engineer for follow up with the service provider.
----
+
+[[PAGE_END:6]]
+
 7
 
 It was also agreed to hold a Meeting of the Joint Policing Committee (JPC) Sub Committee on
@@ -488,4 +501,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

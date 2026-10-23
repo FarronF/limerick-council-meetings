@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Council-Meeting-22-05-2023.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 22nd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Council-Meeting-22-05-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-? Sewbhisi Corparaideacha.
+Sewbhisi Corparaideacha.
 
-a pa acl} prbore Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathna Ch: i
+a peal} plore Comhairle Cathrach agus Contae Luimnigh,
+Ceanncheathra Ch: i
 
-AN , a ra Chorpardikieach,
+aN re ra Chorparditeach,
 
 Cé na gCearnaithe.
 
-——= Limerick City Luimneach
+—— Limerick City Luimneach
 & County Council
 
 Corporate Services,
@@ -41,7 +42,7 @@ Merchants Quay,
 
 Limerick
 
-17 May, 2023. - “ BIRCODE v34 EH9O
+17" May, 2023. -  BIRCODE v394 EHOO
 
 t +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -75,14 +76,16 @@ Planning and Development Act, 2000 (as amended), at:
 
 (d) Ardrahan, Galbally, Co. Limerick.
 
-@ customerservices@limerick.te
+@ customerservices@limerick.ie
 © wvevelimerick.ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) 7, Claughaun Court, Garryowen, Limerick.
@@ -99,7 +102,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 (k) Former Garda Station, Mary Street, Limerick.
 
-(I) Old School House, Grange, Kilmallock, Co. Limerick.
+(Il) Old School House, Grange, Kilmallock, Co. Limerick.
 
 (m) Land (0.6 acres/0.25 hectares) at Oakley Lawn, Caherconlish, Co. Limerick.
 
@@ -119,7 +122,7 @@ Dereli
 (u) 30, Wingfield Orchard, Newcastle West, Co. Limerick.
 (v) Wolfe Tone Street, Kilmallock, Co. Limerick.
 
-(Statutory Notices dated 24 and 27" March, 18" and 24" April, 9%, 11°
+(Statutory Notices dated 24" and 27" March, 18" and 24" April, 9, 11°
 and 12" May, 2023, already circulated)
 
 Support Services
@@ -143,7 +146,9 @@ Act, 2014).
 Executive already circulated)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -195,7 +200,9 @@ Transportation Strategic Policy Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 )
@@ -235,8 +242,6 @@ the quest to repatriate his remains back to Limerick.
 Visit by the Mayor to Belfast City Council.
 (Report Enclosed)
 
-Strategic Policy Committee Reports
-
 To consider reports as follows:
 
 (i)
@@ -251,7 +256,7 @@ Strategic Policy Committee held on 3 April, 2023.
 (Chairperson’s Report Enclosed)
 
 Chairperson’s Report — Meeting of Home and Social Development
-Strategic Policy Committee held on 12™ April, 2023.
+Strategic Policy Committee held on 12" April, 2023.
 
 (Chairperson’s Report Enclosed)
 
@@ -261,10 +266,12 @@ and Planning Strategic Policy Committee held on 24" April, 2023.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-1)
+A)
 
 (iv) | Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 18" April, 2023.
@@ -313,7 +320,9 @@ Treatment Plant Upgrade Scheme.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -356,7 +365,9 @@ times of tourist information centres that will be open during Summer 2023 in Lim
 City and County.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -393,7 +404,7 @@ or animals, to prevent distress to farmers, owners, and their animals and to cou
 dog fouling. This legislation should include the appointment of sufficient dog wardens
 to monitor, enforce and follow up on reports.
 
-Notice of Motion submitted by Councillor E. O'Donovan
+Notice of Motion submitted by Councillor BE. O'Donovan
 
 | will move at the next Meeting that Limerick City and County Council appoint
 Authorised Officers to deal with animal welfare issues within Limerick City and County,
@@ -406,12 +417,14 @@ undertaken to ascertain their necessity and current use.
 
 No of Motion su
 
-twill move at the next Meeting that Limerick City and County Council correspond with
+I will move at the next Meeting that Limerick City and County Council correspond with
 the President of the GAA to request that championship matches be aired on terrestrial
 television free of charge.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -439,4 +452,6 @@ Higher Education Boards.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

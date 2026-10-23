@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20Meeting%20Cappamore-Kilmallock%20JPC%20Sub-Committee%20290318.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting - 29th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20Meeting%20Cappamore-Kilmallock%20JPC%20Sub-Committee%20290318.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
-__—_—_— & Contae Luimnigh
+_———_— & Contae Luimnigh
 
-anArN
+nArN
 
 Seirbhis{ Corparaideacha,
 
@@ -34,8 +35,8 @@ Cé na gCeannaithe,
 
 Luimneach
 
-‘ — Limerick City _
-& County Council a
+F — Limerick City _
+& County Council —_—e
 Limerick City and County Council
 
 Corporate Headquarters.
@@ -50,7 +51,7 @@ EIRCODE V94 EH90
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-23 March, 2018.
+23 March, 2018,
 To/
 
 A Chomhairleoir, a chara,
@@ -72,9 +73,10 @@ AGENDA
 To discuss policing issues in the District
 
 NOTICE OF MOTION
+
 lor
 
-2 ! will move at the next meeting of the Municipal District of Cappamore-Kilmallock JPC
+2 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock JPC
 
 Sub-Committee that we call on An Garda Siochana to appoint a dedicated Community
 Garda to Kilmatlock town.
@@ -84,8 +86,12 @@ customerservices@timerick ie
 
 Corporate Headquarters, Merchants Quay, Limerick
 
-w @LimerickCouncil
-( 061 - 557150
+ve
+
+LimerickCouncil
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

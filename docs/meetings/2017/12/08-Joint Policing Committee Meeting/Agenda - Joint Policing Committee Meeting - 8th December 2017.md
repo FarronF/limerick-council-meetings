@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/agenda.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 8th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Comhairle Cathr a nen i 6 ae
+Comhairle Cathrach Comhairle Cathr a ne i e ae
 
-__——_— & Contae Luimnigh me comniaeny Chorpardidesch.
-nAroN ‘ - Cé na gCeannaithe.
+_——— & Contae Luimnigh “ pore heat Chorpardidesch.
+nALN 7 - Cé na gCeannaithe.
 Limerick City Luimneach
 
 — & County Council Corporate Services,
@@ -35,10 +36,10 @@ Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-EIRCODE V4 EH90
+EIRCODE VO EH90
 
 és t: +353 (0) 61 557150
-28" November, 2017. f: #353 (0) 61 415 266
+28" November, 2017. f: +353 (0) 61 415 266
 
 TO EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL JOINT POLICING COMMITTEE
 
@@ -46,7 +47,7 @@ A Chara,
 
 | wish to inform you that a Meeting of Limerick City and County Council Joint Policing Committee will
 
-take place in Hou: rd: Hen r rick
+take place in Hou: rd. Hen r rick
 Friday, 8" December, 2017 at 10.00 a.m.
 
 Details of the Agenda and attachments to be discussed at the meeting are set out hereunder :
@@ -66,30 +67,32 @@ Councillors Ciara McMahon and Joe Leddin from the JPC.
 3. To consider the establishment of Working Groups as follows:-
 (a) Working Group — Strategic Theme 1
 (b) Working Group — Strategic Theme 2
-({c) Working Group — Strategic Theme 3
+(c) Working Group — Strategic Theme 3
 (d) Working Group — Strategic Theme 4 -
 
 4. To consider proposals for establishment of Geographic Sub-Committees.
 
 5. To set schedule of dates for JPC Meetings in 2018.
 
-A Fi cm customerservices@limerickie
+; Fi & customerservices@limerickie
 
-6. To receive update from Chief Superintendent. © vewwilimerickie
+6. To receive update from Chief Superintendent.  vewwilimerickie
 Ceanncheathri Chorpardideach, gCeannaithe, Luimneach w @LimerickCouncil
-rekes (061 - 557150
+vekes (061 - 557150
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
 10.
 
-11.
+il.
 
 12.
 
@@ -104,26 +107,25 @@ Corporate Headquarters, Merchants Quay, Limerick
 CCTV Update by Mr. Mihai Bilauca.
 
 To consider the following Notice of Motion submitted by Councillor E. Hogan and referred
-from Metropolitan District of Limerick held on 18” September, 2017 :
+from Metropolitan District of Limerick held on 18" September, 2017 :
 
 “| will move at the next Metropolitan Area Meeting that a Driver Feedback Sign be erected
 at the Ballinacurra side of the Dooradoyle Flyover to slow traffic in Ballinacurra which is
 currently speeding on the road”.
 
 To consider the following Notice of Motion submitted by Councillor L. Galvin (deferred from
-JPC Meetings held on 23° June and 15" September, 2017) :
+JPC Meetings held on 23° June and 15” September, 2017) :
 
 “| will move at the next Meeting that this Council calls on the Minister for Justice and the
 Minister for Transport to look for a full review of the Go Safe vans in Limerick”.
 
 To consider the following Question submitted by Councillor R. O'Donoghue :
-
 “What is the legislation on the use of/flying of drones”.
-
 To note reply from Office of Commissioner regarding allocation of Probationer Gardai to
-Limerick.
 
 View new Custody Suite at Henry Street Garda Station
 
 
----
+
+[[PAGE_END:2]]
+

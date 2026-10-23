@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-of-monthly-meeting-of-municipal-district-of-adare-rathkeale-14th-november-2023.pdf)
+**Original file:** [Minutes of Monthly Meeting of Municipal District of Adare Rathkeale - 14th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-of-monthly-meeting-of-municipal-district-of-adare-rathkeale-14th-november-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -80,4 +81,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:1]]
+

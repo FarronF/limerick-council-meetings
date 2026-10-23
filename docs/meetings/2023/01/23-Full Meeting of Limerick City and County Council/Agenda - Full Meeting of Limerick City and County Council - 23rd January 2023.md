@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/00%20Agenda%20-%20Council%20Meeting%2023.01.2023.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 23rd January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/00%20Agenda%20-%20Council%20Meeting%2023.01.2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach Ccunhaite tue papell aatarorerig
-wna Catlwacn agus Contac uuirreng 5
-= ™ & Contae Luimnigh Ceanncheatnni Chorpardideach,
+ge Comhairle Cathrach Ccmhaita Out papell aaron
+wninavve Catlwacn égus Contac uurreng 5
+= o™ & Contae Luimnigh Ceanncheatnni Chorpardideach,
 — Limerick City a
-“ - Luirmneach
+- . Luirmneach
 & County Council
 Corporate Services,
 Limenck City and County Council
 Corporate Headquarters,
 Merchants Quay.
 Limenck
-18" January, 2023. BIRCODE os E90
+18" January, 2023. BIRGODE Vos E90
 
 t: +353 (0) 61 557150
 f. +353 (0) 61 415 266
@@ -47,8 +48,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Mead -
-ar Fey
+Wiese -
 
 1. Minutes
 
@@ -71,14 +71,16 @@ Planning and Development Act, 2000 (as amended), at:
 (a) 55, College Avenue, Moyross, Limerick.
 (b) 16, Hennessy Avenue, Kileely, Limerick.
 
-mcustomerservices@limerick.ie
+m customerservices@limerick.ie
 
-© Wwewlimerick.ie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @limerickCouncil
+© Wwewlimerick ie
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) 8, Quin’s Cottages, Rosbrien, Limerick.
@@ -126,7 +128,9 @@ Members of Limerick City and County Council for the Year
 ended 31* December, 2021.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -147,7 +151,7 @@ Tallinn 2023 Opening Events in Tallinn, Estonia.
 {ii) Invitation to the Mayor from the Limerick Association Birmingham to
 attend event in Birmingham and meet with the Lord Mayor.
 
-{ilil) Invitation to the Mayor, and a delegation, for attendance and
+(ill) Invitation to the Mayor, and a delegation, for attendance and
 participation in the Annual St. Patrick’s Day Parade, New York City, USA.
 
 (iv) Invitation to the Mayor, and a delegation, for attendance and
@@ -158,13 +162,13 @@ participation in the Annual Queens County St. Patrick’s Day Parade
 Participation in the Annual St. Patrick’s Day Parade, in Savannah,
 Georgia, USA.
 
-(vi) __ Invitation to the Mayor, and a delegation, to visit Hohenlohe, Germany.
+(vi) _ Invitation to the Mayor, and a delegation, to visit Hohenlohe, Germany.
+
 (Reports Enclosed)
 
 Vacancy on Joint Policing Committee
 
 To consider filling vacancy on the Joint Policing Committee consequent on the
-
 resignation of Councillor Liam Galvin from the Committee.
 (Report Enclosed)
 
@@ -180,10 +184,12 @@ Steering Group consequent on the resignation of Councillor Eddie Ryan from
 the Steering Group.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(g)
+(9)
 
 Strategic Policy Committee Reports
 
@@ -229,7 +235,9 @@ Transport asking that any civil works due on the Limerick/Foynes Rail
 Line reinstatement will future-proof the line to become a dual line.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 {v) Chairperson’s Report — Meeting of Home and Social Development
@@ -258,7 +266,7 @@ Conferences
 (a) Participation by Members at Conferences
 To consider participation by Members at the following Conferences:
 
-(i) | “The Finance Act, 2022” held in Carlingford, Co. Louth, from 6" — 8"
+(i) “The Finance Act, 2022” held in Carlingford, Co. Louth, from 6" — 8"
 January, 2023.
 
 (ii) | “Local Authority Procurement Process” to be held in Clonakilty, Co. Cork,
@@ -268,7 +276,7 @@ from 20" — 22" January, 2023.
 — 5" February, 2023.
 
 (iv) “Protecting your Mental Health as a Public Representative” to be held in
-Clonakilty, Co. Cork, from 34 — 5" March, 2023.
+Clonakilty, Co. Cork, from 3“ - 5" March, 2023.
 
 (Details already circulated electronically)
 
@@ -279,7 +287,9 @@ Meeting / Event.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -289,8 +299,6 @@ Meeting / Event.
 11.
 
 12.
-
-QUESTIONS
 
 Question submitted by Councillor S. Hartigan
 
@@ -331,7 +339,9 @@ to a Council Meeting to update Members on the planned refurbishment of the railw
 line from Limerick to Foynes and discuss potential of disused Mungret line.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -345,13 +355,13 @@ line from Limerick to Foynes and discuss potential of disused Mungret line.
 Notice of Motion submitted by Councillor J. Scanlan (to be referred to the
 Home and Social Development Strategic Policy Committee)
 
-| will move at the next Meeting thata Working Group, inclusive of concerned
+1 will move at the next Meeting thata Working Group, inclusive of concerned
 Councillors, be appointed to resolve the matter of long term vacant Council-owned
 properties within County Limerick.
 
 Notice of Motion submitted by Councillor T, Collopy
 
-I will move at the next Meeting that the Council write to the Road Safety Authority for
+| will move at the next Meeting that the Council write to the Road Safety Authority for
 an explanation as to why there is a backlog of bus drivers awaiting testing by their
 Association.
 
@@ -363,4 +373,6 @@ him to allocate and appoint a full time HIV Consultant at University Hospital Li
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

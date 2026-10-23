@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-ordinary-meeting-05.07.2021.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 5th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-ordinary-meeting-05.07.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 am™~
 — Limerick City
 & County Council
 
-30 June, 2021.
+30% June, 2021.
 
 A Chomhairleoir, a chara,
 
 ae Comhairle Cathrach
 & Contae Luimnigh
 
-Seirbhisi Corparéideacha
+Seirbhisi Corpartideacha
 
 Comhairle Cathvach agus Contae Luimnigh
 Ceanncheathr& Chorparaideach,
 
-Cé na gCeannaithe
+Cé na gCeannaithe.
 
 Luimneach
 
@@ -60,8 +61,6 @@ July, 2021, at 3pm. The business to be transacted is set out on the appended Age
 
 Is mise le meas,
 
-Box TS
-
 Meetings Administrator.
 
 1. Minutes
@@ -74,7 +73,7 @@ To adopt Minutes of the following Meetings:
 (c) Special Meeting of the Council held on 14" June, 2021.
 
 (d) Adjourned Special Meeting of the Council held on 16" June, 2021.
-{e) Adjourned Special Meeting of the Council held on 17 June, 2021.
+(e) Adjourned Special Meeting of the Council held on 17™ June, 2021.
 
 2. Declaration of Interest
 
@@ -86,10 +85,12 @@ m customerservices@limerick.te
 © vewew limerick.te
 @LimerickCouncil
 
-(061 - 557150
+(061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -143,7 +144,9 @@ up to May 2022.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -179,7 +182,7 @@ and Planning Strategic Policy Committee Meeting held on 21* June,
 (Chairperson’s Report Enclosed)
 
 Chairperson’s Report — Meeting of Climate Action, Biodiversity and
-Environment Strategic Policy Committee held on 8™ June, 2021.
+Environment Strategic Policy Committee held on 8" June, 2021.
 
 (Chairperson’s Report Enclosed)
 Recommendation
@@ -202,7 +205,9 @@ Strategic Policy Committee held on 16" June, 2021.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -213,7 +218,7 @@ Strategic Policy Committee held on 16" June, 2021.
 
 Community Development
 
-Recommendations from the Assessment Panel : ENGINE Short Film
+Recommendations from the Assessment Panel ;: ENGINE Short Film
 Bursaries
 
 To consider approving Recommendations from the Assessment Panel of the ENGINE
@@ -249,25 +254,27 @@ Question submitted by Councillor C, Sheehan
 Institute of Technology to Mary Immaculate College cycleway
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
 
 13.
 
-14,
+14.
 
 15.
 
 16.
 
-Question submitted by Councillor C. Sheehan
+Question submitted by Councillor C, Sheehan
 
 | will ask at the next meeting for an update on the regeneration plans for Thomond
 Weir.
 
-Question submitted by Councillor J Costelioe
+Question submitted by Councillor J Costelloe
 
 | will ask at the next Meeting, as part of the CFRAMS flood prevention measures, have
 O’Dwyers Villas, Thomondgate, and New Road, Thomondgate, been included, given
@@ -301,7 +308,9 @@ President of the University of Limerick requesting that UL establish an off-camp
 Code of Conduct for its students for the coming academic year.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -326,7 +335,7 @@ light of the upcoming review of the termination of pregnancy legislation, so tha
 women can access healthcare in privacy, dignity and with respect.
 
 Notice of Motion submitted by Councillor S$. Novak Ui Chonchuir
-i will move at the next Meeting that Limerick City and County Council make installation
+I will move at the next Meeting that Limerick City and County Council make installation
 
 of electric vehicle charging points a requirement of all planning applications for
 homes, schools and workplaces.
@@ -334,4 +343,6 @@ homes, schools and workplaces.
 Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

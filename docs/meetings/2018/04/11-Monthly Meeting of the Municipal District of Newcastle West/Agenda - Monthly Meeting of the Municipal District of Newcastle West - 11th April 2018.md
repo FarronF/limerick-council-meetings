@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%202018-04-11%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 11th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%202018-04-11%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——
+—
 
 =
 Limerick
@@ -34,7 +35,7 @@ To: The Cathaoirleach and Each M r of
 
 Duiche Bardais an Chaisleain Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
-Aras William Smith O'Brien,
+Avas William Smith O'Brien,
 
 Gortbui,
 
@@ -63,7 +64,7 @@ held in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 11
 
 Is mise le meas,
 
-Macarnit Gost lr
+Manaprne Got lr
 Margaret Corbett,
 
 Meetings Administrator.
@@ -87,7 +88,7 @@ on Roads held on 20" March, 2018.
 
 on Housing held on 20" March, 2018.
 
-y 3 Deputation
+y 4 Deputation
 
 (Copies Enclosed)
 
@@ -97,7 +98,9 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -153,14 +156,16 @@ uestion ed by Councillor M. Collin
 can be cleaned.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
 
 13.
 
-14.
+14,
 
 15,
 
@@ -194,4 +199,6 @@ Notice of Motion submitted by Councillor M. Collins
 Carraig Desmond Housing Estate Newcastle West to control traffic speed in the estate.
 
 
----
+
+[[PAGE_END:3]]
+

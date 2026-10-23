@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/metropolitan_district_of_limerick_-_minutes_of_meeting_-_15th_september_2014.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 15th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/metropolitan_district_of_limerick_-_minutes_of_meeting_-_15th_september_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF
 
 METROPOLITAN DISTRICT OF LIMERICK HELD IN THE
@@ -100,7 +101,9 @@ Proposed by Councillor Gilligan;
 Seconded by Councillor Hourigan;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed,
 
 subject to the two amendments outlined above”.
@@ -168,7 +171,9 @@ Orders.
 The Meetings Administrator pointed out that three clear days is laid down in
 
 legislation and could not be changed.
----
+
+[[PAGE_END:2]]
+
 On the proposal of Councillor Prendiville, seconded by Councillor Byrne, it was
 
 agreed that each Member could submit 2 Notices of Motion and 3 Question for each
@@ -238,7 +243,9 @@ extinguishment of the public right-of-way.
 As all Members were not in agreement, a Vote was taken which resulted as follows:
 
 For
----
+
+[[PAGE_END:3]]
+
 Councillors Butler, Byrne, Clifford, Collins, Crowley, Daly, Hourigan, Hurley, Leddin,
 
 Loftus, Lynch, O’Dea, O’Hanlon, Prendiville, Secas and Sheahan (16)
@@ -316,7 +323,9 @@ On the proposal of Councillor Leddin, seconded by Councillor Byrne, it was
 unanimously agreed to defer making a decision on this matter to allow Councillors in
 
 the area to meet with the Planners to discuss the concerns raised and, if necessary,
----
+
+[[PAGE_END:4]]
+
 to have a second round of consultations with the residents,the various interested
 
 groups and the wider community. A Special Meeting of the Metropolitan District
@@ -400,7 +409,9 @@ Caislean na hAbhann, Castletroy – There were two developers
 involved in the construction of this estate, M.A. Ryan & Sons and
 
 Castlelands Construction. Both have requested that their portion of the
----
+
+[[PAGE_END:5]]
+
 estate be taken in charge. A snag list has been issued to M.A. Ryan &
 
 Sons who are currently working on the snag list. The snag list for the
@@ -492,7 +503,9 @@ Hourigan to read as follows:
 The Metropolitan District of Limerick move that Irish Water immediately provide safe
 
 drinking water for all its customers in Limerick, residential, commercial and
----
+
+[[PAGE_END:6]]
+
 agricultural, and that Limerick City and County Council produce a detailed report on
 
 water quality and the location of lead piping.
@@ -574,7 +587,9 @@ agreed.
 ***meeting of the North Ward Area Committee of Limerick City Council it was***
 
 ***agreed that the commitment given by a previous Director in 2005 to the***
----
+
+[[PAGE_END:7]]
+
 ***residents of 26 – 38, New Road, Thomondgate, be fulfilled and these***
 
 ***gates/fences be provided.***
@@ -664,7 +679,9 @@ extensive repairs and increase the height of the flood embankment. To
 date no response to this application for funding has been received from
 
 Government.
----
+
+[[PAGE_END:8]]
+
 Limerick City and County Council has carried out repairs to damaged
 
 sections of the embankment using sandbags to stabilise this
@@ -748,7 +765,9 @@ The Motion was proposed by Councillor Leddin and seconded by Councillor Daly.
 ***Turning loading bays, where possible, into parking spaces after 12 noon***
 
 ***each day;***
----
+
+[[PAGE_END:9]]
+
 •
 
 ***Where possible that vacant buildings due to be demolished be cleared***
@@ -848,7 +867,9 @@ change some loading bays into parking bays after 12 p.m. each day.
 These changes will need the support and agreement of the business
 
 community, many of whom continue to get deliveries well into the
----
+
+[[PAGE_END:10]]
+
 afternoon, so each loading bay will have to be looked at on a business
 
 by business basis. Limerick City and County Council has commenced
@@ -930,7 +951,9 @@ The nearest lifebuoys are located on the southside of the river, along
 the quay wall, near the skateboard park up to the Clarion Hotel (4
 
 lifebuoys) and at the Seaman’s Memorial Park (1 lifebuoy in the park).
----
+
+[[PAGE_END:11]]
+
 There have been numerous emergency calls to the river for rescues at
 
 Shannon Bridge and rescue equipment would be of benefit at suitable
@@ -1018,7 +1041,9 @@ The Meetings Administrator agreed to circulate a copy of the Reply to Members.
 ***Campaign for international sanctions and an arms trade embargo on***
 
 ***Israel;***
----
+
+[[PAGE_END:12]]
+
 •
 
 ***Demand the immediate end to the blockade and siege of Gaza and***
@@ -1066,9 +1091,13 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:14]]
+

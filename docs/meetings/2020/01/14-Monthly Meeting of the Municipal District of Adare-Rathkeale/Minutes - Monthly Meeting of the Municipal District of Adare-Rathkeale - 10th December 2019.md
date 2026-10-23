@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%20Minutes%20of%20Monthly%20Meeting%2010th%20December%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%20Minutes%20of%20Monthly%20Meeting%2010th%20December%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -84,7 +85,9 @@ Following discussion Members requested the relevant person from Headquarters att
 the January Meeting to discuss the issue and also requested a report on the costing of
 
 repairs before works are carried out.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Collins proposed the District write to the Adare Community Trust to
@@ -160,7 +163,9 @@ alterations to the proposed Croom Local Area Plan would be going on display from
 Meeting to consider the second Chief Executives Report with a view to making the Local
 
 Area Plan. Councillor Keary advised he wished to abstain from the proposal as he
----
+
+[[PAGE_END:2]]
+
 3
 
 expressed concern with the amount of variants in relation to flood risk assessments
@@ -234,7 +239,9 @@ The report, as circulated, was noted by Members.
 Circulated, report of the Head of Property Services, dated 28th November, 2019 setting
 
 out proposal to dispose of house at Main Street, Ballingarry, Co. Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 The A/Administrative Officer, Urban & Rural Community Development informed
@@ -304,7 +311,9 @@ Following discussion, the following issues were raised by Members:
  Councillor Sheahan enquired if there were any plans to extend the Library in
 
 Askeaton.
----
+
+[[PAGE_END:4]]
+
 5
 
  Councillor Collins requested diversion signs to state works are being carried out
@@ -376,7 +385,9 @@ Circulated, correspondence from Adare Community Trust dated 25th November, 2019
 requesting a private meeting with Members. Councillor Sheahan agreed to Meeting
 
 members of the ACT at 12pm on Tuesday 14th January, 2020.
----
+
+[[PAGE_END:5]]
+
 6
 
 **11.**
@@ -408,4 +419,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_march_2015.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 16th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
+_ Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AN Cé na gCeannaithe,
@@ -31,7 +32,7 @@ Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL aed
+COUNCIL pad
 
 11" March, 2015. t: +353 (0) 61 407 100
 
@@ -48,11 +49,11 @@ in the Council Chamber, Merchant's Quay, Limerick, on Monday, 16" March, 2015 at
 
 Is mise le ™ |
 
-{- | | .
+f | [ .
 Eugene Griffin
 Meetings Administra
 
-weeeeene eee eee nwn cee ncne eee nnnseeenen see eeen en nnsnseseeesseeeeet ses essseeeeeee
+weeeeee= eee wenn nnn c cc nnns ee ennnseeeees see eeen en snsnseseeeeseeeeer res sssseeeeeee
 
 AGENDA
 
@@ -67,7 +68,7 @@ February, 2015.
 
 (a) Proposed Patrickswell Local Area Plan 2015 - 2021
 
-To consider the Chief Executive's Report dated 11"" March 2015, on the proposed
+To consider the Chief Executive's Report dated 11'" March 2015, on the proposed
 Patrickswell Local Area Plan and decide whether to make or amend the Local
 Area Plan, in accordance with Section 20(3)(m) of the Planning and Development
 Act 2000, (as amended).
@@ -78,7 +79,9 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach & wwew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -99,7 +102,7 @@ Kylemore, Castletroy
 
 Newtown Park, Annacotty
 
-PNAARON=
+OPNAARON=
 
 (Report Enclosed).
 
@@ -132,7 +135,9 @@ crossing to assist people crossing from the Mungret Football clubhouse to the
 pitches.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -184,7 +189,9 @@ Council to be spent on the local roads rather than on imposing another austerity
 charge.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -214,7 +221,6 @@ Bord Pleanala, and put in place plans for alternative social and community uses
 of that area should that happen.
 
 Notice of Motion submitted by Councillors Paul Keller, John
-
 Loftus and Cian Prendiville
 
 | will move at the next meeting that the Metropolitan District of Limerick condemns
@@ -225,7 +231,7 @@ that homophobia has no place in our city.
 
 Notice of Motion submitted by Councillor Sean Lynch
 
-| will move at the next meeting that the Council investigate the possibility of
+I will move at the next meeting that the Council investigate the possibility of
 putting a railing or some preventable measure on the footpath from Mungret
 Football Club to the village to deter cars and buses from parking on the footpaths.
 
@@ -237,4 +243,6 @@ will provide traffic calming measures at Maigue Avenue, Raheen, Limerick.
 Correspondence
 
 
----
+
+[[PAGE_END:4]]
+

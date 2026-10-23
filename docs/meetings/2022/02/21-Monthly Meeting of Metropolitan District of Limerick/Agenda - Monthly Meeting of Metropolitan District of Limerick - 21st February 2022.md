@@ -16,42 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-february-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-meeting-of-metropolitan-district-of-limerick-21st-february-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach
-& Contae Luimnigh
-ALN « NO a
-Limerick City
-= & County Council
+— Comhairle ve Comhairle Cathrach agus Contae Luimnigh,
+& Contae Luimnig Ceanncheathn: Chorpardidesch,
 
-16" February, 2022.
-
-A Chomhairleoir, a chara,
-
-Seirbhisi Corpardideacha,
-
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathra Chorparéiteach,
-
-Cé na gCeannaithe,
-
-Luénneach
-
+Ars ——— Cé na gCeannaithe,
+——= Limerick City Luémneach
+& County Council
 Corporate Services,
-
 Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
-
 Limerick
 
-EIRCODE V94 EH9O
+16" February, 2022. EBIRCODE V94 EHSO
 
 t: +353 (0) 61 $$7150
 f: 4353 (0) 61 415 266
+
+A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
 Monday, 21" February, 2022 at 9.45 am. in the Council Chamber, Dooradoyle and Online.
@@ -60,7 +48,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-UO ct
+UO uct
 
 Mark Leahy,
 Meetings Administrator.
@@ -68,22 +56,21 @@ Meetings Administrator.
 1. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 17%
-
 January, 2022.
-
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
 mcustomerservices@limerick.io
-© wer limerick.ie
 
-@LimerickCouncil
-(061 - 557150
+© Wow limerick.ie
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -100,7 +87,7 @@ Street, Limerick.
 
 {e) Proposed Disposal of 35 Lord Edward Street, Limerick.
 
-(f) Proposed Disposal of Unit at Galvone Business Park, Galvone, Limerick.
+(f} Proposed Disposal of Unit at Galvone Business Park, Galvone, Limerick.
 
 ({g) Proposed Disposal of Properties 11 and 12 Clontarf Place (including 1-4 Wellesley Lane),
 Limerick.
@@ -127,7 +114,9 @@ Limerick City and County Council during 2021 to include the number of trees fell
 felling licenses applied for, the number of tree reports completed and the costs involved.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor S. Hartigan
@@ -173,7 +162,9 @@ upgrade works will commence at the People's Park playground as they are long ove
 outside St. Nessan's School.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor E. O'Donovan
@@ -187,7 +178,7 @@ property.
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council can expedite the
 design completion for the location of the Columbarium Wall on the west side of the Kilmurray
-cemetery to ensure the Columbarian Wall is built in this cemetery in a timely manner..Given the
+cemetery to ensure the Columbarian Wall is built in this cemetery in a timely manner. Given the
 continuing move towards the use of crematoriums, our communities are in real need of a suitable
 and respectful place for relatives to store the ashes of departed loved ones.
 
@@ -216,7 +207,9 @@ sometimes sweep onto the footpath, possibly endangering pedestrians.
 proposed upgrades of the Playground in the People's Park.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -258,7 +251,9 @@ given the volume of traffic, the proposed new school and the recent residential 
 the area.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 25. Notice of Motion submitted by Councillor S. Kiely
@@ -275,4 +270,6 @@ County Council increase the Burial Ground Maintenance Grant for 2022.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

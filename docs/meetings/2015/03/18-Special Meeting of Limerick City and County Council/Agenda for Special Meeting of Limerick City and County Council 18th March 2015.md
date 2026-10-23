@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_18th_march_2015.pdf)
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council 18th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_18th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-AN ~ Cé na gCeannaithe,
-—==> Luimneach
+ANS ~ Cé na gCeannaithe,
+—==>> Luimneach
 Limerick Corporate Services and Change Management
 CITY & COUNTY Limerick City and County Council
 Merchants Quay,
 
-COUNCIL ee Limerick
+COUNCIL se Limerick
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -43,24 +44,26 @@ A Chomhairleoir, a chara,
 
 The Mayor, Councillor Kevin Sheahan, has called a Special Meeting of Limerick City
 and County Council to be held in the Council Chamber, Dooradoyle, on Wednesday,
-18" March, 2015, at 9.30 a.m. in order to discuss the issue of the new bin waiver
+18” March, 2015, at 9.30 a.m. in order to discuss the issue of the new bin waiver
 scheme before it is brought into effect, as set out in the attached Requisition.
 
 Eugehe e Griffin,
 gs Adminis
 customerservices@limerick |
-Ceanncheathrui Chorpardideach, Cine grommets Luimneach . F wnreienerichia
+Ceanncheathrui Chorpardideach, Cine gcenmas Luimneach * F wnretenericiia
 
-Corporate Headquarters, Merchants Quay, Limeric v @LimerickCouncit
+Corporate Headquarters, Merchants Quay, Limeric vy @LimerickCouncit
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Clir Kevin Sheehan,
 
 Cop e?
-p \C
+Pp. \C'
 Mayor, Orate Serv
 
 Limerick City & County Council
@@ -75,4 +78,6 @@ Signed:
 
 
 
----
+
+[[PAGE_END:2]]
+

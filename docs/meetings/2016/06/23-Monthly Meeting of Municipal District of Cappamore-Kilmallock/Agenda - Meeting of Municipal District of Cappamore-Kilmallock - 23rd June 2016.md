@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20June%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 23rd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANF : Cé na gCeannaithe,
-—=>=> Luimneach
+ANF . Cé na gCeannaithe,
+—==>=> Luimneach
 Limerick Corporate Services and Change Management.
 ITY NTY Limerick City and County Council,
-c YC Merchants Quay,
+Cc CL Merchants Quay,
 Limerick
 
-17" june, 2016. t: +353 (0) 61 407 100
+17" June, 2016. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
@@ -46,14 +47,14 @@ at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Gane Uno
+‘Yae Ynow
 
 Tina Knox,
 Meetings Administrator.
 
 AGENDA
 
-1. — Minutes
+1. Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
 17" May, 2016.
@@ -70,19 +71,21 @@ District.
 To receive presentation from Amanda Slattery, Tourism and Heritage Officer,
 Ballyhoura Development on “Munster Vales and Ireland’s Ancient East Update”.
 
-customerservices@limerick.ie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @ vewevalimerick.te
+customerservicesa@limerick.ie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ vewevatimerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development Directorate
 (a) eritage
 To receive briefing on the preparation of a Heritage Plan for Limerick.
 
-({b) Development Fund Allocation
+(b) Development Fund Allocation
 
 To consider additional Development Fund Allocation (Ancillary Projects) 2016 for the
 Municipal District of Cappamore-Kilmallock.
@@ -109,8 +112,10 @@ UE IN
 
 Question submitted by Councillor B. Teefy
 
-1 will ask at the next meeting when will the remaining work to the extension of
+| will ask at the next meeting when will the remaining work to the extension of
 Caherconlish Graveyard be carried out and totally completed.
 
 
----
+
+[[PAGE_END:2]]
+

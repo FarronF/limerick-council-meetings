@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-08/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-july-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-08/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-july-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ Seconded by Councillor Keary;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Following the adoption of the Minutes discussion arose pertaining to General Municipal
@@ -160,7 +163,9 @@ setting out proposals for the disposal of 0.0019 acres of land together with
 wayleave at Main Street, Adare, Co. Limerick.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **4.**
@@ -236,7 +241,9 @@ Design Office agreed to take consideration of Councillor O’Donoghue’s observ
 **Housing Strategy & Non-LA Housing Construction**
 
 **Social Housing Delivery**
----
+
+[[PAGE_END:3]]
+
 4
 
 Circulated, report of the Housing Strategy & Non-LA Housing Construction Directorate
@@ -308,7 +315,9 @@ request and to revert to Members with an agreed date and time for the Special Me
 It was also agreed the LA Construction Department would provide updates to members
 
 every three weeks going forward.
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.**
@@ -370,7 +379,9 @@ allocate the following:
  €1,000 to Askeaton Genealogy.
 
  €1,000 to Alliance Française Limerick (Sarsfield Homecoming Project).
----
+
+[[PAGE_END:5]]
+
 6
 
 On the proposal of Councillor Keary, seconded by Councillor Ward it was it was agreed to
@@ -430,4 +441,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

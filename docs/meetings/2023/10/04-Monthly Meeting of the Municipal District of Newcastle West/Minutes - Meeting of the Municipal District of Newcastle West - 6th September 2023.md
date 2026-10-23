@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 6th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. In
 
 replying, Councillor Collins disclosed an interest in one of the Disposals outlined below.
----
+
+[[PAGE_END:1]]
+
 2
 
 3**.**
@@ -174,7 +177,9 @@ Woodfield as a rat run.
 **Submission No. 10 (Ref LCC-C220-NCW2-63) as per Chief Executive’s Report**
 
 **Proposers:** Councillors Collins, Scanlan
----
+
+[[PAGE_END:2]]
+
 3
 
 **Proposal:** To include the Newcastle West southern distributor road as included in the current
@@ -258,7 +263,9 @@ the OPR submission. Map included.
 **Proposal:** To change the zoning of the subject site in the Draft Newcastle West Local Area
 
 Plan from Enterprise and Employment to New Residential.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Reason:** The provision of a residential zoning at this location would facilitate a proposed
@@ -326,7 +333,9 @@ discussed. At this stage, Councillor Collins left the Meeting.
 Following a brief discussion, the Members noted the proposal.
 
 At this stage, Councillor Collins re-joined the Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 5.
@@ -394,7 +403,9 @@ Infrastructure Ireland (TII) and are awaiting comments, observations from TII.
 **(c)** We are planning to undertake a road safety audit at Templeglantine in the coming weeks
 
 with a view to installing a bus shelter (city bound) before the end of 2023.
----
+
+[[PAGE_END:5]]
+
 6
 
 We will assess the feasibility of providing bus shelters at Templeglantine village (second
@@ -466,7 +477,9 @@ proximity to each other at the same time, due to the level of traffic disruption
 Phase 1 will commence upon completion of TII pavement improvement scheme and will take
 
 approximately eight months to complete. Phase 2 of Abbeyfeale Public Realm Scheme
----
+
+[[PAGE_END:6]]
+
 7
 
 comprising Church to Cellar Bar on N21 and upgrading of Colbert Terrace will be tendered to
@@ -568,7 +581,9 @@ Family Housing Association
 Limited
 
 Hazel Avenue, Dromcollogher
----
+
+[[PAGE_END:7]]
+
 8
 
 Focus Housing Association
@@ -666,7 +681,9 @@ applications (2 completed in 2022).
 The 2024/2025 scheme has been advertised where Limerick City and County Council is inviting
 
 expressions of interest from communities/groups to improve Public Roads on which the
----
+
+[[PAGE_END:8]]
+
 9
 
 Council is not in a position to carry out regular maintenance work. Generally the roads in
@@ -740,7 +757,9 @@ out the responsibility of the Council and Elected Representatives to manage pers
 securely. Section 40 of the Data Protection Act 2018 specifically refers to Elected
 
 Representatives making representations to organisations seeking personal data.
----
+
+[[PAGE_END:9]]
+
 10
 
 The Council having regard to the significant requirements under the Data Protection
@@ -814,7 +833,9 @@ Killarney Road from Cellar Bar to doctor’s surgery i.e. past library. Phase 1 
 commence upon completion of TII pavement improvement scheme on N21
 
 and will take approximately eight months to complete.
----
+
+[[PAGE_END:10]]
+
 11
 
 In proposing the Motion, Councillor Foley referred to the poor condition of certain sections
@@ -884,7 +905,9 @@ the laneway was also raised. In replying, the Senior Executive Engineer stated t
 liaised with Central Services on this matter and that this laneway may not qualify for a Local
 
 Improvement Scheme. He also stated that a Local Improvement Scheme will only guarantee
----
+
+[[PAGE_END:11]]
+
 12
 
 a once off treatment whereas this laneway requires ongoing maintenance. The Senior
@@ -958,6 +981,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+
 13
----
+
+[[PAGE_END:13]]
+

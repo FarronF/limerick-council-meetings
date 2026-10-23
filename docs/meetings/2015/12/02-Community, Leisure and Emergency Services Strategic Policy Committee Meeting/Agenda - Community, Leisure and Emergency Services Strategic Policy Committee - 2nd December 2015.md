@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Community%2C%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee%20-%202nd%20December.pdf)
+**Original file:** [Agenda - Community, Leisure and Emergency Services Strategic Policy Committee - 2nd December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Community%2C%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee%20-%202nd%20December.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Community Leisure & Emergency Services**
@@ -82,4 +83,6 @@ Any Other Business.
 **Community, Leisure & Emergency Services SPC**
 
 **Limerick City & County Council**
----
+
+[[PAGE_END:1]]
+

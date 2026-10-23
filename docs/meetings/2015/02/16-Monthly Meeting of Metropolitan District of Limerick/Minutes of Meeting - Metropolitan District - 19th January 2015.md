@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_meeting_19_january_2015_0.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District - 19th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_meeting_19_january_2015_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
 DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER,
@@ -90,7 +91,9 @@ Members noted and approved the disposal of land as set out below :
 • Dwelling House situate at 38 Hennessy Avenue, Kileely, Limerick City.
 
 • Dwelling House situate at 20 Linden Court, Kennedy Park, Limerick City.
----
+
+[[PAGE_END:1]]
+
 3.
 
 Economic Development and Planning
@@ -170,7 +173,9 @@ partially developed housing development, permitted under planning ref.
 00/2987 for demolition of existing 2 storey dwelling and retail unit,
 
 construction of 6 commercial units, 7 apartments, 11 No. terraced houses.
----
+
+[[PAGE_END:2]]
+
 This area would therefore not be suitable to accommodate a car park.
 
 It should be noted that the proposed Patrickswell Local Area Plan 2015 -
@@ -272,7 +277,9 @@ Notice of Motion submitted by Cmhlr. Séighin Ó Ceallaigh
 ***trading tradition and bringing to life the area's central role in the 1916 Rising.***
 
 In proposing the motion, Cmhlr. Ó Ceallaigh indicated the importance of the Metropolitan
----
+
+[[PAGE_END:3]]
+
 District playing its part in saving historic Moore Street as a key tourist location, the history
 
 of which should not be sacrificed for a shopping centre.
@@ -354,7 +361,9 @@ three were broken and this resulted in elderly residents having to carry water c
 distances and also deal with slippery surfaces around the standpipe during icy weather.
 
 The following points were made by Members during discussion on the motion :
----
+
+[[PAGE_END:4]]
+
 • That Irish Water had inherited the current situation including 40% water leakage in
 
 the city and will be better equipped to identify leaks going forward.
@@ -444,7 +453,9 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 ***government to find a solution to the crisis that exists at present in the hospital.***
 
 The motion was proposed by Councillor McCreesh and seconded by Councillor Keller.
----
+
+[[PAGE_END:5]]
+
 12.
 
 Notice of Motion submitted by Councillor Paul Keller
@@ -530,7 +541,9 @@ all of which was leading to a crisis for those on the housing list seeking accom
 Members noted that rent supplement had originally been intended as a short term solution
 
 that had turned into a long term scheme which it was now intended to replace with HAP.
----
+
+[[PAGE_END:6]]
+
 Members noted the substantial budget allocated to the Housing function and requested
 
 that Housing Management attend the next Metropolitan District meeting to discuss the
@@ -606,7 +619,9 @@ was put forward but was ruled out of order as it was a new motion rather than an
 amendment to the existing motion and following a vote by show of hands, the Mayor
 
 declared the motion accepted.
----
+
+[[PAGE_END:7]]
+
 This concluded the Meeting.
 
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -614,4 +629,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

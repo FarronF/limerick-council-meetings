@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-metropolitan-district-of-limerick-16th-december-2024.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 16th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-meeting-of-metropolitan-district-of-limerick-16th-december-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-nAcr™N a ——_—_——_—
 
 — Limerick City
 & County Council
@@ -32,14 +32,14 @@ nAcr™N a ——_—_——_—
 
 A Chomhairleoir, a chara,
 
-Sewbhisi Corparaideacha,
+Sebhisi Corparaideacha,
 
 Comhairle Cathrach agus Comtae Luimnigh,
 Ceanncheathra Chorpardideach,
 
 Cé na gCeannaithe,
 
-Luenneach
+Luinneach
 
 Corporate Services,
 
@@ -52,7 +52,7 @@ Limenck
 EIRCODE V4 EH90
 
 *: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+f: +353 {0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
 Monday, 16 December, 2024 at 9.45am in the Council Chamber, Merchant's Quay, Limerick
@@ -63,7 +63,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-C acest
+C reesl
 
 Ciara Farrell,
 Meetings Administrator.
@@ -84,10 +84,12 @@ Corporate Headquarters, Merchants Quay, Limerick
 @customerservices@limerickie
 © voww limerickie
 
-(064 - 557150
+061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of interest
@@ -98,7 +100,7 @@ Disposal of Freehold Interest of premises consisting of a dwelling house situate
 Avenue, Mulgrave Street, Limerick.
 
 (Report Enclosed)
-4. U e on the Limerick City Trans Plan
+4. U e on the Limerick City Trans; Plan
 To receive Update on the Limerick City Transport Plan.
 
 5. Housing Directorate
@@ -118,7 +120,7 @@ Thomondgate, Limerick.
 
 (Reports Enclosed).
 6. Planning, Environment and Place-Making Directorate
-(a)_Takingin E - ration of R to be Publi
+(a)_Takingin E : ration of R to be Publi
 
 To consider the Taking in Charge of Belfield Crescent, Farranshone, Limerick, in accordance with
 Section 180 of the Planning and Development Act 2000 (as amended) and Section 11 of the
@@ -132,7 +134,9 @@ To receive Briefing on the proposed Part 8 for the Fireplace Site, 35 — 39 Nic
 Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -150,7 +154,7 @@ acquisition for a new graveyard in the Castletroy area.
 9. Question submitted by Councillor J. Pond
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that following on from
-further recent acts of anti-social behaviour on Castletroy Greenway, can | have an update on the
+further recent acts of anti-social behaviour on Castletroy Greenway, can I have an update on the
 CCTV scheme that is proposed for the Castletroy Greenway.
 
 10. Question submitted by Councillor C. Slattery
@@ -166,7 +170,7 @@ towards the second half of the year.
 can be installed at the junction of Willow Avenue and Woodbine Avenue, Caherdavin Heights, as
 this junction has been flagged as dangerous for pedestrians and cyclists by local residents.
 
-12. . ‘ey-O' Mara
+12. . ey-O’ Mara
 | will ask at the next Meeting of the Metropolitan District of Limerick if the Council has plans to
 
 improve footpaths on Caragh Avenue, Caragh Drive and Sheelin Road, Caherdavin, as part of their
@@ -179,7 +183,9 @@ Fund initiative that traditionally provides hampers from the Milk Market to Lime
 need.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -218,4 +224,6 @@ the Metropolitan area.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

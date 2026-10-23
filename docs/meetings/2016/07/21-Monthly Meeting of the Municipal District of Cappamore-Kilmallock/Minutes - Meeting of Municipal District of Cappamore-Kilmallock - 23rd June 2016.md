@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20Meeting%20of%20Municipal%20District%20of.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 23rd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20Meeting%20of%20Municipal%20District%20of.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN** **ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,**
@@ -88,7 +89,9 @@ they would be looked at.
  The Gardai had powers under drug laws and actively address drugs issues. Drug driving
 
 detection was processed the same as drink driving.
----
+
+[[PAGE_END:1]]
+
 2
 
  The replacement of Garda personnel was a matter for the Chief Superintendent.
@@ -160,7 +163,9 @@ following Motion would be submitted to the July Meeting of the Full Council:
 The Senior Executive Engineer advised that additional funding of €30,000 was available under
 
 the Development Fund Allocation (Ancillary Projects) 2016 for the District.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Teefy, seconded by Councillor Sheehy, it was agreed that the
@@ -234,7 +239,9 @@ Development Plan 2010, the Limerick County Development Plan 2010 and the relevan
 Area Plans and that there is consistency between the economic and the community elements
 
 of the LECP, in accordance with Section 66 of the Local Government Act, 2001, as amended”.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -344,7 +351,9 @@ It was agreed that a further workshop would be held and presentations would be g
 Friendly Initiative and Tourism / Marketing and that this item would be on the agenda for the
 
 next Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 **QUESTIONS**
@@ -414,4 +423,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-08/00-agenda-adjourned-meeting-of-the-metropolitan-district-of-limerick-05.08.2021-.pdf)
+**Original file:** [Agenda - Adjourned Meeting of the Metropolitan District of Limerick - 5th August 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-08/00-agenda-adjourned-meeting-of-the-metropolitan-district-of-limerick-05.08.2021-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 eile Limerick Ci
 — merick City
 & County Council
 
-i Comhairle Cathrach
+ee Comhairle Cathrach
 = & Contae Luimnigh
 
 29" July, 2021.
@@ -54,7 +55,7 @@ f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
-You are =_— bed —— the Adjourned oe of the piel District of Limerick, to be
+You are =—_— bed oe the Adjourned oe of the techie District of Limerick, to be
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -72,9 +73,11 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 Limerick.
 (Report Enclosed).
 =m Customerservices@limerick.ie
-© vewwalimerick.ie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+© vewwlimerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

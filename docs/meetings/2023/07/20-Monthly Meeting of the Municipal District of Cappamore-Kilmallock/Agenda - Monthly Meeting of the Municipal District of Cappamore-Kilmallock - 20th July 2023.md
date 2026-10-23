@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-July-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-mhair Yr Comhairle Cathrach agus Contae Luimnigh:
--e_e“ Comhairle Cathrach ¢ Part
-& Contae Luimnigh Otftg an Creantaiy, Aras i wancrin Seoighe,
-, i” ~~ Cili Mochealég,
+‘omhair thr: Comhairle Cathrach agus Contae Luimnigh
+dra oe skal Cc Aras Mhainchin $
+& Contae Luimnigh Otfg arn Creantaiy, Aras anc rin Seoighe,
+, wo =~ Cili Mochealég,
 cov Co, Luimnigh
-—<—— Limerick City
+—<— Limerick City
 & County Council
 
 Limerick City and County Council,
 Aras Mainchin Secigne Area Office,
-Kilrnailock,
+Kilnailock,
 
--6, Unenck,
+0, Umnenck,
 
 EIRCODE V35 K497
 
 t; +353 (0) 63 98019
-f; 4353 (0} 63 985 99
+f; 4383 (0} 63 985 99
 
 14%" July, 2023.
 To: e aoirleach and Each r nici i Imallock
@@ -60,25 +61,25 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on 22"
+(a) Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on 22°
 June, 2023.
 
-(b) Annual Meeting of the Municipal District of Cappamore-Kilmallock held on 22°
-june, 2023.
+(b) Annual Meeting of the Municipal District of Cappamore-Kilmallock held on 22"
+June, 2023.
 
 (Copies Enclosed).
 2. Matters Arising
-
 Relating to the Minutes of the Municipal District Meeting of 22"° June, 2023.
+customerservices@limerick.te
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantaty, Ares Mhainchin Seoighe ~ © wenwlimerick.ie
 
-@ customerservices@limerick.te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantaiy, Ares Mhainchin Seoighe © wena limerick.ie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office y .
-
-063 980 19
+Limerick City and County Council, Aras Mainchin Seoighe Area Office vy
+(063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Declaration of Interest
@@ -108,13 +109,15 @@ Question submitted by Councillor P. Carey
 transfer to an alternative LCCC house
 
 [b] What is the process of evaluating these same requests.
-{c] How can a fair decision be made for same when some would-be applicants have been
+[c] How can a fair decision be made for same when some would-be applicants have been
 
 refused a housing transfer application form and thus denied request for formal
 application.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -168,4 +171,6 @@ Limerick City and County Council accommodate for land disposal, two local busine
 wish to expand by purchasing a site each at Kilmallock Business Park.
 
 
----
+
+[[PAGE_END:3]]
+

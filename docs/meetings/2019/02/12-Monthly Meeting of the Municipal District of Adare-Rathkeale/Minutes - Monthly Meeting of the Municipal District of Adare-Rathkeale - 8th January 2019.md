@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20%28a%29%20Minutes%208th%20January%2C%202019_0.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20%28a%29%20Minutes%208th%20January%2C%202019_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -76,7 +77,9 @@ Seconded by Councillor O’Donoghue;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -146,7 +149,9 @@ Circulated, report of the A/Senior Executive Engineer, Service Operations West, 
 3rd January, 2019 setting out an update in relation to the taking in charge of An Curran,
 
 Pallaskenry. The report was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.**
@@ -218,7 +223,9 @@ Litter Control along with Inspector Deasy attend the February Meeting to discuss
 Councillor Keary requested Túsla attend a Meeting to discuss the problem of
 
 children between the ages of 7 and 13 years old who are causing trouble around
----
+
+[[PAGE_END:3]]
+
 4
 
 the town in the evening and also suggested Pavee Point attend if they are willing
@@ -288,7 +295,9 @@ of Rathkeale town. The issue of loading/unloading bays can be facilitated
 within this review.
 
 We will continue to liaise with the District in developing solutions.
----
+
+[[PAGE_END:4]]
+
 5
 
 **12.**
@@ -362,7 +371,9 @@ them for engaging youths with their service over the Christmas period.
  Councillor Keary requested information on prosecutions and pending
 
 prosecutions for illegally parked caravans in Rathkeale town over Christmas.
----
+
+[[PAGE_END:5]]
+
 6
 
  Councillor Sheahan informed Members that Irish Water are currently drawing up
@@ -400,4 +411,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

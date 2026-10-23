@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf)
+**Original file:** [Agenda - Ordinary Meeting of Limerick City and County Council - 31st March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach Comhairle Cathra fan Carica LabTolaae
-. . Orns e wacn, & a ee Lu ‘ugh,
-ai > & Contae Luimnigh Ceanncheathna Chorparaideach,
+_——_" Comhairle Cathrach neshabae Colma te Ce
+: : Somhairie Cathvach agus Contae Luirnrugh,
+Y & Contae Luimnigh Ceanncheathna Chorparaideasch,
 “ , Cé na gCeannaithe,
 — Limerick City Luimneach
 
 & County Council
 
 Corporate Services,
-Limenck City and County Covncil.
+Limerick City and County Council.
 Corporate HeaGquarters,
 
 26" March, 2025. Merchants Quay,
 Limerick
 EIRCODE V4 EH90
 Tos P mhairleoir and ber of t: +353 (0) 61 557150
-Limerick City and County Council +553 (0) 61 415 266
+Limerick City and County Council f: +555 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
@@ -45,7 +46,7 @@ You are requested to attend Meeting of Limerick City and County Council to be he
 Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 31% March, 2025, at 3pm.
 
 The business to be transacted is set out on the appended Agenda.
-7 mise fe meas, y y
+7 mise jE meas, y y
 
 Ciara Farrell,
 Meetings Administrator.
@@ -73,11 +74,13 @@ Housing Directorate
 (a) 4, Main Street, Kilteely, Co. Limerick.
 (b) 1, Main Street, Ballylanders, Co. Limerick.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rural, Community, Culture and Tourism Development Directorate
@@ -104,10 +107,10 @@ Dooradoyle, Limerick.
 Derelict Disposals
 (k) Property at Kilready, Castlemahon, Co. Limerick.
 
-(Statutory Notices dated 16" December, 2024, 27" January,
+(Statutory Notices dated 16'" December, 2024, 27" January,
 12" and 19 March, 2025, already circulated)
 
-Cor ite Serv’ rces and Or. isa'
+Cor ite Serv’ rces and Or. isa’
 
 (a) Executive Report
 To consider Executive Report for the months of January and February, 2025.
@@ -126,12 +129,14 @@ Audit and Risk Committee Report.
 Limerick City and County Council Audited Annual Financial
 Statement for Year ended 31% December, 2023.
 
-* Local Government Audit Service Statutory Audit Report to the
+¢ Local Government Audit Service Statutory Audit Report to the
 Members of Limerick City and County Council for the Year ended
 31* December, 2023.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -183,7 +188,9 @@ To consider the filling of vacancy on Limerick Civic Trust following the
 resignation from the Trust of the Council’s nominee, Councillor Talukder.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (s)
@@ -241,7 +248,9 @@ Recommendation:
 (Report, Executive Summary and Draft Plan Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iv) | Chairperson’s Report — Meeting of the Community, Leisure, Arts,
@@ -290,7 +299,9 @@ To consider approving recommended grants under the Arts Act, 2003.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -335,7 +346,9 @@ employers for the wider benefit of local residential communities who are current
 suffering from car parking issues on a regular basis.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
@@ -376,7 +389,7 @@ Question submitted by Councillor E. O'Donovan
 | will ask at the next Meeting of Limerick Council for the number of Notices to Quit
 received by Limerick Council across Limerick in the last 12 months per month.
 
-nm sub b lor S. B
+n sub b lor S. B
 I will ask at the next meeting, (i) How many vacant Council properties do we currently
 have (ii) What is the projected cost of refurbishing all of these properties (iii) What is
 
@@ -389,7 +402,9 @@ Question submitted by Councillor S. Benson
 fulltime Access Officer, with appropriate seniority and training.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -436,7 +451,9 @@ purchase in 2024 under Notice to Quit, Tenant in Situ and Rightsizing options, w
 the relating purchase monies amount to, and when completions are expected.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -449,9 +466,9 @@ Education and Community Engagement work. The funding is essential to enable them
 to continue their offering of programmes free-of-charge to schools and community
 groups, providing access to music and the arts for those who may require it.
 
-Notice of Motion submitted by Councillor T. Ruddie
+Notice of Motion submitted by Councillor T. Ruddle
 
-1 will move at the next Meeting that Limerick City and County Council call for
+| will move at the next Meeting that Limerick City and County Council call for
 Government intervention to start the process of upgrading Newcastle West Sewerage
 Scheme immediately; to also put interim/temporary measures in place so that
 development can continue while the upgrade can take place.
@@ -469,7 +486,7 @@ housing in Limerick City and County.
 
 Notice of Motion submitted by Councillor C. Slattery
 
-I will move at the next Meeting that Limerick City and County Council process rent
+| will move at the next Meeting that Limerick City and County Council process rent
 assessments for people in Council properties in a timely manner to avoid tenants
 receiving backdated bills for arrears.
 
@@ -481,7 +498,9 @@ Palestinian flag outside Merchant’s Quay as a sign of solidarity with the peop
 Gaza, East Jerusalem and the West Bank. Note: (b) Referred to Protocol Committee.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
@@ -494,7 +513,7 @@ planning application for a one-off rural house outside a settlement, that the ab
 of affordable dwellings for purchase within a settlement be included as qualifying
 criteria where a housing need is demonstrated.’
 
-| will move at the next meeting of Limerick Council that this Council write to the
+t will move at the next meeting of Limerick Council that this Council write to the
 Minister for Housing requesting a funding guarantee for the tenant-in-situ scheme for
 2025, and to allow Limerick Council the maximum flexibility on how this scheme is
 operated.
@@ -519,7 +538,9 @@ Council for Limerick Lace to have a location where they can showcase their wares
 tourists and interested parties.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Motion sub: Councillor S. Hickey-O'’Mara
@@ -538,4 +559,6 @@ a review of the current list of Protected Structures.
 Correspondence
 
 
----
+
+[[PAGE_END:11]]
+

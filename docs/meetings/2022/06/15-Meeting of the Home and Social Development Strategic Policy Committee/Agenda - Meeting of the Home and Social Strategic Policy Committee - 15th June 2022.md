@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/22-06-15-Meeting-Home-and-Social-Development-SPC-June-Agenda.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Strategic Policy Committee - 15th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/22-06-15-Meeting-Home-and-Social-Development-SPC-June-Agenda.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
 **DEVELOPMENT STRATEGIC POLICY COMMITTEE**
@@ -62,4 +63,6 @@ Housing Allocation Scheme.”
 AOB
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

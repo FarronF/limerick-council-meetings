@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202016.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 21st March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—" Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_—_—" Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANT ™ Cé na gCeannaithe,
+AN Si ™ Cé na gCeannaithe,
 
-. =-_> Luimneach
+. =_> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -41,7 +42,7 @@ To: The Mayor and each Member of the Metropolitan District of Limerick
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Merchant’s Quay, Limerick, on Monday, 21 March, 2016 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick, on Monday, 21° March, 2016 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -59,17 +60,19 @@ To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 15"
 2. Presentation by Limerick Chamber
 To receive Presentation by Limerick Chamber.
 @ customerservices@limerick.te
-Ceanncheathmni Chorpartitieach, Ofna gCeannaithe, Luimneach © weew.limerick.le
+Ceanncheathni Chorpartitieach, Ofna gCeannaithe, Luimneach © weew.limerick.le
 
-Corporate Heaciquarters, Merchardts Quay, Limerick yw @LimerickCouncil
+Corporate Heaciquuarters, Merchardts Quay, Limerick yw @LimerickCouncit
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
-Dis:
+Dis,
 
 f Lan
 
@@ -107,7 +110,7 @@ year?
 
 Question submitted by Councillor Cian Prendiville
 
-i will ask at the next meeting if there is a plan and timetable for moving the City Centre
+I will ask at the next meeting if there is a plan and timetable for moving the City Centre
 Library to a more high-street location?
 
 i ncillor Paul Keller
@@ -116,7 +119,9 @@ i ncillor Paul Keller
 to attract people into the city centre?
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -147,4 +152,6 @@ demolition of void domestic Council dwellings, other than those which are a safe
 building urgently required Social Housing.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-draft-minutes-monthly-meeting-11th-december-2023.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting of Metropolitan District of Limerick - 11th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-draft-minutes-monthly-meeting-11th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -92,7 +93,9 @@ Limerick 2024. They noted, however, that a Workshop had taken place in early 202
 Christmas in Limerick 2023 where several good suggestions were made in relation to expanding the
 
 offering, and Members expressed disappointment that these had not been acted on.
----
+
+[[PAGE_END:1]]
+
 2
 
 They referred to Christmas events in other cities in Ireland and agreed that Limerick needed to
@@ -166,7 +169,9 @@ house situate at 19 Cregan Avenue, Kileely, Limerick and the intention to bring 
 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 (e) Circulated, Report of the Senior Executive Officer and Director of Service, Housing dated 24th
@@ -240,7 +245,9 @@ These cases include properties which are:
  retained for community/tourism or other uses.
 
  held by LCCC pending an arbitration process
----
+
+[[PAGE_END:3]]
+
 4
 
 It is the intention to dispose of the majority of the acquired sites to new owners, or they
@@ -314,7 +321,9 @@ programme. Once these schools have been supported, then subsequent schools will 
 brought onto the programme from the existing waitlist.
 
 **8.Question submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:4]]
+
 5
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick as to what plans have***
@@ -392,7 +401,9 @@ be seeking the establishment of the Committee in 2024.
 **11.Question submitted by Councillor F. Kilcoyne**
 
 ***I will ask at the next**Meeting of the Metropolitan District of Limerick for Limerick City and County***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***Council to clarify why foliage from gardens, etc., including grass, is not being accepted from small***
@@ -470,7 +481,9 @@ Geodirectory.
 ***Time Economy Advisor position within Limerick City and County Council as advertised in May***
 
 ***2023, following Limerick’s selection as one of nine locations acro**ss the country to pilot a new***
----
+
+[[PAGE_END:6]]
+
 7
 
 ***scheme to support the night-time economy, and an update on the Night Time Economy focused***
@@ -522,7 +535,9 @@ require the input of Occupational Therapists reports or may be missing particula
 regarding the applicant in respect of household income, Local Property Tax compliance etc;
 
 (Image omitted)
----
+
+[[PAGE_END:7]]
+
 8
 
 this can extend the processing time beyond 6 to 8 weeks.
@@ -596,7 +611,9 @@ Limerick City and County Council’s Traffic Wardens regularly monitor this taxi
 frequently issue fixed penalty notices to illegally parked vehicles.
 
 **17.Notice of Motion submitted by Councillor S. Benson**
----
+
+[[PAGE_END:8]]
+
 9
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council write to***
@@ -666,7 +683,9 @@ Funds Grant for works to the Chapel at Mount Saint Lawrence cemetery. The fundin
 application will be submitted by the end of January 2024.
 
 **20.Notice of Motion submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:9]]
+
 10
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
@@ -738,7 +757,9 @@ damaged in some areas by heavier vehicles.
 ***made law.***
 
 The Notice of Motion was proposed by Councillor Kilcoyne and seconded by Councillor Slattery.
----
+
+[[PAGE_END:10]]
+
 11
 
 In proposing the Motion, Councillor Kilcoyne highlighted the need for cyclists to be visible on the
@@ -810,7 +831,9 @@ In 2022, the Council approved 842 applications in total; in 2023 the Council has
 total of 945 applications up to the end of November 2023 and we envisage this no. will
 
 exceed 1,000 by the end of the year. The 2023 grant approvals to date represents a 12%
----
+
+[[PAGE_END:11]]
+
 12
 
 increase on the full year approval figure for 2022.
@@ -886,7 +909,9 @@ for a very limited number of organisations to operate in the city centre.
 Currently there are no other regulatory provisions in place in Limerick for requests that fall
 
 outside of these criteria.
----
+
+[[PAGE_END:12]]
+
 13
 
 It is also important to consider the amenity and economic value of street space. Any
@@ -918,4 +943,6 @@ This concluded the Meeting.
 **Dated:** **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:13]]
+

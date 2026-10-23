@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 9th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-wl Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+i Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-alle Cé na gCeannaithe,
-—=_> Luimneach
+aie Cé na gCeannaithe,
+—=> Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 COUNCIL = —
@@ -40,14 +41,14 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in Aras
 
-Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 9" March, 2016 at 9.00 a.m. The
+Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 3” March, 2016 at 9.00 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 Meetings Administrator.
 
-ena ee nnn nnn en nen nnn ne en enn eee ene nee ee ene en enn ne eee nee nee e eee Ree eR tReet eRe RRR e RRR RAT OR e ne on o
+ena ne nn ne en nen nn ne een enn eee nn een es en nen een ne eee nee nee e ee Ree Ree Ree R eee RRR RRR RR Ree ORL Re on a
 
 AGENDA
 
@@ -63,11 +64,13 @@ To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on
 To receive Deputation from Rathkeale Community Council. (Item to be taken at 9.05 a.m.)
 
 1 @ customerservices@limerick.te
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www limerick.te
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach oe www limerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -117,4 +120,6 @@ for a period in excess of twenty years.
 Corr n
 
 
----
+
+[[PAGE_END:2]]
+

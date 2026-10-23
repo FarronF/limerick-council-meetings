@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Monthly%20Meeting%2026th%20June%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 26th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Monthly%20Meeting%2026th%20June%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—————
+———
 
-on
+An hf ™
 
-. =_—
+. =—_>
 Limerick
 CITY & COUNTY
 
@@ -72,7 +73,7 @@ Is mise le meas,
 Karen ,
 Meetings Administrator.
 
-Rea e ee OSA RRR R ERROR R ERR sense wen wenn nnn nnn n nnn n nee n nen nent nnn n naan teers eet eee anes eeeeeaestnnsnseeeen
+Aan e eee RRR R REAR EERE RN sense e new n nnn nnn nn nnn nnn nen n en wens nnn n nn nn teers eet eee ane n ee eeeaesnnsnseeees
 
 1. Minutes
 
@@ -97,17 +98,19 @@ Corporate Headquarters, Merchants Quay, Limerick
 W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i i r — Plan n m i
+i i r = Plan n m i
 
 Litter Control in Limerick City and County
 
 To receive a presentation on Litter Control in Limerick City and County.
 
 (Copy Enclosed)
-Ph | |
+Ph U |
 Flood Risk Management Plans — CFRAMS
 To note the CFRAMS Flood Risk Management Plans.
 
@@ -137,7 +140,9 @@ House.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -188,4 +193,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%206th%20July%202016.pdf)
+**Original file:** [Agenda - Community Leisure & Emergency Services SPC - 6th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%206th%20July%202016.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Community Leisure & Emergency Services**
@@ -74,4 +75,6 @@ Any Other Business.
 **Community, Leisure & Emergency Services SPC**
 
 **Limerick City & County Council**
----
+
+[[PAGE_END:1]]
+

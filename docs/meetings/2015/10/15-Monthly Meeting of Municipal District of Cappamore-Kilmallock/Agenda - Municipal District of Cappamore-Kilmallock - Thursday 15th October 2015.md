@@ -16,29 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%20Thursday%2015th%20October%202015.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock - Thursday 15th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%20Thursday%2015th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seirbhisi Corparaideacha agus Batnistiocht Athruithe.
-ee Comhairle Cathrach agus Contae Luimnigh
+Seirbhisi Corparaideacha agus Bainistiocht Athruithe.
+a Comhairle Cathrach agus Contae Luimnigh
 
-ANS “ Cé na ~~
-— uimne
-. .
+NN “ Cé na gCeannaithe
+— Luimneach
+—
 Limerick Corporate Services and Change Management,
-Limerick City and County Council,
-CITY & COUNTY Merchants Quay.
+ITY Limerick City and County Council,
+c & COUNTY Merchants Quay.
 COUNCIL Limerick
-
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
-9" October, 2015.
-
-a
-
-To/ h Mem
+9” October, 2015.
+To/ h Mem ic
 
 A Chomhairleoir, a chara,
 
@@ -62,6 +59,7 @@ To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock he
 (Copy Enclosed)
 
 2. Home and Community
+
 (a) Local Economic and Community Plan Socio-Economic Statement and High Level
 Goals.
 
@@ -73,19 +71,21 @@ Tidy Towns Competion’s Results 2015
 
 Update on towns and villages in Municipal District of Cappamore-Kilmallock.
 
-@ customerservices@limerickie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wow limerick.te
+@ customerservices@limerick ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © www limerick.te
 Corporate Headquarters, Merchants Quay, Limerick we
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
 10.
 
-nN
+N
 
 QUESTIONS
 Question submitted by Councillor O’ Donnell
@@ -129,7 +129,9 @@ Hogans Cross, Herbertstown on the R513 at the junction with L1139 to Herbertstow
 L1140 to Bruff.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor Sheehy
@@ -140,9 +142,13 @@ the misleading signage at Drakes Cross, Glenroe.
 12. Correspondence
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

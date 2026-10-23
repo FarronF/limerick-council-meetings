@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/02-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/02-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -78,7 +79,9 @@ meeting onwards.
 **Proposed: Councillor: E Ryan**
 
 **Seconded: Councillor: G Mitchell**
----
+
+[[PAGE_END:1]]
+
 3.Annual General Meeting
 
 The date for the Annual General Meeting was set as Thursday 22nd June at 4.30 in Aras
@@ -130,7 +133,9 @@ acceptable level of maintenance be carried out at Kilmallock Business Park and t
 Business Park becomes a priority for this Local Authority in order to keep the existing
 
 businesses and to encourage other businesses to establish there.
----
+
+[[PAGE_END:2]]
+
 **Reply:**
 
 Kilmallock Business Park was acquired by Limerick City and County Council in early 2020
@@ -192,7 +197,9 @@ The Council are aware of the concerns of both the Elected members and the public
 regarding parking at Athenacey Cemetery. To this end, the Council will investigate
 
 options to facilitate parking at the cemetery and will revert on the matter in due course.
----
+
+[[PAGE_END:3]]
+
 ***The Elected Members requested that a representative from the Burial Grounds section***
 
 ***attend the next meeting of the Cappamore Kilmallock Municipal District, in particular***
@@ -258,7 +265,9 @@ Planning Department
 4. The planned date for the estate to be taken over by Limerick City and County
 
 Council.
----
+
+[[PAGE_END:4]]
+
 **Reply:**
 
 1. A Roads report has been compiled and costed. CCTV surveys of the storm and
@@ -324,7 +333,9 @@ Uisce Eireann be invited to meet with representatives from the community of
 Kilbehenny. It was noted that at the workshop with Water services, Director of
 
 Services, K Lehane, outlined that it was important to identify what the community of
----
+
+[[PAGE_END:5]]
+
 Kilbehenny need Limerick City and County Council to do. It was agreed that the
 
 Meetings administrator would follow up with Uisce Eireann to seek a reply to the
@@ -368,4 +379,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-budget-meeting-27.11.2020.pdf)
+**Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council -  27th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-budget-meeting-27.11.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-pe Comhairle Cathrach
+OS Comhairle Cathrach
 & Contae Luimnigh
 ~~ Limerick C
 — merick City
@@ -36,7 +37,7 @@ Ceanncheathru Chorpardideach.
 
 Cé na gCeannaithe,
 
-- Lammneach
+CL Lummneach
 
 Corporate Services,
 
@@ -66,14 +67,14 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-ieheSc
+sete
 
 ings Administrator.
 
 AGENDA
 
-1. Toconsider the Chief Executive’s Draft Budget of Limerick City and County Council
-for year ending 31" December, 2021, the Draft Budget having been served in
+1. Toconsider the Chief Executive's Draft Budget of Limerick City and County Council
+for year ending 31* December, 2021, the Draft Budget having been served in
 accordance with Section 103 of the Local Government Act, 2001, as amended by
 
 the Local Government Reform Act, 2014.
@@ -87,20 +88,22 @@ of the Local Government Act, 2001, as amended by the Local Government Reform
 
 Act, 2014.
 
-(Draft Chief Executive’s Budget Report and Tables Enclosed, including
+(Draft Chief Executive's Budget Report and Tables Enclosed, including
 Capital Programme 2021-2023)
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 om Customerservicesalimerickie
-@ wenlimerickie
+@ wonnlimerickie
 
 ¥
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . To determine the proportion of commercial rates refund that applies on vacant
@@ -138,4 +141,6 @@ Reform Act, 2014, subject to finances available.
 2021 Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

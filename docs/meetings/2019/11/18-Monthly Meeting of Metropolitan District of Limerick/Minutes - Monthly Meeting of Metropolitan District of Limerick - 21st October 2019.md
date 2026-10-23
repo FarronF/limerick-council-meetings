@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28b%29%20Minutes%20Ordinary%20Meeting%2021st%20October%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28b%29%20Minutes%20Ordinary%20Meeting%2021st%20October%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
 **COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 21ST** **OCTOBER, 2019**
@@ -86,7 +87,9 @@ Certificate and photobook to Newtown Cottage Association, Clarina and St. Mary�
 shed to acknowledge their nomination in the Pride of Place 2019 competition. The Cathaoirleach
 
 invited a representative from each group to brief the Members on their work to date.
----
+
+[[PAGE_END:1]]
+
 2
 
 **Newtown Cottage Association, Clarina**
@@ -166,7 +169,9 @@ Seconded by Councillor O’Dea;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:2]]
+
 3
 
 (c)
@@ -250,7 +255,9 @@ Circulated, report of the Head of Property Services dated 11th October, 2019 set
 proposals to dispose of the Council’s Freehold (Ground Rent) Interest at 16 Revington Park,
 
 North Circular Road, Limerick and the intention to bring a Section 183 Notice to the
----
+
+[[PAGE_END:3]]
+
 4
 
 November Meeting of Council in this regard, for approval.
@@ -328,7 +335,9 @@ Councillor O’Sullivan and agreed.
 **Housing Development Directorate**
 
 Circulated, Report of Director of Services, Housing Development dated 27th September, 2019.
----
+
+[[PAGE_END:4]]
+
 5
 
 Members welcomed the report but requested additional information to be included such as the
@@ -414,7 +423,9 @@ objectives were outlined to Members;
 •Re-activation of vacant homes; in particular in areas of high demand for social housing
 
 •Mapping of vacant homes to gain an accurate picture of vacancy.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members were informed that Limerick City & County Council are taking part in a Pilot Vacancy
@@ -498,7 +509,9 @@ to date approximately 25-30 properties have been completed and expects this to i
 **REPLY:** A meeting has been requested between Limerick City and County Council and the
 
 relevant group/project promoter to receive an update on this project. A progress
----
+
+[[PAGE_END:6]]
+
 7
 
 report will be circulated to the Elected Members of the Metropolitan District after
@@ -570,7 +583,9 @@ capital investment which must be funded from the Council’s own resources. Give
 that 99% of the users of Park Road arrived by car, the Dock Road site is readily
 
 available to such users.
----
+
+[[PAGE_END:7]]
+
 8
 
 **9.**
@@ -662,7 +677,9 @@ The average vacancy rate of Council properties at year end over the past five ye
 is set out below. A single point of contact is being rolled out to manage the return
 
 of vacant properties ensuring that inspections of same are carried out as a priority,
----
+
+[[PAGE_END:8]]
+
 9
 
 allowing specification, cost and timeframe to be identified for the property and
@@ -764,7 +781,9 @@ Committee.
 ***designer to provide professional advice to all Directorates in the Council on plans and capital***
 
 ***projects for the betterment of Limerick City.***
----
+
+[[PAGE_END:9]]
+
 10
 
 The motion was proposed by Councillor Leddin (B) and seconded by Councillor Hartigan.
@@ -844,7 +863,9 @@ an examination of the costs, options and available technologies will be conducte
 There are a number of local authorities that allow for live streaming of Council
 
 meetings deemed open to the public and we will liaise with these local authorities
----
+
+[[PAGE_END:10]]
+
 11
 
 in relation to procedures, protocols and safeguards that they have in place.
@@ -916,4 +937,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

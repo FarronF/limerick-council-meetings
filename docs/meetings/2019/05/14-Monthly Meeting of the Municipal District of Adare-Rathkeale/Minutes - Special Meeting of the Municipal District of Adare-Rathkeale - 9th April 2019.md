@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28a%29%20Minutes%209th%20April%2C%202019.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28a%29%20Minutes%209th%20April%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ installation of the water meters several years ago has also caused interruptions
 the footpaths. We ask that Limerick City and County Council survey all the footpaths
 
 in Adare and repair or replace all footpaths where necessary.
----
+
+[[PAGE_END:1]]
+
 2
 
 •
@@ -168,7 +171,9 @@ Deputation for their presentation and advised the Executive would arrange to cos
 proposed works outlined by the Deputation and revert back to the Committee when
 
 costings were complete.
----
+
+[[PAGE_END:2]]
+
 3
 
 This concluded the Meeting.
@@ -182,4 +187,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

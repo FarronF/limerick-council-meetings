@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20Minutes%20JPC%2014th%20February%2C%202019.pdf)
+**Original file:** [Minutes  - Meeting of the Joint Policing Subcommittee of the Municipal District of Adare-Rathkeale - 14th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20Minutes%20JPC%2014th%20February%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -26,7 +27,7 @@ RATHKEALE JPC SUBCOMMITTEE HELD IN ARAS SEAN FINN, NEW LINE ROAD,
 RATHKEALE, CO. LIMERICK ON THURSDAY, 14™ FEBRUARY, 2019 AT 10:00 A.M.
 
 PRESENT IN THE CHAIR: Councillor Teskey, An Cathaoirleach.
-MEMBERS PRESENT;
+MEMBERS PRESENT:
 Councillors Keary, McMahon, Sheahan, O’Brien and O’Donoghue.
 
 FICIALS IN ATTEN CE:
@@ -37,7 +38,7 @@ of Digital Strategy (Mr. M. Bilauca), Clerical Officer (Ms. L. Harnett).
 
 Superintendent J. Deasy.
 
-LL Policing Christmas 2018 — Rathkeale
+L Policing Christmas 2018 — Rathkeale
 
 At the outset, the Cathaoirleach welcomed Superintendent Deasy to the Meeting.
 
@@ -67,7 +68,9 @@ the Christmas period. Members complimented the Superintedent and his staff for t
 excellent policing of the District over the season. While some residents of the town of
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rathkeale had complained of over policing due to checkpoints etc. it was agreed that the
@@ -87,7 +90,7 @@ presence to maintain a degree of control this did not affect other areas in the 
 There were various checkpoints in the town which resulted in six arrests for drink driving
 and drug offences. There were also fifteen cars seized for offences including criminal
 activity and theft. Prior to Christmas the Gardai met with local schools and Fordige and a
-youth café was open week days to cater for children from eight years plus. The uptake
+youth café was open week days to cater for children from eight years plus, The uptake
 for the youth café was significantly high with two sittings facilitated to cater for the
 increased numbers. There was also great cooperation from licenced premises around the
 town and only one serious incident was reported, which occurred on Christmas night.
@@ -114,4 +117,6 @@ Cathaoirleach
 Dated: _lam Marc, 2019
 
 
----
+
+[[PAGE_END:2]]
+

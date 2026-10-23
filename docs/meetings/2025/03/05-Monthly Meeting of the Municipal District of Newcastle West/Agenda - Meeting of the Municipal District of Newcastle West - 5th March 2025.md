@@ -16,21 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/00-2025-03-05-agenda-march.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 5th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/00-2025-03-05-agenda-march.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-apie Comhairie Cathrach
+=e Comhairie Cathrach
 & Contae Luimnigh
 
-ANN 7 ‘“
+AON 7 ‘“
 
 — Limerick City
 & County Council
 
-Duiche Bardais an Chaisiedin Nua Thiar,
-Camhairle Cathrach agus Contae Lutmnigh,
+28" February, 2025
+
+To:
+
+The Cathaoirleach and Each Member of the Munici
+
+Dinche Bardais an Chaisiedin Nua Thiar,
+Camhairle Cathwach agus Contae Lutmnigh,
 Aras William Smith O'Brien,
 
 Gortbul,
@@ -40,30 +47,30 @@ An Catsiean Nua Thiay,
 Co. Luimnigh
 
 Nevecastle West Municipal District,
-Limenck City and County Counedl,
+Limenck City and County Counc#l,
 Aras Villian Smith OBrien,
-
-Gortboy.
+Gortboy,
 
 Newcastle West
 
-Co. Limerick
+Co. Limerick.
 
 Eircode: V42EH73
 
-28" February, 2025 t: +353 (0) 69 62100
-To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+t: +353 (0) 69 62100
+
+| District of Newcastle West
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 5 March, 2025,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 5" March, 2025,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 a
-| Is mise le meas,
+_ Is mise le meas,
 
-ae
+55 —
 
 Meetings Administrator.
 
@@ -72,7 +79,7 @@ AGENDA
 1. Minutes
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
-leadquarters,
+eadquarters,
 
 Corporate Hi
 
@@ -80,9 +87,9 @@ February, 2025.
 
 Declaration of Interest.
 
-Dis I ind
+Dis I nd
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 4°"
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 4°*
 
 (Copy Enclosed)
 
@@ -102,7 +109,9 @@ W @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -122,7 +131,7 @@ QUESTIONS
 Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting for an update on the footpath/pedestrian crossing and
-traffic calming measures at the Killarmey Road, Abbeyfeale (Dalton’s Cross).
+traffic calming measures at the Killarney Road, Abbeyfeale (Dalton’s Cross).
 
 | will ask at the next Meeting for an update on the pedestrian access to the
 Greenway at Galvin’s road, Templeglantine and at Murphy’s Bend.
@@ -149,7 +158,9 @@ twill ask at the next Meeting for an update on the purchase of the new burial gr
 in Abbeyfeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -196,4 +207,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

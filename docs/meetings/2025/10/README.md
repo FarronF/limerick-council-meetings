@@ -1,7 +1,13 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2025 — 10 - October
 
 * [01 Monthly Meeting Of The Municipal District Of Newcastle West](01-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [07 Monthly Meeting Of Municipal District Of Adare Rathkeale](07-Monthly Meeting of Municipal District of Adare-Rathkeale/README.md)
+* [07 Private_  Briefing For The Elected Members Of The Municipal District Of Adare Rathkeale](07-Private_  Briefing for the Elected Members of the Municipal District of Adare-Rathkeale/README.md)
+* [07 Private_  Workshop For The Elected Members Of The Municipal District Of Adare Rathkeale](07-Private_  Workshop for the Elected Members of the Municipal District of Adare-Rathkeale/README.md)
 * [08 Meeting Of The Climate Action, Biodiversity And Environment Strategic Policy Committee](08-Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee/README.md)
 * [09 Meeting Of The Home And Social Development Strategic Policy Committee](09-Meeting of the Home and Social Development Strategic Policy Committee/README.md)
 * [13 Meeting Of The Economic Development, Enterprise, Tourism And Planning Strategic Policy Committee](13-Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee/README.md)

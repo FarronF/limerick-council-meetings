@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda%20Cultural%20SPC%209th%20April%202019.pdf)
+**Original file:** [Agenda - Meeting of the Cultural Strategic Policy Committee - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda%20Cultural%20SPC%209th%20April%202019.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Social Development Directorate**
@@ -80,4 +81,6 @@ Correspondence
 **Cathaoirleach**
 
 **Cultural SPC, Limerick City & County Council**
----
+
+[[PAGE_END:1]]
+

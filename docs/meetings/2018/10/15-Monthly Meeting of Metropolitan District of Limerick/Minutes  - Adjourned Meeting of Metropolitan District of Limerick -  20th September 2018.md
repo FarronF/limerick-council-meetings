@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01b%20Minutes%20Adjourned%20Meeting%2020th%20September%202018.pdf)
+**Original file:** [Minutes  - Adjourned Meeting of Metropolitan District of Limerick -  20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01b%20Minutes%20Adjourned%20Meeting%2020th%20September%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON THURSDAY,**
@@ -92,7 +93,9 @@ recommendations and the following amendments;
 (1) That Tom O’Connor’s land listed as submission no 51 to the Draft Plan is zoned for residential
 
 use Phase 2 and changes are made to the land use zoning map to amend this zoning from
----
+
+[[PAGE_END:1]]
+
 2
 
 agricultural to residential phase 2 use.
@@ -162,7 +165,9 @@ considered necessary as a response to meeting housing need in the current climat
 shortage. The additional population accommodated at this site will form part of the cities
 
 allocated growth of 28,000 up to 2040.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Prendiville, seconded by Councillor Keller the following amendment
@@ -224,4 +229,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

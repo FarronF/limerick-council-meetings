@@ -16,24 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/00-2025-04-02-agenda-april.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 2nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/00-2025-04-02-agenda-april.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
-ee % Contes Lalmanigk Comhairle Cathrach agus Contae Luimnigh,
+—— & Contae 5 Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
 Aras William Smith O'Brien,
-
-NON ————— Gortbui,
-
-Limerick City An Caisiean Nua Thiar,
+Limerick ( City An Caislean Nua Thiar,
 — & County Council Co. Luimnigh.
 
 Nevecastle West Municipal District,
 Limerick City and County Council,
-Aras William Smith OBrien.
+Aras William Smith OBrien,
 Gortboy,
 
 Newcastle West.
@@ -43,6 +41,7 @@ Co. Limerick
 Eircode: V42EH73
 
 28" March, 2025 t: +353 (0) 69 62100
+
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
 A Chomhairleoir, a chara,
@@ -53,31 +52,33 @@ at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-uppie,
-
+upple,
 Meetings Administrator.
 
-1.
-
 AGENDA
-Minutes
+1. Minutes
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 5”
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 5™
 March, 2025.
 
 (Copy Enclosed)
-2. Declaration of interest.
-3. Transportation and Mobility Directorate
-To Receive Presentation from Electric Skyline Limited.
-= customerservices@limerickie
-Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach © wove limerickie
-Corporate Headquarters, Merchant's Quay, Limerick v
 
-@LimerickCouncil
+2. Declaration of Interest.
+
+3. Transportation and Mobility Directorate
+
+To Receive Presentation from Electric Skyline Limited.
+
+@ customerservices@limerickie
+
+Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach © wevewlimerickie
+Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -113,7 +114,7 @@ wastewater utility infrastructure in Newcastle West town likely to have on our m
 anticipated Social Housing project at Sycamore Crescent, Gortboy, Newcastle West
 i.e. when is it expected to (a) commence and (b) complete.
 
-! will ask at the next Meeting (a) when safety measures will be put in place at
+| will ask at the next Meeting (a) when safety measures will be put in place at
 Ashford School and (b) when footpath extensions to the speed limit on each side of
 the village will be delivered.
 
@@ -127,7 +128,9 @@ Notices of Motion submitted by Councillor L. Galvin
 Abbeyfeale to beyond "Greyhound and Pet World".
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -161,4 +164,6 @@ i will move at the next Meeting that Limerick City and County Council affix the 
 stones in the Square, Newcastle West. These can be dangerous.
 
 
----
+
+[[PAGE_END:3]]
+

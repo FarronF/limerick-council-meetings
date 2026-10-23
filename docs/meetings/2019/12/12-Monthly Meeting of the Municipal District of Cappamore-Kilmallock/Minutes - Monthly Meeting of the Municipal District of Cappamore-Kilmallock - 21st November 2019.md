@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02-Minutes-November-2019-Mtg.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02-Minutes-November-2019-Mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -64,7 +65,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ili) Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
@@ -84,7 +87,7 @@ also stressed the importance of continued engagement with the Office of Public W
 with landowners, to ensure that this issue did not reoccur again in the future.
 
 2. Capital Investment Directorate
-Part 8 Procedure - Station Close, Knocklong. Co. Limerick.
+Part 8 Procedure - Station Close. Knocklong. Co. Limerick.
 
 On the proposal of Councillor M.Ryan, seconded by Councillor Mitchell, it was agreed to defer
 a decision on the Part 8 Procedure for Station Close, Knocklong, Co. Limerick to the December
@@ -109,7 +112,9 @@ With the permission of the Members, it was agreed that Item No. 8 on the Agenda 
 taken at this point:
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that
@@ -156,7 +161,9 @@ Circulated, Housing Progress Report from the Director of Services, Housing Devel
 Directorate dated 25" October, 2019, which was noted by the Members
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NO MOTION
@@ -174,13 +181,13 @@ to outline his concerns in relation to the Councils Housing Allocation Scheme Po
 
 8. Notice of Motion submitted by Councillor Martin Ryan
 
-1 will move at the next meeting of the Cappamore-Kilmallock Municipal District that,
+| will move at the next meeting of the Cappamore-Kilmallock Municipal District that,
 following the recent completion of the Speed Limit Review, that the Municipal District
 prepare a scheme to identify, prioritise and fund the provision of Driver Speed Feedback
 Warning signs in all villages and towns in the Municipal District which do not already have
 Driver Feedback Warning signs in place.
 
-Proposed by Cllr. M. Ryan, seconded by Cllr. Egan.
+Proposed by Clir. M. Ryan, seconded by Cllr. Egan.
 
 Reply:
 
@@ -195,14 +202,16 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District t
 Limerick City & County Council erect bollards on the footpath opposite the Credit Union
 and the Church at High Street, Caherconlish.
 
-Proposed by Clir. Egan, seconded by Clir. Teefy.
+Proposed by Clir. Egan, seconded by Cllr. Teefy.
 Reply:
 
 Consultation will take place with the residents located at this address and if they are in
 favour of bollards being provided, the bollards will be provided in early 2020.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Notice of Motion submitted by Councillor Brigid Teefy
@@ -212,7 +221,7 @@ Limerick City & County Council put traffic calming measures in place in the Ardy
 area of Bruff on the R516 road to Hospital as this is a very busy road and narrows down in
 a section between two bends on the outskirts of the town.
 
-Proposed by Clir. Teefy, seconded by Clir. Mitchell.
+Proposed by Cllr. Teefy, seconded by Clir. Mitchell.
 
 Reply:
 
@@ -251,7 +260,9 @@ Irish Rail recently advised Limerick City & County Council that they do not have
 Folio details relating to Bruree at their offices at Limerick Junction. They have referred the
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 request for clarification on title to larnréd Eireann Head Office in Dublin and a reply is
@@ -274,7 +285,7 @@ reference number is 44933, which you can keep for your own records.
 
 14. Question submitted by Councillor John Egan
 
-I will ask at the next Meeting that Limerick City & County Council confirm what
+| will ask at the next Meeting that Limerick City & County Council confirm what
 approximate remaining capacity is available in each graveyard/cemetery in the
 Cappamore-Kilmallock Municipal District and also confirm what are the current fees
 applicable for grave spaces.
@@ -294,10 +305,12 @@ The current fees for grave spaces are €1,200 per plot and €2,400 per double 
 The Elected Members extended 2 Vote of Sympathy to the family and friends of Anne Collins
 (nee Leahy) Glounthane, Cork and formerly of Spa Hill, Kilfinane who had passed away
 recently. Anne was a former employee of Limerick City Council, and was a sister of Liz
-Creamer who works In the Corporate Services Department, Limerick City & County Council.
+Creamer who works in the Corporate Services Department, Limerick City & County Council.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Elected Members extended a Vote of Sympathy to the family and friends of John
@@ -323,9 +336,13 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

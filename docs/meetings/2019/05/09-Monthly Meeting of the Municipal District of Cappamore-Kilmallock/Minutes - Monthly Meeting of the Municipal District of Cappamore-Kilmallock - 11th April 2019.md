@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/02%20Minutes%20April%202019%20Meeting%20Cappamore-Kilmallock%20MD.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 11th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/02%20Minutes%20April%202019%20Meeting%20Cappamore-Kilmallock%20MD.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -62,7 +63,9 @@ previous Irish living from a different era in Irish life and he hoped that all w
 visit to the Museum.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Matters Arising
@@ -71,7 +74,7 @@ The Members expressed their thanks to the Staff and Students of Scoil Pol, Kilfi
 facilitating the March meeting of the Municipal District and complimented the Students on
 their interaction with Members on the day.
 
-3. ATG Retirement Village
+3 ATG Retirement Village
 
 Eoin O'Sullivan, ATG Retirement Village gave a presentation to members on Independent
 Living in the Clarina Retirement Village
@@ -110,7 +113,9 @@ representative was being set up so that this pilot would be closely monitored ov
 month period and reported on.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members welcomed the proposal and commended the City & County Librarian on the
@@ -133,7 +138,7 @@ vehicle drivers, should be revisited.
 On the proposal of Clir Mitchell, seconded by Cllr Donegan, it was agreed to amend this
 Motion to the following:
 
-“Iwill move that this Council write to the Minister for Transport requesting that the present
+“I will move that this Council write to the Minister for Transport requesting that the present
 legislation recently enacted in relation to the Road Traffic Act, incorporating vehicle drivers,
 be revisited.”
 
@@ -154,7 +159,9 @@ more pragmatic and common sense approach should be used to achieve a fairer syst
 all drivers.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It was unanimously agreed to forward this Notice of Motion to Corporate Services for
@@ -176,7 +183,7 @@ available at weekends to deal with the problem. They added that horses roaming i
 Areas and Housing Estates were affecting the current good work being carried out by Tidy
 Town Committees and Community Councils.
 
-e Vote of Sympathy
+¢ Vote of Sympathy
 
 The Members extended a Vote of Sympathy to the family and friends of Mary Carroll nee
 Donegan, Aunt of Cllr Mike Donegan, following her recent passing.
@@ -198,7 +205,9 @@ The Members expressed their disappointment that the Speed Limit Review was not y
 complete and hoped it would be done before the end of May.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Date for next Meeting
@@ -210,4 +219,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:5]]
+

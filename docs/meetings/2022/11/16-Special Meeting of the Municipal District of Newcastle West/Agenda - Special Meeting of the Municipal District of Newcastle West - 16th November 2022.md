@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-11-16%20Agenda.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 16th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-11-16%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_— Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
 & County Council
 
-Duiche Bardais an Chaisiedin Nua Thiar
-Comhairle Cathwach agus Contae Luimnigh.
-Aras William Smith O'Brien,
+Duiche Bardais an Cnaisiedin Nua Thiar
+Comhairle Cattwach agus Contae Luimnigh.
+Aras William Smith OBrien,
 
-Gortbul
+Gortbal
 
 An Caislean Nua Thiar,
 
 Co. Luimnigh.
 
 Newcastle West Municipal District,
-Limerick City and County Council,
+Umerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
@@ -48,7 +49,7 @@ Co. Limerick.
 
 Eircode: V42EH73
 
-t: +353 (0) 69 62200
+t: +353 (0) 69 62300
 
 11" November, 2022
 
@@ -72,14 +73,16 @@ AGENDA
 
 To discuss the maintenance of the River Feale, Abbeyfeale.
 
-Ceanncheathri: Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru: Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 & customerservices@limerickie
-é www.limerick.te
+é www. limerick ie
 
 WY @LimerickCouncil
-( 061-556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

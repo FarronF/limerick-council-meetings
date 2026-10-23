@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Minutes%2021st%20January%202019%20%282%29.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick  - 21st January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Minutes%2021st%20January%202019%20%282%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN
@@ -43,7 +44,7 @@ Crowe), A/Staff Officer (Ms. F. Ryan) and Staff Officer (Ms. S. Hourigan).
 1. Adoption of Minutes
 
 Circulated, copy of Draft Minutes of Meeting of the Metropolitan District of Limerick
-held on 17" December, 2018.
+held on 17“ December, 2018.
 
 Proposed by Councillor; Hurley
 Seconded by Councillor; Sheahan
@@ -67,12 +68,14 @@ Munster Rugby team at the weekend, in qualifying for the Quarter Finals of the E
 Champions Cup, and the positive experience had by the visiting Exeter Supporters.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Capital Investment Directorate
 
-Pp ure-G Pl Rosbrien Road
+Pp. ure-G Pl Rosbrien Road
 
 Circulated, Report of the Chief Executive pursuant to Section 179 3(a) of the Planning and
 Development Act, 2000 as amended and Part 8 of the Planning and Development Regulations,
@@ -123,17 +126,24 @@ e 3 Appeals to An Bord Pleanala in respect of entry of the Vacant Sites Register
 e 7% levy of the market value of the vacant site will be charged 1* January 2020.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Ms S. Hourigan, in her role as Vacant Homes Officer, outlined that the Councils objectives in
+Ms S.
+
+Hourigan, in her role as Vacant Homes Officer, outlined that the Councils objectives in
+
 relation to vacant homes were mapping of vacant homes to gain an accurate picture of vacancy
 and re-activation of vacant homes in particular in areas of high demand for social housing.
 
 Members thanked the staff of the Urban and Rural Community Development team for their
 detailed presentation and acknowledged the work being done within the Directorate.
 
-4, Music Memories and Memorabilia Presentation by Nicky Woulfe
+4.
+
+Music Memories and Memorabilia Presentation by Nicky Woulfe
 
 Nicky Woulfe, on behalf of the Trustees of Music Memories and Memorabilia, gave an
 overview to the Members on the project which included the following points:-
@@ -154,15 +164,25 @@ Mayor Butler thanked Mr Woulfe for his presentation and stated that allocation o
 funding will be considered by the Members at a forthcoming workshop.
 
 QUESTIONS
-5. Question submitted by Councillor P. Keller
-| will ask at the next meeting:-
-1. How many families are in emergency accommodation in the Limerick area?
-2. How many families are living in Hubs?
-3. How many families are living in B/B hotel accommodation?
+Question submitted by Councillor P. Keller
+
+! will ask at the next meeting:-
+
+1
+2.
+3.
+
+REPLY:
+
+. How many families are in emergency accommodation in the Limerick area?
+
+How many families are living in Hubs?
+
+. How many families are living in B/B hotel accommodation?
 
 Please break down the numbers into families, children and single people.
 
-REPLY: On the 12" January 2019, there were the following number of families in
+On the 12" January 2019, there were the following number of families in
 emergency accommodation in Limerick:
 
 Bed and Breakfast:
@@ -174,7 +194,9 @@ Bed and Breakfast:
 Total 35 families including 52 adults and 69 children.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mid West Simon Family Hub, Dublin Road:
@@ -231,7 +253,9 @@ REPLY: | recommend that this item be referred for discussion at the next Cultura
 meeting of 12" February, 2019.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -284,7 +308,9 @@ collectors and increasing number of households availing of approved refuse
 collection arrangement.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -340,7 +366,9 @@ considered for inclusion in the 2019 Schedule of Municipal District Works subjec
 to funding.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -417,7 +445,9 @@ List of approved properties:
 7 Crannog, Dublin Road
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17 The Gables, Pennywell
@@ -483,7 +513,9 @@ unchanged and is per the Southern Environs Local Area Plan 2011-2017 as
 extended until 2021.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
@@ -533,28 +565,24 @@ We will be hearing much more about it during 2019.
 
 NOTICES OF MOTION
 
-17. Notice of Motion submitted by Councillors Cahillane, Costelloe, Crow! |
+17. Notice of Motion submitted by Councillors Cahillane, Costelloe, Crowl |
 Gilligan
 
 We will move at the next Limerick Metropolitan Meeting, to agree to nominate the following
 groups with the below amounts, out of the General Municipal Allocation:
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 St. Mary’s Adult Education Centre
-St. Mary’s Prize Band
-
-St.Mary’sPrizeBand
-Athlunkard Boat Club '€2,000 |
-4,000
-000
-
 €2,000
 €2,500
-\Caherdavin Senior Citizens Club ET,000
-NaPiarsaighGAA E000
+4,000
+,000
+INaPiarsaighGAA CE
 
 St. Mary’s Community Regatta
 Patrickswell Powerlifting Club
@@ -570,16 +598,14 @@ Limerick Celtic Basketball Club
 Kileely Autism Unit
 Thomond Primary School Sports Club
 
-i
-
 €7,500
 
 €1,000
 
 ADAPT Domestic Abuse Services €1,000
 Limerick Animal Welfare € 500
-Westfield Wetlands N00
-TOTAL —i—Ss—SCSCSCSC‘«i GVO
+[Westfield Wetlands N00
+TOTAL ——‘“‘CSCSC™CSCSCSCSC*d G00
 
 The Motion was proposed by Cllr. Costello and seconded by Cllr. Daly
 
@@ -603,7 +629,9 @@ J. Leddin, S. Lynch, J. Loftus, and M. McCreesh)
 This Motion was proposed by Councillor Leddin, seconded by Cllr Lynch and agreed.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Leddin and seconded by Cllr Lynch, it was agreed to allocate €3,000
@@ -611,7 +639,7 @@ to the following:
 
 e Bottom Dog Theatre €1,000
 e Limerick Suicide Watch €1,000
-e Dooneen Athletics Club €1,000
+@ Dooneen Athletics Club €1,000
 
 On the proposal of Councillor Lynch and seconded by Clir Leddin it was agreed to allocate €3,000
 to the following:
@@ -621,7 +649,7 @@ e St. Patrick's Soccer Club Patrickswell €1,500
 
 19. Notice of Motion submitted by Councillor E. Secas
 
-1 will move at the next meeting that this Council make available a suitable site for a Community
+| will move at the next meeting that this Council make available a suitable site for a Community
 Centre for Castletroy, Monaleen, Annacotty and surrounding areas.
 
 Reply: Arising from the increased number of requests to provide funding, facilities or sites
@@ -630,12 +658,12 @@ as a first step an audit of existing facilities be conducted. This audit would i
 the existing provision of facilities across Limerick City and County and inform a
 strategy that would seek to ascertain future needs.
 
-In proposing the Motion, Clir Secas outlined the need for a multipurpose complex that will serve
+In proposing the Motion, Cllr Secas outlined the need for a multipurpose complex that will serve
 the needs of the community and to take account of the needs of the large population centre.
 
 A discussion took place where some Members felt that a review of existing community space
 within the area needs to be undertaken first to determine the level and usage of current space.
-Cllr Secas welcomed the discussion and looked forward to the findings of the audit.
+Clir Secas welcomed the discussion and looked forward to the findings of the audit.
 
 The Motion was seconded by Councillor Keller.
 
@@ -653,7 +681,9 @@ strategy that would seek to ascertain future needs. It is the intention of the S
 Development Directorate to commence work on this in the first quarter of 2019.
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion Councillor Hogan welcomed the audit and queried with the Executive
@@ -693,7 +723,7 @@ needs of this vast area.
 
 In proposing this Motion Councillor J. Pond acknowledged the appointment of the Garda Sergeant
 to Castleconnell but emphasised the importance of having the Castleconnell Garda Station
-opened 24 hours a day. This Motion was seconded by Councillor M, Sheahan and it was agreed
+opened 24 hours a day. This Motion was seconded by Councillor M. Sheahan and it was agreed
 to write to the Minister for Justice and the Garda Commissioner.
 
 Following a discussion, Members agreed that this Motion should also be referred to the Joint
@@ -705,7 +735,9 @@ On the proposal of Councillor J. Costelloe, seconded by Councillor J. Gilligan S
 suspended in order to complete the Agenda.
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13
@@ -759,7 +791,9 @@ the ending of one tenancy and the re-letting of the house under a new tenancy so
 the number of unoccupied council owned houses.
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14
@@ -786,4 +820,6 @@ MAYOR
 Dated:
 
 
----
+
+[[PAGE_END:14]]
+

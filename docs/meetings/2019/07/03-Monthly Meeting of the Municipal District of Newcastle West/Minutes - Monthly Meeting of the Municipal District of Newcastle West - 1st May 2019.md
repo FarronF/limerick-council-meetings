@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%202019-05-01%20Minutes%20May.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 1st May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%202019-05-01%20Minutes%20May.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -43,7 +44,7 @@ At the outset of the Meeting, the Cathaoirleach welcomed everyone to the final m
 Meeting of the Municipal District of Newcastle West prior to the Local Elections which are to
 be held at the end of May.
 
-1. Adoption of Minutes
+41. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West
 held on 3" April, 2019.
@@ -69,7 +70,9 @@ opportunity to outline to the Members issues at the estate. She stated that Cryl
 Residents Association was formed in 2014 and the following items need to be addressed:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e the lack of visibility when exiting the estate onto the N21. She noted that five accidents
@@ -116,17 +119,19 @@ the funding the District had received during this period and the projects which 
 progressed as follows:
 
 Roadworks Scheme 2015 — 2019 - €16,307,691 received within the District
-Newcastle West District Projects eg Regional Athletics Hub, Fuller's Folly, Glin Public
+Newcastle West District Projects eg Regional Athletics Hub, Fuller’s Folly, Glin Public
 Realm, Newcastle West Development Association - Vision 2023
 
-@ Clar Programme - €302,460 received within the District.
+ Clar Programme - €302,460 received within the District.
 
 @ Development Fund - €350,000 allocated to the District.
 
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Housing Grants - €3.2m allocated to the District.
@@ -182,10 +187,12 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 €500 to Abbeyfeale Men’s Shed.
 
-SS ee eee
+SS eee
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
@@ -213,7 +220,7 @@ QUESTIONS
 | will ask at the next Meeting for an update with regard to the Newcastle West Traffic
 Movement Plan with particular reference to:
 
-(a) connectivity at Boherbui, Newcastle West
+(a) —_ connectivity at Boherbui, Newcastle West
 (b) __ traffic movement in the vicinity of the schools, O’Connell House and St. Ita’s Hospital
 at Gortboy, Newcastle West.
 
@@ -234,7 +241,9 @@ REPLY: Repair works will be carried out on this wall within the next few weeks.
 be given immediate priority.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -288,7 +297,9 @@ advised to contact Customer Services senior staff should they require any
 particular follow up on named cases. Also, it should be noted that each case
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 automatic case number assigned, which is unique to each case for
@@ -335,7 +346,9 @@ Also the location of ramps would have to be agreed with the residents in this
 area.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. n m b ncillo
@@ -345,7 +358,7 @@ village of Carrigkerry.
 
 REPLY: The above signage will be erected within the next two weeks.
 NOTICES OF MOTION
-13. Notice of Motion submitted by Councillor J. Scanian
+13. Notice of Motion submitted by Councillor J. Scanlan
 
 | will move at the next Meeting that a safety audit be undertaken at Ballykennedy
 Cross/junction in Clouncagh.
@@ -360,7 +373,7 @@ within the next week,
 
 14. Notice of Motion submitted by Councillor J. Scanlan
 
-1 will move at the next Meeting that responsibility for Housing and Estate Management
+1! will move at the next Meeting that responsibility for Housing and Estate Management
 matters be returned to the control of our Newcastle West Municipal District.
 
 In proposing the Motion, Councillor Scanlan stated that responsibility for Housing and Estate
@@ -381,12 +394,14 @@ appointment or via telephone. If customers wish, staff are also available to
 contact via email.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Notice of Motion submitted Councillor L. Galvin
 
-1 will move at the next Meeting that (a) a survey be carried out on the roads in Mountcollins,
+! will move at the next Meeting that (a) a survey be carried out on the roads in Mountcollins,
 Carrigkerry and Castletown as they are in very poor condition, (b) a costing be prepared on
 same and (c) special application be made to the department for funding to repair same.
 
@@ -403,7 +418,7 @@ the multi-annual programme which is approved by the District
 Councillors.
 
 (b) All roads which are on this programme are costed.
-(c) Funding for these roads Is available through block grants and
+(c) Funding for these roads is available through block grants and
 Community Involvement Schemes are also an option.
 
 16. Notice of Motion submitted by Councillor L. Galvin
@@ -430,7 +445,9 @@ However, should any other source of funding become available for footpath
 upgrades in 2019 this area can be considered.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18. Notice of Motion submitted by Councillor M. Collins
@@ -481,16 +498,18 @@ provision of a 25 metre public swimming facility/pool to be located in Newcastle
 to serve the people of the Municipal District and its hinterland.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: The funding mechanism from central government (Department of Transport
 Tourism and Sport) for the construction of new swimming pools is the Large
-Scale Sport infrastructure Fund (LSSIF). This is a new fund that was introduced
+Scale Sport Infrastructure Fund (LSSIF). This is a new fund that was introduced
 under the National Planning Framework: Ireland 2040. The Fund replaces the
 previous programme that was in place for funding local authority swimming
 pools. The first call under this Fund was issued early in 2019 and closed for
-applications on 17" April 2019.
+applications on 17“ April 2019.
 
 The LSSIF is a complex, onerous and nationally competitive application
 process. It requires in the first instance that any proposed projects are
@@ -534,7 +553,9 @@ up on this with Central Services.
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Prior to the conclusion of the Meeting, the Cathaoirleach and Councillors thanked the
@@ -552,9 +573,13 @@ Dated:
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:12]]
+

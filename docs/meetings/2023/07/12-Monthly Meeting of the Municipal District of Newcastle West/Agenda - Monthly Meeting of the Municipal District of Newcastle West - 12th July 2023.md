@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-12th-July-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 12th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-12th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_ Comhairie Cathrach PE —_ =o Hr Thiar,
+_—_—_ Comhairie Cathrach oon —_ =o Hr Thiar,
 & Contae Luimnigh Aras William Smith OBrien.
-7k LO os ———
+7k QO a ——————
 
-; Gortbut
-—— Limerick City fn Catton Nua This,
+F Gortbut
+—— Limerick City fn Caen Nua Tria,
 & County Council Co, Luimnigh
 
 Newcastle West Municipal District,
 
 Limerick City and County Council,
 
-Avas William Smith OBnen,.
+Avas William Smith OBrien.
 
 Gortboy,
 
-7th July, 2023 ‘iuncaaan en
+7th July, 2023 ‘ianeuaan en
 Co. Limerick.
 
 t: +353 (0) 69 62100
@@ -55,9 +56,8 @@ Meetings Administrator.
 
 AGENDA
 1. Minutes
-
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
-22” June, 2023.
+22™ June, 2023.
 
 (b) To adopt Minutes of Annual Meeting of the Municipal District of Newcastle West
 held on 22™ June, 2023.
@@ -73,15 +73,16 @@ public consultation on the Draft Abbeyfeale Local Area Plan 2023 — 2029 and de
 whether or not to make or amend the Draft Local Area Plan, in accordance with
 Section 20 (3) of the Planning and Development Act 2000 (as amended).
 
-t~] @limerick.te
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www. timerick. te
-Corporate Headquarters, Merchant's Quay, Limerick v
+= @limerick.te
 
-@LimorickCouneil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www. timerick.te
+Corporate Headquarters, Merchant's Quay, Limerick W @limorickCouneil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -123,7 +124,7 @@ ions Councillor T. e
 
 | will ask at the next Meeting if ramps can be installed on Knockane Road to the rear
 of SMI, this is to slow down speeding traffic and road bowling games being played on
-this stretch of road. These have a very negative effect on the flow of traffic.
+this stretch of road. These have a very negative effect on the flow of traffic,
 
 | will ask at the next Meeting for a breakdown of the process for getting a pedestrian
 crossing for Castlemahon School. | believe a speed survey has been carried out at
@@ -132,7 +133,9 @@ this location. This area is very dangerous to pedestrians in both the morning an
 evening.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -185,10 +188,12 @@ and the residents in the area are very angry. | am looking for a commitment that
 will be fixed within the next three weeks. There is a service level agreement in place
 which is not being upheld and we must demand a better service.
 
-Notice of Motion submitted by Councillor L. Galvin
+Notice of Motion submitted by Councillor L, Galvin
 
 ! will move at the next Meeting that Limerick City and County Council carry out
 immediate improvement works on the road from Mountmahon to Joy's corner.
 
 
----
+
+[[PAGE_END:3]]
+

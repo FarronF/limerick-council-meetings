@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%202019-01-09%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 9th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%202019-01-09%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_————
+_—
 
 aArN
 
@@ -36,7 +37,7 @@ COUNCIL
 To: The Cathaoirleach and Each Member of the Munici
 
 Duiche Bardais an Chaisleain Nua Thiar,
-Comhairle Cathrach agus Contae Luimnigh.
+Comhairle Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
 Gortbut,
@@ -55,7 +56,7 @@ Newcastle West,
 Co. Limerick
 
 t: +353 (0) 69 62100
-A+35310}-69-62861
+“F+35310}-69-62861
 
 | District of Newcastle W.
 
@@ -81,7 +82,7 @@ December, 2018.
 
 (b) To adopt Minutes of Special Meeting of the Municipal District of Newcastle West held
 
-on 12** December, 2018.
+on 12"* December, 2018.
 
 (Copies Enclosed)
 
@@ -103,7 +104,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 S.
@@ -112,7 +115,7 @@ S.
 
 11.
 
-usin; ment Dir:
+usin, ment Dir:
 To note progress report from the Housing Development Directorate.
 
 {Report Enclosed)
@@ -155,7 +158,9 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that the purchase of the Lane property, Killarney Road,
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -179,7 +184,7 @@ Notices of Motion submitted by Councillor L. Galvin
 Abbeyfeale be explored as part of the Abbeyfeale Traffic Management Plan if it is for
 sale.
 
-| will move at the next Meeting that the road running parallel to New Street,
+1 will move at the next Meeting that the road running parallel to New Street,
 Abbeyfeale be resurfaced (back of Jim Lanes Bar) as it is impassable.
 
 QUESTIONS
@@ -196,7 +201,7 @@ to completion works and the taking in charge process (iii) details on the progra
 of works to be undertaken (iv) a report on the timeframe for the works (v) how much
 of the bond is outstanding (vi) cost of required works at the estate.
 
-uestion mi lor Scanian
+juestion mi lor Scanian
 
 | will ask at the next Meeting when drainage works will be carried out along the
 Kilready approach to Castlemahon village.
@@ -224,7 +229,9 @@ between the Kerry Co-Op premises and Clooneyskehane in the interest of pedestria
 safety.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21,
@@ -236,4 +243,6 @@ on election posters for this year’s Council, European and any Referenda electi
 taking place on May 24" 2019.
 
 
----
+
+[[PAGE_END:4]]
+

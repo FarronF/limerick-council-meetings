@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2013th%20Feb%202023.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 13th Feb 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2013th%20Feb%202023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 13 FEBRUARY 2023 at 2PM IN**
@@ -104,7 +105,9 @@ was listed, under standing orders the motion cannot be deferred and will need to
 *Business interruption Scheme for the city centre traders/ retailers be progressed as a way of*
 
 *compensation when building works impact on revenue.”*
----
+
+[[PAGE_END:1]]
+
 While the motion was broadly welcomed, Councillors urged caution on the introduction of
 
 additional development levies in the future to fund a compensation scheme.
@@ -194,7 +197,9 @@ floating technology proposed for this project will allow the turbines to be loca
 in waters over 100m deep, where traditional fixed bottom turbine foundations would be
 
 uneconomical.
----
+
+[[PAGE_END:2]]
+
 Ms Gleeson outlined the economic opportunity, which this project presents, and the job and supply
 
 chain potential, which will come with it. She concluded that if the region wants to maximise the
@@ -254,4 +259,6 @@ No other issues were raised.
 **Cllr. B. Collins,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

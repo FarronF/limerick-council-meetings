@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-29-march-2021.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 29th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-29-march-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON MONDAY 29th** **MARCH, 2021 AT**
@@ -94,7 +95,9 @@ He also outlined a range of initiatives being proposed/developed through Innovat
 **Abbeyfeale Hub** – Former Bank building acquired for E-Hub and works to recommence next
 
 month
----
+
+[[PAGE_END:1]]
+
 **Rathkeale Enterprise Centre** –Part VIII planning application submitted for Industrial launderette
 
 **Kantoher Enterprise Centre** – Proposed new food production centre
@@ -180,7 +183,9 @@ membership of the committee would include the Mayor; 2 representatives of the Ec
 Development, Enterprise and Planning SPC and 2 representatives from the Business community;
 
 and a member of the Education/Training/Skills community. The committee will have a dual
----
+
+[[PAGE_END:2]]
+
 reporting relationship with the Board of Innovate Limerick and the Economic Development,
 
 Enterprise and Planning SPC.
@@ -194,4 +199,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

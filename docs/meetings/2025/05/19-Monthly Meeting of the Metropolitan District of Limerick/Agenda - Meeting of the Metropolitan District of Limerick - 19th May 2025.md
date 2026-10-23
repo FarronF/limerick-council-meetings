@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-metropolitan-district-of-limerick-19th-may-2025.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 19th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-metropolitan-district-of-limerick-19th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: ’ Sex bhisi Corparaideacha,
-_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-& Contae Luimnigh Ceanncheathra Chorperdideach,
-NIN fF eee —— Cé na gCeannaithe,
+: * Sex bhisi Corparaideacha,
+_ Comhairle racbiter Comhairle Cathrach agus Contae Luimnigh,
+& Contae Luimnig' Ceanncheathra Chorperdideach,
+NIN 4 a a Cé na gCeannaithe,
 — Limerick City Luimneach
 & County Council
 Corporate Services,
@@ -33,10 +34,9 @@ Corporate Headquarters,
 Merchants Quay,
 Limerick
 BIRCODE V94 EH90
+t: 4353 (0) 61 557150
 
-t: +353 (0) 61 557150
-
-14" May, 2025. f: +353 (0) 61.415 266
+14" May, 2025. f: +353 (0) 61415 266
 
 To: The Cathaoirleach and each Member of the Metropolitan District of Limerick
 
@@ -50,7 +50,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-ALG.
+AA Ly,
 
 Aedin Foley,
 Meetings Administrator.
@@ -62,15 +62,17 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
 (Copy Enclosed).
 
-m customerservices@limerick.fe
+mcustomerservices@limerick.te
 
-© wwvelimerickic
+© wwvalimerickic
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Declaration of Interest**
@@ -136,7 +138,9 @@ currently on the housing waiting list in the Metropolitan area and length of tim
 I will ask at the next Meeting of the Metropolitan District of Limerick if this Council has applied
 
 for funding for a bus shelter and seating at bus stop 607891 on the Mulcair Road, Dooradoyle.
----
+
+[[PAGE_END:2]]
+
 3
 
 **9.Question submitted by Councillor E. O’Donovan**
@@ -202,7 +206,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick what the
 in the city centre, across all social housing sectors including AHBs, LCCC-owned housing and HAP
 
 Rentals.
----
+
+[[PAGE_END:3]]
+
 4
 
 **17.Question submitted by Councillor S. Kiely**
@@ -268,7 +274,9 @@ County Council engage with the Cluid Housing Approved Body to examine what measu
 taken, including blocking access from the Greenway, to alleviate the anti-social behaviour that is
 
 occurring at both Apartment Blocks in Newtown Meadows in Castletroy.
----
+
+[[PAGE_END:4]]
+
 5
 
 **24.Notice of Motion submitted by Councillor S. Hickey-O’Mara**
@@ -316,4 +324,6 @@ identified for the chapel in Mount St. Lawrence to be restored.
 **29.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:5]]
+

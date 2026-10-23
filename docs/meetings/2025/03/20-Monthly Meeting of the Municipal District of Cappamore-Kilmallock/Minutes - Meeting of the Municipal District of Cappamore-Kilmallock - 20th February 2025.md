@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-february-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -33,7 +34,7 @@ MEMBERS PRESENT:
 
 Councillors Carey, O’Sullivan, Stokes and Teefy.
 
-APOLOGIES;
+APOLOGIES:
 
 Councillor E. Ryan, Councillor M. Ryan.
 
@@ -66,7 +67,9 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interests
@@ -119,7 +122,9 @@ Disposal of land comprising 1.24 acres/0.50 hectares, situate at Site E, Kilmall
 Business Park, Kilmallock, Co. Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The report, as circulated, was noted by Members.
@@ -166,7 +171,9 @@ Regulations, 2001 (as amended) and noted that it was proposed to proceed in
 accordance with Section 8 of the report.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The following amendments were proposed by Councillor Stokes and seconded by
@@ -183,16 +190,14 @@ of the scheme;
 
 e Widen road at Doon CBS primary school to facilitate adequate space for two-way
 traffic;
-
 Public lighting to be installed/upgraded at the Community Centre car park;
 Assessment to be carried out at the location of the Toher road pedestrian crossing,
 so as to not prevent possible future housing development on site adjacent to the
 Medical Centre;
 
-e Provide automated looped traffic signals at the junction of the R505 and the LS032
+© Provide automated looped traffic signals at the junction of the R505 and the LS032
 Monastery Road junction to ensure the safe movement of traffic, pedestrians and
 cyclists;
-
 Relocate disabled parking space closer to Rainsford’s(Carew’s);
 Propose road width of 6.4m/6.5m to take account of heavy commercial and
 agricultural traffic through village.
@@ -215,7 +220,9 @@ completion timeline on the footpath repairs at Effin Graveyard which were includ
 Cemeteries budget, 2024 Schedule of Works.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -236,7 +243,7 @@ REPLY:
 Technical Advisors have examined the feasibility of providing a Greenway along the route of
 the existing abandoned railway between Patrickswell and Charleville. The study, however,
 identified significant delivery challenges for such a scheme, and following consultation with
-Tl, it is not considered feasible to progress this scheme at this time.
+TH, it is not considered feasible to progress this scheme at this time.
 
 Cycling and walking infrastructure is however to be provided as part of the N/M20 Cork to
 Limerick scheme between Patrickswell and Charleville.
@@ -253,7 +260,7 @@ The Cappamore-Kilmallock Municipal District Office has not received any report o
 accidents at Cleary’s Cross junction on the R513. The Roads Engineer has requested an
 Garda Siochana to examine their database and advise of reported incidents.
 
-The junction has also heen examined and there is no physical evidence of vehicles leaving
+The junction has also been examined and there is no physical evidence of vehicles leaving
 the road and impacting roadside boundaries. However, the Municipal District, as part of
 routine maintenance, will upgrade the existing road markings and signage on all approaches
 to the junction.
@@ -264,7 +271,9 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District fo
 on the situation at O'Rourke's on the N20.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -311,7 +320,9 @@ delivered. This instruction has been adhered to and there has been no significan
 respect to the maintenance of the public roads.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The waste disposal site operator has, however, in recent weeks been asked to cease
@@ -357,7 +368,9 @@ the drainage network on the county boundary at Maiden Hall, to determine if any
 improvements may be necessary.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Any Other Business
@@ -393,4 +406,6 @@ Date:
 
 
 
----
+
+[[PAGE_END:8]]
+

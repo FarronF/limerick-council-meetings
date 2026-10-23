@@ -24,5 +24,5 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Environment SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_environment_spc_monday_27th_february2c_2017.pdf) - [Extracted text](./Agenda%20-%20Environment%20SPC%20-%2027th%20February%202017.md)
+Agenda - Environment SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_environment_spc_monday_27th_february2c_2017.pdf) - Text not extracted
 

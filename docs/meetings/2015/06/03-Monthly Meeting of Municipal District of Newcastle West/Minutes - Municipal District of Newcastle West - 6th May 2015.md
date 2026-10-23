@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_draft_minutes_of_meeting_6th_may_15_0.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 6th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_draft_minutes_of_meeting_6th_may_15_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -26,7 +27,7 @@ DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
 OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 6"
 MAY, 2015, AT 10.00 A.M.
 
-PRESENT IN THE CHAIR: Councillor J. Scanian, An Cathaoirleach.
+PRESENT IN THE CHAIR: Councillor J. Scanlan, An Cathaoirleach.
 
 MEMBERS PRESENT:
 
@@ -66,7 +67,9 @@ And Resolved:
 signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Deputation
@@ -113,7 +116,7 @@ QUESTIONS
 
 4. uestion submitted b uncillor L. i
 
-! will ask at the next Meeting for a progress report from the Local Authority and
+| will ask at the next Meeting for a progress report from the Local Authority and
 the National Roads Authority regarding the road surface/road relining/stacking
 lanes from Daltons Cross towards the filling stations at Killarney Road
 
@@ -124,7 +127,9 @@ National Roads Authority and we are awaiting a response from them.
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 n ed ouncillor L. Galvin
@@ -175,7 +180,9 @@ Home and Social Development is not aware of any encroachment on
 neighbouring sites.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ownership History
@@ -224,7 +231,9 @@ Te Notice of Motion submitted by Councillor L. Galvin
 Holy Cross cemetery (at turntable) and that a refuse bin be provided.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Galvin, in proposing the Motion, stated that there was a need for the
@@ -275,7 +284,9 @@ removal of 4 car parking spaces at Main Street, Abbeyfeale, in conjunction with 
 Planning Application. He stated that the item had been received after the issue of the
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -283,7 +294,7 @@ Planning Application. He stated that the item had been received after the issue 
 Agenda. He advised the Members that the removal of the car parking spaces, if
 approved, would require an amendment to the Parking Bye-Laws. On the proposal of
 Councillor Galvin, seconded by Councillor Browne, it was agreed to hold a Special
-Meeting of the Municipal District of Newcastle West on Wednesday 13” May, 2015, at
+Meeting of the Municipal District of Newcastle West on Wednesday 13" May, 2015, at
 the Fire Station, Abbeyfeale, to discuss the removal of on-street parking in Abbeyfeale.
 
 Discussion on Deputation from West Fest Committee
@@ -314,4 +325,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

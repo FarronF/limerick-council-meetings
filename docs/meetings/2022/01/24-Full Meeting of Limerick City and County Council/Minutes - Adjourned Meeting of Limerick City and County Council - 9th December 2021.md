@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-c-minutes-adjourned-meeting-09.12.2021.pdf)
+**Original file:** [Minutes - Adjourned Meeting of Limerick City and County Council - 9th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-c-minutes-adjourned-meeting-09.12.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE ON THURSDAY, 9TH DECEMBER, 2021, AT
@@ -84,7 +85,9 @@ Notice of Motion submitted by Councillor J. Sheahan
 **been hampered severely by the COVID-19 pandemic.**
 
 The Motion was proposed by Councillor Sheahan (J) and seconded by Councillor Galvin.
----
+
+[[PAGE_END:1]]
+
 2
 
 In proposing the Motion, Councillor Sheahan (J) referred to the difficulties that local
@@ -160,7 +163,9 @@ Councillors K. Sheahan (Proposer), B. Collins, S. Keary, E. O’Brien, J.
 O’Donoghue, A. Teskey **(to be referred to Climate Action, Biodiversity and**
 
 **Environment Strategic Policy Committee)**
----
+
+[[PAGE_END:2]]
+
 3
 
 **We will move at the next Meeting that Limerick City and County Council adopt a policy and**
@@ -232,4 +237,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

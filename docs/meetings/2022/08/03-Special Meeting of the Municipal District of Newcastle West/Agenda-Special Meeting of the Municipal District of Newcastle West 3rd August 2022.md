@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-08/00%202022-08-03%20Agenda%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West_1.pdf)
+**Original file:** [Agenda-Special Meeting of the Municipal District of Newcastle West 3rd August 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-08/00%202022-08-03%20Agenda%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West_1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-___— Comhairle Cathrach
+_— Comhairle Cathrach
 & Contae Luimnigh
-~~ — Limerick Cit
-4 ity
+ArN ‘
+
+— Limerick City
 & County Council
 
-A Chombhairleoir, a chara,
+A Chomhairleoir, a chara,
 
-Duiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras Wiliam Smith O'Brien,
 
@@ -37,28 +38,27 @@ Gortbui,
 
 An Caislean Nua Thiag,
 
-Co. Ladimnigh.
+Co. Ludimnigh.
 
 Newcastle West Municipal District,
 Limerick City and County Council,
 Aras Viilliam Smith O'Brien,
 Gortboy,
 
-Nevicastle West,
+Nevicastie West,
 
-Co. Limernck
+Co. Limerick
 
-Eircode: V421E173
+Eircode: V42EH73
 
-t: +355-(0) 69 62100
+t: +353 (0) 69 62100
+
 29" July, 2022
 
 You are requested to attend a Special Meeting of the Municipal District of Newcastle West to
-be held in Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 37
+be held in Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 3@
 
 Is mise le meas,
-
-whe Gee
 
 Meetings Administrator.
 
@@ -80,4 +80,6 @@ Corporate Headquarters, Merchant's Quay, Limerick
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

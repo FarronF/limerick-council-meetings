@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-d-minutes-special-meeting-21.12.2021.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 21st December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-d-minutes-special-meeting-21.12.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE ON TUESDAY, 21ST DECEMBER, 2021, AT 2.30P.M.
@@ -80,7 +81,9 @@ He also noted how Vicky has continued to face her own health challenges head-on 
 drive and determination that has garnered the respect and admiration of all, and how all of
 
 this encapsulates the ideals of the Freedom of Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 He noted that since 1877, only four women have previously received the Freedom of
@@ -132,4 +135,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

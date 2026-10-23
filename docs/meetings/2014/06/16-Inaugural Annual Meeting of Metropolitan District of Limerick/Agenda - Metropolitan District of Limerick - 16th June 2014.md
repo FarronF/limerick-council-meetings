@@ -16,11 +16,11 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/metropolitan_district_of_limerick_-_agenda_16_june_2014.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 16th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/metropolitan_district_of_limerick_-_agenda_16_june_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
-
 
 ——_
 Limerick
@@ -28,7 +28,7 @@ CITY & COUNTY
 
 COUNCIL
 
-11th June, 2014.
+1ith June, 2014.
 Corporate Services
 Seirbhisi Corpardideacha.
 
@@ -42,7 +42,7 @@ Limerick to be held in the Council Chamber, City Hall, Merchant's Quay, Limerick
 June, 2014 at 10.00 a.m. The business to be transacted is set out on the
 appended Agenda.
 
-Is mise le "Oo
+Is mise le "oO
 ALAN
 Eugehe Griffin,
 
@@ -66,8 +66,10 @@ Environment, Community and Local Government enclosed).
 
 6. Any Other Business.
 
-Ff *: Cé na gCeannaithe, Luimneach t: 061 407100 ¢: info@limerickcity.te
-: Merchant's Quay, Limerick f: 061 415266 we www. ltimerickcity.ie
+Ff s*: Cé na gCeannaithe, Luimneach t: 061 407100 ¢: info@limerickcity.te
+: Merchant's Quay, Limerick f: 061 415266 we wwwatimerickcity.ie
 
 
----
+
+[[PAGE_END:1]]
+

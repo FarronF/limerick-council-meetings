@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20January%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20January%202023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ consultation on the Material Alterations to the Proposed Rathkeale Local Area Pl
 Following discussion Councillor O’Donoghue stated the maps used on the report were
 
 not site specific and are outdated. The Senior Executive Planner, Strategic and Forward
----
+
+[[PAGE_END:1]]
+
 2
 
 Planning acknowledged this observation and agreed to liaise with the Office of Public
@@ -154,7 +157,9 @@ Roads, Traffic and Cleansing advised discussions are ongoing regarding
 Morenane Junction, and added a different scale of works is required at this
 
 junction which will not necessitate a Part VIII planning.
----
+
+[[PAGE_END:2]]
+
 3
 
  Councillor Teskey raised the issue of traffic calming at Reens Pike along with
@@ -218,7 +223,9 @@ request from Councillor Collins.
 **Correspondence**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -260,4 +267,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

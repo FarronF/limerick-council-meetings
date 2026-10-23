@@ -1,9 +1,15 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2017 — 10 - October
 
 * [04 Monthly Meeting Of The Municipal District Of Newcastle West](04-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [09 Meeting Of The Economic Development, Enterprise And Planning Spc](09-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
 * [09 Meeting Of Travel & Transportation Strategic Policy Committee](09-Meeting of Travel & Transportation Strategic Policy Committee/README.md)
 * [10 Monthly Meeting Of The Municipal District Of Adare Rathkeale](10-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* [16 Joint Policing Committee Sub Committee (North) Meeting](16-Joint Policing Committee Sub Committee (North) Meeting/README.md)
+* [16 Joint Policing Committee Sub Committee (South) Meeting](16-Joint Policing Committee Sub Committee (South) Meeting/README.md)
 * [16 Monthly Meeting Of Metropolitan District Of Limerick](16-Monthly Meeting of Metropolitan District of Limerick/README.md)
 * [16 Three Special Meetings Of Limerick City And County Council](16-Three Special Meetings of Limerick City and County Council/README.md)
 * [18 Meeting To Consider Draft Budgetary Plan 2018_Gma For Municipal District Of Newcastle West](18-Meeting to consider Draft Budgetary Plan 2018_GMA for Municipal District of Newcastle West/README.md)
@@ -15,3 +21,5 @@
 * [26 ​Meeting To Consider Draft Budgetary Plan 2018 For The Municipal District Of Adare Rathkeale](26-​Meeting to consider Draft Budgetary Plan 2018 for the Municipal District of Adare-Rathkeale/README.md)
 * [27 Meeting To Consider Draft Budgetary Plan 2018 For The Metropolitan District Of Limerick](27-Meeting to consider Draft Budgetary Plan 2018 for the Metropolitan District of Limerick/README.md)
 * [27 Monthly Meeting Of Metropolitan District Of Limerick](27-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* [27 Private_ Workshop On Draft Budgetary Plan 2018 For The Metropolitan District Of Limerick](27-Private_ Workshop on Draft Budgetary Plan 2018 for the Metropolitan District of Limerick/README.md)
+* [31 Private_ Foynes To Limerick Road Improvement Scheme Briefing](31-Private_ Foynes to Limerick Road Improvement Scheme Briefing/README.md)

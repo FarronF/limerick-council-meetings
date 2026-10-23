@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-11-03-agenda-november.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 3rd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-11-03-agenda-november.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_— Comhairle Cathrach Diiche Bardais an Chaisledin Nua Thiar,
+_——_— Comhairle Cathrach Disiche Bardais an Chaisleain Nua Thiar,
 & Contae Luimni Comhairie Cathrach agus Contae Luimnigh,
-CS ™ igh Aras Wittiam Smith O'Brien,
+—C SO ™ igh Aras Witiam Smith O'Brien,
 
-<> Limerick city An Caisiedn Nua That,
+Limerick city An Caisiedn Nua That,
 & County Council Co, Luimnigh.
 
 Newcastle West Municipal District
 Umerick City and County Council
 Aras William Smith O'Bnen,
-Gortboy.
+Gortboy,
 
 Newcastle West.
 
@@ -76,14 +77,16 @@ Co. Limerick.
 To receive Deputation from Meadowcourt Residents Association, Newcastle West.
 
 a customerservices@limerickie
-Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach © wwwalimerickie
+Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach © wwwelimerickie
 Corporate Headquarters, Merchant's Quay, Limerick
 
 @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -132,7 +135,9 @@ Questions submitted by Councillor J. Sheahan
 for the Newcastle West Municipal District for the year 2022.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -143,7 +148,7 @@ for the Newcastle West Municipal District for the year 2022.
 
 17.
 
-Questions submitted by Councillor J. Scanian
+Questions submitted by Councillor J. Scanlan
 
 | will ask at the next Meeting when our Authority (a) intend to clean up its derelict
 properties in Newcastle West, (b) is funding earmarked to restore these houses for
@@ -159,10 +164,11 @@ Newcastle West.
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor L. Galvin
 
-| will move at the next Meeting that this district review/reduce our speed limits on
+I will move at the next Meeting that this district review/reduce our speed limits on
 all our cul de sac roads to SOkph as 80- 100 is totally inappropriate.
 
-1 will move at the next Meeting that this Council take ownership of the remaining
+| will move at the next Meeting that this Council take ownership of the remaining
+
 stretch of the L70553 which is only 100 meters long. The question should be asked as
 to why this has not been done as the Council down the years used to repair same.
 
@@ -171,9 +177,11 @@ Notice of Motion submitted by Councillor J. Scanian
 I will move at the next Meeting that C.I.E be requested by our Authority to provide bus
 stops at Barnagh to compliment the Greenway locally.
 
-Corres ence
+Corres lence
 
 {Copies of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,24 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-11th-march-2024_0.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 11th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-11th-march-2024_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh.
 
-oN —- Aras Séan Finn,
+An —_ Aras Séan Finn,
 
-———> Limerick City Bip bey
+———> Limerick City lp beg
 & County Council Co. Luimnigh
 
 Adare-Rathkeale Municipal District,
 Limenck City and County Council
 Aras Sean Finn
-
-New Line.
 
 Rathkeale.
 
@@ -41,8 +40,8 @@ Co. Limerick.
 
 EIRCODE V94 HKIV
 
-th > +353 (0) 69 64047
-6" March, 2024. t 53 (0) 69 63188
+th : +353 (0) 69 64047
+6" March, 2024. t 53 0) 69 63188
 To: M r Municipal Di Adare-Rathkeale
 A Chomhairleoir, a chara,
 
@@ -52,7 +51,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-—_
+A=
 
 Karen 8 ‘
 Meetings Administrator.
@@ -73,12 +72,14 @@ To note proposal for the disposal of 8.6994 acres/3.5205 hectares of land at Ska
 Croom, Co. Limerick.
 (Report Enclosed).
 
-& customerservices@limerick.ic
+& customerservices@limerick.ie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach |
-Corporate Headquarters, Merchants Quay, Limerick. YW @limerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -121,7 +122,9 @@ estion submitted b ncillor K. han
 Askeaton and surrounding area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -137,4 +140,6 @@ promoting the arts in our own District, in consultation with the arts office at 
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-for-spc-meeting-24.02.2020-00000002.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 24th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-for-spc-meeting-24.02.2020-00000002.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
 **DEVELOPMENT STRATEGIC POLICY COMMITTEE**
@@ -50,4 +51,6 @@ Policy Committee will be held in the **Council Chamber**, **Limerick City and Co
 **Chairperson**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

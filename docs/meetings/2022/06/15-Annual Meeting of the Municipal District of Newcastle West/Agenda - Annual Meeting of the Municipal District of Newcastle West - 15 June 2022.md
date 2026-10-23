@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-AGM-15-06-2022.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 15 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-AGM-15-06-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Duliche Bardais an Chaisieain Nua Thier,
+“ae Comhairle Cathrach Duliche Bardais an Chaisiedin Nua Thier,
 & Contae Luimnigh Comhairle Cathrach egus Contae Luimnigh,
-Tw Ares Willige Smith O'Brien,
-* ‘ ‘ ‘ Gortbul,
-—=— Limerick City : An Coislean Nua Thiar,
+Am f™ Aras Willian Smith O'Brien,
+“ ‘ ‘ ; Gortoul,
+—=— Limerick City - An Coislean Nua Thiar,
 
-& County Council Co. Luimnigh
+& County Council Co. Lutimnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council,
@@ -39,7 +40,7 @@ Newcastle West,
 Co. Limerick
 
 Eircode: V42EH73
-10" gun¥,"3029' © ©2190
+10" jun¥,"3022" © ©2190
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -49,7 +50,7 @@ You are requested to attend the Annual Meeting of the Municipal District of Newc
 on Wednesday, 15™ June, 2022, at 12.00 noon at Aras William Smith OBrien, Newcastle West
 Co. Limerick. The business to be transacted is set out on the appended Agenda.
 
-artin Curran,
+jartin Curran,
 
 Meetings Administrator.
 
@@ -61,11 +62,13 @@ the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Municipal District of Newcastle West to hold
 office until the next Annual Meeting or until a successor has been elected.
 
-& customerservices@limerick.te
+& customerservices@limerick.ie
 
 Ceanncheathri: Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick Cosi: tasese
 061- 556 000
 
 
----
+
+[[PAGE_END:1]]
+

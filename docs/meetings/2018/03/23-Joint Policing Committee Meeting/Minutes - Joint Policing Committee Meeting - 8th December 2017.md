@@ -16,17 +16,18 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/mintues-limerick-joint-policing-committee-8th-december-2017.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 8th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/mintues-limerick-joint-policing-committee-8th-december-2017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF MEETING OF JOINT POLICING COMMITTEE HELD IN THE
 CONFERENCE ROOM, ESTUARY HOUSE, GARDA STATION, HENRY STREET,
-LIMERICK ON FRIDAY, 8™ DECEMBER, 2017 AT 10.00 A.M.
+LIMERICK ON FRIDAY, 8° DECEMBER, 2017 AT 10.00 A.M.
 
 IN THE CHAIR : Councillor Sean Lynch
-MEMBERS : Councillors Keller, Costelloe,  Ceallaigh, Gilligan
+MEMBERS : Councillors Keller, Costelloe, O Ceallaigh, Gilligan
 and Mitchell
 LCCC OFFICIALS : Mr. C. O’Connor, Senior Exec. Officer, Corporate Services
 
@@ -35,7 +36,7 @@ Ms. L. Creamer, Staff Officer, Corporate Services
 
 GARDA NOMINATIONS : Chief Superintendent, Mr. D. Sheahan, Superintendent D. Smart,
 
-Inspector P. Byrnes
+inspector P. Byrnes
 
 OIREACHTAS MEMBERS : Ms. J. O’Sullivan, T.D., Mr. Niall Collins, T.D.,
 
@@ -81,7 +82,9 @@ It was proposed to do a 6 month pilot and fifty members of An Garda Siochana in 
 volunteered to use the device on a rostered basis.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6 (a)
@@ -137,7 +140,9 @@ Members wished Tom O'Connor, retired Superintendent well on his retirement addin
 given great service on policing to the city and county.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6 (b)
@@ -156,7 +161,7 @@ Station.
 Members congratulated the Chief Superintendent and all concerned on the quality of this new
 Suite.
 
-A intment of two Members icin, i lon of
+A intment of two Members icin, i jon of
 Ciara McMahon and Joe Leddin from the JPC
 
 Members noted the appointment of Councillors John Costelloe and John Gilligan to the Joint
@@ -193,7 +198,9 @@ Update on installation of CCTV in a number of areas given by Mr. Bilauca. This w
 the Members.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “1 will move at the next Metropolitan Area Meeting that a Driver Feedback Sign be erected at the
@@ -222,7 +229,7 @@ the Council Meeting that this matter be brought to the attention of An Garda Sio
 Policing Committee with a request for an increased presence in relation to speed enforcement on
 the Ballinacurra Road.
 
-“| will move at the next Meeting that this Council calls on the Minister for Justice and the Minister
+"| will move at the next Meeting that this Council calls on the Minister for Justice and the Minister
 for Transport to look for a full review of the Go Safe Vans in Limerick”.
 
 The Chief Superintendent gave a short outline in relation to the procedures followed in relation to
@@ -243,7 +250,9 @@ Circulated response from An Garda Siochana in response to request regarding the 
 Probationer Gardai to Limerick.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It was noted that five Probationer Gardai were allocated to Limerick from the recent attestation
@@ -261,9 +270,13 @@ COUNCILLOR SEAN LYNCH
 CHAIRMAN
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

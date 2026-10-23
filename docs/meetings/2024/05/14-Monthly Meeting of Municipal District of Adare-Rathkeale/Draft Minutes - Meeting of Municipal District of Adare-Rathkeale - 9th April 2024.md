@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-b-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-9th-april-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 9th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-b-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-9th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ And Resolved:
 an amendment which Councillor Collins would submit to the Meetings Administrator for
 
 inclusion on the record”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Following the adoption of the Minutes Councillor Teskey made reference to the details of
@@ -168,7 +171,9 @@ It was agreed Item 8 on the Agenda would be taken next.
 On the proposal of Councillor Collins, seconded by Councillor O’Donoghue it was agreed
 
 to allocate the following:
----
+
+[[PAGE_END:2]]
+
 3
 
  €1,000 to Adare Ladies Football Club.
@@ -238,7 +243,9 @@ housing development for Adare. The Director, Housing advised the housing departm
 have entered into negotiations to connect to the existing drain and are awaiting a decision
 
 on the planning application from An Bord Pleanála. Councillor Keary requested a copy of
----
+
+[[PAGE_END:3]]
+
 4
 
 the planning permission associated with the proposed development and Councillor Collins
@@ -314,7 +321,9 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 April, 2024 outlining details of proposed works, projects and future projects planned for
 
 the District.
----
+
+[[PAGE_END:4]]
+
 5
 
 Following discussion the following issues were raised by Members:
@@ -384,7 +393,9 @@ Development advised the plan would now go to Full Council for approval. Members
 complimented the Administrative Officer, Rural Development for the presentation and
 
 welcomed the Local Economic and Community Plan.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICES OF MOTION**
@@ -454,7 +465,9 @@ appointment to Minister of Further and Higher Education, Research, Innovation
 and Science and requested a letter of congratulations be forwarded to Minister
 
 O’Donovan from the Adare-Rathkeale Municipal District.
----
+
+[[PAGE_END:6]]
+
 7
 
 This concluded the Meeting.
@@ -468,4 +481,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

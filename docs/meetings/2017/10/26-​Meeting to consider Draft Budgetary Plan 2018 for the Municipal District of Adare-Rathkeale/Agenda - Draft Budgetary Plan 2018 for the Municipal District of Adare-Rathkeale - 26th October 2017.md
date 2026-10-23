@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2026th%20October%202017.pdf)
+**Original file:** [Agenda - Draft Budgetary Plan 2018 for the Municipal District of Adare-Rathkeale - 26th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2026th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; Seirbhist Corparaideacha,
-_—" coma a Comhairle Cathrach agus Contae Luimnigh.
-re, ontae Luimnig Ceanncheathru Chorpardideach,
-NrN ——————— Cé na gCeannaithe,
-=— Limerick City Luimneach
-& County Council aa -
+——" pa lela siracbebet Comhairle Cathrach agus Contae Luimnigh.
+reo, ontae Luimnig Ceanncheathru Chorpardideach,
+AnrN —————————— Cé na gCeannaithe,
+— Limerick City Luimneach
+& County Council a ss
 porate Services,
 Limerick City and County Council.
 Corporate Headquarters,
@@ -61,11 +62,13 @@ AGENDA
 
 (Report Attached)
 
-@ customerservices@limerickte
-@ wevewelimerick.te
+@ customerservices@limerick.te
+oe wevewelimerick.te
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneact! W @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneact| W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

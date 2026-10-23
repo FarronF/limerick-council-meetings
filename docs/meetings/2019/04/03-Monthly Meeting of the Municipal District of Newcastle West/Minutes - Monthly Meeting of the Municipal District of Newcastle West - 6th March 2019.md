@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%202019-03-06%20Minutes%20March.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%202019-03-06%20Minutes%20March.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Officer, Urban & Rural Community Development who gave the presentation.
 Ms. Rizzo addressed the Meeting and welcomed the opportunity to outline to the Members
 
 the life and contribution of Max Arthur MacAuliffe to the Sikh Culture and Religion.
----
+
+[[PAGE_END:1]]
+
 2
 
 She stated that an approach was made from Dublin Interfaith Forum in April 2018 with regard
@@ -174,7 +177,9 @@ To consider the Taking in Charge of Estate The Bracken, Newcastle
 West, in accordance with Section 180 of the Planning and
 
 Development Acts, 2000-2017, and Section 11 of the Roads Act, 1993.
----
+
+[[PAGE_END:2]]
+
 3
 
 Circulated, report of the A/Senior Planner, Planning and Environmental Services, dated 14th
@@ -244,7 +249,9 @@ General Municipal Allocation (GMA)
 On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agreed to allocate
 
 €990 for public lighting at Ardagh.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agreed to allocate
@@ -316,7 +323,9 @@ St. Fergus National School, Glin – Safety Measures
 Broadford National School – Pedestrian Crossing
 
 €35,000
----
+
+[[PAGE_END:4]]
+
 5
 
 QUESTIONS
@@ -392,7 +401,9 @@ consultants are currently being sought to progress initial design of the N21
 Devon Cross and detailed design of N21 Wards Cross. This commission is
 
 subject to TII approval.
----
+
+[[PAGE_END:5]]
+
 6
 
 It is also intended to carry out improvements at the cul-de-sac junction west
@@ -474,7 +485,9 @@ Question submitted by Councillor J. Sheahan
 ***(a)***
 
 ***From June 2004 to date how many sites have been excavated in the environs of***
----
+
+[[PAGE_END:6]]
+
 7
 
 ***Abbeyfeale town in order to acquire a new burial ground***
@@ -578,7 +591,9 @@ Notice of Motion submitted by Councillor J. Scanlan
 ***place under our Old County Authority, whereby paint was provided to tenants and local***
 
 ***authority communities who undertook the task of applying the paint themselves.***
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Scanlan stated that the arrangements that were in place
@@ -662,7 +677,9 @@ As of 4th of March, 2019 we have secured through our ICT Department four
 vouchers under this scheme, one for each Metro and Municipal Council in
 
 Limerick City and County. In addition, the Department of Rural and Community
----
+
+[[PAGE_END:8]]
+
 9
 
 Development has committed to providing up to €15,000 in funding to each Local Authority
@@ -732,7 +749,9 @@ A survey has been carried out at the above location and in order to have the
 minimum required road and footpath width, land take is required.
 
 It is proposed to discuss the land take matter with the relevant landowners.
----
+
+[[PAGE_END:9]]
+
 10
 
 The following items were also raised.
@@ -804,4 +823,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

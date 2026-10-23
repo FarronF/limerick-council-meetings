@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/161220_minutes_final.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 16th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/161220_minutes_final.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -94,7 +95,9 @@ would be amended to reflect this.
 Cllr. Leddin sought clarification around the Area of Choice Form and the Housing Application
 
 Form as there is confusion around which form to use when an applicant would like to choose
----
+
+[[PAGE_END:1]]
+
 a specific area- matter to be brought to Community Support Services for update at next
 
 meeting.
@@ -164,7 +167,9 @@ allocate those units.
 Ms. Duke noted that the purpose of this update was to advise that the Turnkey process will
 
 have a more formal internal process.
----
+
+[[PAGE_END:2]]
+
 A discussion took place around this and the main points were:
 
  Cllr. Leddin thanked Ms Duke for the update. He asked had LCCC any indicative number
@@ -256,7 +261,9 @@ are now approved to provide affordable rental and LCCC would like to work with A
 to carve out a percentage of affordable rental in the Limerick area. Ms. Duke noted the
 
 percentage mix is being used as a template where the numbers go above and beyond
----
+
+[[PAGE_END:3]]
+
 the settlement strategy figures. For example, when developers approach us LCCC is
 
 saying that they would like a proportion for private sale and we would take a portion of
@@ -332,7 +339,9 @@ Catherine McGuigan (Meath County Council) runs a national programme for Age Frie
 Ireland and has created the presentation outlining the activities – Anne Rizzo is LCCCs Age
 
 Friendly Representative.
----
+
+[[PAGE_END:4]]
+
 Ireland is the first country in the world to achieve full age friendly programmes across the 31
 
 Local Authorities. Ms. Duke wanted to highlight how the Age Friendly programme ties in
@@ -398,7 +407,9 @@ When the final terms and conditions of programme are agreed, Ms. Duke will rever
 SPC to outline the policy – it will be a limited pilot for year one. The success of pilot scheme
 
 will be assessed and it will be rolled out as programme throughout the Local Authorities.
----
+
+[[PAGE_END:5]]
+
 The Chairperson, Mr. Murphy, also thanked Ms. Newell with her work in achieved in
 
 securing the pilot for Limerick.
@@ -476,7 +487,9 @@ will be introduced to members and updates will be provide by the Team.
 Ms. Duke noted that there is a slight issue with the Tenant Purchase Scheme that is relevant
 
 in some areas.
----
+
+[[PAGE_END:6]]
+
 It allows a tenant for more than a year to purchase their house at a significant discount
 
 depending on their level of income and is dependent on certain terms and conditions.
@@ -546,7 +559,9 @@ Cllr. Benson noted that she had organisations on to her in relation to the timin
 closing date close after Christmas and in particular with Covid-19. Ms. Duke said that there
 
 should not be an issue with extending deadline.
----
+
+[[PAGE_END:7]]
+
 
 
 Ms. Byrnes also echoed Cllr. Benson’s sentiment – that she would appreciate if the deadline
@@ -646,7 +661,9 @@ Cllr. Costelloe asked could he have a report on the Orchard Site for the next SP
 Anne’s Court as he is anxious that these get over the line. Ms. Duke agreed to have report on
 
 both for next SPC.
----
+
+[[PAGE_END:8]]
+
 
 
 Cllr. Sheehan asked for an update on the situation in King’s Island regarding Irish Wheelchair
@@ -674,4 +691,6 @@ The Chair thanked everyone for logging in and for their valuable contributions. 
 thanked the members of the executive present and wished all members a very Happy
 
 Christmas.
----
+
+[[PAGE_END:9]]
+

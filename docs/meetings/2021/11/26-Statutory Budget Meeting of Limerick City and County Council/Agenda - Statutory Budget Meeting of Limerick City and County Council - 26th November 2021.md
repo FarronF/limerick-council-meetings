@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-budget-meeting-26.11.2021.pdf)
+**Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council - 26th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-budget-meeting-26.11.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_e_e Comhairle Cathrach Curiatie Gabeadh an soo
-: . ‘ombvawte Cathvach agus Contae Luinnigh,
-a & Contae Luimnigh Cearnncheathri: Chorpardideach,
-af“ EE Cé na gCeannaithe,
+_—_ Comhairle Cathrach Guiiatie Gabeadh an soo
+: : ombvarie Cathvach agus Contae Lulnnigh,
+fs, & Contae Luimnigh Cearncheathri: Chorpardideach,
+ANON Cé na gCeannaithe,
 
-—=_>> Limerick City Luimneach
+—=="> Limerick City Luimneach
 & County Council
 
 Corporate Services,
@@ -35,11 +36,11 @@ Limerick City and County Council
 
 orporate Headquarters.
 
-Mercharns Quay,
+Merchants Quay,
 
 Limerick
 
-EIRCODE V4 EH90
+EIRCODE V94 EH90
 
 17" November, 2021.
 t; +353 (0) 61 557150
@@ -57,7 +58,7 @@ Friday, 26" November, 2021, at 1.30p.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is misete -_——_
-“gure Flannery, = —_
+“pure Flennery, — —_
 Meetings Administrator.
 
 AGENDA
@@ -78,13 +79,15 @@ Act, 2014.
 Capital Programme 2022-2024)
 
 © Customerservices@limerick te
-© weewdimerick. ie
+© weewdimerick ie
 
 w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . To determine the proportion of commercial rates refund that applies on vacant
@@ -122,4 +125,6 @@ Reform Act, 2014, subject to finances available.
 2022 Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

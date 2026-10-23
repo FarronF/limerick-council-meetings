@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Joint-Policing-Sub-Committee-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
+**Original file:** [Agenda - Joint Policing Sub Committee Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Joint-Policing-Sub-Committee-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
 
----
+[[FILE_START]]
+
 **15th** **September 2023.**
 
 **To/**
@@ -54,4 +55,6 @@ Sub-Committee held on 19th May, 2023.
 **2.Policing Issues**
 
 To discuss policing issues in the District.
----
+
+[[PAGE_END:1]]
+

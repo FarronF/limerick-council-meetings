@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%20July%20Meeting%20of%20Council.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 23rd July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%20July%20Meeting%20of%20Council.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha.
 
 Comhairle Cathrach
-—_— Hetil prabre Comhairle Cathrach mms Corias Laiwrigh
+—_—_—_— Betta prabres Comhairle Cathrach ema Corias Laiwrigh
 
-n“NrN
+nNrN
 
 Cé na gCeannathe,
 Luimneach
@@ -43,7 +44,7 @@ Limerick
 
 EIRCODE V94 EH90
 
-18" July, 2018. t: +33 (0) 61 $57150
+18" July, 2018. t: +383 (0) 61 $57150
 f; +353 (0) 61 415 266
 
 To: i
@@ -58,7 +59,6 @@ Is mise le meas,
 
 AGENDA
 
-“¥Seaingn
 T. O'Callaghan,
 Meetings Admihistrator.
 
@@ -82,13 +82,15 @@ Planning and Development Act, 2000 (as amended), at: P
 (c) 5, Beechwood Drive, Ballyorgan, Co. Limerick.
 
 @ customerservices@limerick.te
-@ wwew limerick.te
+@ wwew.limerick.te
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -112,7 +114,7 @@ To consider Chief Executive’s Reports for the months of May and June, 2018.
 
 (b) Submission to the Local Government Funding (Baseline)
 
-Review —- Consultation
+Review - Consultation
 
 To note Limerick City and County Council’s submission to the Local
 
@@ -135,7 +137,9 @@ Annual Report.
 (Annual Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) Limerick Market Trustees
@@ -168,6 +172,7 @@ Meetings up to May 2019.
 To consider the grant of a Civic Reception to honour the Limerick Rugby
 Players represented on the Irish Rugby Team in recognition of winning the
 Grand Slam, in accordance with Section 74 of the Local Government Act,
+
 2001, as amended.
 
 (i) Strategic Policy Committee Reports
@@ -179,7 +184,9 @@ Policy Committee Meeting held on 9" July, 2018.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -229,10 +236,12 @@ employers would not obstruct these graduates from being in
 pensionable and unionised jobs and this recommendation would be
 circulated to each Local Authority in the country and to the Local
 Authority Members’ Association (LAMA) and the Association of trish
-Local Government ({AILG).”
+Local Government {AILG).”
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iii)
@@ -282,7 +291,9 @@ take place on Monday, 11™ June, did not go ahead, therefore there is no
 Chairperson’s report for that meeting.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Physical Development Directorate
@@ -329,7 +340,9 @@ Bridge / Montpelier.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -354,7 +367,7 @@ Leitrim, on 8/9" june, 2018.
 Letterkenny, Co. Donegal, from 6 to 8"" July, 2018.
 
 (c) Conference on Changing Trends and Approaches to Drug and Alcohol
-Abuse, to be held held in Tralee, Co. Kerry, from 3 to 5 August, 2018.
+Abuse, to be held held in Tralee, Co. Kerry, from 3™ to 5 August, 2018.
 
 (d) Conference on Workplace Relations Commission, to be held in Wexford
 from 31* August to 2° September, 2018.
@@ -378,7 +391,9 @@ Questions submitted by Councillor J. Scanlan
 Authority who incur weekly rental costs in excess of: (a) €150; (b) €200 and (c) €300.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -426,7 +441,9 @@ with monthly rental costs in excess of what a 25-year variable rate mortgage wou
 be on a property comparable with that which they occupy.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -475,4 +492,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:9]]
+

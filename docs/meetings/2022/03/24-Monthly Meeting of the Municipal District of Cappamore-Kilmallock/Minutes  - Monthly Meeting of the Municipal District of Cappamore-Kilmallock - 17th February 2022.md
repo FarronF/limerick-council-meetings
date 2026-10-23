@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/2-.-minutes-of-17th-february-municipal-district-meeting.pdf)
+**Original file:** [Minutes  - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/2-.-minutes-of-17th-february-municipal-district-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD ON
@@ -76,7 +77,9 @@ Diarmuid Cronin, Muintir na Tire, delivered a Powerpoint presentation to the Ele
 Members on the Community Alert Programme. Mr Cronin agreed to deliver a workshop to
 
 discuss the Programme further as part of the Joint Policing Committee Meeting in April.
----
+
+[[PAGE_END:1]]
+
 6.Issuing of Bruff Public Realm Plan
 
 Tom Joyce, Executive Architect, Property Support and Placemaking, attended the Municipal
@@ -138,7 +141,9 @@ An application is being submitted under the 2022 Community Monuments Funding Sch
 structure. The Castle at Ballynoe is protected under the National Monuments Act and is a
 
 significant structure in Limerick’s heritage.
----
+
+[[PAGE_END:2]]
+
 The closing date for applications is 1 March, 2022. If the application is successful the proposed
 
 works should consolidate the building and allow for access to graves at the base of the
@@ -212,7 +217,9 @@ Mayor, outlining full detail and clarity on the terms and powers of the new role
 elected Mayor is a matter outside the remit of Limerick City and County Council. The
 
 decision to postpone the implementation of the Directly Elected Mayor pending the
----
+
+[[PAGE_END:3]]
+
 adoption of appropriate legislation is a matter more appropriately directed to the
 
 Government.”
@@ -286,7 +293,9 @@ discourage/prevent burial over and above existing family plots.
 The policy is based on the principles of good heritage and environmental practice in burial
 
 grounds.
----
+
+[[PAGE_END:4]]
+
 11.
 
 Question submitted by Councillor Carey
@@ -354,7 +363,9 @@ clarification in relation to derelict sites act, register, levy and modus operan
 A full presentation on the Dereliction & Vacancy Initiative will be provided to the March
 
 meeting of Cappamore/Kilmallock Municipal District.
----
+
+[[PAGE_END:5]]
+
 14.
 
 Question submitted by Councillor Mitchell
@@ -408,4 +419,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:6]]
+

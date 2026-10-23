@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare Rathkeale - 4th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 il Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caoka,
 
-& Contae Luimnigh Comhairle Cattwach agus ee rel
+& Contae Luimnigh Comhairle Cattwach agus me ale
 
-ny 2 Nua,
-—— Limerick City path Cacka
+oy @ Nua,
+—— Limerick City path Cacta
 & County Council Co, Luimnigh
 
 Adare-Rathkeale Municipal District,
 Limerick City and Courty Council,
-Aras Sean Pint,
+Aras Sean Fira,
 
 New Line,
 
@@ -41,7 +42,7 @@ Co. Limerick
 
 EIRCODE V94 HKIV
 t: 4353 (0) 69 64047
-30" August, 2023. f; +353 (0) 69 63188
+30" August, 2023. f: +353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 
@@ -65,10 +66,12 @@ AGENDA
 To discuss the Draft Adare Local Area Plan.
 
 = limerick.ie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach ! wewew.limerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Lutmneach ! www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
-© 061 - 856 000
+© 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

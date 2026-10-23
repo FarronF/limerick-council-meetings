@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-c-minutes-special-meeting-08.03.20211.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 8th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-c-minutes-special-meeting-08.03.20211.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
@@ -90,7 +91,9 @@ that Iconic Newspapers’ unwillingness to enter dialogue with their workers str
 heart of what news media was there to protect and enshrine – namely, accountability and
 
 transparency.
----
+
+[[PAGE_END:1]]
+
 2
 
 He went on to say that the Limerick Leader was part of Limerick’s culture and heritage since
@@ -168,7 +171,9 @@ to request that the Group recognise the National Union of Journalists and engage
 NUJ worker representatives to address concerns of their employees working in the Limerick
 
 Leader newspaper.
----
+
+[[PAGE_END:2]]
+
 3
 
 It was proposed by Councillor C. Sheehan that the resolution of the Council should also be
@@ -188,4 +193,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

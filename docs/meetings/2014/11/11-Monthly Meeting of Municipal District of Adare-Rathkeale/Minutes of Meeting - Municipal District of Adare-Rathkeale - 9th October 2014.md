@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_adare-rathkeale_-_9th_october_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Adare-Rathkeale - 9th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_municipal_district_of_adare-rathkeale_-_9th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -59,7 +60,9 @@ The Head of Finance informed Members that a total provisional allocation of
 to the Municipal District of Adare-Rathkeale as follows:-
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ADARE RATHKEALE MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN 2015
@@ -74,9 +77,9 @@ To finance Gross Revenue Expenditure Municipal District
 Details of Proposed Expenditure proposed expenditure
 
 B04 Local Road works 50,000
-DOS Tourism Development 65,000
+005 Tourism Development 65,000
 FO3 Parks, Pitches, Playgrounds 40,000
-F04 Community Initiatives 20,000
+FO04 Community Initiatives 20,000
 Special Projects 100,000
 
 Relevant Gross Expenditure (B=A) 275,000
@@ -107,7 +110,9 @@ current economic climate. He stressed the importance of maintaining a
 strategic focus in relation to Council owned property/land.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Following further discussion, Members agreed that the allocation of the General
@@ -131,9 +136,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

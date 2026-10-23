@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-annual-meeting-30.06.2021.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 30th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-annual-meeting-30.06.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
-ANI” NS
+ANI |
 
 — Limerick City
 & County Council
 
 24 June 2021
 
-Seirdhisi Corpardideacha
+Seirohisi Corparaideacha
 
-Comhairle Cathrach agus Contae Luimnigh,
+Comhairie Cathrach agus Contae Luimnigh,
 Ceanncheathna Chorparaideach,
 
 Cé na gCeannaithe,
@@ -63,8 +64,8 @@ Theatre, Limerick Institute of Technology, Moylish, Limerick, on Wednesday, 30" 
 
 The business to be transacted is set out on the appended Agenda.
 
-Is mise we
-Laura Flannery, a
+Is mise ir
+Laura Flannery, ee
 Meetings Administrator.
 
 AGENDA
@@ -73,7 +74,7 @@ AGENDA
 
 for the ensuing year or until a successor is elected.
 
-2. | Toconsider the election of a Deputy Mayor of the City and County of Limerick to hold
+2. Toconsider the election of a Deputy Mayor of the City and County of Limerick to hold
 
 office for the ensuing year or until a successor is elected.
 
@@ -81,9 +82,11 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 mm customerservicesG@limerickie
-© vevew limerickie
+© wevew limerickie
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

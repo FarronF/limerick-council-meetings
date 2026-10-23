@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Minutes%20of%20SPC%2012th%20February%202018.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 12th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Minutes%20of%20SPC%2012th%20February%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES**
 
 **OF**
@@ -118,7 +119,9 @@ Council at its January Meeting. All relevant Departments have been advised of th
 policy statement and will factor same into any discussions/agreements with
 
 organisers of food related events.
----
+
+[[PAGE_END:1]]
+
 **Item 3**
 
 To consider adjourned Notice of Motion referred from full Council meeting on the 22nd
@@ -210,7 +213,9 @@ Update on Limerick for IT Initiative – Presentation by Dr. Janice O’Connell
 Key issues covered in the presentation included:
 
  IT Talent Acquisition
----
+
+[[PAGE_END:2]]
+
  Develop IT business Ecosystem
 
  New Business Spin out/in
@@ -266,4 +271,6 @@ This concluded the business of the meeting
 **Councillor Vivienne Crowley**
 
 Chairperson
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -90,7 +91,9 @@ Members welcomed the announcement which built on the success of Limerick City
 of Culture and would further benefit the Arts by putting Limerick on the map as the
 
 Film Capital of Ireland.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 1.Economic Development & Planning
@@ -166,7 +169,9 @@ Varying views were expressed by Members, both in favour of the proposed route
 for the Northern Relief Road and against, and in response to issues raised by
 
 Members, Mr. Conroy clarified the following:-
----
+
+[[PAGE_END:2]]
+
 **3**
 
 • The need for the Northern Relief Road had been identified in the Spatial
@@ -238,7 +243,9 @@ Authority’s Development Plan. It was anticipated that the Department of
 Transport, Tourism & Sport and the National Roads Authority would be
 
 reluctant to fund any road project under such circumstances.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 • A crossing of the headrace associated with the Ardnacrusha power plant,
@@ -308,7 +315,9 @@ Ceallaigh, O’Dea, O’Donoghue, Prendiville, Ryan, Secas, Sheahan (J), Sheahan
 There were no abstentions.
 
 The Deputy Mayor declared the proposed Variation rejected.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 2.Environment & Water Services
@@ -348,4 +357,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

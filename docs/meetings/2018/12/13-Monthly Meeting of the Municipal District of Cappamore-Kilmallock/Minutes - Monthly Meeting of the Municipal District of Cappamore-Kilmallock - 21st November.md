@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/02%20Minutes%20Nov%20Meeting%20Municipal%20District%20Capp-Kil.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st November.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/02%20Minutes%20Nov%20Meeting%20Municipal%20District%20Capp-Kil.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -62,7 +63,9 @@ requested clarification on what meetings took place between TII staff and the bu
 owner at O’Rourke’s Cross.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii) Circulated, copy of draft Minutes of Draft Budgetary Plan Meeting of the Municipal
@@ -109,7 +112,9 @@ The Meetings Administrator informed the Elected Members that this presentation w
 going ahead as the person scheduled to give the presentation was ill, and had sent their
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 apologies for their inability to attend. He confirmed that this item would be included on the
@@ -117,7 +122,7 @@ Agenda of a future Meeting.
 
 4. Service Operations Directorate
 
-Draft S ial S$ Limit Bye-laws 2018 for National a Non-
+Draft S ial S Limit Bye-laws 2018 for National a Non-
 National Roads
 
 The Senior Executive Engineer, Operations & Maintenance Services briefed the Members on
@@ -139,7 +144,7 @@ And Resolved:
 “That, the Draft Speed Limit Bye-laws 2018 for National and Non-National Roads as
 circulated, be approved.”
 
-Ot "4
+Ot "
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the
 following items were raised:
@@ -163,7 +168,9 @@ Senior Counsel on Part 8’s in general, which stated that a Part 8, which has c
 statutory process, could not be amended.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Having regard to the Standing Orders and the legal advice obtained, the Meetings
@@ -185,7 +192,7 @@ grounds that at the said meeting of 19th October 2017, the members were given
 incomplete, inaccurate and inadequate information e.g., the members were not advised of
 the relevant statutory provisions/ guidelines.”
 
-° neral icipal All if MA) 2
+° neral icipal All i MA) 2
 
 Proposed by Councillor Gleeson,
 
@@ -211,7 +218,7 @@ Church graveyard sub-base and
 
 Kilmallock Glenfield
 
-Sow
+= So
 
 statue.
 
@@ -223,7 +230,9 @@ metres
 
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Footpath repairs on Moore Street
@@ -272,7 +281,7 @@ Cllr Sheehy: Glenroe/Ballyorgan Community Council projects;
 
 Clir Teefy: Ballybricken Defibrillator Project.
 
-NOY SwWNE
+NOY SYNE
 
 e Vote of Sympathy
 
@@ -287,9 +296,13 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

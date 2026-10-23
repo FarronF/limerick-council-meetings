@@ -24,13 +24,13 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Metropolitan District of Limerick - 21st November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_21st_november_2016.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20November%202016.md)
+Agenda - Meeting of Metropolitan District of Limerick - 21st November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_21st_november_2016.pdf) - Text not extracted
 
-Minutes of Meeting of Metropolitan District of Limerick - 17th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_17th_october_2016.pdf) - [Extracted text](./Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2017th%20October%202016.md)
+Minutes of Meeting of Metropolitan District of Limerick - 17th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_17th_october_2016.pdf) - Text not extracted
 
-Minutes of Draft Budgetary Plan Meeting - Metropolitan District of Limerick - 17th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_draft_budgetary_plan_meeting_17th_october_2016.pdf) - [Extracted text](./Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2017th%20October%202016.md)
+Minutes of Draft Budgetary Plan Meeting - Metropolitan District of Limerick - 17th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_draft_budgetary_plan_meeting_17th_october_2016.pdf) - Text not extracted
 
-Minutes of Adjourned Draft Budgetary Plan Meeting - Metropolitan District of Limerick - 24th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_adjourned_draft_budgetary_plan_meeting_24th_october_2016.pdf) - [Extracted text](./Minutes%20of%20Adjourned%20Draft%20Budgetary%20Plan%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2024th%20October%202016.md)
+Minutes of Adjourned Draft Budgetary Plan Meeting - Metropolitan District of Limerick - 24th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_adjourned_draft_budgetary_plan_meeting_24th_october_2016.pdf) - Text not extracted
 
 Disposal of Land - Limerick Southern Ring Road Phase II - Bunlicky and Ballykeeffe - Metropolitan District of Limerick - 21st November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/disposal_of_land_bunlicky_and_ballykeeffe.pdf) - Text not extracted
 

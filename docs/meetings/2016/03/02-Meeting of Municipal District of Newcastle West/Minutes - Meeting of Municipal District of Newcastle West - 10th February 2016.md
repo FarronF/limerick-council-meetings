@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202016.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Newcastle West - 10th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -71,7 +72,9 @@ study done to identify the need for CCTV Systems and that it may be possible to 
 the General Municipal Allocation Special Projects Fund.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1. Adoption of Minutes
@@ -102,7 +105,7 @@ UESTIONS
 
 3. Question submitted by Councillor L. Galvin
 
-! will ask at the next Meeting (a) for an update on the purchase of a new graveyard in Abbeyfeale; (b)
+1 will ask at the next Meeting (a) for an update on the purchase of a new graveyard in Abbeyfeale; (b)
 for the perimeter fence to be repaired at the graveyard (Hill Road).
 
 REPLY: (a) The Council has been trying to establish a suitable site for many years and below are
@@ -128,10 +131,12 @@ and funding would need to be provided for this development.
 (b) The Council will arrange to repair the perimeter fence as soon as possible.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-4. i mi ncillor J. Scanlan
+4. i mi incillor J. Scanlan
 
 ! will ask at the next Meeting for (a) the cost of a single/double burial space at Calvary Cemetery,
 Newcastle West; (b) the cost of single/double burial space in the other council controlled cemeteries
@@ -147,7 +152,7 @@ The charges for double graves are as follows:
 Double Grave €1,750 at time of need.
 Double Grave €2,000 reserved.
 
-These charges apply to all Council controlled cemeteries within the Municipal! District of
+These charges apply to all Council controlled cemeteries within the Municipal District of
 Newcastle West.
 
 NOTICE OF MOTION
@@ -180,4 +185,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

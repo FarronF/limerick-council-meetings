@@ -16,18 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%209th%20November%2C%202017.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%209th%20November%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-j Seirbhisi Corparaideascha,
+: Seirbhisi Corparaideacha,
+
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-go &Contae Luimnigh Ceanncheathni Chorpardideach,
-ArN Cé na gCeannaithe,
-— Limerick City Luimneach
-& County Council Ceepeeaen den
+
+& Contae Luimnigh Ceanncheathra Chorpardideach,
+
+nAr™ i ~ — Cé na gCeannaithe,
+Limerick City _ Luimneach
+
+— & County Council oenaiadarsiees
 Limerick City and County Council,
+
 Corporate Headquarters,
 
 Merchants Quay,
@@ -44,18 +50,18 @@ Rathkeale
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Thursday, 9" November, 2017 at the
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Thursday, 9” November, 2017 at the
 
-nclusion of the Meeting of the Adare-Rathkeale District JP! mmittee. The business to
+inclusion of the Meeting of the Adare-Rathkeale District JP: mmittee. The business to
 be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-—_——.
+—_——
 
-~ A ,
+~— i ,
 )
-Facey —
+Faecal —
 Meetings Administrator.
 
 AGENDA
@@ -72,14 +78,16 @@ held on 26" October, 2017.
 (Copy Enclosed)
 
 @ Customerservices@limerick.ie
-1 @ woerssNimerick.ie
-LimerickCouncil
-Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach va Lodi - 887150
+1 @ woersNimerick.ie
+LimerickCounctl
+Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach ya Lodi - 887150
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -111,7 +119,7 @@ Flooding Issues in Askeaton
 To note update on proposals to address the flooding issues in Askeaton.
 (Copy Enclosed)
 
-Foot; from Kildimo to the Beer Garden Public House
+Foot! from Kildimo to the Beer Garden Public House
 
 To note update on the path from Kildimo Village to the Beer Garden Public House.
 (Copy Enclosed)
@@ -124,7 +132,9 @@ and the surrounding townlands.
 we
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. Question submitted by Councillor E. O’Brien
@@ -144,4 +154,6 @@ water flowing into the Shannon estuary.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

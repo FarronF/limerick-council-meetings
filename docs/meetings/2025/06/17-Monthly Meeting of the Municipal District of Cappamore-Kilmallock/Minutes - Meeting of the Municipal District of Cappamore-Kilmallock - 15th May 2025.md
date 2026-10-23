@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-may-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 15th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -62,7 +63,9 @@ The Cathaoirleach welcomed the members of the Delegation from the Rockhill Brure
 Community Council to the Meeting. They proceeded to give a PowerPoint presentation to the
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Elected Members to update them on the changes in their area over the past ten years with
@@ -114,7 +117,9 @@ such as Habitat Quality; Recreation & Amenity; Fish Stocks; Instream Biodiversit
 helped to raise awareness of, and improve the overall quality, of the Maigue Rivers.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 They also outlined the challenges faced going forward including poor water quality; hydro
@@ -157,17 +162,19 @@ Kilfinane with a view to ensuring that they are safe and secure for tenants.
 
 Reply:
 
-There are 19 properties in Radharc Cillin, Kilfinane. Limerick City & County Council have
+There are 19 properties in Radhare Cillin, Kilfinane. Limerick City & County Council have
 commenced surveying the windows and doors for each property in the Estate and the
 servicing works will be complete in approximately. 6 weeks.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor Carey
 
-| will ask at the next Monthly Meeting of the Cappamore-Kilmallock Municipal District if
+twill ask at the next Monthly Meeting of the Cappamore-Kilmallock Municipal District if
 the Grove Estate, Bruff has been taken in charge by Limerick City & County Council or if
 there are plans to do so.
 
@@ -206,7 +213,9 @@ require major national funding which is not currently available to Limerick City
 County Council.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Cappamore-Kilmallock Municipal District Office are, however, currently assessing
@@ -238,4 +247,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
+**Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 13th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -76,7 +77,9 @@ Development Strategic Policy Committee) - 10th October 2024
 *vacant residential properties are focused on first-time buyers, owner- occupiers, older persons or*
 
 *households with changes in circumstances.*
----
+
+[[PAGE_END:1]]
+
 Notice of Motion submitted by Councillor S. Beasley – 31st January 2025
 
 *I will move at the next Meeting of the Metropolitan District of Limerick that there should be no more*
@@ -108,4 +111,6 @@ Home and Social Development Strategic Policy Committee)
 10. AOB
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:2]]
+

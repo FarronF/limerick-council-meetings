@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_20th_april_2015.pdf)
+**Original file:** [Minutes of Meeting of Metropolitan District of Limerick - 20th April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_20th_april_2015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Seconded by Councillor Byrne
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2.
 
 Disposal of Land
@@ -178,7 +181,9 @@ the needs of the city.
  It was hoped that this development would proceed in parallel with the redevelopment
 
 of Colbert Station and Hyde Road Flats and in this regard Cluid should be invited to
----
+
+[[PAGE_END:2]]
+
 attend a District Meeting to discuss same.
 
  That access to the adjacent Jackman Park be reviewed as part of the development.
@@ -268,7 +273,9 @@ and these issues did not arise in relation to grass cutting.
  The GMA had already been agreed by the Members in October 2014 and included in
 
 the budget for 2015.
----
+
+[[PAGE_END:3]]
+
 Members agreed, on the proposal of Councillor Collins and seconded by Councillor
 
 O’Hanlon, to adjourn the meeting for five minutes.
@@ -354,7 +361,9 @@ amongst others.
 Members raised the issue of private housing estates compared to council estates and
 
 the contribution Part 5 agreements had made to bridge the gap between the two types of
----
+
+[[PAGE_END:4]]
+
 estates. It was noted that the 20% allocation under Part 5 had been reduced to 10%
 
 and a view was expressed that this was a regressive step.
@@ -442,7 +451,9 @@ for these houses.
  That rent caps are set too low and people are having difficulty sourcing affordable
 
 private rented accommodation.
----
+
+[[PAGE_END:5]]
+
  That some housing applicants are seeking to be housed in particular areas only and
 
 this requirement should be challenged.
@@ -528,7 +539,9 @@ facilitated, every effort must be made to facilitate businesses.
 the question as to who will monitor these spaces.
 
  Parking is an issue in all cities and the Council should consider requiring taxis to be
----
+
+[[PAGE_END:6]]
+
 based off street in multi-storey car parks.
 
 **REPLY**:
@@ -612,7 +625,9 @@ The motion was proposed by Councillor Butler and seconded by Councillor Byrne.
 Members supported the motion and it was highlighted that part of the route referred to
 
 had previously been a pedestrian walkway, widened to accommodate a car and was too
----
+
+[[PAGE_END:7]]
+
 narrow to accommodate a bus safely. Issues were also raised with regard to the speed
 
 at which buses take the corner at Ashbrook and the visibility of ramps at that location.
@@ -694,7 +709,9 @@ The Meetings Administrator undertook to establish if there was a budget for the 
 new bins and it was clarified that any dogs rehomed from the Dog Control Centre in
 
 Mungret are micro chipped and that the number of dogs rehomed from that location had
----
+
+[[PAGE_END:8]]
+
 increased on foot of the efforts of the new kennel caretaker and the use of social media.
 
 12.
@@ -776,7 +793,9 @@ District Court.
 be reflected in the Chief Fire Officer’s report to the Licencing Court.
 
  Fire Safety Certificates apply to relevant buildings, newly built or refurbished since
----
+
+[[PAGE_END:9]]
+
 1990 under the Building Control Act.
 
 14.
@@ -838,4 +857,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

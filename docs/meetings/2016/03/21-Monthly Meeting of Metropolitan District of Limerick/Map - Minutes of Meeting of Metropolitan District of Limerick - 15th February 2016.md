@@ -16,45 +16,42 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Map%20-%20Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
+**Original file:** [Map - Minutes of Meeting of Metropolitan District of Limerick - 15th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Map%20-%20Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Ce S \ / \ a Agriculture Southem Environs LAP Boundory
-j | f ; Existing Residential
+Tal > | f \ ® — Southern Environs LAP Boundory
+f ; Existing Residential
 
-~ i | Dans { (ulte-
-ee.
+me | x | 4 ety Nou Sa TE WEN > LEGEND lag Silauttocr my ones
+j
 
-, <= _ \ M@ Residentic! Development Area
-Barna teee even : ese — ; Education & Community Foctities Limerick City Administrative Boundary
-—— Open Spoce & Recreational
-Sem+natural Open Spece Proposed Distrinutor Network (indicitive)
-
-~ @ Retoi/Commercicat
+pe —s x | _. EB Residentic! Development Area
+Pon enn ; a — Education & Community Foctities Limerick City Administrative Boundary
+5 en Open Spoce & Recreational
+Sem+notural Open Spece Proposed Distrinutor Network (indicitive)
+iy = B Retci/Commerciat
 Enterprise & Employment sass Existing & Disused Rai Lines
-
 industrial
-f | ? - Ulility ame: S$Speciol Control Arec
+2 ~-- B uiiity me: Special Control Area
+ty q Deer a. Bi National Roads
+\ : [] District Roads Distribution Network SPs. indicitive Location of Park & Ride Facilty
 
-a
-SEP Bi National Roods
-: [] District Roads Distribution Network SP. Indicitive Location of Park & Ride Facilty
 SAC/SPA
 
-Proposed Special Protection Arec eesees Ecological Buller Zone
+Proposed Special Protection Arec sees Ecological Buller Zone
 
 > Access Point (indicitive)
 
-- &.
-te
-aj ie es |
+y
+.
 
-"
-— |
+te, a
+ie 1= |
 
-WY is
+Wh) frais
 
 Zoning Map
 Ordnance Survey Iresond
@@ -62,4 +59,6 @@ CCMA Limerick County Council 2010/09
 
 
 
----
+
+[[PAGE_END:1]]
+

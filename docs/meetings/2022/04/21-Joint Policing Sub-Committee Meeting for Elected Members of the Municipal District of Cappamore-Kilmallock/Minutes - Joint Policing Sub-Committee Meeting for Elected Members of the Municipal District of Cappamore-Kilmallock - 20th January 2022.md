@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/minutes-of-january-2022-jpc-meeting.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 20th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/minutes-of-january-2022-jpc-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK
@@ -86,7 +87,9 @@ Muintir na Tire, would be available to attend the February Municipal District Me
 brief outline of the work of the Community Alert programme, to be followed up at another
 
 date by a more indepth workshop. This was agreed by the Elected Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Policing Issues in the District
@@ -248,7 +251,9 @@ Ballylanders
 197
 
 77
----
+
+[[PAGE_END:2]]
+
 3
 
 Cappamore
@@ -354,7 +359,9 @@ Councillor Egan requested clarification on the increase in antisocial behaviour,
 Bruree and Ballylanders, and requested that the Drugs officer speak with 5th and 6th years in
 
 Secondary school regarding the dangers of substance use and misuse.
----
+
+[[PAGE_END:3]]
+
 4
 
 Superintendent Reidy confirmed that Garda Mark O’Mahoney has visited all schools in the
@@ -388,4 +395,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

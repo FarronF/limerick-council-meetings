@@ -16,20 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-agenda-monthly-meeting-23-6-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-agenda-monthly-meeting-23-6-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__-_e Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh
+__-__— Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh
 
 & Contae Luimnigh Olftg an Cheantair, Aras Mhainchin Secighe.
-y 2}
+| 2}
 
-ANS ™~ Cill Mochealég,
+AN if ™~ Cill Mochealég,
 
-; Co. Luimnigh.
-— Limerick City ne
+—> Limerick City ne
 & County Council Limerick City and County Council,
 
 Aras Mainchin Seoighe Area Office,
@@ -41,38 +41,40 @@ Co. Limerick.
 EIRCODE V35 K497
 
 t: #353 (0) 63 980 19
-f; +353 (0) 63 985 99
+f; +353 (0) 63 98599
 
 18" june, 2020.
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
-held on Tuesday 23 June at 2pm in Coldiste l6saef Community College, Sheare’s St, Kilmallock,
+held on Tuesday 23 June at 2pm in Coldiste lésaef Community College, Sheare’s St, Kilmallock,
 Co. Limerick.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Kh —_—
+\) ——
 
-Mark Leahy, y,
+Mark Leahy, /
 Meetings Administrator.
 
 1. Minutes
 
 (i) To consider the adoption of Minutes of Meeting of the Municipal District of
-Cappamore-Kilmallock held on the 20" February, 2020.
+Cappamore-Kilmallock held on the 20 February, 2020.
 
 & customerservices@limerick.te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wenwlimerick.ie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wenlimerick.ie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Support Services Directorate
@@ -112,7 +114,9 @@ be installed and monitored in the Cappamore Kilmallock Municipal District to com
 illegal dumping.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -152,4 +156,6 @@ a storm overflow from the public sewer at the rear of Deebert Close,
 Kilmallock.
 
 
----
+
+[[PAGE_END:3]]
+

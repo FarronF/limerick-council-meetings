@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01d%202018-03-20%20Minutes%20Special%20Meeting%20on%20Housing%20Issues%20Municipal%20District%20of%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Special Housing Meeting of the Municipal District of Newcastle West - 20th March.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01d%202018-03-20%20Minutes%20Special%20Meeting%20on%20Housing%20Issues%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ In response, the A/Senior Engineer, stated that the funding was a consideration 
 to the replacement of storage heating. The Administrative Officer advised that it could cost
 
 between €7,000 to €12,000 to replace heating systems.
----
+
+[[PAGE_END:1]]
+
 It was acknowledged that the budget provided for housing maintenance was predominately
 
 a reactive budget and there was a need for a planned maintenance budget. With regard to
@@ -138,4 +141,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

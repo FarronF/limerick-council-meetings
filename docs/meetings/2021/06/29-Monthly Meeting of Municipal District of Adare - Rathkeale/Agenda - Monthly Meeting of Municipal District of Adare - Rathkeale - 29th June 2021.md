@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-29th-june-2021_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 29th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-29th-june-2021_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach P = Gatdesack Ath Dere-Raeh Cada
-i i ormnairle Cathwach agus Contae Luimnigh,
-a“ i" ss ree Aras Séan Finan,
+i Comhairle Cathrach ; beta Gardesack Ath Dare-Raeh Cao
+i i ornare Cathwach agus Contae Luimnigh,
+a“ ya \ ree Aras Séan Finan,
 
-. > Line Nus.
+. P Line Nus.
 
 —> Limerick City Réth Csola,
-& County Council Co. Usimnnigh.
+& County Council Co. Usimnigh.
 
 Adare-Rathkeale Municipal District,
 
@@ -53,13 +54,13 @@ Rathkeale House Hotel, Rathkeale, Co. Limerick, on Tuesday, 29" June, 2021 at 9.
 business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
-|
+}
 
 Meetings Administrator.
 
 AGENDA
 
-1. — Minutes
+1. Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 11" May,
 2021.
@@ -74,19 +75,21 @@ Development Regulations 2001 (as amended) in relation to Rathkeale Enterprise Ce
 
 (Report Enclosed).
 & customerservices@limerick.te
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 © wuwiimerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach I © wwwiimerickie
 Corporate Headquarters, Merchants Quay, Limerick. v
 
 @LimerickCouncil
 ( 061 - 886 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mid West National Road Design Office
 
-Pr Mur: s Cross to the Traffic Lights in Adare Village &
+Pr Mur, s Cross to the Traffic Lights in Adare Village &
 Proposed N20 Banogue Traffic Calming Scheme
 
 To receive an update in relation to the proposed footpath from Murphy's Cross to the
@@ -123,7 +126,9 @@ To note proposal for disposal of land as follows:
 (Reports Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -141,7 +146,7 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2021.
 
 QUESTIONS
-Q bmitted by C illor K. Sheat
+Q i bmitted by ¢ illor K. Sheat
 | will ask at the next Meeting that the Housing Section of the Council would provide us
 
 with an up to date account of the number of vacant houses in Askeaton owned by the
@@ -175,4 +180,6 @@ Askeaton be added to the conservation list of Limerick City and County Council.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

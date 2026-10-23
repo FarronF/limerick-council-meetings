@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-b-minutes-special-meeting-11th-february-2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 11th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-b-minutes-special-meeting-11th-february-2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -90,7 +91,9 @@ consultation was undertaken throughout the summer of 2021 on the Draft Developme
 adapting practices to ensure that everyone had an opportunity to get involved in the process.
 
 This included webinars, development of a virtual room, Online meetings held on Zoom, etc.
----
+
+[[PAGE_END:1]]
+
 He confirmed that the next step in the process would be the Special Meeting scheduled for
 
 Friday 18th February where the Members would consider the Draft Plan and the Chief
@@ -172,7 +175,9 @@ the process.
 After further discussions and deliberations it was agreed not to formally extend the deadline
 
 for completion to the 5th August 2022 and the Members agreed instead to continue with the
----
+
+[[PAGE_END:2]]
+
 current process, with Members retaining the option to avail of the additional 54 days for
 
 completion of the Development Plan process, as it went through the various other stages.
@@ -206,4 +211,6 @@ silence at the end of the Meeting as a mark of respect.
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Mayor**
----
+
+[[PAGE_END:3]]
+

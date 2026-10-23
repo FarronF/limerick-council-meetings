@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Meeting%20of%20Joint%20Policing%20Sub-Committee%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20October%202022.pdf)
+**Original file:** [Minutes - Meeting of Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 20th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Meeting%20of%20Joint%20Policing%20Sub-Committee%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20October%202022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK
@@ -86,7 +87,9 @@ Regarding Antisocial behaviour it was noted that 2 new Gardai would be starting 
 Kilmallock Barracks in Unit D. It was highlighted that the public should contact 999 in case of
 
 emergency rather than the local Garda Station as calls would be guaranteed to be answered.
----
+
+[[PAGE_END:1]]
+
 2
 
 This is not due to the Garda Station not being manned, but that the Gardai may be attending to
@@ -212,7 +215,9 @@ fraud bureau
 Acting Superintendent Brennan noted that the County Drug unit was now staffed with a
 
 Sergeant which should see an increase in detections.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Patrols in the area:**
@@ -340,7 +345,9 @@ these cameras are effective and showing results.
 An awareness campaign regarding the offence of parking on the footpath was put forward as a
 
 suggestion for Limerick City and County Council.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Any Other Business**
@@ -380,4 +387,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

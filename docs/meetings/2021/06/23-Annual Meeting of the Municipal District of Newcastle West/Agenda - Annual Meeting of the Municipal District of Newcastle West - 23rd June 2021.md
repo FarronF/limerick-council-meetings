@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-23-agenda-agm.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-23-agenda-agm.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a pero} Cathrach
+ae pe ereskey Cathrach
 
 ontae Luimnigh
 
-nre™ —, ————
+nZe™ —, —————
 ——— Limerick City
 
 & County Council
 
-Ditiche Bardais an Chaisleain Nua Thiar,
-Cosnhaivle Cattuach agus Contae Lulmnigh,
-Asas Wikiamn Smith O'Brien,
+Dijtiche Bardais an Chaisledin Nua Thiar,
+Cosrihaivle Cattuach agus Contae Lulmnigh,
+Asas Wikiomn Smith O'Brien,
 
 Gortbui,
 
@@ -40,8 +41,8 @@ An Caisleén Nua Thiar,
 
 Co. Lulrnnigh.
 
-Dlevscastle West Municipal District,
-Lirretick City arnd County Council,
+Dlevecastle West Municipal District,
+Lirmetick City arn) County Council,
 Aras Wittiarn Smith O'Brien,
 Gortboy,
 
@@ -63,7 +64,7 @@ on Wednesday, 23 June, 2021, at 10.00 a.m at Aras William Smith OBrien, Newcastl
 Co. Limerick, The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-argar: rbett,
+jargar: rbett,
 Meetings Administrator.
 
 AGENDA
@@ -77,11 +78,13 @@ office until the next Annual Meeting or until a successor has been elected.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
-DJ customerservicesalimerick.te
+= customerservicesalimerick.ie
 © wwwlimerickie
 
 LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

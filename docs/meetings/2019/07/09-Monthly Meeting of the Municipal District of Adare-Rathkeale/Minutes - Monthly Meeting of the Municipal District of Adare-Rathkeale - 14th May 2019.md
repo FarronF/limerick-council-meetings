@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2014th%20May%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2014th%20May%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -46,7 +47,7 @@ Councillor Teskey raised the issue of uncut grass in the District and asked the 
 for clarity on why it has not yet been cut. Councillor Keary stated hedgerows were also
 in need of cutting to ensure road users safety. The Director of Service advised Members
 a decision had been taken early in the year by the Environment Department to delay
-rass cutting to assist bee pollination and the contractor procured to carry out the grass
+§rass cutting to assist bee pollination and the contractor procured to carry out the grass
 cutting had subsequently withdrawn at the last minute which had caused further delay.
 With regard to the hedgerows the Senior Executive Engineer advised Members the
 obligation is on the landowner to ensure their hedges are cut back between September
@@ -64,7 +65,9 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-
@@ -77,7 +80,7 @@ And Resolved:
 “That the draft Minutes, as circulate, be taken as read, adopted and signed”.
 
 (c) Circulated, copy of draft Minutes of Special Meeting of the Municipal Distirct of
-Adare-Rathkeale held on 12° April, 2019.
+Adare-Rathkeale held on 12" April, 2019.
 
 Councillor Teskey requested that the Minutes of the Special Meeting of the Municipal
 District dated 12” April, 2019 be amended to read “Following discussion among
@@ -90,7 +93,7 @@ Fund monies are allocated. The Senior Executive Engineer assured Members the
 proposed Ballingarry Traffic Calming Scheme would receive full funding of €84,000, as
 discussed. This proposal was seconded by Councillor O'Donoghue”.
 
-On the proposal of Councillor Teskey, seconded by Councillor O‘Donoghue, the
+On the proposal of Councillor Teskey, seconded by Councillor O’Donoghue, the
 amendment was agreed.
 
 Proposed by Councillor Teskey;
@@ -110,7 +113,9 @@ village will be going for public consultation and any recommendations from the p
 will be taken into consideration.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Design and Delivery Services
@@ -125,7 +130,7 @@ Drainage Issues in Courtmatrix
 
 Circulated, report of the Senior Executive Engineer, Service Operations West Division
 dated 1* May, 2019 giving an update in relation to the proposals to address the drainage
-issues in Courtmatrix, The report was noted by Members.
+issues in Courtmatrix. The report was noted by Members.
 
 4. Flooding Issues in Askeaton
 
@@ -153,7 +158,9 @@ dated 1* May, 2019 giving an update in relation to the Sli na Slainte, Askeaton.
 Members welcomed the progress.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Marine Cove, Foynes
@@ -183,7 +190,7 @@ allocate the following:
 €2,000 to Road Maintenance at Tom Wilmott’s, Kilaheen.
 €1,000 to Cappagh Ladies GAA.
 
-€500 to Askeaton/Foynes Mud Rescue.
+€500 to Askeaton/Foynes Mud Rescue,
 
 €1,100 to Tree Cutting in Dromard.
 
@@ -202,11 +209,13 @@ On the proposal of Councillor Keary, seconded by Councillor O'Donoghue it was ag
 to allocate the following:
 
 @ €1,500 to Pallaskenry National School.
-* €3,000 to Driver Feedback Signs for Foynes.
+@ €3,000 to Driver Feedback Signs for Foynes.
 © €1,000 to Cappagh U14 Feilé na nOg.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 @ €2,500 to the Foynes Museum.
@@ -231,7 +240,7 @@ February, 2019:
 
 10. Meeting with Transport Infrastructure Ireland (Til)
 
-Members expressed their disappointment with the response from the TIl in relation to
+Members expressed their disappointment with the response from the TI in relation to
 numerous attempts to facilitate a meeting with all Members to discuss the
 Adare/Limerick scheme.
 
@@ -255,14 +264,16 @@ REPLY: The competition to establish a panel for General Operatives has now
 closed for applications, and a shortlisting process is underway.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
 
 12. Notice of motion received from Councillor K. Sheahan
 
-| will move at the next meeting, that this Committee call on the people of Adare-
+\ will move at the next meeting, that this Committee call on the people of Adare-
 Rathkeale Municipal District to vote no in the forthcoming plebiscites for a directly-
 elected mayor.
 
@@ -293,4 +304,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

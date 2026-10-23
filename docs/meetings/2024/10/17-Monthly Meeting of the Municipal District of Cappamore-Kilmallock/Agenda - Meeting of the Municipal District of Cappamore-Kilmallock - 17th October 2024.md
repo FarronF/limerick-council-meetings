@@ -16,34 +16,35 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-october-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-october-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
 & Contae Luimnigh
-AON ff “
+ANON ff “
 
 — Limerick City
 & County Council
 
 Comhairle Cathrach agus Contae Luimnigh,
-Oifig an Cheamtair, Aras Mhainichin Sevighe
+Oiftg an Cheantair, Aras Mhainichin Sevighe
 CW Mochealég,
 
 Co. Lulmnigh.
 
 Limerick City and County Council,
 Aras Mainchin Seoighe Area Office,
-Hibnallock,
+HKibnallock,
 
 Co. Limerick.
 
 EIRCODE V55 K¢97
 
 t: 4553 (0) 63 980 19
-11" October 20455 98599
+11" October 20455 985 99
 
 To: The Cathaoirleach and Each Member of the Municipal District of Cappamore-Kilmallock
 
@@ -63,7 +64,7 @@ Meetings Administrator.
 
 To adopt Minutes of the following Meeting:
 
-(a) Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 19"
+(a) | Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 19"
 
 September, 2024.
 
@@ -78,12 +79,14 @@ Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 & customerservicesalimerickic
-© wevrwimerickie
+© weerwlimerickie
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Property Services
@@ -120,7 +123,9 @@ Authority will CPO numbers 4, 5 and 6 Orr St., Kilmallock to bring these propert
 dereliction and back into use for housing need.”
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Notice of Motion submitted by Councillor Teefy
@@ -144,4 +149,6 @@ position with the dwelling No. $ St. Munchin's Tce. Bruree. Is it part of LCCC h
 so when will the house be put back into use .”
 
 
----
+
+[[PAGE_END:3]]
+

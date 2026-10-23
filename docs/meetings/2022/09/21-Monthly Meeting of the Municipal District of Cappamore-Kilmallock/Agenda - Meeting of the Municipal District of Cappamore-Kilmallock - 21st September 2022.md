@@ -16,36 +16,36 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Agenda%20September%2022.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Agenda%20September%2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Catnhrach Comhairle Cathrach agus Contae Luimnigh
+__——_—_— Comhairle Cathrach play tela baa divert lle ah
+, vay bv ai 5@ -
+; & Contae Luimnigh Oltg an Chearntaw, Aras ete : at .
+AN ™ | Cifl Mochealag,
+2 . Co. Luimnigh
 
-_—_ 5 Onntan Luimnigh Olig an Cheantal, Aras eee
-
-ANON 7 . “Co Luimnigh.
 — Limerick City
-
-& County Council Limerick City and County Council,
-
+& County Council Limerick City ane County Council,
 Aras Maiychin Seoighe Area Office,
 
 Kitrriallock,
-Co. Limerick.
+Co. Limernck.
 
 EIRCODE V35 K497
 
 t: 4353 (0) 63 980 19
-f. +353 (0) 63 985 99
+f: +353 (0) 63 985 99
 
-16” September 2022.
+16 September 2022.
 
 A Chomhairleoir, a chara,
 
 You are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
-Kilmallock to be held on Wednesday 21° September at 3.00pm in Deebert House, Kilmallock.
+Kilmallock to be held on Wednesday 21" September at 3.00pm In Deebert House, Kilmallock.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -69,16 +69,20 @@ Relating to the Minutes of the Municipal District Meeting of 14" July.
 Quarterly update on Housing
 
 = cus te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe sree erorartimericiie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe rey erorartamericiie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office a
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Local Authority Housing, Construction and Maintenance
@@ -93,11 +97,11 @@ To consider the Chief Executive’s Report dated 19" August 2022 and to resolve 
 
 the Kilfinane Local Area Plan 2012 — 2018 (as extended), in accordance with Section 20(3)
 of the Planning and Development Act 2000 (as amended).
-(Report attached and circulated to members on 19" August 2022)
+(Report attached and circulated to members on 19"" August 2022)
 
 6. Disposal of Property
 
-Disposal of Property to be noted by the Elected Members at :
+Disposal of Property to be noted by the Elected Members at «
 Bruff Heritage Centre, Bruff (in the form of a 10 year lease)
 Kilfrush, Hospital
 
@@ -131,7 +135,9 @@ community cemetery associations with necessary grass cutting and general mainten
 our local cemeteries.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -180,4 +186,6 @@ i will ask at the next meeting of the Cappamore Kilmallock Municipal District if
 County Council need planning permission to demolish residential buildings.
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%20JPC%20Meeting%2011%204%2019.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 11th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%20JPC%20Meeting%2011%204%2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
@@ -31,7 +32,7 @@ PRESENT IN THE CHAIR:
 
 Councillor Bill O’Donnell, An Leas Cathaoirleach.
 
-MEMBERS PRESENT;
+MEMBERS PRESENT:
 
 Councillors Donegan, Mitchell and Teefy.
 
@@ -65,7 +66,9 @@ prepared which included both local and primary Garda response units and will pro
 additional resources including staffing and a policing plan for the area.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Superintendent Sugrue confirmed to the Members that Garda John Curtin, Ballylanders and
@@ -102,4 +105,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

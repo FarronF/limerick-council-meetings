@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20May%202015.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 25th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20May%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL
@@ -86,7 +87,9 @@ one of the most professional and courteous public servants that anybody could me
 The Chief Executive added that Eugene would be an enormous loss to the
 
 organisation and would be sorely missed.
----
+
+[[PAGE_END:1]]
+
 2
 
 Mr. Griffin thanked the Members for the presentation. He stated that he had worked
@@ -166,7 +169,9 @@ amendments should read as follows:
 **“That the proposer of a Motion placed on the Clár be allowed to move**
 
 **said Motion and that the Motion be allowed to be seconded.”**
----
+
+[[PAGE_END:2]]
+
 3
 
 The Meetings Administrator stated that this part was in order and that
@@ -244,7 +249,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Byrne;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, the approval of the Council be and is hereby given to the disposal of 55
@@ -326,7 +333,9 @@ A number of Members stated that this disposal had been considered at a
 Meeting of the Metropolitan District and therefore should not require discussion at a
 
 Meeting of the Full Council.
----
+
+[[PAGE_END:4]]
+
 5
 
 At this point in the Meeting, it was agreed on the proposal of Councillor
@@ -404,7 +413,9 @@ Circulated, Chief Executive’s Reports for the months of March and April.
 The Chief Executive’s Reports for the months of March and April were noted
 
 by the Members.
----
+
+[[PAGE_END:5]]
+
 6
 
 (b)
@@ -482,7 +493,9 @@ Committee) Regulations, 2014, provided that the Audit Committee should operate i
 accordance with a written Charter adopted by the Local Authority, with or without
 
 amendment. The adoption of the Charter was now required.
----
+
+[[PAGE_END:6]]
+
 7
 
 Proposed by Councillor Leddin;
@@ -560,7 +573,9 @@ the area of lace production which would have a long-term economic benefit for
 Limerick. In reply to the query on cost, he stated that the visit by the Mayor and 1
 
 official would cost approximately €1,355.00.
----
+
+[[PAGE_END:7]]
+
 8
 
 Following further discussion on the visit, it was agreed that a vote would be
@@ -638,7 +653,9 @@ before the Full Council in early 2016 for adoption.
 Further information in relation to the Rural Development Programme and
 
 Leader Funding was provided by the Chief Officer, LCDC.
----
+
+[[PAGE_END:8]]
+
 9
 
 5.
@@ -716,7 +733,9 @@ The Director added that work was ongoing in relation to the preparation of a
 traffic management plan for Abbeyfeale.
 
 The Mayor stated that Items 5 (b) and (c) would be taken together:
----
+
+[[PAGE_END:9]]
+
 10
 
 (b)
@@ -798,7 +817,9 @@ received and these were outlined in the Chief Executive’s Reports.
 It was recommended that the variations be made as they were important
 
 documents for guiding the future development and management of the Estuary.
----
+
+[[PAGE_END:10]]
+
 11
 
 During discussion on this item, Councillor Gilligan read a letter received from
@@ -876,7 +897,9 @@ presentation under the following headings:
 • Economic Impact to the City.
 
 • Social Aspects.
----
+
+[[PAGE_END:11]]
+
 12
 
 • Marketing.
@@ -952,7 +975,9 @@ website. She added that Limerick had many wonderful visitor attractions but agai
 not one was mentioned on the website. She asked for a letter to be sent to the
 
 Minister and Fáilte Ireland asking them to include Limerick on the site and the map.
----
+
+[[PAGE_END:12]]
+
 13
 
 The Motion was seconded by Councillor Sheahan (J) and unanimously
@@ -1020,7 +1045,9 @@ And Resolved:
 hereby adopted, in accordance with Section 66 of the Local Government Act, 2001
 
 (as amended).”
----
+
+[[PAGE_END:13]]
+
 14
 
 **8**.
@@ -1132,7 +1159,9 @@ amended budget.
 The Director was seeking the approval of the Council to draw down the
 
 additional funding of €739,188 from the Housing Finance Agency. All repayments
----
+
+[[PAGE_END:14]]
+
 15
 
 made by the Council in respect of the loan from the Housing Finance Agency would
@@ -1206,7 +1235,9 @@ estates. Limerick City and County Council proposed to introduce this limit as a 
 project in a limited number of housing estates prior to a more widespread rollout of
 
 30 km/h speed limits in 2016.
----
+
+[[PAGE_END:15]]
+
 16
 
 He added that the Council proposed that a 30 km/h speed limit would be
@@ -1282,7 +1313,9 @@ Circulated, reports by Members who had participated at Conference/ Seminar/
 Meeting/Event.
 
 The reports were noted by the Members.
----
+
+[[PAGE_END:16]]
+
 17
 
 Change of Date for July Meeting of Council
@@ -1366,7 +1399,9 @@ Question submitted by Councillor J. Scanlan
 ***to HAP; (c) if not, how many have moved; and (d) what is the current wait time***
 
 ***between validation of applications and assessment.***
----
+
+[[PAGE_END:17]]
+
 18
 
 REPLY:
@@ -1446,7 +1481,9 @@ Councillor Prendiville said that while he welcomed and supported the Motion,
 he was proposing the following amendment and this was seconded by Councillor
 
 Loftus:
----
+
+[[PAGE_END:18]]
+
 19
 
 **”I will move at the next Meeting that Limerick City and County Council**
@@ -1526,7 +1563,9 @@ referred to 1916/2016 Commemoration Committee)
 ***place of Con Colbert which reflects the significant role he played in the 1916***
 
 ***Rising.***
----
+
+[[PAGE_END:19]]
+
 20
 
 It was agreed to refer this Motion to the 1916/2016 Commemoration
@@ -1610,7 +1649,9 @@ The names of the Senior Employees of the Local Authority
 present at the Meeting.
 
 (d) Reference to any report submitted to the Members at the Meeting.
----
+
+[[PAGE_END:20]]
+
 21
 
 (e) Where there is a roll-call vote, the number and names of
@@ -1684,7 +1725,9 @@ A number of Members objected to the Motion.
 In the absence of agreement on the Motion, the Deputy Mayor instructed that
 
 a Vote be taken in relation to Councillor Prendiville’s Motion.
----
+
+[[PAGE_END:21]]
+
 22
 
 The result of the voting was as follows:
@@ -1736,7 +1779,9 @@ CHIEF EXECUTIVE’S ORDERS:
 The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 was available for inspection by the Members.
----
+
+[[PAGE_END:22]]
+
 23
 
 PLANNING AND DEVELOPMENT:
@@ -1754,4 +1799,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:23]]
+

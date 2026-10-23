@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-25th-june-2026.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 25th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-25th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -60,4 +61,6 @@ rent for emergency accommodation to be reduced to new rates based on individual
 circumstances.
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-september-2025.pdf)
+**Original file:** [Agenda - Meeting of The Metropolitan District of Limerick - 15th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-september-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-- ——“é Comhairle Cathrach
+pc Comhairle Cathrach
 & Contae Luimnigh
 AN NS
 — Limerick City
@@ -31,7 +32,7 @@ AN NS
 
 A Chomhairleoir, a chara,
 
-Serbdnisi Corpardiceacha,
+Serbnisi Corpardiceacha,
 
 Comhairle Cathwach agus Contae Luimnigh,
 Ceanncheathni Chorparaideach,
@@ -48,10 +49,10 @@ Merchants Quay,
 
 Lirrerick
 
-EIRCODE V4 EH9O0
+EIRCODE V4 EH9O
 
 t +353 (0) 61 557150
-f: +353 (0) 61415 266
+f: +353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
 Monday, 15" September, 2025 at 9.45am in the Council Chamber, Merchant’s Quay, Limerick
@@ -62,7 +63,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-detir CAebey .
+det. Covey .
 Aedin Foley,
 Meetings Administrator.
 
@@ -78,7 +79,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Declaration of Interest**
@@ -136,7 +139,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 been issued and paid in 2024 and 2025 across all bring sites since the CCTV cameras have
 
 been installed.
----
+
+[[PAGE_END:2]]
+
 3
 
 **9.Question submitted by Councillor J. Leddin**
@@ -198,7 +203,9 @@ I will ask at the next meeting of the Metropolitan District of Limerick for an u
 Rathkeale-Adare-Patrickswell-Limerick Greenway and an indicative timeline be provided for
 
 each phase of the project.
----
+
+[[PAGE_END:3]]
+
 4
 
 **17.Question submitted by Councillor D. McSweeney**
@@ -262,7 +269,9 @@ the former Mary Street Garda Station, to include: costs incurred since the Secti
 was approved by elected members; projected costs to be incurred during the 2025 & 2026
 
 financial years; and any engineering reports completed for the building.
----
+
+[[PAGE_END:4]]
+
 5
 
 **24.Question submitted by Councillor S. Hickey-O’Mara**
@@ -326,7 +335,9 @@ Estate so as to prevent persistent illegal encampment along both sides of this r
 I will move at the next Meeting of the Metropolitan District of Limerick that a map be
 
 developed to show the locations of public toilets in the city centre.
----
+
+[[PAGE_END:5]]
+
 6
 
 **31.Notice of Motion submitted by Councillor J. Leddin**
@@ -390,7 +401,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 to the Minister of Education, urging that from 2026 onwards, school emblems be made
 
 available for purchase independently of full school uniforms.
----
+
+[[PAGE_END:6]]
+
 7
 
 **38.Notice of Motion submitted by Councillor E. O’Donovan**
@@ -458,4 +471,6 @@ route.
 **45.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:7]]
+

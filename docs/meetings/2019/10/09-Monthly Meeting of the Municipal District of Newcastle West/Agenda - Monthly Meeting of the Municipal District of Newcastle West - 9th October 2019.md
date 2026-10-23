@@ -16,32 +16,33 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00-2019-10-09-Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 9th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00-2019-10-09-Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_— Comhairle Cathrach
+_ Comhairle Cathrach
 & Contae Luimnigh
- ———
+a
 
 ==> Limerick City
 & County Council
 
 4" October, 2019
 
-Duiiche Bardiis an Chaislodin Nua Thiar,
-Combhuirie Cathrach agus Contae Luimnigh,
+Duliche Bardiis an Chaislodin Nua Thiar,
+Combhuirle Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
-Gortbuil,
+Gortbal,
 
 An Caislean Nua Thiar,
 
 Co. Luirinigh.
 
 Newcastle West Municipal District,
-Umierieck City and County Council,
+Umieriek City and County Council,
 Aras William Smith O'Brien,
 Gontboy.
 
@@ -99,7 +100,9 @@ Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Housing Development Directorate
@@ -118,10 +121,10 @@ To review position in relation to allocations under the General Municipal Alloca
 ESTION
 Questions submitted by Councillor L. Galvin
 
-twill ask at the next Meeting for a detailed report on the Programme of Works that
+| will ask at the next Meeting for a detailed report on the Programme of Works that
 are required for Knight’s Court, Newcastle West to include the following:
 
-(i) Please present plans for the works (ii) start and finish dates for the works (iii) how
+(i) Please present plans for the works (ii) start and finish dates for the works (ili) how
 much are the works costing (iv) was the bond called in (v) how much was the bond.
 
 | will ask at the next Meeting (a) how many hedge cutting notices are sent out to
@@ -142,18 +145,20 @@ all active Local Authority cemeteries within the Newcastle West Municipal Distri
 | will ask at the next Meeting when works to repair the main road fronting the
 Churchview estate in Castlemahon will be carried out.
 
-i will ask at the next Meeting when road hatching will be undertaken along the R522
+| will ask at the next Meeting when road hatching will be undertaken along the R522
 from the Woodfield estates Newcastle West towards the Bridge of Tears roundabout
 as well as at the Rathnaneane junction with the N21.
 
 Questions submitted by Councillor T. Ruddle
 
-! will ask at the next Meeting when will the Council consider the taking in charge of
+twill ask at the next Meeting when will the Council consider the taking in charge of
 the following estates in Newcastle West, the remainder of the Daar River Walk estate
 and all of the Daar River View estate.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -181,4 +186,6 @@ I will move at the next Meeting that a bin service be provided at St. Mary's Gra
 Abbeyfeale.
 
 
----
+
+[[PAGE_END:3]]
+

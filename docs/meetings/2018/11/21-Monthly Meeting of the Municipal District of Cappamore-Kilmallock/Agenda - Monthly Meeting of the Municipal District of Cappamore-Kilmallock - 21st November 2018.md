@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20Agenda%20Nov%202018%20Capp%20Kil%20MD%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20Agenda%20Nov%202018%20Capp%20Kil%20MD%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+il Comhairle Cathrach
 = & Contae Luimnigh
 oo — Limerick Cit
 merick City
@@ -44,7 +45,7 @@ November, at 3.30 p.m. The business to be transacted is set out on the appended 
 
 Is mise le meas,
 
-LA lacks
+LA Lacks
 
 Mark Leahy
 Meetings Administrator.
@@ -61,7 +62,9 @@ Cappamore-Kilmallock held on the 18th October, 2018.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
@@ -86,4 +89,6 @@ Non-National Roads.
 (Report and Copy of Draft Bye-Laws enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

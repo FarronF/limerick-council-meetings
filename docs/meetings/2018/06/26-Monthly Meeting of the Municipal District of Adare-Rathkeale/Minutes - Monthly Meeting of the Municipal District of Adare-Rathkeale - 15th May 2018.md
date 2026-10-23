@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28b%29%20Minutes%2015th%20May%2C%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 15th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28b%29%20Minutes%2015th%20May%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SÉAN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -80,7 +81,9 @@ areas of the District due to fear of recrimination from the individuals involved
 The Superintendent acknowledged the issues raised by Members and responded to each
 
 of their concerns.
----
+
+[[PAGE_END:1]]
+
  Drug use is on the increase due to more disposable income being available. The
 
 Gardaí have a limited capacity to investigate in Newcastle West District, however,
@@ -156,7 +159,9 @@ footage to use as evidence for criminal investigations.
  Data is retained for 30 days, if an investigation is pending the data can then be
 
 downloaded by the Gardai.
----
+
+[[PAGE_END:2]]
+
  The CCTV is commissioned under the Garda Siochana Act. The Head of Digital
 
 Strategy informed Members they are currently waiting on legal advise as regards
@@ -190,4 +195,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

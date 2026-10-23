@@ -16,19 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%202017-07-12%20Agenda%20July%20Meeting.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 12th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%202017-07-12%20Agenda%20July%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seirbhisi Corpardiieacha,
 Comhairte Cathrach agus Contae Luimnigh,
 
 ONE : Ceanncheathni Chorpardideach.
 = Cé na gCeannaithe,
 COMHAIRLE =
 CATHRACH & CONTAE ae
-ry r rporate :
+ry r rporate ;
 Luimnigh Limerick City and County Counc
 . - Corporate Headquarters,
 Limerick Merchants Quay,
@@ -39,7 +39,7 @@ EIRCODE V94 EH90
 
 th
 
-m™ July, 2017. t: +353 (0) 61 407 100
+™ July, 2017. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
@@ -76,14 +76,16 @@ To consider the Review of TLC 3 and receive update on Limerick Going for Gold 20
 (b) Community Support Services
 
 To receive presentation on Housing Loan Application process.
-& customerservices@limericiie
- wenimerick.te
+& customerservices@limericivie
+ wondimerick.te
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -114,8 +116,7 @@ To consider approving recommended grants under Communities Facilities Scheme.
 
 (Report to follow)
 
-1 ipal All i GMA
-
+! ipal All i GMA
 To review position in relation to allocations under the General Municipal Allocation.
 
 QUESTIONS
@@ -140,7 +141,9 @@ Street, Dromcollogher.
 Store and the Old Hall at Castlemahon Village.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -159,4 +162,6 @@ prospective tenants take up residence upon local authority houses being allocate
 within this area.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -82,7 +82,7 @@ Screening for Appropriate Assessment (AA) Determination  for the Draft Limerick
 
 Screening for Strategic Environmental Assessment (SEA) Determination for the Draft Limerick City and County Council Tourism Plan 2025-2030.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/screening-for-strategic-environmental-assessment-sea-determination-for-the-draft-limerick-city-and-county-council-tourism-plan-2025-2030.pdf) - Text not extracted
 
-Reports on Conference_ Seminar_ Meeting_ Event.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/councillors-report-on-conference-which-they-attended.pdf) - Text not extracted
+Reports on Conference/ Seminar/ Meeting/ Event.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/councillors-report-on-conference-which-they-attended.pdf) - Text not extracted
 
 Correspondence - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/correspondence-full-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf) - Text not extracted
 

@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 25th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
-—_— Comhairle Cathrach agus Contae Luimnigh,
+—_—_— Comhairle Cathrach agus Contae Luimnigh,
 
-AN ™ Cé na gCeannaithe,
+AN ff ™ Cé na gCeannaithe,
 —=— Luimneach
 Limerick Corporate Services and Change Management,
 Umerick City and County Council,
 
-CITY & COUNTY ney Core
-COUNCIL ee
+CITY & COUNTY a Core
+COUNCIL aaa
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -49,7 +50,7 @@ Agenda.
 
 Is mise le meas,
 
-Las. Kas p
+Los. Kas 0
 Tina Knox,
 Meetings Administrator.
 
@@ -61,9 +62,11 @@ until the next Annual Meeting or until a successor has been elected.
 2: To elect a Leas-Chathaoirleach of the Municipal District of Cappamore-Kilmallock to hold
 office until the next Annual Meeting or until a successor has been elected.
 
-jcustomerservices@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, oo wer limericicte
-Corporate Headquarters, Merchants Quay, Limerick w @LtmerickCouncil
+j@customerservices@limerick.te
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, weer limericicte
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

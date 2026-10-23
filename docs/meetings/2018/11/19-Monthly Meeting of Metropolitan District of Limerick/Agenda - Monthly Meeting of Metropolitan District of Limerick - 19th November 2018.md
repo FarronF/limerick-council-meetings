@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%2019th%20November%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%2019th%20November%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 aAr™ _——
 — Limerick City
@@ -29,14 +30,14 @@ aAr™ _——
 
 14" November, 2018.
 
-To: _ The Mayoran h Member of the Metropolitan Distri
+To: |The Mayoran h Member of the Metropolitan Distri
 
 A Chomhairleoir, a chara,
 
-Serbhisi Corparaideacha,
+Se®bhisi Corparaideacha,
 
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathri Chorpardideach,
+Comhairie Cathrach agus Contae Luimnigh,
+Ceanncheathrii Chorpardideach,
 
 Cé na gCearnaithe,
 
@@ -57,7 +58,7 @@ erick f: +353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant's Quay, Limerick on Monday, 19"" November, 2018 at 9.45 a.m. The
+Council Chamber, Merchant's Quay, Limerick on Monday, 19'" November, 2018 at 9.45 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 
@@ -67,7 +68,7 @@ We,
 
 Jalyies Clune,
 Meetings Administrator.
-we
+aw
 
 AGENDA
 
@@ -75,7 +76,7 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Meeting of the Metropolitan District of Limerick held on 15" October, 2018.
+(a) Meeting of the Metropolitan District of Limerick held on 15'" October, 2018.
 (b) Draft Budgetary Plan Meeting of the Metropolitan District of Limerick held on
 
 15" October, 2018.
@@ -99,7 +100,9 @@ w @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -146,7 +149,9 @@ Could you please now provide a breakdown of the development levies included in t
 amount for Limerick City and outline how much of this figure will be recovered.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -197,12 +202,14 @@ Limerick of all vegetation and repair same to recognised standards.
 
 Notice of Motion submitted by Councillor J. Loftus
 
-I will move at the next meeting that Limerick City and County Council call on the Government,
+| will move at the next meeting that Limerick City and County Council call on the Government,
 to give back control and operation of all water services to City and County Councils
 throughout the State.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -210,7 +217,7 @@ throughout the State.
 15. Notice of Motion submitted by Councillor M. Hurley
 
 | will move at the November meeting of the Metropolitan District that this Local Authority
-participates in the WiFi4—Eu Scheme to promote access to wireless connectivity in public
+participates in the WiFi4Eu Scheme to promote access to wireless connectivity in public
 places between 2018 and 2020, commencing with this District.
 
 16. Notice of Motion submitted by Councillor E. Hogan (to be referred to the Environment SPC)
@@ -222,4 +229,6 @@ throughout the City for recycling plastic bottles.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

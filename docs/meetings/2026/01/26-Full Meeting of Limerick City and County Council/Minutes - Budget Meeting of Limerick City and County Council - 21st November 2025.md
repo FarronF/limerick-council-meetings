@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-budget-meeting-of-limerick-city-and-county-council-21st-november-2025.pdf)
+**Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 21st November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-budget-meeting-of-limerick-city-and-county-council-21st-november-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -92,7 +93,9 @@ In recommending the Budget to the Council for consideration, the Mayor outlined 
 achievements from 2025, including delivery of a budget of almost €1bn, progress on housing,
 
 dereliction reduction, and major regeneration projects. He noted that Limerick’s reputation
----
+
+[[PAGE_END:1]]
+
 2
 
 has improved both nationally and internationally, highlighting awards for active travel and
@@ -170,7 +173,9 @@ following amendment:
 a) Amend the Small and Medium Business Support Scheme with the effect of capping
 
 the impact of the Commercial Rates increase by providing additional relief of an
----
+
+[[PAGE_END:2]]
+
 3
 
 additional 2.5% on business with a annual rates amount up to €32,000, subject to a
@@ -246,7 +251,9 @@ statutory compliance with a number of steps, which can be summarised as follows:
 ***Step 1*** ***–*** ***Preparation and publishing of Mayoral Programme.*** The Mayoral Programme was
 
 prepared and published on 14th October 2024, as set out in Section 31 of the Local
----
+
+[[PAGE_END:3]]
+
 4
 
 Government (Mayor of Limerick) and Miscellaneous Provisions Act 2024. The Mayoral
@@ -324,7 +331,9 @@ At the Statutory Budget Meeting, the Members will be asked to make the following
 Retail Economic Incentive Scheme)
 
 **Budget 2026 Context**
----
+
+[[PAGE_END:4]]
+
 5
 
 The draft Annual Budget for 2026 has been prepared in very difficult circumstances for
@@ -406,7 +415,9 @@ review the delivery against representations made by councillors and to reduce th
 time houses are in a void state.
 
 (b) Public Realm
----
+
+[[PAGE_END:5]]
+
 6
 
 This Budget will enable a renewed focus on better coordination of services responsible for
@@ -480,7 +491,9 @@ identified in the mayoral programme or to help small and local businesses.
 To fund increasing demand, rising costs, and fund significant payments coming due in 2026,
 
 based on discussions with officials, I am recommending difficult decisions this year.
----
+
+[[PAGE_END:6]]
+
 7
 
 The most significant is to increase the Commercial Rate level by 6% (with protection for
@@ -556,7 +569,9 @@ market has reaped the benefits from this higher level of activity, with employme
 by 1.3 per cent over the same period. Indeed, the employment rate – the share of the working
 
 age population in employment – remains at near record highs in the second quarter.
----
+
+[[PAGE_END:7]]
+
 8
 
 Relative to the Department’s spring forecasts, two key policy changes – working in opposite
@@ -640,7 +655,9 @@ expansions in the post-pandemic period, increasing by 21 and 25 per cent respect
 Q4 2019 as per Central Statistics Office data. The growth rate in Dublin was just under 17 per
 
 cent for the same period.
----
+
+[[PAGE_END:8]]
+
 9
 
 ***Inflation:*** The annual rate of inflation has stabilised at around 2 per cent in the first eight
@@ -830,7 +847,9 @@ success. The programme also introduces innovative governance structures, creatin
 delivery framework across local government and in partnership with private sector and
 
 community stakeholders’ involvement.
----
+
+[[PAGE_END:9]]
+
 10
 
 Key to this approach will be the alignment of the Mayoral Programme with Limerick City and
@@ -920,7 +939,9 @@ Europride Support Delivery (F0505)
 **Table 2: Mayoral Fund 2026 assumed Revenue allocation**
 
 **Budget Strategy & Objectives**
----
+
+[[PAGE_END:10]]
+
 11
 
 The Draft Budget has been prepared on the principle of a “balanced budget” based on the
@@ -940,7 +961,9 @@ Limerick) and Miscellaneous Provisions Act 2024, the Draft Budget is required to
 expenditure necessary to carry out the functions of the Council and the income estimated to
 
 accrue to the Council.
----
+
+[[PAGE_END:11]]
+
 12
 
 ***The key objectives of the 2026 Revenue Budget are set out below:***
@@ -1012,7 +1035,9 @@ Framework (NPF) and the development of Regional, Spatial Economic Strategy (RSES
 Metropolitan Area Strategic Plan (MASP) and Strategies key partners and the Southern
 
 Regional Assembly.
----
+
+[[PAGE_END:12]]
+
 13
 
 ***The key objectives of the 2025 Revenue Budget are set out below:***
@@ -1170,7 +1195,9 @@ and Adare Heritage.
 • Enhanced Support for our key existing and compelling new festivals and events including
 
 preliminary Ryder Cup plans.
----
+
+[[PAGE_END:13]]
+
 14
 
 • Continue to maintain and market the 40km Limerick Greenway from Rathkeale to the Kerry
@@ -1238,7 +1265,9 @@ attractive and well presented as Limerick’s main commercial and cultural area.
 • Work closely with local businesses, residents, and community groups to keep the city centre
 
 clean, vibrant, and well managed throughout 2026.
----
+
+[[PAGE_END:14]]
+
 15
 
 **Directly Elected Mayor (DEM) with Executive powers**
@@ -1264,7 +1293,9 @@ informed decision-making, and progressively expanding data availability to elect
 reflecting the Council’s commitment to greater transparency and shared situational awareness
 
 across governance structures.
----
+
+[[PAGE_END:15]]
+
 16
 
 **Outturn 2025**
@@ -1370,7 +1401,9 @@ H - Misc Services
 **€923,944,217**
 
 **Table 3: Analysis of Expenditure by Division**
----
+
+[[PAGE_END:16]]
+
 17
 
 The following chart gives a breakdown of expenditure by each division.
@@ -1526,7 +1559,9 @@ Division, with comparative figures for 2025:
 **Analysis of Expenditure by Division**
 
 **(Excl HAP)**
----
+
+[[PAGE_END:17]]
+
 18
 
 **Analysis of Income 2026**
@@ -1610,7 +1645,9 @@ The following Pie chart highlights the % split by income category excluding HAP.
 **20%**
 
 **Analysis of Income (excluding HAP)**
----
+
+[[PAGE_END:18]]
+
 19
 
 51% of the Council's income (excluding HAP) is now generated locally through Commercial
@@ -1708,7 +1745,9 @@ Budget 2025).
 **Draft Budget 2026 €'m**
 
 **Adopted Budget 2025 €'m**
----
+
+[[PAGE_END:19]]
+
 20
 
 **Grants and Subsidies Income**
@@ -1786,7 +1825,9 @@ Rate by a maximum increase or decrease of 15%. On 26th August 2025, the Council 
 to adjust the LPT rate upwards by 15% for 2026 equating to an increase of €2,536,796
 
 (compared to €2,351,468 in 2025, an increase of €185,328).
----
+
+[[PAGE_END:20]]
+
 21
 
 The total revised LPT allocation for 2026 is €22,691,260 (compared to €21,405,932 in 2025,
@@ -1874,7 +1915,9 @@ to percentage adopted in 2025.
 Separately the Council will be asked to consider the adoption of the **Vacant Property Refund**
 
 **Scheme 2026** to encourage the beneficial use of previously vacant commercial property in
----
+
+[[PAGE_END:21]]
+
 22
 
 accordance with Section 66 of the Local Government Act, 2001, as amended by Section 43 of
@@ -1960,7 +2003,9 @@ availability of HAP enables all Local Authorities to provide housing support to 
 households with a long-term housing need, including many long-term Rent Supplement
 
 recipients.
----
+
+[[PAGE_END:22]]
+
 23
 
 The HAPSSC will administer circa 7,000 new tenancies in 2026 and process in excess of €605
@@ -2020,7 +2065,9 @@ councillor (parity) over the coming years in how GMA is allocated across the fou
 metropolitan areas, with overall GMA funding linked to Local Property tax increases, any
 
 Commercial Rates increase, and contribution from revenue budget process.
----
+
+[[PAGE_END:23]]
+
 24
 
 **Area**
@@ -2184,7 +2231,9 @@ is subject to Departmental approval.
 67
 
 **Table 7: Summary Capital Plan 2026-2030**
----
+
+[[PAGE_END:24]]
+
 25
 
 **Chart 6** profiles the Capital Expenditure for each of the five years:
@@ -2258,7 +2307,9 @@ access to clearer, more-timely, and better-linked information to support effecti
 **Capital Expenditure 2026-2030 by Year**
 
 **€'m**
----
+
+[[PAGE_END:25]]
+
 26
 
 making, oversight, and accountability. The Council is moving in the right direction by building
@@ -2334,7 +2385,9 @@ The Director of Service, Finance, Economic Development, Digital and ICT Services
 that the €280,000 required to increase the Small and Medium Business Support Scheme was
 
 proposed to be funded from changes to the vacant property scheme and hedge cutting grant.
----
+
+[[PAGE_END:26]]
+
 27
 
 It was agreed, on the proposal of Councillor Sheahan, seconded by Councillor Teefy to take
@@ -2408,7 +2461,9 @@ into alignment,
 An increase of €80,000 for burial ground improvements, with the additional amount
 
 of €80,000 ring-fenced specifically for Burial Ground maintenance.
----
+
+[[PAGE_END:27]]
+
 28
 
 **Councillor Collins (M)**
@@ -2484,7 +2539,9 @@ December, 2026, in accordance with section 3 of the Local Government Rates and O
 Matters Act 2019 as amended and Local Government (Mayor of Limerick) and Miscellaneous
 
 Provision Act 2024.
----
+
+[[PAGE_END:28]]
+
 29
 
 **AND THAT,** in accordance with Section 135 of the Local Government Act 2001, as amended
@@ -2570,7 +2627,9 @@ following parameters:
 Section 66 of the Local Government Act, 2001, as amended by Section 43 of the Local
 
 Government Reform Act, 2014 and Local Government (Mayor of Limerick) and Miscellaneous
----
+
+[[PAGE_END:29]]
+
 30
 
 Provision Act 2024, is adopted as circulated without amendment. (Item 7 on the Meeting
@@ -2662,7 +2721,9 @@ thanked the Mayor, Director General, the Management team and staff for their wor
 preparing the budget. He welcomed the engagement with the Elected Members and stated
 
 that he considered the concerns raised by the Members were addressed during the Budget
----
+
+[[PAGE_END:30]]
+
 31
 
 process. Councillor Hartigan (S) highlighted housing as the top priority for 2026 and
@@ -2684,4 +2745,6 @@ Signed:
 **Príomh Chomhairleoir**
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:31]]
+

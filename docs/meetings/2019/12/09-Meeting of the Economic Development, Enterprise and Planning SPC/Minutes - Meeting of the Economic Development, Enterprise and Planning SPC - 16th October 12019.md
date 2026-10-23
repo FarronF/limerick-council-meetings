@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes%20of%20SPC%20%2016th%20Oct%202019.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 16th October 12019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes%20of%20SPC%20%2016th%20Oct%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT INAUGURAL MEETING OF THE ECONOMIC**
 
 **DEVELOPMENT,**
@@ -98,7 +99,9 @@ necessary, and the quorum required for meetings was 8 members.
 On the proposition of Cllr. Ryan, seconded by Cllr. Collins, it was unanimously
 
 agreed to adopt the Draft Standing Orders.
----
+
+[[PAGE_END:1]]
+
 .
 
 **Item 2**
@@ -182,7 +185,9 @@ final RSES.
  Prematurity of South Clare SDZ pending development of city centre –
 
 amendments to proposed SDZ not carried.
----
+
+[[PAGE_END:2]]
+
  MASP fails to set out a clear strategic and co-ordinated approach for the future
 
 growth, development and investment of the Metropolitan Area – to be amended.
@@ -258,7 +263,9 @@ in developing a masterplan for the areas, with the purpose of increasing employm
 and residential in the city centre. She stated that the local authority would not have
 
 the financial resources itself to carry out such a masterplan.
----
+
+[[PAGE_END:3]]
+
 V. Murray informed members that board members from the Land Development
 
 Agency will be convening a meeting in Limerick in the next few weeks to look at
@@ -280,4 +287,6 @@ That concluded the business of the meeting.
 **Councillor Stephen Keary**
 
 **Deputy Chairperson**
----
+
+[[PAGE_END:4]]
+

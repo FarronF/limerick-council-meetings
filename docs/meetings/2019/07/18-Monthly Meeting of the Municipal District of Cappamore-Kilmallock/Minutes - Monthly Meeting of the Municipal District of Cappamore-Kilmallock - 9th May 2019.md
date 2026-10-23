@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/02%20Minutes%20MD%20Monthly%20Meeting%209th%20May%20%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 9th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/02%20Minutes%20MD%20Monthly%20Meeting%209th%20May%20%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -62,7 +63,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Service Operations Directorate
@@ -72,7 +75,7 @@ survey in Kilfinane.
 
 The Executive Engineer, Cappamore-Kilmallock gave a presentation to the Elected Members
 on the traffic counters survey that was completed recently in Kilfinane along the route past
-Scoil Pl School and Blackrock GAA club, as well as along Chapel St, Kilfinane.
+Scoil Pd! School and Blackrock GAA club, as well as along Chapel St, Kilfinane.
 
 The Elected Members thanked the Executive Engineer for his presentation. There was a
 general discussion about the issue of traffic speed and traffic management in the areas
@@ -84,7 +87,7 @@ required to address traffic calming measures in the area.
 
 The Executive Engineer, Cappamore-Kilmallock confirmed to the Elected Members that a
 follow up traffic counter survey would take place at the same location after school
-development works were completed at Scoil Pd! School.
+development works were completed at Scoil P64! School.
 
 (b) Disposal of Property
 
@@ -104,7 +107,9 @@ the completion of the East Walkway, which comprises 728 metres from the “Circu
 North Bridge along the bank of the Loobagh River beside Colaiste lésaef.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She explained that following a competition run locally to name the walk, that the name “The
@@ -122,7 +127,7 @@ Seconded by Councillor Sheehy.
 And Resolved:
 
 “That the Walkway from the “Circus Field” at North Bridge along the bank of the
-Loobagh River beside Coldiste l6saef be named “The Priory Walk”.
+Loobagh River beside Coldiste ldsaef be named “The Priory Walk”.
 
 4. Housing Development Directorate
 
@@ -149,13 +154,15 @@ At the conclusion of the Agenda and with the permission of the Cathaoirleach, th
 items were raised:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e Pro Meeting with Transport Inf rel
 
 The Elected Members asked for an update on this proposed meeting and the Director,
-Service Operations confirmed that the delegation to meet the Tl had not been confirmed so
+Service Operations confirmed that the delegation to meet the TIl had not been confirmed so
 the meeting had not yet taken place.
 
 * Speed Limit Review
@@ -190,4 +197,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:4]]
+

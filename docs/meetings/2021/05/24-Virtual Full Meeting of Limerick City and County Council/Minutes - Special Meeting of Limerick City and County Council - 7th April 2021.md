@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-c-draft-minutes-special-meeting-07.04.2021.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 7th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-c-draft-minutes-special-meeting-07.04.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON WEDNESDAY, 7TH APRIL, 2021, AT
@@ -90,7 +91,9 @@ enabling remote working, e-health initiatives, online education and job creation
 stated that access to services was vital and would be a key enabler for the sustainment of
 
 local businesses and communities.
----
+
+[[PAGE_END:1]]
+
 2
 
 Mr. Hanrahan gave an update on the Broadband Programme in Limerick confirming that
@@ -160,7 +163,9 @@ City and County. Mr. Hanrahan agreed to revert to Members with details.
 Mr. Hanrahan noted the comments expressed by Members and emphasised the importance
 
 of the National Broadband Plan to ensure connectivity to every household.
----
+
+[[PAGE_END:2]]
+
 3
 
 **2.Economic Development Directorate**
@@ -216,4 +221,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

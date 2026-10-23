@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Item%201%20Minutes%20of%2019th%20Feb%202018.pdf)
+**Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 19th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Item%201%20Minutes%20of%2019th%20Feb%202018.pdf)
 
----
+[[FILE_START]]
+
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
 was held in Council Chamber, Limerick City and County Council, Dooradoyle, Limerick on
@@ -94,7 +95,9 @@ and that “accessibility for all” will now be embedded in all policy document
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
----
+
+[[PAGE_END:1]]
+
 **Item 3:**
 
 **Presentation by Dr. Eileen Humphreys, Limerick City and County Council.**
@@ -168,4 +171,6 @@ Minutes Proposed By:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

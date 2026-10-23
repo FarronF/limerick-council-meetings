@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01a%20Minutes%2019th%20November%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01a%20Minutes%2019th%20November%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 19TH** **NOVEMBER, 2018**
@@ -90,7 +91,9 @@ Seconded by Councillor Lynch;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 (a)
@@ -168,7 +171,9 @@ Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
 Figures up to 31/10/2018 regarding Rebuilding Ireland Homeloan since
 
 introduction of the scheme in February 2018 for all of Limerick City and County.
----
+
+[[PAGE_END:2]]
+
 3
 
 1.
@@ -262,7 +267,9 @@ best accounting practice.
 The Council pursues outstanding contributions through continuous active debt
 
 management.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -346,7 +353,9 @@ as follows:
 Most casual vacancies require minor works which are undertaken on an on-going
 
 basis by our Housing Maintenance staff.
----
+
+[[PAGE_END:4]]
+
 5
 
 At present 33 properties in the Metropolitan area have been approved for Voids
@@ -462,7 +471,9 @@ of additional homes.
 It is the intention of Limerick City and County Council to submit additional properties for Voids
 
 funding.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICES OF MOTION**
@@ -534,7 +545,9 @@ works at the Linear Park. Ms Donoghue assured the Members that the City Walls ar
 as an integral and unique part of the City’s heritage and it is the intention of all departments to
 
 maintain and care for them subject to funding.
----
+
+[[PAGE_END:6]]
+
 7
 
 The Acting Senior Executive Officer agreed with the Members in respect of enhancing and
@@ -604,7 +617,9 @@ public spaces within the municipality that are not already equipped with a free 
 The call for applications was launched on November 7th. The Council has applied through our ICT
 
 Department for 4 vouchers under the WiFi4EU scheme, one for each metro/municipal council.
----
+
+[[PAGE_END:7]]
+
 8
 
 Mr Bilauca suggested that the installation of Public WiFi will be prioritised based on two criteria:
@@ -660,4 +675,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

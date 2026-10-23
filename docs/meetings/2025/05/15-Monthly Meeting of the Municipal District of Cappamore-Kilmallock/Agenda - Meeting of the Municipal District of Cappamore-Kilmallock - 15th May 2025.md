@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 15th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-P ; Oifig an Cheantair, Aras Mhainchin Seoighe,
+‘ ; Oifig an Cheantair, Aras Mhainchin Seoighe,
 
 oo & Contae Luimnigh ill Mochealog
 
-~ ‘ ay Co, Luimmnigh
-— — Limerick City _
+~ ‘ aay Co, Luimmnigh
+= — Limerick City _
 
 & County Council Limerick City and County Council,
 
 Aras Mainchin Seoighe Area Office
 
-Milmatock,
+Kilmatiock,
 
 Co. Limerick,
 
@@ -52,11 +53,11 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be held
 in the Municipal District Office, Aras Mainchin Seoighe, Kilmallock, Co. Limerick and On-Line on
 
-ad r The business to be transacted is set out on the appended
+hal . The business to be transacted is set out on the appended
 Agenda.
 Is mise le meas,
-1)
-Wheels
+1}
+Weal
 Mark ay,
 Meetings Administrator.
 AGENDA
@@ -69,14 +70,16 @@ To adopt Minutes of the following Meeting:
 April, 2025.
 (Copy enclosed)
 2. Declaration of Interest
-= customerservices@limerick.ie
-pe ar cpa mr enraged ca © wwwilimerickie
+& customerservices@limerick.ie
+pe ence rr enraged ca © wwwilimerickie
 Limerick City and County Council, Aras Mainchin Seoighe Area v
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Deputation
@@ -126,4 +129,6 @@ recommended in the Bruff Public Realm Plan.
 2
 
 
----
+
+[[PAGE_END:2]]
+

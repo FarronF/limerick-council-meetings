@@ -52,7 +52,7 @@ Report Draft Polling Scheme 2015 - Municipal District of Adare-Rathkeale - 14th 
 
 Extract from Constituency Commission Report - Municipal District of Adare-Rathkeale - 14th July 2015.pdf - [Original file](http://www.limerick.ie/sites/default/files/atoms/files/extract_from_constituency_commission_report_-_municipal_district_of_adare-rathkeale_-_14th_july_2015.pdf) - Text not extracted
 
-MAP_ Dail Constituencies of Limerick City and Limerick County.pdf - [Original file](http://www.limerick.ie/sites/default/files/atoms/files/dail_constituencies_of_limerick_city_and_limerick_county.pdf) - Text not extracted
+MAP: Dail Constituencies of Limerick City and Limerick County.pdf - [Original file](http://www.limerick.ie/sites/default/files/atoms/files/dail_constituencies_of_limerick_city_and_limerick_county.pdf) - Text not extracted
 
 Renewal of Lease Bleach Lough Anglers Ltd - Municipal District of Adare-Rathkeale - 14th July 2015.pdf - [Original file](http://www.limerick.ie/sites/default/files/atoms/files/renewal_of_lease_bleach_lough_anglers_ltd_-_municipal_district_of_adare-rathkeale_-_14th_july_2015.pdf) - Text not extracted
 

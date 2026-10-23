@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016_0.pdf)
+**Original file:** [Minutes - Annual Meeting Municipal District of Adare-Rathkeale - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -71,7 +72,9 @@ The Cathaoirleach then invited nominations for the office of Leas-Chathaoirleach
 year.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Sheahan;
@@ -92,4 +95,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

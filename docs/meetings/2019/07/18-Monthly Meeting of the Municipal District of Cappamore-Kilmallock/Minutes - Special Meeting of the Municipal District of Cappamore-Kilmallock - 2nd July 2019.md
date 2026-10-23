@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%20Minutes%20MD%20Special%20Meeting%202nd%20July%202019.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 2nd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%20Minutes%20MD%20Special%20Meeting%202nd%20July%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -67,7 +68,9 @@ arranged on site to amend the line of kerbing across from the six townhouses, an
 amendment was agreed with the occupiers of same following this meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 He detailed the Folio details outlining legal ownership of various pieces of land relating to the
@@ -104,4 +107,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/04%20Minutes%2018th%20Oct%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District Cappamore-Kilmallock - 18th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/04%20Minutes%2018th%20Oct%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -46,7 +47,7 @@ Village Renewal, (Mrs Ann Lahiff), Clerical Officer, Cappamore-Kilmallock (Mrs H
 
 1. Adoption of Minutes
 
-{i) Circulated, copy of draft Minutes of Meeting of the Municipal District of
+(i) Circulated, copy of draft Minutes of Meeting of the Municipal District of
 Cappamore-Kilmallock held on 20" September, 2018.
 
 Proposed by Councillor O’Donnell;
@@ -65,10 +66,12 @@ Meetings Administrator for consideration. It was agreed that the Minutes would b
 the Agenda again for the November 2018 Municipal District Meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. cial D °} orate
+2. cial D °) ‘orate
 U e on C Deve wn & Vill Renewal
 initiatives.
 
@@ -77,8 +80,8 @@ members of the Directorate to the meeting. A PowerPoint presentation was given t
 Members on Community Development/Town & Village Renewal initiatives including:
 
 ¢ Update on Derelict Sites and Vacant Property issues in the Municipal District;
-e Update on Town and Village Renewal Scheme 2018;
-e¢ Update on funding initiatives.
+¢ Update on Town and Village Renewal Scheme 2018;
+e Update on funding initiatives.
 
 The Members thanked staff for their presentation, which they said was interesting and
 informative and the Director, Social Development Directorate agreed to circulate the
@@ -112,7 +115,9 @@ project entailed Limerick City & County Council engaging with Architecture stude
 University of Limerick in preparing a design project focussed on the northern entrance to
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Kilmallock (around the new footbridge), looking at how this threshold approach to Kilmallock
@@ -164,7 +169,9 @@ and groups from the District for achievements attained at either National or Int
 level.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -207,7 +214,9 @@ continual white line. The nearest safe parking spot is located 200 metres to
 the east of the graveyard in front of a private dwelling.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Council will investigate the option of providing 4-6 car parking spaces at
@@ -229,7 +238,7 @@ Other sed:
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the
 following items were raised:
 
-° jion-O’Rourk:
+° ion-O’Rourk:
 
 The Members enquired as to why a Notice of Motion relating to O’Rourke’s Cross was not
 included on the Agenda for the Meeting. The Meetings Administrator explained that this
@@ -254,7 +263,9 @@ was therefore not in a position to include the Notice of Motion on the Agenda fo
 Municipal District Meeting.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 * Deputation
@@ -268,7 +279,7 @@ The Members enquired about getting an update on the recent installation of CCTV 
 in the Municipal District and the Meetings Administrator agreed to follow up with Dr Mihai
 Bilauca about providing an update to Members about same.
 
-¢ Vote of
+« Vote of
 
 The Members extended a Vote of Sympathy to Liz Creamer, Corporate Services on the
 recent passing of her father, Roger Leahy, Spa Hill House, Kilfinane, Co. Limerick.
@@ -293,4 +304,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:6]]
+

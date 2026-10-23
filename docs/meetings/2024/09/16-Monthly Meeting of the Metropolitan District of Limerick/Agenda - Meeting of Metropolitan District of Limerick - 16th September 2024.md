@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-meeting-of-metropolitan-district-of-limerick-16th-september-2024.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 16th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-meeting-of-metropolitan-district-of-limerick-16th-september-2024.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -97,7 +98,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -165,7 +168,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 purchased in the Metropolitan District area to enable tenants remain in situ under the
 
 Government Scheme since it was launched, and how many are projected for purchase in 2024.
----
+
+[[PAGE_END:2]]
+
 3
 
 **7.Question submitted by Councillor J. Leddin**
@@ -229,7 +234,9 @@ deliver this project.
 I will ask at the next Meeting of the Metropolitan District of Limerick what progress has been
 
 made on the taking in charge of the road at the back of Dochas building on Parnell Street.
----
+
+[[PAGE_END:3]]
+
 4
 
 **15.Question submitted by Councillor S. Kiely**
@@ -297,7 +304,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 housing units are there in the Metropolitan District. What is the average turnaround time to bring
 
 these back into use and the average cost per house.
----
+
+[[PAGE_END:4]]
+
 5
 
 **23.Question submitted by Councillor U. Gavan**
@@ -365,7 +374,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 City Transport Plan with reference to the approaches to the city from Pa Healy Road and the
 
 Corbally Road and the timeline for implementation.
----
+
+[[PAGE_END:5]]
+
 6
 
 **30.Question submitted by Councillor C. Sheehan**
@@ -431,7 +442,9 @@ stipulated in the planning conditions in respect to Irish Cement.
 I will move at the next meeting of the Metropolitan District of Limerick that the choice based
 
 letting scheme be extended to the Metropolitan area.
----
+
+[[PAGE_END:6]]
+
 7
 
 **37.Notice of Motion submitted by Councillor S. Kiely**
@@ -497,4 +510,6 @@ Limerick City at weekends, so as to increase footfall and business activity in t
 **43.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:7]]
+

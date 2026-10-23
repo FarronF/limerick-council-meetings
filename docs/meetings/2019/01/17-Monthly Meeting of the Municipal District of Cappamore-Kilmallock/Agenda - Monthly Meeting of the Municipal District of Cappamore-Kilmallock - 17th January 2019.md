@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Agenda%20MD%20Meeting%2017th%20Jan%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Agenda%20MD%20Meeting%2017th%20Jan%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———— Comhairle Cathrach
+— Comhairle Cathrach
 = & Contae Luimnigh
-mo — Limerick Cit
+om — Limerick Cit
 - merick City
 & County Council
 Limerick City & County Council,
@@ -61,7 +62,9 @@ the 13th December, 2018.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Crime Prevention
@@ -78,4 +81,6 @@ QUESTION
 (b) What is the current position regarding the taking in charge of these estates?
 
 
----
+
+[[PAGE_END:2]]
+

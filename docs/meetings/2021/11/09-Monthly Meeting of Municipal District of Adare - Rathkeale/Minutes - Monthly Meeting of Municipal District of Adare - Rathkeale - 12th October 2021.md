@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-minutes-of-monthly-meeting-12th-october-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 12th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-minutes-of-monthly-meeting-12th-october-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE RATHKEALE HOUSE HOTEL, RATHKEALE, CO. LIMERICK ON**
@@ -90,7 +91,9 @@ for the matter to be forwarded to the Environmental Protection Agency (EPA)
 requesting this body now take legal action against Irish Water on the matter. The
 
 Director, Housing advised Councillor Teskey a Local Authority cannot instruct another
----
+
+[[PAGE_END:1]]
+
 2
 
 public body to carry out this request. Councillor Teskey then asked if the District could
@@ -160,7 +163,9 @@ seconded by Councillor O’Donoghue and agreed.
 Councillor Teskey asked, further to his earlier request at the start of the Meeting in
 
 relation to the Environmental Protection Agency investigating Irish Water, if the District
----
+
+[[PAGE_END:2]]
+
 3
 
 would write to the EPA requesting an adequate treatment plant for Askeaton be
@@ -222,7 +227,9 @@ had been in contact with Central Services and there had been a delay in getting 
 contractor on site for the first cut and added the second cut is due to commence
 
 the 22nd October, 2021 and will be carried out over a four week period.
----
+
+[[PAGE_END:3]]
+
 4
 
 **4.**
@@ -296,7 +303,9 @@ project.
 A previous funding application under Low Cost Safety Improvement Works
 
 for Fedamore was unsuccessful.
----
+
+[[PAGE_END:4]]
+
 5
 
 These works will be kept under review for any future Funding
@@ -370,7 +379,9 @@ payments for the 2022 scheme subject to budgetary requirements.
 **member of the United Irishmen was executed by Crown forces during the 1798**
 
 **rebellion and an appropriate plaque be erected .**
----
+
+[[PAGE_END:5]]
+
 6
 
 The Motion was proposed by Councillor Sheahan, seconded by Councillor O’Brien and
@@ -430,4 +441,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

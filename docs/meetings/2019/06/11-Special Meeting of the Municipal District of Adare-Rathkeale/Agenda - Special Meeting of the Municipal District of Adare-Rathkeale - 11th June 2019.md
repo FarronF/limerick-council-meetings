@@ -16,16 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%202019%20Special%20Meeting.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 11th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%202019%20Special%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7 Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-nN “- i = . -
 
-——> Limerick City
+—— Limerick City
 & County Council
 
 05" June, 2019.
@@ -33,14 +33,14 @@ nN “- i = . -
 A Chomhairleoir, a chara,
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Combharle Cathwach agus Contae Lulmnigh,
+Comhairle Cathwach agus Contae Lulmnigh,
 Aras Séan Finn,
 
 Line Nua,
 
-Rath Caola.
+Rath Caola,
 
-Co, Luimnigh.
+Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick Cry and County Council
@@ -52,17 +52,17 @@ Rathkeale,
 
 Co. Limerick.
 
-BIRCODE V4 HKIV
+BIRCODE V94 HKIV
 
-t: +353 (0) 69 64047
+t; +353 (0) 69 64047
 f: +353 (0) 69 63188
 
 You are requested to attend a Special Meeting of the Municipal District of Adare-
 Rathkeale to be held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on
 
-T 11 Ju .m. The business to be transacted is set out on the
+T 11" Ju .m. The business to be transacted is set out on the
 appended Agenda.
-Is mise le meas,
+is mise le meas,
 Karen Butler,
 Meetings Administrator.
 AGENDA
@@ -71,10 +71,12 @@ AGENDA
 
 To approve allocations under the General Municipal Allocation (GMA) 2019.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe,Lutmneach
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
-& customerservices@limerick.te
+im customerservices@limerick.te
 
 
----
+
+[[PAGE_END:1]]
+

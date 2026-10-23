@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-limerick-city-and-county-council-27th-may-2024.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 27th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-limerick-city-and-county-council-27th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach Sewbhisi Corparaideacha
+_—_—_ Comhairle Cathrach Sewbhisi Corparaideacha
 
-Comharle Cathrach agus Contae Luimnigh
--_ a = & Contae Luimnigh Ceanncheathna Chorperaideach,
-~ Cé na gCeannaithe.
+Comharle Cathvach agus Contae Luimnigh
+-_~ a a & Contae Luimnigh Ceanncheathna Chorperaideach,
+- Cé na gCeannaithe.
 
 Limerick City Luimnesch
 = & County Council
@@ -40,8 +41,8 @@ Limenck
 
 EIRCODE V94 ENSO
 
-t: +353 (0) 61 557150
-22™ May, 2024. f: 4383 (0) 68 415 266
+t; +353 (0) 61 557150
+22™ May, 2024. f: 4353 (0) 63 415 266
 To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
@@ -76,13 +77,15 @@ Housing Directorate
 
 om Customerservices@limerickie
 
-© worwlimericiie
+© worwlimerickie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach wW @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rural, Community and Culture Development Directorate
@@ -93,7 +96,7 @@ General Disposals
 (f) Freehold interest in property at 149 Mayorstone Upper, Limerick.
 
 ({g) 0.0099 acres (0.004 hectares) at Wolfe Tone Street, Kilmallock, Limerick.
-{h) 0.00099 acres (0.0004ha) at Camoge Park, Skagh, Croom, Co. Limerick.
+({h) 0.00099 acres (0.0004ha) at Camoge Park, Skagh, Croom, Co. Limerick.
 (i) Property at 22 Church View, Askeaton, Limerick, V94F2XA.
 
 (j) Property at William Street, Askeaton, Limerick, V94X8PX.
@@ -138,7 +141,9 @@ the Local Government Act, 2001 (as amended).
 from Chief Executive already circulated)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -147,7 +152,7 @@ from Chief Executive already circulated)
 
 (e)
 
-(
+A)
 
 (9)
 
@@ -192,7 +197,9 @@ Strategic Policy Committee held on 10" April, 2024.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -247,7 +254,9 @@ under the Dolores O'Riordan Music Bursary Scheme 2024.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -256,7 +265,7 @@ under the Dolores O'Riordan Music Bursary Scheme 2024.
 
 (e)
 
-(f
+(
 
 (9)
 
@@ -302,7 +311,9 @@ To approve the Limerick City and County Council Tree Policy 2024-2030.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -354,7 +365,9 @@ by the Elected Members and the extra charge on the rent account that is now incu
 should be removed as we consider this to be unfair and unjust.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -371,11 +384,11 @@ should be removed as we consider this to be unfair and unjust.
 
 Notice of Motion submitted by Councillor C. Slattery
 
-! will move at the next Meeting that the Council write to the Minister for Social
+| will move at the next Meeting that the Council write to the Minister for Social
 Protection asking her to explain why Community Welfare Officers are not available in
 clinics at Intreo Offices.
 
-M d ncillor
+M id ncillor
 
 | will move at the next Meeting that the tenant handbook be amended to reflect that
 the tenant is not responsible for the boundary wall or fence of a Council property
@@ -409,4 +422,6 @@ available to the neighbours of existing wind farms.
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

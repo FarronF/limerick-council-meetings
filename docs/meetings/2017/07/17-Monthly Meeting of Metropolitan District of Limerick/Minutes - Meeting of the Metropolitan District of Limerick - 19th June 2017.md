@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017%20UPDATED.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 19th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017%20UPDATED.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE** **COUNCIL CHAMBER, MERCHANT’S QUAY,** **LIMERICK, ON MONDAY, 19TH** **JUNE, 2017 AT 9.45**
@@ -94,7 +95,9 @@ Circulated, report of the A/Senior Planner, Planning and Environmental Services 
 2017 seeking approval to the taking in charge of estate at Curragh Birin, Castletroy and the
 
 declaration of roads to be public roads.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Secas;
@@ -170,7 +173,9 @@ considered;
 products were used;
 
  Rubbish should be removed from the River Shannon.
----
+
+[[PAGE_END:2]]
+
 3
 
 **(d)**
@@ -248,7 +253,9 @@ GMA Festivals and Events Grant Scheme.
 The Arts and Culture Officer stated that the allocation approved by Members under this Scheme,
 
 which offered funding to festival and event organisers operating in the Metropolitan District,
----
+
+[[PAGE_END:3]]
+
 4
 
 was €100,000. The closing date for receipt of applications under this Scheme was 26th May,
@@ -320,7 +327,9 @@ As no further nominations were proposed, it was agreed that Councillors Hogan, �
 Crowley, Leddin and Loftus would sit on the Assessment Panel for the Limerick Metropolitan
 
 GMA Festivals and Events Grant Scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 **QUESTIONS**
@@ -420,7 +429,9 @@ Further information is available at: http://www.epa.ie/radiation/radon/
 **Question submitted by Councillor C. Prendiville**
 
 ***I will ask at the next meeting, as part of the Healthy Ireland initiative, has consideration been***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***given to requiring a Health Impact Assessment to be included in major planning applications***
@@ -518,7 +529,9 @@ Total Households
 ***Golf Club, in terms of membership fees, financial sustainability and long term plans for the***
 
 ***Golf Club.***
----
+
+[[PAGE_END:6]]
+
 7
 
 Reply:
@@ -606,7 +619,9 @@ The Council has held a lease on Arthurs Quay Multi Storey Car Park for the past
 entered into a sub letting arrangement over the same period for the operation of
 
 the car park.
----
+
+[[PAGE_END:7]]
+
 8
 
 Negotiations are still ongoing regarding the future arrangements for the car park.
@@ -684,7 +699,9 @@ presentation also.
 The Motion was proposed by Councillor Keller and seconded by Councillor Lynch.
 
 Members, in supporting the Motion, requested that the Council address effective integration of
----
+
+[[PAGE_END:8]]
+
 9
 
 migrants and refugees into our communities and give out the message that racism and hate had
@@ -760,7 +777,9 @@ natural aspect and characteristic of the Baggot Estate.
 The Baggot Estate would also require higher annual maintenance and the
 
 presence of a park ranger with obvious cost implications.
----
+
+[[PAGE_END:9]]
+
 10
 
 Resources are not available for these works or the staffing issues that will arise.
@@ -800,4 +819,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

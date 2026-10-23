@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%20Agenda%20for%20October%202022%20Municipal%20District%20Meeting.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%20Agenda%20for%20October%202022%20Municipal%20District%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **14th** **October 2022.**
 
 **To/**
@@ -52,7 +53,9 @@ Kilmallock held on the 21st September 2022
 2.Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 21st September 2022.
----
+
+[[PAGE_END:1]]
+
 2
 
 3. Draft Budgetary Plan 2023
@@ -98,7 +101,9 @@ I will move at the next meeting of the Cappamore-Kilmallock Municipal District c
 on Limerick City and County Council to carry out necessary safety improvements at the
 
 junction of Emmett Street and Gerard Road, Kilmallock.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -126,4 +131,6 @@ update on the plans for the former Bank of Ireland building in Bruff, including 
 we expect a reply in relation to the funding application submitted to the Department of
 
 Rural and Community Development to upgrade the building.
----
+
+[[PAGE_END:3]]
+

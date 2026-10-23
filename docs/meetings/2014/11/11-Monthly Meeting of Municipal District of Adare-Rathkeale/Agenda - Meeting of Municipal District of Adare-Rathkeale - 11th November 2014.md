@@ -16,37 +16,35 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_adare-rathkeale_-_11th_november_2014.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 11th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_adare-rathkeale_-_11th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_———_— Seirbhis! Corpardideacha agus Bainistiocht Athruithe,
+_—_—_— Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-ANS ‘ Cé na gCeannaithe,
-—=—_ : Luimneach ©
+ANS ‘ ; Cé na gCeannaithe,
 
-Limerick Corporate Services and Change Management,
-
+. —— Luimneach
+Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
-
 Merchants Quay.
 
-COUNCIL a
+COUNCIL Limerick
 
 t: +353 (0) 61 407 100
 
-6 November, 2014. f: +353 (0) 61 415 266
+6% November, 2014. f: +383 (0) 61 415 266
 
 To: The i n ch Member of the Munici
-
 District of Adare-Rathkeale
 
 A Chomhairleoir, a chara,
-You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 11" November, 2014,
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 11°" November, 2014,
 at 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -59,7 +57,7 @@ AGENDA
 To adopt Minutes of the following Meetings:
 
 (a) | Ordinary Meeting of the Municipal District held on 7" October, 2014.
-(b) | Budgetary Plan Meeting of the Municipal District held on 9" October, 2014.
+(b) Budgetary Plan Meeting of the Municipal District held on 9" October, 2014.
 
 2. Environment and Water
 
@@ -67,11 +65,13 @@ To hear Presentation from Cadence EnviroPower on their proposed bid for Lease of
 Gortadroma Landfill Site.
 
 ! @ customerservices@limerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © weew limerickie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach © weew limerickie
+Corporate Headquarters, Merchants Quay, Limerick wv @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -103,7 +103,7 @@ UESTIONS
 Question submitted by Councillor K. Sheahan
 
 | will ask at the next Meeting for a report regarding the arrangements in place for the
-collection of refuse from apartments, particularly 2°° and 3° floor apartments. In
+collection of refuse from apartments, particularly 2° and 3° floor apartments. In
 particular, | will ask why green bags are no longer permitted to be used.
 
 Question submitted by Councillor R. O’Donoghue
@@ -121,7 +121,9 @@ plans to improve the condition of this pathway which currently consists of loose
 chippings, is uneven to walk on and lodges water in excessive rain.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -148,4 +150,6 @@ measures be introduced in strategic locations, in consultation with the Gardai, 
 Rathkeale.
 
 
----
+
+[[PAGE_END:3]]
+

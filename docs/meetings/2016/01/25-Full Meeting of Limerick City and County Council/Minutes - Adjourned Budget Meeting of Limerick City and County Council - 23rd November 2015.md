@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20November%202015.pdf)
+**Original file:** [Minutes - Adjourned Budget Meeting of Limerick City and County Council - 23rd November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -122,7 +123,9 @@ of utility undertakings, to be carried out by the Valuation Office, every five y
 and entered on the central valuation list. The Commissioner of Valuation is
 
 responsible for the valuations. The most recent global valuations carried out by
----
+
+[[PAGE_END:1]]
+
 **2**
 
 the Valuation Office are in respect of Gas Networks Ireland, Iarnród Éireann and
@@ -200,7 +203,9 @@ On resumption of the Meeting and at the request of Councillor Gilligan, the Chie
 Executive outlined his proposals for amendments to the Draft Budget to take account
 
 of the additional funding of €1,191,546, details as outlined hereunder:
----
+
+[[PAGE_END:2]]
+
 **3**
 
 **Summary of Adjustments**
@@ -326,7 +331,9 @@ Tourism Support Scheme, and an increase in the ARV to 5.6%. The A/Head of
 Finance was requested to cost these proposals in the format required for
 
 amendment to the Budget. The proposals were subsequently costed and were
----
+
+[[PAGE_END:3]]
+
 **4**
 
 circulated to all the Members as *‘Amendment to Draft Budget – AAA (Anti-Austerity*
@@ -492,7 +499,9 @@ ARV
 Balance
 
 (€273,526) €273,526 €0
----
+
+[[PAGE_END:4]]
+
 **5**
 
 It was proposed by Councillor Ryan and seconded by Councillor Sheahan (K) that
@@ -558,7 +567,9 @@ the Valuation Office, multiplied by the Annual Rate on Valuation (ARV). The
 calculation of this rate is a Reserved Function of the Elected Members of the Rating
 
 Authority.
----
+
+[[PAGE_END:5]]
+
 **6**
 
 The position is that all appeals to the Commissioner arising from the Limerick
@@ -628,7 +639,9 @@ process. He was now proposing that the rate increase proposed by the Chief
 Executive would be reduced to 2.03%, giving an ARV of 0.2459.  There would also
 
 be amendments to the Budget as proposed by the Chief Executive as follows:
----
+
+[[PAGE_END:6]]
+
 **7**
 
 **Summary of Adjustments**
@@ -754,7 +767,9 @@ drafted into formal proposals for the adoption of the Draft Local Authority Budg
 with or without amendment. These would be taken in the order in which they had
 
 been received.
----
+
+[[PAGE_END:7]]
+
 **8**
 
 Councillor Browne, on behalf of the Sinn Féin Party, indicated that the position
@@ -832,7 +847,9 @@ amended, for the financial year ending on 31st December, 2016, in
 accordance with Section 103 of the Local Government Act, 2001, as amended
 
 by the Local Government Reform Act, 2014.
----
+
+[[PAGE_END:8]]
+
 **9**
 
 **And That,** in accordance with Section 135 of the Local Government Act,
@@ -896,7 +913,9 @@ per amended Tables A, B, D, E and F, in accordance with Section 103 of the
 Local Government Act, 2001, as amended by the Local Government Reform
 
 Act, 2014.
----
+
+[[PAGE_END:9]]
+
 **10**
 
 **And That,** in accordance with the Annual Budget thus amended and adopted,
@@ -958,7 +977,9 @@ hereunder, is hereby adopted as per Tables A,B,D,E and F, in the sum of
 €239,505,948, in accordance with Section 103 of the Local Government Act,
 
 2001, as amended by Local Government Reform Act, 2014:
----
+
+[[PAGE_END:10]]
+
 **11**
 
 **Summary of Adjustments**
@@ -1088,7 +1109,9 @@ out in report of the A/Head of Finance dated 12th November, 2015, be
 adopted in accordance with Section 66 of the Local Government Act, 2001, as
 
 amended by Section 43 of the Local Government Reform Act, 2014,”
----
+
+[[PAGE_END:11]]
+
 **12**
 
 **“And That,** the Tourism Sector Support Scheme 2016 be adopted, as set out
@@ -1128,4 +1151,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Mayor**
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:12]]
+

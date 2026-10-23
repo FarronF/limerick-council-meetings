@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-november-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 11th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -82,7 +83,9 @@ No such interest was declared.
 **3.**
 
 **Disposal of Land**
----
+
+[[PAGE_END:1]]
+
 2
 
 Circulated, report of the Head of Property Management dated 31st October, 2025 setting
@@ -158,7 +161,9 @@ would be Government funded.
 Councillor O’Donoghue asked if there was reference to the Christmas period in
 
 Rathkeale in the Town Centre First Plan. The Town Regeneration Officer, Rural
----
+
+[[PAGE_END:2]]
+
 3
 
 Development advised the provision of services is escalated at Christmas for all residents
@@ -228,7 +233,9 @@ will not delay the delivery of the project.
 **6.**
 
 **General Municipal Allocation (GMA)**
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Keary, seconded by Councillor Teskey, it was agreed to
@@ -294,7 +301,9 @@ companies installing and upgrading broadband in the county and asked Limerick Ci
 County Council assist in the removal of overhanging trees and vegetation which are in
 
 danger of damaging the newly installed infrastructure.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Reply:**
@@ -370,7 +379,9 @@ Board (LCETB). The Council, alongside other participating public sector
 employers, will be offering on the job training as part of our participation
 
 with the LCETB. The fully funded 11-month program equips participants
----
+
+[[PAGE_END:5]]
+
 6
 
 with the knowledge and practical skills essential for a career in office
@@ -420,4 +431,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

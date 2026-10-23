@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-Minutes-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-April-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-Minutes-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-April-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ Rathkeale Municipal District. This was seconded by Councillor O’Donoghue.
 Following discussion between Members the proposal was put to a vote. The results of
 
 the voting was as follows:
----
+
+[[PAGE_END:1]]
+
 2
 
 **For the proposal:**
@@ -148,7 +151,9 @@ approval.
 The report, as circulated, was noted by Members.
 
 It was agreed Item 5 on the Agenda would be taken next.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -230,7 +235,9 @@ Total
 The recommended allocations were proposed by Councillor O’Brien, seconded by
 
 Councillor Sheahan and agreed.
----
+
+[[PAGE_END:3]]
+
 4
 
 **4.**
@@ -300,7 +307,9 @@ allocate the following:
  €3,000 to Ferrybridge Water Sports Club.
 
  €1,000 to Pallaskenry Senior Citizens.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor Keary, seconded by Councillor Sheahan, it was agreed to
@@ -364,7 +373,9 @@ fund the road construction.
 The Council will also seek a funding contribution from the National
 
 Transport Authority under the Safe Routes to School programme.
----
+
+[[PAGE_END:5]]
+
 6
 
 Once the above funding possibilities have been investigated, the Council
@@ -414,4 +425,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/item-1-minutes-of-spc-mtg-14th-december-2020_0.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 14th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/item-1-minutes-of-spc-mtg-14th-december-2020_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON WEDNESDAY, 14TH** **DECEMBER,**
@@ -90,7 +91,9 @@ which outlined the importance of integration of new and existing communities, a 
 accommodation for all ages and inclusion of retail and office space to encourage job creation and
 
 facilities to encourage arts, culture and sporting activities.
----
+
+[[PAGE_END:1]]
+
 A number of stakeholder meetings took place and feedback from these will inform the next stage of
 
 the project, which will be the creation of a Spatial Framework, which will include key objectives for
@@ -166,7 +169,9 @@ Maria stated that the NPF and RSES sets out the main guidelines in relation to r
 She stated that a workshop would be organised for elected members to discuss rural housing,
 
 development of towns and villages and the promotion of use of serviced sites.
----
+
+[[PAGE_END:2]]
+
 It was confirmed that a list of protected structures in each of the Municipal Areas had been circulated
 
 to Elected Members and that an updated list would be circulated to the Sectoral Interests and PPN
@@ -232,7 +237,9 @@ V. Murray informed members that the Report will be presented to Waterways Irelan
 consideration as they have responsibility for the management of the river.
 
 It was agreed to circulate a copy of the presentation to members.
----
+
+[[PAGE_END:3]]
+
 **Item 5**
 
 **To consider Notice of Motion referred from Metropolitan District Meeting, held on 16th** **November, 2020,**
@@ -260,4 +267,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/1.-agenda-20th-may-md-meeting-final.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 20th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/1.-agenda-20th-may-md-meeting-final.pdf)
 
----
+[[FILE_START]]
+
 **13th** **May, 2021.**
 
 **To/**
@@ -58,7 +59,9 @@ Update from Innovate Limerick
 Confirmation of date for Annual General Meeting of Cappamore Kilmallock Municipal
 
 District
----
+
+[[PAGE_END:1]]
+
 2
 
 NOTICE OF MOTIONS
@@ -120,7 +123,9 @@ upper Main Street Hospital.
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District when Limerick
 
 City and County Council plan to start improvement works in Clare Glens.
----
+
+[[PAGE_END:2]]
+
 3
 
 11.Question submitted by Councillor Teefy
@@ -138,4 +143,6 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District fo
 number of qualified applicants, First Preference, in the Cappamore/Kilmallock District and
 
 what are the breakdown by areas.
----
+
+[[PAGE_END:3]]
+

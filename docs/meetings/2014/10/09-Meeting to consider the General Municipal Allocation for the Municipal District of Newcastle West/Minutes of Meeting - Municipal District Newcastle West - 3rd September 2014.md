@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_minutes_of_meeting_3rd_september_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District Newcastle West - 3rd September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_minutes_of_meeting_3rd_september_2014_1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
-GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3°
+GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3”°
 SEPTEMBER, 2014, AT 10.00 A.M.
 
 PRESENT IN THE CHAIR: Councillor Jerome Scanian.
@@ -70,7 +71,9 @@ Seconded by Councillor Galvin;
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That, the approval of the District be and is hereby given to the making of Standing Orders
@@ -87,7 +90,7 @@ Meeting.
 e Each Member shall be permitted to submit three Questions, which shall be relevant
 to the business of the Municipal District, for each Municipal District Meeting.
 
-3. Travel & T i
+3. Travel & Ti i
 N21 Killarney Pole to Barnagh Road Safety Scheme Phase II
 
 Circulated report dated 25" July, 2014 in relation to proposed temporary closure of road L-
@@ -119,7 +122,9 @@ In reply, the Senior Executive Engineer indicated the matter was outside the sco
 present scheme but that the Council’s Roads Section would investigate the matter.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions submitted by Councillor J. Scanlan
@@ -130,14 +135,14 @@ replacement at Knockane Road and at Assumpta Park, Newcastle West.
 REPLY Footpath replacement at Knockane Road was completed last week.
 Footpaths repairs started in Assumpta Park this week.
 
-6. ! will ask if Enforcement can take action to ensure that a number of semi-
+&. ! will ask if Enforcement can take action to ensure that a number of semi-
 derelict properties within Assumpta Park are renewed.
 
 REPLY Arrangements will be made to survey Assumpta Park from a semi-derelict
 properties point of view. A report will be prepared for submission to planning
 on the number and condition of the properties.
 
-6. / will ask if signage can be provided for Broadford on leaving the N21 towards
+6. | will ask if signage can be provided for Broadford on leaving the N21 towards
 
 the R522.
 
@@ -173,7 +178,9 @@ REPLY A Meeting would be arranged on site in the coming week with Councillor
 Galvin.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Question submitted by Councillor M. Collins
@@ -203,7 +210,7 @@ free chlorine concentration of 0.5 mg/I is present after 30 minutes of contact
 time between the chlorine dose and the water.
 
 Based on the above LCCC sets a target chlorine dose of 0.5mg /| at most
-water treatment plants. A value in excess of 0.5 mg / | may be required at
+water treatment plants. A value in excess of 0.5 mg /| may be required at
 some plants, in particular where there is a river water source, in order to
 ensure the required 0.1 mg/I free residual chlorine at the extremities of the
 distribution network
@@ -229,7 +236,9 @@ designed. Consideration will be given to customer confidentiality in the new
 design
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -283,12 +292,14 @@ Mr. P. Vallely, Executive Engineer added that he would discuss the matter with t
 land owner.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor J. Sheahan
 
-15. 1 move that the drinking water supply in Glin be brought to a standard that it
+15. | move that the drinking water supply in Glin be brought to a standard that it
 will not be necessary for any user to have to source alternative supply
 
 elsewhere.
@@ -343,7 +354,9 @@ Members requested that Superintendent be invited to attend a meeting of Municipa
 District of Newcastle West.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Local Government Reform Act 2014
@@ -363,4 +376,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+

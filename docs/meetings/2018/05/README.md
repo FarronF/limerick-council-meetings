@@ -1,7 +1,12 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 05 - May
 
 * [02 Monthly Meeting Of The Municipal District Of Newcastle West](02-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [08 Monthly Meeting Of The Municipal District Of Adare Rathkeale](08-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* [08 Private_ Workshop For Cultural Spc](08-Private_ Workshop for Cultural SPC/README.md)
 * [09 Special Meeting Of The Municipal District Of Newcastle West To Consider The Abbeyfeale Traffic Management Plan Part Viii](09-Special Meeting of the Municipal District of Newcastle West to consider The Abbeyfeale Traffic Management Plan Part VIII/README.md)
 * [14 Meeting Of The Cultural Spc](14-Meeting of the Cultural SPC/README.md)
 * [15 Jpc Subcommittee Meeting Of The Municipal District Of Adare Rathkeale](15-JPC Subcommittee Meeting of the Municipal District of Adare-Rathkeale/README.md)

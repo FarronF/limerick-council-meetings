@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20of%2026th%20Sept%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District Cappamore-Kilmallock - 26th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20of%2026th%20Sept%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF
@@ -66,7 +67,9 @@ Members felt could potentially cause tailbacks as large vehicles turned in to th
 commercial business.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillors also referred to the commercial business at O’Rourke’s Cross which is an
@@ -74,7 +77,7 @@ employer and ratepayer in the area and for which this decision may have implicat
 the future of this business.
 
 The Cathaoirleach said that following a recent meeting with Planning they had become a
-lot more knowledgeable on the Part Vill process. The Members were unanimous in saying
+lot more knowledgeable on the Part VIII process. The Members were unanimous in saying
 there had been campaigns ongoing for some time seeking safety measures to be installed
 at O’Rourke’s Cross, which would make the junction as safe as possible for all road users.
 
@@ -85,7 +88,7 @@ O’Rourke’s Cross Road Improvement Scheme following this Special Meeting.
 
 The Chief Executive thanked members and staff for facilitating the Meeting. The Chief
 Executive said he understood the N20 O’Rourke’s Cross Road Improvement Scheme Part
-VII was a difficult decision but that it had been passed at the October 2017 Municipal
+Vill was a difficult decision but that it had been passed at the October 2017 Municipal
 District Meeting and that it would now proceed. He reiterated that it was a matter of
 safety for all road users and the reality of the matter was that to install a fifth leg to the
 proposed roundabout at this junction would increase the potential for an accident at the
@@ -107,4 +110,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

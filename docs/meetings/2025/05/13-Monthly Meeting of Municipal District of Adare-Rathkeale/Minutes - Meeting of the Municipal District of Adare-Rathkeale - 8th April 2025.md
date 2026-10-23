@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/01-draft-minutes-of-monthly-meeting-8th-april-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/01-draft-minutes-of-monthly-meeting-8th-april-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -90,7 +91,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
 No such interest was declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -168,7 +171,9 @@ Meeting. Mr. Reid gave Members an update on the project to date which included:
 which took place in November 2023 and May 2024.
 
  Environmental assessments.
----
+
+[[PAGE_END:2]]
+
 3
 
 Mr. Reid advised Members environmental assessments would be finalised in the near
@@ -244,7 +249,9 @@ People grant scheme. Members requested this funding be increased by the Departme
 of Housing, Local Government and Heritage due to the rise in material and construction
 
 costs.
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.**
@@ -324,7 +331,9 @@ Members requested that they be kept updated on any potential development on the 
 stretch from the dual carriageway to the Adare Lantern Lodge not currently included in
 
 the overall scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 **9.**
@@ -392,7 +401,9 @@ amended), or in the most severe cases an application to the Courts for an
 injunction. In all cases the Council will attempt to engage with complainants
 
 and operators to find a satisfactory solution to a complaint.
----
+
+[[PAGE_END:5]]
+
 6
 
 **12.**
@@ -470,7 +481,9 @@ In 2024, 215 Claims were settled at a total cost of €3,527,131.
 **I will move at the next Meeting that the May District Meeting takes place in St. Mary’s**
 
 **National School, Croom.**
----
+
+[[PAGE_END:6]]
+
 7
 
 The Motion was proposed by Councillor Teskey, seconded by Councillor Collins and
@@ -494,4 +507,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

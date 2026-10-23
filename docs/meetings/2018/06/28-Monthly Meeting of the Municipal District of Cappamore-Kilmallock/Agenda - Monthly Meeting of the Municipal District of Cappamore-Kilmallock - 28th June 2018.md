@@ -16,22 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2028th%20June%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 28th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2028th%20June%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-aArN
+ae
 
-ae Comhairle Cathrach
+Ars
+
+Comhairle Cathrach
 & Contae Luimnigh
-—, ——————————
 
 Comhairle Cathrach agus Contae Luimnigh,
 Oifig an Cheantair, Aras Mhainchin Seoighe,
-Cill Mechealdg.
+Cit Mochealdg.
 
-Limerick City laaaleiaad
+Limerick City laaitiacde
 
 & County Council
 
@@ -71,10 +73,11 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock
-held on 17™ May, 2018.
-(Copy Enclosed)
+held on 17* May, 2018.
 
-2 Physical Development Directorate
+(Copy Enclosed)
+2. Physical Development Directorate
+
 Flood Risk Management Plans - CFRAMS
 
 To note the CFRAMS Flood Risk Management Plans.
@@ -84,17 +87,19 @@ To note the CFRAMS Flood Risk Management Plans.
 
 To receive a presentation on the Draft Noise Action Plan.
 
-Comhairie Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh,
 
 Oifig an Cheantair, Aras Mhainchin Seoighe
 
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
-wwew.timericicie
+wwew.limericicie
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -128,12 +133,14 @@ Co. Limerick.
 QUESTIONS
 
 Questions submitted by Councillor W. O’Donnell
-
 | will ask at the next Meeting when will a permanent street cleaner operative be
+
 appointed to Bruff Town by Limerick City and County Council.
 
 | will ask at the next Meeting for an update on repairs to the wall at Waterfall
 Road, Bruff.
 
 
----
+
+[[PAGE_END:2]]
+

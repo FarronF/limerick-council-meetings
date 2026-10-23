@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-municipal-district-of-newcastle-west-4th-february-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 4th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-municipal-district-of-newcastle-west-4th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_ Comhairle Cathrach
+__—_—_—" Comhairle Cathrach
 & Contae Luimnigh
-AN fi ™
+AN ff ™
 
 ean — Limerick City
 & County Council
@@ -40,16 +41,16 @@ An Caislean Nua Thiar,
 
 Co. Luimnigh.
 
-Newcastle West Municipal District,
+Newcastle West Municipal District.
 Limerick City and County Council,
 Azas William Smith O'Brien.
 Gortboy,
 
-Newcastle West,
+Newcastle West.
 
 Co. Limerick
 
-Ercode: V42EH73
+Eircode: V42EH73
 
 t +353 (0) 69 62100
 
@@ -92,15 +93,17 @@ To review position in relation to allocations under the General Municipal Alloca
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
-@ customerservices@limerick.ie
-© wvewlimerick.ie
+® customerservices@limerick.ie
+© wrewlimerick.ie
 
 W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -117,14 +120,14 @@ Questions submitted by Councillor J. Scanlan
 (a) Gortboy, Newcastle West is expected to commence and (b) what is the status of
 those underway at Ardagh and Broadford Village.
 
-! will ask at the next Meeting when remedial action will occur to repair the bridges
+| will ask at the next Meeting when remedial action will occur to repair the bridges
 (a) along the R522 at the townland boundaries of Ballydonnell and Appletown,
 Feohanagh and (b) the Abacomusk at Kilcoora, Broadford, will be undertaken.
 
 | will ask at the next Meeting how soon do the Housing Section intend to redevelop
 and allocate its property at the West End, Dromcollogher.
 
-Questions submitted by Councillor T. Ruddle
+Questions submitted by Councillor T. Ruddie
 
 | will ask at the next Meeting that Limerick City and County Council consider Road
 No. L85841 Ballybane, Ballyagran, for resurfacing in the 2026 Programme of
@@ -134,7 +137,7 @@ Municipal District Works. It is in a very bad state of repair.
 come into the Woodfield Estate in Newcastle West as it has eroded and the base of
 the ramp has a large dip, which is causing damage to cars.
 
-| will ask at the next Meeting that the Council request Transport Infrastructure
+! will ask at the next Meeting that the Council request Transport Infrastructure
 Ireland (Til) for a significant amount of funding to repair all parts of the road that
 have subsidence and are a serious hazard to drivers throughout the town of
 Newcastle West. This should especially be done inside the speed limits.
@@ -142,7 +145,7 @@ Newcastle West. This should especially be done inside the speed limits.
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor J. Scanian
 
-! will move at the next Meeting that an Audit of the Arterial Roads within Newcastle
+| will move at the next Meeting that an Audit of the Arterial Roads within Newcastle
 West town be carried out.
 
 ! will move at the next Meeting that the method of payment for parking at our
@@ -150,7 +153,9 @@ authorities Church Street facility and general parking facilities within Newcast
 be reviewed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -167,8 +172,10 @@ approximate time line for the plant to be upgraded.
 
 Notice of Motion submitted by Councillor F. Foley
 
-i will move at the next Meeting that Limerick City and County Council start the
+| will move at the next Meeting that Limerick City and County Council start the
 process of taking in charge Desmond Business Park in Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+

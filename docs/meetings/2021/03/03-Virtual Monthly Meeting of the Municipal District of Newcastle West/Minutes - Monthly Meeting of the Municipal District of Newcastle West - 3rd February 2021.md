@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-2021-02-03-minutes-february.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-2021-02-03-minutes-february.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -90,7 +91,9 @@ Proposed by: Councillor Scanlan
 Seconded by: Councillor Ruddle
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -162,7 +165,9 @@ would still be available via Churchtown/Demesne area. He referred to the absence
 sightlines when entering the Square from Nash’s Lane which pose a serious Health and Safety
 
 risk. He also referred to the pedestrian/vehicular conflict at this junction which endangers
----
+
+[[PAGE_END:2]]
+
 3
 
 public safety. He stated that as this matter is a Reserved Function of the Council, approval
@@ -232,7 +237,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to allocate
 
 €1,000 to Glórach Theatre, Abbeyfeale.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
@@ -322,7 +329,9 @@ Property 7
 Property 8
 
 05/11/2018
----
+
+[[PAGE_END:4]]
+
 5
 
 Property 9
@@ -454,7 +463,9 @@ tenancies in Newcastle West.
 **(b)**Our records show that there are seven tenancies involved.
 
 **(c)**Our records show that there are 17 individuals accommodated.
----
+
+[[PAGE_END:5]]
+
 6
 
 8.
@@ -544,7 +555,9 @@ The breakdown of these applications are as follows:
 3rd Preference
 
 6
----
+
+[[PAGE_END:6]]
+
 7
 
 **No. of beds**
@@ -790,7 +803,9 @@ Straight
 T-
 
 Junction
----
+
+[[PAGE_END:7]]
+
 8
 
 REPLY:
@@ -860,7 +875,9 @@ matter be referred to a Meeting of the Home and Community SPC.
 ***their quest to buy lands and build 8-10 houses that are so badly needed not alone in***
 
 ***Feenagh/Kilmeedy but in most villages.***
----
+
+[[PAGE_END:8]]
+
 9
 
 The Motion was seconded by Councillor Scanlan.
@@ -930,7 +947,9 @@ The provision of a footpath, drainage, public lighting and river embankment
 protection would involve significant expenditure and would also involve land
 
 acquisition at the above location.
----
+
+[[PAGE_END:9]]
+
 10
 
 An updated cost estimate based on the requirement for a detailed design along
@@ -994,7 +1013,9 @@ An update was sought on the hedgegrow between Churchview Estate and the Parochia
 House at Castlemahon. In replying, the Executive Engineer stated that works were carried
 
 out at this location before Christmas and the area has now been tidied up.
----
+
+[[PAGE_END:10]]
+
 11
 
 An update on the provision of safety measures along the R522 between Tiermeana Bridge
@@ -1068,7 +1089,9 @@ The heating systems currently in place in some Local Authority houses were refer
 a request was made that the name of a dedicated contact person be made available to the
 
 tenants of newly allocated houses to address any issues they may have.
----
+
+[[PAGE_END:11]]
+
 12
 
 It was agreed to hold an Online March Meeting of the District on Wednesday, 3rd March, 2021,
@@ -1094,4 +1117,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

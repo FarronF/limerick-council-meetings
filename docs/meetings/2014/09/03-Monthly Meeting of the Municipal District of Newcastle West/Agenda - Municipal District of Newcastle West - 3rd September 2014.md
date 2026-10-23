@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20municipal_district_of_newcastle_west_agenda_-_wednesday_3rd_september.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 3rd September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20municipal_district_of_newcastle_west_agenda_-_wednesday_3rd_september.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 28 August, 2014.
@@ -31,7 +32,7 @@ To: Each Member of the Municipal Distri f N
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at
-Aras William Smith OBrien, Gortboy, Newcastle West, Co. Limerick, on Wednesday, 3
+Aras William Smith OBrien, Gortboy, Newcastle West, Co. Limerick, on Wednesday, 3%
 September, 2014, at 10.00 a.m. The business to be transacted is set out on the appended
 Agenda.
 
@@ -59,7 +60,9 @@ Newcastle West.
 (Draft Standing Orders enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -111,7 +114,9 @@ Question submitted by Councillor J. Sheahan
 (b) Does the application of chlorine volume/frequency affect taste for the householder.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -152,12 +157,14 @@ Reserved Functions and revised budgetary process.
 (This item will be taken in committee at 11.30 a.m.)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH OBRIEN,
-GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 2"°
+GORTBOY, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 2°
 JULY, 2014, AT 10.00 A.M.
 
 PRESENT IN THE CHAIR: Councillor Jerome Scanlan.
@@ -194,7 +201,9 @@ held on the first Wednesday of every month at 10.00 a.m. It was noted that the n
 Meeting would take place on Wednesday, 3 September, 2014 at 10.00 a.m.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -219,7 +228,7 @@ facilities, an uncontrolled pedestrian crossing, relocated service poles on foot
 and a new cycle/pedestrian footbridge across the River Arra. A realignment of the
 junction between the Regional Road (R522) and the National Road (N21) was also
 included in the works. The plans and particulars went on public display from
-Monday, 24" March, 2014 to Friday, 9” May, 2014.
+Monday, 24" March, 2014 to Friday, 9" May, 2014.
 
 It was noted that a total of five written submissions/observations had been received
 during the period of public consultation.
@@ -244,7 +253,9 @@ Councillor Collins stated that he was not in agreement with the scheme, as
 presented, and did not support the proposal.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions submitted by Councillor J. Scanlan:
@@ -295,7 +306,9 @@ Council and Kerry County Council. It was agreed that the matter would be raised
 with Castleisland Area Office.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -330,7 +343,9 @@ Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ~ LIMERICK CITY |
@@ -345,7 +360,9 @@ NEWCASTLE WEST |
 
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Municipal District of Newcastle West, in exercise of its powers under the Local
@@ -357,60 +374,57 @@ INDEX
 
 Order No.(s
 
-_____ 1 _| Duration of Standing Orders a
-_____ 2 _| Application of Standing Orders a a
+1 __| Duration of Standing Orders a
+______ 2 _| Application of Standing Orders a
 
-P33 Meetings of the Municipal District a
+3 Meetings of the Municipal District a
 
 | gg Place and Address of Meetings a ae
-6-11 | Annual Meeting
+6-11 | Ammual Meeting
 
-___12__| Meeting to Consider Draft Budgetary Plan a
+___ 12 __| Meeting to Consider Draft Budgetary Plan | SY
 
-15-22 | SummoningofMeeting si“ “8
-|___ 23-25 __| Public Notice of Meeting a a
+|15-22 | SummoningofMeeting sid“ 3K
+___ 23-25 _| Public Notice of Meeting a a
 
-Constitution of Meetings | ge
-Order of Business a | lg
-
-Confirmation of Minutes
-
-41-49 Notices of Motion and Questions
-| 9-52 Motions To Amend or Revoke Resolutions
-| gg Motion for Purpose of Dealing with Urgent Business
-
-"Adjournment of Meeting. 8
+Constitution of Meetings a ae
+Order of Business | gsi
+Confirmation of Minutes 1 5-6
+|__s0-52 _| Motions To Amend or Revoke Resolutions | 7
+____53___| Motion for Purpose of Dealing with Urgent Business _| 7-8
+Adjournment of Meeting 8
 
 54-55 Adjournment of Meeting
-«56-58 Disclosure of Pecuniary or other Beneficial Interests gd
-59-63 _| Motions and Amendments a
+«56-58 Disclosure of Pecuniary or other Beneficial Interests ge
+59-63 __| Motions and Amendments a
 
-64-79 | Rules of Debate 9-0
+| 64-79 | Rules of Debate 9-0
 Disorderly Conduct 10-11
 
 Questions, Votes and Divisions
 
-89-94 Attendance of Public and Media a ae
+89-94 Attendance of Public and Media 2
 Cameras, Sound Recording and Communications
 Equipment
 
-97-102 | Deputations ——(“‘“‘“—s‘<‘~wSC“‘ ]Z]TNC
-lel eel
+|_97-102__| Deputations
+|S
 by the Local Authori
 
 106-119 _| Committees — General | 3-15
-120 __| Suspension of Standing Orders |S
-121 __| Interpretation of Standing Orders |S
-____ 122 __| Matters not Covered by Standing Orders | IS
-____ 123 __| Votes of Congratulations and Good Wishes | IS
-____124 _| Motions of Sympathy and Adjournments | IS,
-
-125 Expressions of Sympath fg
-16 Revocation and Commencement 6
-
+____120__| Suspension of Standing Orders |S
+___121__| Interpretation of Standing Orders |S
+____ 122 _| Matters not Covered by Standing Orders |S
+123 __| Votes of Congratulations and Good Wishes | IS
+124 __| Motions of Sympathy and Adjournments | IS
+|__125__| Expressions of Sympathy |
+| 426 Revocation and Commencement [6
 
 
----
+
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 DURATION OF STANDING ORDERS
@@ -485,7 +499,9 @@ authority, if selected in accordance with this sub-paragraph, shall not have any
 2.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -572,7 +588,9 @@ thing done at the meeting.
 3.
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 22.
@@ -651,7 +669,9 @@ Ordinary Meeting .
 4.
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ORDER OF BUSINESS
@@ -744,7 +764,9 @@ in evidence without proof. When the question that they be confirmed is put from 
 a Member may object to any part thereof as not being an accurate record and upon a
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 40.
@@ -775,7 +797,7 @@ NOTICES OF MOTION
 
 All Notices of Motion shall be forwarded in writing to the Meetings Administrator of the
 Municipal District so as to be received by her/him at least nine clear days before the
-meeting of the Council i.c. by 1 p.m. on the Monday week prior to the Municipal District
+meeting of the Council i.e. by 1 p.m. on the Monday week prior to the Municipal District
 Meeting. Such Notices shall be dated and numbered by the Meetings Administrator in the
 order in which they are received and the Meetings Administrator shall insert in the
 summons for any meeting of the Municipal District all Notices of Motion duly given in the
@@ -818,7 +840,9 @@ District must sign the notice.
 A Motion may be withdrawn by leave of the Meeting.
 
 
----
+
+[[PAGE_END:14]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 49.The following Motions may be made without Notice at a Meeting:-
@@ -879,7 +903,7 @@ with by way of motion to the City and County Council or to the Municipal Distric
 
 Meeting as already provided for;
 
-¢ A motion which is deemed not to be an emergency motion will be listed for the next City
+« A motion which is deemed not to be an emergency motion will be listed for the next City
 and County Council Meeting or Municipal District Meeting as deemed appropriate;
 
 e Emergency Motions must be submitted to the Meetings Administrator by 4.00 p.m. on
@@ -890,12 +914,14 @@ will be circulated to all Councillors prior to the Municipal District Meeting.
 ¢ The Municipal District Members may appoint a representative of the District to
 adjudicate on emergency motions submitted and determine in conjunction with the
 Cathaoirleach as to whether or not they will be put before the Municipal District
-Mecting for consideration;
+Meeting for consideration;
 
 7.
 
 
----
+
+[[PAGE_END:15]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 « In the absence of such a representative, the Cathaoirleach will make such determination
@@ -926,7 +952,7 @@ the meeting before discussion or consideration of the matter commences
 (b) Withdraw from the meeting for so long as the matter is being discussed or considered,
 and
 
-(c)Take no part in the discussion or consideration of the matter and refrain from voting in
+(c) Take no part in the discussion or consideration of the matter and refrain from voting in
 
 relation to it.
 
@@ -960,7 +986,9 @@ an amendment is carried, the Motion, as amended, shall take the place of the ori
 Motion, and shall become the question upon which any further amendment may be moved.
 
 
----
+
+[[PAGE_END:16]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 63.
@@ -1045,7 +1073,9 @@ after which the Motion authorised by this order shall be put without further
 debate.
 
 
----
+
+[[PAGE_END:17]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 75.
@@ -1068,7 +1098,7 @@ opinion that the matter under discussion has been sufficiently debated.
 
 (e) If Motion (a)(ii) is carried the question under discussion shall be at once put.
 
-(f) If Motion (a)(iii) is carried the question under discussion shall be considered as
+(fh If Motion (a)(iii) is carried the question under discussion shall be considered as
 dropped.
 
 (g) When any one of the above Motions has been put and rejected the same Motion
@@ -1110,7 +1140,7 @@ DISORDERLY CONDUCT
 If at a meeting any Municipal District Member, in the opinion of the Cathaoirleach
 notified to the members, misconducts herself or himself by persistently disregarding the
 ruling of the Cathaoirleach, or by wilfully obstructing the business of the meeting, the
-Cathaoirleach or any other Member may move “That the Member named be not
+Cathaoirleach or any other Member may move "That the Member named be not
 further heard", and the motion if seconded shall be put and determined without
 
 discussion.
@@ -1130,7 +1160,9 @@ any further part in that meeting on that day.
 10.
 
 
----
+
+[[PAGE_END:18]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 83A.
@@ -1163,7 +1195,7 @@ A behave irregularly, improperly or offensively, or
 A otherwise obstruct the business of the meeting, and
 
 the Cathaoirleach expresses this opinion to the Members present by again naming the
-Member concerned, then the Cathaoirleach or any Member may move “that the
+Member concerned, then the Cathaoirleach or any Member may move "that the
 Member named be suspended for [a specified period]" and the motion, if seconded, shall
 be put and determined without discussion. The period specified in this motion shall be
 not less than one month and not more than 6 weeks.
@@ -1209,7 +1241,9 @@ information.
 11.
 
 
----
+
+[[PAGE_END:19]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 $4.
@@ -1230,7 +1264,7 @@ QUESTIONS, VOTES AND DIVISIONS
 Every question shall, at the discretion of the Cathaoirleach, be determined cither by a show
 of hands or by a vote, but any three Members may demand a vote. When a vote occurs the
 names of the Members voting for or against the question or amendment shall be entered
-into the minutes. Members shal] vote in alphabetical order of their surnames,
+into the minutes. Members shall vote in alphabetical order of their surnames.
 
 All acts of the Municipal District Members and all questions coming or arising before the
 District, may be done and decided by a majority of those Members who vote at such
@@ -1238,7 +1272,7 @@ Meetings of the Municipal District for and against the doing of such acts or que
 except when otherwise required by law or other provisions of these Standing Orders.
 
 In the case of an equality of votes, the Cathaoirleach of the Meeting shall have a second or
-casting vote, except in the case of clection of Cathaoirleach.
+casting vote, except in the case of election of Cathaoirleach.
 
 Where the Cathaoirleach considers that the outcome of a vote was unclear or not properly
 understood he or she shall be entitled to take a second or subsequent vote.
@@ -1298,83 +1332,62 @@ Members.
 12.
 
 
----
+
+[[PAGE_END:20]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-96.
-
-Councillors are not permitted to receive or make telephone calls during meetings and all
+96. Councillors are not permitted to receive or make telephone calls during meetings and all
 electronic devices should be placed on silent.
 
 DEPUTATIONS
 
-97.
-
-A request to receive a deputation at a meeting of the Municipal District shall be made in
+97. A request to receive a deputation at a meeting of the Municipal District shall be made in
 writing to the Meetings Administrator and shall include :
-
 (a) the name of the group or organisation and its role or purpose
-
 (b) the name, address and telephone number of a contact person
-
 (c) the issue or topic on which the deputation wishes to address the District.
 
-A request to receive a deputation shall be considered by the Municipal District Members
+98. A request to receive a deputation shall be considered by the Municipal District Members
 at their next ordinary Meeting provided that such requests have been received in time to
 appear on the summons for the said ordinary Meeting.
 
 99, If the Members of the Municipal District agree to receive a Deputation it shall be received
-
-100.
-
-101.
-
-102.
-
 at the next following Meeting of the Municipal District unless the purpose of the
 Deputation concerns an issue/issues of county-wide or broader implications.
 
-No more than one Member of the Deputation may address the members except in reply to
+100. No more than one Member of the Deputation may address the members except in reply to
 questions from Members.
 
-No Deputation shall exceed five persons in number and the maximum duration of the
+101. No Deputation shall exceed five persons in number and the maximum duration of the
 address (inclusive of the reading of any supporting documentation) shall be fifteen
 minutes.
 
-When the Members of a Deputation have addressed the Meeting, they shall withdraw
+102. When the Members of a Deputation have addressed the Meeting, they shall withdraw
 from the Meeting. No discussion shall take place until the Members of the Deputation have
-
 withdrawn from the meeting.
 
 Advice that Exercise of Reserved Functions should be by the Local
 Authority
 
-103.
-
-104.
-
-105.
-
-Where the Chief Executive, following consultation with the Cathaoirleach or Leas-
+103. Where the Chief Executive, following consultation with the Cathaoirleach or Leas-
 Chathaoirleach advises that any proposed exercise or performance of a reserved function
 should be by the local authority, no motion or resolution purporting to exercise or perform
 such function shall be put.
 
-A motion to decide to refer the matter to the Corporate Policy Group as to whether the
+104. A motion to decide to refer the matter to the Corporate Policy Group as to whether the
 function should be exercised and performed by the elected Council of the local authority
 or by the Municipal District Members may be proposed and seconded at the Meeting and
 put for decision at the Meeting in accordance with Standing Order No. 59.
 
-Any reserved function the subject of advice from the Chief Executive in accordance with
+105. Any reserved function the subject of advice from the Chief Executive in accordance with
 Standing Order 103 and referred to the Corporate Policy Group in accordance with
 Standing Order 104 shall not be exercised or performed unless and until the Corporate
 Policy Group indicates that it may be so exercised by the Municipal District Members.
 
-Committees - General
+Committees — General
 
-106.
-
-The Municipal District Members may from time to time appoint a Special Committee for
+106. The Municipal District Members may from time to time appoint a Special Committee for
 a specific purpose. When appointing such a Committee is shall at the same time
 determine the number and names of Members to constitute such Committee. The
 quorum for any Committee not being a Committee of the whole Municipal District shall
@@ -1382,10 +1395,13 @@ be one quarter of the total number of Members plus one subject to a minimum of t
 Where one quarter is not a whole number the next highest whole number plus one
 applies. The term of a Special Committee shall be for such period as the Municipal
 District Members may determine when appointing the Committee.
+
 13.
 
 
----
+
+[[PAGE_END:21]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 107.
@@ -1478,7 +1494,9 @@ legal provisions.
 14.
 
 
----
+
+[[PAGE_END:22]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 SUSPENSION OF STANDING ORDERS
@@ -1529,14 +1547,16 @@ Official (husband, wife, partner, son, adjourned for 15
 daughter, mother, father, brother minutes
 or sister)
 
-(vy) Death of former Member
+(v) Death of former Member
 
 (vi) Death of Dignitary
 
 15.
 
 
----
+
+[[PAGE_END:23]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 EXPRESSIONS OF SYMPATHY
@@ -1564,7 +1584,9 @@ MEETINGS ADMINISTRATOR
 16.
 
 
----
+
+[[PAGE_END:24]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 COMHAIRLE CATHRACH & CONTAE LUIMNIGH
@@ -1587,7 +1609,7 @@ OF BALLINTUBBRID, NEWCASTLE WEST.
 
 ARTICLE 12 ROAD REGULATIONS 1994
 
-ee ee mem wwe come eww e enn cence e ee emennn ee mmc een eee ewe een nnn nnn eee - eee wen cwecenecnenesces
+ee ee mem mn ee come ce ww enn concn e we emenen ee mmo een eee ewe enn nnn nn ern - eee wen owe ceneceennnce=
 
 A Chomhairleoir, a chara,
 
@@ -1602,15 +1624,17 @@ members of the Municipal District of Newcastle West.
 
 Mise le meas,
 
-ravi ROWE
+Pauli ROWE
 DIRECTOR
 
 TRAVEL & TRANSPORTATION
 
-2_068_16_o0a39
+02_068_16_o0a39
 
 
----
+
+[[PAGE_END:25]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Oifig Dearadh Bothar
@@ -1662,7 +1686,7 @@ forthcoming Limerick Leader Edition of Saturday 9" August 2014. The public will 
 opportunity in accordance with Article 12 of the Road Regulations 1994 to make a submission to
 this office on this matter up until 4 p.m. on Friday 22 August 2014. It is the intention of this
 office to place the above item on the agenda of the next meeting of the Municipal District of
-Newcastle West taking place on 3" September 2014.
+Newcastle West taking place on 3” September 2014.
 
 C H.
 
@@ -1671,34 +1695,34 @@ ADMINISTRATIVE OFFICER A/SENIOR ENGINEER
 
 Encl.
 
-{}) ENGINEERS y
+1) ENGINEERS y
 4
 
-Telephone 061-496800 Fax 061-563150 e-mail info@midwestroads.ie Web www.midwestroads.ie
-ee
+Telephone 061-496800 Fax 061-563150 e-mail info@midwestroads.ic Web www.midwestroads.ie
+—— ————
 
-‘Mid West Nasional Road Design Office is 2 collaboration ef Limerxt Cosory Council, Troaxcnamd piirtndivraches is ea Olfig Dearadh Béchar Néisiints a> Mbedix laribai: ite Cocuhawte
-Lezenck Cry Council and Nomh Tipperary County Cosexil. Coonter Luimunigh. Combaire Cacheath Luirenigh Coeshairie Checmne Thichraié Auoce Thesidh.
+‘Mid West Nasional Road Design Office is 2 collaboration ef Limerkt Cosory Council, Toaxnamd piirodivractes is ea Olfig Dearadh Béchar Néisiints a> Mbedix larvbai: ite Cocuhawte
+Lezenck Cay Council and Nomh Tipperary County Cosexil. Cronter Luimunigh. Combairte Cacheath Luirenigh Coeshairie Checmne Thichraié Anote Thesidh.
 
 
----
+
+[[PAGE_END:26]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 \
 
-_
-. be _
-oe ie
-i fe
-Pal fer
-
-t
-
 1
+
+P
+
+i
 
 |
 +} .
 
 
 
----
+
+[[PAGE_END:27]]
+

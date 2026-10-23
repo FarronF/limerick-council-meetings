@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Meeting-of-Joint-Policing-Committee-2nd-June-2023.pdf)
+**Original file:** [Minutes - Meeting of Joint Policing Committee - 2nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Meeting-of-Joint-Policing-Committee-2nd-June-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
 **CHAMBER, DOORADOYLE AND ONLINE ON FRIDAY, 2ND** **JUNE, 2023 AT 10.00 A.M.**
@@ -102,7 +103,9 @@ Seconded by Councillor S. Keary
 The Chief Superintendent stated that he would answer any queries after the presentation from the Senior Crime
 
 and Policing Analyst.
----
+
+[[PAGE_END:1]]
+
 **3.OVERVIEW ON CRIME STATISTICS FROM SENIOR CRIME AND POLICING ANALYST**
 
 Ms. L. Collins, Senior Crime and Policing Analyst gave a brief statistical overview of current crime statistics.
@@ -182,7 +185,9 @@ of the landowner.
 ***scrambler motorbikes in Limerick, especially in the city centre, urban estates and public green areas across***
 
 ***both Limerick city and county”.***
----
+
+[[PAGE_END:2]]
+
 **RESPONSE**
 
 The Chief Superintendent confirmed that in March 2023 Operation Scrambler was established to proactively
@@ -288,7 +293,9 @@ units to non-core community policing units.
 ***“I will move at the next Meeting that action is taken to tackle the scourge of illegal scramblers on the rivers**ide***
 
 ***path from The Lock to the University of Limerick”.***
----
+
+[[PAGE_END:3]]
+
 Cllr. Hartigan stated that the Notice of Motion be amended to read Locke Quay, not The Lock.
 
 The amended Notice of Motion was proposed by Councillor S. Hartigan, seconded by Councillor S. Keary and
@@ -358,7 +365,9 @@ Rathkeale to Askeaton Road, which is very dangerous for road users and residents
 The Chairman pointed out that he met with the Head of the Policing Unit who agreed to carry out checks on this
 
 road.
----
+
+[[PAGE_END:4]]
+
 Councillor K. Sheahan expressed concern at the speed and driving behaviour on the Adare to Askeaton Road.
 
 The Chairman stated that speeding on rural and regional roads is a problem, however, it is not possible to have a
@@ -396,4 +405,6 @@ The Chairman convened the remainder of the Meeting “In Committee” to discuss
 **Councillor Adam Teskey, Chairman**
 
 **Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

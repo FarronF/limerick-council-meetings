@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20Meeting%20-%2025th%20March%202015.pdf)
+**Original file:** [Draft Minutes - Community Leisure & Emergency Services SPC Meeting - 25th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20Meeting%20-%2025th%20March%202015.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -6311,7 +6312,9 @@ in the context of the PPN representatives coming on board.
 **Proposed: Cllr. Francis Foley**
 
 **Seconded: Cllr. Lisa Marie Sheehy**
----
+
+[[PAGE_END:1]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -12592,7 +12595,9 @@ with the queries being responded to.
 D. McGuigan gave details of the Sports Capital Funding that had recently become available.
 
 Closing date for applications was 24th April 2015.
----
+
+[[PAGE_END:2]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -18819,4 +18824,6 @@ Arts disciplines. Training and clinics will be implemented around this grant str
 **Any Other Business**
 
  Next SPC 10th June 2015. Provisional venue - **Castlemahon Community Centre**
----
+
+[[PAGE_END:3]]
+

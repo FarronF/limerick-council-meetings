@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01a-minutes-meeting-of-the-municipal-district-of-newcastle-west-10th-january-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 10th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01a-minutes-meeting-of-the-municipal-district-of-newcastle-west-10th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -92,7 +93,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
 such interests were declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -164,7 +167,9 @@ District has a list of schemes which are determined in priority e.g. Monagea, Ca
 Broadford, NCW and Carrigkerry. A large of allocation was attributed to Athea during
 
 2022/2023. This project will be added to the current list of priorities and the works will be
----
+
+[[PAGE_END:2]]
+
 3
 
 carried out when funding will be available.
@@ -240,7 +245,9 @@ REPLY:
 We will examine the projects identified above for potential inclusion into the
 
 Schedule of Municipal Works 2024.
----
+
+[[PAGE_END:3]]
+
 4
 
 9.
@@ -322,7 +329,9 @@ A large allocation was attributed to Athea during 2022/2023. This project will
 be added to the current list of priorities and the works will be carried out when
 
 funding will be available.
----
+
+[[PAGE_END:4]]
+
 5
 
 NOTICES OF MOTION
@@ -382,7 +391,9 @@ covers. In replying, the Senior Executive Engineer stated that there are two pro
 commencing in the Abbeyfeale area shortly and a substantial number of these manhole
 
 covers will be addressed when these works are carried out.
----
+
+[[PAGE_END:5]]
+
 6
 
 16. Notice of Motion submitted by Councillor J. Scanlan
@@ -458,7 +469,9 @@ being provided and to the considerable length of time taken to repair street lig
 in the District. Other Members concurred with Councillor Scanlan and a discussion took place
 
 on a number of matters including statistics on the number of street lights not operational in
----
+
+[[PAGE_END:6]]
+
 7
 
 the District, dissatisfaction with the Service Level Agreement, how the service can be
@@ -528,7 +541,9 @@ of property and valuation professional services was recently advertised on etend
 all interested parties were invited to submit a Tender. It was also noted that a panel is to be
 
 put in place in early 2024 which will be circulated to the Members in due course.
----
+
+[[PAGE_END:7]]
+
 8
 
 18. Notice of Motion submitted by Councillor J. Sheahan
@@ -598,7 +613,9 @@ In proposing the Motion, Councillor Foley requested that footpath works be carri
 rear of Hazelgrove Estate, Newcastle West this year. Following a brief discussion, Councillor
 
 Collins stated that he had previously raised this matter and that if works were to go ahead at
----
+
+[[PAGE_END:8]]
+
 9
 
 this location that a costing be carried out for the repair of the wall also which was requested
@@ -660,4 +677,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

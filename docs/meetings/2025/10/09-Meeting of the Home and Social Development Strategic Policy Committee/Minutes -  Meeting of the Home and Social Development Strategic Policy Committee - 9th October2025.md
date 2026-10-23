@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-9th-october-2025.pdf)
+**Original file:** [Minutes -  Meeting of the Home and Social Development Strategic Policy Committee - 9th October2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-9th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -96,7 +97,9 @@ meetings.
 **Item 2: Matters arising from the Minutes**
 
 Cllr. Sarah Kiely and Cllr. Stephen Keary asked for clarification regarding SMART Housing in relation
----
+
+[[PAGE_END:1]]
+
 2
 
 to the last meeting.
@@ -174,7 +177,9 @@ can be included for Tenant in Situ acquisitions. Ms Newell outlined that when fu
 guidance is announced for 2026 that this item will be brought back to the SPC members to agree on
 
 how to spend that allocation.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Proposed:** Cllr. Sharon Benson
@@ -250,7 +255,9 @@ A history of no rent arrears
 •
 
 No history of anti-social behaviour
----
+
+[[PAGE_END:3]]
+
 4
 
 •
@@ -320,7 +327,9 @@ affordable and suitable accommodation for students attending third-level institu
 opportunities for cost-rental, or cooperative models of development; (iv) Removing planning or
 
 zoning barriers where appropriate for the construction of student housing”.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr Hickey O’ Mara gave an overview on his Notice of Motion to the members. The members discussed
@@ -366,4 +375,6 @@ out in 2026.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-november-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 6th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-november-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+_——_ Comhairle Cathrach
 & Contae Luimnigh
 
-AN if ™~
+wt
 
 — Limerick City
 & County Council
@@ -39,14 +40,16 @@ Gortbut
 
 An Caislean Nua Thiar,
 
-Co. Luimnigh
+Co. Lsimnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council,
+
 Aras William Smith O'Brien,
+
 Gortboy,
 
-Newcastle West.
+Newcastle West,
 
 Co, Limerick
 
@@ -64,7 +67,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6" Nove
 
 Meetings Administrator.
 
-ee
+Sees
 
 1. Support Services Directorate
 
@@ -91,11 +94,13 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 (Copy Enclosed)
 
-YW @LimerickCouncil
+VW @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -133,12 +138,15 @@ Disposal of Land
 (a) To note proposal for the Disposal of Property, by way of Lease at Main Street,
 Ardagh, Co. Limerick.
 (b) To note proposal for the Disposal of 16.50 Acres (6.677 Hectares) of Land at
+
 Churchtown, Newcastle West, Co. Limerick.
 
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -185,7 +193,7 @@ Questions submitted by Councillor L. Galvin
 Garage towards Dalton’s Cross, to include costings and start/completion dates
 where possible.
 
-! will ask at the next Meeting for an update on Ray's Estate, Mountcollins, to include
+| will ask at the next Meeting for an update on Ray's Estate, Mountcollins, to include
 road resurfacing, water and lighting.
 
 | will ask at the next Meeting (a) who is responsible for the grass cutting on the
@@ -193,7 +201,9 @@ newly created islands from Mountmahon towards the town (b) can a contract be put
 in place to have these cut on a regular basis.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -222,8 +232,10 @@ be reviewed in the interest of safety.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-| will move at the next Meeting that speed ramps be installed at the two entrances
+I will move at the next Meeting that speed ramps be installed at the two entrances
 to Athea village (Upper and Lower Athea).
 
 
----
+
+[[PAGE_END:4]]
+

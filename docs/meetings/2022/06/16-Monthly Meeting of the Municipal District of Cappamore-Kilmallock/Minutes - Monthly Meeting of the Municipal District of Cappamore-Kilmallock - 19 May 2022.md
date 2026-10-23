@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Minutes-19th-May-Monthly-Meeting-of-Cappamore-Kilmallock-Municipal-District.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19 May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Minutes-19th-May-Monthly-Meeting-of-Cappamore-Kilmallock-Municipal-District.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -74,7 +75,9 @@ position in Limerick, was read into the minutes. The Elected Members held a fran
 discussion on the response, and agreed to correspond with Minister Peter Burke’s Office
 
 requesting further clarification regarding
----
+
+[[PAGE_END:1]]
+
  Details of the role of the Directly Elected Mayor
 
  Whether a Citizens Assembly will be made available in Limerick as has been in the
@@ -140,7 +143,9 @@ Trust and Friars Gate that the nomination for funding from the General Municipal
 Allocation is on behalf of all Elected Members of the Cappamore Kilmallock Municipal
 
 District.
----
+
+[[PAGE_END:2]]
+
 A suggestion was made that funding be provided from the Central budget towards Friars
 
 Gate Theatre and The Maigue Rivers Trust to a minimum of €3000 each as opposed to
@@ -190,7 +195,9 @@ undertaken on the buildings to date. These discussions will take place prior to 
 Municipal District Meeting and the Notice of Motion above will carry over to the June
 
 Municipal District Meeting.
----
+
+[[PAGE_END:3]]
+
 7.Any other Business
 
 **Expressions of Sympathy**
@@ -240,4 +247,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:4]]
+

@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%202019-04-03%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West  - 3rd April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%202019-04-03%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach Duiche Bardais an Genie Nua Thiar,
-& Contae Luimnigh Comhairle Cathrach agus Conte Luimnigh.
-AA fe a SSS Aras William Smith O’Brien,
+& Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh.
+AA fo SSS Aras William Smith O’Brien.
 
 — i Gortbut
 Limerick City
-& County Council An os Nua Thiar,
+& County Council An re Nua Thiar,
 
 Newcastle West Municipal District.
 Limerick City and County Council.
 Aras Wittiam Smith O'Brien.
 Gortboy,
 
-Newcastle West.
+Newcastle West,
 
 Co. Limerick.
 
@@ -47,10 +48,10 @@ To: The Cathaoirleac er of unicipal Distri
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on "4 April, 2019,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on "4 April, 2019
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is Wh le meas,
+Is Wi le meas,
 MargaretCorbett,
 
 Meetings Administrator.
@@ -72,12 +73,14 @@ Planning and Development Act 2000 (Amended), which provides for the extension of
 the valid life of a Local Area Plan.
 
 (Report Enclosed)
-eee
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach wvew.limerick.ie
+aaah feces
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach wvew.limericicie
 Corporate Headquarters, Merchant's Quay, Limerick WY e@limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -95,7 +98,7 @@ life of a Local Area Plan.
 
 (Report Enclosed)
 
-Dev t Dir:
+Dev t Dir
 
 To note progress report from the Housing Development Directorate.
 
@@ -111,7 +114,7 @@ Deputation
 To consider receiving deputation from the Cryleview Residents Association
 Abbeyfeale at a future Meeting of the District.
 
-Ph | | orate
+Ph | 1 ‘orate
 
 (a) To nominate one Elected Member from the Municipal District of Newcastle West
 to attend a Meeting with Transport Infrastructure Ireland.
@@ -133,7 +136,9 @@ enable connectivity through the L21021 from the N21 at Barnagh to allow access t
 property.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -174,4 +179,6 @@ facility/pool to be located in Newcastle West Town to serve the people of the
 Municipal District and its hinterland.
 
 
----
+
+[[PAGE_END:3]]
+

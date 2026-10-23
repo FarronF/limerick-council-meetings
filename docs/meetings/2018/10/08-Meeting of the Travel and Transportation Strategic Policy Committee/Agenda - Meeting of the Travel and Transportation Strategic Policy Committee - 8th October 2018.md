@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/8th%20Oct%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 8th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/8th%20Oct%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_— Comhairle Cathrach oa na — =
-& Contae Luimnigh Com hrach agus Contae Luimn’
-YT ile ee
+_—_—_— Comhairle Cathrach oe na —e —
+& Contae Luimnigh Com hrach agus Contae Luimni
 
 Limerick City
 —— & County Council —
@@ -42,25 +42,27 @@ You are invited to attend a Meeting of the Travel and Transportation Strategic P
 be held in the ncil ber, Merchant’s Quay, Limerick, on Monday 8th October, 2018 at
 10:00 a.m. The business to be transacted is set out in the appended agenda.
 
-At FA.
+rt XA.
 
 Signed:
 CHAIR OF THE TRAVEL AND TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
-Kk
+K
 
 DIRECTO SERVICE
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 @ Customerservices@limerick.ic
 
-« wwwlimericicie
+« wwwlimericic.ie
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
+Ceanncheathrui Chorparéideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1.
@@ -73,30 +75,27 @@ To adopt the minutes of the Meeting of the Travel and Transportation Strategic P
 Committee held on Sth April 2018.
 
 (Copy Enclosed)
-
-2.
+2. Notice of Motion submitted by Councillor Galvin (deferred from June 2018
 
 3.
-
-Notice of Motion submitted by Councillor Galvin (deferred from June 2018
 
 Meeting)
 
 “| will move at the next Meeting that the Government review the locations of the
-'Go Safe’ vans within Co. Limerick”.
+‘Go Safe’ vans within Co. Limerick”.
 
 Notice of Motion submitted by Councillor Galvin (deferred from June 2018
 
 Meeting)
 
-“I will move at the next Meeting that a programme be put in place to number all the
+“| will move at the next Meeting that a programme be put in place to number all the
 local roads within this Municipal District”.
 
 Notice of Motion submitted by Councillor J. Leddin (deferred from June 2018
 
 Meeting)
 
-“| will move at the next meeting that Limerick Metropolitan Council review the
+“l will move at the next meeting that Limerick Metropolitan Council review the
 current use of the Rosbrien Road to Edward Street by Bus Eireann in view of the
 speed and frequency of buses and the growing danger to both elderly and young
 children living on this road.”
@@ -116,12 +115,14 @@ footbridge.”
 
 Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
 
-“I will move at the next meeting that Limerick City and County Council introduces
+“| will move at the next meeting that Limerick City and County Council introduces
 designated parking spaces for motorbikes and mopeds in Limerick City centre and
 that these will be monitored to view the viability of their expansion at a later time.”
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -145,4 +146,6 @@ Limerick.”
 Presentation by Limerick Smarter Travel on Mobility Management Plans
 
 
----
+
+[[PAGE_END:3]]
+

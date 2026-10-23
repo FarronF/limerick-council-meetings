@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28d%29%20Minutes%2016th%20October%2C%202018%20Draft%20Budgetary%20Plan%202019.pdf)
+**Original file:** [Minutes - Draft Budgetary Meeting of the Municipal District of Adare-Rathkeale - 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28d%29%20Minutes%2016th%20October%2C%202018%20Draft%20Budgetary%20Plan%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE MUNICIPAL**
 
 **DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD,**
@@ -108,7 +109,9 @@ Special Projects – LA Infrastructure
 **General Municipal Allocation**
 
 **€ 225,000**
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director of Support Services confirmed that it was necessary to assign the ‘Special
@@ -142,4 +145,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

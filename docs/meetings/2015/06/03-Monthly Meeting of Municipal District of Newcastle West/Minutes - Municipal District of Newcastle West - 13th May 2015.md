@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03_draft_minutes_of_special_meeting_13th_may.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 13th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03_draft_minutes_of_special_meeting_13th_may.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -62,7 +63,9 @@ In response to queries from the Members, he stated that he was satisfied with is
 of safety and visibility regarding the proposal.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A lengthy discussion ensued and on the proposal of Councillor Sheahan, seconded
@@ -75,4 +78,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

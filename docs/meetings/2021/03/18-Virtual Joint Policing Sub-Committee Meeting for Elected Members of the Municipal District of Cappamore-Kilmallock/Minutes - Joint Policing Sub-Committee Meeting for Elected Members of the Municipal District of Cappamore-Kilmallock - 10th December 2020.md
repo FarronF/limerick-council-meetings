@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/02-minutes-of-december-2020-jpc-sub-committee-meeting.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/02-minutes-of-december-2020-jpc-sub-committee-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING
@@ -92,7 +93,9 @@ by Bruff Garda Station in 2020 to 2019 including:
  A reduction in Drink Driving
 
  An increase in serious injury traffic accidents.
----
+
+[[PAGE_END:1]]
+
 2
 
 In relation to crime in the district, the Drugs Unit has noted an increase in drug detection.
@@ -162,7 +165,9 @@ Taghnan in relation to their support for James’ Journey
 Further clarification on the operating model and property marking will be sought at the next
 
 JPC meeting.
----
+
+[[PAGE_END:2]]
+
 3
 
 This concluded the business of the meeting.
@@ -176,4 +181,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

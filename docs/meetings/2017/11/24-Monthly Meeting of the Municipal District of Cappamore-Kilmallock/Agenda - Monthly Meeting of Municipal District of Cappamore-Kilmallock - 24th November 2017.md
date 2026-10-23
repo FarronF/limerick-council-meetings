@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Meeting%20241117.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 24th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Meeting%20241117.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
-_——_—_— & Contae Luimnigh
+__—__— & Contae Luimnigh
 
-- — Limerick City
+. — Limerick City
 meri
 & County Council
 
@@ -65,7 +66,7 @@ vember, 2017, at 3.30 p.m. The business to be transacted is set out on the appen
 Agenda.
 
 Is mise le meas,
-Me Lae xo
+"ee Lae xv
 na Knox,
 
 Meetings Administrator.
@@ -93,7 +94,7 @@ To fix date for December Meeting.
 To consider the establishment of a JPC Sub-Committee for the Municipal District
 of Cappamore-Kilmallock in accordance with the JPC Strategic Plan 2016-2021.
 
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach
 
 Corporate Headquarters, Merchants Quay, Limerick
 
@@ -106,7 +107,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -157,7 +160,9 @@ purpose.
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -174,7 +179,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor L.M. Sheehy
 
-1 will move at the next Meeting that the Council change the right-of-way, or create a
+| will move at the next Meeting that the Council change the right-of-way, or create a
 roundabout, or the safest option, as a matter of urgency at the Grotto junction in
 Kilfinane.
 
@@ -186,4 +191,6 @@ Premises in Herebertstown under the provisions of the Derelict Sites Act.
 Correspondence.
 
 
----
+
+[[PAGE_END:3]]
+

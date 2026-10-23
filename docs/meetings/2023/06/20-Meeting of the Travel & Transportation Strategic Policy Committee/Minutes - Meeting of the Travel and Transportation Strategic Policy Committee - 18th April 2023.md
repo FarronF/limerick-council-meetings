@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Minutes-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-18th-April-2023.pdf)
+**Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 18th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Minutes-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-18th-April-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -72,7 +73,9 @@ people with disabilities, older people and parents with buggies across many comm
 Limerick.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 The Chair thanked the Group and opened the floor to questions.
@@ -148,7 +151,9 @@ that she has worked with the Group since 2014 on different campaigns. She compli
 group and added that she had received a number of concerns from the public with regard to
 
 junction of Bedford Row and Thomas Street. There were also concerns raised by Dóchas Autism
----
+
+[[PAGE_END:2]]
+
 3
 
 Support on Parnell Street with regard to noise and scooters on footpaths coming up behind
@@ -218,7 +223,9 @@ delivered the presentation on BusConnects.
 The chair thanked Mr. Walker and the NTA for the presentation and opened the floor to
 
 questions.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr. O’Hanlon welcomed the exciting project. He would like a meeting arranged with the NTA to
@@ -290,7 +297,9 @@ Travel time calculations are based on existing times and are founded on walk/wai
 The Chair thanked the NTA and Jarrett Walker & Associates for the Presentation and stated that
 
 there was a lot of useful information discussed. She wished the best of luck with the submissions.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Item 3: Presentation on World Class Waterfront URDF scheme** **–** **Strand 3** **–** **Pedestrian Bridges**
@@ -322,4 +331,6 @@ over the years and wished him well in his retirement.
 The Chair thanked the presenters and members for their contribution. The meeting then
 
 concluded.
----
+
+[[PAGE_END:5]]
+

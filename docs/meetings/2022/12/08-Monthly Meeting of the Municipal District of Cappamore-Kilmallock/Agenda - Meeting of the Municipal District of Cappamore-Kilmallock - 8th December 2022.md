@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01-Agenda-for-December-2022-MD-Meeting.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 8th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01-Agenda-for-December-2022-MD-Meeting.pdf)
 
----
+[[FILE_START]]
+
 **2nd** **November 2022.**
 
 **To/**
@@ -52,7 +53,9 @@ Kilmallock held on the 17th November 2022
 2.Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 17th November 2022.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Property Services
@@ -106,7 +109,9 @@ the proposed locations of same.”
 previous motion on traffic issues in Doon, what is the outcome of the traffic survey carried
 
 out there to help with the traffic congestion in Main St, Doon.”
----
+
+[[PAGE_END:2]]
+
 3
 
 9.Question submitted by Councillor Carey
@@ -136,4 +141,6 @@ population. “
 “I will ask at the next meeting of the Cappamore Kilmallock Municipal District what dates
 
 voids in Cappamore/Kilmallock will actually be returned to use.”
----
+
+[[PAGE_END:3]]
+

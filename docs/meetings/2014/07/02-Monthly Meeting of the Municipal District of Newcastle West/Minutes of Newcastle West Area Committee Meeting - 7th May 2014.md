@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_newcastle_west_area_committee_meeting_-_07_may_2014.pdf)
+**Original file:** [Minutes of Newcastle West Area Committee Meeting - 7th May 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_newcastle_west_area_committee_meeting_-_07_may_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF NEWCASTLE AREA COMMITTEE MEETING HELD ON 7°” MAY,
@@ -32,7 +33,7 @@ M. O’Brien EE, M. Corbett SSO
 
 1. Adoption of Minutes
 
-Circulated copies of Minutes of the Meeting held on 3 April, 2014.
+Circulated copies of Minutes of the Meeting held on 9 April, 2014.
 Proposed by: Councillor Galvin
 Seconded by: Councillor Foley
 
@@ -64,7 +65,9 @@ disposal of this small plot of land at Lower Maiden St.
 The disposal was proposed by Cllr. Galvin and seconded by Cllr. Scanlan.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions
@@ -79,7 +82,7 @@ that he had spoken to Filterteck and they are in favour of replacing the trees
 which fell. It was agreed that the Horticultural Section would be contacted
 with regard to this matter.
 
-(ii) “I will ask at the next area meeting that signage be provided at
+(ii) “tl will ask at the next area meeting that signage be provided at
 Sycamore Crescent, Oakpark Estate, to alert drivers that children play
 within the area also, that the provision of speed ramps be considered for
 both areas”.
@@ -103,7 +106,7 @@ possible.
 
 Questions submitted by Councillor Galvin:
 
-(i) “I will ask again at the next area meeting that the manhole outside the
+(i) “| will ask again at the next area meeting that the manhole outside the
 Cellar Bar on the N.21 be replaced or repaired”.
 
 P. Vallely stated that he had been in contact with Enet and they are to resolve
@@ -114,7 +117,9 @@ Cratloe, towards the Cooniceens be drained and repaired as it is not
 passable to traffic”.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 P. Vallely stated that a lot of work was required for this road and it
@@ -148,7 +153,7 @@ P. Vallely stated that a low crash barrier is to be installed at Dually bridge.
 
 4. Any Other Business
 
-Clir. Riedy referred to the caravans parked on the green near Castleview. It
+Cllr. Riedy referred to the caravans parked on the green near Castleview. It
 was noted that Shannon Development are the owners of this property and an
 injunction has been sought with regard to the removal of the caravans.
 Discussion took place on whether a barrier or bollards could be erected at the
@@ -162,7 +167,9 @@ Council is to take place on the 6" June and all municipal district meetings are
 to take place within 10 days of this meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr. Riedy wished all existing Councillors well in the upcoming elections and
@@ -180,4 +187,6 @@ SECRETARY
 DATE
 
 
----
+
+[[PAGE_END:4]]
+

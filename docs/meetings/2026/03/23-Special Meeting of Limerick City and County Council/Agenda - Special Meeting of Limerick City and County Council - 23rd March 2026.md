@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-23rd-march-2026.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 23rd March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-23rd-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-all Comhairle Cathrach Seirohis{ Corpardideacha, Rialachais & Custaiméara
+a Comhairle Cathrach Seirohisi Corpardideacha, Rialachais & Custaiméara
 ; ; Comhairle Cathrach & Contae Luimnigh
-& Contae Luimnigh Ceannchearth Chorpardideach
+& Contae Luimnigh Ceanncheartha Chorpardideach
 
-AN F . : . = Cé na gCeannaithe
+AN 4 . : . = Cé na gCeannaithe
 =— Limerick City Luimneach. V94 EH9O
 
 & County Councit
@@ -50,14 +51,14 @@ on Monday, 23” March, 2026, at 4.30 p.m. The business to be transacted is set 
 
 Is mise le meas,
 
-» Letn (Abe,
+» Letn (bey
 
 he Ciara Farrell,
 Meetings Administrator.
 
 AGENDA
 
-1. Strategic Infrastructure Develo: it for Proposed Water Su Project for
+1. Strategic Infrastructure Develo; it for Proposed Water Su Project for
 Eastern and Midlands Region
 
 To consider the Director General's Report in accordance with the requirements of Section 37E
@@ -67,8 +68,10 @@ Eastern and Midlands Region.
 
 (Report already circulated)
 = é lmerick.te
-Ceanncheathri Chorparadideach, Cé na gCeannaithe, Luimneach www
-Corporate Headquarters, Merchant's Quay, Limerick Ww @LimerickCouncil
+Ceanncheathra Chorparadideach, Cé na gCeannaithe, Luimneach www!
+Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/22-04-20-Final-minutes-of-Home-and-Social-Development-SPC-Apr-meeting.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 20th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/22-04-20-Final-minutes-of-Home-and-Social-Development-SPC-Apr-meeting.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -98,7 +99,9 @@ meeting.
 **Proposed:** Cllr. Stephen Keary
 
 **Seconded:** Cllr. Sarah Kiely
----
+
+[[PAGE_END:1]]
+
 **Item 2: Matters arising from the Minutes**
 
 No matters arising from previous minutes.
@@ -172,7 +175,9 @@ Conor Culloo, Senior Engineer confirmed the grant allocation from the Department
 - Cllr. Sharon Benson and Cllr. Sarah Kiely, sought clarification on the Disabled Person’s
 
 Grant and transfer applications as part of the DPG process. Ms Phillips assured the
----
+
+[[PAGE_END:2]]
+
 committee that each DPG application is reviewed on a case-by-case basis and assessed
 
 accordingly.
@@ -258,7 +263,9 @@ locations identified came about following an expression of interest from develop
 January 2022 and that the next call to home builders and housing developers would be in
 
 May/June 2022. Ms. Newell added that City Centre locations are progressing through the
----
+
+[[PAGE_END:3]]
+
 planning application process citing Speakers Corner as an example. Ms. Newell informed
 
 the members that the Council has received over 500 submissions to date from interested
@@ -332,4 +339,6 @@ contributions and presentation given and wished former Councillor John Costelloe
 SPC member well on behalf of the Committee.
 
 **END OF MEETING**
----
+
+[[PAGE_END:4]]
+

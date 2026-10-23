@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_april_2015.pdf)
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 15th April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_april_2015.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 
@@ -59,4 +60,6 @@ Twinning
 To consider approving Twinning Visit to USA in accordance with Section
 
 142(5) of the Local Government Act, 2001.
----
+
+[[PAGE_END:1]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20JPC%20Meeting%203rd%20June%2C%202022.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 3rd June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20JPC%20Meeting%203rd%20June%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Comhairle Cathrach
+ae Comhairle Cathrach
 = & Contae Luimnigh
 ~_ Limerick Cit
 — me’ ity
@@ -32,14 +33,14 @@ TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE
 
 A Chara,
 
-Seirbhisi Corperéideacha.
+Seirbhisi Corperéideacha,
 
 Comhairie Catheach agus Contae Luimnigh,
-Ceanncheathna Chorparéideach,
+Ceanncheathna Chorparéaideach,
 
 Cé na gCeannaithe,
 
-Luanineach
+Luanineech
 
 Corporate Services,
 
@@ -54,7 +55,7 @@ EIRCODE V94 EH90
 t: +353 (0) 61 $$7150
 f: +353 (0) 61 415 266
 
-I wish to inform you that an online Meeting of Limerick Joint Policing Committee will take place
+| wish to inform you that an online Meeting of Limerick Joint Policing Committee will take place
 
 on Friday, 3 June, 2022 at 10.00 a.m.
 
@@ -82,19 +83,21 @@ the Department of Transport. There are no outstanding LA16s.
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-™ customerservices@limerick.ie
-© wonwimernickic
+™ customerservices@iimerick.te
+© wonwimernickie
 
 Ww @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Maurice Quinlivan, T.D.:
 
-‘t will ask at the next meeting for a progress report on operation ‘Operation Copdég’, how It is
+‘t will ask at the next meeting for a progress report on operation ‘Operation Copég’, how It is
 progressing and if there is an anticipated end date’.
 
 9. Question submitted by Maurice Quinlivan, T.D.:
@@ -109,7 +112,7 @@ the proposed unit Is due to be operational’.
 
 11. Question submitted by Councillor Tom Collopy :
 
-‘1 will ask at the next meeting to outline, if any, specific steps which are being taken to
+‘t will ask at the next meeting to outline, if any, specific steps which are being taken to
 address the apparent increase in violent muggings and assaults in the city centre’.
 
 12. Question submitted by Councillor Conor Sheehan :
@@ -134,4 +137,6 @@ recouped by whatever means necessary by the State’.
 Commissioner to request additional Garda resources to police the city centre’.
 
 
----
+
+[[PAGE_END:2]]
+

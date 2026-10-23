@@ -24,7 +24,7 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Limerick City and County Council Budget 2017 Meeting - 11th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_limerick_city_and_county_council_budget_2017_meeting_-_11th_november_2016.pdf) - [Extracted text](./Agenda%20-%20Limerick%20City%20and%20County%20Council%20Budget%202017%20Meeting%20-%2011th%20November%202016.md)
+Agenda - Limerick City and County Council Budget 2017 Meeting - 11th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_limerick_city_and_county_council_budget_2017_meeting_-_11th_november_2016.pdf) - Text not extracted
 
 Draft Budget 2017 Chief Executive Report and Budget Tables - Limerick City and County Council Budget 2017 Meeting - 11th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/draft_budget_2017_chief_executive_report_and_budget_tables.pdf) - Text not extracted
 

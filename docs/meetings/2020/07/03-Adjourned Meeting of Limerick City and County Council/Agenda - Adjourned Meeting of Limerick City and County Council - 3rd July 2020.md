@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-i-agenda-adjourned-meeting-03.07.2020.pdf)
+**Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-i-agenda-adjourned-meeting-03.07.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—__ Comnairie Cathrach
+_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-AN mem
+An mem
 
 —=—=> Limerick City
 & County Council
@@ -32,7 +33,7 @@ AN mem
 
 Sewbhisi Corpardideacha,
 
-Comhairle Cathrach agus Contae Luimngh,
+Comhairle Cathrach agus Contae Luimrugh,
 
 Ceanncheathni Chorparakieach,
 Cé na gCeannaithe.
@@ -48,7 +49,7 @@ Limerick
 
 EIRCODE V94 EH90
 
-t: 4353 (0) 61 557150
+t: 4353 (0) 61 5571350
 f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -69,7 +70,7 @@ immediately after the Adjourned Meeting.
 
 Is mise le meas,
 
-Ja | oe
+Ja | os
 
 Meetings Administrator.
 
@@ -77,4 +78,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

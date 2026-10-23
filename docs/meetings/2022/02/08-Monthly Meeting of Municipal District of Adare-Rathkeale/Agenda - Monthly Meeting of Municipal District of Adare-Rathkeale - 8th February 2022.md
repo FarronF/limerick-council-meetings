@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-8th-february-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 8th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-8th-february-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-<i Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+OE Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
 Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Aras Séan Fenn.
-AaALm™ Line Nua,
+Ams Line Nua,
 
 — Limerick City Rath Coola
 = & County Council Co. Luimnigh.
@@ -48,7 +49,7 @@ f: +353 (0) 69 63188
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-The Carneige Library, Bal Askeaton, Co. Limerick V94 322C on Tuesday, 8" February,
+The Carneige Library, Ba' Askeaton, Co. Limerick V94 322C on Tuesday, 8" February,
 2022 at 9.30a.m. The business to be transacted is set out on the appended Agenda.
 
 is mise le meas,
@@ -66,11 +67,13 @@ District Engineers Report
 To update Members on issues of interest in the District.
 (Report Enclosed).
 s@limerick.ie
-Coanncheathra Chorpardidesch, Cé na gCeannaithe,Luimneach 1 . o wirniinarhia
+Cosnncheathra Chorpardideach, Cé na gCeannaithe,Luimneach 1 * o wireiinarhia
 Corporate Headquarters, Merchants Quay, Limerick, @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation (GMA)
@@ -97,4 +100,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

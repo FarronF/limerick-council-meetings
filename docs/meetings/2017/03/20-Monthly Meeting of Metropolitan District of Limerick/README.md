@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Metropolitan District of Limerick - 20th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_20th_march2c_2017.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20March%202017.md)
+Agenda - Meeting of Metropolitan District of Limerick - 20th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_20th_march2c_2017.pdf) - Text not extracted
 
-Minutes - Meeting of Metropolitan District of Limerick - 20th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_20th_february2c_2017.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20February%202017.md)
+Minutes - Meeting of Metropolitan District of Limerick - 20th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_20th_february2c_2017.pdf) - Text not extracted
 
 Disposal of Land - 49 East Singland Road, 14 Kilmurry Avenue, 7 Pennywell Road, 53 St Lawrences Park - Meeting of Metropolitan District of Limerick - 20th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_disposal_of_land_-_49_east_singland_road2c_14_kilmurry_avenue2c_7_pennywell_road2c_53_st_la.pdf) - Text not extracted
 

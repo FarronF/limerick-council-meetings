@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20-%20Special%20Meeting%20180918.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20-%20Special%20Meeting%20180918.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-INN
+LN
 
 Seirbhist Corpardideacha,
 
@@ -65,7 +66,7 @@ Is mise le meas,
 James Clune,
 egtings Administrator.
 
-pe eter e eee e eee enn n ne nn cee ne nnn nen mene ne nnn nen ne nen nnn nnn nnn nnn neem en nen nent nen nee ene rene nen ese eseeserececees
+pe reer e eee e eee w enn nse nn cee ne nnn nen mene nen ne nnn nn ne nnn n nner nnn n nnn nnn neem en nen enn e ene nee ene rene nen rs eesessereseeees
 
 AGENDA
 
@@ -80,4 +81,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

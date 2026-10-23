@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202022.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Proposed by: Councillor Galvin
 Seconded by: Councillor Foley
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -170,7 +173,9 @@ representatives from the Gaelscoil and he will also be liaising with the Newcast
 Municipal District Roads Staff with regard to traffic calming in the area.
 
 The report was proposed by Councillor Collins, seconded by Councillor Foley and agreed.
----
+
+[[PAGE_END:2]]
+
 3
 
 3.
@@ -244,7 +249,9 @@ of Transport to the National Transport Authority and a response is awaited. He r
 the revised Square layout configuration for festivals following discussion with the Working
 
 Group.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Senior Executive Engineer stated that a revised layout for Grove Crescent car park has
@@ -316,7 +323,9 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agreed to allocate
 
 €1,000 to Templeglantine Defibrillator.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Director referred to the Strategic GMA Fund and recommended the allocation of €10,000
@@ -396,7 +405,9 @@ Question submitted by Councillor T. Ruddle
 ***I will ask at the next Meeting if the cobble stones be sprayed for grass growing in between***
 
 ***the cobbles. It looks very unsightly and makes the town look neglected.***
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -480,7 +491,9 @@ crossing subject to the landowners permission and NTA funding.
 NOTICES OF MOTION
 
 16. Notice of Motion submitted by Councillor L. Galvin
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will move at the next Meeting that Limerick City and County Council cut the trees at***
@@ -544,7 +557,9 @@ place.
 ***damages the vehicles of road users.***
 
 The Motion was seconded by Councillor Collins.
----
+
+[[PAGE_END:7]]
+
 8
 
 REPLY:
@@ -636,7 +651,9 @@ will be drawn up for this junction.
 ***basis.***
 
 The Motion was seconded by Councillor Foley.
----
+
+[[PAGE_END:8]]
+
 9
 
 REPLY:
@@ -706,7 +723,9 @@ representations may be made in writing no later than 4.00 p.m., on Tuesday, 3rd 
 2023. The Senior Executive Engineer referred to an application made to the National
 
 Transport Authority for funding for pedestrian crossing and footpath upgrade in Kilmeedy.
----
+
+[[PAGE_END:9]]
+
 10
 
 The unsafe condition and upkeep of the slipways and the condition of the railing at Glin Pier
@@ -780,6 +799,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+
 11
----
+
+[[PAGE_END:11]]
+

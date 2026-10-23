@@ -16,17 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%2010th%20September%2C%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%2010th%20September%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
-: 2 ‘om athe . “or '
-
-& Contae Luimnigh Comhairle Cathrach agus Co Ane praia
-
-—~ Aras Séan Firwn,
+me Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
+& Contae Luimnigh Comhairle Cathrach agus Ceo Ane praia
+——_ Aras Séan Finn,
 
 Limerick City Raith Caoks,
 = & County Council
@@ -43,7 +41,7 @@ Rathkeale.
 
 Co. Limerick
 
-EIRCODE V94 HkIV
+EIRCODE V94 HkiV
 
 t: +353 (0) 69 64047
 5‘ September, 2019. f: +353 (0) 69 63188
@@ -59,18 +57,26 @@ Is mise le meas,
 Karen Butler,
 Meetings Administrator.
 AGENDA
+
 1. Minutes
+
 To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 9"" July,
+
 2019.
+
 (Copy Enclosed)
+
 2. Deputation
+
 To receive a deputation from Pallaskenry Community Council.
-aaa ares
-Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach www.limerick.te
-Corporate Headquarters, Merchants Quay, Limerick. 1 Y @LimerickCouncil
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach
+Corporate Headquarters, Merchants Quay, Limerick. 1 W @lLimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Community Development Directorate
@@ -107,7 +113,9 @@ The 2026 Ryder Cup, Adare
 To discuss the Ryder Cup due to be held in Adare in 2026.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -127,7 +135,7 @@ Community Trust, what is the update in relation to the parking extension.
 Adare Bypass.
 
 | will ask at the next Meeting to know are the legal cases surrounding the recording
-through the Councils CCTV deemed legal and are the cameras currently recording 24
+through the Councils CCTV deemed legal and are the cameras Currently recording 24
 hours a day.
 
 NOTICES OF MOTION
@@ -144,10 +152,12 @@ Notice of Motion submitted by Councillor A. Teskey
 Public Works to establish extensive cleaning of the River Deel and to establish the amount
 of fish in its waters.
 
-Notice of Motion submitted by Councillor E. 0’Bri
+Notice of Motion submitted by Councillor E..0’Bri
 
 | will move at the next Meeting that the Adare-Rathkeale area approves of traffic calming
 measures on Main Street, Pallaskenry.
 
 
----
+
+[[PAGE_END:3]]
+

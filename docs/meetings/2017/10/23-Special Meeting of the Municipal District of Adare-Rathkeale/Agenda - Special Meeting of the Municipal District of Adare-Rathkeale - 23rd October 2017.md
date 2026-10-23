@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2023rd%20October%202017.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 23rd October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2023rd%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Seirbhisi Corpardideacha,
+j Seirbhisi Corpardideacha,
 
 _—_— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Ceanncheathni Chorpardideach,
 
-AINA —E=ESE=_E— Cé na gCeannaithe,
+NIN 4 ——E==EEE=_E_— Cé na gCeannaithe,
 
-Limerick City _ Luimneach
+Limerick City Luimneach
 
-= & County Council 7 —_—
-‘orporate
+= & County Council : —
+lorporate
 
 Limerick City and County Council.
 
@@ -58,10 +59,10 @@ held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Monday, 23 Oc
 
 Is mise le meas,
 
-Tom ee ie
+Tom ae ia
 Meetings Admin ‘or.
 
-eee en meen eee enn enna nn nen nnn mene enn e een ne nnn nnn ee ene e een eee cere
+eee ee meee eee enn nnn nn nen nen mewn n ence nn ne men nnn ene nee ee en eee eee
 
 AGENDA
 
@@ -69,8 +70,10 @@ AGENDA
 
 To discuss proposed inspections of over-ground slurry stores.
 
-Ceanncheathri Chorparsideach, Cé na gCeannaithe, Luimneach! vy @LimerickCouncil
+Ceanncheathra Chorparsideach, Cé na gCeannaithe, Luimneach! y @LimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
 
 
----
+
+[[PAGE_END:1]]
+

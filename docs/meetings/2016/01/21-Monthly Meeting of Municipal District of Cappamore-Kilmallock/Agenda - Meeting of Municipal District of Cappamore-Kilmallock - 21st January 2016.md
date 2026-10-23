@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20January%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 21st January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+————— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-- a Z Cé na gCeannaithe.
+” a é Cé na gCeannaithe.
 ; —— Luimneach
 Lime rick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
@@ -37,9 +38,7 @@ th
 f: +353 (0) 61 415 266
 
 To/ The Cathaoirleach_and each Member of the Municipal District_of Cappamore-
-
 Kilmallock
-
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
@@ -53,7 +52,7 @@ Ge Vrog
 Tina Knox,
 Meetings Administrator.
 
-eececcccccccccceccccccccccceccnccn concern ccccscnaesccssessnseness eee esecen nen asaseseSee Senos eee ee ee ee eee SSSI OO Oe:
+eececccccccccccecccceccccccecenecn crn cereccccscnasccssessncewers eon esecen sen asaessesse seers nese eee e tween Oe OOO Oem:
 
 AGENDA
 
@@ -69,16 +68,18 @@ To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock he
 To consider receiving Deputation from Glenroe / Ballyorgan Community Council to
 make Presentation at February Meeting.
 
-3. Id School Ho! nge
+3. Id School Ho nge
 To note present position in relation to the Old School House, Grange.
 
 (Correspondence, Report and Protocol enclosed).
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 5 wwew.timerick.te
-Corporate Headquarters, Merchants Quay, Limerick “euaatonc
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach > wwew.timerick.te
+Corporate Headquarters, Merchants Quay, Limerick “eluunaconc
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -97,7 +98,7 @@ Council has a plan to tackle this issue as soon as possible.
 
 uestion submitted by Councillor B. O'Donnell
 
-| will ask at the next Meeting if additional public lighting can be provided on the N24 at
+I will ask at the next Meeting if additional public lighting can be provided on the N24 at
 Knockballyfookeen where there is a cluster of houses. Public lighting is provided for
 some houses but is required for the remaining houses in the interest of safety.
 
@@ -125,4 +126,6 @@ culverts, pipes, watercourses to determine that they are fit for purpose and in 
 order throughout the year.
 
 
----
+
+[[PAGE_END:2]]
+

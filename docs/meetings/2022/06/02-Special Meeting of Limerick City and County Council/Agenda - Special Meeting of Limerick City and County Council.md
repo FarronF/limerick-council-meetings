@@ -16,22 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-03-06-2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-03-06-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-gil thar Cathrach
-ontae Luimnigh
-Ars i-~ pea EOEEE Ai
-
-Limerick City
-— & County Councii
+= ontae Luimnigh
+te — Limerick City
+& County Council
 
 31™ May, 2022.
 
-Dacresaiie Cottwach agus Contac Lulmnigh,
-Ceamnncheathe: Chorparaidescty
+Dacrtsaivie Cottwach agus Contac Lulmnigh,
+Ceamncheather: Chorparaidescty
 
 Cé na qCeannaithe.
 
@@ -39,7 +37,7 @@ Luimneach
 
 Corporate Services,
 
-Lirteerick City and County Council,
+Lirerick City and Courtty Council,
 Corporate Headquarters,
 Merchants Quay,
 Umerick
@@ -47,7 +45,7 @@ Umerick
 EIRCODE V4 EH90
 
 t: 4353 (0) 61 557150
-£, 4353 (0) 61415 266
+£. 4353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -55,7 +53,8 @@ A Chomhairleoir, a chara,
 
 The Mayor of the City and County of Limerick, Councillor Daniel Butler, has called a Special
 Meeting of Limerick City and County Council, to be held in the Council Chamber, Dooradoyle,
-and Online. on Friday. 3 June, 2022, at 9.00 am, in order to pass a Vote of Sympathy on the
+
+and Online, on Friday, 3“ June, 2022, at 9.00 am, in order to pass a Vote of Sympathy on the
 death of former Member and Cathaoirleach of Limerick County Council, Mary Jackman, RIP.
 
 Is mise le meas,
@@ -63,9 +62,11 @@ Is mise le meas,
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimnesch
 Corporate Headquarters, Merchants Quay, Limerick
 
-jm customerservices@limerickic
+mcustomerservices@limerickic
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

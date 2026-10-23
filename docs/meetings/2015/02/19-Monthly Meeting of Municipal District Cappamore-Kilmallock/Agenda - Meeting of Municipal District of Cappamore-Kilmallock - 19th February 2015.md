@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01-agenda_19.02.2015.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 19th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01-agenda_19.02.2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13" February, 2015.
 
-To/ The Cathaoirleach_ and each Member of the Municipal
+To/ The _Cathaoirleach_and each Member of the Municipal
 
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
@@ -35,7 +36,7 @@ Is mise le meas,
 
 Tina Knox,
 Meetings Administrator.
-weet nneeecenee nnn nneeece nn nnnnweenneneneecenneeeeeeeeea----- ee
+weet nneeecneee enn nenneeece nn nnnneeeeneneneeeeneeeeeeeeena--- ee
 AGENDA
 
 1. Minutes
@@ -52,7 +53,7 @@ To adopt Minutes of the following Meetings:
 
 To receive Deputation from Castlecourt Residents Association.
 
-3e Environment & Water Services
+Be Environment & Water Services
 Team Limerick Clean Up Campaign
 
 To receive Presentation from Noel Earlie of the JP McManus Benevolent Fund giving an
@@ -60,7 +61,9 @@ outline of the Team Limerick Clean Up Campaign.
 (Presentation Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -113,7 +116,9 @@ addressed immediately with stop Signs and lining.
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -138,4 +143,6 @@ Notice of Motion submitted by Councillor Donegan
 improvements at the junction at Kilgarriff, Ballylanders.
 
 
----
+
+[[PAGE_END:3]]
+

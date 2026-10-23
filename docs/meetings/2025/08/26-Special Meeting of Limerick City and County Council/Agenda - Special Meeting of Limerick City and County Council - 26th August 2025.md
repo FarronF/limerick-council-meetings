@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-08/agenda-special-meeting-of-limerick-city-and-county-council-26th-august-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26th August 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-08/agenda-special-meeting-of-limerick-city-and-county-council-26th-august-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-aAar™N
+aAarN
 
 . Seirbhisi Corparaideacha,
-Comhairle Cathrach Comnairle Cathwach agus Contue Luimnigh
+Comhairle Cathrach Comhairle Cathwach agus Contue Luimnigh
 & Contae Luimnigh Ceannchesthra Chorparaidesch,
 
 Cé na gCeannaithe,
@@ -75,8 +76,10 @@ for the year ending 31% December, 2026, in accordance with Section 20 of the Fin
 mm customerservices@limerick.ie
 @ wrew limerick.te
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach  @LimerickCouncil
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach wv @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+

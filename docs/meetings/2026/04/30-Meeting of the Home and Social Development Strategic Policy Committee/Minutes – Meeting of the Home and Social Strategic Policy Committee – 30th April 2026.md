@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-april-2026.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 30th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -96,7 +97,9 @@ Mr. Paul Bourke, Co-Op Student, Housing Strategy and Mixed-Tenure Partnership Un
 Mr. Liam Mannix, Director of Research and Dig
 
 **Apologies:** Ms. Patricia Phillips, Ms. Sarah Newell
----
+
+[[PAGE_END:1]]
+
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
 An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed the members to the April
@@ -160,7 +163,9 @@ Hayes expressed that she would be happy to work with any members of the SPC who 
 input on a proposal for homelessness units in the county, reflecting these units are mainly located in
 
 the city to allow ease of access to health and addiction services.
----
+
+[[PAGE_END:2]]
+
 Cllr. Stephen Keary responded to Cllr. Ruddle that it would be prudent to provide council owned
 
 homeless accommodation per municipal district as opposed to the county in general as the cost of
@@ -228,7 +233,9 @@ open market and the developer is unable to sell the remaining units due to no bi
 housing schemes outside of the Limerick City Metropolitan District in small towns and villages where
 
 finding purchasers for completed units may be more difficult due to demand and location. Key
----
+
+[[PAGE_END:3]]
+
 considerations were discussed including housing need and delivery, vacancy and dereliction risk and
 
 market impact and perception.
@@ -296,7 +303,9 @@ Ms. Kathy O’Grady, Administrative Officer, stated there has been no current ri
 Mr. Darragh Quinn, Executive Architect gave a presentation on the Future of Modular Housing and
 
 Modern Methods of Construction (MMC). The members had a lot of questions in relation to the
----
+
+[[PAGE_END:4]]
+
 Mayoral Programme on SMART Housing and requested that a Special SPC be held in advance of the
 
 next Home and Social Development SPC on SMART Housing. Cllr. Sarah Kiely and Cllr. Stephen Keary
@@ -330,4 +339,6 @@ Members agreed to hold a Special SPC on SMART Housing in advance of the June SPC
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

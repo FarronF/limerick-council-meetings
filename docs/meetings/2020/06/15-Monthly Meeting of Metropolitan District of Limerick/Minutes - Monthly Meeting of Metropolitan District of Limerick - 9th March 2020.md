@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-draft-minutes-ordinary-meeting-9th-march-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-draft-minutes-ordinary-meeting-9th-march-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 9TH** **MARCH, 2020**
@@ -96,7 +97,9 @@ Circulated, Report of the Head of Property and Community Facilities dated 28th F
 House Community Enterprise CLG and the intention to bring a Section 183 Notice to the
 
 March Meeting of Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -178,7 +181,9 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 report.
 
 Members welcomed the proposed development and queried the time frame of the development.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members also referred to the Gaelscoil, Castletroy and requested that consideration be given to
@@ -260,7 +265,9 @@ accommodation within 10 minutes walk of the City. Presently the canal is underut
  Affordable accommodation needed for students, close to colleges.
 
  Concerns in relation to number of storeys in terms of height.
----
+
+[[PAGE_END:3]]
+
 4
 
  Query in relation to the number of social units.
@@ -342,7 +349,9 @@ A notification is then sent to Elected Members and TD’s to inform them of the
 address (not personal details) that has been allocated. Individual house numbers
 
 are not issued in this notification. This process was developed in the interest of
----
+
+[[PAGE_END:4]]
+
 5
 
 governance and transparency in relation to the allocation of Council stock. Data
@@ -430,7 +439,9 @@ The short-term letting regulations requires a person who is letting a second pro
 (not their principal private residence) within the Rent Pressure Zone to apply for
 
 planning permission for change of use. The Council has received 3 planning
----
+
+[[PAGE_END:5]]
+
 6
 
 applications for change of use for short-term letting.
@@ -514,7 +525,9 @@ and the Traffic Wardens Act, 1975, the use of the provisions proposed as evidenc
 of non compliance with parking regulations cannot be presented by Limerick City
 
 and County Council before the Courts to enable prosecution.
----
+
+[[PAGE_END:6]]
+
 7
 
 **15.**
@@ -600,7 +613,9 @@ In proposing the Motion, Councillor Sheehan emphasised the need to call on the M
 Business, Enterprise and Innovation to intervene in order to prevent the proposed job losses in
 
 Raheen. This Motion was seconded by Councillor O’Donovan and agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 **18.**
@@ -666,4 +681,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_special_meeting_of_limerick_city_county_council_-_15th_december_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick City & County Council - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_special_meeting_of_limerick_city_county_council_-_15th_december_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -82,7 +83,9 @@ to review Limerick’s extraordinary successful year as National City of Culture
 particular, the Local Authority needed to build on the momentum and climate of
 
 support for culture in Limerick in making a bid for the European Capital of Culture.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 He stated that the European Capital of Culture initiative was one of the most
@@ -156,7 +159,9 @@ video footage of some events:
 • Creative Limerick.
 
 • Limerick 2014 and Beyond (2015-2030).
----
+
+[[PAGE_END:2]]
+
 **3**
 
 Mr. Fitzpatrick responded to queries raised by the Members and provided further
@@ -206,4 +211,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

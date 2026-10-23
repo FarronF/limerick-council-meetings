@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-25.11.2024.pdf)
+**Original file:** [Minutes - Ordinary Meeting Limerick City and County Council - 25th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-25.11.2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE, ON
@@ -84,7 +85,9 @@ Circulated, copy of draft Minutes of the following Meetings:
 (a) Ordinary Meeting of the Council held on 23rd September, 2024.
 
 (b) Adjourned Ordinary Meeting of the Council held on 4th October, 2024.
----
+
+[[PAGE_END:1]]
+
 2
 
 (c) Special Meeting of the Council held on 29th October, 2024.
@@ -164,7 +167,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 Knockatanna, Caherconlish, Co. Limerick (LK4127L), to James Fanning, for the sum of €195.42,
 
 the disposal to be by way of Deed of Conveyance of the freehold interest of Limerick City and
----
+
+[[PAGE_END:2]]
+
 3
 
 County Council in the property, particulars of which were contained in Statutory Notice dated
@@ -248,7 +253,9 @@ to be by way of Deed of Conveyance of the freehold interest of Limerick City and
 Council in the property, particulars of which were contained in Statutory Notice dated 23rd
 
 October, 2024.”
----
+
+[[PAGE_END:3]]
+
 4
 
 (f)
@@ -326,7 +333,9 @@ Toureen, Croom, Co. Limerick (LK9543L), to Brendan and Mary Conmy, for the sum o
 City and County Council in the property, particulars of which were contained in Statutory
 
 Notice dated 23rd October, 2024.”
----
+
+[[PAGE_END:4]]
+
 5
 
 Rural, Culture, Community and Tourism Development Directorate
@@ -406,7 +415,9 @@ which were contained in Statutory Notice dated 14th November, 2024.”
 Circulated, copy of Statutory Notice dated 14th November, 2024, concerning disposal of
 
 0.03 acres (0.012 hectares) at Baunacloka, Mungret, Limerick.
----
+
+[[PAGE_END:5]]
+
 6
 
 Proposed by Councillor Teskey;
@@ -490,7 +501,9 @@ Circulated, copy of Statutory Notice dated 14th November, 2024, concerning dispo
 land comprising 16.50 acres (6.677 hectares) at Churchtown, Newcastle West, Co.
 
 Limerick.
----
+
+[[PAGE_END:6]]
+
 7
 
 Proposed by Councillor Teskey;
@@ -572,7 +585,9 @@ Proposed by Councillor Teskey;
 Seconded by Councillor Galvin;
 
 And Resolved:
----
+
+[[PAGE_END:7]]
+
 8
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -650,7 +665,9 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Teefy;
 
 And Resolved:
----
+
+[[PAGE_END:8]]
+
 9
 
 “That, (i) the Strategic Policy Committee Scheme 2024-2029, as circulated, be and is
@@ -730,7 +747,9 @@ Customer Services dated 19th November, 2024, seeking the Council’s approval fo
 attendance and participation by a delegation from the Council in the Annual St. Patrick’s
 
 Day Parade 2025, in Savannah, Georgia, USA
----
+
+[[PAGE_END:9]]
+
 10
 
 Proposed by Councillor Sheahan;
@@ -810,7 +829,9 @@ Circulated, report of the Mayor of Limerick, John Moran, dated 19th November, 20
 in relation to the appointment of a Chairperson to the Limerick Traveller Accommodation
 
 Consultative Committee.
----
+
+[[PAGE_END:10]]
+
 11
 
 The making of the appointment was a Reserved Function.
@@ -880,7 +901,9 @@ And Resolved:
 under the Strategic Fund for Culture and Arts, as set out in report of the Arts Officer/Creative
 
 Ireland Co-Ordinator dated 13th November, 2024.”
----
+
+[[PAGE_END:11]]
+
 12
 
 MAYOR’S QUESTIONS
@@ -948,7 +971,9 @@ further cameras. Transport Infrastructure Ireland (TII) expects that at least on
 Average Speed Site will be in County Limerick. The location of this will be
 
 determined in consultation with the Local Authority and TII.
----
+
+[[PAGE_END:12]]
+
 13
 
 11.
@@ -1034,7 +1059,9 @@ Question submitted by Councillor S. Hickey-O’Mara
 ***dog waste bins across Limerick as I have been asked about this on numerous occasions by***
 
 ***residents.***
----
+
+[[PAGE_END:13]]
+
 14
 
 **REPLY:**
@@ -1118,7 +1145,9 @@ administration and five technical.
 The Unit deals with derelict sites, vacant homes and vacant sites across all the
 
 Municipal Districts. It advises and guides owners of unproductive properties
----
+
+[[PAGE_END:14]]
+
 15
 
 on the various supports available to bring their properties back to more
@@ -1194,7 +1223,9 @@ landowners were still required to enable qualification for Scheme. He emphasised
 a big issue for people living in areas with roadways badly in need of improvement, and
 
 stressed the importance of removing this condition to allow more people apply.
----
+
+[[PAGE_END:15]]
+
 16
 
 It was agreed to write to the Minister for Rural and Community Development.
@@ -1274,7 +1305,9 @@ In response to the Members’ queries, the Director of Planning and Place-Making
 advised the Meeting the Planning Department operate under current 2006 Wind Energy
 
 Development Guidelines, and advised a review of the current guidelines was underway to
----
+
+[[PAGE_END:16]]
+
 17
 
 address key aspects, including noise. This review included a public consultation but he noted
@@ -1350,7 +1383,9 @@ Members fully supported the Motion and thanked Councillor Hickey-O’Mara for
 bringing it forward. The Members outlined the need to encourage more men to engage in
 
 various community based organisations that provide a space where men feel included and
----
+
+[[PAGE_END:17]]
+
 18
 
 safe. They stressed the importance of this matter, outlining how supporting these
@@ -1428,7 +1463,9 @@ before opening the bus lane and the short time frame to deliver on this was outl
 Mayor agreed to examine the issue with the Director of Transportation and Mobility,
 
 including the need for a consultation process.
----
+
+[[PAGE_END:18]]
+
 19
 
 MAYOR’S QUESTIONS
@@ -1510,7 +1547,9 @@ disappointment to me with the plans for Christmas in Limerick this
 year. Although I think we still have a very varied and rich programme, I share
 
 their views that we can do better.
----
+
+[[PAGE_END:19]]
+
 20
 
 But we all know that the best things need investment. The Christmas offering
@@ -1592,7 +1631,9 @@ the redevelopment of the Markets Field. If one is identified over the next few
 days, I shall ask officials to immediately assess if that approach could instead
 
 be agreed in time for our Budget meeting on Friday.
----
+
+[[PAGE_END:20]]
+
 21
 
 **Suspension of Standing Order No. 4:** The Príomh Chomhairleoir drew attention to the time
@@ -1674,7 +1715,9 @@ The DAC boards have important responsibilities to carry out for each DAC and
 we have to make sure that they are fully enabled and supported to do that. I
 
 shall ask the reviewer to assess the range of skills on each board and the
----
+
+[[PAGE_END:21]]
+
 22
 
 functioning of the boards up to now to guide me in the selection of new
@@ -1754,7 +1797,9 @@ period of higher demands for delivery and therefore continuation of the
 business as usual with which we have become accustomed may no longer be
 
 the right choice. Furthermore, many of the plans for the DACs require
----
+
+[[PAGE_END:22]]
+
 23
 
 considerable additional funding which has not yet been committed to by
@@ -1794,4 +1839,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:23]]
+

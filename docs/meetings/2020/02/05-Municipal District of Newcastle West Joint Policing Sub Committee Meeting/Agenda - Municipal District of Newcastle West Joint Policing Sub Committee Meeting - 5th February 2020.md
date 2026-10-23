@@ -16,25 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-2020-02-05-jpc-sub-committee-agenda.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-2020-02-05-jpc-sub-committee-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comin Catach cma Seetrogntrn neg
-Som aatfvach agus Co ul
-nrN e Contae Aras Wiliam Smith O'Brien,
+Som ut aitfvach agus Co ul
+nrN 2 Contae Aras Wiliam Smith O'Brien,
 
 ‘ Gortbut,
-—> Limerick City An Caislean Nua Thiar,
-& County Council Co. Luimnnigh.
+— Limerick City An Caislean Nua Thiar,
+& County Council Co. Luirnnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council
-Aras Williarn Smith O'Brien.
+Aas Wiliarn Sruth O'Brien.
 Gartboy.
 
-Nevecastie West.
+Nevecastle West.
 
 Co. Limerick.
 
@@ -56,7 +56,7 @@ Is mise le meas,
 AGENDA
 
 To adopt Minutes of Meeting of the Joint Policing Sub Committee of the Municipal
-District of Newcastle West held on 9” October, 2019.
+District of Newcastle West held on 9" October, 2019.
 
 (Copy Enclosed)
 2. Policing Issues
@@ -66,4 +66,6 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach . © veorw limerick 
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

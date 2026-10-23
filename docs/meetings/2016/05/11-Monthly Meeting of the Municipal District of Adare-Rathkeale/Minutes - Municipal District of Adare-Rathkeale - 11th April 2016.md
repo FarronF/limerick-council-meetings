@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 11th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -66,12 +67,14 @@ Members.
 been advanced to facilitate, in particular, works on the proposed car park during the
 summer.
 
-¢ Members concerns had been taken on board as far as possible but Irish Water had made it
+@ Members concerns had been taken on board as far as possible but Irish Water had made it
 clear that the laying of a sewerage pipe along the route did not form part of their current
 priorities. The council would, however, continue to engage with Irish Water in this regard.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Transport Infrastructure Ireland (TIl) had made it clear that a footpath from Adare to the
@@ -98,7 +101,7 @@ The Cathaoirleach welcomed representatives from the Community Crisis Response Te
 consisted of Caitriona McMahon and Kayla Cooley. Ms. McMahon indicated that the organisation
 had been set up three months previously as a local suicide intervention initiative for people in
 distress. She pointed out that the Response Team operated seven days a week from 5 p.m. to 6
-a.m. They were in the process of seeking charitable status and up to now all costs had been met
+a.m, They were in the process of seeking charitable status and up to now all costs had been met
 by the volunteers. She added that the organisation was unique in that trained volunteers would
 travel to meet with a person who was suicidal. She pointed out that there were 20 volunteers
 who were waiting for ASIST Training which was provided by the Health Service Executive (HSE).
@@ -119,7 +122,9 @@ Regulations 2001-2015 in relation to Rathkeale Enterprise Centre. It was propose
 accordance with the Deputy Chief Executive's Report.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -149,7 +154,7 @@ Rathkeale would be brought to a future Meeting of the District.
 
 4. Schedule of Works for the Municipal District
 
-Circulated, Report of Director of Service dated 4" April, 2016, setting out the draft Schedule of
+Circulated, Report of Director of Service dated 4” April, 2016, setting out the draft Schedule of
 Municipal District Works for 2016.
 
 Proposed by Councillor Sheahan;
@@ -173,7 +178,9 @@ In relation to Foynes, the Operations Manager indicated that the contract was be
 it was hoped work would commence on site within four weeks.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -224,14 +231,16 @@ Rathkeale it is not possible to issue letters to all landowners. However, as
 complaints arise the Council investigates the issues and issue notices if warranted.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
 
 8. Question submitted by Councillor R. O'Donoghue
 
-| will ask at the next Meeting that adequate funding be provided by the Council to the Adare-
+I will ask at the next Meeting that adequate funding be provided by the Council to the Adare-
 Rathkeale District in order that basic road maintenance standards can be achieved in the
 District, in the interest of public health and safety.
 
@@ -246,12 +255,13 @@ District Meeting. This funding provides for an allocation of €480,000 for Seve
 Weather Funding towards repairs caused by the inclement Winter weather. This
 funding was not available last year. There is no additional funding available to the
 Operations Services Department from own resources. However we intend to make
-an application for the 2™ tranche of Severe Weather funding to the DTTAS.
+an application for the 2 tranche of Severe Weather funding to the DTTAS.
 
 9. Question submitted by Councillor K. Sheahan
 
 I will ask at the next Meeting as to why a small business person, who has and needs a
 commercial van for their business, is no longer allowed to tax their vehicle at the commercial
+
 rate because they are exempt from doing a VAT return.
 
 REPLY:
@@ -286,7 +296,9 @@ required.
 If an applicant is VAT exempt there are other options available to them.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -342,7 +354,9 @@ the Director, Regional Services undertook to update the Members on the provision
 social housing in Adare.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Notice of Motion submitted by Councillor S. Keary
@@ -389,13 +403,15 @@ necessary measures to clear the rubble from the church floor and make the buildi
 
 13. Notice of Motion submitted by Councillor K. Sheahan
 
-I will move at the next Meeting that this committee would agree to adopt a policy which would
+| will move at the next Meeting that this committee would agree to adopt a policy which would
 prioritise the issues pertaining to Road Safety such as the putting in place of suitable and
 adequate pedestrian crossings, speed ramps, footpaths & lighting. We should be influenced for
 the safety of young people using schools and sports facilities and we should be influenced by the
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -452,7 +468,9 @@ would be required to view the tapes. Members requested that the Motion be forwar
 Joint Policing Committee (JPC).
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16. Correspondence
@@ -496,4 +514,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+

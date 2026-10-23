@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-1st-november-2023.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 1st November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-1st-november-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ He also informed the Members that a total of €1,403,000 had been allocated to 
 Municipal Allocation with €270,000 of this assigned to the Municipal District of Newcastle
 
 West as follows:
----
+
+[[PAGE_END:1]]
+
 2
 
 **Svc**
@@ -206,7 +209,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
 such interests were declared.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -282,7 +287,9 @@ dated 13th October, 2023.
 The Senior Executive Officer, Strategy and Non LA Housing Construction provided a summary
 
 update on the Housing Delivery for the District. She referred to the Housing for All Plan and
----
+
+[[PAGE_END:3]]
+
 4
 
 gave a summary to the Members on the targets outlined in the Housing Delivery Action Plan.
@@ -354,7 +361,9 @@ Members noted the proposal.
 **(c)**Circulated, report of Head of Property Management, dated 20th October, 2023,
 
 concerning proposal to dispose of land at Market Place, Newcastle West, Co. Limerick.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Members welcomed the proposed installation of new charging points in the District
@@ -420,7 +429,9 @@ Question submitted by Councillor L. Galvin
 ***I will ask at the next Meeting*** **for a detailed report as to when the long overdue repairs are**
 
 **to be carried out in the Graveyard (Abbey) wall in The Square, Abbeyfeale.**
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -490,7 +501,9 @@ is reviewed and included in the next review. Should this identify any amendments
 we will of course implement these.
 
 12.Question submitted by Councillor L. Galvin
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will ask at the next Meeting that the Council carry out all the necessary steps to***
@@ -570,7 +583,9 @@ REPLY:
 Limerick City & County Council will carry out a clean-up as part of routine town
 
 maintenance.
----
+
+[[PAGE_END:7]]
+
 8
 
 17.
@@ -638,7 +653,9 @@ inclusion on the Agenda for the next Full Council Meeting.
 20. Notice of Motion submitted by Councillor F. Foley
 
 ***I will move at the next Meeting that traffic calming measures be put in place on St Ita's***
----
+
+[[PAGE_END:8]]
+
 9
 
 ***Road, Abbeyfeale.***
@@ -708,7 +725,9 @@ connectivity to the town. In replying, the Senior Executive Engineer stated that
 have taken place on this matter and that pedestrian access will be considered as part of an
 
 NTA scheme.
----
+
+[[PAGE_END:9]]
+
 10
 
 23. Notice of Motion submitted by Councillor J. Sheahan
@@ -782,7 +801,9 @@ In proposing the Motion, Councillor Scanlan referred to the slippery condition o
 footpaths at Castlemahon and Killeedy cemeteries and requested that work be carried out to
 
 the footpaths at these locations in the interest of safety. The Members also acknowledged
----
+
+[[PAGE_END:10]]
+
 11
 
 the work being carried out by Community Groups and Fás Schemes in maintenance of
@@ -848,7 +869,9 @@ was raised.
 It was agreed to hold the December Meeting of the District on Wednesday, 6th December,
 
 2023, at 15.00 p.m., at Áras William Smith OBrien.
----
+
+[[PAGE_END:11]]
+
 12
 
 This concluded the Meeting.
@@ -862,4 +885,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

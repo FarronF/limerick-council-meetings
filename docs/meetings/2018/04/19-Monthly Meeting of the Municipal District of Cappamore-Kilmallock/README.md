@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19
 
 Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 29th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20290318.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2029th%20March%202018.md)
 
-Disposal of Land_ Thomastown, Kilfinane - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/03%20Disposal%20of%20Land%20-%20Thomastown%2C%20Kilfinane.pdf) - Text not extracted
+Disposal of Land: Thomastown, Kilfinane - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/03%20Disposal%20of%20Land%20-%20Thomastown%2C%20Kilfinane.pdf) - Text not extracted
 
 Cappamore-Kilmallock GMA 2018 Schedule - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/03%20Cappamore-Kilmallock%20GMA%202018%20Schedule.pdf) - Text not extracted
 

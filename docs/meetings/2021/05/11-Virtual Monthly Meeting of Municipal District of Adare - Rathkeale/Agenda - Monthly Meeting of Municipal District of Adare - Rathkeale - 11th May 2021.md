@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-11th-may-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 11th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-11th-may-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-il Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
-AN ~
+AN ™~
 
 — Limerick City
 & County Council
@@ -31,14 +32,14 @@ AN ~
 6" May, 2021.
 
 Ceartar Bardasach Ath Dara-Rath Caola.
-Cory.nairle Cathrach agus Contee Luimnigh,
-Aras Séan Firwr
+Cory.nairie Cathrach agus Contee Luimnigh,
+Aras Séan Firvr
 
-ine Nua,
+Wine Nua,
 
-Rath Csota,
+Rath Cacia,
 
-Co. Luimngh.
+Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
@@ -65,7 +66,7 @@ Is mise le meas,
 Karen Butler,
 Meetings Administrator.
 AGENDA
-1. = Minutes
+1. Minutes
 
 To adopt Minutes of the Monthly Online Meeting of the Municipal District of Adare-
 
@@ -83,7 +84,7 @@ Development Act 2000-2015, and Part 8 of the Planning and Development Regulation
 
 Leisure Centre, Askeaton Limerick.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaitheLuimneach ,
+Ceanncheathrié Chorpardideach, Cé na gCeannaitheLuimneach ,
 Corporate Headquarters, Merchants Quay, Limerick.
 
 ~ (Report Enclosed).
@@ -94,7 +95,9 @@ v
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -122,7 +125,9 @@ Pro Ann ing and June District Monthly Meetin
 To agree a date for the Annual Meeting and June Monthly Meeting of the Adare-
 Rathkeale Municipal District.
 
-A.O.B.
+A.0.B.
 
 
----
+
+[[PAGE_END:2]]
+

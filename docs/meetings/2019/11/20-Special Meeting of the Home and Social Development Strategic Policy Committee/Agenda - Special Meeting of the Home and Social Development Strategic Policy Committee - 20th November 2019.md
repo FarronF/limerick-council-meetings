@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Special%20SPC%20Agenda.pdf)
+**Original file:** [Agenda - Special Meeting of the Home and Social Development Strategic Policy Committee - 20th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Special%20SPC%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL
@@ -38,4 +39,6 @@ Chairperson
 Limerick City and County Council
 
 
----
+
+[[PAGE_END:1]]
+

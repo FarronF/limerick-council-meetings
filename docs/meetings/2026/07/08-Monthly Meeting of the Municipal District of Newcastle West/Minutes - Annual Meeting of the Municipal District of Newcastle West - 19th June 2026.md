@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 19th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -80,7 +81,9 @@ Municipal District for the coming year.
 Proposed by: Councillor Ruddle
 
 Seconded by: Councillor Sheehan
----
+
+[[PAGE_END:1]]
+
 2
 
 “*That, Councillor Liam Galvin be appointed Cathaoirleach of the Municipal District of*
@@ -150,6 +153,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+
 3
----
+
+[[PAGE_END:3]]
+

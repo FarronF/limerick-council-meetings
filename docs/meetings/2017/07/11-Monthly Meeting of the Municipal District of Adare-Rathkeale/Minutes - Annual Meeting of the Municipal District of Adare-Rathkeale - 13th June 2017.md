@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28a%29%20Minutes%20Annual%20Meeting%2013th%20June%202017.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 13th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28a%29%20Minutes%20Annual%20Meeting%2013th%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD AT ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ Seconded by Councillor O’Brien.
 Adare-Rathkeale to hold office until the next Annual Meeting or until a successor has been
 
 appointed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Meeting Administrator indicated that the question as to which of such candidates would
@@ -152,7 +155,9 @@ Councillor McMahon and O’Brien.
 The Cathaoirleach declared Councillor Sheahan elected as Leas-Chathaoirleach of the
 
 Municipal District of Adare-Rathkeale.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillors O’Donoghue and Sheahan expressed their thanks for their nominations and looked
@@ -170,4 +175,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

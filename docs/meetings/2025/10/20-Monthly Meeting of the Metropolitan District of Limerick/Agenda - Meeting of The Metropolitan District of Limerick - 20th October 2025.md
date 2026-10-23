@@ -16,32 +16,33 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-metropolitan-district-of-limerick-20th-october-2025.pdf)
+**Original file:** [Agenda - Meeting of The Metropolitan District of Limerick - 20th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-metropolitan-district-of-limerick-20th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-ams i \N-e—r—sos ss ——-
+arcs i \-se___--
 
 Limerick City
 = & County Council
 
 15" October, 2025.
 
-Seirbhisi Corparaideacha.
+Sebhisi Corparaideacha.
 
 Comhairle Cathwach agus Contae Luimnigh
-Ceanncheathni Chorperaidesch,
+Ceanncheathni Chorperaikdesch,
 
 Cé na gCeannaithe,
 
-Luimneach
+Lutmneach
 
 Corporate Services,
 
-Limenck City and County Council,
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -82,15 +83,17 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Report Enclosed).
 
-© customerservices@limerickic
-© wervilimerickie
+©@ customerservices@limerickic
+© worvilimerickie
 
 ¥ @limorickCouncil
 
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Minutes**
@@ -140,7 +143,9 @@ To receive a presentation from the Community Safety Coordinator.
 Christmas in Limerick Light Up Procession Event Licence.
 
 (Report to Follow).
----
+
+[[PAGE_END:2]]
+
 3
 
 **7.Transportation and Mobility Directorate**
@@ -200,7 +205,9 @@ I will ask at the next meeting of the Metropolitan District of Limerick for a br
 total monies committed to and spent, and any other costs incurred, for the new Flavours of
 
 Limerick food festival.
----
+
+[[PAGE_END:3]]
+
 4
 
 **14.Question submitted by Councillor F. Kilcoyne**
@@ -266,7 +273,9 @@ area and investigated in the last 12 months with outcomes identified.
 I will ask at the next Meeting of the Metropolitan District of Limerick that Limerick City and
 
 County Council provide an update on the preparation of the City Centre Transport Plan.
----
+
+[[PAGE_END:4]]
+
 5
 
 **22.Question submitted by Councillor M. Donoghue**
@@ -334,7 +343,9 @@ I will ask at the next meeting of the Metropolitan District of Limerick for a fu
 relation to the pipeline delivery of LA Affordable Purchase Homes in the Metropolitan District
 
 for 2026 & 2027 and the expected delivery for each scheme during the above period.
----
+
+[[PAGE_END:5]]
+
 6
 
 **NOTICES OF MOTION**
@@ -402,7 +413,9 @@ County Council write to Bus Eireann, Dublin Coach and ask that passengers are al
 board their buses at the Bus Stop at Avista (St. Vincents) in Annacotty and alight in Limerick
 
 City.
----
+
+[[PAGE_END:6]]
+
 7
 
 **35.Notice of Motion submitted by Councillor U. Gavan**
@@ -466,7 +479,9 @@ I will move at the next meeting of the Metropolitan District of Limerick that th
 Community Liaison Committee is established by the end of October 2025, given LCCC’s stated
 
 commitment to ensuring this group is put in place.
----
+
+[[PAGE_END:7]]
+
 8
 
 **42.Notice of Motion submitted by Councillor M. Donoghue**
@@ -494,4 +509,6 @@ businesses impacted by their removal.
 **44.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:8]]
+

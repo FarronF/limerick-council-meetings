@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-the-metropolitan-district-of-limerick-15th-july-2024.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 15th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-the-metropolitan-district-of-limerick-15th-july-2024.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -99,7 +100,9 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -165,7 +168,9 @@ Council can contact the Department of Children, Equality, Disability, Integratio
 what steps have been taken to inform local residents and traders about the proposed use of River
 
 House and the Ballysimon Centre as IPAS refugee centres?
----
+
+[[PAGE_END:2]]
+
 3
 
 **10.Question submitted by Councillor J. Pond**
@@ -227,7 +232,9 @@ in Limerick City water supply and if it’s now compliant with EPA recommendatio
 I will ask at the next Meeting of the Metropolitan District of Limerick how many homeless beds
 
 have been supplied by Limerick City and County Council over the last 5 years.
----
+
+[[PAGE_END:3]]
+
 4
 
 **19.Question submitted by Councillor S. Beasley**
@@ -289,7 +296,9 @@ Shopping Centre to explore the possibility of an extra entrance / exit from the 
 Centre in Dooradoyle, parallel to the railway line and then connected to the N18 Motorway
 
 Section, so as to alleviate congestion on the Dooradoyle Road.
----
+
+[[PAGE_END:4]]
+
 5
 
 **26.Notice of Motion submitted by Councillor S. Beasley (to be referred to the Home and Social**
@@ -311,4 +320,6 @@ County Council consider the development of a Village Enhancement Plan for Clarin
 **28.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:5]]
+

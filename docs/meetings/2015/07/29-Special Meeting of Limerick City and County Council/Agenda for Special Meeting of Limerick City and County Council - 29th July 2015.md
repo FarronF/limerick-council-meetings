@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 29th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Seirohisi Corparaéideacha agus Bainistiocht Athruithe,
+i Seirohisi Corparaéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AEN i ~ Cé na gCeannaithe,
-=-_— Luimneach
+=- Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -48,7 +49,7 @@ The business to be transacted is set out below.
 
 Is mise le meas,
 
-Che 04...
+Che O64...
 Christy O’Connor,
 Meetings Administrator.
 
@@ -57,9 +58,9 @@ AGENDA
 1. Economic Development and Planning
 
 Proposed Variation No. 4 to Limerick County Development Plan
-2010-2016 to incorporate the preferred route corridor for the
 
-Limerick Northern Distributor Ro LNDR
+2010-2016 to incorporate the preferred route corridor for the
+Limerick Northern Distributor Ro. LNDR
 
 To consider the Chief Executive's Report dated 19th June, 2015, on the
 proposed Variation No. 4 to the Limerick County Development Plan 2010-
@@ -71,12 +72,14 @@ of the Planning and Development Act 2000 (as amended).
 
 (Report already circulated).
 
-@ customerservices@limerickie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach oo) www limerickie
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+@ customerservices@limerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach oo www limerickie
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Environment and Water Services
@@ -88,4 +91,6 @@ Proposed Water Supply Project Options Working Paper.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

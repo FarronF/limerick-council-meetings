@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020-annual.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020-annual.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairie Cathrach
+ae Comhairie Cathrach
 & Contae Luimnigh
 NIN ‘“
 —— Limerick City
@@ -32,17 +33,17 @@ NIN ‘“
 A Chomhairleoir, a chara,
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comvnatle Cathrach agus Contae Luimnigh,
+Comvnatle Cathrach agus Contae Lulmnigh,
 Aras Séan Pinn,
 
 Line Nua,
 
-Rath Caola,
+Rath Cacia,
 
 Co. Luimnigh.
 
 Adore-Rathkeale Municipal District
-Limenck City and County Council,
+Limerick City and County Council,
 Aras Sean Finn,
 
 New Line,
@@ -51,14 +52,14 @@ Rathkeale,
 
 Co. Limerick
 
-EIRCODE V54 HKIV
+EIRCODE V4 HKIV
 
-t: +353 (0) 69 64047
+t: +3535 (0) 69 64047
 f: +353 (0) 69 63188
 
 You are requested to attend the Annual Meeting of the Municipal District of Adare-
 Rathkeale to be held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on
-Tuesday, 9™ June, 2020, at 11.00 a.m. The business to be transacted is set out on the
+Tuesday, 9* June, 2020, at 11.00 a.m. The business to be transacted is set out on the
 
 appended Agenda.
 
@@ -79,4 +80,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+

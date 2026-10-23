@@ -16,12 +16,13 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Minutes%20of%20February%20SPC%20Meeting.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development SPC - 26th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Minutes%20of%20February%20SPC%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ADS
+ADO
 —=—>
 
 COMHAIRLE
@@ -48,7 +49,7 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EH990
+EIRCODE V94 EH90
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -66,10 +67,10 @@ Present:
 
 Cllr. Costelloe, Clir. Donegan, Cllr. Foley, Clir. Gilligan, Cllr. Pond,
 
-Cllr, Leddin (Part), Clir. Scanlan, Cllr. Sheehy, Cllr. Keary,
+Cllr. Leddin (Part), Clir. Scanlan, Cllr. Sheehy, Cllr. Keary,
 
 Cmhir. 6 Ceallaigh
-Sectoral Interests: © Mr. Mike McNamara, Mr. PJ O'Grady,
+Sectoral Interests: |§ Mr. Mike McNamara, Mr. PJ O'Grady,
 In Attendance:
 
 Ms. Sarah Newell, Social Development
@@ -107,11 +108,14 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 & customerservices@limerick.ie
 © wvew.limerickie
- @LimerickCouncil
+
+v @LimerickCouncil
 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 3: National Development Plan 2018-2027
@@ -158,11 +162,13 @@ The number of vacant houses and the audit on vacant properties was discussed and
 need to focus on areas where there is a high need. The identification of rural areas for Buy
 and Renew was discussed.
 
-Cllr. J. Costelloe enquired about the progress with Cosgrave Park, St. Anne’s Court and the
+Cllr. J. Costelloe enquired about the progress with Cosgrave Park, St. Anne's Court and the
 CHAS Flats. Mr. Seamus Hanrahan advised that the Cosgrave Park construction budget is
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 currently being assessed by the Department of Housing, Planning and Local Government
@@ -208,14 +214,16 @@ acquisition/leasing;
 ¢ Buy and Renew is an attractive scheme with more benefits in addition to meeting
 housing need;
 
-¢ Changes to Leasing Schemes to make them more attractive (i.e., enhanced long-term
+© Changes to Leasing Schemes to make them more attractive (i.e., enhanced long-term
 25 year lease);
 Affordable Housing and mechanisms to deliver; and
 Announcement for 2” scheme of LIHAF to pump-prime sites for housing
 development
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 5: Housing Delivery Overview 2017
@@ -227,14 +235,14 @@ summary of progress:
 Projects in Part 8 Planning process/have received Part 8 Planning — 123 units
 Construction (Approved in 2017) — 124 units
 
-Acquisitions and Leasing 2017 = 155 units
+Acquisitions and Leasing 2017 — 155 units
 
 Construction 2017 — 112 units
 
 ¢ Projects currently under construction include the following:
 » Churchfield — 42 units;
 » Cuan Mhuire, Bruree — 6 units;
-» Carebright Community, Bruff —- an example of accommodation not in the
+> Carebright Community, Bruff —- an example of accommodation not in the
 traditional provision of social housing including a Dementia unit;
 > Moyross Community Enterprise Centre;
 > Coonagh Knocklisheen road.
@@ -272,7 +280,9 @@ Inspections 2016 and 2017; and
 Main reasons for Non-Compliance.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 He stated the majority of inspections in 2016 were on HAP properties and explained what
@@ -318,4 +328,6 @@ The meeting concluded.
 Date of next meeting: Monday 30" April 2018 at 11.30am, County Hall, Dooradoyle.
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,34 +16,34 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-y thr Seamtar Bardasach Ath Dara-Rath Caola
+hairl thrach Ceantar Bardasach Ath Dara-Rath Caola
+ominairie Catnhrac ‘ Corwact
 
-—_— Comhairle Cathrach —— c
 ¢ Comhairle Cathwach agus Contae Luimnigh
 = & Contae Luimnigh Aras Séan Finn,
 
-‘ \ 4 : . N
-
-Limerick City ath Cocke
+, \ 4 * . N
+Limerick City math Ceol.
 = & County Council Co. Luimnigh.
 Adare-Rathkeale Municipal District,
-4" June, 2020. Limerick City and County Council,
-’ Aras Sean Finn,
+4” June, 2020. Limerick City and County Council,
+, Aras Sean Finn,
 New Line
 Rathkeale,
 Co. Limerick.
 
 To:
 
-Adare-Rathkegie
+Adare-Rathnkegie
 
 EIRCODE V94 Hiv
-A Chomhairleoir, a chara, #3353 10) 69 63188
+A Chomhairleoir, a chara, #: 3353 10) 69 63188
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 9 June, 2020 at 9.00 a.m.
@@ -70,13 +70,15 @@ Works.
 (Copy Enclosed)
 =
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach wvrw Emerick le
-Corporate Headquarters, Merchants Quay, Limerick. 1 vy
+Corporate Headquarters, Merchants Quay, Limerick. 1 yv
 
 @LimerickCouncil
 © 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation (GMA)
@@ -85,4 +87,6 @@ To review position in relation to allocations under the General Municipal Alloca
 (List Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

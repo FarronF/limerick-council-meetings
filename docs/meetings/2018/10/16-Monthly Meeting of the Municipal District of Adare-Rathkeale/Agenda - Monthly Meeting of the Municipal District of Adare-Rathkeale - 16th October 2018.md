@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%2C%202018_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%2C%202018_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_— Comhairle Cathrach
+a Comhairle Cathrach
 = & Contae Luimnigh
-see Limerick City
-—> me i
+al Limerick City
+—>= me i
 & County Council
 
 10" October, 2018.
@@ -35,7 +36,7 @@ Aras Séan Finn,
 
 Une Nua,
 
-Réth Cacia,
+R&th Cacia,
 
 Co, Luimragh,
 
@@ -49,10 +50,10 @@ Rathkeale,
 
 Co. Limerick.
 
-EIRCODE yo4 HKIV
+EIRCODE vod HIV
 
 t: +353 (0) 69 64047
-: $353 (0) 69 63188
+: £353 (0) 69 63188
 
 To: m
 
@@ -62,7 +63,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Aras Sedan Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 16th October, 2018 at 4.30
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 16th October, 2018 at 4.30
 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -91,68 +92,54 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copies Enclosed)
 
-ee
+ ataaaaiey pees —eecher
 v www.limerickie
 
 @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-10.
-
-Social Development Directorate
-
+3. Social Development Directorate
 To receive an update on the Community Development / Town and Village Renewal
-
 Initatives.
-
-Service Operations Directorate
+4. Service Operations Directorate
 Planning and Environmental Services
-
 To note update on Taking-In-Charge of An Curran, Pallaskenry.
-
-Operations and Maintenance Services
+(Copy Enclosed)
+5. Operations and Maintenance Services
 Traffic Calming at Kilcornan
-
 To note update on proposed traffic calming scheme for Kilcornan.
-
-Drainage Issues in Courtmatrix
-
+(Copy Enclosed)
+6. Drainage Issues in Courtmatrix
 To note update on drainage issues at Courtmatrix.
-
-Flooding Issues in Askeaton
-
+(Copy Enclosed)
+7. Flooding Issues in Askeaton
 To note update on proposals to address the flooding issues in Askeaton.
-
-Flooding Issues in Foynes
+(Copy Enclosed)
+8. Flooding Issues in Foynes
 
 To note update on flooding issues in Foynes.
+(Copy Enclosed)
 
-Askeaton Sewerage Scheme
+9. Askeaton Sewerage Scheme
 
 To discuss sewerage issuse in Askeaton.
 
-Water Quality Issues in Rathkeale
+10. Water Quality Issues in Rathkeale
 
 To discuss water quality issues in Rathkeale.
 
 2
 
-(Copy Enclosed)
-
-(Copy Enclosed)
-
-(Copy Enclosed)
-
-(Copy Enclosed)
-
-(Copy Enclosed)
 
 
----
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -161,7 +148,7 @@ To discuss water quality issues in Rathkeale.
 
 13.
 
-14.
+14,
 
 QUESTIONS
 
@@ -215,7 +202,9 @@ along the trail route in the towns and villages.
 (i) Gate locations and design.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -233,4 +222,6 @@ Correspondence
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01a-draft-minutes-monthly-meeting-20th-may-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 20th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01a-draft-minutes-monthly-meeting-20th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -88,7 +89,9 @@ held on 15th April, 2024:
 Proposed by Councillor McSweeney;
 
 Seconded by Councillor Kilcoyne;
----
+
+[[PAGE_END:1]]
+
 2
 
 And Resolved:
@@ -158,7 +161,9 @@ details in relation to the Moyross Avenue Upgrade. The report had been prepared 
 with Section 179 3(a) of the Planning and Development Act 2000 (as amended) and Part 8 of the
 
 Planning and Development Regulations, 2001 (as amended) and noted that it was proposed to
----
+
+[[PAGE_END:2]]
+
 3
 
 proceed in accordance with Section 8 of the report.
@@ -228,7 +233,9 @@ May, 2024 seeking approval to the taking in charge of Access Road to The Cloiste
 Circular Road, Kilrush, Limerick.
 
 Proposed by Councillor Daly;
----
+
+[[PAGE_END:3]]
+
 4
 
 Seconded by Councillor O’Hanlon;
@@ -304,7 +311,9 @@ The Leas-Cathaoirleach took the Chair as the Cathaoirleach had to leave the Meet
 On the proposal of Councillor Kiely, seconded by Councillor O’Hanlon, Standing Order 4 was
 
 suspended in order to complete the agenda.
----
+
+[[PAGE_END:4]]
+
 5
 
 **QUESTIONS**
@@ -376,7 +385,9 @@ issues without loss of green areas or amenity areas.
 **9.Question submitted by Councillor C. Slattery**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, with the Factory Youthspace***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***Galvone due to close in December 2024, have the Council made other arrangements to provide***
@@ -704,7 +715,9 @@ detailed process of reviewing project documentation prior to final draw down.
 0
 
 0
----
+
+[[PAGE_END:6]]
+
 7
 
 **Immaculate College) research**
@@ -1154,7 +1167,9 @@ detailed process of reviewing project documentation prior to final draw down.
 5000
 
 5000
----
+
+[[PAGE_END:7]]
+
 8
 
 **Le Chéile N.S H.S.C.L**
@@ -1604,7 +1619,9 @@ detailed process of reviewing project documentation prior to final draw down.
 10000
 
 0
----
+
+[[PAGE_END:8]]
+
 9
 
 **Northside Learning Hub Limerick**
@@ -2070,7 +2087,9 @@ detailed process of reviewing project documentation prior to final draw down.
 20000
 
 30000
----
+
+[[PAGE_END:9]]
+
 10
 
 **St. Patrick's Men's Shed**
@@ -2258,7 +2277,9 @@ no. 1 Bed and 1 no. 2 Bed houses, 4 no. 1 Bed and 1 no. 2 Bed apartments.
 **REPLY**: Limerick City and County Council are working in collaboration with Transport Infrastructure
 
 Ireland (TII) on proposed measures that, while not primarily aimed at reducing noise in the
----
+
+[[PAGE_END:10]]
+
 11
 
 Glencairin area, are expected to improve the noise environment for communities living near
@@ -2336,7 +2357,9 @@ to do so.
 ***given to the movement of motor traffic in the event of an emergency since the changing of the***
 
 ***kerb height from 60mm to 100mm alongside the road edge on some schemes.***
----
+
+[[PAGE_END:11]]
+
 12
 
 **REPLY**: A number of recent Part 8 planning applications from Active Travel have been referred to
@@ -2416,7 +2439,9 @@ Consultants to upgrade and extend the existing playground.
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on plans for***
 
 ***a Park and Ride facility at Coonagh/Clondrinagh.***
----
+
+[[PAGE_END:12]]
+
 13
 
 **REPLY**: Limerick City and County Council in conjunction with the National Transport Authority is
@@ -2490,7 +2515,9 @@ through the historic structures fund and thereafter procure a contractor to carr
 appropriate works to the Mortuary Chapel.
 
 **22.Question submitted by Councillor S. Kiely**
----
+
+[[PAGE_END:13]]
+
 14
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what progress has been***
@@ -2562,7 +2589,9 @@ In proposing the Motion, Councillor Leddin highlighted the population increase i
 / Raheen area with further housing developments proposed for Mungret, and the urgent need to
 
 provide a centre for the community.
----
+
+[[PAGE_END:14]]
+
 15
 
 **REPLY**: There is an identified need for a community centre in the Raheen/Dooradoyle area. The
@@ -2636,7 +2665,9 @@ funding of estate management in general is a matter for the annual budget proces
 ***County Council clarify the situation regarding bring banks and put in place a plan for maintaining***
 
 ***the bring banks and that the Council considers installing CCTV at these locations.***
----
+
+[[PAGE_END:15]]
+
 16
 
 The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Councillor O’Donovan
@@ -2712,7 +2743,9 @@ cemeteries, with weeds, grass overgrown and bins overflowing.
 are managed by the Council, nine cemeteries with the assistance of Limerick Civic Trust and
 
 twenty two by local cemetery community groups with the remaining six having minimal
----
+
+[[PAGE_END:16]]
+
 17
 
 upkeep. The Council provides an annual maintenance grant to community groups along
@@ -2790,7 +2823,9 @@ use, in particular for the flower baskets and flower tiers in the city.
 ***Gardai and request resources for the enforcement of the speed limit and the weight restrictions***
 
 ***on the Commons Road and Drombanna Village.***
----
+
+[[PAGE_END:17]]
+
 18
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor Sheahan (M) and
@@ -2846,4 +2881,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:18]]
+

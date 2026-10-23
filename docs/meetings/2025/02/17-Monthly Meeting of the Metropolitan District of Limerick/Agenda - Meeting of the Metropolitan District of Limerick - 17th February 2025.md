@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-metropolitan-district-of-limerick-17th-february-2025.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 17th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-metropolitan-district-of-limerick-17th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ie Comhairle Cathrach
+i Comhairle Cathrach
 & Contae Luimnigh
-rr
+AM SN =
 
 — Limerick City
 & County Council
@@ -32,10 +33,10 @@ rr
 
 A Chomhairleoir, a chara,
 
-Seirbhisi Corparaideacha,
+Serbhisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh
-Ceanncheathri Chorpardideach.
+Ceanncheathru Chorparadideach.
 
 Cé na gCearnaithe.
 
@@ -79,14 +80,17 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
-mm customerservices@limerickie
+m customerservices@limerickie
 © www limerickie
- @LimerickCouncil
+
+¥ @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -129,7 +133,9 @@ Road, Raheen, Limerick.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -145,7 +151,7 @@ six months ago.
 Mungret Community College, Gaelscoil An Raithin and Limerick East Educate Together be
 implemented without further delay.
 
-8. Question submitted by Councillor C., Slattery
+8. Question submitted by Councillor C. Slattery
 
 | will ask at the next Meeting of the Metropolitan District of Limerick when will works start on the
 St. Enda’s Building for the state of the art sports facility and will residents and community groups
@@ -180,7 +186,9 @@ of Ballinacurra Gardens, where the entrance stone to Baggot Estate, erected back
 disappeared to and can it be reinstated immediately.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor P. Reale
@@ -231,7 +239,9 @@ environmental remedial work carried out in the Loughmore Canal and Common in las
 what ongoing remediation works will be completed in 2025.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 22. Question submitted by Councillor E. O’Donovan
@@ -254,7 +264,7 @@ art works that have been approved and are scheduled for completion in 2025.
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the motion
 passed at the May 2023 Metropolitan District meeting "that this Council draft a maintenance plan
 for Patrickswell Village and put the resource in place to action this plan
-once Patrickswell Village Renewal Scheme is completed later this year".
+once Patrickswell Village Renewal Scheme is completed later this year”.
 
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 proposed new City Centre Library to include most up to date quantity surveyor costings and
@@ -280,7 +290,9 @@ Consultant's review.
 a humanitarian hub in the Southside of Limerick City.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 29. Notice of Motion submitted by Councillor M. Donoghue
@@ -315,7 +327,7 @@ as soon as possible for the reinstatement of the pedestrian crossing on O'Connel
 pedestrian crossings at Childers Road at the Parkway Roundabout, at the Ballysimon Roundabout
 and at Ballysimon Road be made a priority and be installed as a matter of urgency.
 
-34. WULILE Y AMASIELE ITHLLeG VUPEIHIO! WV ve
+34. INULICE Y AMASAELE Sin lita: VUPRIIO! UVa ve
 
 Action, Biodiversity and Environment Strategic Policy Co )
 
@@ -331,4 +343,6 @@ Transport For Ireland to request that the TFI 90 Minute Fare scheme be introduce
 
 
 
----
+
+[[PAGE_END:6]]
+

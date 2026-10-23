@@ -16,34 +16,35 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-8th-march-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 8th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-8th-march-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Rardasach Ath Dara-Rath Caota,
 
-& Contae Luimnigh Combhanrle Cathrach agus ¢ gr ston Po
+& Contae Luimnigh Pombharrle Cathrach agus ¢ “ine ston Po
 
-NON 4 Limerick Cit Line Nua,
-—=—> americk City Réth Caota
+NON 4 Limerick C Line Nua,
+— imerick City Réth Cacta
 & County Council Co. Luimnigh.
 
 Adare-Rathkeale Municipal District
 
 Limerick City and County Counal.
 
-Aras Sean Finn
+Aras Sean Fir.
 
 New Line
 
 Rathkeale.
 
-Co. Llimenck.
+Co. Limerick
 
 EIRCODE VS4 HKLV
 
-3" March, 2022. t: #353 (0) 69 64047
+3" March, 2022. t: 4353 (0) 69 64047
 f; +353 (0) 69 63188
 
 A Chomhairleoir, a chara,
@@ -74,11 +75,13 @@ To note proposal for disposal of land as follows:
 1 Fairhill, Rathkeale, Co. Limerick.
 
 & customerservices@limerickie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach | e www.timerickie
-Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach | e www. timerickie
+Corporate Headquarters, Merchants Quay, Limerick, W @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) Disposal of Freehold Interest of premises consisting of a dwelling house situate
@@ -123,7 +126,9 @@ that’s required to bring these properties back in to a habitable state in orde
 our housing waiting list within our District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -163,4 +168,6 @@ put in place to be used in cases where by the emergency services require access.
 A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

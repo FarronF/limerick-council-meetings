@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2021st%20March%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 21st March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2021st%20March%202018.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -76,7 +77,9 @@ harmonisation of housing rent payable by tenants between City and County. On the
 proposal of Councillor Sheahan, seconded by Councillor O’Donoghue it was agreed that
 
 this matter should be brought to the Full Council Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -150,7 +153,9 @@ Woodvale, Foynes, Co. Limerick.
 Report, as circulated, was proposed by Councillor Sheahan and seconded by Councillor
 
 O’Brien.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.**
@@ -220,7 +225,9 @@ issues in Askeaton.
 Members expressed their disappointment that following promises from the Senior
 
 Minister with responsibility for costal erosion and flooding a number of years back that
----
+
+[[PAGE_END:3]]
+
 4
 
 funding would be provided to address the flooding issues at Askeaton. The matter has to
@@ -278,7 +285,9 @@ carried out under the road. This Survey will be passed to Central Services
 whom will assess the damage caused and arrange for a repair when funds
 
 become available.
----
+
+[[PAGE_END:4]]
+
 5
 
 **13.**
@@ -346,7 +355,9 @@ area.
 Councillor Teskey questioned why the €25,000,000 revenue for motor tax that was
 
 collected in Limerick cannot be returned to Limerick to use better quality materials to
----
+
+[[PAGE_END:5]]
+
 6
 
 improve the road conditions. Members agreed that this money needs to be spent on
@@ -406,4 +417,6 @@ Signed :
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

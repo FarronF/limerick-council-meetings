@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-meeting-of-the-metropolitan-district-18th-january-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 18th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-meeting-of-the-metropolitan-district-18th-january-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-Ne — ——————————
+Ne ———————
 — Limerick City
 
 & County Council
@@ -32,7 +33,7 @@ Ne — ——————————
 
 Seitbhisi Corpardideacha,
 
-Comhairle Cathrach agus Contae Luimnigh,
+Comhairle Cathvach agus Contae Luimnigh,
 Ceanncheathra Chorparaideach,
 
 Cé na gCeannaithe,
@@ -77,12 +78,14 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Economic Development
 Draft Southern Environs Local Area Plan 2021 — 2027
-To consider the Chief Executive’s Report dated 17" December, 2020 on the Draft Southern Environs
+To consider the Chief Executive’s Report dated 17” December, 2020 on the Draft Southern Environs
 
 Local Area Plan 2021 — 2027 and decide whether or not to make or to amend the proposed Local
 Area Plan in accordance with Section 20 (3) of the Planning and Development Act 2000 (Amended).
@@ -97,7 +100,7 @@ Park.
 | will ask at the next meeting for the breakdown of works under the title of funding committed to
 14/12/2020 for active travel improvements in Steamboat Quay (€141,266.67 of €200,000.00).
 
-5. Question submitted by Councillor E. O’ Donovan
+5. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next meeting for the location of each public bin in Limerick City West Electoral Area.
 
@@ -114,7 +117,9 @@ Bridge gates and if there has been any advancement by Limerick Council on the pe
 of these gates.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor J. Costelloe
@@ -159,7 +164,9 @@ look into the feasibility of installing a permanent panoramic or ferris wheel at
 and work with the relevant stakeholders to build it into future plans for this location.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Notice of Motion submitted by Councillor E. O’Donovan
@@ -181,4 +188,6 @@ the position of an Animal Cruelty Inspector in Limerick City and County.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-2020-12-16-minutes-december-special-meeting.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 16th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-2020-12-16-minutes-december-special-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -78,7 +79,9 @@ Community Development Directorate
 **change of use to a community and tourism use along with ancillary site works.**
 
 At the outset of the Meeting, the Cathaoirleach welcomed everyone to the Meeting.
----
+
+[[PAGE_END:1]]
+
 The Director commenced by referring to the Chief Executive’s Reports on the Part 8 applications.
 
 He stated that no major objections to the proposals had been received during the public
@@ -148,7 +151,9 @@ and change of use to commercial, community and tourism use along with ancillary 
 The refurbishment of Barnagh Station house (which is a protected structure) and change of use
 
 to a community and tourism use along with ancillary site work,
----
+
+[[PAGE_END:2]]
+
 were proposed by Councillor Collins, seconded by Cllr Scanlan and resolved.
 
 **2. General Municipal Allocation**
@@ -202,4 +207,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

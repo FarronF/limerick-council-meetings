@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-draft-minutes-adjourned-online-meeting-27th-january-2021.pdf)
+**Original file:** [Minutes -  Adjourned Meeting of Metropolitan District of Limerick - 27th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-draft-minutes-adjourned-online-meeting-27th-january-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED ONLINE MEETING OF THE METROPOLITAN DISTRICT**
 
 **OF LIMERICK HELD ON WEDNESDAY, 27THJANUARY, 2021 at 10.00 A.M.**
@@ -92,7 +93,9 @@ Facilitate implementation and delivery of the proposals set out in the Draft Lim
 Metropolitan Area Transport Strategy or any replacement thereof.
 
 Facilitate implementation and delivery of the proposals that will be contained in the final
----
+
+[[PAGE_END:1]]
+
 2
 
 Limerick Shannon Metropolitan Area Transport Strategy.
@@ -178,7 +181,9 @@ Support delivery of strategic road infrastructure identified in the RSES includi
 -Upgrade of arterial roads from the motorway network to increase capacity, including the R527
 
 Dock Road, with the provision of public transport infrastructure and Park and Ride facilities, as
----
+
+[[PAGE_END:2]]
+
 3
 
 appropriate. including at the R527 Dock Road.
@@ -260,7 +265,9 @@ with N/M20 Cork to Limerick scheme throughout the document.
  To make all TMOs compliant with sustainable development principles already enshrined in
 
 the regional and national strategies, put the welfare of people and sustainable safety at the
----
+
+[[PAGE_END:3]]
+
 4
 
 centre of all transport planning and traffic management and above convenience of motor
@@ -332,7 +339,9 @@ Include Objective TM 024 as follows:
 Explore improved accessibility to Limerick Southside, including the possible provision of a
 
 motorway interchange connection from the M20/M7 to Limerick Southside.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr Leddin outlined his reason for this proposed amendment, stating that it was in the interest of
@@ -406,7 +415,9 @@ The vote was 13 no. in favour of the proposed amendment and 7 no. against the pr
 amendment. The proposed amendment shall be included as a material amendment to the
 
 proposed public display documents.
----
+
+[[PAGE_END:5]]
+
 6
 
 **3.Councillor Leddin also proposed an amendment, which is outlined as follows:**
@@ -480,7 +491,9 @@ proposed public display documents.
 Amend Land Use Zoning Map
 
 To rezone lands located at Rosbrien and in the ownership of Shannon Group comprising of
----
+
+[[PAGE_END:6]]
+
 7
 
 approximately 20 hectares from agriculture to enterprise and employment.
@@ -554,7 +567,9 @@ Amend Transport Map to include a new link road connecting the Dooradoyle Road an
 Rosbrien Road, which had been included in the 2011 – 2017 Local Area Plan (as extended).
 
 Cllr Leddin outlined his reason for this proposed amendment outlining that the provision of a link
----
+
+[[PAGE_END:7]]
+
 8
 
 road will facilitate the future growth of this area in terms of both residential and enterprise
@@ -632,4 +647,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

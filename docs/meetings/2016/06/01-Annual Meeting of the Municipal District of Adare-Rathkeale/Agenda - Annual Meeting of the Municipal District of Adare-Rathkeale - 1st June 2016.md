@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 Ne ya Cé na gCeannaithe,
-—=>=>==> Luimneach
+—=>=> Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and icone Councl
+CITY & COUNTY Limerick City and ort Councl
 COUNCIL ercl ee
 
 t: +353 (0) 61 407 100
@@ -43,11 +44,11 @@ You are requested to attend the Annual Meeting of the Municipal District of Adar
 at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 1" June, 2016 at 9.00 a.m.
 The business to be transacted is set out on the appended Agenda.
 
-Is _ le meas,
+Is a le meas,
 
-70 illagl
+0 illagl
 
-—Fom O'Callaghan?
+—Fom O'Callaghan
 Meetings Administrator.
 AGENDA
 1. To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to hold office until the next
@@ -58,8 +59,10 @@ Annual Meeting or until a successor has been elected.
 the next Annual Meeting or until a successor has been elected.
 
 l = customerservices@limerick.te
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vewvalirmerick.te
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vee limerick.te
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

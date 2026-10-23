@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%20Annual%20Meeting%2025th%20June%202018.pdf)
+**Original file:** [Agenda - Annual Meeting of the Metropolitan District of Limerick 2018 - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Agenda%20Annual%20Meeting%2025th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Seirbhisi Corpardiieacha,
-_—_——_ pa Heleale$ cones Comhairle Cathrach agus Contae Luimnigh,
+i Seibhisi Corpardiieacha,
+_—_——_ ee cated Comhairle Cathrach agus Contae Luimnigh,
 g Ceanncheathra Chorparaideach,
-ACN ee Cé na gCeannaithe,
-— Limerick City Luimneach
+NCN ee Cé na gCeannaithe,
+=— Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -43,16 +44,16 @@ A Chomhairleoir, a chara,
 
 You are requested to attend the Annual Meeting of the Metropolitan District of Limerick to be
 
-held in the Council Chamber, Merchant's Quay, Limerick, on Monday, 25*" June, 2018 at
+held in the Council Chamber, Merchant’s Quay, Limerick, on Monday, 25*" June, 2018 at
 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 AQ
 
-on
+at
 James Clune,
-Me6étings Administrator.
+Meétings Administrator.
 
 AGENDA
 
@@ -63,11 +64,10 @@ Annual Meeting or until a successor has been elected.
 next Annual Meeting or until a successor has been elected.
 
 @ customerservices@limerick.ie
-
-© wee limerickie
-
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

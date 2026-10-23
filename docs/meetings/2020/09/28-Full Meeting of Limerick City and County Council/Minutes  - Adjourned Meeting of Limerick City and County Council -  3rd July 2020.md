@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-d-minutes-adjourned-meeting-03.07.2020.pdf)
+**Original file:** [Minutes  - Adjourned Meeting of Limerick City and County Council -  3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-d-minutes-adjourned-meeting-03.07.2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY
 
 AND COUNTY COUNCIL HELD AT LIMERICK RACECOURSE, GREENMOUNT
@@ -80,7 +81,9 @@ With the permission of the Mayor and in response to queries raised regarding tak
 in-charge of Steamboat Quay, Limerick, the Director, Physical Development, confirmed that
 
 he would revert with an update.
----
+
+[[PAGE_END:1]]
+
 2
 
 With the permission of the Mayor, Councillor Collins (B) referred to Notice of Motion No. 26
@@ -154,7 +157,9 @@ allocations for Strategic Investment of €375,000 for delivery of the Limerick 
 in 2020, as set out in the report of the Director, Community Development, dated 12th June,
 
 2020.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (c)
@@ -226,7 +231,9 @@ Dolores O’Riordan Music Bursary Award 2020
 Circulated, report of the A/Arts Officer dated 15th June, 2020, seeking the Council’s
 
 approval to the Dolores O’Riordan Music Bursary Award 2020.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Teefy;
@@ -298,7 +305,9 @@ Question submitted by Councillor D. McSweeney
 **I will ask at the next Meeting for an update on the progress being made in securing funding**
 
 **to complete Phase Two of Patrickswell Village Renewal Scheme.**
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY:**
@@ -402,7 +411,9 @@ additional section of trail.
 What design features are included in this project towards accommodating people with
 
 special needs who wish to use the Greenway.
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY:**
@@ -478,7 +489,9 @@ Fehily Timoney Consulting Engineers.
 ***2.***Limerick City and County Council is carrying out this work by direct labour. The
 
 estimated cost is €120,000.
----
+
+[[PAGE_END:6]]
+
 7
 
 **(g) Did this farm building receive grant-aid from the Department of Agriculture.**
@@ -560,7 +573,9 @@ gradient in the opposite direction. In areas where the current Greenway exceeds 
 national standards for gradients, works will be carried out to reduce the gradients,
 
 bringing them into line with the applicable standard.
----
+
+[[PAGE_END:7]]
+
 8
 
 
@@ -654,7 +669,9 @@ mobile homes, the provision of chemical toilets, the provision of signage in
 Traveller Specific Accommodation, preparing an area in Rathkeale in
 
 conjunction with the HSE to provide an isolation area in Rathkeale, if required,
----
+
+[[PAGE_END:8]]
+
 9
 
 and the rehousing of families from Traveller Specific Accommodation to
@@ -728,7 +745,9 @@ position on the Wild Atlantic Way. As part of the campaign, Limerick City and
 County Council has been engaging with this forum and also local hotels and
 
 attractions to profile them as part of the campaign.
----
+
+[[PAGE_END:9]]
+
 10
 
 NOTICES OF MOTION
@@ -806,7 +825,9 @@ Notice of Motion submitted by Councillor J. Leddin **(to be referred to Home and
 It was agreed to refer the Motion to the Home and Social Development Strategic Policy
 
 Committee for consideration.
----
+
+[[PAGE_END:10]]
+
 11
 
 18.
@@ -878,7 +899,9 @@ Notice of Motion submitted by Councillor T. Ruddle **(to be referred to Protocol
 **who secured global recognition over several generations.**
 
 It was agreed to refer the Motion to the Protocol Committee for consideration.
----
+
+[[PAGE_END:11]]
+
 12
 
 21.
@@ -956,7 +979,9 @@ Notice of Motion submitted by Councillor C. Sheehan **(to be referred to the**
 **people who are banned from owning animals to obtain new animals; that the Council**
 
 **amend the Control of Horses Bye-Laws to ban horses in housing estates; and that the**
----
+
+[[PAGE_END:12]]
+
 13
 
 **Council engage with the relevant authorities on education and outreach programme around**
@@ -1008,4 +1033,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:13]]
+

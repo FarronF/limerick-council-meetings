@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/03-minutes-annual-meeting.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 23rd June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/03-minutes-annual-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
@@ -58,7 +59,9 @@ He spoke of many highlights in his year as Cathaoirleach and the achievement of 
 main goals with the acquisition of Kilmallock Business Park from Shannon Commercial
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Properties and the ambitious plans to develop part of the business Park into a regional fire
@@ -68,7 +71,7 @@ The Members thanked the outgoing Cathaoirleach for his hard work and efforts in 
 previous twelve months and the professional manner he had chaired meetings and the way
 he had represented the Municipal District at functions and events.
 
-1.‘ Election of Cathaoirleach of the Municipal District
+1. Election of Cathaoirleach of the Municipal District
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach of the
 Municipal District for the coming year.
@@ -108,11 +111,13 @@ Proposed by Councillor E. Ryan;
 Seconded by Councillor M. Ryan.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That Councillor Gerald Mitchell be appointed Leas-Cathaoirleach of the Municipal District of
-Cappamore-Kilmaliock to hold office until the next Annual Meeting or until a successor has
+Cappamore-Kilmallock to hold office until the next Annual Meeting or until a successor has
 been appointed”
 
 As there were no other nominations, the Cathaoirleach declared Councillor Gerald Mitchell
@@ -134,10 +139,14 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a
+ee
 
 
----
+
+[[PAGE_END:4]]
+

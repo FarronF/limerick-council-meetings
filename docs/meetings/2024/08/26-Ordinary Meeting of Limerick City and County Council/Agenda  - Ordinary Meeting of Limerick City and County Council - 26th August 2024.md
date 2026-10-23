@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-08/agenda-ordinary-meeting-of-limerick-city-and-county-council-august-26th-2024.pdf)
+**Original file:** [Agenda  - Ordinary Meeting of Limerick City and County Council - 26th August 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-08/agenda-ordinary-meeting-of-limerick-city-and-county-council-august-26th-2024.pdf)
 
----
+[[FILE_START]]
+
 30th July, 2024.
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -50,4 +51,6 @@ Pursuant to Section 31(3) of the Local Government (Mayor of Limerick) and
 Miscellaneous Provisions Act, 2024, the Mayor is to present a draft of the Mayoral
 
 Programme for consideration by the Elected Council.
----
+
+[[PAGE_END:1]]
+

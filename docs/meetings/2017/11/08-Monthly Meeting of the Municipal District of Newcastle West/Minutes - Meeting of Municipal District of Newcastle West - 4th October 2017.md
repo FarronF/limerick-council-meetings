@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%202017-10-04%20Minutes%20Monthly%20Meeeting%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Newcastle West - 4th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%202017-10-04%20Minutes%20Monthly%20Meeeting%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -59,7 +60,7 @@ following:
 
 e Safety measures at Boherbui.
 ¢ Works on Curlings Bridge.
-¢ Traffic Management Plan for Newcastle West.
+e Traffic Management Plan for Newcastle West.
 
 The Meetings Administrator provided update in relation to removal of asbestos from building at
 Churchtown, Newcastle West. A further update to be provided at November Meeting.
@@ -69,7 +70,9 @@ additional item, which was not listed on agenda in relation to review of Newcast
 Feasibility Impact Study later in the Meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Deputation
@@ -80,7 +83,7 @@ the work that was ongoing locally and he was well aware of the negative effect o
 since 2004 when Kerry Group had pulled out. He commended the Development Group for the
 drive and commitment shown by them in bringing employment back to the area. The
 Deputation consisted of Messrs. Colman Deely (Chairman), Joe Kelleher (Secretary), Jack
-O'Connor (Board Member) and Ms. Trish O'Sullivan (Innovate Limerick).
+O’Connor (Board Member) and Ms. Trish O'Sullivan (Innovate Limerick).
 
 Mr. O'Connor addressed the Meeting and stated that it was a great opportunity for the Group to
 inform the Members of the future plans for the area. He also wished to acknowledge the huge
@@ -129,7 +132,9 @@ On the proposal of Councillor Scanian, seconded by Councillor Galvin, it was agr
 the following:
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ €3,500 to lights on the R515.
@@ -162,9 +167,9 @@ allocations from the Development Fund for the Municipal District would be alloca
 
 Curlings Bridge Newcastle West €30,000.
 Newcastle West Regional Athletics Hub €30,000.
-e R524 Safety Improvements at Limestone Cross, Glin €10,000.
+¢ R524 Safety Improvements at Limestone Cross, Glin €10,000.
 
-5. Provision of new Gra rdinA |
+5. Provision of new Gra rdinA l
 
 The Senior Executive Engineer gave an update on progress in relation to the provision of a new
 graveyard in Abbeyfeale. He stated that the report issued by the Planning and Environmental
@@ -176,12 +181,14 @@ Road, Abbeyfeale.
 
 6. Newcastle West ment Association
 
-Circulated, correspondence dated 25'” September, 2017, from Newcastle West Development
+Circulated, correspondence dated 25"" September, 2017, from Newcastle West Development
 Association seeking the nomination of the ‘Cathaoirleach of the Day’ of the Municipal District of
 Newcastle West to sit on the Board.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -191,7 +198,7 @@ Councillor Collins, as the current Cathaoirleach of the Municipal District of Ne
 the board of the Newcastle West Development Association.
 
 With the permission of the Cathaoirleach and as agreed at the outset of the Meeting, a report
-on a Review of Newcastle West Pool Feasibility Impact Study was then discussed.
+on a Review of Newcastle West Pool Feasibility impact Study was then discussed.
 
 Review of Newcastle West Pool Feasibility Impact Study
 
@@ -239,7 +246,9 @@ REPLY: (a) The Question has been referred to Irish Water for an update. The Memb
 will be advised as soon as a decision has been made by Irish Water.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Irish Water generally does not attend District Meetings but will be happy to meet
@@ -263,7 +272,7 @@ works were carried out it could be an ecological issue. The Senior Executive Eng
 he would try and clarify what scheme was previously used when work was undertaken in a
 
 similar situation.
-10. ion i ncillor J. Scanlan
+10. ion i ncillor J. Scanian
 
 ! will ask at the next Meeting when the issue of subsiding gullies along Boherbui, Newcastle
 West is likely to be resolved.
@@ -272,7 +281,7 @@ REPLY: The matter has been investigated and repair works will be completed this 
 
 11. Question submitted by Councillor J. Scanlan
 
-| will ask at the next if a yield/stop sign can be put in place at the Desmond Business Park
+! will ask at the next if a yield/stop sign can be put in place at the Desmond Business Park
 Junction with the public road towards various farm land at Dungeeha in the interest of public
 
 safety.
@@ -297,7 +306,9 @@ Meetings have been held with the Til in relation to National Route Proposals and
 draft Bye-Laws are currently being prepared.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The revised proposals and the draft Bye-Laws will be brought before the November
@@ -349,4 +360,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

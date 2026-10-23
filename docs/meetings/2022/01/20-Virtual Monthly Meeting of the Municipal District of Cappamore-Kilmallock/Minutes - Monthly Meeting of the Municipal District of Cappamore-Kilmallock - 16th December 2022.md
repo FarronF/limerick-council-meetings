@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/2-.-minutes-of16th-december-md-meting_0.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/2-.-minutes-of16th-december-md-meting_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD ON
@@ -82,7 +83,9 @@ Executive Engineer advised that investigations were ongoing, and that there were
 of considerations to be made. A workshop may be held to discuss the proposal in the future
 
 if required.
----
+
+[[PAGE_END:1]]
+
 3.Deputation
 
 Councillor Donegan noted that the Deputation were unable to attend the Municipal
@@ -144,7 +147,9 @@ Limerick City and County Council to carry out safety measures at the intersectio
 R515 Charleville road and Effin road (L8573) at Portauns in Kilmallock as there has been a
 
 significant number of accidents there over the last few years.”
----
+
+[[PAGE_END:2]]
+
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Carey**
@@ -204,7 +209,9 @@ dangerous junction more safe. “
 A review of Garryspillane Cross will be carried out in 2022 to determine what improvements
 
 may be required at the junction.
----
+
+[[PAGE_END:3]]
+
 QUESTIONS
 
 5.Question submitted by Councillor Carey
@@ -254,7 +261,9 @@ current position of the development of a Fire Training Centre.”
 The Fire Service is currently exploring options following the rejection of the Part 8
 
 Application for a Fire Service Training Centre in Kilmallock Business Park.
----
+
+[[PAGE_END:4]]
+
 8.Question submitted by Councillor Mitchell
 
 “I will ask at the next meeting of the Cappamore Kilmallock Municipal District what the
@@ -318,7 +327,9 @@ Limerick Hurling Team on his passing on the 22nd November aged 77.
  Former staff member Clem Allis and family on the passing of his sister Kathleen.
 
  Councillor John Egan and family on the passing of his brother Joseph Egan.
----
+
+[[PAGE_END:5]]
+
  The family of Tom Leahy, who passed away on 24th November.
 
 Next Meeting
@@ -332,4 +343,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:6]]
+

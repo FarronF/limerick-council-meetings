@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_270217.pdf) - [Extracted text](./Agenda%20-%20Home%20%26%20Social%20Development%20SPC%20-%2027th%20February%202017.md)
+Agenda - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_270217.pdf) - Text not extracted
 
-Minutes - Home & Social Development SPC  12th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_home_social_development_spc_121216.pdf) - [Extracted text](./Minutes%20-%20Home%20%26%20Social%20Development%20SPC%20%C2%A012th%20December%202016.md)
+Minutes - Home & Social Development SPC  12th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_home_social_development_spc_121216.pdf) - Text not extracted
 
 Notice of Motion - Cllr. C Prendiville - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/notice_of_motion_-_cllr._c_prendiville.pdf) - Text not extracted
 

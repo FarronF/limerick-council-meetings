@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20May%202015.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20May%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 agus
 
-a ce
+a coe
 . =-_ Luimneach
-CITY & COUNTY Merchant 5 Quay,
+CITY & COUNTY Merchant s Quay,
 +353 (0) 61 407 100
 
 #: +353 (0) 61 415 266
@@ -42,7 +43,7 @@ in the Council Chamber, Dooradoyle, Limerick, on Monday, 25" May, 2015, at
 3.00pm. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-DiGyanace
+BiGganacs
 
 Christy O’Connor,
 
@@ -51,8 +52,8 @@ Meetings Administrator.
 AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
-(a) | Special Meeting of the Council held on 18" March, 2015.
-(b) | Ordinary Meeting of the Council held on 23° March, 2015.
+(a) Special Meeting of the Council held on 18" March, 2015.
+(b) | Ordinary Meeting of the Council held on 23” March, 2015.
 (c) Special Meeting of the Council held on 15" April, 2015.
 
 (Copies Enclosed)
@@ -64,7 +65,9 @@ To consider proposal for the disposal of land at:
 (b) 38, Hennessy Avenue, Kileely, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) 20, Linden Court, Kennedy Park, Limerick.
@@ -103,7 +106,9 @@ Council Audit Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) Invitation
@@ -146,7 +151,9 @@ modification, or refuse to make it, in accordance with Sections 13 (5) and
 (Report and Chief Executive’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) Proposed Variation No. 5 to Limerick City Development
@@ -192,7 +199,9 @@ Consultative Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -200,7 +209,6 @@ Consultative Committee.
 11.
 
 (b) Raising of Loan
-
 To approve the raising of a loan of €739,188 from the Housing Finance
 Agency for the additional approved funding of Cois Na Feile,
 Abbeyfeale (Cluid Housing Association).
@@ -238,7 +246,9 @@ May, 2015.
 May, 2015.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -288,7 +298,9 @@ maintenance audit as was discussed at a recent meeting of the Home and
 Social Development Strategic Policy Committee.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -341,7 +353,9 @@ to the Counties of Kerry and Cork, with the aim of improving the management
 and welfare of dogs and for the safety of the public.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -356,7 +370,7 @@ Notice of Motion submitted by Councillor T. Neville (To be
 referred to Travel and Transportation SPC)
 
 | will move at the next Meeting that, similar to Wexford County Council,
-Limerick City and County Council adopt “Stayin’ Alive at 1.5" campaign in
+Limerick City and County Council adopt "Stayin’ Alive at 1.5" campaign in
 promoting awareness and safety measures for cyclists.
 
 Notice of Motion submitted by Councillor S. Browne (To be
@@ -387,7 +401,9 @@ include each Councillor's political party, if any, as well as the area which the
 Councillors represent.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23.
@@ -417,9 +433,13 @@ agreement of all parties concerned
 Correspondence.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

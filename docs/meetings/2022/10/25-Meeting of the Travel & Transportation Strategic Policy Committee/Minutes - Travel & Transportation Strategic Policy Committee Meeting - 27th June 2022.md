@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.06.22.pdf)
+**Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting - 27th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.06.22.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -74,4 +75,6 @@ adjourn the meeting to Tuesday, the 12th July 2022.
 The Meeting then concluded.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

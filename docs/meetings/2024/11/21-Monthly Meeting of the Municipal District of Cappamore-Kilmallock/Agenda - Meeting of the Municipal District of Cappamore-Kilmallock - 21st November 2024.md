@@ -16,18 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
+az, & Contae Luimnigh
+aAafr™N
 
-a‘ & Contae Luimnigh
-
-aAar™N
-—_= Limerick City
-
+—= Limerick City
 & County Council
 
 18" November, 2024.
@@ -43,7 +42,7 @@ Cill Mochesiég,
 Co, Lusimnigh.
 
 Limerick City and County Council,
-Aras Mainchin Seoighe Area Office,
+Aras Mainchin Seoighe Area Office.
 Kitmatiock,
 
 Co. Limerick
@@ -88,15 +87,17 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 (Report Enclosed).
 
-= ee
-wwvilimerick.te
+= cacameay rarest
+wewvilimerick.te
 
 VY @limerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -129,7 +130,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor G. Conway
 
-I will move at the next meeting that we call on the Minister for Health to establish an
+| will move at the next meeting that we call on the Minister for Health to establish an
 ambulance base at Kilmallock Primary Health Care Centre, Kilmallock.
 
 Notice of Motion submitted by Councillor M. Ryan
@@ -151,4 +152,6 @@ installing 2 speed ramps between Scoil Mocheallog and Bellview Est.
 2
 
 
----
+
+[[PAGE_END:2]]
+

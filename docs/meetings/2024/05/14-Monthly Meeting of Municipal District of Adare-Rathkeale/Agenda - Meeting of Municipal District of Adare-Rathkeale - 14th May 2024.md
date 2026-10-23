@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-14th-may-2024.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 14th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-municipal-district-of-adare-rathkeale-14th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Comhairle Cathrach
 & Contae Luimnigh
-AN ‘“
+AN ‘
 
-—— _ Limerick City
+—— Limerick City
 & County Council
 
 9" May, 2024.
@@ -42,11 +43,11 @@ Co. Luimnigh
 
 Adare-Rathkeale Municipal District,
 Limerick City arut County Council,
-Aras Sean Pinn,
+Aryas Sean Pinn,
 
 New Line,
 
-Rathkeale,
+Rathkeale.
 
 Co. Limerick
 
@@ -73,7 +74,7 @@ held on 8" April, 2024.
 (b) To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale
 held on 9" April, 2024
 (Copy Enclosed).
-2 i Inter:
+2 I Inter:
 om customerservices@limerick.ie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach 1 © wewlimerick.te
 
@@ -83,7 +84,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -122,12 +125,14 @@ To update Members on issues of interest in the District.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
-11,
+11.
 
 12.
 
@@ -176,7 +181,7 @@ Notice of Motion submitted by Councillor A. Teskey
 | move at the next Meeting that Limerick City and County Council carry out a safety audit
 at Kilfinny Cross with a view to making it safer for pedestrians.
 
-Notice of Motion submitted by Councillor J. O’Donoghue
+Notice of Motion submitted by Councillor J. O'Donoghue
 
 | will move at the next Meeting that an audit of all Housing Estates in the Adare-Rathkeale
 District be conducted to include parking spaces footpaths and open spaces.
@@ -185,7 +190,9 @@ The purpose of the audit is to ensure the safety of every person living in, work
 these estates.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -206,4 +213,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

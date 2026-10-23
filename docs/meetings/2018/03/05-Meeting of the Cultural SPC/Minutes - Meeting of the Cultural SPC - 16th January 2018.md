@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%201.pdf)
+**Original file:** [Minutes - Meeting of the Cultural SPC - 16th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%201.pdf)
 
----
+[[FILE_START]]
+
 1
 
 A meeting of the Cultural Strategic Policy Committee was held in Council Chamber, Limerick
@@ -90,7 +91,9 @@ That the minutes from Cultural Strategic Policy Committee meeting held on 12th D
 2017 be adopted.
 
 **CULTURAL STRATEGIC POLICY COMMITTEE**
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 2.**
@@ -164,7 +167,9 @@ concepts for new festivals/events.
 An independent panel made a number of recommendations that were approved at the July
 
 2017 meeting of the Limerick Metropolitan District meeting, including;
----
+
+[[PAGE_END:2]]
+
 3
 
 **Electronic Music Festival (CWB)**
@@ -230,4 +235,6 @@ Minutes Seconded By:
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

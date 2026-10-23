@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-ordinary-meeting-of-limerick-city-and-county-council-26th-january-2026.pdf)
+**Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 26th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-ordinary-meeting-of-limerick-city-and-county-council-26th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -88,7 +89,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
@@ -164,7 +167,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 the Courthouse, Main Street, Rathkeale, Co. Limerick, to the Trustees of Rathkeale
 
 Community Council, for the sum of €1, subject to the covenants and conditions contained
----
+
+[[PAGE_END:2]]
+
 3
 
 within the Lease, particulars of which were contained in Statutory Notice dated 3rd December,
@@ -236,7 +241,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -308,7 +315,9 @@ Following discussions on roles within the new structure, Councillor Sheahan prop
 Meeting of the Full Council (In Camera) be arranged. This was seconded by Councillor
 
 Donoghue.
----
+
+[[PAGE_END:4]]
+
 5
 
 6.
@@ -382,7 +391,9 @@ Environment Strategic Policy Committee dated 10th December, 2025, in relation to
 Meeting of the Committee held on 3rd December, 2025.
 
 The Chairperson’s report was noted by the Council.
----
+
+[[PAGE_END:5]]
+
 6
 
 (ii)
@@ -460,7 +471,9 @@ Circulated, report of the Arts Officer/Creative Ireland Co-ordinator dated 14th 
 seeking the Council’s approval to recommended allocations from the Assessment Panel for
 
 Limerick Theatre Bursaries 2026.
----
+
+[[PAGE_END:6]]
+
 7
 
 Proposed by Councillor Collins (M);
@@ -536,7 +549,9 @@ involved in the project, working in partnership with the National Transport Auth
 An Garda Síochána and other agencies.
 
 He outlined the key objectives in selecting the proposed sites:
----
+
+[[PAGE_END:7]]
+
 8
 
 • The importance of proximity to Adare Manor, where the Ryder Cup will be hosted.
@@ -610,7 +625,9 @@ The Director read the following statement for the information of the Members.
 *process. We would respectively ask that this matter is treated sensitively, based on factual*
 
 *information from the Mid West National Road Design Office**”**.*
----
+
+[[PAGE_END:8]]
+
 9
 
 Members thanked the Director for the information and noted they looked forward to an
@@ -682,7 +699,9 @@ Regulations, 2001 (as amended).
 On the proposal of Councillor Sheahan and seconded by Councillor Collins (M), the Mayor’s
 
 Report, as circulated, was approved.
----
+
+[[PAGE_END:9]]
+
 10
 
 (iv)
@@ -758,7 +777,9 @@ Local Authority is provided for within the Development Plan.
 • The Development Plan must provide for sufficient zoned lands to cater for 10,758
 
 housing units to the end of the plan.
----
+
+[[PAGE_END:10]]
+
 11
 
 The Senior Planner further advised that the Mayor’s Report recommends that a Variation to
@@ -838,7 +859,9 @@ Conferences
 Participation by Members at Conferences
 
 Details of the following Conference had been circulated electronically to the Members:
----
+
+[[PAGE_END:11]]
+
 12
 
 “Irish Health Services Entitlement” held in Carlingford, Co. Louth on 5th, 6th and 7th December,
@@ -914,7 +937,9 @@ strategic importance of the Mackey location.
 More generally, engagement at official level with the NTA, Transport Infrastructure
 
 Ireland and the Department of Transport is ongoing and is led on a day-to-day basis
----
+
+[[PAGE_END:12]]
+
 13
 
 by the Council’s Transport and Mobility team, who have been working with these
@@ -986,7 +1011,9 @@ potential interest on my part, should the property be made available for sale, o
 alternatively if a lease or deferred purchase arrangement were to be considered. Such
 
 an approach could, subject to agreement, facilitate an extension of the overall project.
----
+
+[[PAGE_END:13]]
+
 14
 
 If Shannon Foynes Port Company were to decide of its interest in the Sailors’ Home, it
@@ -1056,7 +1083,9 @@ parking income arising from use of the permit.
 19.
 
 Question submitted by Councillor J. Scanlan
----
+
+[[PAGE_END:14]]
+
 15
 
 ***I will ask at the next Meeting what was the value of Derelict Site Levies imposed by our***
@@ -1156,7 +1185,9 @@ Question submitted by Councillor P.J. Carey
 ***Department, what correspondence, if any, has been received so far and what is Limerick***
 
 ***City and County Council’s position on same.***
----
+
+[[PAGE_END:15]]
+
 16
 
 **REPLY:** LCCC made a submission on the 10th of October 2025 on the public consultation on
@@ -1242,7 +1273,9 @@ Question submitted by Councillor E. O’Donovan
 Castlemungret to develop land to facilitate on site handling, storage and introduction
 
 of alternative fuels with conveyor kiln, storage tanks, uploading station, handling
----
+
+[[PAGE_END:16]]
+
 17
 
 building, cooling tower and associated ancillary works. This permission was subject
@@ -1358,7 +1391,9 @@ Build Target
 513
 
 551
----
+
+[[PAGE_END:17]]
+
 18
 
 (ii) LA Direct delivery
@@ -1500,7 +1535,9 @@ output of other Local Authorities have been constrained by normal construction a
 procurement lead-in periods. As a result, outputs in the initial years do not fully reflect
 
 the scale of programme activity now currently underway.
----
+
+[[PAGE_END:18]]
+
 19
 
 Since the end of 2022, the Affordable team has pursued a deliberate pipeline-led
@@ -1622,7 +1659,9 @@ November 13th 2025. A revised memo providing additional further information was
 signed on December 19th, 2025. The changes to the original memo requested a
 
 greater breakdown of the tender price, including a breakdown of development works,
----
+
+[[PAGE_END:19]]
+
 20
 
 access road, abnormals, etc. The number of days between signing of both memos by
@@ -1698,7 +1737,9 @@ Question submitted by Councillor S. Keary
 contractor for the construction of the Adare Bypass project. These include bridge
 
 beams, culverts, retaining walls, underpasses, pipes, headwalls, manholes, duct boxes,
----
+
+[[PAGE_END:20]]
+
 21
 
 kerbs and a number of other ancillary items. The cumulative value of precast concrete
@@ -1818,7 +1859,9 @@ NMAC
 Housing Support Services
 
 78
----
+
+[[PAGE_END:21]]
+
 22
 
 Housing Welfare & Traveller Accommodation
@@ -1926,7 +1969,9 @@ The development of One Opera Square was initiated through the Limerick Twenty
 Thirty Economic and Spatial Plan and the Limerick Development Plan 2022–2028, both
 
 of which support the regeneration of the Opera Square site and the provision of city-
----
+
+[[PAGE_END:22]]
+
 23
 
 centre, employment-generating commercial development. As part of the
@@ -1996,7 +2041,9 @@ This was agreed by Councillor Gavan.
 With the permission of the Príomh Chomhairleoir, Notice of Motion 30 and Notice of Motion
 
 34 were taken together.
----
+
+[[PAGE_END:23]]
+
 24
 
 30.
@@ -2104,7 +2151,9 @@ Cappamore–Kilmallock 1,081.40
 **€400,000**
 
 ***Table 1: Additional Local Road Budget per MD (2026)***
----
+
+[[PAGE_END:24]]
+
 25
 
 34.
@@ -2212,7 +2261,9 @@ Cappamore–Kilmallock 1,081.40
 31.
 
 Notice of Motion submitted by Councillor E. O’Donovan
----
+
+[[PAGE_END:25]]
+
 26
 
 ***I will move at the next Meeting that Limerick City and County Council write to the***
@@ -2280,7 +2331,9 @@ the county, noting the benefits these measures would bring to rural communities 
 Thank you for your motion concerning the need for a comprehensive schedule of
 
 proposed spending on Active Travel Projects for 2026.
----
+
+[[PAGE_END:26]]
+
 27
 
 This initiative aligns with our ongoing commitment to enhancing mobility across
@@ -2350,7 +2403,9 @@ The Correspondence circulated with the agenda was taken as read.
 The Register of Orders made by the Mayor or the Director General up to the date of the
 
 Meeting was available on Sharepoint for inspection by the Members.
----
+
+[[PAGE_END:27]]
+
 28
 
 **PLANNING AND DEVELOPMENT:**
@@ -2368,4 +2423,6 @@ amended, is available on SharePoint for inspection by the Members.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:28]]
+

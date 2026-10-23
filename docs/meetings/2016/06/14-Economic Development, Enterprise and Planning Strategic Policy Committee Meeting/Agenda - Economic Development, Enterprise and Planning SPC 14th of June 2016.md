@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%2014th%20of%20June%202016.pdf)
+**Original file:** [Agenda - Economic Development, Enterprise and Planning SPC 14th of June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%2014th%20of%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 7th June 2016
 
 **To/Each Member of the Economic Development, Enterprise and Planning**
@@ -62,4 +63,6 @@ Yours sincerely
 Senior Executive Officer
 
 Economic Development
----
+
+[[PAGE_END:1]]
+

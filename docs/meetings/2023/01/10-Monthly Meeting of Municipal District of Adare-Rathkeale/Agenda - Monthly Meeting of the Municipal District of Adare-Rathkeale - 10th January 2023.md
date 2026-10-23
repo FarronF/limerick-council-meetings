@@ -16,24 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%2010th%20January%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%2010th%20January%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach — Bardasach Ath Dara-Rath Caola,
+et Comhairle Cathrach a Ath Dara-Rath Caola,
 
 Comhairle Cathwach agus Contae Luimnigh.
-~~ & Contae Luimnigh eae
+~~ & Contae Luimnigh Per rale aet
 af
 
-— = Limerick City aoe
-& County Council 1 Caola,
+& core Council 1 Caola,
 
 Co. Luimnigh
 
 Adare-Rathkeale Municipal District
-Limerick City and County Council
+Limerick City and County Council.
 Aras Sean Finn,
 
 New Line,
@@ -45,7 +45,7 @@ Co. Limerick.
 EBIRCODE V4 HKLY
 
 t; 4353 (0) 69 64047
-5™ January, 2023. {: 4353 (0) 69 63188
+5™ January, 2023. f: 4353 (0) 69 63188
 
 To: Ca rl ind Each M Municipal District of Adare-Rathk
 
@@ -53,7 +53,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 
-Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 10" January, 2023 at 9.30
+Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 10” January, 2023 at 9.30
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -74,12 +74,14 @@ To note proposal for the disposal of freehold interest in property at 21 Ballywi
 Rathkeale, Co. Limerick.
 
 (Report Enclosed).
-mhamnamang [20 aco
+hacen [easel
 Ceanncheathri Chorpardideach, Cé na gCeannaitheuimneach | www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development and Enterprise Directorate
@@ -113,4 +115,6 @@ Adare.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

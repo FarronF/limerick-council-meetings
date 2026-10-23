@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2023.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 6th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_— Comhairie Cathrach
+_——_ Comhairle Cathrach
 
 & Contae Luimnigh
 
-no
-=> Limerick City
+nAoN
+==> Limerick City
 
 & County Council
 
@@ -36,7 +37,7 @@ To: The Cathaoirleach and Each Member of the Munici
 
 Duiche Bardais an Chaisiesin Nua Thiar,
 Comhairle Cathwach agus Contae Luimnigh
-Aras ¥iilliam Smith O'Brien,
+Aras Yiilliam Smith O'Brien.
 
 Gortbut
 
@@ -44,7 +45,7 @@ An Caislean Nua Thiar,
 
 Co. Luimnigh,
 
-Nevcastle West Municipal District,
+Nevecastle West Municipal District,
 Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy
@@ -65,11 +66,10 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6° December,
 2023, at 3 p.m. The business to be transacted is set out on the appended Agenda.
 
-rere
-
 Meetings Administrator.
 
 AGENDA
+
 1. Minutes
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 1* *
@@ -85,11 +85,11 @@ Draft Newcastle West Local Area Plan 2023-2029
 (Copy Enclosed)
 
 To consider the proposed Materials Alterations of the Draft Newcastle West Local
-Area Plan 2023-2029 and the report of the Chief Executive dated 15" November 2023
+Area Plan 2023-2029 and the report of the Chief Executive dated 15"* November 2023
 on the submissions received on the Material Alterations to the Draft Newcastle West
 Local Area Plan, and decide whether the local area plan shall be made or amended in
 
-Ceanncheathré Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 = rickie
@@ -100,7 +100,9 @@ Y @LimerickCouncil
 & 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 accordance with Section 20(3)(n) of the Planning and Development Act 2000 (as
@@ -151,7 +153,9 @@ give a detailed Update/Report on the derelict properties in Abbeyfeale town (a)
 Colbert's Terrace, (b) Main Street (c) Old Church Street (d) New Street (c) Convent
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -168,9 +172,9 @@ Colbert's Terrace, (b) Main Street (c) Old Church Street (d) New Street (c) Conv
 
 Street (f) the Convent building.
 
-m ncillor J. Scanian
+m necillor J. Scanian
 
-| will ask at the next Meeting (a) When we can expect the spot speed indicator to be
+I will ask at the next Meeting (a) When we can expect the spot speed indicator to be
 moved out to the speed limit along the Monagea Road and (b) When a similar sign
 will be put in place on the southern approach to Feohanagh Village.
 
@@ -197,7 +201,7 @@ coming from the L7091 connecting to L7092 Dromtrasna road.
 
 Notices of Motion submitted by Councillor T. Ruddle
 
-| will move at the next Meeting that the laneway which connects Bishop Street with
+! will move at the next Meeting that the laneway which connects Bishop Street with
 the Desmond Complex to be upgraded with proper drainage and resurfacing. This is
 at the side of the Courtenay primary school and is used by a large number of people
 going to the Desmond créche and Desmond complex. It is very slippery and
@@ -210,7 +214,9 @@ down to about 80. Also we have lost parking in other parts of the town, Dooley's
 new supermarket extension. It is incumbent on the Council to provide adequate
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 within walking of town centre. The new draft public realm plans also show a
@@ -226,4 +232,6 @@ Bounds. This audit should look at speed limit reductions, driver feedback signs 
 average speed cameras.
 
 
----
+
+[[PAGE_END:4]]
+

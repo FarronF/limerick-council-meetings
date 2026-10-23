@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20of%20Monthly%20Meeting%209th%20July%2C%202019_0.pdf)
+**Original file:** [Minutes - Monthly Meeting  of the Municipal District of Adare-Rathkeale -  9th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20of%20Monthly%20Meeting%209th%20July%2C%202019_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ Seconded by Councillor O’Donoghue;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(c)**
@@ -152,7 +155,9 @@ And Resolved:
 “That the 15.61 acres of land at Carrigeen, Croom, Co. Limerick be disposed of to Tower
 
 View Farm Limited (Mr. Bertie Reynolds)”.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -226,7 +231,9 @@ Councillor Collins informed Members the Adare Community Trust Group in Adare wer
 currently compiling a strategic plan for the village which is nearing publication. It was
 
 agreed to discuss this matter further at the workshop scheduled for the 19th July, 2019.
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.**
@@ -302,7 +309,9 @@ have to be carried out by the outdoor staff of the Municipal District. Councillo
 Teskey queried if there was a staffing shortage in the area to carry out these type
 
 of works and requested a staff briefing be provided for the next Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
  Councillor Sheahan expressed concern in relation to the ongoing sewerage issues
@@ -342,4 +351,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

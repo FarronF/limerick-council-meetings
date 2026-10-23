@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/00%20Agenda%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20October%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/00%20Agenda%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 : Seirbhisi Corpardideacha,
-_—_—_—_—" Comhairle Cathrach Conihaa/ia Coben agus Corns serch
-& Contae Luimnigh Ceanncheathni Chorpardideach,
-NN EE Cé na gCeannaithe,
-—==> Limerick City Luimneach
+_——_" Habel Cathrach Comhairle Cathrach agus Contae Luimnigh,
+ontae Luimnigh Ceanncheathri Chorpardideach,
+NAN EI Cé na gCeannaithe,
+— Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -45,7 +46,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant’s Quay, Limerick on Monday, 16" October, 2017 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick on Monday, 16” October, 2017 at 9.45 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 
@@ -78,10 +79,12 @@ Caheranardish, Mungret, Co. Limerick.
 © vevew limerick.te
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncit
-Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
+Corporate Headquarters, Merchants Quay, Limerick (061 - $$7150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Service Operations Directorate
@@ -127,7 +130,9 @@ Metropolitan District of Limerick.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -155,7 +160,7 @@ Flats and the Churchfield Site in Southill.
 Question submitted by Cmhir. S. 6 Ceallaigh
 
 | will ask at the next Meeting, when is it envisaged for works on sufficient flood defences to
-begin in Castleconnell and when is it envisaged that these works will be completed.
+begin in Castieconnell and when is it envisaged that these works will be completed.
 
 Question submitted by Councillor J. Costelloe
 
@@ -167,7 +172,7 @@ Question submitted by Councillor M. McCreesh
 | will ask at the next Meeting for an update on the current status of the plans for the
 internal buildings at Mungret College.
 
-uesti i ill .McCreesh
+uesti i ill . McCreesh
 
 | will ask at the next Meeting for an update on the schedule for the thermal upgrade plan
 for Tara Court, Watergate and has funding been provided for the completion of this
@@ -180,7 +185,9 @@ Metropolitan District Meeting online for the public to follow, or watch back, as
 Council's across the country.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -204,7 +211,6 @@ organise a forum between the council, third level institutions in the city and t
 unions in those institutions to discuss the crisis in student accommodation in the
 
 Metropolitan District.
-
 NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor J.Leddin (to be referred to the Local Electoral —
@@ -241,7 +247,9 @@ where stalls are set up on a Saturday morning, should be closed to cars seeking 
 through the market for the duration of the Saturday market.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -263,4 +271,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

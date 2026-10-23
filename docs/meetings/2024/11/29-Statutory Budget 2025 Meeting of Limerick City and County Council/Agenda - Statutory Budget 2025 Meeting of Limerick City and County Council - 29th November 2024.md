@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-budget-meeting-limerick-city-and-county-council-29.11.2024.pdf)
+**Original file:** [Agenda - Statutory Budget 2025 Meeting of Limerick City and County Council - 29th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-budget-meeting-limerick-city-and-county-council-29.11.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-A Comhairle Cathrach
-== & Contae Luimnigh
-am. Li ick Cit
+qt Comhairle Cathrach
+—_ & Contae Luimnigh
+oe Li ick Cit
 — imerick City
 & County Council
 
 21* November, 2024
 
-Seitbhisi Corparaideacha,
+Seisbhisi Corparaideacha,
 
-Combhatile Catwach agus Contae Luimrgh,
+Combhatile Catwach agus Contae Luimrnigh,
 
 Ceanncheathni Chorparaideech,
 Cé na gCeannaithe,
@@ -45,7 +46,7 @@ Merchants Guay,
 
 Limerick
 
-EIRCODE V94 £+90
+EIRCODE V94 £90
 
 +353 (0) 61 557150
 +353 (0) 61 415 266
@@ -62,12 +63,12 @@ November, 2024, at 10.00 a.m.
 
 The business to be transacted is set out on the appended Agenda.
 
-Is mise Cage coll )
+Is mise vag coll )
 
 Ciara Farrell,
 Meetings Administrator.
 
-en nn eT ee ean
+Pewee nerenmecceene sn ceeecsceccsecces nn nees snc ecese access neeseenee
 
 AGENDA
 
@@ -90,11 +91,13 @@ Act 2024,
 & customerservices@limerickte
 
 © worn kmerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimmeach Y @limorickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimmeach VY @limorickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (063 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. To consider the Capital Programme 2025 to 2029 in accordance with Section 135
@@ -130,4 +133,6 @@ Section 43 of the Local Government Reform Act, 2014 and Local Government
 (Copy of proposed Small and Medium Business Support Scheme 2025 enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

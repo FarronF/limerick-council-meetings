@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/02%20Minutes%20Dec%202019%20MD%20Mtg.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 12th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/02%20Minutes%20Dec%202019%20MD%20Mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -37,7 +38,7 @@ OFFICIALS IN ATTENDANCE:
 
 Director, Support Services-Finance, Corporate, HR & ICT (Mr. S. Coughlan); A/Director, Capital
 Investment Directorate (Mr. J. Delaney); Meetings Administrator, (Mr. M. Leahy); Senior
-Executive Engineer, Cappamore-Kilmallock (Mr. 8B. Kidney); A/SEO, Housing Support Services
+Executive Engineer, Cappamore-Kilmallock (Mr. B. Kidney); A/SEO, Housing Support Services
 (Mr. R. Lowth); Senior Architect, Housing Development Directorate (Mr. S. Hanrahan);
 Executive Engineer, Cappamore-Kilmallock (Mr. D. Sheehy); Executive Planner, Housing
 Development Directorate (Ms. S. Newell); Assistant Engineer, Cappamore-Kilmallock (Mr. D.
@@ -46,7 +47,7 @@ Corcoran); Clerical Officer, Cappamore-Kilmallock (Ms. H. O’Neill).
 1. Adoption of Minutes
 
 (i) Circulated, copy of draft Minutes of Monthly Meeting of the Municipal District of
-Cappamore-Kilmallock held on the 21" November, 2019.
+Cappamore-Kilmallock held on the 21* November, 2019.
 
 Proposed by Councillor Egan,
 Seconded by Councillor Teefy.
@@ -66,7 +67,9 @@ amended).
 
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The A/Director, Capital Investment Directorate outlined the content of the Chief Executives
@@ -97,7 +100,7 @@ Members on:
 
 e New Differential Rent Scheme for Limerick City and County;
 e Affordable Housing Scheme of Priorities;
-¢ Planned Preventative Maintenance Programme.
+e Planned Preventative Maintenance Programme.
 
 The Elected Members thanked the staff of the Housing Development Directorate for their
 presentation. They welcomed the fact that the new Differential Rent Scheme for Limerick
@@ -113,7 +116,9 @@ that this programme would commence in the first quarter of 2020 with a sample su
 housing stock across both Limerick City and County housing areas.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Housing Pro R
@@ -138,7 +143,7 @@ erected on the approach from Knockainey to the R513 Road at this junction.
 5. Notice of Motion submitted by Councillor Teefy
 
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that Safety
-Improvement works be carried out on the L1152 road from New Pallas towards Old Pallas
+improvement works be carried out on the L1152 road from New Pallas towards Old Pallas
 on the narrow section of the road before the junction for Nicker School and that extra
 signage be put in at the school junction.
 
@@ -157,7 +162,9 @@ Kilmallock Municipal District?
 Cappamore-Kilmallock Municipal District?
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -168,7 +175,7 @@ one area of choice in the Cappamore-Kilmallock Municipal District:
 
 Cappamore: 86 Pallasgreen: 68 Kilmallock: 131 Ballylanders: 42
 Murroe: 135 Athlacca: 21 Galbally: 36 Castletown: 4
-Bruree: 54 Herbertstown: 2 Bruff; 109 Kilteely: 12
+Bruree: 54 Herbertstown: 2 Bruff: 109 Kilteely: 12
 Knocklong: 47 Oola: 32 Kilfinane: 55 Anglesboro: 4
 Effin: 1 Ballyagran: 9 Hospital: 100 Glenbrohane: 1
 Doon: 50 Caherconlish: 119
@@ -195,7 +202,9 @@ Government's Climate Action Fund, to help meet the expected growth of electric v
 the coming years.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Any Other Business
@@ -206,7 +215,7 @@ with the proposal as outlined by the Director Support Services-Finance, Corporat
 to allocate €30,000 to Lough Gur Co-Operative Development Society Limited for the
 operation of the Lough Gur Site in 2020.
 
-¢ Cork Line Level Crossings Project
+e Cork Line Level Crossings Project
 
 The Elected Members referred to a recent Public Consultation Information Event that
 took place in the Deebert House Hotel on the 20" November, 2019 in relation to the
@@ -239,7 +248,9 @@ decided to invite the two deputations to attend the respective January 2020 and
 February 2020 Municipal District Meetings.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Vote of Sympathy
@@ -271,7 +282,7 @@ the Chambers Ireland Excellence in Local Government Awards;
 the Irish Public Bodies Pride of Place Awards;
 
 The Members also congratulated Finn Coleman, Caherline who was recently presented
-with a Garda Youth Award,
+with a Garda Youth Award.
 
 The Cathaoirleach wished all a happy and peaceful Christmas.
 
@@ -281,4 +292,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:6]]
+

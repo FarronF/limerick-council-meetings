@@ -1,8 +1,14 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 07 - July
 
 * [04 Monthly Meeting Of The Municipal District Of Newcastle West](04-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [04 Municipal District Of Newcastle West Joint Policing Sub Committee Meeting](04-Municipal District of Newcastle West Joint Policing Sub Committee Meeting/README.md)
 * [05 Special Meeting Of The Cappamore Kilmallock Municipal District](05-Special Meeting of the Cappamore-Kilmallock Municipal District/README.md)
+* [09 Meeting Of The Home And Social Development Spc](09-Meeting of the Home and Social Development SPC/README.md)
+* [10 Meeting Of The Cultural Spc](10-Meeting of the Cultural SPC/README.md)
 * [10 Monthly Meeting Of The Municipal District Of Adare Rathkeale](10-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
 * [13 Joint Policing Committee Meeting](13-Joint Policing Committee Meeting/README.md)
 * [16 Monthly Meeting Of Metropolitan District Of Limerick](16-Monthly Meeting of Metropolitan District of Limerick/README.md)

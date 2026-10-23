@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-3rd-december-2025.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 3rd December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-3rd-december-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **27th November 2025**
@@ -92,7 +93,9 @@ Mr Barry Deane, Regional Coordinator | South West, Local Authority Waters Progra
 (LAWPRO)
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 5.Laboratory Rural Water Natural Waters Monitoring Programme - Priorities and Challenges
@@ -104,4 +107,6 @@ Mr Barry Deane, Regional Coordinator | South West, Local Authority Waters Progra
 resolutions – Aidan Finn, Senior Engineer
 
 7.SPC Work Programme 2026 – Next Steps – Aidan Finn, Senior Engineer
----
+
+[[PAGE_END:2]]
+

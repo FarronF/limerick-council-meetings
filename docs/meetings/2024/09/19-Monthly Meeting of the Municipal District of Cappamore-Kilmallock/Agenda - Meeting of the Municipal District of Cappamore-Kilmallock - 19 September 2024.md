@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-19-september-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 19 September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-19-september-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 13th September, 2024.
@@ -68,7 +69,9 @@ on 5th September 2024.
 2.
 
 Matters Arising
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -126,7 +129,9 @@ Notice of Motion submitted by Councillor Conway
 footpath be extended from Abbeyowney Estate, Murroe to the village, for the safety of all road
 
 users and pedestrians.”
----
+
+[[PAGE_END:2]]
+
 3
 
 9.
@@ -182,7 +187,9 @@ junction.”
 considerable development contribution in respect of the proposed childcare facility in Bruff since
 
 planning permission has been granted for 74 houses to Ballygrennan Homes Ltd”
----
+
+[[PAGE_END:3]]
+
 4
 
 15.Question submitted by Councillor Conway
@@ -234,4 +241,6 @@ Murroe.”
 replace the batteries on the Driver Feedback signs in the Municipal District that are not working
 
 at present.”
----
+
+[[PAGE_END:4]]
+

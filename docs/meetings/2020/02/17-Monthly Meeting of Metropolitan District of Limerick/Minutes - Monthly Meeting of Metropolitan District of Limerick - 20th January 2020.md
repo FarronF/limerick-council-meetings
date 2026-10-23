@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-monthly-meeting-20th-january-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-monthly-meeting-20th-january-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
 **COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20TH** **JANUARY, 2020**
@@ -96,7 +97,9 @@ The report, as circulated, was noted by Members.
 Circulated, report of the Senior Staff Officer, Housing Support Services dated 7th January,
 
 2020 setting out proposals to dispose of the Freehold Interest of premises consisting of a
----
+
+[[PAGE_END:1]]
+
 2
 
 dwelling house situate at 31 Kilmurry Avenue, Garryowen, Limerick and the intention to
@@ -174,7 +177,9 @@ investigation.
 **REPLY:**
 
 The Part 8 for Golf Links Road involves works on lands, which have been identified
----
+
+[[PAGE_END:2]]
+
 3
 
 as requiring flood defence measures under CFRAM. The Council has been in
@@ -264,7 +269,9 @@ provided in the near future.
 **REPLY:**
 
 The Southside Masterplan consists of three stages as follows:
----
+
+[[PAGE_END:3]]
+
 4
 
  STAGE A: SURVEY AND ANALYSIS This stage is complete.
@@ -352,7 +359,9 @@ Works are now substantially complete.
 ***I will ask at the next meeting of the Metropolitan District, for an update on the Part 8***
 
 ***development approved for the 5 properties on Kileely Road and if possible to include an expected***
----
+
+[[PAGE_END:4]]
+
 5
 
 ***start and completion date.***
@@ -450,7 +459,9 @@ nominate a number of groups for funding out of the GMA including Corbally Group
 Park Enabling Association for €15,000. The motion was proposed by Councillor
 
 Hourigan and seconded by Councillor Daly.
----
+
+[[PAGE_END:5]]
+
 6
 
 A progress report and presentation on the project as outlined in the notice of
@@ -574,7 +585,9 @@ DS-069-17
 DS-028-18
 
 3 Knockane Road, Newcastlewest, Co. Limerick
----
+
+[[PAGE_END:6]]
+
 7
 
 DS-016-15
@@ -738,7 +751,9 @@ e.g. hard copy submissions and is not a replacement.  Since launching My Point i
 April 2019, 14 consultations and 2 citizen surveys have gone live on the portal.  Part
 
 VIII submissions received in hard copy are now routinely uploaded to MyPoint along
----
+
+[[PAGE_END:7]]
+
 8
 
 with the digital uploads allowing citizens to view every submission in one location.
@@ -816,7 +831,9 @@ of 2019 but was not done. She asked that these costs be prepared and submitted t
 Action, Biodiversity and Environment Strategic Policy Committee Meeting.
 
 This Motion was seconded by Councillor McSweeney and agreed.
----
+
+[[PAGE_END:8]]
+
 9
 
 **REPLY:**
@@ -898,7 +915,9 @@ Members discussed the retail trade in the City Centre and requested a presentati
 to address the revitalisation of the city centre.
 
 This Motion was seconded by Councillor Secas and agreed.
----
+
+[[PAGE_END:9]]
+
 10
 
 **24.**
@@ -984,7 +1003,9 @@ Councillor O’Dea, in proposing this Motion, said various people have come on b
 this ‘Not for Profit’ company. He referred to the large number of children who took part in trials
 
 last weekend and the importance of continuing this underage activity. Cllr O’Dea requested the
----
+
+[[PAGE_END:10]]
+
 11
 
 Members to consider allocating a portion of the GMA funds to the Club to cover this interim period.
@@ -1078,7 +1099,9 @@ Correspondence was taken as read.
 The Director of Service wished those Members contesting the upcoming General Election every
 
 success.
----
+
+[[PAGE_END:11]]
+
 12
 
 This concluded the Meeting.
@@ -1092,4 +1115,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

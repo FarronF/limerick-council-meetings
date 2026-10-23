@@ -16,23 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/supplementary_agenda_for_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
+**Original file:** [Supplementary Agenda for Meeting of Metropolitan District - 20th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/supplementary_agenda_for_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+_ Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NEN 4 : Cé na gCeannaithe,
-=> Luimneach
+ANF ‘ Cé na gCeannaithe,
+= +> Luimneach
+
+. .
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and County Council,
-COUNCIL Merchants Quay,
-Limerick
+CITY & COUNTY Limerick City and Pre Council
+erchants Quay,
+COUNCIL ibnerick
 
 t: +353 (0) 61 407 100
-
 16th October, 2014. f: +353 (0) 61 415 266
 
 To: The Mayor and each Member of Metropolitan District of Limerick
@@ -58,15 +60,17 @@ hospital as part, which would restore the A&E services at that hospital.
 Any inconvenience caused by this omission is regretted.
 
 Is mise le meas,
-as
+a
 
-———— ‘~
+Cs — ‘~
 Eugene Griffin
 Meetings Administrator
 
 @ customerservices@limerickic
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wow limerickie
-Corporate Headquarters, Merchants Quay, Limerick Yw @LimerickCouncil
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach © www limerickie
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/agenda-special-meeting-of-council-11.02.2022.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 11th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/agenda-special-meeting-of-council-11.02.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8" February, 2022.
@@ -27,7 +28,7 @@ To: The Mayor and Each Member of Limerick City and County Council
 
 AChomhairleoir, a chara,
 
-The Mayor, Councillor Danie! Butler, has called a Special Meeting of Limerick City and County
+The Mayor, Councillor Daniel Butler, has called a Special Meeting of Limerick City and County
 Council to be held in the Council Chamber, Dooradoyle and Online on Friday, 11" February,
 2022 at 2pm.
 
@@ -42,4 +43,6 @@ AGENDA
 1. Discussion on Development Plan Process.
 
 
----
+
+[[PAGE_END:1]]
+

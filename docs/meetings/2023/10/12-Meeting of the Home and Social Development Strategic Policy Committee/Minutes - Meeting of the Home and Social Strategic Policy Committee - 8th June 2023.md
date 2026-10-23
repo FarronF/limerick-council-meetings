@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Home-and-Social-Strategic-Policy-Committee-8th-June-2023.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 8th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Home-and-Social-Strategic-Policy-Committee-8th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -94,7 +95,9 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all member
 SPC.
 
 The Cathaoirleach also communicated the protocol for the SPC meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 1: Confirm minutes from meeting held on12th** **April 2023.**
@@ -172,7 +175,9 @@ leavers or young people at risk of homelessness who are referred to DIAL House. 
 advised that both Novas and Focus work with the Education and Training Board (ETB) and run
 
 Training, life skills programme, courses and apprenticeships.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Item 4: Presentation on the Affordable Housing Launch**
@@ -252,7 +257,9 @@ affordable purchase units. Ms. Sarah Newell stated that Toppins Field is a pilot
 Build and that Mr. Mick Forde-Bradley gave a workshop on Modern Methods of Construction earlier
 
 this year.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Item 5: Updates**
@@ -270,4 +277,6 @@ For noting and circulation after the meeting.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/6%20minutes_of_special_meeting_of_limerick_county_council_-_friday_16th_may_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick County Council - Friday 16th May 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/6%20minutes_of_special_meeting_of_limerick_county_council_-_friday_16th_may_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
@@ -60,7 +61,9 @@ Signed: Councillors Collins (J), Collins (M), Donegan, Foley,
 Gleeson, Ryan, Sheahan (K) and Wade.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 At the outset, the Cathaoirleach welcomed the large attendance of the public to the
@@ -112,7 +115,9 @@ community. They support the development of inclusive local representative struct
 and establish new community based projects and initiatives. It is important to point out
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 here that these people give a service above and beyond their duty, often meeting groups
@@ -169,7 +174,9 @@ further erode our rural communities and it is time to stand up and fight back.
 | move the Motion.”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Collins (M) confirmed that he was proposing both part (a) and part (b) of
@@ -214,7 +221,9 @@ local enterprise and economic development and in local and community
 development activities. He added that the reforms would provide for the alignment of
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the local community development sector with local government through the
@@ -248,7 +257,7 @@ the Environment, Community and Local Government, to retain our
 LEADER Companies, Ballyhoura Development and West Limerick
 Resources, as they currently exist; and (b) call on all Fine Gael and
 Labour Councillors to give a commitment to the public, if they are re-
-elected after May 23, to support the Fianna Fail Councillors to do all
+elected after May 23’, to support the Fianna Fail Councillors to do all
 within their power to have the decision taken at January's Meeting to
 establish the Local Community Development Committee, reversed.”
 
@@ -259,7 +268,9 @@ proposed by Councillor Collins (M) and seconded by Councillor Foley. The result 
 the voting was as follows:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 For:
@@ -307,7 +318,9 @@ There were no abstentions.
 The County Secretary declared the Motion carried.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), it
@@ -324,9 +337,13 @@ An Runai Contae
 Data:
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

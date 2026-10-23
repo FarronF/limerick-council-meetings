@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-april-2026.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 13th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT,**
 
 **ENTERPRISE,TOURISM ANDPLANNINGSTRATEGIC POLICY COMMITTEEMEETINGHELD**
@@ -68,7 +69,9 @@ Proposed by: Cllr. Bridie Collins
 •
 
 Seconded by: Mr. Michael Joyce
----
+
+[[PAGE_END:1]]
+
 **Item 2**
 
 **Draft SME Action Plan – Brendan Troy SEO, LCCC/ Liam Mannix Research + Dig**
@@ -136,7 +139,9 @@ beyond would be an important asset for Limerick). Sean Lenihan DOS responded tha
 he would communicate concerns/issues back to the relevant Director of Service in
 
 Transport.
----
+
+[[PAGE_END:2]]
+
 • Discussion with members took place around the upcoming Ryder Cup and this should
 
 also be a focus as it is a game changer for the city and county and a massive
@@ -190,7 +195,9 @@ one of the councils 4 civic events in the year.
 •  Mr. Brian Thompson raised a query around the Taken in Charge protocol and
 
 requested a meeting with Barry Henn in the Planning Section to discuss this further.
----
+
+[[PAGE_END:3]]
+
 • Declan Hehir asked could Ryder Cup team provide an update at the next meeting.
 
 Sean Lenihan responded by saying that Elaine O’Connor is giving presentation to the
@@ -214,4 +221,6 @@ The business of the meeting concluded at 4.15pm.
 **Signed:Cllr.P.Doyle,Chairperson**
 
 (Image omitted)
----
+
+[[PAGE_END:4]]
+

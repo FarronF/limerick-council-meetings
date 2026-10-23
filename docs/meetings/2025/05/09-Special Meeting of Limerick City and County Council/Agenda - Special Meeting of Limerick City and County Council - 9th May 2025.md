@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-special-meeting-of-limerick-city-and-county-council-9th-may-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 9th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-special-meeting-of-limerick-city-and-county-council-9th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-il Comhairle Cathrach
+i Comhairle Cathrach
 & Contae Luimnigh
-AN ——_—_——
+AN —_—
 
 — Limerick City
 & County Council
@@ -32,7 +33,7 @@ AN ——_—_——
 
 Seirdhisi Corpardigeachna,
 
-Comhairie Cathrach agus Contae Luimnigh,
+Comhairie Cathrach agus Contae Luimnigh
 Ceanncheathru Chorparaideach.
 
 Cé na gCeannaithe,
@@ -75,11 +76,13 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 mcustomerservices@limerick.te
-© wvevelimerick te
+© wevelimerick te
 
 w @LimerickCouncil
 
-061 - 557150
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

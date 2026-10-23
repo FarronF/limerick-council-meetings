@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-10th-december-2018_0.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 10th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-10th-december-2018_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Tn Comhairle Cathrach
+ ———_£ Comhairle Cathrach
 & Contae Luimnigh
 
 a
 
-= Limerick City
-= & County Council
+— Limerick City
+— & County Council
 
 5" December, 2018.
 
 Seirbhisi Corpardideacha,
 
-Comhairle Cathrach agus Contac Lulnnigh,
-Ceanncheathri: Chorparéideach.
+Comhairle Cathrach agus Contac Lulmnigh,
+Ceanncheathra Chorparéideach.
 
 Cé na gCeannaithe,
 
-Luirmneach
+Luimneach
 
 Corporate Services,
 
@@ -51,15 +52,15 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-ft: +353 (0) 61 415 266
+f: +353 (0) 61 415 266
 
 TO: EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL JOINT POLICING COMMITTEE
 
 A Chara,
 
-| wish to inform seth that a Ea Menten Airnedies Ske and easy Shame alt Policing
+| wish to inform seth that a Eat Menetan Arnette xe aed easy Shame halt Policing
 
-e, Limerick =n Mendis '" Doce 20 ]
+e, Limerick an Mendis 0" Deca 20 ]
 
 Details of the Agenda and attachments to be discussed at the meeting are set out hereunder :
 
@@ -81,10 +82,12 @@ on CCTV.
 6. Presentation from Mr. Seamus Hayes, Housing Support Services, Limerick City and County
 Council on Estate Management / Tenancy Enforcement Awareness.
 7. Responses to written questions submitted.
-m customerservices@limerick.ie
+mcustomerservices@limerick.ie
 @ wenwdmerick.ie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

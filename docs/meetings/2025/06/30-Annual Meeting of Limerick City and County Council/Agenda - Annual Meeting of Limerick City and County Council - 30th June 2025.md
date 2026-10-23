@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-limerick-city-and-county-council-30th-june-2025.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 30th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-annual-meeting-of-limerick-city-and-county-council-30th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; Se#bhisi Corparaideacha,
- _-—_e Comhairle Cathrach Comhaiie Catrvach agus Contac Luimnigh,
+_ _.——_e Comhairle Cathrach Comnaiie Catrvach agus Contac Luimnigh,
 & Contae Luimnigh Ceanncheathni Chorperaidesch,
 NON 4 : . Cé na gCeannatthe,
 — Limerick City Luimneach
@@ -39,7 +40,7 @@ Limenck
 EIRCODE v9o4 EHSO
 
 , t: +353 (0) 61 557150
-23" June, 2025. £ +353 (0) 61 415 266
+23" June, 2025. £: +353 (0) 61 415 266
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City
 and County Council
@@ -49,7 +50,7 @@ A Chomhairleoir, a chara,
 The Annual Meeting of Limerick City and County Council will be held in the Council Chamber,
 Dooradoyle, and Online, on Monday, 30" June, 2025, at 3.00 p.m.
 
-The business to be transacted is set out on the appended Agenda.
+The business to be transacted Is set out on the appended Agenda.
 
 Is mise le meas,
 
@@ -68,8 +69,10 @@ Council to hold office for the ensuing year or until a successor is elected.
 
 © weewlimerickie
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

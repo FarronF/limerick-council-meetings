@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28c%29%20Minutes%2016th%20October%2C%202018.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28c%29%20Minutes%2016th%20October%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ Seconded by Councillor O’Donoghue;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -142,7 +145,9 @@ go ahead.
  Signs directing the public to Desmond Castle need to be erected on the N69
 
 at the junction beside the bridge.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.Clothes Bank Removal**
@@ -206,7 +211,9 @@ Senior Staff Officer, Urban and Village Renewal Ms. Audrey Crowe, Administrative
 Social Development Mr. Padraig Malone and Technician, Urban and Village Renewal Ms.
 
 Ann Lahiff to the Meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 A presentation was given to Members to update them on derelict sites, vacant properties,
@@ -280,7 +287,9 @@ Following the conclusion of Item 10, The Cathaoirleach proposed to close the Mon
 Meeting to facilitate the Workshop and Special Meeting for discussion of the Draft
 
 Budgetary Plan 2019 for the Municipal District of Adare-Rathkeale. Members also
----
+
+[[PAGE_END:4]]
+
 5
 
 agreed to resume the Monthly Meeting at the conclusion of the Draft Budgetary
@@ -346,7 +355,9 @@ Circulated, report of the A/Senior Executive Engineer, Service Operations West D
 dated 10th October, 2018 giving an update in relation to the flooding issues in Foynes.
 
 The report was noted by Members.
----
+
+[[PAGE_END:5]]
+
 6
 
 **9.**
@@ -416,7 +427,9 @@ Ray O’Driscoll.
 **(b)An up-to-date program for the repair of these voids.**
 
 **(c)An up-to-date program for the allocation of these much needed properties.**
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY:**
@@ -490,7 +503,9 @@ should be maintained to promoted as a tourist attraction in the area. Packages s
 be provided to include the Greenway and hotels in the locality. Members also
 
 welcomed the Senior Executive Officer, Social Development Directorate response to
----
+
+[[PAGE_END:7]]
+
 8
 
 attend a Meeting when an update can be given in relation to and assessment and
@@ -562,7 +577,9 @@ The following GMA 2018 allocations were discussed at the conclusion of the Agend
 the proposal of Councillor O’Donoghue, seconded by Councillor McMahon it was agreed
 
 to allocate the following:
----
+
+[[PAGE_END:8]]
+
 9
 
 Councillor O’Donoghue:
@@ -624,4 +641,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

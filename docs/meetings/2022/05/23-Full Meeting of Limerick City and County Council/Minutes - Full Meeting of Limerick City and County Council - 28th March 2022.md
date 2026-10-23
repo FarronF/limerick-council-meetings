@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20%28a%29%20Minutes%20Council%20Meeting%2028.03.2022.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 28th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20%28a%29%20Minutes%20Council%20Meeting%2028.03.2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -100,7 +101,9 @@ Special Meeting of the Council held on 11th March, 2022.
 Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
----
+
+[[PAGE_END:1]]
+
 2
 
 And Resolved:
@@ -178,7 +181,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 land at Killarney Pole to Barnagh, Co. Limerick, to John Geary, The Garage, Kilmeedy, Co. Limerick, for
 
 the sum of €9,000, particulars of which were contained in Statutory Notice dated 25th February, 2022.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (c)
@@ -262,7 +267,9 @@ March, 2022.”
 Circulated, copy of Statutory Notice dated 14th March, 2022, together with Drawing
 
 No. AG/5070, concerning disposal of 1, Fairhill, Rathkeale, Co. Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Sheahan (J);
@@ -346,7 +353,9 @@ contained within the Contract, particulars of which were contained in Statutory 
 Circulated, copy of Statutory Notice dated 14th March, 2022, concerning disposal of
 
 property at Woolworth’s Lane, Limerick.
----
+
+[[PAGE_END:4]]
+
 5
 
 Proposed by Councillor Sheahan (J);
@@ -426,7 +435,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -508,7 +519,9 @@ land at Ardrahin, Galbally, Co. Limerick, to Mr. Aidan Carew and Ms. Niamh Carew
 sum of €73,000, particulars of which were contained in Statutory Notice dated 14th March,
 
 2022.”
----
+
+[[PAGE_END:6]]
+
 7
 
 (p)
@@ -594,7 +607,9 @@ contract – particulars of which were contained in Statutory Notice dated 14th 
 Circulated, copy of Statutory Notice dated 14th March, 2022, concerning disposal of
 
 property at Kilmurry, Feenagh, Co. Limerick.
----
+
+[[PAGE_END:7]]
+
 8
 
 Proposed by Councillor Sheahan (J);
@@ -674,7 +689,9 @@ Some Members referred to discussions on this at a previous Metropolitan District
 where concerns were expressed in relation to this proposed disposal. Members had
 
 highlighted that the property was in an important tourist location and the importance of it
----
+
+[[PAGE_END:8]]
+
 9
 
 being utilised to the fullest extent possible, given its location and tourism objectives for the
@@ -754,7 +771,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 1-10 Cois na Feile, Abbeyfeale, Co. Limerick, to Clúid Housing Association, for the sum of
 
 €1,270 (€127 per unit) – Clúid Housing Association shall be liable for legal and other costs that
----
+
+[[PAGE_END:9]]
+
 10
 
 may arise from the acquisition and disposal and will be subject to the covenants and
@@ -834,7 +853,9 @@ circulated, be and is hereby adopted.”
 (d)
 
 Annual Report 2021
----
+
+[[PAGE_END:10]]
+
 11
 
 Circulated, report of the Senior Executive Officer, Corporate Services, Governance and
@@ -908,7 +929,9 @@ The reports were noted by the Council.
 On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
 Recommendation was agreed.
----
+
+[[PAGE_END:11]]
+
 12
 
 **Recommendation No. 2 (from SPC Meeting of 28th** **February, 2022)**
@@ -980,7 +1003,9 @@ Sheahan (M), Talukder, Teefy, Teskey.
 Councillors Benson, Carey, Hartigan, Leddin, Novak Uí Chonchúir, O’Donovan, Sheehan (C).
 
 **(7)**
----
+
+[[PAGE_END:12]]
+
 13
 
 **Abstain**
@@ -1050,7 +1075,9 @@ cost implications involved and would revert back to the Members in due course.
 On the proposal of Councillor Teskey, seconded by Councillor Sheahan (J), the
 
 Recommendation was ‘that, the increase in burial ground charges be reversed.’
----
+
+[[PAGE_END:13]]
+
 14
 
 With the permission of the Mayor, the following Notice of Motion - No. 20 - was taken
@@ -1128,7 +1155,9 @@ The report was noted by the Council.
 **as signatory to the Local Authority Climate Charter (2019), employ a process for**
 
 **carbon-proofing in any future major transport decisions, programmes and projects**
----
+
+[[PAGE_END:14]]
+
 15
 
 **to ensure that the plan, programme or investment is aligned with the Climate Action**
@@ -1198,7 +1227,9 @@ Directorate, dated 10th March, 2022, enclosing 2021 Annual Report of the Limeric
 Community Development Committee.
 
 The LCDC Annual Report was noted by the Members.
----
+
+[[PAGE_END:15]]
+
 16
 
 7.
@@ -1274,7 +1305,9 @@ Limerick City and County Council in 2020 to make recommendations regarding
 the naming of key infrastructure and the selection of individuals or events that
 
 will be commemorated through the erection of civic monuments or plaques.
----
+
+[[PAGE_END:16]]
+
 17
 
 It is recommended that this proposal be forwarded to the Limerick City and
@@ -1354,7 +1387,9 @@ tackling the substantial backlog of derelict properties (Category 3 and 4) withi
 the Council’s responsibility. It is expected that these properties will be
 
 completed and ready for allocation within a 9-10 month timeframe.
----
+
+[[PAGE_END:17]]
+
 18
 
 In addition to the above, the Housing Construction and Maintenance Section
@@ -1440,7 +1475,9 @@ Question submitted by Councillor J. Costelloe
 ***I will ask at the next Meeting how many families, including children, are currently housed***
 
 ***in Thomond Student Village.***
----
+
+[[PAGE_END:18]]
+
 19
 
 **REPLY:**
@@ -1524,7 +1561,9 @@ facilitating pop-up test centres, assisting with traffic management for the
 vaccination centres and planning for a range of responses. Close collaboration
 
 between the agencies of the state has been a key cornerstone as Ireland
----
+
+[[PAGE_END:19]]
+
 20
 
 responded to the major and unheralded challenges associated with the
@@ -1608,7 +1647,9 @@ manual process. Limerick City and County Council (LCCC) will take steps to
 implement an electronic process in consultation with stakeholders, namely
 
 Councillors, Local Government Management Agency, Association of Irish Local
----
+
+[[PAGE_END:20]]
+
 21
 
 Government, Customer Services LCCC, the Data Protection Officer LCCC and
@@ -1684,7 +1725,9 @@ The Motion was proposed by Councillor Keary and seconded by Councillor Sheahan
 20.
 
 Notice of Motion submitted by Councillor J. Scanlan
----
+
+[[PAGE_END:21]]
+
 22
 
 ***I will move at the next Meeting that this Authority bring the cost of grave space in Rural***
@@ -1764,7 +1807,9 @@ In relation to the Motion submitted by Councillor E. Secas, we will include
 elements to look specifically at safety for women and we will explore options
 
 on how to achieve best practice on it and engage with relevant groups.
----
+
+[[PAGE_END:22]]
+
 23
 
 Limerick City and County Council will actively work with our consultants and
@@ -1834,7 +1879,9 @@ provided by the Council. They noted the hard work and commitment he had brought 
 job, and the sense of humour that he brought. They wished him good health and the very
 
 best for the future.
----
+
+[[PAGE_END:23]]
+
 24
 
 The Chief Executive, on behalf of Management and Staff, acknowledged his hard work and
@@ -1882,4 +1929,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:24]]
+

@@ -16,31 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 30th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Cormhairle Cathrach ; 1 seibhisi Corparaideacha,
+Comhairle Cathrach . a jebhisi Corparaideacha,
 Contae Luimnigh Comhairle Cathwach agus Contae Luimngh,
 
-“~~ Ceannchesthra Chorpardidesch,
-‘ ) Cé na gCeannatthe.
+~~ Ceannchesthra Chorpardidesch,
+‘ Cé na gCeannatthe.
 
 — Limerick City Luimneach
 & County Council
 
 Corporate Services,
 
-Limenck City and County Courcil,
+Lirmenck City and County Courcil,
 
 Corporate Headquarters,
 
-Merchants Guay,
+Merchants Quay,
 
 Limerick
 
-EIRCODE V4 EH90
+EIRCODE Vo4 EH90
 
 t: +353 (0) 61 557150
 
@@ -61,14 +62,16 @@ Laura Flannery,
 
 AGENDA
 
-1. To-consider the election of a Mayor of the City and County of Limerick to hold office
+1. To consider the election of a Mayor of the City and County of Limerick to hold office
 for the ensuing year or until a successor is elected.
 
 2. | Toconsider the election of a Deputy Mayor of the City and County of Limerick to hold
 office for the ensuing year or until a successor is elected.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick \. 061 - §57150
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

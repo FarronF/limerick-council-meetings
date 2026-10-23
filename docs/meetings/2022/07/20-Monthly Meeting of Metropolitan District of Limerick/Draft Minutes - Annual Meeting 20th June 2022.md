@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29%20Draft%20Minutes%20Annual%20Meeting%2020th%20June%202022.pdf)
+**Original file:** [Draft Minutes - Annual Meeting 20th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29%20Draft%20Minutes%20Annual%20Meeting%2020th%20June%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE, ON MONDAY, 20TH** **JUNE, 2022 AT**
@@ -94,7 +95,9 @@ their business.
 **Annual Meeting or until a successor has been elected**
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach for the coming year.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Butler;
@@ -172,7 +175,9 @@ She referred to the wide diversity in the Metropolitan District Council and also
 Councillors that sit on the Metropolitan District and she hoped that this would encourage more
 
 females to consider entering into politics.
----
+
+[[PAGE_END:2]]
+
 3
 
 As a proud Limerick Women, who has been passionate about Limerick all her life, she spoke about
@@ -248,7 +253,9 @@ Councillors Benson, Collopy, Kilcoyne, Novak Uí Chonchúir and O’Donovan
 Councillors Secas and Sheehan (C)
 
 (2)
----
+
+[[PAGE_END:3]]
+
 4
 
 The Cathaoirleach declared Councillor McSweeney elected as Leas Cathaoirleach of the
@@ -274,4 +281,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

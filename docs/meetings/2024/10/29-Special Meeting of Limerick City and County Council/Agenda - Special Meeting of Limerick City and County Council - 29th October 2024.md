@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-and-requisition-special-meeting-29.10.2024.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-and-requisition-special-meeting-29.10.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 -  ——_ Comhairle Cathrach
 & Contae Luimnigh
-AN ~S —_ _ *
+AN ~S ——_ _ 7—
 
 — Limerick City
 & County Council
 
 25" October, 2024.
 
-Sembhisi Corparadeacha,
+Sembhisi Corparaideacha,
 
 Comhatrte Cathrach agus Contae Luimnigh,
 Ceanncheathru Chorperaidesch,
 
 Cé na gCeannaithe,
 
-Luimneach
+Lummneach
 
 Corporate Services.
 
@@ -47,7 +48,7 @@ Merchants Quay.
 
 Limerick
 
-EIRCODE V94 ENS90O
+EIRCODE V94 ENS90
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -66,7 +67,7 @@ out in the attached Requisition in relation to the International Rugby Experienc
 
 Is mise le meas,
 
-(Fane)
+Caneel)
 
 Ciara Farrell,
 Meetings Administrator.
@@ -77,7 +78,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy of Requisition attached)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Sent: Thursday, October 24, 2024 10:18 PM
@@ -96,4 +99,6 @@ Regards,
 Cllr Daniel Butler
 
 
----
+
+[[PAGE_END:2]]
+

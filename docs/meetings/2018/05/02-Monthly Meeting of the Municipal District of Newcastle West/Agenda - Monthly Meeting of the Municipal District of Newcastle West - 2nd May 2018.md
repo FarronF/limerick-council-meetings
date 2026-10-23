@@ -16,38 +16,50 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%202018-05-02%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 2nd May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%202018-05-02%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_ Duiche Bardais an Chaisledin Nua Thiar,
+—_—O
+
+——
+Limerick
+
+CITY & COUNTY
+COUNCIL
+
+27" April, 2018
+To: Th irl nd
+
+A Chomhairleoir, a chara,
+
+Duiche Bardais an Chaisleain Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
+Aras William Smith O'Brien,
 
-a~ArN% y a Aras William Smith O'Brien,
-—=—>=- Gortbut,
+Gortbut,
 
-L * . k An Caisiean Nua Thiar,
-imeric Co, Luimnigh
-CITY & COUNTY Newcastle West Municipal District,
-COUNCIL Limerick City and County Council,
+An Caisiean Nua Thiar,
 
-Aras William Smith O'Brien.
+Co, Luimnigh
 
+Newcastle West Municipal District,
+Limerick City and County Council,
+Aras William Smith O'Brien,
 Gortboy,
 
 Newcastle West,
 
 Co. Limerick
 
-27" April, 2018 t: +353 (0) 69 62100
-
+t: +353 (0) 69 62100
 f: +353 (0) 69 62861
-To: Th irl nd r e Municipal District of Newcastle West
 
-A Chomhairleoir, a chara,
+r e Municipal District of Newcastle West
+
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 2° May, 2018,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
@@ -57,40 +69,52 @@ Macy Corbett,
 
 Meetings Administrator.
 
-AGENDA
-
-1. — Minutes
+1.  — Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 11"
+
 April, 2018.
-{Copy Enclosed)
+
 2. Support Services Directorate
 
 Annual Meeting
+
+{Copy Enclosed)
+
 To agree date for Annual Meeting of the Municipal District of Newcastle West.
 
-3. Servi ns Directorate — Planning & Environ
+3. Servi ns Directorate — Plannin
+
+Environ
 
 To consider the Chief Executive’s Report prepared pursuant to Section 179(3)(a) of the
 Planning and Development Acts, 2000 -2017, as amended, and Part VIII of the Planning
 and Development Regulations, 2001 - 2018, as amended, in relation to Abbeyfeale
+
 Traffic Management Plan.
+
+Chorpardideach, Cé na gCeannaithe, Luimneach
+
+Ceanncheathra
+Corporate Headquarters, Merchants Quay, Limerick
 
 {Report Enclosed)
 
-customerservices@limerickie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach z @ weewNimerickie
-Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
+@ Customerservices@limerickie
+oe Woewlimerickie
+w @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
 
 10.
 
-11.
+11,
 
 Service Operations Directorate
 Taking in Charge of Estates — Declaration of Roads to be Public Roads
@@ -114,7 +138,7 @@ To receive update on the provision of new graveyard in Abbeyfeale.
 
 UESTIONS
 
-jon d by Councillor L. Galvin
+jon id by Councillor L. Galvin
 
 | will ask at the next Meeting what capacity, if any, is remaining at the Tournafulla
 sewerage plant.
@@ -129,14 +153,16 @@ Knockane in the area between Fittens Corner and Scoil losaf.
 
 | will ask at the next Meeting (a) the number of Approved Housing Bodies (AHB) who
 have ownership of property in the Newcastle West Municipal District, (b) the number
-of Council qualified families/occupants accommodated (c) the names and contacts for
+of Council qualified families/occupants accommodated {c) the names and contacts for
 these AHB’s.
 
 | will ask at the next Meeting when will the yellow hatching at various
 junctions/intersections within Newcastle West be renewed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -180,9 +206,9 @@ purchase and development of a burial ground for Abbeyfeale and its environs at t
 site located at Abbeyfeale West on the Clash Road.
 
 NOTICES OF MOTION
-Notices m I alvin
+Notices m l alvin
 
-| will move at the next Meeting that this Council call on Irish Water to immediately
+I will move at the next Meeting that this Council call on Irish Water to immediately
 upgrade the sewerage treatment plant in Tournafulla.
 
 | will move at the next Meeting that a litter bin be placed in Mountcollins Village at
@@ -208,4 +234,6 @@ overall plan/vision for the village for future years.
 provide a footpath to Kilfergus Housing Estate, Glin.
 
 
----
+
+[[PAGE_END:3]]
+

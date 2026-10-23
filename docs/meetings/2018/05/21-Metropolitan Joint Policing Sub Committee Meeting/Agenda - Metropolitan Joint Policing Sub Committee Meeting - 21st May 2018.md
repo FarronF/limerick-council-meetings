@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/met%20jpc%20agenda.pdf)
+**Original file:** [Agenda - Metropolitan Joint Policing Sub Committee Meeting - 21st May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/met%20jpc%20agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ars
 
-Seirbhist Corparéidescha,
+Seirbhist Corpardidescha,
 
-Comhairle Cathrach dese
-‘ le Cathrach h
-——— & Contae Luimnigh ———— ere ee
+Comhairle Cathrach desc
+i le Cathrach h,
+——— & Contae Luimnigh = = ere ee
 
-Cé na gCearnaithe,
+Cé na gCeannaithe,
 
-=— Limerick City Luimneach
+— Limerick City Luimneach
 & County Council
 
 Corporate Services,
@@ -43,13 +44,13 @@ Merchants Quay,
 Limerick
 
 EIRCODE V94 EH90
-t: +353 (0) 61 557150
 
+t: +353 (0) 61 557150
 18% May, 2018 f; +353 (0) 61 415 266
 
 TO EACH MEMBER OF METROPOLITAN JOINT POLICING SUB COMMITTEE
 
-SNL TLL TTL LL LLL RSL ARN ee KKTsTacresssetacsesenccecerecere
+SOLO TLL TTL LL LRM oR ARN nen Ne KKsseseseseseteceesenecerecerere
 
 A Chara,
 
@@ -59,8 +60,8 @@ the Council Chamber, Merchant's Quay, on Mo * Mi 018 at 12.
 Details of Agenda to be discussed at the meeting are set out hereunder :
 Is mise, le meas,
 0.2
-feats
-if nior Executive Officer
+fixate
+\ nior Executive Officer
 
 1. To confirm Minutes of Metropolitan Joint Policing Sub Committee Meeting held on 19”
 February, 2018
@@ -68,10 +69,12 @@ February, 2018
 2. To receive update from Superintendent Derek G. Smart
 
 = customerservices@limerick.te
-@ wewlimerickte
+@ wewlimerickle
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - §87150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

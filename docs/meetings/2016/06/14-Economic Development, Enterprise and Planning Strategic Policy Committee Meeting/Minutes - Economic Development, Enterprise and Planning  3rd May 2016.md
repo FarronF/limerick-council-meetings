@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20%203rd%20May%202016.pdf)
+**Original file:** [Minutes - Economic Development, Enterprise and Planning  3rd May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20%203rd%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE ECONOMIC**
 
 **DEVELOPMENT, ENTERPRISE AND PLANNING STRATEGIC POLICY**
@@ -92,7 +93,9 @@ high level goals in the economic, social and physical/environment areas with the
 objective of enhancing the well being and quality of life for the citizens of Limerick.
 
 The SPC will be part of the monitoring process of the Plan.
----
+
+[[PAGE_END:1]]
+
 The members generally welcomed the plan. Many issues were raised by the
 
 members, including; the consultation process, broadband connectivity in rural areas,
@@ -184,7 +187,9 @@ with the Mid West Action Plan for Jobs. He outlined the initiatives to be progre
 Issues were raised by Councillors around Food Strategy including branding,
 
 incubation space, the appointment of a Food Development Manager, Kitchen Units.
----
+
+[[PAGE_END:2]]
+
 Mike Cantwell informed the meeting that there was a shortage of available Food
 
 Units in the City. He also confirmed that a Food Development manager is to be
@@ -208,4 +213,6 @@ Chairperson
 Secretary
 
 Date: Date:
----
+
+[[PAGE_END:3]]
+

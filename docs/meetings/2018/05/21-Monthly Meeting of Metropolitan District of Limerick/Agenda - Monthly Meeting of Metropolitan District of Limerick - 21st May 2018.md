@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%2021st%20May%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%2021st%20May%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Seirbhisi Corparaideacha,
-_—_—_—_ eee Comhairle Cathrach agus Contae Luimnigh.
+i Seirbhisi Corparaideacha,
+_—_—_ pap hry erate Comhairle Cathrach agus Contae Luimnigh.
 g Ceanncheathni Chorpardideach,
-“rN eo Cé na gCearnaithe,
+ArcN —— Cé na gCeannsithe,
 — Limerick City Luimneach
 & County Council
 Corporate Services,
@@ -51,7 +52,7 @@ to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-hres C Qine
+hemes Cine
 
 James Clune,
 M tings Administrator.
@@ -82,7 +83,9 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -100,6 +103,7 @@ Street) and Greenhills Road, Limerick
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
 Development Act, 2000 (as amended) and Part 8 of the Planning and Development
+
 Regulations, 2001 (as amended) in relation to Housing Development at the Junction of
 Blackboy Road (Mulgrave Street) and Greenhills Road, Limerick.
 
@@ -125,14 +129,16 @@ Question submitted by Cmhir. S. 6 Ceallaigh
 | will ask at the next meeting if there are plans to develop the Guinness site on Carey's
 Road for the purpose of social housing, and if so what those plans are.
 
-Question submitted by Cmhir. S. 6 Ceallaigh
+Question submitted by Cmhlr. S. 6 Ceallaigh
 
 ! will ask at the next meeting what are the latest figures for those homeless in the
 Metropolitan District, how many people are currently residing in Hubs, and how many people
 are on the housing list to receive accommodation from the Local Authority in the District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -189,7 +195,9 @@ the application or request they apply for a new licence and if possible this to 
 conjunction with Clare County Council.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -240,4 +248,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

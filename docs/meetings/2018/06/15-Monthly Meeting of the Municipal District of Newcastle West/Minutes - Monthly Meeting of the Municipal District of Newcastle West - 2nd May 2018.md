@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01a%202018-05-02%20Minutes%20May.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01a%202018-05-02%20Minutes%20May.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ as amended, and Part VIII of the Planning and Development
 Regulations, 2001 - 2018, as amended, in relation to Abbeyfeale
 
 Traffic Management Plan.
----
+
+[[PAGE_END:1]]
+
 2
 
 Circulated, report of Chief Executive, dated 29th March, 2018, in relation to Abbeyfeale Traffic
@@ -168,7 +171,9 @@ Municipal Allocation 2018.
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed to allocate
 
 €1,500 to Abbeyfeale RFC for removal of boundary fence.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to allocate
@@ -240,7 +245,9 @@ Question submitted by Councillor L. Galvin
 ***I will ask at the next Meeting what capacity, if any, is remaining at the Tournafulla***
 
 ***sewerage plant.***
----
+
+[[PAGE_END:3]]
+
 4
 
 REPLY:
@@ -320,7 +327,9 @@ REPLY:
 **(a)**
 
 There are 10 Approved Housing Bodies operating in the Newcastle
----
+
+[[PAGE_END:4]]
+
 5
 
 West Municipal District as per the Approved Housing Body Audit 2016.
@@ -450,7 +459,9 @@ Question submitted by Councillor F. Foley
 ***I will ask at the next Meeting when will the trees that were removed at The Square,***
 
 ***Abbeyfeale to facilitate the movement of the wind turbines through the town be replaced.***
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -530,7 +541,9 @@ planning permission in the village of Tournafulla as there is no capacity in the
 sewerage treatment plant to cater for additional connections. It was also stated that there is
 
 a need for social housing in the village.
----
+
+[[PAGE_END:6]]
+
 7
 
 The Motion was seconded by Councillor Foley.
@@ -600,7 +613,9 @@ Dromcollogher was discussed previously and he awaited details of when the study 
 commence.
 
 The Motion was seconded by Councillor Galvin.
----
+
+[[PAGE_END:7]]
+
 8
 
 REPLY:
@@ -672,7 +687,9 @@ requested that Limerick City and County Council design, cost and provide a footp
 Kilfergus Housing Estate.
 
 The Motion was seconded by Councillor Galvin.
----
+
+[[PAGE_END:8]]
+
 9
 
 REPLY:
@@ -730,4 +747,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

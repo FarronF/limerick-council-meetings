@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2025th%20January%202016.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council 25th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2025th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY
@@ -96,7 +97,9 @@ which would give him a great insight into the workings of local democracy.
 Adoption of Minutes
 
 Circulated, copy of draft Minutes of the following Meetings:
----
+
+[[PAGE_END:1]]
+
 2
 
 (a)
@@ -172,7 +175,9 @@ Yvonne O’Connell, who hold a Leasehold Interest in the property by way of 99 y
 from 1st March, 1928, for the sum of €212.78 (including legal fees), particulars of which
 
 were contained in Statutory Notice dated 6th January, 2016.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (b)
@@ -252,7 +257,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor O’Dea;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, the approval of the Council be and is hereby given to the disposal of the land
@@ -330,7 +337,9 @@ Innovate Limerick; (iii) Audit Committee; and (iv) Stakeholder Group of Limerick
 On the proposal of Councillor Collins (M), seconded by Councillor O’Hanlon, this item
 
 was deferred to the next Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 (c)
@@ -426,7 +435,9 @@ the Local Action Group, with Limerick City and County Council acting as the Fina
 Partner. Ballyhoura Development Limited and West Limerick Resources Limited would be
 
 acting as Implementing Partners for their respective geographic areas.
----
+
+[[PAGE_END:5]]
+
 6
 
 A budget of €9.276 million had been allocated to the RDP for Limerick for the period
@@ -504,7 +515,9 @@ Executive, the Head of Finance and the Local Government Auditor and had reviewed
 Statutory Audit Reports for the year ended 31st December, 2014.
 
 The position was noted by the Council.
----
+
+[[PAGE_END:6]]
+
 7
 
 (h)
@@ -580,7 +593,9 @@ Proposed by Councillor Gleeson;
 Seconded by Councillor Teefy;
 
 And Resolved:
----
+
+[[PAGE_END:7]]
+
 8
 
 “That, the approval of the Council be and is hereby given to the provision of financial
@@ -652,7 +667,9 @@ Motion 3 – Proposed by Councillor Butler and seconded by Councillor Sheahan (M
 cities committee to develop a protocol on twinning in all Municipal and Metropolitan
 
 Districts to achieve a co-ordinated approach.”
----
+
+[[PAGE_END:8]]
+
 9
 
 In relation to Motion 1, the Meetings Administrator referred to Standing Order Rule
@@ -720,7 +737,9 @@ Limerick Leader), would be encouraging volunteers of all ages to register and ge
 the 2016 campaign.
 
 The Initiative was noted and welcomed by Members.
----
+
+[[PAGE_END:9]]
+
 10
 
 6.
@@ -794,7 +813,9 @@ parking. He stated that Limerick e-parking was operated by ParkMagic Mobile Solu
 Limited on behalf of Limerick City and County Council. He explained that e-parking was a
 
 one-stop shop window displaying the parking offering available in Limerick City and County.
----
+
+[[PAGE_END:10]]
+
 11
 
 He stated that e-parking enabled users to quickly and conveniently locate, purchase
@@ -866,7 +887,9 @@ Compassionate Communities Project
 The Mayor welcomed Dr. Kathleen McLoughlin, from Milford Care Centre and
 
 Maynooth University, to the Meeting.
----
+
+[[PAGE_END:11]]
+
 12
 
 Dr. McLoughlin commenced by outlining how Limerick could become the first city in
@@ -948,7 +971,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Byrne;
 
 And Resolved:
----
+
+[[PAGE_END:12]]
+
 13
 
 “That, the Council would support the proposal for Limerick to develop a
@@ -1026,7 +1051,9 @@ Carlingford, Co. Louth (20th – 22nd November, 2015): Councillors Sheahan (K), 
 Limerick: Councillor Sheahan (M).
 
 Edgeworthstown, Co. Longford: Councillor Scanlan.
----
+
+[[PAGE_END:13]]
+
 14
 
 Carlingford (8th – 10th January): Councillors Butler, Sheahan (M), Leddin.
@@ -1094,7 +1121,9 @@ time as legal advice had been sought.
 At this point, on the proposal of Cmhlr. Ó Ceallaigh, seconded by Councillor Browne,
 
 it was agreed to take a 15 minute adjournment in order to discuss the matter further and to
----
+
+[[PAGE_END:14]]
+
 15
 
 seek legal clarification on the proposed Motion. On resumption, the Meetings
@@ -1176,7 +1205,9 @@ comply with its bye-laws. There is provision in the bye-laws whereby
 monumental sculptors can be removed from the Council’s Register of
 
 Monumental Sculptors.
----
+
+[[PAGE_END:15]]
+
 16
 
 In this regard, the Council has met with three monumental sculptors
@@ -1298,7 +1329,9 @@ I will ask at the next Meeting were there any personal injury claims made agains
 Council in the last five years due to the poor state of the Council footpaths and, if so, what
 
 was the total cost to the Council.
----
+
+[[PAGE_END:16]]
+
 17
 
 REPLY:
@@ -1380,7 +1413,9 @@ the Agenda.
 The Motion was proposed by Councillor Sheahan (J) and seconded by Councillor
 
 Collins (M).
----
+
+[[PAGE_END:17]]
+
 18
 
 REPLY:
@@ -1454,7 +1489,9 @@ to the Environment Strategic Policy Committee)
 I will move at the next Meeting that this Council extends the Bin Waiver to those on
 
 invalidity pension.
----
+
+[[PAGE_END:18]]
+
 19
 
 In proposing the Motion, Councillor Quinlivan stated that he felt that those on
@@ -1526,7 +1563,9 @@ valuable sector of the local economy.
 The Motion was seconded by Councillor Sheahan (J) and agreed.
 
 It was also agreed to circulate the Motion to all Local Authorities for support.
----
+
+[[PAGE_END:19]]
+
 20
 
 23.
@@ -1604,7 +1643,9 @@ Council in relation to the proposed development of a tourist route on both sides
 Shannon Estuary similar to the Wild Atlantic Way. Following a short discussion on this item,
 
 the Members stated that they were in support of the proposal. The following was agreed:
----
+
+[[PAGE_END:20]]
+
 21
 
 · That the Council would correspond with Clare County Council in relation to the matter.
@@ -1634,4 +1675,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:21]]
+

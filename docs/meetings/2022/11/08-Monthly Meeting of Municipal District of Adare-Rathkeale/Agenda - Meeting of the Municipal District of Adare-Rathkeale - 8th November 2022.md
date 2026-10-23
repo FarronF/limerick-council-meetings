@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%2C%202022.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “ll Comhairie Cathrach
@@ -28,7 +29,7 @@ AN fi ™
 — Limerick City
 & County Council
 
-3° November, 2022.
+3" November, 2022.
 
 Ceantar Bardasach Ath Dara-Rath Cacia,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -36,12 +37,12 @@ Aras Séan Finn,
 
 Line Nua,
 
-Rath Cacia,
+Réth Cacia,
 
 Co, Lutmrugh,
 
-Adare-Rathkeale Municipal District,
-Limenck City ard County Council,
+Adare-Ratnkeale Municipal District,
+Limenck City and County Council,
 Aras Sean Finn,
 
 New Line,
@@ -50,10 +51,10 @@ Rathkeale,
 
 Co. Limerick.
 
-EIRCODE V94 HKIV
+EIRCODE V934 HKIV
 
 t: 4353 (0) 69 64047
-f: +353 (0) 69 63188
+f:.+353 (0) 69 63188
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
@@ -86,17 +87,19 @@ To note proposal for the disposal of land as follows:
 (a) Proposed Disposal of Derelict Property on Lower Main Street, Rathkeale, Co. Limerick.
 (b) Proposed Disposal of Derelict Property on Lower Main Street, Rathkeale, Co. Limerick.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 = (Reports Enclosed),
 
-© werediimerickie
+© wereiimerickie
 W @LimerickCouncil
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Housing Directorate
@@ -123,7 +126,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 ADJOURNED NOTICE OF MOTION
 Notice of Motion submitted by Councillor K. Sheahan
-1 will move at the next meeting that the Elected Members of this District would have an
+I will move at the next meeting that the Elected Members of this District would have an
 
 open and frank debate on the recent media reports regarding the travelling community in
 Rathkeale.
@@ -131,4 +134,6 @@ Rathkeale.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

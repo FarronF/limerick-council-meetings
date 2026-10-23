@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/minutes-of-travel-and-transportation-spc-meeting-14-12-2021.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/minutes-of-travel-and-transportation-spc-meeting-14-12-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -76,7 +77,9 @@ dependency, as the intention is to make our city and town centres more accessibl
 pedestrians.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Cllr. Teefy highlighted that there are no public charging points in Cappamore / Kilmallock area
@@ -148,7 +151,9 @@ Active Travel team, which is an unprecedented resource, is currently being put i
 to Cllr. Ryan’s comment on the bus network, Mr. Kennedy confirmed that the NTA will be
 
 appointing a consultant to do a BusConnects scheme for the entire metro area.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Item 3: Delivery Strategy for City** **–** **A look at best practice elsewhere (Karen McDonnell)**
@@ -216,7 +221,9 @@ explained that the app was launched the previous week in conjunction with the Di
 Association Ireland (DDAI). He explained the working and technology of the app and displayed
 
 the disabled parking spaces on the app’s map to show that Limerick is an accessible city.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Chair thanked Mr. Kennedy, adding that the launch received very good coverage on national
@@ -284,7 +291,9 @@ a phased basis from 2022 to 2025.
 The Chair thanked Mr. Williams for the Presentation adding that it is good to see improvement
 
 in connectivity of rural Ireland. He opened the floor to questions.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Novak commended all of the team. While she acknowledged that the four great
@@ -318,4 +327,6 @@ peaceful Christmas. He confirmed that the next Meeting is scheduled for Tuesday,
 2022.
 
 The Meeting then concluded.
----
+
+[[PAGE_END:5]]
+

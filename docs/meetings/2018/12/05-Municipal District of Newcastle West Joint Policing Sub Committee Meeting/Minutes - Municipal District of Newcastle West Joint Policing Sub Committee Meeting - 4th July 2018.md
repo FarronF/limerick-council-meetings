@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%202018-07-04%20Minutes%20JPC%20Subcommittee.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 4th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%202018-07-04%20Minutes%20JPC%20Subcommittee.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ stated that arrests have taken place with regard to the theft of quad bikes and 
 ceased. He also referred to rural burglaries but these have also decreased due to arrests
 
 being made.
----
+
+[[PAGE_END:1]]
+
 2
 
 Inspector Cullen stated that incidents of criminal damage is on the increase with incidents
@@ -164,4 +167,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-18th-february-2025-at-4pm.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council -  18th February 2025 at 4pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-18th-february-2025-at-4pm.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -80,7 +81,9 @@ of Limerick County Council in 1979 and had retained his seat at every subsequent
 Election until his retirement in 2014. He was elected as Chairman of the Council in 1986/1987,
 
 1988/89, 1989/90 and again in 2004/2005.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members paid tribute to him saying that he was a great servant to his community and had
@@ -120,4 +123,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

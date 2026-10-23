@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20to%20consider%20Draft%20Budgetary%20Plan%202016%20for%20Metropolitan%20District%20of%20Limerick.pdf)
+**Original file:** [Agenda - Meeting to consider Draft Budgetary Plan 2016 for Metropolitan District of Limerick - 19th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20to%20consider%20Draft%20Budgetary%20Plan%202016%20for%20Metropolitan%20District%20of%20Limerick.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
+__—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
-ANF i Cé na gCeannaithe,
-—=-> Luimneach
-Limerick Corporate Services and Change Management.
-CITY & COUNTY Limerick City and County Council,
-COUNCIL ne
+iil Cé na gCeannaithe.
+—==_> Luimneach
+Limerick Corporate — and Change Management,
+CITY & COUNTY imerick City and County Council,
+COUNCIL Merchants _—
 
 t: +353 (0) 61 407 100
 
@@ -42,13 +43,13 @@ AChomhairleoir, a chara,
 You are requested to attend a Meeting to consider the Draft Budgetary Plan 2016 for
 the Metropolitan District of Limerick to be held in the Council Chamber, Merchant's
 
-Quay, Limerick, on Monday, 19" October, 2015 at 2.30 p.m. The business to be
+Quay, Limerick, on Monday, 19"" October, 2015 at 2.30 p.m. The business to be
 
 transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-CMs S G—_
+CMs S G——_
 
 Christy O’Connor,
 Meetings Administrator.
@@ -60,9 +61,11 @@ Limerick.
 
 (Report attached).
 
-@ customerservicesa@limerick ie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach oe wrew.limerick.te
-Corporate Headquarters, Merchants Quay, Limerick ¥ @LimerickCouncil
+@ customerservices@limerickie
+Ceanncheathrni Chorparaideach, Cé na gCeannaithe, Luimneach © wvew.limerick.te
+Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

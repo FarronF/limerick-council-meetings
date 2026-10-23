@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/agenda-special-meeting-24.01.2020.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 24th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/agenda-special-meeting-24.01.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——__ Comhairle Cathrach
+__——_ Comhairle Cathrach
 & Contae Luimnigh
-AmN f” °oe_o_
+AmN f” —°V o _____
 — Limerick City
 & County Council
 
@@ -71,9 +72,11 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 =
 © welimerickie
+@LimerickCouncil
 
-w @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

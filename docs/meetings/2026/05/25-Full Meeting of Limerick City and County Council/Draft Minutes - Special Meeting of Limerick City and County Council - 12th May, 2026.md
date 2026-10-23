@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-special-meeting-of-limerick-city-and-county-council-12th-may-2026.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Limerick City and County Council - 12th May, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-special-meeting-of-limerick-city-and-county-council-12th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE, ON TUESDAY, 12TH MAY, 2026 AT 4.00 P.M.
@@ -90,7 +91,9 @@ The Príomh Chomhairleoir gave an introduction to the item as follows:
 Director General’s Report and recommendation to grant planning permission for the
 
 conservation, refurbishment and change of use of the Toll Cottages at Verdant Place.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 • The Report was circulated to the Elected Members on the 5th May, 2026 and a workshop
@@ -162,7 +165,9 @@ Councillors Hickey-O’Mara, O’Donovan.
 There were no Abstentions.
 
 Accordingly, the following resolution was adopted by the same voting:
----
+
+[[PAGE_END:2]]
+
 **3**
 
 Proposed by: Councillor Butler;
@@ -194,4 +199,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

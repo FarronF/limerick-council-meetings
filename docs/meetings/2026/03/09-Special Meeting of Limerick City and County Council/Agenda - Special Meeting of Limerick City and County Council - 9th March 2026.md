@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-9th-march-2026-1.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 9th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-9th-march-2026-1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_ Comhairle Cathrach Seirbhisi Conperticeache Rislachais & Custaiméara
+_—_—_—_ Comhairle Cathrach Seirbhisi Conpessideache Rislachais & Custaiméara
 Comhairle Cathrach 6 Contae Luimnigh
 
-a gle. & Contae Luimnigh baleen
-Ls Cé na gCeannaithe
+a gle. & Contae Luimnigh biplane,
+4 Cé na gCeannaithe
 
 — Limerick City
-& County Council —
+& County Council ew
 
 Corporate, Governance & Customer Services
 Limerick City and County Council
@@ -51,7 +52,7 @@ The Priomh Chomhairleoir, Councillor Catherine Slattery, has called a Special Me
 Limerick City and County Council to be held Online, on Monday, 9 March, 2026, at 4.15 p.m.
 The business to be transacted is set out below.
 Is mise le meas,
-Ciara i,
+Ciara l,
 
 Meetings Administrator.
 
@@ -59,14 +60,16 @@ AGENDA
 
 1. St. Patrick’s Festival Open Funding Call 2026
 
-To consider approving recommendations for the St. Patrick's Festival Open Funding Call 2026.
+To consider approving recommendations for the St. Patrick’s Festival Open Funding Call 2026.
 
 (Report to follow).
 = limerick.ie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach www.limerick.te
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
-( 061 - 556 000
+{ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

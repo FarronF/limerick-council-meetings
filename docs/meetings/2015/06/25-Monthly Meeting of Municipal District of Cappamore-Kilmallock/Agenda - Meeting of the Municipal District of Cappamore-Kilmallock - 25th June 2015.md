@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 25th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_-_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+__-_-_" Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 
-xn — Comhairle Cathrach agus Contae Luimnigh.
+ea —_ Comhairle Cathrach agus Contae Luimnigh.
 Cé na gCeannaithe,
 
 Limerick —
 Corporate Services and Change Management,
 
-CITY & COUNTY Limerick City ph Council
+CITY & COUNTY Limerick City ana Caras Council
 COUNCIL Merchants Quay.
 Limerick
 
@@ -37,7 +38,7 @@ t: +353 (0) 61 407 100
 ft: +353 (0) 61 415 266
 19" June, 2015.
 
-To/ The Cathaoirleach and each Member of the Municipal
+To/ The Cathaoirleach_ and each Member of the Municipal
 District of Cappamore-Kilmallock
 
 A Chomhairleoir, a chara,
@@ -74,20 +75,22 @@ Record of Protected Structures contained in the County Development Plan and deci
 whether or not the deletions and additions shall be made in accordance with Section 55
 (4) of the Planning and Development Act 2000 (as amended).
 
-oS
+a
 
-Ceanncheathni Chorparéideach, Cé na gCeannaithe, Lutmneach customerservices@limerick ie
-Corporate Headquarters, Merchants Quay, Limerick (Regge tetosets).
+Ceanncheathni Chorparéideach, Cé na gCeannaithe, Luimneach customerservices@limerick ie
+Corporate Headquarters, Merchants Quay, Limerick (Reserve reteset).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
 
 7.
 
-wv
+Nw
 
 Travel & Transportation
 Part 8 Pr re — N24 Boherdotia Bridge Works.
@@ -122,11 +125,13 @@ the Council.
 
 Question submitted by Councillor Mitchell
 
-| will ask at the next meeting for an update on the recent fish kill in the Drumclog River,
+| will ask at the next meeting for an update on the recent fish kill in the Drumciog River,
 Knocklong, Co. Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -137,7 +142,9 @@ Notice of Motion submitted by Councillor O’Donnell
 on the R512 at The Pike, Bruff to include repair of existing crash barrier and also the
 placing of appropriate signage and road markings to encourage traffic to slow down.
 
-10. C s) lence
+10. C S| lence
 
 
----
+
+[[PAGE_END:3]]
+

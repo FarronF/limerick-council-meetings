@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20June%202015.pdf)
+**Original file:** [Agenda - Annual Meeting of Municipal District of Adare-Rathkeale - 9th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——
+—————
 
-a
+An fm ™
 
 ———
 Limerick
@@ -39,7 +40,7 @@ Distri Adare-Rath
 A Chomhairleoir, a chara,
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh
+Comhairle Cathrach agus Contae Luimnigh,
 
 Cé na gCeannaithe,
 
@@ -55,19 +56,19 @@ Limerick
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-Member of icipal
+Member _ of icipal
 
 You are requested to attend the Annual Meeting of the Municipal District of Adare-Rathkeale to
-be held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 9 June,
+be held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 9" June,
 2015 at 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 Meetings Administrator.
 
-eee enn nen n nnn n nee n ewes eweseseeseseees
+eee eee n nnn n nn nnn nee n ewan sens eeeeeseees
 
-eee e enna eenncceeseenseeennnensenn
+onan nna eensnsceeeseseeenneennenn
 
 AGENDA
 
@@ -77,7 +78,7 @@ the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Chathaoirleach of the Municipal District of Adare-Rathkeale to hold office
 until the next Annual Meeting or until a successor has been elected.
 
-1
+I
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
@@ -86,4 +87,6 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

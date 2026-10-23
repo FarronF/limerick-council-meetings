@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20%20-%2012th%20June%202017.pdf)
+**Original file:** [Minutes -Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 12th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20%20-%2012th%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES**
 
 **OF**
@@ -122,7 +123,9 @@ in social enterprise. This was agreed at the LCDC meeting on June 7th last.
 Ms Humphries outlined that there are a number of existing programmes in rural
 
 areas to support social enterprise including actions under LEADER and the SICAP
----
+
+[[PAGE_END:1]]
+
 programme. SICAP supports unemployed people to progress into employment in
 
 social enterprise.
@@ -200,7 +203,9 @@ Regulations so we are not in a position to change this process.
 ***incineration, gasification, fracking and other environmentally damaging and***
 
 ***destructive industries in Limerick City & County Council.’***
----
+
+[[PAGE_END:2]]
+
 It was agreed that this item would be deferred to the next SPC meeting as Cllr C
 
 Prendiville was not in attendance.
@@ -248,4 +253,6 @@ them the opportunity to discuss them with the PPN members.
 Chairperson
 
 Economic Development, Enterprise and Planning Strategic Policy Committee
----
+
+[[PAGE_END:3]]
+

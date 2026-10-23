@@ -1,5 +1,10 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2021 — 06 - June
 
+* [02 Deferred_ Virtual Annual Meeting Of The Municipal District Of Newcastle West](02-DEFERRED_ Virtual Annual Meeting of the Municipal District of Newcastle West/README.md)
 * [02 Virtual Monthly Meeting Of The Municipal District Of Newcastle West](02-Virtual Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [04 Virtual Joint Policing Committee Meeting](04-Virtual Joint Policing Committee Meeting/README.md)
 * [08 Virtual Meeting Of The Climate Action Biodiversity And Environment Strategic Policy Committee](08-Virtual Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee/README.md)

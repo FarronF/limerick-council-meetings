@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/spc-meeting-agenda-july-2020-.pdf)
+**Original file:** [Agenda - Special Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/spc-meeting-agenda-july-2020-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach
+— Comhairle Cathrach
 & Contae Luimnigh
 ACN ——
 — Limerick City
@@ -31,7 +32,7 @@ Forbairt Gheilleagrach,
 Ceanncheathru Chorparaideach,
 Cé na gCeannaithe,
 
-lusmneach
+Lusmneach
 
 Economic Development,
 
@@ -43,9 +44,9 @@ Limenck
 EIRCODE V94 EHSO
 
 t: +353 (0) 61 556 000
-@: forwerdplarninga@linerickie
+@: forwerdplaroinga@linerickie
 
-29" june 2020
+29" June 2020
 
 To / Each Member of the Economic Development, Enterprise and Planning SPC
 
@@ -60,9 +61,9 @@ The single item Agenda is as set out hereunder and your attendance at this meeti
 
 requested.
 
-1. To consider a Notice of Motion from Clir Bridie Collins (referred from the full
+1. Toconsider a Notice of Motion from Clir Bridie Collins (referred from the full
 
-Council at its meeting on 26" June 2020)
+Council at Its meeting on 26" June 2020)
 
 ‘I will move at the next meeting that Limerick City & County Council supports
 ‘The National Small Business Recovery Plan’ in order to protect the thousands of
@@ -78,14 +79,16 @@ Pat Fitzgerald
 Senior Executive Officer
 Economic Development
 
-Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-= customerservices@limerickie
+© customerservices@limerickie
 © wwwiimerickie
 
-\LimerickCouncil
+LimerickCouncil
 (061 - 557 150
 
 
----
+
+[[PAGE_END:1]]
+

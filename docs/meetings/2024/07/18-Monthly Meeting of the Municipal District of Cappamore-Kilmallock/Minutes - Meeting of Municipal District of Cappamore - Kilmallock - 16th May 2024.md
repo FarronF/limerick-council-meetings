@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/02-minutes-of-may-municipal-district-meeting.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore - Kilmallock - 16th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/02-minutes-of-may-municipal-district-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -76,7 +77,9 @@ Awards Ceremony.
 Regarding the response to the question on playground repair, clarification was requested
 
 regarding the swing in the Kilmallock playground which has been left idle, and the high
----
+
+[[PAGE_END:1]]
+
 quotation for repair of the wetpour. This query will be forwarded to the appropriate
 
 department.
@@ -132,7 +135,9 @@ Further to a request on details of voids in the Municipal District, it was agree
 Meetings administrator would circulate a response to a recent question on the issue
 
 (December 2023).
----
+
+[[PAGE_END:2]]
+
 6.
 
 Biodiversity Officer
@@ -186,7 +191,9 @@ at Davy’s Bar, Effin be appraised for review and that safety measures are reco
 necessary improvements, be it a mountable roundabout, road markings, improved sightlines
 
 etc.”
----
+
+[[PAGE_END:3]]
+
 **REPLY:**
 
 The Cappamore-Kilmallock Municipal District Office will review the Junction in Effin and
@@ -242,7 +249,9 @@ Junction and determine what measures may be required. Any improvement works that
 be needed will be costed and a submission made to the relevant funding authority for
 
 consideration.
----
+
+[[PAGE_END:4]]
+
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Carey**
@@ -288,7 +297,9 @@ location indicated in Cllr. Carey’s question.
 13.
 
 Question submitted by Councillor Teefy
----
+
+[[PAGE_END:5]]
+
 I will ask at the next meeting of the Municipal District what the possibility is of
 
 improvement/ safety work to be carried out on the bend at Kilballyowen on the L1502
@@ -346,7 +357,9 @@ October 2023. During the course of this hearing, An Bord Pleanála conceded the 
 the judge agreed to remit, (“send back”) the Compulsory Purchase Order Application to An
 
 Bord Pleanála for their renewed consideration. A new Oral Hearing will be held into the
----
+
+[[PAGE_END:6]]
+
 Compulsory Purchase Order in due course by An Bord Pleanála, however as yet we have not
 
 been advised of a date for this hearing.
@@ -388,4 +401,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

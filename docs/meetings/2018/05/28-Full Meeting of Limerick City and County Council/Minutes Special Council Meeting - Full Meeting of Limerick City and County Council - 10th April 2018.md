@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20%28ii%29%20Minutes%20Special%20Meeting%20100418.pdf)
+**Original file:** [Minutes Special Council Meeting - Full Meeting of Limerick City and County Council - 10th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20%28ii%29%20Minutes%20Special%20Meeting%20100418.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -86,7 +87,9 @@ item was initially discussed, the Meetings Administrator had referred to corresp
 received from the Mayor disclosing an interest in this matter. In accordance with Section 177
 
 of the Local Government Act, 2001, as amended, and the Code of Conduct for Councillors, the
----
+
+[[PAGE_END:1]]
+
 2
 
 Mayor would therefore be exempting himself from the Special Meeting and the Deputy
@@ -152,4 +155,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

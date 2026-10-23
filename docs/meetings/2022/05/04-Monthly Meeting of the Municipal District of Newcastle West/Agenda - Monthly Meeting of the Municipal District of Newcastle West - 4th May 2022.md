@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00%202022-05-04%20Agenda%20May.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00%202022-05-04%20Agenda%20May.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach Diliche Bardais an Chaistedin Nua Thar,
+—__ Comhairle Cathrach Diliche Bardais an Chaistedin Nua Thiar,
 Comhairle Cathrach agus Contac Luimnigh,
-x o~ & Contae Luimnigh. Aras Wittiam Smith O’Brien
+= on™ & Contae Luimnigh. Aras Wittiam Smith O’Brien
 
-Limerick City nsstuen Man Thue
-— & County Council “ er rprellieny
+Limerick City ~ssteen Manta
+—s & County Council “ wana rprelliery
 
 Newcastle West Municipal District,
 Limerick City and County Council,
@@ -65,14 +66,16 @@ To Consider Planning Compliance Report for Abbeyfeale Traffic Management Scheme.
 
 (Report Enclosed)
 © customerserviceselimerick.ie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © veww limerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © veww limericik.ie
 Corporate Headquarters, Merchant's Quay. Limerick v
 
 @LimerickCouncil
 © 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -101,7 +104,7 @@ Questi bmitted by Councillor L. Galvi
 Abbeyfeale town please include recent deaths, (b) How long are each vacant, (c) Can
 | please ask for occupancy dates (roughly).
 
-I will ask at the next Meeting that the black bollards to be straightened/repaired/
+| will ask at the next Meeting that the black bollards to be straightened/repaired/
 replaced at the entrance to the public car park, Abbeyfeale.
 
 Question submitted by Councillor F. Foley
@@ -114,14 +117,16 @@ Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting when reinstatement work is expected to commence on
 vacant properties No. 15 and No. 70 Assumpta Park, Newcastle West.
 
-I will ask at the next Meeting that hardcore substance is placed next the tarmac along
+| will ask at the next Meeting that hardcore substance is placed next the tarmac along
 the Demesne, Newcastle West.
 
-I will ask at the next Meeting for an update on the acquisition of the unfinished
+| will ask at the next Meeting for an update on the acquisition of the unfinished
 housing development along Forge Road, Broadford.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -143,4 +148,6 @@ properties are then being sold on the private market.
 West be tarmacked.
 
 
----
+
+[[PAGE_END:3]]
+

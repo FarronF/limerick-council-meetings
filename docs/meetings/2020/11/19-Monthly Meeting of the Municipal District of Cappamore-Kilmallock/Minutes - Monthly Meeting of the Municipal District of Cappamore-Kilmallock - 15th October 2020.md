@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/03-minutes-monthly-md-meeting-15-10-20.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/03-minutes-monthly-md-meeting-15-10-20.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -26,7 +27,7 @@ DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE DEEBERT
 HOUSE HOTEL, DEEBERT, KILMALLOCK, CO. LIMERICK, ON
 THURSDAY, 15™ OCTOBER, 2020, AT 3.45 P.M.
 
-PRESENT IN THE CHAIR;
+PRESENT IN THE CHAIR:
 Councillor John Egan, An Cathaoirleach.
 
 MEMBERS PRESENT;
@@ -37,7 +38,7 @@ An apology for his inability to attend was received from Cllr Mike Donegan.
 OFFICIALS IN ATTENDANCE:
 
 Director, Support Services-Finance, Corporate, HR & ICT (Mr. S. Coughlan); Meetings
-Administrator, (Mr. M. Leahy); Senior Executive Engineer, Cappamore-Kilmaliock (Mr. B.
+Administrator, (Mr. M. Leahy); Senior Executive Engineer, Cappamore-Kilmallock (Mr. B.
 Kidney); Staff Officer, Property Services (Mr. J. Cregan), Clerical Officer, Cappamore-
 Kilmallock (Ms. H. O'Neill).
 
@@ -63,7 +64,9 @@ Services Training Centre for Kilmallock, and agreed that another Municipal Distr
 not be involving itself in the affairs of the Cappamore Kilmallock Municipal District.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Community Development Directorate
@@ -85,7 +88,7 @@ might be there, prior to a recommendation for disposal being brought back to the
 M D k (P: Places
 (Amendment) Bye Laws 2020
 
-Circulated, report of Director of Service, Physical Development Directorate, dated 22”
+Circulated, report of Director of Service, Physical Development Directorate, dated 22"
 September 2020, setting out the details of the Public Consultation Report in relation to the
 Draft Municipal District of Cappamore-Kilmallock (Parking Places) (Amendment) Byelaws,
 2020.
@@ -108,10 +111,12 @@ Taking in Charge of Estates-Declaration of Roads to be public
 
 Following consideration of the report from the Acting Senior Planner dated the 8" October
 2020, the approval to the taking in charge of estate at Ash Hill Manor, Kilmallock, Co. Limerick
-was proposed by Cllr Carey, seconded by Clir M. Ryan and agreed by the Elected Members.
+was proposed by Cllr Carey, seconded by Cllr M. Ryan and agreed by the Elected Members.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Elected Members also expressed their thanks in particular to Diarmuid Sheehy, E.E. for
@@ -157,7 +162,9 @@ both in 2019 and previously in 2015. This is in addition to occasional call outs
 fallen trees or gathered debris at structures that could pose a flood risk.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The OPW operates a hydrometric gauge upstream of Kilmallock at Riversfield Weir. On August
@@ -177,7 +184,7 @@ Kilmallock area to ensure that channels and structures remain clear of any debri
 of silts and gravels, which may have occurred during the extreme flows and water levels that
 were experienced.
 
-The OPW provides funding to loca! authorities through the Minor Flood Mitigation Works and
+The OPW provides funding to local authorities through the Minor Flood Mitigation Works and
 Coastal Protection Scheme and there are a number of areas being examined where flooding
 could be mitigated through works under this scheme. The Office of Public Works will continue
 to liaise with Limerick City and County Council in this respect.
@@ -206,4 +213,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:4]]
+

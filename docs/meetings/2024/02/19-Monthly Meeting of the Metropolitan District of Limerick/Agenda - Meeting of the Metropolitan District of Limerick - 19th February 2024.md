@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-meeting-of-metropolitan-district-of-limerick-19th-february-2024.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 19th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-meeting-of-metropolitan-district-of-limerick-19th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -97,7 +98,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -167,7 +170,9 @@ Development Act, 2000 (as amended) and Part 8 of the Planning and Development Re
 Travel Scheme.
 
 (Report Enclosed).
----
+
+[[PAGE_END:2]]
+
 3
 
 **QUESTIONS**
@@ -235,7 +240,9 @@ compliant with the condition to provide a creche where such condition was part o
 permission, and what steps will be taken to address this issue, given that no operational creche
 
 has been provided under any of those permissions to-date.
----
+
+[[PAGE_END:3]]
+
 4
 
 **13.Question submitted by Councillor E. Secas**
@@ -303,7 +310,9 @@ that was passed on 8/7/2019, that safety barrier and footpath be put in place be
 and the roundabout on the N69 at Clarina Village which is for the safety of pedestrians and when
 
 will work commence.
----
+
+[[PAGE_END:4]]
+
 5
 
 **21.Question submitted by Councillor C. Sheehan**
@@ -367,7 +376,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 both the NTA and Bus Eireann calling on them to provide a school bus service for the Raheen,
 
 Dooradoyle and Mungret areas to serve all six local schools.
----
+
+[[PAGE_END:5]]
+
 6
 
 **29.Notice of Motion submitted by Councillor E. Secas**
@@ -423,4 +434,6 @@ Garryowen now meets the criteria for CCTV cameras.
 **35.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:6]]
+

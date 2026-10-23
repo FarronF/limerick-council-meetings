@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-meeting-of-metropolitan-district-of-limerick-20.12.2021-v2.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-meeting-of-metropolitan-district-of-limerick-20.12.2021-v2.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -97,7 +98,9 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -157,7 +160,9 @@ Council consider the closure of Little William Street to through traffic from Wi
 Street and place automated bollards to facilitate controlled deliveries and emergency access, such
 
 a closure will improve the safety of pedestrians.
----
+
+[[PAGE_END:2]]
+
 2
 
 **5.Question submitted by Councillor S. Kiely**
@@ -211,7 +216,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick what pro
 with relevant stakeholders on the redevelopment of the cities disused railway network to facilitate
 
 smarter travel options.
----
+
+[[PAGE_END:3]]
+
 3
 
 **12.Question submitted by Councillor E. Secas**
@@ -261,7 +268,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 road from Clarina Roundabout to Red Brick Lodge, these improvement works are due to commence
 
 in 2022.
----
+
+[[PAGE_END:4]]
+
 4
 
 **NOTICES OF MOTION**
@@ -325,7 +334,9 @@ to TII to explore the possibilities of each Councillor having 50 percent of the 
 on land banks along the Motorway to serve towards absorbing carbon emissions from traffic on the
 
 Motorway.
----
+
+[[PAGE_END:5]]
+
 5
 
 **23.Notice of Motion submitted by Councillor D. McSweeney**
@@ -339,4 +350,6 @@ District.
 **24.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:6]]
+

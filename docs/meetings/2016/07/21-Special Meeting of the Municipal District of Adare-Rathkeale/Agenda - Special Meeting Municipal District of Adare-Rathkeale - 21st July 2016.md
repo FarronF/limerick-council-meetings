@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%202.pdf)
+**Original file:** [Agenda - Special Meeting Municipal District of Adare-Rathkeale - 21st July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%202.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-————
+——
 
-aArfr™
+aAr™
 
 =
 Limerick
@@ -40,7 +41,7 @@ Cé na gCeannaithe,
 
 Luimneach
 
-Corporate Services and Change Management.
+Corporate Services and Change Management,
 Limerick City and County Council,
 
 Merchants Guay,
@@ -62,10 +63,10 @@ Is mise le meas,
 
 ,
 
-Tom Orcallaghed, -
+Tom Orcallagheh /
 Meetings Administrator.
 
-eee een renee wenn were nee ween nen een nen n ne nnn nn nen nn nn nnn nn nnn enn nn nnn ne ene nnn nnn ee nn nnn nn ene n eee e rene ee nen een n nn en eee
+eee een eee ne wenn eee re nee n eee nen een nnn ne ee nnn ne nen nn nn nnn nnn ren nnn nen ne ene nnn enn enn nn ene ween nee e ee mene e nn en nen eee=
 
 AGENDA
 
@@ -74,7 +75,7 @@ AGENDA
 To note proposal for the exchange of land at Public Car Park, Rathkeale between Limerick
 City and County Council and Limerick Community Games.
 
-]
+i]
 Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 
 Corporate Headquarters, Merchants Quay, Limerick
@@ -82,8 +83,10 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Report Enclosed).
 
 @ customerservices@limerick.te
-oe ver limerick.te
+oe we limerick.te
 w @LimerickCouncit
 
 
----
+
+[[PAGE_END:1]]
+

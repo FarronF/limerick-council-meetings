@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-council-meeting-22.03.2021.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-council-meeting-22.03.2021.pdf)
 
----
+[[FILE_START]]
+
 16th March, 2021.
 
 To:
@@ -74,7 +75,9 @@ Mr. Maurice Hoare, HSE Mid-West Community Healthcare.
 Dr. Mai Mannix, Director of Public Health Mid-West.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -146,7 +149,9 @@ on the Statutory Audit Report 2019 for Limerick City and County
 Council
 
 (Documentation Enclosed as follows:
----
+
+[[PAGE_END:2]]
+
 3
 
 • Audit Committee’s Report.
@@ -214,7 +219,9 @@ To consider the adoption of updated Standing Orders for Strategic Policy
 Committees.
 
 (Report and Draft Standing Orders Enclosed)
----
+
+[[PAGE_END:3]]
+
 4
 
 (g)
@@ -288,7 +295,9 @@ Enterprise and Planning Strategic Policy Committee held on 8th, 15th and
 **in-charge of estates to ensure that estates are taken-in-charge within**
 
 **the shortest period possible, post completion.**
----
+
+[[PAGE_END:4]]
+
 5
 
 **Recommendation from SPC Meeting held on 22nd** **February, 2021.**
@@ -354,7 +363,9 @@ Strategic Policy Committee held on 17th February, 2021.
 **That, this Council limit housing representations to one representation**
 
 **for one person per Elected Representative.**
----
+
+[[PAGE_END:5]]
+
 6
 
 5.
@@ -420,7 +431,9 @@ To note reports by Members who have participated at Conference / Seminar /
 Meeting / Event.
 
 (Report Enclosed)
----
+
+[[PAGE_END:6]]
+
 7
 
 QUESTIONS
@@ -494,7 +507,9 @@ I will ask at the next Meeting, how many void units are there currently across t
 and County and if an update could be provided regarding the Single Point of Contact
 
 (SPOC) system.
----
+
+[[PAGE_END:7]]
+
 8
 
 NOTICES OF MOTION
@@ -566,7 +581,9 @@ for Agriculture appointing such a Regulator. The purpose of the Independent Meat
 Regulator with the necessary associated legislative powers would be to police and
 
 regulate the Meat Industry.
----
+
+[[PAGE_END:8]]
+
 9
 
 14.
@@ -602,4 +619,6 @@ closure of the on-site pre-school facility.
 16.
 
 Correspondence
----
+
+[[PAGE_END:9]]
+

@@ -16,16 +16,17 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-newcastle-west-15th-january-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 15th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-newcastle-west-15th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
 
-cO. LIMERICK, AND ONLINE ON WEDNESDAY, 15™
+co. LIMERICK, AND ONLINE ON WEDNESDAY, 15™
 
 JANUARY, 2025, AT 10AM.
 PRESENT IN THE CHAIR: Councillor L. Galvin, Cathaoirleach.
@@ -63,7 +64,9 @@ the District. It was also agreed that representatives of Irish Water would be in
 a Special Meeting of the District as a follow up on the recent weather events.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1. Adoption of Minutes
@@ -91,7 +94,7 @@ Ita’s Terrace, St. Ita’s Road, Newcastle West, Co. Limerick.
 
 Members noted the proposal.
 
-(b) Circulated, report of Head of Property Management, dated 9° December, 2024,
+(b) Circulated, report of Head of Property Management, dated 9" December, 2024,
 concerning proposal to dispose of land 0.1784 Acres (0.0722 Hectares) at Lower Mall,
 Glin, Co. Limerick.
 
@@ -113,7 +116,9 @@ an additional €700 to Killeedy G.A.A., for picnic tables and wheelchair access
 playground.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -171,7 +176,9 @@ incorporate additional design requirements including consideration of the active
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 travel facility cross section, the impacts of the 2023 speed limit review and the
@@ -215,13 +222,15 @@ recommended staggered junction at Devon Cross.
 
 (b) To date, Limerick City and County Council have been unsuccessful in securing funding
 for this scheme. We are carrying out additional surveys to further support our
-application and will resubmit to TIl for consideration.
+application and will resubmit to Tl for consideration.
 
 Limerick City and County Council will continue to follow up on this scheme and provide
 an update once available.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor L. Galvin
@@ -255,7 +264,7 @@ REPLY: The sign will be reinstated by the end of January.
 | will ask at the next Meeting that the speed indicator on the western side of Broadford
 village be relocated next to the speed limit signage.
 
-REPLY: A site meeting will be arranged to confirm the agreed location.
+REPLY: Asite meeting will be arranged to confirm the agreed location.
 
 11. Question submitted by Councillor T. Ruddle
 
@@ -264,7 +273,9 @@ Municipal District owned by Limerick City and County Council, in tabular form by
 and the maximum length of time that they have been vacant.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY;
@@ -276,7 +287,7 @@ Unit Location Vacant Period | Current
 
 a
 
-a
+i
 
 Newcastle West
 Newcastle West
@@ -299,7 +310,9 @@ environmental assessments are currently being reviewed by Limerick City and Coun
 and finalised. The cost benefit of the scheme is proving challenging to achieve a value of 1 or
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 greater (i.e. where benefits exceed the proposed project cost of the FRS) and further work is
@@ -315,7 +328,7 @@ In proposing the Motion, Councillor Galvin requested that the Athea Flood Relief
 expedited and that temporary works be carried out in the meantime including dredging and
 the clearing of debris from under the bridge. In replying, the Director stated that the Athea
 Flood Relief Scheme is being finalised at present and following the approval of the Office of
-Public Works, it is envisaged that this scheme will be submitted to An Bord Pleanala for
+Public Works, it is envisaged that this scheme will be submitted to An Bérd Pleanala for
 consideration in Q2 2025. It was agreed that a further update would be given to the Members
 on the provision of temporary dredging works at the bridge in the meantime.
 
@@ -325,7 +338,7 @@ relief schemes in the country and to the limited expertise in this area.
 
 13. Notice of Motion submitted by Councillor L. Galvin
 
-1 will move at the next Meeting that the Council calls on the Department of the Office of
+! will move at the next Meeting that the Council calls on the Department of the Office of
 Public Works to draw up a Flood Relief Scheme from the Mart Bridge towards the rear of
 Abbey United Soccer Club and that this includes the dredging of the river from the said
 locations.
@@ -352,7 +365,9 @@ In proposing the Motion, Councillor Galvin referred to the substantial damage ca
 7
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 extreme flooding event which took place recently in Abbeyfeale and to the damage caused
@@ -365,7 +380,7 @@ Following discussion, it was agreed that the District would write to the Ministe
 the Department of Housing, Local Government and Heritage with responsibility for the Office
 of Public Works to advance a Flood Relief Scheme for Abbeyfeale.
 
-14, () subm by Councillor J. n
+14, ° subm by Councillor J. n
 
 | will move at the next Meeting that both lighting and shelter be improved at the
 Westbound Bus Stop fronting the Longcourt House Hotel.
@@ -402,7 +417,9 @@ to seek clarification on putting the lights on a timer.
 The following items were also raised.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 An update was sought on a clean-up and surveying of trees at Oakpark estate, Newcastle
@@ -446,9 +463,13 @@ Dated:
 
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

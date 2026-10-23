@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—a—l Comhairle Cathrach
+el Comhairle Cathrach
 & Contae Luimnigh
-alan ———_ ——$—$—_—_
+Acs — —<—$$—$<$—<_—_
 
 — Limerick City
 & County Council
@@ -32,11 +33,11 @@ alan ———_ ——$—$—_—_
 
 A Chomhairleoir, a chara,
 
-Ceantar Bardasach Ath Dara-Rathn Caola,
+Ceantar Bardasach Ath Dara-Ratn Caola,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras Séan Finn,
 
-Une Nua,
+Line Nua,
 
 Rath Caola,
 
@@ -61,7 +62,7 @@ You are requested to attend the Annual Meeting of the Municipal District of Adar
 be held in Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online on Tuesday 30"
 June, 2026 at 11.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is mise le meas,
+ls mise le meas,
 
 a
 
@@ -81,7 +82,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 © wevevatimerick.le
 @LimerickCouncil
 
-© 061 - 556 000
+© 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+

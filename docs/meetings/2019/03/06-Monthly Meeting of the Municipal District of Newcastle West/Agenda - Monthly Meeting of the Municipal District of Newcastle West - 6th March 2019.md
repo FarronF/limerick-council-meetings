@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%202019-03-06%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%202019-03-06%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Sm Comhairle Cathrach Ce oe a an a) Nua Thar,
+Ss Comhairle Cathrach Pelee a an o—) Nua Thar,
 imn ‘athrach agus Contae Luimnigh,
-& Contae Lu igh Aras Wiliam Smith O'Brien
-AEN : Gortbut,
-———_siLimerick City An Caisledn Nua Thiar
+& Contae Lu igh Aras Wiliam Smith O'Brien,
+AEN " Gortbut,
+———__siLimerick City An Caisledn Nua Thiar
 & County Council Co. Luimnigh.
 
 Newcastle West Municipal District,
@@ -51,12 +52,12 @@ To: irleach and Each Member of the Municipal District of Newcastle West
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6 March, 20
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6" March, 20
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-bAeta—
+a
 
 Margarét Corbett,
 Meetings Administrator.
@@ -78,18 +79,20 @@ To note proposal for the disposal of land by way of lease at Coolaboy, Dromcollo
 Co. Limerick to Dromcollogher Community Council.
 
 (Report Enclosed)
-Ceanncheathré Chorpardideach, Cé na gCeannaithe, Luimneach = > =A
+Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach = > yA
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
 
 10.
 
-vii orat
+rvi orat
 Takin a — Declaration of ds to be Public Road:
 
 To consider the Taking in Charge of Estate The Bracken, Newcastle West, in
@@ -97,11 +100,11 @@ accordance with Section 180 of the Planning and Development Acts, 2000-2017, and
 Section 11 of the Roads Act, 1993.
 
 (Report Enclosed)
-Sch e@ Municipal Di of New
+Sch e Municipal Di of New
 To consider Draft Schedule of Works for the Municipal District of Newcastle West.
 {Report to follow)
 
-Housi ectorate
+Housi ‘ectorate
 
 To note progress report from the Housing Development Directorate.
 
@@ -131,7 +134,9 @@ with the start dates for the works at:
 (a) Ward’s Cross on N21 (b) Devon Road Cross on N21
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -144,7 +149,7 @@ with the start dates for the works at:
 
 15.
 
-16.
+16,
 
 17.
 
@@ -186,7 +191,7 @@ OF MOTION
 Notices of Motion submitted by Councillor J. Scanlan
 
 | will move at the next Meeting that a safety review of the traffic flow in the Daar
-Bridge area be undertaken.
+Sridge area be undertaken.
 
 I will move at the next Meeting that our Authority reinstate the arrangement that was
 
@@ -204,7 +209,9 @@ Notic tion submi: ncillor lv
 problem in Collins Park, Abbeyfeale.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -217,4 +224,6 @@ in place a footpath to Kilfergus estate in Glin in order to provide safe access 
 the estate.
 
 
----
+
+[[PAGE_END:4]]
+

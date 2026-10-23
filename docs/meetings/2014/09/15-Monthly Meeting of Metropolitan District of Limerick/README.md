@@ -34,7 +34,7 @@ Extinguishment of Right of Way - Road Numbers 14 and 15A Ballynanty.pdf - [Origi
 
 Part 8 Proposed Neighbourhood Park in Grounds of Mungret College.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5metropolitan_district_of_limerick_-_planning_report_proposed_mungret_neighbourhood_park_-_15th_september_2014.pdf) - Text not extracted
 
-Part 8 Proposed Residential Development at Athlunkard Street _ Sheep Street _ Meatmarket Lane, Kings Island.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/6%20metropolitan_district_of_limerick_-_sheep_street_report_-_15th_september_2014.pdf) - Text not extracted
+Part 8 Proposed Residential Development at Athlunkard Street / Sheep Street / Meatmarket Lane, Kings Island.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/6%20metropolitan_district_of_limerick_-_sheep_street_report_-_15th_september_2014.pdf) - Text not extracted
 
 Replies to Notices of Motion - Metropolitan District of Limerick - 15th September 2014.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/7%20replies_to_notices_of_motion_-_metropolitan_district_of_limerick_-_15th_september_2014.pdf) - Text not extracted
 

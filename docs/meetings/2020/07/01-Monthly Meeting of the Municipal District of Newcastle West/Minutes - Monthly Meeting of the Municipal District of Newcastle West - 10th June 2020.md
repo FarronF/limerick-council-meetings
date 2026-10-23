@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01a-2020-06-10-minutes-june.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01a-2020-06-10-minutes-june.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Members noted the proposal.
 The Members also referred to the future development of Colbert Street, Abbeyfeale and the
 
 proposal for additional houses for the area.
----
+
+[[PAGE_END:1]]
+
 2
 
 SUPPLEMENTARY ITEM
@@ -164,7 +167,9 @@ To note new Guidelines on the Community Initiative Scheme 2020.
 Circulated, report from Urban and Rural Community Development, dated 27th May, 2020.
 
 Members noted the report.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -244,7 +249,9 @@ National Road Design Office and a feasibility report was prepared recommending t
 installation of a right turn lane on the N21 at Wards Cross. TII accepted the findings
 
 and recommendations of this feasibility report and approved for Limerick City and
----
+
+[[PAGE_END:3]]
+
 4
 
 County Council to procure technical advisors to progress the design to the next stage
@@ -324,7 +331,9 @@ solutions be advanced and that technical engineering consultancy services be
 procured to carry this out. TII approved funding for the appointment of these
 
 engineering consultancy services.
----
+
+[[PAGE_END:4]]
+
 5
 
 Following a procurement process, Barry Transportation were appointed to carry out
@@ -412,7 +421,9 @@ included in the Abbeyfeale Traffic Management Plan. The proposed location of the
 public toilet is in the new car park to be constructed at O’Riordan’s.
 
 Councillor Galvin expressed disappointment at the responses outlined above in relation to
----
+
+[[PAGE_END:5]]
+
 6
 
 Wards Cross, Devon Cross and Abbeyfeale Traffic Management Plan and to the length of
@@ -490,7 +501,9 @@ Question submitted by Councillor L. Galvin
 ***I will ask at the next Meeting for an update on the purchase of the remaining 12 houses at***
 
 ***Cois Na Feile, Clash Road, Abbeyfeale.***
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -566,7 +579,9 @@ Notice of Motion submitted by Councillor L. Galvin
 ***be contacted and allowed to submit a new application free of charge where incorrect***
 
 ***information was given out.***
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Galvin referred to the planning applications which were
@@ -640,7 +655,9 @@ Investment Plan. It is currently at the earliest Feasibility Study stage.
 Engineering consultants will shortly be appointed to undertake this feasibility
 
 study after which a full project scope will be determined. At this early stage it
----
+
+[[PAGE_END:8]]
+
 9
 
 is scheduled that the Works will be undertaken in the period 2024 to 2026. It
@@ -708,7 +725,9 @@ meeting was held with the Committee with staff from Urban and Rural Community
 Development Department and Operations and Maintenance with regard to the matters
 
 raised.
----
+
+[[PAGE_END:9]]
+
 10
 
 The Members referred to the recent incidents of illegal dumping, parties and drinking which
@@ -782,4 +801,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01b%202018-05-09%20Minutes%20Special%20Meeting.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 9th may 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01b%202018-05-09%20Minutes%20Special%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -88,7 +89,9 @@ That a commitment be given in the event of the lights not working or
 causing traffic problems once installed, that the lights will be removed and parking
 
 spaces put back in their place.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(c)**
@@ -148,4 +151,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

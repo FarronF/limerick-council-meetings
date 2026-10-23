@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%20Meeting%20MD%20Cappamore-Kilmallock%20121217.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 12th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%20Meeting%20MD%20Cappamore-Kilmallock%20121217.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Setrbhisi Corpardideacha,
-_—_—_ 5 Cordasludneion Comhairle Coeach acne Comes Luimnnigh,
-or. : : a Cé na gCeannaithe,
+_—_—_—_ 5 Cordas laden Comhairle Comeach acne Comes Luimnnigh,
+oe. : : ‘ Cé na gCeannaithe,
 =— Limerick City Luimneach
 
 & County Council
@@ -33,10 +34,11 @@ Limerick City and County Council,
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+th f: +353 (0) 61 415 266
+7” December, 2017.
 
-7" December, 2017.
-To/ The Cathaoirleach_ and Each Member of the Municipal District_of Cappamore-
+To/ The Cathaoirleach_and Each Member of the Municipal District_of Cappamore-
+
 Kilmallock
 
 A Chomhairleoir, a chara,
@@ -46,15 +48,16 @@ held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Tuesday, 
 December, 2017, at 3.30 p.m. The business to be transacted is set out on the appended
 Agenda.
 
-Is mise le Su
+Is mise le Sr
 
-AES Be Shel
+AES ae
 
-¢* Meetings anita
+¢* Meetings ates
 
 AGENDA
 
-4. Minutes
+41. Minutes
+
 To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
 
 24" November, 2017.
@@ -74,7 +77,9 @@ Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -103,4 +108,6 @@ the waiting list for the Scheme in Limerick; and (c) how many are on the waiting
 the Scheme in the Municipal District of Cappamore-Kilmallock.
 
 
----
+
+[[PAGE_END:2]]
+

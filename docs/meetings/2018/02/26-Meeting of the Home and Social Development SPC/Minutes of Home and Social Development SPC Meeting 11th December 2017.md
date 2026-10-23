@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20Home%20and%20Social%20Development%20SPC%20Meeting%2011.12.17.pdf)
+**Original file:** [Minutes of Home and Social Development SPC Meeting 11th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20Home%20and%20Social%20Development%20SPC%20Meeting%2011.12.17.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -92,7 +93,9 @@ and Social Development SPC.
 Mr Rob Lowth, Operations and Maintenance gave a presentation regarding the proposed
 
 condition survey of Council owned housing stock. The objectives of the survey are to:
----
+
+[[PAGE_END:1]]
+
 •
 
 Deliver a comprehensive point in time baseline of stock which can be updated by
@@ -182,7 +185,9 @@ Issues raised by members included:
  Necessity for disposal of the sites; and
 
  Possible new affordable housing scheme.
----
+
+[[PAGE_END:2]]
+
 **Item 6.**
 
 **Consideration of report from Special Meeting of Limerick City and County**
@@ -202,4 +207,6 @@ accommodation.
 The Meeting then concluded.
 
 **Date of Next Meeting:** Monday 26th February 2018 at 3.00pm, County Hall, Dooradoyle.
----
+
+[[PAGE_END:3]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 19th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i } Seirbhisi Corparaideacha
-_—_ Comhairle Cathrach Camarle Cathrach agus Contac Luimnigh,
+q } Seirbhisi Corparaideacha
+_ Comhairle Cathrach Camharle Cathrach agus Contac Luimnigh,
 & Contae Luimnigh Ceanncheathns Chorpardideach,
-ANN J oa Cé na gCearinaithe,
-—— Limerick City Lulrmnesch
+ALS J aa Cé na gCearinaithe,
+——— Limerick City Lulrmneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -48,7 +49,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Nesey
+Nosy
 
 Meetings
 
@@ -59,11 +60,13 @@ To adopt Minutes of Monthly Meeting of the Metropolitan District of Limerick hel
 
 (Copy Enclosed).
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach vy
-Corporate Headquarters, Merchants Quay, Limerick \ 061 - §57150
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Lulmneach y
+Corporate Headquarters, Merchants Quay, Limerick \ 061 - §$7150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest.
@@ -104,7 +107,9 @@ flooding response plan, with a specific request on the details of how the risk o
 monitored and when the flood defences are deployed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor C. Slattery
@@ -138,7 +143,7 @@ a site yet.
 
 13. Question submitted by Councillor E. Secas
 
-| will ask at the next Meeting of the Metropolitan District of Limerick if the NTA have approved all
+1 will ask at the next Meeting of the Metropolitan District of Limerick if the NTA have approved all
 Active Travel Schemes for the Metropolitan Area, which we approved at the April meeting of the
 Metropolitan District of Limerick subject to approval of the schemes by the NTA. If not all those
 schemes have been approved by the NTA, can the Council provide the list of schemes NTA did
@@ -150,7 +155,9 @@ approve.
 installation of the railing at Steamboat Quay.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor E. O'Donovan
@@ -159,7 +166,7 @@ installation of the railing at Steamboat Quay.
 parking within car parks in the city centre and if there are plans for any more inside bike parking
 within the city centre.
 
-16. Question submitted by Councillor E. O'Donovan
+16. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if Treaty City flags can be
 placed along the bridges in celebration of the achievements of the club within Limerick.
@@ -192,7 +199,9 @@ County Council expect all work on O'Connell Street to be completed and when we c
 3 person cleansing team to be appointed.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 22. Question submitted by Councillor S. Kiely
@@ -203,7 +212,7 @@ for Schoo! Wardens and when will they be filled if any exist.
 NOTICES OF MOTION
 
 23. Notice of Motion submitted by Councillor J. Pond (referred from Meeting of Limerick City
-and County Council held on 22" May, 2023)
+and County Coundil held on 22" May, 2023)
 
 | will move at the next Meeting that Limerick City and County Council would, as a matter of
 urgency, engage with National Parks & Wildlife, Waterways Ireland and any other stakeholders
@@ -217,7 +226,7 @@ Culture Strategic Policy Committee
 suitable land in the Dooradoyle area to facilitate the construction of a new children's playground
 to meet the growing needs of the local community.
 
-DICE OF WIOTION SUDMIn ed
+DICE OF WIOTION SUDMITCed
 
 Biodiversity and Environment Strat egic Policy Com mittee)
 
@@ -225,7 +234,7 @@ Biodiversity and Environment Strat egic Policy Com mittee)
 a bye law to address the growing problem of unused cars left in housing estates and driveways,
 which are an eyesore for residents and a magnet for antisocial behaviour.
 
-I will move at the next Meeting of the Metropolitan District of Limerick that in light of the many
+| will move at the next Meeting of the Metropolitan District of Limerick that in light of the many
 active travel improvements taking place in this district that we draft and implement a public
 engagement policy which sets out best practice for engagement with local stakeholders when this
 district is advancing Part 8 Planning Applications and Section 38s.
@@ -238,7 +247,9 @@ scale projects in Limerick City and County. Economic growth has been introduced 
 we are lacking physical infrastructure for our communities and community groups.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 28. Notice of Motion submitted by Councillor C. Slattery
@@ -279,7 +290,9 @@ waiting time be reduced. Presently the waiting time is 14 weeks.
 centre be retained on O'Connell Street in the city centre.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 34. Notice of Motion submitted by Councillor E. O’Donovan
@@ -307,4 +320,6 @@ litter and food waste.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:7]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_4th_february_2015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 4th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_4th_february_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh,
+_—_—_—_— Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh
 
-ANI ‘“ Cé na gCeannaithe,
+ANS ‘“ Cé na gCeannaithe,
 —=- Luimneach
 Limerick Corporate Services and Change Management.
 ITY NTY Limerick City and County Council
@@ -50,12 +51,12 @@ Agenda.
 
 Is mise le meas,
 
-Une Yrow.
+Une, row.
 
 Tina Knox,
 Meetings Administrator.
 
-eee nen c nnn ween en enneennnnnnennnsesennnsee= ros
+eae e nen n ncn nwe en en enn nenannnnennnseeennnsee= eee ewe e ence eee eeeee
 
 AGENDA
 
@@ -74,13 +75,14 @@ To receive Deputation from Tournafulla Sustainable Living Community.
 
 To receive Deputation from Newcastle West Arts Committee.
 
-& customerservices@limerick.le
+& customerservices@limerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © www.limerick.ie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -124,7 +126,9 @@ Authority regarding the linking up of the crash barrier at Barna.
 entrance to Breen’s house at Barna.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -145,4 +149,6 @@ White River at Glensharrold, Carrigkerry. It is old and in poor condition and a 
 hazard for users.
 
 
----
+
+[[PAGE_END:3]]
+

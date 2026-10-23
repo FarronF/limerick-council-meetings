@@ -16,23 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-2025-07-02-agenda-july.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 2nd July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-2025-07-02-agenda-july.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Decne Deets a Sie eres,
-
+Comhairle Cathrach Desens Deets an Sie ree,
 _ & Contae Luimnigh Comiaitte Cathrach agus Contae Luimnigh,
-~ontae g Aras William Smith O'Brien,
 
-AN fi ™ ——_—_—____—- Gortbuf,
+Contae g Aras William Smith O'Brien,
+a —__—_—_____—- Gortbuf,
 
 —> Limerick City An Casledn Nua Thiar,
 & County Council Co. Luimnigh.
-Newcasth: West Municipal Distnict,
+Nevwcasth: West Municipal Distict,
 
-Limerick Oty and County Council
+Limerick Ory and County Council
 
 Aras William Smith O'Brien,
 
@@ -54,7 +54,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 2” Ju
 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-fest
+fs dull
 
 Heather Supple,
 Meetings Administrator.
@@ -67,18 +67,20 @@ AGENDA
 June, 2025.
 
 (b) To adopt Minutes of Annual Meeting of the Municipal District of Newcastle West held
-on 3 June, 2025.
+on 3" June, 2025.
 
 (Copies Enclosed)
 2. Declaration of Interest.
 & customerservices@limerick.ie
-Ceanncheathnii Chorpardideach, Cé na gCeannaithe, Luimneach © wwwilimerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerickie
 
 Corporate Headquarters, Merchant's Quay, Limerick
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -128,7 +130,9 @@ Questions submitted by Councillor J. Scanian
 Ardagh.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -156,7 +160,7 @@ Keating's Bar be resurfaced.
 
 Notices of Motion submitted by Councillor F. Foley
 
-I will move at the next Meeting that speed ramps be put in place in Mountcollins
+| will move at the next Meeting that speed ramps be put in place in Mountcollins
 village in the interest of safety.
 
 | will move at the next Meeting that the new car park formally known as Riordan’s
@@ -176,4 +180,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

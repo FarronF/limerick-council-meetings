@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%2011th%20July%202017.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 11th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%2011th%20July%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ail Seirbhisi Corpardideacha,
+al Seirbhisi Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
-~~ S = Ceanncheathni Chorpardideach,
+~S = Ceanncheathni Chorpardidesch,
 
 Cé na gCeannaithe,
 
 COMHAIRLE Luimneach
-CATHRACH & CONTAE ace
+CATHRACH & CONTAE -
 
-; " Corporate Services,
+; ; Corporate Services,
 
-Luimnigh exqaisncnyind Goomoneen
+Luimnigh eeetxcyend Goomoneen
 
 = = Corporate Headquarters,
 
-Limerick Nerchana Gig,
+Limerick Mercian Gay,
 
 CITY & COUNTY Limerick
 
@@ -53,7 +54,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, a3" July, 2017 at 9.00 a.m.
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, fal July, 2017 at 9.00 a.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -61,15 +62,15 @@ Is mise le meas,
 
 Meetings Administrator.
 
-tte ne nnn nee nen en nnn nnn ne nnn nnn en enn nn nn nn enn ne en enn nnn nn ent ee ene meen ne nee een ee ene nee ere nrseesscesessessnes
+ee tenn nen nee nnn en nnn nn ne nnn nnn en nnn enn nn nnn nn en en nnn nn ene eee e ne nen ene n ns ee eee ren nee ere erseesseesessessees
 
 AGENDA
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Annual Meeting of the Municipal District of Adare-Rathkeale held on 13" June, 2017.
-(b) Meeting of the Municipal District of Adare-Rathkeale held on 13" June, 2017.
+(a) Annual Meeting of the Municipal District of Adare-Rathkeale held on 13” June, 2017.
+(b) Meeting of the Municipal District of Adare-Rathkeale held on 13” June, 2017.
 (Copies Enclosed)
 
 2. Disposal of Land
@@ -83,12 +84,14 @@ Disposal of Freehold Interest of Tenant Purchase property in dwellings situate a
 (Report Enclosed).
 
 & customerservices@limerickic
-oo wwwlimerickie
+ wwwlimerickie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -141,7 +144,9 @@ To note update on the path from Kildimo Village to the Beer Garden.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -209,7 +214,9 @@ a special effort to have the towns and villages in the District cleaned up.
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -249,4 +256,6 @@ To discuss allocations under the Community Initiative Scheme 2017.
 (This item to be taken in committee)
 
 
----
+
+[[PAGE_END:4]]
+

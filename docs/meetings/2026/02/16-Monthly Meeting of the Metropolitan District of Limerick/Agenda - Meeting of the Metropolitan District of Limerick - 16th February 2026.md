@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-metropolitan-district-of-limerick-16th-february-2026.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 16th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-metropolitan-district-of-limerick-16th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Seubhisi Corparéideacha, Rialschais & Custaiméara
-———— Comhairle Cathrach Comhalrie Cathrach 6 Contae Luimnigh
+i Seubdhisi Corparéideacha, Rialschais & Custaiméara
+————— Comhairle Cathrach Comhalrie Cathrach 6 Contae Luimnigh
 
-= & Contae Luimnigh Ceannchearthti Chorpardidesch
--™ rN ———— ome Cena joensen
-— Limerick City _ Luimneach. V94 BH90
+=~ & Contae Luimnigh Ceannchearthti Chorpardidesch
+- rN —————— — Cena joensen
+— Limerick City _ Luimneach. V4 BHS0
 
 & County Council
 
@@ -55,7 +56,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-asin Plaka
+asin Clakey
 
 Aedin Foley,
 Meetings Administrator.
@@ -67,12 +68,14 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 a
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach www.timerickie
-Corporate Headquarters, Merchant's Quay, Limerick YW @LimerickCouncil
+Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -109,7 +112,9 @@ the Planning and Development Act 2000 (as amended) and Section 11 of the Roads A
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -120,7 +125,7 @@ QUESTIONS
 properties have Limerick City and County Council and currently how many NTQ’s are there
 for RAS properties and are the Council acquiring more properties for RAS tenants.
 
-8. lor
+8. llor
 
 | will ask at the next meeting of the Metropolitan District of Limerick in relation to long term
 leasing, can the criteria be changed that if the tenant does not want the furniture supplied
@@ -137,7 +142,7 @@ increased spending in 2023 and 2024 to a single supplier.
 
 10. Question submitted by Councillor S. Kiely
 
-| will ask at the next meeting of the Metropolitan District of Limerick that an update be
+I will ask at the next meeting of the Metropolitan District of Limerick that an update be
 provided on the progress and timeline for the Columbarium wall in Mt. St. Lawrence
 Cemetery.
 
@@ -153,7 +158,9 @@ I will ask at the next meeting of the Metropolitan District of Limerick for an u
 Golf Links Road-Ballysimon Road junction improvement scheme by O’Shea’s Pub.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor E. Secas
@@ -163,7 +170,7 @@ Directorate has had any engagement with UL, as a landowner, to develop on-campus
 student accommodation, further to this local authority's call on landowners to propose land
 suitable for residential zoning and housing developments.
 
-14, Question submitted by Councillor E. Secas
+14. Question submitted by Councillor E. Secas
 
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 distributor road linking the Golf Links Road from its Schoolhouse Road junction, with the
@@ -198,7 +205,9 @@ planning and preparation has thus far been carried out by this Council in advanc
 hosting EuroPride 2028.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. by Councillor S. H O’M
@@ -230,7 +239,7 @@ published feasibility report completed in 2023.
 
 24. Notice of Motion submitted by Councillor S. Beasley
 
-| will move at the next meeting of the Metropolitan District of Limerick that Limerick City
+I will move at the next meeting of the Metropolitan District of Limerick that Limerick City
 and County Council conduct a comprehensive audit of all locations across the Metropolitan
 District where cycle paths intersect with road junctions, to ensure adequate signage is in
 place to clearly indicate right of way for both cyclists and motorists, and where cyclists do
@@ -238,7 +247,9 @@ not have right of way, to install additional signage specifically at busy juncti
 cyclists to wait and dismount when crossing.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 25. Notice of Motion submitted by Councillor J. Leddin
@@ -252,7 +263,7 @@ Ballinacurra area of the city.
 
 | will move at the next meeting of the Metropolitan District of Limerick that Limerick City
 and County Council start the process to extinguish the right of way at Wallers Well Roxboro
-Road.
+Road,
 
 27. Notice of Motion submitted by Councillor C. Slattery
 
@@ -282,7 +293,9 @@ greater focus on oral communication.
 installed onto new and existing bus shelters in Limerick City.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31. Notice of Motion submitted by Councillor P. Doyle
@@ -311,4 +324,6 @@ issues in residential areas outside of the core central business district.
 34. Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

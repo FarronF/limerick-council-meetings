@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202016.pdf)
+**Original file:** [Minutes of Meeting of Metropolitan District of Limerick - 21st March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,** **21ST** **MARCH, 2016, AT**
@@ -90,7 +91,9 @@ Limerick Chamber and in relation to the hospitality strand of the Chamber highli
 of strategic action points which included :
 
  The representation of Limerick Chamber on key Council Committees to assist in driving the
----
+
+[[PAGE_END:1]]
+
 2
 
 economic revitalisation of the city as a catalyst for the region.
@@ -174,7 +177,9 @@ their views in relation to a range of issues pertinent to the city.
  Suggestions in relation to the appointment of a city centre manager were positive but
 
 support staff would also be required.
----
+
+[[PAGE_END:2]]
+
 3
 
 In response to issues raised by Members, Dr. Ring made the following points :
@@ -252,7 +257,9 @@ In response to queries raised by Members in relation to the Cleeves Site, the Se
 noted that the main building, the chimney and a reservoir were listed and that other parts that
 
 merited conservation would be conserved.
----
+
+[[PAGE_END:3]]
+
 4
 
 **4.**
@@ -348,7 +355,9 @@ of Environment, Community and Local Government that approval in principle has
 been granted for a new Central Library for Limerick under the new Library Capital
 
 Investment Programme 2016 – 2021.
----
+
+[[PAGE_END:4]]
+
 5
 
 This decision now enables the Council to proceed to consider a concept design for
@@ -450,7 +459,9 @@ certified marathon, a half marathon and a 6 mile run/walk and relay marathon.
 7th May
 
 The University of Limerick Orchestra present their annual Summer Proms Concert
----
+
+[[PAGE_END:5]]
+
 6
 
 under the baton of Conductor Liam Daly. The concert programme features Grieg’s
@@ -534,7 +545,9 @@ festival.
 ***arrangement so as to fast track the provision of social housing on suitably zoned land in the***
 
 ***Council’s ownership.***
----
+
+[[PAGE_END:6]]
+
 7
 
 In proposing the motion Councillor Leddin noted that the process involved in the development
@@ -620,7 +633,9 @@ reduced the extent of demolition proposed in the 2008 Regeneration Masterplan.
 In line with the commitment in the LRFIP for monitoring and review of the
 
 programme, a review of the demolition and retention strategy took place in 2015.
----
+
+[[PAGE_END:7]]
+
 8
 
 This review proposes further reduction in the overall number of houses to be
@@ -632,4 +647,6 @@ demolished and will be presented to the Elected Members at the next meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

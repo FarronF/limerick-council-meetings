@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Cappamore%20Kilmallock%20Draft%20Budgetary%20Plan%20Minutes%202017%20%281%29.pdf)
+**Original file:** [Draft Budgetary Plan Minutes - 19th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Cappamore%20Kilmallock%20Draft%20Budgetary%20Plan%20Minutes%202017%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE MUNICIPAL**
 
 **DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGÉ, MILLMOUNT,**
@@ -114,7 +115,9 @@ Proposed by Councillor Teefy;
 Seconded by Councillor Sheehy;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That the Budgetary Plan for Municipal District of Cappamore-Kilmallock for the financial year
@@ -138,4 +141,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

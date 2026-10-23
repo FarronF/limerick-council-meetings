@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_to_consider_the_general_municipal_allocation_9th_october_2014.pdf)
+**Original file:** [Agenda to consider the General Municipal Allocation - Municipal District of Newcastle West - 9th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_to_consider_the_general_municipal_allocation_9th_october_2014_1.pdf)
 
----
+[[FILE_START]]
+
 **Corporate Services.**
 
 **Seirbhísí Corparáideacha.**
@@ -54,4 +55,6 @@ To consider the General Municipal Allocation for the Municipal District of Newca
 for the financial year ending 31st December, 2015.
 
 (Report attached).
----
+
+[[PAGE_END:1]]
+

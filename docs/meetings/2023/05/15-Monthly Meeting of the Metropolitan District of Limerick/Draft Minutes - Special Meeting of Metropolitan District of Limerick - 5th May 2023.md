@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-b-Draft-Minutes-Special-Meeting-of-Metropolitan-District-of-Limerick-5th-May-2023.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Metropolitan District of Limerick - 5th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-b-Draft-Minutes-Special-Meeting-of-Metropolitan-District-of-Limerick-5th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ONLINE VIA MICROSOFT TEAMS ON FRIDAY, 5TH** **MAY, 2023 AT 12.30PM**
@@ -90,7 +91,9 @@ setting out details of proposed disposal of property at 58 St. Lawrence Park, Ga
 Limerick and the intention to bring a Section 183 Notice to Full Council in this regard, for
 
 approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -126,4 +129,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

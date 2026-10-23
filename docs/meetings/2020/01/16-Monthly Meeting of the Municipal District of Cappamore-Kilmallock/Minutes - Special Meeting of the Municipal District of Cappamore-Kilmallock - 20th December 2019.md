@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/03%20Minutes%20Special%20Meeting%20Dec%202019.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 20th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/03%20Minutes%20Special%20Meeting%20Dec%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -60,10 +61,12 @@ extended family, friends, neighbours and community, on their loss.
 
 The Cathaoirleach recalled that the late Michael Barry, who was from Cappawhite, Co.
 Tipperary was originally elected onto the then Limerick County Council in 1974 and served
-with distinction as @ Councillor over the following decades, He paid tribute to Mr Barry
+with distinction as a Councillor over the following decades, He paid tribute to Mr Barry
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 describing him as a gentleman who was very intelligent and performed very effectively as a
@@ -105,4 +108,6 @@ Signed:
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

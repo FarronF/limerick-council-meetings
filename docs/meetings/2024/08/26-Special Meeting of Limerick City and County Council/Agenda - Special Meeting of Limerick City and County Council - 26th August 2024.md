@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/agenda-special-meeting-of-limerick-city-and-county-council-26th-august-2024.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26th August 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/agenda-special-meeting-of-limerick-city-and-county-council-26th-august-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Seirdhisi Corpardideacha,
-ee ; am : Comhairle Cathrach agus Contee Luimnigh,
+Comhairle Cathrach Seirdhisi Corparaideacha,
+ee ; am . Comhairle Cathrach agus Contee Luimnigh,
 
-© Contae Luimnigh Ceanncheathra Chorparaideach,
-ACN . SSS
+& Contae Luimnigh Ceanncheathra Chorparaideach,
+aAnN , SSS
 
-= : Cé na gCeannaithe,
+= , Cé na gCeannaithe,
 
 = — Limerick City Lutmneach
 & County Council
 
-Corporale Services,
+Corporate Services,
 
 Limerick Cty and County Council
 
@@ -42,10 +43,10 @@ Merchants Quay,
 
 Limenck
 
-21% August, 2024. EIRCODE V94 EHSO
+21% August, 2024. EIRCODE V94 EHO
 
-: +383 (0) 61 $S7150
-f: +353 (0) 61415 266
+¢: +383 (0) 61 57150
+f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
@@ -54,7 +55,7 @@ Limerick City and County Council to be held in the Council Chamber, Dooradoyle, 
 on Monday, 26" August, 2024, at 2.30 p.m. The business to be transacted is set out below.
 Is mise le meas,
 
-Moa
+loa
 
 Laura Flannery;
 Meetings Administrator.
@@ -69,8 +70,10 @@ Miscellaneous Provisions Act, 2024.
 
 © ww limerichie
 
-aan eee Ww @LimerickCouncil
+ee ee Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - $$7150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-7th-october-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 7th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-7th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ——
@@ -60,7 +61,7 @@ EIRCODE V94 HKIV
 t: +353 (0) 69 64047
 f: +383 (0) 69 63188
 
-| District of Adare-Rathkeale
+I District of Adare-Rathkeale
 
 A Chomhairleoir, a chara,
 
@@ -73,7 +74,7 @@ Agenda.
 
 Is mise le meas,
 
-Se
+Me
 Karen Buttef,
 Meetings Administrator.
 
@@ -99,18 +100,23 @@ Headquarters, Merchants Quay, Limerick.
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Support Services Directorate
+
 Draft Budgetary Plan 2026 — General Municipal Allocation
+
 To adopt the Draft Budgetary Plan 2026 — General Municipal Allocation for the Adare-
 Rathkeale Municipal District in accordance with Section 102 of the Local Government Act,
-2021 (as amended).
 
+2021 (as amended).
 (Report Enclosed).
+
 Rural, Culture, Community and Tourism Development
-Limerick i Pa
+Limerick Local Community Safety Partnership
 
 To receive a presentation from the Community Safety Coordinator.
 
@@ -132,4 +138,6 @@ To review position in relation to allocations under the General Municipal Alloca
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

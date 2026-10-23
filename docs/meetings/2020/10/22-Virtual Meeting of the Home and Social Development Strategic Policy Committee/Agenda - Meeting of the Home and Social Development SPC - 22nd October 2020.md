@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/agenda-spc-meeting-22-oct-2020.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development SPC - 22nd October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/agenda-spc-meeting-22-oct-2020.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
 **DEVELOPMENT STRATEGIC POLICY COMMITTEE**
@@ -54,4 +55,6 @@ b. Physical Projects Onsite 2021
 a. 2021 Work Programme
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

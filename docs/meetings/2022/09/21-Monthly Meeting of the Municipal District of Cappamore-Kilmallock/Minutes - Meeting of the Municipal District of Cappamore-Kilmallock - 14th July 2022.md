@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/02%20Minutes%20of%2014th%20July%20%20Municipal%20District%20Meeting.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/02%20Minutes%20of%2014th%20July%20%20Municipal%20District%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -80,7 +81,9 @@ of Cappamore-Kilmallock held on 16th June, 2022.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 3. Matters Arising:
 
 There were no matters arising
@@ -134,7 +137,9 @@ housing provision
 The property in question is on the Derelict Sites Register and has been acquired
 
 compulsorily by Limerick City and County Council under the Derelict Sites Act 1990.
----
+
+[[PAGE_END:2]]
+
 A structural assessment has deemed that the unfinished and derelict structure is not suited
 
 to repair and completion. In addition, there are planning/flood risk constraints associated
@@ -204,7 +209,9 @@ Minister Darragh O’Brien recently announced a new funding stream, Measure A8, 
 Multi Annual Rural Water Programme, aimed at assisting in the provision of Waste Water
 
 Treatment Facilities to villages and settlements, **without access to public sewers**.
----
+
+[[PAGE_END:3]]
+
 Local Authorities have been invited to submit a maximum of two proposals for funding under
 
 this measure, accompanied by a Feasibility Study, by September 15th, 2022.
@@ -280,7 +287,9 @@ national/motorway network. The use of these cameras and their appropriateness in
 and villages within the Cappamore-Kilmallock would be premature at present as it is likely
 
 their use would be governed by national policy. Limerick City and County Council will liaise
----
+
+[[PAGE_END:4]]
+
 with both TII and the Dept. of Transport to discuss Cllr. Ryan’s motion and determine the
 
 plans and policy that TII and the DOT may have for their use in the future.
@@ -354,7 +363,9 @@ Kilmallock later this year. As part of this process detailed analysis will be un
 including the consideration of existing zoned lands, to determine the future development
 
 needs of the town in line with the requirements of the recently adopted Limerick
----
+
+[[PAGE_END:5]]
+
 Development Plan 2022-2028. The team will engage regularly with the Elected Members of
 
 the Cappamore/Kilmallock Municipal District throughout the process.
@@ -422,7 +433,9 @@ the workload at the time and the nature and extent of works required.
 As at July 7th Housing Maintenance have 5 units in the process of being returned through
 
 pre-lets/voids:
----
+
+[[PAGE_END:6]]
+
 o 2 have been returned and to be inspected
 
 o 3 on-site and works are progressing with completion dates over the next month
@@ -516,7 +529,9 @@ Cases Closed
 *provided in October/November on the Housing maintenance programme again, including a*
 
 *workshop on voids.*
----
+
+[[PAGE_END:7]]
+
 14.
 
 Question submitted by Councillor Mitchell
@@ -582,10 +597,14 @@ Next Meeting
 The date for the next meeting of the Cappamore Kilmallock District was agreed by the
 
 Elected Members as Wednesday 21st September at 3pm in Deebert House Hotel.
----
+
+[[PAGE_END:8]]
+
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:9]]
+

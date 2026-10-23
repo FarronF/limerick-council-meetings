@@ -16,30 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20agenda_february_2015.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District - 16th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20agenda_february_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-en Seirohisi Corparaideacha agus Bainistiocht Athruithe,
+ee Seirohisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AN ~ Cé na gCeannaithe,
 
-; —_ Luimneach
+; —— Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
 COUNCIL Levee
 
-" t: +353 (0) 61 407 100
+. t: +353 (0) 61 407 100
 
 11° February, 2015. f; +353 (0) 61 415 266
 
 To: The Mayor and each Member of the Metropolitan District of Limerick
 
-A Chombhairleoir, a chara,
+A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in
 
@@ -47,12 +48,12 @@ the Council Chamber, Merchant’s Quay, Limerick, on Monday, 16'" February, 2015
 9.45 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le maas,
-a
+Or
 
 uggne Griffin
 Meetings Administfator
 
-een ew eee eee n nee e nena enn n nce nnn nese eee e en eee RRR EE RRR REE R Ee RRR R REE R SSR eRe EEE REE E REE E EEE e
+ee eee aaa al
 
 AGENDA
 
@@ -78,14 +79,16 @@ Limerick City and County Council.
 consideration of 8 Beechgrove Avenue, Ballinacurra Weston, being transferred
 to Limerick City and County Council.
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www.limerickie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www .limerickie
 Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-3;
+3:
 
 4.
 
@@ -142,7 +145,9 @@ To consider Report on Derelict Sites in the Metropolitan Area 2015.
 (Report to follow).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -186,7 +191,9 @@ entrance of The Grange, Raheen and Church Road entering the R510 to allow local
 traffic drive on to this busy road safely.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -216,7 +223,7 @@ areas.
 
 Notice of Motion submitted by Councillor Joe Crowley
 
-| will move at the next meeting that the Council provide a "Prayer Garden” in the city
+I will move at the next meeting that the Council provide a "Prayer Garden” in the city
 as a place where people experiencing tragic loss or those who are in despair can
 come to visit in privacy. With suicide so prevalent in Limerick, this would be a
 location not only for victims but may indeed provide a sanctuary for those who may
@@ -237,7 +244,7 @@ Notice of Motion submitted by Councillor John Gilligan
 | will move at the next meeting that this Council remove, or have removed, the
 rubbish dump which lies between the Castle Wall and the river.
 
-Notice of Motion submitted by Cmhir. Séighin 6 Ceallaigh
+Notice of Motion submitted by Cmhir. Séighin 0 Ceallaigh
 
 | will move at the next meeting that the Council hold an ‘Oiche Gaeilge’ or ‘Irish
 Language Night’ in City Hall between 1st and 16th March 2015 as part of Seachtain
@@ -247,7 +254,9 @@ held annually during Seachtain na Gaeilge. The event should be open to all,
 whether fluent speakers or beginners, wishing to improve their Irish.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -297,4 +306,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-10th-february-2026.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-10th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **3rd February 2026**
@@ -80,4 +81,6 @@ Engagement - KEO Consultants – Edward Wilkins.
 environmental legacy to the Ryder Cup – Cathal Brodie, Senior Executive Scientist.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

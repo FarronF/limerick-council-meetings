@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210401-agenda-travel-transportation-spc-meeting-20.04.21.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 20th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210401-agenda-travel-transportation-spc-meeting-20.04.21.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **14thApril, 2021**
@@ -51,7 +52,9 @@ business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -107,7 +110,9 @@ pollution all have a significant negative impact on outdoor spaces.
 What plans, if any, are in progress for Limerick City Centre and county town centres
 
 for covid mobilty, walking and cycling and pedestrianisation of streets for outdoor
----
+
+[[PAGE_END:2]]
+
 3
 
 dining, performance and urban animation? How are LCCC engaging with business
@@ -151,4 +156,6 @@ route?”
 **7.b**
 
 **Presentation by The Limerick Pedestrian Network - Three Bridges Walking Route**
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%20Minutes%2010th%20October%2C%202017.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Adare-Rathkeale - 10th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%20Minutes%2010th%20October%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -86,7 +87,9 @@ Executive Engineer, Service Operations West Division examine the corroded vent p
 and engage with Irish Water in relation to same and highlighted the need for private
 
 houses to ensure that their sewerage connections were properly vented.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members raised the ongoing need for greater Garda resources to be allocated to the
@@ -160,7 +163,9 @@ headings:
 • The Roof Project
 
 • Team Limerick Clean Up
----
+
+[[PAGE_END:2]]
+
 3
 
 • Limerick Going for Gold
@@ -232,7 +237,9 @@ Municipal District of Adare-Rathkeale should now set up such a sub committee tha
 would meet quarterly with the local Garda Superintendent and the District PPN
 
 Representative on the JPC.
----
+
+[[PAGE_END:3]]
+
 4
 
 Following discussion it was agreed that such meetings should be held at 9.00 a.m. on the
@@ -304,7 +311,9 @@ dated 5th October, 2017 which was noted by Members.
 **I will move at the next Meeting that this District writes to Transport Infrastructure**
 
 **Ireland (TII) and request that an Island to be put in place for the crossing on the road**
----
+
+[[PAGE_END:4]]
+
 5
 
 **from the N21 onto the L1427. This junction is located at the Limerick side of the**
@@ -376,7 +385,9 @@ hoped to complete the survey before the end of the year.
 **(TII) provide an update on my Motion to install traffic route lighting in the vicinity of**
 
 **the Kilcornan primary school and entrance to the Ger McDonnell all-weather playing**
----
+
+[[PAGE_END:5]]
+
 6
 
 **facility and Kilcornan Community Centre, together with enhanced traffic calming and**
@@ -450,7 +461,9 @@ Correspondence, as circulated, was noted by Members.
 At the conclusion of the Agenda and with the consent of the Cathaoirleach the following
 
 issues were raised by Members:
----
+
+[[PAGE_END:6]]
+
 7
 
 • It was noted that horses had been moved from a site at Abbeycourt, Rathkeale
@@ -526,7 +539,9 @@ provision of sites.
 Councillor Sheahan referred to previous discussion regarding the provision of
 
 affordable sites in Adare and noted that he had been informed that a policy in
----
+
+[[PAGE_END:7]]
+
 8
 
 this regard would have to be developed. Councillor Sheahan put forward a
@@ -582,4 +597,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

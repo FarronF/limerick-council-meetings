@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 11th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 AD
 
-. —-
+. ——-
 Limerick
 CITY & COUNTY
 
@@ -31,7 +32,7 @@ COUNCIL
 
 7” April, 2016.
 
-Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 Cé na gCeannaithe,
@@ -60,9 +61,9 @@ Is mise le meas,
 
 Meetings Administrator.
 
-AGENDA
-
 1. Minutes
+
+AGENDA
 
 To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 9" March,
 
@@ -75,14 +76,16 @@ To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on
 To receive Deputation from the Community Crisis Response Team (Item to be taken at 9.15 a.m.
 and Caitriona Mc Mahon and Kayla Cooley to attend).
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach 1
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 1
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ customerservices@limerickie
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development & Planning
@@ -126,7 +129,9 @@ Rathkeale District in order that basic road maintenance standards can be achieve
 in the interest of public health and safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -160,7 +165,7 @@ County.
 
 Notice of Motion submitted by Councillor S. Keary
 
-1 will move at the next Meeting that Limerick City and County Council should, as a matter of
+| will move at the next Meeting that Limerick City and County Council should, as a matter of
 urgency, relinquish all rights to protected burial grounds in the Adare-Rathkeale District, as it
 appears to be not willing or able to manage and maintain the upkeep of same to a minimum
 standard that benefits the owners and the deceased occupiers of these cemeteries.
@@ -182,7 +187,9 @@ misbehaviour of significant numbers of people in Askeaton, that Askeaton Garda S
 be fully staffed at the first available opportunity.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -198,4 +205,6 @@ detection of rural crime.
 Correspondence
 
 
----
+
+[[PAGE_END:4]]
+

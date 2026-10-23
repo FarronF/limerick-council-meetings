@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 24th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -98,7 +99,9 @@ and online.
 **Proposed:** Cllr. Joe Leddin
 
 **Seconded:** Cllr. Noreen stokes
----
+
+[[PAGE_END:1]]
+
 **Item 2: Matters arising from the Minutes**
 
 No matters arising from previous minutes.
@@ -166,7 +169,9 @@ Ms. Newell said that we can suggest that the seller sells to a First Time Buyer,
 able to control this as they are selling on the private market.
 
 Cllr. Sharon Benson advised that she is happy to support the changes on temporary basis.
----
+
+[[PAGE_END:2]]
+
 Cllr. Maria Donoghue asked to confirm how anyone interested would access Private Rightsizing
 
 schemes. Ms. Newell explained that we have a register of interested applicants and when a scheme
@@ -238,7 +243,9 @@ principle of rents being related to household income. In the light of the forego
 recommended that this motion be put on hold pending the outcome of the exercise currently being
 
 undertaken by the Minister, until national guidance is available.
----
+
+[[PAGE_END:3]]
+
 The members outlined that it is unfair to include carers allowance as income in determining
 
 differential rent and felt as though the National Review would take too long and asked if clarity
@@ -274,4 +281,6 @@ advance of the SPC meeting to add items to the agenda.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meeting.
 
 **END OF MEETING**
----
+
+[[PAGE_END:4]]
+

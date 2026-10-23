@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_18th_march_2015.pdf)
+**Original file:** [Agenda - Special Meeting of Municipal District of Newcastle West - 18th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_18th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh
 
-a Cé na gCeannaithe.
-. —-_ Luimneach
+~~ Cé na gCeannaithe,
+. —- Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council
 COUNCIL a Guay
@@ -49,31 +50,29 @@ Athletics Facility at Killeline, Newcastle West as set out in the attached Requi
 Meetings Administrator.
 
 @ customerservices@limerick.te
-Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Luimneach ;
-Corporate Headquarters, Merchants Quay, Limerick xg GlinetdiGounal
+Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Lutmmeach
+Corporate Headquarters, Merchants Quay, Limerick xg clinetdiGounaa
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-fais”
+of 3
+ie Cites Absit bof uae
+da.anan I Naito Nerf
+fs be uf loins le (yng.
+ole dhe. S80 000 fo Ke
+4 .
 
-ke Ces Ptbett tof I Buaspl
-ABN Uxglar nth RO :
-his. Rind Npite the wl ot
-Site it ‘inet Te erring
-é Spredd Wuche§ }» we
-lwidhe. €S0 2000 fo KE.
+UNM ng Nowe hm Nes”
 
-Rpm ARhS eetly af
-j .
+J lai 7e~
 
-Verne = Noweeh le Nes”
-
-fe nko
-
-bi Ay 7
 Cie Fyn
 
 
----
+
+[[PAGE_END:2]]
+

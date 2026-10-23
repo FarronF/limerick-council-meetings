@@ -30,9 +30,9 @@ Minutes - Full Meeting of Limerick City and County Council - 26th March 2018.pd
 
 Minutes Special Council Meeting - Full Meeting of Limerick City and County Council - 10th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20%28ii%29%20Minutes%20Special%20Meeting%20100418.pdf) - [Extracted text](./Minutes%20Special%20Council%20Meeting%20-%C2%A0Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2010th%C2%A0April%202018.md)
 
-Disposal of Land_ Dromdarrig, Mungret, Co. Limerick - Full Meeting of Limerick City and County Council - 28th May 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%20%28a%29%20Disposal%20of%20Land%20-%20%20Dromdarrig%2C%20Mungret%20%280.0314%20hectares%29.pdf) - Text not extracted
+Disposal of Land: Dromdarrig, Mungret, Co. Limerick - Full Meeting of Limerick City and County Council - 28th May 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%20%28a%29%20Disposal%20of%20Land%20-%20%20Dromdarrig%2C%20Mungret%20%280.0314%20hectares%29.pdf) - Text not extracted
 
-Disposal of Land_ Dromdarrig, Mungret, Co. Limerick - Full Meeting of Limerick City and County Council - 28th May 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%20%28b%29%20Disposal%20of%20Land%20-%20Dromdarrig%2C%20Mungret%20%280.1015%29.pdf) - Text not extracted
+Disposal of Land: Dromdarrig, Mungret, Co. Limerick - Full Meeting of Limerick City and County Council - 28th May 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%20%28b%29%20Disposal%20of%20Land%20-%20Dromdarrig%2C%20Mungret%20%280.1015%29.pdf) - Text not extracted
 
 Disposal of Land - 18 Woodvale, Foynes - Full Meeting of Limerick City and County Council - 28th May 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%20%28c%29%20Disposal%20of%20Land%20-%2018%20Woodvale%2C%20Foynes.pdf) - Text not extracted
 

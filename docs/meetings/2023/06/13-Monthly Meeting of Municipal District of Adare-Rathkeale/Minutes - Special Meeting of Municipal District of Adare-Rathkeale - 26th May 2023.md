@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-of-Special-Meeting-of%20Municipal-District-of-Adare-Rathkeale-26th-May-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare-Rathkeale - 26th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-of-Special-Meeting-of%20Municipal-District-of-Adare-Rathkeale-26th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK**
@@ -90,7 +91,9 @@ bottled water while the Boil Water Notice remains in effect is extensive. Mr
 O’Brien, Uisce Éireann advised approximately 7,000 customers are currently
 
 affected and regular updates are provided on local media outlets as well as on
----
+
+[[PAGE_END:1]]
+
 Uise Éireann’s website www.water.ie. He further advised vulnerable customer
 
 who have registered their details with Uisce Éireann will be directly contacted.
@@ -130,4 +133,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

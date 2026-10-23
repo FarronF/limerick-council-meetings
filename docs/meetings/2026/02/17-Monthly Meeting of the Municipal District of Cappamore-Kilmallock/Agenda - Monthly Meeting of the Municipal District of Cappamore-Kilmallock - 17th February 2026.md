@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-february-2026.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-“i Comhairle Cathrach
+_ .—-— Comhairle Cathrach
 & Contae Luimnigh
-“a i ‘\
+“ao i ‘“
 
 — Limerick City
 
@@ -33,9 +34,9 @@ Comhairle Cathrach agus Contae Luimnigh.
 Oifig an Cheantair, Aras Mhawrchin Seoighe,
 Cill Moch
 
-Co. Lurnnigh,
+Co. Luvrnnigh,
 
-Limerxk City and Courity Council,
+Limerick City and Courity Council,
 Avas Mairichin Seoighe Area Office,
 Kamatliock.
 
@@ -64,21 +65,25 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 
 15th January, 2026.
 
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, aia iataatn Seclafes
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, aia iaiacin Seclafes
 Limerick City and County Council, Aras Mainchin Seoighe Area
 
 (Copy enclosed)
 
-© customerservices@limerickie
-© wwwilimerickie
+& customerservices@limerickie
+© wwwlimerickie
 
 W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+2.
 
 3.
 
@@ -93,7 +98,7 @@ Housing Delivery Progress Update.
 Questions
 Question submitted by Councillor Conway
 
-| will ask at the next Meeting of the Cappamore-Kilmallock Municipal District
+| will ask at the next Meeting of the Cappamore-Kilmallock Municipal! District
 for an update to my previous motion for traffic calming measures and extra
 street lighting in Fairyfield , Kilmallock.
 
@@ -123,7 +128,9 @@ footpath from Bellview on the Glenfield Road and if this is included for Active
 Travel funding.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
@@ -170,7 +177,9 @@ that an inspection be carried out at the 3 entrance roads to Kilmallock town in
 relation to traffic calming, R518 — Bruree, R512 — Bruff and the R515 — Elton.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Notice of Motion submitted by Cllr Carey
@@ -185,10 +194,12 @@ pedestrian footbridge at Gotoon Bridge, Kilmallock.
 that Limerick City and County Council progress the installation of lights for
 pedestrians along the new footpath in Pallasgreen on the N24 between the
 village and past St Anthony's to Mount Catherine Road. If Transport
-Infrastructure Ireland (TI!) will not allow full street lighting, that pedestrian
+Infrastructure Ireland (TI) will not allow full street lighting, that pedestrian
 illumination posts would be considered.
 
 16. A.O.B
 
 
----
+
+[[PAGE_END:4]]
+

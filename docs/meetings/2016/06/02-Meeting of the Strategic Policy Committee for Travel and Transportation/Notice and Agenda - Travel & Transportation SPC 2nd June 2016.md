@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Notice%20and%20Agenda%20-%20Travel%20%26%20Transportation%20SPC%202nd%20June%202016.pdf)
+**Original file:** [Notice and Agenda - Travel & Transportation SPC 2nd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Notice%20and%20Agenda%20-%20Travel%20%26%20Transportation%20SPC%202nd%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a,
 
-——=—
+———
 Limerick
 
 CITY & COUNTY
@@ -38,17 +39,19 @@ You are requested to attend a Meeting of the Travel and Transportation Strategic
 Committee to be held in the Council Chamber, Merchants Quay, Limerick, on Thursday 2"
 June, 2016 at 10:30a.m. The business to be transacted is set out in the appended agenda.
 
-Signed: aan hi ‘
+Signed: nee hi ‘
 
 CHAIR OF THE TRAVEL & TRANSPORATION STRATEGIC POLICY COMMITTEE
 
-— Whcbare—__.
+— Whcbare__
 
 DIRECTOR OF SERVICE,
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
@@ -56,7 +59,7 @@ Agenda
 . Minutes
 
 To adopt the minutes of the Meeting of the Travel and Transportation Strategic Policy
-Committee Meeting held on the 9" November 2015.
+Committee Meeting held on the 9"° November 2015.
 
 (Copy Enclosed)
 
@@ -75,4 +78,6 @@ nsi ion of poli
 . Any Other Business
 
 
----
+
+[[PAGE_END:2]]
+

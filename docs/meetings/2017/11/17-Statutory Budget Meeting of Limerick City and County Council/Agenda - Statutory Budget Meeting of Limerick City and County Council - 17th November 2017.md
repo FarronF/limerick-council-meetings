@@ -16,25 +16,42 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Budget%20Meeting%20171117.pdf)
+**Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council - 17th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Budget%20Meeting%20171117.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach _ — oa
-a & Contae Luimnigh alata neces imnig
-XE ‘ Cé na gCeannaithe.
-—_ Limerick City taavreach
-& County Council ee
-Limerick City and County Council,
-Corpora
+<—
 
-8th November, 2017. EIRCODE V94 EH90
+—
+
+Seirbhisi Corparaideacha,
+
+Comhairle Cathrach ; ,
+Comhairle Cathrach Contae Luimnigh.
+& Contae Luimnigh ne Ceanncheathré Chorpa rdideach
+————— Cé na gCeannaithe.
+Limerick City Luimneach
+
+ncil
+
+& County Counc Corporate Services
+Limerick City and County Council.
+Corporate Headquarters,
+Merchants Guay.
+Limerick
+EIRCODE V94 EH90
+
+8th November, 2017.
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-To: The Mayor and Each Member of Limerick City and _
+Comma eetted Cocapertalees Ch pag senate aeeen vai
+Corporate Headquarters, Merchants Quay, Limerick
+
+To: The Mayor and Each Member of Limerick City and
 County Council
 
 A Chomhairleoir, a chara,
@@ -66,14 +83,17 @@ Government Reform Act, 2014.
 (Draft Chief Executive's Budget Report and Tables Enclosed,
 including Capital Programme 2018-2020)
 
-@ customerservices@limerick.ie
+ie
 
 © wawiimerickie
-Ceanncheathni Chorpardideach, Cé na pn Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
+LimerickCouncit
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . To determine the proportion of commercial rates refund that applies on vacant
@@ -104,7 +124,7 @@ by Section 43 of the Local Government Reform Act, 2014.
 (Copy of proposed Tourism Sector Support Scheme 2018 Enclosed)
 
 . To consider the adoption of Business & Retail Incentive Scheme for Vacant
-Property from 01/01/2018 until 31/12/2018 in accordance with Section 66 of
+Property from 01/04/2018 until 31/12/2018 in accordance with Section 66 of
 the Local Government Act, 2001, as amended by the Local Government
 Reform Act, 2014 subject to finances available.
 
@@ -112,4 +132,6 @@ Reform Act, 2014 subject to finances available.
 2018 Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

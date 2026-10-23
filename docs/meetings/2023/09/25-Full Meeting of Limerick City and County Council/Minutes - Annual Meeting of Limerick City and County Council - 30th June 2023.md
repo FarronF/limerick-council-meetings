@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-a-Minutes-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
+**Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-a-Minutes-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND
@@ -88,7 +89,9 @@ District Offices, and outdoor staff, for their work on a daily basis for all of 
 the staff in Corporate Services for their support during the year and in particular, Eleanor
 
 Buckley, in the Mayor’s Office who kept his diary going at all times.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Mayor noted all the many special moments and events during his year as Mayor and he
@@ -160,7 +163,9 @@ I wish to thank my proposer Cllr John Sheahan and seconder Cllr John Egan for pr
 for the position of Mayor of the City and County of Limerick and I want to thank all those who
 
 have supported me in the election today.
----
+
+[[PAGE_END:2]]
+
 3
 
 I intend to make investment in rural communities a priority during my term, as more needs
@@ -230,7 +235,9 @@ appointed.”
 As there were no other nominations the Mayor declared Councillor McSweeney elected as
 
 Deputy Mayor of the City and County of Limerick and congratulated him on his election.
----
+
+[[PAGE_END:3]]
+
 4
 
 The incoming Deputy Mayor, Councillor McSweeney, then addressed the Meeting:
@@ -302,4 +309,6 @@ Signed:
 Mayor
 
 Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

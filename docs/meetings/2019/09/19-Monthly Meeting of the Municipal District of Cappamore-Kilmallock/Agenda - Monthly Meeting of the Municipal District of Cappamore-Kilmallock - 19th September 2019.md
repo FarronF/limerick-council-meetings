@@ -16,24 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20Sept%202019%20MD%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20Sept%202019%20MD%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-
-2 o antatr, Aras Mhaine Seoighe,
-
-———— aed tubenien Ovig an Cheantai 5 ee
-aoe 7 ~ — ye
+3 o. aritair, Aras } mvc Seoighe,
+——— & Contae aah Ovig an Cheantsi s eae
 
 — | Limerick City Co. Luinmigh.
 & County Council
 
 Limerick City and County Council.
-Aras Mainchén Seolgne Area Office,
-K@rnallock,
+Aras Mainchén Seolgie Area Office,
+Kamnallock,
 
 Co. Limerick.
 
@@ -44,13 +42,14 @@ f: +353 (0) 63 985 99
 
 13" September, 2019.
 
-A Chomhairleoir, a chara,
+A Chombhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 19th
 September, 2019 at 3.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
+Is mise le meas,
 
 Mark Leahy,
 Meetings Administrator.
@@ -70,13 +69,15 @@ Cappamore-Kilmallock held on the 23rd July, 2019.
 
 Disposal of Property
 
-To note proposal for the disposal of property at Doon South, Doon, Ge chlesattevicenetimericte
+To note proposal for the disposal of property at Doon South, Doon, ecblsatteyicenetimericte
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
 
-Limerick City and County Council, Aras Mainchin Seoighe Area Office Report enaalrieas suieesss
+Limerick City and County Council, Aras Mainchin Seoighe Area Office Report end aarieae cules ss
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Community Development Directorate
@@ -100,7 +101,7 @@ Roads.
 Delegation to meet Transport Infrastructure Ireland (TI)
 
 To confirm items for discussion from the Municipal District at forthcoming meeting with
-Til in Dublin.
+Tit in Dublin.
 6. Support Services Directorate
 ipal Di R i
 
@@ -112,7 +113,9 @@ To note Housing Progress Report from the Director of Services, Housing Developme
 Directorate dated 4" September, 2019.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Notice of Motion submitted by Councillor John Egan
@@ -153,7 +156,9 @@ the traffic calming measures being installed in Hospital, which was highlighted 
 previous Municipal District meetings in the interest of safety for all road users.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor John Egan
@@ -162,7 +167,7 @@ twill ask at the next Meeting of the Municipal District for a progress update on
 social housing units proposed for the Old Creamery Yard in Cappamore.
 14.Question submitted by Councillor John Egan
 
-! will ask at the next Meeting of the Municipal District as to how many of the sewage
+| will ask at the next Meeting of the Municipal District as to how many of the sewage
 plants in the Municipal District are at full capacity and how many need to be upgraded.
 
 15.Question submitted by Councillor Martin Ryan
@@ -183,4 +188,6 @@ tenants
 Speed Ramp/Cushion be installed on the RS13 in Caherconlish.
 
 
----
+
+[[PAGE_END:4]]
+

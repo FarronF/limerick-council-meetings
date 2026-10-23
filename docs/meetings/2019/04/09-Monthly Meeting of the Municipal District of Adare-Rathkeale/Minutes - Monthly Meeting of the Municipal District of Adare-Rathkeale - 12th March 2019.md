@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Minutes%2012th%20March%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Minutes%2012th%20March%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -90,7 +91,9 @@ Ms. Sparling, The Manor Fields, then addressed the Meeting. She thanked Members 
 their support and briefed Members on the progress of the Manor Fields project to date
 
 and went on to say the facility, which will be operating ten years this summer, is a regional
----
+
+[[PAGE_END:1]]
+
 2
 
 facility for various sporting organisations. The opening of the astro pitch has been a
@@ -162,7 +165,9 @@ representatives of the owners of a significant number of properties in the estat
 discussions are taking place with the owners in relation to a site resolution plan for the
 
 estate.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following discussion, Members asked what update there was on the infrastructure,
@@ -232,7 +237,9 @@ setting out the update on the footpath from Kildimo to the Beer Garden Public Ho
 Members were all in agreement should the Compulsory Purchase Order be commenced
 
 it would progress the scheme to a conclusion.
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.**
@@ -306,7 +313,9 @@ March, 2019 setting out the position in relation to the taking in charge of An C
 Pallaskenry.
 
 Proposed by Councillor O’Brien;
----
+
+[[PAGE_END:4]]
+
 5
 
 Seconded by Councillor Sheahan;
@@ -372,7 +381,9 @@ to allocate the following:
 **I will move at the next Meeting the Property Department of Limerick and City and**
 
 **County Council attend the March Adare-Rathkeale Municipal District Meeting to give**
----
+
+[[PAGE_END:5]]
+
 6
 
 **an adequate explanation as to its reason for the sale of all the Council land at**
@@ -414,4 +425,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

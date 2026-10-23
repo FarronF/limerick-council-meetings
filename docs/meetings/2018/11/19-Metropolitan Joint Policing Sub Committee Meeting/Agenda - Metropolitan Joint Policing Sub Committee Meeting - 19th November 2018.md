@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/agenda%20met%20jpc%20meeting%2019%20nov.pdf)
+**Original file:** [Agenda - Metropolitan Joint Policing Sub Committee Meeting - 19th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/agenda%20met%20jpc%20meeting%2019%20nov.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: Seirdnnisi Corparéideacha,
-_—_—_ Pehle anlar ol Comhairle Cathrach agus Contae Luimnigh.
+: Seirdhnisi Corparéideacha,
+_———_— ache onl era ol Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnig Ceanncheathru Chorparaideach,
 
-N7N 2 5 5 Cé na gCeannaithe.
+NC7N Fi 5 5 Cé na gCeannaithe.
 —> Limerick City Luimneach
 & County Council
 Corporate Services.
@@ -42,7 +43,7 @@ f: +353 (0) 61 415 266
 
 TO EACH MEMBER OF METROPOLITAN JOINT POLICING SUB COMMITTEE
 
-ot teeeeeeeee
+ot teeceeeee
 
 AChara,
 
@@ -77,10 +78,12 @@ approaching the pedestrian crossing.
 
 =m customerservices@limerickic
 
-© vewwilimerickie
+@ vewwilimerickie
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

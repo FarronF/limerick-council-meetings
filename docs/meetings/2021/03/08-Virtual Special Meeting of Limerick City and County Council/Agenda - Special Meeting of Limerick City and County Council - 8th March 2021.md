@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-council-meeting-08.03.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 8th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-council-meeting-08.03.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach
+ail Comhairle Cathrach
 & Contae Luimnigh
-nfo™ —_—__—
-—= Limerick City
+nfo —_—_—___——
+—> Limerick City
 & County Council
 
 2" March, 2021.
 
 Sewbhisi Corparaideacha,
 
-Cormnarte Cathvach agus Contae Luimnigh,
+Cormnarte Catihvach agus Contae Luimnigh,
 Ceanncheathna Chorpardidesch,
 
 Cé na gCeannathe,
 
-ladmneach
+Ladmneach
 
 Corporate Services,
 
@@ -63,9 +64,9 @@ the Limerick Leader newspaper.
 
 Is mise le meas,
 
-@—
+@
 
-Oo
+oo
 James Clune,
 Meetings Administrator.
 
@@ -80,7 +81,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 %
@@ -98,4 +101,6 @@ Clir. Fergus Kilcoyne
 Cllr. Eddie Ryan
 
 
----
+
+[[PAGE_END:2]]
+

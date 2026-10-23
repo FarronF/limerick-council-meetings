@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda.pdf)
+**Original file:** [Agenda - Special Meeting Municipal District of Newcastle West - 20th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 _—_—_—_— Comhairle Cathrach agus Contae Luimnigh,
 
-ANF ~ Cé na gCeannaithe,
+AIN«F ~ Cé na gCeannaithe,
 — Luimneach
 
-. .
+* .
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and County Council,
+CITY § COUNTY Limerick City and County Council,
 Merchants Quay,
-COUNCIL Sanaa
+COUNCIL farartek
 th t: +353 (0) 61 407 100
-15° July, 2016 f: +353 (0) 61 415 266
+15" July, 2016 f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and each Member of the Municipal District of Newcastle West
 A Chomhairleoir, a chara,
@@ -55,9 +56,11 @@ AGENDA
 
 To receive deputation from Killeline Leisure Centre.
 
-& customerservices@limerick.ie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach & wevew limerick.ie
+& Customerservices@limerick.ie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach @ wewew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

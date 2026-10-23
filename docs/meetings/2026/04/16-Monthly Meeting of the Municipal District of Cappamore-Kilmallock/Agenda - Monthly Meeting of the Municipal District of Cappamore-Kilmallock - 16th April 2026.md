@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-april-2026.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Olfg an Cheantair, Aras Mhainchin Seoighe
 
-ae Gill Mochealég.
+me Gill Mochealég.
 
-av; Co. Lutmnigh.
+~; Co. Lutmnigh.
 — Limerick City oes
 & County Council Limerick City and County Council.
 Aras Mainchin Seoighe Area Office,
@@ -62,11 +63,13 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 2. Declaration of Interest
 
 = te
-—— —— ‘Ans ia aa ferme
+—— Glee ‘Ans na ac ferme
 Limerick City and County Council, Aras Mainchin Seoighe Area ve Ceesseoss
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . Pro Services
@@ -89,7 +92,6 @@ Park, Kilmallock, Co. Limerick to IC Motor Factor & Tyres Limited.
 
 . General Municipal Allocation (GMA) Projects 2026
 To consider the General Municipal Allocation (GMA) Projects 2026 for the
-
 Municipal District of Cappamore-Kilmallock.
 
 - Community Initiative Scheme 2026 - General Municipal Allocation (GMA)
@@ -102,13 +104,15 @@ Scheme 2026 — General Municipal Allocations (GMA).
 To formally approve the proposed recipients for a Municipal District Reception in
 May.
 
-. Leader -W. m
+. Leader -W m
 
 Presentation on the Leader Programme 2023-2027 by Shay Riordan, West
 Limerick Resources.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions
@@ -152,7 +156,9 @@ metres approx., combined with the installation of driver feedback signs, along
 with other road safety measures at this location.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Notice of Motion submitted by Clir Conway
@@ -164,4 +170,6 @@ rezoning same for industrial use and advance factories in the Kilmallock area.
 14. A.O.B
 
 
----
+
+[[PAGE_END:4]]
+

@@ -32,15 +32,15 @@ Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 16t
 
 Correspondence regarding Directly Elected Mayor - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/03%20Correspondence%20regarding%20Directly%20Elected%20Mayor%20HPLG-MoSB-00310-2022.pdf) - Text not extracted
 
-Land Disposal_ 10 Cois na Coille, Murroe - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/06%20Proposed%20Disposal%20of%2010%20Cois%20na%20Coille%2C%20Murroe.pdf) - Text not extracted
+Land Disposal: 10 Cois na Coille, Murroe - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/06%20Proposed%20Disposal%20of%2010%20Cois%20na%20Coille%2C%20Murroe.pdf) - Text not extracted
 
-Reply to Question_ Cllr Gerald Mitchell - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Reply%20to%20Question%20Gerald%20Mitchell%20July%20Meeting%202022.pdf) - Text not extracted
+Reply to Question: Cllr Gerald Mitchell - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Reply%20to%20Question%20Gerald%20Mitchell%20July%20Meeting%202022.pdf) - Text not extracted
 
-Reply to Question_ Cllr Martin Ryan - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/2022-07-07%20Reply%20to%20Question%20Cappamore%20Kilmallock.pdf) - Text not extracted
+Reply to Question: Cllr Martin Ryan - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/2022-07-07%20Reply%20to%20Question%20Cappamore%20Kilmallock.pdf) - Text not extracted
 
-Reply to Question_ Cllr Michael Donegan - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Reply%20to%20Question%20M%20Donegan%20July%20Meeting%202022.pdf) - Text not extracted
+Reply to Question: Cllr Michael Donegan - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Reply%20to%20Question%20M%20Donegan%20July%20Meeting%202022.pdf) - Text not extracted
 
-Reply to Question_ Cllr PJ Carey - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Response%20to%20Cllr%20Careys%20questions.pdf) - Text not extracted
+Reply to Question: Cllr PJ Carey - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Response%20to%20Cllr%20Careys%20questions.pdf) - Text not extracted
 
 Responses to Notices of Motion -  Monthly Meeting of the Municipal District of Cappamore - Kilmallock - 14th July 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Responses%20to%20Notices%20of%20Motion%20Cappamore%20Kilmallock%20District%20Meeting%2014th%20July%202022.pdf) - Text not extracted
 

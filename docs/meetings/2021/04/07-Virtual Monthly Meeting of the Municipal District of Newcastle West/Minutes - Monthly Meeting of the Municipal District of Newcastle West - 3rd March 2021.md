@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-03-03-minutes-march.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-03-03-minutes-march.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
@@ -54,10 +55,10 @@ equipment may be used at these Meetings.
 The Cathaoirleach then proceeded with the Meeting by confirming all the Elected Members
 present.
 
-1. Adoption of Minutes
+41. Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
-West, held on 3 February, 2021.
+West, held on 3% February, 2021.
 
 Proposed by: Councillor Collins
 Seconded by: Councillor Ruddle
@@ -68,10 +69,12 @@ And Resolved:
 2. Disposal of Land
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Circulated, report of Head of Property and Community Facilities, dated 11” February, 2021,
+Circulated, report of Head of Property and Community Facilities, dated 11" February, 2021,
 concerning proposal to dispose of property at The Demesne, Newcastle West, Co. Limerick.
 
 Members noted the proposal.
@@ -112,11 +115,13 @@ The Cathaoirleach welcomed the Executive Engineer, Mid West National Road Design
 to the Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Executive Engineer, gave a presentation to the Members on the proposed works on the
-N21 Coolanoran Road Improvement Scheme. The proposed works are in the vicinity of the
+N21 Coolanoran Road improvement Scheme. The proposed works are in the vicinity of the
 Applegreen Service Station,
 
 He stated that the Coolanoran site was identified as a high collision location by the TIl as a
@@ -163,11 +168,13 @@ He made reference to the significant allocation received under Active Travel Mea
 He stated that works under this scheme included footpath widening and other various works
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 including public car park resurfacing at the Demesne, Newcastle West, a pedestrian crossing
-and footpath works at Station Road and Sheehan's Road Newcastle West.
+and footpath works at Station Road and Sheehan’s Road Newcastle West.
 
 Glin village pedestrian improvement works, Athea village pedestrian works, Abbeyfeale
 pedestrian connection works along with Ardagh village improvement works.
@@ -213,7 +220,9 @@ Council on 8" March, 2021. Properties 11 and 12 Cois na Féile, Abbeyfeale are a
 preliminary stages of being purchased by Limerick City and County Council.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -223,18 +232,18 @@ the expected occupancy date. Please note that specific addresses of vacant prope
 be provided based on security and insurance considerations along with privacy concerns and
 social intervention of subsequent tenants.
 
-| delayed due to Covid-19.
+|delayed due to Covid-19.
 Once completed Housing
 Maintenance Direct Labour to
 complete
 
-LCCC Stock | Type | Level of | Update Expected Vacant
+LCCC Stock | Type | Level of | Update Expected | Vacant
 
 In Works Completion Since
 
 Abbeyfeale
 
-Unit 1 ‘bed | Category 4 | Contractor delayed due to | Early March | 02/01/2017 |
+Unit 1 "bed | Category 4 | Contractor delayed due to | Early March | 02/01/2017 |
 Covid-19
 
 Unit 2 3 bed | Category 4 | Contractor delayed due to | Early March | 14/11/2016 |
@@ -242,19 +251,19 @@ Covid-19
 
 Unit 3 3 bed | Category 1 | Thermal Upgrade Contractor | EarlyMay | 13/07/2020
 
-Unit4 «3 bed | Category 1 | Assessment/Housing ‘Early May | 04/01/2021 |
+Unit4 __- 3 bed | Category 1 Assessment/Housing | Early May | 04/01/2021 |
 
 Maintenance Direct Labour
 
 Unit 5 |3bed Assessment/Pre tender stage | EarlyMay _| 25/01/2021 |
 
-Category 1 | Assessment/Pre tender stage | N/A 29/06/2020 —
+Category 1 | Assessment/Pre tender stage | N/A 29/06/2020 ©
 — units being completed in
 batches
 
 Unit 7 | 2bed | Category3 Assessment/Pre tender stage | N/A | 29/04/2019
 
-— units being completed in
+= units being completed in
 batches
 
 Unit 8 3 bed Category 4 | Assessment/Pre tender stage N/A : 20/12/2017 |
@@ -285,7 +294,9 @@ March, 2021 under the Derelict Sites legislation. A discussion followed and it w
 Assessment/Funding to be N/A - 20/11/2020 |
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 by Councillor Sheahan and seconded by Councillor Galvin that a pilot scheme for Affordable
@@ -316,7 +327,7 @@ to proceed to preparation of tender documents and the allocation of funding. Thi
 followed up with emails and phone calls but despite our best efforts we do not have Til
 approval or funding to proceed.
 
-Completion of the tender process is dependent on the Tl approval and the completion of
+Completion of the tender process is dependent on the TIl approval and the completion of
 discussions with Irish Water and subsequent design of the necessary water main diversion.
 
 We cannot include the information you requested in items a, b, and c as we do not have TIl
@@ -324,7 +335,7 @@ approval to proceed with preparation of tender documents.
 
 (ii) N21 Devon Cross
 
-Similar to Ward’s Cross, we are endeavouring to secure TIl approval of the recommendation
+Similar to Ward’s Cross, we are endeavouring to secure TI! approval of the recommendation
 to create a staggered junction and for allocation of the necessary funding to allow Barry
 Transportation to proceed with the detail design process and preparation of tender
 documents.
@@ -338,7 +349,9 @@ Again, we cannot provide the specific information requested as this scheme has n
 funding to proceed with the detailed design process.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Question submitted by Councillor J. Scanlan
@@ -373,12 +386,12 @@ that a meeting be held to discuss these matters with the Housing Directorate. It
 agreed that representatives from Water Services would also be invited to attend the Meeting.
 The Meetings Administrator agreed to arrange the meeting.
 
-12. Question submitted by Councillor T. Ruddle
+12. Question submitted by Councillor T. Ruddile
 
 | will ask at the next Meeting that the Council consider speed reduction ramps for the Glebe
 estate Monagea. The residents have signed a petition with over two thirds looking for a
 ramp to slow cars down coming into this estate. It is particularly dangerous with the number
-of small children playing in the estate. Could this be looked at as a priority as itis an accident
+of small children playing in the estate. Could this be looked at as a priority as it is an accident
 waiting to happen.
 
 REPLY: A Speed Survey was carried out in this Estate over a one week period at end
@@ -388,7 +401,9 @@ The recorded speeds do not justify installation of Traffic Calming in accordance
 with Limerick City & County Council's Traffic Calming Policy.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 While there is a very low number of speed violations, the 85%ile recorded
@@ -438,7 +453,9 @@ REPLY: The Active Travel Funding recently announced specifically targets re-allo
 of road space from motorists.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The allocations are directed at footpath widening, pedestrian crossings and
@@ -488,7 +505,9 @@ contractor is required to rectify same prior to Limerick City and County Council
 9
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 taking possession of the building. The Defects Liability Period commences
@@ -526,7 +545,7 @@ and Ardnacrohy Height was requested. In replying, the Senior Executive Engineer 
 a speed survey was undertaken and the results of the survey have been forwarded to An
 Garda Siochana.
 
-It was agreed to hold the April Meeting of the District on Wednesday, 7°" April, 2021, at 10.00
+It was agreed to hold the April Meeting of the District on Wednesday, 7°” April, 2021, at 10.00
 a.m.
 
 This concluded the Meeting.
@@ -539,4 +558,6 @@ Dated:
 10
 
 
----
+
+[[PAGE_END:10]]
+

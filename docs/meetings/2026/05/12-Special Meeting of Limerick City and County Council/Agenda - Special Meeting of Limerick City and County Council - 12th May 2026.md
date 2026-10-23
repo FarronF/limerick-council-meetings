@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-special-meeting-of-limerick-city-and-county-council-12th-may-2026.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 12th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-special-meeting-of-limerick-city-and-county-council-12th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+oa Comhairle Cathrach
 & Contae Luimnigh
 
-AN
+AN ~~
 
 — Limerick City
 & County Council
@@ -39,14 +40,14 @@ Cé na gCeannaithe
 
 Luimneach. V4 B90
 
-Corporate, Governance & Customer Services
+Corporate, Govemance & Customer Services
 Limerick City and County Council
 
 Corporate Headquarters
 
 Merchant's Quay
 
-Limerick, V94 EH90
+Limerick V94 BH90
 
 t: +353 (0) 61557 150
 
@@ -80,11 +81,13 @@ ancillary site works at 1-4 Toll Cottages, Verdant Place, Limerick.
 
 (Report already circulated)
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 
 Corporate Headquarters, Merchant's Quay, Limerick
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

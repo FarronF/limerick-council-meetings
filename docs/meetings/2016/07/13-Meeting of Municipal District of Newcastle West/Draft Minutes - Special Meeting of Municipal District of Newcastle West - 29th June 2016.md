@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20Special%20Meeting%20of%20Municipal%20District%20of%20NCW%20-%2029.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Municipal District of Newcastle West - 29th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20Special%20Meeting%20of%20Municipal%20District%20of%20NCW%20-%2029.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
@@ -65,10 +66,12 @@ contacted and asked to provide the following:
 
 e Audited Accounts for 2015.
 e List of Board Members and their respective titles for the previous 10 years.
-¢ Confirmation of what the funding was required for in 2016.
+e Confirmation of what the funding was required for in 2016.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -116,7 +119,7 @@ West Limerick Community Radio €2,600.
 
 As agreement was not reached the Meetings Administrator indicated that a Vote
 would be taken on the proposal which had been proposed by Councillor Browne and
-seconded by Councillor Scanlan.
+seconded by Councillor Scanian.
 
 The result of the voting was as follows:
 For:
@@ -124,7 +127,9 @@ For:
 Councillors Browne, Foley, Galvin, Sheahan and Scanlan. (5)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Abstentions:
@@ -155,4 +160,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

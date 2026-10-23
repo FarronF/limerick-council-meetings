@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Travel-and-Transportation-SPC-Meeting-27-June-2022.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 27 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Travel-and-Transportation-SPC-Meeting-27-June-2022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **17th June, 2022**
@@ -51,7 +52,9 @@ in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -79,4 +82,6 @@ Tuesday 18th April 2023 @ 3:30 p.m.
 **6.** **Health Benefits arising from implementation of a low noise road surface -**
 
 **Dr. Simon Jennings, A/Senior Executive Scientist**
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-08.07.2024.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 8th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-08.07.2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -86,7 +87,9 @@ A Vote of Sympathy was extended to the family of the late John O’Mahony, RIP, 
 TD and Senator for Mayo, and a well-known sports man. Members remembered John as a
 
 true gentleman and a great GAA person who was very well respected for all he achieved.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -160,7 +163,9 @@ Circulated, copy of Statutory Notice dated 20th May, 2024, concerning disposal o
 property at 9, Boherbue, Rathkeale, Co. Limerick, together with map outlining property
 
 details.
----
+
+[[PAGE_END:2]]
+
 3
 
 Proposed by Councillor Sheahan (J);
@@ -228,7 +233,9 @@ appointment of his Special Adviser, and advised he would revert to the Members w
 updates on the matter as it progressed.
 
 The position was noted by the Members.
----
+
+[[PAGE_END:3]]
+
 4
 
 (c)
@@ -302,7 +309,9 @@ Customer Services dated 3rd July, 2024, enclosing Draft Strategic Policy Committ
 2024-2029, prepared in accordance with the provisions of Section 48 of the Local Government
 
 Act, 2001, as amended by Section 41 of the Local Government Reform Act, 2014.
----
+
+[[PAGE_END:4]]
+
 5
 
 A resolution of the Council was now required to adopt the Draft Scheme. Following
@@ -378,7 +387,9 @@ officio members – the following appointed to the Limerick Market Trustees for 
 year - Councillors Sheahan (J), O’Sullivan (O), Kiely, Butler, McSweeney, Doyle, Ward,
 
 Kilcoyne, Talukder, Slattery, Pond, Hickey-O’Mara, Daly, Donoghue, O’Donovan and Beasley.
----
+
+[[PAGE_END:5]]
+
 6
 
 **(iii)PAUL Partnership**
@@ -442,7 +453,9 @@ The Meetings Administrator advised that the Council was required to consider the
 nomination of 4 Members of Limerick City and County Council to the Board of Limerick 2030
 
 Strategic Development DAC.
----
+
+[[PAGE_END:6]]
+
 7
 
 Proposed by Councillor Sheahan (J);
@@ -502,7 +515,9 @@ Slattery appointed as the second nominee to the LECP Steering Group, the Chair-D
 the Economic Development, Enterprise and Planning Strategic Policy Committee having been
 
 appointed at the Annual Meeting.
----
+
+[[PAGE_END:7]]
+
 8
 
 (f)
@@ -582,7 +597,9 @@ April 2024). It was recommended that the Council adopt the Policy.
 The A/Director, Transportation and Mobility, gave a PowerPoint presentation to the
 
 Members outlining the objectives of the Traffic Calming Policy 2024 as follows:
----
+
+[[PAGE_END:8]]
+
 9
 
  Improve safety on our roads;
@@ -650,7 +667,9 @@ adopted subject to the above amendment.
 was approaching 5.30 p.m. and on the proposed of Councillor Sheahan (J), seconded by
 
 Councillor Slattery, Standing Order No. 4 was suspended in order to complete the agenda.
----
+
+[[PAGE_END:9]]
+
 10
 
 7.
@@ -764,7 +783,9 @@ TG4 and RTE
 Licensing
 
 €5,879.00
----
+
+[[PAGE_END:10]]
+
 11
 
 Garda Charges
@@ -888,7 +909,9 @@ are vacant at the moment and further, have been empty for each of the last 5 yea
 3.7
 
 5,475
----
+
+[[PAGE_END:11]]
+
 12
 
 2021
@@ -1008,7 +1031,9 @@ is increasing month on month as developers and builders begin to understand
 the range of Government subventions available for the delivery of affordable
 
 homes.
----
+
+[[PAGE_END:12]]
+
 13
 
 (b) 95% of successful and eligible affordable housing applicants obtained
@@ -1096,7 +1121,9 @@ together with survey outcomes in due course. There is no
 specific NTE data sets, however this will be built from
 
 relevant data from a variety of publicly available sources.
----
+
+[[PAGE_END:13]]
+
 14
 
  Two online surveys were launched on 25 June 2024 (a business
@@ -1176,7 +1203,9 @@ Question submitted by Councillor S. Hickey-O’Mara
 I will ask at the next Meeting of Limerick Council for an update on the use of chemical
 
 pesticides by Council staff and Council contractors.
----
+
+[[PAGE_END:14]]
+
 15
 
 **REPLY:**
@@ -1264,7 +1293,9 @@ removed manually with pesticide use only employed in inaccessible areas or
 extreme infestations. However, PPP is essential for the control of Japanese
 
 Knotweed and must be retained as an option.
----
+
+[[PAGE_END:15]]
+
 16
 
 The combination of measures outlined above will have the overall impact of
@@ -1336,7 +1367,9 @@ understanding of how the Council works and how and why decisions are taken;
 Encourage engagement – live streaming promotes engagement with young
 
 people using mobile technology. Further the webcasting service can include a
----
+
+[[PAGE_END:16]]
+
 17
 
 feedback page/survey that allows stakeholders to provide information and to
@@ -1418,7 +1451,9 @@ number of complaints to the Gardai and a subsequent investigation.
 Live streaming and recording would involve the processing of personal data of
 
 those attending meetings whose can be seen and heard as well as any
----
+
+[[PAGE_END:17]]
+
 18
 
 individual whose personal data is disclosed. In light of the processing of
@@ -1492,7 +1527,9 @@ O’Donovan, Ryan (E), Secas. **(10)**
 **Abstentions**
 
 **(0)**
----
+
+[[PAGE_END:18]]
+
 19
 
 The Príomh Chomhairleoir declared the proposal to defer the Motion pending the
@@ -1566,7 +1603,9 @@ Notice of Motion submitted by Councillor L. Galvin
 On the proposal of Councillor Galvin, seconded by Councillor Sheahan (J), the Motion
 
 was adopted.
----
+
+[[PAGE_END:19]]
+
 20
 
 17.
@@ -1642,7 +1681,9 @@ be addressed. In response, the A/Director of Support Services advised the Member
 once the Department have completed their review of the Regulations, a workshop will be
 
 arranged in due course to discuss the proposed outcomes with the Elected Members.
----
+
+[[PAGE_END:20]]
+
 21
 
 22.
@@ -1730,7 +1771,9 @@ the County Registrar, the Department of Social Protection, the Department of
 Housing, Local Government and Heritage, An Post and the Elected Members
 
 to improve the accuracy and integrity of the electoral register.
----
+
+[[PAGE_END:21]]
+
 22
 
 23.
@@ -1790,7 +1833,9 @@ MAYOR / DIRECTOR GENERAL ORDERS:
 The Register of Orders made by the Mayor or the Director General up to the date of
 
 the Meeting was available on SharePoint for inspection by the Members**.**
----
+
+[[PAGE_END:22]]
+
 23
 
 PLANNING AND DEVELOPMENT:
@@ -1808,4 +1853,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:23]]
+

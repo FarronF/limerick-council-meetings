@@ -16,12 +16,13 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Draft%20Minutes%20of%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%20-%208th%20Oct%202018.pdf)
+**Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 8th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Draft%20Minutes%20of%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%20-%208th%20Oct%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_ Comhairle Cathrach
+_——_ Comhairle Cathrach
 
 & Contae Luimnigh
 
@@ -35,7 +36,7 @@ Travel and Transportation Strategic Policy Committee.
 
 Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation
 Strategic Policy Committee held on Monday 8" October 2018 at 10:00am in the Council
-Chamber, Merchant's Quay, Limerick.
+Chamber, Merchant’s Quay, Limerick.
 
 Members Present:
 
@@ -59,17 +60,19 @@ Ms Mairéad Corrigan, Staff Officer, Ms. May Fitzgerald, Assistant Staff Officer
 O'Halloran, Clerical Officer.
 
 Before the meeting began, Cllr Lynch proposed and Cllr Daly seconded that a minutes silent
-prayer be observed in memory of Ms Emma Mhic Mhathtna.
+prayer be observed in memory of Ms Emma Mhic Mhathitna.
 
 Item 1: Adoption of Minutes
 
-On the proposal of Cllr. O'Hanlon, seconded by Cllr. Lynch, the minutes of the previous
+On the proposal of Cllr. O’Hanlon, seconded by Cllr. Lynch, the minutes of the previous
 committee meeting held on the 9" April 2018 were unanimously adopted.
 
 Item 2: Presentation on Mobility Management Plans by Limerick Smarter Travel
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 At the suggestion of the Chair, and with the agreement of the Members, this item was
@@ -118,10 +121,12 @@ Meeting)
 roads within this Municipal District”.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-In proposing the Motion, Cllr Galvin said that the proper numbering of all roads was
+In proposing the Motion, Clir Galvin said that the proper numbering of all roads was
 important for the reporting of littering, crime, or road quality issues. He acknowledged that
 regional and some local roads already had road number signs in place, but called for number
 signage for all local roads.
@@ -131,14 +136,14 @@ study, to establish the cost and resource requirements of providing number signs
 roads not already signed, and will revert to the Strategic Policy Committee with the
 outcome of the study.
 
-Cllr Galvin welcomed Mr Murray's response. The Motion was seconded by Cllr Lynch, and
+Cllr Galvin welcomed Mr Murray's response. The Motion was seconded by Clir Lynch, and
 approved by the Members.
 
 Item 5: Notice of Motion submitted by Councillor J. Leddin (deferred from June
 
 2018 Meeting)
 
-“1 will move at the next meeting that Limerick Metropolitan Council review the current
+“| will move at the next meeting that Limerick Metropolitan Council review the current
 use of the Rosbrien Road to Edward Street by Bus Eireann in view of the speed and
 frequency of buses and the growing danger to both elderly and young children living on
 this road.”
@@ -159,7 +164,7 @@ the Motion was approved by the Members.
 
 Item 6: Notice of Motion submitted by Councillor J. Leddin
 
-“| will move at the next meeting that Limerick Metropolitan Council prepare a submission
+“1 will move at the next meeting that Limerick Metropolitan Council prepare a submission
 as part of the NDP2040 to upgrade the existing disused rail lines in the city into new cycle
 routes under the €2 billion urban regeneration fund.”
 
@@ -169,7 +174,9 @@ and suggested that the Council should link with Irish Rail to explore the possib
 development of the lines.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In seconding the Motion, Clir Lynch suggested that Irish Rail should be invited to make a
@@ -193,7 +200,7 @@ item 7: Notice of Motion submitted by Councillor J. Leddin
 
 “twill move at the next meeting that Limerick Metropolitan Council examine the
 feasibility of constructing a new pedestrian and cycle bridge across the river Shannon from
-O’Callaghan Strand to Bishops Quay using the original funds allocated for a footbridge.”
+O'Callaghan Strand to Bishops Quay using the original funds allocated for a footbridge.”
 
 In proposing the Motion, Cllr. Leddin said that having recently taken up cycling he had
 experience of the dangers of cycling on the roadway, and believed that a proposal for a
@@ -220,7 +227,9 @@ designated parking spaces for motorbikes and mopeds in Limerick City centre and 
 these will be monitored to view the viability of their expansion at a later time.”
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Cmhir O Ceallaigh said that there was a need to trial a number of
@@ -230,21 +239,21 @@ were a more environmentally-friendly mode of transport.
 
 The Motion was seconded by Cllr S Browne and approved by the Members.
 
-Item 9: Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
+Item 9: Notice of Motion submitted by Cmhlr. S. 6 Ceallaigh
 
 “twill move at the next meeting that efforts be made to include the refurbishment and re-
 opening of the Black Bridge in any plans for a Greenway/Cycleway along the river
 Shannon.”
 
-In proposing the Motion, Cmhir © Ceallaigh said that the Black Bridge was a well-used
+In proposing the Motion, Cmhir 6 Ceallaigh said that the Black Bridge was a well-used
 amenity until its closure some years ago. He acknowledged that Councillors had contributed
 to the cost of carrying out a study on the Bridge which had identified a cost of
 approximately €1 million to re-instate it. He was now seeking national funding to redevelop
 the Bridge.
 
-The Motion was seconded by Cllr S Browne. Members pointed out that there was another
+The Motion was seconded by Cllr $ Browne. Members pointed out that there was another
 bridge with pedestrian and cycling facilities in UL, a short distance from the Black Bridge,
-and that €1 million was a lot of money to be spending on a similar facility. Cmhir O Ceallaigh
+and that €1 million was a lot of money to be spending on a similar facility. Cmhir 6 Ceallaigh
 noted that there would also be a cost in removing the Black Bridge, cited the historical
 significance of the Bridge, and stated that he had received numerous requests from
 constituents to re-open it.
@@ -260,7 +269,7 @@ The Motion was approved by Members.
 
 Item 10: Notice of Motion submitted by Councillor R. O’Donoghue
 
-“twill move at the next Meeting that the Council install, without delay, traffic calming
+“Twill move at the next Meeting that the Council install, without delay, traffic calming
 measures in all towns and villages in County Limerick where there is a lack of Garda
 presence due to the shortage of Gardai and the closure of local stations. In the interest of
 the health and safety of residents — both young and old — speed indicators, ramps and
@@ -268,7 +277,9 @@ other traffic calming measures are urgently needed as is clear from the fataliti
 misses and traffic issues in the towns and villages of County Limerick.”
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Cllr O’Donoghue referred to the recent tragic fatality in Ballingarry
@@ -312,4 +323,6 @@ to link with the Area Engineer regarding same.
 The Meeting then concluded.
 
 
----
+
+[[PAGE_END:6]]
+

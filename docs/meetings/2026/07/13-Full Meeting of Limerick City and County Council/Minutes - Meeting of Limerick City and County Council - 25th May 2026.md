@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-limerick-city-and-county-council-25th-may-2026.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 25th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-limerick-city-and-county-council-25th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -78,7 +79,9 @@ sympathy to the following:
 • Councillor Eddie Ryan on the passing of his sister, Margaret Angela.
 
 A minute’s silence was observed as a mark of respect.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -148,7 +151,9 @@ revoke the previous Section 183 Resolution approved by the Members at Meeting he
 14th July, 2025, in so far as it relates to the land we are now seeking consent for as set out
 
 above, particulars of which were contained in Statutory Notice dated 5th May, 2026”.
----
+
+[[PAGE_END:2]]
+
 3
 
 (b) Circulated, copy of Statutory Notice dated 5th May, 2026, concerning the disposal of
@@ -226,7 +231,9 @@ Hectares) of Land at Kilteely, Co. Limerick, in the form of a 30-Year Lease, to 
 Diocesan Trust Company Limited by Guarantee, for the sum of €1 – subject to the covenants
 
 and conditions contained therein including the grant of a Right of Way for access – a covenant
----
+
+[[PAGE_END:3]]
+
 4
 
 will be included in the lease that the land can only be used for Burial Ground purposes -
@@ -304,7 +311,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 for 0.043 Acres (0.0174 Hectares), subject to the covenants and conditions contained within
 
 the Lease, particulars of which were contained in Statutory Notice dated 5th May, 2026.”
----
+
+[[PAGE_END:4]]
+
 5
 
 4.
@@ -380,7 +389,9 @@ Financial Statement 2025 to the Council and thanked the Elected Members and Staf
 contribution in maintaining the Council’s financial stability and delivery of services throughout
 
 the year.
----
+
+[[PAGE_END:5]]
+
 6
 
 The Mayor also commended the Finance Team on the rates collection performance achieved
@@ -454,7 +465,9 @@ And Resolved:
 from the Minister for Housing, Local Government and Heritage, in accordance with Section
 
 106 of the Local Government Act, 2001, as amended, for a loan in the amount of €5,710,000
----
+
+[[PAGE_END:6]]
+
 7
 
 to fund the drawdown of Local Authority Home Loans and Local Authority Purchase and
@@ -532,7 +545,9 @@ Circulated, report of the Senior Executive Officer, Corporate Services and Gover
 20th May, 2026, together with copy of Annual Report for 2025 for Limerick City and County
 
 Council.
----
+
+[[PAGE_END:7]]
+
 8
 
 The report stated that the Annual Report 2025 had been prepared in accordance with the
@@ -604,7 +619,9 @@ And Resolved:
 Festivals and Events Grants Scheme 2026 / 2027, as set out in the report of John Moran,
 
 Mayor of Limerick dated 18th May, 2026.”
----
+
+[[PAGE_END:8]]
+
 9
 
 13.
@@ -714,7 +731,9 @@ Heritage and Culture
 Community
 
 Eileen McMahon
----
+
+[[PAGE_END:9]]
+
 10
 
 Rose Fitzgerald Kennedy Autumn
@@ -838,7 +857,9 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:10]]
+
 11
 
 “That, Sections 46, 52 and 60 of the Standing Orders for Plenary Meetings of Limerick City and
@@ -910,7 +931,9 @@ The Chairperson’s report was noted by the Council.
 On the proposal of Councillor Sheahan, seconded by Councillor Collins (M), the
 
 Recommendation was agreed.
----
+
+[[PAGE_END:11]]
+
 12
 
 (v)
@@ -976,7 +999,9 @@ July Meeting of Limerick City and County Council
 On the proposal of Councillor Sheahan, seconded by Councillor O’Hanlon, the date of the July
 
 Meeting of the Council was re-fixed to Monday, 13th July, 2026 at 3pm.
----
+
+[[PAGE_END:12]]
+
 13
 
 20.
@@ -1050,7 +1075,9 @@ The Motion was proposed by Councillor Beasley and seconded by Councillor Hickey-
 In supporting the Motion, Members highlighted the risks to road users and the animal welfare
 
 concerns associated with the illegal racing of sulkies.
----
+
+[[PAGE_END:13]]
+
 14
 
 23.
@@ -1130,7 +1157,9 @@ Hartigan, J. O'Donoghue, E. Ryan, J. Scanlan, E. Secas, B. Teefy (to be
 referred to the Protocol Committee)
 
 ***We will move at the next Meeting of Limerick City and County Council that:***
----
+
+[[PAGE_END:14]]
+
 15
 
 •
@@ -1224,7 +1253,9 @@ previous meeting. They advised that some design work would begin earlier than
 planned, and that, due to a lack of funding, no new bus services could be delivered in
 
 Limerick in 2026, with new services possible in 2027 subject to funding. Delays and
----
+
+[[PAGE_END:15]]
+
 16
 
 delivery timelines have therefore been discussed directly with the NTA at Sub-Group
@@ -1296,7 +1327,9 @@ Question submitted by Councillor D. McSweeney
 **REPLY**:
 
 Expenditure on legal advice incurred by Corporate Services from June 2024 to date as follows:
----
+
+[[PAGE_END:16]]
+
 17
 
 **Legal Service Provider**
@@ -1498,7 +1531,9 @@ in respect of construction and building services are as follows:
 The Top 30 third-party suppliers to Limerick City and County Council for the years 2023 -
 
 2025 for all non-construction-related services including professional services are as follows:
----
+
+[[PAGE_END:17]]
+
 18
 
 **Top 30**
@@ -1802,7 +1837,9 @@ unintended consequence arising from the introduction of the Re-turn Scheme
 whereby there is a monetary value attached to the disposal of recyclable bottles and
 
 cans in public litter bins. To date the following actions have been taken:
----
+
+[[PAGE_END:18]]
+
 19
 
 • The Cleansing Section has been replacing out of date and damaged street bins in the
@@ -1882,7 +1919,9 @@ Notice of Motion submitted by Councillors E. Ryan and J. Scanlan
 ***We will move at the next Meeting of Limerick City and County Council that this Council call***
 
 ***on the Minister for Finance to abolish the Universal Charge with effect from January 2027***
----
+
+[[PAGE_END:19]]
+
 20
 
 ***when presenting National Budget Legislation this October and that our sister Authorities***
@@ -1952,7 +1991,9 @@ Notice of Motion submitted by Councillor S. Hickey-O’Mara
 The Motion was proposed by Councillor Hickey-O’Mara and seconded by Councillor
 
 O’Donovan.
----
+
+[[PAGE_END:20]]
+
 21
 
 35.
@@ -1982,4 +2023,6 @@ amended, is available on SharePoint for inspection by the Members.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:21]]
+

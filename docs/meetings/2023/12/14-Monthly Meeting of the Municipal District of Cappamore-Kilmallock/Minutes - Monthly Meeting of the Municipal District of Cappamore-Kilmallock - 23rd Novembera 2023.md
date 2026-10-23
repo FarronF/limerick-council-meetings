@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/02-minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-23rd-november-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd Novembera 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/02-minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-23rd-november-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN ARAS
@@ -76,7 +77,9 @@ Cappamore-Kilmallock held on 3rd November, 2023.
 An Cathaoirleach wished to thank the Elected Members, staff and Pallasgreen Community
 
 for arranging the special meeting at short notice.
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising:
 
 There were no matters arising
@@ -118,7 +121,9 @@ consider whether or not the proposed deletion should be made in accordance with 
 **Proposed : Cllr M Ryan**
 
 **Seconded: Cllr Egan**
----
+
+[[PAGE_END:2]]
+
 NOTICES OF MOTION
 
 5.Notice of Motion submitted by Councillor Carey
@@ -170,7 +175,9 @@ Regeneration Officer who will work with the local community to advance the propo
 A request was made that the reply include the directorate who will be responsible for the
 
 project moving forward.
----
+
+[[PAGE_END:3]]
+
 QUESTIONS
 
 7.Question submitted by Councillor Carey
@@ -206,7 +213,9 @@ public lighting on the R515 from Glen Grove to Portauns. Any proposed works woul
 subject to appropriate project specific funding being allocated.
 
 **The Questions were taken as read.**
----
+
+[[PAGE_END:4]]
+
 Any Other Business
 
  The Elected Members wished to thank the Roads team for the works undertaken in
@@ -258,4 +267,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

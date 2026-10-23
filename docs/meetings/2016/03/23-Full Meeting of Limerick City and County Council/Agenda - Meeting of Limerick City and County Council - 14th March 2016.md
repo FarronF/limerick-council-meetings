@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20March%202016.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 14th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbnisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
-ANG Cé na gCeannaithe
+i Cé na gCeannaithe
 = Luimneach
-Limerick Corpotate Services and Change Management.
+Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Counc®
-COUNCIL Merchants Quy.
+COUNCIL Merchants Quy
 
 t: #355 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-9"" March, 2016.
+9" March, 2016.
 
 To: T r mber of Limeri i
 Council
@@ -44,7 +45,7 @@ Council Chamber, Dooradoyle, Limerick, on Monday, 14” March, 2016, at 3.00 p.m
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-CAS. 9
+C529
 
 Christy O’Connor,
 Meetings Administrator.
@@ -71,7 +72,9 @@ To consider proposal for the disposal of land at
 (c) 16, Flood Street, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -97,7 +100,7 @@ Support Services Directorate
 
 To consider re-fixing dates for the following Meetings of the Council:
 
-{i) Annual Meeting.
+(i) Annual Meeting.
 (ii) July Meeting.
 
 Filling of Vacancies on Strategic Policy Committees
@@ -107,8 +110,8 @@ Strategic Policy Committees - Council Members
 Strategic Policy Committees consequent on the resignation of
 Councillor Shane Clifford:
 
-° Home and Social Development SPC.
-e Travel and Transportation SPC.
+. Home and Social Development SPC.
+° Travel and Transportation SPC.
 
 (ii) To consider the nomination of a replacement to the following
 Strategic Policy Committees consequent on the death of Councillor
@@ -127,7 +130,9 @@ e Travel and Transportation SPC.
 e Home and Social Development SPC.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -180,7 +185,9 @@ Limerick 2020 consequent on the election of Councillor Tom Neville to
 Dail Eireann:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) Chief Executive’s Report
@@ -219,7 +226,9 @@ for Fair Conditions of Employment.
 (This item will be taken at 4.30 pm)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -245,10 +254,10 @@ To consider participation by Members at the following Conferences:
 (g)
 
 Conference on Bordering Between Unions held in Dundalk, Co. Louth, on
-18"/19" February, 2016.
+18/19" February, 2016.
 
 Conference on The Finance Act, 2015, held in Clonakilty, Co. Cork, from
-4" to 6 March, 2016.
+4" to 6™ March, 2016.
 
 The 1916 Annual Conference held in Enniscorthy, Co. Wexford, on 5”
 March, 2016.
@@ -257,7 +266,7 @@ March, 2016.
 Co. Cork, on 30"/31* March, 2016.
 
 Conference on Local Economic and Community Plans to be held in
-Clonakilty, Co. Cork, from 8 to 10" April, 2016.
+Clonakilty, Co. Cork, from 8" to 10"" April, 2016.
 
 Conference on Auditing and Governance in Local Government to be held
 in Carlingford, Co. Louth, from 15" to 17" April, 2016.
@@ -283,7 +292,9 @@ for water rates available for charities and voluntary organisations who are stru
 on reduced budgets.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -315,7 +326,7 @@ or its connected companies through JobBridge and Gateway Schemes.
 
 NOTICES OF MOTION
 
-Notice of Motion submitted r M r
+Notice of Motion submitted r M. r
 be referred to the Joint Policing Committee)
 
 | will move at the next meeting that Limerick City and County Council would promote
@@ -333,7 +344,9 @@ Committee,
 Detectors in all Social Housing Units within the jurisdiction of this Authority.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -367,4 +380,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

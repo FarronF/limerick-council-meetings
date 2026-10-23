@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-draft-minutes-monthly-meeting-20th-december-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-draft-minutes-monthly-meeting-20th-december-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 20TH** **DECEMBER, 2021 at 09:45 A.M. IN THE COUNCIL CHAMBER,**
@@ -86,7 +87,9 @@ And Resolved:
 house situate at 126 Sycamore Avenue, Rathbane, Limerick and the intention to bring a Section
 
 183 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -158,7 +161,9 @@ details in relation to Junction Improvement Works on the R445 (Dublin Road) / R5
 Road), Limerick.  The report had been prepared in accordance with Section 179 3(a) of the Planning
 
 and Development Act 2000 (as amended) and Part 8 of the Planning and Development Regulations,
----
+
+[[PAGE_END:2]]
+
 3
 
 2001 (as amended) and noted that it was proposed to proceed in accordance with Section 5 of the
@@ -234,7 +239,9 @@ Street, William Street and Little William Street.
 of the Dublin Road Bus Corridor (Plassey Park Road to Parkway Roundabout). This follows
 
 the publication of the Limerick Shannon Metropolitan Area Transport Strategy (LSMATS) in
----
+
+[[PAGE_END:3]]
+
 4
 
 June 2020. It was necessary for Limerick City and County Council to await this publication
@@ -312,7 +319,9 @@ mobile pumps.
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, can Limerick City and***
 
 ***County Council advise if Stradbally Cemetery is full to capacity or if people can purchase plots.***
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY**: The graveyard at Stradbally has been closed for grave purchases since 2000. Only families
@@ -392,7 +401,9 @@ Council, the NTA, Iarnród Éireann and the Department of Transport. The outcome
 discussions will influence the Rail content of LSMATS, Draft 2, which is due to be released
 
 at beginning of 2022.
----
+
+[[PAGE_END:5]]
+
 6
 
 12.
@@ -478,7 +489,9 @@ ground, which will accommodate the needs of the Ballysimon DED, is set out below
 ***recent incident at Ardnacrusha turbines where a number of fish were killed, have Limerick City***
 
 ***and County Council liaised with the ESB in determining what caused this to occur.***
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY**: This is a matter for the ESB as Limerick City and County Council does not have any role or
@@ -606,7 +619,9 @@ design and run the Part 8 application. To expedite this process we are currently
 the consultants brief with a view of proceeding with the next steps in Q1 next year.
 
 (Note this will be subject to TII funding and approvals)
----
+
+[[PAGE_END:7]]
+
 8
 
 **NOTICES OF MOTION**
@@ -682,7 +697,9 @@ agreed.
 In proposing the motion, Councillor Slattery stated that many elderly people were living in the area
 
 and additional lighting was urgently required.
----
+
+[[PAGE_END:8]]
+
 9
 
 Members supported the motion and referred to the ongoing issue of providing additional lighting
@@ -764,7 +781,9 @@ In proposing the motion, Councillor McSweeney highlighted the issues with debris
 and the need to maintain and sweep them regularly so as to ensure they could be availed of by the
 
 public without possible damage to tyres, etc.
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**: Limerick City and County Council are currently in the process of purchasing 2 small
@@ -806,4 +825,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

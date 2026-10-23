@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-minutes-monthly-meeting-16th-june-2025.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 16th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-minutes-monthly-meeting-16th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -92,7 +93,9 @@ Proposed by Councillor O’Donovan;
 Seconded by Councillor McSweeney;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -162,7 +165,9 @@ nomination rights to all the 12 no. 1-bedroom apartments in the development. Lim
 City and County Council's Allocations Team have provided nominations for all units to PMVT
 
 and PMVT will begin their own assessments on the week beginning June 23rd, 2025. Once
----
+
+[[PAGE_END:2]]
+
 3
 
 this has been completed a 'move-in' date can be established. PMVT expect units to be
@@ -246,7 +251,9 @@ approximately €8,000.
 **Roads, Traffic & Cleansing**
 
 **Transportation & Mobility.**
----
+
+[[PAGE_END:3]]
+
 4
 
 **7.Question submitted by Councillor S. Beasley**
@@ -322,7 +329,9 @@ and how it might affect the facilities of the Redemptorist Community, ensuring t
 concerns were heard.
 
 3. **Meeting on 19/06/2024**:
----
+
+[[PAGE_END:4]]
+
 5
 
  Active Travel Project Manager focused on understanding the access needs of the
@@ -398,7 +407,9 @@ weeks.
 2025 is finalising the report and the results of the audit are expected in the coming weeks.
 
 The results of the report will be shared at a future meeting of the Metro Council. LCCC can
----
+
+[[PAGE_END:5]]
+
 6
 
 advise that the Re-turn Riverfest pilot initiative collected 4,830 containers from members
@@ -474,7 +485,9 @@ Limerick 2025. As soon as the programme is finalised, the Festivals and Events O
 advise the Metro Members.
 
 **16.Question submitted by Councillor P. Reale**
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the number of***
@@ -550,7 +563,9 @@ businesses. He also highlighted how the Street Ambassadors played a key role in 
 of littering and graffiti around the city, and emphasised the overall benefits of the programme in
 
 enhancing the city’s appearance and visitor experience.
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY**: The Street Ambassador programme was last in place in 2015. There is no budget provision
@@ -624,7 +639,9 @@ Councillor Kiely suggested that a centralized database should be considered to o
 ***impacts.***
 
 The Notice of Motion was proposed by Councillor Hartigan, seconded by Councillor Secas and
----
+
+[[PAGE_END:8]]
+
 9
 
 agreed.
@@ -700,7 +717,9 @@ bonfire event, which would create a positive community atmosphere, benefit publi
 manage waste more effectively.
 
 A number of Members were not in agreement with the Motion, highlighting the potential effects
----
+
+[[PAGE_END:9]]
+
 10
 
 these events could have on the environment.
@@ -772,7 +791,9 @@ liveable city.
 It was agreed to amend the wording of the Notice of Motion as follows:
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this District calls on***
----
+
+[[PAGE_END:10]]
+
 11
 
 ***the Government to apply restrictions on developers and landlords of multiple properties in the***
@@ -850,7 +871,9 @@ attract in excess of 100,000 visitors to Limerick if chosen as a host city.
 ***a targeted hazardous litter collection initiative next year in the week leading up to the May Eve***
 
 ***bonfire in these identified areas to encourage families and households to dispose of their***
----
+
+[[PAGE_END:11]]
+
 12
 
 ***hazardous waste/materials in a safe manner.***
@@ -940,7 +963,9 @@ Householders can contact a licensed waste collector and arrange a collection fro
 homes of bulky items such as furniture, doors, pallets, mattresses etc. A similar bulky waste
 
 collection will take place in the coming week in Johnsgate and Watergate from Monday June
----
+
+[[PAGE_END:12]]
+
 13
 
 16th to Friday June 20th.
@@ -990,4 +1015,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:13]]
+

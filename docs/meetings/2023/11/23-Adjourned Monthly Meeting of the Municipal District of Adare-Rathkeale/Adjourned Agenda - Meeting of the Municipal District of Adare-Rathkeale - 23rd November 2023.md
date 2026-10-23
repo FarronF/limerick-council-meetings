@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Adjourned-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-23rd-November-2023.pdf)
+**Original file:** [Adjourned Agenda - Meeting of the Municipal District of Adare-Rathkeale - 23rd November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Adjourned-Agenda-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-23rd-November-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-OO Comhairle Cathrach
+a Comhairle Cathrach
 
 & Contae Luimnigh
 
-ars a ‘
+nr I ‘
 — Limerick City
 
 & County Council
@@ -34,13 +35,13 @@ ars a ‘
 
 A Chomhairleoir, a chara,
 
-Ceantar Bardasach Ath Dara-Rath Caota,
-Comhairie Cathrach agus Contae Luimnigh,
+Ceantar Bardasach Ath Dara-Rath Caola,
+Comhairle Cathrach agus Contae Luimnigh,
 Aras Séan Finn,
 
 Line Nua,
 
-Rath Caola,
+Réth Caola,
 
 Co, Luimnigh
 
@@ -61,7 +62,7 @@ f: +353 (0) 69 63188
 
 As agreed at Tuesday's Municipal District Monthly Meeting, you are requested to attend
 the Adjourned Monthly Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online on Thursday 23
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online on Thursday 23%
 November, 2023 at 9.30 a.m. in order to complete the Agenda as set out for the Meeting
 
 of 14" November, 2023.
@@ -74,7 +75,9 @@ Meetings Administrator.
 Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
-( 061 - 586 000
+© 061 - 586 000
 
 
----
+
+[[PAGE_END:1]]
+

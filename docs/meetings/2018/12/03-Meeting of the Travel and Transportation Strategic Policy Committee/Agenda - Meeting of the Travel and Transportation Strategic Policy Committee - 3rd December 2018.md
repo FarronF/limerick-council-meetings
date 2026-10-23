@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20T%26T%20SPC%203.12.18.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 3rd December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20T%26T%20SPC%203.12.18.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach
 
 & Contae Luimnigh
 
-™ fh™
-—> Limerick City
+™ —™
+— Limerick City
 
 & County Council
 
@@ -40,14 +41,14 @@ You are invited to attend a Meeting of the Travel and Transportation Strategic P
 Committee to be held in the Council Chamber, Merchant’s Quay, Limerick, on Monday 3°
 December at 10:00 a.m. The business to be transacted is set out in the appended agenda.
 
-sures: Ares TA.
-
 CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
 PHYSICAL DEVELOPMENT DIRECTORATE
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
@@ -59,6 +60,7 @@ Committee Meeting held on the 8"" October 2018.
 (Copy Enclosed)
 
 2. Presentation on the Bikelink Bike Sharing Scheme — Mr Jarlath Gantly ~ ECOTravel ~
+
 Sustainable Travel Solutions
 
 3. Notice of Motion submitted by Councillor J. Pond
@@ -79,4 +81,6 @@ Barrier along the Motorway to the above Housing Estates to reduce the Motorway n
 to an acceptable level within these residential developments.
 
 
----
+
+[[PAGE_END:2]]
+

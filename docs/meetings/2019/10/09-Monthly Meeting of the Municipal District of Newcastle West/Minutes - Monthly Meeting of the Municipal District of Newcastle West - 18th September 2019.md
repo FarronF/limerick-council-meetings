@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01-2019-09-18-Minutes-September.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 18th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01-2019-09-18-Minutes-September.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -106,7 +107,9 @@ Circulated, report of Head of Property Services, dated 6th September, 2019,
 concerning proposal to dispose of land at Carraward East, Dromcollogher,
 
 Co. Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members noted the proposal.
@@ -182,7 +185,9 @@ In response, the Directors of Service, Senior Executive Officer and Housing Engi
 comprehensive overview of local authority housing within the District. The number of houses
 
 purchased, vacant houses, funding available for upgrades under various funding streams and
----
+
+[[PAGE_END:2]]
+
 3
 
 the number of houses let within the District during 2019 was discussed. Funding and
@@ -260,7 +265,9 @@ committee members on the project was also noted.
 Community Development Directorate
 
 To consider Community Initiative Scheme for 2019.
----
+
+[[PAGE_END:3]]
+
 4
 
 Circulated, report of Administrative Officer, Urban & Rural Community Development, dated
@@ -332,7 +339,9 @@ consider both of these junctions. They were appointed to carry out a detailed
 design of a right turn lane for N21 Ward’s Cross and an initial stage design of
 
 options for the N21 Devon Cross junction.
----
+
+[[PAGE_END:4]]
+
 5
 
 In relation to Wards Cross, this junction was highlighted by TII as a location on
@@ -406,7 +415,9 @@ manholes have been cleaned out.
 There will also be an upgrade of the storm water network in the general area of the
 
 exit roadway and the N21 junction.
----
+
+[[PAGE_END:5]]
+
 6
 
 11.
@@ -494,7 +505,9 @@ Question submitted by Councillor T. Ruddle
 ***I will ask at the next Meeting when will the road resurfacing from Lisaniska to***
 
 ***Knockaderry be completed.***
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -562,7 +575,9 @@ In proposing the Motion, Councillor Ruddle referred to the interruptions to the 
 at the Old Mill/Ballyine, Newcastle West.
 
 The Motion was seconded by Councillor Scanlan.
----
+
+[[PAGE_END:7]]
+
 8
 
 REPLY:
@@ -638,7 +653,9 @@ A request was made for the road sweeper to be reinstated to carry out works in t
 Glin. In replying, the Senior Executive Engineer stated that the provision of road sweeping in
 
 the county is being reviewed at present.
----
+
+[[PAGE_END:8]]
+
 9
 
 An update on the provision of traffic ramps at Gortboy, Newcastle West, was requested. The
@@ -678,4 +695,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

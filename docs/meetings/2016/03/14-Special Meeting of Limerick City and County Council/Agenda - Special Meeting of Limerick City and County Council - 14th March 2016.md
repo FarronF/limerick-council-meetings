@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20March%202016.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 14th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2014th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_——_—_ Seirbnis{ Corpardideacha agus Bainistiocht Athruithe,
+__—_——_—_ Seirbnist Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NIN . Cé na gCeannaithe,
+NIN «FF . Cé na gCeannaithe,
 —=- Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and ited —_
+CITY & COUNTY Limerick City and viet jae
 M nts 7
 
-COUNCIL said eo
+COUNCIL ila peo
 
-t: +353 (0) 61 407 100
+t: 4353 (0) 61 407 100
 9" March, 2016. f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -52,7 +53,7 @@ A eee
 Christy O’Connor,
 Meetings Administrator.
 
-ee een en ene meee nee ne een eens
+ee een en cone meee nen ne een n eens
 
 AGENDA
 
@@ -68,17 +69,19 @@ death of Councillor Joe Crowley, RIP.
 (iii) | To consider filling casual vacancy on the Council consequent on the
 election of Councillor Maurice Quinlivan to Dail Eireann.
 
-(iv) To consider casual vacancy on the Council consequent on the election
+(iv) | To consider casual vacancy on the Council consequent on the election
 of Councillor Tom Neville to Dail Eireann.
 
 (Report dated 4" March, 2016, already circulated)
 
 @ customerservices@limerick.te
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach ©) wew.timerick.te
+Ceanncheathra Chorparadideach, Cé na gCeannaithe, Luimneach © wevewa timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -94,4 +97,6 @@ amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

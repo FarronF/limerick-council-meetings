@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/20201109-agenda.pdf)
+**Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 9th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/20201109-agenda.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community, Leisure and Culture**
@@ -96,7 +97,9 @@ Metropolitan District of Limerick meeting held on 20th July, 2020)
 To consider a notice of motion from Cllr Azad Talukder (Referred from the
 
 Full Council meeting held on 28th September, 2020)
----
+
+[[PAGE_END:1]]
+
 ***“I will move at the next meeting that Limerick City and County Council***
 
 ***examine the feasibility of a Shannon River Cruise Development Project as***
@@ -118,4 +121,6 @@ Amended 2021 Meeting Schedule
 **Community, Leisure and Culture SPC**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:2]]
+

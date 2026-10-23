@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Meeting%20of%20Municipal%20District%20of%20.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 21st July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Meeting%20of%20Municipal%20District%20of%20.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
@@ -28,7 +29,7 @@ ANS ~ Cé na gCeannaithe.
 => Luimneach
 Limerick Corporate Services and Change Management,
 ITY Limerick City and County Council,
-c Cc eer Merchants Quay,
+c Cc Ara Merchants Quay,
 Limerick
 
 15" July, 2016. t: +353 (0) 61 407 100
@@ -73,13 +74,15 @@ including Limerick Sports Partnership Strategic Plan 2016-2020.
 
 (Copy Enclosed).
 
-& customerservices@limerick.ic
+@ customerservices@limerick.ic
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © weewtimerick.te
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach oe weew.timerick.te
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -116,4 +119,6 @@ express sincere displeasure with the inconsistent service they provide in towns 
 rural areas across Limerick County.
 
 
----
+
+[[PAGE_END:2]]
+

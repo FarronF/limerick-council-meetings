@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%2015th%20July%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%2015th%20July%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach Corhairie Cateacheent C = reer
-i™ & Contae Luimnigh Ceanncheathni Chorpardideach,
-NrN ees Cé na gCeannaithe.
-=— Limerick City Luirmwach
+—_— Comhairle Cathrach Cornhairie Catachowat C eke reer
+& Contae Luimnigh Ceanncheathni Chorpardideach.
+NEN . . - Cé na gCeannaithe.
+—> Limerick City Luirrewach
 
 & County Council
 Corporate Services,
 Limerick City and County Council,
-Corporate Headquarters,
+Corporate headquarters,
 Merchants Quay,
 Limenck
 
@@ -43,34 +44,36 @@ erid! +353 (0) 61 415 266
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Merchant's Quay, Limerick on Monday, 15" July, 2019 at 9.45 a.m. The business
+Council Chamber, Merchant’s Quay, Limerick on Monday, 15" July, 2019 at 9.45 a.m. The business
 to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-f\
-fret
+"\
+are
 Metings Administrator.
 
 AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
-(a) | Monthly Meeting of the Metropolitan District of Limerick held on 20 May, 2019.
+(a2) | Monthly Meeting of the Metropolitan District of Limerick held on 20 May, 2019.
 
 (b) Annual Meeting of the Metropolitan District of Limerick held on 14" June, 2019.
-{c) Special Meeting of the Metropolitan District of Limerick held on 20" June, 2019.
+{c) Special Meeting of the Metropolitan District of Limerick held on 20 June, 2019.
 
 (Copies Enclosed).
 2. Schedule of Dates
 To agree Schedule of Dates for Metropolitan District Meetings.
 =
-@ wwew.timericicte
+@ wwew.imericicie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - S57150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Disposal of Land
@@ -117,7 +120,7 @@ and to clarify if more public bins will be installed to address these issues.
 6. Question submitted by Councillor J. Leddin
 
 ! will ask Limerick Metropolitan Council to consider the introduction of relevant bye-laws in
-collaboration with An Garda Siochana to prevent the use of scrambler bikes on public footpaths or
+collaboration with An Garda Slochana to prevent the use of scrambler bikes on public footpaths or
 privately owned lands.
 
 7. Question submitted by Councillor F. Kilcoyne
@@ -127,11 +130,13 @@ extended across Newboro and back toward Collopys Cross as this area constantly h
 on it which is quite dangerous with oncoming traffic.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
-8. Question submitted by Councillor C. Sheehan
+8. Question submitted by Councillor C, Sheehan
 
 | will ask at the next meeting whether the Council have received the 2019 Disabled Persons Grant
 allocation and for a breakdown of the allocation.
@@ -148,12 +153,12 @@ maintenance for vacant houses in the Metropolitan area.
 
 11. Question submitted by Councillor J. Collins
 
-I will ask at the next Meeting for:
+| will ask at the next Meeting for:
 
 (a) a detailed listing of HAP payments by Limerick City and County Council to renters in the Limerick
 Metropolitan Area since its introduction in March 2017. The detailed listing to show:
 
-*total HAP payments in quarters, beginning April 2017, through to June 2019.
+“total HAP payments in quarters, beginning April 2017, through to June 2019.
 
 *total number of HAP recipients for each of the above quarters.
 
@@ -165,7 +170,7 @@ North/Limerick City East/Limerick City West.
 region - city north, city east, city west - of how many HAP renters have to make top up payments,
 in addition to the HAP payment, to meet the full monthly rent being charged by the landlord.
 
-{ii) If the information in B(i) is available, a breakdown by quarter and city region of how what
+(ii) If the information in B(i) is available, a breakdown by quarter and city region of how what
 percentage of the monthly private rent is made up of top up payments/HAP payments.
 
 12. llor J. Collins
@@ -176,7 +181,9 @@ the Metropolitan Area where planning permission currently has been granted but d
 yet to commence.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -188,7 +195,7 @@ NOTICES OF MOTION
 suitable park and ride sites to facilitate those who wish to travel by alternative means as part of the
 Limerick Transport Strategy currently being prepared.
 
-14. Notice of Motion submitted by Councillor J. Leddin
+14, Notice of Motion submitted by Councillor J. Leddin
 
 ! will move at the next meeting that Limerick Metropolitan Council employ suitably qualified
 tradespeople who can facilitate the completion of maintenance works in Council owned houses thus
@@ -208,7 +215,7 @@ extended down the Clarina Road to Faha Demise and down the church road towards L
 back the main road at Collopys Cross to Ballycurrane. Please note this was in the original sewer
 line plans for the Patrickswell area but not installed.
 
-17. if M. han
+17. if Mi han
 
 | will move at the next meeting that the Council make space available at a suitable premises within
 the Metropolitan area for Limerick City Community Radio for a studio as they have to vacate their
@@ -224,4 +231,6 @@ facilities.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

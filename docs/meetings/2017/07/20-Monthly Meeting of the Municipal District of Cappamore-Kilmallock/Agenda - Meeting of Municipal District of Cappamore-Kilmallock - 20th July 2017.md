@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%20Meeting%20200717.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 20th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%20Meeting%20200717.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach
-: 7
-_—_—_—_ 5 conus Lainaak Comhairle Cathrach eguconine onan
-ae i Cé na gCeannaithe.
-es Limerick City Spottt
+, 7
+_—_—_ Conus Laineaok Comhairle Cathrach equconine aman
+ae, i Cé na gCeannaithe.
+——— Limerick City Saati
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -54,11 +55,11 @@ Is mise le meas,
 
 .
 
-gu
+ey
 
-Kasxy
+Massy
 
-NOx,
+nox,
 
 Meetings Administrator.
 
@@ -75,14 +76,16 @@ To note proposal for the disposal of land at:
 (a) Ardyoul, Kilmallock
 (b) Old Knocklong Railway Station and Grounds
 (Reports Enclosed)
-@ customerservices@limerickie
-© ww limerickie
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach ————
+@ customerservices@limerick.ie
+© wow limerickie
+Ceanncheathrii Chorparéideach, Cé na gCeannaithe, Luimneach ———
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -126,7 +129,9 @@ Question submitted by Councillor B. Teefy
 Limerick City and County Council.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -143,8 +148,10 @@ NOTICE OF MOTION
 
 Notice of Motion submitted by Councillor L.M. Sheehy
 
-| will move at the next Meeting that works outside Anglesboro School be undertaken
+I will move at the next Meeting that works outside Anglesboro School be undertaken
 immediately in the interest of safety of the children and wider community.
 
 
----
+
+[[PAGE_END:3]]
+

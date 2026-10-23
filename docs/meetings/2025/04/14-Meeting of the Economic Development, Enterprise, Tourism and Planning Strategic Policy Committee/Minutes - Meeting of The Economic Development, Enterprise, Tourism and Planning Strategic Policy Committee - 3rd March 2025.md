@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-3rd-march-2025.pdf)
+**Original file:** [Minutes - Meeting of The Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 3rd March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-3rd-march-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
 **PLANNING AND TOURISM STRATEGIC POLICY COMMITTEE HELD ON MONDAY, 3 MARCH 2025 AT**
@@ -114,7 +115,9 @@ Membership of the Economic Development, Enterprise, Planning & Tourism SPC 2024-
 
 
 Scheme was adopted at the meeting of the Council held on 25th November 2024.
----
+
+[[PAGE_END:1]]
+
 
 
 SPC Standing Orders state meetings will be held 5 time yearly.
@@ -234,7 +237,9 @@ contribution at the end of the development. Ms. O’Connell clarified that LCCC 
 phased payments, especially in large scale developments. Mr. Murray advised that the
 
 Department of Housing, Local Government & Heritage has paid the development
----
+
+[[PAGE_END:2]]
+
 contributions for residential properties for the last 2 years. The development contributions
 
 have paid for essential services such as playgrounds to build strong and sustainable
@@ -346,7 +351,9 @@ Introduction
  Benefits of well-designed shopfront
 
  How to use guidance document
----
+
+[[PAGE_END:3]]
+
  Historic/protected shopfronts and facades
 
  Statutory requirements
@@ -476,7 +483,9 @@ Other Funding Supports
 3. GradStart
 
 4. MicroFinance Funding
----
+
+[[PAGE_END:4]]
+
 The 2025 budget for LEO is €2.3m. 178 net new jobs were created in 2024 by LEO supported
 
 companies.
@@ -546,4 +555,6 @@ the original if anyone is interested.
 The Chair concluded the meeting.
 
 **Cllr. P. Doyle, Chairperson**
----
+
+[[PAGE_END:5]]
+

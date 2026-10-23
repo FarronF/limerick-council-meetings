@@ -24,13 +24,13 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Municipal District of Adare-Rathkeale - 13th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_13th_december2c_2016.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2013th%20December%202016.md)
+Agenda - Municipal District of Adare-Rathkeale - 13th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_13th_december2c_2016.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 8th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_8th_november2c_2016.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%208th%20November%202016.md)
+Minutes - Municipal District of Adare-Rathkeale - 8th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_a_minutes_8th_november2c_2016.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 14th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_14th_november2c_2016.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20November%202016.md)
+Minutes - Municipal District of Adare-Rathkeale - 14th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_b_minutes_14th_november2c_2016.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 23rd November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_c_minutes_23rd_november2c_2016.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2023rd%20November%202016.md)
+Minutes - Municipal District of Adare-Rathkeale - 23rd November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_c_minutes_23rd_november2c_2016.pdf) - Text not extracted
 
 Update on Ballyvareen Estate - Municipal District of Adare-Rathkeale - 13th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/04_a_update_on_ballyvareen_estate.pdf) - Text not extracted
 

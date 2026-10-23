@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda-27th-may-2025.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - May 27th 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda-27th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairie Cathrach
+__——_ Comhairie Cathrach
 & Contae Luimnigh
-Aes i oe
+Aes i a
 
-—=— Limerick City
+— Limerick City
 & County Council
 
 22" May, 2025.
 
 Ceanter Bardasach Ath Dara-Rath Cacia,
-Compnairie Cathwach agus Contae Lutmrugh,
+Comnairie Cathwach agus Contae Lutmrugh,
 Aras Séan Finn,
 
 Line Nua,
@@ -48,9 +49,9 @@ New Lane,
 
 Rathkeale,
 
-Co. Limerikk,
+Co. Limerkk.
 
-EARCODE V4 HKLV
+EARCODE V94 HKLV
 
 &; +353 (0) 69 64047
 f: +353 {0) 69 63188
@@ -67,12 +68,12 @@ held in Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online, on Tu
 
 Is mise le meas,
 
-Karen ’
+Karen ,
 Meetings Administrator.
 
 AGENDA
 
-a. Social Housing in Pallaskenry
+: Social Housing in Pallaskenry
 
 To discuss Social Housing in Pallaskenry.
 
@@ -81,4 +82,6 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 
 
----
+
+[[PAGE_END:1]]
+

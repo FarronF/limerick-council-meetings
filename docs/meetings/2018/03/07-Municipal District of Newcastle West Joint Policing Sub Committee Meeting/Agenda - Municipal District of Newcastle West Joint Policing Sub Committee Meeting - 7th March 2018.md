@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-07%20Municipal%20District%20of%20Newcastle%20West%20JPC%20Subcommittee%20Agenda.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 7th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-07%20Municipal%20District%20of%20Newcastle%20West%20JPC%20Subcommittee%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———
+—=—
 
 Duiche Bardais an Chaisleain Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh
 
 ANS “ Aras William Smith O'Brien,
-— > Gortbui,
-. . An Caislean Nua Thiar,
+=> Gortbui,
+* . An Caislean Nua Thiar,
 Limerick Co, Luimnigh
 CITY & COUNTY Newcastle West Municipal District.
 COUNCIL Limerick City and County Council
@@ -52,7 +53,7 @@ appended Agenda.
 
 Is mise le meas,
 
-Co ext—
+Cor ext—
 
 Margaret Corbett,
 Meetings Administrator.
@@ -67,4 +68,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

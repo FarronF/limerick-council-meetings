@@ -92,7 +92,7 @@ Approval of the Limerick Biodiversity Action Plan 2025-2030.pdf - [Original file
 
 Chairperson's Report - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee - 12th March 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/chairpersons-report-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-12th-march-2025.pdf) - Text not extracted
 
-Application for accrediation to the World Health Organisation (WHO) European Healthy Cities_Counties Network.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/application-for-accrediation-to-the-world-health-organisation-who-european-healthy-cities-counties-network.pdf) - Text not extracted
+Application for accrediation to the World Health Organisation (WHO) European Healthy Cities/Counties Network.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/application-for-accrediation-to-the-world-health-organisation-who-european-healthy-cities-counties-network.pdf) - Text not extracted
 
 Chairperson's Report - Meeting of the Home and Social Development Strategic Policy Committee - 13th March 2025.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/chairpersons-report-meeting-of-the-home-and-social-development-strategic-policy-committee.pdf) - Text not extracted
 

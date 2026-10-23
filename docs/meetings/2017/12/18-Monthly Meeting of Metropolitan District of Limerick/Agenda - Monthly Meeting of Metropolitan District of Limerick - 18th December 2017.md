@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%2018th%20December%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 18th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%2018th%20December%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Seirbhisi Corparaideacha.
 : 2 Cathrach Contae
 
-__—_—_—_— & Contae Luimnigh nn een ee Ce
-NEN ————— Cé na gCeannaithe.
-— Limerick City Luimnesch
+_—_—_— & Contae Luimnigh nn Gee eC
+AEN ———— Céna gCeannaithe.
+— Limerick City Luimneesch
 
 & County Council
 Corporate Services,
@@ -40,7 +41,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-To: The Mayor an h Member of the M olitan District of Limerick f: +353 (0) 61 415 266
+To: __ The Mayor an h Member of the M olitan District of Limerick f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
@@ -52,15 +53,15 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Valle,
+Kall
 
 Meetings Administrator.
 
 AGENDA
 
-aq. Minutes
+a. Minutes
 
-To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 20”
+To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 20°
 November, 2017.
 
 (Copy Enclosed).
@@ -73,15 +74,17 @@ Prospect, Limerick being transferred to Limerick City and County Council.
 
 (Report Enclosed).
 
-@ Customerservices@limerick.ie
+@ Customerservices@limerick.ic
 
-@ veo limerick.ie
+@ vows limerick.ie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -133,7 +136,9 @@ Question submitted by Councillor M. McCreesh
 Metropolitan area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -184,14 +189,16 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor S. Lynch
 
-| will move at the next meeting that this District supports the establishment of an Annual
+I will move at the next meeting that this District supports the establishment of an Annual
 National ‘Make Way Day’ and will write to the Government calling on them to support,
 establish, fund and resource an Annual National ‘Make Way Day’ which would be localised
 in each region and that this District will annually support and promote a local ‘Make Way
 Limerick’ campaign as part of the wider ‘Make Way Day’.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -246,4 +253,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

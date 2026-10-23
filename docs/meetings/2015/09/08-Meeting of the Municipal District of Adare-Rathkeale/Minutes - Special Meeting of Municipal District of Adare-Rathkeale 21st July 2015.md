@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2021st%20July%202015.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare-Rathkeale 21st July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%2021st%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL
@@ -65,13 +66,15 @@ NOTICE OF MOTION
 
 ! will move at the next Meeting that the Adare-Rathkeale Municipal District would submit a
 request to the Mayor of Limerick City & County Council to allow the District to request, at
-the Council Meeting on 21® July, 2015, to have a brief debate about the proposed
+the Council Meeting on 21 July, 2015, to have a brief debate about the proposed
 Gasification Plant at Gortadroma landfill site and propose that Limerick City & County
 Council would disengage with the Company promoting the Gasification Plant, repay the
 €50,000 to that Company and declare the contract already signed as null and void.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In view of the decision reached under Item 1, Councillor Sheahan withdrew his Notice of
@@ -85,4 +88,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

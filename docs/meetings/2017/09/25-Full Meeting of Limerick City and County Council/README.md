@@ -62,7 +62,7 @@ Proposed Visit to Queens County, New York.pdf - [Original file](https://www.lim
 
 Chairperson's Report - Home and Social Development SPC.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/03%20%28l%29%20Chairperson%2527s%20Report%20-%20Home%20and%20Social%20Development%20SPC.pdf) - Text not extracted
 
-Housing Action Plan - Presentation at September Council Meeting 25_09_17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/04%20%28a%29%20Housing%20Action%20Plan%20-%20Presentation%20at%20September%20Council%20Meeting%20250917.pdf) - Text not extracted
+Housing Action Plan - Presentation at September Council Meeting 25/09/17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/04%20%28a%29%20Housing%20Action%20Plan%20-%20Presentation%20at%20September%20Council%20Meeting%20250917.pdf) - Text not extracted
 
 Community Initiative Scheme 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/04%20%28b%29%20Community%20Initiative%20Scheme.pdf) - Text not extracted
 

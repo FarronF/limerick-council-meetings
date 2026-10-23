@@ -16,34 +16,34 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-07-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-07-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach Den ence eacroddin Mion Thr.
-& Contae Luimnigh Comhaiste Cat a — =
-APN a -_ Gortbui,
+—_— Comhairle Cathrach De eee eacrodadin won Thr.
+& Contae Luimnigh Comhaiste Cat pe — —_
+APN ae - Gortbui,
 
-=> Limerick City An Caisliedn Nua Thiar,
 & County Council Ca. Luimnigh.
 
 Newcastle West Municipal District,
 
 Umerick City and County Council,
 
-Aras Wittiam Smith O'Bnen,
+Aras Wittlam Smith O'Bnen,
 
 Gortboy,
 
 Newcastle West,
 
-24 October, 2020 lait
+24 October, 2020 ee
 Eircode: V42EH73
 
 To: The Cathaoirleach and Each Member of the Municipal District of le
 
-S25 69 62100
+—=25 69 62100
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
@@ -59,7 +59,7 @@ AGENDA
 
 1. Minutes
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 2™
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 2
 September, 2020.
 
 (b) To adopt Minutes of Meeting of the Adjourned Meeting of the Municipal District of
@@ -79,14 +79,16 @@ To consider Draft Municipal District of Newcastle West (Parking Places)(Amendmen
 
 Laws, 2020.
 (Copy Enclosed)
-———
-Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach wwwailimerickcie
+anatase meet
+Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach wwwilimerickcie
 Corporate Headquarters, Merchant's Quay, Limerick v
 
-\ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6.
@@ -116,13 +118,13 @@ MEETING
 
 Notice of Motion submitted by Councillor L. Galvin
 
-| will move at the next Meeting that this Council call on Irish Water to rectify the
+Iwill move at the next Meeting that this Council call on Irish Water to rectify the
 serious problem it caused when the River Feale was interfered with at the Town Park,
 Abbeyfeale to divert water to the treatment plant.
 
 Questions submitted by Councillor L. Galvin
 
-| will ask at the next Meeting for (a) an update on the works for the Cryleview
+I will ask at the next Meeting for (a) an update on the works for the Cryleview
 entrance and an update on the sewerage issues in this estate in Abbeyfeale
 
 (b) an update on the Abbeyfeale Traffic Management Plan including drawings for the
@@ -140,7 +142,9 @@ Newcastle West (b) how many are on HAP (c) how many vacant houses have we in
 Newcastle West.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -192,4 +196,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

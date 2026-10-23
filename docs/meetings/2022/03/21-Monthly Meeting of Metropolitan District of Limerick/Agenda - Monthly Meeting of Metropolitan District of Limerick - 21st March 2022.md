@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-21st-march-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-21st-march-2022.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -95,7 +96,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -143,7 +146,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 Park are left to complete in the thermal upgrade works and what timescale is envisaged to complete
 
 the works.
----
+
+[[PAGE_END:2]]
+
 3
 
 **7.Question submitted by Councillor C. Slattery**
@@ -203,7 +208,9 @@ of the draft LSMATS, if the Council will commit to liaise with the NTA, to prior
 enhancement on the Condell Road, to serve the new and proposed housing developments, as well
 
 as Coonagh and the expansion of the TUS Campus at Coonagh Cross.
----
+
+[[PAGE_END:3]]
+
 4
 
 **13.Question submitted by Councillor J. Costelloe**
@@ -265,7 +272,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 capacity audit of Loughmore Canal and also examine the possibility of installing bunding around the
 
 culvert pipe at the canal.
----
+
+[[PAGE_END:4]]
+
 5
 
 **19.Notice of Motion submitted by Councillor S. Kiely**
@@ -275,4 +284,6 @@ I will move at the next Meeting of the Metropolitan District of Limerick that we
 possibility of having a temporary library for the Castletroy/Annacotty community until a permanent
 
 solution is found for the provision of a library for the area.
----
+
+[[PAGE_END:5]]
+

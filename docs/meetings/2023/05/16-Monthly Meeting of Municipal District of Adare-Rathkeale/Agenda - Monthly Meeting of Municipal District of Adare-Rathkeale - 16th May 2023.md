@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-16th-May-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 16th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-16th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
-& Contae Luimnigh Comhairle Cathwach agus Contae Luimnigh,
+& Contae Luimnigt Comhairle Cathyach agus Contae Luimnigh,
 
-a ™ Aras Séan Finn,
+a i™ Aras Séan Finn,
 
-——— Limerick City Bmpr
+—— Limerick City Bmpr
 & County Council Co. Luimnigh
 
-Adare-Rathkeale Municipal District.
+Adare-Rathkeale Municipal District,
 Limerick City and County Council
-Ayas Sean Finn,
+Avas Sean Finn,
 
 New Une
 
@@ -63,7 +64,7 @@ Meetings Administrator.
 
 AGENDA
 
-1. — Minutes
+1. Minutes
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
 on 11" April, 2023.
 (Copy Enclosed).
@@ -75,13 +76,15 @@ Disposal of Freehold Interest in property at 11 Desmond Drive, Adare, Co. Limeri
 
 (Report Enclosed).
 =
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 © vruralirverickia
-Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCounctt
+Ceanncheathri Chorpardéideach, Cé na gCeannaithe,Luimneach 1 © vruralirvaricisia
+Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCounctl
 
-061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Roads, Traffic & Cleansing
@@ -111,7 +114,6 @@ To consider receiving a Deputation from Community First Responder Group at a fut
 Meeting of the District.
 
 General Municipal Allocation (GMA)
-
 To review position in relation to allocations under the General Municipal Allocation
 2022/2023.
 
@@ -124,7 +126,9 @@ sewerage pumping station in Askeaton and what condition the area will be left in
 these works are complete.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -178,15 +182,19 @@ in the Adare public realm plan to present the plan to our district at the next m
 
 Notice of Motion submitted by Councillor A. Teskey
 
-I will move at the next Meeting that this District invite a member of Transport Infrastructure
+Iwill move at the next Meeting that this District invite a member of Transport Infrastructure
 ireland to our District to view and inspect the absolute appalling state of our national
 roads.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/Agenda%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2027th%20April%202017.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 27th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/Agenda%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2027th%20April%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha.
-Comhairte Cathrach agus Contae Luimnigh.
+Comhairle Cathrach agus Contae Luimnigh.
 
-ANG Ceanncheathru Chorparaideach,
+AANA Ceanncheathru Chorparaideach.
 = = Cé na gCeannaithe,
-COMHAIRLE aeumeach
+COMHAIRLE aamneach
 
 CATHRACH & CONTAE
-© 2 Corporate Services.
+. 0 Corporate Services.
 Luimnigh Limerick City and County Council
 yy... Corporate Headquarters,
 Limerick Merchants Quay.
-COUNCIL _—
+COUNCIL _——
 EIRCODE V94 EH90
 
 t: +353 (0) 61 407 100
@@ -58,10 +59,12 @@ AGENDA
 
 the District.
 = customorservices@limerick.ie
-1 @ wwwilimerickie
+1 @ wwwlimerickie
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
-Corporate Headquarters, Merchants Quay, Limerick (| 061 - 496200
+Corporate Headquarters, Merchants Quay, Limerick | 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+

@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st May 2018.
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 16th April 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%2016th%20April%202018.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20April%202018.md)
 
-Disposal of Land_ Montpelier O'Briens Bridge.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%28a%29%20Disposal%20of%20Land%20Montpelier%20O%20Briens%20Bridge.pdf) - Text not extracted
+Disposal of Land: Montpelier O'Briens Bridge.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%28a%29%20Disposal%20of%20Land%20Montpelier%20O%20Briens%20Bridge.pdf) - Text not extracted
 
 Disposal of Land 20 East Singland Road Garryowen.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/02%28b%29%20Disposal%20of%20Land%2020%20East%20Singland%20Road%20Garryowen.pdf) - Text not extracted
 

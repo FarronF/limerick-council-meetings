@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20220114-agenda-travel-transportation-spc-meeting-22.02.22.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 22nd February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20220114-agenda-travel-transportation-spc-meeting-22.02.22.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **11th February, 2022**
@@ -51,7 +52,9 @@ out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.Minutes**
@@ -125,7 +128,9 @@ allocation for disabled drivers?
 
 
 When will the next review take place?
----
+
+[[PAGE_END:2]]
+
 3
 
 **9.Question submitted by Ms. Ailish Drake**
@@ -155,4 +160,6 @@ and adjoining laneways
 one of the few pedestrianised streets in the city, up to and including bollards at the
 
 Thomas St entrance.
----
+
+[[PAGE_END:3]]
+

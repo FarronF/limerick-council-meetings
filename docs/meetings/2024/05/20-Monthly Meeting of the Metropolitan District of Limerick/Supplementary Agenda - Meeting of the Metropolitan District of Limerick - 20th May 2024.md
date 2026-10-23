@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-supplementary-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-may-2024.pdf)
+**Original file:** [Supplementary Agenda - Meeting of the Metropolitan District of Limerick - 20th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-supplementary-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7 aagel Comhairle Cathrach
+el Comhairle Cathrach
 & Contae Luimnigh
 AroN 2
 Limerick City
@@ -29,7 +30,7 @@ Limerick City
 
 A Chomhairleoir, a chara,
 
-Sewbhisi Corpargideacha.
+Sewbhisi Corparsideacha.
 
 Comhairle Cathrach agus Contae Luimnigh
 Ceanncheathni Chorpardideach,
@@ -67,14 +68,14 @@ Genera! Disposals
 
 Is mise le meas,
 
-ONG ; cy
-Mark Leahy
 Meetings Administrator
 
-Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Reports Attached)
 
 
----
+
+[[PAGE_END:1]]
+

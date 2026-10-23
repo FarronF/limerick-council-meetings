@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Agenda-Meeting-of-Economic-Development-Enterprise-and-Planning-SPC-20th-June-2022.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 20 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Agenda-Meeting-of-Economic-Development-Enterprise-and-Planning-SPC-20th-June-2022.pdf)
 
----
+[[FILE_START]]
+
 **1st** **June, 2022**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -50,4 +51,6 @@ Yours sincerely
 ***Pat Fitzgerald SEO,***
 
 ***Economic Development & Enterprise Directorate***
----
+
+[[PAGE_END:1]]
+

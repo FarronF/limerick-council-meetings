@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Agenda%20JPC%20Meeting%2016th%20December%202022.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 16th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Agenda%20JPC%20Meeting%2016th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: Seirbhisi Corpartideacna,
-ee Comhairle Cathrach Comhairle Cathvach agus Contae Luimnigh,
+: Seirbhisi Corpartideacha,
+es Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorpantidesch,
-arts at ‘“ ee Cé na gCeannaithe,
+arts i" ‘“ Se Cé na gCeannaithe,
 Limerick City Luimnesch
 
 = & County Council
@@ -33,9 +34,9 @@ Corporate Services,
 Limerick City and County Council,
 Corporate Headquarters,
 
-13” December, 2022 Mercharys Quay.
+13” December, 2022 Merchars Quay.
 Limerick
-TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE eve ee
+TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE ave eS
 
 t: 4353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -66,20 +67,22 @@ attached).
 8. To receive correspondence.
 9. Question submitted by Councillor Sean Hartigan :
 
-“| will ask at the next meeting, under what circumstances is garda vetting required for membership
+“lL will ask at the next meeting, under what circumstances is garda vetting required for membership
 of local community, voluntary, social inclusion and environmental organisations. ?”.
 
 = Customerservices@limerick.ic
 
 © Weve limerick.ie
 
-Ceanncheathri Chorparékieach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Ceanncheathri Chorparékieach, Cé na gCeannaithe, Lulmneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
 }
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -114,4 +117,6 @@ Notice of Motion submitted by Councillor Sean Hartigan :
 all meetings of the Joint Policing Committee”.
 
 
----
+
+[[PAGE_END:2]]
+

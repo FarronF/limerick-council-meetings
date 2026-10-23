@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-a-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-5th-april-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 5th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-a-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-5th-april-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -84,7 +85,9 @@ Authorities during this time, to identify and provide all necessary resources re
 to assist them in increasing housing supply.
 
 **Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**
----
+
+[[PAGE_END:1]]
+
 The Mayor noted that he had received an amendment to the original motion and it was
 
 proposed by Cllr. J. Sheahan, and seconded by Cllr. L. Galvin.
@@ -154,7 +157,9 @@ Secas, Sheehan (C).
 Councillor O’Donoghue.
 
 **(1)**
----
+
+[[PAGE_END:2]]
+
 The Mayor declared the Amended Motion proposed by Councillor J. Sheahan and seconded by
 
 Councillor L. Galvin as carried.
@@ -170,4 +175,6 @@ The Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-08/agenda-meeting-of-the-municipal-district-of-newcastle-west-2nd-september-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 2nd September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-08/agenda-meeting-of-the-municipal-district-of-newcastle-west-2nd-september-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach
+_—_— Comhairle Cathrach
 & Contae Luimnigh
-a a as
+a a ya
 Limerick City
 = & County Council
 
 28" August, 2026
 
-Didiche Bavdais an Chaisleain Nua Thiar,
+Didiche Bardais an Chaisleain Nua Thiar,
 Combhatie Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
@@ -70,7 +71,7 @@ AGENDA
 
 July, 2026.
 
-2. _ Declaration of Interest.
+2. Declaration of Interest.
 
 3. Disposal of Land
 
@@ -80,16 +81,18 @@ July, 2026.
 
 School Road, Carrigkerry, Athea, Co. Limerick.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 & customerservices@limerickie
 © wwwlimerickie
 
-( 061 - 556 000
+(061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -142,7 +145,9 @@ planned to be accommodated therein.
 Castletown/Ballygran, Feenagh/Kilmeedy and Dromcollogher areas.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -171,7 +176,7 @@ investment in Fullers Folly, which will have a museum and a link up to the Castl
 onto the Square. We hope to see Newcastle West become a major tourist attraction
 on this route.
 
-I will move at the next Meeting that the Council consider putting in age friendly
+| will move at the next Meeting that the Council consider putting in age friendly
 measures such as extra seating in the Demesne for older people.
 
 NOTICES OF MOTION
@@ -188,7 +193,7 @@ platforms before crossing at Railway gates on the Old Mill Road at both sides. P
 crossing on bikes and on foot from the Greenway are in danger of vehicles travelling
 at speed and not slowing down.
 
-' will move at the next Meeting that the Council look at potential areas in Newcastle
+twill move at the next Meeting that the Council look at potential areas in Newcastle
 West to provide extra car parking spaces.
 
 Notices of Motion submitted by Councillor L. Galvin.
@@ -200,7 +205,9 @@ Murphy's bend, Ballaugh.
 junction in Athea village.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -232,4 +239,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

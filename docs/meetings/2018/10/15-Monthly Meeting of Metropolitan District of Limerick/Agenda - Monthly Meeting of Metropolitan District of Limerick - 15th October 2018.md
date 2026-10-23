@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2015th%20October%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2015th%20October%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 : Seirbhisi Corpardideacha,
 if
-_——_— rp bereaket pein nek Comhairle Cathrach agus Contae Luimnigh,
-—_~ oO e inig' Ceanncheathru Chorparéideach,
-NE ™ 5 . . Cé na gCeannaithe.
-—=—_—> Limerick City Luimneach
+_——_ rp beeaket pin ek Comhairle Cathrach agus Contae Luimnigh,
+i —~ o e nig’ Ceanncheathra Chorparéideach,
+NEN 5 . . Cé na gCeannaithe.
+—=—> Limerick City Luimneach
 & County Council
 
 Corporate Services,
@@ -35,7 +36,7 @@ Corporate Headquarters,
 Merchants Quay.
 Limerick
 
-10" October, 2018. _
+10" October, 2018. —_
 EIRCODE V94 EH90
 
 t: 4353 (0) 61 557150
@@ -51,7 +52,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-On
+CO,
 
 James Clune,
 
@@ -79,12 +80,14 @@ To note proposal for the disposal of land as follows:
 
 (Reports Enclosed).
 @ customerservices@limerick.ie
-© wwew.limerick.ie
+& wwew.limerick.ie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Capital Investment Directorate
@@ -131,7 +134,9 @@ Question submitted by Councillor J. Costelloe
 cameras there are in Limerick City North and how many are monitored and in working order.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
@@ -187,7 +192,9 @@ speedbumps and road surfacing on the Rhebogue road which were not completed to t
 standard proposed originally and implemented by Smarter Travel elsewhere in the city.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -219,7 +226,7 @@ Notice of Motion submitted by E. to b rred to the Community, Leisure and
 
 Emergency Services Strategic Policy Committee)
 
-I will move at the next meeting that Limerick City and County Council make available a
+| will move at the next meeting that Limerick City and County Council make available a
 suitable site for a community centre for Castletroy, Monaleen, Annacotty and surrounding
 areas.
 
@@ -232,4 +239,6 @@ multidisciplinary space which would be suitable for use by various sports, arts 
 groups in the City for training, practices, and rehearsals.
 
 
----
+
+[[PAGE_END:4]]
+

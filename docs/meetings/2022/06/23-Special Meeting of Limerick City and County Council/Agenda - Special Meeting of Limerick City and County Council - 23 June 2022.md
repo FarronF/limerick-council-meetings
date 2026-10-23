@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-23-June-2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 23 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-23-June-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach P a Caton a
-a = & Contae L igh Ceanncheathra Chorparaideach,
+— Comhairle Cathrach 7 he Cathe a
+Sr = & Contae L igh Ceanncheathra Chorparaideach,
 — Cé na gCeannaithe,
 
-Limerick City Luimneach
+Limerick City Lumneach
 = & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -35,7 +36,7 @@ EIRCODE VS4 EHSO
 
 t: 4353 (0) 61 557150
 f: 4353 (0) 61 415 266
-15" June, 2022.
+15 June, 2022.
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -55,13 +56,15 @@ Meetings Administrator. ———
 
 es customerservices@limerickio
 
-© veers imerickie
+© veerwimerickie
 
-eee W @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
+ee eee W @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Carroll, Siobhan
@@ -84,7 +87,9 @@ Cllr Sharon Benson
 2102084
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31st of May 2022
@@ -96,46 +101,48 @@ and County Council to discuss and propose the following motion:
 This council calls on the Government and the Minister for Housing to declare a housing
 emergency and to use emergency powers to introduce an immediate ban on evictions.
 
-Cllr Sharon Benson Baorow, Gerson
+Cllr Sharon Benson Saurcw, Gerson
 t\ —_—
-Clir Tom Collopy Xl P Let
+Clir Tom Collopy Xl P lef
 !
-Clir PJ Carey \
-Clir Sean Hartigan St * \\ ~\ "LS
-r™ 0 rrr
-Cllr Sasa Novak 4 » Urn 6
+Clic PJ Carey \
+Clir Sean Hartigan &-* \\ ~\" LS
+cr™ O rrr
+Cllr Sasa Novak 1 4 , Urn 6
 
 (VAN VO
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-BUILDING AN IRELAND OF £ :
-QuAls
+BUILDING AN JRELAMO OF £ ::
+QuALS
 Clir, PJ CAREY
-Ardhvinartin, Ginallods, Co. Limerich
+Ardhvinartin, inallods, Co. Limerich
 087-212 5273
-py carey epunerich ie
+py careyepimerich je
 
-“To whon ‘ce cConcas NS)
+“To whonw \e Concas NS,
 
 of rey
 
-ws oirinsy *~o nO Ye, C4 yo
+ws ebnsy os nO Ye C4 “4°o-*
 
-| an
+| An
 
-coKRSenrY +o Cowc Nor Ghoron Berson S
-reaue st for Ow UraerX Spear Aeetiney
-reajardh ney Ane career honSarey Gordes.
+coKRSeNnY +o Cowc Nor Ghoron Berson S
+reaue st for Ow Ue aerX Sgecnat Aeekinsy
+reaards ney Ane career honSarey Gordes.
 
-| wy ole ho he & eranater :
+| wy ole ho he @& Sra nate :
 Thanck yen,
-Reejordh$S
-
-Signed * PX. Gore
+Reeajord$
 
 
 
----
+
+[[PAGE_END:4]]
+

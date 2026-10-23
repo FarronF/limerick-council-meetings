@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-september-2024.pdf)
+**Original file:** [Minutes - Meeting of The Metropolitan District of Limerick - 16th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-september-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -86,7 +87,9 @@ And Resolved:
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act, 2001, as
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
----
+
+[[PAGE_END:1]]
+
 2
 
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
@@ -156,7 +159,9 @@ Council in this regard, for approval.
 The report, as circulated, was noted by Members.
 
 (g) Circulated, Report of the Administrative Officer, Rural, Community & Culture Development
----
+
+[[PAGE_END:2]]
+
 3
 
 Directorate dated 4th September, 2024, setting out proposals for Disposal of Property at 19 Clare
@@ -226,7 +231,9 @@ here.
 ***been purchased in the Metropolitan District area to enable tenants remain in situ under the***
 
 ***Government Scheme since it was launched, and how many are projected for purchase in 2024.***
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY**: The Housing Directorate have 542 cases relating to Notice to Quits in the Limerick
@@ -350,7 +357,9 @@ of the scheme.
 funded through the Croí Conaithe (Towns) Fund, on behalf of the Department of Housing,
 
 Local Government and Heritage.
----
+
+[[PAGE_END:4]]
+
 5
 
 Applications to the grant scheme are assessed on an ongoing basis. Grant approval is given
@@ -444,7 +453,9 @@ is outlined below in Table 1. The Table shows that the CAS delivery stream deliv
 units in total in the Metropolitan District which represents 10.7% of the total build and
 
 acquisition completions in the same timeframe.
----
+
+[[PAGE_END:5]]
+
 6
 
 **LIMERICK**
@@ -632,7 +643,9 @@ Consultants are in the process of being appointed and a consultation will be hel
 community to ensure the needs of the community are met as part of the design process for
 
 the project. A Part 8 planning application is required for the project and once planning is
----
+
+[[PAGE_END:6]]
+
 7
 
 received, the project can process to the tender stage where a contractor will be
@@ -700,7 +713,9 @@ Development Act 2000 (as amended) in relation to works being undertaken at Colbe
 Station and is engaging with the developer in relation to addressing outstanding matters.
 
 **16.Question submitted by Councillor S. Kiely**
----
+
+[[PAGE_END:7]]
+
 8
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, that, having regard to road***
@@ -794,7 +809,9 @@ for each. The fee to surrender restricted breeds at Limerick Dog Shelter has bee
 since July of this year in light of the announcement of the ban on XL Bully dogs by the
 
 Minister for Rural and Community Affairs, Heather Humphries.
----
+
+[[PAGE_END:8]]
+
 9
 
 **19.Question submitted by Councillor S. Hickey-O’Mara**
@@ -864,7 +881,9 @@ addiction and mental health through the relevant provider.
 ***bring these back into use and the average cost per house.***
 
 **REPLY**:
----
+
+[[PAGE_END:9]]
+
 10
 
 ***Vacant Social Housing Units Major***
@@ -948,7 +967,9 @@ Medium Business Support Scheme, where the ratepayer may be entitled to 13.5% reb
 of their annual rates, up to a maximum grant of €1,500 if the applicant is paying their Rates
 
 by Direct Debit or pays their annual rates in full by 31st July.
----
+
+[[PAGE_END:10]]
+
 11
 
 The Council continues to encourage customers who are experiencing difficulties to engage
@@ -1024,7 +1045,9 @@ progression.
  In relation to acquisitions, a check to ensure that no first-time buyers are bidding. The
 
 Housing Directorate seeks confirmation from the vendor/Estate Agent that first-time
----
+
+[[PAGE_END:11]]
+
 12
 
 buyers are not involved in bidding for the property. If they are, the Housing Directorate
@@ -1102,7 +1125,9 @@ The coordination and delivery of the civic festivals including St. Brigid's Day,
 Riverfest, Samhain and Christmas in Limerick are delivered primarily by the Festival and
 
 Events team who are also responsible for the allocated budget for these events.
----
+
+[[PAGE_END:12]]
+
 13
 
 The Night Time Economy (NTE) Advisor holds an advisory role, providing input and support
@@ -1190,7 +1215,9 @@ to the night-time economy in Limerick. An extensive consultation plan is current
 underway, aiming to gather input from a wide range of stakeholders. The outcome of this
 
 consultation process will shape the Action Plan, a draft of which is expected in the coming
----
+
+[[PAGE_END:13]]
+
 14
 
 months. The approved Action Plan will focus on key issues identified and will be delivered
@@ -1262,7 +1289,9 @@ Road will need to be considered once the Limerick City Transport Plan is finalis
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on the Council***
 
 ***acquiring a stake in the Markets Field Stadium.***
----
+
+[[PAGE_END:14]]
+
 15
 
 **REPLY**: The Council is continuing its engagements with the LEDP and relevant stakeholders
@@ -1336,7 +1365,9 @@ Committee.
 ***County Council engage with the Northstar Family Support Project and provide them with a***
 
 ***permanent premises for their vital service.***
----
+
+[[PAGE_END:15]]
+
 16
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Pond and
@@ -1406,7 +1437,9 @@ be amended to also include apartments.
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Leddin and
 
 agreed.
----
+
+[[PAGE_END:16]]
+
 17
 
 In proposing the Motion, Councillor O’Donovan referred to the recent incident with emissions from
@@ -1474,7 +1507,9 @@ Metropolitan District Area, be given to the Members of the Metropolitan District
 Development Agency.
 
 **38.Notice of Motion submitted by Councillor S. Kiely**
----
+
+[[PAGE_END:17]]
+
 18
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this local authority***
@@ -1546,7 +1581,9 @@ Strategic Policy Committee.
 ***way to Limerick becoming a Living Wage City by ensuring all staff in its employ earning a living***
 
 ***wage, and factor that policy into all its contracts it undertakes.***
----
+
+[[PAGE_END:18]]
+
 19
 
 The Notice of Motion was proposed by Councillor Gavan, seconded by Councillor Benson and
@@ -1612,4 +1649,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:19]]
+

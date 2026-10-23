@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01b-2020-09-09-minutes-september.pdf)
+**Original file:** [Minutes - Adjourned Monthly Meeting of the Municipal District of Newcastle West - 9th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01b-2020-09-09-minutes-september.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -35,7 +36,7 @@ Councillors Collins, Galvin, Ruddle, Scanlan and Sheahan.
 OFFICIALS IN ATTENDANCE:
 
 Director, Community Development Directorate (Mr. G. Daly), Senior Executive Engineer, West
-Division (Mr. G. O’Connor), Executive Engineer, Roads (Mr. P. Vallely), Acting Executive
+Division (Mr. G. O'Connor), Executive Engineer, Roads (Mr. P. Vallely), Acting Executive
 Engineer, Housing (Mr. D. Toomey), Meetings Administrator, Newcastle West (Ms. M.
 Corbett), Clerical Officer, Newcastle West (Ms. A. Lenihan).
 
@@ -66,7 +67,9 @@ Circulated, report of Senior Executive Engineer, Operations and Maintenance Serv
 20" August, 2020.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer, West Division, referred to the report and the Draft Road Traffic
@@ -92,7 +95,7 @@ Church View, Castlemahon
 
 Fr. Casey Close, Abbeyfeale
 
-He stated that the proposed bye-laws were put on display from the 3 July, 2020 to the 3%
+He stated that the proposed bye-laws were put on display from the 3 July, 2020 to the 3@
 August, 2020 and no submissions were received. He stated that the approval of the Members
 was now sought to progress the matter to the Full Council Meeting.
 
@@ -108,7 +111,7 @@ To receive update on the Newcastle West Public Realm and Traffic
 Movement Plan.
 
 The Senior Executive Engineer, West Division, gave an update to the Members on the Draft
-Newcastle West Public Realm and Traffic Movement Plan,
+Newcastle West Public Realm and Traffic Movement Plan.
 
 He referred to Phase 1 and Phase 2 which have now been completed and stated that Phase 3
 Full Public Consultation, which had been delayed due to Covid19, is the next phase in the
@@ -122,7 +125,9 @@ Following discussion, it was agreed that a workshop for the Councillors with the
 would be arranged prior to the Draft Plan going on public display.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. General Municipal Allocation (GMA)
@@ -142,7 +147,7 @@ allocate €1,000 to Newcastle West Tidy Towns.
 On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agreed to allocate
 €1,000 to Monagea GAA for new astroturf pitch.
 
-5. rt. Galvin
+5. rl. Galvin
 
 ! will ask at the next Meeting that this Council calls on the new Minister for Health Stephen
 Donnelly and Minister Roderic O'Gorman, Minister for Children, Disability, Equality and
@@ -175,7 +180,9 @@ responsible for granting planning (c) what are the planning conditions (d) were 
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 conditions adhered to (e) is there a public right of way up to the Cross and if so who is
@@ -193,9 +200,9 @@ Engineer stated that he was not aware of any public right of way at this locatio
 discussion took place on this matter and on other historical sites and forestry lands in the
 District.
 
-7. ion submitt illor L. Ivin
+7. ion submitt itor L. Ivin
 
-1! will ask at the next Municipal Meeting that this Council paints the entrance and
+! will ask at the next Municipal Meeting that this Council paints the entrance and
 surrounding areas to Fr Casey’s Close Abbeyfeale.
 
 REPLY: The Community Sustainment Unit actively engages with the residents of
@@ -214,15 +221,17 @@ estate. It was also noted that the Abbeyfeale Tidy Towns group may be able to as
 
 8. Question submitted by Councillor F. Foley
 
-1 will ask at the next Meeting for a copy of the planning permission and a copy of the
+! will ask at the next Meeting for a copy of the planning permission and a copy of the
 Environmental Impact Statement from Irish Water with regard to the works which they
-carried out on the River Feale, Abbeyfeale at McCarthy's bend with regard to diverting
+carried out on the River Feale, Abbeyfeale at McCarthy’s bend with regard to diverting
 water to the Abbeyfeale Water Treatment Plant.
 
 REPLY: No response from Irish Water.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. s i illor T
@@ -237,7 +246,7 @@ REPLY:
 
 The regulation of traffic is a matter for the Traffic Authority — An Garda Siochana. Since 2015
 the laws governing cycling have been regulated into specific fixed charge offences. Gardai
-have the power to stop and fine a cyclist if they commit a fixed charge offence. Cycling on a
+have the power to stop and fine a cyclist if they commit a fixed charge offence. Cycling ona
 footpath is not a fixed charge offence. However other laws do include it as an offence.
 
 Article 11 of the Road Traffic (Traffic and Parking) (Amendment) (No. 2) Regulations
@@ -283,12 +292,14 @@ follows:
 pedalling or scooting it) then it is considered to be a ‘mechanically propelled vehicle’(MPV).
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Under road traffic law if an MPV is used in a public place it is subject to all of the regulatory
 controls that apply to other vehicles i.e. it must be roadworthy, registered, taxed and insured.
-¢The driver of the vehicle must hold the appropriate driving licence and is obliged to wear a
+*The driver of the vehicle must hold the appropriate driving licence and is obliged to wear a
 crash helmet.”
 
 Penalties under road traffic laws for using such a vehicle include fixed charge notices, penalty
@@ -297,7 +308,7 @@ points, fines and possible seizure of the vehicle.
 Former Minister for Transport, Shane Ross TD, in 2019 requested the RSA to carry out
 research into how other EU member States regulate their use. Its key recommendations can
 
-be found at the — link - hines.Lwwews sae fen /Atiity/News (2019/recommendations-
+be found at the — link - bins. LwwwsrsaiefenAtiity/News /2019/recommendations-
 
 devices/,
 
@@ -313,7 +324,7 @@ motorised scooters on footpaths which are highly dangerous for young and old ped
 He asked that signage be put in place on footpaths to make people aware that this is not
 acceptable.
 
-10. Question submitted by Councillor T. Ruddie
+10. Question submitted by Councillor T. Ruddile
 
 | will ask at the next Meeting if the Council could consider having an assigned person to look
 after the general cleaning and maintenance of Newcastle West Playground, multi use play
@@ -326,12 +337,14 @@ continue with daily maintenance at these play facilities.
 
 11. Question submitted by Councillor J. Scanlan
 
-/ will ask at the next meeting when footpath renewal work is likely to be undertaken along
+1 will ask at the next meeting when footpath renewal work is likely to be undertaken along
 the right hand Beechwood Ave., approach to Meadow Court Estate.,
 as well as that fronting properties towards House No. 20 on the left hand side therein.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Footpath upgrades for the above can be considered under the 2021 Works
@@ -339,18 +352,18 @@ Programme.
 
 12. Question submitted by Councillor J. Scanlan
 
-! will ask at the next Meeting that the accumulated waste evident at the Water Tower
+| will ask at the next Meeting that the accumulated waste evident at the Water Tower
 entrance to St. David’s be removed.”
 
 REPLY: This waste will be removed.
 
 13. Question submitted by Councillor J, Scanlan
 
-! will ask at the next Meeting that the internal junction next House 58 in Killeline be lined
+| will ask at the next Meeting that the internal junction next House 58 in Killeline be lined
 with a stop sign put in place in the interest of general safety.
 
 REPLY: The requested works will be carried out within the next week.
-14. Question submitted by Councillor M. Collins
+14. Question submitted by Councillor M, Collins
 
 ! will ask at the next Meeting if signage on dog fouling can be erected along the N21 at
 South Quay to remind people to pick up their dog litter.
@@ -371,7 +384,7 @@ placed along South Quay.
 NOTICES OF MOTION
 
 15. Notice of Motion submitted by Councillor L. Galvin
-! will move at the next Meeting that this Council uses its new powers under the Derelict Sites
+1 will move at the next Meeting that this Council uses its new powers under the Derelict Sites
 
 Act against the Limerick and Clare Education Training Board regarding the maintenance of
 the Convent of Mercy, Abbeyfeale.
@@ -379,7 +392,9 @@ the Convent of Mercy, Abbeyfeale.
 The Motion was seconded by Councillor Foley.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Limerick City and County Council will arrange to carry out an inspection on the
@@ -388,7 +403,7 @@ provided to the Elected Members as soon as possible.
 
 16. Notice of Motion submitted by Councillor L. Galvin
 
-! will move at the next Meeting that this Council call on Irish Water to rectify the serious
+will move at the next Meeting that this Council call on Irish Water to rectify the serious
 problem it caused when the River Feale was interfered with at the Town Park, Abbeyfeale
 to divert water to the treatment plant.
 
@@ -401,7 +416,7 @@ at this location. He stated that over 30 metres of riverbank had been eroded clo
 park in Abbeyfeale.
 
 The Meetings Administrator confirmed that contact had been made with Irish Water by the
-Council's Water Services Department on a number of occasions but no response had been
+Council’s Water Services Department on a number of occasions but no response had been
 received to date.
 
 Councillor Foley referred to the seriousness of river erosion close to the town park and to the
@@ -425,7 +440,9 @@ It was also proposed by Councillor Scanlan and seconded by Councillor Galvin tha
 be requested to attend the October Meeting of the District to discuss the above matters.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17. Notice of Motion submitted by Councillor T. Ruddle
@@ -470,7 +487,7 @@ Rory McDermott rory.mcdermott@limerick.ie (Limerick City)
 19. Notice of Motion submitted by Councillor J. Scanlan
 
 | will move at the next Municipal District Meeting that a full review of the qualifying
-parameters for our local improvement scheme be undertaken.
+porameters for our local improvement scheme be undertaken.
 
 The Motion was seconded by Councillor Sheahan.
 REPLY: Qualifying criteria under the Local Improvement Scheme grants are set out by
@@ -478,7 +495,9 @@ REPLY: Qualifying criteria under the Local Improvement Scheme grants are set out
 9
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the Department of Rural and Community Development.
@@ -488,7 +507,7 @@ Local Improvement Scheme to ensure that the scheme is being managed in
 accordance with the Department's requirements to the best interests of those
 applicants who meet such criteria.
 
-A discussion followed and Members noted that a memo was received by the Council from the
+Adiscussion followed and Members noted that a memo was received by the Council from the
 Department of Rural and Community Development in February with regard to the criteria for
 the scheme.
 
@@ -522,7 +541,7 @@ required to determine the suitability of each location.
 At this point in the Meeting the Cathaoirleach, proposed a fifteen minute time extension
 to complete the business on the Agenda. This was seconded by Councillor Collins.
 
-21. Notice of Motion submitted by Councillor J. Scanlan
+21. Notice of Motion submitted by Councillor J. Scanian
 
 | will move at the next Meeting that Limerick City and County Council look at the cleaning
 and Security of Newcastle West Playground. In recent times the playground has become
@@ -531,7 +550,9 @@ an area for littering and anti social behaviour.
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was seconded by Councillor Ruddle.
@@ -583,7 +604,9 @@ Newcastle West.
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It was agreed to hold the October Meeting of the District on Wednesday, 7" October, 2020,
@@ -605,4 +628,6 @@ Dated:
 12
 
 
----
+
+[[PAGE_END:12]]
+

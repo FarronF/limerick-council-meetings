@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%202017-12-13%20Minutes%20December.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 13 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%202017-12-13%20Minutes%20December.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -82,7 +83,9 @@ And Resolved:
 The Cathaoirleach and Members extended their condolences to B. Kennedy, Senior
 
 Executive Officer, on his recent bereavement.
----
+
+[[PAGE_END:1]]
+
 2.
 
 Economic Development Directorate
@@ -160,7 +163,9 @@ funding and completed a Technical and Feasibility Study on the possibility of co
 old convent into a Technology Hub to improve employment prospects within the area. It is
 
 possible to convert this building but some financial support would be required.
----
+
+[[PAGE_END:2]]
+
 The Members acknowledged the work of Abbeyfeale Community Council and the challenges
 
 facing the group.
@@ -232,7 +237,9 @@ Ireland, as appropriate. The Members approval was now being sought to proceed wi
 publication of Draft Bye Laws for public consultation, in accordance with the guidelines.
 
 Also Circulated:
----
+
+[[PAGE_END:3]]
+
 • Limerick City and County Council, County Limerick Road Traffic Special Speed Limit
 
 Bye Laws 2018 for Regional and Local Roads (Draft);
@@ -306,7 +313,9 @@ it was agreed that a traffic count would be carried out for this road.  It was a
 an update on this item would be provided at the February 2018 Meeting of the Municipal
 
 District of Newcastle West.
----
+
+[[PAGE_END:4]]
+
 7.
 
 Support Services Directorate – Corporate Services
@@ -378,7 +387,9 @@ To receive update on the provision of new graveyard in Abbeyfeale
 The Senior Executive Engineer, stated that a further trial hole tests had been carried out at
 
 the Clash Road site along with trial hole testing at three other sites. The GPR survey on St.
----
+
+[[PAGE_END:5]]
+
 Mary’s Graveyard and the Church of Ireland Graveyard was carried out and results will be
 
 available shortly. The Members requested they be informed of the results when available.
@@ -448,7 +459,9 @@ No. 1 (West). Limerick City & County Council Water Services staff are liaising w
 Irish Water Site Security team in order to complete the procurement process on this
 
 project. The elected Members will be updated when contractor has been appointed.
----
+
+[[PAGE_END:6]]
+
 12.
 
 Question submitted by Councillor L. Galvin
@@ -512,7 +525,9 @@ The Members also queried if there was any update from Corporate Services with re
 the conflict of interest item which was raised at a previous meeting. The Director advised
 
 that he would follow up this matter with Corporate Services.
----
+
+[[PAGE_END:7]]
+
 **REPLY:**
 
 The following is an extract from the Limerick City and County Council Standing Orders for
@@ -604,7 +619,9 @@ Notice of Motion submitted by Councillor L. Galvin
 In proposing the Motion Councillor Galvin stated a voluntary group are willing to develop a
 
 community graveyard in this area. Councillor Browne stated that he had raised this matter
----
+
+[[PAGE_END:8]]
+
 previously. The Director of Services advised that he would discuss this matter with the
 
 Planning and Environmental Services Department.
@@ -656,4 +673,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

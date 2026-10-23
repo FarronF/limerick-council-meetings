@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ae Comhairle Cathrach ; Coantar Bardasach Ath Dara-Rath Cacla,
-& Contae Luimnigh Comnhetie Cathrach eg.s Contac Luimmnigh,
-A Yi g Aras Séan Fin.
-———= _—_siLimerick City Rsth Csola,
+& Contae Luimni Comnhetie Cathrach sg.s Contac Luimmnigh,
+A me, e igh Aras Séan Fin.
+———= _~—_sdLimerick City Réth Cola,
 
 & County Council Co. Luimnigh
 
@@ -48,7 +49,7 @@ th t: 4353 (0) 69 64047
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 11™ March, 2025 at 9.30 a.m.
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 11" March, 2025 at 9.30 a.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -66,18 +67,20 @@ To adopt Minutes of the following Meetings:
 (a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 11" February,
 2025.
 
-(b) Special Meeting of the Municipal District of Adare-Rathkeale held on 20” February,
+(b) Special Meeting of the Municipal District of Adare-Rathkeale held on 20" February,
 2025.
 
 (Copies Enclosed).
 = kie
 
-Sean So SS eee 1 @ veo Mimerickie
-Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
+RE CS SS ee 1 @ veo Mimerickie
+Corporate Headquarters, Merchants Quay, Limerick, @LimerickCouncil
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Declaration of Interest
@@ -114,10 +117,12 @@ General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation 2025.
 
-nN
+nw
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -167,7 +172,9 @@ what measures if any have they undertaken to address the impending closure of Wy
 Nutritional.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -189,4 +196,6 @@ especially around the number of days it was being repaired in 2024 and the costs
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/00-agenda-7th-july-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 7th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/00-agenda-7th-july-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
@@ -26,8 +27,8 @@ Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
 
 Aras Séan Finn,
 
-AN MS - : ; ee Lina Nua,
-Limerick City Rath Caola,
+aro f" =, - . : Line Nua,
+Limerick City _ Rath Caota,
 
 = & County Council Co. Luimnigh.
 
@@ -41,7 +42,7 @@ Rathikeale,
 
 Ca. Limerick.
 
-1* July, 2020. BIRCODE V94 HKIV
+1* July, 2020. EIRCODE V94 HKIV
 
 t: +353 (0) 69 64047
 f: +353 (0) 69 63188
@@ -58,7 +59,7 @@ Karen Butlér,
 Meetings Administrator.
 
 AGENDA
-1, Minutes
+1. Minutes
 To adopt Minutes of the following Meetings:
 (a) Meeting of the Municipal District of Adare-Rathkeale held on 9 June, 2020.
 
@@ -70,11 +71,13 @@ District Engineers Report
 To update Members on issues of interest in the District.
 (Report Enclosed)
 = ie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach ] p pet
+Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach ] p pet Te
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -110,7 +113,9 @@ Notice of Motion submitted by Councillor A. Teskey
 boundary fencing etc along the river bank by the Sli na Slainte walk in Rathkeale as part of
 the recent investment into the Greenway.
 
-0.8
+0.B
 
 
----
+
+[[PAGE_END:2]]
+

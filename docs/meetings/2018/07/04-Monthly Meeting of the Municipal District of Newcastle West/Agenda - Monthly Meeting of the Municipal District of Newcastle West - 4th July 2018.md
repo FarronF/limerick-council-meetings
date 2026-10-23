@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Duiche Bardais an Chaisleain Nua Thiar,
 —=-— Comhairle Cathrach agus Contae Luimnigh,
 
-An fm ™ Aras William Smith O'Brien.
+An Mf ™ Aras William Smith O'Brien.
 Gortbui,
 : —= = An Caislean Nua Thiar,
 Limerick Co, Luimnigh
@@ -37,7 +38,7 @@ Co. Limerick
 t: +353 (0) 69 62100
 f: +353 (0) 69 62861
 29" June, 2018
-To: T haoirleach and Each M f the Municipal District of !
+To: T haoirleach and Each M f the Municipal District of t
 
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
@@ -47,13 +48,13 @@ at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 ts mise le meas,
 
-Ad, Pathe Corbett,
+Ad, Peatke Corbett,
 
 Meetings Administrator.
 
 AGENDA
 
-aS Minutes
+nS Minutes
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
 15" June, 2018.
@@ -63,22 +64,24 @@ aS Minutes
 (b) To adopt Minutes of Annual Meeting of the Municipal District of Newcastle West
 held on 27" June, 2018.
 
-{Copy Enclosed)
+(Copy Enclosed)
 
 2. Physical Development Directorate
 
 To receive update on Invasive Species.
 
-= Customerservices@limerickte
+= customerservices@limerickte
 
-Ceanncheathni Chorpardideach, Cé na gCeannalthe, Luimneach  wwwlimerickte
+Ceanncheathni Chorpardideach, Cé na gCeannalthe, Luimneach < wwwalimerickte
 
 Corporate
 
 Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8.
@@ -127,7 +130,9 @@ building and roof of the property at Church Street, Newcastle West next to the A
 car park.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
@@ -176,4 +181,6 @@ of full planning) for the provision of a new Graveyard for the people of Abbeyfe
 its hinterland.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-iii-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-2nd-November-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 2nd November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-iii-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-2nd-November-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON
@@ -74,7 +75,9 @@ attend this meeting.”
 In proposing the Motion, Cllr Teskey thanked the Mayor for agreeing to call this Special
 
 Meeting to discuss the issue of boil water notices being issued by Uisce Éireann.
----
+
+[[PAGE_END:1]]
+
 2
 
 He outlined how the boil water notice issued by Uisce Éireann was affecting approximately
@@ -142,7 +145,9 @@ finished in July 2023 and that all staff were now fully under the control of Uis
 Limerick City and County Council therefore no longer has any direction or control over these
 
 staff and that a Master Co-Operation Agreement was now in place with Uisce Éireann
----
+
+[[PAGE_END:2]]
+
 3
 
 instead. She agreed to arrange for the circulation to the Elected Members of the link on the
@@ -174,4 +179,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

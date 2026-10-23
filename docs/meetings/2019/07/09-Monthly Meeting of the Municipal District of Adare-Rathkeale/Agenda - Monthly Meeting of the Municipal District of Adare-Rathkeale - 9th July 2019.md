@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%209th%20July%2C%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%20Agenda%209th%20July%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhaire Cathrach __ Ceantar Bardasach Ath Dara-Réth Cacta,
-& Contae Luimnigh Comhalrle Catheach agus — prs
-BQ a — as Séan Finn,
+_ Comhairle Cathrach __ Ceantar Bardasach Ath Dara-Réth Cacta,
+& Contae Luimnigh Comhalrle Catheach agus — Linn
+BQ a as Séan Finn,
 
-—= Limerick City =lna ee,
-& County Council Ga, Liki,
+—= Limerick City = Una ie,
+& County Council Gs, Lire,
 
 Adare-Rathkeale Municipal District,
 Umerick City and County Council,
@@ -41,7 +42,7 @@ Co. Limerick.
 EIRCODE V4 HIV
 
 143 ( 047
-2” July, 2019. t 455 (o) € 64047
+2” July, 2019. t 455 (o) €9 64047
 To:
 A Chomhairleoir, a chara,
 
@@ -51,7 +52,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-10-59-
+10-59
 
 Karen Butler,
 Meetings Administrator.
@@ -60,8 +61,8 @@ AGENDA
 
 1. Minutes
 To adopt Minutes of the following Meetings:
-(a) Meeting of the Municipal District of Adare-Rathkeale held on 14" May, 2019.
-(b) Annual Meeting of the Municipal District of Adare-Rathkeale held on 11 June, 2019.
+(a) Meeting of the Municipal District of Adare-Rathkeale held on 14 May, 2019.
+(b) Annual Meeting of the Municipal District of Adare-Rathkeale held on 11" June, 2019.
 (c) Special Meeting of the Municipal District of Adare-Rathkeale held on 11" June, 2019.
 (Copies Enclosed)
 
@@ -72,7 +73,9 @@ Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 ( 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -86,7 +89,7 @@ To note proposal for the disposal of land as follows:
 To consider and adopt the Special Speed Limit bye-laws.
 
 (Copy Enclosed)
-sign and Ss
+sign and S
 
 To receive an update on the path from Kildimo Village to the Beer Garden Public House.
 
@@ -105,10 +108,12 @@ French Group Encampment, Rathkeale
 
 To discuss the recent French group encampment at the Five Crosses, Rathkeale.
 
-tN
+nN
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 General Municipal Allocation (GMA) 2019
@@ -118,4 +123,6 @@ To review position in relation to allocations under the General Municipal Alloca
 AOB
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-april-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 14th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ that the proposal was to defer the payment of the money until issues between the
 groups are resolved. He suggested that a Private Briefing would be organised for the
 
 Members to resolve the issue.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Keary;
@@ -154,7 +157,9 @@ is substantial.
 Councillor Collins stated she fully supported Councillor O’Donoghue’s sentiments adding
 
 that footpaths within the Adare-Rathkeale Municipal District require attention and
----
+
+[[PAGE_END:2]]
+
 3
 
 asked if an assessment can be carried out on all footpaths in the villages within the
@@ -226,7 +231,9 @@ agreed to allocate the following (from 2025 allocation):
 • €1,000 to Knockaderry Cloncagh Resource Centre.
 
 • €400 to Banogue National School.
----
+
+[[PAGE_END:3]]
+
 4
 
 • €1,000 to Crecora/Manister GAA Club.
@@ -294,7 +301,9 @@ representative from Traffic Infrastructure Ireland would also be invited to atte
 them to address this issue.
 
 This concluded the Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 Signed:
@@ -306,4 +315,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

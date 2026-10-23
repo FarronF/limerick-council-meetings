@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28a%29%202017-06-07%20Minutes%20June%20%20Meeting%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 7th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28a%29%202017-06-07%20Minutes%20June%20%20Meeting%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -69,10 +70,10 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. General Municipal Allocation (GMA)
+[[PAGE_END:1]]
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Foley, seconded by Councillor Collins it was agreed to allocate the
 following:
@@ -124,10 +125,12 @@ Limerick.
 
 The main key actions were noted as follows:
 
-¢ Balanced Incremental Development — multiple small/medium scale projects developed
+¢ Balanced incremental Development — multiple small/medium scale projects developed
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 rather than large scale redevelopment.
@@ -190,20 +193,22 @@ Council was liaising with the HSE in relation to suitability of these sites. It 
 reports would be available for the July Meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
 
 5. Question submitted by Councillor L. Galvin
 
-1 will ask at the next Meeting if the trees on the left-hand side entering the town from
+! will ask at the next Meeting if the trees on the left-hand side entering the town from
 Newcastle West at Mountmahon, Abbeyfeale can be replaced.
 
 REPLY: The Parks Department will assess the requirements on the ground and will revert
 to Councillor Galvin with proposals.
 
-6. ion mi’ ncillor L. Galvin
+6. ion mi ncillor L. Galvin
 
 | will ask at the next Meeting for an update on road repairs adjacent to pumping station at
 the back of properties on Bridge Street, Abbeyfeale.
@@ -213,7 +218,7 @@ County Council have a right of way across this roadway.
 
 7. Question submitted by Councillor L. Galvin
 
-1 will ask at the next Meeting for an update on progress in relation to resurfacing of the road
+! will ask at the next Meeting for an update on progress in relation to resurfacing of the road
 at Mountmahon and Killarney Road, Abbeyfeale.
 
 REPLY: Operations and Maintenance Services have made applications to Transport
@@ -238,7 +243,9 @@ REPLY: Works in relation to the above item will be carried out next week.
 
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -253,7 +260,7 @@ included in the schedule for footpath repairs subject to funding.
 10. ion subm ncillor J. nian
 
 | will ask at the next Meeting for an update in relation to the Council acquiring the derelict
-property at 47 Sharwood Newcastle West, Limerick. 7
+property at 47 Sharwood Newcastle West, Limerick.
 
 REPLY: Limerick City and County Council purchased 47 Sharwood, Newcastle West
 under the Housing Acquisition Programme. This house is scheduled for
@@ -261,7 +268,7 @@ refurbishment which will commence in June 2017.
 
 11. ion mi ncillor F. Fol
 
-! will ask at the next Meeting for an update in relation to funding (a) for the upgrade to traffic
+| will ask at the next Meeting for an update in relation to funding (a) for the upgrade to traffic
 calming measures on the Killarney Road, Abbeyfeale; (b) the resurfacing work to be carried
 out at Mountmahon to the Garda Station, Abbeyfeale.
 
@@ -275,7 +282,7 @@ Killarney Road is with Transport Infrastructure Ireland for their consideration.
 
 12. ion submi b ncillor F. Fol
 
-/ will ask at the next Meeting if the soft spots on the Killarney Road, Abbeyfeale can be
+! will ask at the next Meeting if the soft spots on the Killarney Road, Abbeyfeale can be
 repaired as the road surface is deteriorating.
 
 REPLY: Operations and Maintenance Services (Newcastle West Area Office) is currently
@@ -293,7 +300,9 @@ In proposing the Motion, Councillor Galvin stated that this fence urgently neede
 repaired. He asked that an update be given again on the matter.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was seconded by Councillor Foley.
@@ -350,7 +359,9 @@ the potential of the Great Southern Greenway in relation to tourism
 development in towns and villages both on and adjacent to the route.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -401,14 +412,16 @@ Sheahan it was agreed to allocate €5,000 from the GMA Tourism and Recreation F
 out a feasibility study on use of this property.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
 iscite - Renamin; “Th re” N le W
 
 The Meetings Administrator updated the Members on results of the plebiscite. It was noted
-that the count took place on Wednesday, 24'" May at 10am at Aras William Smith OBrien in the
+that the count took place on Wednesday, 24'* May at 10am at Aras William Smith OBrien in the
 presence of the Mayor and the results were as follows:
 
 « 20 Against.
@@ -426,4 +439,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+

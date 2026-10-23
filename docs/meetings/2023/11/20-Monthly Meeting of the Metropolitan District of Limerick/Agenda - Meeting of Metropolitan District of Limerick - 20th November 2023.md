@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-November-2023.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-November-2023.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -99,7 +100,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -175,7 +178,9 @@ areas, how many front and back doors have been installed:
 (b) In 2022
 
 (c) In 2023.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.Question submitted by Councillor C. Slattery**
@@ -247,7 +252,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick to clari
 phase of the public realm upgrade of O'Connell Street and if funding has been secured from the
 
 EU or Nationally.
----
+
+[[PAGE_END:3]]
+
 4
 
 **12.Question submitted by Councillor E. Secas**
@@ -307,7 +314,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick:
 (c) When the Landlord agrees to sell to the Council, on average how long does it take to complete
 
 the sale.
----
+
+[[PAGE_END:4]]
+
 5
 
 **19.Question submitted by Councillor J. Pond**
@@ -373,7 +382,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for the 
 funds applied for, and drawn down, by Limerick City and County Council from the Department of
 
 Tourism, Culture, Arts, Gaeltacht, Sport and Media for the six years of 2018 to 2023 inclusive.
----
+
+[[PAGE_END:5]]
+
 6
 
 **26.Question submitted by Councillor O. O’Sullivan**
@@ -439,7 +450,9 @@ and or the use of their shop windows for Christmas displays.
 I will move at the next Meeting of the Metropolitan District of Limerick that an update be provided
 
 by the relevant Director regarding the progress on the acquisition of the Markets Field.
----
+
+[[PAGE_END:6]]
+
 7
 
 **33.Notice of Motion submitted by Councillor S. Kiely**
@@ -511,4 +524,6 @@ education buildings to open beyond pre-school hours.
 **40.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:7]]
+

@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20Special%20Meeting%2009.02.2023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 9th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20Special%20Meeting%2009.02.2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Corian Caan Combaivle Cathrach agus Contee Lutmnigh
-"4 rt nh ac u ug
+ee Corrina Coraten Comhairle Cathrach egus Contee Lutmnigh
+C ti h ac u ug
 
 & Contae Luimnigh Ceanncheathni Chorparaideach,
 
-Am va ~Y _—_—_—_—_ Cé na gCeaririaithe,
+Am val ~~ _—_—_—_— Cé na gCeariniaithe,
 
 Limerick City Luimnesch
-—= & County Council
+— & County Council
 Corporate Services,
 Lumerick City and County Council,
 Corporate Headquarters,
@@ -37,7 +38,7 @@ Merchants Quay,
 Limenck
 EIRCODE V94 EHSO
 
-t: 4353 (0) 63 557150
+t: 4353 (0) 63 5$7150
 f; +353 (0) 61 415 266
 
 7 February, 2023.
@@ -55,10 +56,10 @@ is mise le meas,
 
 M\c
 
-Laura Fla ,
+Laura Fla .
 Meetings Administrator.
 
-™ customerservicesalimerickic
+= customerservicesalimerickic
 
 © Weve limerickte
 
@@ -66,4 +67,6 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - $7150
 
 
----
+
+[[PAGE_END:1]]
+

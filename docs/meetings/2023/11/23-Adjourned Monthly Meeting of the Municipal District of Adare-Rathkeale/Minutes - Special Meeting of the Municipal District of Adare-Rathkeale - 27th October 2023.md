@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-c-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-27th-October-2023.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 27th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-c-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-27th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ water as the Local Authority are still responsible for storm water and Water Ser
 use vehicles with Limerick City and County Council logo on them and added the public
 
 need to be advised of the distinction going forward.
----
+
+[[PAGE_END:1]]
+
 Councillor Keary requested a schedule of works for the Foynes Shannon Estuary
 
 Treatment Plant for the next Municipal District Meeting stating when works are due to
@@ -166,7 +169,9 @@ alleviate the problem with a view to ending the boil water notices be provided a
 to request Uisce Éireann to attend this meeting”. This was seconded by Councillor
 
 Collins and agreed.
----
+
+[[PAGE_END:2]]
+
 This concluded the Meeting.
 
 Signed:
@@ -178,4 +183,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

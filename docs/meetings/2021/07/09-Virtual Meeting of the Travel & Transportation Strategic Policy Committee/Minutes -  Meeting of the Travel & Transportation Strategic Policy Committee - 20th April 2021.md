@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/minutes-of-travel-and-transportation-spc-meeting-20th-april-2021.pdf)
+**Original file:** [Minutes -  Meeting of the Travel & Transportation Strategic Policy Committee - 20th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/minutes-of-travel-and-transportation-spc-meeting-20th-april-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Draft** **Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation**
@@ -56,7 +57,9 @@ The Minutes of the Meeting of the Travel and Transportation Strategic Policy Com
 on the 16th February 2021 were proposed by Cllr. Butler, seconded by Cllr. Foley and adopted.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 2: Briefing on Safe Routes to School (SRTS) Initiative - Karen McDonnell, Assistant**
@@ -122,7 +125,9 @@ Mr. Gallagher added that the key aim in the initiative is to try and promote act
 improving access to schools in terms of walking and cycling. It is unlikely that improved access
 
 to parking will be the main target.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. Costello suggested a handbook introducing the whole process would be useful.
@@ -176,7 +181,9 @@ junction scheme, and this does extend just inside the Limerick border (around Oo
 Mr. Gallagher confirmed that the new draft should be made available towards the middle/late
 
 June 2021.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Item 4: Update on Public Realm Strategy** **–John O’Leary, A/Senior Executive Engineer**
@@ -236,7 +243,9 @@ through URDF to enable public realm frontage along the river to be designed as p
 FRS.
 
 Ms. Ailish Drake re-joined the meeting following the completion of Item 4.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Item 5: Notice of Motion submitted by Councillor S. Novak Uí Chonchúir (referred from**
@@ -308,7 +317,9 @@ the city and towns across the county in the short and long term. In order to ben
 schemes this summer Local Authorities must prioritise Covid Mobility Plans. Last week Cork
 
 announced that they will permanently pedestrianise 17 streets for outdoor dining.
----
+
+[[PAGE_END:5]]
+
 6
 
 In order to encourage people to use outdoor space in urban areas, changes to traffic and
@@ -384,7 +395,9 @@ open discussion and if so, are representatives of Limerick PPN included”
 *applicants. Clearly pedestrianisation will have effects on traffic movement but safety of all*
 
 *road users will be to the fore in all instances. Engagement with relevant stakeholders will be*
----
+
+[[PAGE_END:6]]
+
 7
 
 *of prime importance for the successful rollout of the schemes and the Council will ensure that*
@@ -454,7 +467,9 @@ A response to Question was circulated to all members prior to meeting as follows
 *shortly commence consultation on making a cycle facility a long-term inclusion on the bridge.*
 
 *It is also hoped to widen the upstream footpath to allow more space for the many pedestrians*
----
+
+[[PAGE_END:7]]
+
 8
 
 *using this route, including those doing the Three Bridges walk. Design works on the*
@@ -524,7 +539,9 @@ Cllr. Leddin thanked Ms. Lyes for the presentation and assured her that the Coun
 engage with the Limerick Pedestrian Network. The presentation will be circulated to the
 
 Members with her consent.
----
+
+[[PAGE_END:8]]
+
 9
 
 Mr. Heffernan stated that the presentation shows how an area can be improved. He
@@ -548,4 +565,6 @@ The Chair confirmed that all presentations would be circulated to Members and co
 that the next SPC meeting is scheduled for 22nd June 2021.
 
 This concluded the meeting.
----
+
+[[PAGE_END:9]]
+

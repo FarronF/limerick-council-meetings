@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%28b%29%20Minutes%20-%20March%202019%20Council%20Meeting.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council  - 25th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%28b%29%20Minutes%20-%20March%202019%20Council%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN**
 
 **THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 25TH** **MARCH, 2019 AT**
@@ -86,7 +87,9 @@ Seconded by Councillor Sheahan (J);
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -170,7 +173,9 @@ amended) and Section 211 of the Planning and Development Act, 2000 (as amended),
 approval of the Council be and is hereby given to the disposal of 93 St. Munchin’s Street, St.
 
 Mary’s Park, Limerick to Mary McGrath and Gerard McGrath, in exchange for 180 St.
----
+
+[[PAGE_END:2]]
+
 3
 
 Munchin’s Street, St. Mary’s Park, Limerick and subject to the covenants and conditions
@@ -248,7 +253,9 @@ Browne, Cahillane, Costelloe, Daly, Gilligan, Keller, Loftus, McCreesh, Ó Ceall
 **Abstentions**
 
 Keary, Scanlan, Teskey
----
+
+[[PAGE_END:3]]
+
 4
 
 The Mayor declared the Motion defeated and accordingly the following resolution was
@@ -330,7 +337,9 @@ to Limerick Twenty Thirty Strategic Development Designated Activity Company, for
 of €1,106,015, particulars of which were contained in Statutory Notice dated 12th March,
 
 2019.”
----
+
+[[PAGE_END:4]]
+
 5
 
 (h)
@@ -410,7 +419,9 @@ and Fifth Floors. This further loan request is to complete CAT A fit out for the
 and Second Floors. Mr Coughlan confirmed that Limerick City and County Council are 100%
 
 Shareholders and that a quarterly review can be provided to the Members.
----
+
+[[PAGE_END:5]]
+
 6
 
 Mr Coughlan also confirmed that once the property is occupied Limerick City and County
@@ -474,7 +485,9 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated 20
 together with copy of Limerick City and County Council Audit Committee Annual Report 2018.
 
 The Report was noted by the Members.
----
+
+[[PAGE_END:6]]
+
 7
 
 **(e)**
@@ -550,7 +563,9 @@ the importance of the ban on one off plastics in schools and public buildings. M
 emphasised the importance the adhering to this Directive in the run up to the local elections.
 
 Members also referred to the timing of this recommendation and that most candidates have
----
+
+[[PAGE_END:7]]
+
 8
 
 their orders submitted for posters at this stage. Members referred to the importance of
@@ -622,7 +637,9 @@ for approval in the amount of €497,000”.
 On the proposal of Councillor O’Hanlon, seconded by Councillor O’Dea, Recommendation No.
 
 3 was agreed.
----
+
+[[PAGE_END:8]]
+
 9
 
 **5.**
@@ -704,7 +721,9 @@ to the City.
 Ms Deegan referred to the legacy of 2014 Limerick City of Culture which created a vibrant
 
 Limerick open to new ideas, leveraged national funding and corporate support.
----
+
+[[PAGE_END:9]]
+
 10
 
 Ms Deegan recalled the significant measure undertaken by Limerick City and County Council
@@ -786,7 +805,9 @@ Circulated, report of the LCDC Chief Officer, Social Development Directorate, da
 Development Committee for the year ending 31st December, 2018.
 
 The LCDC Annual Report was noted by the Members.
----
+
+[[PAGE_END:10]]
+
 11
 
 **6.**
@@ -866,7 +887,9 @@ Members thanked Mr Ryan for his comprehensive presentation and stated that the
 implementation of the Food Strategy is important to add to the tourism offering within
 
 Limerick City and County.
----
+
+[[PAGE_END:11]]
+
 12
 
 **7.**
@@ -926,7 +949,9 @@ Circulated, reports by Members who had participated at Conference / Seminar / Me
 Event.
 
 The reports were noted by the Members.
----
+
+[[PAGE_END:12]]
+
 13
 
 **QUESTIONS**
@@ -1004,7 +1029,9 @@ A meeting of the group will be convened at the earliest possible convenience.
 The National Expert Advisory Group on Commemoration issued a recommendation to
 
 the Government in late 2018, which was noted by Cabinet at its January 2019 meeting.
----
+
+[[PAGE_END:13]]
+
 14
 
 The Expert Advisory Group advised that the Decade of Commemoration Programme
@@ -1082,7 +1109,9 @@ It was agreed to refer this Motion to the Environment Strategic Policy Committee
 ***4) Expand the 301 Augustinian bus stop to avoid congestion.***
 
 ***5) Investigate bus corridors from the City Centre to the University of Limerick.***
----
+
+[[PAGE_END:14]]
+
 15
 
 It was agreed to refer this Motion to the Travel and Transportation Strategic Policy
@@ -1152,7 +1181,9 @@ It was agreed to refer this Motion to the Environment Strategic Policy Committee
 **Correspondence**
 
 The Correspondence circulated with the Agenda was taken as read.
----
+
+[[PAGE_END:15]]
+
 16
 
 **CHIEF EXECUTIVE’S ORDERS:**
@@ -1176,4 +1207,6 @@ amended, was also available on Alfresco for inspection by the Members.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:16]]
+

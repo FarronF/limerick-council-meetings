@@ -42,7 +42,7 @@ Proposed Disposal of 0.03 Hectares of land at Baunacloka, Mungret, Limerick.pdf 
 
 Proposed Disposal of Property at 3 Kileely Villas, Thomondgate, Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/proposed-disposal-of-property-at-3-kileely-villas-thomondgate-limerick-.pdf) - Text not extracted
 
-Proposed Part 8 Minor Amendment at Atlas Avenue_Courtbrack Avenue, Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/proposed-part-8-minor-amendment-at-atlas-avenue-courtbrack-avenue-limerick-.pdf) - Text not extracted
+Proposed Part 8 Minor Amendment at Atlas Avenue/Courtbrack Avenue, Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/proposed-part-8-minor-amendment-at-atlas-avenue-courtbrack-avenue-limerick-.pdf) - Text not extracted
 
 Draft - Limerick City and County Council Control of Stationless On-Street Shared E-Scooter Hire Services Draft Bye-Laws 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/draft-limerick-city-and-county-council-control-of-stationless-on-street-shared-e-scooter-hire-services-draft-bye-laws-2024.pdf) - Text not extracted
 

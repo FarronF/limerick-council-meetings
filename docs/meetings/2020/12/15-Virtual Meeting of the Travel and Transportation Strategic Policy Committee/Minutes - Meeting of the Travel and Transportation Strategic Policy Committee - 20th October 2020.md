@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/minutes-travel-transportation-spc-meeting-20th-oct-2020_0.pdf)
+**Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 20th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/minutes-travel-transportation-spc-meeting-20th-oct-2020_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation**
@@ -74,7 +75,9 @@ Transportation SPC Meetings for 2021. At the request of Ms. M Browne, the Commit
 agreed that all meetings would commence at 3:30pm:
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
  Tuesday 16th February
@@ -144,7 +147,9 @@ In relation to Cllr. Secas’ question Cllr. Leddin advised that several organis
 requested publicly a ministerial review of LSMATS, regarding concerns raised such as the data
 
 used, the timeframes on projects etc. Mr. Kennedy confirmed that the NTA have themselves
----
+
+[[PAGE_END:2]]
+
 3
 
 been in contact with the Minister for Transport and is awaiting a definitive response from his
@@ -228,7 +233,9 @@ required.
 roundabout with bus priority in place.
 
  **Raheen Cycleways -**
----
+
+[[PAGE_END:3]]
+
 4
 
  St. Paul’s Roundabout to Ballykeefe Roundabout to Dooradoyle Road - The scheme
@@ -306,7 +313,9 @@ which is currently being discussed with the NTA. Following feedback from the NTA
 scheme will go to public consultation before Christmas. He added that consultants are
 
 currently being appointed on the MIC to city centre scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 In relation to planning for Shannon Bridge this is currently in discussion to determine the
@@ -376,7 +385,9 @@ approaches to the Huntsfield Roundabout, including markings advising motorists t
 extreme caution.
 
 Cllr. Leddin welcomed the response.
----
+
+[[PAGE_END:5]]
+
 6
 
 Cllr. O’Donovan advised that she asked at the September Metropolitan District meeting for
@@ -446,7 +457,9 @@ Mr. Kennedy added that there is a balance required between trying to get people 
 money in the city and trying to ensure they have space to park. He added that Limerick has a
 
 very reasonable tariff for parking.
----
+
+[[PAGE_END:6]]
+
 7
 
 Cllr. Butler argued that this is prioritising people coming into the city but the Council is not
@@ -522,7 +535,9 @@ and she would like to commend the work of Operations.
 Cllr. O’Hanlon wished to draw attention to an issue with the surface on Catherine Street which
 
 he raised before, that when it got wet people slipped and there were a number of claims as a
----
+
+[[PAGE_END:7]]
+
 8
 
 result. He suggests sourcing the material locally and he would like assurance that when the
@@ -600,7 +615,9 @@ During the initial trial period, a barrier was put in place at the junction of L
 with South Circular Road during the stated hours; with access only available to residents
 
 during those hours.
----
+
+[[PAGE_END:8]]
+
 9
 
 The second phase of the trial commenced on Tuesday 29September 2020. The barrier was
@@ -676,7 +693,9 @@ to develop plans when funding becomes available. He suggested getting a few scho
 first and then get other schools to buy in.
 
 **Item 9: Any Other Business:**
----
+
+[[PAGE_END:9]]
+
 10
 
 Mr. Harper asked if it is possible to get drawings on the cycle plans andif Council can share
@@ -700,4 +719,6 @@ that the Council will keep the matter under consideration.
 The Chair thanked the members for their participation and as we enter into level 5 restrictions
 
 for 6 weeks, he wished everybody well and declared the meeting closed.
----
+
+[[PAGE_END:10]]
+

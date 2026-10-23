@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+————— Comhairle Cathrach Comhairle Cotmech aps: — Luimnigh.
 
-———— Pay tle trina Olfig an Cheantair, Aras Mha inchin —
+& Contae Luimnigh Ofig an Cheantair, Aras _ in ot
 
-i 2 : Co, Luimnigh.
+S = : Co, Luimnigh.
 . Limerick City
 
-= & County Council Limerick City and County Council,
+= & County Council Limerick City and County Council.
 
 Aras Mainchin Seoighe Area Office,
 
-K@malliock,
+Kimallock,
 
-Co. Limerick.
+Co, Limerick.
 
 EIRCODE V35 K497
 
@@ -70,10 +71,12 @@ May, 2025.
 (Copy enclosed)
 2. Declaration of Interest
 Comhairle Cathrach agus Contae Lutmnigh, an Cheantatr, Aras Mhainchin Seoighe
-SE Cp onl Cine Goan han Monsen Sosigin Ann Outs W @LimerickCouncil
+SEE Clip onl Chae Gomeen Aan Meacuat Sosignn Aun Obtes W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Property Services
@@ -119,7 +122,9 @@ To consider the approval of allocations under the General Municipal Allocations 
 to the Maigue River Trust & Friars Gate Theatre.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ions
@@ -149,4 +154,6 @@ markings and whatever other measures deemed necessary by LCCC be installed at Kn
 Kilbreedy, Co. Limerick.
 
 
----
+
+[[PAGE_END:3]]
+

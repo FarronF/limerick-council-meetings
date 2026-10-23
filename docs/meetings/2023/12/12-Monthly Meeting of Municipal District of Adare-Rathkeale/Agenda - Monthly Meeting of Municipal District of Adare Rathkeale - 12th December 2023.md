@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-12th-december-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare Rathkeale - 12th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-12th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia
@@ -26,8 +27,7 @@ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia
 
 AN a Aras Séan Finn,
 
-Limerick City _ Rah Cooke
-= & County Council Co. Lakmnigh
+= & County Council Co. Lasmnigh
 
 Adare-Rathkeale Municipal District,
 Limeric& City and County Council
@@ -47,10 +47,10 @@ f; +353 (0) 69 63188
 
 To:
 
-A Chomhairleoir, a chara,
+AChomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 12" December, 2023 at 9.30
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 12 December, 2023 at 9.30
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -66,18 +66,20 @@ To adopt Minutes of the following Meetings:
 (a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 14”
 November, 2023.
 
-(b) Adjourned Monthly Meeting of the Municipal District of Adare-Rathkeale held on
-24" November, 2023.
+(b) | Adjourned Monthly Meeting of the Municipal District of Adare-Rathkeale held on
+24'" November, 2023.
 
 (Copies Enclosed).
 
 2. Declaration of Interest
 
-Ceanncheathri Chorpardideach, Cé na gCeannaitheLuimneach 1 www. limerickic
+Ceanncheathri Chorpardideach, Cé na gCeannaitheLuimneach | www limerickic
 Corporate Headquarters, Merchants Quay, Limerick, W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -122,7 +124,9 @@ General Municipal Allocation (GMA)
 To review position in relation to allocations under the General Municipal Allocation 2023.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -131,7 +135,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 NOTICES OF MOTION
 
-Notice of Motion submitted by Councillor A. Teskey
+Notice of Motion submitted by Councillor A, Teskey
 
 I will move at the next Meeting that this District lobby both Minister Helen McEntee TD and
 Minister Jennifer Carroll MacNeill TD to immediately make stronger and more robust
@@ -163,4 +167,6 @@ Community Forest.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

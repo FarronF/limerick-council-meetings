@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Minutes-Meeting-of-Economic%20Development-Enterprise-and-Planning-SPC-11th-April-2022.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 11 April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Minutes-Meeting-of-Economic%20Development-Enterprise-and-Planning-SPC-11th-April-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD ON WEDNESDAY, 11TH** **APRIL, 2022 at**
@@ -88,7 +89,9 @@ chimney.
 Cllr. M. Murphy and Cllr. S. Novak O’Conchuir requested to be disassociated from the
 
 recommendation.
----
+
+[[PAGE_END:1]]
+
 **Item 2**
 
 **To consider Notice of Motion referred from Metropolitan Meeting of the Council held on**
@@ -170,7 +173,9 @@ jobs, used local pension funds to invest in local areas, 4,000 more people being
 living wage and moved out of the bottom 20% deprivation index all of which led to a positive
 
 effect on the health and wellbeing of residents.
----
+
+[[PAGE_END:2]]
+
 Members thanked Mr Lloyd Goodwin for the very interesting presentation and queried the
 
 availability of funding for companies, how to address procurement schemes and what steps
@@ -250,7 +255,9 @@ allowable for other use - 15% under SHD)
  Focus on Pre-Planning Consultation - a 2 Step Process
 
  Application made to Planning Authority as opposed to ABP
----
+
+[[PAGE_END:3]]
+
  Appeal LRD decision to ABP
 
  Transitional Arrangements for developers who had commenced consultation with ABP
@@ -320,7 +327,9 @@ of services in rural towns, but the major difficulty is the availability of fund
 to provide the facilities at various stages.
 
 It was agreed that an update on the Town Centre First Plan Initiative be given at next meeting.
----
+
+[[PAGE_END:4]]
+
 **Item 7**
 
 **Any Other Business**
@@ -354,4 +363,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:5]]
+

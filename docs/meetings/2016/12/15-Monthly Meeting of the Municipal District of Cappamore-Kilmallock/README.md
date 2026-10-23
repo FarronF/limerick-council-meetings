@@ -24,11 +24,11 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 15th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_15th_december_2016_1_1.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2015th%20December%202016.md)
+Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 15th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_15th_december_2016_1_1.pdf) - Text not extracted
 
-Agenda - Supplementary Item - Meeting of Municipal District of Cappamore-Kilmallock - 15th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_supplementary_item_-_15th_december_2016.pdf) - [Extracted text](./Agenda%20-%20Supplementary%20Item%20-%C2%A0Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2015th%20December%202016.md)
+Agenda - Supplementary Item - Meeting of Municipal District of Cappamore-Kilmallock - 15th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_supplementary_item_-_15th_december_2016.pdf) - Text not extracted
 
-Minutes of Meeting of Municipal District of Cappamore-Kilmallock - 17th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_17th_november_2016_1.pdf) - [Extracted text](./Minutes%20of%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20November%202016.md)
+Minutes of Meeting of Municipal District of Cappamore-Kilmallock - 17th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_17th_november_2016_1.pdf) - Text not extracted
 
 Report - Update on works to 'Thomas Fitzgerald Centre' Bruff and Old School House Grange - Municipal District of Cappamore-Kilmallock - 15th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/report_for_kilmallock_meeting001.pdf) - Text not extracted
 

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%2C%202018.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Adare-Rathkeale - 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—eE ttl pale
+a itll paleo
 ontae Luimn
-aAanmN , aa ————
+aAnmN , ia —
 — Limerick City
 & County Council
 
@@ -31,15 +32,15 @@ aAanmN , aa ————
 
 Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
-Aras Séan Finn.
+Aras Séan Finn,
 
-Line Nua.
+Line Nua,
 
 Rath Caola.
 
 Co. Luimnigh.
 
-Adare-Rathkeale Murmcpal District.
+Adare-Rathkeale Murmicpal District.
 Limerick City and County Council
 Aras Sean Finn.
 
@@ -86,4 +87,6 @@ Corporate Headquarters, Merchants Quay, Limerick.
 ( 061 - $86 000
 
 
----
+
+[[PAGE_END:1]]
+

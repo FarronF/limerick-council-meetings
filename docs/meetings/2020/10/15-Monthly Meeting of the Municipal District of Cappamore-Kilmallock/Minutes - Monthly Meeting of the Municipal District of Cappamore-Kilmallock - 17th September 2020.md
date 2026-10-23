@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02-minutes-sept-2020-md-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/02-minutes-sept-2020-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -62,14 +63,16 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. National & Regional Services Directorate
 
 Application fora ining Centre at
 
-As ATO
+(As ATO
 
 Following a discussion in relation to this Part 8 planning application, the Elected Members
 agreed to defer a decision on this application and instead consider same at a Special
@@ -86,7 +89,7 @@ District:
 
 Dawn Court, Athlacca;
 
-Chapel Street, Bruff,
+Chapel Street, Bruff;
 
 Fairgreen Terrace, Bruff;
 
@@ -113,7 +116,9 @@ Scheme, representing 8.47% approx. of the 720 tenancies in the Cappamore Kilmall
 Municipal District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Following an assessment of all applications received and inspection visits, a total of 53 valid
@@ -155,7 +160,9 @@ to persons using a public road, the respective landowner can be contacted in rel
 these concerns under Section 70 of the 1993 Roads Act requesting that:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ‘The owner or occupier of any structure and the owner or occupier of any land on which a
@@ -183,7 +190,7 @@ I will move at the next Meeting of the Municipal District of Cappamore-Kilmalloc
 Office of Public Works complete a feasibility flood risk solution for the area, including
 tributaries of the Loobagh and Maigue Rivers.
 
-Proposed by Cllr. Carey, seconded by Clir. Donegan and agreed.
+Proposed by Cllr. Carey, seconded by Cllr. Donegan and agreed.
 Reply:
 
 Limerick City and County Council will write to the Office of Public Works requesting that a
@@ -196,7 +203,9 @@ referred to in the Notice of Motion.
 Transport Infrastructure Ireland and Limerick City and County Council review the safety of
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the pedestrian crossings on the N24 at Pallasgreen and Oola, do they need to be upgraded
@@ -243,7 +252,9 @@ Proposed by Cllr. Mitchell, seconded by Clir. Donegan and agreed.
 Reply:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 An undertaking was given in 2018/19 to undertake the mapping of all road signage in the
@@ -288,7 +299,9 @@ the impact going forward.
 Water provide a list of available capacity at Sewerage Treatment Plants in the Cappamore-
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Kilmallock Municipal District to assist in the deliberations on the Development Plans that
@@ -333,9 +346,13 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

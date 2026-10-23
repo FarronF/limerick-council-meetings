@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%205-11-18.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - Monday 5th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%205-11-18.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_ Comhairle Cathrach
+_——_ Comhairle Cathrach
 & Contae Luimnigh
-nrom™ , _
+nom” , _
 — Limerick City
 & County Council
 
-3'¢ November, 2018.
+3'* November, 2018.
 
 Seirbhisi Corpardideacha,
 
@@ -42,7 +43,7 @@ Corporate Services,
 
 Limerick City and County Council,
 Corporate Headquarters,
-Merchartts Quay,
+Mercharvts Quay,
 
 Limerick
 
@@ -64,7 +65,7 @@ The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 eee COM
 
-sages Clune,
+saes Clune,
 . ings Administrator.
 
 AGENDA
@@ -79,11 +80,13 @@ Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 © customerservices@limerickie
-© werwdimerickie
+© weewdimerickie
 
 w @LimerickCouncil
 
 ( 061 - 57150
 
 
----
+
+[[PAGE_END:1]]
+

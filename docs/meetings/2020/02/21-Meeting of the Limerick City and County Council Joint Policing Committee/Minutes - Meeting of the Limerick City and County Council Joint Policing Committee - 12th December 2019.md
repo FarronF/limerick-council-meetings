@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-12th-december-2019.pdf)
+**Original file:** [Minutes - Meeting of the Limerick City and County Council Joint Policing Committee - 12th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-12th-december-2019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, CORPORATE HEADQUARTERS, MERCHANT’S QUAY ON THURSDAY, 12TH**
@@ -106,7 +107,9 @@ designated Chair for the last five years during which time she oversaw the perfo
 Siochana. She stressed the importance of feedback from members of the public and said that An
 
 Garda Siochana cannot do it’s job without community support. She also stated that transparency is
----
+
+[[PAGE_END:1]]
+
 very important to ensure the public has confidence in it’s policing system and if there is public
 
 confidence then there is community support. She welcomed the fact that the PPN members of the
@@ -190,7 +193,9 @@ The Chief Superintendent stated that policing of Limerick is challenging, howeve
 serious incidents is lower than in previous years. Some road accidents can be linked to the use of
 
 drugs so road policing is particularly important. A Christmas roads campaign would be in progress.
----
+
+[[PAGE_END:2]]
+
 He added that the number of drug testing is increasing all the time, most of which comes from
 
 mobile patrols. More people are trained and becoming more proficient in drug detection and
@@ -292,7 +297,9 @@ ground, because people can see the work that is being done by An Garda Síochán
 Gardaí are committed to policing critical neighbourhoods which require a strong policing presence
 
 so that people can live without the fear of crime and the fear of these gangsters and their behaviour.
----
+
+[[PAGE_END:3]]
+
 Commissioner Harris replied to Members queries as follows :
 
 •
@@ -382,7 +389,9 @@ function and stressed the importance of education.
 He assured Members that additional Gardaí would be deployed to Limerick for the Christmas
 
 period and traffic issues at the Crescent Shopping Centre would be addressed.
----
+
+[[PAGE_END:4]]
+
 •
 
 There is ongoing commitment to policing rural areas and the importance of local Gardaí
@@ -456,7 +465,9 @@ allocated for a new garda station in Castletroy.
 on the streets of Limerick City over the Christmas shopping period to ensure that shoppers can go
 
 about their business without any hassle or fear”.
----
+
+[[PAGE_END:5]]
+
 As previously mentioned Operation Open City was up and running throughout the city and in
 
 Newcastle West for the Christmas period. In addition to Operation Open City, Operation Meirle and
@@ -548,7 +559,9 @@ Abbeyfeale Garda Station starting the week of 24th February, 2020.
 “I will ask at the next Meeting what plans are in place to put a proper policing operation in Limerick
 
 City centre during the Christmas/New Year period”.
----
+
+[[PAGE_END:6]]
+
 Members asked that more Gardaí be allocated to the Market Quarter to address anti social
 
 behaviour in the area.
@@ -614,7 +627,9 @@ Friday, 15th May, 2020
 Friday, 4th September, 2020
 
 Friday, 6th November, 2020
----
+
+[[PAGE_END:7]]
+
 This concluded the Meeting.
 
 Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -622,4 +637,6 @@ Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 **Cllr. Adam Teskey, Chairman**
 
 Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

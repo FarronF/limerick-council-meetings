@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%20Agenda%2016th%20December%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%20Agenda%2016th%20December%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach CccctaiiaCiee etne ocpis Cornea Lulmrigh
+__—_ Comhairle Cathrach Gcrriaiie Coie ote ep Cormee Lulmragh
 & Contae Luimnigh Ceanncheathni Chorparaideach,
-NOS [SS Cé na gCeannaithe.
+NOS 4 [Se Cé na gCeannaithe.
 — Limerick City Luimneach
 
 & County Council
 Corporate Services,
-Limerick Oky and County Council,
-Corpormtte Headquarters,
+Limerick Oty and County Council,
+Corpormte Headquarters,
 Merchants Quay,
-Limerick
+Lirnerick
 
 11" December, 2019.
 EIRCODE V94 EHSO
 
-¢; +353 (0) 61 5587150
+¢; +353 (0) 61 587150
 f; +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
@@ -50,7 +51,7 @@ Is mise le meas,
 
 COs,
 
-Ja june,
+Ja lune,
 ings Administrator.
 AGENDA
 1. Minutes
@@ -62,15 +63,17 @@ To adopt Minutes of the following Meetings:
 
 (Copies Enclosed).
 
-= Customerservices@limerickie
+@ Customerservicese@limerickie
 
-@ wen limerick.ie
+@) wen limerickie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 To consider the taking in charge of the following housing estates in accordance with Section 180 of
@@ -108,7 +111,9 @@ Co. Limerick.
 (Reports Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -154,7 +159,9 @@ all people living in hotels, B&B’s, hubs, hostels, TEP services, and those in 
 in the student villages.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -165,7 +172,7 @@ in the student villages.
 DPG grants on the Chief Executives monthly reports, as are done with the Mobility Aids Grant,
 Housing Adaptation Grant for People with Disabilities and the Housing Aid for Older Persons Grant.
 
-13. in subm ncillor E. O’ n
+13. in. subm ncillor E. O’ n
 | will ask at the next Metropolitan Meeting of Limerick if a formal process has commenced to notify
 all relevant parties, including the developer of Curragower House, Clancy Strand, that it has been
 
@@ -177,7 +184,7 @@ and if not, the reasons for the delay.
 | will ask at the next Metropolitan Meeting for a detailed breakdown of how housing allocations are
 prioritised and how can individuals find out where they are on the housing list.
 
-15. Question submitted by Councillor E. O'Donovan
+15. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Metropolitan Meeting for the state of the final destination of waste placed in
 on-street bins and what percentage of this waste is recycled, land filled, incinerated and exported.
@@ -204,7 +211,9 @@ NOTICES OF MOTION
 SMEs who can show they cannot afford to pay the living wage.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -214,7 +223,7 @@ Biodiversity and Environment Strategic Policy Committee)
 
 | will move at the next meeting of the Metropolitan area that this Council, carry out a feasibility
 study into Limerick City and County Council, taking back control of waste collection services in
-Limerick.
+Limerick,
 
 20. Notice of Motion submitted by Councillor E. Secas (to be referred to the Travel and
 Transportation Strategic Policy Committee)
@@ -233,7 +242,7 @@ from residents and myself.
 
 22. N Councillor S. Kie
 
-! will move at the next meeting of the Metropolitan area to extinguish the pedestrian right of way
+| will move at the next meeting of the Metropolitan area to extinguish the pedestrian right of way
 between the back Gate of Queen of Peace School and Colbert Avenue, Janesboro.
 
 | am calling on the Limerick Metropolitan Councillors for support in writing a letter to the Minister
@@ -248,7 +257,9 @@ a “no burn night” banning the lighting of solid fuel fires for one night in 
 weather is mild to combat the poor air quality in Limerick caused by the burning of solid fuels/coal.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -263,4 +274,6 @@ lane on Shannon Bridge into a segregated cycle lane.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-Special-Meeting-of-the-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 19th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-Special-Meeting-of-the-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -86,7 +87,9 @@ Bridge Street is going to cost huge money and is going to inconvenience road use
 that were originally designed for a horse and cart, not a cycle lane and a car. He outlined at
 
 the very least we should cost a distributor road as this opens up a huge pocket of land for
----
+
+[[PAGE_END:1]]
+
 2
 
 mixed use and development. Councillor Ruddle added that Newcastle West needs to be
@@ -156,7 +159,9 @@ The Senior Engineer, Transportation and Mobility closed assuring the Councillors
 South West pocket of Newcastle West is crucial to Limerick City and County Council and
 
 believed a distributor road through the Woodfield estate will remove a lot of the issues.
----
+
+[[PAGE_END:2]]
+
 3
 
 It was agreed further consultation between the Members, Forward Planning, Transportation
@@ -174,4 +179,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

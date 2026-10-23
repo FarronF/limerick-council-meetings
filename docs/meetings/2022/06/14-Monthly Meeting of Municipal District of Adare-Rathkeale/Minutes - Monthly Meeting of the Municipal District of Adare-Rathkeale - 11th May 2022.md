@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-11th-May-2022.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-11th-May-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE WOODLANDS HOUSE HOTEL, ADARE AND ONLINE ON**
@@ -92,7 +93,9 @@ The Cathaoirleach welcomed Denis Robinson and Shay Riordan from West Limerick
 Resources together with members of the Rathkeale Pre Social Cohesion Project Team to
 
 the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 Denis Robinson proceeded to circulate copies of the groups presentation entitled
@@ -158,7 +161,9 @@ Villecresnes, just outside Paris and Buckow.
 On the proposal of Councillor O’Donoghue, seconded by Councillor Sheahan it was agreed
 
 Councillor Collins would represent the District on the steering group.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -226,7 +231,9 @@ The property has been on the market for sale for a number of months.
 One offer as been made on the property but was subsequently
 
 withdrawn. The property will remain on the market but, in the interim, it
----
+
+[[PAGE_END:3]]
+
 4
 
 has been decided to undertake the following works to protect the building
@@ -302,7 +309,9 @@ for the works will be awarded in the coming weeks. The plan is to
 refurbish the existing dwelling into a two bedroom dwelling with large
 
 rear south facing garden.
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICES OF MOTION**
@@ -376,7 +385,9 @@ Councillor Keary requested an update on the Ballywilliam Estate. The Director, H
 advised the Community Development Department are compiling reports which will be
 
 brought before the District when completed.
----
+
+[[PAGE_END:5]]
+
 6
 
 Councillor Teskey made representations in relation to the rubbish bins located at the
@@ -440,7 +451,9 @@ by building a large number of private housing units in the town of Askeaton.
 Mary Kury Ardagh for her publications on the Ardagh Chalice and in depth study of three
 
 local burial grounds.
----
+
+[[PAGE_END:6]]
+
 7
 
 Shirley Ní Ríagáin for her unselfish and significant contributions in English and Irish to
@@ -484,4 +497,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

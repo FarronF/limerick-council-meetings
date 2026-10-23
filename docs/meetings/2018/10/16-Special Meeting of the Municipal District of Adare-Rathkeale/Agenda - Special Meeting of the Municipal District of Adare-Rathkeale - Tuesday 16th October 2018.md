@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%202018.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - Tuesday 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%2016th%20October%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
-AN ‘ : een nue
+ANS \ : een Mus
 — Limerick City . Rath Caola,
 & County Council Co. Luimnigh.
 
 Adare-Rathkeale Municipal District.
 Limerick City and County Council,
-Aras Sean Finn,
+Aras Sedan Finn,
 
 New Line.
 
@@ -38,7 +39,7 @@ Rathkeale.
 
 Co. Limerick
 
-EIRCODE V94 HKIV
+EIRCODE 94 HKIV
 15" October, 2018.
 
 t: +353 (0) 69 64047
@@ -56,7 +57,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Se nen
+Ce ne
 
 AGENDA
 
@@ -65,10 +66,12 @@ a; Desmond Castle
 To discuss with the OPW current renovation works at Desmond Castle, Askeaton.
 
 = customerservices@limerick.ie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach y @ wowlimerickie
-Corporate Headquarters, Merchants Quay, Limerick. ww @LimerickCouncil
+Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach l @ wwowlimerickie
+Corporate Headquarters, Merchants Quay, Limerick. Ww @LimerickCouncil
 
 { 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%202019-12-11%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 11th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/00%202019-12-11%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__ Comhairle Cathrach Diiiche Rardais an Chaisledin Nua Thiat,
+__ Comhairle Cathrach Duiiche Rardais an Chaisledin Nua Thiat,
 
-Comtuitrle Cathract agus Contae Lutnimgt:
-re & Contae Luimnigh Avas Wika Smith O'Brier.
+Combate Cathract agus Contae Lutmmgt:
+& Contae Luimnigh Avas Wika Smith O'Brien.
 NON Gortbui,
 
-Limerick City ; An Caisitan Nua Thiar,
+Limerick City ; An Caisloan Nua Thier,
 = & County Council Coa. Luimnigh
 
-Newcastle West Muticipal District,
-Limerick City and County Counal,
+Newcastle West Municipal District,
+Limerick Oty and County Counal,
 Aves William Smith O'Brien.
 Gorthoy.
 
@@ -39,15 +40,15 @@ Newcastle West,
 
 Ca, Limerick
 
-6" December, 2019 Eircode: V42EH/S
+6" December, 2019 Eircode: V42EH7S
 
-; 0 62:
+; 0 62)
 To: The District of ewe”
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 11" December,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 11” December,
 2019, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -70,13 +71,15 @@ Co. Limerick.
 Co. Limerick.
 (Reports Enclosed)
 = a
-Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Luimneach www limerickie
-Corporate Headquarters, paasclioait’s Giames Limerick ¥ @limerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www Eimerickie
+Corporate Headquarters, pacecliaait’s Genes Limerick ¥ @limerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Housing Development Directorate
@@ -118,11 +121,13 @@ Questi bmitted by Councillor T. Rudd
 Newcastle West Municipal District broken down as follows: (a) Newcastle West
 town, (b) Kilmeedy, (c) Dromcollogher, (d) Broadford, (e) Feenagh, (f) Castletown-
 Ballyagran, (g) Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbeyfeale,
-(})}) Mountcollins, (m) Tournafulla, (n) Templeglantine, (0) Ardagh-Carrigkerry (p)
+(}) Mountcollins, (m) Tournafulla, (n) Templeglantine, (0) Ardagh-Carrigkerry (p)
 Raheenagh (q) Ashford (r) Monagea (s) Athea.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -151,7 +156,6 @@ Abbeyfeale as there are issues with serious flooding coming from this road into 
 Belfry Estate.
 
 NOTICES OF MOTION
-ion submitted b Fi
 
 | will move at the next Meeting that grave spaces be provided for sale subject to
 availability in active cemeteries within the Newcastle West Municipal District.
@@ -171,4 +175,6 @@ that the design would incorporate the village itself including traffic calming m
 and footpath improvements.
 
 
----
+
+[[PAGE_END:3]]
+

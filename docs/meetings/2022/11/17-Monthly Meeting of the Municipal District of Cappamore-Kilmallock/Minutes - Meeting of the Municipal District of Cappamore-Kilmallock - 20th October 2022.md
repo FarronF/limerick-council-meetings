@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/02%20Minutes%20of%2020th%20October%20Municipal%20District%20Meeting.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/02%20Minutes%20of%2020th%20October%20Municipal%20District%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -74,7 +75,9 @@ Cappamore-Kilmallock held on 21st September, 2022.
 Councillor Teefy wished to confirm that the South Limerick Branch of the Red Cross would
 
 be interested in any location in Kilmallock, not just in Kilmallock Business Park.
----
+
+[[PAGE_END:1]]
+
 3.Draft Budgetary Plan
 
 The Director of Services confirmed the information provided in the workshop delivered
@@ -136,7 +139,9 @@ with Limerick.ie.
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Teefy.**
----
+
+[[PAGE_END:2]]
+
 6. Disposal of Property
 
 The following disposal of property was noted:
@@ -180,7 +185,9 @@ work and also the fencing in the Sports Field in Galbally.
 Councillor E Ryan wished to highlight the issue of water being turned off regularly at the
 
 Galbally School Breakfast Club and noted that a generator is required.
----
+
+[[PAGE_END:3]]
+
 Notices of Motion
 
 9.Notice of Motion submitted by Councillor Carey
@@ -240,7 +247,9 @@ Limerick City and County Council do not have any source of funding at present to
 these lights. However, a submission will be made to the NTA to consider funding this project
 
 under their 2023 Active Travel Programme.
----
+
+[[PAGE_END:4]]
+
 12.
 
 Question submitted by Councillor Carey
@@ -298,7 +307,9 @@ venue.
 It was agreed to contact Pallasgreen Community Centre to enquire about availability for the
 
 8th December.
----
+
+[[PAGE_END:5]]
+
 **Water supply Doon**
 
 The disruption to the Water Supply in Doon was noted. The good work of the Limerick City
@@ -330,4 +341,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:6]]
+

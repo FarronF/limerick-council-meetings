@@ -16,50 +16,33 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-04/00%20-%202017-05-03%20Agenda%20May%20Meeting%20Municipal%20District%20of%20Newcastle%20West_0.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 3rd May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/00%20-%202017-05-03%20Agenda%20May%20Meeting%20Municipal%20District%20of%20Newcastle%20West_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AE
-—
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach v
 
-COMHAIRLE
-CATHRACH & CONTAE
+Seirbhisi Corpardideacha,
+Comhairle Cathrach agus Contae Luimmigh.
 
-Luimnigh
-
-Limerick
-CITY & COUNTY
+be Ceanncheathni Chorparaéideach.
+—- Cé na gCeannaithe,
+COMHAIRLE Luimneach
+CATHRACH & CONTAE é
+. . lorporate i
+Luimnigh ath Chyend Coney Conall
+. . Corporate Headquart
+Limerick enclaves Gem.
+CITY & COUNTY Limerick
 COUNCIL
-
-27" April, 2017.
-
-To: Th haoirleach and Each Member of the Municipal Di
+EIRCODE V94 EH90
+; t: +353 (0) 61 407 100
+27" April, 2017. f: +353 (0) 61 415 266
+To: Th haoirleach and Each Member of the Municipal Di: f
 
 A Chomhairleoir, a chara,
-
-Seirbhisi Corparéideacha,
-
-Comhairle Cathrach agus Contae Luimmigh,
-Ceanncheathni Chorparaideach.
-
-Cé na gCeannaithe,
-
-Luimneach
-
-Corporate Services,
-
-Limerick City and County Council,
-Corporate Headquarters,
-Merchants Quay,
-
-Limerick
-
-EIRCODE V94 EH90
-
-t: +353 (0) 61 407 100
-f: +353 (0) 61 415 266
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at Aras
 
@@ -69,7 +52,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Fasdae ¥
+Fede Lad
 
 Meetings Administrator.
 AGENDA
@@ -78,52 +61,50 @@ AGENDA
 To adopt Minutes of Meeting of Municipal District of Newcastle West held on 12" April,
 
 2017.
+(Copy Enclosed)
 
 2. Support Services Directorate
 Annual Meeting
 
-(Copy Enclosed)
-
 To agree date for Annual Meeting of the Municipal District of Newcastle West.
 
-3. ni Municipal Allocation (GMA
+3. n Municipal Allocation (GMA
 
 To review position in relation to allocations under the General Municipal Allocation.
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
-
-© customerservices@timerick.ie
+@ customerservices@timerick.ic
 @ vevew timerick.ic
 @LimerickCouncil
 
-061 - 496200
+Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
-ci. r
+ci r
 nities Facilites Scheme 2017
 To receive briefing on Communities Facilities Scheme 2017 and Assessment Criteria.
 
 (Report, Application Form and Guidelines Enclosed)
 
-Physical Development Directorate _
+Physical Development Directorate -_
 Presentation on Invasive Plants Smartphone App.
 
 To receive presentation on Invasive Plants smartphone app.
 
-rati Maintenan tvii
+rati Maintenan rvi
 
 Provision of new Graveyard in A |
 
 To receive update on the provision of new graveyard in Abbeyfeale.
 
 QUESTIONS
-uestion: illor J. Scanian
+uestion illor J. Scanian
 
 | will ask at the next Meeting when footpath repairs will be carried out at the entrance to
 Michael Harnett Close next to, and to the rear of, House No. 16.
@@ -141,4 +122,6 @@ Notice of Motion submitted by Councillor J. Scanian
 Maiden Street, Newcastle West, be replaced.
 
 
----
+
+[[PAGE_END:2]]
+

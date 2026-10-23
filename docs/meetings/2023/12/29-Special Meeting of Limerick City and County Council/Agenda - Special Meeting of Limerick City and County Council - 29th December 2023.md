@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-special-meeting-of-limerick-city-and-county-council-29-12-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-special-meeting-of-limerick-city-and-county-council-29-12-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
 & Contae Luimnigh
-amo ii SN
+ama ii SN
 
 — Limerick City
 & County Council
@@ -49,7 +50,7 @@ Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 62 557150
+t: 4353 (0) 62 557150
 f; +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -64,17 +65,19 @@ on the passing of former Member and Mayor of Limerick, Patrick (Paddy) Madden, R
 
 Is mise le meas,
 
-Laura nal
+Laura aad
 Meetings Administrator.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-@ Customerservices@iimerick.te
-© veow limerick.te
+@ Customerservices@limerick.te
+© veww limerick.te
 @LimerickCouncil
 
-\ 061 - 557150
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

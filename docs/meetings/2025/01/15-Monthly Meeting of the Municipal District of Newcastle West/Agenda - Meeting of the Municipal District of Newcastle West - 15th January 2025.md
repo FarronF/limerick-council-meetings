@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-newcatlse-west-15th-january-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 15th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-newcatlse-west-15th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 Comhairle Cathrach
@@ -110,7 +111,9 @@ Glin, Co. Limerick.
 **061 - 556 000**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **4.**
@@ -182,7 +185,9 @@ that they have been vacant.
 I will move at the next Meeting that the Council expedite the Flood Relief Scheme in Athea particularly
 
 after recent floods nearly causing flooding in the village.
----
+
+[[PAGE_END:2]]
+
 3
 
 **13.**
@@ -206,4 +211,6 @@ fronting the Longcourt House Hotel.
 I will move at the next Meeting that the road lighting at Killoughteen school be adjusted and placed on a
 
 timer to limit its levels of glare and intrusiveness on neighbouring residential properties.
----
+
+[[PAGE_END:3]]
+

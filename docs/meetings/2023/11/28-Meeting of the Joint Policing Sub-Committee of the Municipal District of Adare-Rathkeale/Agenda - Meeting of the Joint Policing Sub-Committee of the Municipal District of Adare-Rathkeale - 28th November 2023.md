@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-28th-November-2023.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 28th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-28th-November-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
-: & Contae Luimnigh Comhairie Cathrach agus —_ ral
-- ' +. Nop Line Nua,
-Limerick City Rath Caola,
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+- & Contae Luimnigh Comhairie Cathvach agus — ral
+- ; be Non Line Nua,
+Limerick City Rath Caota,
 
 = & County Council
 
@@ -52,12 +53,12 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale JPC Sub-
-Committee to be held in Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 28"
+Committee to be held in Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 28"
 November, 2023 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Cais
+Gas
 Meetings Administrator.
 
 AGENDA
@@ -70,11 +71,13 @@ District of Adare-Rathkeale held on 8" November, 2022.
 2. Policing Issues
 To discuss policing issues in the District.
 & customerservices@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © wanalimerickie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © wanalimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. ve
 
-LimerickCouncil
+\LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

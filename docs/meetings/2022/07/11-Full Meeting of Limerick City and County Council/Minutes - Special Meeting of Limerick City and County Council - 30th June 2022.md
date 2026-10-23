@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28e%29-Minutes-Special-Meeting-30-06-2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 30th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28e%29-Minutes-Special-Meeting-30-06-2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ONLINE, ON THURSDAY 30TH JUNE, 2022, AT 10.00 AM,
@@ -80,7 +81,9 @@ right across Limerick, and how they will miss his great support and guidance.
 The Mayor stated that he was elected to Limerick City and County Council on his very first
 
 time running as a candidate in 2014, and subsequently re-elected to Limerick City and County
----
+
+[[PAGE_END:1]]
+
 2
 
 Council in 2019. Jerry was elected Mayor of Limerick Metropolitan District in 2015 – 2016,
@@ -128,4 +131,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

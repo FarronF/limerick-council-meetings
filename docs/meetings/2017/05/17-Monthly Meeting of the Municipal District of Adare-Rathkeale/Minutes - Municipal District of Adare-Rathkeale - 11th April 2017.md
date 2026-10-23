@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20a%20Minutes%20Monthly%20Meeting%2011th%20April%252c%202017.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 11th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20a%20Minutes%20Monthly%20Meeting%2011th%20April%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -92,7 +93,9 @@ Seconded by Councillor Sheahan;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members sought an update on the Area Wide CCTV Project and stressed the importance of
@@ -158,7 +161,9 @@ And Resolved:
 public display in accordance with Section 199 and Schedule 14A Part 1 of the Local
 
 Government Act 2001 (as amended).
----
+
+[[PAGE_END:2]]
+
 3
 
 **2.**
@@ -234,7 +239,9 @@ requested that the Council make a public statement to clarify this matter.
 Members noted the importance of maintaining the costal infrastructure and stressed the need
 
 to make annual applications to the Department for any funding available in this regard.
----
+
+[[PAGE_END:3]]
+
 4
 
 Members expressed disappointment that the Minister had not allocated funding to the repair
@@ -326,7 +333,9 @@ Rock Armour:
 €12,500.00
 
 Topsoiling and reseeding: € 2,000.00
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICE OF MOTION**
@@ -392,7 +401,9 @@ that the amount of €8,000 be allocated to Rathkeale Boxing Club under the GMA 
 On the proposal of Councillor Teskey, seconded by Councillor McMahon it was agreed that the
 
 amount of €3,500 be allocated to Limerick City and County Motor Club under the GMA 2017.
----
+
+[[PAGE_END:5]]
+
 6
 
 **Civic Events**
@@ -424,4 +435,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

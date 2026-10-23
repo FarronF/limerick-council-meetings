@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%28a%29%20Minutes%20Ordinary%20Meeting%2018th%20November%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%28a%29%20Minutes%20Ordinary%20Meeting%2018th%20November%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
 **COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 18TH** **NOVEMBER, 2019**
@@ -84,7 +85,9 @@ will issue.
 Members also referred to the invitation issued to the HSE and expressed disappointment that a
 
 representative from the HSE was unavailable to attend.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Slattery also referred to the signed petition and request for a Special Meeting submitted
@@ -170,7 +173,9 @@ intention to bring a Section 183 Notice to the January Meeting of Council in thi
 approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 (b)
@@ -240,7 +245,9 @@ Horizon Mall, Dublin Road, Limerick.
 Derelict and Vacant Sites Levies.
 
 The reports, as circulated, were noted by Members.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -324,7 +331,9 @@ drafted. Construction of new station is programmed by the NTA for Quarter 1, 202
 ***are outstanding in relation to footpaths/pavements and what impact this has had on urban***
 
 ***design.***
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY:**
@@ -432,7 +441,9 @@ collector.
 However, the Council spent a total of €4,001,918 in relation to Street Cleaning and
 
 Litter Warden Services in 2018. Further monies of €73,857 and €50,200 were
----
+
+[[PAGE_END:5]]
+
 6
 
 allocated to Public Awareness / Promotional Initiatives and the Anti-Dumping
@@ -518,7 +529,9 @@ The time-schedule for completion of the study is as follows:
 November 2019: Survey of Facilities commenced
 
 Mid-February 2020: Draft Report of findings
----
+
+[[PAGE_END:6]]
+
 7
 
 Mid-March 2020: Final Report
@@ -602,7 +615,9 @@ The speed limits in College and Janemount Parks, Corbally will be changed to 30k
 in 2020 as part of the Council’s phased introduction of 30 kph speed limits in all
 
 housing estates in the City and County
----
+
+[[PAGE_END:7]]
+
 8
 
 **17.**
@@ -692,7 +707,9 @@ Roundabout due to the condition of the existing road surface;
 turning movements from Chawkes and Lidl onto the R445, which has been
 
 constructed to comply with a condition of planning.
----
+
+[[PAGE_END:8]]
+
 9
 
  The above works focused on improving road safety.
@@ -774,7 +791,9 @@ on the N18 extending eastwards to the rear of Tesco in Coonagh; associated cycle
 lanes and footpaths and advance works on the remainder of the route to
 
 Knockalisheen.
----
+
+[[PAGE_END:9]]
+
 10
 
 It is anticipated that the Tender documentation for Phase 2 of the Coonagh to
@@ -868,7 +887,9 @@ realm in the area.
 ***I will ask at the next Meeting to please advise on the maximum wait times for all controlled***
 
 ***pedestrian crossings in the Metropolitan Area.***
----
+
+[[PAGE_END:10]]
+
 11
 
 **REPLY**:
@@ -944,7 +965,9 @@ Culture, Tourism and Marketing remains the most efficient and effective means fo
 discussion and the ongoing development of the evening and night time economy in
 
 Limerick City.
----
+
+[[PAGE_END:11]]
+
 12
 
 **24.**
@@ -1026,7 +1049,9 @@ Costello and agreed.
 ***I will move at the next Metropolitan Meeting of Limerick City and County Council, that this***
 
 ***Council calls to request our Government to:***
----
+
+[[PAGE_END:12]]
+
 13
 
 ***—*** ***fund research into examining best international practice when it comes to determining,***
@@ -1104,7 +1129,9 @@ installation of the equipment.
 It was agreed to refer this Notice of Motion to the Travel and Transportation Strategic Policy
 
 Committee.
----
+
+[[PAGE_END:13]]
+
 14
 
 **32.**
@@ -1138,4 +1165,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-minutes-of-monthly-meeting-07th-july-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 7th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-minutes-of-monthly-meeting-07th-july-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ Proposed by Councillor O’Brien;
 Seconded by Councillor O’Donoghue;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
@@ -154,7 +157,9 @@ Circulated, report of the Executive Engineer, Planning and Environmental Service
 Department dated 26th June, 2020 outlining details of the recent oil spill on the N69.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -222,7 +227,9 @@ include a map showing the locations of these cameras. The report will be present
 Members at the September Municipal District Meeting.
 
 It was agreed Item 7 and 8 on the Agenda would be taken next.
----
+
+[[PAGE_END:3]]
+
 4
 
 **NOTICES OF MOTION**
@@ -300,7 +307,9 @@ This Motion was seconded by Councillor Sheahan.
 The proposed upgrade works to the Slí na Sláinte in Rathkeale do not form
 
 part of the current contract for enhancement of the Great Southern
----
+
+[[PAGE_END:4]]
+
 5
 
 Greenway. This project will be considered for a funding application under
@@ -368,7 +377,9 @@ Emmett McNamara to honour his success in the Epson Derby on the 4th July, 2020. 
 was seconded by Councillor Collins and agreed.
 
 This concluded the Meeting.
----
+
+[[PAGE_END:5]]
+
 6
 
 Signed:
@@ -380,4 +391,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

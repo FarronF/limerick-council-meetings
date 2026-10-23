@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-monthly-meeting-16th-november-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-monthly-meeting-16th-november-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Pe
+i
 
-——
+——_—
 
 Comhairle Cathrach Sekthisi Corpardicisacta,
 
@@ -31,18 +32,11 @@ Comhairle Cathrach Sekthisi Corpardicisacta,
 & Contae Luimnigh Ceanncheathni Chorparaideach.
 
 Cé na gCeannaithe,
-
-Limerick City Luinneach
 & County Council
-
 Corporate Services,
-
 Lamenck City and County Council,
-
 Corporate Headquarters,
-
 Merchants Quay,
-
 Limerick
 
 EIRCODE V94 EH90
@@ -65,7 +59,7 @@ Ja Clune,
 
 Meeting Administrator.
 
-a
+"Red
 
 1. Minutes
 
@@ -78,13 +72,15 @@ Monthly Meeting of the Metropolitan District of Limerick held on 19" October, 20
 (Copy Enclosed).
 
 mcustomerservices@limerick.ie
-& wowlimerick.ie
+© wwwlimerick.ie
 
-Ceanncheathnii Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -98,7 +94,7 @@ Mungret, Co. Limerick.
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
 Development Act 2000 (as amended) and Part 8 of the Planning and Development Regulations, 2001
-(as amended) In relation to the signalisation of the Plassey Road/Plassey Park Road and Plassey
+{as amended) In relation to the signalisation of the Plassey Road/Plassey Park Road and Plassey
 Road/University Road junctions with the addition of dedicated pedestrian/cycle crossing facilities
 and bus lanes.
 
@@ -124,7 +120,9 @@ Can you advise when the field in Castletroy Park that is used by Aisling Annacot
 it is waterlogged every time it rains.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor E. Secas
@@ -141,7 +139,7 @@ Metropolitan District held in January 2020.
 - if the project is delayed until 2021, will the €100,000 allocation from the Development Levy Fund
 still be there next year for this project;
 
-- will the Council submit a Part 8 Planning Application for the boundary wall so that residents in the
+~ will the Council submit a Part 8 Planning Application for the boundary wall so that residents in the
 area can have an input.
 
 9. Question submitted by Councillor E. Secas
@@ -157,7 +155,7 @@ Authority Climate Action Charter signed up to last October, in particular in mea
 impacts, developing and implementing a process for carbon proofing, and monitoring, evaluating
 and annual reporting.
 
-11. ion submi ncillor S. Novak Ui Chonchdir
+11. lon submi ncillor S. Novak Ui Chonchiuir
 
 | will ask the Council to provide an update on the Limerick Sustainable Energy and Climate Action
 Plan, submitted as part of the Covenant of Mayors, including the two monitoring reports for
@@ -171,7 +169,9 @@ forward for future plans.
 the projected timeline until it is open to applications.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor C. Sheehan
@@ -200,7 +200,7 @@ applicants under the Built Heritage Investment Scheme 2020 in the Metropolitan D
 successful recipients confirmed acceptance of funding and will there be a second round of
 applications for this scheme.
 
-17. Question submitted by Councillor E. O'Donovan
+17. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next meeting for the number of applications received under the 2019 “Connect to
 the Grid: 250 years of Limerick’s Urban Planning” Grant Scheme in association with Creative Ireland.
@@ -220,7 +220,9 @@ Also, what plans are in place to increase bed capacity over the winter months, w
 plans are in place for extreme weather conditions and what defines extreme weather conditions.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Question submitted by Councillor S. Benson
@@ -245,7 +247,7 @@ the Council are currently in contact with the owners.
 
 23. Question submitted by Councillor J. Costelloe
 
-i will ask at the next meeting in relation to Rebuilding Ireland home loan:
+| will ask at the next meeting in relation to Rebuilding Ireland home loan:
 (a) How many applications were received in comparison to the 2019 figures.
 (b) How many applications were approved in 2020 in comparison to the 2019 figures.
 
@@ -266,7 +268,9 @@ increase in speed. This hasn't happened. Increased speed is crucial to the devel
 marketing of the line.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Notice of Motion submitted by Councillor O. O’Sullivan
@@ -276,7 +280,7 @@ to make an extra effort to decorate their windows in the run-up to Christmas, cr
 atmospheric city trail for families to enjoy and promoting retail footfall in the city as Covid-19
 restrictions ease.
 
-27. Notice of Motion submitted by Councillor C. = vite be referred to the Economic
+27. Notice of Motion submitted by Councillor C. =— vite be referred to the Economic
 
 | will move at the next Metropolitan Meeting of the Council that the Council develops a policy for
 the taking in charge of estates to ensure that all estates are taken in charge within a defined period
@@ -295,4 +299,6 @@ sultable transfer, within their stock, in the cases of overcrowding, downsizing 
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

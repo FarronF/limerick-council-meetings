@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_18th_may_2015.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 18th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_18th_may_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Seirohist Corpardideacha agus Bainistfocht Athruithe,
+— Seirohist Corpardideacha agus Bainistfocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ENG Cé na gCeannaithe,
-—=—=—=—> Luimneach
+—=—=—> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
-COU NCIL Merchants Quay,
+COU. NCIL Merchants Quay,
 Limerick
 
 13” May, 2015. t: +353 (0) 61 407 100
-ls f: +353 (0) 61 415 266
+las f: +353 (0) 61 415 266
 
 The Mayor and each Member of the Metropolitan District of
 Limerick
 
-A Chombhairleoir, a chara,
+A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held
 in the Council Chamber, Merchant's Quay, Limerick, on Monday, 18" May, 2015 at
@@ -46,7 +47,7 @@ in the Council Chamber, Merchant's Quay, Limerick, on Monday, 18" May, 2015 at
 Eug ate
 Mee s Administrato
 
-ween wenn nnn ens ee eee e een cee ne nee en eneere cen nn ren nn nse seesns sess esses see eeeseeeeennnnaassnwnassnnensenanansenae
+eee ewww enn n wens wees e eee come e seen eneneene cen en ren nnnn esses ns esses esses eeeeeeeeeerennnnasenwnassenenennnnanesene
 
 AGENDA
 
@@ -66,11 +67,15 @@ e Dwelling house situate at 122 Hyde Road, Prospect in the City of Limerick.
 (Report Enclosed).
 
 = customerservices@limerick.le
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wwew.limerickie
-Corporate Headquarters, Merchants Quay, Limerick y @lLimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & woew.limerickie
+y @LimerickCouncil
+
+Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -124,7 +129,9 @@ Limerick.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -152,7 +159,7 @@ instead fund the service through progressive taxation.
 Notice of Motion submitted by Councillor Cian Prendiville
 
 | will move at the next meeting that the Council and Regeneration exert every
-effort to ensure the supermarket at Vvatchhouse Cross does not remain
+effort to ensure the supermarket at V/atchhouse Cross does not remain
 vacant and that this important service for the community is restored. We should
 request a progress report for the June meeting.
 
@@ -169,4 +176,6 @@ on the grounds of safety for pedestrians, restrictions to traffic flow, and gene
 road safety for all users.
 
 
----
+
+[[PAGE_END:3]]
+

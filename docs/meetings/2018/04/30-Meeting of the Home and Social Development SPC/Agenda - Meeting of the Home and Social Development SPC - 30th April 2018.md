@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Agenda%2030.04.18.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development SPC - 30th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Agenda%2030.04.18.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—————
+————
 
-aAr™ (i ‘ ™
+aAr™ i ‘ ™
 —
 COMHAIRLE
 CATHRACH & CONTAE
@@ -34,12 +35,12 @@ CITY & COUNTY
 COUNCIL
 
 Stiurthéireacht na Forbartha Sdisialta,
-Comhairle Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh.
 Ceanncheathra Chorparaideach,
 
 Cé na gCeannaithe,
 
-Luimvach
+Luimyeach
 
 Social Development Directorate,
 Limerick City and County Council,
@@ -70,7 +71,7 @@ Housing Targets 2018-2021.
 
 Public Land Activation — Adare.
 
-NOW WN PE
+NOW WH PE
 
 Presentation by the Urban and Village Renewal team on Vacant Houses.
 Update on the Buy & Renew and the Repair & Lease Schemes.
@@ -96,6 +97,7 @@ of the Metropolitan District of Limerick.
 Planning and Local Government urging him to take urgent action about the sky rocketing
 
 rents in the cost of student accommodation.
+
 8. Any other business
 
 Signed: Clir. W. O’ Donnell
@@ -106,4 +108,6 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

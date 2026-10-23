@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Minutes%20of%20meeting%20Metropolitan%20JPC%20Feb%202018.pdf)
+**Original file:** [Minutes of Metropolitan JPC Sub Committee Meeting - 19th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Minutes%20of%20meeting%20Metropolitan%20JPC%20Feb%202018.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF MEETING OF METROPOLITAN JOINT POLICING SUB COMMITTEE
 
 HELD IN THE COUNCIL CHAMBER, MERCHANTS QUAY, LIMERICK, ON
@@ -118,7 +119,9 @@ Horse found dead next to halting site in Rhebogue. Request that the law re taggi
 reinforced and a Guard appointed to liaise with the Council in relation to the horse situation in
 
 Limerick;
----
+
+[[PAGE_END:1]]
+
 
 
 Enforce the law re requirement for front and back lights on bicycles and cyclists wearing high viz
@@ -220,7 +223,9 @@ Sulky riding in the middle of the road thereby slowing up traffic especially dur
 referred specifically to the fact that sulky riding takes place every evening at 4.30 p.m. on Childers
 
 Road;
----
+
+[[PAGE_END:2]]
+
 
 
 The newly resurfaced Bloodmill Road now being used as a ‘rat run’ and drivers do not slow down at
@@ -314,4 +319,6 @@ This concluded the meeting.
 **COUNCILLOR SEAN COUGHLAN**
 
 **CHAIRMAN**
----
+
+[[PAGE_END:3]]
+

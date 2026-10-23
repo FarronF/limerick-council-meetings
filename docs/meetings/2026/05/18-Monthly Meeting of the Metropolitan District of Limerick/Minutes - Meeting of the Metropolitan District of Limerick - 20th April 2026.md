@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-april-2026.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN ANALOG DEVICES INC. CATALYST BUILDING, RAHEEN BUSINESS PARK,**
@@ -98,7 +99,9 @@ Limerick, Parks and Cemeteries (Mr. E. Walsh), Licensing Enforcement Officer, Me
 District of Limerick, Parks and Cemeteries (Mr. B. Barry), Clerical Officer, Metropolitan
 
 District of Limerick, Parks and Cemeteries (Mr. B. English), Co-Op Student, Metropolitan
----
+
+[[PAGE_END:1]]
+
 District of Limerick, Parks and Cemeteries (Mr. M.P. Meaney), Senior Executive Architect,
 
 Regeneration (Ms. C. Corry), Executive Architect, Regeneration (Mr. T. Joyce), Administrative
@@ -168,7 +171,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
 
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
----
+
+[[PAGE_END:2]]
+
 No such interests were declared.
 
 **3.Disposal of Land**
@@ -236,7 +241,9 @@ Engineer, City Centre Response Team, the Licensing Enforcement Officer, City Cen
 Response Team and the Executive Engineer, Cleansing Team, which included updates on
 
 footpath refurbishments, laneway improvements, pedestrianisation works, installation of
----
+
+[[PAGE_END:3]]
+
 bollards and bin storage units, seating upgrades, lighting pole refurbishment, park and
 
 garden enhancements, drainage works, and refurbishment projects at key locations such as
@@ -312,7 +319,9 @@ Members thanked the team for the presentation and commended them for their work.
 Members referred to the Riverfest Sustainability Report 2025 and queried why it hasn’t been
 
 circulated to date. Some Members emphasised the importance of agreeing a theme for
----
+
+[[PAGE_END:4]]
+
 Limerick Riverfest and requested that a festival sub‑group would be established, similar to
 
 the Christmas sub-group.
@@ -444,7 +453,9 @@ Ahane LFGA
 Lisnagry FC
 
 €5000.00
----
+
+[[PAGE_END:5]]
+
 Limerick Protestant Young Men’s Association
 
 €6000.00
@@ -612,7 +623,9 @@ Al Noor Mosque Islamic Centre
 Nepalese Community Limerick
 
 €1000.00
----
+
+[[PAGE_END:6]]
+
 Munster Indian Cultural Association
 
 €2500.00
@@ -766,7 +779,9 @@ Limerick Protestant Young Men’s Association
 Aisling Annacotty FC
 
 €17,000.00
----
+
+[[PAGE_END:7]]
+
 Newtown Rovers FC
 
 €1000.00
@@ -934,7 +949,9 @@ Munster Indian Cultural Association
 Indian Cultural of Limerick
 
 €2500.00
----
+
+[[PAGE_END:8]]
+
 Patrickswell Community Council
 
 €1500.00
@@ -1018,7 +1035,9 @@ the length of time it is taking to deliver a multi-purpose community centre for 
 other Members highlighted the ongoing need for a community centre in other areas such as
 
 Castletroy and Garryowen.
----
+
+[[PAGE_END:9]]
+
 **(b)Part 8 Procedure – King’s Island Youth and Community Centre**
 
 Circulated, Report of the Senior Executive Architect dated 8th April 2026, and enclosed
@@ -1086,7 +1105,9 @@ Proposed by: Councillor Kiely;
 Seconded by: Councillor McSweeney;
 
 And Resolved:
----
+
+[[PAGE_END:10]]
+
 “That the Part 8 in relation to Toppins Field, and subject to the agreed amendment, be
 
 approved in accordance with Section 179(3) of the Planning and Development Act 2000 (as
@@ -1154,7 +1175,9 @@ clearly communicated in the final design.
 **REPLY:** Shannon Street footpath repairs will resume next week and be completed by the end
 
 of the month, weather dependent.
----
+
+[[PAGE_END:11]]
+
 Phase 1 of the O’Connell Street improvements brought the new scheme as far as the
 
 junction with Cecil Street. Preliminary designs have been prepared for Phase 2 of
@@ -1228,7 +1251,9 @@ In addition to the Park closing times being displayed at the entrances to each P
 advance of closing the gates at the people’s Park, the Park Ranger rings the bell 20
 
 minutes before the Park is due to close around the perimeter and within the Park to
----
+
+[[PAGE_END:12]]
+
 notify the impending closure. This is repeated 5 minutes before the Park is due to
 
 have its last gate locked at closing time.
@@ -1294,7 +1319,9 @@ be required. The Council will open the dog parks as soon as is feasibly possible
 will advise the public on the opening dates in the near future.
 
 **16.Question submitted by Councillor Hickey-O’Mara**
----
+
+[[PAGE_END:13]]
+
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
 ***feasibility study regarding the building of a slip road at the entrance and exit to Ferndale,***
@@ -1364,7 +1391,9 @@ regarding the UL - Castleconnell - Montpelier Greenway.
 **REPLY:** The Technical Consultants on this Scheme are AtkinsRéalis. At present the UL to
 
 Montpelier Greenway is still in the Options Selection phase.
----
+
+[[PAGE_END:14]]
+
 Currently the MWNRDO are analysing all options concerning this Scheme, in an effort
 
 to advance this Scheme given the recent 2026 TII allocation
@@ -1432,7 +1461,9 @@ of the Act. Responsibility for implementing the Act lies primarily with the
 Department of Agriculture, Food and the Marine (DAFM). All animal welfare cases
 
 received by the Council are therefore referred to DAFM.
----
+
+[[PAGE_END:15]]
+
 **NOTICES OF MOTION**
 
 **23.Notice of Motion submitted by Councillor Pond**
@@ -1502,7 +1533,9 @@ Transportation Plan for Limerick City currently in design.
 The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor Gavan
 
 and agreed.
----
+
+[[PAGE_END:16]]
+
 In moving the Motion, Councillor Donoghue highlighted the urgent need to deliver the
 
 BusConnects Limerick project to significantly improve public transport in the region.
@@ -1568,7 +1601,9 @@ straights, deflection and junctions.
 ***formally request a Limerick City Taskforce be created, as has been established in Dublin***
 
 ***and Cork.***
----
+
+[[PAGE_END:17]]
+
 The Notice of Motion was proposed by Councillor O’Sullivan, seconded by Councillor Butler
 
 and agreed.
@@ -1638,7 +1673,9 @@ Limerick City & County Council will review seating arrangements in the city duri
 2026.
 
 **31.Notice of Motion submitted by Councillor Kiely**
----
+
+[[PAGE_END:18]]
+
 ***I will move at the next meeting of the Metropolitan District of Limerick that tabletop***
 
 ***ramps be installed at the pedestrian crossing at Drombanna and the speed be reduced to***
@@ -1706,7 +1743,9 @@ trader concerned has been formally notified that trading at this location will n
 permitted. Arrangements are also being progressed to install appropriate signage to
 
 clearly indicate that parking and trading on the green are prohibited.
----
+
+[[PAGE_END:19]]
+
 In parallel, the Council is actively examining alternative locations for licensed food
 
 traders on GAA match days that will not adversely impact residential amenity or
@@ -1774,7 +1813,9 @@ stadium grounds and at designated nearby locations, including Dunnes Stores.
 Parking is available in city-centre car parks with additional match-day parking for
 
 patrons facilitated by Na Piarsaigh GAA.
----
+
+[[PAGE_END:20]]
+
 An Garda Síochána, as the Traffic Authority, is the body responsible for planning,
 
 implementing and enforcing the Traffic Management Plan, including road closures,
@@ -1826,4 +1867,6 @@ This concluded the Meeting.
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:21]]
+

@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/Supplementary%20Item%20-%20September%20Council%20Meeting.pdf)
+**Original file:** [Supplementary Agenda - Full Meeting of Limerick City and County Council - 26th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/Supplementary%20Item%20-%20September%20Council%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach
+aa Comhairle Cathrach
 
 & Contae Luimnigh
 
-Te
+i a ae
 = Limerick City
 
-= & County Council
+— & County Council
 
 Seirbhisi Corperdideacha,
 
 Comhairle Cathrach agus Contae Lulmnigh
-Ceanncheathré Chorpardidesch,
+Ceanncheathné Chorpardidesch,
 
 Cé na gCeannaithe,
 
@@ -49,7 +50,7 @@ Limerick
 
 EIRCODE V94 EH90
 
-t: #353 (0) 64 557150
+t: #353 (0) 63 557150
 f: +353 (0) 61 415 266
 
 23" September, 2022.
@@ -75,15 +76,16 @@ additional or new traffic hazards."
 “in connection with the working of the farm.”
 
 Is mise le meas,
-Sorat a.
-‘laura Flannery, ee
+‘laura Flannery, a
 Meetings Administrator.
 = Customerservices@limerick.ie
 © Werwdimerickie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmmeach y
 
 @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061- 557150
+Corporate Headquarters, Merchants Quay, Limerick (061- 587150
 
 
----
+
+[[PAGE_END:1]]
+

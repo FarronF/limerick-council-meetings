@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20for%20SPC%20Meeting%2029.10.2019.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 29th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20for%20SPC%20Meeting%2029.10.2019.pdf)
 
----
+[[FILE_START]]
+
 **15/10/2019**
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
@@ -56,4 +57,6 @@ Policy Committee will be held in the **Council Chamber**, **Limerick City and Co
 **Chairperson**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

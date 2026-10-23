@@ -16,29 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-9th-february-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-9th-february-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caota,
-& Contae Luimnigh Comhavte Cathrach agus ¢ vee sala
-= _ Aras Séan Fin,
+a Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacta,
+& Contae Luimnigh Comhavte Cathrach agus ¢ vee ala
 
-Sconce rut Cot
+SS aunyca rah Col
 & County Council .
 
-Co, Wimnigh
+Co, Wuimnigh
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
-Aras Sean Finn.
+Aras Sean Finn,
 
 New Line
 
 Rathkeale
 
-Co. Limerick.
+Co. Limerick
 
 EIRCODE 94 HKIV
 3" February, 2021.
@@ -52,7 +52,7 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend an online Meeting of the Municipal District of Adare-Rathkeale to be
-held on Tuesday, 9"" February, 2021 at 9.30 a.m. The business to be transacted is set out on the
+held on Tuesday, 9" February, 2021 at 9.30 a.m. The business to be transacted is set out on the
 appended Agenda.
 
 Is mise le meas,
@@ -77,14 +77,16 @@ To recieve an update in relation to Limerick City and County Council's Control o
 
 Bye Laws 2017.
 (Report Enclosed).
-& customerserviceselimerickie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach | © werdlimericcie
+& customerservicese@limerickie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach | © weralimericcie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
-\ 062 - 556 000
+\ 068 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -124,7 +126,9 @@ To review position in relation to allocations under the General Municipal Alloca
 2020/2021.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -136,7 +140,7 @@ To review position in relation to allocations under the General Municipal Alloca
 15.
 
 UESTIONS
-n i b llor A,
+n i b llor A.
 | will ask at the next Meeting (a) what is the law surrounding temporary dwellings and
 parking of same on private and public property and (b) how many offences have been
 committed with regards to same and brought to a satisfactory outcome by the Local
@@ -167,4 +171,6 @@ roads safely.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

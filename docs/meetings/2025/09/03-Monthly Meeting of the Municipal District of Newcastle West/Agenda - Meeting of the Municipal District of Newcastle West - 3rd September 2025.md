@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/00-2025-09-03-agenda-meeting-of-the-municipal-district-of-newcastle-west.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 3rd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/00-2025-09-03-agenda-meeting-of-the-municipal-district-of-newcastle-west.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach
 & Contae Luimnigh
-a Limerick City
+aa Limerick City
 imerick Ci
-=> & County Council
+= & County Council
 
 29" August, 2025
 
 To: The Cathaoirleach and Each Member of the Munici
 
-Duiche Bardais an Chaisledin Nua Thiar,
+Duiche Bardais an Chaisiedin Nua Thiar,
 Comharte Cathrach agus Contae Luimnigh,
-Aras Wiliam Smith O'Brien.
+Aras Witiam Smith O'Brien.
 
 Gaortbul,
 
@@ -50,7 +51,7 @@ Newcastle West,
 
 Co. Limerick
 
-Eircode: V42EH73
+Etrcode: V42EH73
 
 t: +353 (0) 69 62100
 
@@ -63,7 +64,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 3 Septe
 2025, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-neni
+Meo
 
 Meetings Administrator.
 
@@ -71,7 +72,7 @@ AGENDA
 
 1. Minutes
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 2"4
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 2°4
 
 July, 2025.
 
@@ -92,12 +93,14 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 @ customerservices@limerickie
 © wvewlimerick.ie
-kCouncil
+‘kCouncil
 
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -105,6 +108,7 @@ kCouncil
 13.
 
 Disposal of Land
+
 To note proposal for the Disposal of 0.0069 Acres (0.0028 Hectares) of Land at
 
 Churchtown, Newcastle West, Co. Limerick.
@@ -119,7 +123,7 @@ Transportation and Mobility Directorate
 To Consider Request for Funding for the area known as the “Meeting of the Three
 Counties”.
 
-Cor, H nisational i nt
+Cor, H nisational | nt
 Directorate
 
 To Consider Nomination of a Member of Newcastle West Municipal District to the
@@ -141,17 +145,19 @@ Mountcollins (b) is this road on a roads programme.
 the back of the Church in Abbeyfeale i.¢ centre lines particularly at bends and
 junctions.
 
-| will ask at the next Meeting for a detailed update on the Abbcyfeale Traffic
+| will ask at the next Meeting for a detailed update on the Abbeyfeale Traffic
 Management Plan costings - start dates, detailed outline of works and importance of
-
 opening the carpark.
+
 Question submitted by Councillor T. Ruddle
 
 | will ask at the next Meeting how many parking fines have been issued to persons
 parking illegally in disability bays in the Newcastle West District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -180,7 +186,7 @@ member to monitor and control antisocial behaviour in Newcastle West.
 i will ask at the next Meeting what measures are underway to prevent future
 flooding in Dromcollogher.
 
-Questions submitted by Councillor J. Sheahan,
+Questions submitted by Councillor J. Sheahan.
 
 | will ask at the next meeting for an update on the Athea Flood Relief Scheme with
 an indicative start date.
@@ -213,18 +219,20 @@ the Abbeyfeale Traffic Management Plan be taken from development levies collecte
 Newcastle West be brought into line those applicable within Limerick City.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 25.
 
 26.
 
-| will move at the next Meeting that we call on Uisce Eireann to have a senior
+twill move at the next Meeting that we call on Uisce Eireann to have a senior
 representative attend our next Meeting to brief Members on the likely timeframe for
 the upgrade of our County Towns Wastewater Treatment Plant.
 
-N M mi lor J.
+N M mi llor J.
 | will move at the next Meeting that Limerick City and County Council refurbish the
 
 Bring Bank Centre at Athea graveyard so as to eliminate illegal dumping and in doing
@@ -233,4 +241,6 @@ so will revise the current parking following loss of spaces post school calming 
 Correspondence
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-the-municipal-district-of-newcastle-west-29th-october-2025.pdf)
+**Original file:** [Minutes -  Special Meeting of the Municipal District of Newcastle West - 29th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-the-municipal-district-of-newcastle-west-29th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -86,7 +87,9 @@ Members did not approve the proposal from a value for money perspective at the l
 Meeting. The Members and the Mayor wished to ensure the funding would remain in the
 
 Newcastle West Municipal District.
----
+
+[[PAGE_END:1]]
+
 2
 
 Subsequently, the Mayor was informed that €67,753.83 (inclusive of VAT) was allocated from
@@ -132,4 +135,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

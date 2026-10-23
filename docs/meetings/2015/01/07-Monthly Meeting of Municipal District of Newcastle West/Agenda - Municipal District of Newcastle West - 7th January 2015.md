@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_7th_january_2015_0.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 7th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_7th_january_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 p-P
 
-_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+__——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NIN «A . Cé na gCeannaithe,
-— Luimneach
+“NIN «4 . Cé na gCeannaithe,
+—=—=— Luimneach
 
-. .
+. *
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
@@ -53,17 +54,17 @@ Agenda.
 
 Is mise le meas,
 
-el 0'C-—~0h-
+hel 0'C-——0h
 . Tina Knox,
 Meetings Administrator.
 
-eee enn n nnn n nnn e en wenn ee nnneeeeenses:
+ence en nn nnn n ene e en nn ween ee nnnnneeenses:
 
 AGENDA
 
 1. Minutes:
 
-To adopt Minutes of Meeting of Municipal District of Newcastle West held on 37
+To adopt Minutes of Meeting of Municipal District of Newcastle West held on 3°
 December, 2014.
 
 2. Removal of On-Street Parking Abbeyfeale:
@@ -73,11 +74,13 @@ Street, Abbeyfeale.
 
 (Report and Map enclosed)
 
-Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach  weew.limerick.te
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © weew.limerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -119,7 +122,9 @@ within the Cemetery.
 without one and that a bin collection service be put in place, where necessary.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -143,4 +148,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

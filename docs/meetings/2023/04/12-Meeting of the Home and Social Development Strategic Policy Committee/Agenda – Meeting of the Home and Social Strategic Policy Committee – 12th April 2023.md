@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2012th%20April%202023.pdf)
+**Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 12th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2012th%20April%202023.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -72,4 +73,6 @@ housing delivery targets in Limerick.
 Housing Commission Public Consultation
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

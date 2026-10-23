@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-8th-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 8th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-8th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 **Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and**
 
 **Environment Strategic Policy Committee held on Wednesday 08th** **October 2025 at 2.30pm.**
@@ -76,7 +77,9 @@ Cllr. K. O’Hanlon.
 **Limerick City and County Tree Policy 2024-2030.**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 Cllrs. Kiely and McSweeney opened the discussion by highlighting their concerns around tree
 
 management in the City and County.
@@ -174,7 +177,9 @@ ensure that communities receive an appropriate grant amount. There are also gran
 under the Communities Climate Action Fund and also Going for Gold which are administered
 
 by the Environment and Climate Action Department. There may be a case for the Council to
----
+
+[[PAGE_END:2]]
+
 review community grants in general across the organisation to see the level of grants that are
 
 currently available and whether there is a need to provide further grant aid.’
@@ -240,7 +245,9 @@ laws need to be strengthened, which is why stakeholder input is critical at this
 Presentation will be circulated to all members. The PPN will be contacted directly to ensure
 
 relevant organisations are consulted throughout the process.
----
+
+[[PAGE_END:3]]
+
 **Item 5** **–** **Community Climate Action Fund, relaunch 2025** **–** **Dr. Darren Barry, Community Climate**
 
 **Action Officer, Environment & Climate Action.**
@@ -316,7 +323,9 @@ areas of underfunding in the Cemeteries and Parks Sections. It is intended to pr
 **3.Increase tree maintenance funding from €94,000 to €200,000.**
 
 **4.Increase Westfield Wetlands maintenance budget from €5k to €50k.**
----
+
+[[PAGE_END:4]]
+
 **It was agreed that these recommendations would be brought forward to the budgetary process.**
 
 Following the presentation Mr A Finn advised of two upcoming awards ceremonies that all Members are
@@ -328,4 +337,6 @@ This concluded the business of this meeting.
 **Cllr Joe Leddin**
 
 **Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee**
----
+
+[[PAGE_END:5]]
+

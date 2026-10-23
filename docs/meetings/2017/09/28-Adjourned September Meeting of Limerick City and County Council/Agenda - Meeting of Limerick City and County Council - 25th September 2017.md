@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28ii%29%20Agenda%20September%20Council%20Meeting.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 25th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28ii%29%20Agenda%20September%20Council%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
-_—_—_ & Contae Luimnigh
+_—_ & Contae Luimnigh
 ~~ =— Li ick City
 meri i
 & County Council
@@ -34,16 +35,16 @@ il
 
 A Chomhairleoir, a chara,
 
-Seirbhisi Corpardideacha,
+Setrbhisi Corpardideacha,
 
-Comhairte Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathni Chorparaideach,
 
 Cé na gCeannaithe,
 
 Luimneach
 
-Corporate Services,
+Corporate Services.
 
 Limerick City and County Council
 Corporate Headquarters,
@@ -54,7 +55,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: #353 (0) 61 415 266
+f: +353 (0) 61 415 266
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
 Council Chamber, Dooradoyle, Limerick, on Monday, 25” September, 2017, at 3.00 p.m. The
@@ -67,7 +68,7 @@ Christy O'Connor
 Christy O’Connor,
 Meetings Administrator.
 
-atelainiateieiiiiieiieiietieeiiieieeiie GLEE ETT
+teeiaeiiieiiiieiiiaeeiiee EE EET
 
 AGENDA
 
@@ -97,11 +98,13 @@ Corporate Headquarters, Merchants Quay, Limerick
 @ customerservices@limerick.ic
 © wvowimerick.ie
 
-vy @LimerickCouncil
+y @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -122,7 +125,7 @@ Fixing of Date - Statutory Budget Meeting
 
 To fix date for the 2018 Statutory Budget Meeting.
 
-(Copy of Circular Fin 06/2017 dated 8 September, 2017, Enclosed)
+(Copy of Circular Fin 06/2017 dated 8” September, 2017, Enclosed)
 
 Local Property Tax
 
@@ -155,7 +158,9 @@ to replace Councillor Collins (M), and (ii) Councillor Collins (M) to the
 Environment Strategic Policy Committee to replace Councillor Crowley.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (f)
@@ -215,7 +220,9 @@ York, under Section 142(5) of the Local Government Act, 2001, as amended.
 (Report to follow)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (1)
@@ -260,20 +267,22 @@ To consider participation by Members at the following Conferences:
 Meath, on 22™ September, 2017.
 
 (c) ‘ICSH Biennial National Social Housing Conference to be held in Limerick on
-27""/28"" September, 2017.
+27'"/28"" September, 2017.
 
 (d) ‘Local Authority Budgets 2018’ to be held in Letterkenny, Co. Donegal, from
 13" to 15" October, 2017.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) ‘A Practical Guide to Budget 2018’ to be held in Carlingford, Co. Louth, from
 13" to 15" October, 2017.
 
 (f) ‘What does a Hard Brexit Mean for Ireland’ to be held in Clonakilty, Co.
-Cork, from 20" to 22™ October, 2017.
+Cork, from 20" to 22” October, 2017.
 
 (g) ‘Housing Conference 2017’ to be held in Dublin on 22™ November, 2017.
 
@@ -308,7 +317,9 @@ River Galey in Athea; (b) when will the proposed drainage works begin; and (c) w
 works exactly are to be carried out.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -351,7 +362,9 @@ secure vacant dwellings using the CPO method; and (d) When did this Council firs
 use this method with regard to vacant houses.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -370,7 +383,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor C. Prendiville
 
-I will move at the next Meeting that the Council write to the Minister for Education
+| will move at the next Meeting that the Council write to the Minister for Education
 registering its complete opposition to any increase in college fees, or a student loan
 scheme, and instead call on the Government to implement the proposals in the
 Cassells Report for fully publicly-funded third-level education, and a living grant for
@@ -402,4 +415,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

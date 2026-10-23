@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/04-minutes-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-28th-february-2024.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/04-minutes-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-28th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK TO APPROVE
@@ -76,7 +77,9 @@ The Elected Members were requested to revert to the Meetings administration staf
 with the relevant contact details for the community groups nominated at their earliest
 
 convenience.
----
+
+[[PAGE_END:1]]
+
 **Both schemes were proposed and seconded.**
 
 Proposed: Councillor Mitchell
@@ -88,4 +91,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Cathaoirleach**
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

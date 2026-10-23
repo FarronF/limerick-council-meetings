@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%202017-06-28%20Minutes%20%20Annual%20Meeting%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 28th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%202017-06-28%20Minutes%20%20Annual%20Meeting%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
@@ -30,7 +31,6 @@ OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 28" JUNE,
 PRESENT IN THE CHAIR: Councillor J. Sheahan, An Cathaoirleach.
 
 MEMBERS PRESENT:
-
 Councillors Collins, Foley and Scanlan.
 
 Apologies for their inability to attend the Meeting were received from Councillors Browne and
@@ -63,7 +63,9 @@ The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach o
 District for the coming year.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Foley;
@@ -112,7 +114,9 @@ Chathaoirleach of the Municipal District. He offered him his congratulations and
 the coming year.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The incoming Leas-Chathaoirleach congratulated Councillor Collins on being elected Cathaoirleach.
@@ -135,4 +139,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

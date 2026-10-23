@@ -16,45 +16,35 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-limerick-city-and-county-council-22nd-january-2024.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 22nd January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-limerick-city-and-county-council-22nd-january-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-5 , Sewbhisi Corparai che
-
-Comhairle Cathrach crebnthe Cathe aC aoaemathy
-
-ntne Lui igh Comhairle Cathrach egus Contae Luimnigh,
-
-a & Contae Luimnig Ceanncheathni Chorperaldesch,
-
-ANN cB Cé na gCeannaithe
-
-— Limerick City laamneach
-& County Council
-
-Corporate Services,
-
+a Comhairle Cathrach . ____ Seirbhisi Corparaideacha
+: : Comhairle Cathrach egus Contae Luimnigh,
+a & Contae Luimnigh Ceanncheathni Chorperdldesch,
+Ars a Cé na gCeannaithe
+=: Limerick City Lasmneach
+= & County Council ;
+Corporate Services
 Limerick Cry and County Council
-
-Corporate Headquarters,
-
+Corporate Headquarters.
 Merchants Quay
-
 Limerick
 
-EIRCODE V94 EHS0
+EIRCODE V94 EHSO0
 
-t: +353 (0) 61 557150
-f;: +353 (0) 61 415 266
+t: #353 (0) 61 557150
+: +353 (0) 61 415 266
 
-17® January, 2024,
+17® January, 2024.
 To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, and Online, on 22™ 2024, at .
+Council Chamber, Dooradoyle, Limerick, and Online, on 22™ 2024, at :
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -73,7 +63,7 @@ To adopt Minutes of the following Meetings:
 
 (a) Special Meeting of the Council held on 17 November, 2023.
 
-(b) Statutory Budget Meeting of the Council held on 17" November, 2023.
+(b) Statutory Budget Meeting of the Council held on 17 November, 2023.
 (c) Ordinary Meeting of the Council held on 27 November, 2023.
 
 (d) Special Meeting of the Council held on 29™ December, 2023.
@@ -88,7 +78,9 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -112,7 +104,7 @@ Housing Directorate
 
 (i) 19, Cregan Avenue, Kileely, Limerick.
 
-(j) 15, Woodvale, Foynes, Co. Limerick.
+(i) 15, Woodvale, Foynes, Co. Limerick.
 
 (k) 26, Pearse Avenue, Janesboro, Limerick.
 
@@ -122,7 +114,7 @@ Housing Directorate
 
 (n) 0.3 acres (0.123 hectares) at Turagh Crescent, Cappamore, Co. Limerick.
 (o) 0.78 acres (Site A) at Kilmallock Business Park, Kilmallock, Co. Limerick.
-(p) 1 acre (Site B) at Kilmallock Business Park, Kilmallock, Co. Limerick.
+(p) 1 acre (Site 8) at Kilmallock Business Park, Kilmallock, Co. Limerick.
 
 ({q) 1 acre (Site C) at Kilmaliock Business Park, Kilmallock, Co. Limerick.
 
@@ -146,7 +138,9 @@ Co. Limerick, in the form of a 35-year lease.
 2023, and 10", and 11" January 2024 already circulated)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -166,7 +160,7 @@ December 2023.
 
 Statutory Audit Report 2022
 
-To consider the Audit and Risk Committee's report dated 12" December, 2023,
+To consider the Audit and Risk Committee's report dated 12 December, 2023,
 on the Statutory Audit Report 2022 for Limerick City and County Council.
 
 Documentation enclosed as follows:
@@ -176,7 +170,7 @@ Documentation enclosed as follows:
 (ii) Limerick City and County Council Audited Annual Financial
 Statement for the Year ended 31" December, 2022.
 
-(iii) | Local Government Audit Service Statutory Audit Report to the
+(iii) Local Government Audit Service Statutory Audit Report to the
 Members of Limerick City and County Council for the Year
 ended 31% December, 2022.
 
@@ -199,7 +193,9 @@ Austin, Texas. (retrospective approval)
 participation in the Annual St. Patrick’s Day Parade, New York City, USA.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
@@ -226,7 +222,7 @@ To consider reports as follows:
 
 (ii)
 
-(iil)
+{iil)
 
 (iv)
 
@@ -253,7 +249,7 @@ and Planning Strategic Policy Committee held on 11" December, 2023.
 
 (Chairperson’s Report Enclosed)
 Chairperson’s Report — Meeting of Travel and Transportation Strategic
-Policy Committee held on 12". December, 2023.
+Policy Committee held on 12" December, 2023.
 
 (Chairperson’s Report Enclosed)
 
@@ -263,7 +259,9 @@ Environment Strategic Policy Committee held on 13" December, 2023.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -309,7 +307,9 @@ Limerick city and county are located and recent data for same and to ask for an 
 on an air quality strategy for Limerick.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -338,16 +338,15 @@ where all clubs and social groups would have the opportunity to showcase their c
 to their local community to allow people the chance to become members or join as an
 organising volunteer.
 
-pees eT SMM AS
+Sia SMAAK
 
-moun tT MIOLon PMH teG & ai mie ips i vt Pau =
+PORN wt MOON PMHMTteG f ~ mieips a yt Pate =
 Councillors K. Sheahan (Proposer), B. Colli S$. Keary, E. O’Brien, J.
 O'Donoghue, A. Teskey
 
 We will move at the next Meeting that Limerick City and County Council consider the
-
 proposed new library for the Limerick Opera Site be named in honour of Donogh
-O'Malley.
+O’Malley.
 
 Notice of Motion submitted by Councillor C. Sheehan
 
@@ -357,7 +356,9 @@ which local authorities can apply for discretionary funding for additional stree
 for laneways and other areas, as needed.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -387,4 +388,6 @@ wardens will have the power to fine those responsible for same.
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

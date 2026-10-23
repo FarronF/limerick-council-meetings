@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-23rd-june-2025.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 23rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-23rd-june-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
 **TOURISM AND PLANNING STRATEGIC POLICY COMMITTEE MEETING HELD ON MONDAY, 23rd** **JUNE**
@@ -102,7 +103,9 @@ Limerick Tourism Development Strategy Action Plan 2019 – 2023. Key achievement
 ➢ Rural Regeneration Development Fund (RRDF) Category 1 Funding amounting to €17.23M in
 
 February 2024
----
+
+[[PAGE_END:1]]
+
 ➢ Festival & Events Unit established
 
 ➢ Festival & Events Strategy published
@@ -190,7 +193,9 @@ were able to build up a profile (key indicators). The study was taken in 2023. T
 study on the impact of other attractions. Ms. Coleman said she will get figures regarding other
 
 attractions for Cllr. J O’Donoghue.
----
+
+[[PAGE_END:2]]
+
 Cllr. Gavan had the following queries and comments:
 
 •
@@ -296,7 +301,9 @@ He said that there was nothing done to promote castles in the county. Ms Coleman
 are working with OPW on development of Fullers Folly. Wild Encounters is highlighted on
 
 Limerick.ie.
----
+
+[[PAGE_END:3]]
+
 Cllr. M Donoghue said that there is a range of tourism that is not Limerick City and County Council
 
 /owned e.g. Hunt Museum and should be included in strategy. Cllr. M Donoghue said that Limerick is
@@ -384,7 +391,9 @@ and bring issues. There is dialogue with the Gardaí in Limerick and they realis
 footfall on Twilight Thursday and that an increased presence is required. The NTE is a team
 
 of 1 with a small budget and the Gardaí is a broader issue for LCCC.
----
+
+[[PAGE_END:4]]
+
 •
 
 Cllr. J O’Donoghue asked are there are numbers on those who attended the first Twilight
@@ -488,7 +497,9 @@ Cllr. Gavan asked if there is a timeframe for Georges Quay. Response, the works 
 yearlong, contractor waiting to begin works in September so to not to negatively affect the
 
 summer trade for business owners there.
----
+
+[[PAGE_END:5]]
+
 •
 
 Mr. Thompson complimented the contractors on their level of engagement with the
@@ -584,7 +595,9 @@ Monday 8th December 2025 from 2.15 pm to 4.15pm
 −
 
 Monday 9th February 2026 from 2.15 pm to 4.15 pm
----
+
+[[PAGE_END:6]]
+
 −
 
 Monday 13th April 2026 from 2.15 pm to 4.15 pm
@@ -638,4 +651,6 @@ with Mr. Thompson.
 The Chair concluded the meeting at 4.45 pm and thanked the SPC Committee for their input.
 
 **Signed: Cllr. P. Doyle, Chairperson**
----
+
+[[PAGE_END:7]]
+

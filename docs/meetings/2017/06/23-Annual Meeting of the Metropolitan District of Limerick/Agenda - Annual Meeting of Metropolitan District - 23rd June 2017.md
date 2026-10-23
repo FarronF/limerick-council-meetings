@@ -16,29 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Annual%20Meeting%20of%20Metropolitan%20District%2023rd%20June%202017.pdf)
+**Original file:** [Agenda - Annual Meeting of Metropolitan District - 23rd June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Annual%20Meeting%20of%20Metropolitan%20District%2023rd%20June%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha,
 
-————— Comhairle Cathrach agus Contae Luimnigh,
-APN A Ceanncheathni Chorparéideach,
-=> Cé na gCeannsithe,
+——— Comhairle Cathrach agus Contae Luimnigh,
+ae — Ceanncheathni Chorparaéideach,
+Cé na gCeannaithe,
 COMHAIRLE Luimneach
 CATHRACH & CONTAE
-
-- . Corporate Services,
-Luimnigh Limerick City and County Councit
-
-. . Mi
-Limerick er mm mr
+. s Corporate Services,
+Luimnigh Limavick City and Coury Counc
+; 7 H
+Limerick ial iar hee:
 CITY & COUNTY Limerick
-
 COUNCIL
-
-EIRCODE V94 E90
+EIRCODE V94 EHSO
 
 th t: +353 (0) 61 407 100
 16° June, 2017. f; +353 (0) 61 415 266
@@ -48,7 +45,7 @@ To: _ The Mayor and each Member of the Metropolitan District of Limerick
 A Chomhairleoir, a chara,
 
 You are requested to attend the Annual Meeting of the Metropolitan District of Limerick to be
-held in the Council Chamber, Merchant’s Quay, Limerick, on Friday, 23 June, 2017 at 6.00 p.m.
+held in the Council Chamber, Merchant's Quay, Limerick, on Friday, 23 June, 2017 at 6.00 p.m.
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -74,4 +71,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+

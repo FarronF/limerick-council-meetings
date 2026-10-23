@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -94,7 +95,9 @@ Councillor Teskey referred to the recent appointment of seven Members to the Lim
 City and County Local Community Safety Partnership Committee and asked for
 
 confirmation on how these Members were appointed to this committee.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director of Service, Adare-Rathkeale Municipal District advised the legislation set
@@ -170,4 +173,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

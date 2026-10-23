@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20November%202015.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock - 19th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 __—_—_—_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-aAr™
-a ‘“ Cé na gCeannaithe,
-. = Luimneach
+ANS ~“
+Cé na gO ithe,
+—_———— “ prbrriny
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
-COUNCIL ca
-Limerick
-" t: +353 (0) 61 407 100
-12" November, 2015. f: +353 (0) 61 415 266
+COUNCIL Merchants Quay,
+
+» t: +353 (0) 61 407 100
+42” November, 2015. f: +353 (0) 61415 266
 
 To! The Cathaoirleach and each Member of the Municipal District of
 
@@ -52,7 +53,7 @@ ha Yno ¥
 ina Knox,
 Meetings Administrator.
 
-ee td
+nn ad
 
 AGENDA
 
@@ -64,7 +65,7 @@ To adopt Minutes of the following Meetings:
 2015.
 (b) Draft Budgetary Plan Meeting for the Municipal District of Cappamore-Kilmallock
 
-held on 22° October, 2015.
+held on 22"° October, 2015.
 (Copies Enclosed).
 
 2: Knocklong Railway Station Project
@@ -75,14 +76,16 @@ To hear Presentation.
 To hear update from Inspector Luke Conlon.
 @ customerservices@limerickic
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 2
-Corporate Headquarters, Merchants Quay, Limerick waaien serene
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 5)
+Corporate Headquarters, Merchants Quay, Limerick ss aaenr serene
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Ne
+N
 
 QUESTIONS
 
@@ -93,7 +96,7 @@ Castle Park Estate, Caherconlish.
 
 Questions submitted by Councillor O'Donnell
 
-! will ask at the next Meeting for anupdate on proceedings taken by Limerick
+| will ask at the next Meeting for an update on proceedings taken by Limerick
 City and County Council regarding the Old Store premises in Herbertstown and if
 the property can be acquired by way of compulsory purchase.
 
@@ -123,4 +126,6 @@ appropriate and necessary traffic calming measures at the National School in
 Knockainey in the interest of road safety.
 
 
----
+
+[[PAGE_END:2]]
+

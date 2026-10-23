@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_limerick_city_and_county_council_-_6th_june_2014.pdf)
+**Original file:** [Agenda - Limerick City and County Council - 6th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_limerick_city_and_county_council_-_6th_june_2014.pdf)
 
----
+[[FILE_START]]
+
 **Corporate Services.**
 
 **Seirbhísí Corparáideacha.**
@@ -72,7 +73,9 @@ file_type: "Agenda"
 **To consider the appointment of Chairs-designate to the Strategic Policy**
 
 **Committees.**
----
+
+[[PAGE_END:1]]
+
 2
 
 **6.**
@@ -144,7 +147,9 @@ file_type: "Agenda"
 **To consider the appointment of the Cathaoirleach to the Board of Adare**
 
 **Heritage Trust Limited.**
----
+
+[[PAGE_END:2]]
+
 3
 
 **17.**
@@ -208,7 +213,9 @@ file_type: "Agenda"
 **24.**
 
 **To consider the nomination of 1 Member to Limerick Civic Trust.**
----
+
+[[PAGE_END:3]]
+
 4
 
 **25.**
@@ -240,4 +247,6 @@ file_type: "Agenda"
 **To consider the nomination of 1 Member of Limerick City and County Council**
 
 **to the Board of Innovate Limerick.**
----
+
+[[PAGE_END:4]]
+

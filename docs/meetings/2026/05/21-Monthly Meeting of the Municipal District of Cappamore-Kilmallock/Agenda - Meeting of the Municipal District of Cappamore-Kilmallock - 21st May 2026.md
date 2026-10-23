@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-may-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Comhabvle Catisech agus Contae Lutninigh,
-Py 3 . “heantaly, Aras Mhaincliin Seoighe,
-& Contae Luimnigh Gag ane :
+a Comhairle Cathrach Comhalvie Catisech agus Contae Lutninigh,
+Py . .. “heantaly, Aras Mhamncliin Seonghe,
+& Contae Luimnigh Garg ane :
 
-Olll Mochealag.
-afr"
+Oil Mochealag.
+ace
 
-= . A Co. Laimnigh
+; P A Co. Laimnigh
 
 Limerick City
 = & County Council Limerick City and County Council
 Aras Maincliin Seoighe Area Office,
-Kibnallock
+Kibmallock
 Co. Lamericx.
 
-EBIRCODE V35 K497
+EIRCODE V35 K497
 
 €: 4353 (0) 65 980 19
 f: +353 (0) 63 985 99
@@ -51,7 +52,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-
 Kilmallock to be held in the Municipal District Office, Aras Mainchin Seoighe,
-Kilmallock, Co, Limerick and On-Line on Thursday, the 21st May, 2026 at 2.00 p.m.
+Kilmallock, Co. Limerick and On-Line on Thursday, the 21st May, 2026 at 2.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
@@ -73,10 +74,12 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 
 & customerservices@limerickie
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Ams Mhainchin Seoighe © worn limerickie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office Comseo3s
+Limerick City and County Council, Aras Mainchin Seoighe Area Office Comseo3
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -125,7 +128,9 @@ extra parking and yellow boxes for commercial vehicles to load and off-load
 Ld
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 their vehicles in a safer manner, to implement traffic restrictions in the form of
@@ -149,4 +154,6 @@ for residents, pedestrians, and road users.
 11. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

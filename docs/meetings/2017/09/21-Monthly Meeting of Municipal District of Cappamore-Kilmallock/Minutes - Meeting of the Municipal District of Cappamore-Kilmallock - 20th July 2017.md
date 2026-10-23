@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28i%29%20Minutes%20Meeting%20200717.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28i%29%20Minutes%20Meeting%20200717.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -76,7 +77,9 @@ Seconded by Councillor Teefy;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -156,7 +159,9 @@ items developing a levy on one-use items along the lines of the successful plast
 Members thanked her for the comprehensive presentation and commended Team
 
 Limerick Clean-Up on the huge success.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -230,7 +235,9 @@ would be made to allocations:
 • The allocation for Kilfinane Coshlea Historical Society was amended to €500.
 
 • The allocation for Kilfinane Community Projects CLG was amended to €500.
----
+
+[[PAGE_END:3]]
+
 4
 
 • The allocation for Kilbehenny Community Centre was amended to €500.
@@ -376,7 +383,9 @@ which is accessible to all from the
 surrounding towns and villages
 
 €500
----
+
+[[PAGE_END:4]]
+
 5
 
 Effin & Garrienderk
@@ -498,7 +507,9 @@ The Members expressed their concern in relation to the Kilmallock Business Park 
 the decline of same. They felt that investors would not be interested in this development in its
 
 current condition and that it should be actively promoted to encourage investment.
----
+
+[[PAGE_END:5]]
+
 6
 
 Mr. Fitzmaurice stated that they would promote properties within their remit. He
@@ -570,7 +581,9 @@ Notice of Motion submitted by Councillor E. Ryan
 ***Priest’s house to Nicker School with pedestrian crossing to School.***
 
 With the agreement of the Meeting, this Motion was withdrawn by Councillor Ryan.
----
+
+[[PAGE_END:6]]
+
 7
 
 10.
@@ -630,4 +643,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

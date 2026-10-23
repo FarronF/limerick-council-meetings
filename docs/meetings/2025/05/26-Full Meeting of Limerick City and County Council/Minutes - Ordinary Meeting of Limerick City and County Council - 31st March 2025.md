@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf)
+**Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 31st March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE, ON
@@ -80,7 +81,9 @@ Government worked in Ireland. She expressed her delight in welcoming him to Lime
 The Members joined in welcoming Councillor Moisa and extended their best for his
 
 visit in Limerick.
----
+
+[[PAGE_END:1]]
+
 2
 
 **Votes of Sympathy**
@@ -164,7 +167,9 @@ Seconded by Councillor Collins (M);
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:2]]
+
 3
 
 2.
@@ -248,7 +253,9 @@ Rural, Community, Culture and Tourism Development Directorate
 Circulated, copy of Statutory Notice dated 12th March, 2025, concerning disposal of
 
 1.24 acres (0.50 hectares) Site E at Kilmallock Business Park, Co. Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Sheahan;
@@ -326,7 +333,9 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 “That, the approval of the Council be and is hereby given to the disposal of 0.0128
@@ -406,7 +415,9 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 6
 
 “That, the approval of the Council be and is hereby given to the disposal of property
@@ -482,7 +493,9 @@ at Kilready, Castlemahon, Co. Limerick, to Liam Hough, for the sum of €24,000,
 covenants and conditions contained within the contract, particulars of which were contained
 
 in Statutory Notice dated 12th March, 2025.”
----
+
+[[PAGE_END:6]]
+
 7
 
 4.
@@ -560,7 +573,9 @@ Proposed by Councillor Sheahan;
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:7]]
+
 8
 
 “That, the Limerick City and County Council Audit and Risk Committee Work
@@ -638,7 +653,9 @@ further progress on the Corporate Plan.
 The Members expressed disappointment that the Corporate Plan was not finalised.
 
 They noted that the Corporate Plan was very important to the Council and queried the delay.
----
+
+[[PAGE_END:8]]
+
 9
 
 The Members were informed that preparatory work and engagement had taken place
@@ -714,7 +731,9 @@ Seconded by Councillor Collins (M);
 “That, Councillor Bridie Collins be appointed to fill the vacancy on Limerick Civic Trust
 
 consequent on the resignation from the Trust of Councillor Talukder.”
----
+
+[[PAGE_END:9]]
+
 10
 
 As there were no other nominations, the Príomh Chomhairleoir declared Councillor
@@ -834,7 +853,9 @@ Padraig Lohan,
 County Limerick Youth
 
 Theatre
----
+
+[[PAGE_END:10]]
+
 11
 
 Community, Leisure, Arts,
@@ -924,7 +945,9 @@ Circulated, report of the Chairperson of the **Economic Development, Enterprise,
 to meeting of the Committee held on 3rd March, 2025.
 
 The Chairperson’s report was noted by the Council.
----
+
+[[PAGE_END:11]]
+
 12
 
 **Recommendation**
@@ -992,7 +1015,9 @@ Development dated 20th March, 2024, outlining the background to the following
 Recommendation from the SPC:
 
 **Recommendation:**
----
+
+[[PAGE_END:12]]
+
 13
 
 **“That, the application for accreditation to the World Health Organisation European**
@@ -1068,7 +1093,9 @@ Rural, Community, Culture and Tourism Development
 (a)
 
 Dolores O’Riordan Music Bursary Scheme 2025
----
+
+[[PAGE_END:13]]
+
 14
 
 Circulated, report of the Arts Officer | Creative Ireland Co-ordinator, dated 21st March,
@@ -1144,7 +1171,9 @@ Circulated, report of the Arts Officer | Creative Ireland Co-ordinator dated 21s
 for Culture and Arts Scheme 2025.
 
 Proposed by Councillor O’Sullivan (O);
----
+
+[[PAGE_END:14]]
+
 15
 
 Seconded by Councillor O’Donovan;
@@ -1218,7 +1247,9 @@ Question submitted by Councillor U. Gavan
 ***for the wider benefit of local residential communities who are currently suffering from car***
 
 ***parking issues on a regular basis.***
----
+
+[[PAGE_END:15]]
+
 16
 
 **REPLY:**
@@ -1300,7 +1331,9 @@ The Transport Sub-Group was formally established at the most recent meeting
 of the Limerick Project Ireland 2040 Delivery Board, which took place on 30th
 
 September, 2024. The current membership of the Sub-Group comprises:
----
+
+[[PAGE_END:16]]
+
 17
 
  John Moran, Mayor of Limerick.
@@ -1378,7 +1411,9 @@ dogs have been euthanised in the Dog Shelter.
 (b) **How many exemptions were granted in Limerick**: 38 exemption certs have
 
 been issued.
----
+
+[[PAGE_END:17]]
+
 18
 
 (c) **What were the reasons for the exemptions:**  the requirements of approval
@@ -1458,7 +1493,9 @@ Question submitted by Councillor E. O’Donovan
 ***I will ask at the next Meeting of Limerick Council for the number of Notices to Quit received***
 
 ***by Limerick Council across Limerick in the last 12 months per month.***
----
+
+[[PAGE_END:18]]
+
 19
 
 **REPLY:**
@@ -1616,7 +1653,9 @@ Prelets
 4
 
 €215,000.
----
+
+[[PAGE_END:19]]
+
 20
 
 €2,825,000 has been allocated in the Capital budget in 2025 for Void properties
@@ -1704,7 +1743,9 @@ Question submitted by Councillor M. Donoghue
 The Table below outlines the Per Cent for Art budgets approved on Limerick
 
 City and County Council Social Housing Investment Programme (SHIP)
----
+
+[[PAGE_END:20]]
+
 21
 
 Construction projects and Approved Housing Body Capital Assistance Scheme
@@ -1828,7 +1869,9 @@ Question submitted by Councillor S. Beasley
 ***I will ask at the next Meeting of Limerick City and County Council over the past five years,***
 
 ***what are the maintenance costs for Council housing stock by year and District.***
----
+
+[[PAGE_END:21]]
+
 22
 
 **REPLY:**
@@ -1974,7 +2017,9 @@ Purchase monies are not approved by the Department of Housing, Local
 Government and Heritage at this time for the ‘sale agreed’ properties.
 
 Therefore, completion dates are not known.
----
+
+[[PAGE_END:22]]
+
 23
 
 The sales relating to Tenant-in-Situ properties are on hold pending receipt of
@@ -2054,7 +2099,9 @@ students in the Autumn. This will form part of the Limerick City and County
 Council Artists in Schools Scheme 2025, which is also funded by the Arts
 
 Council. In other supports, it has been agreed that quartets from the ICO will
----
+
+[[PAGE_END:23]]
+
 24
 
 be invited to play in two concerts under the Arts Office Excellence in Rural Arts
@@ -2132,7 +2179,9 @@ organised to look at possible solutions. He referred to a scheme that had been i
 as a temporary measure by other local authorities and noted it as a possible solution for
 
 Limerick.
----
+
+[[PAGE_END:24]]
+
 25
 
 The Members thanked the Director for his response and expressed their satisfaction
@@ -2204,7 +2253,9 @@ Notice of Motion submitted by Councillor B. Collins
 ***purchase within a settlement be included as qualifying criteria where a housing need is***
 
 ***demonstrated.’***
----
+
+[[PAGE_END:25]]
+
 26
 
 The Motion was proposed by Councillor B. Collins and seconded by Councillor M.
@@ -2282,7 +2333,9 @@ Development Plan must be materially consistent with the policies and objectives 
 the National Planning Framework and the Regional Spatial and Economic Strategy for
 
 the Southern Region, the Plan must also be in accordance with National Planning
----
+
+[[PAGE_END:26]]
+
 27
 
 Policy Guidance issued by the Government. The amendment proposed is not in
@@ -2364,7 +2417,9 @@ The Director of Planning and Place-Making advised that the commencement of a
 variation to the Limerick Development Plan is an executive function. However, under Section
 
 13 of the Planning and Development Act 2000 (as amended) the Members of a Planning
----
+
+[[PAGE_END:27]]
+
 28
 
 Authority may at any time, for stated reasons, submit a resolution to the Mayor of the
@@ -2442,7 +2497,9 @@ submitted, it was often the case that the Rents Unit had to pursue same
 through letters, phone calls etc. and, in some cases, this could be a lengthy
 
 process.
----
+
+[[PAGE_END:28]]
+
 29
 
 At this stage the vast majority of forms have been fully assessed and the new
@@ -2522,7 +2579,9 @@ Notice of Motion submitted by Councillor S. Benson
 ***particularly for local roads through housing estates, on bus routes. And that an inspection***
 
 ***be carried out ahead of the rollout of bus connects, to ensure that the roads on all routes***
----
+
+[[PAGE_END:29]]
+
 30
 
 ***are of suitable standard to cater for the heavier electric fleet and increased frequency, and***
@@ -2604,7 +2663,9 @@ resource to provide a similar offer. It is therefore considered that Limerick
 Museum affords the most appropriate and accessible location to showcase
 
 Limerick Lace to all.
----
+
+[[PAGE_END:30]]
+
 31
 
 32.
@@ -2668,4 +2729,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:31]]
+

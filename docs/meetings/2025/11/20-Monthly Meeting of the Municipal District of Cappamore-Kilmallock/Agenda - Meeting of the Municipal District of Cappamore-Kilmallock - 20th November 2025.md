@@ -16,43 +16,39 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-november-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach
-& Contae Luimnigh
-ae a ~ —_—_——
+Comhairle Cathrach Comhairle Cathrach agus Contae Luimmnigh,
 
-— Limerick City
-& County Council
+——— paleo piribehard Omg an Cheentai, Aras ear fnee o
 
-To:
+™~ 4 : : Co. Lutmnigh.
+=> Limerick City
 
-A Chomhairleoir, a chara,
+& County Council Limerick City and County Council,
 
-Comhairle Cathrach agus Contae Luimnigh.
-
-Omg un Cheentay, Aras Miyainichin Seoighe
-Cill Mechealég.
-Co. Luimngh.
-
-Limerick City and County Council,
 Aras Mainchin Seoighe Area Office,
-Kilrrialiock,
+
+Kirrialiock,
 
 Co. Limerick,
 
-EIRCODE V35 K497
+EIRCODE V35 497
 t: 4353 (0) 63 980 19
 
 f: +353 (0) 63 985 99
 14" November, 2025.
 
+To:
+
+A Chomhairleoir, a chara,
+
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be held
 in the Municipal District Office, Aras Mainchin Seoighe, Kilmallock, Co. Limerick and On-Line on
-
 Thursday, the 20" November, 2025 at 2.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
@@ -66,26 +62,23 @@ AGENDA
 To adopt Minutes of the following Meeting:
 
 Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 16”
-
 October, 2025.
 
-2. Declaration of Interest
+(Copy enclosed)
+2. Declaration of interest
 
 3. Deputation
+
 To receive a Deputation from Kilmallock Tourism.
 
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Ards Mhainchin Seoighe
-Limerick City and County Council, Aras Mainchin Seoighe Area Office
-
-(Copy enclosed)
-
-& customerserviceselimerick.ie
-© vevewlimerickie
-
-(063 980 19
+® customerserviceselimerickie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Ards Mhainchin Seoighe © wera imerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office v oe ced
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -134,4 +127,6 @@ vicinity of Cahercorney Graveyard.
 10.'A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

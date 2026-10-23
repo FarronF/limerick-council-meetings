@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_4th_october2c_2016.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%C2%A0Adare-Rathkeale%20%E2%80%93%204th%20October%202016.md)
+Agenda - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_4th_october2c_2016.pdf) - Text not extracted
 
-Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_minutes_13th_september2c_2016.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2013th%20September%202016.md)
+Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_minutes_13th_september2c_2016.pdf) - Text not extracted
 
 Disposal of Land Corgrig, Foynes - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/03_disposal_of_land_corgrig2c_foynes.pdf) - Text not extracted
 

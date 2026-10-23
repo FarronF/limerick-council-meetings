@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-for-economoic-development-enterprise-tourism-and-planning-spc-meeting-held-14th-april-2025.pdf)
+**Original file:** [Minutes - Economic Development, Enterprise, Tourism & Planning Strategic Policy Committee meeting - 14th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-for-economoic-development-enterprise-tourism-and-planning-spc-meeting-held-14th-april-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
 **TOURISM AND PLANNING STRATEGIC POLICY COMMITTEE MEETING HELD ON MONDAY, 14 APRIL**
@@ -98,7 +99,9 @@ Seconded by: Cllr. Joe Pond
 Ms. Coleman gave members a presentation on the benefits of festivals for tourism with emphasis on
 
 the following headings:
----
+
+[[PAGE_END:1]]
+
  **Cultural benefits** (Festivals contribute to place-making, creating vibrant, welcoming, and
 
 inclusive destinations that strengthen visitor connections for Limerick and encourage repeat
@@ -212,7 +215,9 @@ can look into this for Cllr. Donoghue.
 Mr. Hehir thanked Limerick City and County Council for Rose Fitzgerald Kennedy funding
 
 support and noted that funding is always a worry. He asked is there a way that funding can
----
+
+[[PAGE_END:2]]
+
 be applied for month of advance? Ms. Coleman advised that the grant call is advertised on
 
 an annually basis.
@@ -318,7 +323,9 @@ Next Steps
 Members thanked Ms. O’Connell for the update, and a number of the members welcomed the
 
 project and the importance of it to regenerating that part of the city. The members said that there
----
+
+[[PAGE_END:3]]
+
 was tremendous public engagement by LCCC staff with elected members and traders, which was
 
 acknowledged. Discussion and questions followed the presentation:
@@ -402,7 +409,9 @@ group. This is a priority scheme for the city. She accepted the comments regardi
 there is a balance to be struck, like the click & collect system in other parts of the city. The Market
 
 Area needs to be connected to O’Connell Street and not pushed further away.
----
+
+[[PAGE_END:4]]
+
 The Chair Cllr. Doyle sought an extension beyond the Standing Order No. 9 at 3.50 pm to continue
 
 with the remaining agenda items until 4.30pm. The members agreed and the meeting reconvened.
@@ -496,7 +505,9 @@ The Department of Housing, Local Government and Heritage has circulated a date i
 induction training for SPC Members. The training is online and is scheduled for Thursday 17th April
 
 between 10am and 12pm, the details of the training was emailed to the SPC members.
----
+
+[[PAGE_END:5]]
+
 **Item 6**
 
 **Date for next meeting**
@@ -506,4 +517,6 @@ The next meeting is scheduled for Monday 23rd June 2025 at 2.15 pm.
 The Chair concluded the meeting at 4.30 pm.
 
 **Cllr. P. Doyle, Chairperson**
----
+
+[[PAGE_END:6]]
+

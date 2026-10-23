@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%20%28a%29%20Minutes%203rd%20September%2C%202018%20v2_0.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 3rd September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%20%28a%29%20Minutes%203rd%20September%2C%202018%20v2_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -90,7 +91,9 @@ Kilscannell Burial Ground. He went on to say this is a very sensitive matter and
 distressing to all involved. He enquired if the Senior Executive Technician had liaised
 
 with the Church of Ireland body for the Limerick region with a view to taking over the
----
+
+[[PAGE_END:1]]
+
 2
 
 burial ground at Kilscannell. Councillor Teskey asked if the Council did take over the
@@ -172,4 +175,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

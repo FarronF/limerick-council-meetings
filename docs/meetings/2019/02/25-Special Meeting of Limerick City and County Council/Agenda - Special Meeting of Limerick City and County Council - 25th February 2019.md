@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%20Special%20Meeting%2025.02.2019.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 25th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%20Agenda%20Special%20Meeting%2025.02.2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach
+ee Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -32,7 +33,7 @@ file_type: "Agenda"
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach agus Contae Luimnigh.
-Ceanncheathru Chorparaideach,
+Ceanncheathri Chorparaideach,
 
 Cé na gCeannaithe,
 
@@ -63,7 +64,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ja eng
+Ja eG
 
 Mee ings Administrator.
 
@@ -79,4 +80,6 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

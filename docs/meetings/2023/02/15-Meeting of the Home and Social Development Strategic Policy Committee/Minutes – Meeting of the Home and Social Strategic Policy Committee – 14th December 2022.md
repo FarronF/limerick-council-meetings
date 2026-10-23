@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -100,7 +101,9 @@ No matters arising from previous minutes.
 Mr. Joe Delaney, Director of Service, Limerick Regeneration updated the Group on
 
 The Economic and Social Intervention Fund (ESIF) Plans for funding after 2023.
----
+
+[[PAGE_END:1]]
+
 2
 
 A discussion took place and the main points were:
@@ -202,7 +205,9 @@ be a key requirement of any online platform.
 Cllr. Stephen Keary requested that the line in the draft housing one-rep policy “One
 
 Councillor or one Oireachtas member can make representations on behalf of a customer in
----
+
+[[PAGE_END:2]]
+
 3
 
 relation to housing matters” be amended to “One Councillor or TD or Senator can make
@@ -300,7 +305,9 @@ November, 2022:
 -
 
 *Mid-West Homeless Plan 2022-2025*
----
+
+[[PAGE_END:3]]
+
 4
 
 -
@@ -396,7 +403,9 @@ present that this would take a number of years.
 Cllr. Tom Collopy welcomed inviting the AHB’s as it would be a learning curve and education
 
 for all Councillors.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Sarah Kiely stated she would be of the opinion not to overload the SPC in relation to
@@ -424,4 +433,6 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC and 
 Merry Christmas.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

@@ -16,12 +16,13 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-15th-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy - 15th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-15th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ —- Comhairle Cathrach
+<i Comhairle Cathrach
 & Contae Lutmnigh
 ANF
 
@@ -77,14 +78,16 @@ Dara McGuigan, Age Friendly Regional Programme Manager
 Mark O’Connell, Director of Repucon Consulting
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 al Comhairle Cathrach
 & Contae Lulmnigh
 
 AN ™ Limerick
-—, imerick City
+— imerick City
 & County Counc#
 Declaration of Interest:
 
@@ -96,10 +99,10 @@ Meeting. No such interests were declared.
 item 1: Minutes:
 
 The Minutes of the Community, Leisure, Arts, Heritage and Culture Strategic Policy
-Committee held on 9" July 2025 were proposed by Cllr. D. Butler and seconded by Mr.
+Committee held on 9" July 2025 were proposed by Clir. D. Butler and seconded by Mr.
 J. Ward and adopted.
 
-Item2: Matters Arising
+item2: Matters Arising
 
 No matters arising were brought forward.
 
@@ -123,10 +126,12 @@ with Transition Year students as well as need to support athletic facilities on 
 site of the city.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathwach
+a Comhairle Cathwach
 & Contae Luimnigh
 
 A
@@ -136,7 +141,7 @@ SS
 Limerick City
 & County Council
 
-item 4: Presentation on the Library Tablet Lending Project in partnership with
+Item 4: Presentation on the Library Tablet Lending Project in partnership with
 Vodafone Foundation
 
 Presentation was given by Noreen O'Neill, Senior Executive Librarian on the Library
@@ -182,15 +187,17 @@ Healthy Age Friendly Homes Programme can support homeowners in specific services
 for example home adaptations needed after hospitalisation.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-aAeN
+aAoN
 
 =
 
-— Comhairle Cathrach
-id & Contac Luimnigh
+a Comhairle Cathrach
+id & Contae Luimnigh
 
 Limerick City
 & County Council
@@ -204,12 +211,14 @@ Dates of the future meetings will be circulated to members.
 
 Meeting ended at 4.15 pm
 
-Minutes Proposed By: Cye.M. Coens
+Minutes Proposed By: Cre.M. Coens
 
-Minutes Seconded By: _C4v-@. A. VAzvEpDZa
+Minutes Seconded By: _C4v-@. A. VAzvEDZa
 
-Minutes Signed by cna *09Ud f slessprrue: LO 12/25
+Minutes Signed by cna *09Ud f slergprrue: Lf 12/25
 
 
 
----
+
+[[PAGE_END:4]]
+

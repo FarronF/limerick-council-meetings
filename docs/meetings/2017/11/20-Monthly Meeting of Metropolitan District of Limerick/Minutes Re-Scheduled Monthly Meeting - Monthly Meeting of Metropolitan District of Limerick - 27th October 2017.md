@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28a%29%20Minutes%20Re-Scheduled%20Monthly%20Meeting%2027th%20October%202017.pdf)
+**Original file:** [Minutes Re-Scheduled Monthly Meeting - Monthly Meeting of Metropolitan District of Limerick - 27th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28a%29%20Minutes%20Re-Scheduled%20Monthly%20Meeting%2027th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT RE-SCHEDULED MEETING OF METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 27TH**
@@ -94,7 +95,9 @@ regard, for approval. The report was noted by Members.
 Circulated, Report of the Senior Manager, Planning and Environmental Services Department
 
 dated 6th October, 2017 setting out the legal and procedural background to the addition of
----
+
+[[PAGE_END:1]]
+
 2
 
 records to the Record of Protected Structures and recommending the following proposed
@@ -176,7 +179,9 @@ A motion was proposed by Councillor Collins, seconded by Councillor Lynch that t
 Police / Garda Barracks, Barnakyle, Patrickwell, Limerick, Ref. No. P.P.S. 2017/A should not be
 
 added to the Record of Protected Structures as, in view of the policy to encourage people to live
----
+
+[[PAGE_END:2]]
+
 3
 
 in our towns and villages and in response to the national housing crisis, Members were of the
@@ -250,7 +255,9 @@ Proposed by Councillor Leddin;
 Seconded by Councillor Collins;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That the Quaker Meeting House and Burial Ground in the townland of Ballinacurra (Bowman),
@@ -332,7 +339,9 @@ Members noted the contents of the report, as circulated, and welcomed the propos
 response to an enquiry from Members, the Senior Engineer, Mid West National Road Design
 
 Office noted that, given the need to acquire land as part of the project, it was anticipated that
----
+
+[[PAGE_END:4]]
+
 5
 
 the earliest time work would commence, on site, would be 2019.
@@ -416,7 +425,9 @@ It is not known when the announcement will be made by the Minister and
 therefore, the Council are not in a position at this stage to indicate a timeframe
 
 for the Castleconnell Flood Relief Scheme.
----
+
+[[PAGE_END:5]]
+
 6
 
 Once the announcement is made by the Minister, the Council will arrange a
@@ -504,7 +515,9 @@ No progress has been made in relation to the streaming of Metropolitan
 Meetings online. This is a matter which would require consideration at
 
 Metropolitan District level and would require an amendment of Standing Orders
----
+
+[[PAGE_END:6]]
+
 7
 
 to allow for same.
@@ -582,7 +595,9 @@ consideration.
 ***outages across the Metropolitan District of Limerick.***
 
 The motion was proposed by Cmhlr. Ó Ceallaigh and seconded by Councillor Costelloe.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the motion Cmhlr. Ó Ceallaigh noted that the notice given by Irish Water of
@@ -664,7 +679,9 @@ be supported by the Executive of the Council. Councillor Hurley stressed the imp
 United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), which set out
 
 how enjoyment of human rights were to be promoted and protected to enable people with
----
+
+[[PAGE_END:8]]
+
 9
 
 disabilities to live full lives in the community, and pointed out that Ireland had signed same in
@@ -738,4 +755,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

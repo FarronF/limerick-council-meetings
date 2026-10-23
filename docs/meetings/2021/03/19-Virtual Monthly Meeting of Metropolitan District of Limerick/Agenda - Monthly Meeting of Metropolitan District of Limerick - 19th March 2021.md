@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/draft-agenda-monthly-meeting-19th-march-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/draft-agenda-monthly-meeting-19th-march-2021.pdf)
 
----
+[[FILE_START]]
+
 15th March, 2021.
 
 **To: The Cathaoirleach and each Member of the Metropolitan District of Limerick**
@@ -48,7 +49,9 @@ February, 2021.
 (Copy Enclosed).
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -110,7 +113,9 @@ erected;
 c) The proposed date for when these signs will be erected;
 
 d) How many signs in total have been acquired by Limerick City and County Council.
----
+
+[[PAGE_END:2]]
+
 3
 
 **7.Question submitted by Councillor S. Benson**
@@ -172,7 +177,9 @@ upgrade / refurbishment of properties in the Carew Park area, can the Council co
 properties that have not been completed or properties that have not been started will be contacted
 
 for works to begin.
----
+
+[[PAGE_END:3]]
+
 4
 
 **12.Question submitted by Councillor E. O’Donovan**
@@ -226,7 +233,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 littering and dumping have there been in relation to the use of CCTV cameras since February 2020
 
 up to February 2021.
----
+
+[[PAGE_END:4]]
+
 5
 
 **19.Question submitted by Councillor J. Leddin**
@@ -290,7 +299,9 @@ city, as a matter of urgency, in response to the continuous decline of resources
 Station and to tackle the increase in anti-social behaviour and crime. Also, to take note of the
 
 recommendations set out by the Fitzgerald report 2007 regarding Garda resources in Limerick City.
----
+
+[[PAGE_END:5]]
+
 6
 
 **25.Notice of Motion submitted by Councillor S. Benson**
@@ -350,7 +361,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that we
 Governing Authority and the Gardai on a proposal to install cameras in the community adjoining the
 
 estates near the UL campus.
----
+
+[[PAGE_END:6]]
+
 7
 
 **32.Notice of Motion submitted by Councillor S. Kiely**
@@ -380,4 +393,6 @@ closure of the Rehab Logistics Plant, calls on the Rehab group to engage with th
 Relations Commission and calls on the Minister for Enterprise, Trade and Employment to intervene
 
 to prevent the job losses.
----
+
+[[PAGE_END:7]]
+

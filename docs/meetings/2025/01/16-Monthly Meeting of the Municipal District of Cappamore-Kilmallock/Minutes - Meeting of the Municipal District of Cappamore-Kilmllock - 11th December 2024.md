@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-cappamore-kilmllock-11th-december-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmllock - 11th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-cappamore-kilmllock-11th-december-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
@@ -64,7 +65,9 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Matters Arising
@@ -89,7 +92,7 @@ There was no interest declared.
 4. Property Disposal
 
 (a) Circulated, report of the Senior Staff Officer, Housing Support Services
-dated 22” November, 2024 setting out proposals for the disposal of 0.006 acres/
+dated 22" November, 2024 setting out proposals for the disposal of 0.006 acres/
 0,003 hectares, located at 4 Main Street, Kilteely, Co. Limerick to Mai O'Keeffe,
 registered owner. (Property outlined in red on map)
 
@@ -105,7 +108,9 @@ Sean McGrath, Executive Engineer, Planning Enforcement gave a brief overview of 
 works carried out by the Council to enable the taking in charge of the Cluain Foinse Estate
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 which included a new watermain and foul and storm water line repairs. Costing for the
@@ -119,7 +124,7 @@ Seconded: Councillor Ryan (E).
 6. Housing Strategy and Non Local Authority Construction
 
 Circulated, report of the Housing Strategy & Non-LA Housing Construction Directorate dated
-11™ December, 2024 setting out details in relation to the Social Housing Delivery for the
+11" December, 2024 setting out details in relation to the Social Housing Delivery for the
 Cappamore-Kilmallock Municipal District.
 
 Members welcomed Brendan Kidney, Senior Engineer, LA Housing Construction &
@@ -153,12 +158,14 @@ Municipal District to facilitate members of the general public who may be intere
 availing of this scheme.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7 Notice of Motion submitted by Councillor PJ Carey
+ae Notice of Motion submitted by Councillor PJ Carey
 
-“| will move at the next meeting of the Cappamore-Kilmallock Municipal District that Housing
+“\ will move at the next meeting of the Cappamore-Kilmallock Municipal District that Housing
 Maintenance carry out an audit and inspection of doors and windows at Council units in
 
 Riverview Estate, Kilmallock in accordance with the Guidelines for Housing Authorities in
@@ -189,7 +196,9 @@ scheme whereby from the 1° of January, 2025 applicants will no longer be able t
 assistance to replace fossil fuel boilers in their homes.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Leas Cathaoirleach Cllr. Conway (G) wished all present a Happy Christmas and thanked Staff
@@ -207,9 +216,13 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

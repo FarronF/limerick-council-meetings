@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%2011th%20May%202016.pdf)
+**Original file:** [Minutes - Community Leisure & Emergency Services SPC - 11th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%2011th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
@@ -102,7 +103,9 @@ children they support and their extended families. Located at the Park Point on 
 Road, he added that it would also be available to other users and is the first initiative of its
 
 kind in the country.
----
+
+[[PAGE_END:1]]
+
 The Chairperson endorsed the project and commended the foundation for all the good work
 
 they have done to date. He also expressed thanks to Cllr Secas for organising this very
@@ -190,7 +193,9 @@ Broadford is a good example. She suggested we should be looking at revitalising 
 buildings in rural villages and towns and that the needs of our aging population should be
 
 factored in to all plans, city and county alike.
----
+
+[[PAGE_END:2]]
+
 Ms. Vaughan Mullane pointed out that every small derelict building is used abroad. She
 
 asked how can we do this in Ireland? We need a town Mayor or Co-ordinator to drive this,
@@ -244,4 +249,6 @@ Minutes Seconded By:
 Minutes Signed By Chair:
 
 Date:
----
+
+[[PAGE_END:3]]
+

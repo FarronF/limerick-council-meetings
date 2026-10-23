@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-10th-june-2025.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 10th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-10th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -70,7 +71,9 @@ questions/comments. She also asked if Local link will be providing more services
 East Limerick.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 In response, Ms. Gaughan confirmed that finance is secured for work in Clare this year and
@@ -128,7 +131,9 @@ Cllr. Teskey congratulated Ms. Gaughan on the local link service. Being a public
 Raheenagh, he added that the proposed choice of route in Mountcollins, Tournafulla and
 
 Raheenagh would be a key lifeline and would be very much welcomed.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. Kilcoyne confirmed that senior people in Patrickswell use local link and asked if Bus Eireann
@@ -188,7 +193,9 @@ as for greenways as well.
 Cllr. Secas referenced steps to 5 in the presentation, and she asked if a difficult landowner can
 
 prevent the council from taking possession of the land and delay the project.
----
+
+[[PAGE_END:3]]
+
 4
 
 In response, to Cllr. Ruddle, Mr. Carey advised that, typically, 95 – 98% of cases are settled
@@ -254,7 +261,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 medium-term parking permits for tradespeople, service providers, attendees at courses or Active
 
 Retirement, where hourly parking discs and residential parking permits are not appropriate.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Donoghue proposed providing medium-term parking permits for tradesmen and carers for
@@ -320,7 +329,9 @@ Mr. McGrath confirmed all parking will be reviewed and there will be recommendat
 Transport Plan. Putting a more reasonable price on residential parking might be able to free up
 
 costs elsewhere.
----
+
+[[PAGE_END:5]]
+
 6
 
 Cllr. Kilcoyne stated many parking spaces have been taken away with new cycle lanes and a policy
@@ -382,7 +393,9 @@ Mr. McGrath agreed – we will certainly ask the question, some are very tight, 
 matter of charging for disability parking for blue badge holders. The space finder app should
 
 identify spaces most widely used, and we could invest in improving these spaces.
----
+
+[[PAGE_END:6]]
+
 7
 
 **Item 6: Notice of Motion submitted by Councillor C. Slattery (referred from May Metro**
@@ -448,7 +461,9 @@ clarity around the bus shelter on Mulcair Road.
 The Chair wished to add her support to the Motion and asked that rural stops be included.
 
 Cllr. Secas also supported the motion.
----
+
+[[PAGE_END:7]]
+
 8
 
 Cllr. Kilcoyne fully supported the motion and referred to Mulcair road, there is nowhere to sit
@@ -518,7 +533,9 @@ and full delivery of the **Rathkeale to Limerick City Greenway** in advance of t
 ***City to Adare*** *should be completed before the Ryder Cup, to align with the completion of*
 
 *the Adare Bypass and ensure sustainable transport options for the event.*
----
+
+[[PAGE_END:8]]
+
 9
 
 *This motion is proposed in recognition of the opportunity to maximise national and*
@@ -582,7 +599,9 @@ any obstacles that may impact the project's delivery ahead of the 2027 Ryder Cup
 *Éireann staff and their consultants to examine the feasibility of co-locating a Greenway and an*
 
 *operational railway within the confines of the existing railway corridor.*
----
+
+[[PAGE_END:9]]
+
 10
 
 *Iarnród Éireann’s consultants produced a report on this proposal in May 2023. Their report was*
@@ -658,7 +677,9 @@ given the substantial economic, social, and tourism benefits to the region. If t
 achieved within the timeline, then at minimum, the section from Limerick City to Adare should
 
 be completed before the Ryder Cup, to align with the completion of the Adare Bypass and ensure
----
+
+[[PAGE_END:10]]
+
 11
 
 sustainable transport options for the event. This motion is proposed in recognition of the
@@ -668,4 +689,6 @@ opportunity to maximise national and international benefit from the project in t
 2027.
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:11]]
+

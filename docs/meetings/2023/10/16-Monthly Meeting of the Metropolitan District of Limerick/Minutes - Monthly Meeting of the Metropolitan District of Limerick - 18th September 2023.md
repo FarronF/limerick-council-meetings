@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-b-Draft-Minutes-Monthly-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 18th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-b-Draft-Minutes-Monthly-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -90,7 +91,9 @@ amended, and the Code of Conduct, she was inviting those present to notify the C
 any declaration of interest in any item due for discussion at the Meeting. Councillor O’Sullivan
 
 made a declaration on one agenda item.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -162,7 +165,9 @@ Street, St. Mary’s Park, Limerick and the intention to bring a Section 183 Not
 in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **4.**
@@ -240,7 +245,9 @@ competitiveness and attractiveness of our city centre for new business initiativ
 recognise the critical role of fostering a thriving business environment in the heart of the
 
 city, and we are committed to the Limerick 2030 Economic and Special Plan and the Limerick
----
+
+[[PAGE_END:3]]
+
 4
 
 Development Plan 2022-2028 to meet this objective.
@@ -318,7 +325,9 @@ showcase their production methods as well as selling products.
 Additionally, Limerick City and County Council are pursuing the following initiatives to
 
 maintain, attract and improve competitiveness for new businesses to establish in the
----
+
+[[PAGE_END:4]]
+
 5
 
 city centre:
@@ -406,7 +415,9 @@ and dispose of it in a proper manner.
 **Question submitted by Councillor J. Leddin**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick how many applications have***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***been submitted, the number approved and refused for a Local Authority Home Loan over the last***
@@ -488,7 +499,9 @@ currently contracted out by the Council to minimise use (as outlined above).
 ***applications for the Croí Cónaithe scheme to the local authority; the number of applications***
 
 ***approved; the number of successful applications drawn down, in tabular form.***
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY**: Limerick City and County Council has administered the Vacant Property Refurbishment
@@ -614,7 +627,9 @@ earlier presentation of homelessness
  Did not qualify for homeless accommodation in accordance with legislative requirements
 
  Reasons for homeless presentation resolved i.e., family breakdown etc.
----
+
+[[PAGE_END:7]]
+
 8
 
 **12.**
@@ -694,7 +709,9 @@ But the following is the current best estimate:
 Planning & CPO approval: Q3 2024
 
 Tender for Construction: Q4 2024
----
+
+[[PAGE_END:8]]
+
 9
 
 Anticipate Construction Commencement: Q1 2025 (note that there is significant amount of
@@ -776,7 +793,9 @@ public consultation process.
 vehicle and were subsequently removed by Shareridge Ltd due to the potential risk they
 
 posed to health and safety. Replacement of these bollards has been identified on a list of
----
+
+[[PAGE_END:9]]
+
 10
 
 snags to be addressed by the contractor during the defects liability period.
@@ -856,7 +875,9 @@ resolving this matter.
 through to NTA Phase 3 – Preliminary Design.
 
 To Progress to Phase 4 – Statutory Approvals, a Natura Impact Statement has been prepared
----
+
+[[PAGE_END:10]]
+
 11
 
 for inclusion with a planning application to An Bord Pleanála. The NIS is currently going
@@ -944,7 +965,9 @@ following confirmation of the CPO by An Bord Pleanála.
 2022 – 2028, which is incorporated into Volume 6 of the Limerick Development Plan was
 
 developed based on a robust methodology to inform decision making on current and future
----
+
+[[PAGE_END:11]]
+
 12
 
 housing supply.
@@ -1006,7 +1029,9 @@ single glazed units are eligible for grant funding. The replacement of double gl
 windows are not eligible, but repairs or replacement glazing may be considered on a case
 
 by case basis if they are end of life.
----
+
+[[PAGE_END:12]]
+
 **25.**
 
 **Question submitted by Councillor S. Kiely**
@@ -1322,7 +1347,9 @@ Complete
 9
 
 2
----
+
+[[PAGE_END:13]]
+
 14
 
 **123**
@@ -1624,7 +1651,9 @@ Scoping
 2
 
 3
----
+
+[[PAGE_END:14]]
+
 **26.**
 
 **Question submitted by Councillor S. Kiely**
@@ -1700,7 +1729,9 @@ be a long-term goal for the Active Travel Department.
 There is no current National Transport Authority (NTA) funded Active Travel project for this
 
 route.
----
+
+[[PAGE_END:15]]
+
 16
 
 **28.**
@@ -1782,7 +1813,9 @@ walkers in the area.
 ***undertake an assessment of all playing equipment in Mungret Playground and prepare a plan to***
 
 ***upgrade and invest additional resources into the playground.***
----
+
+[[PAGE_END:16]]
+
 17
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
@@ -1864,7 +1897,9 @@ It was agreed that Items 34 and 38 would be taken together.
 ***to the Minister for Transport asking that a bus be considered for the Southside of the City to take***
 
 ***children to the new school Educate Together.***
----
+
+[[PAGE_END:17]]
+
 18
 
 The Notices of Motion were proposed by Councillor Sheehan (C), seconded by Councillor Slattery
@@ -1940,7 +1975,9 @@ In proposing the Motion, Councillor Secas highlighted the difficulties in gettin
 home during the Christmas night-time period and the need to introduce measures to address the
 
 issues. Members supported the motion and agreed it was important to improve the transport
----
+
+[[PAGE_END:18]]
+
 19
 
 options in the City during the Christmas period.
@@ -2020,7 +2057,9 @@ outlined that Active Travel will engage with Operations and Maintenance to discu
 **41.**
 
 **Notice of Motion** **submitted by Councillor O. O’Sullivan**
----
+
+[[PAGE_END:19]]
+
 20
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council write to***
@@ -2058,4 +2097,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:20]]
+

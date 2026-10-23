@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-september-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-september-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——— Comhairle Cathrach Combalte Coltench agus Contac pote
-ify an Cheantair, Aras Mhainchin Seoighe.
-—_ = & Contae Luimnigh Cal Mocheuidoy
+——— Comhairle Cathrach Combai Coltench agus Contac rote
+iy an Cheantair, Aras Mhainchin Seoighe.
+— = & Contae Luimnigh Cal Mocheuoy
 
 a Co. Luimnigh
-—— Limerick City oo
+—— Limerick City oe
 & County Council Limerick City and Courity Council,
 Aras Mainchin Seoigne Area Office,
 Kilrnailock,
@@ -34,9 +35,9 @@ Co. Limerick
 
 EIRCODE V35 K497
 
-t: 4353 (0) 63 960 19
+t: 4383 (0) 63 960 19
 
-11" Septefnber, 9095289 9
+11" Septefnber, 909528 9
 
 To: The Cathaoirleach and Each Member of the Municipal District of Cappamore-Kilmallock
 
@@ -62,14 +63,16 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 10
 2025.
 (Copy enclosed)
 2. Declaration of Interest
-1 & customerservices@limerick.tie
+1 & customerservices@limerick.te
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wwwlimerick.ie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -118,7 +121,9 @@ Estate, Kilmallock (as per Case No. 1037450) with a view to be included in the 2
 of Works.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Notice of Motion submitted by Cllr Teefy
@@ -135,4 +140,6 @@ provided for the Kilmallock River Park and Glenfield Housing Estate.
 12. A.0.B
 
 
----
+
+[[PAGE_END:3]]
+

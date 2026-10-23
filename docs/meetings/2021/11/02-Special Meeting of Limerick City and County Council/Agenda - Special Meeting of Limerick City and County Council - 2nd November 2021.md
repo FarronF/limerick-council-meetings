@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-special-meeting-02.11.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 2nd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-agenda-special-meeting-02.11.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 P Seibhisi Corpardideacha,
-a parctlealy pretend Comhairle Cathrach agus Contae Luimnigh,
+et parctirealy fretted Comhairle Cathrach agus Contae Luimnigh,
 ontae Luimnigh Ceanncheathna Chorpardidesch,
 
-arm” i ‘“ : Cé na gCeannaithe,
-— Limerick City Luimneach
+aAafr™ i ‘“ : Cé na gCeannaithe,
+— Limerick City Laimneach
 
-— & County Council Cuncun Gerson
+— & County Council Copcmns Gerson
 Umerick City and County Council,
 
 Corporate Headquarters,
@@ -47,7 +48,7 @@ To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
 The Mayor, Councillor Daniel Butler, has called a Special Meeting of Limerick City and County
-Council to be held on Tuesday, 2% November, 2021, at 2pm, in the Council Chamber,
+Council to be held on Tuesday, 2 November, 2021, at 2pm, in the Council Chamber,
 Dooradoyle, and Online.
 
 The business to be transacted is set out on the appended Agenda.
@@ -71,4 +72,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/item-1-minutes-of-spc-21st-june-2021.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/item-1-minutes-of-spc-21st-june-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON MONDAY 21st** **June, 2021 AT 2PM**
@@ -96,7 +97,9 @@ D. Ryan, CEO, Limerick Chamber of Commerce gave a presentation on the background
 and focuses of the Chamber. Limerick Chamber of Commerce was established in 1805 and
 
 currently has 420 members, which supports approx. 50,000 jobs.
----
+
+[[PAGE_END:1]]
+
 It supports the economic and social development of Limerick through working with other
 
 stakeholders and businesses, with a proactive approach to policy development, and lobbying to
@@ -170,7 +173,9 @@ applying for funding and questioned the success rate of clients.
 J. Hassett pointed out that the rules were set nationally and with 75% funding available, terms and
 
 conditions were necessary, but that training was provided in governance, which assisted with the
----
+
+[[PAGE_END:2]]
+
 application process. A recent survey showed that 70% of successful applicants were still in
 
 employment after receiving financial support and a number had been referred back to the
@@ -250,7 +255,9 @@ representative had been selected by Innovate Limerick . He pointed out that the 
 representatives could be increased from 2 to 3, so PPN had an opportunity to make a
 
 recommendation for a nominee in that category. P. Fitzgerald advised that
----
+
+[[PAGE_END:3]]
+
 recommendations coming from the SPC to full Council on any subject matter are
 
 considered at full Council before arriving at a final decision.
@@ -274,4 +281,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:4]]
+

@@ -16,23 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2012th%20April%2C%202019.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2012th%20April%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al fay tread pecan aly Comhabte Catlvach usu Contns Lssrotgh
-ontae Luimnigh " :
-ff 8 Aras Séan Finn,
-— ree Line Nua
-os Limerick City Rath Caol
+ae Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
+
+& Contae Luimnigh Comhairte Cathrach agus Contae Luimnigh.
+
+y Aras Séan Finn,
+
+Seer : Line Nua
+Limerick City
+
+; Rath Caola
+
 & County Council Co. Luimngh.
 
 Adare-Rathkeale Municipal District,
-Lirnerick City and County Council
+
+Limerick City and County Council
+
 Aras Sean Finn
 
-New Lune,
+New Line,
 
 Rathkeale,
 
@@ -63,11 +72,13 @@ AGENDA
 
 To discuss traffic calming measures in Ballingarry.
 
-- hamaaaaay pomenrmenstsrtsd
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach | www. limerick.te
-Corporate Headquarters, Merchants Quay, Limerick. WY @LimerickCouncil
+: hamaaaaaaay pomenrmenstsrsd
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach | www. limerick.ie
+Corporate Headquarters, Merchants Quay, Limerick. WY @limerickCouncil
 
-\ 061 - 556 000
+& 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

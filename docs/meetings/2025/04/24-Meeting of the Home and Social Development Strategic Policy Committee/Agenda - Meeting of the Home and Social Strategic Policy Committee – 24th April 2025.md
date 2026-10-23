@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Strategic Policy Committee – 24th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -64,4 +65,6 @@ Committee will be held in the Council Chamber, Dooradoyle and online on MS Teams
 *unjust.*
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

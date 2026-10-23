@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-joint-policing-committee-meeting-8th-december-2023.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 8th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-joint-policing-committee-meeting-8th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—— Comhairle Cathrach Cornhiwirte Caieethenn Ooteuenn
-_o Wi Cou mil J sf U veoh,
-re. & Contae Luimnigh Ceanncheathra Chorpardideach,
+— Comhairle Cathrach Cornhiwirte Suleethens Coun
+oF vi eu sit J if U vegr,
+r=. & Contae Luimnigh Cearncheathra Chorpardideach,
 NON = Cé na gCeannaithe.
 — Limerick City Luimuneach
 
@@ -47,7 +48,7 @@ Details of the Agenda and attachments to be discussed at the meeting are set out
 
 Is mise, le meas,
 
-— . Pe
+— . >
 ra Flannery
 Senior Executive Officer —
 
@@ -64,12 +65,14 @@ AGENDA
 
 =m customerservicesalimerick.ie
 
-© veerw timerick.ie
+© Weerw timerick.ie
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . Question submitted by Deputy Maurice Quinlivan, T.D.
@@ -79,14 +82,14 @@ activities of the Criminal Assets Bureau in Limerick City and County that will i
 of items and the value of items seized during their operations in Limerick.
 
 . Question submitted by Deputy Maurice Quinlivan, T.D.
-
 | will ask at the next Meeting of the Joint Policing Committee for a progress report on the steps
+
 being taken to address the ongoing anti- social behaviour issues, including open drug use,
 dumping and other anti -social behaviour within Limerick city.
 
-. Question submitted by Councillor Conor Sheehan
-
+- Question submitted by Councillor Conor Sheehan
 | will ask at the next Meeting of the Joint Policing Committee for an outline of what measures
+
 the Chief Superintendent and An Garda Siochana are taking to tackle the far right including
 measures to tackle online disinformation.
 
@@ -108,4 +111,6 @@ and that we ask for the retention of these units and circulate this motion to al
 JPC’s.
 
 
----
+
+[[PAGE_END:2]]
+

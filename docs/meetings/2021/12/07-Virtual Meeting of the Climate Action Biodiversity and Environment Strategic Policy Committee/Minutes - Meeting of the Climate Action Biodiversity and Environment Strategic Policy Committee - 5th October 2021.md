@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211005-cabe-spc-minutes.pdf)
+**Original file:** [Minutes - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 5th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211005-cabe-spc-minutes.pdf)
 
----
+[[FILE_START]]
+
 **Minutes of the Online Meeting of Limerick City & County Council Climate Action,**
 
 **Biodiversity and Environment Strategic Policy Committee held on Tuesday 5thOctober,**
@@ -90,7 +91,9 @@ Cllr O’Brien thanked Mr. Stephens and asked from an agricultural perspective h
 reduce our GHG emissions in real terms and maintain and strengthen our local economy in
 
 real terms.
----
+
+[[PAGE_END:1]]
+
 Mr. Stephens, in reply, confirmed that the Energy & Emissions Balance only deals with the
 
 energy element of agriculture. Some work has been done at examining how agricultural waste
@@ -170,7 +173,9 @@ data centres in proximity to the estuary. He also asked should we decompartmenta
 where peat use is low for those where it is high, to allow for the continuation of small-scale
 
 peat extraction.
----
+
+[[PAGE_END:2]]
+
 Mr. Stephens, in reply, that the report focuses only on the amount of energy we are using,
 
 not on the location of data centres. He commented that if you can usefully harness the River
@@ -238,7 +243,9 @@ feasibility study on a large green area at the back of the Old Cork Road that ru
 4 housing estates to determine if a community facility such as a dog walking park can be
 
 established in the area.”
----
+
+[[PAGE_END:3]]
+
 In proposing the motion, Cllr Slattery noted that the green space in question had no lighting,
 
 no facilities for old/young people, and no uses. The area suffers from anti-social behavior.
@@ -316,7 +323,9 @@ Cllr Hartigan supported the motion and noted that he had spoken previously with 
 Lynch SEE and notes LCCC is moving in the right direction. He would like to see the weed-
 
 spraying tender and process being reviewed.
----
+
+[[PAGE_END:4]]
+
 Ms Gallagher then read the reply:
 
 “In 2020, we carried out a full review of where, how and why we use herbicide in the Council,
@@ -372,9 +381,13 @@ Is mise le meas,
 **Strategic**
 
 **Policy Committee**
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

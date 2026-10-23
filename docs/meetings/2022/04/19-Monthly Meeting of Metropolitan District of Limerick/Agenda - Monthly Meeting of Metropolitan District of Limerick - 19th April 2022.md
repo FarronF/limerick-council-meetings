@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-meeting-of-metropolitan-district-of-limeick-19th-april-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-meeting-of-metropolitan-district-of-limeick-19th-april-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 i Comhairle Cathrach
 & Contae Luimnigh
-ar” vs ~\
 
 — Limerick City
 & County Council
@@ -32,14 +32,14 @@ ar” vs ~\
 
 A Chomhairleoir, a chara,
 
-Seitbhisi Corperdideachs,
+Seithhisi Corperdideachs,
 
-Comhairte Cathrach agus Contae Luimnigh,
-Ceanncheathré Chorpardideach,
+Comhairle Cathrach agus Contae Luimnigh,
+Ceanncheathra Chorpardideach,
 
 Cé na gCeannaithe,
 
-Lummneach
+Luimneach
 
 Corporate Services,
 
@@ -66,17 +66,19 @@ Meetings Administrator.
 
 1. Minutes
 
-To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 21*
+To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on 21°
 
 March, 2022.
 
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -123,7 +125,7 @@ Cottages, Rosbrien, Limerick.
 
 (Reports Enclosed).
 
-3. unity Initiative Scheme - LM l lon (GMA
+3. unity Initiative Scheme - LM I lon (GMA
 
 To consider the approval of allocations under the Community Initiative Scheme — General Municipal
 Allocations (GMA).
@@ -132,14 +134,16 @@ Allocations (GMA).
 
 QUESTIONS
 
-4. I an
+4. | an
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 procurement process for the removal of graffiti and that the railway bridge over the Park Canal
 linking Lower Park and Rhebogue be included in the tender.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Question submitted by Councillor C. Sheehan
@@ -186,7 +190,9 @@ process to complete master plan for the Limerick 2030 Cleeves site and what is t
 completing this master plan.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor S. Hartigan
@@ -197,7 +203,7 @@ energy retrofitting.
 
 13. Question submitted by Councillor S. Hartigan
 
-1 will ask at the next Meeting of the Metropolitan District of Limerick for a report on how
+| will ask at the next Meeting of the Metropolitan District of Limerick for a report on how
 procurement works for energy retrofitting works undertaken by the Council and whether there are
 any plans to take advantage of economies of scale as the Local Authority retrofitting programme
 expands.
@@ -229,7 +235,9 @@ homes and businesses, for Limerick City and other urban areas.
 to city centre active travel project.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Question submitted by Councillor S. Novak Uf Chonchuir
@@ -237,7 +245,7 @@ to city centre active travel project.
 | will ask at the next Meeting of the Metropolitan District of Limerick can the Council outline plans
 to improve the area around Mathew Bridge, Bridge Street and Rutland Street for pedestrians.
 
-AUS S=3*
+JUSS *
 
 District of Limerick held on 21 March, 2022)
 
@@ -247,7 +255,7 @@ solution is found for the provision of a library for the area.
 
 21. Notice of Motion submitted by Councillor C. Sheehan
 
-| will move at the next Meeting of the Metropolitan District of Limerick that a masterplan be putin
+| will move at the next Meeting of the Metropolitan District of Limerick that a masterplan be put in
 place for traffic management in Corbally, Rhebogue and Lower Park given the volume of vehicular
 traffic and proposed new housing development in the area.
 
@@ -264,7 +272,9 @@ process required to secure approval for Smarter Travel Projects such as new cycl
 connects.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 24. Notice of Motion submitted by Councillors S. Benson and S. Hartigan
@@ -297,4 +307,6 @@ a self-cleaning outdoor public toilet in Limerick City and within all of our pub
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

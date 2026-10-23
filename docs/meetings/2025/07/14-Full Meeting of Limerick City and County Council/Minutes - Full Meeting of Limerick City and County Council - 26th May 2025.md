@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-ordinary-meeting-limerick-city-and-county-council-26.05.2025.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 26th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-ordinary-meeting-limerick-city-and-county-council-26.05.2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -82,7 +83,9 @@ his sister-in-law, Margaret (Maggie) Shepherd, Kilfinane.
 The Members congratulated Elaine Houlihan, Athlacca, outgoing National President of
 
 Macra na Féirme, and commended her for all her work representing Limerick at national level.
----
+
+[[PAGE_END:1]]
+
 2
 
 Disappointment was expressed that the ceremonial robe was worn by the Mayor of
@@ -154,7 +157,9 @@ And Resolved:
 amended), the approval of the Council be and is hereby given to the disposal of the Freehold
 
 Interest in property at 77 Mayorstone Gardens, Mayorstone, Limerick, to Pat and Claire
----
+
+[[PAGE_END:2]]
+
 3
 
 Herlihy, for the sum of €101.22, particulars of which were contained in Statutory Notice dated
@@ -228,7 +233,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 subject to the covenants and conditions contained within the contract, particulars of which
 
 were contained in Statutory Notice dated 13th May, 2025.”
----
+
+[[PAGE_END:3]]
+
 4
 
 5.
@@ -308,7 +315,9 @@ District.
  Some Members raised concerns that the Municipal Districts appeared to receive less
 
 funding in comparison to the Metropolitan District.
----
+
+[[PAGE_END:4]]
+
 5
 
  The Members requested the Mayor consider including amenities currently excluded
@@ -398,7 +407,9 @@ acknowledged that the breakdown per area would help to highlight where the spend
 across all Districts and stressed the need to prioritise projects for next year for the Mayoral
 
 Fund.
----
+
+[[PAGE_END:5]]
+
 6
 
 In the course of the discussion, Members requested an update on the role of the
@@ -470,7 +481,9 @@ continuously undertake for the Council.
 It was agreed to provide advice to members on Section 138 of the Local Government
 
 Act, 2001.
----
+
+[[PAGE_END:6]]
+
 7
 
 In response to Members’ queries in relation to the Askeaton Swimming Pool, it was
@@ -544,7 +557,9 @@ Proposed by Councillor Galvin;
 Seconded by Councillor Doyle;
 
 And Resolved:
----
+
+[[PAGE_END:7]]
+
 8
 
 “That, in accordance with Section 142 (5) of the Local Government Act, 2001, as
@@ -626,7 +641,9 @@ Circulated, report of the Chairperson of the **Economic Development, Enterprise,
 meeting of the Committee held on 14th April, 2025.
 
 The report was noted by the Council.
----
+
+[[PAGE_END:8]]
+
 9
 
 (iii)
@@ -690,7 +707,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Pond, the date of t
 July Meeting of the Council was re-fixed to Monday, 14th July, 2025, at 3pm.
 
 The Mayor indicated that he would not be available on that date.
----
+
+[[PAGE_END:9]]
+
 10
 
 7.
@@ -766,7 +785,9 @@ The Director, Finance, Economic Development, Digital and ICT Services outlined t
 he would prepare and submit a half-yearly financial progress report for 2025 to the July
 
 Meeting and noted that the Council was currently on budget for 2025.
----
+
+[[PAGE_END:10]]
+
 11
 
 Proposed by Councillor Galvin;
@@ -830,7 +851,9 @@ And Resolved:
 Limerick Street Performance and Busker Bye-Laws 2025 for the administrative area of
 
 Limerick City and County Council, be and are hereby adopted.”
----
+
+[[PAGE_END:11]]
+
 12
 
 9.
@@ -902,7 +925,9 @@ Question submitted by Councillor E. Secas
 **which was commissioned in September 2023 to identify a suitable site for a Garda Station**
 
 **in Castletroy, and if he can request the OPW to provide an official statement on the matter.**
----
+
+[[PAGE_END:12]]
+
 13
 
 **REPLY:**
@@ -984,7 +1009,9 @@ with the RIAI and its panel of architects. The RIAI is currently finalising a De
 Review Report, which is expected to be issued shortly. This report will include
 
 contributions from the architectural panel and will present a range of potential
----
+
+[[PAGE_END:13]]
+
 14
 
 design options for the area, ensuring compliance with most recent Planning
@@ -1064,7 +1091,9 @@ that developed the GDPR Consent portal, and the work to implement the
 changes and release the portal to Elected Members has been scheduled for
 
 July 2025.
----
+
+[[PAGE_END:14]]
+
 15
 
 14.
@@ -1156,7 +1185,9 @@ Housing Fund (AHF – A.31) for 2025 nationally.
 25
 
 0
----
+
+[[PAGE_END:15]]
+
 16
 
 **Newcastle**
@@ -1318,7 +1349,9 @@ construction – typically a 2- to 3-year process from planning to completion. T
 investment in staffing has laid the groundwork for an uplift in the pipeline for affordable sale
 
 housing delivery in Limerick City and County.
----
+
+[[PAGE_END:16]]
+
 17
 
 ***(iii)**The number of units approved by the Department under the Affordable Housing Fund***
@@ -1402,7 +1435,9 @@ viable when delivered as affordable rental schemes. These schemes are also vital
 compact growth in line with the Sustainable Residential Development and Compact
 
 Settlements Guidelines which prioritise optimised density and the efficient use of land.
----
+
+[[PAGE_END:17]]
+
 18
 
 16.
@@ -1490,7 +1525,9 @@ Question submitted by Councillor J. Scanlan
 **I will ask at the next Meeting for the number of Refuse Collectors who provide a pick-up**
 
 **service in Limerick.**
----
+
+[[PAGE_END:18]]
+
 19
 
 **REPLY:**
@@ -1576,7 +1613,9 @@ explored as part of the broader redevelopment to improve amenities and
 public realm across King’s Island and encourage redevelopment in the most
 
 historic part of the City.
----
+
+[[PAGE_END:19]]
+
 20
 
 19.
@@ -1662,7 +1701,9 @@ This includes as follows:
  863 HAP Tenancies
 
  276 RAS Tenancies
----
+
+[[PAGE_END:20]]
+
 21
 
  207 Private Tenancies
@@ -1744,7 +1785,9 @@ There was a total of 0 Improvement Notices issued and 1,084 Improvement Letters
 issued to landlords on private rented properties including properties rented under
 
 HAP and RAS
----
+
+[[PAGE_END:21]]
+
 22
 
 
@@ -1824,7 +1867,9 @@ HAP and RAS
 1,111 - Structural Non-Compliant
 
 210 - Sanitary Non-Compliant
----
+
+[[PAGE_END:22]]
+
 23
 
 732 – Heat
@@ -1906,7 +1951,9 @@ Owing to staff promotions, inter local authority transfers, retirements etc. the
 staff complement is reduced to 1 Technician, 1 Assistant Supervisor, 1 Assistant Staff
 
 Officer and 3 Co-Op Students to carry out inspections on private rented properties,
----
+
+[[PAGE_END:23]]
+
 24
 
 including those under HAP and RAS. We are actively engaging with the Human
@@ -1974,7 +2021,9 @@ Notice of Motion submitted by Councillor S. Beasley ***(to be referred to the***
 It was agreed to refer this Motion to the Community, Leisure, Arts, Heritage and
 
 Culture Strategic Policy Committee.
----
+
+[[PAGE_END:24]]
+
 25
 
 23.
@@ -2042,7 +2091,9 @@ Members stressed the need for a second Emergency Department in Limerick and they
 were of the view that a full review of the operations system within the Emergency
 
 Department was required.
----
+
+[[PAGE_END:25]]
+
 26
 
 27.
@@ -2116,7 +2167,9 @@ Notice of Motion submitted by Councillor M. Ryan
 The Motion was proposed by Councillor Ryan (M) and seconded by Councillor Collins
 
 (B).
----
+
+[[PAGE_END:26]]
+
 27
 
 **REPLY:**
@@ -2188,7 +2241,9 @@ The Príomh Chomhairleoir reminded the Members that the Protocol Committee is a
 democratic committee consisting of all Party Leaders and any Member could make
 
 recommendations or amendments to any matters raised at Protocol Committee.
----
+
+[[PAGE_END:27]]
+
 28
 
 The Members thanked all those involved in the recent Famine Commemoration event in
@@ -2220,4 +2275,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:28]]
+

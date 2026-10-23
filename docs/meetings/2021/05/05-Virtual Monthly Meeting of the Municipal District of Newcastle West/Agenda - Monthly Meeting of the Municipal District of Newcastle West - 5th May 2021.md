@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-05-05-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 5th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-05-05-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7 ——_ Comhairle Cathrach Combe geac coats unwigh
+em Comhaite Cathrach Comhalte Cagwach agus Contes Ubriigh,
 
 wac - ls
-—_ & Contae Luimnigh Aras William Smith O'Bnen,
-nAafr™
+lf ™ & Contae Luimnigh Aras William Smith O'Bnen,
+nro™
 
-. : Gortbal,
-==> Limerick City ; An Caisiean Nua This,
+2 . Gortbul,
+—=—> Limerick City ; An Caisiean Nua This,
 & County Council Co. Luimnigh.
 
 Newcastle West Municipal District
-Umerick City and County Council,
+LUmerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
@@ -40,7 +41,7 @@ Newcastle Vest,
 
 Co. Lirnenick.
 
-30th Apritoae2¥2EH73
+30th Apritoae2#2EH75
 
 t: +353 (0) 69 62200
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
@@ -51,7 +52,7 @@ You are requested to attend an Online Meeting of the Municipal District of Newca
 to be held on Wednesday, 5 May, 2021, at 10.00 a.m. The business to be transacted is set
 out on the appended Agenda.
 
-Kongo t G..2tk—
+Korgot G.2tk—
 Margaret Corbett,
 Meetings Administrator.
 
@@ -73,13 +74,15 @@ To review position in relation to allocations under the General Municipal Alloca
 
 2021.
 = customerservices@limerick.ie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © vounwlimerick.ie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © vouwlimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -88,7 +91,7 @@ QUESTIONS
 
 Question submitted by Councillor L. Galvin
 
-| will ask at the next Meeting (a) how many littering fines were issued in the past 12
+t will ask at the next Meeting (a) how many littering fines were issued in the past 12
 months for the Newcastle West District (b) how many dog fouling fines were issued
 in the past 12 months for the Newcastle West District (c) how many Litter Wardens
 have we in this District (d) how many dog wardens have we in this District (e) how
@@ -131,7 +134,9 @@ expect commencement of the local community housing units at Nunan’s corner in
 the village.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -169,11 +174,11 @@ County.
 
 Notice of Motion submitted by Councillor J. Sheahan
 
-| will move at the next Meeting that Limerick City and County Council explore a walk
+I will move at the next Meeting that Limerick City and County Council explore a walk
 that is colloquially known as the Four Crosses walk in Glin to become a Sli na Slainte
 walk especially the part that’s on the N69.
 
-Noti: M m b ncillor J.
+Noti M m b incillor J.
 
 | will move at the next Meeting that the general public amenity and roadway off
 Sheehan’s Road, Newcastle West towards Filtertek, The Council’s Machinery Yard
@@ -187,4 +192,6 @@ compliment the amenity where this is possible.
 Correspondence.
 
 
----
+
+[[PAGE_END:3]]
+

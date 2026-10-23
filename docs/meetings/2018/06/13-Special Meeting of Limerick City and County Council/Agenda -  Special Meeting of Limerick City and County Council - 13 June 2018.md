@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%20130618.pdf)
+**Original file:** [Agenda -  Special Meeting of Limerick City and County Council - 13 June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%20130618.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 i Seirdhisi Corpardideacha,
-_—__ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+_—_—__ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Ceanncheathra Chorparéideach,
-NIN EEE Cé na gCeannsithe,
+NIN === Cé na gCeannsithe.
 — Limerick City Luimneach
 & County Council
 Corporate Services,
@@ -35,7 +36,7 @@ Limerick
 EIRCODE V94 EH90
 
 8" June, 2018.
-Nia 2028 t: +353 (0) 61 557150
+ina, 2028 t: +353 (0) 61 557150
 
 f: +353 (0) 61 415 266
 
@@ -51,7 +52,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-orn CON
+orn On
 James Clune,
 eetings Administrator.
 
@@ -64,10 +65,12 @@ Limerick to retired Detective Garda Ben O’Sullivan and posthumously to
 Detective Garda Jerry McCabe, RIP.
 
 o ie
-veer limerickie
+oe veer limerickie
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+

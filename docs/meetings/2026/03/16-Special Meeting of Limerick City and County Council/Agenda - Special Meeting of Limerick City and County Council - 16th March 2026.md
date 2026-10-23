@@ -16,34 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-16th-march-2026.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 16th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-special-meeting-of-limerick-city-and-county-council-16th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach Seirbhisi Corparaideacha, — & Custaiméara
+Comhairle Cathrach Seirbhisi Corpardideacha, Rialachais & Custaiméara
+_—_——_ Comhairle Cathrach & Contac Luimnigh
 
-Comnairle Cathrach ntac Luimnigh
-
-a & Contae Luimnigh Ceanncheartha Chorpardideach
-
-NON F . Cé na gCeannaithe
-
-—=_>. fay er ped \ Luimneach, VO4 EH90
-oun ound
-
-¥ Corporate, Governance & Customer Services
-
+& Contae Luimnigh Ceanncheartha Chorparideach
+NON ———————E———ES=S—— Cé na gCeannaithe
+—=—_> Limerick City _ Lulmneach. V94 EH90
+& County Council
+Corporate, Governance & Customer Services
 Limerick City and County Council
-
 Corporste Headquarters
-
 Merchant's Quay
 
 Limerick. V94 EH90
-
 t: +353 (0) 61 557 150
-13*" March 2026.
+
+13'" March 2026.
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of
 Limerick City and County Council
@@ -52,18 +46,20 @@ AChomhairleoir, a chara,
 
 The Priomh Chomhairleoir, Councillor Catherine Slattery, has called a Special Meeting of
 Limerick City and County Council, to be held in the Council Chamber, Dooradoyle, and Online,
-on Monday, 16" March, 2026 a in order to pass a Vote of Sympathy on the passing
+on Monday, 16" March, 2026 a inorder to pass a Vote of Sympathy on the passing
 of former Mayor of Limerick, Kevin Kiely, RIP.
 
 Is mise le meas,
 
-het ole,
+hots ole,
 
 Aedin Foley,
 Meetings Administrator.
 & customerservices@limerick.ie
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wwnelimerickie
-Corporate Headquarters, Merchant's Quay, Limerick v a mame
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wunelimerickie
+Corporate Headquarters, Merchant's Quay, Limerick v “a aaa
 
 
----
+
+[[PAGE_END:1]]
+

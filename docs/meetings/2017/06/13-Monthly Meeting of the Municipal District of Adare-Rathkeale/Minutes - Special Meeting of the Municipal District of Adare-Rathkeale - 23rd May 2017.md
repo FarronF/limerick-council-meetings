@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20b%20Minutes%20Special%20Meeting%2023rd%20May%252c%202017.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 23rd May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20b%20Minutes%20Special%20Meeting%2023rd%20May%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING ‘IN COMMITTEE’ OF THE**
 
 **MUNICIPAL DISTRICT OF ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE**
@@ -80,7 +81,9 @@ the Irish Boxing Squad, even though Mr. Keenan was the National Elite 91+KG cham
 Members requested the Meeting Administrator to convey their disappointment at this
 
 decision to the Irish Athletic Boxing Association (IABA) and agreed a Notice of Motion
----
+
+[[PAGE_END:1]]
+
 calling on the IABA to re-examine the position and provide for a box-off to decide the
 
 national representative in this case.
@@ -96,4 +99,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

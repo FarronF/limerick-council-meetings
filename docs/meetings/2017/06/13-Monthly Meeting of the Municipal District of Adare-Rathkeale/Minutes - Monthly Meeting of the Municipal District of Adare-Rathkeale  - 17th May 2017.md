@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20a%20Minutes%20Monthly%20Meeting%2017th%20May%252c%202017.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale  - 17th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20a%20Minutes%20Monthly%20Meeting%2017th%20May%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE CROOM ENTERPRISE CENTRE, CROOM, CO. LIMERICK ON**
@@ -90,7 +91,9 @@ the near future.
 Circulated, copy of draft Minutes of Special Meeting of the Municipal District of Adare-
 
 Rathkeale held on 27th April, 2017.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor O’Donoghue;
@@ -162,7 +165,9 @@ in moving the proposals forward.
 The Cathaoirleach thanked the Deputation for their input and requested that they keep the
 
 District Members informed of progress within the coming months.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -238,7 +243,9 @@ Members thanked the Head of Digital Strategy for his presentation and stressed t
 the system would bring to crime prevention and detection in the District. Members noted the
 
 importance of controlling access to the system and discussed the importance of ensuring that
----
+
+[[PAGE_END:3]]
+
 4
 
 any future public lighting installed or upgraded would have the facility to accommodate CCTV
@@ -316,7 +323,9 @@ Circulated, report of the A/Senior Executive Engineer, West Division Operations 
 2017 giving an update on proposals to address flooding issues at Foynes, Askeaton and
 
 Ballysteen.
----
+
+[[PAGE_END:4]]
+
 5
 
 The A/Senior Executive Engineer, West Division Operations noted that, while a lowest
@@ -390,7 +399,9 @@ Facilitator in this regard.
 A Notice under Section 8(7) of the Derelict Sites Act, 1990 has been served on
 
 the property, entering it on the Council’s Derelict Sites Register.
----
+
+[[PAGE_END:5]]
+
 6
 
 **13.**
@@ -468,7 +479,9 @@ The Council is actively following up on illegal waste/dumping in the Ballywillia
 area, Rathkeale and has initiated legal proceedings under the Waste
 
 Management Act.
----
+
+[[PAGE_END:6]]
+
 7
 
 **NOTICES OF MOTION**
@@ -552,7 +565,9 @@ Should this project progress it will provide funding for part of the Sewer.
 proposed road Scheme will not be undertaken until such time as the issue of
 
 Foul Sewer provision along this section of the N21 has been resolved.
----
+
+[[PAGE_END:7]]
+
 8
 
 Members noted proposals in relation to the sewer and discussed the potential to carry out
@@ -628,7 +643,9 @@ earlier in the year.
 **Correspondence**
 
 Correspondence was noted.
----
+
+[[PAGE_END:8]]
+
 9
 
 At the conclusion of the Agenda the following points were raised by Members with the
@@ -682,4 +699,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

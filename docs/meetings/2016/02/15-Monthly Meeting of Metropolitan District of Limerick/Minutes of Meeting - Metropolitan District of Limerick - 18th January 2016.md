@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2018th%20January%202016.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 18th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2018th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY,** **18TH** **JANUARY, 2016, AT**
@@ -94,7 +95,9 @@ occurrence of the vacancy shall elect one of their number to be Deputy Mayor.
 Proposed by Councillor Collins;
 
 Seconded by Councillor Hourigan;
----
+
+[[PAGE_END:1]]
+
 2
 
 “That Councillor Sean Lynch be appointed Deputy Mayor of the Metropolitan District of Limerick
@@ -180,7 +183,9 @@ The site will be investigated by LCCC to identify if it is considered suitable i
 achieving the objective of sustainable mixed communities in accordance with
 
 national and local planning policy. Factors to be considered include for e.g.,
----
+
+[[PAGE_END:2]]
+
 3
 
 planning policy restrictions, contamination, the social balance of existing
@@ -276,7 +281,9 @@ annum.
 The pumping station will be handed over to Irish Water upon satisfactory
 
 upgrade under the taking in charge process.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -380,7 +387,9 @@ safety of a number of single elderly tenants in old buildings in the city centre
 Limerick City & County Council Fire Authority operates under the Fire Services Act
 
 1981 and 2003.
----
+
+[[PAGE_END:4]]
+
 5
 
 Section 18 (2) of the Act places a duty on every person having control over
@@ -484,7 +493,9 @@ Given the above, there is a comprehensive programme of inspections in place for
 residential accommodation in the Limerick City & County Council area and this
 
 will continue in 2016.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members supported the motion and highlighted the need to adopt a proactive approach to
@@ -568,7 +579,9 @@ when the weather if finer.
  That Failte Ireland should be invited to attend at a Meeting of the Metropolitan District to
 
 set down their proposal for the region.
----
+
+[[PAGE_END:6]]
+
 7
 
  The need to support activities around the Treaty 325 commemoration.
@@ -652,7 +665,9 @@ and Sundays. The bins on the periphery of the city are emptied every second
 day. In total there are in excess of 200 bins in the City, 160 of which get emptied
 
 daily.
----
+
+[[PAGE_END:7]]
+
 8
 
 To increase the regularity of this service we would need to attach additional
@@ -736,7 +751,9 @@ Particular regard must be afforded to the fact that the Council’s financial
 resources were exacerbated by the decisions of the Valuation Office on appeals in
 
 relation to commercial Rates.
----
+
+[[PAGE_END:8]]
+
 9
 
 The combination of reduced resources and the continued demands for enhanced
@@ -826,7 +843,9 @@ Telephone number :
 Email address :
 
 localrepsupport@water.ie
----
+
+[[PAGE_END:9]]
+
 10
 
 At the conclusion of the Meeting, the Meetings Administrator requested that, in relation to
@@ -842,4 +861,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

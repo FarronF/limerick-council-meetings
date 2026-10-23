@@ -26,7 +26,7 @@ Files:
 
 Agenda - Statutory Budget Meeting of Limerick City and County Council - 25th November 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Budget%20Meeting%2025.11.2022.pdf) - [Extracted text](./Agenda%20-%20Statutory%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20November%202022.md)
 
-Draft Budget 2023_ Chief Executive Report with Tables - Statutory Budget Meeting of Limerick City and County Council - 25th November 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Draft%20Budget%202023%20Chief%20Executive%20Report%20with%20Tables.pdf) - Text not extracted
+Draft Budget 2023: Chief Executive Report with Tables - Statutory Budget Meeting of Limerick City and County Council - 25th November 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Draft%20Budget%202023%20Chief%20Executive%20Report%20with%20Tables.pdf) - Text not extracted
 
 Vacant Property Refund Scheme 2023 - Statutory Budget Meeting of Limerick City and County Council - 25th November 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/05%20Vacant%20Property%20Refund%20Scheme%202023.pdf) - Text not extracted
 

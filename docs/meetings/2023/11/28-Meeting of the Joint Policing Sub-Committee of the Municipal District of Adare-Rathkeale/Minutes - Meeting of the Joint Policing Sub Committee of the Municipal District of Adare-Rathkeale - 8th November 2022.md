@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Minutes-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-8th-November-2022.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub Committee of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Minutes-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-8th-November-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE JPC SUBCOMMITTEE HELD IN CROOM CIVIC CENTRE, MAIN STREET,**
@@ -78,7 +79,9 @@ Pandemic.
 The A/Superintendent proceeded to give Members an update on crime rates in the
 
 District. He advised the biggest decrease from last year’s statistics were burglaries which
----
+
+[[PAGE_END:1]]
+
 dropped by 90% with only one incident reported in the District. He further advised the
 
 most significant increase was retail theft which had increased by 600% from one incident
@@ -148,7 +151,9 @@ inside to turn left before the Lantern Lodge Roundabout or pulling back into tra
 could lead to a collision. The A/Superintendent agreed to forward this request to the
 
 District Traffic Core Unit.
----
+
+[[PAGE_END:2]]
+
 Councillor O’Donoghue stated there is a huge issue in some areas with members of the
 
 public entering private lands at night with dogs. The A/Superintendent encouraged land
@@ -210,4 +215,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

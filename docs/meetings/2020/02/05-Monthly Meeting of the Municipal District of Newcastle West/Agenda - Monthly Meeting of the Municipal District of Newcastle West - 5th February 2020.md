@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-2020-02-05-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-2020-02-05-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Oidiehe Bardais an Chaisleain Nua Thiar,
-_ ..-—l & Contas tadrretight Comhairle Cathrach agus Contae Lulmnigh
+Comhairle Cathrach Oidiche Bardais an Chaisleain Nua Thiar,
+i 5 Contas tarretigh Comhairle Cathrach agus Contae Lulmnigh
 
 Aras Wiliam Smith O'Brien,
 
-ANF ——— Gortbut
-Limerick City _ An Caislean Nua Thiar,
+ANF ———— Gortbut
+Limerick City _ An Caisledn Nua Thiar,
 
-—= & County Council Co. tuimnigh
+= & County Council Co. tuimnigh
 
-Neawcastn Wiest Municipal District,
-Lumar: City ans County Council
-feas Wiliam Smith O'Brien
-Cortboy,
+Newcastle Wiest Municipal District,
+Laman: Cty ans County Council,
+heas Wiliam Smith O'Brien
+Gortboy,
 
 Newcastle West.
 
@@ -53,8 +54,6 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 5” Fe
 2020, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-
-hhc ek C120
 Margaret Corbett,
 Meetings Administrator.
 
@@ -78,14 +77,16 @@ To note progress report from the Housing Development Directorate.
 To review position in relation to allocations under the General Municipal Allocation
 
 2020.
-& customerservicesa@limerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wwevelimerickie
-Corporate Headquarters, Merchant's Quay, Limerick WF @limerickCouncil
+& customerservicesa@limerickic
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wevevelimerickie
+Corporate Headquarters, Merchant's Quay, Limerick W @limerickCouncil
 
-( 061 - $56 000
+€ 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -102,7 +103,7 @@ the Abbeyfeale playground to be provided (b) what plans have the Council to
 repair/replace the play areas.
 
 | will ask at the next Meeting for a detailed report on the Abbeyfeale Traffic
-Management Plan to include (2) programme of works (b) start dates for the works (c)
+Management Plan to include (a) programme of works (b) start dates for the works (c)
 
 - detailed plans of the works (d) detailed costings of the works.
 
@@ -125,4 +126,6 @@ in Templegiantine.
 Maple Grove, Templeglantine.
 
 
----
+
+[[PAGE_END:2]]
+

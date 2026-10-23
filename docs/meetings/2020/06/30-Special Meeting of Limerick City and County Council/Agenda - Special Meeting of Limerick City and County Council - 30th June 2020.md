@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-special-meeting-30.06.2020_1.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 30th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-special-meeting-30.06.2020_1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———_ Comnairie Cathrach
+————_ Caomnairie Cathrach
 & Contae Luimnigh
-AN ~~ a
+AN SS
 
 — Limerick City
 & County Council
@@ -32,7 +33,7 @@ AN ~~ a
 
 Se#dhisi Corparsideacts,
 
-Comhairle Cathrach agus Contae Luimragh,
+Combairie Cathrach agus Contae Luimnigh,
 Ceanncheathna Chorpardideach,
 
 Cé na gCeannaithe,
@@ -43,14 +44,14 @@ Corporate Services,
 
 Limerick Cty and County Council
 Corporate Headquarters,
-Mercharks Guay,
+Mercharks Quay,
 
 Limerick
 
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: +353 (GC) 61 415 266
+f: +353 (C0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -77,7 +78,9 @@ em customerservices@limerick.ie
 oe worvedimerick.te
 @LimerickCouncil
 
-061 - 557180
+(061 - $57180
 
 
----
+
+[[PAGE_END:1]]
+

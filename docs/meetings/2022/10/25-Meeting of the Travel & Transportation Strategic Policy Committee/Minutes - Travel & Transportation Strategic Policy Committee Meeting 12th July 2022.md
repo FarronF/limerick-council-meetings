@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2012.07.22.pdf)
+**Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2012.07.22.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Adjourned** **Meeting of Limerick City and County Council’s Travel and**
@@ -70,7 +71,9 @@ Cllr. Leddin for his contribution to the work achieved through the Agendas of th
 The Chair acknowledged apologies from Cllrs. Ryan and Butler.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 1: Minutes**
@@ -148,7 +151,9 @@ Mr. Terry Brennan delivered a presentation on Active Travel communications inclu
 4. Community engagement
 
 5. Updates to Elected Members
----
+
+[[PAGE_END:2]]
+
 3
 
 Mr. Sean Mc Glynn updated the members on a recent visit to Dun Laoghaire where ideas were
@@ -220,7 +225,9 @@ Travel team had previously refused to engage with communities prior to Part 8. H
 see a commitment from Active Travel that in the event of any Part 8 impacting residents, there
 
 will be prior consultation in the form of pop up clinics to engage with residents.
----
+
+[[PAGE_END:3]]
+
 4
 
 In reply to Cllr. O’ Donovan, Mr. McGlynn advised that a Brief is being worked on for consultants
@@ -288,4 +295,6 @@ utilised. The Chair advised that this would be a matter for discussion at an ope
 She advised that the next meeting is scheduled for Tuesday, the 25th October 2022.
 
 The meeting then concluded.
----
+
+[[PAGE_END:4]]
+

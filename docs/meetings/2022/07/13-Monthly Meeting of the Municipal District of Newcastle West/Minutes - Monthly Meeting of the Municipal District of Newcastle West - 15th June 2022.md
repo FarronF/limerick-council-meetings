@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%202022-06-15%20Minutes%20June%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 15th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%202022-06-15%20Minutes%20June%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Councillor Sheahan, seconded by Councillor Foley, it was unanimously agreed that
 Meeting would be adjourned for fifteen minutes, in accordance with Standing Orders, due to
 
 the recent passing of Ms Peggy Collins, RIP.
----
+
+[[PAGE_END:1]]
+
 2
 
 With the Cathaoirleach’s permission, the Members also extended their condolences and
@@ -168,7 +171,9 @@ June, 2022.
 The Cathaoirleach welcomed the Senior Executive Engineer, Planning, Environment and
 
 Place-Making Directorate, to the Meeting.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Senior Executive Engineer gave an update to the Members on the funding to date for the
@@ -236,7 +241,9 @@ REPLY:
 **(a)**An update will be provided to the Members at the July Meeting.
 
 **(b)** These works will be complete pending the decision on the Section 38 outcome.
----
+
+[[PAGE_END:3]]
+
 4
 
 7.
@@ -316,7 +323,9 @@ reduced the pressure in the watermains from approximately 3 bar to 1 bar to redu
 stress on this fragile watermain. We have not received any complaints to date regrading low
 
 pressure and will review this on an ongoing basis should they arise. Similarly, where possible,
----
+
+[[PAGE_END:4]]
+
 5
 
 flows have been routed from the Dromcollogher direction to reduce the reliance upon this
@@ -394,7 +403,9 @@ NOTICES OF MOTION
 ***road bike racing in Athea and that the necessary works be carried out to bring it up to***
 
 ***standard.***
----
+
+[[PAGE_END:5]]
+
 6
 
 The Motion was seconded by Councillor Foley.
@@ -466,7 +477,9 @@ requested that the laneway be taken in charge by Limerick City and County Counci
 14. Notice of Motion submitted by Councillor J. Sheahan
 
 ***I will move at the next Meeting that the Council engage with Limerick 2030 DAC to***
----
+
+[[PAGE_END:6]]
+
 7
 
 ***develop the areas in public ownership around the Desmond Complex to provide a modern***
@@ -538,7 +551,9 @@ has not yet commenced. It was agreed that the Meetings Administrator would seek 
 update from the relevant Directorate on this matter.
 
 16. Notice of Motion submitted by Councillor J. Scanlan
----
+
+[[PAGE_END:7]]
+
 8
 
 ***I will move at the next Meeting that the footpath be extended from Kerry Group premises***
@@ -608,7 +623,9 @@ with particular attention being given to road junctions leading out onto Regiona
 routes.
 
 Landscaping works at St. Ita’s Road, Abbeyfeale, which are ongoing was also raised.
----
+
+[[PAGE_END:8]]
+
 9
 
 Reference was also made to street lights not working in Boherbuí, Newcastle West, due to
@@ -634,4 +651,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

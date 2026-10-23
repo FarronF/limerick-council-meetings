@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-draft-minutes-adjourned-special-meeting-18th-october-2021.pdf)
+**Original file:** [Minutes  - Adjourned Special Meeting of Metropolitan District of Limerick - 18th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-draft-minutes-adjourned-special-meeting-18th-october-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF THE METROPOLITAN DISTRICT**
 
 **OF LIMERICK HELD ON MONDAY, 18TH** **OCTOBER, 2021 at 12 NOON IN THE COUNCIL CHAMBER,**
@@ -98,7 +99,9 @@ projects featuring 1 and 2 bedroom units;
 and more focus on rebuilding communities;
 
  All Regeneration Areas should be treated the same and have the same level of focus and
----
+
+[[PAGE_END:1]]
+
 2
 
 resources applied to them;
@@ -192,7 +195,9 @@ works;
  Connectivity projects had been carried out between Moyross and Ballynanty but further works
 
 were required.
----
+
+[[PAGE_END:2]]
+
 3
 
  Issues relating to St. Mary’s Roundabout would be discussed with the Transportation
@@ -284,4 +289,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

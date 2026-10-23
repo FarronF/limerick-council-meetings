@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%209th%20January%2C%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%209th%20January%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -84,7 +85,9 @@ facilitate the consultation process.
 Members complemented An Garda Síochána for the policing of Rathkeale over the
 
 Christmas period and requested that a letter be sent to them acknowledging their
----
+
+[[PAGE_END:1]]
+
 2
 
 efforts. Members pointed out the state of the unfinished housing estate in Ballingarry
@@ -150,7 +153,9 @@ flooding issues at Askeaton. Members noted the threat of flooding to the swimmin
 pool at Askeaton and requested Council staff to investigate if water was rising from
 
 underground.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.**
@@ -226,7 +231,9 @@ Housing Section for the re-allocation of houses.
  Councillor O’Brien highlighted the need to salt minor roads with high volume usage
 
 such as the road to Pallaskenry school.
----
+
+[[PAGE_END:3]]
+
 4
 
 This concluded the Meeting.
@@ -240,4 +247,6 @@ Signed :
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

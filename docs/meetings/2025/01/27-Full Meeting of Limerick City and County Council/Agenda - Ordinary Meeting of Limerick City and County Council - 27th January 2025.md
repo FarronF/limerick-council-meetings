@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/00-agenda-ordinary-meeting-limerick-city-and-county-council-27.01.2025.pdf)
+**Original file:** [Agenda - Ordinary Meeting of Limerick City and County Council - 27th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/00-agenda-ordinary-meeting-limerick-city-and-county-council-27.01.2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach : — Setrbhisi Corpardideacha,
-& Contae Luimnigh Comnairie Cathrach agus Corkae Luimnigh,
-fs, Ceanncheathrd Chorpardideach.
-SS Cé na gCearnnaithe,
+Comhairle Cathrach : a Setrbhisi Corpardideacha,
+& Contae Luimnigh Comnairie Cathrach ag Corae Luimnigh,
+fr, Ceanncheathrd Chorpardideach.
+—————— Cé na gCeannaithe,
 = Limerick City Luimnesch
 
 = & County Council
@@ -32,15 +33,15 @@ Corporate Services
 Limerick City and County Council
 Corporate Headquarters,
 
-aAmxN
+Ams
 
 22"4 january, 2025. Merchants
 
 Quay.
 
-Limenck
+Limerick
 
-EIRCODE V4 EHS0
+EIRCODE V4 EH90
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of
 
@@ -66,7 +67,7 @@ To adopt Minutes of the following Meetings:
 (b) Budget Meeting of the Council held on 29'" November, 2024.
 
 (c) Special Meeting of the Council held on 19” December, 2024.
-(d) Special Meeting of the Council held on 3% January, 2025.
+(d) Special Meeting of the Council held on 3 January, 2025.
 
 2. Declaration of Interest
 
@@ -89,10 +90,12 @@ General Disposals
 wvew limerick ie
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach ouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Derelict Disposals
@@ -100,10 +103,10 @@ Derelict Disposals
 (d) Property at Kerry Road, Abbeyfeale, Co. Limerick.
 (c) Brewery Lane, Askeaton, Co. Limerick.
 
-(Statutory Notices dated 16", 20" and 23" December, 2024,
+(Statutory Notices dated 16", 20" and 23 December, 2024,
 and 15" January, 2025, already circulated)
 
-rate Services, Human ind O: isational Development
+rate Services, Human nd O: isational Development
 (a) Executive Report
 To consider Executive Report for the months of November and December,
 2024.
@@ -119,14 +122,14 @@ To consider approving the formal establishment of Friendship Cities between
 Limerick and Savannah, Georgia.
 (Report Enclosed)
 
-(d) Audit and Risk Committee
+(a) Audit and Risk Committee
 
 To consider the nomination of the final external member to the Audit and Risk
 
 Committee.
 (Report Enclosed)
 (e) Public Participation Network (PPN) Nomination — Local Community
-Develo pment Committee
+Development Committee
 
 To consider approving the appointment of Public Participation Network
 nominee to the Local Community Development Committee.
@@ -134,12 +137,14 @@ nominee to the Local Community Development Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(f) Nominations to Strategic Policy Committees
+(f} Nominations to Strategic Policy Committees
 
-{i) To consider the approval of Sectoral Nominees to the Strategic Policy
+(i) To consider the approval of Sectoral Nominees to the Strategic Policy
 Committees.
 (Report Enclosed)
 
@@ -171,7 +176,9 @@ Meeting / Event.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -191,9 +198,9 @@ demand for water and waste facilities whilst roadworks will be carried out, to p
 the future and Ryder Cup and ultimately ensure that we do not have one set of long
 term roadworks followed by another.
 
-Question submitted by Councillor S. Benson
+Question submitted by Councillor S$. Benson
 
-| will ask the Mayor at the next meeting for an update on the first 3 Expert Groups that
+i will ask the Mayor at the next meeting for an update on the first 3 Expert Groups that
 are being established, how stakeholders are being chosen to sit on these groups and
 what other Expert Groups are being planned for the future.
 
@@ -211,7 +218,7 @@ timeline for the commencement and completion of these works.
 
 Question submitted by Councillor S. Benson
 
-| will ask at the next meeting for the official monthly head count of rough sleepers
+I will ask at the next meeting for the official monthly head count of rough sleepers
 for the past 6 months.
 
 Question submitted by Councillor E. O’Donovan
@@ -220,7 +227,9 @@ Question submitted by Councillor E. O’Donovan
 of animal welfare issues, including horses, during the recent freezing weather.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -237,11 +246,11 @@ of animal welfare issues, including horses, during the recent freezing weather.
 
 Question submitted by Councillor J. Scanian
 
-I will ask at the next Meeting (a) How much has been spent in years 2023, 2024 and
+| will ask at the next Meeting (a) How much has been spent in years 2023, 2024 and
 2025 on renewal and maintenance works to Askeaton Swimming Pool, and (b) what
 subvention was given towards the Pool’s operation in each of its last 5 years trading.
 
-ion ilor BE. O’D:
+jon illor BE. O’D:
 
 | will ask at the next Meeting for an update on any additional resources given by
 Government for Limerick winter maintenance programme in 2025 and will additional
@@ -258,9 +267,9 @@ annual breakdown of the number of service users, and the number of library loans
 issued, at each location serviced by the Mobile Library over the past 5 years since
 January 2020.
 
-DALLES S41
+POITIETLeC
 
-=. eu ) PV!
+4. eu *} VU!
 District of Limerick)
 
 Metropolitan
@@ -271,16 +280,18 @@ housing and the very significant population increase in these areas.
 
 NOTICES OF MOTION
 
-J 2 wmoton sUOMITted on) i micipa Serie
-R M. Ryan, N. Sto’ 8. T
+0 2 woven sUOMITTed roe rv ricipa Strict
+R M. Ryan, N. Sto’ B.T
 
-OF SaePppann
+VF Saeppan
 
 We will move at the next Meeting that we call on the incoming Minister for Health to
 establish an ambulance base at Kilmallock Primary Health Centre, Kilmallock.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -288,7 +299,7 @@ establish an ambulance base at Kilmallock Primary Health Centre, Kilmallock.
 Notice of Motion submitted by Councillor S. Hickey-O'Mara
 
 | will move at the next Meeting that this Council commit to using factual and accurate
-information, based on credible sources, in this Council’s discussion and debates over
+information, based on credible sources, in this Council's discussion and debates over
 the length of its term. In making this commitment, this Council affirms its obligation
 as a Local Authority, as per Section 42 of the Irish Human Rights and Equality
 Commission Act 2014, to have regard to the need to: (a) eliminate discrimination; (b)
@@ -311,7 +322,7 @@ damage, lost stock or foods or other reasonable uninsured damages caused by
 snowfall or electricity cuts and that this notice of motion be circulated to all Local
 Authorities.
 
-Notice of Motion submitted by Councillor E. Secas
+Notice of Motion submitted by Councillor E, Secas
 
 | will move at the next meeting that Limerick City and County Council include in the
 winter maintenance programme measures to provide, going forward, gritting
@@ -328,7 +339,9 @@ special emergency phone number which is activated prior to and manned during all
 orange and red weather alerts.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23.
@@ -376,7 +389,9 @@ the danger of falling Trees, Branches and Bramble resulting in Power and water s
 outages into the future.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
@@ -399,7 +414,7 @@ for Housing Adaptation Grants for older people and disabled people, most notably
 unavailability of a grant to replace a fossil fuel burner if the current burner is
 unrepairable.
 
-resp hess ee SVIOSIOr aA shi
+reo eees oe PVIOSIOr oh * hi
 
 Metropolitan District Limerick) | 7
 
@@ -409,4 +424,6 @@ are encouraged to expedite development and reuse this key City Centre site.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

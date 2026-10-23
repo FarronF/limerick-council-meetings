@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Agenda%2015th%20January%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Agenda%2015th%20January%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; Seirbhisi Corparaideacha,
 
-__—_—_—_ Comhairle Ca thrach Comhairle Cathrach agus Contae Luimnigh,
+__—_—_—_— Comhairle Ca thrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathni Chorpardideach.
 
-aArN —_—_—_—_——————— Cé na gCeannaithe.
+aArN —_—_—_—_—_————— Cé na gCeannaithe.
 —— Limerick City Luimneach
 
 & County Council
@@ -50,12 +51,12 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant’s Quay, Limerick on Monday, 15" January, 2018 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick on Monday, 15"" January, 2018 at 9.45 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
-Chix SU—
+Chix SaU—
 
 Christy O’Connor,
 Meetings Administrator.
@@ -71,13 +72,15 @@ December, 2017.
 2. Support Services Directorate
 To set schedule of dates for JPC Sub Committee Meetings 2018 (4 no.).
 
-@ customerservices@limerickic
-& wvew.limerick.ie
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+= customerservices@limerick.ic
+@ wwewlimerick.ie
+Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Services Operations Directorate
@@ -120,7 +123,9 @@ Question submitted by Councillor J. Costelloe
 used for official events last year.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -177,7 +182,9 @@ Council makes sure to include information about tenants rights in the packs sent
 and RAS tenants as part of any housing needs assessment.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -200,7 +207,7 @@ that has taken place over recent years and bring rents down to affordable levels
 
 Notice of Motion submitted by Councillor M. Hurley (to be referred to the Local Electoral
 
-Area Briefin,
+Area Briefin
 
 ! will move at the next Meeting that immediate consideration be given to extending the
 footpath from the traffic lights at the entrance to the Cappamore junction on the R445 to
@@ -226,4 +233,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

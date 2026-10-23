@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202015.pdf)
+**Original file:** [Agenda - Annual Meeting of Metropolitan District of Limerick - 19th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ——
@@ -58,9 +59,13 @@ You are requested to attend the Annual Meeting of the Metropolitan District of L
 to be held in the Council Chamber, Merchant's Quay, Limerick, on Friday, 19" June,
 2015 at 7.00 p.m. The business to be transacted is set out on the appended Agenda.
 
-t Mpegs eck —
-en O'Co
-fr Meetings Adnainictator.
+LO
+
+py —Coutaty O'Co
+
+Meetings Adnainiotator,
+
+en ae aaa aetalalailaabaiaiaieiaiaiaaialal
 
 AGENDA
 
@@ -70,12 +75,14 @@ next Annual Meeting or until a successor has been elected.
 2. To elect a Deputy Mayor of the Metropolitan District of Limerick to hold office until
 the next Annual Meeting or until a successor has been elected.
 
-ee ee
+Peecenecteeryaietcge eprreeemt biel_ peice rel mela
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ customerservices@limerick.te
-& wwwlimerick.te
-v @LimerickCouncil
+& wwwalimerick.te
+vv @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

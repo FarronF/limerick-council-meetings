@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28a%29%20Minutes%20Special%20Meeting%20290517%20v2.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28a%29%20Minutes%20Special%20Meeting%20290517%20v2.pdf)
 
----
+[[FILE_START]]
+
 **1**
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
@@ -78,7 +79,9 @@ Boston. He married Rosanna Cox and they had twelve children. One of them, John F
 House of Representatives. His eldest daughter, Rose, married Joseph P. Kennedy. They had
 
 several children, including John F. Kennedy, the future President of the United States. On
----
+
+[[PAGE_END:1]]
+
 **2**
 
 21st June, 2013, John F. Kennedy’s daughter, Caroline, returned to her ancestral home in
@@ -148,7 +151,9 @@ commended the spirit of volunteerism which was evident in the establishment and
 development of the Centre. He concluded by wishing the Bruff Heritage Group the very best
 
 for the future and said the Council was fully supportive and committed to the Centre.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 The Mayor then presented a framed copy of the original Scroll awarded to John F. Kennedy,
@@ -174,4 +179,6 @@ Mayor
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

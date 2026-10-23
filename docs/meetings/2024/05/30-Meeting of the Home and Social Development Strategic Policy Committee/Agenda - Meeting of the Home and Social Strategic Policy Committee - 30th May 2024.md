@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-meeting-of-the-home-and-social-strategic-policy-committee-30th-may-2024.pdf)
+**Original file:** [Agenda - Meeting of the Home and Social Strategic Policy Committee - 30th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-meeting-of-the-home-and-social-strategic-policy-committee-30th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -52,4 +53,6 @@ Pipeline Delivery Update
 7. AOB
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

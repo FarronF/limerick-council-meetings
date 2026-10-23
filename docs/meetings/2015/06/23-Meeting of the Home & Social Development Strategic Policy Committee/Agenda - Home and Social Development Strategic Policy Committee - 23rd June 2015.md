@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20and%20Social%20Development%20Strategic%20Policy%20Committee%20-%2023rd%20June%202015.pdf)
+**Original file:** [Agenda - Home and Social Development Strategic Policy Committee - 23rd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20and%20Social%20Development%20Strategic%20Policy%20Committee%20-%2023rd%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Home and Social Development**
@@ -76,4 +77,6 @@ parties concerned.”
 **Chairperson**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

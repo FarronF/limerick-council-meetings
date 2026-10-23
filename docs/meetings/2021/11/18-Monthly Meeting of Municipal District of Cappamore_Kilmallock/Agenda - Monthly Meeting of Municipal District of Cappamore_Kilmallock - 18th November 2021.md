@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/1.-agenda-18th-november-md-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 18th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/1.-agenda-18th-november-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 **11th** **November 2021.**
 
 **To/**
@@ -62,7 +63,9 @@ areas to present to the Elected Members.
 Deputation by Pallasgreen Residents regarding reinstatement of footpath and loop
 
 walk.
----
+
+[[PAGE_END:1]]
+
 2
 
 NOTICE OF MOTIONS
@@ -122,7 +125,9 @@ the taking in charge of Castle Court estate in Kilmallock.
 Also to confirm that the assessment has taken place and a snag list has been compiled and
 
 costed as per the reply to my previous question at the September 2020 meeting.
----
+
+[[PAGE_END:2]]
+
 3
 
 10.
@@ -136,4 +141,6 @@ I will ask at the next Municipal District meeting
 district (b) and what is the breakdown of locations.
 
 (c) How many Council houses are vacant in the District.
----
+
+[[PAGE_END:3]]
+

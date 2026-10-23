@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_10th_march_2015.pdf)
+**Original file:** [Minutes - Municipal District of Adare - Rathkeale - 10th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_10th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
 OF ADARE-RATHKEALE HELD AT ÁRAS SEÁN FINN, NEW LINE ROAD,
@@ -96,7 +97,9 @@ and that a total of 5 written submissions were received within the statutory tim
 was recommended that the Adare Local Area Plan 2015-2021 be made in accordance with
 
 the Chief Executive‟s Report dated 29th January, 2015.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members indicated that they had postponed a decision on the Proposed Adare Local Area
@@ -188,7 +191,9 @@ amendments –
 2014 as these lands had never flooded and the datum levels were significantly higher than
 
 the lands adjoining Station Road; there would be no impact on the core strategy as phase
----
+
+[[PAGE_END:2]]
+
 3
 
 one lands must be developed firstand
@@ -272,7 +277,9 @@ the process of compiling its action plan under the guidance of Enterprise Irelan
 the development of smaller sites at Askeaton could be included as part of the Mid West
 
 Action Plan.
----
+
+[[PAGE_END:3]]
+
 4
 
 As the Garda representatives were available it was agreed to take item 4 on the agenda at
@@ -358,7 +365,9 @@ Scheme for Vacant Property from the Director, Economic Development and Planning,
 dated 10th February, 2015 and associated application form and guidelines for Business
 
 and Retail Incentives Scheme for Vacant Properties Grant.
----
+
+[[PAGE_END:4]]
+
 5
 
 Ms. Mary Hayes, Administrative Officer, Economic Development and Planning presented
@@ -440,7 +449,9 @@ Educational Group
 Members were informed that a request to receive a deputation had been received from
 
 Croom Parish Sporting and Education Group. On the proposal of Councillor Neville,
----
+
+[[PAGE_END:5]]
+
 6
 
 seconded by Councillor O‟Donoghue it was agreed to receive this deputation at the next
@@ -518,7 +529,9 @@ The Water Services section in Rathkeale has completed a survey and
 inspection of the Ballyvareen sewerage system. However, there are further
 
 investigations to be carried out on the sewer network. I confirm that the bond
----
+
+[[PAGE_END:6]]
+
 7
 
 has been claimed and we are currently in correspondence with the Bank in
@@ -598,7 +611,9 @@ wall and works will commence in the next 4-6 weeks.
 Question submitted by Councillor Stephen Keary
 
 ***I will ask at the next Meeting that a representative from the Office of Public***
----
+
+[[PAGE_END:7]]
+
 8
 
 ***Works give a presentation to the Elected Members at the March Meeting to***
@@ -688,7 +703,9 @@ such time that a bypass is provided for the town. Also, any access at this
 location would have to traverse the existing town park and the impact on the
 
 amenity of this would have to be assessed further.
----
+
+[[PAGE_END:8]]
+
 9
 
 NOTICES OF MOTION
@@ -760,7 +777,9 @@ The roads engineer has inspected the junction and will carry out a detailed
 assessment to determine what remedial action may be required at the above
 
 location.
----
+
+[[PAGE_END:9]]
+
 10
 
 17.
@@ -844,7 +863,9 @@ In relation to realignment of the crossing it is proposed that the Rathkeale
 Roads Engineer will write to IE requesting a meeting to discuss the matter.
 
 The following items were raised by Members at the completion of the Agenda.
----
+
+[[PAGE_END:10]]
+
 11
 
 Councillor O‟Brien referred to a report in The Irish Examiner whereby some Local
@@ -884,4 +905,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:11]]
+

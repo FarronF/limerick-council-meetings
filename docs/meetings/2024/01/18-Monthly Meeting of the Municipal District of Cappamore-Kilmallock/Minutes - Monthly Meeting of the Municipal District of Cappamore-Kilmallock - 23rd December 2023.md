@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/02-minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-23rd-december-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/02-minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-23rd-december-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN ARAS
@@ -70,7 +71,9 @@ District Reception. A great night was had and it was all appreciated.
 2. Matters Arising:
 
 There were no matters arising
----
+
+[[PAGE_END:1]]
+
 3. Declaration of Interest
 
 There was no interest declared.
@@ -118,7 +121,9 @@ this issue. The Roads Engineer will revert early in 2024 with a status report.
 **Proposed: Councillor Carey**
 
 **Seconded: Councillor Donegan**
----
+
+[[PAGE_END:2]]
+
 6.Notice of Motion submitted by Councillor M Ryan
 
 I move at the next meeting of the Cappamore Kilmallock Municipal District that Limerick City
@@ -170,7 +175,9 @@ number of years ago.
 Should this Notice of Motion be passed, Limerick City and County Council will correspond
 
 with Irish Water as requested.
----
+
+[[PAGE_END:3]]
+
 QUESTIONS
 
 7.Question submitted by Councillor Carey
@@ -222,7 +229,9 @@ completed by the end of the year, another 1 will be completed in Q1 2024 and the
 remaining 8 are at design stage/procurement stage and will be completed in 2024.
 
 **The Questions were taken as read.**
----
+
+[[PAGE_END:4]]
+
 Any Other Business
 
 **General Municipal Allocation**
@@ -284,4 +293,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

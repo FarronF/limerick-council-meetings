@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01a_agenda_-_10th_march_2015.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 10th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01a_agenda_-_10th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_—_ Seirbhisi Corparéideacha agus Bainistiocht Athruithe.
+_—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
 ANF . Cé na gCeannaithe.
@@ -29,7 +30,7 @@ ANF . Cé na gCeannaithe.
 
 . .
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and tse sce
+CITY & COUNTY Limerick City and bce sae
 y,
 COUNCIL Limerick
 
@@ -43,7 +44,7 @@ To: haoirl n
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 10 March, 2015 at
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 10" March, 2015 at
 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mi
@@ -64,12 +65,13 @@ To consider the Chief Executive's Report dated 29” January 2015, on the
 proposed Adare Local Area Plan and decide whether to make or amend the Local
 
 & customerservices@limerick.ie
-
-Ceanncheathria Chorpardideach, Cé na gCeannaithe, Luimneach ; © wwwilimerick.ie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach 1 © wwwilimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -118,7 +120,9 @@ Patrickswell to Limerick.
 (Email attached)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -183,7 +187,9 @@ Northern side of the river
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -231,4 +237,6 @@ level crossing immediately North of this cross.
 Correspondence
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-14th-december-2021-2.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-14th-december-2021-2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacta,
+_—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
 & Contae Luimnigh Comharte Cathrach agus Contae Luimnigh.
-~ Aras Séan Finn,
-A . . . ine Nua,
+-_-™ f" ~ Aras Séan Finn,
+A . . ‘ ine Nua,
 = Limerick City Rath Cacia,
 
 & County Council
@@ -39,7 +40,7 @@ New Line.
 
 Rathkeale.
 
-Co. Limenck
+Co. Limerick
 
 EIRCODE V94 HKIV
 
@@ -57,21 +58,23 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Special Meeting of the Municipal District of Adare-Rathkeale held on 3 November,
+(a) Special Meeting of the Municipal District of Adare-Rathkeale held on 3" November,
 
 2021.
 (b) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 9" November,
 2021.
 (Copies Enclosed).
 & customerservices@limerick.ie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach © wwewelimerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaitheLuimneach © wwewelimerickie
 
 Corporate Headquarters, Merchants Quay, Limerick. W @limerickCouncil
 
 \ 062 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -106,17 +109,19 @@ to bring this to a resolution and (4) When will it be resolved.
 
 Question submitted by Councillor K. Sheahan
 
-! will ask at the next Meeting regarding the land bank in Askeaton property of the State if
+| will ask at the next Meeting regarding the land bank in Askeaton property of the State if
 the Council are satisfied we are planning a positive role in promoting these lands in a
 positive light for development purposes.
 
-Cisestion eibeittied bv Gounsiior &. Saal
+Cisedtion eebveittied bv Gounslioc &. Staal
 
 ! will ask at the next Meeting for an update on the plans to improve Askeaton Carnegie
 Library.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -139,7 +144,7 @@ with a monthly report going forward on this motion.
 
 Notice of Motion submitted by Councillor K. Sheahan
 
-I will move at the next meeting that full details of the Councils present stock of
+| will move at the next meeting that full details of the Councils present stock of
 unoccupied social housing in Askeaton together with a calendar of dates of when these
 houses will be ready for allocation be provided and also request that a programme for
 allocation of social and affordable housing be prepared.
@@ -150,4 +155,6 @@ dumping at Forgefield Pallaskenry.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

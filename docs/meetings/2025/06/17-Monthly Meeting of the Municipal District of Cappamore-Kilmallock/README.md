@@ -30,7 +30,7 @@ Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 15th May 2
 
 Proposed Disposal of Property at Grange, Kilmallock, Co. Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/proposed-disposal-of-property-at-grange-kilmallock-co-limerick.pdf) - Text not extracted
 
-Proposed Disposal of 0.79 Acres_0.32 Hectares at Kilmallock Business Park, Kilmallock, Co. Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/proposed-disposal-of-0.79-acres-0.32-hectares-at-kilmallock-business-park-kilmallock-co-limerick.pdf) - Text not extracted
+Proposed Disposal of 0.79 Acres/0.32 Hectares at Kilmallock Business Park, Kilmallock, Co. Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/proposed-disposal-of-0.79-acres-0.32-hectares-at-kilmallock-business-park-kilmallock-co-limerick.pdf) - Text not extracted
 
 Part 8 - Proposed Development at Crawford Street, Bruff, Co. Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/part-8-proposed-development-at-crawford-street-bruff-co-limerick.pdf) - Text not extracted
 

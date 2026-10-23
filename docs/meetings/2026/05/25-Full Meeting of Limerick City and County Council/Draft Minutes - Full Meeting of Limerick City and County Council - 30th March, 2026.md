@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-full-meeting-of-limerick-city-and-county-council-30th-march-2026.pdf)
+**Original file:** [Draft Minutes - Full Meeting of Limerick City and County Council - 30th March, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-full-meeting-of-limerick-city-and-county-council-30th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -88,7 +89,9 @@ place earlier in the day.
 • The family of the late Maurice Harnett, Abbeyfeale.
 
 The Meeting was adjourned for 15 minutes as a mark of respect.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -160,7 +163,9 @@ And Resolved:
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
 
 2001 (as amended) and Section 211 of the Planning and Development Act, 2000 (as
----
+
+[[PAGE_END:2]]
+
 3
 
 amended), the approval of the Council be and is hereby given to the disposal of 1.2897 Acres
@@ -232,7 +237,9 @@ mortgage(s) or burden(s) on the property at 160 Oisín Drive, O’Malley Park, L
 transferred to the property at 6 Aster Court, Keyes Park, Limerick, particulars of which were
 
 contained in Statutory Notice dated 13th March, 2026.”
----
+
+[[PAGE_END:3]]
+
 4
 
 (d) Circulated, copy of Statutory Notice dated 13th March, 2026, concerning the disposal of
@@ -312,7 +319,9 @@ Josephine Kilcoyne, for the sum of €1, subject to the covenants and conditions
 within the Contract, particulars of which were contained in Statutory Notice dated 13th March,
 
 2026”.
----
+
+[[PAGE_END:4]]
+
 5
 
 (g) Circulated, copy of Statutory Notice dated 13th March, 2026, concerning the disposal of
@@ -372,7 +381,9 @@ Executive Report
 Circulated, Executive Report for the months of January and February 2026.
 
 The Reports were noted by the Council.
----
+
+[[PAGE_END:5]]
+
 6
 
 5.
@@ -438,7 +449,9 @@ And Resolved:
 “That, the Charter and Terms of Reference for Limerick City and County Council Audit and Risk
 
 Committee, as circulated, be and is hereby adopted.”
----
+
+[[PAGE_END:6]]
+
 7
 
 6.
@@ -500,7 +513,9 @@ local communities and twinning. The final version of the Annual Report would be 
 before the May Meeting of the Council for adoption.
 
 The draft Annual Report 2025 was noted by the Council.
----
+
+[[PAGE_END:7]]
+
 8
 
 8.
@@ -568,7 +583,9 @@ Committee.
 The Local Community Development Committee Annual Report 2025 was noted by the
 
 Members.
----
+
+[[PAGE_END:8]]
+
 9
 
 11.
@@ -640,7 +657,9 @@ On the proposal of Councillor Collins (B) and seconded by Councillor Kiely it wa
 the Council would write to the PPN requesting them to review the geographical
 
 representation.
----
+
+[[PAGE_END:9]]
+
 10
 
 13.
@@ -714,7 +733,9 @@ Councillors Butler, Collins (M), Ryan (E) and Sheahan.
 **Discover Limerick Designated Activity Company (DAC):**
 
 Councillors Daly, Kiely, Slattery and Stokes.
----
+
+[[PAGE_END:10]]
+
 11
 
 **DAC Supervisory Board**:
@@ -782,7 +803,9 @@ Policy Committee dated 12th February, 2026, in relation to Meeting of the Commit
 held on 12th February, 2026.
 
 The Chairperson’s report was noted by the Council.
----
+
+[[PAGE_END:11]]
+
 12
 
 (v)
@@ -852,7 +875,9 @@ Circulated, report by Member who had participated at Conference / Seminar / Meet
 Event.
 
 The report was noted by the Council.
----
+
+[[PAGE_END:12]]
+
 13
 
 QUESTIONS
@@ -996,7 +1021,9 @@ Value of fines issued
 €16,125
 
 €21,860
----
+
+[[PAGE_END:13]]
+
 14
 
 (c)
@@ -1186,7 +1213,9 @@ dumping or inadequate domestic waste management.
 of Bulky Waste Collections in these areas to encourage householders to dispose of waste
 
 responsibly and to help prevent litter and waste pollution.
----
+
+[[PAGE_END:14]]
+
 15
 
 **(i) What preventative measures or public awareness campaigns has the Council undertaken**
@@ -1296,7 +1325,9 @@ Tidy Towns seminar and ongoing support for Limerick Tidy Towns groups. Anti-Dump
 and Waste/Litter prevention is contained within the 8 categories included in this national
 
 competition. 57 communities participated in 2025. Judged by National Tidy Towns judges.
----
+
+[[PAGE_END:15]]
+
 16
 
 **Going for Gold**
@@ -1410,7 +1441,9 @@ approval and implementation.
 The arts office is assisting sections in developing artist briefs and commissioning
 
 processes, within its current capacity, on a case by case basis and on request.
----
+
+[[PAGE_END:16]]
+
 17
 
 20.
@@ -1508,7 +1541,9 @@ Total NoTs received
 2026 to date
 
 80
----
+
+[[PAGE_END:17]]
+
 18
 
 22.
@@ -1686,7 +1721,9 @@ the upgrade of the Askeaton Waste-Water Treatment System by Uisce Éireann.
 Funding drawn down from the Department to date is €2.5m, the total amount
 
 available under the RRDF grant.
----
+
+[[PAGE_END:18]]
+
 19
 
 4.
@@ -1756,7 +1793,9 @@ Council staff continue to operate under the Control of Dogs Act, the Control of 
 Act, and the Dog Breeding Establishments Act, and will take action on cases that fall
 
 within the scope of these legislative provisions.
----
+
+[[PAGE_END:19]]
+
 20
 
 24.
@@ -1834,7 +1873,9 @@ called by the subject of the proceedings, the Council will arrange for separate 
 service advice to be provided if an Elected Member believes they might have a conflict
 
 of interest.
----
+
+[[PAGE_END:20]]
+
 21
 
 26.
@@ -1908,7 +1949,9 @@ Standing Orders
 The livestreaming of Council and broadcasting of recordings is not provided for under the
 
 Standing Orders.
----
+
+[[PAGE_END:21]]
+
 22
 
 The full Standing Orders are currently under review by the Standing Orders Sub Committee.
@@ -1982,7 +2025,9 @@ take a 15-minute adjournment.
 On the proposal of Príomh Chomhairleoir, seconded by Councillor Collins (M) it was agreed
 
 that the Meeting be adjourned to a date in the future.
----
+
+[[PAGE_END:22]]
+
 23
 
 **Any Other Business**
@@ -2008,4 +2053,6 @@ amended, is available on SharePoint for inspection by the Members.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:23]]
+

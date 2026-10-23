@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01c-draft-minutes-special-meeting-4th-september-2020.pdf)
+**Original file:** [Minutes  - Special Meeting of Metropolitan District of Limerick - 4th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01c-draft-minutes-special-meeting-4th-september-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON FRIDAY, 4TH**
@@ -98,7 +99,9 @@ development proceeds.
  Social Housing: The current plans group 16 of the social houses together, and concerns
 
 were raised that this will stigmatise the tenants of the social housing and that, instead,
----
+
+[[PAGE_END:1]]
+
 2
 
 they social housing units should be dispersed amongst the development.
@@ -220,7 +223,9 @@ Planning and Development (Housing) and Residential Tenancies Act 2016. On foot o
 from Councillor Sheahan, Mr. Duclot advised that the Chief Executive’s report for An Bord Pleanála
 
 would be distributed to all members of the Metropolitan district.
----
+
+[[PAGE_END:2]]
+
 3
 
 This concluded the Meeting.
@@ -234,4 +239,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/25th%20June%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Agenda - Meeting of the Environment Strategic Policy Committee (SPC) - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/25th%20June%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 **20th** **June 2018**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**
@@ -47,7 +48,9 @@ appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -73,4 +76,6 @@ held on 26th February 2018.
 5. **Update on the Draft Noise Action Plan** **–** **Ms. Anne Goggin**
 
 6. **Discussion in relation to the Eradication of Japanese Knotweed**
----
+
+[[PAGE_END:2]]
+

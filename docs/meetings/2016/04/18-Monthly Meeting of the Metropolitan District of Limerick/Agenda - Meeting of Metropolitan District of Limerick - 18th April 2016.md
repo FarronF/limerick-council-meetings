@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20April%202016.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 18th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
-ai Comhairle Cathrach agus Contae Luimnigh,
+i Comhairle Cathrach agus Contae Luimnigh,
 
-NIN«F . Cé na gCeannaithe,
+NIN«F > Cé na gCeannaithe,
 Luimneach
 =
 
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council
-Merchants §
+Merchants 4
 COUNCIL ss
 t: +353 (0) 61 407 100
 13" April, 2016. f: +353 (0) 61415 266
@@ -47,7 +48,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-CQ GC
+CQ) GC —
 
 Christy O’Connor,
 Meetings Administrator.
@@ -70,11 +71,13 @@ Clarina, Co. Limerick.
 
 (Report Enclosed).
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach  vevew.limerick.ie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach @ vevew.limerick.ie
+Corporate Headquarters, Merchants Quay, Limerick w @lLimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -105,7 +108,7 @@ Question submitted by Cmhir. Séighin O Ceallaigh
 | will ask at the next Meeting if it is still intended to have works on the Hyde Road Flats
 completed and to have families living in them by October 2016?
 
-uestion submitted hir. Séighin allai;
+uestion submitted hir. Séighin allai
 
 | will ask at the next Meeting if there will be a plaque or statue of Con Colbert included in
 Colbert Station once works to the station have been completed?
@@ -122,7 +125,9 @@ new advertisement hoardings and public phones in the City Centreand did it take
 into consideration the impact on the usability of the footpaths for those with disabilities?
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -156,7 +161,7 @@ following estates: Rathlinn in Castleconnell, Curragh Birin and Caislean Na hAbh
 1 in Castletroy, and on completion of these works, immediately, start the formal process of
 taking the three estates in charge.
 
-Notice of Motion submitted mhir. Séighin 6 Ceallaigh
+Notice of Motion submitted mhlr. Séighin 6 Ceallaigh
 
 | will move at the next Meeting that the city's traffic wardens, during their operational
 hours, prioritise the city centre area for illegal and dangerous parking on double yellow
@@ -176,7 +181,9 @@ series of outdoor cinema showings in the People's Park over this or next summer,
 been done in Dublin and other areas.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -197,4 +204,6 @@ Rotunda Maternity Hospital will result in better clinical outcomes. It will be c
 faster to build than on the St. James's site.
 
 
----
+
+[[PAGE_END:4]]
+

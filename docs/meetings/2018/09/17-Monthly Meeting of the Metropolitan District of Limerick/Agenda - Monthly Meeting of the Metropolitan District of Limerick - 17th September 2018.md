@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%2017th%20September%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%2017th%20September%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_—_ Comhairle Cathrach Comhairle Cobeaeh agnceeataerige
--~ — 6 Contae Luimnigh Ceanncheathni Chorparaideach,
-” F : . Cé na gCeannaithe.
-—=—=>= Limerick City Gibaneech
+_——_— Comhairle Cathrach Comhairle Cobeaeh agnceeataerige
+-~ —, 6 Contae Luimnigh Ceanncheathni Chorparaideach,
+” : : : Cé na gCeannaithe.
+—=—== Limerick City libereech
 
 & County Council
 Corporate Services,
@@ -71,14 +72,16 @@ To note proposal for the disposal of land as follows:
 25 Lilac Court, Southill, Limerick.
 (c) Disposal of Freehold Interest of premises consisting of a dwelling house situate at
 38 St. Lawrence’s Park, Garryowen, Limerick.
-© customerservices@limerick.ie
-© wwwlimerickie
+©@ customerservices@limerick.ie
+© www limerickie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -102,7 +105,7 @@ of Land in use by them at Sluggary, Dooradoyle, Co. Limerick.
 (Reports Enclosed).
 
 Service Operations Directorate - Planning and Environmental Services
-Taking in Charge of Estates — f Ri © be Public Roads
+Taking in Charge of Estates — f Ri 0 be Public Roads
 
 To consider the taking in charge of the following housing estates in accordance with Section
 180 of the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads
@@ -136,10 +139,12 @@ rt 8 Procedure — Housing Development wer Limerick
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
 Development Act, 2000 (as amended) and Part 8 of the Planning and Development
-Regulations, 2001 (as amended) in relation to Lower Carey’s Road, Limerick.
+Regulations, 2001 (as amended) in relation to Lower Carey's Road, Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -195,11 +200,13 @@ the Bloodmill Road will begin and be completed.
 
 uestion submitt mhir. S. O Ceallaigh
 
-| will ask at the next meeting how many houses are due to be knocked, refurbished, or built
+I will ask at the next meeting how many houses are due to be knocked, refurbished, or built
 in each of Limerick's Regeneration areas in 2018 and 2019.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -254,7 +261,9 @@ parking spaces for motorbikes and mopeds in Limerick City centre and that these 
 monitored to view the viability of their expansion at a later time.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -283,7 +292,6 @@ Strategic Poli: mmi
 
 | will move at the next meeting that Limerick City and County Council consider upgrading the
 waste litter offering in the Metropolitan Area to provide an option for recycling in the Litter
-
 Bins.
 
 Notice of Motion submitted by Councillor M. McCreesh (to be referred to the Home and
@@ -317,11 +325,12 @@ Notice of i ncillor P. Keller
 Minister of Defence expressing our disagreement with the miserably low pay given to
 members of the Defence Force for their overtime work covering the recent visit of the Pope,
 and call for them to be paid similar rates to other forces required to assist in similar events
-
 in the future.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -331,4 +340,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

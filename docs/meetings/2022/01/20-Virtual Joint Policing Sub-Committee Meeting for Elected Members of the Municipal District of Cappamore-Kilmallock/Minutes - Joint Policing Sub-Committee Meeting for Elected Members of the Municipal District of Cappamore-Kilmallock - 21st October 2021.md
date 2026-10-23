@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/02-minutes-of-october-2021-jpc-sub-committee-meeting.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 21st October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/02-minutes-of-october-2021-jpc-sub-committee-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING
@@ -94,7 +95,9 @@ Crime prevention officer and the media regarding safety in the home continues to
 raise awareness of prevention of burglaries. It was noted that a lot of homes still do
 
 not have house alarms.
----
+
+[[PAGE_END:1]]
+
 2
 
 It was noted that there were 140 checkpoints in the Municipal District.
@@ -164,7 +167,9 @@ The Elected Members thanked the Superintendents for their presentations, and wel
 Superintendent Reidy. Superintendent Reidy also acknowledged the work of
 
 Superintendent John Ryan while he was in his position in Bruff.
----
+
+[[PAGE_END:2]]
+
 3
 
 It was noted that at the time of the incident of Anti Social Behaviour in Kilmallock, the CCTV
@@ -232,7 +237,9 @@ A question was raised regarding the availability of Free Legal Aid to repeat off
 those found guilty. Superintendent Reidy confirmed that this was a matter for the courts to
 
 decide.
----
+
+[[PAGE_END:3]]
+
 4
 
 All members thanked the Gardai for all their efforts and work throughout the pandemic to
@@ -254,4 +261,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

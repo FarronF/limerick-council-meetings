@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-metropolitan-district-of-limerick-9th-march-2026.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 9th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-metropolitan-district-of-limerick-9th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE**
@@ -88,7 +89,9 @@ Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan Dis
 Limerick held on 16th February 2026.
 
 Proposed by Councillor O’Hanlon.
----
+
+[[PAGE_END:1]]
+
 Seconded by Councillor Slattery.
 
 And Resolved:
@@ -154,7 +157,9 @@ promotional work undertaken for this year’s festival.
 The Cathaoirleach asked that Members share and promote the festival through their own
 
 social media outlets.
----
+
+[[PAGE_END:2]]
+
 **5.April Meeting**
 
 On the proposal of Councillor Kiely, and seconded by Councillor O’Sullivan, it was agreed to
@@ -228,7 +233,9 @@ report, as circulated, was approved.
 •
 
 ***Old Kilmurry Road***
----
+
+[[PAGE_END:3]]
+
 •
 
 ***Castletroy College Road***
@@ -298,7 +305,9 @@ carried out, to establish if further efficiencies could be found at this junctio
 It was possible to extend the green light for traffic exiting St. Patrick’s Road without
 
 negatively impacting traffic on the R445 Dublin Road.
----
+
+[[PAGE_END:4]]
+
 **11.Questionsubmittedby Councillor E. O’Donovan**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for the total number***
@@ -362,7 +371,9 @@ then.
 ***same potholes**in a given**area are patched before a permanent repair is carried out, in***
 
 ***particular the recurring potholes on the Abbey Bridge.***
----
+
+[[PAGE_END:5]]
+
 **REPLY:** In the case of the pothole referred to on Abbey bridge the recurring nature of the
 
 defect was due to it being on a bridge expansion joint and thereby vulnerable to
@@ -470,7 +481,9 @@ each of these years.
 2024
 
 €441,885.47
----
+
+[[PAGE_END:6]]
+
 2025
 
 €399,372.14
@@ -550,7 +563,9 @@ funding under the Anti-Dumping Initiative—provided by the Department of the
 Environment, Climate and Communications—following the successful pilot of the
 
 service in 2024.
----
+
+[[PAGE_END:7]]
+
 For a nominal fee of €10, householders can avail of a door-to-door Bulky Waste
 
 collection covering a range of items, including furniture, mattresses, and other
@@ -620,7 +635,9 @@ that can be offered as affordable housing once legal issues have been resolved.
 ***to Woodlawn Park given the fact that two new housing schemes have been established in***
 
 ***the area.***
----
+
+[[PAGE_END:8]]
+
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Kiely and
 
 agreed.
@@ -690,7 +707,9 @@ Construction/Maintenance.
 Subject to progress at each stage, it is anticipated that the CBL system will be ready
 
 for rollout in the second half of 2026. Elected members will be fully briefed in
----
+
+[[PAGE_END:9]]
+
 advance of implementation and throughout the planned pilot and later roll out
 
 phases.
@@ -756,7 +775,9 @@ scheme is viable for some units to be made available for affordable purchase. At
 time, the scheme does not meet the eligibility criteria for the Affordable Housing
 
 Fund (AHF) to meet a minimum of 15% affordability gain (i.e., discount).
----
+
+[[PAGE_END:10]]
+
 Further development opportunities are being explored in Patrickswell to deliver
 
 affordable housing, and Elected Members will be updated in due course when an
@@ -826,7 +847,9 @@ service.
 The long-term sustainability and certainty of the CCTV service will require the
 
 securing of sustainable multiannual funding, and Members are advised that
----
+
+[[PAGE_END:11]]
+
 engagement with the Department of Justice is ongoing to seek a commitment in this
 
 regard.
@@ -900,7 +923,9 @@ authorities nationally only in the past year.
 A similar site-specific approach is being taken in other LCCC owned and operated
 
 buildings.
----
+
+[[PAGE_END:12]]
+
 Following discussions, it was agreed to consider implementing communication boards in
 
 Libraries and Council buildings.
@@ -968,7 +993,9 @@ In proposing the Motion, Councillor Reale amended the motion to read as follows:
 *service coming from University of Limerick to Mungret Park and that bus stop markings be*
 
 *added here also.*
----
+
+[[PAGE_END:13]]
+
 The Notice of Motion was proposed by Councillor Reale, seconded by Councillor Hickey
 
 O’Mara and agreed.
@@ -980,4 +1007,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

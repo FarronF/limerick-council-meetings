@@ -16,31 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%207th%20June%202019.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 7th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%207th%20June%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 AN ff ™
 
-a Limerick City
+==> Limerick City
 & County Council
 
 31° May, 2019.
 
 A Chomhairleoir, a chara,
 
-Sewbhisi Corparaideacha,
+Sewbhisi Corpardideacha,
 
-Comhairle Cathwach agus Contae Lamnigh,
-Ceanncheathni Chorparaideach.,
+Comhairle Cathwach agus Contae LAmnigh,
+Ceanncheathni Chorparaideach.
 
 Cé na gCearnaithe,
 
-Laamineach
+Latmneach
 
 Corporate Services,
 
@@ -48,9 +49,9 @@ Limerick Cry and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerntck
 
-EIRCODE V94 EHS0
+EIRCODE V94 EHSO
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -82,15 +83,17 @@ Corporate
 
 Headquarters, Merchants Quay, Limerick
 
-@ Customerservices@limerickie
-@ werstimerickic
+= Customerservices@limerickie
+@ westimerickic
 
 w @LimerickCouncil
 
 © 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -105,7 +108,7 @@ Adare Rathkeale — 11" June, 2019 at 9am
 
 Newcastle West — 12" June, 2019 at 10am
 
-Cappamore Kilmallock — 13” June, 2019 at 3.30pm
+Cappamore Kilmallock — 13™ June, 2019 at 3.30pm
 
 To consider the appointment of Chairs-designate to the following Strategic Policy
 Committees:
@@ -123,7 +126,7 @@ To consider the nomination of 4 Members to the Local Traveller Accommodation
 Consultative Committee.
 
 To consider the nomination of 3 Members to represent the Council on the Association of
-irish Local Government. .
+Irish Local Government. .
 
 To consider the appointment of 3 Members of Limerick City and County Council to the
 
@@ -142,7 +145,9 @@ Trustees.
 To appoint 1 representative to the Library Association of Ireland.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -210,7 +215,9 @@ To consider the nomination of 1 Member to the Limerick Sports Partnership.
 To consider the nomination of 1 Member to Limerick Civic Trust.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 24.
@@ -268,4 +275,6 @@ To agreed date for July Meeting of Limerick City and County Council (suggested d
 July, 2019).
 
 
----
+
+[[PAGE_END:4]]
+

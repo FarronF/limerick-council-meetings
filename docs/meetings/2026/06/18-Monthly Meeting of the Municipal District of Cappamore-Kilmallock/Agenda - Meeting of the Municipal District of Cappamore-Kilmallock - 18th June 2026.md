@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh
-& Contae Luimnigh Otfg an Cheantair, Aras ee a Meroe
-~~ fr a‘, \! ae or
-A“ 3 P Co. Luimnigh.
+& Contae Luimnigh Otfg an Cheantair, Aras ea Macross
+~-_— ir ~\, — ae or
+A“ 2 P Co. Luimnigh.
 — Limerick City
 & County Council Limenck City and County Council,
 Aras Mainchin Seoighe Area Office,
-hiimnallock,
+hHinallock,
 Co. Limerick.
 EIRCODE V35 K497
 
@@ -44,7 +45,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-
 Kilmallock to be held in the Municipal District Office, Aras Mainchin Seoighe,
-Kilmallock, Co. Limerick and On-Line on Thursday, the 18" June, 2026 at 3.00 p.m.
+Kilmallock, Co, Limerick and On-Line on Thursday, the 18" June, 2026 at 3.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -52,7 +53,7 @@ Is mise le meas,
 
 LA
 
-~
+~~
 Mark Leahy,
 
 AGENDA
@@ -64,12 +65,14 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 21* May, 2026.
 (Copy enclosed)
 © customerservices@limerick ie
-Comhairle Cathrach agus Contae Lutmnigh, Oifig an Cheantatr, Ards Mhainchin Seoighe owuainetae
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Ards Mhainchin Seoighe owuahnetae
 
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -107,10 +110,12 @@ Eireann’s responsibility for the railway bridge in Kilmallock and to look at
 providing a new foot bridge.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-otion
+otion:
 
 8. Notice of Motion submitted by Clir Stokes
 
@@ -123,7 +128,7 @@ projects still outstanding from 2025.
 | will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
 designated casual trading license areas be extended to include the town of Kilmallock.
 
-10. Notice of Motion submitted by Cllr Conway
+10. Notice of Motion submitted by Clir Conway
 
 | will move at the next meeting of Cappamore Kilmallock Municipal District that
 Limerick City & County Council provide access to public libraries in areas with Deis
@@ -134,4 +139,6 @@ perhaps up to 9:00pm approx. from 1st June to 15"
 11. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

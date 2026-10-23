@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/220404-agenda_1.pdf)
+**Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 4th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/220404-agenda_1.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community, Leisure and Culture**
@@ -80,4 +81,6 @@ Date of next meeting
 **Community, Leisure and Culture SPC**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

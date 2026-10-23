@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-08/00-agenda-special-meeting-4th-september-2020.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 4th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-08/00-agenda-special-meeting-4th-september-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 en Comhairle Cathrach
 
 & Contae Luimnigh
-———. Limerick City
+————.. Limerick City
 = & County Council
 
 28"" August, 2020
 
 A Chomhairleoir, a chara,
 
-Sewbhisi Corpartiieacha,
+Sewbhisi Corpardiieacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathru Chorpardideach,
+Ceanncheathrui Chorpardideach,
 
 Cé na gCeannaithe,
 
@@ -46,9 +47,9 @@ Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
-EIRCODE V34 EH90
+EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
 : #353 (0) 61415 266
@@ -56,7 +57,7 @@ t: +353 (0) 61 557150
 You are requested to attend a Special Meeting of the Metropolitan District of Limerick to be held
 in the Council Chamber, Dooradoyle, Limerick on Friday, 4" September, 2020 at 9.30 a.m.
 
-The business to be transacted Is set out on the appended Agenda.
+The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
@@ -70,10 +71,12 @@ Pleanala, at Newcastle, Castletroy, Limerick.
 (The application can be viewed online at www.castletroyshd.ie.)
 
 © Customerservices@limerick.ie
-«© weewlimerickie
+«© wvewlimerickie
 
-Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

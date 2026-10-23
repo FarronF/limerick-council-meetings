@@ -30,7 +30,7 @@ Minutes - Meeting of the Travel and Transportation Strategic Policy Committee -
 
 Director's Report - Meeting of the Travel and Transportation Strategic Policy Committee - 15th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/directors-report-trave-and-transportatioin-spc-meeting-15th-dec-2020.pdf) - Text not extracted
 
-Presentation_ School Streets Initiative Proposal - Meeting of the Travel and Transportation Strategic Policy Committee - 15th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/presentation-school-streets-initiative-proposal.pdf) - Text not extracted
+Presentation: School Streets Initiative Proposal - Meeting of the Travel and Transportation Strategic Policy Committee - 15th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/presentation-school-streets-initiative-proposal.pdf) - Text not extracted
 
 Presentation on LIS 2020 - Meeting of the Travel and Transportation Strategic Policy Committee - 15th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/presentation-on-lis-2020-travel-transportation-spc-meeting-15.12.20.pdf) - Text not extracted
 

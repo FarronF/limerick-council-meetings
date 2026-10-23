@@ -16,24 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agena-15th-july-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agena-15th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-_—e_eom & Conte Latranioh Oifig wn Cheantair, Aras —— Seoighe,
+_—_—_ & Contes Lairanioh Oifig wn Cheantair, Aras —— Seoighe,
+—_ Machesisg.
 
-Ts Machesisg.
-
-AEN Limerick City ~~ Co. Luimnigh
-= e
-
-— & County Council Limerick City and County Council
+“ Limerick City Co. Luimnigh
+= & County Council Limerick Cty and County Council
 
 Aras Mainchin Seoighe Area Office,
-Kilmallock,
+Kilrnaliock,
 Co. Limerick,
 
 EIRCODE V35 K497
@@ -43,7 +41,7 @@ f; +353 (0) 63 985 99
 
 9 July, 2021,
 
-A Chombhairleoir, a chara,
+A Chomhairleoir, a chara,
 
 You are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
 Kilmallock to be held on Thursday 15" July at 3.30pm in Deebert House Hotel, Kilmallock.
@@ -63,13 +61,15 @@ Cappamore-Kilmallock held on the 17th June, 2021.
 (ii) To consider the adoption of Minutes of Annual Meeting of the Municipal District
 of Cappamore-Kilmallock held on the 17™ June, 2021.
 
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe www. limerick.ie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe www. limerick.te
 Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 (063 9¢0 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTIONS
@@ -114,8 +114,10 @@ and a car park extension.
 
 8. Question submitted by Councillor Michael Donegan
 
-| will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update on
+i will ask at the next meeting of the Cappamore-Kilmallock Municipal District for an update on
 the planned extension to the parking bay in Glenfield Estate, Kilmallock.
 
 
----
+
+[[PAGE_END:2]]
+

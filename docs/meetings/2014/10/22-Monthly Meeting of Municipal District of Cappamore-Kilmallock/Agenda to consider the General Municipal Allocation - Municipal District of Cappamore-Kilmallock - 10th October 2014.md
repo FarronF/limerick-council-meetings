@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation_cappamore-kilmallock.pdf)
+**Original file:** [Agenda to consider the General Municipal Allocation - Municipal District of Cappamore-Kilmallock - 10th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation_cappamore-kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Pe
+Pa
 peer
 
 Limerick
@@ -67,7 +68,9 @@ expenditure. The starting point for the consideration of the GMA allocations inc
 reviewing the levels of discretionary allocations in 2014 budget.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Section 102 (4A) (c) and (d) provide that it is a reserved function of the members of a
@@ -91,7 +94,9 @@ Tom Gilligan,
 Head of Finance.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 CAPPAMORE KILMALLOCK MUNICIPAL DISTRICT DRAFT BUDGETARY PLAN
@@ -107,10 +112,12 @@ Details of Proposed Expenditure proposed expenditure
 B04 Local Road works 60,000
 DOS Tourism Development 70,000
 FO3 Parks, Pitches, Playgrounds 50,000
-FO4 Community Initiatives 30,000
+F04 Community Initiatives 30,000
 Special Projects 100,000
 
 Relevant Gross Expenditure (B=A)
 
 
----
+
+[[PAGE_END:3]]
+

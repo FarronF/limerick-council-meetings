@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-b-minutes-of-annual-meeting-9th-june-2020.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-b-minutes-of-annual-meeting-9th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -82,7 +83,9 @@ The outgoing Cathaoirleach, Councillor Sheahan paid tribute to all the staff of 
 Office for all their courtesy, help and support during his term as Chairman of the Adare -
 
 Rathkeale District.
----
+
+[[PAGE_END:1]]
+
 2
 
 On taking the Chair, Councillor Teskey thanked his proposer and seconder and said he
@@ -140,4 +143,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

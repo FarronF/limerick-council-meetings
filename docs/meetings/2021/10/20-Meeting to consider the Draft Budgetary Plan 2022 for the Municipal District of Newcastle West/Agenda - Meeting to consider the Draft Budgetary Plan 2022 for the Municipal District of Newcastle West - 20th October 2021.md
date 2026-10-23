@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-20-agenda-draft-budgetary-plan-.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2022 for the Municipal District of Newcastle West - 20th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-20-agenda-draft-budgetary-plan-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_—_ Comhairle Cathrach
 = & Contae Luimnigh
 oN Limerick Cit
 meric
-=> y
+—=— y
 
 & County Council
 
 15" October, 2021
 
 Dutiche Bardais an Chaisiedin Nua Thiar,
-Comhairie Cathrach agus Contae Luimnigh,
+Comhaitrie Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
 Gortbui,
@@ -47,8 +48,6 @@ Aras William Smith O'Brien,
 Gortboy,
 
 Newcastle West,
-
-Co. Limerick
 
 Eircode: V42EH73
 t: +353 (0) 69 62200
@@ -78,8 +77,10 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Attached)
 
-W @limerickCouncil
+W @LimerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

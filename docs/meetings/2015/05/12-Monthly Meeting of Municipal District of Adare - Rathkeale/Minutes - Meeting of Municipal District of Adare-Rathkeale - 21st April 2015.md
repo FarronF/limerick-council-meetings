@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_adare-rathkeale_-_21st_april_2015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Adare-Rathkeale - 21st April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_municipal_district_of_adare-rathkeale_-_21st_april_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -68,7 +69,9 @@ With the permission of the Cathaoirleach it was agreed to take item 5 on the age
 point.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Finance, Motor Tax and ICT
@@ -121,7 +124,9 @@ Councillor Neville welcomed representatives from Friends of the Great Southern T
 The Deputation consisted of Denis McAuliffe and Jim McNamara.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -137,7 +142,7 @@ The Members thanked the delegation for their presentation and commended the work
 had carried out on the trail to date. They indicated their support for the proposed project
 and highlighted the benefits of the off road environment to all who used it.
 
-3 Community, Leisure and Emergency Services
+5 Community, Leisure and Emergency Services
 Local Community Development Committee
 
 The Senior Social Worker circulated and presented to Members an overview of the Local
@@ -162,7 +167,7 @@ download on the Foynes to Limerick Road Improvement Scheme website:
 
 www.foyneslimerick.ie
 
-Te Question submitted by Councillor Tom Neville
+y Question submitted by Councillor Tom Neville
 
 | will ask at the next Meeting for an update on the erection of ‘Children at Play’ signs
 on the Kilmacat Road, Kildimo and the road from Cussons Cross to Normoyles
@@ -172,7 +177,9 @@ REPLY: There is a presumption that ‘Children at Play’ signage on rural roads
 appropriate where the general speed limit applies.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It is the responsibility of a driver to obey a Speed Limit and to ensure that the
@@ -200,7 +207,7 @@ standard it will be advanced for taking in charge.
 
 NOTICES OF MOTION
 
-93. Notice of Motion submitted by Councillor Emmett O'Brien
+3. Notice of Motion submitted by Councillor Emmett O'Brien
 
 ! will move at the next Meeting that Limerick City and County Council install road
 safety signs such as ‘children playing’ or 'slow down’ at Castleroberts, Adare to
@@ -220,7 +227,9 @@ footpath at Drominclara, Pallaskenry. This footpath was previously promised to
 Pallaskenry Community Council and was not constructed.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -237,7 +246,7 @@ programme and the proposed footpath at Drominclara, Pallaskenry will be
 included in this. There is currently no budget available for footpath works but
 projects may be considered under the heading of “Roads” in the GMA.
 
-11. Notice of Motion submitted by Councillor R. O’Donoghue
+11. Notice of Motion submitted by Councillor R. O'Donoghue
 
 | will move at the next Meeting that an application be made to Limerick City and
 County Council to provide funding to assist An Garda Siochana in the installation of
@@ -256,7 +265,7 @@ indicated his support for the Motion.
 
 12. Notices of Motion submitted by Councillor K. Sheahan
 
-/ will move at the next Meeting that a representative from C.I/.E. and the C.E.O. of
+/ will move at the next Meeting that a representative from C./.E. and the C.E.O. of
 Foynes Harbour be invited to attend the next Meeting of the Municipal District of
 Adare-Rathkeale with a view to bringing the Members up to date with the issues
 pertaining to the railway line from Foynes to Limerick.
@@ -274,7 +283,9 @@ May Meeting, which is scheduled for 12" May 2015, be brought forward to 5” May
 Members indicated that they would agree on a date for the Meeting at a later stage.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Correspondence
@@ -299,4 +310,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

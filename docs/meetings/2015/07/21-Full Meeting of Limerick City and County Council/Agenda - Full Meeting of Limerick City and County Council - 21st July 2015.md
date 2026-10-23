@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20July%202015.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 21st July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Setrbnist Corparaiceacha agus Bainistioctt Athruithe.
+Setrdnist Corparaiceacha agus Bainistioctt Athruithe.
 Comhairle Cathrach agus Contae Luimnigh,
 
-APN 6 Ce na gCeannaithe
+AN 6 Ce na gCeannaithe
 
 —= Luimneach
 
 Limerick Corporate Services and Change bianagernert
 inge
 
-CITY & COUNTY Limernck City and — come
+CITY & COUNTY Limerick City and — comes
 
 Quay.
 
-COUNCIL ere! ce =~
+COUNCIL ere! =
 
-t: 4353 (0) 61 407 100
+&: 4353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
 15% July, 2015.
@@ -48,22 +49,22 @@ Council
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held
-in the Council Chamber, Dooradoyle, Limerick, on Tuesday, 21* July, 2015, at
+in the Council Chamber, Dooradoyle, Limerick, on Tuesday, 21% July, 2015, at
 3.00pm. The business to be transacted is set out on the appended Agenda.
 
-, © t q
+? © t q
 Christy O’Connor,
 Meetings Administrator.
 
-errs
+De ee ee ee eres
 
 AGENDA
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) | Ordinary Meeting of the Council held on 25™ May, 2015.
-(b) Annual Meeting of the Council held on 26" June, 2015.
+(a) | Ordinary Meeting of the Council held on 25" May, 2015.
+(b) | Annual Meeting of the Council held on 26" June, 2015.
 
 (Copies Enclosed)
 2. Disposal of Land
@@ -75,7 +76,9 @@ To consider proposal for the disposal of land at:
 (c) Dooradoyle, Co. Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d)
@@ -137,7 +140,9 @@ Group of Limerick 2020.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -189,7 +194,9 @@ transfers to reserves.
 (Report already circulated)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Tourism Sector Su rt Scheme 2015
@@ -197,19 +204,19 @@ To consider the adoption of Tourism Sector Support Scheme 2015.
 
 (Report and copy of Scheme Enclosed)
 
-ve Conferences
+r Conferences
 
 (i) Participation by Members at Conferences
 
 To consider participation by Members at the following Conferences:
 
-(a) | Tourism Towns Seminar “Learn from the Best,” held in Tralee, Co
+(a) Tourism Towns Seminar “Learn from the Best,” held in Tralee, Co
 Kerry, on 11" June, 2015.
 
 (b) Seminar “Local Government & Economic Development” held in
 Edgeworthstown, Co. Longford, on 12"/13" June, 2015.
 
-(c) | Sean Mac Diarmada Summer School “The Relevance of the 1916
+(c) Sean Mac Diarmada Summer School “The Relevance of the 1916
 Proclamation in the Ireland of Today,” held in Kiltyclogher, Co.
 Leitrim, on 12°/13" June, 2015.
 
@@ -223,7 +230,7 @@ Function?” held in Wexford from 26" to 28" June, 2015.
 Perspectives on the 1916 Rising,” held in Gorey, Co. Wexford, from
 26" to 28" June, 2015.
 
-(g) | Teagasc Seminar “Supporting the Future Development of Rural
+(g) Teagasc Seminar “Supporting the Future Development of Rural
 Irish Business,” held in Limerick on 8" July, 2015.
 
 (h) | Seminar “Local Economic & Community Plans,” held in Clonakilty,
@@ -237,10 +244,12 @@ Ballaghaderreen, Co. Roscommon, on 16" July, 2015.
 Donegal, from 19" to 24” July, 2015.
 
 (k) | Seminar “Planning and Building Regulations,” to be held in Galway
-on 27"/28" July, 2015.
+on 27/28" July, 2015.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (I) Seminar “Changes to Community Development,” to be held in
@@ -259,9 +268,9 @@ Maynooth, Co. Kildare, on 10" September 2015.
 (p) 14” Benedict Kiely Weekend "A Raid into Dark Corners,” to be held
 in Omagh, Co. Tyrone, from 11" to 13” September, 2015.
 
-(q) La Touche Legacy Seminar “2"° Festival of History: Reflections on
+(q) La Touche Legacy Seminar "2"? Festival of History: Reflections on
 Great War and Easter Rising 1916,” to be held in Greystones, Co.
-Wicklow, from 25" to 27" September, 2015.
+Wicklow, from 25" to 27” September, 2015.
 
 (Details already circulated electronically)
 
@@ -288,7 +297,9 @@ Question submitted by Councillor T. Neville
 vacant with specific numbers given on each electoral area.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -321,7 +332,7 @@ so, what the procedure is.
 | will ask at the next meeting, following the signing of the lease with Cadence
 Enviropower Limited for a gasification plant at Gortadroma, will the planning
 process be a direct application to Limerick City and County Council, a direct
-application to An Bord Pleandla or a Part V111 application by the Council.
+application to An Bord Pleandala or a Part V111 application by the Council.
 
 NOTICES OF MOTION
 
@@ -343,7 +354,9 @@ develops, promotes or assists in the development of local Limerick food and
 beverages brands.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -405,7 +418,9 @@ also include the Ballyhoura area in the "Ireland's Ancient East" tourism
 promotion commencing in 2016.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 22.
@@ -424,4 +439,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:8]]
+

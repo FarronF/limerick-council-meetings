@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20December%202015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 17th December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,**
@@ -86,7 +87,9 @@ The Acting Head of Finance/Human Resources/Corporate/ICT, (Mr. S. Coughlan) join
 Meeting at that stage. Members welcomed Mr. Coughlan as Director of the Municipal District
 
 adding that they were looking forward to working with him.
----
+
+[[PAGE_END:1]]
+
 2
 
 **QUESTIONS**
@@ -174,7 +177,9 @@ location and will look at improving the drainage of this area.
 Limerick City and County Council will repair the mouth of this entrance damaged
 
 by passing water.
----
+
+[[PAGE_END:2]]
+
 3
 
 **NOTICES OF MOTION**
@@ -246,7 +251,9 @@ bereavements:
  Mrs. Eileen Crean, on the death of their husband, Liam Finn, Jamestown, Kilmallock.
 
  The O’Malley family on the death of Nodie O’Malley, Dromalty, Cappamore.
----
+
+[[PAGE_END:3]]
+
 4
 
 It was agreed that Councillor Sheehy would discuss the allocation of €10,000 to Limerick Youth
@@ -266,4 +273,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-12-02%20Agenda%20December_0.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 2nd December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-12-02%20Agenda%20December_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7 ——_ Comhairle Cathrach
+_ ——_ Comhairle Cathrach
 & Contae Luimnigh
-Ane —<—@—
-— Limerick City
+Ane
+—> Limerick City
 & County Council
 
 25" November 2022
@@ -33,11 +34,11 @@ Duiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathvach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
-Gortbul,
+Gortbuil,
 
 An Caisledan Nua Thiar,
 
-Co, Luimnigh.
+Co, Luimnigh
 
 Newcastle West Municipal District.
 Limerick City and County Council,
@@ -59,7 +60,7 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Friday, 2" December, 2022,
 at3 p.m. The business to be transacted is set out on the appended Agenda.
 
-oe
+o> ae
 
 Martin Curran,
 Meetings Administrator.
@@ -70,7 +71,7 @@ AGENDA
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
 
-2" November, 2022.
+2 November, 2022.
 
 (b) To adopt Minutes of Special Meeting of the Municipal District of Newcastle West
 
@@ -88,7 +89,9 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -104,12 +107,9 @@ which will provide a safe connection from the existing Bishops Court to the Newc
 West Town Centre to the Greenway Hub.
 
 (Report Enclosed)
-Trans onan ility Directorate
-
+Trans on an ility Directorate
 To receive Update on Maintenance of River Feale, Abbeyfeale.
-
 Planning, Environment and Place-Making Directorate
-
 To receive Update on the Abbeyfeale Traffic Management Plan.
 
 Community, Tourism and Culture Directorate
@@ -124,7 +124,7 @@ QUESTIONS
 
 Questions submitted by Councillor L. Galvin
 
-! will ask at the next Meeting that this Council calls on the ESB to upgrade the
+I will ask at the next Meeting that this Council calls on the ESB to upgrade the
 electricity supply at Clash, Athea.
 
 | will ask at the next Meeting for an update and that this Council works with the
@@ -137,11 +137,13 @@ for Templeglantine village.
 
 Questions submitted by Councillor T. Ruddle
 
-| will ask at the next Meeting that the slabs in The Square, Newcastle West be re-laid
+I will ask at the next Meeting that the slabs in The Square, Newcastle West be re-laid
 where they are uneven.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -168,7 +170,7 @@ Questions submitted by Councillor J. Scanian
 I will ask at the next Meeting for the up to date position regarding the provision of a
 Dog Park in Newcastle West.
 
-I will ask at the next Meeting when and where allotments are likely to be made
+1 will ask at the next Meeting when and where allotments are likely to be made
 available in Newcastle West.
 
 | will ask at the next Meeting as to what progress has been made in terms of the
@@ -185,7 +187,7 @@ of residents safety.
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor L. Galvin
 
-| will move at the next Meeting that Limerick City and County Council cut the trees at
+I will move at the next Meeting that Limerick City and County Council cut the trees at
 the Water Treatment Plant in Abbeyfeale.
 
 I will move at the next Meeting that Limerick City and County Council calls on the
@@ -202,11 +204,13 @@ road that damages the vehicles of road users.
 
 Notices of Motion submitted by J. Scanlan
 
-| will move at the next Meeting that a footpath extension is provided on the Eastern
+I will move at the next Meeting that a footpath extension is provided on the Eastern
 side of Castletown Village.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -218,7 +222,7 @@ Gortroe Cross, Castletown.
 
 Notice of Motion submitted by Councillor M. Collins
 
-| will move at the next Municipal District Meeting that Transport Infrastructure
+I will move at the next Municipal District Meeting that Transport Infrastructure
 Ireland carry out a comprehensive safety audit at Cregan's Cross, the junction
 
 on the N21 for Knockaderry with a view to improving safety here. This is a dangerous
@@ -227,4 +231,6 @@ junction that has claimed lives and continues to have serious accidents there on
 regular basis.
 
 
----
+
+[[PAGE_END:4]]
+

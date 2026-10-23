@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2014th%20June%202019.pdf)
+**Original file:** [Minutes  - Annual Meeting of Metropolitan District of Limerick -  14th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2014th%20June%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 14TH** **JUNE, 2019 AT**
@@ -88,7 +89,9 @@ Councillors Butler, Collins, Kiely, McSweeney, Murphy, O’Dea, O’Hanlon, O’
 Slattery and Talukder
 
 (11)
----
+
+[[PAGE_END:1]]
+
 2
 
 **For Councillor Secas**
@@ -158,7 +161,9 @@ The Mayor declared Councillor O’Hanlon elected as Leas Cathaoirleach of the Me
 of Limerick.
 
 Cllr O’Hanlon thanked the Members for nominating him and he looked forward to the year ahead.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Costelloe proposed that a Special Meeting of Limerick City and County Council be held in
@@ -234,7 +239,9 @@ of the public are observed at all times. He indicated that there is a health and
 about the roadway outside the facility and pointed out that this facility would not be closing if there
 
 was any other choice.
----
+
+[[PAGE_END:3]]
+
 4
 
 He pointed out that a number of alternative sites were examined and a proposal on Childers Road
@@ -252,4 +259,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

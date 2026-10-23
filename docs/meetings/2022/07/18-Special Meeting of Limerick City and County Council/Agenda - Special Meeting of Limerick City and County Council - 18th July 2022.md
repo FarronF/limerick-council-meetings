@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Special-Meeting-Limerick-City-and-County-Council-18-07-2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Special-Meeting-Limerick-City-and-County-Council-18-07-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach : Se&bhisi Corparaideacha,
-& Contae Luimnigh Cormaine Cathvach agus Contae Luimnigh,
+Comhairle Cathrach . Seebhisi Corparaideacha,
+& Contae Luimnigh Cormyaine Cathvach agus Contae Luimnigh,
 
 Cearmcheathna Chorparaideach,
-AN 4 “ = Co Cé na gCeannaithe,
+ACN 4 * , Co Cé na gCeannaithe,
 — Limerick City ; Luimneach
 
 & County Council
@@ -62,10 +63,12 @@ Meetings Administrator.
 
 @ Customerservices@limerickic
 
-© Wen limericicie
+© Wee limericicie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

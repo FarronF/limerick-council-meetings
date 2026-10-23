@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%2013th%20February%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%2013th%20February%202018.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -86,7 +87,9 @@ The Senior Executive Officer, Design and Delivery Services, informed members tha
 finance package was being developed. He also informed them that the works would be
 
 carried out on a phased basis, starting with the Old Limerick Road section. As the new
----
+
+[[PAGE_END:1]]
+
 2
 
 secondary school in Croom will be opening in the near future this will advance the
@@ -158,7 +161,9 @@ Scheme and Local Improvement Scheme and Other Capital Works. The Executive
 Engineer also gave a presentation in relation to Housing Maintenance, Unfinished
 
 Housing Estates and Disabled Person and Private House Grants.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members thanked the roads staff for their ongoing works to maintain the condition of
@@ -230,7 +235,9 @@ the flooding issues in Askeaton. Members noted the report also adding that the
 flooding issues needs to be address as houses continue to be flooded each month due to
 
 weather conditions.
----
+
+[[PAGE_END:3]]
+
 4
 
 **9.**
@@ -302,7 +309,9 @@ My Limerick platform as it shows areas which need more funding.
 **update from the Mid-West Design Team in Relation to the Adare bypass and the**
 
 **proposed roundabout at the Lantern Lodge.**
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY:**
@@ -376,7 +385,9 @@ This question was moved to the next meeting.
 This question was moved to the next meeting.
 
 **NOTICES OF MOTION**
----
+
+[[PAGE_END:5]]
+
 6
 
 **17.**
@@ -458,7 +469,9 @@ proposed to consider looking at the possibility of designing the uniform
 Scheme referred to above in the current year. Members will, of course,
 
 be consulted in relation to same.
----
+
+[[PAGE_END:6]]
+
 7
 
 **18.**
@@ -534,7 +547,9 @@ could do the works if a scheme was made available.
 **Correspondence**
 
 Correspondence, as circulated, was noted.
----
+
+[[PAGE_END:7]]
+
 8
 
 Members expressed their disappointment in the response from the Environmental
@@ -592,4 +607,6 @@ Signed :
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

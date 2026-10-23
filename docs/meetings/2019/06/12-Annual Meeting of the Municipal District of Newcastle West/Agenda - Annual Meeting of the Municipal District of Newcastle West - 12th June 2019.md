@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%202019-06-12%20Agenda.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 12th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%202019-06-12%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-___ Comhairle Cathrach
+_ Comhairle Cathrach
 & Contae Luimnigh
-AN “.
+AN ~.
 
-eS Limerick City
+a Limerick City
 & County Council
 
 7 june, 2019
@@ -40,7 +41,7 @@ Gortbut
 
 An Caisiean Nua Thiar,
 
-Co. Luimnigh
+Co. Uuimnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council.
@@ -51,7 +52,7 @@ Newcastie West,
 
 Co. Limerick.
 
-Eircode: V42EH73
+Bircode: V42EH73
 
 & +353 (0) 69 62100
 
@@ -60,9 +61,9 @@ to be held at Aras William Smith OBrien, Newcastle West, Co. Limerick on
 
 appended Agenda.
 
-‘Cl. le meas, "+ oto
+“Cl. le meas, "+ Ctoet
 
-Margare —
+Margare’ —_
 Meetings Administrator.
 
 The business to be transacted is set out on the
@@ -79,4 +80,6 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

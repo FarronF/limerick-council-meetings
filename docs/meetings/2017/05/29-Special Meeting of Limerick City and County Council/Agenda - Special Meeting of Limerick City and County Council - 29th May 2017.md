@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20Special%20Meeting%20290517.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20Special%20Meeting%20290517.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 arcs Ua ‘
-—
+—=—
 COMHAIRLE
 CATHRACH & CONTAE
 
@@ -70,7 +71,7 @@ that day.
 
 Is mise le meas,
 
-Chee © G—
+Chae © G—
 Christy O’Connor,
 Meetings Administrator.
 
@@ -79,7 +80,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 @ customerservices@limerick.ic
 
-( 061 - 496200
+(061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+

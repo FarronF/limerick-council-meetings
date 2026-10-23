@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%202019-07-03%20Minutes%20July.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%202019-07-03%20Minutes%20July.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -178,7 +181,9 @@ Circulated, report of Senior Engineer, Mid West National Road Design Office, dat
 21st June 2019, concerning proposal to dispose of 0.053 Ha. land at Garryduff,
 
 Newcastle West, Co. Limerick, to Hannah and Nora Collins.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members noted the proposal.
@@ -254,7 +259,9 @@ Circulated, report of the A/Senior Planner, Planning and Environmental Services,
 June, 2019.
 
 Proposed by Councillor Galvin, seconded by Councillor Foley and resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, Estates:
@@ -334,7 +341,9 @@ on the installation of traffic calming measures at the location near Glin Pier.
 The Senior Executive Engineer agreed to attend the September meeting of the District in
 
 order to finalise the above.
----
+
+[[PAGE_END:4]]
+
 5
 
 6.
@@ -404,7 +413,9 @@ Question submitted by Councillor J. Scanlan
 REPLY:
 
 Footpath renewal works will be carried out at the above location during 2019.
----
+
+[[PAGE_END:5]]
+
 6
 
 9.
@@ -490,7 +501,9 @@ Notice of Motion submitted by Councillor J. Scanlan
 ***I will move at the next Meeting that double yellow lining be renewed on either side of the***
 
 ***R544 approach road to Kilcolman Drive, Gortboy, Newcastle West.***
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -566,7 +579,9 @@ available to install new public lighting schemes.
 ***completion of documentation by undertakers prior to the opening of a grave for burial with***
 
 ***the Elected Representatives and undertakers before this new procedure is enforced.***
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Galvin stated that it may prove difficult in some instances
@@ -642,7 +657,9 @@ The delegation from Cryleview Residents who attended the May meeting of the Dist
 also raised and it was noted that the group needed to be updated on the matters they raised
 
 at the meeting. A brief discussion took place on the ongoing proposals for the estate and it
----
+
+[[PAGE_END:8]]
+
 9
 
 was noted that an onsite meeting had also taken place with representatives of the estate. It
@@ -700,4 +717,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

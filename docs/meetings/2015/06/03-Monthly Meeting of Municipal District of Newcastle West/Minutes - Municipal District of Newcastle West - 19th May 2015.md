@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/04_draft_minutes_of_special_meeting_19th_may.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 19th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/04_draft_minutes_of_special_meeting_19th_may.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -64,7 +65,9 @@ Meeting held on the 31st March, 2008, the Council gave its approval to the raisi
 a loan of 2.37m from the Housing Finance Agency.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Director further stated that Cluid entered into a Building Agreement with
@@ -90,7 +93,7 @@ The Director stated that approval to increase the original loan amount to €3.1
 include loan charges already paid by the Council, in the sum of €482,205, would be
 sought at Meeting of Full Council in May 2015.
 
-The proposed start date of 1 June, 2015, would mean a finish date at end of
+The proposed start date of 1% June, 2015, would mean a finish date at end of
 February, 2016. She advised that houses should be allocated by March 2016. The
 Director confirmed that the Council had 100% nomination rights to the 12 units.
 
@@ -118,7 +121,9 @@ items were included on the Agenda relating to their work area. The Operations
 Manager confirmed that staff would be available on the day, if required.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agreed
@@ -131,4 +136,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-agenda-monthy-meeting-cappamore-kilmallock.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-agenda-monthy-meeting-cappamore-kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Comhairle Cathrach
 
 & Contae Luimnigh
 
-Aco 7
+Ac 7
 — Limerick City
 
 & County Council
@@ -33,14 +34,14 @@ Aco 7
 A Chomhairleoir, a chara,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Olfig an Cheantai, Aras Mhainchin Seoighe,
+Olfig an Cheantair, Aras Mhainchin Seoighe,
 Cill Mochealég,
 
 Co. Usimnigh.
 
 Lirnerick City and County Council,
 Aras Mainchin Seoighe Area Office,
-Kilnaliock,
+Kimaliock,
 
 Co. Limerick.
 
@@ -53,13 +54,13 @@ f; +353 (0) 63.985 99
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 
-held on Thursday 16 July at 3.15pm in the Pastoral Centre,
+held on Thursday 16" July at 3.15pm in the Pastoral Centre,
 Limerick.
 
 The business to be transacted Is set out on the appended Agenda.
 Is mise le meas,
 
-Wadey
+Wiadey
 
 Meetings Administrator.
 
@@ -72,7 +73,7 @@ Sheare’s St, Kilmallock, Co.
 Cappamore-Kilmallock held on the 23” June, 2020.
 
 (ii) To consider the adoption of Minutes of Annual Meeting of the Municipal District
-of Cappamore-Kilmallock held on the 23"¢ June, 2020.
+of Cappamore-Kilmallock held on the 23"? June, 2020.
 
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
@@ -83,7 +84,9 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Physical Development Directorate
@@ -124,7 +127,9 @@ cameras throughout the Municipal District for areas that were not included in th
 phase of the CCTV installation programme.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -167,4 +172,6 @@ water pipes have been laid and a new borewell was provided by the appointed oper
 which | was reliably informed had adequate supply.
 
 
----
+
+[[PAGE_END:3]]
+

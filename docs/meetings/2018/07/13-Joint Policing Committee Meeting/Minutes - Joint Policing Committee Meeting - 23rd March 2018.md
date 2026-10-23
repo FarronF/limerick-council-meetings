@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Minutes%20of%20JPC%20Meeting%20held%2023rd%20March%202018%20%281%29.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 23rd March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Minutes%20of%20JPC%20Meeting%20held%2023rd%20March%202018%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
 
 COMMITTEE HELD IN EXHIBITION ROOM, MERCHANT’S QUAY, ON FRIDAY,
@@ -88,7 +89,9 @@ wished him well in his new role. The Chair congratulated Mr. Christy O’Connor,
 Executive Officer, on his promotion to the position of Director of Service, Kerry County
 
 Council.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -156,7 +159,9 @@ Programme for 2018 and outlined the following:-
  Joint Policing Committee Strategy 2017 – 2021
 
  Joint Policing Committee Annual Work Plans
----
+
+[[PAGE_END:2]]
+
 3
 
 He stated that the four Strategic Themes identified in JPC Plan 2017-2021 were as
@@ -232,7 +237,9 @@ not been appointed. The Members felt Bruff Garda Station was under policed and a
 a result, burglary crime was rising. The Chief Superintendent stated that it was
 
 under the Commissioners remit to appointed staff.
----
+
+[[PAGE_END:3]]
+
 4
 
 Ms. Aoife Garrard, Community Co-Ordinator gave a Powerpoint presentation on her new
@@ -282,4 +289,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

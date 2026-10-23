@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%202017-06-28%20Agenda%20Annual%20Meeting%202017.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 28th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%202017-06-28%20Agenda%20Annual%20Meeting%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _ a Seirbhisi Corparéideacha,
 Comhairie Cathrach agus Contae Luimnigh.
 
-we is Ceanncheathwul Chorpardideach,
+we is Ceanncheathwul Chorparéideach,
 =-_ Cé na gCeannaithe.
 COMHAIRLE Samneach
 CATHRACH & CONTAE
 . . Corporate Services,
 Luimnigh Limerick City and County Council
 . A Mi
-Limerick ag mon
+Limerick ag me yon
 CITY & COUNTY Limerick
 COUNCIL
 EIRCODE V94 EH90
@@ -53,18 +54,20 @@ oO
 Tina Knox,
 Meetings Administrator.
 
-en ee
+eee nee eee ren een ewe rene ne meee nen n ern e nner enn n en enn n nnn mann wena ene een ene enn ene n nnn e nnn ne en nese sees ee eeeeee seen eae
 
 AGENDA
 
-1. ‘To elect a Cathaoirleach of the Municipal District of Newcastle West to hold office until the next
+1. To elect a Cathaoirleach of the Municipal District of Newcastle West to hold office until the next
 Annual Meeting or until a successor has been elected.
 
 2. To elect a Leas-Chathaoirleach of the Municipal District of Newcastle West to hold office until the
 next Annual Meeting or until a successor has been elected.
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Lutmneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
+Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+

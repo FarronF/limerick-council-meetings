@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Agenda%20-%20%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20April%202023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 5th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Agenda%20-%20%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20April%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 j Seirbhisi Corpartikicactu,
 a Comhairle Cathrach Comhairle Cathrach agus Corina Luimnigh,
-& Contae Luimnigh Ceanncheathné Chorparaideach,
-NON fF . Cé na gCeannaithe,
-= Limerick City Lusmneach
+& Contae Luimnigh Ceanncheathni Chorparaideach,
+NC" fF . Cé na gCeannaithe,
+= Limerick City Luimneach
 —= & County Council
 Corporate Services,
 Limerick City and County Council.
@@ -35,10 +36,10 @@ Limerick
 
 EIRCODE V94 EH90
 t; +383 (0) 61 $$7150
-f; #353 (0) 61 415 266
+f; #353 (0) 61 418 266
 31% March, 2023.
 
-To: The Mayor and Each Member of Limerick City and County Council
+To; The Mayor and Each Member of Limerick City and County Council
 
 A Chomhairleoir, a chara,
 
@@ -51,17 +52,19 @@ build in the rural countryside without the current constraints.
 
 Is mise le meas,
 
-ty odin Bley
+iy pdr Bley
 
-ra cl
+ra a s
 Meetings Administrator.
 
 @ Customerservices@limerick.ie
 
 © Weevelimerick.ie
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick 061 - 5571580
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

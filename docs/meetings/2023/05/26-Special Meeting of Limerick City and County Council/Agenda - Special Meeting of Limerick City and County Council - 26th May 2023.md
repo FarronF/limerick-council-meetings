@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-26th-May-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-26th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
-——-l & Contae Luimnigh.
+_ —_l & Contae Luimnigh.
 Ac -
-— Limerick City
+—. Limerick City
 & County Council
 
-23'4 May, 2023.
+23"4 May, 2023.
 
-SeirbDhisi Corparaideacha,
+Seirbhisi Corparaideacha,
 
-Comnairie Cathvach agus Contue Luimnigh,
+Cominairie Cathwach agus Contue Luimnigh,
 Ceannchesthra Chorpardidesch,
 
 Cé na gCeannaithe
@@ -64,13 +65,15 @@ Creighton, RIP.
 
 Is mise le meas,
 
-Ze
+Za
 
 Laura Fla
 Meetings Administrator.
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Lulmneach
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Lulmneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

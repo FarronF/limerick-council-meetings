@@ -1,7 +1,13 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 06 - June
 
 * [07 A Special Meeting Of The Metropolitan District Of Limerick, To Pass A Vote Of Sympathy On The Death Of Former Councillor, Seamus Houlihan Rip](07-A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP/README.md)
 * [11 Meeting Of The Economic Development, Enterprise And Planning Spc](11-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
+* [11 Meeting Of Travel & Transportation Strategic Policy Committee](11-Meeting of Travel & Transportation Strategic Policy Committee/README.md)
+* [13 Meeting Of The Municipal District Of Newcastle West Joint Policing Sub Committee](13-Meeting of the Municipal District of Newcastle West Joint Policing Sub Committee/README.md)
 * [13 Special Meeting Of Limerick City And County Council](13-Special Meeting of Limerick City and County Council/README.md)
 * [15 Monthly Meeting Of The Municipal District Of Newcastle West](15-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [18 Meeting Of The Community Leisure & Emergency Services Spc](18-Meeting of the Community Leisure & Emergency Services SPC/README.md)

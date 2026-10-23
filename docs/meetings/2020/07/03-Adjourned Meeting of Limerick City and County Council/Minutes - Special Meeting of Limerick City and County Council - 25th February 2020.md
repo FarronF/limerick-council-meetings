@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-c-minutes-special-meeting-25.02.2020.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 25th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-c-minutes-special-meeting-25.02.2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -84,7 +85,9 @@ Government Act, 2001, as amended, a copy of which had been circulated to Members
 also confirmed that all the required documentation in relation to the co-option had been
 
 received and was in order.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Hartigan;
@@ -146,7 +149,9 @@ thanked Councillor Hartigan for proposing her co-option and Councillor Kiely for
 the nomination. Councillor Novak thanked her family for their support and looked forward
 
 to working with the Elected Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor O’Donoghue then addressed the Meeting and thanked the Mayor for the
@@ -212,7 +217,9 @@ Filling of Vacancies on Other Bodies
 Circulated, report of the Meetings Administrator dated 18th February, 2020, in relation
 
 to the filling of vacancies on other Bodies.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Meetings Administrator stated that vacancies were required to be filled on a
@@ -288,4 +295,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

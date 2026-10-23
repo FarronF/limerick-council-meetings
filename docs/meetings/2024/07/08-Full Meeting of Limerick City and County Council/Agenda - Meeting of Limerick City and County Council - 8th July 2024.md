@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-limerick-city-and-county-council-08.07.2024.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 8th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-limerick-city-and-county-council-08.07.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach Seirbnisi Corparéideacha,
-. Comhairle Cathrach agus Contae Luimnigh,
-= Sr. & Contae Luimnigh Ceannchestnns Chorparaideach,
+__——_ Comhairle Cathrach Seirbhisi Corpardideacha,
+7 Comhairle Cathwach agus Contae Luimnigh,
+= ym & Contae Luimnigh Ceannchesthnn Chormparaideach,
 
-Fs Cé na gCeannaithe
+F Cé na gCeannaithe
 
 Limerick City Luimneach
 = & County Council
@@ -38,7 +39,7 @@ Corporate Headquarters,
 
 Merchants Quay,
 
-Lirmerick
+Limerick
 
 EIRCODE V94 EHS
 
@@ -66,7 +67,7 @@ To adopt Minutes of the following Meetings:
 (a) Ordinary Meeting of the Council held on 27" May, 2024.
 (b) Annual Meeting of the Council held on 21* June, 2024.
 
-2. ‘Declaration of Interest
+2. Declaration of Interest
 
 3. Disposal of Land
 
@@ -76,14 +77,16 @@ Planning and Development Act, 2000 (as amended), at 9, Boherbue, Rathkeale, Co.
 
 Limerick.
 (Statutory Notice dated 20" May, 2024, already circulated)
-= customerservicesa@limerick.ie
+= customerservices@limerick.ie
 © wwwilimerickie
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Support Services
@@ -138,7 +141,9 @@ Partnership - Members representing Limerick City West and Limerick
 City North having been appointed at the Annual Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (g)
@@ -180,7 +185,7 @@ To consider reports as follows:
 
 (ii)
 
-{iii)
+(iii)
 
 (iv)
 
@@ -206,7 +211,9 @@ Committee.
 Note: No meeting held since last Chairperson’s report.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -226,8 +233,6 @@ To consider the adoption of the Traffic Calming Policy 2024
 
 (Report and copy of Policy Enclosed)
 
-Conferences
-
 Reports on Conference / Seminar / Meeting / Event
 
 To note reports by Members who have participated at Conference / Seminar /
@@ -238,7 +243,7 @@ UESTIONS
 
 Question submitted by Councillor E. O'Donovan
 
-I will ask at the next Meeting of Limerick City and County Council for a detailed
+| will ask at the next Meeting of Limerick City and County Council for a detailed
 breakdown of expenditure for Riverfest 2024.
 
 Question submitted by Councillor E. O’Donovan
@@ -248,13 +253,15 @@ enforce developers to open créches in new residential developments when people 
 now living in estates but childcare facilities have not opened.
 
 Question submitted by Councillor S, Beasley
-I will ask at the next Meeting of Limerick City and County Council how many Council
+| will ask at the next Meeting of Limerick City and County Council how many Council
 
 houses are vacant at the moment and further, have been empty for each of the last 5
 years.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -292,8 +299,6 @@ In relation to the Nighttime Economy Survey, | will ask at the next Meeting is t
 survey the only research that Limerick City and County Council will carry out in relation
 to the city centre in terms of economy and quality of life.
 
-Question submitted by Councillor S. Hickey-O’Mara
-
 | will ask at the next Meeting of Limerick Council for an update on the use of chemical
 pesticides by Council staff and Council contractors.
 
@@ -311,7 +316,9 @@ Notice of Motion submitted by Councillor C, Slattery
 and ask that the law be changed for victims of violent assault.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -320,7 +327,7 @@ and ask that the law be changed for victims of violent assault.
 
 24.
 
-Notice of Motion submitted by Councillor E. O'Donovan
+Notice of Motion submitted by Councillor E. O’Donovan
 
 I will move at the next Meeting that this Council allow for live streaming of all Council
 Meetings deemed open to the public.
@@ -364,7 +371,9 @@ Darragh O’Brien to express dissatisfaction with his approval of plans to abstr
 from the River Shannon to supply Dublin and other counties.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 by Councillor E. Secas
@@ -387,4 +396,6 @@ the people impacted about progress and a plan to sort this out.
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

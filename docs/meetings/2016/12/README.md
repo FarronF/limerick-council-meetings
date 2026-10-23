@@ -1,5 +1,10 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2016 — 12 - December
 
+* [05 Meeting Of The Economic Development, Enterprise And Planning Spc](05-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
 * [05 Travel And Transportation Strategic Policy Committee Meeting](05-Travel and Transportation Strategic Policy Committee Meeting/README.md)
 * [07 Meeting Of Municipal District Of Newcastle West](07-Meeting of Municipal District of Newcastle West/README.md)
 * [12 Environment Strategic Policy Committee Meeting](12-Environment Strategic Policy Committee Meeting/README.md)

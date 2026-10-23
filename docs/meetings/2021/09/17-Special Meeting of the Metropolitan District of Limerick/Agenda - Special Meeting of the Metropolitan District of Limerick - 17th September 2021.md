@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-special-meeting-of-metropolitan-district-of-limerick-17.09.2021-deferred-from-15.09.2021.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 17th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-special-meeting-of-metropolitan-district-of-limerick-17.09.2021-deferred-from-15.09.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairie Cathrach
+ae Comhairie Cathrach
 ; & Contae Luimnigh
-aAar™ —_ ee
+ars ”™ SSS
 
 Limerick City
-— & County Council
+= & County Council
 
 14" September, 2021.
 
@@ -47,9 +48,9 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V34 EHS90
+EIRCODE V34 EHS0
 
-t: +353 (0) 61 557150
+t: +353 (0) 61 5571580
 f: #353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Metropolitan District of Limerick
@@ -64,19 +65,21 @@ discuss the item as set out in the attached Requisition (deferred from Wednesday
 September, 2021)
 Is mise le meas,
 
-Wechs
+\W\ache
 
 Mark Leahy,
-Meetings Admifistrator.
+Meetings Admihistrator.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-© weerwlimerick.ie
+@ vewrwlimerick.ie
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On 7 Sep 2021 1:25 PM, "Kiely, Sarah" <sarah.kiely@limerick.ie> wrote:
@@ -101,4 +104,6 @@ Cllr Olivia O’Sullivan
 Cllr Mike Murphy
 
 
----
+
+[[PAGE_END:2]]
+

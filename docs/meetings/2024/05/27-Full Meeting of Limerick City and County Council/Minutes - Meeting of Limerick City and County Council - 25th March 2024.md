@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-minutes-meeting-of-limerick-city-and-county-council-25th-march-2024.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 25th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-minutes-meeting-of-limerick-city-and-county-council-25th-march-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -86,7 +87,9 @@ Galvin, seconded by Councillor Collins (M), to write to the Department of Transp
 emergency funding to help support the funding of repair works to roads in the local authority
 
 area which are affected by recent bad weather.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -166,7 +169,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -246,7 +251,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -330,7 +337,9 @@ And Resolved:
 the approval of the Council be and is hereby given to the disposal of land comprising 1.108 ha
 
 (2.738 acres) at Rosbrien, Limerick, to the Health Service Executive, for the sum of €1, with
----
+
+[[PAGE_END:4]]
+
 5
 
 Limerick City and County Council to retain right-of-way/wayleave access over entirety of the
@@ -414,7 +423,9 @@ of land at Baunacloka, Mungret, Limerick, to Mungret Properties Limited, for the
 agrees to discharge Limerick City and County Council’s legal costs, particulars of which were
 
 contained in Statutory Notice dated 12th March, 2024.”
----
+
+[[PAGE_END:5]]
+
 6
 
 (m)
@@ -490,7 +501,9 @@ Arianne Van Den Heuvel, for the sum of €90,000, subject to the covenants and c
 contained within the Lease, particulars of which were contained in Statutory Notice dated 12th
 
 March, 2024.”
----
+
+[[PAGE_END:6]]
+
 7
 
 **Derelict Disposals**
@@ -568,7 +581,9 @@ the Council’s approval to application for sanction from the Minister for Housi
 Government and Heritage for a loan in the amount of €5,590,000 to fund the drawdown of
 
 Local Authority Home Loans.
----
+
+[[PAGE_END:7]]
+
 8
 
 Proposed by Councillor Collins (M);
@@ -644,7 +659,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Egan;
 
 And Resolved:
----
+
+[[PAGE_END:8]]
+
 9
 
 1. “That this Council recognises the significant contribution that farming, and the Agri-
@@ -724,7 +741,9 @@ the Shannon Estuary programme. Members agreed the importance of engagement also 
 Clare County Council and Kerry County Council on this, and the Chief Executive agreed to
 
 discuss this with his counterparts in those local authorities so as to ensure a joint approach.
----
+
+[[PAGE_END:9]]
+
 10
 
 (c)
@@ -794,7 +813,9 @@ Martina Brennan, representing the Community/Voluntary Sector, to the Home and So
 Development Strategic Policy Committee to fill vacancy consequent on the resignation of
 
 Tracy McElligott.”
----
+
+[[PAGE_END:10]]
+
 11
 
 (e)
@@ -868,7 +889,9 @@ The Chairperson’s report was noted by the Council
 ***“**That, the Draft Traffic Calming Policy 2024 be presented to the Full Council Meeting***
 
 ***on 25th March, 2024, for adoption.**“***
----
+
+[[PAGE_END:11]]
+
 12
 
 Following discussion, it was agreed that a Workshop would be held with the Members
@@ -940,7 +963,9 @@ Environment Strategic Policy Committee dated 14th March, 2024, in relation to
 meeting of the Committee held on 20th February, 2024.
 
 The Chairperson’s report was noted by the Council.
----
+
+[[PAGE_END:12]]
+
 13
 
 (v)
@@ -1020,7 +1045,9 @@ reduction in cars on Limerick streets by 2030;
 its Local Authority Climate Action Plan 2024-2029 on a monthly basis in the Councils
 
 Chief Executive Report.”
----
+
+[[PAGE_END:13]]
+
 14
 
 (b)
@@ -1096,7 +1123,9 @@ Development, dated 14th March, 2024, enclosing 2023 Annual Report of the Limeric
 Community Development Committee.
 
 The LCDC Annual Report 2023 was noted by the Members.
----
+
+[[PAGE_END:14]]
+
 15
 
 8.
@@ -1172,7 +1201,9 @@ both with an address at 107, Glenmaroon Road, Palmerstown, D20 PW22;
 (d) Limerick Greenway Car Parks at Rathkeale, Newcastle West and Abbeyfeale
 
 during 2022 and 2023;
----
+
+[[PAGE_END:15]]
+
 16
 
 (e) Limerick Greenway Bike Hire Limited have exercised a break clause in their
@@ -1258,7 +1289,9 @@ Part 8 Planning Reference 23 - 8016
 Limerick Greenway Hub @ Newcastle West
 
 Part 8 Planning Reference 23 - 8015
----
+
+[[PAGE_END:16]]
+
 17
 
 Proposed Building
@@ -1344,7 +1377,9 @@ time as follows, as set out in the supplementary agenda issued on 22nd March, 20
 On the proposal of Councillor Sheehan (C), seconded by Councillor Collins (B), the
 
 Motion was adopted.
----
+
+[[PAGE_END:17]]
+
 18
 
 14 (b) Notice of Motion submitted by Councillor E. O’Donovan
@@ -1394,4 +1429,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:18]]
+

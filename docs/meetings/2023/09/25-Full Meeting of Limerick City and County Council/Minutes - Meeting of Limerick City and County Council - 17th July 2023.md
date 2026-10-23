@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-c-Minutes-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 17th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-c-Minutes-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -94,7 +95,9 @@ Declaration of Interest
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
----
+
+[[PAGE_END:1]]
+
 2
 
 Mayor of any declaration of interest in any item due for discussion at the Meeting. Councillor
@@ -178,7 +181,9 @@ And Resolved:
 amended), the approval of the Council be and is hereby given to the disposal of land
 
 comprising Area ‘A’ 0.009 hectares (0.022 acres) at Childers Road, Limerick, and land
----
+
+[[PAGE_END:2]]
+
 3
 
 comprising Area ‘B’ 0.0052 hectares (0.012 acres) at Childers Road, Limerick., to Iarnród
@@ -258,7 +263,9 @@ Proposed by Councillor McSweeney;
 Seconded by Councillor Sheehan (C);
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -336,7 +343,9 @@ of Limerick comprised the Council’s representation on the Board.
 It was noted that Councillor Sheahan (M) had been appointed at the May Meeting to
 
 fill the vacancy caused by the resignation of Councillor Kiely (Limerick City East) from the
----
+
+[[PAGE_END:4]]
+
 5
 
 Board. One vacancy remained to be filled further to the resignation of Councillor Benson
@@ -414,7 +423,9 @@ Sector.
 Action, Biodiversity and Environment Strategic Policy Committee, representing the
 
 Community/Voluntary Sector.
----
+
+[[PAGE_END:5]]
+
 6
 
 Proposed by Councillor Sheahan (J);
@@ -484,7 +495,9 @@ following Members were also appointed to the Limerick Market Trustees for the co
 Councillors Novak, Kilcoyne, O’Donovan, Daly, Collins (J), Sheahan (K), Slattery, Ryan
 
 (M), Butler, Kiely, McSweeney, Sheahan (M), Murphy, Sheehan (C), O’Sullivan, Pond.
----
+
+[[PAGE_END:6]]
+
 7
 
 (h)
@@ -564,7 +577,9 @@ Economic Development, Enterprise and Planning Strategic Policy Committee Meeting
 held on 10th July, 2023 - it was noted that the Chairperson’s report in relation to this
 
 meeting would be included on the agenda for the September Council Meeting.
----
+
+[[PAGE_END:7]]
+
 8
 
 5.
@@ -630,7 +645,9 @@ The Mayor declared the proposal to defer the decision on the Draft Limerick City
 Centre 30 km/h Speed Limit Bye-Laws until the September Plenary Meeting as carried, and
 
 it was agreed that a Workshop would be arranged.
----
+
+[[PAGE_END:8]]
+
 9
 
 (b)
@@ -710,7 +727,9 @@ He outlined the following to the Members:
  Waste management cameras are not available yet but noted waiting for new
 
 legislation to be signed to permit use of cameras.
----
+
+[[PAGE_END:9]]
+
 10
 
  He reminded Members that funding and governance of CCTV cameras is very
@@ -792,7 +811,9 @@ And Resolved:
 under the Individual Arts Bursary Awards Scheme 2023, as set out in the report of the Arts
 
 Officer dated 7th July, 2023.”
----
+
+[[PAGE_END:10]]
+
 11
 
 (b)
@@ -870,7 +891,9 @@ Circulated, report of the Arts Officer dated 7th July, 2023, seeking the Council
 approval to recommended allocations under the Strategic Fund for Arts and Culture Scheme
 
 2023.
----
+
+[[PAGE_END:11]]
+
 12
 
 Proposed by Councillor O’Sullivan;
@@ -944,7 +967,9 @@ loan agreement does not specify the number of bicycles to be purchased. The
 loan is provided as bridging finance to the borrower to assist in the delivery of
 
 Bike Hire and Bus Shuttle service infrastructure on Limerick Greenway.
----
+
+[[PAGE_END:12]]
+
 13
 
 (b) The repayment arrangements are as follows: 26 payments, commencing
@@ -1056,7 +1081,9 @@ Newgrove Housing
 Cheshire Foundation Of Ireland (The)
 
 Novas
----
+
+[[PAGE_END:13]]
+
 14
 
 Circle VHA
@@ -1168,7 +1195,9 @@ The total expenditure for 2022 by Limerick City and County Council for
 Occupational Therapist Assessments for housing adaptation/older person’s
 
 grants is €20,648.25.  The figure to date in 2023 is €9,225.45.
----
+
+[[PAGE_END:14]]
+
 15
 
 NOTICES OF MOTION
@@ -1248,7 +1277,9 @@ compliance with National and Regional Policy, which requires growth in areas
 under strong urban influence to be managed to avoid over development.
 
 Relevant National and Regional Policies are as follows:
----
+
+[[PAGE_END:15]]
+
 16
 
 National Policy Objective 19, states “*allows* *the**provision of single housing in*
@@ -1330,7 +1361,9 @@ the Core Strategy, through an emphasis on revitalisation and the delivery of
 more compact and consolidated growth, integrating land use and transport,
 
 with the use of higher densities and mixed use developments at an appropriate
----
+
+[[PAGE_END:16]]
+
 17
 
 scale on brownfield, infill, backland, state lands and underutilised sites within
@@ -1402,7 +1435,9 @@ Notice of Motion submitted by Councillor L. Galvin
 On the proposal of Councillor Galvin, seconded by Councillor Keary, the Motion was
 
 adopted.
----
+
+[[PAGE_END:17]]
+
 18
 
 17.
@@ -1486,7 +1521,9 @@ paying for duplicate retrofits at the same location when considering the
 upcoming Public Lighting Energy Efficiency Project (PLEEP) contract. It should
 
 also be noted that there has been a vast improvement in outstanding faults
----
+
+[[PAGE_END:18]]
+
 19
 
 since the start of the year, with a reduction from approx. 274 to 123 (excluding
@@ -1560,7 +1597,9 @@ Notice of Motion submitted by Councillor E. O’Donovan
 On the proposal of Councillor O’Donovan, seconded by Councillor Sheahan (J), the
 
 Motion was adopted.
----
+
+[[PAGE_END:19]]
+
 20
 
 21.
@@ -1634,7 +1673,9 @@ It was agreed that a copy of the Motion would be forwarded to the Minister for
 Transport, the Minister of State at the Department of Transport with special responsibility for
 
 International and Road Transport and Logistics, the Taoiseach and the Tánaiste.
----
+
+[[PAGE_END:20]]
+
 21
 
 23.
@@ -1664,4 +1705,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:21]]
+

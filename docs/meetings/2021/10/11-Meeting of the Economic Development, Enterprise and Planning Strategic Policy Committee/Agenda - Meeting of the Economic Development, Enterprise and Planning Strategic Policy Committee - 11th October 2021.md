@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-of-spc-mtg-11th-oct.-2021.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 11th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-of-spc-mtg-11th-oct.-2021.pdf)
 
----
+[[FILE_START]]
+
 **22nd September, 2021**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -86,4 +87,6 @@ Yours sincerely
 ***Pat Fitzgerald***
 
 ***SEO, Economic Development & Enterprise Directorate***
----
+
+[[PAGE_END:1]]
+

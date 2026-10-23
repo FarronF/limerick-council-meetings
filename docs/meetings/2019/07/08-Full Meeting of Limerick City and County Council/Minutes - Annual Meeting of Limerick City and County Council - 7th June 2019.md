@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2007.06.2019.pdf)
+**Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 7th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2007.06.2019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUALMEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
 **IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON FRIDAY, 7TH** **JUNE, 2019, AT 3.00 P.M.**
@@ -102,7 +103,9 @@ Public Representative
 Collins Bar, Dooradoyle
 
 Limerick
----
+
+[[PAGE_END:1]]
+
 2
 
 Kilcoyne, Fergus
@@ -274,7 +277,9 @@ Corbally, Limerick
 **OCCUPATION**
 
 **ADDRESS**
----
+
+[[PAGE_END:2]]
+
 3
 
 Hartigan, Seán
@@ -448,7 +453,9 @@ Auctioneer
 Killeheen, Reens
 
 Ardagh, Co. Limerick
----
+
+[[PAGE_END:3]]
+
 4
 
 **LOCAL ELECTIONS 2019**
@@ -626,7 +633,9 @@ Public Representative
 Ballyguiltenane, Glin
 
 Co. Limerick
----
+
+[[PAGE_END:4]]
+
 5
 
 **2.**
@@ -698,7 +707,9 @@ Mayor for the work he carried out during his term of office.
 Mayor Sheahan recalled as a young boy attending the counts for local elections and acknowledged
 
 the attendance of his daughter and granddaughter Courtney. Mayor Sheahan spoke of the honour
----
+
+[[PAGE_END:5]]
+
 6
 
 and privilege to serve as the first citizen of Limerick City and County Council. He stated that he
@@ -770,7 +781,9 @@ Deputy Mayor Michael Collins on a successful year in office.
 Members congratulated Cllr Teskey on his election as Deputy Mayor and wished him well for the
 
 year ahead.
----
+
+[[PAGE_END:6]]
+
 7
 
 **4.**
@@ -858,7 +871,9 @@ Seconded by Councillor Sheahan (J);
 Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
----
+
+[[PAGE_END:7]]
+
 8
 
 “That, Councillor O’Hanlon be appointed to the Association of Irish Local Government.”
@@ -926,7 +941,9 @@ Councillors Benson, Costelloe, Hartigan, Kilcoyne, Leddin (B), Leddin (J), Secas
 **For Councillors Daly and O’Donovan**
 
 Councillors Daly, Carey, O’Brien, O’Donoghue, O’Donovan, Teefy.
----
+
+[[PAGE_END:8]]
+
 9
 
 The Mayor declared Councillors Daly, Leddin (B), Kilcoyne and O’Donovan duly appointed to the
@@ -998,7 +1015,9 @@ Seconded by Councillor Sheahan (J);
 “That, Councillor Ryan (M) be appointed as the Council’s representative to attend and vote at
 
 General Meetings of Irish Public Bodies Mutual Insurances Limited.”
----
+
+[[PAGE_END:9]]
+
 10
 
 As there were no other nominations, the Mayor declared Councillor Ryan (M) appointed as the
@@ -1072,7 +1091,9 @@ this item.
 On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), it was agreed to defer
 
 this item.
----
+
+[[PAGE_END:10]]
+
 11
 
 **17.**
@@ -1138,7 +1159,9 @@ Sheahan (J) and Sheahan (K) appointed to the Regional Health Forum West.
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), it was agreed to defer
 
 this item.
----
+
+[[PAGE_END:11]]
+
 12
 
 **21.**
@@ -1216,7 +1239,9 @@ this item.
 The Meetings Administrator stated that Limerick City and County Council was required to appoint 7
 
 Members to the Limerick and Clare Education and Training Board. The Grouping System applied
----
+
+[[PAGE_END:12]]
+
 13
 
 and a group of 6 Members was required in this case, if so desired. The Meetings Administrator
@@ -1280,7 +1305,9 @@ this item.
 On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), it was agreed to defer
 
 this item.
----
+
+[[PAGE_END:13]]
+
 14
 
 **32.**
@@ -1324,4 +1351,6 @@ July Meeting of Limerick City and County Council would be held on 8th July, 2019
 **DATE:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

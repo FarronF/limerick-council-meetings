@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Agenda%20MD%20Meeting%209th%20May%202019..pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 9th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Agenda%20MD%20Meeting%209th%20May%202019..pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_ Comhairle Cathrach
+_—_—_—_— Comhairle Cathrach
 = & Contae Luimnigh
-“ — Limerick Ci
+oo — Limerick Ci
 = merick City
 & County Council
 
@@ -49,7 +50,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Mdeledyy
+Me ledyy
 
 Mark Leahy,
 Meetings Administrator.
@@ -63,7 +64,9 @@ the 11" April, 2019.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Service Operations Directorate
@@ -94,8 +97,9 @@ NOTICE OF MOTION
 
 | will move at the next meeting of the Municipal District that Limerick City & County
 Council put measures in place to address traffic and parking problems through the main
-
 street of Doon village.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20September%202017.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Newcastle West - 6th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%206th%20September%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -66,7 +67,9 @@ Circulated, Report of the Senior Manager, Planning and Environmental Services da
 August, 2017 setting out details of proposals to remove three structures from the Record of
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -74,7 +77,7 @@ August, 2017 setting out details of proposals to remove three structures from th
 Protected Structures in accordance with Sections 54 and 55 of the Planning and Development
 Act 2000 (as amended), as follows:
 
-e The deletion of Quilty’s Thatched House, Ballinruane, Kilmeedy (R.P.S. Reg No 52).
+¢ The deletion of Quilty’s Thatched House, Ballinruane, Kilmeedy (R.P.S. Reg No 52).
 e The deletion of Flynn’s Thatched House, Balliniska, Feohanagh (R.P.S. Reg No 153).
 e The deletion of O’Connor’s Farmhouse, Clash North, Athea (R.P.S. Reg No. 252).
 
@@ -119,10 +122,14 @@ Members that the Plan would be launched later in the month.
 Members noted the Draft Heritage Plan.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-5. Social Development Directorate
+5.
+
+Social Development Directorate
 Community Initiative Scheme 2017
 
 Circulated report of the Senior Executive Officer, Social Development Directorate in relation to
@@ -133,26 +140,28 @@ Newcastle West.
 On the proposal of Councillor Galvin, seconded by Councillor Foley it was agreed to allocate
 funding as follows:
 
-e Abbeyfeale Community Leisure Ltd. €2,600
-e Abbeyfeale District Search and Rescue €5,600
-e Glorach Theatre €5,600
-e West Limerick Community Radio €2,600
-e West Limerick Tourism €3,600
+7.
 
-6. General Municipal Allocation (GMA)
+Abbeyfeale Community Leisure Ltd. €2,600
+Abbeyfeale District Search and Rescue €5,600
+Glorach Theatre €5,600
+West Limerick Community Radio €2,600
+West Limerick Tourism €3,600
+
+General Municipal Allocation (GMA)
 
 On the proposal of Councillor Galvin, seconded by Councillor Collins it was agreed to
 allocate the following:
 
 e Knocknasna Defibilirator €1,000.
 e Abbeyfeale Drainage Works €1,200.
-e@ Glérach Car Park repairs €1,000.
+@ Gl6érach Car Park repairs €1,000.
 
 On the proposal of Councillor Foley, seconded by Councillor Collins it was agreed to
 allocate the following:
 
 e Athea Tidy Towns Defibilirator €1,000.
-@ Glérach Car Park repairs €800.
+e Glérach Car Park repairs €800.
 
 On the proposal of Councillor Browne, seconded by Councillor Foley it was agreed to
 allocate the following:
@@ -164,7 +173,7 @@ allocate the following:
 
 e €2,000 to Ballinruane Barn Dance.
 
-7. Provision of N i beyfeale
+Provision of N i beyfeale
 
 The Executive Engineer, gave an update on progress in relation to the provision of a new
 graveyard in Abbeyfeale. He stated that of the 3 sites previously identified only one was now a
@@ -173,7 +182,9 @@ possibility. Members raised concern at the location of the site identified and t
 at the location.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -233,14 +244,16 @@ Members requested that the OPW be contacted in relation to arranging a represent
 attend a future Meeting of the District in relation to the River Galey and other issues in the
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 District.
 
 11. Question submitted by Councillor J. Scanian
 
-1 will ask at the next Meeting as to when the matter of possible exposed Asbestos backing the
+| will ask at the next Meeting as to when the matter of possible exposed Asbestos backing the
 Aldi Car Park will be made safe.
 
 REPLY: The Sugar CRM Case reference is 303934.
@@ -262,7 +275,7 @@ It was agreed that an update on the matter would be provided at the next Meeting
 
 12. Question submitted by Councillor J. Scanian
 
-! will ask at the next when (a) the footpath extension fronting residential properties from
+1 will ask at the next when (a) the footpath extension fronting residential properties from
 Kerry Co-Operative towards Clooneyskehane will commence; (b) when will the footpath
 renewal works occur at Beechwood Gardens locally.
 
@@ -289,7 +302,9 @@ We will move at the next Meeting that the Ardagh District Recreational and Sport
 Company be invited to attend the October Meeting of the District to present to the Members
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -346,7 +361,9 @@ The Motion was seconded by Councillor Galvin.
 REPLY: The town centres of Abbeyfeale and Newcastle West are designated pay parking
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -381,4 +398,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+

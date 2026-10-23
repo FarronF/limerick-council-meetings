@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Minutes-Annual-Meeting-of-Municipal-District-of-Cappamore-Kilmallock-17th-June-2021.pdf)
+**Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore-Kilmallock - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Minutes-Annual-Meeting-of-Municipal-District-of-Cappamore-Kilmallock-17th-June-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -86,7 +87,9 @@ said he was looking forward to working with all Members, Management and Staff ov
 the next twelve months in his role as Cathaoirleach of the Cappamore-Kilmallock
 
 Municipal District.
----
+
+[[PAGE_END:1]]
+
 2
 
 **To elect a Leas-Cathaoirleach of the Municipal District of Cappamore-Kilmallock to**
@@ -136,4 +139,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

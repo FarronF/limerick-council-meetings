@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach
+__—_ Comhairle Cathrach
 & Contae Luimnigh
 AN ~ -
 
 — Limerick City
 & County Council
 
-Comhaitie Cathwech agus Contae Luimnigh,
+Cormhaitie Cathwech agus Contae Luimnigh,
 Otfig wn Creantair, Aras Mhuinchin Seoighe,
-Cill Mochesiég,
+Cill Mochesisg,
 
 Co, Usimnigh.
 
 Limerick City and County Counal,
-Aras Mairichin Secaghe Area Office,
+Aran Mairichin Secighe Area Office,
 Vibnallock,
 
 Co. Limerick.
@@ -43,7 +44,7 @@ Co. Limerick.
 EIRCODE V35 K497
 
 t; +353 (0) 63 980 19
-t: 4353 (0) 63 985 99
+f: +353 (0) 63 985 99
 
 13" February 2024.
 
@@ -56,9 +57,9 @@ held in Aras Mainchin Seoige on Wednesday 21" February at 4:15pm. The business t
 
 transacted is set out on the appended Agenda.
 
-ls mise le meas,
+Is mise le meas,
 
-Oaador
+Oaad0oX
 
 Dara O’Brien,
 Meetings Administrator.
@@ -75,4 +76,6 @@ Comhairle Cathrach agus Contae Lutmnigh, Oifig an Cheantatr, Aras Mhainchin Seoi
 Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 
----
+
+[[PAGE_END:1]]
+

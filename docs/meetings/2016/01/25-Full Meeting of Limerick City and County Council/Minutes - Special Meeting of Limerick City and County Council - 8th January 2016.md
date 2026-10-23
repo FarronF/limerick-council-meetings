@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%208th%20January%202016.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 8th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%208th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -78,7 +79,9 @@ Dooradoyle – Special Meeting to discuss the issues set out in Requisition
 received from a number of Fianna Fáil Members in relation to flooding and
 
 emergency funding.
----
+
+[[PAGE_END:1]]
+
 2
 
 • Wednesday, 13th January, 2016 – 15 minutes after the conclusion of the
@@ -138,7 +141,9 @@ provided accommodation and support for women and children who were
 subjected to domestic abuse. The Members referred to Terry’s great love and
 
 passion for art and architecture.
----
+
+[[PAGE_END:2]]
+
 3
 
 From 1979 to 1985, Terry Kelly had served as a Member of Limerick City
@@ -194,7 +199,9 @@ support which Terry had received from them over the last number of years
 during her illness which, they said, was second to none. It was stated that this
 
 was an extremely hard and difficult time for her family.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Chief Executive paid tribute to Terry on his own behalf and on behalf of
@@ -226,4 +233,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

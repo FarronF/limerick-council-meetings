@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-metropolitan-district-of-limerick-18th-may-2026.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 18th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-metropolitan-district-of-limerick-18th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Selyonst Corparéideacha, Rialachais & Custaiméara
 
-_——_ & Contae Luimnigh Comhairle Cathrach & Contae Luimnigh
+_——_— & Contae Luimnioh Comhairle Cathrach & Contae Luimnigh
 ontae Luimnig Ceannchearth: Chorpardidesch
 
-NIN . : : Cé na gCeannaithe
+NIN . . . Cé na gCeannaithe
 =— Limerick City Luimneach. V94 E490
 
-& County Council
-Corporate, Governance & Customer Services
+& County Councit
+Corporate. Governance & Customer Services
 Limerick City and County Council
 Corporate Headquarters
 Merchant's Quay
@@ -50,7 +51,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Dopey
+Dobey
 
 Aedin Foley,
 Meetings Administrator.
@@ -64,11 +65,13 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
 (Copy Enclosed).
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach 2) wwwalimerickie
-Corporate Headquarters, Merchant's Quay, Limerick yv “Cosi -aseee0
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach ¢ wwwalimerickie
+Corporate Headquarters, Merchant's Quay, Limerick yv “Coni-aseee0
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -112,13 +115,15 @@ representations and meeting with the road engineer and residents to continue the
 at Drombanna, what are the up-to-date plans to proceed with this scheme.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor S. Beasley
 
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
-safety audit of the Parkway roundabout that | brought forward in a motion on 10" March
+safety audit of the Parkway roundabout that | brought forward in a motion on 10” March
 2025.
 
 10. Question submitted by Councillor E. Secas
@@ -158,7 +163,9 @@ requirements, can the Council explain why a blanket exclusion was deemed necessa
 than implementing reasonable control measures.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor D. McSweeney
@@ -198,7 +205,9 @@ and the locations of any further CCTV.
 time for housing applicants for 1 bed, 2 bed and 3 bed houses.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21. Question submitted by Councillor S. Kiely
@@ -219,7 +228,7 @@ side entrance.
 the decision to research and prepare a draft policy regarding the use of glyphosate and other
 herbicides and alternatives.
 
-24. Question submitted by Councillor S$. Hickey O’Mara
+24. Question submitted by Councillor S. Hickey O'Mara
 
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 agreement to assess this District’s request to install communication boards in libraries,
@@ -239,7 +248,9 @@ for Shelbourne Park of basketball court, pétanque pistes and further sports ame
 commence.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27. Question submitted by Councillor P. Reale
@@ -283,12 +294,14 @@ under Section 37 of the Animal Health and Welfare Act 2013 to enforce animal wel
 provisions within the Limerick City and County Council functional area.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 33. Notice of Motion submitted by Councillor E. Secas
 
-| will move at the next meeting of the Metropolitan District of Limerick that this District:
+I will move at the next meeting of the Metropolitan District of Limerick that this District:
 
 e Initiate immediately a formal Section 38 procedure to assess and design a suitable
 traffic calming scheme for the Ballyvara Junction on Cappamore Road-R506;
@@ -303,7 +316,7 @@ Manager is recruited to curate and manage the retail offering in Limerick city c
 
 35. Notice of Motion submitted by Councillor M. Donoghue
 
-| will move at the next meeting of the Metropolitan District of Limerick that the former
+I will move at the next meeting of the Metropolitan District of Limerick that the former
 Creative Limerick initiative is updated and re-established to see the occupation of vacant
 premises across the city centre by the creative industries.
 
@@ -325,7 +338,9 @@ circumstances.
 LDA attend the next council meeting in June to share their housing delivery plans.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 39. Notice of Motion submitted by Councillor S. Hickey O’Mara
@@ -358,4 +373,6 @@ create a Dog Park Policy for the city.
 43. Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

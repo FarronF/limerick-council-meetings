@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20-%20Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2021st%20February%202023.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 21st February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20-%20Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2021st%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **10th** **February 2023**
@@ -51,7 +52,9 @@ set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -85,4 +88,6 @@ Policy Committee held on the 20th December 2022.
  Wayfinding Project
 
 **4.Review of Budget Allocations for 2023:**
----
+
+[[PAGE_END:2]]
+

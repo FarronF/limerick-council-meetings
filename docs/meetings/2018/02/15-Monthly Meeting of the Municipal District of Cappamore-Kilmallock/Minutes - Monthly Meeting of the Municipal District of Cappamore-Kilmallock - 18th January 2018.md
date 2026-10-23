@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20180118.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20180118.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -88,7 +89,9 @@ with the aim of researching and collecting local and family history within the B
 Coshlea. The Society’s headquarters was at Ballinvreena Community Hall and they had
 
 undertaken several projects.
----
+
+[[PAGE_END:1]]
+
 2
 
 They informed the Members that their current project was titled “Where did your
@@ -152,7 +155,9 @@ agreed with proposal to allocate €30,000 to Lough Gur Co-Operative Development
 Limited for the operation of the Lough Gur Site in 2018, as outlined by the Director. It was
 
 noted that this allocation would come before Full Council in 2018 for formal ratification.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTION
@@ -222,7 +227,9 @@ there had been a lot of rainfall recently blocking inlets and gullies, which did
 condition of the roads either. Some Members felt that a provision for an allocation to
 
 purchase a grader should be considered which would help alleviate the problem.
----
+
+[[PAGE_END:3]]
+
 4
 
 The A/Senior Executive Engineer agreed with the Members that the roads were in a
@@ -268,4 +275,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-21st-october-md-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 21st October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-21st-october-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 **15th** **October 2021.**
 
 **To/**
@@ -62,7 +63,9 @@ Cappamire-Kilmallock held on the 2nd September, 2021.
 (i) Response from Irish Water to a request to attend the Cappamore Kilmallock
 
 Municipal District Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Support Services Directorate
@@ -130,4 +133,6 @@ I will ask at the next meeting of the Cappamore Kilmallock Municipal District th
 full presentation on the regeneration process as outlined at a recent Metropolitan meeting as
 
 this has a huge bearing on our overall budget.
----
+
+[[PAGE_END:2]]
+

@@ -16,23 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-8th-december-2020-version-2.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-8th-december-2020-version-2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
-ry Comhairle Cathrach agus Contae Luimnigh,
-——- & Contae Luimnigh ieee Sani Fawr
-NPN ~ Line Nua,
-—> Limerick City Réth Caola.
+_—_ Comhairle Cathrach
+& Contae Luimnigh
+AN fi —___——
+—> Limerick City
+& County Council
 
-& County Council Co. Luimnigh.
+3 December, 2020.
+
+Ceantar Bardasach Ath Dara-Rath Caola
+Comhairle Cathrach agus Contae Luimnigh,
+Aras Séan Finn,
+
+Line Nua,
+
+Rath Cacia,
+
+Co, Laimnagh.
 
 Adare-Rathkeale Municipal District,
-
 Limenck Cvty and County Council,
-
 Aras Sean Finn,
 
 New Line,
@@ -41,8 +50,7 @@ Rathkeale,
 
 Co, Limerick.
 
-EIRCODE V94 HkIV
-3" December, 2020.
+EIRCODE V94 HKLV
 
 t: +353 (0) 69 64047
 f: +353 (0) 69 63188
@@ -50,6 +58,7 @@ f: +353 (0) 69 63188
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
 
 A Chomhairleoir, a chara,
+
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 the Council Chamber, Dooradoyle, Limerick on Tuesday, 8" December, 2020 at 9.15 a.m. The
 
@@ -57,17 +66,20 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Aa_
+Aao_
 
 Kare A
 Meetings Administrator.
 
 AGENDA
 
-To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10”
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10°
+
 November, 2020.
-(Copy Enclosed).
+
 2. Housing Development Directorate
+
+(Copy Enclosed).
 
 To receive an update presentation from the Housing Development Directorate.
 
@@ -76,16 +88,19 @@ Adare Heritage Centre
 
 To note update report on the Adare Heritage Centre.
 
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach |
+Corporate Headquarters, Merchants Quay, Limerick.
+
 (Report Enclosed).
-& customerservices@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © wwewlimerickie
-Corporate Headquarters, Merchants Quay, Limerick. v
-
-@LimerickCouncil
-( 061 - 856 000
+= customerservices@limerick.ie
+© wwewlimerickie
+W @LimerickCouncil
+( 061 - 886 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Operations and Maintenance Services
@@ -118,7 +133,9 @@ I will move at the next Meeting for a new post and rail fence to be erected in S
 Park, Rathkeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -133,4 +150,6 @@ fully equipped modern library in Askeaton.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

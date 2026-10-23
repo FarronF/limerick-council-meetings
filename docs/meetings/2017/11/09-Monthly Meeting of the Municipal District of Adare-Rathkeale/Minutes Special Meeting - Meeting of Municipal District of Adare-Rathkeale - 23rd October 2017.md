@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Minutes%20Special%20Meeting%2023rd%20October%2C%202017.pdf)
+**Original file:** [Minutes Special Meeting - Meeting of Municipal District of Adare-Rathkeale - 23rd October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Minutes%20Special%20Meeting%2023rd%20October%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -92,7 +93,9 @@ with the Department of Agriculture requesting that this arrangement be included 
 specification for overground slurry tanks and retrospective funding allocated to farmers
 
 for its installation in existing systems.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Senior Executive Engineer for her presentation and noted the
@@ -134,4 +137,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

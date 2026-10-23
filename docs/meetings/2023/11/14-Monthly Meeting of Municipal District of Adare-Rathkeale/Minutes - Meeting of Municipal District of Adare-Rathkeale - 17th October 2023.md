@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-a-Minutes-Meeting-of-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Adare-Rathkeale - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-a-Minutes-Meeting-of-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ the bypass is complete.
 Proposed by Councillor O’Donoghue;
 
 Seconded by Councillor Teskey;
----
+
+[[PAGE_END:1]]
+
 2
 
 And Resolved:
@@ -168,7 +171,9 @@ reconfiguration of carpark.
 Councillor O’Brien referred to the investment by Irish Rail for the Limerick to Foynes and
 
 the recent delays in delivering the project due to appeals made through the statutory
----
+
+[[PAGE_END:2]]
+
 3
 
 process. Discussion ensued and Councillor Teskey proposed Irish Rail attend the
@@ -244,7 +249,9 @@ Consultants and Designers in consultation with Safety Engineers feel safety issu
 have been addressed and added that Transport Infrastructure Ireland are in favour
 
 of cars slowing down at junctions instead of widening junctions.
----
+
+[[PAGE_END:3]]
+
 4
 
  Councillor O’Donoghue asked if there was an alternative other than a grass verge
@@ -312,7 +319,9 @@ allocate the following:
 On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it was agreed
 
 to allocate the following:
----
+
+[[PAGE_END:4]]
+
 5
 
  €3,000 to Castlerovers FC.
@@ -380,7 +389,9 @@ Road improvement works were delivered on this road through the Local
 Improvement Scheme in 2021 by Limerick City and County Council with all
 
 subsequent maintenance requirements on the road being the
----
+
+[[PAGE_END:5]]
+
 6
 
 responsibility of the private landowners and not Limerick City and County
@@ -454,7 +465,9 @@ public health.
 **Correspondence**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:6]]
+
 7
 
 **11.**
@@ -504,4 +517,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

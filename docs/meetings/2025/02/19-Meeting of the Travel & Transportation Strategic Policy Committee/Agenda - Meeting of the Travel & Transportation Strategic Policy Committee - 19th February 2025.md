@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-19th-february-2025.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 19th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-19th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **6th** **February, 2025**
@@ -51,7 +52,9 @@ transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -121,7 +124,9 @@ Council amend our traffic calming policy to allow the delivery of traffic calmin
 measures where an elected member provides the funding and the necessary petition
 
 is signed and submitted by residents.
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.Notice of Motion submitted by Councillor P. Doyle (referred from October Metro**
@@ -173,6 +178,10 @@ Clare/Leitrim/Cork County Councils.
 **conditions**
 
 **10.Update on Bus Connects programme.**
----
+
+[[PAGE_END:3]]
+
 4
----
+
+[[PAGE_END:4]]
+

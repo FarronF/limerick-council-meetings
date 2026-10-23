@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Minutes%2018th%20February%202019%20%28Final%20Version%29.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Minutes%2018th%20February%202019%20%28Final%20Version%29.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 18TH** **FEBRUARY, 2019**
@@ -82,7 +83,9 @@ Seconded by Councillor Hourigan;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -170,7 +173,9 @@ exchange for 180, St. Munchin’s Street, St. Mary’s Park, Limerick.
 in exchange for 134, St. Munchin’s Street, St. Mary’s Park, Limerick.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -252,7 +257,9 @@ the following:
 *and will be considered as part of the examination and processing of the review.*
 
 *Your comments will be taken into account when determining same”.*
----
+
+[[PAGE_END:3]]
+
 4
 
 On the 1st November, 2018, the EPA wrote to Irish Cement requesting additional
@@ -332,7 +339,9 @@ relief measures under the Project Ireland 2040 – National Development Plan. It
 the intention of the Government to invest in a total of 118 flood relief schemes
 
 nationwide over the coming decade.
----
+
+[[PAGE_END:4]]
+
 5
 
 The first tranche of €257 million in funding will see 50 nationwide schemes
@@ -430,7 +439,9 @@ Churchfield, O’Malley Park, Southill
 Wallers Well
 
 10 Units
----
+
+[[PAGE_END:5]]
+
 6
 
 A further two hundred and sixty one homes have received funding approval from
@@ -520,7 +531,9 @@ Directorate in conjunction with the OPW, at a future meeting.
 ***I will move at the next Meeting that Limerick City and County Council provide an all purpose***
 
 ***facility for various Suicide Prevention Groups.***
----
+
+[[PAGE_END:6]]
+
 7
 
 In proposing the motion, Councillor Costelloe emphasised the need for a facility to be provided
@@ -602,4 +615,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

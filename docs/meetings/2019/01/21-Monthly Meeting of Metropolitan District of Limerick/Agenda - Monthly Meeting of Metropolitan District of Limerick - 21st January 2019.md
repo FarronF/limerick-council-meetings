@@ -16,20 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2021st%20January%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2021st%20January%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach — PO se per en aprmy
-i omhai ae Luimnig)
-nArN & Contae Luimnigh Ceanncheathru Chorparéiteach,
+al Comhairle Cathrach — PR se pry en aprmy
+i ‘omhai ae Luimnig)
+nArN & Contae Luimnigh Ceanncheathru Chorpardéiteach,
 
-. . ! cé ithe,
-—= Limerick City - tr : pole
+. ‘ ! Cé na gCeannaithe,
+
+——— _sLimerick City oe treat
 & County Council
+
 Corporate Services,
+
 Limerick City and County Council,
+
 Corporate Headquarters,
 
 Merchants Quay.
@@ -38,7 +43,7 @@ Limerick
 EIRCODE V94 EH90
 
 th
-16™ January, 2019 t: +353 (0) 61 557150
+16" January, 2019 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 To: The Mayor and each Member of the Metropolitan District of Limerick
@@ -66,7 +71,6 @@ To adopt Minutes of the following Meetings:
 (Copy Enclosed).
 
 2. Capital Investment Directorate
-
 Part 8 Procedure — Gough Place, Rosbrien Road, Limerick
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
@@ -75,28 +79,32 @@ Regulations, 2001 (as amended) in relation to the construction of 17 residential
 Gough Place, Rosbrien Road, Limerick.
 
 (Report Enclosed)
-@ customerservices@limerick.ie
-& wwow.imerickie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach YW @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+@ customerservices@limerick.ic
+& weow.simerickie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
 
 2
 
-3. Social Development Directorate — Urban and Rural Community Development
+Social Development Directorate — Urban and Rural Community Development
 
 To receive an update on Derelict and Vacant Properties in the Metropolitan District of
 Limerick.
 
-4. Music Memories and Memorabilia Presentation by Nicky Woulfe
+Music Memories and Memorabilia Presentation by Nicky Woulfe
 
 To receive presentation from Mr. N. Woulfe on Music Memories and Memorabilia.
 
 UESTIONS
-5. Question submitted by Councillor P.Keller
+Question submitted by Councillor P.Keller
 
 I will ask at the next meeting:-
 
@@ -106,7 +114,7 @@ I will ask at the next meeting:-
 
 Please break down the numbers into families, children and single people.
 
-6. Question submitted by Councillor P.Keller
+Question submitted by Councillor P.Keller
 
 | will ask at the next meeting for an up to date figure of the numbers on the Housing
 waiting list for:
@@ -114,27 +122,29 @@ waiting list for:
 (1) Limerick’s Metropolitan Area.
 (2) County Limerick Area.
 
-7. Question submitted by Councillor E. Hogan
+Question submitted by Councillor E. Hogan
 
 | will ask at the next meeting, following my previous motion submitted, if there is any
 update on plans to enhance/decorate the Municipal and Utility Boxes in the Metropolitan
 Area?
 
-8. Question submitted by Councillor S. Lynch
+Question submitted by Councillor S. Lynch
 
 | will ask at the next meeting for an update on traffic calming measures being put in place
 and agreed upon by TIl and Limerick City and County Council to the section of the N69
 between Clarina and Bricklodge?
 
-9. Question submitted by Councillor S. Lynch
+Question submitted by Councillor S. Lynch
 
 | will ask at the next meeting when building of 15 Social Houses in Patrickswell between
 Lisheen Park and Laurel Park will commence.
 
-10. Question submitted by Councillor S.Lynch
+Question submitted by Councillor S.Lynch
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -198,17 +208,19 @@ We will move at the next Limerick Metropolitan Meeting, to agree to nominate the
 groups with the below amounts, out of the General Municipal Allocation:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 [St. Mary’s Adult EducationCentre 2,000
 St. Mary’s Prize Band
-Athlunkard Boat Club '€2,000 |
-[Curragour Boat Club 2,000 __|
+Athlunkard Boat Club €2,000 |
+[Curragour Boat Club 2,000]
 
-3
+s
 
-uv
+wv
 s 3
 S
 
@@ -222,31 +234,31 @@ Caherdavin Mens’ Shed
 t. Mary’s Community Regatta
 atrickswell Powerlifting Club
 
-Zle\e
+aba
 a
-p
+pe
 S:
 5
-oO
+(2)
 °
 3
 3
 §
-QO
-2
+Q
+a
+=
 6
 
-a
+an
 
 Centre
 
 wlol>ly
-Eg
-el
-at
+a
+Ele
 Olz
 (>)
-2\5
+25
 
 tar Rovers FC
 Limerick Womens Network
@@ -263,7 +275,7 @@ ADAPT Domestic Abuse Services
 
 Limerick Animal Welfare € 500
 
-Westfield Wetlands '€1,000 |
+Westfield Wetlands €1,000 |
 
 St. Munchin’s Community Centre
 
@@ -272,10 +284,9 @@ Notice of Motion submi ncillors Hogan, Leddin, Lynch, Loftus and M h
 We will move at the next Limerick Metropolitan Meeting, to agree to nominate the following
 groups with the below amounts, out of the General Municipal Allocation:
 
-Patrickswell Community
+Patrickswell Community ee |
 Centre
-
-[Pig and Porter Festival | € 5,000
+[Pigand Porter Festival _—|€ 5,000
 
 *€21,000 outstanding to be allocated - €3,000 per member (D.Butler, J.Collins, E.Hogan,
 J.Leddin, S$. Lynch, J.Loftus, and M.McCreesh)
@@ -286,7 +297,9 @@ Notice of Motion itted ‘ouncillor E. Se
 Community Centre for Castletroy, Monaleen, Annacotty and surrounding areas.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -346,4 +359,6 @@ the ending of one tenancy and the re-letting of the house under a new tenancy so
 reduce the number of unoccupied council owned houses.
 
 
----
+
+[[PAGE_END:5]]
+

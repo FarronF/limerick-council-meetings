@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-b-minutes-of-special-meeting-23rd-march-2021.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare - Rathkeale - 23rd March, 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-b-minutes-of-special-meeting-23rd-march-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF THE MUNICIPAL DISTRICT**
 
 **OF ADARE-RATHKEALE HELD ON TUESDAY, 23RD** **MARCH, 2021 AT 4:00 P.M.**
@@ -88,4 +89,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/2.-minutes-of-21st-october-municipal-district-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 21st October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/2.-minutes-of-21st-october-municipal-district-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD ON
@@ -70,7 +71,9 @@ of Cappamore-Kilmallock held on 2nd September 2021.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 Matters Arising:
 
 September Municipal District Meeting
@@ -144,7 +147,9 @@ Elected Members to submit questions prior to the workshop which would be answere
 part of the workshop, or else be further submitted to Irish Water for response. This
 
 workshop would co-incide with a date of a Municipal District Meeting.
----
+
+[[PAGE_END:2]]
+
 4.Covid Restrictions
 
 It was agreed that the Standing Orders would not be reviewed in relation to the numbers of
@@ -216,7 +221,9 @@ Cork and Limerick on the R513.
 Please note below the response received from Irish Water. “As part of our Small Towns and
 
 Villages Growth Programme, a project to provide additional treatment capacity and improve
----
+
+[[PAGE_END:3]]
+
 compliance at Hospital WWTP was recently announced. This project will now continue
 
 through the standard capital investment delivery processes and will be required to meet
@@ -276,7 +283,9 @@ The Elected Members wished to express their sympathy to the family of Jimmy Fox,
 husband of Carmel Fox, formerly of Ballyhoura Development Limited, who passed away
 
 recently.
----
+
+[[PAGE_END:4]]
+
 Next Meeting
 
 The date for the next meeting of the Cappamore Kilmallock District was agreed by the
@@ -290,4 +299,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:5]]
+

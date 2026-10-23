@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20c%20Minutes%20Monthly%20Meeting%2027th%20April%252c%202017.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 27th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20c%20Minutes%20Monthly%20Meeting%2027th%20April%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE COUNCIL CHAMBER, COUNTY HALL, DOOORADOYLE,**
@@ -90,7 +91,9 @@ Sheehan noted that Deel Manor was a private estate and spoke of the struggle hom
 have in meeting mortgage payments, the challenges of negative equity and the risk that the
 
 actions of Approved Housing Bodies (AHBs), purchasing property on the estate, would devalue
----
+
+[[PAGE_END:1]]
+
 2
 
 property there. Ms. Sheehan noted the extent of vacant property throughout the City and
@@ -174,7 +177,9 @@ On the proposal of Councillor Sheahan, seconded by Councillor Keary it was agree
 District write to the Minister for Housing, Planning, Community and Local Government calling
 
 on him to allow Local Authorities, based on their experience, to use their discretion in how
----
+
+[[PAGE_END:2]]
+
 3
 
 they apply, or not apply, requirements in relation to the percentage of social and affordable
@@ -260,7 +265,9 @@ sanctions associated with same. AHB’s had similar arrangements in place.
 Following discussion it was agreed that the May Meeting of the District would be held on
 
 Wednesday 17th May, 2017 at 2.00 p.m. in Croom.
----
+
+[[PAGE_END:3]]
+
 4
 
 This concluded the Meeting.
@@ -274,4 +281,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

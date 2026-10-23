@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Budget%20Meeting%2015.11.19.pdf)
+**Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council - 15th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Budget%20Meeting%2015.11.19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-“i Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-ANS °F —_—_— ee
+NING ¥— _—_—— ee
 
 — Limerick City
 & County Council
@@ -77,20 +78,22 @@ valuation to be levied.
 
 3. To consider the Capital Programme 2020-2022, in accordance with Section 135
 (2) of the Local Government Act, 2001, as amended by the Local Government
-Reform Act, 2014. —
+Reform Act, 2014. --
 
 (Draft Chief Executive’s Budget Report and Tables Enclosed, including
 Capital Programme 2020-2022)
 
 customerservices@limerick.ie
 
-. oe wwwlimerick.ie
+* oe wwwlimerick.ie
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . To determine the proportion of commercial rates refund that applies on vacant
@@ -128,4 +131,6 @@ Reform Act, 2014, subject to finances available.
 2020 Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

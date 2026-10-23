@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 10th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ ee Comhairle Cathrach Seirbhist Corpardideacha Rialachais & Custaiméara
+a‘ Comhairle Cathrach Seirbhist Corpardideacha Rialachais & Custaiméara
 Comhairie Cathrach § Contae Luimynigh
 
-= —— & Contae Luimnigh Coacmevantnd
-ee Cé na gCeannaithe
+= —_ & Contae Luimnigh Comenantnd :
+ce Cé na gCeannaithe
 
 Limerick City "
-= & County Council clideeaiaiihaiida
+= & County Council calidad
 
 Corporate, Governance & Customer Services
 Limerick City and County Council
@@ -38,7 +39,7 @@ Merchant's Quay
 
 Limerick. V94 EH90
 
-t: 4353 (0) 61 557 150
+t: 4353 (0) 61557 150
 
 6" July 2026
 
@@ -60,9 +61,11 @@ AGENDA
 
 To agree a date for the July Meeting of the Metropolitan District of Limerick.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach www.limerickie
-Corporate Headquarters, Merchant's Quay, Limerick v  Coi-sesess
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach www. limerickie
+Corporate Headquarters, Merchant's Quay, Limerick v  Con-seeess
 061 - SS6 000
 
 
----
+
+[[PAGE_END:1]]
+

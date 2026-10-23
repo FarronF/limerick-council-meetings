@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
-& Contae Luimnigh,
-aAr™ lf ™ eee eeeeeencceeeeaeneeeERSNSES
+££ Comhairie Cathrach
+& Contae Luimnigh
+ar” ——_ eee ecereeeenaceeeeeeAeEEERSNSES
 —— Limerick City
 & County Council
 
@@ -31,7 +32,7 @@ aAr™ lf ™ eee eeeeeencceeeeaeneeeERSNSES
 
 Se#bhisi Corparaideacha,
 
-Comhatrie Cathrach agus Contae Luimnigh,
+Comhairie Cathrach agus Contae Luimnigh,
 Ceanncheathra Chorpardideach,
 
 Cé na gCeannaithe,
@@ -66,7 +67,7 @@ Is mise le meas,
 Laura Flannery,
 Meetings Administrator.
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmneach
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmmeach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy of Requisition attached)
@@ -78,7 +79,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 24st March 2023
@@ -93,9 +96,13 @@ lift the eviction ban for rented pre
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:3]]
+

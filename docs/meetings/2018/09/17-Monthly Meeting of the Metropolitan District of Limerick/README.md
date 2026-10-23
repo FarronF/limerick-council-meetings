@@ -38,15 +38,15 @@ Disposal of Land Regional United AFC - Monthly Meeting of the Metropolitan Dist
 
 Disposal of Land 11 Ballygrennan Road, Ballynanty, Limerick - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/02e%20Disposal%20of%20Land%2011%20Ballygrennan%20Road%20Ballynanty.pdf) - Text not extracted
 
-Taking in Charge of Estates Ritaville_ Report of 24.08.18 - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03ai%20Taking%20in%20Charge%20of%20Estates%20Ritaville%20-%20Report%20of%2024.08.18.pdf) - Text not extracted
+Taking in Charge of Estates Ritaville: Report of 24.08.18 - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03ai%20Taking%20in%20Charge%20of%20Estates%20Ritaville%20-%20Report%20of%2024.08.18.pdf) - Text not extracted
 
-Taking in Charge of Estates Ritaville_ Report of 06.04.18 - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03aii%20Taking%20in%20Charge%20of%20Estates%20Ritaville%20-%20Report%20of%2006.04.18.pdf) - Text not extracted
+Taking in Charge of Estates Ritaville: Report of 06.04.18 - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03aii%20Taking%20in%20Charge%20of%20Estates%20Ritaville%20-%20Report%20of%2006.04.18.pdf) - Text not extracted
 
-Taking in Charge of Estates Ritaville_ Submission - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03aiiiTaking%20in%20Charge%20of%20Estates%20Ritaville%20-%20Submission.pdf) - Text not extracted
+Taking in Charge of Estates Ritaville: Submission - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03aiiiTaking%20in%20Charge%20of%20Estates%20Ritaville%20-%20Submission.pdf) - Text not extracted
 
 Taking in Charge of Estates Carrabullawn Lower Park Corbally - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03b%20Taking%20in%20Charge%20of%20Estates%20Carrabullawn%20Lower%20Park%20Corbally.pdf) - Text not extracted
 
-Chief Executive's Report_ Castletroy Local Area Plan - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/04a%20Chief%20Executive%27s%20Report%20-%20Castletroy%20Local%20Area%20Plan.pdf) - Text not extracted
+Chief Executive's Report: Castletroy Local Area Plan - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/04a%20Chief%20Executive%27s%20Report%20-%20Castletroy%20Local%20Area%20Plan.pdf) - Text not extracted
 
 Chief Executive's Report to Elected Members in relation to the deferral of making a new Local Area Plan for Castleconnell - Monthly Meeting of the Metropolitan District of Limerick - 17th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/04b%20Chief%20Executive%27s%20Report%20to%20Elected%20Members%20in%20relation%20to%20the%20deferral%20of%20making%20a%20new%20Local%20Area%20Plan%20for%20Castleconnell.pdf) - Text not extracted
 

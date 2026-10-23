@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_26th_march_2015.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 26th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_26th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 NON 4 . Cé na gCeannaithe,
@@ -30,7 +31,7 @@ Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL hivveriek
+COUNCIL Livveriek
 
 20" March, 2015. t: +353 (0) 61 407 100
 
@@ -45,8 +46,8 @@ You are requested to attend a Meeting of the Municipal District of Cappamore-Kil
 held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Thursday 26" March, at
 3pm. The business to be transacted is set out on the appended Agenda.
 
-anne le meas,
-Lnow
+wine le meas,
+now
 Tina Knox,
 Meetings Administrator.
 
@@ -66,15 +67,17 @@ Taking in Charge of Estates - Declaration of Roads to be Public Roads
 To consider the taking-in-charge of the following estate in accordance with Section 180
 of the Planning and Development Acts, 2000-2014, and Section 11 of the Roads Acct,
 1993:
-
 ¢ Cois Rioga, Caherconlish
 (Report Enclosed)
+
 4. General Municipal Allocation
 
 To consider approval of allocations under General Municipal Allocation-Special Projects.
 
 Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © wwewlimerick.te
-Corporate Headquarters, Merchants Quay, Limerick wv @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

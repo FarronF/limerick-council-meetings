@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03-minutes_of_monthly_meeting_15.01.2015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 15th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03-minutes_of_monthly_meeting_15.01.2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -71,10 +72,12 @@ would be a short adjournment as a mark of respect.
 On resumption, the Meeting proceeded with the Agenda.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-tN
+tm
 
 1. Adoption of Minutes:
 
@@ -121,7 +124,9 @@ with all Tidy Towns Committees to ascertain what assistance can be given in
 advance of this year’s Tidy Towns Competition.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was proposed by Councillor O'Donnell and seconded by Councillor
@@ -138,7 +143,7 @@ Clean Up.
 On the proposal of Councillor Donegan, seconded by Councillor O'Donnell it was
 agreed to hold a Civic Reception for Radharc na Cille Tidy Town Committee following
 the next Monthly Meeting at Aras Mainchin Seoige, Millmount, Kilmallock, Co.
-Limerick on 19” February, 2015.
+Limerick on 19" February, 2015.
 
 Mr. G. O'Connor agreed to confirm for the next Meeting, with the Travel &
 Transportation Department, that the yellow street lights in Hospital would be replaced
@@ -166,4 +171,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

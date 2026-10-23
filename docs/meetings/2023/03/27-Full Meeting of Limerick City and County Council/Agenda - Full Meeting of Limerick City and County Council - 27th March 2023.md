@@ -16,38 +16,37 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20March%202023.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 27th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20March%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-“al Comhairle Cathrach Comnsitie cemeeheune Sone eareian
-& Contae Luimnigh Ceanncheathra Chorparaideach,
-Vo a —— Oé na gCeannaithe.
-— Limerick City Luimnesch
+i Comhairle Cathrach Comnasie cemaaheunt neler
+ee & Contae Luimnigh Ceanncheathra Chorparaideach
+APN ———— Cé na gCeannaithe.
+— Limerick City Wuimnesch
 
-& County Council
+= & County Council
 Corpornte Services,
-Limenck Cty and County Counc
+Limenck Cty and County Counch
 Corporate Headquarters,
 Merchants Quay,
-Limenck
+Limerick
 
-RCODE V94 EHSO
-
-22"4 March, 2023. minsone
+22" March, 2023. EIRCODE V94 EH9O
 t: +353 (0) 61 557150
-f: +353 (0) 62 415 266
+f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 27 March, 2023, at 3pm.
+Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 27™ March, 2023, at 3pm.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
-dra Flannery,
+ara Flannery,
 Meetings Administrator.
 
 AGENDA
@@ -70,17 +69,19 @@ Planning and Development Act, 2000 (as amended), at:
 (c) 26, Hogan Avenue, Kileely, Limerick.
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick \ 061 - $57150
+Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) Folio LK14569F adjoining 55 College Avenue, Moyross, Limerick.
 
 (e) Folio LK68202F, 6 Chapel Street, Bruff, Co. Limerick.
 
-(f} Land at rear of 13 Michael Hartnett Close, Newcastle West, Co. Limerick.
+(f} Land at rear of 13 Michael! Hartnett Close, Newcastle West, Co. Limerick.
 
 (g) Freehold interest in property at 28 Parkview Drive, Greystones, Limerick.
 
@@ -104,7 +105,7 @@ Derelict Disposals
 
 (p) Property at Inglenook, Bruff, Co. Limerick.
 
-Statutory Notices dated 19™ January, 9” February, 2°% 9%, 13%
+Statutory Notices dated 19™ January, 9” February, 2"% 9%, 13%
 and 14" March, 2023, already circulated)
 
 Support Services
@@ -133,7 +134,9 @@ To consider the Audit and Risk Committee’s Work Programme 2023.
 (Report and copy of Work Programme Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (4)
@@ -154,22 +157,19 @@ To consider the Audit and Risk Committee Annual Report 2022.
 Annual Report 2022 Enclosed)
 
 Foreign Travel
-
 To consider retrospective approval of foreign travel, in accordance with
 Section 142 (5) of the Local Government Act, 2001, as amended, in respect of
 invitation received by the Mayor of the City and County of Limerick to attend
 event in Los Angeles, USA, on 12" March, 2023, for the announcement that
-Limerick had been chosen to host Cineposium, AFCI's 2023 Global Film Industry
-
+Limerick had been chosen to host Cineposium, AFCI’s 2023 Global Film Industry
 Summit, in September 2023.
+
 (Report Enclosed)
-
 Vacancy on Joint Policing Committee
-
 To consider filling vacancy on the Joint Policing Committee consequent on the
 resignation of Councillor S. Kiely from the Committee.
-(Report Enclosed)
 
+(Report Enclosed)
 PAUL Partnership Limerick CLG
 
 To consider to nomination of 2 Members of Limerick City and County Council
@@ -190,7 +190,9 @@ To consider Draft Annual Report 2022.
 (Report and Draft Annual Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (i)
@@ -245,7 +247,9 @@ that they be invited to make submissions on same. A Report on
 submissions would be made available at the March Meeting.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Recommendation No. 3
@@ -259,7 +263,7 @@ That, the draft Scheme of Priority for Affordable Dwelling Purchase
 Arrangements be submitted to Full Council for adoption.
 
 (Report and copy of proposed Scheme Enclosed)
-Recom ja .
+Recom a .
 That, Limerick City and County Council engage with applicants who
 were refused a Local Authority Home Loan in recent years so they have
 
@@ -286,24 +290,28 @@ To note the Development Fund Allocations for 2023.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
 10.
 
-Community. Tourism and Culture
+Community, Tourism and Culture
 
 (a) Grants under the Arts Act
-
 To consider approving recommended grants under the Arts Act, 2003.
 
 (Report Enclosed)
+
 (b) Local Community Development Committee Annual Report 2022
+
 To note the Annual Report 2022 of the Limerick Local Community Development
 Committee.
 (Report Enclosed)
+
 Conferences
 
 Report on Conference / Seminar / Meeting / Event
@@ -313,7 +321,7 @@ Meeting / Event.
 (Reports Enclosed)
 
 QUESTION
-Question submitted by Councillor J. Scanian
+Question submitted by Councillor J. Scanlan
 
 | will ask at the next Meeting how many people are qualified for housing within each
 Municipal District; also, what the total number for our Authority now stands at.
@@ -333,7 +341,9 @@ to defray a portion of the costs involved in the conversion of the property by t
 Department of Housing.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -370,7 +380,7 @@ Programmes and other sources of funding. | also request that the study include t
 Bank of Ireland building in Abbeyfeale.
 
 Notice of Motion submitted by the Municipal District of Adare-Rathkeale -
-Councillors B. Collins (Proposer), J. O'Donoghue, K. Sheahan, S. Keary, A.
+Councillors B. Collins (Proposer), J. O'Donoghue, K. Sheahan, 8. Keary, A.
 Teskey
 
 We will move at the next Meeting that the tenants of Approved Housing Bodies be
@@ -385,7 +395,9 @@ Minister for Housing, Local Government and Heritage to review the Derelict Sites
 and Article 43 of Bunreacht na hEireann.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -401,4 +413,6 @@ children in Ireland with Cystic Fibrosis excluded from accessing this drug.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

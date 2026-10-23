@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024_0.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Comhairie Cathrach agus Contae Luimnigh,
+Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-& Contae Luimnigh Oilfig an Cheantaiy, Aras er ee
+& Contae Luimnigh Oifig an Chearntaiy, Aras ier ere
 
 A 4 2 : Co. Luimnigh
 — Limerick City
@@ -32,7 +33,7 @@ A 4 2 : Co. Luimnigh
 
 Aras Mainchitt Seoighe Area Office,
 
-Kirnallock,
+Kiimallock,
 
 Co. Limerick
 
@@ -51,7 +52,7 @@ held in Aras Mainchin Seoighe, Kilmallock , Co. Limerick on Wednesday the 21" Fe
 3.00 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-(0620 0A
+(020 0A
 
 Dara O’Brien,
 Meetings Administrator.
@@ -75,19 +76,23 @@ Kilfinane Market House.
 Relating to the Minutes of the Municipal District Meeting of 18" January, 2024.
 =
 
-acest eet
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Arks Mhainchin Seoighe www. limerick.le
+eames
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantatr, Arks Mhainchin Seoighe www. limerick. le
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -142,7 +147,9 @@ pedestrian crossing be put in at Holycross on the R512 where there is very large
 traffic and pedestrians.”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -189,4 +196,6 @@ and Gotoon, Kilmallock, including footpath replacement and improved signage for 
 of pedestrians crossing the bridge.”
 
 
----
+
+[[PAGE_END:4]]
+

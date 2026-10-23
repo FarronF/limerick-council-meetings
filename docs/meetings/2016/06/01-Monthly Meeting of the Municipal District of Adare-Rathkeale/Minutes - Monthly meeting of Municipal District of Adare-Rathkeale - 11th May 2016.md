@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20May%202016.pdf)
+**Original file:** [Minutes - Monthly meeting of Municipal District of Adare-Rathkeale - 11th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -71,7 +72,9 @@ copy of a letter she had received from the Chief Superintendent in reply which r
 number of measures to be implemented.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She noted that St. Joseph’s Boys National School operated a Junior School Warden Scheme and
@@ -118,7 +121,9 @@ Members agreed that the Annual Meeting would take place on the 1% June, 2016 at 
 the Monthly Meeting to be held at the conclusion of the Annual Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Community Support Services
@@ -131,7 +136,7 @@ In response to queries from Members, Mr. Hennessy clarified the following:-
 e Any decision in relation to antisocial behaviour would be based on convictions rather than
 hearsay.
 Tenants with no income other than social welfare would not qualify.
-Any works carried out to a property by the tenants would be assessed by an Raispendane
+Any works carried out to a property by the tenants would be assessed by an naispendate
 valuer and in cases of disagreement would be sent to an appeals process.
 
 e Clarification would be sought from the Department as to whether tenants, who would not
@@ -172,7 +177,9 @@ this fire had been issued and a request was made that these charges be struck of
 where the property owner had been unable to obtain affordable fire insurance.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -199,7 +206,7 @@ for the spending of €100,000 on Special Projects as set out below:-
 
 Municipal District of Adare-Rathkeale — Special Projects
 
-}1. _| Foynes Air Show 2016 €30,000.00
+|1. _| Foynes Air Show 2016 €30,000.00
 Askeaton €25,000.00
 Shanagolden €10,000.00
 
@@ -228,7 +235,9 @@ measures had been completed and a report submitted to Office of Public Works (OP
 to same. He noted that no funding had been allocated for these works.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -238,7 +247,7 @@ had completed a cost benefit analysis on works at this location and had decided 
 with same. Following discussion, the Operations Manager undertook to verify that the OPW
 accepted responsibility for flood defences at this location.
 
-1. Adoption of Minutes
+a. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-Rathkeale held on
 11" April, 2016.
@@ -279,7 +288,9 @@ It is intended to make the Route Selection Report available on the project websi
 www.foyneslimerick.ie
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor S. Keary
@@ -291,19 +302,19 @@ Gortadroma Land Fill Site.
 
 REPLY: The Council is not aware of any Planning Application having been made to An Bord
 Pleanala nor of any application to An Bord Pleanala for a decision as to whether the
-proposed development would constitute strategic infrastructure development. —
+proposed development would constitute strategic infrastructure development. a
 
 14. Correspondence
 
 Correspondence was noted.
 
-eS
+ee LL eel
 
 The following items were discussed at the conclusion of the Agenda with the consent of the
 Cathaoirleach.
 
 A Workshop update on the Proposed N21 Adare Western Approach Improvement Scheme to be
-held on Thursday, 26" May, 2016 at 9.00 a.m. at Aras Sedan Finn, New Line Road, Rathkeale, Co.
+held on Thursday, 26" May, 2016 at 9.00 a.m. at Aras Sean Finn, New Line Road, Rathkeale, Co.
 
 Limerick.
 
@@ -316,4 +327,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

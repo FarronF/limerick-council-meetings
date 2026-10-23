@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/00%20Agenda%2010th%20October%2C%202017.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 10th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/00%20Agenda%2010th%20October%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; Seirdhisi Corpardideacha.
-ee oe pelreale cones Comhairle Cathrach agus Contae Luimnigh,
+ee oe pelrosle cones Comhairle Cathrach agus Contae Luimnigh,
 = g Ceanncheathni Chorpardideach.
 
-bs 5 Cé na gCeannaithe,
+\ 5 Cé na gCeannaithe,
 
-=— Limerick City giv tits
+=— Limerick City Tr as
 & County Council
 
 Corporate Services,
@@ -56,7 +57,7 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Mey
+ZI
 Tom O’Callagha
 Meetings Administrator.
 
@@ -76,14 +77,16 @@ To receive Deputation from Ballysteen Tidy Towns Group. (Item to be taken at 9.0
 
 To receive Deputation from Foynes & District Community Council. (item to be taken at
 
-9.30 a.m.) @ customerservices@limerick.te
-1 & wwevatimerick.te
+9.30 a.m.) = customerservices@limerick.te
+i @ wwwvaltimerick.te
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 
-Corporate Headquarters, Merchants Quay, Limerick \ 061 - 587150
+Corporate Headquarters, Merchants Quay, Limerick . 061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -133,10 +136,12 @@ N21 onto the L1427. This junction is located at the Limerick side of the Lantern
 Roundabout in Adare.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-11.
+i1.
 
 12.
 
@@ -166,8 +171,9 @@ undertake remedial and improvement works at the Council's Storage/Chip Depot at
 Kilcornan.
 
 Correspondence
-
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

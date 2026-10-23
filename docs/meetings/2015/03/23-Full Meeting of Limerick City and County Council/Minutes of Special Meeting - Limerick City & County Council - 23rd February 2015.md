@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Special%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2023rd%20February%202015_0.pdf)
+**Original file:** [Minutes of Special Meeting - Limerick City & County Council - 23rd February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Special%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2023rd%20February%202015_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -80,7 +81,9 @@ the late Frank Prendergast had been a close friend of his and that he had made
 a tremendous contribution to life in Limerick and would be very much missed
 
 by everyone who knew him.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Mayor for calling the Special Meeting. They
@@ -146,7 +149,9 @@ who had a strong social conscience. It was said that he was extremely proud of
 the traditions and history of Limerick and that Limerick had lost a treasured
 
 son.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Chief Executive paid tribute to Frank Prendergast on his own behalf and on
@@ -190,4 +195,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

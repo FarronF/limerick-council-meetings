@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20November%202015.pdf)
+**Original file:** [Minutes of Adjourned Meeting - Municipal District of Cappamore-Kilmallock - 23rd November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **CAPPAMORE-KILMALLOCK HELD IN THE COUNCIL OFFICES, DOORADOYLE, LIMERICK ON**
@@ -58,4 +59,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:1]]
+

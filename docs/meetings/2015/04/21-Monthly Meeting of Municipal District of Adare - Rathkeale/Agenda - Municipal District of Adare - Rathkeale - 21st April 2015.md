@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_21_april2c_2015.pdf)
+**Original file:** [Agenda - Municipal District of Adare - Rathkeale - 21st April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_21_april2c_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+__——_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AN « ~ Cé na gCeannaithe,
-— Luimneach
+—_> Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and casey Council
+CITY & COUNTY Limerick City and wate Council
 Merchants Quay,
 
-COUNCIL tami
+COUNCIL ieee
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -44,7 +45,7 @@ District of Adare-Rathkeale
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 21*' April, 2015 at 9.00
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 21° April, 2015 at 9.00
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -52,12 +53,11 @@ Is mise le meas,
 om O'Callaghan,
 Meetings Administrator.
 
-eee nnn cee esns ne enee. eee ene ee eee eee een en see eenn en eee ee nnn nena nenneeeennnnnnnnnanneee
+eee nnn cee esese eens. eee enn eee eee een nn see ennn ee eee ee nnn nee ee nese een nnnnnennanneee
 
 AGENDA
 
 1. Minutes
-
 To adopt Minutes of Meeting of the Municipal District held on 10" March, 2015.
 
 2. Economic Development and Planning
@@ -71,14 +71,15 @@ Roads Act 1993:-
 e Cluain Ard, Fedamore
 
 (Report Enclosed)
-@ customerservices@limerick.te
 
-1
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach ) wwwalomerick.te
+1 @ customerservices@limerick.te
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach 6) wwwalimerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -126,7 +127,9 @@ the Kilmacat Road, Kildimo and the road from Cussons Cross to Normoyles Cross,
 Adare.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -159,7 +162,7 @@ Community Council and was not constructed.
 
 Notice of Motion submitted by Councillor R. O’Donoghue
 
-! will move at the next Meeting that an application be made to Limerick City and County
+| will move at the next Meeting that an application be made to Limerick City and County
 Council to provide funding to assist An Garda Siochana in the installation of strategically
 located cameras, in the interest of public safety, in areas where Garda Stations have
 been closed down or operate on reduced hours in order to reduce anti-social behaviour.
@@ -177,4 +180,6 @@ Meeting, which is scheduled for 12” May 2015, be brought forward to 5" May 201
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

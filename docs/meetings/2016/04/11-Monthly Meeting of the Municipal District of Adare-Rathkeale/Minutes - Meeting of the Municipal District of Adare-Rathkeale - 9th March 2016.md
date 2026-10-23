@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -69,7 +70,9 @@ that pedestrian crossings and speed ramps form part of road safety measures and 
 ramps could be used as they were less expensive than tarmac.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -94,16 +97,16 @@ Street Lighting
 
 Town Maintenance
 e Grass cutting
-© Weed killing
-¢ Strimming
+¢ Weed killing
+e Strimming
 
 Great Southern Trail
 e Signage
 e Plans for 2016
 
 Dohyle Lough
-e Ownership of Water
-e Phase 1
+@ Ownership of Water
+e Phase i
 e Support
 
 Members thanked the deputation for their presentation and noted that the Great Southern Trail
@@ -115,11 +118,13 @@ raised concern with regard to the number of derelict sites in the town.
 Proposed N21 Adare Western Approach Improvement Scheme
 
 Mr. Dermot Donovan, Roadplan Consulting presented and circulated an update on the Proposed
-N21 Adare Western Approach Improvement Scheme. He indicated that this was the 3° Briefing to
+N21 Adare Western Approach Improvement Scheme. He indicated that this was the 3 Briefing to
 Elected Members and highlighted the inadequacies of the existing pavement and drainage. He
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -174,7 +179,9 @@ The report was noted by the Members who requested that the item remain on the ag
 next month.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. General Municipal Allocation
@@ -203,7 +210,7 @@ application would be re-submitted shortly.
 8. Sewerage Treatment Plant in Askeaton
 
 Circulated, report from Irish Water dated 18" February, 2016 setting out update on the provision
-of a new sewerage treatment plant in Askeaton. The report was noted by the Members.
+of anew sewerage treatment plant in Askeaton. The report was noted by the Members.
 
 9. Footpaths in Adare
 
@@ -224,7 +231,9 @@ graveyards for a period in excess of twenty years.
 Councillor Sheahan informed the Meeting that he was withdrawing his Notice of Motion.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. Correspondence
@@ -235,7 +244,7 @@ Change of Dates for April, May and June Meetings of the Municipal District of
 Adare-Rathkeale.
 
 It was agreed that the April Meeting would be held on Monday, 11" April, 2016; the May Meeting
-would be held on Wednesday, 11" May, 2016 and the June Meeting would be held on
+would be held on Wednesday, 11 May, 2016 and the June Meeting would be held on
 
 Wednesday, 15"" June, 2016.
 
@@ -249,4 +258,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+

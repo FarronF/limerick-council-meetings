@@ -16,18 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-14th-september-2021_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 14th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-14th-september-2021_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+a Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
-
-Aras Séan Finn,
-
-AN fi : ee Line Nua,
-— Limerick City Rath Cola,
+a ~ = Aras Séan Finn,
+”“ oN ‘ Line Nua,
+— Limerick City nan Cece
 
 & County Council Co. Luimnigh.
 
@@ -41,7 +40,7 @@ Rathkeale,
 
 Co. Limerick.
 
-EIRCODE V4 HiKIV
+EIRCODE V4 HiKiV
 
 9" September, 2021. t: 4353 (0) 69 64047
 f; $353 (0) 69 63188
@@ -51,7 +50,7 @@ To:
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-the Council Chamber, Doora e, Co. Limerick, on Tuesday, 14" September, 2021 at 9.30 a.m.
+the Council Chamber, Doora e@, Co. Limerick, on Tuesday, 14" September, 2021 at 9.30 a.m.
 The business to be transacted is set out on the appended Agenda.
 
 ls mise le meas,
@@ -63,7 +62,7 @@ AGENDA
 
 To adopt Minutes of Meeting of the following Meetings:
 
-(a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 6™ July, 2021.
+(a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 6" July, 2021.
 (b) Special Meeting of the Municipal District of Adare-Rathkeale held on 24" August, 2021.
 
 (Copies Enclosed).
@@ -75,12 +74,14 @@ Park For Greenway Services
 To receive a presentation in relation to the refurbishment and upgrade of Rathkeale
 goods shed and car park for Greenway Services.
 
-mbaasiaagg Peer
-ee eee 1 wwwlimerickic
-Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncit
+mbaasiaag Ret
+pooh + take tabeel anyprsacrsbapnl praca 1 wwwlimerickic
+Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Adare Fountain
@@ -110,7 +111,9 @@ To update Members on issues of interest in the District.
 To review position in relation to allocations under the General Municipal Allocation 2021.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -143,4 +146,6 @@ construct wooden structures as dwellings.
 A.0.8
 
 
----
+
+[[PAGE_END:3]]
+

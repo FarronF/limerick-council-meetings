@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore_-_kilmallock_-_27th_november_2014.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore - Kilmallock - 27th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore_-_kilmallock_-_27th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe.
+_—_—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
 AN i ‘“ Cé na gCeannaithe.
-—=_> Luimneach
+—=> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -33,7 +34,7 @@ Limerick
 
 e t: +353 (0) 61 407 100
 
-21" November, 2014. f: +353 (0) 61 415 266
+21” November, 2014. f: +353 (0) 61 415 266
 
 To/ The Cathaoirleach_and each Member of the Municipal
 District of Cappamore-Kilmallock
@@ -43,7 +44,6 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick, on Thursday 27”
 November, 2014, at 3.30pm. The business to be transacted is set out on the appended
-
 Agenda.
 
 Is mise le meas,
@@ -74,12 +74,16 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wrewtimerick.te
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4,
@@ -129,7 +133,9 @@ Question submitted by Clir M. Donegan
 pedestrian bridge at North Bridge, Kilmallock.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -157,4 +163,6 @@ Notice of Motion submitted by Councillor M. Donegan
 of a Pedestrian Crossing at Bruree National School.
 
 
----
+
+[[PAGE_END:4]]
+

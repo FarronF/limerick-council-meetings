@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20b%20Minutes%20Monthly%20Meeting%2018th%20April%252c%202017.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 18th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20b%20Minutes%20Monthly%20Meeting%2018th%20April%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -94,7 +95,9 @@ Community Development Committee (LCDC) should also be reviewed;
 • In terms of St. Patrick’s day events, balanced support should be given to all of the
 
 Districts;
----
+
+[[PAGE_END:1]]
+
 2
 
 • In order to properly inform the General Municipal Allocation (GMA) process, Members
@@ -156,4 +159,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

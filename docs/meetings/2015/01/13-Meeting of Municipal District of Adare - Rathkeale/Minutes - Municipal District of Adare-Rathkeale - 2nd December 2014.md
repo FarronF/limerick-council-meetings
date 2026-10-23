@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_2nd_december_2014_0.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 2nd December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_2nd_december_2014_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD AT ARAS SEAN FINN, NEW LINE ROAD,
-RATHKEALE, CO. LIMERICK, ON TUESDAY, 2”° DECEMBER, 2014, AT
+RATHKEALE, CO. LIMERICK, ON TUESDAY, 2"° DECEMBER, 2014, AT
 
 9.00 A.M.
 
@@ -68,7 +69,9 @@ zoned in the current Local Area Plan for Croom and a resolution was passed to ex
 existing Local Area Plan.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Environment and Water
@@ -122,7 +125,9 @@ Amendment proposed by Councillor O'Brien.
 The result of the voting was as follows:
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 For the Amendment:
@@ -172,7 +177,9 @@ use are derelict and do not fulfil modern residential demands, facilities or
 size. The continuation of current residential zoning will compound and
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii).
@@ -185,7 +192,7 @@ and EH 1 and any other text in the plan that refers to prohibiting the change of
 use of thatched cottages from residential to commercial / dual use is
 required.
 
-4. Section 8.2.3 A.C.A 2 states that these cottages are the villages unique
+4b. Section 8.2.3 A.C.A 2 states that these cottages are the villages unique
 selling point and a must see location. This attracts volumes of tourists to
 these cottages. They take photographs/videos and also visit thatched
 cottages which are already in commercial use. The privacy implications for
@@ -231,7 +238,9 @@ development on these lands shall incorporate as many of the trees as
 possible into the scheme. A comprehensive tree survey carried out by a
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iii).
@@ -258,7 +267,7 @@ It is considered that this change is not significant in terms of SEA/AA
 requirements particularly having regard to the inclusion of Objective EH10 in
 relation to the trees.
 
-In_relation to submission no 37 the land at Islandea, Adare shall be
+in_relation to submission no 37 the land at Islandea, Adare shall be
 changed to existing residential.
 
 Reasons
@@ -290,7 +299,9 @@ zoning of Adare Soccer Club portion of ground at Deerpark from Residential
 Development Area Phase 1 to Open Space compliments these guidelines.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -345,7 +356,9 @@ Foynes Flying Boat & Maritime Museum, Foynes and to receive a Deputation from Fo
 Flying Boat & Maritime Museum.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Deputation from the Parents’ Council of Shanagolden National
@@ -372,7 +385,7 @@ other junctions on the N21 have public lighting.
 
 Councillor Neville stated that this was a highly dangerous road and requested that lighting
 be erected at the junction between Adare and Croagh and at Sweeeney’s Cross to Adare.
-Councillor O’Brien queried if there was a policy on street lighting.
+Councillor O'Brien queried if there was a policy on street lighting.
 
 In response the Senior Executive Engineer, Roads, indicated that there was no
 discretional funding for public lighting.
@@ -394,7 +407,9 @@ Waterhouse Coopers, by staff members of Innovate Limerick.
 The local elected representatives have been briefed on this initiative.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -429,18 +444,23 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-C. ~ aN
-6unoz.
-wv > s
+C. ~ ‘
+wv se s
 
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

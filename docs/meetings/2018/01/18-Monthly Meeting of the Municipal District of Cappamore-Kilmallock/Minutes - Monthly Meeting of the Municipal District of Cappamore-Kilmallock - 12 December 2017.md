@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20121217.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 12 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20121217.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -94,7 +95,9 @@ Proposed by Councillor Ryan;
 Seconded by Councillor Teefy;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, having considered the Chief Executive’s Report dated 24th November, 2017,
@@ -174,7 +177,9 @@ people’s concerns. Members of the Deputation asked, for safety reasons, if the
 the playground could be moved to the car park area. They also referred to allocation of
 
 houses in the new development and possible installation of CCTV cameras.
----
+
+[[PAGE_END:2]]
+
 3
 
 In conclusion, the Deputation referred to the high number of listed properties in
@@ -254,7 +259,9 @@ round of funding for 2017. When it was clarified that it was necessary to re-
 submit the original list, the Council did so immediately and is awaiting
 
 clarification from the Department.
----
+
+[[PAGE_END:3]]
+
 4
 
 (c) 6 on waiting list for Scheme in the Municipal District of Cappamore-
@@ -314,4 +321,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

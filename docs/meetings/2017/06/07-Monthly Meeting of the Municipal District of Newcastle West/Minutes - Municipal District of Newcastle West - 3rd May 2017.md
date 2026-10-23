@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%202017-05-03%20Minutes%20May%20Meeting.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 3rd May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%202017-05-03%20Minutes%20May%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF NEWCASTLE WEST HELD IN ARAS WILLIAM SMITH
-OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3" MAY,
+OBRIEN, NEWCASTLE WEST, CO. LIMERICK, ON WEDNESDAY, 3” MAY,
 2017, AT 10.00 A.M.
 
 PRESENT IN THE CHAIR: Councillor J. Sheahan, An Cathaoirleach.
@@ -43,7 +44,7 @@ Vallely), Clerical Officer, Corporate Services (Ms. D. O’Kelly).
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle West held on
-12 April, 2017.
+12" April, 2017.
 
 Councillor Galvin requested that the Minutes be amended under Item 4 (b) Taking in charge of
 Estates to read “Riverside Drive, Abbeyfeale” and not “Riverside Drive, Athea.”
@@ -70,7 +71,9 @@ e The issue with the Junction at Willie Donoghue’s would be considered in the 
 weeks.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -84,7 +87,7 @@ Annual Meeting
 On the proposal of Councillor Browne, seconded by Councillor Foley it was agreed to hold the
 Annual Meeting of the District on Wednesday, 28" June, 2017 at 10.00 a.m.
 
-3. | General Municipal Allocation (GMA)
+3. General Municipal Allocation (GMA)
 
 On the proposal of Councillor Sheahan, seconded by Councillor Galvin it was agreed to allocate
 €14,000 to Roads, Rathkeale.
@@ -113,7 +116,7 @@ e €5,000 from GMA Tourism Development, Recreation and Amenity Fund.
 
 ¢ €5,000 from Economic Development and Marketing.
 
-e €6,900 from Culture/Events.
+¢ €6,900 from Culture/Events.
 4. Social Development Directorate
 
 Communities Facilities Scheme 2017
@@ -126,7 +129,9 @@ proportional basis between the Municipal Districts. She stated that €10,000 ha
 to the Municipal District of Newcastle West and that the maximum amount of grant under the
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -181,7 +186,9 @@ been drafted with the 3 landowners. Members requested information on the locatio
 were advised that the locations were as follows:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e Clash Road.
@@ -195,7 +202,7 @@ QUESTIONS
 
 7. Question submitted by Councillor J. Scanian
 
-1 will ask at the next Meeting when footpath repairs will be carried out at the entrance to
+! will ask at the next Meeting when footpath repairs will be carried out at the entrance to
 Michael Harnett Close next to, and to the rear of, House No. 16.
 
 REPLY: Footpath repairs will be carried out at this location as part of the roads section
@@ -212,7 +219,7 @@ and will carry out any clean-up when required.
 
 9. Question submitted by Councillor J. Scanlan
 
-1 will ask at the next Meeting for an update on the preparation of a Public Realm Study for
+! will ask at the next Meeting for an update on the preparation of a Public Realm Study for
 Dromcollogher.
 
 REPLY: A Design Statement was prepared in June 2013 by Limerick City and County
@@ -234,7 +241,9 @@ The Motion was seconded by Councillor Galvin.
 REPLY: A dog waste bin will be installed in order to deal with issue on the street.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Other Matters Raised
@@ -261,4 +270,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-monthly-meeting-19th-may-2025_0.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 19th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-monthly-meeting-19th-may-2025_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -94,7 +95,9 @@ Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan Dis
 held on 22nd April, 2025.
 
 Proposed by Councillor Butler;
----
+
+[[PAGE_END:1]]
+
 2
 
 Seconded by Councillor Pond;
@@ -234,7 +237,9 @@ Twilight Thursday
 Woodhaven Residents Association
 
 €1000
----
+
+[[PAGE_END:2]]
+
 3
 
 **LIMERICK CITY NORTH**
@@ -404,7 +409,9 @@ Patrickswell GAA & Camogie Club
 Patrickswell National School
 
 €7500
----
+
+[[PAGE_END:3]]
+
 4
 
 Patrickswell National School Parents Association
@@ -568,7 +575,9 @@ Doras
 Garryowen CDP
 
 €1500
----
+
+[[PAGE_END:4]]
+
 5
 
 Limerick County and District Underage Soccer League
@@ -744,7 +753,9 @@ Sudanese Community Limerick
 Twilight Thursday
 
 €5500
----
+
+[[PAGE_END:5]]
+
 6
 
 **QUESTIONS**
@@ -824,7 +835,9 @@ Garden. The Council investigated whether Monumental Sculptors could deliver the
 hardscaping and civil elements of the projects, while the Parks department could assist with
 
 the landscaping elements of the project. It appears that a number of the Monumental
----
+
+[[PAGE_END:6]]
+
 7
 
 Sculptors can deliver the hardscaping elements in addition to the provision of the
@@ -906,7 +919,9 @@ Government and Heritage for consideration.
 3 no. projects were offered funding by the Department – one private residence, and two
 
 public/community buildings. One of the three successful projects was located in the
----
+
+[[PAGE_END:7]]
+
 8
 
 Metropolitan area.
@@ -982,7 +997,9 @@ the context of maintaining an appropriate balance in housing tenure.
 We note, however, that this figure has reduced substantially to 32.4% in 2024 - well
 
 below the national average of 36.5% in the same year. This positive development is
----
+
+[[PAGE_END:8]]
+
 9
 
 attributed to the Council’s proactive implementation of a tenure mix policy developed
@@ -1068,7 +1085,9 @@ must be willing to give evidence in court, however many are reluctant to do so.
 ***proposed bus shelter planned for the Old Cratloe Road. Is it still proposed to be moved closer to***
 
 ***Caherdavin Meadows Junction rather than the bus stop’s current location.***
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**: A bus shelter is proposed for this stop as part of the Old Cratloe Road Active Travel Scheme.
@@ -1128,7 +1147,9 @@ City Centre zoning boundary Map in the Limerick Development Plan 2022-2028 as th
 assessing the number of units in the City Centre. The map was extrapolated to Electoral Division
 
 data which makes it easy for the Council databases to assess the level of social-rental households.
----
+
+[[PAGE_END:10]]
+
 11
 
 *Figure 1: Limerick Development Plan 2022-2028 with ‘city centre’ zoning defined in light blue.*
@@ -1139,7 +1160,9 @@ data which makes it easy for the Council databases to assess the level of social
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:11]]
+
 12
 
 There are a total of 9488 registered residential addresses in the 17 no. Electoral Areas.
@@ -1227,7 +1250,9 @@ It is anticipated that a Part 8 will be lodged by October of this year.
 ***retail premises that have been idle for over two years.***
 
 It was agreed to refer this Notice of Motion to the Economic Development, Enterprise, Tourism and
----
+
+[[PAGE_END:12]]
+
 13
 
 Planning Strategic Policy Committee.
@@ -1299,7 +1324,9 @@ of Groody Valley area for a community park was not suitable for the people livin
 Singland/Boodmill area of Limerick. She emphasised the need to identify a more suitable location
 
 closer to these communities in Singland/Bloodmill.
----
+
+[[PAGE_END:13]]
+
 14
 
 **22.Notice of Motion submitted by Councillor C. Slattery (to be referred to the Travel and**
@@ -1373,7 +1400,9 @@ The provision of CCTV on the Greenways in the Castletroy Area is currently being
 by the GDPR team.
 
 **A/Senior Engineer, Travel & Transport Strategy.**
----
+
+[[PAGE_END:14]]
+
 15
 
 Members supported the Motion and highlighted the need for increased Garda resources in the
@@ -1445,7 +1474,9 @@ the importance of a multi-agency approach in addressing these issues.
 **27.Notice of Motion submitted by Councillor S. Kiely**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that we write to the Port***
----
+
+[[PAGE_END:15]]
+
 16
 
 ***Authority to ask that the two canons at Limerick Docks be removed and returned to the city.***
@@ -1489,4 +1520,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:16]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%202019-11-06%20Minutes%20November.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%202019-11-06%20Minutes%20November.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ that funding was made available for preliminary reports and these should be comp
 soon as possible. The Members also complimented the Senior Executive Engineer and the
 
 Roads Engineer on the efficient manner in dealing with this incident at the Bridge of Tears.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -174,7 +177,9 @@ On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agre
 On the proposal of Councillor Sheahan, seconded by Councillor Scanlan, it was agreed to
 
 allocate €500 to Athea National School for the purchase of a defibrillator.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
@@ -256,7 +261,9 @@ be allocated when works complete
  1 recently allocated
 
 Please note these figures change on a weekly basis
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Galvin referred to the recent application made by the Council for Social Housing
@@ -340,7 +347,9 @@ Question submitted by Councillor L. Galvin
 REPLY:
 
 **N21 Devon Cross**
----
+
+[[PAGE_END:4]]
+
 5
 
 Transport Infrastructure Ireland (TII) highlighted this junction as having
@@ -418,7 +427,9 @@ Ward’s Cross. A ground investigation and topographical survey have been
 carried out and Barry Transportation are progressing the detailed design for
 
 submission to TII for approval.
----
+
+[[PAGE_END:5]]
+
 6
 
 In order to provide a right turn lane at this location, it is required to purchase
@@ -492,7 +503,9 @@ REPLY:
 Footpath renewal works will be carried out at the above mentioned estate in
 
 2020 under GMA Local Roads funding.
----
+
+[[PAGE_END:6]]
+
 7
 
 10.
@@ -570,7 +583,9 @@ relation to GDPR that will come from the Data Protection Commissioner
 audit are fully implemented and until any technical issues including issues
 
 that may arise from Wave 2 of the project are ironed out.
----
+
+[[PAGE_END:7]]
+
 8
 
 -
@@ -650,7 +665,9 @@ Planning Framework.
 ***I will move at the next Meeting that the Council locate refuse bins within all the active***
 
 ***Cemeteries in our Municipal District.***
----
+
+[[PAGE_END:8]]
+
 9
 
 In proposing the Motion, Councillor Scanlan referred to the provision of refuse bins within all
@@ -720,7 +737,9 @@ A request for traffic calming at Gortboy has been received and is currently
 being assessed in accordance with Limerick City and County Council’s Traffic
 
 Calming Policy for Urban Areas.
----
+
+[[PAGE_END:9]]
+
 10
 
 This roadway is on the proposed 2020 Roadworks Programme for overlay
@@ -790,7 +809,9 @@ The recent issuing of hedge cutting notices to landowners within the District wa
 it was noted that some overgrown hedges still remain uncut. The Executive Engineer, Roads,
 
 stated that these will be investigated.
----
+
+[[PAGE_END:10]]
+
 11
 
 The Director, advised the Members of a private briefing on the progress of works on the Great
@@ -812,4 +833,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

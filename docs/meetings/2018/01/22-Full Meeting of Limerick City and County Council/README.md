@@ -42,13 +42,13 @@ Chief Executive's Report November - Full Meeting of Limerick City and County Co
 
 Chief Executive's Report December - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Chief%20Executive%2527s%20Report%20-%20December%202017%20v2.pdf) - Text not extracted
 
-Electoral Amendment (Dáil Constituencies) Act 2017_ Revision - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28b%29%20Electoral%20%20Amendment%20%28Dail%20Constituencies%29%20Act%202017%20-%20Revision%20of%20Dail%20Constituencies.pdf) - Text not extracted
+Electoral Amendment (Dáil Constituencies) Act 2017: Revision - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28b%29%20Electoral%20%20Amendment%20%28Dail%20Constituencies%29%20Act%202017%20-%20Revision%20of%20Dail%20Constituencies.pdf) - Text not extracted
 
 Local Electoral Area Boundary Committees - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Local%20Electoral%20Area%20Boundary%20Committees.pdf) - Text not extracted
 
-Cultural SPC_ Nomination Sectoral Representative - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28c%29%20%28i%29%20Cultural%20SPC%20-%20Nomination%20Sectoral%20Representative.pdf) - Text not extracted
+Cultural SPC: Nomination Sectoral Representative - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28c%29%20%28i%29%20Cultural%20SPC%20-%20Nomination%20Sectoral%20Representative.pdf) - Text not extracted
 
-Cultural SPC_ Culture and Arts Sector Open Call Nomination - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28c%29%20%28ii%29%20Cultural%20Strategic%20Policy%20Committee%20-%20Culture%20and%20Arts%20Sector%20Open%20Call%20Nominations.pdf) - Text not extracted
+Cultural SPC: Culture and Arts Sector Open Call Nomination - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28c%29%20%28ii%29%20Cultural%20Strategic%20Policy%20Committee%20-%20Culture%20and%20Arts%20Sector%20Open%20Call%20Nominations.pdf) - Text not extracted
 
 Report of Audit Committee on Statutory Audit Report for the year 2016 - Full Meeting of Limerick City and County Council - 22 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/03%20%28d%29%20%28i%29%20Report%20of%20Audit%20Committee%20on%20Statutory%20Audit%20Report%20for%20the%20Year%202016.pdf) - Text not extracted
 

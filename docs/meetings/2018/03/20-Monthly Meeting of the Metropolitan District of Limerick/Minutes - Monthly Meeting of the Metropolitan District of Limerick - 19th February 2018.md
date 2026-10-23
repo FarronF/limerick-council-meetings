@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%2019th%20February%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 19th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%2019th%20February%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
 **IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 19TH** **FEBRUARY,**
@@ -84,7 +85,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -162,7 +165,9 @@ Meetings were agreed as follows:-
 • March Meeting of the Metropolitan District of Limerick on Tuesday, 20th March, 2018 at
 
 9.45am.
----
+
+[[PAGE_END:2]]
+
 3
 
 • Annual Meeting of the Metropolitan District of Limerick on Monday, 25th June, 2018 at
@@ -244,7 +249,9 @@ February 2017. Limerick City and County Council placed fill material at the rear
 of the wall to support the footpath and erected hessian fencing to protect the
 
 public. The wall is located in an SAC and consequently permission is required
----
+
+[[PAGE_END:3]]
+
 4
 
 from the National Parks & Wildlife Service before commencing any remedial
@@ -322,7 +329,9 @@ A total of five fines were issued for dog fouling offences in 2017. To date, non
 of these fines has been paid. However, further enforcement action is being
 
 taken in two cases.
----
+
+[[PAGE_END:4]]
+
 5
 
 **NOTICES OF MOTION**
@@ -398,7 +407,9 @@ Full Council / Metropolitan / Municipal / Strategic Policy Committees, etc.
 As the Local Electoral Area Briefings are not statutory meetings, in accordance
 
 with the legislation formal agendas / minutes are not maintained in respect of
----
+
+[[PAGE_END:5]]
+
 6
 
 such briefings.
@@ -474,7 +485,9 @@ It was agreed to refer this Notice of Motion to the Environment Strategic Policy
 Correspondence was noted.
 
 At the conclusion of the Agenda and with the consent of the Mayor the following issue was
----
+
+[[PAGE_END:6]]
+
 7
 
 raised:-
@@ -508,4 +521,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

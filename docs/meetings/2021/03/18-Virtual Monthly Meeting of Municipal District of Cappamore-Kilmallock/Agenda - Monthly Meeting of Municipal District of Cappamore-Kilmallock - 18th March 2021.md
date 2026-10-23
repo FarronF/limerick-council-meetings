@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-agenda-18th-march-md-meeting-final.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 18th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-agenda-18th-march-md-meeting-final.pdf)
 
----
+[[FILE_START]]
+
 **11th** **March, 2021.**
 
 **To/**
@@ -56,7 +57,9 @@ Kilmallock held on the 18th February 2021.
 Draft Schedule of Municipal District Works (SMDW) 2021
 
 To consider Draft Schedule of Municipal District Works for 2021.
----
+
+[[PAGE_END:1]]
+
 2
 
 (ii)
@@ -120,7 +123,9 @@ additional car parking be provided in Hospital to support the commercial activit
 volume of traffic passing through and coming to the town and improve the safety of vehicles
 
 and pedestrians and road users.
----
+
+[[PAGE_END:2]]
+
 3
 
 8.Notice of Motion submitted by Councillor Teefy
@@ -178,7 +183,9 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 on works planned for the R512/L1502 junction at Holycross and when is the planned
 
 commencement date.
----
+
+[[PAGE_END:3]]
+
 4
 
 15.Question submitted by Councillor Donegan
@@ -218,4 +225,6 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 on remedial works at the Holy Cross Junctions on the R512, further to my previous
 
 motion.
----
+
+[[PAGE_END:4]]
+

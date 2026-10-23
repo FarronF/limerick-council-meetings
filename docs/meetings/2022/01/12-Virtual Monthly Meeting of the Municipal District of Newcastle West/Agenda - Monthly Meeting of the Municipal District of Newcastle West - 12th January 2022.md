@@ -16,35 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-2022-01-12-agenda-january.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-2022-01-12-agenda-january.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
-& Contae Luimnigh
-no a SN
+_—__ Comhairle Cathrach conn Dercais is an Chaisiedin Nua Thiar,
+: Cethrach agus Oontae Luimnigh,
+"~~ & Contae Luimnigh Resin Sem
+“rN ——__—___——_ Smith O'Brien,
+— Limerick City . An Catstedn Nua Thiar,
 
-—> Limerick City
-& County Council
+& County Council Co. Luimnigh.
 
-To:
+Newcasth West Municipal District,
 
-A Chomhairleoir, a chara,
+Lirretich City and County Council
 
-Dairche Bardais an Chaisiedin Nua Thiar,
-Com)airte Cathrach agus Contae Luimnigh,
-Aras Willian Smith O'Brien,
+Ades Witiarn Srrith O'Brien,
 
-Gortbui
-
-An Catsedn Nua Thiar,
-
-Co. Luimnigh.
-
-Newcasthe West Municipal District,
-Liretich City and County Council
-Ades Witiarn Srith O'Brien,
 Gortboy,
 
 Newcastle West,
@@ -56,9 +47,12 @@ Ewcode: V42UH73
 & +555 (0) 69 62100
 7" January, 2022
 
+To:
+
+A Chomhairleoir, a chara,
+
 You are requested to attend an Online Meeting of the Municipal District of Newcastle West
 to be held on Wednesday, 12 January, 2022, at 10.00 a.m. The business to be transacted is
-
 set out on the appended Agenda.
 
 Is mise le meas,
@@ -66,34 +60,30 @@ Is mise le meas,
 Margaret Corbett,
 Margaret Corbett,
 Meetings Administrator.
-
 AGENDA
-
 1. Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 1*
-
 December, 2021.
 
-2. General Municipal All
-
 (Copy Enclosed)
+
+2. General Municipal All
 
 To review position in relation to allocations under the General Municipal Allocation
 
 2022.
-
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchant's Quay, Limerick
-
-© customerservices@limerickie
-© wwwlimerici.ic
+customerservices@limerickie
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach = © wwew timericic ie
+Corporate Headquarters, Merchant's Quay, Limerick yv
 
 @LimerickCouncil
 © 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -131,7 +121,7 @@ Fitzgerald's farmhouse (d) drainage.
 Please name them.
 
 Questions submitted by Councillor Scanian
-I will ask at the next Meeting when (a) the 2 Council owned properties at Coolaboy,
+| will ask at the next Meeting when (a) the 2 Council owned properties at Coolaboy,
 
 The Square, Dromcollogher will be cleaned up and (b) what plans are in place to
 have them tenanted and in what timeframe.
@@ -141,17 +131,19 @@ purchase contract of the 19 Turnkey properties at D.C. manor, Woodfield, Newcast
 West (b) when are the terms of offer to the public likely to be advertised and (c)
 when those units will be available for occupancy.
 
-I will ask at the next Meeting for the raised road constructions between the entrance
+| will ask at the next Meeting for the raised road constructions between the entrance
 to Michael Harnett Close and Newcastle West Motor Factors to be refined in the
 interest of safety.
 
 Question submitted by Councillor Foley
 
-I will ask at the next Meeting for the footpath to be replaced from Maurice O’Connell
+| will ask at the next Meeting for the footpath to be replaced from Maurice O’Connell
 to Gala Supermarket on the Killarney Road, Abbeyfeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -161,7 +153,7 @@ to Gala Supermarket on the Killarney Road, Abbeyfeale.
 17.
 
 NOTICES OF MOTION
-submitt Coun: Galvin
+submitt Coun Galvin
 
 | will move at the next Meeting that this Council calls on the ESB to upgrade the
 electricity supply at Clash, Athea.
@@ -184,4 +176,6 @@ Notice of Motion submitted by Councillor Foley
 junction known as Dillane’s Forge leading onto the L7056 in Templeglantine.
 
 
----
+
+[[PAGE_END:3]]
+

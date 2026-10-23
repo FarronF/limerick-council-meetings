@@ -1,6 +1,11 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2018 — 02 - February
 
 * [07 Monthly Meeting Of The Municipal District Of Newcastle West](07-Monthly Meeting of the Municipal District of Newcastle West/README.md)
+* [12 Meeting Of The Economic Development, Enterprise And Planning Spc](12-Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
 * [12 Meeting Of Travel And Transportation Strategic Policy Committee](12-Meeting of Travel and Transportation Strategic Policy Committee/README.md)
 * [13 Monthly Meeting Of The Municipal District Of Adare Rathkeale](13-Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
 * [15 Monthly Meeting Of The Municipal District Of Cappamore Kilmallock](15-Monthly Meeting of the Municipal District of Cappamore-Kilmallock/README.md)

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_15_december_2014.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_15_december_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
 DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER,
@@ -102,7 +103,9 @@ Community, Leisure and Emergency Services
 Update on the Arts, Culture and Sports Areas
 
 Mr. Damien Brady, Acting Director, Community, Leisure and Emergency Services
----
+
+[[PAGE_END:1]]
+
 presented an update on the Arts, Culture and Sports areas which included the following :
 
 • An overview of the library service including infrastructure, vision and service
@@ -188,7 +191,9 @@ issued and the Council was committed to the continuing success of the course.
 establishing the appropriate structures were ongoing but no formal proposals were
 
 in place yet.
----
+
+[[PAGE_END:2]]
+
 The following further points were clarified by the Acting Director, Community, Leisure and
 
 Emergency Services :
@@ -266,7 +271,9 @@ Road junction.
 • In relation to concerns for pedestrian safety at the rail overbridge, discussion had
 
 taken place with Irish Rail with regard to a pedestrian tunnel at this location but the
----
+
+[[PAGE_END:3]]
+
 provision of same would be outside the scope of the Smarter Travel works due to
 
 funding limitations. The proposed works would however promote the rail overbridge
@@ -350,7 +357,9 @@ Question submitted by Councillor Joe Leddin
 ***collecting domestic rubbish so as to prevent traffic congestion especially on main***
 
 ***access roads to the city.***
----
+
+[[PAGE_END:4]]
+
 **REPLY**:
 
 Draft bye-laws, the "Limerick City and County Council, Storage, Presentation
@@ -434,7 +443,9 @@ In relation to painting the Black Bollards and Chain adjacent to the steps on
 Howley's Quay to make it more visible at night Limerick City and County
 
 Council will examine this issue and carry out paint work in quarter 1 in 2015.
----
+
+[[PAGE_END:5]]
+
 7.
 
 Notice of Motion submitted by Councillor Joe Leddin
@@ -560,7 +571,9 @@ DS131
 Woodlawn Park, Ballysimon Road
 
 DS232
----
+
+[[PAGE_END:6]]
+
 11
 
 Cogan Street
@@ -716,7 +729,9 @@ noted that the new Planning Bill includes a “use it or lose it” clause.
 It was agreed that derelict sites would be discussed in more detail at a forthcoming
 
 meeting.
----
+
+[[PAGE_END:7]]
+
 8.
 
 Notice of Motion submitted by Councillor Cian Prendiville
@@ -806,7 +821,9 @@ conjunction with the City and County Council and a further approximately
 €1.2 million per year from a number of Departments in the HSE.
 
 Limerick City and County Council as Lead Local Authority for Homelessness
----
+
+[[PAGE_END:8]]
+
 in the Mid West Region are currently in the process of reviewing the delivery
 
 of all homeless services to assess, plan and align the delivery of services to
@@ -888,7 +905,9 @@ The National Homelessness Implementation Strategy and the Regional Mid-
 West Homelessness Strategy is focused on the delivery of Housing Led
 
 solutions to dealing with Homelessness. This system has been proven to
----
+
+[[PAGE_END:9]]
+
 deliver a greater level of success to individuals at a fraction of the cost of
 
 delivering emergency accommodation in hostel type accommodation. The
@@ -970,7 +989,9 @@ involved in the assessment of pupils and noted that the teachers unions had aske
 external moderators to be appointed and an independent chair. He noted that teachers did
 
 not take strike action lightly and that a further strike was planned for 22nd January, 2015.
----
+
+[[PAGE_END:10]]
+
 In seconding the motion, Cmhlr. Ó Ceallaigh indicated that he wished to extend his full
 
 support to both teachers and pupils in this dispute as he anticipated that the percentage of
@@ -1002,4 +1023,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

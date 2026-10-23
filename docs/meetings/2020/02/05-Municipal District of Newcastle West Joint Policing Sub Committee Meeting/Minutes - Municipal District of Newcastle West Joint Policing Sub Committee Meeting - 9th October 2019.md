@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2019-10-09-minutes-jpc-subcommittee.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 9th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2019-10-09-minutes-jpc-subcommittee.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -90,7 +91,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2. Policing Issues in the District
@@ -162,7 +165,9 @@ to be cautious when disclosing bank details.
 Sergeant Thompson gave a comprehensive overview of the Text Alert System ,which is of great
 
 benefit to the local community and the Gardai. He also noted its used in locating missing persons.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members acknowledged the work of the Community Alert groups and the importance of
@@ -206,4 +211,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

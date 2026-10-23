@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-january-2026.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 19th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE**
@@ -88,7 +89,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting. No
 
 such interests were declared.
----
+
+[[PAGE_END:1]]
+
 **3.Limerick City Centre**
 
 **(a)Follow up on Christmas in Limerick**
@@ -162,7 +165,9 @@ scheduled to be removed shortly.
 Members thanked the team for their hard work in ensuring the Christmas in Limerick
 
 campaign was a huge success.
----
+
+[[PAGE_END:2]]
+
 **(b)Vacant Business Premises Rates Incentive Scheme 2026**
 
 The Head of Economic and Tourism Development, with the aid of a presentation, gave an
@@ -222,7 +227,9 @@ noting that this will require a Part 8 planning consent.
 ***I will ask at the next meeting of the Metropolitan District of Limerick**for an update on***
 
 ***when**a public toilet**will be installed**at Castletroy Park and Clare Street Park.***
----
+
+[[PAGE_END:3]]
+
 **REPLY:** There are public toilet facilities physically in place at Castletroy Park but these
 
 require connection to the Uisce Eireann network prior to becoming operational. The
@@ -290,7 +297,9 @@ the works contract to PBC Ltd. to advance construction on the Living Georgian Ci
 33/34 Thomas Street Project and these works are due to commence in Q1 2026 with
 
 an anticipated 19 month works programme.
----
+
+[[PAGE_END:4]]
+
 **10.Questionsubmittedby Councillor S. Beasley**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick:***
@@ -368,7 +377,9 @@ enforcement under the Act for this offence is very challenging.
 ***(f)**What is the timeline for full implementation of this campaign across all**appropriate***
 
 ***venues**in the Metropolitan District.***
----
+
+[[PAGE_END:5]]
+
 **REPLY:** An application for the 2025 Community Safety Fund to implement this initiative city
 
 wide was unsuccessful so no actions have been taken to date. The Night-Time
@@ -462,7 +473,9 @@ from Homelessness in the requested years has been as follows:
 62
 
 80
----
+
+[[PAGE_END:6]]
+
 **13.Questionsubmittedby Councillor E. Secas**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for a breakdown of***
@@ -572,7 +585,9 @@ Foynes Aviation Museum themed Irish Coffee celebration
 Halloween at Lough Gur visitor centre
 
 €3,500
----
+
+[[PAGE_END:7]]
+
 Programming:
 
 Cost
@@ -666,7 +681,9 @@ publication of the preferred route corridor. We also await the announcement of t
 ***I will ask at the next meeting of the Metropolitan District of Limerick if Limerick City &***
 
 ***County Council will be implementing inline bus stops which allow buses**to collect***
----
+
+[[PAGE_END:8]]
+
 ***passengers without having to pull in off the road on routes throughout Limerick**City**to aid***
 
 ***traffic congestion.***
@@ -824,7 +841,9 @@ Patrickswell
 • ***Fr. Russell Road Scheme***
 
 • ***Mill Road***
----
+
+[[PAGE_END:9]]
+
 **REPLY:**  It’s important to note that each project presents unique challenges, influenced by
 
 factors such as location, varying ground conditions, and the involvement of multiple
@@ -898,7 +917,9 @@ VAT). MHL Consulting assessed the claims and determined a final account sum of
 €4,370,254.01 (ex VAT), which the contractor disputed, leading to a Conciliation
 
 process.
----
+
+[[PAGE_END:10]]
+
 On October 28, 2025, the Conciliator recommended a final payment of
 
 €4,950,500.00 (ex VAT), which was accepted by the NTA, Limerick City and County
@@ -964,7 +985,9 @@ The Council will conduct a speed survey to assess the benefit of these measures 
 April 2026. If further works are required the Council will apply for a S38 notice to
 
 implement further Traffic Calming measures
----
+
+[[PAGE_END:11]]
+
 **19.Questionsubmittedby Councillor M. Donoghue**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick what measures are in***
@@ -1036,7 +1059,9 @@ accommodation for homeless persons/emergency accommodation. An amount of
 €8,846,928 from this total was spent on hotel or bed and breakfast type
 
 accommodation.
----
+
+[[PAGE_END:12]]
+
 The number of families availing of these services is reported monthly in the Executive
 
 Report which is published on www.limerick.ie. In December 2025 there were 135
@@ -1102,7 +1127,9 @@ event).
 **REPLY:** The Draft Clarina/Ballybrown Public Realm Enhancement Plan is currently being
 
 finalised and includes proposed public realm design layouts for several key areas.
----
+
+[[PAGE_END:13]]
+
 We will be a presentatiing to Councillors and further Public Engagement events will
 
 be held in Q1 2026.
@@ -1232,7 +1259,9 @@ December
 **46**
 
 **33**
----
+
+[[PAGE_END:14]]
+
 Total no. dogs to enter shelter
 
 201
@@ -1298,7 +1327,9 @@ approved URDF funding is €1.4m for the Food Hub.
 The current status related to the Food Hub is that a preferred premises has been
 
 identified and the Council are working with stakeholders to secure the purchase.
----
+
+[[PAGE_END:15]]
+
 **29.Questionsubmittedby Councillor O. O’Sullivan**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for a pipeline of all***
@@ -1510,7 +1541,9 @@ Table 2 identifies the timeline of when commencement notices were served.
 **26**
 
 **193**
----
+
+[[PAGE_END:16]]
+
 **NOTICES OF MOTION**
 
 **30.Notice of Motionsubmittedby Councillor C. Slattery**
@@ -1574,7 +1607,9 @@ agreed.
 Members welcomed the motion and acknowledged the benefit this would have for the
 
 people of Limerick and for retailers in the area.
----
+
+[[PAGE_END:17]]
+
 **REPLY:** Parking regulations in Ireland do not specifically address click and collect parking
 
 spaces. The Council relies on the enforcement of double yellow lines within the
@@ -1650,7 +1685,9 @@ removal of pet waste from public places by owners and advises of our “any bag,
 bin” approach. The Council no longer provides pet waste bins or dedicated pet waste
 
 bag dispensers following a review of public health concerns, improper use and cost
----
+
+[[PAGE_END:18]]
+
 efficiency concerns. Most dog bins have now been removed and replaced with street
 
 bins or park bins. “Any bag, any bin” encourages owners to bag and bin pet waste via
@@ -1720,7 +1757,9 @@ County Council. I confirm that Limerick City and County Council will commence
 engagement with the registered property owner to initiate the process of taking in
 
 charge the said section of public carriageway.
----
+
+[[PAGE_END:19]]
+
 **35.Notice of Motionsubmittedby Councillor C. Slattery**
 
 ***I**will move at the next meeting of the Metropolitan District of Limerick that Limerick***
@@ -1792,7 +1831,9 @@ Members queried where the delays had occurred that prevented the Council from dr
 down the full allocation. They requested that a detailed review be undertaken, including the
 
 timeline of events outlining the actions that led to these delays.
----
+
+[[PAGE_END:20]]
+
 In response, the Senior Executive Officer, Strategy & Non-LA Housing Construction,
 
 acknowledged the Members’ frustrations and welcomed the review.
@@ -1856,7 +1897,9 @@ Beasley and agreed.
 to return the property to stock. Works are carried out to ensure that it complies with
 
 the Housing (Standards for Rented Houses) Regulations 2019.
----
+
+[[PAGE_END:21]]
+
 Properties are classified in accordance with the works required as follows:
 
 • Cat 1 – Minor Works less than €50,000
@@ -1922,7 +1965,9 @@ be given to these areas during extreme weather events.
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor
 
 Hickey O’Mara and agreed.
----
+
+[[PAGE_END:22]]
+
 **41.Notice of Motionsubmittedby Councillor Hickey O’Mara**
 
 ***I**will move at the next meeting of the Metropolitan District of Limerick that we agree to***
@@ -1992,7 +2037,9 @@ and agreed.
 In moving the Motion, Councillor O’Sullivan stressed the importance of ensuring issues
 
 related to the Metropolitan District receives consistent attention.
----
+
+[[PAGE_END:23]]
+
 **REPLY:** Local Community Safety Partnerships are established under the national Community
 
 Safety Partnership framework. This sets out a Partnerships statutory structure,
@@ -2022,4 +2069,6 @@ This concluded the Meeting.
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:24]]
+

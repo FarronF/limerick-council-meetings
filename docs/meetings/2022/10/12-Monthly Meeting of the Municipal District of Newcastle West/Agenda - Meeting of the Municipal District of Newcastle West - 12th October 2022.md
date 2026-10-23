@@ -16,30 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20October.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%202022-10-12%20Agenda%20October.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 i Ditiche Bardais an Chaisledin Nua Thiar,
-_—_—_— stolen ferenbecd Comhairie Cathrach agus Contae Luimnigh,
-& Contae Luimni:
+_—_—_ stele fren ecd Comhairie Cathrach agus Contae Luimnigh,
+& Contae Luimni
 
-Aras William Smith O'Brien,
+Aras Williarn Smith O'Brien,
 
-a Gortbut
+Oe Gortbut
 
-— Limerick City An Caisieén Nua Thiar,
-& County Council Co, Luimnigh
+— Limerick City An Caislean Nua Thiar,
+
+& County Council Co. Luirnnighy
+
 Newcastle West Municipal District,
-
 Limerick City and County Council,
-Ares Willlarn Smith O'Brien,
+Ares Willian Smith O'Brien,
 
 Gortboy,
 Newcastle West,
 Co. Limerick.
-7 October, 2022 Eircode: V42EH73
+7" October, 2022 Eircode: V42EH73
 t: +353 (0) 69 62100
 To:
 
@@ -56,8 +58,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 12” O
 
 Is mise le meas,
 
-fi
-7 fs
+a sf
 
 Martin Curran,
 Meetings Administrator.
@@ -77,14 +78,14 @@ West held on 20" September, 2022
 2. Disposal of Land
 To note proposal for the disposal of property at Main Street, Abbeyfeale, Co Limerick.
 (Report Enclosed)
-= maaaitgy joey eteshsr
 imerick
+Ceanncheathnii Chorpardideach, Céna gCeannaitho, Luimneach vy A rtatarser star
+Corporate Headquarters, Merchant's Quay, Limerick (061 - 586 000
 
-Ceanncheathni Chorpardideach, Céna gCeannaitho, Luimneach vy tater steer
-Corporate Headquarters, Merchant's Quay, Limerick (061 - 556 000
 
 
----
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -107,12 +108,12 @@ To review position in relation to allocations under the General Municipal Alloca
 Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting that a detailed accident report be sought on Dore’s
-Cross, Templeglantine on the N21 from the NRA, Gardai and the TIl.
+Cross, Templeglantine on the N21 from the NRA, Gardai and the THI.
 
 | will ask at the next Meeting for an update on the hedge cutting programme in this
 Municipality.
 
-| will ask at the next Meeting for an update on the Bank of Ireland building in
+I will ask at the next Meeting for an update on the Bank of Ireland building in
 Abbeyfeale.
 
 | will ask at the next Meeting that the roadside hedgerow be cut back in the vicinity of
@@ -133,7 +134,9 @@ Notices of Motion submitted by Councillor L. Galvin
 Road Safety Audit be carried out at Dore’s Cross, Templeglantine.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -148,7 +151,7 @@ Abbeyfeale.
 
 Notice of Motion submitted by Councillor T. Ruddle
 
-! will move at the next Meeting that following on from my Question at last month’s
+| will move at the next Meeting that following on from my Question at last month’s
 Meeting in relation to public toilet in Market Yard, would the Council consider building
 its own toilet, or buying outright a toilet that is already in the Market Yard. It costs
 over 38,000 euro per year to rent this and the income is only 2,600 euro.
@@ -166,4 +169,6 @@ Newcastle West.
 the junction at Gortboy and Station Road safer for vehicular and pedestrian access.
 
 
----
+
+[[PAGE_END:3]]
+

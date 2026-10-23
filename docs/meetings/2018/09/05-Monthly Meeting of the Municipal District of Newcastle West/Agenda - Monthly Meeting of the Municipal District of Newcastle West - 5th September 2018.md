@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%202018-09-05%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 5th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%202018-09-05%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 AD
 
-—————-
+a
 Limerick
 CITY & COUNTY
 
@@ -33,7 +34,7 @@ COUNCIL
 
 To: Th haoirleach and Each Member of the Muni
 
-Duiche Bardais an Chaisledin Nua Thiar,
+Duiche Bardais an Chaisleain Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
@@ -73,14 +74,14 @@ To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 
 
 1. Minutes
 July, 2018.
-y ‘apital Investment/Pro
+y 5 apital Investment/Pro
 
 Disposal of Land
 
 rvices Dir ra
 
 (a) To note proposal for the disposal of land at Castleview, Newcastle West,
-Co, Limerick, to Michael and Kathleen O'Brien.
+Co. Limerick, to Michael and Kathleen O'Brien.
 
 (Report Enclosed)
 
@@ -88,7 +89,7 @@ Co, Limerick, to Michael and Kathleen O'Brien.
 
 Newcastle West, Co. Limerick.
 
-Ceanncheathrii Chorparéideach, Cé na gCeannaithe, Luimnesch
+Ceanncheathrii Chorpardéideach, Cé na gCeannaithe, Luimnesch
 
 Corporate Headquarters, Merchants Quay, Limerick
 
@@ -98,7 +99,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 w @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -120,7 +123,7 @@ Questions submitted by Councillor L. Galvin
 Waste Water Treatment Plants in each of the following villages (a) Athea
 (b) Tournafulla (c) Mountcollins (d) Templeglantine (e) Abbeyfeale.
 
-| will ask at the next Meeting for a detailed report on upgrade works for Wards Cross
+I will ask at the next Meeting for a detailed report on upgrade works for Wards Cross
 and Devon Cross on the N21.
 
 | will ask at the next Meeting for a breakdown of Council available lands for housing in
@@ -152,34 +155,29 @@ on the right hand approach to the metal bridge leaving the N21 when travelling
 eastwards.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-12.
+i otion submitted b' uncillor L. Galvin
 
-13.
-
-14.
-
-15.
-
-i otion submitted b: uncillor L. Galvin
-
-| will move at the next Meeting that funding be set aside at budget time for the
+12. —_I will move at the next Meeting that funding be set aside at budget time for the
 provision of a public toilet in Abbeyfeale town.
 
 Notice of Motion submitted by Councillor F. Foley
 
-[ will move at the next Meeting that as part of the proposed Traffic Management Plan
+13. _ | will move at the next Meeting that as part of the proposed Traffic Management Plan
 for Abbeyfeale that funding be sought for a public toilet in the town.
 
-Notice of Motion submitted by Councillor Collins
-
+14. Notice of Motion submitted by Councillor Collins
 | will move at the next Meeting that an immediate plan be implemented by Irish Water
 to restore a full and safe drinking water supply to the residents at O'Connor Park,
 Ardagh.
 
-rrespondence
+15. rrespondence
 
 
----
+
+[[PAGE_END:3]]
+

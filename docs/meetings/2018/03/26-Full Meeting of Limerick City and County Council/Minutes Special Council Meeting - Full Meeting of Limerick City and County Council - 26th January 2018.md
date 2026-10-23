@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20%28b%29%20Minutes%20Special%20Council%20Meeting%20260118.pdf)
+**Original file:** [Minutes Special Council Meeting - Full Meeting of Limerick City and County Council - 26th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20%28b%29%20Minutes%20Special%20Council%20Meeting%20260118.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HED IN THE COUNCIL CHAMBER,
@@ -76,7 +77,9 @@ electorate. He had served as Councillor from 1991-1999 and served as Chairman in
 1997/1998. He added that he was a dedicated Councillor and was totally committed to
 
 Limerick and the people of Limerick. The Mayor also referred to his role serving on many
----
+
+[[PAGE_END:1]]
+
 2
 
 other Bodies during his term on the Council, including Limerick Harbour Authority,
@@ -132,4 +135,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

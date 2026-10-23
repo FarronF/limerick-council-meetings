@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-17th-december-2025_0.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 17th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-17th-december-2025_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s**
@@ -56,7 +57,9 @@ T. Goodwin (TG), Ms. N. McGarry (NMcG), Mr. S. McGlynn
 **Item 1: Minutes:**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 The Minutes of the Meeting of the Travel and Transportation
@@ -106,7 +109,9 @@ service yet but will update accordingly.
  Parklets were coming to end-of-life and LCCC will look at
 
 future of each on a case by case basis.
----
+
+[[PAGE_END:2]]
+
 3
 
  LCCC is having positive discussions currently with vendors
@@ -156,7 +161,9 @@ following procurement by NTA
 looking for additional resources with a vew to make
 
 incremental improvements.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Item 3: Draft LCCC Accessibility Strategy: – Mr. Toby Goodwin,**
@@ -204,7 +211,9 @@ D.C. delivered a summary of the report on the study of
 Integration of the Active Travel Programme with Emergency
 
 Services; the summary was previously delivered on the 26th
----
+
+[[PAGE_END:4]]
+
 5
 
 November 2025 to the elected members of the Metropolitan
@@ -252,7 +261,9 @@ Services for all members for all SPC’s on 14th January 2026.
 Each SPC is encouraged to attend the workshops and develop
 
 their own work programme.
----
+
+[[PAGE_END:5]]
+
 6
 
 **Item 6: Item for discussion – Update on approach to**
@@ -296,7 +307,9 @@ schemes in an area which would take precedence.
  The executive is currently working on a protocol on how
 
 junction upgrades are prioritised with pedestrian facilities.
----
+
+[[PAGE_END:6]]
+
 7
 
  Specialised consultants have been appointed to meet all the
@@ -344,7 +357,9 @@ for discussion, as it is operational and not strategic policy. Cllr E.
 Ryan concurred and asked where members can raise issues if
 
 they cannot raise them at the SPC, as cannot be raised at the full
----
+
+[[PAGE_END:7]]
+
 8
 
 council meeting. In response Mr. McGrath confirmed that this
@@ -392,7 +407,9 @@ and after the use of glyphosate or other toxic herbicides
 herbicides in their work
 
 4. Agree to end use of glyphosate and other toxic herbicides.
----
+
+[[PAGE_END:8]]
+
 9
 
 In response P.L. advised the following: –
@@ -442,7 +459,9 @@ members for the time given to the topic.
 The chair wished to remind members that this is not a Motion, it
 
 is an item for discussion
----
+
+[[PAGE_END:9]]
+
 10
 
 M.C. advised members that the matter will go forward as a
@@ -464,4 +483,6 @@ following John Cregan’s resignation.
 **alternatives.**
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:10]]
+

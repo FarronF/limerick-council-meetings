@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202023_0.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202023_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN** **COLÁISTE CHIARÁIN, CROOM, CO. LIMERICK ON**
@@ -84,7 +85,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 It was agreed Item 4 on the Agenda would be taken next.
@@ -154,7 +157,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That, the Draft Schedule of Municipal District Works, as circulated, be adopted”.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -224,7 +229,9 @@ to allocate the following:
  €1,000 to Rathkeale Community Council.
 
  €2,500 to Adare Recreation and Community Complex CLG t/a Manor Fields Adare.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Keary, seconded by Councillor Collins, it was agreed to
@@ -288,4 +295,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

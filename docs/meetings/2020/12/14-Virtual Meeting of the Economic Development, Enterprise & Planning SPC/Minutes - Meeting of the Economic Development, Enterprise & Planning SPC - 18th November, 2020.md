@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/minutes-of-spc-mtg-18th-november-2020.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning SPC - 18th November, 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/minutes-of-spc-mtg-18th-november-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE ECONOMIC DEVELOPMENT,**
 
 **ENTERPRISE AND PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON**
@@ -92,7 +93,9 @@ The report sets out a five guiding principles in supporting the SME sector;
  Successful SMEs need to be financially resilient
 
 A number of recommendations with short and medium actions were laid out in the Report
----
+
+[[PAGE_END:1]]
+
 1. *Make supporting SMEs a key priority for the local economy*. Actions include the
 
 mapping of all businesses across Limerick; regular reporting on SME performance
@@ -176,7 +179,9 @@ market can be satisfied by local people.
 On the proposal of Cllr B Collins and seconded by Cllr J Scanlan it was agreed unanimously to accept
 
 the recommendations as set out in the plan. It was further agreed that the Limerick City & County
----
+
+[[PAGE_END:2]]
+
 Council would forward their endorsement of the Plan to the National SME Growth Task Force for
 
 their consideration**.**
@@ -208,4 +213,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

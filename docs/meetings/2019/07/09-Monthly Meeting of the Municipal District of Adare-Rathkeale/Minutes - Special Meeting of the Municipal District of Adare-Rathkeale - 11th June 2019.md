@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28c%29%20Minutes%20of%20Special%20Meeting%2011th%20June%2C%202019.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 11th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20%28c%29%20Minutes%20of%20Special%20Meeting%2011th%20June%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -50,7 +51,7 @@ allocate the following:
 @ €400 to Councillor Teskey (to be allocated to Raheen Residents Association).
 
 On the proposal of Councillor Teskey, seconded by Councillor Keary it was agreed to
-allocate the following from Councillor McMahon's allocation:
+allocate the following from Councillor McMahon’s allocation:
 
 €4,500 to Foynes Maritime Museum.
 
@@ -65,7 +66,9 @@ allocate the following from Councillor McMahon's allocation:
 €1,000 to Foynes District Community Council.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, Councillor
@@ -80,4 +83,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

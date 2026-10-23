@@ -36,41 +36,41 @@ Minutes - Special Meeting of Limerick City and County Council - 10th June 2020.p
 
 COVID-19 Update to Council Meeting - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02-covid-19-update-to-council-meeting-26-06-2020.pdf) - Text not extracted
 
-Land Disposal_ 130 Vale Ave., Carew Park - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-a-land-disposal-130-vale-ave.-carew-park.pdf) - Text not extracted
+Land Disposal: 130 Vale Ave., Carew Park - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-a-land-disposal-130-vale-ave.-carew-park.pdf) - Text not extracted
 
-Land Disposal_ 31 Kilmurry Avenue - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-b-land-disiposal-31-kilmurry-ave-garryowen.pdf) - Text not extracted
+Land Disposal: 31 Kilmurry Avenue - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-b-land-disiposal-31-kilmurry-ave-garryowen.pdf) - Text not extracted
 
-Land Disposal_ 43 Colbert Park Janesboro - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-c-land-disposal-43-colbert-park-janesboro.pdf) - Text not extracted
+Land Disposal: 43 Colbert Park Janesboro - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-c-land-disposal-43-colbert-park-janesboro.pdf) - Text not extracted
 
-Land Disposal_ 77 Lenihan Avenue - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-d-land-disposal-77-lenihan-avenue-.pdf) - Text not extracted
+Land Disposal: 77 Lenihan Avenue - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-d-land-disposal-77-lenihan-avenue-.pdf) - Text not extracted
 
-Land Disposal_ Ballinveale, Crecora - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-e-land-disposal-ballinveale-crecora.pdf) - Text not extracted
+Land Disposal: Ballinveale, Crecora - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-e-land-disposal-ballinveale-crecora.pdf) - Text not extracted
 
-Land Disposal_ Scanlon Park - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-f-land-disposal-scanlon-park-castleconnell.pdf) - Text not extracted
+Land Disposal: Scanlon Park - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-f-land-disposal-scanlon-park-castleconnell.pdf) - Text not extracted
 
-Land Disposal_ Ennis Road, Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-g-land-disposal-ennis-road-limerick.pdf) - Text not extracted
+Land Disposal: Ennis Road, Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-g-land-disposal-ennis-road-limerick.pdf) - Text not extracted
 
-Land Disposal_ Former Provincial Floor Covering Site, Galvone Ind. Est., Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-h-land-disposal-former-provincial-floor-covering-site-galvone-ind.-est.-limerick.pdf) - Text not extracted
+Land Disposal: Former Provincial Floor Covering Site, Galvone Ind. Est., Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-h-land-disposal-former-provincial-floor-covering-site-galvone-ind.-est.-limerick.pdf) - Text not extracted
 
-Land Disposal_ Southill Boxing Club, Galvone Ind. Est., Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-i-land-disposal-southill-boxing-club-galvone-ind.-est.-limerick.pdf) - Text not extracted
+Land Disposal: Southill Boxing Club, Galvone Ind. Est., Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-i-land-disposal-southill-boxing-club-galvone-ind.-est.-limerick.pdf) - Text not extracted
 
-Land Disposal_ Parkmore, Shanagolden - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-j-land-disposal-parkmore-shanagolden.pdf) - Text not extracted
+Land Disposal: Parkmore, Shanagolden - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-j-land-disposal-parkmore-shanagolden.pdf) - Text not extracted
 
-Land Disposal_ 4 Galtee View, Galbally - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-k-land-disposal-4-galtee-view-galbally.pdf) - Text not extracted
+Land Disposal: 4 Galtee View, Galbally - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-k-land-disposal-4-galtee-view-galbally.pdf) - Text not extracted
 
-Land Disposal_ 12 Island Road, Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-l-land-disposal-12-island-road-limerick.pdf) - Text not extracted
+Land Disposal: 12 Island Road, Limerick - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-l-land-disposal-12-island-road-limerick.pdf) - Text not extracted
 
-Land Disposal_ Rathronan, Gortnagross, Athea - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-m-land-disposal-rathronan-gortnagross-athea.pdf) - Text not extracted
+Land Disposal: Rathronan, Gortnagross, Athea - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-m-land-disposal-rathronan-gortnagross-athea.pdf) - Text not extracted
 
-Land Disposal_ Main Street, Cappamore - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-n-land-disposal-main-street-cappamore.pdf) - Text not extracted
+Land Disposal: Main Street, Cappamore - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-n-land-disposal-main-street-cappamore.pdf) - Text not extracted
 
-Land Disposal_ Gardenfield, Newcastle West - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-o-land-disposal-gardenfield-newcastle-west.pdf) - Text not extracted
+Land Disposal: Gardenfield, Newcastle West - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-o-land-disposal-gardenfield-newcastle-west.pdf) - Text not extracted
 
-Land Disposal_ Appletown, Broadford - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-p-land-disposal-appletown-broadford.pdf) - Text not extracted
+Land Disposal: Appletown, Broadford - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-p-land-disposal-appletown-broadford.pdf) - Text not extracted
 
-Land Disposal_ 7 Beechwood Drive, Ballyorgan - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-q-land-disposal-7-beechwood-drive-ballyorgan.pdf) - Text not extracted
+Land Disposal: 7 Beechwood Drive, Ballyorgan - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-q-land-disposal-7-beechwood-drive-ballyorgan.pdf) - Text not extracted
 
-Land Disposal_ Gortboy, Kilmallock - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-r-land-disposal-gortboy-kilmallock.pdf) - Text not extracted
+Land Disposal: Gortboy, Kilmallock - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/03-r-land-disposal-gortboy-kilmallock.pdf) - Text not extracted
 
 Chief Executive's Report January 2020 - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-a-i-chief-executives-report-january-2020.pdf) - Text not extracted
 
@@ -82,7 +82,7 @@ Chief Executive's Report April 2020 - Full Meeting of Limerick City and County 
 
 Chief Executive's Report May 2020 - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-a-v-chief-executives-report-may-2020.pdf) - Text not extracted
 
-Annual Report_ Cover Report - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-b-i-annual-report-cover-report.pdf) - Text not extracted
+Annual Report: Cover Report - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-b-i-annual-report-cover-report.pdf) - Text not extracted
 
 Limerick City and County Council Annual Report 2019 - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/limerick-council-annual-report-2019-v12-onscreen.pdf) - Text not extracted
 
@@ -96,7 +96,7 @@ Additional Expenditure 2019 - Full Meeting of Limerick City and County Council 
 
 Audit Committee Annual Report - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-g-audit-committee-annual-report-2019.pdf) - Text not extracted
 
-Strategic Policy Committees_ Appointment of Sectoral Representatives - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-h-spcs-appointment-of-sectoral-representatives.pdf) - Text not extracted
+Strategic Policy Committees: Appointment of Sectoral Representatives - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-h-spcs-appointment-of-sectoral-representatives.pdf) - Text not extracted
 
 Limerick Market Trustees - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/04-i-limerick-market-trustees.pdf) - Text not extracted
 
@@ -122,7 +122,7 @@ Limerick Development Plan - Full Meeting of Limerick City and County Council - 
 
 Local Community Development Committee Annual Report 2019 - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/06-a-lcdc-annual-report-2019.pdf) - Text not extracted
 
-Limerick Cultural Strategy_ Strategic Investment Priorities - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/06-b-limerick-cultural-strategy-strategic-investment-priorities.pdf) - Text not extracted
+Limerick Cultural Strategy: Strategic Investment Priorities - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/06-b-limerick-cultural-strategy-strategic-investment-priorities.pdf) - Text not extracted
 
 International Mobility Award Scheme - Full Meeting of Limerick City and County Council - 26th June 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/06-c-international-mobility-award-scheme.pdf) - Text not extracted
 

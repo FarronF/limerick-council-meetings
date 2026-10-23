@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/03-minutes-special-meeting-meeting-of-the-municipal-district-of-cappamore-kilmallock-5-september-2024.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 5 September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/03-minutes-special-meeting-meeting-of-the-municipal-district-of-cappamore-kilmallock-5-september-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK ON THE
@@ -64,7 +65,9 @@ out proposals for the disposal of property acquired compulsorily under the Derel
 Act, 1990 at Foxhall West, Colmanswell, Co Limerick and the intention to bring the
 
 Section 183 Notice to Full Council for approval.
----
+
+[[PAGE_END:1]]
+
 The report, as circulated, was proposed by Councillor Carey, seconded by Councillor
 
 M.Ryan and agreed.
@@ -78,4 +81,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

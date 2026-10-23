@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/05%20Budget%20Meeting%20Minutes_0.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/05%20Budget%20Meeting%20Minutes_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING
 OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD
-IN ARAS MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CO.
+IN ARAS MAINCHIN SEOIGHE, MILLMOUNT, KILMALLOCK, CoO.
 LIMERICK, ON THURSDAY, 17™ OCTOBER, 2019, AT 2.45 P.M.
 
 PRESENT IN THE CHAIR:
@@ -58,20 +59,22 @@ the Metropolitan District allocation.
 
 The proposed breakdown was outlined as follows:
 
-| Allocation-2020 | more-Kilmallock MD
+| Allocation-2020 _ more-Kilmallock MD
 
 Bo4 Local Roads €130,000
 
 DOS Tourism Development Recreation & €10,000
 Amenity __|
 | FO4 | Community Initiatives | _ __ €10,000 |
-Special Projects-LA Infrastructure __ €100,000 |
+Special Projects-LA Infrastructure _ €100,000 |
 Additional Funds 2020 LPT €45,000 _ __|
 
 Total | General Municipal Allocation | €295,000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A discussion took place on the Service category as outlined and the funding assigned to
@@ -85,7 +88,7 @@ Seconded By: Councillor Teefy;
 And Resolved:
 
 “That the Budgetary Plan for the Municipal District of Cappamore-Kilmallock for the
-financial year ended 31% December, 2020, in the total sum of €295,000 and including the
+financial year ended 31° December, 2020, in the total sum of €295,000 and including the
 amendment to move the amount of €145,000 from Special Projects-LA Infrastructure to DOS
 Tourism Development, Recreation and Amenity be adopted in accordance with Section 102
 of the Local Government Act, 2001, as amended.
@@ -98,4 +101,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

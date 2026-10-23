@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/01%20Minutes%2012th%20September%2C%202017.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Adare-Rathkeale - 12th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/01%20Minutes%2012th%20September%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -90,7 +91,9 @@ Department of Housing, Planning and Local Government in this regard and
 suggested that the District Members pass a related resolution.
 
 • The introduction of CCTV cameras.
----
+
+[[PAGE_END:1]]
+
 2
 
 • The introduction of traffic calming measures at an estimated cost of €178,000
@@ -168,7 +171,9 @@ consideration.
 • In relation to any one way traffic system on Main Street, consideration should be
 
 given to any fire or emergency response and also the effect on businesses.
----
+
+[[PAGE_END:2]]
+
 3
 
 The A/Senior Executive Engineer, Service Operations West Division acknowledged the
@@ -244,7 +249,9 @@ Proposed by Councillor O’Brien;
 Seconded by Councillor McMahon;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
@@ -318,7 +325,9 @@ Proposed by Councillor Keary;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 "That, having considered the Chief Executive's Report dated 22nd August, 2017, the
@@ -396,7 +405,9 @@ Council’s Public Interest Development Office, and how this would be applied in
 with a view to encouraging the public to articulate their views on the public realm and in
 
 particular in relation to a proposed ramp at the entrance to the village.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members noted the many positives associated with Adare but stressed the extent of
@@ -496,7 +507,9 @@ Rathkeale Community Arts Group
 Meanus Community Hall
 
 €2,000
----
+
+[[PAGE_END:6]]
+
 7
 
 **6.**
@@ -564,7 +577,9 @@ was noted by Members.
 It was agreed that a Deputation from Foynes and District Community Council should
 
 attend at a future Meeting of the District.
----
+
+[[PAGE_END:7]]
+
 8
 
 **10.**
@@ -628,7 +643,9 @@ In proposing the Motion Councillor Teskey highlighted the recent damage to relig
 property in Askeaton and it was agreed that the Motion should be sent to the Minister
 
 for Justice.
----
+
+[[PAGE_END:8]]
+
 9
 
 **14.**
@@ -700,7 +717,9 @@ including the importance of life saving equipment in the school curriculum. It w
 agreed that the Motion should go forward to the full Council in the name of the District
 
 with Councillor O’Brien as proposer.
----
+
+[[PAGE_END:9]]
+
 10
 
 **16.**
@@ -732,4 +751,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:10]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024_1.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024_1.pdf)
 
----
+[[FILE_START]]
+
 1
 
 12th April , 2024.
@@ -66,7 +67,9 @@ Matters Arising
 3.
 
 Declaration of Interest
----
+
+[[PAGE_END:1]]
+
 2
 
 4.
@@ -128,7 +131,9 @@ Limerick City & County Council extend the speed limit on the approach road on th
 from Bruff in Kilmallock, to include a 60Km section, installation of public lights and traffic
 
 calming measures for pedestrians.
----
+
+[[PAGE_END:2]]
+
 3
 
 10.Notice of Motion submitted by Councillor Carey
@@ -174,4 +179,6 @@ built in the District between 2019 and present, the number of vacant houses refu
 and reallocated in the District in the same period and the number of vacant houses in the
 
 area at present.”
----
+
+[[PAGE_END:3]]
+

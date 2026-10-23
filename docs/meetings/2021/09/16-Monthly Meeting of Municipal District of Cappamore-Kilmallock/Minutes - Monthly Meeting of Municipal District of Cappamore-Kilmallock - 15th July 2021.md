@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-i-minutes-15th-july-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-i-minutes-15th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
@@ -70,7 +71,9 @@ Seconded by Councillor Mitchell;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 NOTICES OF MOTIONS
@@ -120,7 +123,9 @@ speed limit between Barrington’s Bridge and Collin’s Cross to Operations and
 (Central Services). Central Services are responsible for the review of speed limits and will
 
 during the next Countywide speed limit review assess Cllr. Egan’s request.
----
+
+[[PAGE_END:2]]
+
 3
 
 3.Notice of Motion submitted by Councillor Michael Donegan
@@ -172,7 +177,9 @@ Main Construction Contract
 Land and Property
 
 Planning and Design
----
+
+[[PAGE_END:3]]
+
 4
 
 Archaeology
@@ -232,7 +239,9 @@ the reconstruction of the boundary walls, but due to the pandemic, works have be
 delayed. The restoration of the walls will commence in October/November of this
 
 year.
----
+
+[[PAGE_END:4]]
+
 5
 
 The Council will engage with the landowners in the near future in an effort to resolve the
@@ -286,7 +295,9 @@ be a lobbyist and the position would add a very expensive extra layer to Council
 additional powers and added the campaign surrounding the Directly Elected Mayor had
 
 been rushed and not enough clarity provided on the subject.
----
+
+[[PAGE_END:5]]
+
 6
 
 Councillor Ryan (Eddie) agreed also with these sentiments saying he felt the matter had not
@@ -346,7 +357,9 @@ Municipal District at the Centre.
 Councillor Teefy requested a housing workshop to be held before the September Municipal
 
 District meeting to discuss housing vacancies and repairs staffing etc.
----
+
+[[PAGE_END:6]]
+
 7
 
 Councillor Ryan (Eddie) thanked the staff and executive for their attendance at Galbally the
@@ -376,4 +389,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:7]]
+

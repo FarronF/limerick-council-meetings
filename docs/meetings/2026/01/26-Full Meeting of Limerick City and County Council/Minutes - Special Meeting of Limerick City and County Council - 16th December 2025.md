@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-16th-december-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 16th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-16th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK
@@ -90,7 +91,9 @@ advised that she had received a large number of calls from residents in Kileely,
 concerns regarding the recent installation of the new lighting in the area, noting that a
 
 petition had been signed by these residents. Following notice of the Meeting, further calls
----
+
+[[PAGE_END:1]]
+
 2
 
 had been received from residents in other areas including Ballynanty, Garryowen, Norwood
@@ -166,7 +169,9 @@ The Management Accountant confirmed that approval from the Department was receiv
 borrow €10m in December 2021. €6.4m has been paid to Cork County Council and €600,000
 
 paid in other costs, leaving a balance of €3m.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Director of Service, Transportation, Mobility and Public Realm advised there has been
@@ -232,4 +237,6 @@ This concluded the meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

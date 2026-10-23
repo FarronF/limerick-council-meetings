@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/00%20Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2012th%20December%202022.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/00%20Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2012th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -93,7 +94,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -151,7 +154,9 @@ Development Act, 2000 (as amended) and Part 8 of the Planning and Development Re
 2001 (as amended) in relation to the TUS Moylish to City Active Travel Scheme.
 
 (Report Enclosed).
----
+
+[[PAGE_END:2]]
+
 3
 
 **QUESTIONS**
@@ -207,7 +212,9 @@ suitable at this location.
 I will ask at the next meeting of the Metropolitan District of Limerick as to when will the Bloodmill
 
 Road be opened to link with Castletroy and what are the detailed plans for this road.
----
+
+[[PAGE_END:3]]
+
 4
 
 **12.Question submitted by Councillor C. Slattery**
@@ -273,4 +280,6 @@ for residential or cultural use.
 **19.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:4]]
+

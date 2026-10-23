@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-adjourned-meeting-of-limerick-city-and-county-council-6th-november-2025.pdf)
+**Original file:** [Minutes - Adjourned Meeting of Limerick City and County Council - 6th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-adjourned-meeting-of-limerick-city-and-county-council-6th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -86,7 +87,9 @@ On the proposal of Councillor O’Hanlon and seconded by the Príomh Chomhairleo
 Meeting was adjourned for ten minutes.
 
 On resumption of the Meeting, the Members raised the issue of conduct at meetings.
----
+
+[[PAGE_END:1]]
+
 On the proposal of the Mayor and seconded by Councillor Benson the Meeting was adjourned
 
 for ten minutes.
@@ -112,4 +115,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

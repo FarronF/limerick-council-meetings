@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20-%20Special%20Meeting%2021.10.2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 21st October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20-%20Special%20Meeting%2021.10.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+_——_ Comhairle Cathrach
 & Contae Luimnigh
-ACN ——_—_—_—=_—_—
+ACN °C —_—_—_—_—_—
 
 — Limerick City
 & County Council
@@ -47,8 +48,8 @@ Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 62 557150
-f: +353 (0) 62 415 266
+t: +353 (0) 61 557150
+f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -62,13 +63,15 @@ relation to the proposed Land Tax and all issues relating to this matter.
 
 1s mise le mees,
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy of Requisition attached)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 From: Collins, Bridie
@@ -97,4 +100,6 @@ Bridie Collins
 Sent from Outlook for iOS
 
 
----
+
+[[PAGE_END:2]]
+

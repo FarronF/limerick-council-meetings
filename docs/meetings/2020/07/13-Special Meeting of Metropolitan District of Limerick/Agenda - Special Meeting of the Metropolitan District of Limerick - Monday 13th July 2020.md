@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/agenda-special-meeting-13-07-2020.pdf)
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - Monday 13th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/agenda-special-meeting-13-07-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-pe Comhairle Cathrach
+ail Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -29,9 +30,9 @@ pe Comhairle Cathrach
 
 8" July, 2020.
 
-Serbhisi Corpardideacha,
+Serbhisi Corpargideacha,
 
-Combhairie Cathrach agus Contae Luimnigh,
+Combhairie Cathwach agus Contae Luimnigh,
 Ceenncheathni Chorpardideach,
 
 Cé na gCearnaithe,
@@ -40,8 +41,8 @@ Luimnesch
 
 Corporate Services,
 
-Limerick Chty aru] County Council,
-Comporate Headquarters,
+Limerick Chty and County Council,
+Corporate Headquarters,
 Merchants Quay,
 
 Limerick
@@ -68,16 +69,18 @@ Is mise le meas,
 Ja Ge
 Meetings Administrator.
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra: Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-@ Customerservicese@limerici.ie
-© werwimerickie
+@ Customerservicese@limerick.ie
+© werwdimerickie
 
 (061 - 57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17th of June 2020
@@ -88,24 +91,27 @@ discuss the decision of the Shannon Group to close Shannon Heritage sites in the
 MidWest and the disastrous implications this will have on the tourism, hospitality and
 retail sectors, across the whole region.
 
-is sinne, = Ses
-Ct... hy
+is sinne, © Ses
+CL, hy
 
-we SS
 Ole Conon
 
-an gyi. Gl
+an yi. Bld
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-at,
+we,
 
-ey
-Neat, if you cou (
+amas
+eet, if you cou (
 eciate . if you
 
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-minutes-monthly-meeting-of-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 9th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-minutes-monthly-meeting-of-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ December, 2023 setting out proposals for the disposal of part of folio LK4965 me
 intention to bring the Section 183 Notice to Full Council for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 **4.**
@@ -158,7 +161,9 @@ condition.
  Councillor Keary also queried if farm entrances with potholes could be repaired
 
 with asphalt instead of tar and chip.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -228,7 +233,9 @@ Councillor Teskey expressed dissatisfaction at the response to his question.
 The motion was proposed by Councillor Teskey, seconded by Councillor Sheahan and
 
 agreed.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -302,7 +309,9 @@ Councillors Collins, O’Brien and O’Donoghue.
 **Against the proposal:**
 
 Councillors Keary, Sheahan and Teskey.
----
+
+[[PAGE_END:4]]
+
 5
 
 The voting result was tied with 3 for and 3 against the proposal, as there was an equality
@@ -356,4 +365,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

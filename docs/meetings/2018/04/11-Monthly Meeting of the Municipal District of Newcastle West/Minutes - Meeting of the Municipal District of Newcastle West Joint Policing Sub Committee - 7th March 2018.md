@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01b%202018-03-07%20Minutes%20JPC%20Subcommittee.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West Joint Policing Sub Committee - 7th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01b%202018-03-07%20Minutes%20JPC%20Subcommittee.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ The Members also complimented all services dealing with the severe weather event
 work, which was carried out in the aftermath of Storm Emma. They requested that their
 
 thanks be convened to the crews involved.
----
+
+[[PAGE_END:1]]
+
 2
 
 They also welcomed the update on policing within the District and queried if additional
@@ -138,4 +141,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

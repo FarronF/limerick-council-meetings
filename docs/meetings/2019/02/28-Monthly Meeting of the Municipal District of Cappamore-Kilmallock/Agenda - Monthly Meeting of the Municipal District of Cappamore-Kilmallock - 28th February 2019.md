@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Agenda%20Municipal%20District%20Monthly%20Meeting%2028th%20Feb%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Agenda%20Municipal%20District%20Monthly%20Meeting%2028th%20Feb%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-aa Comhairle Cathrach
-— rs & a ae
-—— 6 sesh Conca
+_—_—_—_— Comhairle Cathrach
+= o™~ & a me
+—— & Leah Counc
 Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
@@ -46,11 +47,11 @@ Is mise le meas,
 
 A
 
-Mark Saale?
+Mark rit
 Meetings Administrator.
 
 AGENDA
-1. Minutes
+1, Minutes
 (a) To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
 the 17th January, 2019.
 
@@ -62,7 +63,9 @@ To receive update from Planning & Environment Services on Taking in Charge of es
 in the Municipal District.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -109,4 +112,6 @@ Notice of Motion submitted by Councillor Mike Donegan
 out on signage, including tourist and leisure signs, in Kilmallock town and approach roads.
 
 
----
+
+[[PAGE_END:2]]
+

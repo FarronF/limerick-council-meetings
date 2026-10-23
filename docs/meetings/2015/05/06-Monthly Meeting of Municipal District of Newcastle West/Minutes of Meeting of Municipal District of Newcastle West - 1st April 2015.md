@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_draft_minutes_of_meeting_of_municipal_district_of_newcastle_west_1st_april2c_2015.pdf)
+**Original file:** [Minutes of Meeting of Municipal District of Newcastle West - 1st April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_draft_minutes_of_meeting_of_municipal_district_of_newcastle_west_1st_april2c_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -63,7 +64,7 @@ subject to the amendment as outlined above.”
 Circulated, copy of draft Minutes of Special Meeting of Municipal District of Newcastle
 West held on the 18" March, 2015.
 
-Proposed by Clir.Collins;
+Proposed by Cllir.Collins;
 Seconded by Cllr.Foley ;
 And Resolved:
 
@@ -71,10 +72,12 @@ And Resolved:
 signed”.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. Community, Leisure and Emerge Cc
+2. Community, Leisure and Emerge c
 
 Local Community Development Committee
 
@@ -126,7 +129,9 @@ address the issues. The car park in the centre was also in need of urgent repair
 Members thanked the Deputation for their presentation.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -184,7 +189,9 @@ Following further discussion on the matter, it was agreed that a breakdown of �
 from the Contribution Scheme would be forwarded to the Members by Head of Finance.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It was agreed that the Limerick Marketing Company would be invited to make a
@@ -199,7 +206,7 @@ out details of the Draft Schedule of Works for the Municipal District of Newcast
 Approval was sought for the Schedule of Works for the Municipal District of Newcastle
 West. The Director of Travel and Transportation stated that it should have been
 
-approved by 31 March, 2015.
+approved by 31% March, 2015.
 
 The Members stated that they were not happy with some of the Allocations and asked
 for clarification in relation to some items.
@@ -238,7 +245,9 @@ REPLY: The funding available for the Local Improvement Scheme in 2015 will
 allow for the carrying out of 8 schemes in their entirety and 1 part scheme,
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -295,7 +304,9 @@ housing estate was. The Council was awaiting revised speed limit guidelines from
 Department and the matter would be considered further once they were received.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Scanian and seconded by Councillor Galvin, it was
@@ -314,4 +325,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

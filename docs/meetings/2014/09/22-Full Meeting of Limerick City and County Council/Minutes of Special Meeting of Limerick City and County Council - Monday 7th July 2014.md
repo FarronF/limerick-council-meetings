@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/9%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_monday_7th_july_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick City and County Council - Monday 7th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/9%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_monday_7th_july_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
@@ -31,7 +32,7 @@ PRESENT IN THE CHAIR: Councillor K. Sheahan, An Cathaoirleach.
 MEMBERS PRESENT:
 
 Councillors Browne, Butler, Byrne, Clifford, Collins (J), Collins (M), Crowley, Daly,
-Donegan, Foley, Galvin, Gleeson, Hourigan, Fees Keary, Keller, Loftus, Lynch,
+Donegan, Foley, Galvin, Gleeson, Hourigan, fee's Keary, Keller, Loftus, Lynch,
 McCreesh, McMahon, Mitchell, Neville, O’Brien, Ceallaigh, O'Dea, O'Donnell,
 O'Donoghue, O'Hanlon, Prendiville, Quinlivan, Ryan, Scanlan, Secas, Sheahan (J),
 Sheahan (M), Sheehy, Teefy.
@@ -64,7 +65,9 @@ On resumption, the Meeting proceeded with Item No. 14 on the Agenda as
 agreed prior to the adjournment.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Home and Social Development
@@ -116,7 +119,9 @@ pursuant to Section 179 of the Planning and Development Acts, 2000-2014, and Par
 8 of the Planning and Development Regulations, 2001-2013.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The report stated that the proposal was advertised on 22" March, 2014, and
@@ -163,7 +168,9 @@ to carry out the necessary design, construction work and completion of the Munst
 Bridges Rehabilitation Contracts 2014.”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16. Economic Development and Planning
@@ -212,7 +219,9 @@ On the proposal of Councillor Collins (M), seconded by Councillor Sheahan
 Cathaoirleach stated that Item No. 16 (a) would be taken at this point:
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16(a) Newcastle West Local Area Plan 2014-2020
@@ -236,7 +245,7 @@ Collins (M):
 “In relation to the Department of the Environment and Regional Authority
 submission to consider removing the enterprise and employment land on the north-
 east periphery, | recommend that this land is zoned for Enterprise and Employment
-land, as per the Material Alterations Public Display Document dated 24” May, 2014,
+land, as per the Material Alterations Public Display Document dated 24" May, 2014,
 for the following reasons:
 
 The main and fundamental planning reason for retention of zoning is the lands
@@ -265,7 +274,9 @@ of the Local Area Plan in a proactive manner harnessing all available public and
 funding avenues to support Local Area Plan implementation.”
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mid-West Strategic Plan 2012 states:
@@ -316,7 +327,9 @@ O'Dea, O'Donnell, O'Donoghue, O'Hanlon, Ryan, Scanlan, Secas, Sheahan (J),
 Sheahan (K), Sheahan (M), Teefy. (29)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Against:
@@ -364,7 +377,9 @@ Seconded by Councillor Browne;
 Accommodation Consultative Committee.”
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Cathaoirleach declared Councillors Lynch, Sheahan (M), Hurley and
@@ -380,7 +395,7 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
 “That, Councillors Byrne, Secas, Sheehy, Galvin, Donegan,
-O'Donoghue and O’Hanlon be appointed to the Limerick and Clare Education
+O’Donoghue and O’Hanlon be appointed to the Limerick and Clare Education
 and Training Board.”
 
 The Cathaoirleach declared Councillors Byrne, Secas, Sheehy, Galvin,
@@ -396,7 +411,7 @@ to represent the Council on the Association of Irish Local Government.
 Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
-“That, Councillors Hourigan, Crowley, O’Donoghue and Gilligan be
+“That, Councillors Hourigan, Crowley, O'Donoghue and Gilligan be
 appointed to represent the Council on the Association of Irish Local
 Government.
 
@@ -410,7 +425,9 @@ nominated at (a) above to be permanent delegates to the Standing Policy
 Council of the Association for the full five-year term.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Collins (M);
@@ -461,7 +478,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -515,7 +534,9 @@ County Council held on 27" May, 2013, for a further 3 year term. Limerick City a
 County Council was therefore required to appoint 1 further Member to the Board.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11
@@ -567,7 +588,9 @@ was required to consider the nomination of 1 Member to represent the Council on 
 RAPID Action Implementation Team for Rathkeale.
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12
@@ -617,7 +640,9 @@ Seconded by Councillor Sheahan (J);
 of Culture.”
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13
@@ -660,9 +685,13 @@ An Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:14]]
+

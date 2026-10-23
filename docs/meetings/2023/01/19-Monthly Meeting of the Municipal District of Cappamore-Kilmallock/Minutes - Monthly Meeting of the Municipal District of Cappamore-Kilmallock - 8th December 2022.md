@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%208th%20December%202022.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 8th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%208th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -84,7 +85,9 @@ Cappamore-Kilmallock held on 17th November, 2022.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising:
 
 A question was raised as to whether the correspondence to the NTA regarding Bus services
@@ -152,7 +155,9 @@ construction at the end Q2 2023.
 14, 6 will be tendered and 6 will be turned around inhouse through the housing
 
 maintenance section.
----
+
+[[PAGE_END:2]]
+
  The Senior Engineer also outlined a plan to set up a unit specifically for turning
 
 around empty houses, and has committed to circulating the details above in an
@@ -224,7 +229,9 @@ Housing SPC on 14th December.
 The Senior Engineer agreed to return to the February meeting of the Municipal District with
 
 an update on the 14 voids.
----
+
+[[PAGE_END:3]]
+
 6.Notice of Motion submitted by Councillor Carey
 
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District that the
@@ -278,7 +285,9 @@ of the EV charging points.
 Subject to funding availability, the rollout of further EV charging points in the County will
 
 follow in line with the strategy's rollout policy, with locations to be agreed at that stage.
----
+
+[[PAGE_END:4]]
+
 8.Question submitted by Councillor Teefy
 
 “I will ask at the next meeting of the Cappamore-Kilmallock Municipal District, further to
@@ -334,7 +343,9 @@ below.
 c) The Minister approved these requests and made regulations under Statutory Instrument
 
 No’s 362/1991, 59/2004, 813/2005, and 154/2015.
----
+
+[[PAGE_END:5]]
+
 10.
 
 Question submitted by Councillor Carey
@@ -412,7 +423,9 @@ vacant of which 11 have been inspected and are in various stages of procurement,
 and refurbishment. The remaining 3 are due for inspection.
 
 **The Questions were taken as read**
----
+
+[[PAGE_END:6]]
+
 12.
 
 Any other Business
@@ -460,7 +473,9 @@ It was noted that the Standing Orders require that each Deputation correspond in
 the Meetings Administrator prior to being brought to the Elected Members.
 
 The above were approved subject to written correspondence being received.
----
+
+[[PAGE_END:7]]
+
 **Votes of Sympathy**
 
 The Elected Members wished to express their sympathy to the following :
@@ -488,4 +503,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:8]]
+

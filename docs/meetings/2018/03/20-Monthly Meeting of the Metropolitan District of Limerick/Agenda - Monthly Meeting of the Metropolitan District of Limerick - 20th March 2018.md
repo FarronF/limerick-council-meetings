@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%2020th%20March%2C%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 20th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%2020th%20March%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 aAr™N
@@ -27,11 +28,11 @@ aAr™N
 
 Seirbhisi Corpardkdeacha,
 
-_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
+—_— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 = & Contae Luimnigh Ceanncheathri Chorpardideach,
 
 : ° e ithe,
-Limerick City = satarclorerr
+Limerick City = stereclorerr
 & County Council
 
 Corporate Services.
@@ -73,7 +74,7 @@ To note proposal for the disposal of land as follows:
 
 {a) Disposal of Freehold Interest of premises consisting of a dwelling house situate at
 2, Hawthorn Court, Kennedy Park, Limerick.
-(b) —_ Disposal of Unit 3, Mungret Street Enterprise Centre, Limerick to The Trustees of
+(b) _—_ Disposal of Unit 3, Mungret Street Enterprise Centre, Limerick to The Trustees of
 St. Francis Boxing Club.
 (c) Disposal of Land at Mungret College to Patrick and Aine Glackin, Mungret College.
 (d) Disposal of Land at Mungret College to Karina Healy, Tiny Friends Creche, Mungret
@@ -82,13 +83,15 @@ College
 Treaty City Brewery.
 (Reports Enclosed).
 & Customerservices@limericicie
-of vewralimerickie
-Ceanncheathni Chorparaideach, Cé na a Luimneach w @LimerickCouncil
+o vewralimerickie
+Ceanncheathni Chorparaideach, Cé na ———— Luimneach w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -101,7 +104,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 4.
 
-Service O} ions Directorate
+Service O; ions Directorate
 Planning and Environmental Services
 
 Taking in Charge of E s — Declaration of Roads to be Public Roads
@@ -146,7 +149,9 @@ Presentation on Richard Harris Film Festival
 To receive presentation by Zeb Moore on Richard Harris Film Festival.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 UESTION
@@ -168,7 +173,7 @@ Loading Bays, Taxi Ranks and Bus Stops in the Metropolitan District in 2016 and 
 | will ask at the next meeting how many vacant local authority houses there are in the
 Metropolitan District.
 
-9. uestio’ m Councillor M. McCreesh
+9. uestio m Councillor M. McCreesh
 
 | will ask at the next Meeting for the Council to provide details of the funding allocation
 made in 2017 to replace the old SOX bulbs (when needing repair through failure) with
@@ -193,7 +198,9 @@ of interest for the development of social and affordable houses on the Guinness 
 Carey's Road as part of our house building programme.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -247,4 +254,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

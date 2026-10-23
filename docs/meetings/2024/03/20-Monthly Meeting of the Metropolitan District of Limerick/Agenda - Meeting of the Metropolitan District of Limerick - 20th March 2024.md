@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-march-2024.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 20th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-20th-march-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Sewbhisi Corparaideacha,
+i Sewbhisi Corparaideacha,
 _—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimrugh,
 & Contae Luimnigh Ceanncheathna Chorpardideach.
 
@@ -39,7 +40,7 @@ Limenck
 
 EIRCODE V94 EH90
 
-¢: +353 (0) 61 557150
+t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 13" March, 2024.
@@ -58,7 +59,7 @@ Is mise le meas,
 
 “Laura Flannery,
 
-——
+——e
 Meetings Administrater———__
 
 AGENDA
@@ -74,10 +75,12 @@ February, 2024.
 © wvew.timerick.ie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Disposal of Land
@@ -130,7 +133,9 @@ Government Act 2001 (as amended).
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Rural, Community and Culture Development Directorate
@@ -162,7 +167,7 @@ signage removal project and list of signs yet to be removed.
 
 12. Question submitted by Councillor J. Leddin
 
-Iwill ask at the next Meeting of the Metropolitan District of Limerick for an update on who is now
+I will ask at the next Meeting of the Metropolitan District of Limerick for an update on who is now
 responsible for the day time economy, what plans are been considered and what level of engaging
 with local businesses is taking place.
 
@@ -180,7 +185,9 @@ for Ballysimon Road and Garryglass roundabout, now that the funding has been sec
 timeframe for those works.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Question submitted by Councillor E. Secas
@@ -229,10 +236,12 @@ Council give details on what works will be done in Boherkyle with the €60,000 
 area by the NTA.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-23. Question submitted by Councillor E. O'Donovan
+23. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that we write to Irish Rail
 and relevant Ministers to ask why an Environmental Impact Assessment was not completed to
@@ -251,7 +260,7 @@ with the Crescent Shopping Centre for car sharing spaces to be installed there.
 NOTICES OF MOTION
 26. Notice of Motion submitted by Councillor S. Hartigan
 
-I will move at the next Meeting that the Metropolitan District of Limerick write to the Minister for
+| will move at the next Meeting that the Metropolitan District of Limerick write to the Minister for
 the Office of Public Works concerning works on the bank of the Newport River at Lisnagry, County
 Limerick.
 
@@ -277,7 +286,9 @@ County Council consider displaying information about Mental Health Services on t
 bridges and across other suitable locations in the City.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 30. Notice of Motion submitted by Councillor E. Secas
@@ -322,15 +333,17 @@ certain stages of construction work.
 | will move at the next Meeting of the Metropolitan District of Limerick that we write to relevant
 Ministers for an urgent appeal for funding for Bedford Row family project.
 
-36. Notice o lotio bmitted b ‘ounci! O’Donovan (to b
+36. Notice oa lotio bmitted b ‘ouncil O’Donovan (to b
 
-Action, Bio’ E ment Strate. ic Poli Committee
+Action, Bio’ E ment Strate, ic Poli Committee
 
 | will move at the next Meeting of the Metropolitan District of Limerick that dog wash facilities be
 installed close to dog parks in Limerick.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 37. Notice of Motion submitted by Councillor S. Hartigan (to be referred to the Climate Action,
@@ -343,4 +356,6 @@ small quote/affirmative message so that when a person sits along the river to th
 this would be the first thing they see before they sit.
 
 
----
+
+[[PAGE_END:7]]
+

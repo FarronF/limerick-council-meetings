@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-2024-06-26-agm-minutes-.pdf)
+**Original file:** [Minutes - AGM - Meeting of Municipal District of Newcastle West - 26th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-2024-06-26-agm-minutes-.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -84,7 +85,9 @@ term. The Members looked forward to working with the Mayor in progressing variou
 projects in the District.
 
 The Members thanked Councillor Ruddle for his time as Cathaoirleach and wished him well.
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.**
@@ -156,7 +159,9 @@ elected as Leas-Chathaoirleach of the Municipal District.
 The incoming Leas-Chathaoirleach wished the very best to the incoming Cathaoirleach,
 
 assuring him of his full support.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members congratulated Councillor Sheahan on his appointment as Leas-Chathaoirleach
@@ -218,6 +223,10 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+
 4
----
+
+[[PAGE_END:4]]
+

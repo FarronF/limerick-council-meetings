@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%2026th%20Sept%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 26th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%2026th%20Sept%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN SEOIGHE, MILLMOUNT,**
@@ -82,7 +83,9 @@ this decision may have implications for the future of this business.
 The Cathaoirleach said that following a recent meeting with Planning they had become a
 
 lot more knowledgeable on the Part VIII process. The Members were unanimous in saying
----
+
+[[PAGE_END:1]]
+
 2
 
 there had been campaigns ongoing for some time seeking safety measures to be installed
@@ -136,4 +139,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

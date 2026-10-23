@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026_0.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 19th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026_0.pdf)
 
----
+[[FILE_START]]
+
 DRAFT
 
 MINUTES
@@ -98,7 +99,9 @@ And Resolved:
 2.
 
 Declaration of Interest.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -170,7 +173,9 @@ Councillor Galvin €1,000
 On the proposal of Councillor Sheehan, seconded by Councillor Collins, it was agreed to
 
 allocate €1,700 to Athea Community Council for the purchase of a lawnmower.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the proposal of Councillor Scanlan, seconded by Councillor Collins, it was agreed to
@@ -238,7 +243,9 @@ There has been €50,000 allocated for repair works on sections of this road in 
 Works Scheme. This road requires full reconstruction which would include a full design that
 
 could then be implemented subject to the availability of funding.
----
+
+[[PAGE_END:3]]
+
 4
 
 Uisce Éireann (UE) met with the Roads Department in Newcastle West recently and
@@ -318,7 +325,9 @@ in Abbeyfeale on 2nd June, 2026. The project is currently progressing through th
 design stages, with sketch design options being explored. It is anticipated that a Part VIII
 
 planning proposal will be lodged in late 2026, subject to design development.
----
+
+[[PAGE_END:4]]
+
 5
 
 10.
@@ -384,7 +393,9 @@ Question submitted by Councillor J. Scanlan
 REPLY:
 
 The Roads Department will meet with Councillor Scanlan to review this request.
----
+
+[[PAGE_END:5]]
+
 6
 
 12.
@@ -458,7 +469,9 @@ opening the Castle and stated that filming only took a couple of weeks. Councill
 supported the Motion and said the Castle should be opened from St. Patrick’s Day to
 
 Halloween. Councillor Collins also supported the Motion and suggested the Council’s Tourism
----
+
+[[PAGE_END:6]]
+
 7
 
 Department to set up a meeting with the OPW. In replying, the Meeting Administrator read
@@ -530,7 +543,9 @@ with Uisce Éireann in relation to the standard and aera of reinstatement, with 
 addressing the existing pavement defects between Main Street and Tesco as part of these
 
 works where feasible.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Galvin stated that the road falls well below standard. He
@@ -604,7 +619,9 @@ effort to repair old lines, there is an issue with Contractors reinstating the r
 if there are any penalties when roads not reinstated satisfactorily under the contractors Road
 
 Opening Licence.
----
+
+[[PAGE_END:8]]
+
 9
 
 The Senior Executive Engineer has been liaising with Uisce Éireann in terms of works they are
@@ -640,4 +657,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

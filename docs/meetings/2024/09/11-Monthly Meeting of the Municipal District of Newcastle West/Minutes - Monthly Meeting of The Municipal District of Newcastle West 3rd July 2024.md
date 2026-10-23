@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-2024-07-03-minutes-july.pdf)
+**Original file:** [Minutes - Monthly Meeting of The Municipal District of Newcastle West 3rd July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-monthly-meeting-of-the-municipal-district-of-newcastle-west-3rd-july-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -53,7 +54,9 @@ Senior Planner, Strategic and Forward Planning (Ms. M. Woods), Meetings Administ
 
 Newcastle West (Ms. H. Supple), Executive Engineer, Roads (Mr. P. Vallely), Staff Officer,
 
-Property Services (Ms. D. Ruth), Clerical Officer, Newcastle West (Ms. A. Lenihan).
+Property Services (Ms. D. Ruth), Senior Planner, Forward Planning (Ms. M. Woods), Clerical
+
+Officer, Newcastle West (Ms. A. Lenihan).
 
 At the outset of the Meeting, Councillor Galvin welcomed everyone in attendance to the July
 
@@ -96,7 +99,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -162,7 +167,9 @@ Structure status on the J.C. Daly property and the suggested removal of this sta
 property. Following a brief discussion on these properties, the Staff Officer, Property Services
 
 agreed to revert to the Members with an update on these properties.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -228,7 +235,9 @@ that drawdown of funds is carried out in a timely manner.
 Following discussion, the Members wished to consider this matter further and revert at the
 
 September Meeting of the District.
----
+
+[[PAGE_END:3]]
+
 4
 
 QUESTIONS
@@ -308,7 +317,9 @@ REPLY:
 Limerick City and County Council will locate a disability bay in the carpark
 
 across from the Church subject to agreement.
----
+
+[[PAGE_END:4]]
+
 5
 
 10.
@@ -382,7 +393,9 @@ Uisce Éireann is progressing plans to end the discharge of untreated sewage fro
 Limerick, to the Shannon Estuary. This important project involves the construction of a new
 
 wastewater treatment plant and sewerage infrastructure including a pumping station and
----
+
+[[PAGE_END:5]]
+
 6
 
 sewer pipelines. These essential works will ensure compliance with national and EU
@@ -417,15 +430,15 @@ We have a number of performance related penalties included in the new contract i
 
 penalties associated with
 
- Failure to repair a reported fault within 10 days
+• Failure to repair a reported fault within 10 days
 
- The fault percentage exceeding 1.5%
+• The fault percentage exceeding 1.5%
 
- Failure to update the asset management tools within specified timeframes
+• Failure to update the asset management tools within specified timeframes
 
- Failure to Inspect Lights During Day/Night Patrols
+• Failure to Inspect Lights During Day/Night Patrols
 
- Failure to Respond to/Attend To An Out of Hours Emergency Fault
+• Failure to Respond to/Attend To An Out of Hours Emergency Fault
 
 Further communication will be issued to the Members in the coming week.
 
@@ -446,7 +459,9 @@ Road markings are due to be inserted at this location in the coming week.
 In proposing the Motion, Councillor Scanlan referred to the speed of traffic on the R522 at
 
 Killeline and to the speed indicator sign on this roadway. In replying, the Executive Engineer
----
+
+[[PAGE_END:6]]
+
 7
 
 stated that road markings are to be installed at this location shortly and the speed indicator
@@ -514,7 +529,9 @@ calming measures in housing estates and villages in the District.
 ***I will move at the next Meeting that*** ***Páirc Luachra housing estate be resurfaced and***
 
 ***speed ramps installed as a matter of urgency in the interest of safety.***
----
+
+[[PAGE_END:7]]
+
 8
 
 The Motion was seconded by Councillor Foley.
@@ -588,7 +605,9 @@ at Marian Place Housing Estate and Corbry Housing Estate in Glin. He referred to
 of the Ambulance Service and the Fire Service having safe access within Marian Place in Glin
 
 and to the recently developed Glin Rovers Soccer pitch at Corbry estate. Councillor Sheahan
----
+
+[[PAGE_END:8]]
+
 9
 
 requested that a Part VIII planning application for additional car parking spaces be piloted at
@@ -642,4 +661,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-meeting-of-the-travel-transportation-spc-16th-feb-2021.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 16th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-meeting-of-the-travel-transportation-spc-16th-feb-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **11thFebruary, 2021**
@@ -51,7 +52,9 @@ business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -77,4 +80,6 @@ would be monitored with a view to a permanent speed limit reduction.
 How has it been monitored and what are the outcomes of same?
 
 How will the new limit be voted upon and is there a proposed time frame?”
----
+
+[[PAGE_END:2]]
+

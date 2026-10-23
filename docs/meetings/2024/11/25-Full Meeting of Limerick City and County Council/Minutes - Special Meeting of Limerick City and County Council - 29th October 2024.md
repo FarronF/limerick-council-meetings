@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-c-minutes-special-meeting-limerick-city-and-county-council-29.10.2024.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-c-minutes-special-meeting-limerick-city-and-county-council-29.10.2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -90,7 +91,9 @@ close. In a subsequent press release issued by the Council, reference was only m
 Members so the suggestion was that the Elected Members were to blame for the closure,
 
 which he believed was very unfair on Members. He stated that both Council Management
----
+
+[[PAGE_END:1]]
+
 **2**
 
 and the Mayor had a role to play in the process and he believed it was unfair that the Elected
@@ -168,7 +171,9 @@ The International Rugby Experience was very early in its life cycle and there wa
 grow the attraction in terms of visitors and revenue. However, it was estimated that the
 
 projected breakeven figure was 70,000- 80,000 visitors p.a. which was not currently being
----
+
+[[PAGE_END:2]]
+
 **3**
 
 achieved, and that the IRE will require direct operating financial subvention in the short to
@@ -246,7 +251,9 @@ provided by the local authority. They also asked as to when the Mayor was made a
 the issues in relation to the proposed transfer and what he had done subsequently to
 
 address the issue.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 The Director General confirmed that it was not intended to disrespect the Members in the
@@ -328,7 +335,9 @@ with the representatives of the International Rugby Experience.
 It was agreed that this proposal would be communicated to the representatives of the
 
 International Rugby Experience and that an invitation be issued to Barry Hannon, CEO of the
----
+
+[[PAGE_END:4]]
+
 **5**
 
 International Rugby Experience to attend a meeting with the Elected Members to further
@@ -342,4 +351,6 @@ Signed:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Príomh Chomhairleoir**
----
+
+[[PAGE_END:5]]
+

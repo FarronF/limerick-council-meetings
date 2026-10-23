@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%205th%20April%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 5th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%205th%20April%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach
+_—__— Comhairle Cathrach
 & Contae Luimnigh
 —— Limerick City
 
@@ -30,9 +31,10 @@ _—_— Comhairle Cathrach
 31* March, 2023
 
 Dache Bardais an Chaisledin Nua Thiar,
-Comiusirie Cathrach agus Contae Luimnigh,
-Aras Wiliam Smith O'Brien,
 
+Comtusirie Cathrach agus Contae Luimnigh,
+
+Aras Wiliam Smith O'Brien,
 Gortbul,
 
 An Caislean Nua Thiar,
@@ -48,7 +50,7 @@ Newcastle West,
 
 Co. Limerick
 
-Excode: V42EH73
+Ewcode: V42EH73
 
 t: +353 (0) 69 62100
 
@@ -69,7 +71,7 @@ AGENDA
 
 1. Minutes
 
-(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 1%
+(a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 1*
 
 March, 2023.
 
@@ -87,14 +89,16 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
-= amar ror
+= nee rr
 wer limerick.te
 
 W @LimerickCouncil
 « 61 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -142,7 +146,7 @@ village.
 Gateway, Mountmahon down to the school gate. This road is in a bad state of
 disrepair.
 
-ions su ‘ed by Councillor J. lan
+jons su: ed by Councillor J. lan
 
 | will ask at the next Meeting when the road line will be undertaken at
 Arranagh/Gardenfield and in the Coolygorman/Broadford areas locally.
@@ -154,7 +158,9 @@ Dromcollogher Town.
 out at Glenduff.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -183,10 +189,12 @@ Notice of Motion submitted by Councillor J. Scanian
 section take immediate action to deal with unfinished estates within this Municipality.
 
 Notice of Motion submitted by Councillor M. Collins
-| will move at our next meeting that Limerick City and County Council would take over
+I will move at our next meeting that Limerick City and County Council would take over
 
 the maintenance of the public lane way linking The Glebe, Monagea to the Gardenfield
 Road. The laneway needs drainage and surfacing works.
 
 
----
+
+[[PAGE_END:3]]
+

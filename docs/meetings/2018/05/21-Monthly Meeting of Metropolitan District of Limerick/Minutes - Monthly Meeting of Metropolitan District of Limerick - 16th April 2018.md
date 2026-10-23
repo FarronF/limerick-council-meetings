@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%2016th%20April%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 16th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%2016th%20April%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 16TH** **APRIL, 2018.**
@@ -94,7 +95,9 @@ community, as well as expert witnesses, in relation to the burning of hazardous 
 surrounded by housing, was ignored. The Members commended the work of Limerick Against
 
 Pollution on this issue.
----
+
+[[PAGE_END:1]]
+
 2
 
 Following discussion, the following notice of motion was agreed:
@@ -174,7 +177,9 @@ John Scanlon and the intention to bring a Section 183 Notice in relation to same
 the May Meeting of the Council.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 (e)
@@ -262,7 +267,9 @@ Circulated, Report of Director of Service, Service Operations dated 11th April, 
 Chief Executives Report setting out details of conversion of 6 vacant 1 bedroom units into 3 new
 
 2 bedroom units at Chas Flats, Mary Street, Limerick City. The Chief Executive’s Report had been
----
+
+[[PAGE_END:3]]
+
 4
 
 prepared in accordance with Section 179(3)(a) of the Planning and Development Act 2000 (as
@@ -344,7 +351,9 @@ At present there remains two important sections of the City Centre Riverside
 upgrades to be completed and these include:
 
 • The riverside from Sarsfield Bridge to King Johns Castle
----
+
+[[PAGE_END:4]]
+
 5
 
 • Footpaths on the Three City Centre Bridges
@@ -426,7 +435,9 @@ public realm in this location and flood protection. It is hoped that this and ot
 worthy civic projects can be funded from the new Urban Regeneration Fund
 
 announced by Government in the new National Development Plan 2018 to 2027.
----
+
+[[PAGE_END:5]]
+
 6
 
 **6.**
@@ -516,7 +527,9 @@ The tender was advertised nationally through the e-Tenders website. The
 Procurement Regulations (and relevant EU Directives) were used to inform the
 
 procurement process, including the development of Selection and Award criteria.
----
+
+[[PAGE_END:6]]
+
 7
 
 Twelve tenders were received and the tender submitted by TBEB Ltd was the most
@@ -612,7 +625,9 @@ development of this strategy.
 ***has expired.***
 
 ***(iii) Are, or were the Derelict Site Levies suspended until the discussions reached a conclusion.***
----
+
+[[PAGE_END:7]]
+
 8
 
 ***(iv) Is the Horizon Mall site still on the Derelict Site list.***
@@ -696,7 +711,9 @@ decrease in the fish stock and also the erosion of the river bank and the proble
 to wildlife. Members expressed frustration at the difficulty in identifying who is in charge of the
 
 waterways and the need to support Limerick fishermen. It was agreed that the Council would
----
+
+[[PAGE_END:8]]
+
 9
 
 write to the ESB and also refer this notice of motion to the Environmental Directorate,
@@ -734,4 +751,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

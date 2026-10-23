@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202016.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 16th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 — Comhairle Cathrach agus Contae Luimnigh,
 
 ANF . Cé na gCeannaithe,
-—==>= Luimneach
+—==>=> Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
-COUNCIL Sinnaick
+COUNCIL Sienaick
 
 t: +353 (0) 61 407 100
 
 11™ May, 2016. f: +353 (0) 61 415 266
 
-To: The Mayor and each Member of the Metropolitan District of Limerick 7
+To: The Mayor and each Member of the Metropolitan District of Limerick -
 
 A Chomhairleoir, a chara,
 
@@ -48,7 +49,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Cas )6-——
+Cas 6
 
 Christy O’Connor,
 Meetings Administrator.
@@ -63,15 +64,17 @@ To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 18"
 (Copy Enclosed).
 2. Disposal of Land
 To note proposal for the disposal of land as follows:
-¢ Disposal of 15.98 acres of land at Mungret College, Co. Limerick.
+© Disposal of 15.98 acres of land at Mungret College, Co. Limerick.
 (Report Enclosed).
 @ customerservicese@limerick.te
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © worw limerick.te
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ wor limerick.ie
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Support Services Directorate
@@ -96,8 +99,8 @@ Economic Development Directorate
 
 ferral of notices to make a new Local Area Plan for the Southern Environs and extend
 the existing plan
-To consider the Chief Executive’s Report regarding proposal to extend the life of the
 
+To consider the Chief Executive’s Report regarding proposal to extend the life of the
 Southern Environs Local Area Plan 2011 - 2017 by a further 5 years, in accordance with the
 provisions of Section 19 of the Planning and Development Act 2000 (as amended).
 
@@ -115,7 +118,9 @@ Council maps are practically stating that the entire South side of the City is c
 Roxborough.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -136,7 +141,7 @@ if not what is the expected timeframe for concluding this matter.
 
 Question submitted by Councillor Cian Prendiville
 
-| will ask at the next Meeting, in relation to the old Limerick City Council, from the launch
+I will ask at the next Meeting, in relation to the old Limerick City Council, from the launch
 of the scheme in 2011 to the merger of the Councils in 2014 how many people began
 JobBridge internships for that Council and how many went on to secure full time jobs with
 the Council afterwards?
@@ -173,7 +178,9 @@ Punches so as to facilitate a park & ride service and remove another derelict si
 city landscape.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -210,7 +217,7 @@ Notice of Motion submitted by Councillor Paul Keller
 
 | will move at the next Meeting that, given the importance of transparency to so many
 people in the Metropolitan District, this District calls on the Government
-to introduce legislation to require all debt write down's and write off's by NAMAbe
+to introduce legislation to require all debt write down's and write off's by NAMA be
 approved in the Dail.
 
 Notice of Motion submitted by Councillor Daniel Butler
@@ -227,7 +234,9 @@ St. Ann's Court (off Bishops Street), King's Island, currently owned by Saint Vi
 Road be reallocated to facilitate this purchase.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 $s
@@ -244,4 +253,6 @@ permission to gradually replace imported fossil fuels at its Castlemungret facto
 (Copy of Correspondence Enclosed):
 
 
----
+
+[[PAGE_END:5]]
+

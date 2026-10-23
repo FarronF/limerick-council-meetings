@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20%28b%29%20Minutes%2030th%20January%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 30th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20%28b%29%20Minutes%2030th%20January%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ Councillor Keary requested an update on the results of the Economic Assessment w
 was sought in January 2018, however, this was only reported to a meeting of party
 
 leaders.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -162,7 +165,9 @@ This was seconded by Councillor McMahon. The Director informed Councillors that 
 members could only pass resolutions based on delegated functions to the District. As a
 
 result their proposal would have to be submitted to a full Council meeting for approval.
----
+
+[[PAGE_END:2]]
+
 3
 
 She also advised that a similar proposal had already been passed by the Council at its
@@ -208,4 +213,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

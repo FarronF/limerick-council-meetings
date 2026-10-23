@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-minutes-annual-meeting-23rd-june-2025.pdf)
+**Original file:** [Minutes - Annual Meeting of the Metropolitan District of Limerick - 23rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-minutes-annual-meeting-23rd-june-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER,** **MERCHANT’S QUAY** **AND ONLINE, ON MONDAY, 23RD** **JUNE,**
@@ -88,7 +89,9 @@ to hold office until the next Annual Meeting or until a successor has been appoi
 Proposed by Councillor O’Donovan;
 
 Seconded by Councillor Benson;
----
+
+[[PAGE_END:1]]
+
 2
 
 “That Councillor Shane Hickey-O’Mara be appointed Cathaoirleach of the Metropolitan District of
@@ -168,7 +171,9 @@ finished by saying it was a great honour to accept the role of Cathaoirleach.
 The Cathaoirleach invited nominations for the Office of Leas Chathaoirleach of the Metropolitan
 
 District of Limerick.
----
+
+[[PAGE_END:2]]
+
 3
 
 Proposed by Councillor O’Sullivan;
@@ -196,4 +201,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

@@ -16,14 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%20Agenda%20Oct%202019%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/03%20Agenda%20Oct%202019%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach
+—_— Comhairle Cathrach
 & Contae Luimnigh
-ar™ - -
 = Limerick City
 = & County Council
 
@@ -39,7 +39,7 @@ Limenck City and County Council,
 Aras Mainchin Seoighe Area Office,
 Kilmallock,
 
-So. Umericic
+So. Umericik
 
 EIRCODE V35 K497
 
@@ -56,7 +56,7 @@ October, 2019 at 3.00 p.m.
 The business to be transacted is set out on the appended Agenda.
 
 | le meas,
-Weeks
+Were
 
 Mark Leahy,
 
@@ -89,15 +89,17 @@ Disposal of Property
 Comhatrie Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
 Limerick City and County Council. Aras Mainchin Seoighe Area Office
 
-(Repartrenctosest}otimerick ie
-© wonitimerickic
+(Repartractosest}otimerick ie
+© wonitrerickie
 
-W @UimerickCouncil
+W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) To note proposal for the disposal of property at 36 Cecil Street
@@ -142,7 +144,9 @@ Directorate dated 26" September, 2019.
 (Report enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICE OF MOTION
@@ -188,7 +192,9 @@ Limerick City estates in rural areas of the county and the effect this is having
 originally from those areas seeking Council accommodation.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14, Question submitted by Councillor Martin Ryan
@@ -209,4 +215,6 @@ measures be installed on the R513 on the approach roads and through Hospital Str
 to slow down traffic and pedestrian crossings to facilitate crossing the Main Street.
 
 
----
+
+[[PAGE_END:4]]
+

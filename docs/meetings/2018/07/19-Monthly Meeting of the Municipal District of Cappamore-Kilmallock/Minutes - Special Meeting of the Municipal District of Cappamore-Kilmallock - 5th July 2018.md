@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/04%20Minutes%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 5th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/04%20Minutes%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN THE
@@ -74,7 +75,9 @@ The Members noted his particular interest in agricultural and farming matters an
 was a former Chairman of the old County Agricultural Committee, which he chaired with
 
 distinction. The Members also recalled his affinity to people who were marginalised in the
----
+
+[[PAGE_END:1]]
+
 2
 
 Community whom he was a particularly strong advocate for. They also noted his fondness for
@@ -104,4 +107,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
+**Original file:** [Agenda Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_—_ Comhairle Cathrach pac asbarn bana he inareih
+—_—_ Comhairle Cathrach pac asharng bana rh nareigh.
 Offig an Cheantair, Aras Mhainchin Seoighe,
-& Contae Luimnigh Gill Mochesisg,
+& Contae Luimnigh Gill Mochesisg.
 
-~N . Co. Usimimight
-—=—> Limerick City
+nN . Co. Usimimight
+—=>> Limerick City
 
 & County Council Lirherick City and County Council,
 
@@ -34,7 +35,7 @@ Aras Mairichin Seoighe Area Office
 
 Kilrnallock,
 
-Ca Limericic
+Ca Limerick
 
 EIRCODE V35 K497
 
@@ -71,14 +72,16 @@ November, 2023.
 Relating to the Minutes of the Municipal District Meeting of 23" November, 2023.
 
 = customerservices@limerickic
-Comhairle Cathrach agus Contae Luimnigh, Otfig an Cheantair, Ards Mninchin Seoighe © wwvilemerickie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office ve € rr
+Comhairle Cathrach agus Contae Luimnigh, Otfig an Cheantair, Ards Mnainchin Seoighe © wwvilemerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office ve ra rr
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-3. Decl ° In
+3. Decl (+) In
 
 4. Property Services
 
@@ -113,7 +116,9 @@ the Waste Water Treatment Network as was planned in the design of the new treatm
 network upgrade by Limerick City and County Council a number of years ago.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Carey
@@ -134,4 +139,6 @@ car-park spaces opposite Effin Primary School.
 progress of Housing voids in our municipal area.
 
 
----
+
+[[PAGE_END:3]]
+

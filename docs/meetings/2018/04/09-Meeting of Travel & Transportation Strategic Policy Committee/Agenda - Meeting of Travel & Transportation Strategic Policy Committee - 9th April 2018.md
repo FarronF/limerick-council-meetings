@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/9th%20April%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Agenda - Meeting of Travel & Transportation Strategic Policy Committee - 9th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/9th%20April%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 **4th** **April 2018**
 
 **To: The Chairperson and Each Member of the Travel & Transportation Strategic Policy**
@@ -46,7 +47,9 @@ April 2018 at 10:00 a.m. The business to be transacted is set out in the appende
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -84,4 +87,6 @@ local roads within this Municipal District”.
 Safe' vans within Co. Limerick”.
 
 **5.Presentation on Age Friendly Limerick and Rural Transport**
----
+
+[[PAGE_END:2]]
+

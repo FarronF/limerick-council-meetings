@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20JPC%20Meeting%2019th%20July%202018.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting - 19th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20JPC%20Meeting%2019th%20July%202018.pdf)
 
----
+[[FILE_START]]
+
 **Limerick City & County Council,**
 
 **Áras Mainchín Seoighe District Office,**
@@ -64,4 +65,6 @@ Sub-Committee held on 29th March, 2018.
 To discuss policing issues in the District.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

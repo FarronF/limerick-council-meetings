@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-08/agenda-and-requisition-special-meeting-03.09.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 3rd September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-08/agenda-and-requisition-special-meeting-03.09.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NN
 
-i Seirdhisi Corparéideacha,
-ae Cormairis precduh Comhairle Cathrach agus Contae Luimnigh,
-oo OTae eae Ceanncheathriu Chorparaideach,
+i Seirohisi Corparéideacha,
+a Cormaiiis porecduhcd Comhairle Cathrach agus Contae Luimnigh,
+oo OTKae ae Ceanncheathri Chorparaideach.
 
 Cé na gCeannaithe,
 
@@ -45,7 +46,7 @@ EIRCODE V94 EH90
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-30" August, 2021.
+30% August, 2021.
 
 To: THE MAYOR AND EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL
 
@@ -56,25 +57,26 @@ Council to be held on Friday, 37 ‘
 Dooradoyle, and Online, in order to discuss the issue as set out in the attached Requisition in
 relation to King John’s Castle, Limerick.
 
-peptempbe at 4pm, in the unc! Chamber
+eptembe! at 4pm, in the unc! Chamber
 
 (Copy of Requisition Enclosed)
 Is mise le meas,
-. > a
-- mes oP
+. > a”
 Laura Flannery,
 Meetings Administrator.
-=m Customerservices@limerick.ie
+om Customerservices@limerick.ie
 © www limerickie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick . (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ES
+RR
 
 From: Sheehan, Conor
 
@@ -106,4 +108,6 @@ Cllr Elisa O’ Donovan
 Get Outlook for iOS
 
 
----
+
+[[PAGE_END:2]]
+

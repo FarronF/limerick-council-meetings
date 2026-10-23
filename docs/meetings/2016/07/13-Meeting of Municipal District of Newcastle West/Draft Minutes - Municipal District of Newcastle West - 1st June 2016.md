@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20June%202016.pdf)
+**Original file:** [Draft Minutes - Municipal District of Newcastle West - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD
@@ -37,7 +38,7 @@ Director of Services (Mr. G. Daly), Administrative Officer, Corporate Services (
 Limerick Local Community Development Committee (Mr. S. O'Connor), Research Assistant, Social
 Development (Dr. E. Humphreys), Senior Executive Planner (Mr. K. Reeves), Senior Executive Engineer, West
 Division (Mr. R. Noonan), Executive Engineer, Roads (Mr. P. Vallely), Heritage Officer (Mr. T. O'Neill), Senior
-Staff Officer, Newcastle West (Ms. M. Corbett), Clerical Officer, Corporate Services (Ms. 0. O'Kelly).
+Staff Officer, Newcastle West (Ms. M. Corbett), Clerical Officer, Corporate Services (Ms. D. O’Kelly).
 
 1.
 
@@ -74,7 +75,9 @@ e Tender documents were being prepared in tandem with the public consultation
 process.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -129,13 +132,15 @@ available heritage information to the wider public in a user-friendly manner.
 e To promote best practice in heritage conservation and management.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
 
 3
-¢ To support the local economy and strengthen tourism.
+¢ Tosupport the local economy and strengthen tourism.
 
 He stated that funding had now come on stream in the amount of €26,000. The issues
 document was the first step in the preparation of a heritage plan. Written submissions and
@@ -164,7 +169,7 @@ would be allocated for Public Lighting at Carraward West, Dromcollogher.
 
 QUESTIONS
 
-uestion submitt incill Ivi
+uestion submitt ncill ivi
 
 1 will ask at the next Meeting (a) for a detailed report/discussion on the Great Southern Trail
 footpath in Abbeyfeale; (b) investment in the crossings; (c) signage on the N21 and on the line
@@ -189,7 +194,9 @@ Directorate. A review of the necessary operational structures required to advanc
 development of the GST is underway.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -248,7 +255,9 @@ REPLY: All crash barriers required under the construction contract have been ins
 contractor.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Cathaoirleach referred to Item 5 which had been deferred earlier in the Meeting and it was agreed to
@@ -288,7 +297,7 @@ implementation.
 
 Next Steps — Timeline.
 
-PNOYESWNPE
+PNOYESEWNPE
 
 The Senior Executive Planner confirmed that the Local Economic and Community Plan was
 consistent with the relevant Plans as outlined above.
@@ -306,7 +315,9 @@ there is consistency between the economic and the community elements of the LECP
 accordance with Section 66 of the Local Government Act, 2001, as amended”.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -363,7 +374,9 @@ In reply to a query regarding amount of funding received under the Severe Weathe
 Funding Programme, the Roads Engineer agreed to email the list of projects and amounts
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -414,7 +427,9 @@ Seconded by Councillor Sheahan.
 REPLY: Prior to carrying out a major overlay of the carriageway in Glin Village, it would be
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -430,7 +445,7 @@ has not been allocated this year in this regard.
 
 1 will move at the next Meeting that funding be provided for a set down area outside Glengurt
 National School (National School in Tournafulla) to allow safe access and set down for those
-attending the school. -
+attending the school. _
 
 In proposing the Motion Councillor Collins stated that this location was a danger to the
 public as there was no proper set down area. It was noted that cars were pulling up outside
@@ -471,7 +486,9 @@ Council. In this regard, a Motion could be submitted to the July Meeting of the 
 the Municipal District to propose the change of name and to commence the process.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 After a brief discussion, it was agreed to make contact with residents of the Square in relation to
@@ -493,4 +510,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+

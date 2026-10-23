@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20metropolitan_district_of_limerick_-_minutes_of_meeting_-_21st_july_2014.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 21st July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20metropolitan_district_of_limerick_-_minutes_of_meeting_-_21st_july_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
 METROPOLITAN DISTRICT OF LIMERICK HELD IN THE
@@ -92,7 +93,9 @@ Leaders would meet and formulate a schedule of meetings going forward. Some
 Members expressed the need for local Area Meetings. The Meetings Administrator
 
 informed Members that the Council was precluded from setting up Area Committees.
----
+
+[[PAGE_END:1]]
+
 **NOTICES OF MOTION**
 
 **3.**
@@ -160,7 +163,9 @@ Members requested that an audit of housing estates not taken in charge be carrie
 It was stated that people were paying lots of charges including property tax and that
 
 they deserved to have all necessary services in estates.
----
+
+[[PAGE_END:2]]
+
 **5.**
 
 **Notice of Motion submitted by Councillors M. Quinlivan, S. Ó Ceallaigh and**
@@ -232,7 +237,9 @@ be issued to Members.
 Members queried whether the proposed Notice of Motion referred to all lands or just to
 
 those in Council ownership.
----
+
+[[PAGE_END:3]]
+
 Councillor Butler requested that the Motion go to the full Council in his name and that it
 
 be amended to refer to Council owned lands only.
@@ -248,4 +255,6 @@ Mayor of Limerick
 **Date:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

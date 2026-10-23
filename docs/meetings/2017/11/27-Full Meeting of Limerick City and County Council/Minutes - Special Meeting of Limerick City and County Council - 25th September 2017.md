@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20%28a%29%20Minutes%20Special%20Meeting%20250917%20-%20Knockfierna.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 25th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20%28a%29%20Minutes%20Special%20Meeting%20250917%20-%20Knockfierna.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -82,7 +83,9 @@ Commemoration event will now be held in Ballingarry, Co. Tipperary.”
 Signed: Councillors R. O’Donoghue, E. Ryan, K. Sheahan, G. Mitchell, J. Scanlan, A.
 
 Teskey, M. Collins, C. McMahon.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 Councillor O’Donoghue addressed the Meeting by stating that he was very
@@ -154,7 +157,9 @@ dated 23rd November, 2015, requesting a meeting with Council Officials and Knock
 Heritage Society in relation to the 2017 National Famine Commemoration. It was
 
 pointed out that this meeting had not taken place.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 The County and City Librarian then outlined the structures established to facilitate
@@ -212,4 +217,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

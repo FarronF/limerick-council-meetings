@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Agenda%20MD%20Meeting%2011th%20April%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 11th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Agenda%20MD%20Meeting%2011th%20April%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_— Comhairle Cathrach
-= & Contae Luimnigh
-— Limerick Ci ;
+—= & Contae Luimnigh
+o > Limerick Ci ;
 ity
-= & County Council
+& County Council
+
 Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
-
 Kilmallock, Co. Limerick.
 
 063-98019
@@ -61,7 +62,9 @@ the 21" March, 2019.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. ATG Retirement Village
@@ -77,7 +80,7 @@ Dublin.
 
 4. Social Development Directorate
 
-To receive update on "My Open Library” Pilot Project from Damien Brady, City &
+To receive update on “My Open Library” Pilot Project from Damien Brady, City &
 County Librarian.
 
 5. Housing Development Directorate
@@ -95,4 +98,6 @@ present legislation recently enacted in relation to the Road Traffic Act incorpo
 vehicle drivers should be revisited.
 
 
----
+
+[[PAGE_END:2]]
+

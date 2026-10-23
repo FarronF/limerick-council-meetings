@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/01-2025-03-05-minutes-march.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 5th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/01-2025-03-05-minutes-march.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ Declaration of Interest.
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
----
+
+[[PAGE_END:1]]
+
 2
 
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
@@ -172,7 +175,9 @@ Mr. Reid outlined the progress to date on the scheme which includes the followin
  Scheme Refinement, Environmental Impact Assessment Reporting and Preparation of
 
 Planning Documentation.
----
+
+[[PAGE_END:2]]
+
 3
 
 He made reference to the measures which are to address flooding from the River Galey and
@@ -246,7 +251,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
 
 allocate €500 to Athea United Football Club.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agreed to allocate
@@ -312,7 +319,9 @@ REPLY:
 A survey to warrant a crossing at this location has been carried out and it has
 
 been submitted to TII for approval and possible funding.
----
+
+[[PAGE_END:4]]
+
 5
 
 7.
@@ -392,7 +401,9 @@ the burial ground project.
 The project which is the Limerick Greenway Hub at Abbeyfeale has had Part 8 planning
 
 since March 2024, planning reference 24/8000.
----
+
+[[PAGE_END:5]]
+
 6
 
 The project currently has Category 2 funding under the RRDF in order to bring it to
@@ -468,7 +479,9 @@ more active” due to the ease of access to Limerick Greenway for exercise.
 Limerick Greenway use exceeds national recreational walking averages, compared to
 
 national walking data reported in the Irish Sports Monitor.
----
+
+[[PAGE_END:6]]
+
 7
 
 
@@ -548,7 +561,9 @@ REPLY:
 Signage has already been erected and further signage has been ordered and
 
 will be in place once delivery has been received.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Ruddle requested that signage be displayed around the
@@ -614,7 +629,9 @@ Abbeyfeale due to limited availability of parking. He requested that a site asse
 provision of a school warden at Templeglantine also take place and that clarification be
 
 sought on where funding for the school wardens in Adare and Newcastle West is sourced.
----
+
+[[PAGE_END:8]]
+
 9
 
 16. Notice of Motion submitted by Councillor L. Galvin
@@ -680,7 +697,9 @@ Demesne car park to encourage more use of the car park. In replying, the Senior 
 Engineer stated that ducting for the lights is in place and a costing for the poles will be sought
 
 shortly.
----
+
+[[PAGE_END:9]]
+
 10
 
 18. Correspondence
@@ -750,7 +769,9 @@ support, contribution and his excellent work while in the District. The Members 
 also wished the Director well in his new role. In replying, the Director thanked the Members
 
 and colleagues for their kind words.
----
+
+[[PAGE_END:10]]
+
 11
 
 It was agreed to hold the April Meeting of the District on Wednesday, 2nd April, 2025, at 10.00
@@ -768,4 +789,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

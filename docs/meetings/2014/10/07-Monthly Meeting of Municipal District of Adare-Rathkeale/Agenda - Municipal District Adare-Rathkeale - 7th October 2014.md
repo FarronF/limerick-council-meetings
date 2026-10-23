@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_7th_october_2014.pdf)
+**Original file:** [Agenda - Municipal District Adare-Rathkeale - 7th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_7th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
 ANS ‘ Cé na gCeannaithe.
@@ -30,7 +31,7 @@ ANS ‘ Cé na gCeannaithe.
 . =_ imneac!
 Limerick Corporate Services and Change Management,
 ITY NTY Limerick City and County Council,
-c re Sn or Merchants Quay,
+c Cc Sane or Merchants Quay,
 Limerick
 t: +353 (0) 61 407 100
 2°¢ October, 2014. f: +353 (0) 61 415 266
@@ -53,7 +54,7 @@ Is mise le meas,
 Tina Knox,
 Meetings Administrator.
 
-eee ee en ee teen ee een en cen meee enn e ne nnn nn ewan nner a enn nenn ma nee nnn ne eee nnn nnn eee e eset e ee eeeeeeeseeeses
+eee en ee teen ee eee n cee eee e ene n enna nner n nena enema manne n nnn eet n nnn nee e eset e ee eeeeeeeseseees
 
 AGENDA
 
@@ -70,11 +71,13 @@ Update on Proposed Lease of Gortadroma Landfill.
 Update on Housing Repairs Programme.
 = customerservices@limerickie
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © wwwaAimerickie
-Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach © wwwaiimerickie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Travel and Transportation
@@ -101,4 +104,6 @@ Notice of Motion submitted by Councillor T. Neville
 Kilfinny village.
 
 
----
+
+[[PAGE_END:2]]
+

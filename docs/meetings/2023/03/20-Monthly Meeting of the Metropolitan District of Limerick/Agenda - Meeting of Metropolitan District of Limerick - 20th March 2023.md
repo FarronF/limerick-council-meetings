@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20March%202023.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20March%202023.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -95,7 +96,9 @@ on 20th February, 2023.
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -157,7 +160,9 @@ Development Act 2000 (as amended), and Part 8 of the Planning and Development Re
 Street, Limerick.
 
 (Reports Enclosed).
----
+
+[[PAGE_END:2]]
+
 3
 
 **QUESTIONS**
@@ -213,7 +218,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for the 
 work will commence on Father Russell Road and South Circular Road Active Travel Schemes and
 
 when detailed design will be brought to Limerick City West Councillors for input.
----
+
+[[PAGE_END:3]]
+
 4
 
 **NOTICES OF MOTION**
@@ -271,10 +278,14 @@ be stopped as it causes accessibility issues on footpaths.
 I will move at the next Meeting of the Metropolitan District of Limerick that the upgrade works
 
 for the children’s playground at The People’s Park are commenced without delay.
----
+
+[[PAGE_END:4]]
+
 5
 
 **19.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:5]]
+

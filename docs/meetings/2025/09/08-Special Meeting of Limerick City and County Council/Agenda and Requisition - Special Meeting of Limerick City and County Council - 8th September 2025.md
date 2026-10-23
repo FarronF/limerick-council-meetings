@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda.pdf)
+**Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 8th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+_——_ Comhairle Cathrach
 = & Contae Luimnigh
 ~~ Limerick Cit
 — imerick City
@@ -31,7 +32,7 @@ _—_ Comhairle Cathrach
 
 Seirbhisi Corparaideacha,
 
-Comhairle Cathvach agus Contac Luimnigh,
+Comhairle Cathvach agus Contac Luimnigh
 Ceanncheathn’s Chorparaidesch.
 
 Cé na gCeannaithe.
@@ -40,7 +41,7 @@ Luimneach
 
 Corporate Services,
 
-Limenck City and County Council,
+Limenick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -49,7 +50,7 @@ Limerick
 EIRCODE V94 EN9O
 
 t: +353 (0) 61 557150
-f: +353 {0) 61 415 266
+f; +353 (0) 61415 266
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and
 
@@ -59,12 +60,12 @@ A Chomhairleoir, a chara,
 
 The Priomh Chomhairleoir, Councillor Catherine Slattery, has called a Special Meeting of
 Limerick City and County Council to be held in the Council Chamber, Dooradoyle, and Online,
-on Monday, 8" September, 2025, at 3.30 p.m., in order to discuss the issue as set out in the
+on Monday, 8"" September, 2025, at 3.30 p.m., in order to discuss the issue as set out in the
 attached Requisition in relation to the N/M20 Cork to Limerick Project.
 
 Is mise le meas,
 
-C Yegell
+C iegell
 
 Meetings Administrator.
 
@@ -74,13 +75,15 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy of Requisition attached)
 
 mcustomerservices@limerickic
-© war limerick.ie
+ werwlimerick.ie
 
 @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 From: McSweeney, Clir Dan
@@ -89,7 +92,7 @@ Sent: Friday, August 15, 2025 6:49 PM
 
 To: Priomh Chomhairleoir
 
-Cc: Farrell, Ciara; Catherine Slattery
+Ce: Farrell, Ciara; Catherine Slattery
 
 Subject: Special Meeting Request N/M20 Scheme
 
@@ -107,4 +110,6 @@ Cllr Sarah Kiely
 Cllr Bridie Collins
 
 
----
+
+[[PAGE_END:2]]
+

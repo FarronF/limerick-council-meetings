@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01b-draft-minutes-annual-meeting-15th-june-2020.pdf)
+**Original file:** [Minutes - Annual Meeting of Metropolitan District of Limerick - 15th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01b-draft-minutes-annual-meeting-15th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY 15TH** **JUNE, 2020 AT**
@@ -90,7 +91,9 @@ hold office until the next Annual Meeting or until a successor has been appointe
 Proposed by Councillor S. Hartigan;
 
 Seconded by Councillor S. Benson;
----
+
+[[PAGE_END:1]]
+
 2
 
 “That Councillor Saša Novak Uí Chonchúir be appointed Cathaoirleach of the Metropolitan District
@@ -172,7 +175,9 @@ Councillor Kiely then addressed the Chamber:
 *Limerick city community radio , one of my first achievements after my election was finding the*
 
 *station their home in Tait place with the help of the executive. I got so much from my time with them*
----
+
+[[PAGE_END:2]]
+
 3
 
 *I would encourage anyone with free time to give it ago, radio is part of who we are and is a very*
@@ -308,7 +313,9 @@ Councillor Kiely then addressed the Chamber:
 *Ar aghaidh linn Le Cheile . Ill leave you with this quote for consideration ,*
 
 *“I have never in my life learned anything from someone who agreed with me “* *(Dudley Field Malone)*
----
+
+[[PAGE_END:3]]
+
 4
 
 *Go raibh Maith agaibh*
@@ -370,7 +377,9 @@ Councillor McSweeney then addressed the Chamber:
 *most importantly the people of Limerick City West who put their faith in me in May 2019 and elected*
 
 *me to Limerick City and County Council.*
----
+
+[[PAGE_END:4]]
+
 5
 
 *Due to the ongoing Covid-19 Pandemic we as a city are going to the face the biggest challenges we*
@@ -416,4 +425,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

@@ -16,32 +16,32 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20February%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola.
 & Contae Luimnigh Comharie Cathrach agus ¢ a ae
-> > e
-a
+> ie
 
 Une Nua.
 
-— Limerick City 2
+~ Limerick City 2
 & County Council Rath Caolo,
 
 Co. Luimnigh.
 
-Adaire-Rathkeale Municipal Datrct,
-Lirnenck City and County Council,
+Adzire-Rathkeale Municipal Datrct,
+Lirnentck City and County Council,
 Aras Sean Finn,
 
 New Line,
 
 Rathkeale,
 
-Co. Limenck
+Co. Limerick
 
 EIRCODE VS4 HKIV
 
@@ -77,7 +77,9 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick. 1 @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Urban & Rural Community Development
@@ -118,7 +120,9 @@ circa eleven acres to a private developer without foul sewer or storm water conn
 being available.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -147,4 +151,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

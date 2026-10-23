@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01a-2020-10-07-minutes-october.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01a-2020-10-07-minutes-october.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -40,7 +41,7 @@ Engineer, Housing (Mr. D. Toomey), Meetings Administrator, Newcastle West (Ms. M
 Corbett), Clerical Officer, Newcastle West (Ms. A. Lenihan).
 
 At the outset of the Meeting, Councillor Foley welcomed everyone in attendance to the
-October Meeting of the District. The Cathaoirleach reiterated the Covidi9 recommended
+October Meeting of the District. The Cathaoirleach reiterated the Covid19 recommended
 guidelines with regard to the duration of Meetings and to be mindful of keeping the length of
 meetings to a minimum with the maximum time allowed being one hour and fifty five
 minutes.
@@ -68,7 +69,9 @@ And Resolved:
 (b) Circulated, copy of draft Minutes of Meeting of the Adjourned Meeting of the
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Municipal District of Newcastle West held on 9" September, 2020.
@@ -115,7 +118,9 @@ The Members agreed to allocate funding to the organisations as outlined in the r
 was proposed by Councillor Galvin and seconded by Councillor Scanlan.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ss. General Municipal Allocation (GMA)
@@ -157,7 +162,7 @@ QUESTION FROM SEPTEMBER MUNICIPAL DISTRICT MEETING
 
 6. Question submitted by Councillor F. Foley
 
-1 will ask at the next Meeting for a copy of the planning permission and a copy of the
+! will ask at the next Meeting for a copy of the planning permission and a copy of the
 Environmental impact Statement from Irish Water with regard to the works which they
 carried out on the River Feale, Abbeyfeale at McCarthy’s bend with regard to diverting
 water to the Abbeyfeale Water Treatment Plant.
@@ -165,7 +170,9 @@ water to the Abbeyfeale Water Treatment Plant.
 REPLY:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e In early 2016, following extreme floods, a breach formed on the River Feale. The
@@ -175,7 +182,7 @@ this would have caused the meander to become cut off from the river. This could 
 resulted in a significant threat to the water supply for approximately 3,000 people
 supplied by the Abbeyfeale Public Water Supply.
 
-e The River Feale is the raw water source for the Abbeyfeale Public Water Supply and
+© The River Feale is the raw water source for the Abbeyfeale Public Water Supply and
 the raw water intake (abstraction point) was in place long before the 2016 event.
 
 e Due to concerns by Irish Water and Limerick County Council that the breach may
@@ -196,7 +203,7 @@ e The works were completed later in 2016.
 e trish Water contends that the works undertaken did not change the course of the River
 Feale but rather restored and protected its natural channel flow to that of the river,
 pre 2016. While it is accepted that there has been erosion at the Public Park, Irish
-Water's position is that this did not occur as a result of the emergency works
+Water’s position is that this did not occur as a result of the emergency works
 undertaken.
 
 e trish Water does not have jurisdiction to undertake any further works on the River
@@ -213,7 +220,9 @@ Councillor Foley acknowledged the response received from Irish Water but also re
 to the ongoing issue with regard to river erosion at the town park.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -263,10 +272,12 @@ Water’s position is that this did not occur as a result of the emergency works
 undertaken.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-e Irish Water does not have jurisdiction to undertake any further works on the River
+¢ Irish Water does not have jurisdiction to undertake any further works on the River
 Feale and so it is respectfully suggested that contact be made with the OPW to further
 discuss the matter.
 
@@ -318,7 +329,9 @@ mitigate the blockages and need for repeated jetting/cleaning out. A proposal wa
 6
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Irish Water for approval and recently a purchase order has been issued to a Contractor to
@@ -360,7 +373,7 @@ REPLY:
 There are 2641 Households on the LCCC Social Housing Waiting list. 251 households reside
 in NWC,
 
-Number of Households on LCCC Social Housing Waiting List Gall
+Number of Households on LCCC Social Housing Waiting List aa |
 
 Households Residing in NCW 25a
 
@@ -370,7 +383,9 @@ receiving Rental Accommodation Scheme Support (RAS).
 6 households are approved.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Of the 358 households who have expressed an interest in being house in NCW they are
@@ -378,7 +393,7 @@ categorised as follows: 173 - First preference, 53 — second and 132 — third.
 
 At present there are 27 vacant LCCC owned houses in NCW:
 
-ill
+ow
 
 7 houses will ready for allocation in October, 1 in November and 19 will be ready in 2021
 subject to funding approval.
@@ -405,7 +420,9 @@ from 2016 to 2020 along with the numbers acquired in the same period through Sec
 obligations.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -417,7 +434,7 @@ streams.
 2018
 (2019
 | 2020 (to
-date)
+date) |
 
 *Social Housing Investment Programme
 **Capital Assistance Scheme
@@ -435,7 +452,7 @@ weeks subject to weather conditions.
 
 14. Question submitted by Councillor F. Foley
 
-! will ask at the next Meeting for an update on the Limerick City and County Council’s
+! will ask at the next Meeting for an update on the Limerick City and County Council's
 Camera system in Abbeyfeale as there was a problem with them and has it been fixed.
 
 REPLY:
@@ -449,7 +466,9 @@ The playback issue is not apparent in any of our discs assessed and may be a use
 player is recommended.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 These cameras include panoramic cameras, which are a collection of cameras reviewing a 360
@@ -496,13 +515,15 @@ to households could be arranged prior to commencement of Section 38 process.
 
 17. Notice of Motion submitted by Councillor J. Scanlan
 
-| will move at the next Meeting that the Newcastle West Municipal District be given a
+1 will move at the next Meeting that the Newcastle West Municipal District be given a
 commitment that all essential upgrade works on residential properties purchased by our
 
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Authority be undertaken immediately once property purchased, in order that those homes
@@ -520,9 +541,9 @@ properties be undertaken immediately to ensure a quick response time in getting 
 houses into occupancy. The Members also acknowledged the good work carried out on the
 purchasing of derelict properties in the District.
 
-18. Notice of Motion submitted by Councillor M. Collins
+18. Notice of Motion submitted by Councillor M, Collins
 
-! will move at the next Meeting that Limerick City and County Council clearly mark out and
+| will move at the next Meeting that Limerick City and County Council clearly mark out and
 define the trading area at the Square, Newcastle West to identify how many pitches are
 available there.
 
@@ -550,7 +571,9 @@ followed and it was agreed that a list of traders and map would be circulated.
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Notice of Motion submitted by Councillor M. Collins
@@ -601,7 +624,9 @@ along with two Elected Members and three Council officials.
 12
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer referred to the workshop, which was to take place with the
@@ -622,9 +647,13 @@ Dated:
 13
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:14]]
+

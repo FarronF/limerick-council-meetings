@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/02.1%20Minutes%20of%20Annual%20Meeting%2016th%20June%202022.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 16th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/02.1%20Minutes%20of%20Annual%20Meeting%2016th%20June%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF THE ANNUAL MEETING OF THE
@@ -80,7 +81,9 @@ District.
 Councillor Ryan also thanked his Leas Cathaoirleach, Councillor Donegan, for his support
 
 throughout the year.
----
+
+[[PAGE_END:1]]
+
 2
 
 On taking the Chair, Councillor Egan thanked his proposer and seconder and said he was
@@ -136,4 +139,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

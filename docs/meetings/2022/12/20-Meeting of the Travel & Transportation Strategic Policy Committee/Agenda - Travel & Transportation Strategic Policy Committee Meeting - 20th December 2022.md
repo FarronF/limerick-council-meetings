@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2020.12.22_0.pdf)
+**Original file:** [Agenda - Travel & Transportation Strategic Policy Committee Meeting - 20th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2020.12.22_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **9th December, 2022**
@@ -51,7 +52,9 @@ is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -77,4 +80,6 @@ I ask this SPC to engage with the Minister for Transport asking that any civil w
 on the Limerick/Foynes Rail Line reinstatement will future proof the line to become a
 
 dual line. I ask this to prevent incurring extra costs at later stages.
----
+
+[[PAGE_END:2]]
+

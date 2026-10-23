@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-9th-october-2025.pdf)
+**Original file:** [Agenda -  Meeting of the Home and Social Development Strategic Policy Committee - 9th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-9th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -70,7 +71,9 @@ We will move at the next meeting of the Metropolitan District of Limerick that s
 downsizing property becomes available that the property is used for downsizing again and
 
 not put back into the social housing stock.
----
+
+[[PAGE_END:1]]
+
 9. **Notice of Motion submitted by Councillor S. Hickey-O'Mara (to be referred to Home and**
 
 **Social Development Strategic Policy Committee)**
@@ -96,4 +99,6 @@ appropriate for the construction of student housing.
 10. Introduction of Charges for Homeless Private Emergency Accommodation Services
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:2]]
+

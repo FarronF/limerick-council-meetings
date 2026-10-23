@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-13th-february-2024.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-13th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -66,7 +67,9 @@ The Chair thanked Mr. McGrath and Mr. O’Reilly for the presentation and opened
 questions/comments.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Cllr. E. O’Donovan raised three observations/queries as follows:
@@ -152,7 +155,9 @@ club, located in the estate is in favour of traffic calming measures at entrance
 He also enquired if the new speed limit reduction of 50kp/h would apply on the Ballinacurra
 
 Road.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. Butler stated that much work goes into a plebiscite and asked if using Section 38 would be
@@ -222,7 +227,9 @@ The next step in the Traffic Calming Measures Policy is to consider the views ex
 and subject to further comments, to finalise the policy wording and recommend that it goes to
 
 the Full Council for adoption.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Item 3: Notice of Motion submitted by Councillor S. Hartigan (referred from Metro Meeting)**
@@ -294,6 +301,10 @@ The Chair thanked all for their contribution and confirmed that the next Travel 
 SPC Meeting is scheduled for Tuesday, the 16th of April 2024. This concluded the business of the
 
 meeting.
----
+
+[[PAGE_END:4]]
+
 5
----
+
+[[PAGE_END:5]]
+

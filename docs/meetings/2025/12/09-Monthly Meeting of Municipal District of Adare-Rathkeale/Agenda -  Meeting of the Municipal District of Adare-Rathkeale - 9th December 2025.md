@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-9th-december-2025.pdf)
+**Original file:** [Agenda -  Meeting of the Municipal District of Adare-Rathkeale - 9th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-9th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach
+__—_—_ Comhairle Cathrach
 & Contae Luimnigh
 AN SSS
 
@@ -31,7 +32,7 @@ AN SSS
 4" December, 2025.
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comhairle Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Lulmnigh,
 Aras Séan Finn,
 
 Line Nua,
@@ -60,17 +61,17 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
 Tuesday 9% December, 2025 at 10.00 a.m. The business to be transacted is set out on the
 
 appended Agenda.
 
-Is mise le meas,
+is mise le meas,
 
 Karen
 Meetings Administrator.
 
-eae tnnnneietetetteteneeteneienenenieneeienenteeneenemnanel
+a en era enneie nnn teneneneneetstenenennenentehnnenieneeieneeeeenmenematel
 
 AGENDA
 
@@ -83,18 +84,20 @@ on 11" November, 2025.
 2. Declaration of Interest
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach |
-Corporate Headquarters, Merchants Quay, Limerick,
+Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
 = customerservices@limerick ie
-© wwewelimerickie
+© wwevetimerickie
 
 @LimerickCouncil
 \ 061 - $86 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -120,4 +123,6 @@ To review position in relation to allocations under the General Municipal Alloca
 nN
 
 
----
+
+[[PAGE_END:2]]
+

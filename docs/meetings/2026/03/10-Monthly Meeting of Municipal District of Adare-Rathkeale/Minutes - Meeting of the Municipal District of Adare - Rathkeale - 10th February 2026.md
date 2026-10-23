@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-february-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare - Rathkeale - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -92,7 +93,9 @@ January, 2026 also regarding a request for a list of all Council owned vacant an
 properties in Rathkeale, he noted that he received the list under Correspondence,
 
 however, he had also asked for the length of time each building is in Council ownership
----
+
+[[PAGE_END:1]]
+
 2
 
 and what their proposed future use would be to be included in this report. He
@@ -162,7 +165,9 @@ community uses.
 In Q1 2026 cleaning and painting works have taken place on the former Post Office
 
 building as well as the preparation of design options. Public consultation for input and
----
+
+[[PAGE_END:2]]
+
 3
 
 feedback, development of preferred design and submission of Part 8 Planning Application
@@ -236,7 +241,9 @@ account and revert when a final design is complete.
 Councillor O’Donoghue advised the meeting he was proposing this motion due to
 
 concerns among the local population of Croom regarding traffic congestion at the T
----
+
+[[PAGE_END:3]]
+
 4
 
 junction on main Street and how this congestion could be alleviated as a ring road for the
@@ -314,7 +321,9 @@ The report, as circulated, was noted by Members.
 (b) Circulated, report of the Head of Property Services dated 30th January, 2026 setting
 
 out proposals for the disposal of 0.2629 Acres (0.1064 Hectares) of land at Askeaton,
----
+
+[[PAGE_END:4]]
+
 5
 
 Co. Limerick and the intention to bring a Section 183 Notice to Full Council in this
@@ -382,7 +391,9 @@ allocate €2,000 to Cappagh Women’s Cave.
 On the proposal of Councillor Ward, seconded by Councillor Teskey, it was agreed to
 
 allocate the following:
----
+
+[[PAGE_END:5]]
+
 6
 
 • €1,000 to Kilcornan Craft Club.
@@ -456,7 +467,9 @@ these spaces.
 **control of Limerick City and County Council with regards to water and wastewater**
 
 **services in the District.**
----
+
+[[PAGE_END:6]]
+
 7
 
 The Senior Engineer, Environment, Climate Action and Shared Services informed
@@ -530,7 +543,9 @@ Askeaton swim club and asked that going forward that all entities would be kept
 informed of the day to day running’s of the swimming pool and hoped that
 
 memberships would be kept up as well as regular maintenance to the facility. Councillor
----
+
+[[PAGE_END:7]]
+
 8
 
 Collins requested that a report be made available to Members from the Operator on a
@@ -608,7 +623,9 @@ The LCCC Economic and Tourism Development Department gives financial
 assistance to St. Patrick's Day Parades and St. Patrick's Festivals through
 
 two open calls:
----
+
+[[PAGE_END:8]]
+
 9
 
 • The St. Patrick's County Parades Support and the Festivals and Events
@@ -658,4 +675,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

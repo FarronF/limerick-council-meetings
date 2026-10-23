@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 5th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
+i Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
 imni Comhairle Cathrach agus Contae Luimnigh,
-aAZm™ i =~ 6 Contae Luimnigh Aras William Smith O'Brien.
+aArm™ i =~ 6 Contae Luimnigh Aras William Smith O'Brien,
 
-. Gortbul
+. Gortbut
 — Limerick City An Caisledn Nua Thiar
 & County Council Co. Luimnigh
 
@@ -69,11 +70,13 @@ To receive Presentation on the key principles and timelines for the preparation 
 the Limerick Draft Noise Action Plans 2024-2028.
 
 & customerservices@limerick.ie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach é www.limerick te
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach é wwwlimerick ie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -123,7 +126,9 @@ received in respect of the second phase offer, (d) How many right sizers will be
 provided for the 10 step down Bungalow Units and when will these be occupied.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -184,9 +189,10 @@ volume of accidents that occur there.
 | will move at the next Meeting that Limerick City and County Council in conjunction
 with both the Clare and Kerry County Council’s have a joint approach to apply
 pressure on the Government to ensure the Shannon Estuary is prioritized and that
-
 the findings of the Shannon Estuary Economic Task force report be implemented
 forthwith.
 
 
----
+
+[[PAGE_END:3]]
+

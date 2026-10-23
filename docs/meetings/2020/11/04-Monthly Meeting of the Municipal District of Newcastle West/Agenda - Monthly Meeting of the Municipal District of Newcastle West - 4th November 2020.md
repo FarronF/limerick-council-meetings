@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-11-04-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-2020-11-04-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 i Duiche Bardais an Chaisieain Nua Thiar,
-_ — pact eect Comhairle Cathrach agus Contee Lulmnigh,
+i Pactra ecco Comhairle Cathrach agus Contee Lulmnigh,
 
-AN Mf ™
+AN fi ™
 
-Aras Viilkam Smith O'Brien,
+Aras Viilkam Smith O'Bnien,
 Gortbui,
 
 —=—> Limerick City An Catslean Nua Thar,
@@ -39,7 +40,7 @@ Gortboy,
 
 Nevecastle West,
 
-Co. Limerick.
+Co. Limerick,
 
 30" October, 2020 Eircode: V42EH75
 
@@ -56,8 +57,6 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 4" Nove
 2020, at 10.00 a.m. The business to be transacted Is set out on the appended Agenda.
 
 Is mise le meas,
-
-Moga—t Co-betsh——
 
 Margaret Corbett,
 Meetings Administrator.
@@ -78,15 +77,20 @@ October, 2020.
 to Mr. Paddy Healy.
 (b) To note proposal for the disposal of property at 116 Assumpta Park, Newcastle
 West, Co. Limerick, to Angela Power.
-= ee ee
-Cean Choi ideach, Cé na gCeannaithe, Luimneach weewlimerick.ie
-Cupeaie aise Merchant's Quay, Limerick VW @limorickCounctl
+= a
+Ceani Cho! ideach, Cé na gCeannaithe, Luimneach weewlimerick.ie
+Gupeate ieieeee Merchant's Quay, Limerick VW @LimorickCounctl
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
+10.
+
 (c) To note proposal for the disposal of property at Templeathea West, Athea,
+
 Co. Limerick to Athea Voluntary Housing Association CLG.
 
 (Reports Enclosed)
@@ -122,7 +126,7 @@ in Mountcollins (c) an update on the new development for Mountcollins? (d) how
 many houses are vacant in Abbeyfeale (e) what length of time are the houses
 vacant?
 
-twill ask at the next Meeting for a report on overgrown hedges in this District.
+! will ask at the next Meeting for a report on overgrown hedges in this District.
 NOTICES OF MOTION
 
 Notices of Motion submitted by Councillor J. Scanian
@@ -131,7 +135,9 @@ Notices of Motion submitted by Councillor J. Scanian
 Street, Newcastle West.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -144,7 +150,7 @@ improve the level of housing delivery within this Municipal District.
 
 Notices of Motion submitted by Councillor L. Galvin
 
-twill move at the next Meeting that the Council take in charge the Rays estate,
+| will move at the next Meeting that the Council take in charge the Rays estate,
 Mountcollins, Co. Limerick.
 
 | will move at the next Meeting that a discussion be held in relation to heating
@@ -153,4 +159,6 @@ systems recently installed in our housing stock.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

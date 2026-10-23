@@ -32,5 +32,5 @@ Standing Orders - Meeting of Limerick City and County Council - 1st November 202
 
 Invitation to Attend the Austin Sisters International Passport to the World Festival.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/invitation-to-attend-the-austin-sisters-international-passport-to-the-world-festival.pdf) - Text not extracted
 
-Attendance at _Planning and Promotion of Cycling in Denmark Study Trip_ - 4th - 7th November 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/attendance-at-planning-and-promotion-of-cycling-in-denmark-study-trip.pdf) - Text not extracted
+Attendance at "Planning and Promotion of Cycling in Denmark Study Trip" - 4th - 7th November 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-10/attendance-at-planning-and-promotion-of-cycling-in-denmark-study-trip.pdf) - Text not extracted
 

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-january-2024.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 12th January, 2024.
@@ -64,7 +65,9 @@ Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 14
 December 2023.
 
 (Copies Enclosed)
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -126,7 +129,9 @@ and County Council seek to purchase land with a view to making serviced sites av
 potential first time buyers in the Cappamore Kilmallock Municipal District to showcase the future
 
 housing potential of this type of development as an example.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -158,4 +163,6 @@ I will ask at the next meeting of the Cappamore Kilmallock Municipal District
 a) How many Driver Feedback signs are on the R512 and R513
 
 b) What speeds are recorded at these locations
----
+
+[[PAGE_END:3]]
+

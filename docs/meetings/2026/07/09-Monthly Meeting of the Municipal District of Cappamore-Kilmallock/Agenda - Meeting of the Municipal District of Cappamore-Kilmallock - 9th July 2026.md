@@ -16,28 +16,31 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-9th-july-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 9th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-9th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-Oifg an Cheantair, Aras Mhainchin Seoighe,
+ae Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+ae Luimn Olfg an Cheantair, Aras Mhainchin Seoighe,
 
-mn
-= & Contae Luimnigh Cill Mochealog
-Limerick City Co, Luirmrngh
+aAmN & Cont = igh Cill Mochealég.
+Limerick City Co, Luirmrgh
+
 = & County Council Limerick City and County Council,
+
 Aras Mairchin Seoighe Area Office,
-Kimallock,
+Kimaliock,
+
 Co. Limerick,
 
 EIRCODE V35 k497
 
-t; 43553 (0) 63 980 19
+t; 4353 (0) 63 980 19
 f: +353 (0) 63 985 99
 
-2™ july, 2026.
+2™ July, 2026.
 To: e Cathaoirleach and Each Member of the Munici
 Kilmallock
 A Chomhairleoir, a chara,
@@ -55,7 +58,7 @@ We
 Mark Leahy,
 Meetings Administrator.
 
-nn nn nn nn nn a nn er nn en nn en en ne nn en ew nnn ne nnn nnn ne ne nnn ne nn wenn eeeneseeee
+ee
 
 AGENDA
 
@@ -68,13 +71,15 @@ Annual Meeting of the Municipal District of Cappamore-Kilmallock held on the
 Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the
 18" June, 2026. (Copy enclosed)
 customerservices@limerick ic
-Smeets Coa Ses coatas Leet ORs ms Chaemiats Kaos Manca Siig * © worwdimerickie
+Saute CORa Spee cosas Lele GIR ms Cheemiats Kees Maca Siciie * © worwdimerickie
 Limerick City and County Council, Aras Mainchin Seoighe Area v
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -119,12 +124,14 @@ an expected completion date for the Cluid Housing development in Turagh
 Crescent, Cappamore, Co. Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
-10
+10.
 
 Question submitted by Councillor M. Ryan
 
@@ -147,7 +154,7 @@ that further additional works be carried out on the Cross of Five roads junction
 in Murroe in order to ensure a safe junction for all users, pedestrian, active
 travel and vehicle users at this location.
 
-. Notice of Motion submitted by Cilr Stokes
+Notice of Motion submitted by Cilr Stokes
 
 | will move at the next meeting Cappamore-Killmallock Muncipal District that
 Limerick City and County Council write to be Minister of State for Older People
@@ -160,4 +167,6 @@ costs.
 11. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

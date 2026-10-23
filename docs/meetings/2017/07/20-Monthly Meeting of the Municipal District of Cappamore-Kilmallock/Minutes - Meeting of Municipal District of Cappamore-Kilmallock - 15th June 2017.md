@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28i%29%20%20Minutes%20Meeting%20150617.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28i%29%20%20Minutes%20Meeting%20150617.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -80,7 +81,9 @@ The Head of Communications and Marketing gave a PowerPoint presentation on the
 new office of Communications and Marketing for the Council. She informed the Members that
 
 their main aims were as follows:
----
+
+[[PAGE_END:1]]
+
 2
 
 1. Corporate Communications – media releases, social media, photography, brand guidelines
@@ -154,7 +157,9 @@ medium and long term action plans. She informed the Members that the Council was
 closely with groups such as, Munster Vales, Ballyhoura Failte and Kilmallock Tourism Group.
 
 She provided information to the Members on the following projects:
----
+
+[[PAGE_END:2]]
+
 3
 
 1. Explore East Limerick Booklet - containing a pull-out map of the area identifying all
@@ -224,7 +229,9 @@ agreed that the Executive Engineer would meet with the residents to discuss thei
 and revert back on this matter at the July Meeting. On foot of this, Councillor Ryan stated he
 
 would defer his Notice of Motion until the July Meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 4.
@@ -298,7 +305,9 @@ advised of the Notice of Motion.
 It was agreed that the Senior Executive Engineer would investigate this matter further
 
 and report back to the July Meeting.
----
+
+[[PAGE_END:4]]
+
 5
 
 7.
@@ -334,4 +343,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Annual%20Meeting%20-%2019th%20June%2C%202015.pdf)
+**Original file:** [Minutes of Annual Meeting - 19th June, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Annual%20Meeting%20-%2019th%20June%2C%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF
 
 METROPOLITAN DISTRICT OF LIMERICK HELD IN THE
@@ -96,7 +97,9 @@ The outgoing Mayor gave the following address to the meeting:
 *Charlotte Grace O Brien and Sophie Mary Pierce for special recognition and felt so*
 
 *proud when Limerick Council and University of Limerick collaborated to honour the*
----
+
+[[PAGE_END:1]]
+
 2
 
 *three women in a wonderful event in the University of Limerick on International* *Women’s*
@@ -194,7 +197,9 @@ The outgoing Mayor gave the following address to the meeting:
 *represented my office, you and the good people of Limerick, not just with pride, but most*
 
 *importantly, with honour and with* *dignity”.*
----
+
+[[PAGE_END:2]]
+
 3
 
 1.
@@ -276,7 +281,9 @@ The Mayor made the following address to the meeting:
 *friends at last Summers local elections. I won't start mentioning names but you know*
 
 *who you are and I thank you.*
----
+
+[[PAGE_END:3]]
+
 4
 
 *Our first new Metro Council of last year saw many challenges and I'd like to thank*
@@ -362,7 +369,9 @@ The Mayor invited nominations for the Office of Deputy Mayor of the Metropolitan
 of Limerick.
 
 Proposed by Councillor Collins;
----
+
+[[PAGE_END:4]]
+
 5
 
 Seconded by Councillor Butler.
@@ -440,4 +449,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

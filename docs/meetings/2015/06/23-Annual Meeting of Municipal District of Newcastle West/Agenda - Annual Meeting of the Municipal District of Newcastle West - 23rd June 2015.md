@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2023rd%20June%202015.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2023rd%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-“ae Cé na gCeannaithe,
+e Cé na gCeannaithe,
 
 — Luimneach
 
@@ -52,10 +53,10 @@ be held at, Aras William Smith OBrien, Newcastle West, Co.Limerick on Tuesday, 2
 oe eee
 
 Is mise le meas,
-fina Know’?
+finaKnowe’?
 Meetings Administrator.
 
-eccecewennnnecncnccccccccccssccceceeeeeereseeessssssssssssssseees sneer s sees es seer eee nen e ses eeee SSO Se SO SSO SOT S SOOO OOOO Oe
+eccecewrennneecncnccccccccccssccseseeeeeeseseeesssssssssssssseees sneer s sees se see seen seas eee SSO SSS S SESS SOTTO Oe OOOO Oe
 
 AGENDA
 
@@ -66,8 +67,10 @@ the next Annual Meeting or until a successor has been elected.
 until the next Annual Meeting or until a successor has been elected.
 
 @ customerservices@limerick.ie
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach oe vewewstimerick.te
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach oe vewewstimerick.te
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

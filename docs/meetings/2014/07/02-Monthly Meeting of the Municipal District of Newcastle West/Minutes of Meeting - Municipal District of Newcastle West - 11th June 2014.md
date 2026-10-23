@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_of_newcastle_west_-_minutes_of_meeting_11_june_14.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Newcastle West - 11th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_of_newcastle_west_-_minutes_of_meeting_11_june_14.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF THE
@@ -52,7 +53,7 @@ OFFICIALS IN ATTENDANCE:
 
 Director of Travel & Transportation (Mr. P. Crowe), Administrative Officer, Corporate
 Services (Ms. T. Knox), Senior Staff Officer, Aras William Smith OBrien (Ms. M. Corbett),
-Executive Engineer (Mr. M. Collins), Executive Engineer, (Mr. M. O'Brien), Executive
+Executive Engineer (Mr. M. Collins), Executive Engineer, (Mr. M. O’Brien), Executive
 Engineer, (Mr. P. Vallely), Assistant Staff Officer, (Ms. M. McCarthy).
 
 4. Election of Cathaoirleach of the Municipal District:
@@ -64,7 +65,9 @@ Proposed by Councillor Galvin;
 Seconded by Councillor Sheahan;
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -126,7 +129,9 @@ Operational Divisions and that information in relation to same would be circulat
 Members imminently. The Director provided an update on the Customer Relationship
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Management System (Sugar-CRM).
@@ -172,4 +177,6 @@ Dated:
 
 
 
----
+
+[[PAGE_END:3]]
+

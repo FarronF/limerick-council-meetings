@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_of_adare_-_rathkeale_-_agenda_to_consider_the_general_municipal_allocation_-_9th_october_2014.pdf)
+**Original file:** [Agenda to consider the General Municipal Allocation - Municipal District of Adare-Rathkeale - 9th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_of_adare_-_rathkeale_-_agenda_to_consider_the_general_municipal_allocation_-_9th_october_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ko
-———
+——
 Limerick
 
 CITY & COUNTY
@@ -30,7 +31,7 @@ COUNCIL
 
 1st October, 2014.
 
-Selronisi Corparaideacha agus Bainistiocht Athruithe.
+Seironisi Corparaideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
 Cé na gCeannaithe,
@@ -68,12 +69,14 @@ Tina Knox,
 Meetings Administrator.
 
 CLAR
-4. To consider the General Municipal Allocation for the Municipal District of Adare-
+fi. To consider the General Municipal Allocation for the Municipal District of Adare-
 Rathkeale for the financial year ending 31° December, 2015.
 (Report Attached)
-© customerservices@limerickie
-Ceanncheathna Chorparaideach, Cé na gCeannaithe, Luimneach © www limerickie
+© customerservices@limerickice
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

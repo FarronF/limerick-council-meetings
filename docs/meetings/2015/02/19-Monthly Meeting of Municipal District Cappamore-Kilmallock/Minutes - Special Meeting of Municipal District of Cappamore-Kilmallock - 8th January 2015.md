@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02-minutes_of_special_meeting_08.01.2015.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Cappamore-Kilmallock - 8th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02-minutes_of_special_meeting_08.01.2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT A SPECIAL MEETING OF THE
@@ -42,7 +43,7 @@ West & South Division (Mr. B. Kennedy), Administrative Officer, Corporate Servic
 Senior Executive Engineer (Ms. A. Goggin), Executive Engineer (Mr. S. Nash),
 Clerical Officer (Ms. L. Moloney).
 
-‘4. Deputation from Kilmallock and Kilfinane Angler’s Association
+1 Deputation from Kilmallock and Kilfinane Angler’s Association
 
 and Inland Fisheries
 
@@ -70,13 +71,15 @@ Footbridge over dykes
 
 Signage on bridges
 
-Ongoing support from IFI, OPW, EPA, Irish Water and Limerick City & County
+Ongoing support from IF, OPW, EPA, Irish Water and Limerick City & County
 Council.
 
 VVVVVVYV
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mr. E. O' Riordan spoke about how the angling tourism had declined in Ireland since
@@ -126,7 +129,7 @@ fencing
 
 Bio security centre
 
-> Permit sales and tracking facility
+» Permit sales and tracking facility
 
 VVVVVVVVYV
 
@@ -135,7 +138,7 @@ Vv
 He advised the Members that the requirements for the first stage of enhancement of
 the River Loobagh would cost €40,656.
 
-> 294 T of one ton boulders €5,550
+>» 294 T of one ton boulders €5,550
 » 360 T of gravel washed graded and delivered €4,428
 » Longreach digger incl. haulage €7,134
 > Website €9,840
@@ -148,7 +151,9 @@ the River Loobagh would cost €40,656.
 €40,656
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Members commended the Delegation for their presentation adding that it was a
@@ -163,4 +168,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

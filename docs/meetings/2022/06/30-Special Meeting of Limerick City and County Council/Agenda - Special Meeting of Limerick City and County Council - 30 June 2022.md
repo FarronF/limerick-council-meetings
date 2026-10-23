@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-30-06-2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 30 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-30-06-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach ae Coe
+Comhairle Cathrach ae Cras
 
-. 2 Comhalrie Cathwach agus Contae Luimnigh
+. a Comhalrie Cathwach agus Contae Luimnigh
 
-—— & Contae Luimnigh Ceanncheathni: Chorpardidesch,
+——— & Contae Luimnigh Ceanncheathni Chorpardidesch,
 ee Cé na gCeannaithe,
 
-——— Limerick City Luimneach
+vs Limerick City Luimneach
 — & County Council
 
 . Corporate Services,
@@ -37,7 +38,7 @@ Limerick City and County Council
 
 Cornorate Headquarters,
 
-Merchants Quay,
+Mercharts Quay,
 
 Limerick
 
@@ -59,16 +60,17 @@ on the untimely passing of Councillor Jerry O'Dea, RIP.
 
 Is mise le meas,
 
-Ce “ a . ~s
-Laura desi _"
-Meetings Ad tor
+Laura desi —_—"
+Meetings Ad tor.
 
-@ customerservices@limerick.te
+™ Customerservices@limerick.te
 
-© wrewlimerick.ie
+© wewlimerick.ie
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncit
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @lLimerickCouncit
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

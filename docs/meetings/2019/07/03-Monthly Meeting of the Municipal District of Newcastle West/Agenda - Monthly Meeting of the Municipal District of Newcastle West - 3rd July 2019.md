@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%202019-07-03%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/00%202019-07-03%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ditiche Bardais an Chaisleain Nua Thiar,
-ee & Cortes tadinedeh Comhairle Cathach aqus Contae Luimnigh
+_e 6 Cortes tadinedeh Comhairle Cathach aqus Contae Luimnigh
 
-Aras Wilkam Srrath O'Brien,
+Aras Wiliam Srrath O'Brien,
 
-NEN 7 : Gorbui,
+NEN 7 : Gortbui,
 
-—=—_>> Limerick City : An Caislean Nua Thiay,
+—=—_>> Limerick City _ An Caistean Nua Thar,
 
 & County Council Co. Laimnigh.
 
@@ -36,7 +37,7 @@ Newcastle West Municipal District,
 
 Limerick City and County Council,
 
-Avas Wiliam Smith O'Brien.
+Avas Wiliam Smith O'Brien,
 
 Cortboy,
 
@@ -44,14 +45,14 @@ Newcastle West
 
 Co. Limerick
 
-28" June, 2019 Eircode: V42EH73
+28" June, 2019 Eircode: VA2EH73
 
 To:
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 3 July, 2019, at
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 3" July, 2019, at
 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -81,12 +82,14 @@ Park.
 West, to Gerard and Claire Conway.
 
 (Report Enclosed)
-@ customerservices@limerickie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © weorectimerickie
-Corporate Headquarters, Merchant's Quay, Limerick YW e@LimerickCouncit
+& customerservices@limerickie
+Ceanncheathni: Chorpardideach, Cé na gCeannaithe, Luimneach © weoremerickie
+Corporate Headquarters, Merchant's Quay, Limerick YW @limerickCouncit
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) To note proposal for the disposal of 0.053 Ha. land at Garryduff, Newcastle
@@ -105,7 +108,7 @@ West, to Eamonn Kelly.
 Ballintubrid, Newcastle West, to Don Colbert.
 (Report Enclosed)
 
-(f) To note proposal for the disposal of 0.415 Ha. land at Ballintubrid, Newcastle
+(f To note proposal for the disposal of 0.415 Ha. land at Ballintubrid, Newcastle
 West, to John Hough.
 (Report Enclosed)
 
@@ -131,7 +134,9 @@ Roads.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -182,11 +187,13 @@ safety.
 
 Notices of Motion submitted by Councillor L. Galvin
 
-I will move at the next Meeting that a public lighting scheme be put in place at Snow’s
+| will move at the next Meeting that a public lighting scheme be put in place at Snow’s
 Cross, Ballingarry, in the interest of safety.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -197,4 +204,6 @@ burial with the Elected Representatives and undertakers before this new procedur
 enforced.
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -71,7 +72,9 @@ damaged by flooding or charging exorbitant rates for same. He also noted that so
 companies were refusing to insure properties that had not flooded previously but were deemed at
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -122,14 +125,16 @@ With the Cathaoirleach’s permission, it was agreed that Item 6 would be taken 
 Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Maigue Rivers Trust
 
 The Senior Executive Engineer, Environment gave a presentation on the economic importance of
 good water quality and achieving the objectives of the Water Framework Directive in terms of
-protecting Ireland's derogation under the Nitrates Directive, avoiding court action and protecting
+protecting Ireland’s derogation under the Nitrates Directive, avoiding court action and protecting
 
 our "Green Image".
 
@@ -177,12 +182,14 @@ Members thanked the Deputation for their presentation and indicated that they we
 supportive of the development.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Next District Meeting
 
-it was agreed that the next Meeting would be held on Wednesday, 9" March, 2016 at 9.00 a.m. at
+It was agreed that the next Meeting would be held on Wednesday, 9" March, 2016 at 9.00 a.m. at
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick.
 
 5. To consider updates from the Fire Department, the Planning Department
@@ -216,7 +223,7 @@ recover the vehicle used from the Gardai, having completed the appropriate paper
 There was a lack of appropriate sanction in these cases and legislation should be enacted
 to deal effectively with this issue.
 
-¢ Criticism was expressed that the Catholic Church had allowed 25 weddings to take place in
+e Criticism was expressed that the Catholic Church had allowed 25 weddings to take place in
 Rathkeale over the Christmas period. The apparent wealth and assets of a large number of
 these visitors was noted and it was suggested that both the Criminal Assets Bureau and the
 Revenue Commissioners should investigate the source of this apparent wealth.
@@ -231,7 +238,9 @@ Councillor Neville noted that considerable investment had been made by the Counc
 City and stressed the need for funding to be made available to upgrade Rathkeale which was the
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -284,7 +293,9 @@ required works and the amount of the bond recovered and what plans were in place
 outstanding issues.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Flooding Issues
@@ -337,4 +348,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

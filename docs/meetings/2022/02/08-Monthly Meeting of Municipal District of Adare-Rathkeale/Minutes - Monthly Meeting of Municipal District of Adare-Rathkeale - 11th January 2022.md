@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-minutes-of-monthly-meeting-11th-january-2022.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-minutes-of-monthly-meeting-11th-january-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 11TH** **JANUARY, 2022 AT 10.00 A.M.**
@@ -82,7 +83,9 @@ dated 11th January, 20022 outlining details of proposed works, projects and futu
 projects planned for the District.
 
 Following discussion the following issues were raised by Members:
----
+
+[[PAGE_END:1]]
+
 2
 
  Councillor Keary requested an update on the proposed junction improvement
@@ -150,7 +153,9 @@ storage and has welfare facilities. This depot has security fencing
 around it and laurel hedging was planted in late Autumn 2021 outside the fence to make
 
 it more presentable. This is an established Depot for a significant number of years.
----
+
+[[PAGE_END:2]]
+
 3
 
 On the opposite side of the road across from the Old Coach Inn, there is a temporary
@@ -222,7 +227,9 @@ Sheahan and agreed.
 In proposing the motion, Councillor O’Brien requested Limerick City and County Council
 
 enter into discussions with the Hunt Museum with a view to bringing the Shannongrove
----
+
+[[PAGE_END:3]]
+
 4
 
 Collar back to Limerick on loan for a period of time. The Meetings Administrator advised
@@ -296,7 +303,9 @@ forward. This was seconded by Councillor O’Brien and agreed.
  Councillor Sheahan proposed the February District Meeting be held in Ballysteen
 
 Carnegie Library and a Civic Reception be convened to acknowledge the Carnegie
----
+
+[[PAGE_END:4]]
+
 5
 
 Library Group success in the Excellence in Place Making Awards, Best Community
@@ -352,4 +361,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

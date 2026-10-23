@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/02%20Minutes%20of%2017th%20November%20Municipal%20District%20Meeting.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 17th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/02%20Minutes%20of%2017th%20November%20Municipal%20District%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -86,7 +87,9 @@ meeting of the Step Forward group to discuss concerns, and that the Senior Housi
 Engineer had agreed to attend the December Meeting of the Municipal District to provide
 
 information on Air to Water and an update on other housing construction initiatives.
----
+
+[[PAGE_END:1]]
+
 3. Disposal of Property
 
 The following disposal of property was noted:
@@ -150,7 +153,9 @@ as they are funded by the Department of Education and not the NTA.
 **Question 2:** Would the NTA have any issues with local communities fund raising and
 
 installing bus shelters on public land/space?
----
+
+[[PAGE_END:2]]
+
 **Answer 2:** The NTA would not have an issue with this, but they could not take them in
 
 charge. These shelters can cause maintenance issues post installation and the Local
@@ -214,7 +219,9 @@ the R517, be reviewed.
 **Proposed: Councillor Carey**
 
 **Seconded: Councillor E Ryan**
----
+
+[[PAGE_END:3]]
+
 **REPLY:**
 
 The Cappamore Kilmallock Municipal District Office will liaise with Cllr. Carey on this request
@@ -276,7 +283,9 @@ Should this Notice of Motion be passed, this will need to be forwarded to the Fu
 for consideration. Contact will be made with the Citizens assembly if passed at the full
 
 council.
----
+
+[[PAGE_END:4]]
+
 Questions
 
 9. **Question submitted by Councillor Carey**
@@ -324,7 +333,9 @@ Park in 2023.
 The information provided above is extracted from the 2021 Annual Occupancy Audit carried
 
 (Image omitted)
----
+
+[[PAGE_END:5]]
+
 out by LCCC on all active Approved Housing Bodies (AHBs) properties in Limerick. Therefore,
 
 this information is accurate as of 31/12/2021 as this is the most recent occupancy audit
@@ -394,7 +405,9 @@ A minutes silence was held for Vicky Phelan, Cervical Check campaigner, who pass
 on 14th November 2022.
 
 Marion Roche, Avondhu Newspaper was welcomed to the meeting.
----
+
+[[PAGE_END:6]]
+
 A request was raised that the Oola Graveyard Committee be invited to present to the
 
 Elected Members at a future meeting. The Meetings Administrator advised the Elected
@@ -416,4 +429,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:7]]
+

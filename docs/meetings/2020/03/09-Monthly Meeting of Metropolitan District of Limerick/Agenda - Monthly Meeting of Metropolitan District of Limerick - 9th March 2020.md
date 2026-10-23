@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/00-agenda-monthly-meeting-9th-march-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-03/00-agenda-monthly-meeting-9th-march-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-P Sewbhisi Corparaideacha,
-_——_ a sarah Cathrach Comhairte Cathwach agus Comae Luimnigh,
-- for Luimnigh Ceanncheathru Chorparakieach,
-ArN ee Cé na gCeannaithe,
+P Sewrbhisi Corpardideacha,
+_—_—_ Aare Cathrach Comvhairte Cathwach agus Comae Luimnigh,
+- on Luimnigh Ceanncheathru Chorparakieach,
+ArN ee Cé na qCeannaithe,
 => Limerick City Luimneach
 
 & County Counct
@@ -32,18 +33,18 @@ Corporate Services,
 Limertck City and County Council,
 Corporate Headquarters,
 Merchants Quay,
-Limenck
+Limerick
 
-4% March, 2020. EIRCODE V94 EH9O
+4% March, 2020. EIRCODE V94 EHSO
 
-t: +353 (0) 61 $$71S0
+t: +353 (0) 61 5$71S0
 t: +353 (0) 61 415 266
 
 AChomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant's Quay, Limerick on Monday, 9° March, 2020 at 9.45 a.m. The
+Council Chamber, Merchant's Quay, Limerick on Monday, 9" March, 2020 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -61,7 +62,9 @@ February, 2020.
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -89,13 +92,13 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 footpaths, cycleway, on-street parking, public lighting and associated services at the townlands
 of Baunacloka, Dromdarrig, Caheranardrish and Moneteen, Mungret, Co. Limerick.
 
-{b) Part 8 Procedure —Castletroy Urban Greenway
+{b) Part 8 Procedure — Castletroy Urban Greenway
 
 To consider the Chief Executive's Report pursuant to Section 179(3)(a) of the Planning and
 Development Act 2000 (as amended) and Part 8 of the Planning and Development Regulations,
 2001 (as amended) in relation to the construction of an Urban Greenway (cycling and walking)
 providing connectivity between Castletroy College and Gaelscoil Chaladh an Treoigh, in the
-townlands of Newtown and Newcastle, Castletroy, Limerick,
+townlands of Newtown and Newcastle, Castletroy, Limerick.
 
 (Reports Enclosed).
 
@@ -111,7 +114,9 @@ accordance with the provisions of Section 19 of the Planning and Development Act
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 To consider and discuss the Strategic Housing Development Application at Canal Bank, Pa Healy
@@ -150,7 +155,9 @@ management of the Lower River Shannon.
 confirms the number of properties in Limerick that are currently available to rent under AirBnb.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -162,9 +169,9 @@ have registered for exemption with Limerick City and County Council as their Loc
 | will ask at the next Meeting how many of these properties are being rented for more than 90
 days and have applied for planning permission for a change of use.
 
-SYVOMnCeG ©
+VOMnteG 0
 
-ics O > MY TIEATTY
+ice O » MY TIONG
 ic Policy Committee
 
 | will move at the next Meeting that Limerick Metropolitan Council establish a Citizens Assembly
@@ -178,7 +185,7 @@ Strategy.
 percentage of the lands identified by the Land Development Agency be developed for social and
 affordable houses rather than speculative commercial development.
 
-14. _—_ Notice of Motion submitted by Councillor E. Secas
+14. Notice of Motion submitted by Councillor E. Secas
 
 | will move at the next meeting that this Council engage with Bus Eireann and the Garda( to start,
 as soon as possible, an initiative where cameras installed on buses will be used to tackle illegal
@@ -193,11 +200,13 @@ apply for funding to develop a Limerick to Scariff Greenway that will incorporat
 on Merchant's Quay to the Record of Protected Structures.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
-17. _—_ Notice of Motion submitted by Councillor C. Sheehan
+17. Notice of Motion submitted by Councillor C. Sheehan
 
 | will move at the next Metropolitan Meeting of the Council that the Council writes to the Minister
 for Business, Enterprise and Innovation to ask her to intervene in relation to the proposed job
@@ -229,4 +238,6 @@ Alleviation Project.
 {Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+

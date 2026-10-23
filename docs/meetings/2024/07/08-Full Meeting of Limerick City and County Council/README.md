@@ -26,7 +26,7 @@ Files:
 
 Agenda - Meeting of Limerick City and County Council - 8th July 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-limerick-city-and-county-council-08.07.2024.pdf) - [Extracted text](./Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%208th%20July%202024.md)
 
-Minutes - Meeting of Limerick City and County Council - 27th May 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-limerick-city-and-county-council-27th-may-2024.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20May%202024.md)
+Minutes - Meeting of Limerick City and County Council - 27th May 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-minutes-may-meeting-27.05.2024.pdf) - [Extracted text](./Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20May%202024.md)
 
 Minutes - Annual General Meeting of Limerick City and County Council - 21st June 2024.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-annual-general-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf) - [Extracted text](./Minutes%20-%20Annual%20General%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20June%202024.md)
 

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20February%2020223.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 15th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20February%2020223.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -102,7 +103,9 @@ An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed all member
 February SPC meeting.
 
 **Item 1: Confirm minutes from meeting held on14th** **December 2022**
----
+
+[[PAGE_END:1]]
+
 2
 
 **Proposed:** Cllr. Adam Teskey
@@ -174,7 +177,9 @@ Working Group on Vacancy be submitted to full Council.
 **Proposed: Cllr. Conor Sheehan Seconded: Cllr. Tom Collopy**
 
 **Item 5: Scheme of Priority for Affordable Purchase Arrangements**
----
+
+[[PAGE_END:2]]
+
 3
 
 Ms. Martina Frawley, Administrative Officer, Housing Strategy and Non-LA Housing Construction
@@ -256,7 +261,9 @@ Cllr. McSweeney also noted that the Local Authority is lacking in terms of targe
 should not be reliant on the private market. Ms. Newell replied that the Council have their own sites
 
 they are activating including Sonny’s Corner, Curragower Site and Toppins Field. Regular updates will
----
+
+[[PAGE_END:3]]
+
 4
 
 be provided on Affordable Housing every quarter in tandem with the Quarterly Housing Delivery
@@ -332,7 +339,9 @@ Ms. Kathy O’Grady, Senior Staff Officer presented an update to the group.
 Cllr. Benson asked if the percentage of the reducing charge had been amended. Ms. O’Grady
 
 confirmed that it had not changed but may do so in the future.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Item 9: AOB**
@@ -374,4 +383,6 @@ next few weeks.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

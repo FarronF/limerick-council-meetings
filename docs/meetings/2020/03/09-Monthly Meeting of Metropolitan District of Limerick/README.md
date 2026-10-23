@@ -28,27 +28,27 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-minutes-monthly-meeting-17th-february-2020.pdf) - [Extracted text](./Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2017th%20February%202020.md)
 
-Disposal of Land_ 12 Island Road - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02a-disposal-of-land-12-island-road.pdf) - Text not extracted
+Disposal of Land: 12 Island Road - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02a-disposal-of-land-12-island-road.pdf) - Text not extracted
 
-Disposal_ Former Provincial Flooring Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02bi-disposal-former-provincial-flooring-report.pdf) - Text not extracted
+Disposal: Former Provincial Flooring Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02bi-disposal-former-provincial-flooring-report.pdf) - Text not extracted
 
-Disposal_ Former Provincial Flooring Map - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02bii-disposal-former-provincial-flooring-map.pdf) - Text not extracted
+Disposal: Former Provincial Flooring Map - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02bii-disposal-former-provincial-flooring-map.pdf) - Text not extracted
 
-Disposal_ Former Boxing Club Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02ci-disposal-former-boxing-club-report.pdf) - Text not extracted
+Disposal: Former Boxing Club Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02ci-disposal-former-boxing-club-report.pdf) - Text not extracted
 
-Disposal_ Former Boxing Club Map - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02cii-disposal-former-boxing-club-map.pdf) - Text not extracted
+Disposal: Former Boxing Club Map - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/02cii-disposal-former-boxing-club-map.pdf) - Text not extracted
 
-Part 8 Mungret LIHAF_ Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03ai-part-8-mungret-lihaf-cover-letter.pdf) - Text not extracted
+Part 8 Mungret LIHAF: Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03ai-part-8-mungret-lihaf-cover-letter.pdf) - Text not extracted
 
-Part 8 Mungret LIHAF_ Planner's Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03aii-part-8-mungret-lihaf-planners-report.pdf) - Text not extracted
+Part 8 Mungret LIHAF: Planner's Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03aii-part-8-mungret-lihaf-planners-report.pdf) - Text not extracted
 
-Part 8 Mungret LIHAF_ Layout - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03aiii-part-8-mungret-lihaf-layout.pdf) - Text not extracted
+Part 8 Mungret LIHAF: Layout - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03aiii-part-8-mungret-lihaf-layout.pdf) - Text not extracted
 
-Part 8 Castletroy Urban Greenway_ Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03bi-part-8-castletroy-urban-greenway-cover-letter.pdf) - Text not extracted
+Part 8 Castletroy Urban Greenway: Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03bi-part-8-castletroy-urban-greenway-cover-letter.pdf) - Text not extracted
 
-Part 8 Castletroy Urban Greenway_ Planner's Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03bii-part-8-castletroy-urban-greenway-planners-report.pdf) - Text not extracted
+Part 8 Castletroy Urban Greenway: Planner's Report - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03bii-part-8-castletroy-urban-greenway-planners-report.pdf) - Text not extracted
 
-Part 8 Castletroy Urban Greenway_ Layout - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03biii-part-8-castletroy-urban-greenway-layout.pdf) - Text not extracted
+Part 8 Castletroy Urban Greenway: Layout - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/03biii-part-8-castletroy-urban-greenway-layout.pdf) - Text not extracted
 
 Patrickswell Local Area Plan 2015-2021 - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-03/04-patrickswell-local-area-plan-2015-2021.pdf) - Text not extracted
 

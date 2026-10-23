@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20Council%20Meeting%2026.09.2022.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 26th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20Council%20Meeting%2026.09.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-- ‘esas Cearpaaibdaaciae
-— Comhairle Cathrach Comhairle Cathwach agus Comtne Ludrrrdah,
+. a
+—_— Comhairle Cathrach Comhuirle Cathwach agus Comtne Ludrriah,
 
-Ar™ “ ~S
+ArT™ “ ~S
 
 Limerick City
 —= & County Council
@@ -33,21 +34,21 @@ Limerick City
 
 To:
 
-& Contae Luimnigh Ceannchesthné Chorpardideach.
-—=———=—— Cé na gCeannnithe.
+& Contae Luimnigh Ceannchesthni: Chorparsideach.
+—=———<—=—— Cé na gCeannnithe,
 Ludmneach
 
 Corporate Services,
 
-Limerick City and County Council
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EHS0
+EIRCODE V94 EH90
 
-t: 4353 (0) 61 557150
+t: 4353 (0) 61 5571580
 f: +353 (0) 61415 266
 
 A Chomhairleoir, a chara,
@@ -56,7 +57,7 @@ You are requested to attend Meeting of Limerick City and County Council to be he
 Council Chamber, Dooradoyle, and Online, on Monday, 26" September, 2022, at 3pm. The
 business to be transacted is set out on the appended Agenda.
 
-SL
+SS
 
 Laura Flannery,
 Meetings Administrator.
@@ -65,7 +66,7 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of the following Meetings:
-(a) Annual Mecting of the Council held on 7" july, 2022.
+(a) Annual Mecting of the Council held on 7" July, 2022.
 (b) Special Meeting of the Council held on 11" July, 2022.
 
 (c) Ordinary Meeting of the Council held on 11™ July, 2022.
@@ -81,13 +82,15 @@ Land Development Agency
 Presentation to Elected Members.
 
 =
-© wwew limerick. ie
+© Wew limerick.ie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -151,12 +154,12 @@ September, 2022, already circulated)
 
 Support Services
 
-(a)
+()
 
 Local Property Tax
 
 (i) To consider whether to pass a resolution to vary the basic rate of Local
-Property Tax for the year ending 31% December, 2023, in accordance
+Property Tax for the year ending 31* December, 2023, in accordance
 with Section 20 of the Finance (Local Property Tax) Act, 2012, as
 amended.
 
@@ -168,7 +171,9 @@ amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -177,7 +182,7 @@ amended.
 
 (4)
 
-{e)
+(e)
 
 Fixing of Date ~ Statutory Budget Meeting
 To fix date for the 2023 Statutory Budget Meeting.
@@ -206,8 +211,6 @@ Audit Committee.
 
 (Report and copy of Draft Charter Enclosed)
 
-Chief Executive’s Report
-
 To consider Chief Executive’s Report for the months of June, July and August
 2022.
 (Reports Enclosed)
@@ -221,12 +224,14 @@ in accordance with the provisions of Section 66 of the Local Government Act,
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
-(g) Foreign Travel
+(9) Foreign Travel
 To consider approval of foreign travel in respect of invitations received by the
 Mayor of the City and County of Limerick, under Section 142(5) of the Local
 Government Act, 2001, as amended, in respect of attendance at:
@@ -244,7 +249,7 @@ Policy Committee held on 12" July, 2022.
 (ii) Community, Leisure and Culture Strategic Policy Committee: Next
 Meeting scheduled for 3 October, 2022.
 (ii) Economic Development, Enterprise and Planning Strategic Policy
-Committee: Next Meeting scheduled for 10" October, 2022.
+Committee: Next Meeting scheduled for 10” October, 2022.
 (iv) Climate Action, Biodiversity and Environment Strategic Policy
 Committee: Next Meeting scheduled for 18'" October, 2022.
 (v) Home and Social Development Strategic Policy Committee: Next
@@ -259,12 +264,13 @@ accordance with Section 106 of the Local Government Act, 2001, as amended.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
-Transportation and Mobility
 (a) Part 8 Planning - Proposed N21 Coolanoran Traffic Calming Scheme
 
 To consider the Chief Executive’s report pursuant to Section 179 of the
@@ -286,7 +292,7 @@ To consider approving recommended allocations from the Assessment Panel
 under the Individual Arts Bursary Awards Scheme 2022.
 (Report Enclosed)
 
-(b) Dolores O'Riordan Music Bursary Scheme 2022
+(b) Dolores O’Riordan Music Bursary Scheme 2022
 To consider approving recommended allocations from the Assessment Panel
 under the Dolores O’Riordan Music Bursary Scheme 2022.
 (Report Enclosed)
@@ -307,7 +313,9 @@ of the Local Government Act, 2001, as amended, and Section 14 of the Roads Act,
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -363,7 +371,9 @@ Question submitted by Councillor J. Sheahan
 an ‘Active Farmer’ in the context of the Local Improvement Scheme.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -415,17 +425,19 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 I will move at the next Meeting that Limerick City and County Council adopt a more
 considered and unconstrained interpretation of the Guidelines to qualify for a Local
-improvement Scheme as set out in the February/April 2020 Memorandum and
+Improvement Scheme as set out in the February/April 2020 Memorandum and
 Scheme Outline issued by the Department of Rural and Community Affairs.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor S. Benson (to be referred to the Travel
 and Transportation Strategic Policy Committee)
 
-! will move at the next Meeting that this Council consider the introduction of
+| will move at the next Meeting that this Council consider the introduction of
 specifically designated autism parking spots outside the Déchas Centre in Parnell
 Street, Limerick, and that this Council work with ASD Ireland with a view to identifying
 other suitable locations across the city and county.
@@ -440,7 +452,7 @@ Limerick with potential to result in loss of life should emergency vehicles not 
 to gain access.
 
 Notice of Motion submitted by Councillor S. Kiely
-Iwill move at the next meeting that Limerick City and County Council request that Irish
+I will move at the next meeting that Limerick City and County Council request that Irish
 
 Rail secure its infrastructure, namely bridges and tracks, to prevent access which is
 currently causing dangerous unlawful activity.
@@ -455,4 +467,6 @@ and none.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

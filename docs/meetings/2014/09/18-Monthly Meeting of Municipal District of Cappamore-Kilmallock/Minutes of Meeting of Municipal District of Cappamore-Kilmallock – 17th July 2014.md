@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_meeting_of_municipal_district_of_cappamore-kilmallock_-_17_july_2014.pdf)
+**Original file:** [Minutes of Meeting of Municipal District of Cappamore-Kilmallock – 17th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_meeting_of_municipal_district_of_cappamore-kilmallock_-_17_july_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN
@@ -92,7 +93,9 @@ would make an application, for funding, to the Department of Transport for a low
 safety scheme. The Members were advised that a 3 day traffic count would be
 
 carried out in September when the schools would reopen after the summer recess.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -164,7 +167,9 @@ withdrawn in the City due to cost and that they were being gradually
 withdrawn in the County. It was noted that a dry recyclable collection was
 
 available to members of the public that had a refuse collection service.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Questions submitted by Councillor** **W. O’Donnell**
@@ -242,7 +247,9 @@ Derelict Sites Register. It was suggested that contact should be made with the
 Planning Department as they may have further information in relation to the
 
 ownership of this building.
----
+
+[[PAGE_END:3]]
+
 4
 
 **Question submitted by Councillor N. Gleeson**
@@ -302,4 +309,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

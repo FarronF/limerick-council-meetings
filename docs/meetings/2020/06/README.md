@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2020 — 06 - June
 
 * [08 Virtual Meeting Of The Economic Development, Enterprise And Planning Spc](08-Virtual Meeting of the Economic Development, Enterprise and Planning SPC/README.md)
@@ -6,6 +10,7 @@
 * [10 Annual Meeting Of The Municipal District Of Newcastle West](10-Annual Meeting of the Municipal District of Newcastle West/README.md)
 * [10 Monthly Meeting Of The Municipal District Of Newcastle West](10-Monthly Meeting of the Municipal District of Newcastle West/README.md)
 * [10 Special Meeting (Quorum Only) Of Limerick City And County Council](10-Special Meeting (Quorum Only) of Limerick City and County Council/README.md)
+* [11 Virtual Meeting Of The Travel And Transportation Strategic Policy Committee](11-Virtual Meeting of the Travel and Transportation Strategic Policy Committee/README.md)
 * [15 Annual Meeting Of The Metropolitan District Of Limerick](15-Annual Meeting of the Metropolitan District of Limerick/README.md)
 * [15 Monthly Meeting Of Metropolitan District Of Limerick](15-Monthly Meeting of Metropolitan District of Limerick/README.md)
 * [22 Virtual Meeting Of The Home And Social Development Strategic Policy Committee](22-Virtual Meeting of the Home and Social Development Strategic Policy Committee/README.md)

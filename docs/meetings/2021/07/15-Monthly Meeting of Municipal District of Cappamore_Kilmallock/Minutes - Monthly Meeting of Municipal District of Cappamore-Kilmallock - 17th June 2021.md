@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-minutes-17th-june-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-minutes-17th-june-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
@@ -74,7 +75,9 @@ the minor works application for Kilmallock.
 Councillor Egan requested his motion from the April meeting on Rail Network upgrade be
 
 forwarded for the Agenda of the next full Council meeting from the District.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.Service Operations Directorate
@@ -126,7 +129,9 @@ Council widen the Ballycullane Road L8513, just to pair back the encroaching dit
 two on either side.”
 
 The motion was proposed by Councillor Carey, seconded by Councillor Donegan and agreed.
----
+
+[[PAGE_END:2]]
+
 3
 
 **REPLY:**
@@ -192,7 +197,9 @@ contact the relevant landowners.
 works be carried out such as a staggered junction at Patrickswell Cross roads on the L1140
 
 Herbertstown to Holy Cross road.”
----
+
+[[PAGE_END:3]]
+
 4
 
 The motion was proposed by Councillor Teefy, seconded by Councillor Mitchell and agreed.
@@ -244,7 +251,9 @@ a national guidance document. If Councillor Mitchell could give specific concern
 identify locations where he feels there is a signage issue, we will review the signage to
 
 ensure it complies with National Policy.
----
+
+[[PAGE_END:4]]
+
 5
 
 6.Question submitted by Councillor Donegan
@@ -308,7 +317,9 @@ previous weekend.
  Councillor John Egan asked his thanks be communicated to the Waste Water crews
 
 who worked on the sewerage blockage in Murroe
----
+
+[[PAGE_END:5]]
+
 6
 
  Councillor Donegan also raised the issue of the wall collapse on graves at Temple
@@ -366,4 +377,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:6]]
+

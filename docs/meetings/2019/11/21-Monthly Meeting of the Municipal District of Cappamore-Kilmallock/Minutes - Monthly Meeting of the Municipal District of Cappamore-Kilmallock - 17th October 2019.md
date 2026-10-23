@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/06%20Minutes%20MD%20Meeting%2017-10-19%20v2.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/06%20Minutes%20MD%20Meeting%2017-10-19%20v2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -38,18 +39,18 @@ Apologies for their inability to attend were received from Clirs E. Ryan and M. 
 OFFICIALS IN ATTENDANCE:
 
 Director, Support Services-Finance, Corporate, HR & ICT (Mr. S. Coughlan), Meetings
-Administrator (Mr. M. Leahy), Executive Engineer, Cappamore-Kilmallock (Mr. D. Sheehy),
+Administrator (Mr. M. Leahy), Executive Engineer, Cappamore-Kilmallock (Mr. D, Sheehy),
 Head of Property Services (Ms J. Leahy), A/Senior Executive Planner, Strategic & Forward
 Planning (Ms. K. Burke), Senior Executive Engineer, Physical Development Directorate (Ms. A.
 Goggin), Assistant Engineer, Cappamore-Kilmallock (Mr. D. Corcoran), Assistant Engineer,
 Planning & Environmental Services (Mr S. Martin), Clerical Officer, Cappamore-Kilmallock
-(Ms. H. O'Neill),
+(Ms. H. O'Neill).
 
 Also in attendance: Dr Frances Gianquinto and Mr Nick Head, Ecological Research and
 Practice, Derrynaneal, Feakle, County Clare.
 
 At the outset of the Meeting, the Cathaoirleach and Members extended their condolences
-and sympathy to Cllr Eddie Ryan on the recent passing of his sister Mary Hyland, Beechwood
+and sympathy to Clir Eddie Ryan on the recent passing of his sister Mary Hyland, Beechwood
 Grove, Mitchelstown, Co. Cork & formerly of Castlecreagh, Galbally, Co. Limerick. They also
 wished him a full and speedy recovery following his recent health issue.
 
@@ -65,7 +66,9 @@ circulated and requested that the adoption of same be deferred to the November M
 Meeting as Cllrs E. Ryan and M. Ryan were not in attendance.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor G.Mitchell;
@@ -96,7 +99,7 @@ The Members noted the report as circulated.
 
 (c) Disposal of Property at 36 Cecil Street, Limerick
 
-Circulated, report of the Head of Property Services dated 4"" October, 2019 setting out the
+Circulated, report of the Head of Property Services dated 4'" October, 2019 setting out the
 background to the proposed disposal of property at 36 Cecil Street, Limerick (former Red
 Cross Building).
 
@@ -114,7 +117,9 @@ Development Directorate and Dr Frances Gianquinto and Mr Nick Head, Ecological R
 and Practice to the Meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer, Physical Development Directorate outlined the background
@@ -139,7 +144,7 @@ invasive species which was developed by Limerick City & County Council as an imp
 tool in the identification and treatment of all invasive species.
 
 4. Economic Development Directorate
-Pro Kilmallock 1 PI
+Pro Kilmallock I PL
 
 Circulated, Chief Executive’s Report dated 27" September, 2019 on the proposed Kilmallock
 Local Area Plan 2019 -2025. The A/Senior Executive Planner, Strategic & Forward Planning
@@ -162,7 +167,9 @@ amendments to accommodate a playing pitch in the interests of active lifestyle a
 well-being:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1. Amend Objective H3 Special Control Area as follows:
@@ -199,7 +206,9 @@ sought for each property as part of any planning permission being granted. The E
 Members also agreed that it was important that estates were taken in charge as soon as
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 possible given the fact that property owners were also paying Local Property Tax on their
@@ -243,7 +252,9 @@ Limerick City and County Council engineers engage with the OPW regarding floodin
 occurs at Lower Annagh, and to extend the OPW remit on the Annagh river from where
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 they currently stop and include the yellow highlighted area on the attached map from
@@ -290,7 +301,9 @@ overflowing dykes onto the road at Annagh, Lisnagry.
 Reply:
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Limerick City & County Council are currently engaging with local stakeholders in relation to
@@ -337,7 +350,9 @@ ensure that a balanced and reasonable approach is taken in making decisions on i
 tenancies.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor Martin Ryan
@@ -383,7 +398,9 @@ pedestrian crossing at the National School, the placing of a raised table at the
 Junction, and a speed cushion on the Hospital side of McNulty’s Garage.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A Section 38 process was undertaken during September 2019 and a recommendation in
@@ -400,7 +417,7 @@ The Elected Members acknowledged and praised the hard work done by Limerick City
 County Council’s Municipal District staff, and in particular the outdoor workers during the
 recent flooding issues in the Municipal District.
 
-* Deputation from Scoll fosagdin, Hospital.
+* Deputation from Scoil fosagdin, Hospital.
 
 Cllr Mitchell advised that he had received a request for a deputation from Scoil fosagain
 National School, Hospital to attend a future meeting of the Municipal District. This was
@@ -423,9 +440,13 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/20210608-agenda-cabe-spc-june.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 8th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/20210608-agenda-cabe-spc-june.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **28th** **May, 2021**
@@ -46,7 +47,9 @@ business to be transacted is set out in the appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -120,7 +123,9 @@ Change Adaption Strategy 2019-2024”.
 City and County Council identify suitable locations for additional public toilets within
 
 the Metropolitan area”.
----
+
+[[PAGE_END:2]]
+
 3
 
 **8.Notice of Motion submitted by Councillor E. Secas (to be referred to the Climate**
@@ -160,4 +165,6 @@ registration numbers on all packaging for food and drinks items that are purchas
 and to call on the Minister for Transport, Environment and Climate Change to roll out
 
 the initiative nationwide”.
----
+
+[[PAGE_END:3]]
+

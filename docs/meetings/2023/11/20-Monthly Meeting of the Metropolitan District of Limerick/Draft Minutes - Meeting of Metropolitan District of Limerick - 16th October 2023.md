@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Draft-Minutes-Meeting-of-Metropolitan-District-of-Limerick-16th-October-2023.pdf)
+**Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 16th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Draft-Minutes-Meeting-of-Metropolitan-District-of-Limerick-16th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK AND ONLINE ON MONDAY,**
@@ -90,7 +91,9 @@ of Limerick, which had been discussed at a Workshop earlier, if approved by the 
 be included in the main budget for the Council.
 
 The proposed breakdown was outlined as follows:
----
+
+[[PAGE_END:1]]
+
 2
 
 **Svc**
@@ -212,7 +215,9 @@ And Resolved:
 (b) Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of
 
 Limerick held on 18th September, 2023.
----
+
+[[PAGE_END:2]]
+
 3
 
 Proposed by Councillor Slattery;
@@ -282,7 +287,9 @@ The report, as circulated, was noted by Members.
 proposals for disposal of 27 Assumpta Park, Limerick, Regeneration House Exchange, and the
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:3]]
+
 4
 
 The report, as circulated, was noted by Members.
@@ -350,7 +357,9 @@ Members welcomed the proposed development which would introduce improved safety 
 to the area and in particular for Scoil Ide. Members thanked the Active Travel Team for their work
 
 on the project.
----
+
+[[PAGE_END:4]]
+
 5
 
 **(b)Taking-in-Charge of Estates - Declaration of Roads to be Public Roads**
@@ -432,7 +441,9 @@ adequate parking available within a short walking distance of the village core.
 and the Active Travel / NTA funded scheme. However, Active Travel will engage with the
 
 Operations / Placemaking Departments to ensure this commitment is acted on.
----
+
+[[PAGE_END:5]]
+
 6
 
 **e)** There is no legal definition of material changes, it is interpreted on a case-by-case basis.
@@ -492,7 +503,9 @@ permeable paving to the community centre plaza area (separate planning), extensi
 road upgrades to include access road to the graveyard, surfacing of the existing carpark at
 
 Marian Park and adjustments to drainage and paving within previous Phase 1 area
----
+
+[[PAGE_END:6]]
+
 **Patrickswell Phase 2** **Parking Review**
 
 **Location**
@@ -650,7 +663,9 @@ A bus-stop has been provided at this location and at detailed design the
 requirements for distance from junction and sightline were addressed. These
 
 resulted in design amendments, which reduced parking by 2 spaces.
----
+
+[[PAGE_END:7]]
+
 8
 
 Ch 350 -
@@ -696,7 +711,9 @@ Overall Change
 vehicles.
 
 # From Construction Drawings Rev A
----
+
+[[PAGE_END:8]]
+
 **7.Question submitted by Councillor D. McSweeney**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick, following the commitment***
@@ -768,7 +785,9 @@ regularly maintain when required.
 ***and the Roads Department consider funding for Knockea National School so a safe route to school***
 
 ***can be provided to the children and parents attending the school.***
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY:** The Safe Routes to School Programme was launched in March 2021 and every school in
@@ -840,7 +859,9 @@ area over the period 2019 – 2023.
 ***authorities plans to upgrade O'Dwyer Bridge on Athlunkard Street and if a bridge restoration***
 
 ***grant has been applied for.***
----
+
+[[PAGE_END:10]]
+
 11
 
 **REPLY:** Limerick City and County Council Road’s Department has recently acquired funding to
@@ -916,7 +937,9 @@ We have identified two potential sites in Council ownership directly behind the 
 Shopping Centre and adjacent to both primary and secondary schools. The identification
 
 of a site is a key milestone in advancing this important project.
----
+
+[[PAGE_END:11]]
+
 12
 
 Further progress will be set in the context of available funding both Local and National,
@@ -994,7 +1017,9 @@ night to minimise disruption and the cleaning of debris by the contractor normal
 place in the following days during daylight hours.
 
 The Council’s contractor has returned to the Raheen area and has removed the debris
----
+
+[[PAGE_END:12]]
+
 13
 
 associated with their works. The contractor will be reminded to ensure that debris is
@@ -1098,7 +1123,9 @@ EAST SINGLAND ROAD, GARYOWEN
 1
 
 (Image omitted)
----
+
+[[PAGE_END:13]]
+
 14
 
 ELLEN STREET
@@ -1284,7 +1311,9 @@ SEXTON STREET NORTH
 SIR HARRYS MALL
 
 3
----
+
+[[PAGE_END:14]]
+
 15
 
 THE BISHOPS QUAY
@@ -1446,7 +1475,9 @@ OLD CLARE STREET
 Plan is currently being prepared and is anticipated to be published for public consultation
 
 in early November for a period of 6 weeks.
----
+
+[[PAGE_END:15]]
+
 16
 
 **24.Question submitted by Councillor S. Novak Uí Chonchúir**
@@ -1560,7 +1591,9 @@ carried out in conjunction with an appointed service provider(s) where feasible.
 will revert with an update as soon as we have completed a detailed review on whether such
 
 a basis can be justified.
----
+
+[[PAGE_END:16]]
+
 17
 
 **26.Question submitted by Councillor S. Benson**
@@ -1646,7 +1679,9 @@ is considered on a case-by-case basis in respect of any new applications receive
 throughout the year. The ability to accommodate additional works will be dependent on
 
 the scope and complexity of the works (and the needs of the applicant).
----
+
+[[PAGE_END:17]]
+
 18
 
 **NOTICES OF MOTION**
@@ -1716,7 +1751,9 @@ The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor
 agreed.
 
 In proposing the Motion, Councillor Slattery referred to the importance of the community policing
----
+
+[[PAGE_END:18]]
+
 19
 
 unit to the city. Members supported the motion and agreed it was essential that the community
@@ -1784,7 +1821,9 @@ It was agreed to refer this Notice of Motion to the Local Electoral Area Briefin
 **36.Notice of Motion submitted by Councillor S. Novak Uí Chonchúir (to be referred to the Climate**
 
 **Action, Biodiversity and Environment Strategic Policy Committee)**
----
+
+[[PAGE_END:19]]
+
 20
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council liaise***
@@ -1846,4 +1885,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:20]]
+

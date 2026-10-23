@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda%E2%80%93Meeting-of-the-Home-and-Social-Strategic-Policy-Committee%E2%80%938th-June-2023.pdf)
+**Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 8th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda%E2%80%93Meeting-of-the-Home-and-Social-Strategic-Policy-Committee%E2%80%938th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
 **STRATEGIC POLICY COMMITTEE**
@@ -48,4 +49,6 @@ For Noting - Report to SPC from Housing Disability Strategic Group
 6. AOB
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
----
+
+[[PAGE_END:1]]
+

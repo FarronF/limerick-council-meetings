@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-spc-meeting-22-oct-2020.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development SPC - 22nd September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-spc-meeting-22-oct-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -92,7 +93,9 @@ closed Sunday 20th September and 3 candidates were put forward and will automati
 elected. The elected candidates will be ratified at full Council meeting on the 28th
 
 September. The newly elected PPN members will join us at our next H&S SPC meeting.
----
+
+[[PAGE_END:1]]
+
 
 
 Cllr. Leddin asked for minutes of previous meeting and agenda to be uploaded to
@@ -164,7 +167,9 @@ discount.
 build out and ensure design consistency with self build dwellings?
 
  84% Agree
----
+
+[[PAGE_END:2]]
+
  16% Disagree
 
 • 3a.Are there other options to control/manage the process
@@ -238,7 +243,9 @@ Local Government and Heritage to ensure that this scheme will be correct and fai
 Ms. Dee Ryan asked if we are we considering this scheme as another way of reducing the
 
 amount of one off rural developments. Ms. Newell replied that this *is* a potential option to
----
+
+[[PAGE_END:3]]
+
 the one off rural developments and listed the eligibility for scheme, which will be circulated
 
 to SPC members.
@@ -310,7 +317,9 @@ managed complex.
 •55-80+ and 1/5 of net proceeds? 17%
 
 •Other? 17%. Fraction is too high for the 80 plus groups
----
+
+[[PAGE_END:4]]
+
 •Did Not Answer 49%
 
 3. The private downsizing scheme is primarily for managed older person’s accommodation that will
@@ -376,7 +385,9 @@ Delivering Mixed Tenure Developments –
  100% Agree
 
 •1a. Are there tenure types we are missing that requires consideration also?
----
+
+[[PAGE_END:5]]
+
  No responses
 
 2. Do you agree on the proposed percentage mix split between Private, Affordable and Social?
@@ -444,7 +455,9 @@ and will keep communication open regarding potential developments.
 **Item 4: To note the Rebuilding Ireland quarterly update on Buy, Build and Lease activity** **–** **Sarah**
 
 **Newell**
----
+
+[[PAGE_END:6]]
+
 Ms. Newell provide a summary of the delivery programme.
 
 A discussion took place and the main points were:
@@ -522,7 +535,9 @@ between the landlord and the tenant. Under legislation, LCCC has the power to de
 individuals who engage in anti-social behaviour.
 
 Ms Duke asked members of the SPC to bring any issues of ASB from HAP tenants to her attention.
----
+
+[[PAGE_END:7]]
+
 A discussion took place and the main points were:
 
 
@@ -606,7 +621,9 @@ Ms. Duke outlined the proposed guideline and members were asked to support its u
 *Persons presenting as homeless will be required to ensure they have a proven association with*
 
 *County Limerick. This may include one of the following:-*
----
+
+[[PAGE_END:8]]
+
 
 
 *Their permanent place of residence is Limerick*
@@ -704,7 +721,9 @@ rent arrears – the landlord put in place four different types of payment plans
 and each presentation is reviewed in detail.
 
 **Item 6 Social and Affordable Housing Mungret:**
----
+
+[[PAGE_END:9]]
+
 **Notice of Motion submitted by Councillor J. Leddin (referred from the July 2020 Adjourned**
 
 **Meeting of the Council)**
@@ -778,7 +797,9 @@ Ms. Duke also states that we will contact our tenants in January and ask them to
 waste collection service to the Council. Our Tenancy Sustainment team will be carrying out
 
 inspections throughout City and County. Outcomes can be reviewed as part of February SPC.
----
+
+[[PAGE_END:10]]
+
 Cllr. Mike Donegan says that any support that can be given to Cllr. Hartigan in relation to the
 
 environmental issues, that he fully endorses them.
@@ -866,7 +887,9 @@ The Dept. approved 56 units in Sept 2020 to a max grant of €0.982m
 These will completed via a mix of direct labour and contractor, and to be finished and claimed by
 
 Dec 4th 2020
----
+
+[[PAGE_END:11]]
+
 LCCC must fund the balance from own resources (ICRs etc.)
 
 Overall funding outturn is expected to be in the region of 60% (grant) to 40% (own resources)
@@ -928,4 +951,6 @@ END OF MEETING
 The Chair thanked everyone for logging in and for their valuable contributions. He also thanked the
 
 members of the executive present.
----
+
+[[PAGE_END:12]]
+

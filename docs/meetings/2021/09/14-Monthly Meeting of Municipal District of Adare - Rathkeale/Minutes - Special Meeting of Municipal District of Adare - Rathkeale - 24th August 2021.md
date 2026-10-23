@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-b-minutes-of-special-meeting-24th-august-2021.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Adare - Rathkeale - 24th August 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-b-minutes-of-special-meeting-24th-august-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE RATHKEALE HOUSE HOTEL, RATHKEALE, CO. LIMERICK**
@@ -94,7 +95,9 @@ Shared Services also advised the elected members in addition, the Council will l
 LAWPRO (Local Authority Water Programme) to investigate the issue at catchment level,
 
 entire River Deel plus its tributaries.
----
+
+[[PAGE_END:1]]
+
 2
 
 Following discussion, the Cathaoirleach requested the item remain on the Agenda of
@@ -148,4 +151,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28b%29%202018-10-19%20Minutes%20Draft%20Budgetary%20Plan%20Meeting.pdf)
+**Original file:** [Minutes Draft Budgetary Plan Meeting - 19th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28b%29%202018-10-19%20Minutes%20Draft%20Budgetary%20Plan%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE
@@ -116,7 +117,9 @@ Special Projects – LA Infrastructure
 **General Municipal Allocation**
 
 **225,000**
----
+
+[[PAGE_END:1]]
+
 2
 
 A brief discussion took place on the Local Roads projects, which benefitted from funding
@@ -160,4 +163,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-adjourned-meeting-of-the-municipal-district-of-newcastle-west-13th-may-2026.pdf)
+**Original file:** [Agenda - Adjourned Meeting of the Municipal District of Newcastle West - 13th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-adjourned-meeting-of-the-municipal-district-of-newcastle-west-13th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Duiche Bardais an Chaislegin Nua Thiar,
+Comhairle Cathrach Duiche Bardais an Chatsledin Nua Thiar,
 Comhairle Cathrach aqus Contae Luimnigh,
 
 & Contae Luimnigh :
 a» Aras William Smith O'Bnie
-™~ : ° Gortbul
-———.._ Limerick City _ An Caisiean Nua Thiay,
+”~ P ° Gortbut
+——.., Limerick City _ An Caistean Nua Thiay,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District.
@@ -37,10 +38,10 @@ Gortboy,
 
 Newcastle West,
 
-Co. Limerick.
+Co. Limenck.
 
 Eircode: V42EH73
-7” May, 2026 t: +353 (0) 69 62100
+7 May, 2026 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -74,13 +75,15 @@ To review position in relation to allocations under the General Municipal Alloca
 
 2026.
 & customerservicesa@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wevewlimerick.te
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wevewlimerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
-( 061 - 556 000
+061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -123,10 +126,12 @@ Notice of Motion submitted by Councillor F. Foley
 on all our disabled parking spaces and that proper signage is in place.
 
 Notice of Motion submitted by Councillor T. Ruddle
-! will move at the next Meeting that Limerick City and County Council consider
+| will move at the next Meeting that Limerick City and County Council consider
 
 putting ramps/raised platforms on the Boherbue road (by SMI school) to help reduce
 excessive speed here.
 
 
----
+
+[[PAGE_END:2]]
+

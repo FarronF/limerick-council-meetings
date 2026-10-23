@@ -16,87 +16,67 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/agenda-ordinary-meeting-limerick-city-and-county-council-14.07.2025.pdf)
+**Original file:** [Agenda -  Full Meeting of Limerick City and County Council - 14th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/agenda-ordinary-meeting-limerick-city-and-county-council-14.07.2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-nNe™
+Seirbhisi Corparaideacha.
 
-el Comhairle Cathrach
-& Contae Luimnigh
+-_—-_ Comhairle Cathrach Comhairle Cathvach agus Contae Luimnigh,
+& Contae Luimnigh Ceanncheathn Chorparaidesch,
+AEN Cé na gCeannaithe,
+Limerick City Luimneach
 
-— Limerick City
-& County Council
-
-9" July, 2025.
-
-To:
-
-Seirbhisi Corparaideacha
-
-Comhairle Cathvach agus Conmtae Luimnigh,
-Ceanncheathni Chorparaidesch,
-
-Cé na gCeannaithe,
-
-Luimneach
-
+= & County Council
 Corporate Services,
-
 Limerick City and County Council,
-Corporate Headquarters,
-Mercharts Quay,
 
+Corporate Headquarters,
+Merchants Quay,
 Limerick
 
-EIRCODE V94 EH9O0
+EIRCODE V94 EH90
+
+9" July, 2025.
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-The Mayor, Priomh Chomhairleoir and Each Member of
-
-Limerick
-
+To: The Mayor, Priomh Chomhairleoir and Each Member of
+Limerick L
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
 Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 14" July, 2025, at 3pm.
 
 The business to be transacted is set out on the appended Agenda.
-
 Is mise le meas,
 
 Ciara Farrell,
 
-AGENDA
-
 Meetings Administrator.
+AGENDA
 1. Minutes
-
-Ceanncheathra
 
 To adopt Minutes of the following Meetings:
 
 (a) Ordinary Meeting of the Council held on 26" May, 2025.
-(b) Annual Meeting of the Council held on 30°" June, 2025.
+(b) Annual Meeting of the Council held on 30** June, 2025.
+2. Declaration of Interest
 
-Declaration of Interest
-
-National Citizens’ Parliament
+3. National Citizens’ Parliament
 
 To receive Deputation from the National Citizens’ Parliament.
 
-Cé na gCeannaithe, Luimneach
-
-Chorpardideach,
-Corporate Headquarters, Merchants Quay, Limerick
-
-061 - 557150
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -125,7 +105,7 @@ Derelict Disposals
 (e) Property at Grange, Kilmallock, Co. Limerick.
 (f) Ballyvogue, Askeaton, Co. Limerick.
 
-(Statutory Notices dated 2 July, 2025, already circulated)
+(Statutory Notices dated 2™ July, 2025, already circulated)
 
 Corporate Services, Human Resources and Organisational Development
 (a) Executive Report
@@ -147,7 +127,9 @@ up to June 2026.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -177,7 +159,7 @@ Recommendation
 
 That, the Council write to the Minister for Transport, the Chairperson
 of the Board of Transport Infrastructure Ireland (TIl), and the Chief
-Executive of Tito call for urgent prioritisation and full delivery of
+Executive of Tilto call for urgent prioritisation and full delivery of
 the Rathkeale to Limerick City Greenway in advance of the Ryder Cup
 in 2027.
 
@@ -206,7 +188,9 @@ Strategic Policy Committee held on 26™ June, 2025.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -249,16 +233,18 @@ information on your SMART housing, | would like to know what the route to planni
 is for this proposal and what consultation has taken place with the Executive and the
 communities at your proposed locations.
 
-Question submitted by Councillor E. O’Donovan
+Question submitted by Councillor E. O'Donovan
 
-| will ask the Mayor at the next Meeting of Limerick Council for the membership of the
+twill ask the Mayor at the next Meeting of Limerick Council for the membership of the
 Community Liaison Committee due to have been established by this Council as is
 stipulated in the planning conditions in respect to Irish Cement and for the amount of
 the community fund that is due to be distributed that has been accumulating since
 2023.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -298,7 +284,7 @@ Question submitted by Councillor J. O'Donoghue
 wind farms, is there an evaluation on health impacts when investigating complaints
 about noise and shadow flicker.
 
-Question submitted by Councillor S. Hickey-O"Mara
+Question submitted by Councillor S. Hickey-O'Mara
 
 ! will ask at the next meeting of Limerick City and County Council for an update on
 plans for the Men’s Mental Health Campaign which received full cross-party support
@@ -318,7 +304,9 @@ Scheme, the average allocation per applicant and the total allocation to this sc
 under the 2025 Budget.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -329,7 +317,7 @@ under the 2025 Budget.
 
 Question submitted by Councillor D. McSweeney
 
-I will ask at the next Meeting of Limerick City and County Council for a full breakdown
+| will ask at the next Meeting of Limerick City and County Council for a full breakdown
 of the number of applications received under the Burial Ground Maintenance Grants
 Scheme, the allocation per applicant and the total allocation to this scheme under the
 2025 Budget.
@@ -342,7 +330,7 @@ Notice of Motion submitted by Councillor S. Beasley
 call on local businesses and vintners to actively support the "Ask for Angela" campaign
 across Limerick.
 
-For reference, the "Ask for Angelo” campaign is a proven initiative designed to help
+For reference, the "Ask for Angela” campaign is a proven initiative designed to help
 victims of sexual harassment and assault safely seek assistance in public venues.
 
 Notice of Motion submitted by Councillor S. Kiely
@@ -361,13 +349,15 @@ within 1 km of an existing settlement boundary once the development is located o
 a non-regional road with available appropriate sightlines.
 
 Notice of Motion submitted by Councillor U. Gavan
-| will move at the next Meeting that Limerick City and County Council write to the
+1 will move at the next Meeting that Limerick City and County Council write to the
 
 Department of Social Protection to change the provision of the Carers Leave Act 2001
 to remove the time limit of 104 weeks.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23.
@@ -378,14 +368,14 @@ Notice of Motion submitted by Councillor E. O'Donovan
 Bank of Ireland to immediately end the facilitation of the Israeli Bond Issuance
 Programme.
 
-I will move at the next Meeting that Limerick City and County Council write to the
+| will move at the next Meeting that Limerick City and County Council write to the
 Department of Housing, Local Government and Heritage to request that no new
 onshore wind farm planning applications should be approved until updated national
 guidelines on wind energy are approved and implemented by the Government.
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-| will move at the next Meeting of Limerick City and County Council that our Authority
+I will move at the next Meeting of Limerick City and County Council that our Authority
 provide a liaison/link to Community Welfare where support is necessary to enable
 newly allocated tenants move in speedily.
 
@@ -410,7 +400,9 @@ Community, Leisure, Arts, Heritage and Culture SPC)
 the rollout of a Community Contracts Grant Scheme in advance of budget 2026.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Notice of Motion submitted by Councillor C, Slattery
@@ -426,4 +418,6 @@ scrambler bikes.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

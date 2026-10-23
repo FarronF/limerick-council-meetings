@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-03%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 3rd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-03%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 —=
 
-“rN
+“Ar™N
 
 =
 Limerick
@@ -34,7 +35,7 @@ COUNCIL
 
 To: The Cathaoirleach and Each Mem
 
-tof the Munici
+r of the Munici
 
 Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -98,11 +99,13 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 & customerservices@limerick.te
-& vevewimerickte
-wv @LimerickCouncil
+& vevewimerick.te
+w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -132,7 +135,7 @@ length of time each house is vacant (iv) how many people are waiting for housing
 Abbeyfeale.
 
 NOTICES OF MOTION
-Notice of Motion submitted by Councillor J. Scanian
+Notice of Motion submitted by Councillor J. Scanlan
 
 | will move at the next Meeting that hatching be put in place at the entrances
 
@@ -155,7 +158,9 @@ the Part Vill (v) update on the provision of a public toilet (vi) update on the 
 buildings (vii) details on the formation of a working group to progress the plan.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -168,4 +173,6 @@ be made available to purchase the former Council houses known as Colbert Terrace
 Abbeyfeale, as these houses are derelict and an eye sore.
 
 
----
+
+[[PAGE_END:3]]
+

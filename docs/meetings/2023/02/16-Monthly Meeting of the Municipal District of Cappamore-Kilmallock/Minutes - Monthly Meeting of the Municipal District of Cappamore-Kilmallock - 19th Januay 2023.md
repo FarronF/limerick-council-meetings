@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20Januay%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th Januay 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20Januay%202023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -88,7 +89,9 @@ Cappamore-Kilmallock held on 8th December, 2022.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising:
 
 Councillor Teefy acknowledged that the issue of the availability of charging points had been
@@ -154,7 +157,9 @@ was submitted by and supported by all Elected Members regarding the reorientatio
 zoning for housing and recreation at Gregane Close.
 
 The Elected Members therefore resolved as follows:
----
+
+[[PAGE_END:2]]
+
 -
 
 On behalf of all the Elected Members of the Cappamore – Kilmallock Municipal
@@ -200,7 +205,9 @@ Development Act 2000 (as amended). “
 **Supported by all Elected Members.**
 
 (Image omitted)
----
+
+[[PAGE_END:3]]
+
 The Cathaoirleach and Senior Executive Planner wished to acknowledge the work of the
 
 Elected Members and staff in bringing the Draft Caherconlish Local Area Plan to this stage.
@@ -246,7 +253,9 @@ A debate was held between the Elected Members to discuss the impact of such a ch
 An Cathaoirleach noted that further to the outcome of the debate, the number of Notices of
 
 Motion and Questions would remain.
----
+
+[[PAGE_END:4]]
+
 Notices of Motion
 
 8.Notice of Motion submitted by Councillor Carey
@@ -302,7 +311,9 @@ received, I will forward it to you without delay.
 *Irish Water Clinics for Elected Members were noted. The work of the Limerick City and*
 
 *County Council Water Services staff was acknowledged.*
----
+
+[[PAGE_END:5]]
+
 Questions
 
 10.
@@ -362,7 +373,9 @@ I will ask at the next meeting of The Cappamore/Kilmallock Municipal District wh
 Transport Ireland intend to build Bus shelters urgently in The Cappamore/Kilmallock District
 
 in 2023.
----
+
+[[PAGE_END:6]]
+
 **Reply:**
 
 The Cappamore Kilmallock Municipal District Office are currently working with the Limerick
@@ -422,7 +435,9 @@ A request was made that communication be made with Uisce Eireann in relation to 
 ongoing issues with the water supply in Doon. The Director of Services also agreed to
 
 discuss this with Anne Peters (Senior Engineer, Water Services).
----
+
+[[PAGE_END:7]]
+
 **Grants**
 
 The Elected Members wished to thank Sarah McCutcheon (Executive Archeologist), Tom
@@ -474,4 +489,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:8]]
+

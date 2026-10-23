@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20meeting_of_the_municipal_district_of_cappamore-kilmallock_-_agenda_18_september_2014.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20meeting_of_the_municipal_district_of_cappamore-kilmallock_-_agenda_18_september_2014.pdf)
 
----
+[[FILE_START]]
+
 **11th** **September, 2014.**
 
 **Corporate Services.**
@@ -68,7 +69,9 @@ To consider the adoption of Standing Orders for Meetings of the Municipal Distri
 Cappamore-Kilmallock.
 
 (Draft Standing Orders enclosed)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -142,4 +145,6 @@ City and County Council reinstate a staff member to the Board of Ballyhoura
 Development until the alignment process and the role of the Local Community
 
 Development Committee is agreed.
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%20Cultural%20SPC%2012th%20December%202017.pdf)
+**Original file:** [Agenda - Meeting of the Cultural SPC - 12th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Agenda%20Cultural%20SPC%2012th%20December%202017.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**
@@ -88,7 +89,9 @@ c) Strategic Fund
 **Item 6.**
 
 New Years Eve 2017 – update
----
+
+[[PAGE_END:1]]
+
 **Item 7.**
 
 Notice of Motion
@@ -112,4 +115,6 @@ Any Other Business
 **Cultural SPC**
 
 **Limerick City & County Council**
----
+
+[[PAGE_END:2]]
+

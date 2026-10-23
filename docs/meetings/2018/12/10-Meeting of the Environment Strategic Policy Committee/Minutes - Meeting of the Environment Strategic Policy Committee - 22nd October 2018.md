@@ -16,24 +16,30 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Draft%20Minutes%20of%20the%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20Oct%202018.pdf)
+**Original file:** [Minutes - Meeting of the Environment Strategic Policy Committee - 22nd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Draft%20Minutes%20of%20the%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20Oct%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a_i Comhairle Cathrach . pabrentienc rm Potente —_
-Luimnigh omhair' agus Contae
-ANS ™ isso a Ceanncheathru Chorpardideach.
-5 Cé na gCeannasthe.
-—=— Limerick City ; biaraeech
+a_i Comhairle Cathrach . fopemaeape rm Porter a
+Luimnigh ‘omhairle Cat agus Contae
+
+~~ , & Contae Luimn ——— Ceanncheathwu Chorparaideach.
+
+“ Ce na gCeannasthe.
+
+Luimneach
+
+<= Limerick City
 & County Council
 Physical Development Directorate,
-Umerick City and County Councd,
+Umernick City and County Councd,
 Corporate Headquarters,
 Merchants Quay,
 Umerick
 EIRCODE 94 EH90
-t: +383 (0) 61 S56 000
+t: +383 (0) 61 556 000
 
 Minutes of the Meeting of Limerick City & County Council Environment Strategic Policy
 Committee held on Monday 22nd October 2018 at 10:00 a.m. in the Council Chamber,
@@ -63,7 +69,7 @@ The Chairperson Cllr. Jerome Scanlan opened the meeting.
 Item 1: Minutes of Environment SPC Meeting held on 25th June, 2018
 
 The Minutes of the meeting of the Environment SPC Meeting held on 25" June, 2018 were
-proposed by Clir. Hourigan, seconded by Cllr. Keller and unanimously adopted.
+proposed by Clir. Hourigan, seconded by Clir. Keller and unanimously adopted.
 
 Members pointed out that the proposed Eastern and Midlands Water Supply Project had
 been referred by the Minister for an independent review. In light of the proposed review,
@@ -74,7 +80,9 @@ Item 2: Presentation on Waste Plastics and opportunities for reuse/recycling in 
 materials, roads and pavements — Mr. Mark McConnell
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mr McConnell gave a presentation to the Committee on the opportunities for re-
@@ -119,7 +127,9 @@ to discuss this subject in more detail.
 Item 3: Presentation on the Noise Action Plan — Ms. Anne Goggin
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ms Goggin confirmed that the Noise Action Plan had recently been adopted. It covers the
@@ -153,7 +163,7 @@ Council's Building Control Section deals with issues regarding sound-proofing/in
 buildings.
 
 Cllr Hurley proposed that the Council should call on Til to begin research into developing
-recycled plastic noise abatement barriers. Cllr Teefy seconded this proposal.
+recycled plastic noise abatement barriers. Clir Teefy seconded this proposal.
 
 Item 4: Update on Invasiv ies Initiatives — Ms. Anne Goggin
 
@@ -165,7 +175,9 @@ Japanese Knotweed successfully at these sites, and that monitoring of the sites 
 two years will be undertaken to ensure that the plant does not recur.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She advised that some areas around the city have been treated in previous years. It is hoped
@@ -214,7 +226,9 @@ to be shared with other community-based groups for similar events. She said that
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 sustainability was an area where many Tidy Towns groups have not successfully addressed
@@ -236,9 +250,13 @@ scheduled for 10 December, 2018.
 The meeting then concluded.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20September%202017.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 21st September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20September%202017.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
 CAPPAMORE-KILMALLOCK
@@ -118,7 +119,9 @@ million and covered the following services:
 • Fire Service.
 
 • Community Supports.
----
+
+[[PAGE_END:1]]
+
 2
 
 The A/Senior Executive Engineer and Executive Engineer delivered a PowerPoint
@@ -198,7 +201,9 @@ Fire Services.
 Promotion of Limerick as a tourist destination.
 
 It was agreed to circulate copy of presentation to the Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members thanked staff for the comprehensive presentation and acknowledged the
@@ -282,7 +287,9 @@ amended) and to extend the life of the Kilfinane Local Area Plan 2012-2018 by a 
 from 21st September, 2017, in accordance with the provisions of Section 19 of the Planning and
 
 Development Act 2000 (as amended).”
----
+
+[[PAGE_END:3]]
+
 4
 
 (b)
@@ -368,7 +375,9 @@ The PID Office to use 'Town Engage' approach in Kilmallock to assist the town wi
 developing an inclusive vision for a Public Realm Project in the town, namely the town
 
 threshold.
----
+
+[[PAGE_END:4]]
+
 5
 
 •
@@ -456,7 +465,9 @@ Transport, Tourism and Sport. Its mission was to provide a quality, accessible a
 level of rural public transport complementing, where possible, existing transport services, thus
 
 allowing everyone in the community to have access to social, economic and other services.
----
+
+[[PAGE_END:5]]
+
 6
 
 She stated that the Board was made up of the following organisations:
@@ -534,7 +545,9 @@ Transportation Strategic Policy Committee. The Members supported this proposal.
 Review of Schedule of Works 2017
 
 It was noted that this item had been dealt with earlier in the Meeting.
----
+
+[[PAGE_END:6]]
+
 7
 
 5.
@@ -624,7 +637,9 @@ who commenced on site on Tuesday, 5th September, and the approximate
 duration for the works is 4 to 6 weeks. This work is safety-critical for both public
 
 road users and Irish Rail.
----
+
+[[PAGE_END:7]]
+
 8
 
 9.
@@ -688,7 +703,9 @@ The Correspondence, as circulated, was noted by Members.
 It was agreed that contact would be made with the District Administrator, Nenagh
 
 Municipal Council, to ascertain further detail in relation to agenda for proposed Joint Meeting.
----
+
+[[PAGE_END:8]]
+
 9
 
 **Other Matters Raised:**
@@ -766,7 +783,9 @@ Meeting. It was further agreed that all those proposed and subsequently agreed w
 honoured at a ceremony to be held after the November Meeting of the District at the offices in
 
 Kilmallock.
----
+
+[[PAGE_END:9]]
+
 10
 
 • **Policy on Speed Ramps**
@@ -786,4 +805,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:10]]
+

@@ -16,17 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_ncw_-_meeting_11-06-14_0.pdf)
+**Original file:** [Agenda - Municipal District Newcastle West - 11th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_ncw_-_meeting_11-06-14_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
-
 
 a
 
-AN fh ™
+Am hf ™
 
-. = .
+.* = .
 Limerick
 5% June, 2014. CITY & COUNTY
 COUNCIL
@@ -37,10 +37,10 @@ Seirbhisi Corpardideacha.
 Ww.
 
 —
-"|
-_
+ef
+—
 
-in
+“>
 
 To: he M
 A Chomhairleoir, a chara,
@@ -54,7 +54,7 @@ appended Agenda.
 
 Is mise le meas,
 
-AA~2 Dic
+AAn2 Oxo
 Tina Knox,
 Meetings Administrator.
 
@@ -84,4 +84,6 @@ if % Cé na gCeannaithe, Luimneach t: 061 407100
 i
 
 
----
+
+[[PAGE_END:1]]
+

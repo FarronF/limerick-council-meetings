@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 19th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh,
+aa Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh.
 
-ANS ‘ Cé na gCeannaithe,
+NN ‘ Cé na gCeannaithe,
 —=__> Luimneach
 Limerick Corporate Services and Change Management
-CITY &§ COUNTY Limerick City and County Council,
+CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
 COUNCIL Limerick
 
 th t: +353 (0) 61 407 100
 
-a Comober,.2016: f: +353 (0) 61 415 266
+a Comber,.2016: f: +353 (0) 61 415 266
 
 To: The Mayor and each Member of the Metropolitan District of
 Limerick
@@ -69,7 +70,9 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach & wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -113,7 +116,10 @@ current status of the halting sites in the Metropolitan District - outlining the
 each site, current living conditions and plans for each site for the next 5 years.
 
 Correspondence
+
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

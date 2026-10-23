@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Special%20Meeting%20-%2021st%20March%202016.pdf)
+**Original file:** [Minutes of Special Meeting - 21st March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Special%20Meeting%20-%2021st%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -78,7 +79,9 @@ Seconded by Cmhlr. Ó Ceallaigh;
 to fill the casual vacancy caused by the election of Councillor Maurice Quinlivan to Dáil
 
 Éireann.”
----
+
+[[PAGE_END:1]]
+
 **2**
 
 As there were no other nominations, the Mayor declared Mr. John Costelloe co-
@@ -134,4 +137,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

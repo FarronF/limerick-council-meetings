@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-c-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-26th-May-2023.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 26th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-c-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-26th-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON
@@ -80,7 +81,9 @@ Limerick County Council in 2006, which was a great honour for him and his family
 remembered him as a great public servant and noted Limerick is a better place for the mark
 
 he made on politics.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Mayor for calling the Special Meeting. They acknowledged that Eddie
@@ -130,4 +133,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

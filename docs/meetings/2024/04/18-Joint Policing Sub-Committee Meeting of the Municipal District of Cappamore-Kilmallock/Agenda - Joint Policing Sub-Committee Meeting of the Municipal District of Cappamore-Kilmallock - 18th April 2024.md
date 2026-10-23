@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-agenda-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-agenda-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 **12th** **April 2024.**
 
 **To/**
@@ -54,4 +55,6 @@ Sub-Committee held on 11th December, 2024.
 **2.Policing Issues**
 
 To discuss policing issues in the District.
----
+
+[[PAGE_END:1]]
+

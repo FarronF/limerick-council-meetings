@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-for-the-december-meeting-of-the-joint-policing-committee-2023.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-for-the-december-meeting-of-the-joint-policing-committee-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-irl y; Comhairle Cathwach agus Contae Luirnnigh,
-_ ne, peepee Oifig an Cheantay, Aras Mhainchin Seoighe,
+iri y, Comhairle Cattwach agus Contae Luirnnigh,
+_ eter trek Oifig an Cheanta, Aras Mhainchin Seoighe,
 
 Cill Mochealég,
-x ——-~ —<— Co. Luimnigh.
+x —_~ —<— Co, Luimnigh.
 
 — Limerick City
 & County Council Limerick City and County Council,
 Aras Mainchin Seoighe Aree Office,
-Hibmallock,
-Co. lirmenck
+Hibmiallock,
+Co. limenc
 
 EIRCODE V35 K497
 
-t; #353 (0) 63 980 19
+t; +353 (0) 63 980 19
 f: +353 (0) 63 985 $9
 
 8° December 2023.
@@ -69,10 +70,12 @@ To discuss policing issues in the District.
 Schedule of dates for 2024
 
 & customerservices@limerickie
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wvewlhimerickie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office vy
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wvewlimerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office v
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

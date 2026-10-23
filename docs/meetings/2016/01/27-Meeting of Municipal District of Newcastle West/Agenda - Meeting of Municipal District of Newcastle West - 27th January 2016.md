@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2027th%20January%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 27th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2027th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
+a Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NNT > Cé na gCeannaithe,
+NN > Cé na gCeannaithe,
 — Luimneach
 
 . .
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
-COUNCIL pias
+COUNCIL pan
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -43,10 +44,10 @@ To: The Cathaoirleach and Each Member of the Municipal District of Newcastle Wes
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at Aras
-William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 27"" January 2016 at 10.00
+William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 27°" January 2016 at 10.00
 a.m. The business to be transacted is set out on the appended Agenda.
 
-is mise le meas,
+Is mise le meas,
 
 Tina Knox,
 Meetings Administrator.
@@ -73,7 +74,9 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @ www limerick ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -97,7 +100,7 @@ Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting when trees can be removed or maintained along the Lake Road
 between The Lake Bridge and Tooreenagreana as they are considered a safety hazard.
 
-1 will ask at the next Meeting when works will be carried out on both subsiding pedestrian
+| will ask at the next Meeting when works will be carried out on both subsiding pedestrian
 crossings along Upper Maiden Street, Newcastle West.
 
 | will ask at the next Meeting what was the actual Budget and final spend on Cemeteries
@@ -130,7 +133,9 @@ Notices of Motion submitted by Councillor J. Scanlan
 that adequate sight lines be provided for all traffic exiting the Woodfield Estates on to the
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -170,4 +175,6 @@ Notice of Motion submitted by Councillor J. Sheahan
 signposted in the interest of alerting emergency services to correct locations.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_10th_february_2015_0.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 10th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_10th_february_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -75,7 +76,9 @@ Seconded by Councillor Sheahan;
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
@@ -83,7 +86,7 @@ And Resolved:
 2. Disposal of Land
 
 Circulated Report from Senior Executive Officer, Economic Development & Planning dated
-30 January, 2015.
+30" January, 2015.
 
 Members noted and approved the disposal of land as set out below:-
 
@@ -123,14 +126,16 @@ local delegation, together with the Director of Environment and Water, meet the 
 to discuss this issue further.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4 Eco ic D lo
 
 (a) Proposed Askeaton Local Area Plan 2015-2021
 
-Circulated, report of the Director of Economic Development and Planning dated 29”
+Circulated, report of the Director of Economic Development and Planning dated 29"
 January, 2015, enclosing copy of the Chief Executive's Report to Members dated 29"
 January, 2015, on the Proposed Askeaton Local Area Plan 2015-2021.
 
@@ -144,7 +149,7 @@ timeframe. It was recommended that the Askeaton Local Area Plan 2015-2021 be mad
 in accordance with the Chief Executive's Report dated 29" January, 2015.
 
 Proposed by Councillor Sheahan;
-Seconded by Councillor O'Brien;
+Seconded by Councillor O’Brien;
 And Resolved:
 
 “That, the Askeaton Local Area Plan 2015-2021 be made in accordance with the Chief
@@ -154,17 +159,17 @@ Planning and Development Act 2000, as amended”.
 (b) L A Plan 2015-2021
 
 Circulated, report of the Director of Economic Development and Planning dated 29”
-January, 2015, enclosing copy of the Chief Executive’s Report to Members dated 29"
+January, 2015, enclosing copy of the Chief Executive's Report to Members dated 29"
 January, 2015, on the Proposed Adare Local Area Plan 2015-2021.
 
 The Chief Executive's Report presented the submissions made following publication of the
 Proposed Adare Local Area Plan Material Alterations and set out the Chief Executive's
 responses to the issues raised and any proposed further modifications to the material
 alterations. It was noted that the Proposed Adare Local Area Plan Material Alterations
-was placed on public display from 13" December, 2014 to 21* January, 2015, inclusive
+was placed on public display from 13” December, 2014 to 21 January, 2015, inclusive
 and that a total of 5 written submissions were received within the statutory timeframe. It
 was recommended that the Adare Local Area Plan 2015-2021 be made in accordance with
-the Chief Executive’s Report dated 29" January, 2015.
+the Chief Executive’s Report dated 29” January, 2015.
 
 Following discussion and on the proposal of Councillor Keary, seconded by Councillor
 Neville, it was agreed that a decision would be postponed on the Proposed Adare Local
@@ -175,7 +180,9 @@ Members requested that the Office of Public Works (OPW) be written to setting ou
 urgency at which the CFRAM Maps were required prior to the next District Meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) Request to Amend the Croom Local Area Plan 2009
@@ -228,7 +235,9 @@ could be provided for the Foynes Air Show 2015 on receipt of a Business Plan and
 for Money Assurances.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -276,7 +285,9 @@ REPLY: The L1423 from the Seven Sisters Pub to Quiltys Cross, Kildimo is to be
 resurfaced under the Restoration Improvement Grant for 2015.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor Richard O'Donoghue
@@ -313,7 +324,7 @@ Rathkeale office for consideration.
 
 11. Question submitted by Councillor Stephen Keary
 
-| will ask at the next Meeting as to how many people on the housing list for the
+! will ask at the next Meeting as to how many people on the housing list for the
 Municipal District of Adare-Rathkeale are seeking one off rural houses as a priority.
 
 REPLY: There is no indication from the Housing list how many applicants are
@@ -323,7 +334,9 @@ Applicants are requested to choose an area of choice and they will then be
 considered for any suitable vacancy that arises in their area of choice
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -345,7 +358,7 @@ and Social Development SPC should be notified to formulate procedures.
 
 13. Question submitted by Councillor Kevin Sheahan
 
-1 will ask at the next Meeting when and why Limerick City and County Council
+| will ask at the next Meeting when and why Limerick City and County Council
 discontinued the practice of issuing a licence to the Refuse Collectors for the
 purpose of collecting refuse in a recognised plastic bag from apartments.
 
@@ -380,7 +393,9 @@ These exceptions are under review with a view to eliminating them for the
 reasons as set out above.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Members indicated that residents of apartments often do not have access to a yard to
@@ -411,7 +426,7 @@ be issued to the National Roads Authority without delay.
 
 15. Notice of Motion submitted by Councillor Emmett O’Brien
 
-! will move at the next Meeting that Limerick City and County Council employ or
+| will move at the next Meeting that Limerick City and County Council employ or
 contract the services of a parking attendant for Adare Village to prevent double
 parking on Station Road, the Blackabbey Road and at the roundabout adjacent to
 Lena’s Public House.
@@ -428,7 +443,9 @@ It was agreed that the Superintendent be invited to the next Meeting to discuss 
 parking in Adare and traffic safety issues on the N20 and N21.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
@@ -466,9 +483,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

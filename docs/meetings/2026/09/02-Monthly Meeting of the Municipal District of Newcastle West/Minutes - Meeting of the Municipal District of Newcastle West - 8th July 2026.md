@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-08/minutes-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 8th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-08/minutes-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -104,7 +105,9 @@ And Resolved:
 Circulated, copy of draft Minutes of the Annual General Meeting of Municipal
 
 District of Newcastle West, held on 19th June, 2026.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by: Councillor Collins
@@ -182,7 +185,9 @@ Town Regeneration Officer, outlined that it was considered appropriate, based on
 of other facilities in similar scaled settlements. However, she stated that this can be reviewed
 
 during the planning design stage.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following discussion, the report was proposed by Councillor Sheahan, seconded by Councillor
@@ -252,7 +257,9 @@ will accommodate between three and six people each.
 Following further discussion, the report was proposed by Councillor Foley, seconded by
 
 Councillor Galvin and agreed.
----
+
+[[PAGE_END:3]]
+
 4
 
 5.Corporate Services, Human Resources and Organisational
@@ -324,7 +331,9 @@ Newcastle West District as at 21st May, 2026 with slippage due to issues with Ui
 infrastructure. He outlined to the Members the build timeline, 79 housing units across 21
 
 sites as follows:
----
+
+[[PAGE_END:4]]
+
 5
 
 6 No. LA sites: 25 units total
@@ -406,7 +415,9 @@ Councillor Scanlan referred to the need for temporary accommodation for people
 experiencing homelessness and the need to provide temporary accommodation was also
 
 raised.
----
+
+[[PAGE_END:5]]
+
 6
 
 The necessity of having a Housing Team in each Municipal District dealing with voids,
@@ -476,7 +487,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to allocate
 
 €2,000 to Tournafulla GAA Club for fencing.
----
+
+[[PAGE_END:6]]
+
 7
 
 On the proposal of Councillor Collins, seconded by Councillor Galvin, it was agreed to allocate
@@ -548,7 +561,9 @@ be considered for compulsory acquisition under the Derelict Sites Act, 1990.
 Limerick City and County Council will continue to review this derelict site case.
 
 QUESTIONS
----
+
+[[PAGE_END:7]]
+
 8
 
 Replies to the following Questions on the Agenda were circulated to all Members prior to the
@@ -626,7 +641,9 @@ completed whereby a successful Tenderer will be identified.
 This tenderer will be appointed to complete the Underground Utilities Survey pending
 
 Limerick City and County Council and Transport Infrastructure Ireland approvals in
----
+
+[[PAGE_END:8]]
+
 9
 
 July. Upon appointment of the successful tenderer the plan is to undertake the survey
@@ -704,7 +721,9 @@ A preliminary design and costing will be carried out at these locations and
 when completed a funding stream can be determined to progress any
 
 identified works.
----
+
+[[PAGE_END:9]]
+
 10
 
 13.
@@ -774,7 +793,9 @@ It was proposed by the Cathaoirleach, that in the absence of Councillor Ruddle, 
 of Motion at Item No. 17 and Item No. 18 on the Agenda would be deferred to the
 
 September Meeting of the Municipal District of Newcastle West.
----
+
+[[PAGE_END:10]]
+
 11
 
 The following items were also raised.
@@ -854,7 +875,9 @@ It was agreed to hold the September Meeting of the District on Wednesday, 2nd Se
 Prior to conclusion of the Meeting, the Cathaoirleach wished everyone well over the Summer
 
 break.
----
+
+[[PAGE_END:11]]
+
 12
 
 This concluded the Meeting.
@@ -868,4 +891,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

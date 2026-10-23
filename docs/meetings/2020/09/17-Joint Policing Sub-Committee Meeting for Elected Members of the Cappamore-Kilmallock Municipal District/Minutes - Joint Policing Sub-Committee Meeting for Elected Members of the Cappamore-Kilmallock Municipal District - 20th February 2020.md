@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-jpc-sub-committee-minutes.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District - 20th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/02-jpc-sub-committee-minutes.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
@@ -50,7 +51,7 @@ Apologies: Superintendent John Ryan.
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of the Joint Policing Sub-Committee Meeting of the
-Municipal District of Cappamore-Kilmallock held on the 21st November, 2019.
+Municipal District of Cappamore-Kilmallock held on the 2ist November, 2019.
 
 Proposed by Councillor E. Ryan;
 Seconded by Councillor Mitchell;
@@ -69,7 +70,9 @@ She then proceeded to give an update on current policing issues within the Distr
 confirmed that while there had been a reduction in certain crime categories, that burglaries,
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 had seen an increase in recent months, particularly in commercial premises, and she
@@ -113,4 +116,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

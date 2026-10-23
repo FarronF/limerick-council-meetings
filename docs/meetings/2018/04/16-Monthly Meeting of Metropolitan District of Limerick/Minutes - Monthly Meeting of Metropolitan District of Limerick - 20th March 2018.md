@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2020th%20March%2C%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2020th%20March%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
 **IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON TUESDAY, 20TH** **MARCH,**
@@ -86,7 +87,9 @@ In relation to the question on the Mayoral Chain at Agenda Item No. 6, to note t
 to the question being amended by the removal of the word allegedly, subject to legal advice
 
 confirming this.
----
+
+[[PAGE_END:1]]
+
 2
 
 In relation to the works at Ferrybank at Agenda Item No. 7 he had asked why false promises
@@ -166,7 +169,9 @@ Company Ltd. t/a Treaty City Brewery and the intention to bring a disposal notic
 relation to same before the May Meeting of the Council.
 
 The item was deferred.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -240,7 +245,9 @@ the plans. In response, the Meetings Administrator stated that, due to the urgen
 housing crisis, the report was circulated as soon as it was received so that the development
 
 could be considered at the March Meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 **(d)**
@@ -320,7 +327,9 @@ on some city centre premises during the Saint Patrick’s Festival weekend. In r
 queries in relation to Limerick being included as a destination on the Wild Atlantic Way route,
 
 Laura Ryan informed the meeting that there was an opportunity to leverage the brand for the
----
+
+[[PAGE_END:4]]
+
 5
 
 wider catchment area and discussions were ongoing regarding Limerick as a pilot city as a
@@ -394,7 +403,9 @@ support of the Film Festival. It was agreed that, following on from this present
 line with normal protocol, the request for funding would be referred to the appropriate
 
 channel for consideration.
----
+
+[[PAGE_END:5]]
+
 6
 
 **QUESTIONS**
@@ -498,7 +509,9 @@ at an omnibus/ stopping/ place
 At the 12th February 2018, the number of vacant properties in the Metropolitan
 
 area was 28, the breakdown is as follows;
----
+
+[[PAGE_END:6]]
+
 7
 
 Properties offered awaiting acceptance
@@ -594,7 +607,9 @@ new LED lanterns at a cost of circa €225,000
 The deep retrofit of the 100 unit Watergate Flats complex is being delivered on
 
 a phased basis. Phase 1 (56 units) was completed in 2017. This work has
----
+
+[[PAGE_END:7]]
+
 8
 
 significantly enhanced the performance, comfort levels and visual amenity of
@@ -670,7 +685,9 @@ information.
 Quarterly meetings are being held with representatives of the Disability
 
 Federation of Ireland (DFI) and the following actions have been agreed for 2018.
----
+
+[[PAGE_END:8]]
+
 9
 
 • Limerick City and County Council has agreed a work placement programme
@@ -750,7 +767,9 @@ to see if it can be upgraded so that it is interactive and also, that a review i
 practice of closing cases with the status commitment given, as this means that there was no
 
 follow up to ensure that the action was carried out.
----
+
+[[PAGE_END:9]]
+
 10
 
 Following further discussion the Meetings Administrator noted the issues raised and agreed
@@ -798,4 +817,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

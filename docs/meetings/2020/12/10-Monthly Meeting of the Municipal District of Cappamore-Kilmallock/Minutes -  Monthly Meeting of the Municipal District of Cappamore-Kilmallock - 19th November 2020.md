@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-19th-november-md-meeting.pdf)
+**Original file:** [Minutes -  Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-19th-november-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
@@ -86,7 +87,9 @@ Cappamore – Kilmallock held on 15th October, 2020.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 Matters Arising
@@ -150,7 +153,9 @@ Schedule of Municipal District Works.
 The Elected Members noted the works completed and services provided to date in 2020 and
 
 acknowledged the hard work and co-operation of local authority staff members in relation
----
+
+[[PAGE_END:2]]
+
 3
 
 to the Schedule of Works, in a year that proved to be challenging, considering Covid 19 and
@@ -214,7 +219,9 @@ phase 1 & 2.
 **Proposed by Councillor Donegan;**
 
 **Seconded by Councillor M Ryan.**
----
+
+[[PAGE_END:3]]
+
 4
 
 Following a brief discussion on this Notice of Motion, the Elected Members did not reach
@@ -280,7 +287,9 @@ with the policy will be costed and considered further, subject to funding being 
 Cappamore Kilmallock Municipal District will carry out an appropriate assessment for this
 
 proposal.
----
+
+[[PAGE_END:4]]
+
 5
 
 8.Notice of Motion submitted by Councillor Gerald Mitchell
@@ -338,7 +347,9 @@ If a disposal is seen as the best use of the asset or part thereof, then the pro
 submitted to the local Municipal District for noting and if approved, will precede to the bi-
 
 monthly Council meeting for approval.
----
+
+[[PAGE_END:5]]
+
 6
 
 10.
@@ -402,7 +413,9 @@ Limerick City and County Council look into the possibility of more funding being
 available to Pallasgreen Community Council to complete work on the upgrading of the
 
 Community Hall.
----
+
+[[PAGE_END:6]]
+
 7
 
 **Proposed: Councillor Egan;**
@@ -470,7 +483,9 @@ Limerick City and County Council Cappamore Kilmallock Municipal District Enginee
 Staff will engage with the Knocklong Community Council about their concerns regarding
 
 traffic in their village.
----
+
+[[PAGE_END:7]]
+
 8
 
 QUESTIONS
@@ -550,7 +565,9 @@ have identified locations within each town and are currently in discussions with
 owners in these locations with a view to erecting the Access Points on their premises. This
 
 process is due for completion 27th November, with rollout commencing early December.
----
+
+[[PAGE_END:8]]
+
 9
 
 15. Question submitted by Councillor Donegan
@@ -624,7 +641,9 @@ at the above location. The results of the survey verify that the recorded traffi
 less than the statutory speed limit. The survey also verified that traffic volumes were not
 
 excessive.
----
+
+[[PAGE_END:9]]
+
 10
 
 18. Question submitted by Councillor M. Ryan
@@ -688,7 +707,9 @@ winning a gold medal for Ireland at the World Mountain Bike Championship’s in 
 They agreed to include him on the list of invited recipients to a Municipal District to be held
 
 hopefully at some stage in 2021.
----
+
+[[PAGE_END:10]]
+
 11
 
 **Condolences**
@@ -720,4 +741,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:11]]
+

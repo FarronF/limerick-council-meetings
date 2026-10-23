@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/02-minutes-of-september-2023-jpc-meeting.pdf)
+**Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/02-minutes-of-september-2023-jpc-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK
@@ -118,7 +119,9 @@ Criminal damage
 47
 
 40
----
+
+[[PAGE_END:1]]
+
 2
 
 Arson
@@ -218,7 +221,9 @@ that the perpetrators tended to cross county boundaries and were generally oppor
 Speed in Bruff, Bruree, Kilmallock and Elton was highlighted by the Elected Members. The
 
 speed limit review was welcomed, as were the Taoiseach’s comments regarding road safety.
----
+
+[[PAGE_END:2]]
+
 3
 
 **Domestic Abuse**
@@ -308,7 +313,9 @@ This concluded the business of the meeting.
 *Municipal District is to be held on Thursday 14**th* *December at 2pm in Aras*
 
 *Mainchin Seoighe Area Office, Kilmallock.*
----
+
+[[PAGE_END:3]]
+
 4
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -318,4 +325,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

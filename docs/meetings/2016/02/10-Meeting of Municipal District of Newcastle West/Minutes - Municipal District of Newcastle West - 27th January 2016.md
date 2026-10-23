@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2027th%20January%202016.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 27th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2027th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -29,7 +30,7 @@ PRESENT IN THE CHAIR: Councillor M. Collins, An Cathaoirleach.
 
 MEMBERS PRESENT:
 
-Councillors Browne, Foley, Galvin, Scanlan and Sheahan.
+Councillors Browne, Foley, Galvin, Scanian and Sheahan.
 
 OFFICIALS IN ATTENDANCE:
 
@@ -74,7 +75,9 @@ e Proposed new Garda Station for Newcastle West.
 ¢ Opening hours for Abbeyfeale Garda Station/Re-advertise opening hours.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e Upgrade of Glin Garda Station.
@@ -95,13 +98,13 @@ Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle 
 2nd December, 2015.
 
 Proposed by Councillor Galvin;
-Seconded by Councillor Scanlan;
+Seconded by Councillor Scanian;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 Arising from the Minutes, Councillor Sheahan asked for an update on the proposed Public
-Realm Study for Glin. The Director stated that funding could be considered through the General
+Realm Study for Glin, The Director stated that funding could be considered through the General
 Municipal Allocation. In response to a query on cost, he stated that €15,000 should be sufficient
 
 to cover the cost of preparation of a Study.
@@ -128,7 +131,9 @@ Section 180 of the Planning and Development Acts 2000-2015 and Section 11 of the
 1993.”
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 UESTION
@@ -176,7 +181,9 @@ grant. It is estimated that approximately 30 such grants are provided annually i
 Newcastle West Municipal District at a cost of €10,000.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -231,7 +238,9 @@ the funding allocation is being considered and that an update will be available 
 the coming weeks.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -290,7 +299,9 @@ discussed.
 The Motion was seconded by Councillor Galvin and agreed.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Dublin Coach will be contacted with regard to stops at Abbeyfeale and Newcastle
@@ -321,7 +332,7 @@ the Meeting.
 
 17. Notice of Motion submitted by Councillor J. Sheahan
 
-! will move at the next Meeting that all housing estates in the village of Athea be properly
+1 will move at the next Meeting that all housing estates in the village of Athea be properly
 signposted in the interest of alerting emergency services to correct locations.
 
 Councillor Sheahan, in proposing the Motion, stated that it had been brought to his attention by
@@ -343,7 +354,9 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LIMERICK CITY AND COUNTY COUNCIL
@@ -371,11 +384,11 @@ Double Grave €2,000 reserved
 These charges apply to all Council controlled cemeteries within the Municipal District
 of Newcastle West.
 
-In fa Ae
-
 Kieran Lehane
 Director of Services
 Environment & Water
 
 
----
+
+[[PAGE_END:7]]
+

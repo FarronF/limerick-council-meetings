@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-08/01-2020-07-01-minutes-july.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 1st July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-08/01-2020-07-01-minutes-july.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ Seconded by: Councillor Collins
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 At this point in the Meeting, it was agreed to take Councillor Collins’ Question and Notice of
@@ -198,7 +201,9 @@ be installed to slow down traffic accessing the above housing estates. A discuss
 and in replying the Senior Executive Engineer stated that a request for traffic calming must be
 
 accompanied by a Plebiscite and a detailed traffic survey, design and costing would be
----
+
+[[PAGE_END:2]]
+
 3
 
 required and a source of funding to be identified. Cllr. Collins also queried if soft measures
@@ -270,7 +275,9 @@ The Executive Engineer stated that it is hoped to finalise the design process an
 approval to proceed to preparation of tender documents shortly. She also stated that in
 
 order to complete the design process a Road Safety Audit, Departures Application,
----
+
+[[PAGE_END:3]]
+
 4
 
 Preliminary Design Report and further consultations with Irish Water is required.
@@ -344,7 +351,9 @@ The A/Senior Executive Officer stated that the purpose of the draft Bye-Laws is 
 the exemption from the requirement to pay parking fees as adopted by the Members in the
 
 Parking Place (Amendment) Bye-Laws 2018. He stated that the 2018 Bye-Laws were subject
----
+
+[[PAGE_END:4]]
+
 5
 
 to review after twenty four months from the date of adoption, which is due to cease on 31st
@@ -420,7 +429,9 @@ model of the proposed traffic lights for Joy’s Corner was also raised. It was 
 is also a fear that funding to progress the project could be lost due to the current Covid 19
 
 crisis.
----
+
+[[PAGE_END:5]]
+
 6
 
 Discussion took place on the proposed off street parking plans and it was noted that the
@@ -502,7 +513,9 @@ O’Connor Park, Ardagh in the interest of safety.
 In replying, the Senior Executive Engineer stated that the open entrance to the green area
 
 has been closed off.
----
+
+[[PAGE_END:6]]
+
 7
 
 7.
@@ -582,7 +595,9 @@ Abbeyfeale and requested that a survey and costing be carried out for drainage w
 location.
 
 At this point, Councillor Sheahan left the Meeting.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Motion was seconded by Councillor Foley.
@@ -654,7 +669,9 @@ grassed areas, followed by levelling and reseeding of the area. The Council will
 arrange for these works to be costed and will carry out these works in the near
 
 future.
----
+
+[[PAGE_END:8]]
+
 9
 
 The following items were also raised.
@@ -690,4 +707,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

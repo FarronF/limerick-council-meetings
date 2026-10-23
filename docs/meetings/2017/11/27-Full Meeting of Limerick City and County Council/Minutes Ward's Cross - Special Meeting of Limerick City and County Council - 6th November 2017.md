@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28e%29%20Minutes%20Special%20Meeting%20061117%20-%20Ward%27s%20Cross.pdf)
+**Original file:** [Minutes Ward's Cross - Special Meeting of Limerick City and County Council - 6th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28e%29%20Minutes%20Special%20Meeting%20061117%20-%20Ward%27s%20Cross.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -76,7 +77,9 @@ as follows:
 **Signed: Councillors L. Galvin, J. Sheahan, M. Collins, S. Browne, G. Mitchell, J.**
 
 **Scanlan, S. Keary, F. Foley.**
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Galvin, at the outset, asked why representatives from Transport
@@ -142,7 +145,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Browne, it was agre
 to write to An Garda Síochána in order to ascertain what reports they had submitted to TII
 
 in relation to Ward’s Cross.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Director, Physical Development, addressed the Meeting again and stressed that
@@ -180,4 +185,6 @@ Mayor
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

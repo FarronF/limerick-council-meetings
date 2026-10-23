@@ -16,46 +16,40 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-monthly-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-monthly-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-& Contae Luimnigh O¥fg art Cheantaiy, Aras Mhaiichin Seoighe,
 
-“rN i ‘
+& Contae Luimnigh OlGg an Cheantaiy, Aras ee ee
 
-Ci Mocheallég.
+”~ 4 . ‘ aE Co. Luimnigh.
+—. Limerick City
 
-, . = Co. Luimnigh.
-— Limerick City
-& County Council
+& County Council Limerick City and County Council,
 
-Limenck City and County Council,
-Aras Mainchin Seoighe Area Office.
+Aras Mainchin Seoighe Area Office,
+
 Kilmatiock
 
 Co. Limenck
 
 EIRCODE V35 K497
 
-t: +353 (0) 63 960 19
+t: +353 (0) 63 980 19
 t: +353 (0) 63 985 99
 
 11™ June, 2021.
 
 A Chomhairleoir, a chara,
 
-You
-
-are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
-
+You are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
 Kilmallock to be held on Thursday 17" June at 3.00pm in Deebert House Hotel, Kilmallock.
 
-The
-
-business to be transacted is set out on the appended Agenda.
+The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
@@ -64,17 +58,13 @@ l
 Karen Butl
 Meetings Administrator.
 
-1.
-
-2.
-
 AGENDA
-Minutes
+1. Minutes
 
 To consider the adoption of Minutes of Meeting of the Municipal District of Cappamore-
-Kilmallock held on the 20" May 2021.
+Kilmallock held on the 20"" May 2021.
 
-Service Operations Directorate
+2. Service Operations Directorate
 
 To consider Special Speed Limits in Housing Estates — Jakes Law)
 (a) Alleann, Bruree
@@ -84,19 +74,21 @@ To consider Special Speed Limits in Housing Estates — Jakes Law)
 (c) Belleview Estate, Kilmallock
 
 (d) “The Block”, Oola : Public Road with One Off Houses = customerservices@limerick te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wewwlimericcie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wowwlimeridcie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office ¥
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Notice of Motion submitted by Councillor PJ Carey
 
 | will move at the next meeting of the Cappamore-Kilmallock Municipal District that the
-Council widen the Ballycullane Road 18513, just to pair back the encroaching ditch a foot or
+Council widen the Ballycullane Road 8513, just to pair back the encroaching ditch a foot or
 two on either side.
 
 4. Notice of Motion submitted by Councillor Gerald Mitchell
@@ -106,13 +98,13 @@ cut on the narrow local roads due to flush growth in the interests of safety for
 the Cappamore-Kilmallock District Area particularly pedestrians.
 
 5. Notice of Motion submitted by Councillor Teefy
-I will move at next meeting of the Cappamore-Kilmallock Municipal District that remedial works
+| will move at next meeting of the Cappamore-Kilmallock Municipal District that remedial works
 
 be carried out such as a staggered junction at Patrickswell Cross roads on the L1140
 Herbertstown to Holy Cross road.
 
 6. Question submitted by Councillor Gerald Mitchell
-I will ask at the next meeting of the Cappamore-Kilmallock Municipal District that portaloos be
+| will ask at the next meeting of the Cappamore-Kilmallock Municipal District that portaloos be
 
 placed outside Playgrounds and areas of consistent gatherings in the Cappamore-Kilmallock
 District until such time toilets are provided in County Limerick where needed.
@@ -124,9 +116,9 @@ inspected in the Cappamore-Kilmallock District and are fit for purpose in the in
 
 8. Question submitted by Councillor Michael Donegan
 
-| will ask at the next meeting of the Cappamore-Kilmallock Municipal District if Limerick City &
+(will ask at the next meeting of the Cappamore-Kilmallock Municipal District if Limerick City &
 County Council plan to modify the footpaths in Bruff to make them wheel chair friendly from
-Ardykeohane to the main street in the town.
+Ardykeohane to the main street In the town.
 
 9. Question submitted by Councillor Michael Donegan
 
@@ -134,4 +126,6 @@ Ardykeohane to the main street in the town.
 the planned replacement of the existing old and damaged street signage in Kilmallock town.
 
 
----
+
+[[PAGE_END:2]]
+

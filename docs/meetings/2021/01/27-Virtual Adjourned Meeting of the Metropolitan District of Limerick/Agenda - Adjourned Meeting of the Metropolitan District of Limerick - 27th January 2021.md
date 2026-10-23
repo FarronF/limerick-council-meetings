@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-adjourned-meeting-27th-january-2021.pdf)
+**Original file:** [Agenda - Adjourned Meeting of the Metropolitan District of Limerick - 27th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/00-agenda-adjourned-meeting-27th-january-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_ Comhairle Cathrach
+__—_—_ Comhairle Cathrach
 & Contae Luimnigh
-oe rE
+No ar
 
 — Limerick City
 & County Council
@@ -41,7 +42,7 @@ Luimneach
 
 Corporate Services.
 
-Limerick City and County Council
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -50,7 +51,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+: +353 (0) 61 415 266
 
 AChomhairleoir, a chara,
 
@@ -64,7 +65,7 @@ e 9am-9.45am Online Briefing Update on Draft Southern Environs Local Area Plan 2
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 
-NIK
+Mince
 
 Mark Leahy,
 Meeting Administrator.
@@ -78,9 +79,11 @@ Area Plan in accordance with Section 20 (3) of the Planning and Development Act 
 
 (Report Enclosed).
 im customerservices@limerickic
-© veer limorickie
+© veo limorickie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 063 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

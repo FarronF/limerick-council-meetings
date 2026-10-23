@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-a-draft-minutes-special-meeting-of-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Municipal District of Adare-Rathkeale - 8th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-a-draft-minutes-special-meeting-of-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -88,7 +89,9 @@ Councillors Code of Conduct. Councillor O’Donoghue subsequently withdrew his N
 of Motion from the Agenda of the April Adare-Rathkeale Municipal District Meeting.
 
 This concluded the Meeting.
----
+
+[[PAGE_END:1]]
+
 Signed:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -98,4 +101,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

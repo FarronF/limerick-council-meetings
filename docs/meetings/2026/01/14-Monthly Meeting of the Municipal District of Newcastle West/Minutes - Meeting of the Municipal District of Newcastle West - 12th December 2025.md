@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-newcastle-west-12th-december-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 12th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-newcastle-west-12th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -34,7 +35,7 @@ Councillors Foley, Galvin, Ruddle, Scanian and Sheahan.
 
 OFFICIALS IN ATTENDANCE:
 
-Director, Rural, Culture, Community and Tourism Development (Mr. S. Duclot), A/Senior
+Director, Rural, Culture, Community and Tourism Development (Mr. S. Duciot), A/Senior
 Executive Officer, Municipal Districts (Ms. K, White), Meetings Administrator, Newcastle West
 (Ms. H. Supple), Senior Executive Engineer, Newcastle West Municipal District (Mr. 8.
 Noonan), Executive Engineer, Roads, Newcastle West (Mr. P. Vallely), Acting Senior Executive
@@ -48,7 +49,7 @@ December Meeting of the District.
 1. Adoption of Minutes
 
 (a) Circulated, copy of draft Minutes of Meeting of Municipal District of Newcastle
-West, held on 5" November, 2025.
+West, held on 5 November, 2025.
 
 Proposed by: Councillor Galvin
 Seconded by: Councillor Foley
@@ -63,7 +64,9 @@ Cllr. Scanlon also expressed sympathy to the Barry family on the recent passing 
 Ardagh.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest.
@@ -93,13 +96,13 @@ timeframes for delivery of the project was also discussed.
 Following discussion, the report was proposed by Councillor Foley, seconded by Councillor
 Galvin and agreed.
 
-4. Housin D te
+4. Housin Di te
 
 To receive Update from the Housing Directorate for the Newcastle
 West Municipal District.
 
 Circulated, report of Senior Executive Officer, Strategy and Non-LA Housing Construction
-dated 12'" December, 2025.
+dated 12" December, 2025.
 
 The Senior Executive Officer presented the quarterly update in relation to Housing in the
 District. She stated that 58% of build programme is approved for Newcastle West at 21*
@@ -112,7 +115,9 @@ received and offer letters issued for three units and accepted. The Senior Execu
 advised that the Local Authority was working with Uisce Eireann on a modular solution to the
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Wastewater Treatment Plant in order to unlock a further 300 units for the District. Councillor
@@ -162,10 +167,12 @@ On the proposal of Councillor Collins, seconded by Councillor Ruddle, it was agr
 €3,600.00 to Newcastle West Community Council for a Halloween Screening event.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Councillor Ruddie- €1200
+Councillor Ruddle- €1200
 Councillor Scanlan - €1200
 Councillor Collins- €1200
 
@@ -209,31 +216,33 @@ QUESTIONS
 Replies to the following Questions on the Agenda were circulated to all Members prior to the
 Meeting and the Questions were therefore taken as having been dealt with.
 
-re Question submitted by Councillor L. Galvin
+‘de Question submitted by Councillor L. Galvin
 
-| will ask at the next Meeting for detailed update on the flood relief schemes for Athea
+! will ask at the next Meeting for detailed update on the flood relief schemes for Athea
 and Abbeyfeale (Mart bridge).
 
 REPLY:
 Athea Flood Relief Scheme
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The preferred option for the Athea Flood Relief Scheme (FRS) was submitted to the Office of
 Public Works for formal option approval (PR3) on 15" August, 2025. The Office of Public
 Works has advised that this remains under review.
 
-In parallel with this review and in anticipation of PR3 approval from OPW, Limerick City and
+in parallel with this review and in anticipation of PR3 approval from OPW, Limerick City and
 County Council has continued to advance the final planning design. Subject to OPW formal
 approval, it is anticipated that the Athea FRS will be submitted for planning consent to An
-Coimisiun Pleandla in Q1 2026.
+Coimisidn Pleandla in Q1 2026.
 
 Abbeyfeale Flood Relief Scheme
 
 The Senior Executive Engineer is meeting with the Office of Public Works to look at completing
-a Flood Map Review Request Form so that they can determine if a new flood map review is
+2 Flood Map Review Request Form so that they can determine if a new flood map review is
 required for Abbeyfeale.
 
 8. Question submitted by Councillor L. Galvin
@@ -246,7 +255,7 @@ REPLY:
 A Feasibility Report outlining a number of design options has been submitted to Transport
 Infrastructure Ireland (TIl) for review. These options include the provision of a pedestrian
 crossing, footpath extension works and an extended gateway. Limerick City and County
-Council will continue to engage with Til and will provide an update once further information
+Council will continue to engage with TIl and will provide an update once further information
 becomes available.
 
 9. Question submitted by Councillor L. Galvin
@@ -269,7 +278,9 @@ an updated Feasibility Report for Til’s further consideration.
 fronting the Courtenay Boys School at Gortboy, Newcastle West.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: The Roads Department will inspect this location and if works are required, they
@@ -286,7 +297,7 @@ We will continue to raise this scheme in the pursuit of funding.
 
 12. Question submitted by Councillor J. Scanian
 
-! will ask at the next Meeting when safety works will be undertaken along the Danganbeg
+1 will ask at the next Meeting when safety works will be undertaken along the Danganbeg
 side of Bunoke Bridge.
 
 REPLY: The Roads Department has carried out an inspection of the bridge and will
@@ -317,7 +328,9 @@ as they are too low for people to see them.
 The Motion was seconded by Councillor Collins.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: The Roads Department will meet with Councillor Ruddle on site to review the
@@ -368,7 +381,9 @@ new playground in Carrigkerry which will also act as a safety measure for the Na
 School.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was seconded by Councillor Galvin.
@@ -379,7 +394,7 @@ meet with relevant stakeholders regarding the request.
 
 18. Notice of Motion submitted by Councillor M. Collins
 
-1 will move at the next Meeting that a safety crossing be installed at Assumpta Park,
+! will move at the next Meeting that a safety crossing be installed at Assumpta Park,
 Newcastle West to aid older persons, disability sector and children crossing in safety.
 
 The Motion was seconded by Councillor Scanlan.
@@ -388,7 +403,7 @@ REPLY: The Roads Department will meet with Councillor Collins on site to review 
 request.
 
 In proposing the Motion, Councillor Collins stated there was road surfacing works carried out
-at this location a number of years ago and that now there is a need to get a pedestrian crossing
+at this location a number of years ago and that now there is aneed to get a pedestrian crossing
 installed at Assumpta Park, Newcastle West.
 
 The following items were also raised.
@@ -414,7 +429,9 @@ It was agreed to hold the January Meeting of the District on Wednesday, 14" Janu
 at 10.00 a.m., at Aras William Smith OBrien.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 This concluded the Meeting.
@@ -425,7 +442,9 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Dear Councillor Ruddle,
@@ -467,11 +486,13 @@ Newcastlewest. The project is currently at the detailed design stage.
 
 Should you have any further queries, please don't hesitate to contact us on the details below. For
 
-the latest supply and services updates, please see: |)ttos: //www.water.ie/?map=supply-and-service-
+the latest supply and services updates, please see: |)ttos: //www.water.ie/2map=supply-and-service-
 
 updates.
 
 Thank you for using Uisce Eireann's Local Representative Support Desk.
 
 
----
+
+[[PAGE_END:10]]
+

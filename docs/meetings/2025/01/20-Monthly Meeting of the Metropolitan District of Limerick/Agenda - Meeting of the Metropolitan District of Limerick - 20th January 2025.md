@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/00-agenda-meeting-of-metropolitan-district-of-limerick-20th-january-2025.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 20th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/00-agenda-meeting-of-metropolitan-district-of-limerick-20th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Sewbdhisi Corparaideacha,
-eg 6 Cont Lui ah Comhairle Cathwach agus Contae Luimnigh,
-, ontae Lutmnig) Ceanncheathna Chorparaideach,
-arN ee Cé na gCeannaithe,
+a Comhairle Cathrach Sewbdhisi Corparaideacha,
+2 2 Comhairle Cathwach agus Contae Luimnigh,
+& Contae Luimnigh Ceannchesthna Chorpardideach,
+ArN 4 —_—_—_—_— Cé na gCeannaithe,
 = —> Limerick City Luimneach
 & County Council
 Corporate Services,
@@ -33,11 +34,11 @@ Corporate Headquarters,
 Merchants Quay.
 Limerick
 
-EIRCODE V94 ER9O
+EIRCODE V94 ERSO
 t: +353 (0) 62 557150
 
-f: +353 (0) 61 415 266
-15" January, 2025. 383 (0) 6141
+#: +353 (0) 61415 266
+15" January, 2025. 353 (0) 61
 
 A Chomhairleoir, a chara,
 
@@ -61,12 +62,14 @@ December, 2024.
 
 =
 
-© wwewlimerickie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach ¥ @LimerickCouncil
+© weve limerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -116,7 +119,9 @@ decluttering of unnecessary street signage including the former car park signs w
 been in use for several years.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Question submitted by Councillor J. Leddin
@@ -166,7 +171,9 @@ Cleeves Site will be occupied by TUS. Is there any other community/cultural/resi
 the site.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18. Question submitted by Councillor U. Gavan
@@ -175,7 +182,7 @@ the site.
 Park and Ride at the Mackey Roundabout and have plans progressed for another by Ballysimon
 to alleviate congestion.
 
-19. Question submitted by Councillor S. Hickey-O’Mara
+19. Question submitted by Councillor S. Hickey-O’ Mara
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that this Council provide an
 anticipated timeline for the progression of the Coonagh-Knockalisheen Distributor Road now that
@@ -185,7 +192,7 @@ e When will work begin.
 
 e Is there an anticipated date of completion.
 
-20. Question submitted by Councillor S. Hickey-O’Mara
+20. Question submitted by Councillor S. Hickey-O’ Mara
 
 | will ask at the next Meeting of the Metropolitan District of Limerick that this Council provide an
 update on water quality at the Corbally Baths.
@@ -217,7 +224,9 @@ of unoccupied properties located in the city centre to redevelop for commercial 
 purposes.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 25. Notice of Motion submitted by Councillor E. O'Donovan
@@ -258,4 +267,6 @@ businesses where footpaths are badly affected in freezing weather.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

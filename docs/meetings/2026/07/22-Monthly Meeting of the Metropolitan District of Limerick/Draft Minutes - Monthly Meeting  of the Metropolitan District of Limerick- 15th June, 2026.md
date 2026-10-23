@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-monthly-meeting-of-the-metropolitan-district-of-limerick-15th-june-2026.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting  of the Metropolitan District of Limerick- 15th June, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-monthly-meeting-of-the-metropolitan-district-of-limerick-15th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -86,7 +87,9 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”. 
 
 **2.Declaration of Interest**
----
+
+[[PAGE_END:1]]
+
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
@@ -156,7 +159,9 @@ he sought the support of Members for the removal of the textile bank on the Dock
 Members acknowledged the importance of textile recycling banks in the city; however, they
 
 supported the Director’s proposal to remove the textile bank on the Dock Road.
----
+
+[[PAGE_END:2]]
+
 Members welcomed the update and acknowledged the work of the Director of Services,
 
 Metropolitan District of Limerick, and the City Centre Response Team. They commended the
@@ -226,7 +231,9 @@ The Mayor advised that a person connected to him owned property located approxim
 involvement or interest in the lands subject to the Part 8 proposal.
 
 The Mayor stated that he was pleased to commend the proposal to the Members.
----
+
+[[PAGE_END:3]]
+
 Following discussions, it was proposed by Councillor Kilcoyne, and seconded by Councillor
 
 Talukder to amend the Part 8 as follows:
@@ -300,7 +307,9 @@ Development Act 2000 it is recommended to the Elected Members of Limerick City a
 County Council that the proposed development proceed as proposed with the inclusion of a
 
 natural play area instead of a playground at the proposed location.
----
+
+[[PAGE_END:4]]
+
 **FOR THE AMENDMENT:**
 
 Councillors Donoghue, Gavan, Kilcoyne, Leddin, Pond, Reale, Secas, Talukder.
@@ -366,7 +375,9 @@ Development.
 Members were advised that the development was a long-term project involving Limerick City
 
 and County Council and private partners, focused on delivering housing, healthcare and local
----
+
+[[PAGE_END:5]]
+
 services in the area. The proposed development includes 115 new homes, a neighbourhood
 
 centre which will provide a range of local amenities.
@@ -432,7 +443,9 @@ interference with invasive species, and to report any instances immediately.
 **REPLY:**Limerick City and County Council received the following Local Property Tax (LPT)
 
 income in the years 2024, 2025 and 2026:
----
+
+[[PAGE_END:6]]
+
 **Year**
 
 **LPT Income**
@@ -508,7 +521,9 @@ Limerick City and County Council allow the accommodation providers of family hub
 and STA (Short Term Accommodation) hostels to retain these payment charges that
 
 they have received from clients who have been referred by the Homeless Action Team.
----
+
+[[PAGE_END:7]]
+
 These payments have been used by the service providers to offset the amount of
 
 section 10 funding required to operate those services.
@@ -576,7 +591,9 @@ Over that time 67 samples have been analysed. 26 of those failed one or both of 
 required parameters. Monitoring will continue over the bathing season in 2026 with a
 
 further review of the results there after.
----
+
+[[PAGE_END:8]]
+
 **14.Question submitted by Councillor Gavan**
 
 ***I**will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
@@ -644,7 +661,9 @@ Members will be kept informed as assessments progress and as funding opportuniti
 arise to support delivery.
 
 **16.Questionsubmittedby Councillor Donoghue**
----
+
+[[PAGE_END:9]]
+
 ***I**will ask at the next meeting of the Metropolitan District of Limerick for a full breakdown***
 
 ***of footfall figures across Limerick City as previously presented by Limerick City and County***
@@ -716,7 +735,9 @@ tourism and economic development, while ensuring strict compliance with data
 protection requirements.
 
 **17.Questionsubmittedby Councillor Donoghue**
----
+
+[[PAGE_END:10]]
+
 ***I**will ask at the next meeting of the Metropolitan District of Limerick how many living units***
 
 ***has Limerick City and County Council**purchased**under compulsory purchase order in the city***
@@ -802,7 +823,9 @@ and agreed.
 ***before and after**Annacotty**Business Park**in order**to**slow traffic approaching the railway***
 
 ***lines and the residential areas of**Clyduff,**Garraun**and**Lisnagry.***
----
+
+[[PAGE_END:11]]
+
 The Notice of Motion was proposed by Councillor Doyle, seconded by Councillor Pond and
 
 agreed.
@@ -870,7 +893,9 @@ stop and to oversee the delivery and installation of the requisite infrastructur
 ground.
 
 **22.Notice of Motionsubmittedby CouncillorSlattery**
----
+
+[[PAGE_END:12]]
+
 ***I**will move at the next meeting of the Metropolitan District of Limerick that traffic calming***
 
 ***measures are put in place to stop speeding at St. Judes Avenue,**Ballysimon**Road.***
@@ -934,7 +959,9 @@ On the proposal of Councillor McSweeney, and seconded by Councillor Kiely, Stand
 4 was suspended to complete the Meeting.
 
 **24.Notice of Motion submitted by CouncillorBeasley**
----
+
+[[PAGE_END:13]]
+
 ***I**will move at the next meeting of the Metropolitan District of Limerick that Limerick City***
 
 ***and County Council write to**An**Garda Siochana requesting residential access control***
@@ -1006,7 +1033,9 @@ role in supporting Garda investigations to this day. The CCTV network as it curr
 exists reflects those historic decisions made during periods of significant organised
 
 crime, rather than anything recent or planned across LEAs.
----
+
+[[PAGE_END:14]]
+
 Proposals for new CCTV installations should be brought forward on the basis of
 
 identified risks and patterns of criminal behaviour, rather than based on geographical
@@ -1082,7 +1111,9 @@ and agreed.
 In proposing the Motion, Councillor Gavan highlighted the need for proper infrastructure
 
 within the area and emphasised the need to address the delay in the delivery of BusConnects.
----
+
+[[PAGE_END:15]]
+
 **REPLY:**Limerick City and County Council (LCCC) acknowledges the level of development
 
 activity in the Castletroy/Annacotty area and the associated concerns regarding traffic
@@ -1156,7 +1187,9 @@ cultural development. This is particularly expressed in the Limerick Development
 strategy, community infrastructure together with heritage and cultural policy are
 
 expressed in a framework for future development and growth.
----
+
+[[PAGE_END:16]]
+
 Our Corporate Plan, Moving Forward Together 2025-2029, identifies the vision,
 
 commitments and goals of Limerick City and County Council. The delivery of the Plan,
@@ -1228,7 +1261,9 @@ forthcoming Workforce Plan and future Budget allocations and is therefore not a
 matter that can be progressed through a Notice of Motion in the absence of these
 
 requirements.
----
+
+[[PAGE_END:17]]
+
 Following discussions, the Senior Planner, Development Management, noted that a dedicated
 
 Enforcement Manager has been assigned to tackle enforcement issues.
@@ -1302,7 +1337,9 @@ for temporary interventions at Cals Park continue to be assessed in tandem with
 partners, stakeholders as the broader masterplan phases and associated funding
 
 streams are advanced.
----
+
+[[PAGE_END:18]]
+
 Following discussion, the Programme Manager, Colbert Quarter Infrastructure Activation
 
 Office, advised that proposals for meanwhile uses of Cals Park would be considered.
@@ -1316,4 +1353,6 @@ This concluded the meeting.
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:19]]
+

@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2018th%20February%202016.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2018th%20February%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-aArmN ——_~ Cé na gCeannaithe.
-—==> Luimneach
+aAmN —-~ Cé na gCeannaithe.
+—= > Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and ay —
-Merchants I
+Merchants ,
 
-COUNCIL =o =
+COUNCIL =o my
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -46,13 +47,13 @@ and County Council to be held in the Council Chamber, Dooradoyle, Limerick, on
 Thursday, 18" February, 2016, at 9.00 a.m. in order to pass a Vote of Sympathy
 on the death of Councillor Joe Crowley, RIP.
 
-Tex dhow
-
 Meetings Administrator.
 
 @ customerservices@limerick.ic
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach  weewlimerick.ie
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach @ weewlimerick.ie
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

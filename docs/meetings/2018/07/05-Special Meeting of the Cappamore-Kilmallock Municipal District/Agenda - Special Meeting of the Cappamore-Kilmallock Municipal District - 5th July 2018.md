@@ -16,16 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Special%20Meeting%205th%20July.pdf)
+**Original file:** [Agenda - Special Meeting of the Cappamore-Kilmallock Municipal District - 5th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Special%20Meeting%205th%20July.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach
-oe o~ : eer —
+_—_—_— Comhairle Cathrach
+oe a™~ : — —
 — imerick Cit
-
-& County Council Limerick City & County Council,
+& County Counc Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
 V35 K497
@@ -56,4 +56,6 @@ AGENDA
 RIP.
 
 
----
+
+[[PAGE_END:1]]
+

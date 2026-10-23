@@ -24,11 +24,11 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Municipal District of Adare-Rathkeale - 8th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_adare-rathkeale_-_8th_november_2016.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%208th%20November%202016.md)
+Agenda - Municipal District of Adare-Rathkeale - 8th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_adare-rathkeale_-_8th_november_2016.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_4th_october_2016.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%204th%20October%202016.md)
+Minutes - Municipal District of Adare-Rathkeale - 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_4th_october_2016.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 25th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_25th_october_2016.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2025th%20October%202016.md)
+Minutes - Municipal District of Adare-Rathkeale - 25th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_25th_october_2016.pdf) - Text not extracted
 
 Proposed Addition to the Record of Protected Structures - Municipal District of Adare-Rathkeale - 8th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/proposed_addition_to_the_record_of_protected_structures_-_municipal_district_of_adare-rathkeale_-_8th_november_2016.pdf) - Text not extracted
 

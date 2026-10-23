@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-city-and-county-council-26.02.2024-2pm.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 26th February 2024 (2pm).pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-city-and-county-council-26.02.2024-2pm.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
 **IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON MONDAY, 26TH FEBRUARY, 2024 AT**
@@ -80,7 +81,9 @@ In accordance with Section 177 of the Local Government Act, 2001 (as amended) Co
 removed himself from the meeting, declaring that a family member was the owner of land in the
 
 area.
----
+
+[[PAGE_END:1]]
+
 The Director of Planning, Environment and Place-Making, advised the Members that this meeting
 
 was called to consider the proposed Material Alterations of the Draft Patrickswell Local Area Plan
@@ -124,7 +127,9 @@ lands to the east of the village (which benefits from a grant of permission) are
 proximity to the motorway, remote from the village and without pedestrian infrastructure.
 
 (Image omitted)
----
+
+[[PAGE_END:2]]
+
 Members sought clarification on various aspects of the proposed amendment to the Draft
 
 Patrickswell Local Area Plan, and what the process was if the proposed amendment was
@@ -194,7 +199,9 @@ The Mayor then directed that a vote be taken on the proposal to defer the meetin
 and the result of the vote was as follows:
 
 **In Favour:**
----
+
+[[PAGE_END:3]]
+
 Councillors Butler, Egan, Galvin, Hartigan, Keary, Kiely, Mitchell, Murphy, Novak Uí Chonchúir,
 
 O’Donovan, O’Sullivan, Sheahan (J), Sheahan (M), Teskey **(14)**
@@ -250,7 +257,9 @@ the Patrickswell Local Area Plan is made inclusive of Site No. 17 of the Settlem
 provided in the Material Alterations report at Ballyhanrahan East, to provide a ‘Serviced Sites’ zoning
 
 on the subject lands.”
----
+
+[[PAGE_END:4]]
+
 This concluded the meeting.
 
 Signed:
@@ -262,4 +271,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

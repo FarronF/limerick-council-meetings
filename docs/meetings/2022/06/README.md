@@ -1,3 +1,7 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2022 — 06 - June
 
 * [02 Special Meeting Of Limerick City And County Council](02-Special Meeting of Limerick City and County Council/README.md)
@@ -13,6 +17,7 @@
 * [20 Annual Meeting Of Metropolitan District Of Limerick](20-Annual Meeting of Metropolitan District of Limerick/README.md)
 * [20 Meeting Of The Economic Development, Enterprise And Planning Strategic Policy Committee](20-Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee/README.md)
 * [20 Monthly Meeting Of Metropolitan District Of Limerick](20-Monthly Meeting of Metropolitan District of Limerick/README.md)
+* [21 Meeting Of The Climate Action Biodiversity And Environment Strategic Policy Committee](21-Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee/README.md)
 * [23 Special Meeting Of Limerick City And County Council](23-Special Meeting of Limerick City and County Council/README.md)
 * [27 Meeting Of The Travel & Transportation Strategic Policy Committee](27-Meeting of the Travel & Transportation Strategic Policy Committee/README.md)
 * [28 Annual Meeting Of The Municipal District Of Adare Rathkeale](28-Annual Meeting of the Municipal District of Adare-Rathkeale/README.md)

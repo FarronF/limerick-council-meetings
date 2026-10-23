@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare-rathkeale_-_10th_february_2015.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 10th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_adare-rathkeale_-_10th_february_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AN fi ™ Cé na gCeannaithe,
-= Luimneach
+==> Luimneach
 
 . .
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and frais d Council
+CITY & COUNTY Limerick City and bracts d Council
 rchants Quay,
-COUNCIL rpiecorn
+COUNCIL Chance
 
 t: #353 (0) 61 407 100
 f: +353 (0) 61 415 266
-5t February, 2015. 7 /
+5t February, 2015. 7 ;
 
 To: The Ca i nd Each Member of the icipal
 Distri -Rathkeale
@@ -47,9 +48,9 @@ You are requested to attend a Meeting of the Municipal District of Adare-Rathkea
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 10'" February, 2015 at
 9.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is mise le aia
+Is mise le ae
 
-L.
+iL.
 
 Meetings Administrator.
 
@@ -65,14 +66,15 @@ To note proposal for the disposal of land at:
 * Proposed lease of land at Deer Park, Adare to Adare United AFC.
 * Proposed lease of derelict property at Main Street, Rathkeale
 (Report Enclosed)
-
 1 @ customerservices@limerick.ie
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vevewlimerick.te
-Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevew.limerick.te
+Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -140,7 +142,9 @@ Finance, Motor Tax and ICT
 General Municipal Allocation
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -199,7 +203,9 @@ discontinued the practice of issuing a licence to the Refuse Collectors for the 
 collecting refuse in a recognised plastic bag from apartments.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -220,4 +226,6 @@ the services of a parking attendant for Adare Village to prevent double parking 
 Road, the Blackabbey Road and at the roundabout adjacent to Lena's Public House.
 
 
----
+
+[[PAGE_END:4]]
+

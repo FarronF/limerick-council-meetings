@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20March%202016.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 21st March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AEN 4 Cé na gCeannaithe,
-——=>=> Luimneach
+—=>=> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
@@ -50,13 +51,13 @@ The business to be transacted is set out below.
 
 Is mise le meas,
 
-C&c Spe
+C&r Spe
 Christy O’Connor,
 Meetings Administrator.
 
 AGENDA
 
-1. Support Services Directorate
+4. Support Services Directorate
 Filling of Casual Vacancies
 
 To consider filling casual vacancy on the Council consequent on the election of
@@ -65,10 +66,12 @@ Councillor Maurice Quinlivan to Dail Eireann.
 (Report dated 4" March, 2016, already circulated)
 
 @ customerservices@limerick.le
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach & wwe limerick.ie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach @ vow limerick.ie
 w @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

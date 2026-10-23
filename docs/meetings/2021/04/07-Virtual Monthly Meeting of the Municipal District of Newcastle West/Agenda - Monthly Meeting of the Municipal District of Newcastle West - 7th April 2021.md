@@ -16,29 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-04-07-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-2021-04-07-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 wl Comhairle Cathrach
 & Contae Luimnigh
-aAaZ“™ I °———_—_—_——
+aAaZ“™ a °—e_—_—_—_—
 
-=> Limerick City
+— Limerick City
 & County Council
 
 To: The Cathaoirleach and Each Member of the Munici:
 
-Diliche Bardais an Chaisiedin Nua Thiar,
+Duliche Bardais an Chaisiedin Nua Thiar,
 Comnairle Cathwach agus Contae Luimnigh,
 Aras William Smith O'Bnen,
 
 Gortbul,
 
-An Caislean Nua Thar,
-
-Co. Luimnagh.
+Co, Luimnagh.
 
 Newcastle West Municipal District,
 Limerick City and County Council,
@@ -48,8 +47,6 @@ Aras William Smith O'Brien,
 Gortboy,
 
 Newcastle West,
-
-Co. Limerick
 
 Eircode: V42EH73
 
@@ -63,7 +60,6 @@ You are requested to attend an Online Meeting of the Municipal District of Newca
 to be held on Wednesday, 7™ April, 2021, at 10.00 a.m. The business to be transacted is set
 
 out on the appended Agenda.
-abl heceggrarl
 Meetings Administrator.
 
 AGENDA
@@ -96,14 +92,16 @@ for Cryle View, Abbeyfeale (b) the new Graveyard for Abbeyfeale (c) the programm
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Lutmneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
-= SS
-www timerick.te
+= ES
+www .timerick.te
 
-Y @limerickCouncil
+WY @limerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -159,7 +157,9 @@ away at the entrance to the Grove Road from the Hill Road on the right hand side
 to St. Ita’s Terrace in the interest of the Abbeyfeale Tidy Towns and crime safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -180,7 +180,7 @@ attachment to earnings, if applicable.
 
 Notice of Motion submitted by Councillor T. Ruddle
 
-twill move at the next Meeting that this Municipal District calls on the Government to
+| will move at the next Meeting that this Municipal District calls on the Government to
 pass legislation to allow cctv camera evidence to be used in Court proceedings to
 secure convictions for illegal dumping and littering.
 
@@ -197,4 +197,6 @@ installing traffic calming measures/signage at the approach to
 Dromcollogher/Broadford GAA grounds on the Regional Road at Dromcollogher.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-special-meeting-limerick-city-and-county-council-3rd-january-2025.pdf)
+**Original file:** [Minutes - Special Meeting Limerick City and County Council - 3rd January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-special-meeting-limerick-city-and-county-council-3rd-january-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF ONLINE SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ON FRIDAY, 03RD JANUARY, 2025, AT 4.00 P.M. IN ORDER
@@ -90,7 +91,9 @@ councillor. Even after some setbacks, Ger's determination saw him regain his sea
 showing just how much his constituents trusted and respected him. In 2007, Ger hit the
 
 peak of his political career when he was elected the 811th Mayor of Limerick, a role he
----
+
+[[PAGE_END:1]]
+
 2
 
 absolutely loved and called the highlight of his political life. But Ger wasn't just about
@@ -162,4 +165,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

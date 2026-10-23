@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda-13th-may-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 13th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/00-agenda-13th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+_—_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 ACN F ‘
@@ -30,14 +31,14 @@ Limerick City
 
 —— & County Council
 
-8 May, 2025.
+8" May, 2025.
 
 To:
 
 The Cathaoirleach and Each Member of the Munici
 
 Ceantar Bardasach Ath Dara-Réth Caoila,
-Comhairie Cathvach agus Contae Luimragh,
+Comhairie Cathvach agus Contae Luimrigh,
 Aras Séan Finn,
 
 Line Nua,
@@ -48,17 +49,17 @@ Co. Luimnigh
 
 Adare-Rathkesle Municipal District,
 Limerick City and County Council,
-Aras Sean Finn,
+Aras Sean Fenn,
 
 New Line,
 
 Rathkeale,
 
-Co. Limerick
+Co. Limerick.
 
 EIRCODE V94 HKLV
 
-t: #353 (0) 69 64047
+t: +353 (0) 69 64047
 f: +353 (0) 69 63188
 
 ct of Adare-Rathkeale
@@ -90,18 +91,20 @@ To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale
 
 Declaration of Interest
 
-Merchants Quay, Limerick,
+Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
 && customerservices@limerick.ie
-6 www. limerick.ie
+é www. limerick.ie
 @LimerickCouncil
 
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -109,7 +112,7 @@ To note proposal for the disposal of 0.0147 acres (0.0059 ha) of land at Ballyad
 Askeaton, Co. Limerick.
 (Report Enclosed).
 
-1?) tion from National School Parents Association
+oO tion from National School Parents Association
 To receive a Deputation from Croom National Schoo! Parents Association.
 
 (Item to be taken at 9.45 am).
@@ -142,7 +145,9 @@ anyone using an e-scooter or an e-bike in a public place should hold a valid the
 displays their knowledge on the rules of the road.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Notice of Motion submitted by Councillor A. Teskey
@@ -154,4 +159,6 @@ premises be offered now for use in the provision of Library Services in Askeaton
 11. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

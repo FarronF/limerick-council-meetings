@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-monthly-meeting-of-municipal-district-of-adare-rathkeale-12th-may-2026.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th May, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-monthly-meeting-of-municipal-district-of-adare-rathkeale-12th-may-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ as the two groups come together to resolve their differences was as follows:
 Councillor Collins, Keary and O’Donoghue **(3)**
 
 **Against the proposal:**
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Hartigan, Teskey and Ward **(3)**
@@ -150,7 +153,9 @@ in the village.
 • The scheduled works would not disrupt the busy tourist summer season in Adare
 
 Village.
----
+
+[[PAGE_END:2]]
+
 3
 
 The A/Senior Engineer, Ryder Cup advised there would be an element of disruption
@@ -224,7 +229,9 @@ was to include safety improvements at the junction, installation of a bus
 stop and improved lighting.
 
 • Footpath from Kildimo to the Beer Garden public house.
----
+
+[[PAGE_END:3]]
+
 4
 
 • Ballywilliam Estate, Rathkeale.
@@ -300,7 +307,9 @@ metre carriageway could extend to the three metre shared space. The Executive
 Engineer, Active Travel advised as there is a 50km speed limit on this carriageway the
 
 Active Travel Department are governed by recommended guidelines on road width. The
----
+
+[[PAGE_END:4]]
+
 5
 
 Director of Services also added that pedestrians and cyclists were identified as the most
@@ -372,7 +381,9 @@ agreed to allocate the following:
 • €2,000 to Croom Development Association
 
 • €500 to Askeaton/Ballysteen Active Retirement Group (from his 2025 allocation).
----
+
+[[PAGE_END:5]]
+
 6
 
 • €3,500 to Road Maintenance Adare-Rathkeale (from his 2025 allocation).
@@ -438,7 +449,9 @@ with representatives from Ballyneety Golf Club regarding works required
 throughout the village and works would be progressed for this event when
 
 funding is made available.
----
+
+[[PAGE_END:6]]
+
 7
 
 • Councillor O’Donoghue requested an update on the proposed bus stop for
@@ -506,4 +519,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

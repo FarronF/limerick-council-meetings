@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/02%20Minutes%20of%2016th%20June%20Municipal%20District%20of%20Cappamore-Kilmallock%20Meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/02%20Minutes%20of%2016th%20June%20Municipal%20District%20of%20Cappamore-Kilmallock%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -80,7 +81,9 @@ Tourism and Culture regarding the Wolfe Tone Apartments in Kilmallock. The Elect
 Members were advised that this was an item for discussion on the agenda and it was agreed
 
 to continue the discussion when the item arose.
----
+
+[[PAGE_END:1]]
+
 3. Disposal of Property
 
 The following disposal of properties were outlined:
@@ -140,7 +143,9 @@ It was also noted that, following the National CFRAM Flood Study, this site is l
 Flood Zone A location.
 
 It was noted that the Original planning permission would no longer apply.
----
+
+[[PAGE_END:2]]
+
 A portion of the Malachy Walsh report was read to the Elected Members, and it was noted
 
 that this was available for the Elected Members to view at any time by contacting the Senior
@@ -212,7 +217,9 @@ of the AGM.
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Mitchell.**
----
+
+[[PAGE_END:3]]
+
 NOTICES OF MOTION
 
 6.Notice of Motion submitted by Councillor Carey
@@ -274,7 +281,9 @@ Bewleys.
 **Proposed: Councillor Teefy**
 
 **Seconded: Councillor Donegan**
----
+
+[[PAGE_END:4]]
+
 8. Notice of Motion submitted by Councillor Donegan
 
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District calling on
@@ -348,7 +357,9 @@ prepared for the relevant funding authority.
 **Proposed: Councillor Mitchell**
 
 **Seconded: Councillor Egan**
----
+
+[[PAGE_END:5]]
+
 QUESTIONS
 
 11.
@@ -424,7 +435,9 @@ required for the crossing is put in place by the ESB. All materials and the nece
 Contractors to deliver the works have been procured so there will be no delay once power is
 
 available.
----
+
+[[PAGE_END:6]]
+
 15.
 
 Question submitted by Councillor Mitchell
@@ -492,7 +505,9 @@ on June 8th 2022
 It was noted that batteries were being stolen from Driver Feedback signs. It was agreed that
 
 this item would be included on the agenda for the Joint Policing Committee Meeting in July.
----
+
+[[PAGE_END:7]]
+
 Next Meeting
 
 The date for the next meeting of the Cappamore Kilmallock District was agreed by the
@@ -508,4 +523,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:8]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/agenda.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 21st September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
+ee
+
+aArN
+
 ——
-
-ar™N
-
-—
 
 Comhairle Cathrach
 & Contae Luimnigh
@@ -35,18 +36,18 @@ Limerick City
 
 13" September, 2018.
 
-Seirbhis{ Corpardideacha,
+Seirbhis{ Corpardideacha.
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathru Chorpardideach,
 
-Cé na gCeamnaithe.
+Cé na gCeamnaithe,
 
 Luimneach
 
 Corporate Services,
 
-Limerick City and County Courxil,
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -67,7 +68,7 @@ take place in T
 
 merick
 
-UJ rate Hea
+rate Hea
 
 Merchant's Quay, Limerick, on Friday, 21" September, 2018 at 10.00 a.m.
 
@@ -104,14 +105,16 @@ to have the sale and purchase legally recorded before possession of a vehicle is
 
 purchaser”.
 
-Pesan rie al yeas sa fl gp ar na
+See ee ees tree
 Merchants
 
 Corporate Headquarters,
 
 Quay, Limerick
 
-( 061 - 557150
+061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

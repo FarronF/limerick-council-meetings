@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/SPR-MS-0118012518090.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/SPR-MS-0118012518090.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _———_— Comhairle Cathrach
 & Contae Luimnigh
-NIN ——_——————
+NIN ——_——————S
 — Limerick City
 & County Council
 
@@ -46,10 +47,10 @@ Merchants Guay,
 
 Limerick
 
-EIRCODE V94 EH9O
+EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f: #353 (0) 61415 266
+f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -59,7 +60,7 @@ The Mayor, Councillor Stephen Keary, has called a Special Meeting of Limerick
 
 City and County Council to be held in the Council Chamber, Dooradoyle,
 
-Limerick, on Friday, 26 January, 2018, at 3pm in order to pass a Vote of
+Limerick, on Friday, 26" January, 2018, at 3pm in order to pass a Vote of
 
 Sympathy on the death of John Finucane, RIP, former Member and Chairman
 
@@ -67,7 +68,7 @@ of Limerick County Council.
 
 Is mise le meas,
 
-Alans of Codken \p
+Alans 9! Cohked Lp
 Tom O'Callaghan,
 Meetings Administrator.
 
@@ -75,4 +76,6 @@ Ceanncheathri: Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2028th%20September%202015.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 28th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2028th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Seubrisi Corparéideacha agus Bainistiock Athrulthe.
+Seubrusi Corparaideacha agus Baimistioct Athrulthe.
 Comhairie Cathrach agus Contae Luimnigh,
 
 APNG Cé na gCeannaithe.
-—=-> Luimneach
-Limerick ———
-CITY & COUNTY Limerick City and County Council
-COUNCIL ———
+—=> Luimneach
+Limerick ————————
+CITY & COUNTY Limerick City and County Councit
+COUNCIL a
 
-t: +553 (0) 61 407 100
+t +553 (0) 61 407 100
 f: #353 (0) 63 415 266
 
 23 September, 2015.
@@ -40,7 +41,7 @@ Council
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held
-in the Council Chamber, Dooradoyle, Limerick, on Monday, 28" September, 2015, at
+in the Council Chamber, Dooradoyle, Limerick, on Monday, 28” September, 2015, at
 3.00 p.m. The business to be transacted is set out on the appended Agenda.
 
 Roa Q
@@ -66,7 +67,9 @@ Statutory Notice dated 16" September, 2015, already
 circulated — Copy Enclosed, together with report)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Finance, Motor Tax and ICT
@@ -122,7 +125,9 @@ Sector on the Environment Strategic Policy Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -170,7 +175,9 @@ support the Limerick Privilege Card.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Conferences
@@ -211,7 +218,7 @@ Jockey, Co. Tipperary, from 4" to 6” September, 2015.
 Seminar “Government Re-think? on Districts Municipal / Borough /
 Metropolitan” held in Wexford from 11th to 13" September, 2015.
 
-Conference & Exhibition Food & Drink 2015 held in Dublin on 16"
+Conference & Exhibition Food & Drink 2015 held in Dublin on 16”
 September, 2015.
 
 Conference “Regulation of Lobbying Act, 2015,” held in Carlingford,
@@ -221,7 +228,7 @@ Conference “Mobile Marketing Tourist Destinations” to be held in
 Clonakilty, Co. Cork, from 25” to 27" September, 2015.
 
 Conference “Clusters as Drivers of Competitiveness,” to be held in
-Limerick on 30" September/1* October, 2015.
+Limerick on 30” September/1* October, 2015.
 
 CIF Annual Conference “Activity, Jobs and Solutions" to be held in
 Dublin on 1° October, 2015.
@@ -230,12 +237,12 @@ Conference “Planning and Leadership for inclusive mainstream public
 services to People with Disabilities,” to be held in Dublin on 12”
 October, 2015.
 
-Conference “Cannabis — Why not?” to be held Dublin on 16" October,
+Conference “Cannabis — Why not?” to be held Dublin on 16” October,
 2015.
 
 Seminar “Building & Control (Amendment) Regulations S.!. No.9-2014
-Single Dwellings and Domestic Extensions" to be held in Letterkenny,
-Co Donegal, from 23” to 25" October, 2015.
+Single Dwellings and Domestic Extensions” to be held in Letterkenny,
+Co Donegal, from 23” to 25"" October, 2015.
 
 Conference “Social Innovation: Improving Effectiveness and Efficiency
 in Public Service Delivery through Co-Design and Co-Creation,” to be
@@ -247,7 +254,9 @@ AOIFE Annual Conference to be held in Ballinasloe, Co Galway, on
 (Details already circulated electronically)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -291,7 +300,9 @@ the calls for a Referendum to completely delete the 8th Amendment from the
 Irish Constitution.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -343,7 +354,9 @@ the Government to restore in full the respite carer grant in the forthcoming
 budget.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -375,4 +388,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

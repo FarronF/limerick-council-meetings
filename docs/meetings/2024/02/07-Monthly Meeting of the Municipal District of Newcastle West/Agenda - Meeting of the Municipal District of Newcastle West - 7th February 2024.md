@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-7th-february-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 7th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-7th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach Duiche Bardais an Chaidedin Nus Tat
+a Comhairle Cathrach Duiche Bardais en Cheidedin Nus Tat
 & Contae Luimnigh Comhairle Catlvach agus Contae Luimni
-PP OO  —— Aras William Smith O'Brien,
+PP Aras William Smith O'Brien,
 
-Sartbul,
+Gertbul,
 
-—— Limerick City An Caisiedn Nua Thiar,
+— Limerick City An Caisiedn Nua Thiar,
 
 & County Council Co. Luimnigh.
 
@@ -44,7 +45,7 @@ Eircode: V42EH73
 
 2"? February, 2024 t: +353 (0) 69 62100
 
-To: The Cathaoirleach and Each Member of the Municipal District of New w
+To: The Cathaoirleach and Each Member of the Municipal District of New: w
 
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
@@ -53,7 +54,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 7" Febr
 2024, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 | Is mise | as,
-Medd (eM
+Meddl (eM
 
 Meetings Administrator.
 
@@ -82,7 +83,9 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -93,7 +96,7 @@ Planning, Environment and Place-Making Directorate
 
 To consider the Chief Executive’s Report pursuant to Section 179(3) of the Planning
 and Development Acts 2000 (as amended), and Part 8 of the Planning and
-Development Regulations 2001 (as amended), in respect of the proposed Part VIII
+Development Regulations 2001 (as amended), in respect of the proposed Part VII!
 Housing Scheme at Radharc Na Ghleanna, Mountcollins, Co. Limerick.
 
 (Report Enclosed)
@@ -135,7 +138,9 @@ Questions submitted by Councillor F, Foley
 at Lyons Cross, Kilmorna Road, Abbeyfeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -198,4 +203,6 @@ Newcastle West be brought in line with the rate which applies to residents of
 Limerick City.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28b%29%20Minutes%20Special%20Meeting%20051118.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 5th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28b%29%20Minutes%20Special%20Meeting%20051118.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HED IN THE COUNCIL CHAMBER,
@@ -74,7 +75,9 @@ the Bruff Electoral Area in the Local Elections of 1999. Leonard Enright was ret
 Limerick County Council in June 2004. He contested the 2009 Local Elections, this time in the
 
 newly named and redrawn Adare Electoral Area, and was again returned to the Council.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Members thanked the Mayor for calling the Special Meeting. The Members spoke of
@@ -118,4 +121,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

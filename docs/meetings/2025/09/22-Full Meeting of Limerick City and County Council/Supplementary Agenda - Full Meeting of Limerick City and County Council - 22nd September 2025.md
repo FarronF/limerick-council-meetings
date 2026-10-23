@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/supplementary-agenda-council-meeting-22.09.2025.pdf)
+**Original file:** [Supplementary Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/supplementary-agenda-council-meeting-22.09.2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a“ Comhairle Cathrach
+“ie Comhairle Cathrach
 & Contae Luimnigh
-ans a _———
+arms fr S _———
 
 — Limerick City
 & County Council
 
 19" September, 2025.
 
-Seibhisi Corparaideacha
+Serbhisi Corparaideacha.
 
-Comnairie Cathwach agus Contae Luinngh,
+Comnairie Cathwach agus Contae Luimnigh,
 Ceanncheathna Chorpardidesch,
 
 Cé na gCeannaithe,
@@ -41,13 +42,13 @@ Luimneach
 
 Corporate Services,
 
-Limenck City and County Council.
+Limerick City and County Council.
 Corporate Headquarters,
 Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EHS9O
+EIRCODE V94 EH9O
 
 t: +353 (0) 61 557150
 f: +353 (0) 61415 266
@@ -71,13 +72,15 @@ Is mise le meas,
 Ciara Farrell,
 Meetings Administrator.
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-qm customerservices@limerick.ie
-© weew limerick.
+m Customerservices@limerick.ie
+© wrew limerick.
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

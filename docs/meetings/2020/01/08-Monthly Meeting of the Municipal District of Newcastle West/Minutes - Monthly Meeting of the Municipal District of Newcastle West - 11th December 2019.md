@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%202019-12-11%20Minutes%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 11th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%202019-12-11%20Minutes%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -102,7 +103,9 @@ Project Ireland 2040 National Development Plan were also discussed
 In replying, the Director, Community Development, stated that he had liaised with the
 
 Housing Development Directorate and an application had been re-submitted to the
----
+
+[[PAGE_END:1]]
+
 2
 
 Department of Housing, Planning and Local Government for the construction of social housing
@@ -182,7 +185,9 @@ sanctioned by the Department of Housing, Planning and Local Government and it wa
 that a number of these houses had now been refurbished and let. An update was also
 
 requested on refurbishment works for No. 69 Castleview Estate, Newcastle West.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -262,7 +267,9 @@ It should be noted that illegal parking at the estate is a Garda
 enforcement issue. Additionally there is evidence of inappropriate
 
 vehicles parking in this residential area.
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Galvin referred to the current parking layout at Collins Park, Abbeyfeale and stated
@@ -354,7 +361,9 @@ owners.
 **(ii)**
 
 Limerick City and County Council have agreed to purchase units 11 and
----
+
+[[PAGE_END:4]]
+
 5
 
 12 Cois Na Feile. A Section 8(2) Notice under the Derelict Sites Act has
@@ -436,7 +445,9 @@ Churchtown, Newcastle West towards the railway bridge where connectivity is inad
 In replying, the Senior Executive Engineer confirmed that the provision of footpaths in this
 
 area will require land acquisition and consultation will take place with local landowners.
----
+
+[[PAGE_END:5]]
+
 6
 
 13.
@@ -510,7 +521,9 @@ In proposing the Motion, Councillor Scanlan requested that grave spaces be provi
 subject to availability in active cemeteries with the Newcastle West Municipal District.
 
 The Motion was seconded by Councillor Foley.
----
+
+[[PAGE_END:6]]
+
 7
 
 A brief discussion followed and the Director stated that Limerick City and County Council are
@@ -584,7 +597,9 @@ amenity.
  Whether the gate is normally in an open or closed position.
 
  Is the gate required to restrict access to the public roadway by livestock.
----
+
+[[PAGE_END:7]]
+
 8
 
 19. Notice of Motion submitted by Councillor J. Sheahan
@@ -652,7 +667,9 @@ with a view to taking in charge of the laneway in the New Year.
 An update on the provision of a site for a new graveyard in Abbeyfeale was requested and
 
 the Director stated that the matter is progressing.
----
+
+[[PAGE_END:8]]
+
 9
 
 Discussion also took place on Lee’s Cross junction and the Senior Executive Engineer noted
@@ -680,4 +697,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

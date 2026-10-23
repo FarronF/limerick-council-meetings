@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-17th-November-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 17th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-17th-November-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach
+we Comhairle Cathrach
 & Contae Luimnigh
-RPO ——=EE————
+RB ——EEE————
 
-—— Limerick City
+— Limerick City
 & County Council
 
 15" November, 2023.
@@ -33,7 +34,7 @@ RPO ——=EE————
 Seirbhisi Corpardkieachs,
 
 Comivairie Cathrach agus Contae Luimnigh,
-Ceanncheathnié Chorpardidesch,
+Ceanncheathné Chorpardidesch,
 
 Cé na gCeannaithe,
 
@@ -47,7 +48,7 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V94 EH9O
+EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -57,26 +58,28 @@ To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
 The Mayor of the City and County of Limerick, Councillor Gerald Mitchell, has called a Special
-Meeting of Limerick City and County Council to be held in the Council Chamber, Dooradoyle,
+Meeting of Limerick City and County Council to be held in the Coundl Chamber, Dooradoyle,
 and Online, on Friday, 17 November, 2023, at 9.30 a.m.., in order to pass a Vote of Sympathy
 on the passing of John O’Brien, RIP, father of Councillor Emmett O’Brien.
 
 Is mise le meas,
 
-a
+ae
 
-a _—
+DP _—
 
-we
-= oe
+>
+Pea ie i oe
 
 Meetings Administrator. - _,
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-© wvewetimerickie
-(061 - 87150
+© wwevetimerickie
+(061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

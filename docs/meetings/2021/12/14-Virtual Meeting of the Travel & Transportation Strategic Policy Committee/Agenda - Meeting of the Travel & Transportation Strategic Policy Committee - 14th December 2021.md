@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/agenda-travel-transportation-spc-meeting-14.12.21.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/agenda-travel-transportation-spc-meeting-14.12.21.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **3rd December, 2021**
@@ -49,7 +50,9 @@ Committee, **to be held by MS Teams Video Conference**, on Tuesday 14th December
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -67,4 +70,6 @@ Strategic Policy Committee held on the 19th October, 2021.
 **4.Park Magic Disabled Parking App (Brian Kennedy)**
 
 **5.Connecting Ireland** **–** **Rural Mobility Plan (Peter Williams)**
----
+
+[[PAGE_END:2]]
+

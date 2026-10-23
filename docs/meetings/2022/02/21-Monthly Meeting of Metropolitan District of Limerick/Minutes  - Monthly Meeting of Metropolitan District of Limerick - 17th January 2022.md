@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-draft-minutes-monthly-meeting-17th-january-2022.pdf)
+**Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 17th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-draft-minutes-monthly-meeting-17th-january-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ONLINE ON MONDAY, 17TH** **JANUARY, 2022 at 09:45 A.M.**
@@ -80,7 +81,9 @@ And Resolved:
 “That the draft Minutes, as circulated, with amendment outlined above, be taken as read and
 
 adopted and signed.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Disposal of Land**
@@ -158,7 +161,9 @@ We will continue to monitor the ground conditions on an ongoing basis.
 Consideration will be given to the installation of a pedestrian crossing as requested subject
 
 to funding being made available.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -240,7 +245,9 @@ collectors advising that “*no time limit applies for the collection of househo
 ***bonds can be used towards the cost of erecting a noise reducing fencing in these areas until TII***
 
 ***undertake the Pilot Acoustic Mitigation Project.***
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY**: Noise assessments were not undertaken for some of the earlier housing estates in the
@@ -328,7 +335,9 @@ initial volume study for affordable housing on the site. The archaeological repo
 used to adjust/verify the volume study which will also look at suggestions for how best to
 
 integrate the findings, and the city wall, into any future project and urban realm proposal
----
+
+[[PAGE_END:4]]
+
 5
 
 for the area. The LCCC team is currently reviewing the viability of affordable homes in this
@@ -540,7 +549,9 @@ Park Road
 20
 
 Medium to long term objective
----
+
+[[PAGE_END:5]]
+
 6
 
 Depot
@@ -750,7 +761,9 @@ Medium to long term objective
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what, if any, properties do***
 
 ***the Council own in Grove Island.***
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY**: The building, which currently accommodates the Grove Island Leisure Centre and a number
@@ -822,7 +835,9 @@ contracts procured in 2021.
 The projects that included the Social Clause are as follows:
 
  Cliona Park Phase 3;
----
+
+[[PAGE_END:7]]
+
 8
 
  Churchfield Phase 2;
@@ -902,7 +917,9 @@ has been some success in removing bins from laneways through this engagement.
 The Council will continue to work on a cross-departmental basis to enhance the city centre,
 
 including working with property owners to apply proactive solutions to waste receptacles
----
+
+[[PAGE_END:8]]
+
 9
 
 in the City Centre.
@@ -928,4 +945,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

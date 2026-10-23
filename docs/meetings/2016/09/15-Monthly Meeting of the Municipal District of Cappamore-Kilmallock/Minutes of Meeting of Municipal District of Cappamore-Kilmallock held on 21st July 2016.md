@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-09</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_210716.pdf)
+**Original file:** [Minutes of Meeting of Municipal District of Cappamore-Kilmallock held on 21st July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_210716.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-
@@ -73,7 +74,9 @@ issues raised would be examined further with a view to the finalisation of a dra
 consideration by the Council.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4, Adoption of Minutes
@@ -123,7 +126,9 @@ Members thanked Mr. Macken for his presentation and commended his team for their
 and commitment to the community.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3(b) Mid West National Road Design Office
@@ -164,7 +169,7 @@ areas and it was agreed to write to network providers in this regard.
 The following items were raised at the completion of the Agenda:
 
 The Cathaoirleach stated he would be part of a delegation to Transportation Infrastructure
-Ireland (TIl). It was agreed that improvement works to N20 O’Rourke’s Cross and N24 Beary’s
+Ireland (Tli). It was agreed that improvement works to N20 O’Rourke’s Cross and N24 Beary’s
 Cross would be the projects presented from the District.
 
 The Cathaoirleach stated that he had received a request from the Mayor for a contribution
@@ -174,7 +179,9 @@ contribution could not be made on this occasion as all monies had been allocated
 The Cathaoirleach wished the Members and Staff well for the holiday period.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 This concluded the Meeting.
@@ -185,4 +192,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:4]]
+

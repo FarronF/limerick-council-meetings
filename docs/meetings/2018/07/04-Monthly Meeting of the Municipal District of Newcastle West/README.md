@@ -26,7 +26,7 @@ Files:
 
 Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%202018-07-04%20Agenda.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20July%C2%A02018.md)
 
-Supplementary Item_ Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Supplementary%20Item%20Municipal%20District%20of%20Newcastle%20West%20Agenda%20v2.pdf) - [Extracted text](./Supplementary%20Item_%20Agenda%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20July%202018.md)
+Supplementary Item: Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Supplementary%20Item%20Municipal%20District%20of%20Newcastle%20West%20Agenda%20v2.pdf) - [Extracted text](./Supplementary%20Item_%20Agenda%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20July%202018.md)
 
 Minutes - Monthly Meeting of the Municipal District of Newcastle West - 15th June 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%202018-06-15%20Minutes%20June.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%C2%A0June%202018.md)
 
@@ -38,7 +38,7 @@ Report on Proposed Publication Draft Waste Presentation Bye-Laws 2018 - Monthly 
 
 Draft Waste Presentation Bye Laws 2018 - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/03%20%28iii%29%20Draft%20Waste%20Presentation%20Bye%20Laws%202018.pdf) - Text not extracted
 
-Cover Sheet_ Report on the Draft Municipal District of Newcastle West (Parking Places) (Amendment) Bye-Laws 2018 - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/13%20%28i%29%20Cover%20Sheet%20report%20-%20Draft%20Municipal%20District%20of%20Newcastle%20West%20Parking%20Places%20Amendment%20Bye%20Laws%202018.pdf) - Text not extracted
+Cover Sheet: Report on the Draft Municipal District of Newcastle West (Parking Places) (Amendment) Bye-Laws 2018 - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/13%20%28i%29%20Cover%20Sheet%20report%20-%20Draft%20Municipal%20District%20of%20Newcastle%20West%20Parking%20Places%20Amendment%20Bye%20Laws%202018.pdf) - Text not extracted
 
 Draft Municipal District of Newcastle West (Parking Places) (Amendment) Bye-Laws 2018 - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/13%20%28ii%29%20Draft%20Municipal%20District%20of%20Newcastle%20West%20%28Parking%20Places%29%28Amendment%29%20Bye-Laws%202018.pdf) - Text not extracted
 

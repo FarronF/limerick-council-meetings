@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%20Draft%20Minutes%20Special%20Meeting%2010th%20November%202022.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Metropolitan District of Limerick - 10th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%20Draft%20Minutes%20Special%20Meeting%2010th%20November%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD ON THURSDAY, 10TH** **NOVEMBER, 2022 AT 12 NOON IN THE COUNCIL CHAMBER,**
@@ -98,7 +99,9 @@ Sarsfield House to be included in plans. Other Members looked for details on the
 proposed pedestrian bridges and queried if the Condell Road area was included in the Cleeves
 
 project.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director, Planning, Environment and Place-Making and Senior Executive Engineer, Place-
@@ -176,7 +179,9 @@ this proposal.
 Members complimented the business owners in Foxes Bow on the work carried out in the area,
 
 and acknowledged the assistance given to them by the Council.
----
+
+[[PAGE_END:2]]
+
 3
 
 **King’s Island Walled Town – Nicholas Street Rejuvenation Works**
@@ -256,7 +261,9 @@ together with Members and other Departments to achieve this.
 The Director, Planning, Environment and Place-Making gave a PowerPoint Presentation on the High
 
 Street and Milk Market area. She outlined details of the provisional funding allocation of €6.325m
----
+
+[[PAGE_END:3]]
+
 4
 
 from the URDF, and pointed out work that had been carried out to date, including engagement with
@@ -294,4 +301,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

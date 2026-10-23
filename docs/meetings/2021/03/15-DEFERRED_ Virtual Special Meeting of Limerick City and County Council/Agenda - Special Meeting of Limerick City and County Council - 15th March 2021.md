@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-meeting-15.03.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 15th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-meeting-15.03.2021.pdf)
 
----
+[[FILE_START]]
+
 10th March, 2021.
 
 **To: The Mayor and Each Member of Limerick City and County Council**
@@ -40,7 +41,9 @@ Ireland branches in Limerick.
 **James Clune,**
 
 **Meetings Administrator.**
----
+
+[[PAGE_END:1]]
+
 We request a Special Meeting of Limerick City and County Council to discuss
 
 the following Motion –
@@ -68,4 +71,6 @@ Councillor P.J. Carey.
 Councillor F. Daly.
 
 Councillor J. O’Donoghue.
----
+
+[[PAGE_END:2]]
+

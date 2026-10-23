@@ -16,34 +16,35 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-13th-april-2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare - Rathkeale - 13th April 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-13th-april-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia
-& Contae Luimnigh Comhaite Cathrach agus Contac Luimugh
+& Contae Luimnigh Combhaite Cathrach agus Contac Luimigh
 
-? Aras Séan Finn
-a“s f ‘ Line Nua.
-— Limerick City Rath Caola
+. Aras Séan Finn,
+a“ f ‘ Line Nua.
+= Limerick City Rath Caola
 
 & County Council Co. Luimnigh
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Couneil,
-Aras Sean Finn,
+Aras Sean Pinn,
 
 New Line,
 Rathkeale,
 Co. Limerick
-th A
+th .
 
-8" April, 2021. EIRCODE V94 Hiv
-¢: +383 (0) 69 64047
+8” April, 2021. EIRCODE V94 HKLV
+¢: +353 (0) 69 64047
 f: +353 (0) 69 63188
 
-To: e :
+To: : ;
 
 A Chomhairleoir, a chara,
 
@@ -58,7 +59,7 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) Monthly Online Meeting of the Municipal District of Adare-Rathkeale held on 9* March,
+(a) Monthly Online Meeting of the Municipal District of Adare-Rathkeale held on 9% March,
 2021.
 
 (b) Special Online Meeting of the Municipal District of Adare-Rathkeale held on 23" March,
@@ -66,7 +67,7 @@ To adopt Minutes of the following Meetings:
 2021.
 (Copies Enclosed).
 2. Operations and Maintenance Services
-District Engi R ,
+District Engi R .
 To update Members on issues of interest in the District.
 (Report Enclosed).
 ® customerservices@limerick.ie
@@ -76,7 +77,9 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 \ 061-586 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Design and Delivery Services
@@ -104,4 +107,6 @@ Correpsondence
 A.0.B.
 
 
----
+
+[[PAGE_END:2]]
+

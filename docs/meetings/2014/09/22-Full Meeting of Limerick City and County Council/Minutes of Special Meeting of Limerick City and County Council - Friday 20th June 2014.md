@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/8%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_friday_20th_june_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick City and County Council - Friday 20th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/8%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_friday_20th_june_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
@@ -65,7 +66,9 @@ Seconded by Councillor Galvin;
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That, the Abbeyfeale Local Area Plan 2014-2020 be made in accordance
@@ -98,7 +101,7 @@ and agreed.
 and extend the existing Plan
 
 Circulated, report of the A/Director of Economic Development and Planning
-dated 29" May, 2014, enclosing copy of the Manager’s Report dated May 2014 on
+dated 29” May, 2014, enclosing copy of the Manager’s Report dated May 2014 on
 the proposal to extend the life of the Kilmallock Local Area Plan 2009-2015.
 
 Proposed by Councillor Donegan;
@@ -112,14 +115,16 @@ under Section 20(3)(a)i) and defer publishing a Notice under Section 20(3)(a)(ii
 Kilmallock Local Area Plan 2009-2015 for a further period of 5 years.”
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. rral Notices to make a new L 1 Ai Plan for Castletro
 and extend the existing Plan
 
 Circulated, report of the Director of Economic Development and Planning
-dated 11” June, 2014, enclosing copy of the Chief Executive's Report dated 11
+dated 11" June, 2014, enclosing copy of the Chief Executive's Report dated 11
 June, 2014, on the proposal to extend the life of the Castletroy Local Area Plan
 
 2009-2015.
@@ -158,9 +163,13 @@ An Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

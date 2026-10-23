@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%28b%29%20Minutes%20Special%20Meeting%207th%20June%202018.pdf)
+**Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 7th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%28b%29%20Minutes%20Special%20Meeting%207th%20June%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE EXHIBITION SPACE, MERCHANT’S QUAY, LIMERICK, ON**
@@ -76,7 +77,9 @@ representative who represented his own community very well and was a passionate
 campaigner for senior citizen’s rights. Members specifically remembered his love for
 
 his family, the community and the trade union movement. His involvement in the
----
+
+[[PAGE_END:1]]
+
 2
 
 Senior Citizens Parliament was also remembered.
@@ -108,4 +111,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%202018-12-05%20Mins%20JPC%20Subcommittee.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 5th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%202018-12-05%20Mins%20JPC%20Subcommittee.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ with over the past year including public order offences, criminal damage, road t
 accidents, drink and drugs, assaults, and thefts. He stated that there has been a 50% increase
 
 in the number of check points the Gardai have carried out. He also noted a number of
----
+
+[[PAGE_END:1]]
+
 2
 
 successful prosecutions and paid tribute to members of the public, witnesses and injured
@@ -174,4 +177,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

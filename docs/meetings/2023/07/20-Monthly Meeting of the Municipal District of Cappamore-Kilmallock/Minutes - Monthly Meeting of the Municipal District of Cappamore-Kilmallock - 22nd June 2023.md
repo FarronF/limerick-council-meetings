@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN ARAS
@@ -82,7 +83,9 @@ June Meeting of the Cappamore Kilmallock Municipal District.
 2. Matters Arising:
 
 There were no matters arising.
----
+
+[[PAGE_END:1]]
+
 3. Deputation by Garrienderk Community
 
 Circulated: Presentation by Garrienderk Community on the request for footpath works in
@@ -154,7 +157,9 @@ landowners and community. This suggestion was supported by all Elected members.
 Finally An Cathoirleach, on behalf of the Elected Members made clear that antisocial
 
 behavior would not be tolerated.
----
+
+[[PAGE_END:2]]
+
 A time frame as follows was agreed – an update would be provided where appropriate at
 
 the July meeting, and the Executive would aim towards having a mediator appointed by
@@ -204,7 +209,9 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District fo
 on the Stone Mansion House, Kilmallock, when the Part8 procedure would commence and
 
 an update on the application under the Fáilte lreland Large Capital Grant Scheme.
----
+
+[[PAGE_END:3]]
+
 **REPLY:**
 
 The arrangement remains that Limerick City & County Council will work in partnership with
@@ -268,7 +275,9 @@ District. However, the Council are developing cremation plots in the new cemetar
 are currently being developed. There are thirty four cremation plots being provided as part
 
 of the newly developed burial ground extension in Ballylanders, each capable of
----
+
+[[PAGE_END:4]]
+
 accommodating multiple cremated remains and where feasible, within existing burial
 
 grounds in order to facilitate the growing demand for the internment of ashes.
@@ -316,4 +325,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202015.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 20th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 APNG Cé na gCeannaithe,
@@ -29,7 +30,6 @@ APNG Cé na gCeannaithe,
 . = Luimneach
 Limeri ck Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
-COUNCIL Merchants Quay,
 Limerick
 
 15" July, 2015. t: +353 (0) 61 407 100
@@ -47,37 +47,39 @@ in the Council Chamber, Merchant's Quay, Limerick, on Monday, 20" July, 2015 at
 
 Is mise le meas,
 
-3 Q—
+23 QG—
 
 Christy O’Connor,
 Meetings Administrator.
 
 AGENDA
 
-eee e eee ec een nese
+eae eee ec enn nnee
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Meeting of the Metropolitan District of Limerick held on 15th June, 2015.
-(b) Annual Meeting of the Metropolitan District of Limerick held on 19" June,
+(b) | Annual Meeting of the Metropolitan District of Limerick held on 19" June,
 2015.
 
 (Copies Enclosed).
 
 2. Community, Leisure and Emergency Services
 
-To consider Report on 69 O'Connell St (690CS) -A report on the next steps for
-the City's Arts, Culture and Community Resource Centre.
+To consider Report on 69 O'Connell St (690CS) - A report on the next steps for
+the City’s Arts, Culture and Community Resource Centre.
 
 (Report Enclosed).
 
 @ customerservices@limerickic
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach  wwwlimerickie
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Ceanncheathrui Chorparaideach, Cé na gCeannaithe, Luimneach  wwwilimerickie
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -116,7 +118,7 @@ Travel and Transportation
 
 Part 8 Procedure — Mungret Environs Roadworks
 
-To consider the Chief Executive's Report, prepared pursuant to Section 179 3(a)
+To consider the Chief Executive’s Report, prepared pursuant to Section 179 3(a)
 of the Planning and Development Act 2000-2014, and Part 8 of the Planning and
 Development Regulations, 2001-2013, in relation to Mungret Environs
 Roadworks.
@@ -128,7 +130,9 @@ Home and Social Development
 To receive Presentation from Respond Housing Association.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -180,7 +184,9 @@ divert those resources and staff to replacing all lead piping. The costs of this
 programme should be paid for by the state, as in Ballynanty and Kileely.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -241,7 +247,9 @@ suitable site for a community centre for Raheen, Dooradoyle, Mungret and
 surrounding areas.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -289,4 +297,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

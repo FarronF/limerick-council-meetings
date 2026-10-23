@@ -16,40 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%2017th%20July%202017.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 17th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/00%20Agenda%2017th%20July%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-y
-
-_—_——" Comhairle Cathrach
-& Contae Luimnigh
-a a ‘ :
-—— Limerick City
-
-& County Council
-
-12" july, 2017.
+Po
 
 Seirbhisi Corparaideacha,
 
-Comhairle Cathrach agus Cormtae Luimnigh,
-Ceanncheathru Chorparaideach,
-
-Cé na gCeannaithe,
-
-Lummeach
-
+Comhairle Cathrach ; ;
+_—— & Contae Luimnigh alia erste epee
+NEN P F : Cé na gCeannaithe.
+— Limerick City Luimneach
+& County Council
 Corporate Services.
-
 Limerick City and County Council,
 Corporate Headquarters.
-
 Mercharys Quay,
 Limerick
 
+12" july, 2017.
 EIRCODE V94 EH90
+
 t: +353 (0) 61 557150
 
 To: The Mayor and each Member of the Metropolitan District of Limerick f: +353 (0) 61 415 266
@@ -57,15 +47,13 @@ To: The Mayor and each Member of the Metropolitan District of Limerick f: +353 (
 A Chombhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Merchant’s Quay, Limerick on Monday, 17" July, 2017 at 9.45 a.m. The business
 
+Council Chamber, Merchant’s Quay, Limerick on Monday, 17" July, 2017 at 9.45 a.m. The business
 to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-= —-»
-
-. y y Car Feb —
+. y 2 Car Fete ~—
 Tom O'Callaghan,
 Administrative Officer,
 Corporate Services.
@@ -73,36 +61,29 @@ Corporate Services.
 AGENDA
 
 1. Minutes
-
 To adopt Minutes of the following Meetings:
 
 (a) Meeting of the Metropolitan District of Limerick held on 19" June, 2017.
 (b) Annual Meeting of the Metropolitan District of Limerick held on 23” June, 2017.
 
-2. Disposal of Land
-
-To note proposal for the disposal of land as follows:
-
 (Copies Enclosed).
 
-Disposal of 16-19 Henry Street (The Gardens International Site) to Limerick Twenty Thirty
+2. Disposal of Land
+To note proposal for the disposal of land as follows:
 
+Disposal of 16-19 Henry Street (The Gardens International Site) to Limerick Twenty Thirty
 Strategic Development Designated Activity Company.
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchants Quay, Limerick
-
 (Report Enclosed).
-
 @ customerservices@limerick.ie
-@ wen limerickie
-
-w @LimerickCouncil
-
-( 061 - 557150
+© vow limerick.ie
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -110,7 +91,7 @@ w @LimerickCouncil
 (b)
 
 2
-Cc mer i Iture and Arts Dir ti
+Ci mer i Iture and Arts Dir t
 GMA Festivals and Events Grant Scheme
 To consider recommendations from Evaluation Panel on GMA Festivals and Events.
 
@@ -152,7 +133,9 @@ current spend so far this year on horse control, the number of horses seized, th
 reclaimed, and the number put down.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -209,7 +192,9 @@ of Bryan Whelan and T. J Herlihy, who died tragically while restoring Thomond Br
 the 29th of August 2015.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -222,7 +207,7 @@ the 29th of August 2015.
 
 Notice of Motion submitted by Councillor E. Hogan
 
-twill call at the next meeting for the Council to remove the bus lane on Ballinacurra. It has
+I will call at the next meeting for the Council to remove the bus lane on Ballinacurra. It has
 made driving on Ballinacurra very dangerous. Residents of the area are complaining about
 the fact that is virtually impossible to reverse their cars into their gardens. Also residents on
 Lifford Avenue and Omega Avenue find it extremely difficult and dangerous to access
@@ -241,4 +226,6 @@ To receive Presentation from SIRO, a joint venture between the ESB and Vodafone,
 deployment of high speed broadband in the city.
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%2018th%20May%2C%202015.pdf)
+**Original file:** [Minutes of Meeting - 18th May, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%2018th%20May%2C%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ Corporate Services
 On the proposal of Councillor Collins and seconded by Councillor Leddin it was agreed
 
 that the Annual Meeting should be held on 19th June, 2015.
----
+
+[[PAGE_END:1]]
+
 On the proposal of Councillor O’Hanlon and seconded by Councillor Collins it was
 
 agreed that the Annual Meeting should be held at 7.00 p.m.
@@ -184,7 +187,9 @@ Planning and Development Regulations 2001 – 2013 and set out details of the pr
 development at Park Canal Bridge / Park Road. It was proposed to proceed in
 
 accordance with the Chief Executive’s Report.
----
+
+[[PAGE_END:2]]
+
 Members welcomed the proposed development and noted that issues, that had been
 
 raised at the start of the process, had been resolved through consultation with local
@@ -270,7 +275,9 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 ***I will move at the next Metropolitan meeting that the council undertake a review of***
 
 ***the properties on the approach to Limerick City Centre via the Dock Road with***
----
+
+[[PAGE_END:3]]
+
 ***regard to improving the unsightly appearance of this roadway.***
 
 In proposing the motion, Councillor McCreesh highlighted the condition of some of the
@@ -354,7 +361,9 @@ The motion was proposed by Councillor Prendiville and seconded by Councillor Lof
 Members supporting the motion spoke of the stress that water charges place on the
 
 most vulnerable and how water charges will result in students having to pay increased
----
+
+[[PAGE_END:4]]
+
 deposits for accommodation. Members also pointed out that the sums to be collected
 
 now will be inadequate to fund Irish Water and had the set up costs for Irish Water been
@@ -438,7 +447,9 @@ Notice of Motion submitted by Councillor Paul Keller
 **I will move at the next** **meeting that we write to Bus Eireann calling on them to**
 
 **relocate the following bus stops:**
----
+
+[[PAGE_END:5]]
+
 **1)**
 
 **Ballysimon Road - beside the Woodlawn Park entrance inward bound**
@@ -490,4 +501,6 @@ Natura Wetlands Report 1999 be provided at the next meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

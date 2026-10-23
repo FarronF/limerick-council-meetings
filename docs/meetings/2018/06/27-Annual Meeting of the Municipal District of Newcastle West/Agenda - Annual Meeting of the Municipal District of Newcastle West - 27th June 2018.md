@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-27%20Agenda%20Annual%20Meeting%20NCW.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 27th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%202018-06-27%20Agenda%20Annual%20Meeting%20NCW.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a
 
-ncN La
+nAcN La
 Limerick
 CITY & COUNTY
 COUNCIL
@@ -42,7 +43,7 @@ Co, Luimnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council,
-Aras William Smith O'Brien,
+Aras William Smith OBrien,
 
 Gortboy,
 Newcastle West,
@@ -63,7 +64,7 @@ Wednesday, 27" June, 2018, at 12.30 p.m. The business to be transacted is set ou
 appended Agenda.
 
 Is WA le meas, a
-Margare?Corbett,
+MargaretCorbett,
 
 Meetings Administrator.
 
@@ -77,9 +78,11 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 
 Corporate Headquarters, Merchants Quay, Limerick
 
-es customerservices@limerickie
+@ customerservices@limerickie
 oo wwew.imerickie
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

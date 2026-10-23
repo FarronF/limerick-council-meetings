@@ -16,89 +16,65 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-2022-04-06-agenda-april.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 6th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-2022-04-06-agenda-april.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-___ Comhairle Cathrach
-& Contae Luimnigh
-AoN
-- Limerick City
-= & County Council
+e_e_ Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+Comhairie Cathvach agus Contae Lutmnigh
+ArCN™ & Contae Luimnigh Aras William Smith O'Bnen.
 
-1* April, 2022
-
-Duiche Bardais an Chaisiedin Nua Thiar,
-Comhairie Cathrach agus Contae Lutmnigh
-Aras William Smith O'Bnen.
-
-Gortbui,
-
-An Caisteén Nua Thiar,
-
-Co. Luimnigh
-
-Newcastle West Murnvctpal District.
-Limenck City and County Council.
+, Gortbui,
+— Limerick City _ An Caisiedn Nua Thiar,
+& County Council Co Luimnigh
+Newcastle West Munvctpal District.
+Limerick City and Coumty Council.
 Aras William Smith O'Brien,
 Gortboy,
-
 Nevicastie West,
-
-Co Limerick
-
-Eircode: V42ZEH73
-
+Co. Lumerick.
+Eircode: V4ZEH73
+1* April, 2022
 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
-
 A Chomhairleoir, a chara,
-
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6% April, 2022,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6" April, 2022,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
-
 Is mise le meas,
-
 Martin Curran,
 Meetings Administrator.
-
 AGENDA
-
 1. Minutes
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on
-
-2" March, 2022.
+2™ March, 2022.
 
 (b) To adopt Minutes of Special Meeting of the Municipal District of Newcastle West
-on Distributor Roads for Newcastle West and Abbeyfeale held on 23 March,
 
+on Distributor Roads for Newcastle West and Abbeyfeale held on 23 March,
 2022.
 
-2. Disposal of Land
-
 (Copies Enclosed)
+2. Disposal of Land
 
 To note proposal for the disposal of property at 16 Hawthorn Drive, Newcastle West,
 
 Co. Limerick.
-
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchant's Quay, Limerick
-
 (Report Enclosed)
-
 & customerservices@limerick.ic
-© vewerlimerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wor limerick.ie
 
-@LimerickCouncil
+Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -144,14 +120,16 @@ Church) be fixed and put in working order again.
 Browne’s corner to the Church as it is in very bad condition.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
 
 17.
 
-Questions submitted by Councillor J. Scanian
+Questions submitted by Councillor J. Scanlan
 
 | will ask at the next Meeting for the number of One Off Houses built in the
 Newcastle West District/Municipality through the duration of our current County
@@ -183,4 +161,6 @@ locked at night time and reopened in the mornings.
 property being considered for disposal within our Municipal District.
 
 
----
+
+[[PAGE_END:3]]
+

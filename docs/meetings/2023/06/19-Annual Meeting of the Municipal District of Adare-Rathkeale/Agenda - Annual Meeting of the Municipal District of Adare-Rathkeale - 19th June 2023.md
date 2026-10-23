@@ -16,20 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Annual-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-June-2023.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 19th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/00-Agenda-Annual-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-19th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola
-& Contae Luimnigh Comnairle Cathvach agus Contae Luimnigh,
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola.
+& Contae Luimnigh Compnairle Cathvach agus Contae Luimnigh.
 
 Aras Séan Finn,
-
 NON 4 Line Nua,
-=—_ Limerick City : Raith Cacta,
-
-& County Council Co, Lsimnigh
+& County Council Co, Lstmnigh
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
@@ -66,15 +64,17 @@ Meetings Administrator.
 
 AGENDA
 
-FB To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to hold office
+i, To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to hold office
 until the next Annual Meeting or until a successor has been elected.
 
 2. To elect a Leas-Cathaoirleach of the Municipal District of Adare-Rathkeale to hold
 office until the next Annual Meeting or until a successor has been elected.
 
-@ customerservicesa@limerick.ie
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach © vewvalimerickie
+@ customerservicesa@limerick.le
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach © vewvalimerickie
 Corporate Headquarters, Merchants Quay, Limerick. a a ey
 
 
----
+
+[[PAGE_END:1]]
+

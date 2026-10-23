@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20Cultural%20SPC%203rd%20September%202018.pdf)
+**Original file:** [Agenda - Meeting of the Cultural SPC - 3rd September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20Cultural%20SPC%203rd%20September%202018.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**
@@ -92,7 +93,9 @@ Notice of Motion referred from Metropolitan District of Limerick
 **Notice of Motion submitted by Councillor D. Butler (to be referred to the Cultural**
 
 **Strategic Policy Committee)**
----
+
+[[PAGE_END:1]]
+
 I call at the next Meeting on Limerick City and County Council to develop an inventory
 
 of all Limerick's historical and artistic assets to ensure their preservation and to exploit
@@ -112,4 +115,6 @@ Any Other Business
 **Cathaoirleach**
 
 **Cultural SPC, Limerick City & County Council**
----
+
+[[PAGE_END:2]]
+

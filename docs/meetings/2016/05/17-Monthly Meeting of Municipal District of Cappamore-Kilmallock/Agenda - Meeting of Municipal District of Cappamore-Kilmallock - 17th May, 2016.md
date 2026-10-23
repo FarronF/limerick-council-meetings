@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20May%2C%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 17th May, 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20May%2C%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i
+ee
 
-Seirbhis( Corpardideacha agus Bainistiocht Athruithe,
+Seirbhis( Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-NF ‘ Cé na gCeannaithe,
-—=—==> Luimneach
-Limerick Corporate Services and Change Management.
-CITY & COUNTY Limerick City and — bea
+ANF : Cé na gCeannaithe,
+—== Luimneach
+Limerick Corporate Services and Change Management,
+CITY & COUNTY Limerick City and — ira
 rchan y.
 
-COUNCIL —
+COUNCIL aeee
 13" May, 2016. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
-To/ The Cathaoirleach and each Member of the Municipal District _of Cappamore-
+To/ The Cathaoirleach and each Member of the Municipal District_of Cappamore-
 
 Kilmallock
 
@@ -62,11 +63,11 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
-21" April, 2016.
+21* April, 2016.
 
 (Copy Enclosed).
 
-2. rvi ns Dir’ ri
+2. rvi ns Dir: ri
 
 To receive update from the Road Safety Education Officer on School Wardens and
 Traffic Calming at Primary Schools.
@@ -75,18 +76,20 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 & customerservices@limerick.ic
-& wewews limerick.te
-Ww @LimerickCouncil
+@ wewew limerick.te
+vw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Physical Development Directorate
 
 To receive update from Senior Executive Officer on Speed Limit Review.
 
-Social Development Dir.
+Social Development Directorate
 
 To note contributions under the Community Initiative Scheme 2016 for the District.
 
@@ -118,4 +121,6 @@ Notice of Motion submitted by Councillor G. Mitchell
 urgency.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20January%202016.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Setrbnisi Corparaideachs agus Bainistiocit Athrulthe
+Setrbnisi Corparaideachs agus Bainistioct Athrulthe
 Comnairie Cathrach agus Comae Luimnign
 
-AEN a Cé na gCeannaithe.
+ACNE Cé na gCeannaithe.
 —=_— Luimneach
 Limerick Comporate Serices and Change Hanegernant
 CITY & COUNTY Limerick City a
@@ -46,7 +47,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-CMS Ge
+Chu S Ge
 Christy O’Connor,
 Meetings Administrator.
 
@@ -57,7 +58,7 @@ To adopt Minutes of the following Meetings:
 
 (a) Budget Meeting of the Council held on 20" November, 2015.
 (b) Adjourned Budget Meeting of the Council held on 23° November, 2015.
-(c) Ordinary Meeting of the Council held on 23"? November, 2015.
+(c) Ordinary Meeting of the Council held on 23° November, 2015.
 
 (d) Special Meeting of the Council held on 8" January, 2016.
 (Copies Enclosed)
@@ -68,21 +69,23 @@ To consider proposal for the disposal of land at:
 
 (i) 1, Farranshone, Limerick City.
 {ii) 3, Flood Street, Pennywell, Limerick.
-(iii) 100 Glasgow Park, Limerick.
+(iii) | 100 Glasgow Park, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
 
-{iv)
+(iv)
 (v)
 
 36, Marian Avenue, Roxboro Road, Limerick.
 3, Lilac Court, Keyes Park, Southill, Limerick.
 
-(Statutory Notices dated 6'", 8", 12" and 14" January,
+(Statutory Notices dated 6", 8", 12" and 14” January,
 2016, already circulated)
 
 Support Services Directorate
@@ -130,7 +133,9 @@ on the resignation of Shane Clifford, Councillor:
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -193,7 +198,9 @@ Statement for the Year Ended 31st December, 2014.
 Year Ended 31" December 2014.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -247,7 +254,9 @@ March 2016.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -284,19 +293,21 @@ e ADAPT National Conference “The Changing Face of Domestic Abuse,” held in
 Limerick on 9" December, 2015.
 
 e Seminar “Local Government Policy: opportunities for local communities,”
-held in Edgeworthstown, Co. Longford, on 11/12" December, 2015.
+held in Edgeworthstown, Co. Longford, on 11"/12" December, 2015.
 
 © Conference “The Finance Act 2015,” held in Carlingford, Co. Louth, from 8" to
 10" January, 2016.
 
 e Conference “Housing Grants and Schemes,” to be held in Clonakilty, Co. Cork,
-from 22” to 24™ January, 2016.
+from 22™ to 24™ January, 2016.
 
 e Conference “Government's Construction 2020 Strategy — Local Government
 Housing Supply 2016,” to be held in Wexford, from 22™ to 24” January, 2016.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -317,7 +328,7 @@ e Forum “Demystifying EU Funding — Helping Organisations to Access the
 Cash,” to be held in Dublin on 11" February, 2016.
 
 e Conference “Integrated Roads and Planning Policy,” to be held in Galway on
-12/13" February, 2016.
+12"/13" February, 2016.
 
 e Conference “Regulation of Lobbying Act 2015 — Everything you need to
 know!,” to be held in Letterkenny, Co. Donegal, from 12" to 14" February,
@@ -326,10 +337,10 @@ know!,” to be held in Letterkenny, Co. Donegal, from 12" to 14" February,
 e 2 Days Microsoft Excel Workshop for Councillors to be held in Clonakilty, Co
 Cork, on 17/18" February, 2016.
 
-e 27" Colmcille Winter School “Democratic Government and its survival,” to be
-held in Letterkenny, Co. Donegal, on 26""/27" February, 2016.
+¢ 27" Colmcille Winter School “Democratic Government and its survival,” to be
+held in Letterkenny, Co. Donegal, on 26'"/27" February, 2016.
 
-¢ Forum “Demystifying EU Funding — Helping Organisations to Access the
+e Forum “Demystifying EU Funding — Helping Organisations to Access the
 Cash,” to be held in Waterford on 10" May, 2016.
 
 (Details already circulated electronically)
@@ -350,7 +361,9 @@ carried out so as to assess the risks or none of the operation of a Gasification
 Gortadroma.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -372,7 +385,7 @@ burial grounds in Limerick:
 (a) The total number of graves sold by burial ground in 2015, and the total
 amount raised by the Council;
 
-(b) | The total number of graves opened in 2015 by burial ground;
+(b) The total number of graves opened in 2015 by burial ground;
 
 (c) The total number of requests for approvals for headstones and surrounds
 submitted by cemetery to Limerick City and County Council in 2015;
@@ -391,7 +404,7 @@ and surrounds, and the total cost to the Council of same.
 
 Questions submitted by Councillor C. Prendiville
 
-I will ask at the next Meeting how many people presented as homeless in Limerick in
+| will ask at the next Meeting how many people presented as homeless in Limerick in
 2014 and 2015.
 
 1 will ask at the next meeting for a table of how many Council-owned houses
@@ -408,7 +421,9 @@ what was the total cost to the Council.
 pension would not be eligible for a bin waiver for this year.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -437,7 +452,7 @@ the Finance Department to put in place a payment plan that will clear the said s
 arrears.
 
 Notice of Motion submitted by Councillors Galvin, Browne,
-Collins (M), Foley, Scanlan, Sheahan (J)
+Collins (M), Foley, Scanian, Sheahan (J)
 
 We will move at the next Meeting that this Council call on the Government to
 introduce a Tax Incentive Scheme to encourage people to live in rural towns and
@@ -457,7 +472,9 @@ to those on invalidity pension and blind pension, to bring them on par with thos
 disability allowance who are in receipt of the waiver.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 21.
@@ -502,9 +519,13 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

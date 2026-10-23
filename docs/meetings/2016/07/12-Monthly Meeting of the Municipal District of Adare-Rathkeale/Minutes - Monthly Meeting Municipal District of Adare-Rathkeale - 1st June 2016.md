@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016_0.pdf)
+**Original file:** [Minutes - Monthly Meeting Municipal District of Adare-Rathkeale - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -67,13 +68,15 @@ The origins and purpose of the LECP.
 The evidence base for the LECP including socio-economic analysis, consultation process and
 who would deliver the plan.
 
-¢ The 9 high level goals of the LECP and the action areas under the three pillars of economic,
+e The 9 high level goals of the LECP and the action areas under the three pillars of economic,
 social and physical / environment.
 
 e The presentation and implementation of the plan and the timeframe for its adoption.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -103,7 +106,7 @@ In response to issues raised by Members, Ms. Humphreys noted the following :-
 ¢ The LECP was not an operational plan but represented a framework for groups of agencies to
 work together in a co-ordinated fashion.
 A number of traveller support programmes were in place.
-Issues relating to road safety would be addressed in the Joint Policing Committee Strategy that
+issues relating to road safety would be addressed in the Joint Policing Committee Strategy that
 
 was currently being developed.
 e Three sources of funding for village renewal were in place through Rural Enterprise
@@ -131,7 +134,9 @@ Members welcomed the proposed disposal and asked that the proceeds of the sale b
 the Adare-Rathkeale District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -188,7 +193,9 @@ In response to an enquiry from Members, the Senior Engineer, Mid West Road Desig
 that, while the attenuation tank to be placed under the car park was designed to cater for surface
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -212,7 +219,7 @@ agreed that the Part 8 should proceed.
 Ms. Collins informed the Members that the Council had commenced the process of writing a new
 Heritage Plan for the City and County. She highlighted the benefits of having a co-ordinated
 approach to heritage to facilitate the drawdown of funding and noted that written submissions
-were invited from the public to be received by 28" July, 2016.
+were invited from the public to be received by 23" July, 2016.
 
 6(a). Update on Derelict Sites in Rathkeale
 
@@ -232,7 +239,7 @@ The following issues were also raised by Members during discussion of this item 
 inserted around the doors and windows of some property there with no apparent involvement
 of the Conservation Officer.
 
-e Abuilding in the District, with one side derelict, one side unroofed and the remaining used was
+¢ Abuilding in the District, with one side derelict, one side unroofed and the remaining used was
 being rated based on the entire building.
 The Love Your Street Initiative had not been rolled out in Rathkeale.
 An update was sought on progress in acquiring Harte’s thatched cottage in Askeaton for
@@ -244,7 +251,9 @@ also undertook to circulate Members with a map showing the existing sites in Rat
 Derelict Sites Register.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -300,7 +309,9 @@ the District requested that provision be made in the 2017 budget to allow Phase 
 to advance.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Sewerage Treatment Plant in Askeaton
@@ -311,14 +322,14 @@ update and that designers had been engaged to progress the upgrade.
 
 1. Adoption of Minutes
 
-Circulated, draft Minutes of Meeting of the Municipal District of Adare-Rathkeale held on ni”
+Circulated, draft Minutes of Meeting of the Municipal District of Adare-Rathkeale held on aa”
 May, 2016.
 
 Proposed by Councillor O'Donoghue;
 Seconded by Councillor Keary;
 And Resolved:
 
-"That the draft Minutes, as circulated, be taken as read, adopted and signed”.
+“That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 ADJOURNED NOTICE OF MOTION
 9. Notice of Motion submitted by Councillor R. O'Donoghue
 
@@ -354,7 +365,9 @@ where applicable, the European Journal {if the works may exceed approx
 €5,000,000.) These tenders are evaluated against specification and award criteria,
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -377,7 +390,7 @@ grounds.
 QUESTIONS
 10. Question submitted by Councillor E. O’Brien
 
-1 will ask at the next Meeting for an update and progress report from Limerick City and County
+! will ask at the next Meeting for an update and progress report from Limerick City and County
 Council and the Til with respect to Kilcornan Traffic calming, as passed by a Motion of this
 Municipal District.
 
@@ -405,17 +418,19 @@ National Primary and other roads.
 REPLY: The principal piece of casual trading legislation is the Casual Trading Act 1995.
 Casual Trading means the selling of goods at a place (including a public road) to
 which the public have access as of right or at any other place that is a casual trading
-area. The Casual Trading Act 1995 was amended by S! 191 of 2004 to grant an
+area. The Casual Trading Act 1995 was amended by S!/ 191 of 2004 to grant an
 exemption from a casual trading licence to a grower or any person acting on behalf
 of a grower selling berries and new potatoes on the side of the road between May
 and September inclusive. (Section 2(3)) Regulations 2004 - Casual Trading Act 1995
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 exempt from the provision of the Casual Trading Act 1995 the selling between the
-01* May and the 30" September in any year of (i) strawberries, raspberries,
+01* May and the 30 September in any year of (i) strawberries, raspberries,
 blueberries, gooseberries, blackberries, loganberries, tayberries and currants, and
 (ii) potatoes having loose skins and which have been harvested prior to maturity.
 There is no provision in the Exempt Development Regulations for signage, however
@@ -425,7 +440,7 @@ a provision in the Roads Act 1993 to serve notice to cease the activity.
 
 Councillor Keary noted the reply and highlighted that there was a lack of consistency in the
 treatment of roadside traders compared to those who traded in similar products, but paid
-commercial rates. —
+commercial rates.
 
 NOT TION
 
@@ -433,7 +448,7 @@ As items 12 and 13 were similar, it was agreed that they would be taken together
 
 12. Notice of Motion submitted by Councillor E. O’Brien
 
-1 will move at the next Meeting, as an elected representative for the immediate area of
+I will move at the next Meeting, as an elected representative for the immediate area of
 Kilcornan, to extend an invite on the imprimatur of Kilcornan Community Council, for the
 Municipal District of Adare-Rathkeale to attend and hold a Municipal Meeting in Kilcornan
 Community Centre in October 2016. | will further move that an update and progress report from
@@ -463,7 +478,9 @@ Councillor Sheahan noted that two tarmacadam footpaths exiting the east of Askea
 poor condition and should be replaced with concrete.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9
@@ -482,4 +499,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+

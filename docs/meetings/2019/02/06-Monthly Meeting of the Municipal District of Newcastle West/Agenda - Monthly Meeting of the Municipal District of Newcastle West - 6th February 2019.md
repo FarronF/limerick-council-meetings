@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%202019-02-06%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 6th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/00%202019-02-06%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ —<- Duiche Bardais an Chaisledin Nua Thiar,
+ee Duiche Bardais an Chaisledin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 
 AN ™ Aras William Smith O'Brien,
@@ -36,7 +37,7 @@ Aras William Smith O'Brien,
 
 Gortboy,
 
-Newcastle West,
+Newcastle West.
 
 Co. Limerick
 
@@ -44,7 +45,7 @@ Co. Limerick
 t: +353 (0) 69 62100
 
 f
-To: Cathaoirleach and Each Member of the Municipal District of Newcastle Wi
+To: Cathaoirleach and Each Member of the Municipal District of Newcastle W.
 
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
@@ -64,7 +65,7 @@ AGENDA
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 9"
 
 January, 2019.
-{Copy Enclosed)
+(Copy Enclosed)
 2. Deputation
 To receive Deputation from Board of Management of Scoil Mhuire National School,
 Broadford,
@@ -78,17 +79,19 @@ To note progress report from the Housing Development Directorate.
 
 (Report Enclosed)
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach oe wewsimerick.te
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach oe wewwllimerick.te
 
-Crenarata Uesdemiartare Marchante Quau Miemaricl et A imate Crnmertt
+Crenarata Uesdrmiartare Marchante Quay Mimaricl et A imate Crmertt
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
-11,
+11.
 
 12.
 
@@ -103,11 +106,11 @@ Question submitted by Councillor J. Scanian
 | will ask at the next Meeting when footpath renewal works will be undertaken
 fronting the business units along Scanlan’s Lane, Newcastle West.
 
-uestions subm rl. Gal
+uestions subm r lL. Gal
 
 | will ask at the next Meeting for an update on the repair of the bridge at Coole, Athea.
 
-1 will ask at the next Meeting for the following information on Knights Court,
+I will ask at the next Meeting for the following information on Knights Court,
 Newcastle West:
 
 (a) The programme of works to be completed at the estate and cost of these works
@@ -141,7 +144,9 @@ Notices of Motion submitted by Councillor L. Galvin
 | will move at the next Meeting that a traffic management plan be created for Collins,
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -180,4 +185,6 @@ in lighting at Cregan’s Cross on the N21 as you turn off for Knockaderry.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

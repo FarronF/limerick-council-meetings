@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Special%20Meeting%20-%2014th%20March%202016.pdf)
+**Original file:** [Minutes of Special Meeting - 14th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Special%20Meeting%20-%2014th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -86,7 +87,9 @@ amended, a copy of which had been circulated to Members. He also confirmed that 
 required documentation in relation to the co-options for three of the vacancies had been
 
 received and was in order.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 (i)
@@ -164,7 +167,9 @@ passionate and driven Councillor who had loved both his community and his party.
 added that making her father proud had never been a difficult task to her or her siblings
 
 since her father had relished even their smallest achievements. She stated that she knew
----
+
+[[PAGE_END:2]]
+
 **3**
 
 that he would have been overjoyed to see her taking a seat on the Council that he had held
@@ -236,7 +241,9 @@ warm welcome to them and wished them well in their new roles and future politica
 careers. They also paid tribute to the outgoing Members and again expressed their sadness
 
 at the untimely loss of their colleague, Joe Crowley, RIP.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 The Chief Executive, on behalf of Management and Staff, congratulated the new
@@ -316,4 +323,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

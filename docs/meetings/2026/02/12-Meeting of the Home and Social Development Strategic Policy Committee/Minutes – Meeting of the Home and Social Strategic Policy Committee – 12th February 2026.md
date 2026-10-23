@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-12th-february-2026.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 12th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-12th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -96,7 +97,9 @@ Cllr. Joe Pond
 Cllr. Dan McSweeney
 
 **Apologies:** Mr. Vincent Murray, Ms. Mary Hayes, Ms. Kathy O’Grady
----
+
+[[PAGE_END:1]]
+
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
 An Cathaoirleach, Cllr. Stephen Keary opened the meeting and welcomed the members to the
@@ -148,7 +151,9 @@ Mr Conor Cooney, Senior Executive Quantity Surveyor delivered a presentation on 
 Stage Circular application process and informed the members how the process has been streamlined
 
 to remove unnecessary roadblocks and prevent delays.
----
+
+[[PAGE_END:2]]
+
 Cllr. Benson questioned if Single Stage is available for derelict and vacant properties. Mr. Cooney
 
 replied that this process is available for derelict and vacant properties and that final documents and
@@ -220,7 +225,9 @@ Cllr. Ruddle queried what financial protections are in place in the event the de
 financial difficulty. Mr. Cooney stated that throughout the process, stages are non-committal until the
 
 final stage and there is a bond security in place to provide fiscal safeguards. Cllr. Ruddle asked if it
----
+
+[[PAGE_END:3]]
+
 was possible that the developer takes out a loan on during the process or in the final stage. Ms.
 
 Newell replied that in this case Limerick City and County Council would be the provider of funds via
@@ -286,7 +293,9 @@ Social Development SPC at a later date.
 **Item 12: Notice of Motion submitted by Councillor D. McSweeney (to be referred to the Home and**
 
 **Social Development Strategic Policy Committee)**
----
+
+[[PAGE_END:4]]
+
 *I will move at the next Meeting of Limerick City and County Council that this Council commence an*
 
 *immediate review of the Housing Mixed Tenure Policy to feed into an updated Housing Strategy and*
@@ -318,4 +327,6 @@ to the April meeting of the SPC.
 An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

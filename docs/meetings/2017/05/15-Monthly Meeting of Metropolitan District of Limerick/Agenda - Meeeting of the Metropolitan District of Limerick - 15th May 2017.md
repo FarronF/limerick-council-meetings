@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2015th%20May%202017.pdf)
+**Original file:** [Agenda - Meeeting of the Metropolitan District of Limerick - 15th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2015th%20May%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_———_—_— Seirbhisi Corparéideacha,
+_——_—_— Seirbhisi Corparéideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NN . Ceanncheathni Chorpardideach,
+me Ceanncheathni Chorpardideach,
 = Cé na gCeannaithe,
 COMHAIRLE Luimneach
 CATHRACH & CONTAE
 
 ° 4 Corporate Services,
-Luimnigh img hpad coe can
-Limerick sei Tt
+Luimnigh img hped cee Can
+Limerick ieee
 CITY & COUNTY imerick
 
 COUNCIL “
-‘s EIRCODE V94 EH30
+‘a EIRCODE V94 EH30
 
-10" May, 2017.
+10” May, 2017.
 
 t: +353 (0) 61 407 100
 
@@ -48,11 +49,11 @@ To: _ The Mayor and each Member of the Metropolitan District of Limerick =
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Merchant’s Quay, Limerick on Monday, 15" May, 2017 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick on Monday, as” May, 2017 at 9.45 a.m. The
 
 business to be transacted is set out on the appended Agenda.
 Is mise le meas,
-C= Sti———
+C= Sti——
 
 Christy O’Connor,
 Meetings Administrator.
@@ -81,7 +82,9 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach vy
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -130,7 +133,9 @@ underway for the Dock Road and the plans to include the Raheen, Dooradoyle and M
 areas as part of a greater traffic study for Limerick that was due to commence in 2017.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -171,4 +176,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

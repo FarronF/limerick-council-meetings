@@ -16,48 +16,45 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-municipal-district-of-newcastle-west-5th-november-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 5th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-municipal-district-of-newcastle-west-5th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach
-& Contae Luimnigh
-ACN —=<—————
-. ——> Limerick City
-& County Council
+ACN ——
 
-31* October, 2025
+Corporate Headquarters, Merchant's Quay, Limerick
 
-Duriche Bardais an Chaisiedin Nua Thiar,
+ae Comhairle Cathrach Duriche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
-Aras William Smith O'Brien.
+. cone Aras William Smith O'Brien.
 
-Gortbut,
-
-An Caisiean Nua Thiar,
-
-Co. Luimnigh
+. Gortbut,
+Limerick City An Caisiean Nua Thiar
+= & County Council Co. Lutmnigh
 
 Newcastle West Municipal District,
+
 Limerick City and County Council,
+
 Aras Wiltiam Smith O'Brien,
+
 Gortboy,
 
-Newcastle West
+Newcastle West,
 
-Co. menck.
+Co. lmentck.
 
-Eircode: V42EH73
+31* October, 2025 Eircode: V42EH73
 
 t: +353 (0) 69 62100
-
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 5% November,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 5" November,
 2025, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -69,35 +66,30 @@ AGENDA
 1. Minutes
 
 (a) To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 1%
-
 October, 2025.
 
 (b) To adopt Minutes of Draft Budgetary Plan Meeting of the Municipal District of
-
 Newcastle West held on 15'" October, 2025.
 
 (c) To adopt Minutes of Special Meeting of the Municipal District of Newcastle West held
 
 on 29" October, 2025.
-
-3. Disposal of Land
-
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchant's Quay, Limerick
-
 (Copies Enclosed)
-
-= "
-© wwwilimerick.ie
+2 Declaration of interest.
+3. Disposal of Land
+@ customerservices@limerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wwwilimerick.ie
 
 @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7
+7.
 
 9.
 
@@ -133,7 +125,7 @@ number of national tracking events hosted in each period in question, (c) what
 revenue stream was generated through both periods, (d) what was the actual
 running cost of the facility for 2024 as well as in the current year to date.
 
-I will ask at the next Meeting when overgrown trees on (a) the Ashgrove side of
+| will ask at the next Meeting when overgrown trees on (a) the Ashgrove side of
 Evergreen Court and (b) those on the Assumpta Park approach to The Archway will
 be cut back.
 
@@ -142,7 +134,9 @@ five junctions leading from the Castlemahon to Kilmeedy road as well as those in
 Killeedy to Broadford area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -177,7 +171,7 @@ What short term plans are in place to make Abbeyfeale town passable to motorists
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor J. Scanian
 
-twill move at the next Meeting that the rights of way leading from St. Mary's Road to
+| will move at the next Meeting that the rights of way leading from St. Mary's Road to
 Coole Lane and that from Upper Maiden Street to The Market Yard be reopened.
 
 | will move at the next Meeting that immediate action be taken to deal with the traffic
@@ -189,7 +183,7 @@ Notices of Motion submitted by Councillor L. Galvin
 Dromtrasna school.
 
 | will move at the next Meeting that Limerick City and County Council call on
-Transport Infrastructure Ireland (Tll) to make the necessary funding available
+Transport Infrastructure Ireland (TlI) to make the necessary funding available
 immediately in order that emergency safety works be carried out on the junction at
 Devon Road Cross, Templeglantine as soon as possible. In light of the many road
 traffic accidents which have occurred at this junction over recent years and given
@@ -207,7 +201,9 @@ carry out a Road Safety Audit at Devon Road Cross, Templeglantine on the N21 and
 to make necessary safety measures there to prevent further road traffic accidents.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -219,4 +215,6 @@ at Secondglass, Mountcollins, (b) Bridge at Meenkilly, Abbeyfeale and (c) The st
 walls at Fealesbridge, Abbeyfeale.
 
 
----
+
+[[PAGE_END:4]]
+

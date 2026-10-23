@@ -16,15 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-12th-april-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-12th-april-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-all Comhairle Cathrach
+oll Comhairle Cathrach
+
 & Contae Luimnigh
-acs ,
 —— Limerick City
+
 & County Council
 
 7 April, 2022.
@@ -42,10 +44,10 @@ Rath Caola,
 Co. luimnigh
 
 Adare-Rathkeale Municipal District,
-Limenck City and County Council
+Limerick City and County Council
 Aras Sean Finn,
 
-New Line.
+New Line
 
 Rathkeate.
 
@@ -54,7 +56,7 @@ Co. Limerick.
 EIRCODE V94 HKIV
 
 t: +353 (0) 69 64047
-f: +353 (0) 69 63196
+f: +353 (0) 69 63186
 A hkeal
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
@@ -68,7 +70,7 @@ AGENDA
 
 To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale held on
 
-8'* March, 2022.
+8" March, 2022.
 
 2. Disposal of Land
 
@@ -94,7 +96,9 @@ WY @LimerickCouncil
 \ 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -138,7 +142,9 @@ Question submitted by Councillor K. Sheahan
 | will ask at the next meeting for an up to date report on sewerage issues in Askeaton.
 
 
----
+
+[[PAGE_END:2]]
+
 3
 
 **11.**
@@ -178,4 +184,6 @@ in becoming a Fair Trade Village.
 **15.**
 
 **A.O.B**
----
+
+[[PAGE_END:3]]
+

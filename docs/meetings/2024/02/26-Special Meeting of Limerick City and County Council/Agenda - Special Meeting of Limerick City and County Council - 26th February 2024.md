@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-limerick-city-and-county-council-26th-february-2024.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-limerick-city-and-county-council-26th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 — Comhairle Cathrach
@@ -32,9 +33,9 @@ oo Li ick Cit
 Seirbhisi Corparaideacha,
 
 Comhairle Cathwach agus Contae Luimnigh,
-Ceannchesthn: Chorpardideach.
+Ceannchesthn: Chorpardideach,
 
-Cé na gCearinaithe,
+Cé na gCearnaithe,
 
 Luimnesch
 
@@ -72,23 +73,24 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy of Requisition attached)
 
 © wew.limerick.te
-© 061 - 557150
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae __ * ——paaly | lta He gray Ble Lravel
+ae acl | Ble Hs gay Ble Zrared
 
-Baal ~ Khe.
+Meccan ZG
 
-Santer ale Zz os Vm
-i ; P QO
-Pil a=, by.
-am? : = sa. Css
+o> : = ae Ae
 
-Q e°
-~°'porate ses
+q e°
+~°'porate sens
 
 
----
+
+[[PAGE_END:2]]
+

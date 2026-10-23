@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%2015th%20June%252c%202017.pdf)
+**Original file:** [Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%2015th%20June%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirdinist Corpardideacha,
 Comhairle Cathrach agus Contae Luimnigh,
 
-Bem La Ceanncheathrii Chorpardideach,
+Bem La Ceanncheathri: Chorpardideach,
 — Cé na gCeannsithe,
 COMHAIRLE Luimneach
 CATHRACH & CONTAE ea
 
-. . porate Services,
-Luimnigh LsrirckChy and Gouray Counc
-r = Co Headquarters,
-Limerick ia Cy me
+. : porate Services,
+Luimnigh Levick Chy and Gouray Counc
+r - Co Headquarters,
+Limerick am Cy me
 CITY & COUNTY Limerick
 
 COUNCIL
@@ -43,7 +44,7 @@ f: +353 (0) 61 415 266
 
 9" june, 2017.
 
-To/ The Cathaoirleach_ and each Member of the Municipal District _of Cappamore-
+To/ The Cathaoirleach_and each Member of the Municipal _District_of Cappamore-
 
 Kilmallock
 
@@ -55,22 +56,24 @@ Kilmallock to be held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limeri
 
 Is mise le meas,
 
-Ye =
+ne -_
 
 Tina Knox,
 Meetings Administrator.
 
-1, To elect a Cathaoirleach of the Municipal District of Cappamore-Kilmallock to hold
+FS To elect a Cathaoirleach of the Municipal District of Cappamore-Kilmallock to hold
 office until the next Annual Meeting or until a successor has been elected.
 
 2. To elect a Leas-Chathaoirleach of the Municipal District of Cappamore-Kilmallock to
 hold office until the next Annual Meeting or until a successor has been elected.
 
 =
-@ wuwlimerick.ie
+@ wwew.llimerick.ie
 @LimerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick |
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-agenda-for-march-2022-md-meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 24th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-agenda-for-march-2022-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 **11th** **March 2022.**
 
 **To/**
@@ -62,7 +63,9 @@ Deputation from Gotoon/Ballingaddy Residents Group.
 To receive a presentation on the Dereliction & Vacancy Initiative in the Cappamore-
 
 Kilmallock Municipal District
----
+
+[[PAGE_END:1]]
+
 2
 
 5.Housing Directorate
@@ -124,7 +127,9 @@ I will move at the next meeting of the Cappamore/Kilmallock Municipal District c
 Limerick City and County Council to complete a pedestrian footpath and review traffic calming
 
 measures from Elton Close housing estate to Elton village.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -148,4 +153,6 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District if
 County Council plan to install public car park signage in the vicinity of Emmett Street and
 
 Charleville road, Kilmallock.
----
+
+[[PAGE_END:3]]
+

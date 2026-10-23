@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-e-minutes-special-meeting-03.07.2020.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-e-minutes-special-meeting-03.07.2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY
 
 AND COUNTY COUNCIL HELD AT LIMERICK RACECOURSE, GREENMOUNT
@@ -82,7 +83,9 @@ Proposed by Councillor Donegan;
 Seconded by Councillor Carey;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -108,4 +111,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Mayor
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

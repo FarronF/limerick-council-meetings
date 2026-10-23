@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20meeting%2009.11.17.pdf)
+**Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20meeting%2009.11.17.pdf)
 
----
+[[FILE_START]]
+
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
@@ -96,7 +97,9 @@ training courses, volunteering opportunities and full and part time options. The
 applauded the work being undertaken by the group and pledged their support to
 
 EmployAbility.
----
+
+[[PAGE_END:1]]
+
 **Item 3:**
 
 **Presentation on Community Participation Network (CPN) Family Resource**
@@ -182,4 +185,6 @@ Cllr. Hurley thanked her predecessor Cllr. F. Foley
 **Minutes Signed By Chair:**
 
 **Date:**
----
+
+[[PAGE_END:2]]
+

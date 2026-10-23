@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-15-06-2022.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 15 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-15-06-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 oo Limerick C
 
-_ imerick City
+a imerick City
 
 = & County Council
 
@@ -33,8 +34,8 @@ _ imerick City
 
 To: The Cathaoirleach and Each Member of the Munici
 
-Duiche Bardats an Chaisiedin Nua Thar,
-Comhairle Cathrach egus Contac Luimregh,
+Duiche Bardats an Chaisiedin Nua Thiar,
+Comhairie Cathrach egus Contac Luimregh,
 Aras Witham Smith O'Brien.
 
 Gortbul,
@@ -65,7 +66,7 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 15" June, 2022,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-jartin Curran,
+lartin Curran,
 
 Meetings Administrator.
 
@@ -89,19 +90,21 @@ To note proposal for Disposal of Property at 30 Wingfield Orchard, Newcastle Wes
 
 Co. Limerick.
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
-&® customerservices@limerickie
-© wwvelimerickie
+® customerservices@limerickie
+© wwvelimericiie
 
 @LimerickCouncil
-\ 061- 556 000
+( 061- 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -134,7 +137,7 @@ Athea, (b) an update on the footpath that was promised to be repaired.
 
 Questions submitted by Councillor T. Ruddle
 
-| will ask at the next Meeting when the dangerous junction at Ardrine cross will be
+twill ask at the next Meeting when the dangerous junction at Ardrine cross will be
 finished. A €15,000 allocation was made in 2020 to remove the ditch in agreement
 with the landowner, however this work was not completed. Hedge and grass
 cutting were the only works completed. This has all overgrown again.
@@ -155,7 +158,9 @@ maintenance works.
 inside the speed limit zone approaching Broadford Community Créche.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -181,7 +186,7 @@ Abbeyfeale.
 
 Notices of Motion submitted by Councillor J. Sheahan
 
-! will move at the next Meeting that the laneway between the rear of Bishops Court
+| will move at the next Meeting that the laneway between the rear of Bishops Court
 Estate and Courtenay Boys School leading from the Desmond Complex to Bishop
 Street be taken in charge by Limerick City and County Council and upgraded to a safe
 Standard.
@@ -201,4 +206,6 @@ Oromcollogher in the interest of Health, Safety and the Economy.
 premises along Clooneyschehane towards the speed limit approach along the R520.
 
 
----
+
+[[PAGE_END:3]]
+

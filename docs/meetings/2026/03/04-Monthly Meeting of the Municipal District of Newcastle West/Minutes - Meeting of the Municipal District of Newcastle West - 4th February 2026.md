@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-municipal-district-of-newcastle-west-4th-february-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 4th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-municipal-district-of-newcastle-west-4th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -108,7 +109,9 @@ And Resolved:
 amendment outlined above to the Minutes of the Municipal District of Newcastle West held
 
 on 14th January, 2026”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -178,7 +181,9 @@ Question submitted by Councillor J. Scanlan
 ***underway at Ardagh and Broadford Village.***
 
 REPLY:
----
+
+[[PAGE_END:2]]
+
 3
 
 **(a)**Limerick City and County Council (LCCC) are awaiting a connection agreement for the
@@ -254,7 +259,9 @@ works would be required.
 9.
 
 Question submitted by Councillor T. Ruddle
----
+
+[[PAGE_END:3]]
+
 4
 
 ***I will ask at the next Meeting that*** ***the Council repair the third speed ramp as you come***
@@ -332,7 +339,9 @@ City and County Council has applied to Transport Infrastructure Ireland for fund
 Emergency Pavement Scheme for the N21. He also stated that the Roads Team is actively
 
 working patching potholes over the last six weeks in the District. He informed the Members
----
+
+[[PAGE_END:4]]
+
 5
 
 that the Roadworks Scheme 2026 is currently being prepared and that roads are put on the
@@ -402,7 +411,9 @@ health and safety issues around the use of a pay parking machine.
 ***expansion of the current sewerage treatment plant as promised and (b) When will we have***
 
 ***a Plan for the long term expansion of the existing plant which a planning application was***
----
+
+[[PAGE_END:5]]
+
 6
 
 ***expected to be submitted by Q1 2026 (c) What is the approximate time line for the plant to***
@@ -474,7 +485,9 @@ Librarian. She stated that the Department of Culture, Communications and Sport w
 undertake an initial scoping exercise on 19th February in Dromcollogher to assess feasibility
 
 and technical requirements to progress planning of the state led commemoration.
----
+
+[[PAGE_END:6]]
+
 7
 
 Following this initial scoping exercise an update briefing will be provided to the Elected
@@ -496,4 +509,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

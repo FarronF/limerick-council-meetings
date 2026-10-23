@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%20Draft%20Minutes%20Monthly%20Meeting%2024th%20October%202022_0.pdf)
+**Original file:** [Draft Minutes - Monthly Meeting of Metropolitan District of Limerick - 24th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%20Draft%20Minutes%20Monthly%20Meeting%2024th%20October%202022_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON MONDAY, 24TH**
@@ -112,7 +113,9 @@ Special GMA Projects – Metro Area
 **General Municipal Allocation**
 
 **€628,000**
----
+
+[[PAGE_END:1]]
+
 2
 
 Following consideration and discussion of the Draft Budgetary Plan 2023, the Members agreed to
@@ -214,7 +217,9 @@ importance of using social media to engage with businesses and communities. Memb
 of the importance of increasing awareness of the GMA Community Initiatives Grant supports and
 
 the GMA Special Projects funded through the Local Property Tax, so that people could see tangible
----
+
+[[PAGE_END:2]]
+
 3
 
 benefits from payment of their Local Property Tax. Members also highlighted the importance of
@@ -284,7 +289,9 @@ setting out proposals for disposal of 2.643 acres of land at Lee Estate, King’
 Athlunkard Villas Football Club and the intention to bring a Section 183 Notice to Full Council
 
 in this regard, for approval.
----
+
+[[PAGE_END:3]]
+
 4
 
 The report, as circulated, was noted by Members.
@@ -358,7 +365,9 @@ incidents have significantly increased in the Park, the main issue being drug de
 As soon as an incident occurs, the Park Ranger makes contact with the Gardai and requests
 
 their presence. All incidents are documented by the Park Ranger. The Council is arranging
----
+
+[[PAGE_END:4]]
+
 5
 
 for these reports to be provided to the Gardai as documentary evidence of the issues in the
@@ -430,7 +439,9 @@ matter for the school, as the gate access is owned by the school.
 has recently been granted for a new Active Travel footpath scheme on the Condell Road
 
 extending from the Condell Road roundabout to Ted Russell Park.
----
+
+[[PAGE_END:5]]
+
 6
 
 This new footpath will link the new housing development at Moineir to the pedestrian
@@ -508,7 +519,9 @@ Regulation 10 - Fire Safety
 Regulation 11 - Refuse Facilities
 
 Regulation 12 - Gas, Oil and Electricity
----
+
+[[PAGE_END:6]]
+
 7
 
 Regulation 13 - Information
@@ -580,7 +593,9 @@ and Dromore Rise. Free roadside parking is permitted at other locations in these
 There is no regulatory sign to inform motorists where they cannot park on public footpaths,
 
 as it is illegal to park on any public footpaths. The cost of a fixed penalty for parking on a
----
+
+[[PAGE_END:7]]
+
 8
 
 footpath was increased from €40 to €80 in February 2022. Such penalties for parking on a
@@ -660,7 +675,9 @@ done in sequence and immediate repairs may be completed depending upon the
 circumstances. Not all requests result in the need for immediate replacement at that point
 
 in time and the request is noted in the area.
----
+
+[[PAGE_END:8]]
+
 9
 
 **19.Question submitted by Councillor S. Kiely**
@@ -738,7 +755,9 @@ penalties can be issued by Limerick City & County Council Traffic wardens as wel
 Garda Síochána. Other measures to increase general awareness will also be considered.
 
 21. **Notice of Motion submitted by Councillor J. Leddin**
----
+
+[[PAGE_END:9]]
+
 10
 
 ***I will move at the next Meeting that Limerick Metropolitan Council close vehicle access to Little***
@@ -814,7 +833,9 @@ development.
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Pond and
 
 agreed.
----
+
+[[PAGE_END:10]]
+
 11
 
 In proposing the Motion, Councillor Slattery highlighted the difficulties for residents exiting the
@@ -890,7 +911,9 @@ In proposing the Motion, Councillor Benson stated that consideration should be g
 safety measures near the Schools in Caherdavin and that Sheelin Drive and Alderwood Avenue
 
 should be looked at.
----
+
+[[PAGE_END:11]]
+
 12
 
 **REPLY**: The Safe Routes to School Programme was launched in March 2021 and every school in
@@ -966,7 +989,9 @@ also be an opportunity for Third Level Institutes to expand their sporting progr
 ***subside, presenting a further hazard to pedestrians, particularly those with disabilities.***
 
 ***That the Council will conduct a public awareness campaign about the dangers of pavement***
----
+
+[[PAGE_END:12]]
+
 13
 
 ***parking, that Council will adopt a zero-tolerance approach when a car completely blocks a***
@@ -1042,7 +1067,9 @@ isolation.
 29. **Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Economic**
 
 **Development, Enterprise and Planning Strategic Policy Committee)**
----
+
+[[PAGE_END:13]]
+
 14
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick Council***
@@ -1104,4 +1131,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20Jan%202019%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20Jan%202019%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
-SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
+SEOIGHE, MILLMOUNT, MKILMALLOCK, CO. LIMERICK, ON
 THURSDAY, 17" JANUARY, 2019, AT 3.30 P.M.
 
 PRESENT IN THE CHAIR:
@@ -64,7 +65,9 @@ The Meetings Administrator agreed to clarify the situation with Dr Mihai Bilauca
 Digital Strategy.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Rural Isolation & Crime Prevention
@@ -109,7 +112,9 @@ Members agreed to circulate the details of the event in Bruff and agreed that it
 important event to raise awareness of rural isolation and crime prevention.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Question submitted by Councillor Teefy
@@ -139,7 +144,7 @@ Glenstal Gate, Murroe- Bond paid, Council to complete;
 
 11. The Paddocks, Bruree- Bond paid, Council to complete.
 
-PRON ANP wWN Ee
+PON ANEW
 
 The Members noted the reply to the question and agreed to invite a representative from
 Planning & Environmental Services to the next Monthly Meeting to discuss the issue in more
@@ -156,7 +161,7 @@ The Members looked for an update in relation to the pedestrian crossing at the s
 school. The Executive Engineer confirmed that further discussions had taken place with the
 consultant and that the contractor had been instructed to carry out agreed works.
 
-e w ri Kilmallock
+° w ri Kilmallock
 
 The Members looked for an update in relation to the removal of the footpath at the
 
@@ -164,7 +169,9 @@ footbridge. The Executive Engineer confirmed that this work would be done as par
 Threshold Project and the planned resurfacing of this area.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e Vote of Sympathy
@@ -184,4 +191,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%208th%20October%2C%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%208th%20October%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -86,7 +87,9 @@ Seconded by Councillor Teskey;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members expressed disappointment that a meeting between Oireachtas members,
@@ -160,7 +163,9 @@ the position in relation to the disposal of 1.06 acres of land at Galvone Indust
 to Limerick City Build (Regen) Ltd (Raymond and Bartholomew O’Halloran).
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.**
@@ -236,7 +241,9 @@ This report was noted by Members.
 The Cathaoirleach welcomed the Senior Executive Engineer, Design and Delivery to the
 
 Meeting. The Senior Executive Engineer gave Members an update in relation to the
----
+
+[[PAGE_END:3]]
+
 4
 
 footpath from Kildimo to the Beer Garden Public House. Following discussion, the
@@ -306,7 +313,9 @@ This project is being progressed by the Road Design Office with funding
 under the Transport Infrastructure Ireland (TII).
 
 Councillor Sheahan welcomed the response.
----
+
+[[PAGE_END:4]]
+
 5
 
 **8.**
@@ -354,4 +363,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

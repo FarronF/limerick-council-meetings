@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-b-minutes-special-meeting-24.05.2021.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 24th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-b-minutes-special-meeting-24.05.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD ON MONDAY, 24TH MAY, 2021, AT 5PM.
@@ -80,7 +81,9 @@ RESUMPTION OF MEETING:
 Following the conclusion of the Ordinary Meeting of the Council, the Special Meeting resumed
 
 with Item No. 1 on the agenda.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.CLOSURE OF AER LINGUS CABIN CREW BASE AT SHANNON AIRPORT:
@@ -156,7 +159,9 @@ He was also calling for the fast-tracking of the appointment of a new Chairperso
 Shannon Group as it had been without one now for nine months in the biggest crisis for
 
 aviation ever in Ireland and this appointment needed to be in place as a matter of urgency.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members then spoke in turn and the following additional points were made by them in
@@ -218,4 +223,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

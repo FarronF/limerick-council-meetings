@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-2021-03-03-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 3rd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-2021-03-03-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Duiche Bardais an Chaiste4in Nua Thiar
-il 6 Canna Luimnigh Comhairle Cathrach gus Contae Luimragh,
+Comhairle Cathrach Duiche Bardais an Chaiste4in Nua Thiar,
+il 6 Contes Luimnigh Comhairle Cathrach sgus Contae Luimnagh,
 
 Aras William Smith O'Brien,
-aAar™N 7
+aAar™ .
 
 —> Limerick City
 & County Council
@@ -41,7 +42,7 @@ Newcastle West
 Co. Limerick
 Eircode: V42EH73
 th
-ae Fecnisty, 204 t: +353 (0) 69 62200
+ae Fenisty, 204 t: +353 (0) 69 62200
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
 A Chomhairieoir, a chara,
@@ -75,13 +76,15 @@ To note proposal for Disposal of Property at The Demesne, Newcastle West.
 To receive Update on proposed works for Ward’s Cross and Devon Road Cross.
 
 = customerservices@limerickie
-Ceanncheathra Chorparéideach, Cé na gCeannaithe, Lutmneach © werwlimerickie
+Ceanncheathra Chorparaéideach, Cé na gCeannaithe, Lutmneach @ www limerichie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -137,7 +140,9 @@ dangerous with the number of small children playing in the estate. Could this be
 looked at as a priority as it is an accident waiting to happen.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -179,4 +184,6 @@ properties by Design and Delivery be reviewed in the interest of improved effici
 and customer service levels for new tenants.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-08/00-agenda-3rd-september-2024.pdf)
+**Original file:** [Agenda - September meeting of The Municipal District of Adare - Rathkeale - 3rd September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-08/00-agenda-3rd-september-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-AD NO ——
+AD SN ——
 
-: — Limerick City
+‘ — Limerick City
 & County Council
 
 29" August, 2024.
@@ -38,7 +39,7 @@ Aras Séan Finn,
 
 Line Nua,
 
-Rath Caola,
+Rath Cacia,
 
 Co, Luimnigh
 
@@ -70,7 +71,7 @@ Is mise le meas,
 
 oe:
 
-Karen >
+Karen f
 Meetings Administrator.
 
 AGENDA
@@ -102,7 +103,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 \ 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -122,10 +125,8 @@ To discuss policing issues in the District.
 To receive a presentation on Limerick City and County Council 60kph Default Speed Limits.
 Road, Traffic and Cleansing
 District Engineers Report
-
 To update Members on issues of interest in the District.
 (Report Enclosed).
-
 General Municipal Allocation (GMA)
 
 To review position in relation to allocations under the General Municipal Allocation 2024.
@@ -145,7 +146,9 @@ and reassurance of safe drinking water in 2024.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -186,4 +189,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

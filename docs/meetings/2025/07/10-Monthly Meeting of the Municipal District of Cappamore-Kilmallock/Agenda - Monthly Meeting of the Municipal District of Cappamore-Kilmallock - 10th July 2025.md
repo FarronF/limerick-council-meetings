@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/00-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+—_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
 ‘ Oifig an Cheantair, Aras Mhainchin Seoighe,
 
-o~ & Contae Luimnigh Gill Mochealég,
+o~ & Contae Luimnigh Gill Mochealsg,
 
-ANFN - Co. Luimnigh
+AFN . Co. Luimnigh
 Limerick City
 
-— & County Council Limerick City and County Council,
+= & County Council Limerick City and County Council,
 
 Aras Mainchin Seoighe Area Office,
 
@@ -57,7 +58,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ml aa.
+M\ aa.
 Mark Leahy, ,
 Meetings Administrator.
 
@@ -66,28 +67,30 @@ AGENDA
 i. Minutes
 To adopt Minutes of the following Meetings:
 
-© Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 17"
+© Monthly Meeting of the Municipal District of Cappamore-Kilmallock held on the 17”
 
 June, 2025.
 (Copy enclosed)
 ¢ Annual Meeting of the Municipal District of Cappamore-Kilmallock held on the 17”
 June, 2025.
 (Copy enclosed)
-& customerservices@limerickie
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, days Mnainchin Seoighe © worn Kimericcie
+& customerservicesalimerickie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, days Mnainciin Seoighe © warn Kimericcie
 
 Limerick City and County Councfl, Aras Baatnchin Seoighe Ares Ofnce
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
 
 3. Property Services
 
-e Disposal of property comprising 0.0142 Acres/0.0058 hectares situate at the Priory, Kilfinane,
+¢ Disposal of property comprising 0.0142 Acres/0.0058 hectares situate at the Priory, Kilfinane,
 Co. Limerick (see attached report);
 
 © Disposal of property, in the form of Lease Agreement, comprising of 0.0298 Acres/0.012
@@ -103,4 +106,6 @@ Questions
 Holycross to the Ard na Ri Nursing Home.
 
 
----
+
+[[PAGE_END:2]]
+

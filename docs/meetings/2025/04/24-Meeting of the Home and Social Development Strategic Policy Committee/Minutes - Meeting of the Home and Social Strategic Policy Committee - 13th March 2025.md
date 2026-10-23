@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 13th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -106,7 +107,9 @@ Director of Housing to the SPC as well as wishing Ms. Caroline Curley best wishe
 retirement. He then welcomed all new and current members to the March SPC meeting.
 
 **Item 1: Confirm minutes from meeting held on30th May 2024**
----
+
+[[PAGE_END:1]]
+
 **Proposed:** Cllr. Adam Teskey
 
 **Seconded:** Cllr. Catherine Slattery
@@ -172,7 +175,9 @@ advised there is a list available.
 **New Fossil Fuel Boilers.**
 
 **Proposed:** Cllr. Francis Foley **Seconded:** Cllr. Noreen Stokes
----
+
+[[PAGE_END:2]]
+
 Mr. McNamara went onto to give a brief overview of what the scheme provides grant assistance
 
 towards.
@@ -242,7 +247,9 @@ The presentation was well received by the committee.
 A discussion took place. Cllr. Tommy O’Sullivan asked how many 1 bedroom apartments are
 
 projected over next few years.
----
+
+[[PAGE_END:3]]
+
 Ms. Sarah Newell, Senior Executive Officer replied that they are looking at the possibility of the
 
 Hidden Homes Initiative in derelict properties Limerick City and County Council are acquiring and
@@ -320,7 +327,9 @@ Notice of Motion submitted by Councillor S. Beasley - 26th July 2024
 *consider including Bin Charges as part of the Rent Structure fees for social housing tenants (unless on a waiver*
 
 *program).*
----
+
+[[PAGE_END:4]]
+
 Cllr. Beasley gave more clarity on the motion, she advised that dumping around the city is more
 
 pronounced. She queried how do we confirm that households who have been in social housing for
@@ -394,7 +403,9 @@ The future disposal of vacant/derelict residential properties is currently under
 cross-directorate meetings (between Housing and Property Management) have taken place
 
 regarding such properties. Due to increased resources in the Housing Directorate and an evidential
----
+
+[[PAGE_END:5]]
+
 housing need, it has been proposed that many more properties from this source will be taken by the
 
 Housing Directorate to be made available under various schemes.
@@ -470,7 +481,9 @@ and Social Development Strategic Policy Committee)
 Ms. Kathy O’Grady, Administrative Officer, Housing, gave an update to members and advised that
 
 The Land Development Agency have agreed to brief the Elected Members of the Metropolitan
----
+
+[[PAGE_END:6]]
+
 District of Limerick on Monday, 7th April 2025, at 2pm in the Council Chamber, Merchants Quay and
 
 Online. She also advised that if any elected members of the SPC wished to attend they could contact
@@ -536,4 +549,6 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meet
 wished everyone a happy St. Patricks Day.
 
 **END OF MEETING**
----
+
+[[PAGE_END:7]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 10th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
 & Contae Luimnigh
-DKS
+DBL
 — Limerick City
 & County Council
 
@@ -32,7 +33,7 @@ DKS
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathra Chorpardikdeach,
+Ceanncheathrau Chorpardideach,
 
 Cé na gCeannaithe,
 
@@ -42,9 +43,9 @@ Corporate Services,
 
 Limerick City and County Council
 Corporate Headquarters,
-Merchants Quay,
+Merchants Quay.
 
-Limenck
+Limerick
 
 EIRCODE V94 EH90
 
@@ -53,13 +54,11 @@ f: +353 (0) 61 415 266
 
 TO EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL JOINT POLICING COMMITTEE
 
-eeeeeeen
-
-A Chara,
+AChara,
 
 | wish to inform you that a Meeting of Limerick City and County Council Joint Policing Committee will
 
-take place in The Council Chamber, Limerick City and County Council, Dooradoyle, on Friday, 10”
+take place in The Council Chamber, Limerick City and County Council, Dooradoyle, on Friday, 10"
 
 May, 2019 at 2.00 p.m.
 
@@ -70,7 +69,7 @@ Is mise, le meas,
 Ja Clune
 A/Sénior Executive Officer
 
-1. Confirmation of Minutes of Joint Policing Committee Meeting held on 10 December, 2018
+1. Confirmation of Minutes of Joint Policing Committee Meeting held on 10™ December, 2018
 
 (copy attached).
 
@@ -93,15 +92,17 @@ prosecuted and how many have not been followed up on accordingly”.
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-& Customerservices@limerick.ie
-& vewewsmorick.ie
+& customerservices@limerick.ie
+& vewwsimorick.ie
 
 ¥ @LimerickCouncil
 
-( 061 - 557150
+(061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -155,7 +156,9 @@ to obtain the necessary funding to allow the Castleconnell Garda Station to open
 daily to serve the needs of this vast area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. To consider the following Notice of Motion submitted by Councillor Paul Keller :
@@ -166,4 +169,6 @@ and scrambler use be introduced to cover the illegal use in the above commonly u
 areas”.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2028th%20June%252c%202018%20%281%29.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 28th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%2028th%20June%252c%202018%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh.
 & Contae Luimnigh Olfig an Cheantair, Aras Mhainchin Seoighe.
 
-Cit Mochealég.
+Cill Mochealég.
 “ar™
-—— _—sLimerick City Co Lulrreigh.
+——> _—s Limerick City Co Lalrreagh.
 & County Council Limerick City and County Couneal.
 Aras Mainchin Seoighe Area Office,
 Kanallock,
-Co. Limerick.
+Co. Limerick
 EIRCODE V35 K497
 t: 4353 (0) 63 980 19
 f: +353 (0) 63 985 99
@@ -46,7 +47,7 @@ set out on the appended Agenda.
 
 Is mise le meas,
 
-op FF
+ope FF
 
 Karen Butler,
 Meetings Administrator.
@@ -60,8 +61,10 @@ hold office until the next Annual Meeting or until a successor has been elected.
 to hold office until the next Annual Meeting or until a successor has been elected.
 
 @ customerservices@limerickie
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe @ worwimerickie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe @ wow imerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office  @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

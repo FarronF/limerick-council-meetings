@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Newcastle West - 15th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%2015th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
+_—_—_—_ Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 > ~ Cé na gCeannaithe,
 . —— Luimneach
 Limerick Corporate Services and Change Management.
-CITY & COUNTY Limerick City and County Council
-COUNCIL ne Guy.
+CITY & COUNTY Limerick City and County Council,
+COUNCIL nae Guy.
 
 meri
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-10% July, 2015.
+410% July, 2015.
 
 To: The Cathaoirleach and Each Member of the Municipal District
 
@@ -50,10 +51,10 @@ Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 15th July
 
 Is mise le meas,
 
-es Knox, of
+ies Knox, of
 Meetings Administrator.
 
-een eee enn ween eee enna e eee e enn n nnn n nee eee e ee eee n enn e rene enn en ene e eens eee en ee enna eee e senses ee enenennennrrss
+eee eee enn were ee eee nee eee e ee nnn n nnn n seen eee e eee n een n nnn en seen eens nese eee nee ee ease seen eee Seen enennnnerres
 
 AGENDA
 
@@ -66,12 +67,13 @@ To adopt Minutes of the following Meetings:
 (Copies Enclosed)
 2. Deputation
 To receive Deputation from Knockaderry Community Council.
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach SA eteanidale
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -116,7 +118,9 @@ Questions submitted by Councillor L. Galvin
 in Athea Village can be repaired.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -161,13 +165,13 @@ Street can be repaired, made safe and the gate reopened when completed.
 
 NOTICES OF MOTION
 
-Notices of Motion submitted by Councillor J. Scanlan
+Notices of Motion submitted by Councillor J. Scanian
 
 | will move at the next Meeting of the Municipal District of Newcastle West that Limerick
 City and County Council provide adequate lighting at Feenagh Cemetery so as to ensure
 that property stored in it is protected from vandalism.
 
-1 will move at the next Meeting of the Municipal District of Newcastle West that the
+| will move at the next Meeting of the Municipal District of Newcastle West that the
 National Roads Authority be requested to provide safety measures at Lacey's Cross and
 at Upper Barnagh along the N21 in the immediate interest of public safety.
 
@@ -181,7 +185,9 @@ Church Road, Templeglantine.
 provided to repair and preserve the Cistercian Church, Fairy Street, Athea.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18.
@@ -211,4 +217,6 @@ with a view to establishing a Development Association for Newcastle West, that w
 as a united voice for all. A steering group has been established to coordinate this study.
 
 
----
+
+[[PAGE_END:4]]
+

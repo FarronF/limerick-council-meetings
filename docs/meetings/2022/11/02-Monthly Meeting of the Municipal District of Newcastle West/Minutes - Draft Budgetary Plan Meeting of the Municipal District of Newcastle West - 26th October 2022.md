@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%202022-10-26%20Minutes%20Draft%20Budgetary%20Plan%20Meeting.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Newcastle West - 26th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%202022-10-26%20Minutes%20Draft%20Budgetary%20Plan%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE
@@ -78,7 +79,9 @@ He also informed the Members that a total of €1,403,000 had been allocated to 
 Municipal Allocation with €270,000 of this assigned to the Municipal District of Newcastle
 
 West as follows:
----
+
+[[PAGE_END:1]]
+
 2
 
 **Svc**
@@ -182,7 +185,9 @@ community.
 He outlined marketing examples some of which include Invest Limerick, the Creation of a suite
 
 of new invest assets to promote Limerick as a prime location for investment
----
+
+[[PAGE_END:2]]
+
 3
 
 He referred to the Collaborative campaigns with Third Level partners on CAO Deadline Social
@@ -242,4 +247,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

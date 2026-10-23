@@ -16,39 +16,35 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-agenda-md-meeting-19-11-20.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-agenda-md-meeting-19-11-20.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
-
-& Contae Luimnigh Oifig an Crheartair, Ares Mhainchin Scoighe
-
-Ns —, Cl Mochealég,
-2 . Co. Luimnigh.
-
-— Limerick City —eer
-
+ee Comhairle Cathrach ——o Seber earthed Luimnigh.
+: A qQ Ma “he .
+i ig an Crearvtair, Ares Miveinchin Scoighe.
+= — & Contae Luimnigh Gill Mochesiég
+. . Co. Lubmnigh
+—>= Limerick City
 & County Council Limerick City and County Council,
-
 Aras Mainchin Seoighe Area Office,
 
-K@trriallock,
-
+K@rriallock,
 Co. Limerick.
 
 EIRCODE V35 K497
 
-t: #353 (0) 63 980 19
-f: +353 (0) 63 985 99
+t; +353 (0) 63 980 19
+f; +353 (0) 63 985 99
 
 13th November, 2020.
 
 A Chomhairleoir, a chara,
 
 You are requested to attend the Monthly Meeting of the Municipal District of Cappamore-
-Kilmallock to be held on Thursday 19° November at 3.00pm in the Deebert House Hotel,
+Kilmallock to be held on Thursday 19 November at 3.00pm in the Deebert House Hotel,
 Deebert, Kilmallock, Co. Limerick.
 
 The business to be transacted is set out on the appended Agenda.
@@ -63,14 +59,16 @@ of Cappamore-Kilmallock held on the 15th October, 2020.
 {ii) To consider the adoption of Minutes of Meeting of the Municipal District of
 Cappamore-Kilmallock held on the 15th October, 2020.
 
-& customerservicese@limerickie
+& customerservices@limerickie
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © Wworwlimerickie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Community Development Directorate
@@ -107,7 +105,9 @@ for a National Fire Training Centre in Kilmallock Business Park, complete with p
 consideration be given to the provision of a speed ramp at the Glenstal end of Murroe Village.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Notice of Motion submitted by Councillor Gerald Mitchell
@@ -142,7 +142,7 @@ community facilities.
 City and County Council look into the possibility of more funding being made available to
 Pallasgreen Community Council to complete work on the upgrading of the Community Hall.
 
-13. Notice of Motion submitted by Councillor M, Ryan
+13. Notice of Motion submitted by Councillor M. Ryan
 
 | will move at the next meeting of the Municipal District of Cappamore-Kilmallock that Limerick
 City and County Council roads engineers would engage with Knocklong Community Council re
@@ -150,7 +150,9 @@ their request for and concerns about Traffic Calming measures within the village
 along the R513.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor Donegan
@@ -161,7 +163,7 @@ Municipal District.
 
 15. Question submitted by Councillor Donegan
 
-I will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for the number
+| will ask at the next Meeting of the Municipal District of Cappamore-Kilmallock for the number
 of applicants on the housing list who have indicated Kilmallock as their first choice.
 
 16. Question submitted by Councillor Egan
@@ -188,4 +190,6 @@ on the traffic survey of Pallasgreen and Oola Road crossings in relation to traf
 requirements.
 
 
----
+
+[[PAGE_END:4]]
+

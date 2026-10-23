@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-20th-february-2025.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 20th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-20th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 Ceantar Bardasach Ath Dara-Rath Caola,
 
 Comhairle Cathrach agus Contae Luimnigh,
@@ -94,4 +95,6 @@ held in Áras Seán Finn, New Line Road, Rathkeale, Co. Limerick, on **Thursday,
 To receive a Deputation from representatives from Foynes Aviation Museum.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

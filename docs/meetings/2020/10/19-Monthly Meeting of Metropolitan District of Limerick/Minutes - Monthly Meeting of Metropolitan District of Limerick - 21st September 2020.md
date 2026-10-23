@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-draft-minutes-monthly-meeting-21st-september-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-draft-minutes-monthly-meeting-21st-september-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 21ST** **SEPTEMBER, 2020 at 09:45**
@@ -82,7 +83,9 @@ Seconded by Councillor O’Dea
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 (c) Circulated, copy of draft Minutes of the Monthly Meeting of the Metropolitan District of
@@ -166,7 +169,9 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 2020 setting out proposals to dispose of the Freehold Interest of premises consisting of a
 
 dwelling house situate at 40 Kilmurry Road, Garryowen, Limerick and the intention to bring
----
+
+[[PAGE_END:2]]
+
 3
 
 a Section 183 Notice to Full Council in this regard, for approval.
@@ -240,7 +245,9 @@ September, 2020 and enclosed Chief Executive’s Report dated 17th September, 20
 details in relation to the extension to ENGINE, Cecil Street, Limerick. The report had been prepared
 
 in accordance with Section 179 3(a) of the Planning and Development Act 2000 (as amended) and
----
+
+[[PAGE_END:3]]
+
 4
 
 Part 8 of the Planning and Development Regulations, 2001 (as amended) and noted that it was
@@ -314,7 +321,9 @@ Parking fine income January to June 2020 = €170,155
 ***year.***
 
 It was agreed to refer this item to the Joint Policing Committee.
----
+
+[[PAGE_END:4]]
+
 5
 
 **9.Question submitted by Councillor C. Sheehan**
@@ -386,7 +395,9 @@ and as such, we do not have information on their operations or employee data.
 ***for Metropolitan North in 2018 towards a Corbally Community Park, what progress has been***
 
 ***made so far.***
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY**: The group have engaged with the Forward Planning Department on the matter and as
@@ -482,7 +493,9 @@ acceptability or otherwise of development proposals. In land zoned residential d
 housing is the primary use and therefore would be acceptable in principle. The issue of provision
 
 and availability of local education places for primary and secondary education has been dealt at an
----
+
+[[PAGE_END:6]]
+
 7
 
 early stage during the plan making process.
@@ -558,7 +571,9 @@ will be amended to facilitate live streaming.
 ***I will ask at the next Meeting for a breakdown of the expenditure of the Guiding Limerick through***
 
 ***Covid plans.***
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY**: To date €195,889.64 (inclusive of VAT) has been spent on the Covid Mobility Plan measures.
@@ -636,7 +651,9 @@ Committee.
 It was agreed to refer this Notice of Motion to the Economic Development, Enterprise and Planning
 
 Strategic Policy Committee.
----
+
+[[PAGE_END:8]]
+
 9
 
 **22.Notice of Motion submitted by Councillor S. Hartigan**
@@ -776,7 +793,9 @@ Rosbrien
 Southill
 
 12
----
+
+[[PAGE_END:9]]
+
 10
 
 **Area of Choice (1st** **Preference)**
@@ -1116,7 +1135,9 @@ LIMEERICK
 2
 
 11
----
+
+[[PAGE_END:10]]
+
 11
 
 LIMERICK AREA
@@ -1476,7 +1497,9 @@ Policy Committee.
 **25.Notice of Motion submitted by Councillor C. Sheehan**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council moves***
----
+
+[[PAGE_END:11]]
+
 12
 
 ***to apply for relevant funding to install an additional pedestrian/zebra crossing along the main***
@@ -1550,7 +1573,9 @@ pandemic as it is a disincentive to follow health guidelines.
 ***University’s Governing Authority to implement a rent freeze across all University owned***
 
 ***accommodation and cancel the plans to turn single occupancy rooms into twin (shared) rooms***
----
+
+[[PAGE_END:12]]
+
 13
 
 ***which are clearly inadequate in terms of space and privacy, a proposal which because of the***
@@ -1626,7 +1651,9 @@ more important to highlight that recovery is possible.
 **REPLY:** Limerick City and County Council frequently receive requests to light up our Headquarters
 
 to support charity events. Some of the requests granted over the last year include :
----
+
+[[PAGE_END:13]]
+
 14
 
  'Lighting of Lights' for World Suicide Prevention Day, 10th September, 2020
@@ -1682,4 +1709,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Draft-Minutes-Annual-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
+**Original file:** [Draft Minutes - Annual Meeting of the Metropolitan District of Limerick - 19th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Draft-Minutes-Annual-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE, ON MONDAY, 19TH** **JUNE, 2023 AT**
@@ -88,7 +89,9 @@ Seconded by Councillor Slattery;
 “That Councillor Azad Talukder be appointed Cathaoirleach of the Metropolitan District of Limerick
 
 to hold office until the next Annual Meeting or until a successor has been appointed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Hartigan;
@@ -172,7 +175,9 @@ congratulated the Limerick Senior Hurling Team on their recent five-in-a-row Mun
 success and he looked forward to the challenge of the All-Ireland Semi-Final against Galway and
 
 hopefully further All Ireland success in 2023.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Director, National and Regional SSC, on behalf of Management and Staff congratulated
@@ -246,4 +251,6 @@ This concluded the Meeting.
 **SIGNED: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Cathaoirleach**
----
+
+[[PAGE_END:3]]
+

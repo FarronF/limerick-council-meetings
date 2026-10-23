@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-meeting-5th-march-2021.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 5th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-meeting-5th-march-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-————— Comhairle Cathrach Pn Cchemacemnunenen
-a & Contae Luimnigh Ceanncheathni Chorparaideach,
-ANcrN . Cé na gCeannaithe,
+——— Comhairle Cathrach a GemhenacemnUaeun
+a & Contae Luimnigh Ceanncheathri Chorparaideach,
+AN-N . Cé na gCeannaithe,
 — Limerick City Luimneach
 
 & County Council
-Comporae Services,
+Comporate Services,
 Limerick City and County Council
 Corporate Headquarters,
 Mercharts Quay,
@@ -43,7 +44,7 @@ TO EACH MEMBER OF LIMERICK JOINT POLICING COMMITTEE
 A Chara,
 
 | wish to inform you that a Virtual Meeting of Limerick Joint Policing Committee will take place on
-Friday, 5 March, 2021 at 10.0 a.m.
+Friday, 5® March, 2021 at 10.0 a.m.
 
 Details of the Agenda and attachments to be discussed at the meeting are set out hereunder :
 
@@ -72,14 +73,16 @@ Village.
 Area Briefing held on 11° January, 2021)
 “| will ask at the next Meeting what action An Garda Siochana is taking to address the issue
 of cars parking on footpaths throughout the city thereby obstructing pedestrians”.
-& Customerservices@limerickie
+ Customerservices@limerickie
 © wuvetimericicie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimnesch w @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimnesch w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -95,7 +98,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 15.
 
 i i Council n Hartigan
-“| will ask at the next Meeting what measures have been taken to enforce level 5 travel
+“1 will ask at the next Meeting what measures have been taken to enforce level 5 travel
 
 restrictions on the student population in Milford Grange, Plassey Grove, Elm Park and
 neighbouring estates”.
@@ -134,29 +137,31 @@ with the new Garda recruits assigned to the Limerick Division over the past year
 Refurbishment Capital Programme for 2022 and the inclusion of plans for new Garda
 Stations in Castletroy/Annacotty and Dooradoyle/Raheen/Mungret”.
 
-rl U T.
+rl U T
 “| will ask at the next Meeting, while | welcome the sight of checkpoints at St. Mary’s Park,
 are these checkpoints a Covid 19 action or a response to the known drug dealing occurring
 within the estate ? Have the Gardal been in contact with Limerick City and County Council
 with regards to the derelict houses that are allegedly used to store drugs ? Are there any
 intentions to investigate these abandoned premises ?”.
 
-Questi bmitted by Maurice Quinli Ip
+Questi bmitted by Maurice Quinli Lp
 “| will ask at the next Meeting for data with regards to Garda response times to calls from
 the public and also how many call outs had the force in Limerick to make in relation to stray,
 wandering and maltreated horses”.
 
 Notice of Motion submitted by Councillor Conor Sheehan
 
-“| will move at the next Meeting that the Joint Policing Committee ask the Chief
+“1 will move at the next Meeting that the Joint Policing Committee ask the Chief
 Superintendent to put in place a specific policing operation to combat the rise in anti social
 behaviour along the Canal Bank and Island Bank in Limerick city”.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-16. N f i i uncillor Conor n
+16. N f i i uncillor Conor in
 
 17.
 
@@ -164,7 +169,7 @@ behaviour along the Canal Bank and Island Bank in Limerick city”.
 Justice and The Garda Commissioner to seek the installation of CCTV cameras in Garryowen
 and Johnsgate Village”.
 
-N of ncillor Liam Galvin
+N of incillor Liam Galvin
 “| will move at the next Meeting that a joint operation between the Council and the Gardai
 take place to tackle the scourge of illegal dumping in our county (particularly Rooska)".
 
@@ -178,9 +183,13 @@ parents whose children are engaging in such behaviour by means of fines and that
 fines would be recovered by way of attachment of earnings, if applicable”.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

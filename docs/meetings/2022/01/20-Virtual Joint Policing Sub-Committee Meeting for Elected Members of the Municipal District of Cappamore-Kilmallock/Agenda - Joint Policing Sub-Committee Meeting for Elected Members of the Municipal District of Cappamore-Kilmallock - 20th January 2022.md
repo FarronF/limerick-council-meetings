@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-january-2022-jpc-sub-committee-meeting.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 20th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-agenda-for-january-2022-jpc-sub-committee-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14" January 2021.
@@ -32,8 +33,6 @@ January. 2022 at 2,30 p.m,
 The business to be transacted is set out on the Agenda below.
 
 Is mise le meas,
-
-Darren ) Prawn
 
 Dara O’Brien,
 Meetings Administrator.
@@ -52,4 +51,6 @@ Update on Community Alert presentation.
 To discuss policing issues in the District.
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Meeting%20of%20the%20Home%20and%20Social%20Development%20SPC%20Agenda.pdf)
+**Original file:** [Meeting of the Home and Social Development SPC Agenda.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Meeting%20of%20the%20Home%20and%20Social%20Development%20SPC%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Social Development Directorate**
@@ -98,4 +99,6 @@ taken against landlords letting substandard accommodation.
 **Chairperson**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

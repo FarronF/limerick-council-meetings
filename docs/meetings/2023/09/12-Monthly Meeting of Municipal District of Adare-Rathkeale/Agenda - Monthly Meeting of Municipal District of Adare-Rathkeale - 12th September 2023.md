@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-12th-September-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-12th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+<i Comhairle Cathrach
 & Contae Luimnigh
-oe —-
+ot ae —-
 
 — Limerick City
 & County Council
@@ -48,19 +49,19 @@ New Line,
 
 Rathkeale,
 
-Co. limerick
+Co. Limerick
 
 EIRCODE V94 HKiV
 
 t: +353 (0) 69 64047
 
-To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale (0) 69 65188
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkealé (0) 69 65188
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 
-Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 12" September, 2023 at 9.30
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 12" September, 2023 at 9.30
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -70,7 +71,7 @@ Meetings Administrator.
 
 AGENDA
 
-i Minutes
+i, Minutes
 
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
 
@@ -88,7 +89,7 @@ To note proposal for the disposal of land as follows:
 
 Knockboheen, Kilcolman, Ardagh, Co. Limerick.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaitheLuimneach |
+Ceanncheathra Chorpardideach, Cé na gCeannaitheLuimneach |}
 Corporate Headquarters, Merchants Quay, Limerick.
 
 & customerservicesa@limerickie
@@ -98,7 +99,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Proposed Disposal of Adare Heritage Centre, Adare, Co. Limerick.
@@ -136,7 +139,9 @@ Question received from Councillor K. Sheahan
 the defunct sewerage treatment plant in Askeaton prior to Irish Water being established.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -157,18 +162,20 @@ Notice of Motion received from Councillor K. Sheahan
 plan of action for the future of Askeaton Library.
 
 Notice of Motion received from Councillor K. Sheahan
-I will move at the next Meeting that this Council make a submission to Central
+| will move at the next Meeting that this Council make a submission to Central
 
 Government to have funding provided to address the tidal flooding that takes place in
 Askeaton town every year.
 
 Notice of Motion received from Councillor B. Collins
 
-! will move at the next Meeting that Limerick City and County Council requests that Bus
+| will move at the next Meeting that Limerick City and County Council requests that Bus
 Eireann Limerick School Bus Department attend the next Adare-Rathkeale District Meeting
 to discuss the ongoing problems with school bus operations.
 
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

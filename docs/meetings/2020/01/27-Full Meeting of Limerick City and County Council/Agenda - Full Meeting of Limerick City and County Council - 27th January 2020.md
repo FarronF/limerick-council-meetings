@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-january-meeting-27.01.2020.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 27th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00-agenda-january-meeting-27.01.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: ni Seirbhisi Corparaideacha,
-=i ay balay eesmtoh aa Comhairle Cathrach agus Contae Luimnigh.
-& Contae rinig Ceanncheathni Chorparaideach,
+: Pa Seirbhisi Corparaideacha,
+il ay balay festa at Comhairle Cathrach agus Contae Luimnigh.
+& Contae minig Ceanncheathni Chorparaideach,
 
 Cé na gCeannaithe,
 
-os Limerick City Luimnesch
+oe Limerick City Luimnesch
 & County Council
 
 Corporate Services,
@@ -58,7 +59,7 @@ ings Administrator.
 AGENDA
 1. Minutes
 
-To adopt Minutes of Ordinary Meeting of the Council held on 25'" November, 2019.
+To adopt Minutes of Ordinary Meeting of the Council held on 25" November, 2019.
 
 (Copy Enclosed)
 2. Disposal of Land
@@ -86,7 +87,9 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - §57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -140,7 +143,9 @@ resignation of Councillor Slattery as a member of the Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
@@ -194,7 +199,9 @@ amended.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (h)
@@ -259,7 +266,9 @@ Public Lighting Energy Efficiency Project — Southern Region.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -299,7 +308,7 @@ County and is GDPR compliant.
 
 Question submitted by Councillor J. Scanian
 
-I will ask at the next Meeting (a) as to the revenue generated from the sale of grave space in
+| will ask at the next Meeting (a) as to the revenue generated from the sale of grave space in
 each of our individual Municipalities in each of the years 2015, 2016, 2017, 2018 and 2019
 and (b) as to the total paid to Cemetery Committees in annual maintenance grants in each
 Municipal District in each year from 2015 through to 2019.
@@ -310,7 +319,9 @@ ti i llor E. O'Donovan
 numbers given to charities and the number euthanized.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -342,7 +353,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-! will move at the next Meeting that Cemetery Committees be given ownership and
+| will move at the next Meeting that Cemetery Committees be given ownership and
 responsibility for management and maintenance of their local graveyards where it is deemed
 in the interest of rural communities.
 
@@ -373,4 +384,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+

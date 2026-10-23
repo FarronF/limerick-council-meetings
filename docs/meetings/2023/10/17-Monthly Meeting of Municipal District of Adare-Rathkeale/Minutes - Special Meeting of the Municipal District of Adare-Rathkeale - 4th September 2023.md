@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-a-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 4th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-a-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE MANOR FIELDS, ADARE, CO. LIMERICK ON MONDAY,**
@@ -92,7 +93,9 @@ Discussion ensued in relation to the contents of the Plan. Members expressed con
 in relation to the proposed expansion of pedestrian areas and cycle lanes as well as the
 
 replacement of on-street parking with off-street parking. The Senior Executive
----
+
+[[PAGE_END:1]]
+
 Architect, Forward Planning, Public Realm & Heritage assured Members the new
 
 proposals for cycle lanes will not affect the width of the road through the village and
@@ -140,4 +143,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-of-16th-september-municipal-district-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 16th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-of-16th-september-municipal-district-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD ON
@@ -72,7 +73,9 @@ arranged at which Councillors M Donegan and G Mitchell present a draft motion in
 to corresponding to the Minister for Housing, Local Government and Heritage, Darragh
 
 O'Brien.
----
+
+[[PAGE_END:1]]
+
 **(ii)**
 
 Circulated copy of draft Minutes of Online Special meeting of the Municipal District
@@ -134,7 +137,9 @@ consideration.
 **Proposed by: Councillor Carey**
 
 **Seconded by: Councillor Donegan**
----
+
+[[PAGE_END:2]]
+
 4. Notice of Motion submitted by Councillor Teefy
 
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District that extra
@@ -196,7 +201,9 @@ support farmers and the local economy.
 **The Elected Members unanimously agreed that the Notice of Motion be forwarded to the**
 
 **Main Council meeting for inclusion.**
----
+
+[[PAGE_END:3]]
+
 7. Notice of Motion submitted by Councillor M Ryan
 
 I will move at the next meeting of the Municipal District that Limerick City and County
@@ -254,7 +261,9 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 on progress of the Beary’s Cross/N24 junction.
 
 **Reply:**
----
+
+[[PAGE_END:4]]
+
 Subsequent to the previous update in March 2021, the Compulsory Purchase Order (CPO),
 
 to acquire the land and to extinguish the rights of way necessary for construction of the
@@ -320,7 +329,9 @@ The Elected Members wished to acknowledge the work of Trevor McKechnie and his t
 in Kilglass with the barrier and also in Galbally with the fencing at the Community Field.
 
 The work undertaken by the Active Travel scheme was also acknowledged.
----
+
+[[PAGE_END:5]]
+
 **October JPC Meeting**
 
 Clarification was provided that the next Join Policing Committee meeting for the Cappamore
@@ -390,7 +401,9 @@ the respective organisations to the Meetings Administrator as follows:
 *from the Meeting. No discussion shall take place until the members of the Deputation*
 
 *have withdrawn from the Meeting***.”**
----
+
+[[PAGE_END:6]]
+
 **Covid Restrictions**
 
 The Elected Members requested that the review of the Standing orders with respect to
@@ -462,7 +475,9 @@ brave fight.
 Administrator would correspond with the O’Malley family on behalf of the Elected
 
 Members to acknowledge Mr O’Malley’s service in politics to the Limerick People.
----
+
+[[PAGE_END:7]]
+
  The family of PJ Garvey, late of Hospital-Herbertstown GAA and former Dual Inter
 
 County Limerick Player, who passed away suddenly on 24th August.
@@ -496,4 +511,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:8]]
+

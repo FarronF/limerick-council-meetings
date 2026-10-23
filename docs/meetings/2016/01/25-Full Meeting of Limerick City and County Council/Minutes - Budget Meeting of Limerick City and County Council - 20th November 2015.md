@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20November%202015.pdf)
+**Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 20th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL
@@ -114,7 +115,9 @@ At the outset, the Mayor proposed a Minute’s silence as a mark of respect to t
 who had been killed and injured following the recent terrorist attacks in Paris and
 
 Beirut.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Mayor opened the Meeting by outlining the proposed format for the Meeting
@@ -182,7 +185,9 @@ The Chief Executive went on to list the core objectives of the Budget as follows
 • To be efficient, effective and committed to providing services that would
 
 underpin an innovative Limerick.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 • Provision of funds for the preparation of Limerick’s bid for European Capital of
@@ -254,7 +259,9 @@ It was unanimously agreed that the Chief Executive’s Report on the Draft Budge
 **I attach, for your consideration, the Draft Annual Revenue Budget for Limerick City**
 
 **and County Council for year ending 31st December, 2016.**
----
+
+[[PAGE_END:3]]
+
 **4**
 
 **Circular Fin 08/2015 also refers to the prescribed period that applies for the holding of**
@@ -334,7 +341,9 @@ It was unanimously agreed that the Chief Executive’s Report on the Draft Budge
 **Significant pressures have been placed on the available funds of the Council for 2016 as**
 
 **a result of the reduction in the Commercial Rate base by the following:**
----
+
+[[PAGE_END:4]]
+
 **5**
 
 • **The level of appeals to the Revaluation Process carried out during 2014 has**
@@ -404,7 +413,9 @@ o **Ongoing support to the small and medium businesses and tourism sector.**
 **Table 1 below outlines the economic assumptions underlying the Department of**
 
 **Finance's budget for 2016.**
----
+
+[[PAGE_END:5]]
+
 **6**
 
 Table 1: Irish Economic Forecast
@@ -550,7 +561,9 @@ Source: Department of Finance
 **progress to be made. We have a target to create 12,000 jobs as part of the Limerick**
 
 **2030 Plan, with 5,000 of these in the City Centre.**
----
+
+[[PAGE_END:6]]
+
 **7**
 
 **All agencies responsible for the development and promotion of Limerick must continue**
@@ -666,7 +679,9 @@ H. Miscellaneous Services
 **155,872,135**
 
 Table 2: Analysis of Expenditure by Division
----
+
+[[PAGE_END:7]]
+
 The following chart gives a br
 
 Chart 1
@@ -9367,7 +9382,9 @@ ri, Ed, Health
 H - Misc
 
 Services
----
+
+[[PAGE_END:8]]
+
 **Analysis of Income 2016**
 
 **The level of expenditure sh**
@@ -15182,7 +15199,9 @@ ng HAP.
 (Image omitted)
 
 tes
----
+
+[[PAGE_END:9]]
+
 **76% of the Council's income**
 
 **Commercial Rates (35%), L**
@@ -17554,7 +17573,9 @@ y
 €10
 
 6
----
+
+[[PAGE_END:10]]
+
 **11**
 
 **Louth County Council, Monaghan County Council, South Dublin County Council,**
@@ -17628,7 +17649,9 @@ y
 **The Council's overall staffing level increased in 2015 following a long number of years**
 
 **of decline as highlighted in the chart below.**
----
+
+[[PAGE_END:11]]
+
 **12**
 
 Chart 5: Analysis of Staff Numbers
@@ -17720,7 +17743,9 @@ Chart 5: Analysis of Staff Numbers
 Sep-15
 
 Analysis of Staff Numbers
----
+
+[[PAGE_END:12]]
+
 **13**
 
 **The Members have made various provisions from revenue to capital over a number of**
@@ -17826,7 +17851,9 @@ Diff in Yrs €
 (63,696)
 
 Table 4: Analysis of Commercial Rate Income
----
+
+[[PAGE_END:13]]
+
 **14**
 
 **Due to the results of the revaluation appeals process and the reduction in the Global**
@@ -17892,7 +17919,9 @@ Table 5: Proposed Vacant Property Scheme 2016
 **conditions.**
 
 **The support payments are summarised in the following table.**
----
+
+[[PAGE_END:14]]
+
 **15**
 
 Commercial Rate Invoices
@@ -17984,7 +18013,9 @@ Table 6: Proposed Small & Medium Business Support Scheme 2016
 **In 2016, the Water and Waste Water Programme will be provided on an agency basis,**
 
 **based on the agreed Service Level Agreement and the annual service plan.**
----
+
+[[PAGE_END:15]]
+
 **16**
 
 **Rural Development Programme**
@@ -18102,7 +18133,9 @@ Table 6: Proposed Small & Medium Business Support Scheme 2016
 17.088
 
 Table 7: Summary Capital Plan 2016-2018
----
+
+[[PAGE_END:16]]
+
 **17**
 
 **I request the Members to consider the Capital Budget report as part of the budgetary**
@@ -18172,7 +18205,9 @@ Draft Budget2016, and
 (ii)
 
 Proposed Schemes:
----
+
+[[PAGE_END:17]]
+
 **18**
 
 • Proposed Small and Medium Business Support Scheme 2016.
@@ -18238,7 +18273,9 @@ Goods and Services – 30%.
 The A/Head of Finance provided a detailed analysis of expenditure under Division A
 
 as follows:
----
+
+[[PAGE_END:18]]
+
 **19**
 
 **Division A**
@@ -18390,7 +18427,9 @@ Budget for this Division, which were responded to by the Chief Executive and
 A/Head of Finance. The Council then noted the provisions made in the Draft Annual
 
 Budget for Division A – Housing and Building.
----
+
+[[PAGE_END:19]]
+
 **20**
 
 **Division B: Road Transportation and Safety**
@@ -18546,7 +18585,9 @@ Budget for Division B – Road Transportation and Safety.
 The A/Head of Finance provided a detailed analysis of expenditure under Division C
 
 as follows:
----
+
+[[PAGE_END:20]]
+
 **21**
 
 **Division C**
@@ -18714,7 +18755,9 @@ D12 Agency & Recoupable Services
 €2.43
 
 €0.20
----
+
+[[PAGE_END:21]]
+
 **22**
 
 He also provided an analysis of the major variances in the adopted Budget for 2015
@@ -18788,7 +18831,9 @@ Budget for this Division, which were responded to by the Chief Executive and
 A/Head of Finance. The Council then noted the provisions made in the Draft Annual
 
 Budget for Division D – Development Management.
----
+
+[[PAGE_END:22]]
+
 **23**
 
 **Division E: Environmental Services**
@@ -18966,7 +19011,9 @@ TOTAL:
 The Mayor then invited Members to indicate if they wished to ask questions in
 
 relation to Division E.
----
+
+[[PAGE_END:23]]
+
 **24**
 
 Members asked questions on several aspects of the provisions made in the Annual
@@ -19130,7 +19177,9 @@ Agency & Recoupable Services
 €0.00
 
 €0.00
----
+
+[[PAGE_END:24]]
+
 **25**
 
 He also provided an analysis of the major variances in the adopted Budget for 2015
@@ -19260,7 +19309,9 @@ A/Head of Finance. The Council then noted the provisions made in the Draft Annua
 Budget for Division F – Recreation & Amenity; and Division G/H – Agriculture,
 
 Education, Health and Welfare, and Corporate Services.
----
+
+[[PAGE_END:25]]
+
 **26**
 
 In relation to a query on the central management charge for Appendix 1 where the
@@ -19332,4 +19383,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Mayor**
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:26]]
+

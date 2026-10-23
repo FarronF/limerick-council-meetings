@@ -16,15 +16,16 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015_0.pdf)
+**Original file:** [Minutes - Monthly Meeting Municipal District of Cappamore-Kilmallock - 25th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20June%202015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON TUESDAY
-25 JUNE, 2015 AT 3.30 P.M.
+25" JUNE, 2015 AT 3.30 P.M.
 
 PRESENT IN THE CHAIR: Councillor E. Ryan.
 
@@ -43,7 +44,7 @@ Officer (Ms. L. Moloney).
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of the Municipal! District of Cappamore-
-Kilmallock held on 19 May, 2015.
+Kilmallock held on 19" May, 2015.
 
 Proposed by Councillor Gleeson;
 Seconded by Councillor Teefy:
@@ -61,7 +62,9 @@ recent years and that the trend was nationwide.
 Inspector Conlon agreed to attend the Municipal District Meetings quarterly.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Economic Development and Planning
@@ -92,7 +95,6 @@ and Planning dated 10” June, 2015, details as follows: (i) A country house at
 Bawntard North, Bulgaden, Kilmallock, Ref No P.P.S. 2015/A, (ii) A thatched house at
 Caherelly East, Grange, Kilmallock, Ref No P.P.S. 2015/B.”
 
-. fo :
 Protected Structures:
 
 Circulated, report from Director of Services, Economic Development and Planning,
@@ -113,7 +115,9 @@ Seconded by Councillor Donegan;
 And Resolved:
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That, in accordance with Section 55 of the Planning and Development Act 2000 (as
@@ -140,7 +144,7 @@ number of headings and was prepared and submitted to the Members pursuant to
 Section 179 of the Planning and Development Acts, 2000-2014, and Part 8 of the
 Planning and Development Regulations, 2001-2013.
 
-The report stated that plans and particulars went on public display from Monday, 2
+The report stated that plans and particulars went on public display from Monday, 2"
 February 2015 to Friday, 20" March, 2015. It was proposed to proceed as indicated
 in the Chief Executive's Report.
 
@@ -160,7 +164,9 @@ Nicker — Wall €3,000
 Kilfinane — Forest View footpaths €7,000
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. G Municipal Alloc 2016
@@ -207,7 +213,9 @@ Fisheries Ireland staff attempted to trace the source upstream, but
 were unable to identify the source on the evening in question due to
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the lateness of the hour and reduced visibility.
@@ -255,7 +263,9 @@ General Maintenance Budget and should be completed later this year.
 The following items were raised at the completion of the Agenda:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members requested that the hedges around signposts be cut in order to make
@@ -272,4 +282,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

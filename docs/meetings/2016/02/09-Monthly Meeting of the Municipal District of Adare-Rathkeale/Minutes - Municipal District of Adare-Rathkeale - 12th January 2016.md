@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 12th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -69,7 +70,9 @@ that the closing date for submissions be extended to a date after the publicatio
 summary. This was seconded by Councillor Neville.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -108,7 +111,7 @@ In response to Members queries on the Road Programme, the Operations Manager adv
 the list of road works was compiled based on last years allocation, however, notification on the
 current years programme allocation would be advised in February/March.
 
-It was agreed that the General Municipal Allocation Workshop should be held on Friday, 15”
+It was agreed that the General Municipal Allocation Workshop should be held on Friday, 1s”
 January, 2016 at 9.00 a.m.
 
 QUESTIONS
@@ -119,7 +122,9 @@ done on Askeaton and the lack of employment opportunities for people without ade
 training.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -129,7 +134,7 @@ on the weekend of the 30/10/15-1/11/15, arising from a family feud among the tra
 community in the town. Some of the parties alleged to have been involved are resident in
 Council-owned properties and some in private accommodation.
 
-Immediately on being notified of the events, staff from the Estate Management
+immediately on being notified of the events, staff from the Estate Management
 Unit of the Council visited a number of houses within Church View, and other
 locations, to (i) offer reassurance and support to those residents who were left
 traumatised and frightened and (ii) speak to representatives of the families
@@ -172,7 +177,9 @@ that there were a number of national schools in the district in need of pedestri
 work on same should be commenced.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In seconding the Motion, Councillor O’Brien indicated that pedestrian crossings were beneficial for
@@ -219,7 +226,9 @@ allow Fire Authorities to deal with any hazards associated with these gas bottle
 Minister be written to in this regard.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ze Correspondence
@@ -237,7 +246,7 @@ lands into consideration. The Members requested that Irish Water reconsider its 
 matter and, at a minimum, make provisions for an appropriate sewerage main, available for future
 use, to be laid as part of the improvement works.
 
-Soe eee Reena Renee anne eee ee eee Rese een ee ee ee nee Rese nee eee neenesnese semen sense nes cee een cere nen ren nee nes nseneseenceceeseseeene
+eee eee eee eee ee nee anne tenn eee nes eee nee ee ee nee ne enn ene eneeneseesesemeee sen een es eee eee en ene nen renee ers neeseseenceseeseseneee
 
 The following items were discussed at the conclusion of the Agenda with the consent of the
 Cathaoirleach.
@@ -267,7 +276,9 @@ chipped and licensed. The Director, Regional Services, indicated that it was a c
 were being walked on private land.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Neville indicated that in the mornings the stop/go system for traffic going into Limerick
@@ -285,4 +296,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-metropolitan-district-of-limerick-16th-june-2025_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 16th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-metropolitan-district-of-limerick-16th-june-2025_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-gs Comhairle Cathrach
+ges Comhairle Cathrach
 & Contae Luimnigh
-nr™N fe"s es
+nrosN fs es
 
 — Limerick City
 & County Council
 
 11" June, 2025.
 
-Sewbhisi Corparaideacha,
+Se®bhisi Corparaideacha,
 
-Cormhairie Cathrach agus Contae Luimnigh,
-Ceannchesthra Chorpardideach,
+Cormhairie Cathwach agus Contae Luimnigh,
+Ceannchesthri Chorpardideach,
 
 Cé na gCeannaithe,
 
-Lutmmnesch
+Lutmmesch
 
 Corporate Services,
 
@@ -82,14 +83,16 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 m customerservices@limerick.le
-© wwew.limerick.te
+© wow limerick.te
 
 v @LimerickCouncil
 
-(061 - 557150
+(061 - 557180
 
 
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Declaration of Interest**
@@ -153,7 +156,9 @@ Heritage (DHLGH) regarding the continuation of the Regeneration Programme in Lim
 the government provided justification on their decision to wind-down Limerick's Regeneration
 
 Programme.
----
+
+[[PAGE_END:2]]
+
 3
 
 **9.Question submitted by Councillor** **E. O’Donovan**
@@ -221,7 +226,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 Christmas in Limerick 2025 working group and what tentative plans/proposals they have
 
 identified to enhance the customer experience.
----
+
+[[PAGE_END:3]]
+
 4
 
 **16.Question submitted by Councillor P. Reale**
@@ -283,7 +290,9 @@ supply Dublin and other counties, because the scarce water supply in parts of Li
 to maintain adequate supply for our expanding population and its potential adverse ecological
 
 impacts.
----
+
+[[PAGE_END:4]]
+
 5
 
 **22.Notice of Motion submitted by Councillors S. Kiely and E. Secas**
@@ -349,7 +358,9 @@ Limerick LGBTQ Pride, The Outing Festival and Quare Clare to provide support in 
 EuroPride 2028 to the West of Ireland and commit to enhancing understanding and awareness of
 
 the LGBTQIA+ community.
----
+
+[[PAGE_END:5]]
+
 6
 
 **28.Notice of Motion submitted by Councillor P. Reale**
@@ -379,4 +390,6 @@ lifetime of the current government.
 **30.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:6]]
+

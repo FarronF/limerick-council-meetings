@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-january-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN SCOIL
@@ -80,7 +81,9 @@ Cappamore-Kilmallock held on 14th December, 2023.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 3. Matters Arising:
 
 There were no matters arising.
@@ -142,7 +145,9 @@ The Elected Members thanked the Executive Architect and Senior Executive Enginee
 their input.
 
 The Part 8 was accepted.
----
+
+[[PAGE_END:2]]
+
 7. Housing Strategy & Non-LA Housing Construction
 
 The Administrative Officer outlined that the most recent update had been provided on 29th
@@ -202,7 +207,9 @@ Members were requested to refrain from discussing same.
 **Seconded: Councillor Mitchell**
 
 9. GMA
----
+
+[[PAGE_END:3]]
+
 Change of GMA allocation from Bulgaden National School to Effin National School –
 
 Councillor Carey
@@ -302,7 +309,9 @@ Sites and Infill
 €30
 
 €37.50
----
+
+[[PAGE_END:4]]
+
 Sites in towns
 
 and villages
@@ -382,7 +391,9 @@ Trust, and the remaining €30,000 divided between the 7 Elected Members at €4
 Roads and Tourism GMA (€259,000) plus Capital Development Fund (to be confirmed) :
 
 €309,000 (estimated), divided between the 7 Elected Members at €44,142 per Elected
----
+
+[[PAGE_END:5]]
+
 **Caherguillamore event**
 
 An Cathaoirleach noted the St Stephens day event at Caherguillamore to remember the
@@ -448,7 +459,9 @@ agenda for the next Municipal District Meeting, and any changes will then go to 
 council should there be changes to the bye laws required.
 
 **Water Engineer**
----
+
+[[PAGE_END:6]]
+
 It was noted that the Water Engineer (Diarmuid O’Dea) was moving to a new role in Housing
 
 and that Neil Boyle would be the contact for water moving forward.
@@ -464,4 +477,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

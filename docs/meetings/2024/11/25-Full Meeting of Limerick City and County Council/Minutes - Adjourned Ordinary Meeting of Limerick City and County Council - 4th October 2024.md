@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-b-minutes-adjourned-ordinary-meeting-limerick-city-and-county-council-04.10.2024.pdf)
+**Original file:** [Minutes - Adjourned Ordinary Meeting of Limerick City and County Council - 4th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-b-minutes-adjourned-ordinary-meeting-limerick-city-and-county-council-04.10.2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -88,7 +89,9 @@ following:
  University and Castletroy Areas of Focus
 
  Raheen-Dooradoyle Areas of Focus
----
+
+[[PAGE_END:1]]
+
 2
 
  Historic City Centre
@@ -172,7 +175,9 @@ works at the following locations:
 6. An upgrade of the drinking water treatment facility in Dromcollogher
 
 7. An upgrade of the drinking water treatment facility in Athea
----
+
+[[PAGE_END:2]]
+
 3
 
  **More Affordable Homes for Purchase**
@@ -240,7 +245,9 @@ in our key towns.
 villages.
 
  The upgrade and development of public parks and recreational facilities.
----
+
+[[PAGE_END:3]]
+
 4
 
 He thanked the Mayor for engaging with the Members on the development of the Mayoral
@@ -314,7 +321,9 @@ be made more accessible for tourism.
 *hub, as enterprise centres and a periodic Limerick Business and Consumer Sentiment*
 
 *Survey.**”*
----
+
+[[PAGE_END:4]]
+
 5
 
  **ML113** **–**Include*“**as well as Cappamore playground, including all weather basketball*
@@ -396,7 +405,9 @@ funding required to increase the provision of housing in the city and county. It
 view of some Members that the Land Development Agency should be invited to address the
 
 Members.
----
+
+[[PAGE_END:5]]
+
 6
 
 Members also proposed that the Mayor should engage with outside bodies, such as Waterways
@@ -462,4 +473,6 @@ further develop Limerick in the future.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

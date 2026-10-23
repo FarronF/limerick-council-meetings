@@ -16,15 +16,16 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%2018th%20July%202019.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%2018th%20July%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN
 SEOIGHE, MILLMOUNT, KILMALLOCK, CO. LIMERICK, ON
-THURSDAY, 18” JULY, 2019, AT 3.00 P.M.
+THURSDAY, 18 JULY, 2019, AT 3.00 P.M.
 
 PRESENT IN THE CHAIR:
 
@@ -65,7 +66,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 {iii} | Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
@@ -111,7 +114,9 @@ presentation to the elected Members on the Chief Executives Report dated 25™ J
 and gave an overview of the proposed Kilmallock Local Area Plan 2019-2025, She also went
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 through each submission received in relation to it and the proposed response to each
@@ -157,7 +162,9 @@ investment plan during 2019.
 Upgrade to Inlet Works
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Please note Hospital will require planning permission, which our consultants are currently
@@ -203,13 +210,15 @@ on a section of the R512 between the Pike and the new JFK Statue, for the placem
 raised pedestrian crossing, which will be going ahead later this year.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 While a recent funding application through the Low Cost Safety Scheme for additional works
 at this location was unsuccessful, a tender is currently being placed by Central Services for
 the provision of Driver Feedback Signs, which also includes 10 No. for the Cappamore-
-Kilmallock Municipal District Roads Area, Exact locations have not yet been identified for
+Kilmaliock Municipal District Roads Area. Exact locations have not yet been identified for
 same, but this can be considered when a supplier for Driver Feedback Signs has been
 identified.
 
@@ -248,7 +257,9 @@ Up to now, the timeframe for return of properties includes a Voids funding appli
 the Department in advance, with works commencing upon receipt of approval.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 To manage the issue, we are in the process of introducing a fast-track process that will see a
@@ -295,10 +306,12 @@ Due to budget limitations, the projected demand for CCTV installation in the 14 
 been met by installation in two waves.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Wave i
+Wavei
 Currently the Smart CCTV project Wave 1 is in transition (test) status.
 
 Wave 1 CCTV installations are completed in all 14 towns with all 14 systems recording live
@@ -313,7 +326,7 @@ have been installed in 23 new locations in the 14 towns, as follows:
 
 * 9x 270' Panoramic PTZ cameras
 
-* 3x 180' Panoramic PTZ cameras
+* 3.x 180' Panoramic PTZ cameras
 
 * 18x ANPR cameras for number plate recognition
 
@@ -357,7 +370,9 @@ framework develop during the Smart CCTV project many other communities will succ
 their applications under the DoJ Community CCTV Scheme.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In November 2018, we secured €334,573 in funding from the Community CCTV Scheme of
@@ -370,9 +385,9 @@ CCTV Scheme.
 
 Next steps
 
-* implement any DPC Audit Recommendations when available
+* Implement any DPC Audit Recommendations when available
 
-* Safer Communities Website - including info and a map of all CCTV in Limerick
+* Safer Communities Website — including info and a map of all CCTV in Limerick
 
 * Community Consultations — Demo of CCTV Monitoring Centre and DPIA update
 
@@ -403,7 +418,9 @@ proposed attendees as received from the Municipal Districts. It is expected that
 meeting will occur shortly after the summer period.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor Martin Ryan
@@ -440,7 +457,7 @@ work carried out by Supt Sugrue during the short time he was in the District, th
 Members agreed that it was very important that a Superintendent was given the time to get
 to know a District to ensure that policing resources were fully applied throughout a District.
 
-¢ Delegati om T re Ireland (Til
+¢ Delegati oO m T re Ireland (Til
 
 The Cathaoirleach referred to the proposed meeting with Transport Infrastructure Ireland
 (Tit) which is likely to take place in the Autumn. It was agreed to re-circulate the suggested
@@ -448,7 +465,9 @@ agenda items from the District, to the Elected Members, in case they wanted to a
 suggested items for this proposed meeting.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -480,4 +499,6 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:10]]
+

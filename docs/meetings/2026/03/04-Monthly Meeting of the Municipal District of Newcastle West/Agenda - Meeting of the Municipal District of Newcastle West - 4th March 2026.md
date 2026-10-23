@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-meeting-of-the-municipal-district-of-newcastle-west-4th-march-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 4th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-meeting-of-the-municipal-district-of-newcastle-west-4th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 — Comhairle Cathrach Duriche Bardais an Chaisleain Nua Thiar,
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 = e Gortbul,
 
-—=— Limerick City : An Caislean Nua Thiar,
-& County Council Co, Luimnigh.
+—— Limerick City ; An Caisiean Nua Thiar,
+& County Council Co, Luimnigh
 
 Aras William Smith O'Brien,
 
@@ -41,18 +42,18 @@ Co. Limerick.
 
 Exrcode: V42EH73
 
-27" February, 2026 t: #353 (0) 69 62100
+27" February, 2026 t: +353 (0) 69 62100
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 4” March, 2026,
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 4 March, 2026,
 at. 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-fou cbule
+fomuchuite
 
 Heather Supple,
 Meetings Administrator.
@@ -70,7 +71,7 @@ February, 2026.
 (Copy Enclosed)
 
 Declaration of Interest.
-Regeneration, Communit Ul | r e.
+Regeneration, Communit I i r e.
 
 To Discuss Public Realm Plan for Dromcollogher.
 
@@ -78,11 +79,13 @@ Disposal of Land
 
 @ customerserviceselimerick.ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © vevewlirmerick.le
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © vevewirmerick.le
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -110,7 +113,7 @@ Abbeyfeale.
 | will ask at the next Meeting for a detailed update on (a) Devon Road junction (b)
 Dore’s Cross, Templeglantine.
 
-| will ask at the next Meeting for a detailed update on Daly's building, Abbeyfeale.
+I will ask at the next Meeting for a detailed update on Daly's building, Abbeyfeale.
 
 Questions submitted by Councillor T. Ruddle
 
@@ -120,10 +123,10 @@ Newcastle West. They are hanging very dangerously over the main N21 to
 Killarney/Tralee.
 
 | will ask at the next Meeting that Limerick City and County Council prioritise the
-Ballintubrid road L21008 for this year’s Road Works Programme. The road isin a
+Ballintubrid road L21008 for this year’s Road Works Programme. The road is ina
 very bad state of repair for the past few years.
 
-I will ask at the next Meeting that Limerick City and County Council consider putting
+| will ask at the next Meeting that Limerick City and County Council consider putting
 ramps and raised platforms on the Knockane/Monegea road to reduce speed.
 
 Question submitted by Councillor Scanian
@@ -132,7 +135,9 @@ Question submitted by Councillor Scanian
 at Upper Maiden Street, Newcastle West.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -161,7 +166,7 @@ School. As part of these works, | would ask that St. Joseph's Park be included i
 these works also. | am bringing this Motion on foot of recent correspondence from
 the Principal and pupils of the school.
 
-Notice of Motion submitted by Councillor T. Ruddle
+Notice of Motion submitted by Councillor T. Ruddie
 | will move at the next Meeting that Limerick City and County Council repaint the
 
 pedestrian crossings in Newcastle West that require it in particular the crossing from
@@ -177,4 +182,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

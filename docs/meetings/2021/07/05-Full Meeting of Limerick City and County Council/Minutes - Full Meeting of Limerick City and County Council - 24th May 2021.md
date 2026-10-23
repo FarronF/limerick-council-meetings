@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-a-minutes-ordinary-meeting-24.05.2021.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 24th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-a-minutes-ordinary-meeting-24.05.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD ON MONDAY, 24TH MAY, 2021, AT 3PM.
@@ -96,7 +97,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 any declaration of interest in any item due for discussion at the Meeting. No such interests were
 
 declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -176,7 +179,9 @@ Limerick, to Sean Kelleher, for the sum of €239.45, the disposal to be by way 
 of the interest of Limerick City and County Council in the property, particulars of which were
 
 contained in Statutory Notice dated 25th March, 2021.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (d)
@@ -256,7 +261,9 @@ which were contained in Statutory Notice dated 26th April, 2021.”
 Circulated, copy of Statutory Notice dated 26th April, 2021, concerning disposal of land at 30,
 
 St. Laurence Park, Garryowen, Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor O’Hanlon;
@@ -338,7 +345,9 @@ contained in Statutory Notice dated 10th May, 2021.”
 Circulated, copy of Statutory Notice dated 11th May, 2021, concerning disposal of land at
 
 Gragane, Caherconlish, Co. Limerick.
----
+
+[[PAGE_END:4]]
+
 5
 
 Proposed by Councillor O’Hanlon;
@@ -416,7 +425,9 @@ Proposed by Councillor O’Hanlon;
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act, 2001
@@ -492,7 +503,9 @@ Members raised the following points:
  Venture capital funding.
 
  Grant aid available.
----
+
+[[PAGE_END:6]]
+
 7
 
 (b)
@@ -568,7 +581,9 @@ relation to the following:
 Council Buildings, Emergency Homeless, Backup Fire Station and COVID impact on Goods
 
 and Services income.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Director, Support Services, referred to the significant support to the Local Government Sector.
@@ -640,7 +655,9 @@ Government Act, 2001 (as amended by the Local Government Reform Act, 2014), to t
 expenditure incurred in excess of that provided for in the Annual Budget for the financial year ended
 
 31st December, 2020, including capital transfers.”
----
+
+[[PAGE_END:8]]
+
 9
 
 5 (e) Annual Report
@@ -706,7 +723,9 @@ held on 13th April, 2021.
 On the proposal of Councillor O’Sullivan, seconded by Councillor O’Hanlon, the
 
 Recommendation was agreed.
----
+
+[[PAGE_END:9]]
+
 10
 
 **Recommendation 2:**
@@ -772,7 +791,9 @@ Circulated, Report of the Chairperson of the Travel and Transportation Strategic
 Committee dated 10th May, 2021, in relation to Meeting of the Committee held on 20th April,
 
 2021.
----
+
+[[PAGE_END:10]]
+
 11
 
 **Recommendation**:
@@ -840,7 +861,9 @@ The report was noted by the Council.
 On the proposal of Councillor Sheahan (J), seconded by Councillor O’Hanlon, the July
 
 Meeting of the Council was re-scheduled to Monday, 5th July, 2021, at 3pm.
----
+
+[[PAGE_END:11]]
+
 12
 
 6.
@@ -938,7 +961,9 @@ Council approve the working capital loan of €300,000 to EI Travel Group/Lazy B
 in the provision of bike hire and shuttle bus service on the Limerick Greenway at Limerick City and
 
 County Council owned properties.
----
+
+[[PAGE_END:12]]
+
 13
 
 Councillor Scanlan proposed that the Council not approve the loan and this was seconded
@@ -1006,7 +1031,9 @@ Question submitted by Councillor L. Galvin
 **rural housing and the sewerage system in the parish is at capacity or where houses are not**
 
 **available.**
----
+
+[[PAGE_END:13]]
+
 14
 
 **REPLY:**
@@ -1100,7 +1127,9 @@ date (where
 available)
 
 Comment
----
+
+[[PAGE_END:14]]
+
 15
 
 Glin WWTP
@@ -1232,7 +1261,9 @@ authority, the allocation available and the potential solutions
 and cost estimates. LAs will be notified of successful projects
 
 throughout 2021 as project details are finalised.
----
+
+[[PAGE_END:15]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Settlements with Waste Water Discharge Authorisations - Wastewater Treatment Capacity
@@ -1241,15 +1272,21 @@ Waste Water Discharge Licences (WWDL) and Certificates of Authorisation (CoA) 17
 
 
 
----
+
+[[PAGE_END:16]]
+
 17
 
 (Image omitted)
----
+
+[[PAGE_END:17]]
+
 18
 
 (Image omitted)
----
+
+[[PAGE_END:18]]
+
 **1**0.
 
 Question submitted by Councillor J. Leddin
@@ -1337,7 +1374,9 @@ Approved Housing Bodies needs to go through a transparent and open Expression of
 Interest process with qualifying criteria for assessment, as was recently undertaken
 
 by the Directorate for a number of landbanks in the city.
----
+
+[[PAGE_END:19]]
+
 20
 
 13.
@@ -1419,7 +1458,9 @@ Following some discussion, the Mayor directed that a Vote be taken on the amendm
 proposed by Councillor Sheahan (J), seconded by Councillor Leddin. The result of the voting was as
 
 follows:
----
+
+[[PAGE_END:20]]
+
 21
 
 **For**
@@ -1481,7 +1522,9 @@ The Motion was proposed by Councillor Ruddle and seconded by Councillor Foley.
 In addition, the Council agreed to circulate the Motion to the Chief Superintendent, Henry
 
 Street, Limerick.
----
+
+[[PAGE_END:21]]
+
 22
 
 16.
@@ -1555,7 +1598,9 @@ Notice of Motion submitted by Councillor S. Kiely
 **relationship at some point in the future.**
 
 The Motion was proposed by Councillor Kiely and seconded by Councillor C. Sheehan.
----
+
+[[PAGE_END:22]]
+
 23
 
 20.
@@ -1585,4 +1630,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:23]]
+

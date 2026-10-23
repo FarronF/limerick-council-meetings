@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -78,7 +79,9 @@ refurbishment and renovation of the Kilfinane Market House held on 1st February
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising
 
 There were no matters arising.
@@ -132,7 +135,9 @@ and on public display until the 1st March. Depending on submissions received, th
 would be put on the agenda of the full Council meeting in March or May for consideration and
 
 adoption by the Elected Members. This was noted by the Elected Members.
----
+
+[[PAGE_END:2]]
+
 A query was raised in relation to whether a bus stop at Holycross would be possible. The issue
 
 of safety regarding buses stopping here was highlighted. The Senior Executive Engineer and
@@ -206,7 +211,9 @@ example.
 Notice of Motion submitted by Councillor Martin Ryan deferred to
 
 March Meeting
----
+
+[[PAGE_END:3]]
+
 NOTICES OF MOTION
 
 9.Notice of Motion submitted by Councillor Carey
@@ -264,7 +271,9 @@ approval. If the proposed reduced speed limit is adopted, the Municipal District
 assess the pedestrian crossing movements and if warranted, a design will prepared and a
 
 funding submission made to the relevant funding authority.
----
+
+[[PAGE_END:4]]
+
 11.Notice of Motion submitted by Councillors Donegan
 
 “I will move at the next meeting of the Municipal District of Cappamore-Kilmallock that
@@ -322,7 +331,9 @@ Ash Hill estate. With respect to Ash Hill specifically, the Roads Maintenance Te
 scheduling minor drainage works in the estate to relieve surface water ponding at the rear
 
 of the estate. It is expected that these works will be carried out shortly.
----
+
+[[PAGE_END:5]]
+
 14.Question submitted by Councillor Donegan
 
 “I will ask at the next meeting of the Cappamore-Kilmallock Municipal District when the
@@ -376,7 +387,9 @@ the Part 8 project be approved, the Municipal District office and the Active Tra
 make a submission to the NTA for funding.
 
 **The Questions were taken as read.**
----
+
+[[PAGE_END:6]]
+
 Any Other Business
 
 **Votes of Sympathy**
@@ -444,7 +457,9 @@ Sean Coughlan well on his departure from Limerick City and County Council and in
 role. The Elected Members complimented his professionalism and thanked him for his
 
 support when Director of Services of the Municipal District.
----
+
+[[PAGE_END:7]]
+
 **Parking**
 
 Parking in Kilfinane was discussed. It was acknowledged that the Local Authority were aware
@@ -472,4 +487,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20July%202015.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 21st July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL
@@ -96,7 +97,9 @@ Seconded by Councillor Daly;
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 Emergency Motion – Proposed Development at Gortadroma
@@ -182,7 +185,9 @@ Proposed by Councillor O’Hanlon;
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That, the approval of the Council be and is hereby given to the disposal of the
@@ -270,7 +275,9 @@ Corporate Services
 Chief Executive’s Report
 
 Circulated, Chief Executive’s Reports for the months of May and June.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Chief Executive’s Reports for the months of May and June were noted by
@@ -342,7 +349,9 @@ As there were no other nominations, the Mayor declared Councillor O’Hanlon
 appointed to the Board of Governors of St. John’s Hospital for the duration of
 
 Councillor O’Dea’s term as Mayor of the Metropolitan District of Limerick.
----
+
+[[PAGE_END:4]]
+
 5
 
 (e)
@@ -418,7 +427,9 @@ the Limerick Association Birmingham which was scheduled for 19th September, 2015
 The estimated cost of the trip for the Mayor and 1 official was €1,259 and the approval
 
 of the Council was being sought to this visit.
----
+
+[[PAGE_END:5]]
+
 6
 
 In response to queries raised by Members, the Mayor indicated that the
@@ -492,7 +503,9 @@ and Irish language.
 costs associated with any of the planned events and people in various sectors
 
 were anxious to be involved.
----
+
+[[PAGE_END:6]]
+
 7
 
 5.
@@ -578,7 +591,9 @@ Council
 Circulated, Annual Financial Statement for year ended 31st December, 2014,
 
 together with report from the Head of Finance dated 6th July, 2015.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Head of Finance reviewed the Annual Financial Statement for the financial
@@ -662,7 +677,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (J);
 
 And Resolved:
----
+
+[[PAGE_END:8]]
+
 9
 
 “That, authorisation is hereby given, in accordance with Section 104(2) of the
@@ -740,7 +757,9 @@ And Resolved:
 hereby adopted, in accordance with Section 66 (2) of the Local Government Act, 2001
 
 (as amended).”
----
+
+[[PAGE_END:9]]
+
 10
 
 7.
@@ -820,7 +839,9 @@ it was agreed that the following Members would attend:
 **Galway (31st** **July/1st** **August):** Councillors Ryan, Hurley.
 
 **Clonakilty (7th/9th** **August):** Councillor Teefy.
----
+
+[[PAGE_END:10]]
+
 11
 
 (ii)
@@ -906,7 +927,9 @@ Adare-Rathkeale
 2 Voids
 
 3 Casual Vacancies
----
+
+[[PAGE_END:11]]
+
 12
 
 Cappamore-Kilmallock
@@ -990,7 +1013,9 @@ Question submitted by Councillor J. Sheahan
 Legal advice was sought in relation to this Question and I set out details
 
 of the advice received hereunder for your attention:
----
+
+[[PAGE_END:12]]
+
 13
 
 **“*To deal with this Question, one has to consider Section 183 of the***
@@ -1080,7 +1105,9 @@ of the advice received hereunder for your attention:
 ***However, I must reiterate that such a revocation must not result in***
 
 ***any breach of statutory law or common law.***
----
+
+[[PAGE_END:13]]
+
 14
 
 ***Further, where the Council is exercising a quasi-judicial power,***
@@ -1168,7 +1195,9 @@ of the advice received hereunder for your attention:
 ***Councillors do not have the same leeway to revoke. I trust the***
 
 ***above clarifies the position.”***
----
+
+[[PAGE_END:14]]
+
 15
 
 13.
@@ -1250,7 +1279,9 @@ authority.
 The opinion is formed by the Board at the conclusion of the pre-
 
 application stage.
----
+
+[[PAGE_END:15]]
+
 16
 
 NOTICES OF MOTION
@@ -1330,7 +1361,9 @@ Notice of Motion submitted by Councillor J. Scanlan
 ***Municipal and the Metropolitan Areas for allocation as agreed at Local Level in***
 
 ***the forthcoming years Budgets.***
----
+
+[[PAGE_END:16]]
+
 17
 
 In proposing the Motion, Councillor Scanlan noted that a dividend of €350,000
@@ -1412,7 +1445,9 @@ Councillor Sheahan (J) requested that this Motion be deferred to the next
 Meeting in light of the Emergency Motion that had been agreed earlier in relation to
 
 Gortadroma and this was agreed.
----
+
+[[PAGE_END:17]]
+
 18
 
 21.
@@ -1494,7 +1529,9 @@ was notified on Friday, 17th July, that the Department of Transport, Tourism and
 of Road Restoration Improvement. This grant was part of an additional €24,000,000
 
 in funding being made available nationally this year for road improvements.
----
+
+[[PAGE_END:18]]
+
 19
 
 It was intended that the additional funding would be used to carry out additional
@@ -1546,4 +1583,6 @@ Date:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 .
----
+
+[[PAGE_END:19]]
+

@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-ordinary-meeting-limerick-city-and-county-council-25.11.2024.pdf)
+**Original file:** [Agenda -  Ordinary Meeting of Limerick City and County Council - 25th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-ordinary-meeting-limerick-city-and-county-council-25.11.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Serbhisi Corpardideacha,
 
-a path oul fennel Comnairle Cathwach agus Contae Luimnigh,
-& Contae uimnig Ceanncheathra Chorparaideach,
+ie ee Comnairle Cathwach agus Contae Luimnigh,
+& Contae uImnig Ceanncheathra: Chorparaideach,
 
-aArc™ —————————— Cé na gCeannaithe,
+“Arc™ ————— Cé na gCeannaithe,
 
 — Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
-20" November, 2024. aaa mm
+20" November, 2024. sealiagirroy some
 Limerick
 EIRCODE V94 EH90
 To: The Mayor, Priomh Chomhairleoir and Each Member of
-Limerick City and County Council a rananene
+Limerick City and County Council a rananane
 f +353 (0) 61 415 266
 A Chomhairleoir, a chara,
 You are requested to attend Meeting of Limerick City and County Council to be held in the
@@ -45,7 +46,7 @@ Council Chamber, Dooradoyle, Limerick, and Online, on iad 4, at
 
 The business to be transacted is set out on the appended Agenda.
 
-Is me le Joa j) ]
+Is ve le Toa J) Y
 Ciara Farrell,
 Meetings Administrator.
 
@@ -74,14 +75,16 @@ Housing Directorate
 (a) 6, Sarsfield Avenue, Garryowen, Limerick (Registry of Deeds).
 (b) Knockatanna, Caherconlish, Co, Limerick (LK4127L).
 (c) Knokbrack, Abbeyfeale Co. Limerick (LKS762L).
-c= Customerservices@limerick.te
-© Woo limerick.te
+c= Customerservices@limerick.ie
+© Weorwilimerick.te
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick (061 - 57150
+Ceanncheathria Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) Knocklong West, Kilmallock, Co. Limerick (LK5817L).
@@ -111,7 +114,7 @@ General Disposals
 Derelict Disposals
 (p) Property at 3 Kileely Villas, Thomondgate, Limerick.
 (Statutory Notices dated 28" August, 30"" September, 8" and
-23” October and 14° November, 2024, already circulated)
+23” October and 14" November, 2024, already circulated)
 Services, Human
 (a) Executive Report
 
@@ -132,14 +135,16 @@ To note update on Corporate Plan 2024-2029.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (4)
 
 (e)
 
-Foreign Trav:
+Foreign Trav
 
 To consider approval of foreign travel, in accordance with Section 142(5) of the
 Local Government Act, 2001, as amended, as set out hereunder:
@@ -192,7 +197,9 @@ and Arts Scheme 2024.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -219,7 +226,7 @@ QUESTIONS
 
 Question submitted by Councillor J. Scanian
 
-I will ask at the next Meeting (2) what remains as the outstanding balance on the loan
+! will ask at the next Meeting (a) what remains as the outstanding balance on the loan
 provided to the Dublin Bike-Hire Company, (b) are repayments on schedule and (c)
 when is full and final repayment due.
 
@@ -241,7 +248,9 @@ I will ask at the next Meeting can the Council give a timeframe on how long it t
 after reporting a bulb gone on a street light to have the bulb replaced.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -282,25 +291,27 @@ TICES OF MOT!
 
 Notice of Motion submitted by Councillor S. Benson
 
-I will move at the next Meeting that this Council write to the Minister for Education
+| will move at the next Meeting that this Council write to the Minister for Education
 urging her to scrap plans to spend €9 million on mobile phone pouches and to allocate
 this funding instead to special education provision.
 
 Notice of Motion submitted by Councillor C. Sheehan
 
-I will move at the next Meeting that this Council write to the Minister for Health and
+| will move at the next Meeting that this Council write to the Minister for Health and
 Taoiseach to ask them to intervene to ensure that the specialist nursing vacancies are
 filled in the University Hospital Limerick Oncology Department as soon as possible.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
 
 21.
 
-Notice of Motion submitted by Councillors J. Scanlan and E. Ryan
+Notice of Motion submitted by Councillors J. Scanian and E. Ryan
 
 We will move at the next Meeting that Limerick City and County Council call on the
 Minister for Transport to remove the condition that a secondary land holding of one
@@ -314,7 +325,7 @@ add the following to Chapter 11 Development Management Standards, 11.7.2.1 Wind
 
 Energy:
 
-“In addition to the above, the following local considerations will be taken into account
+"In addition to the above, the following local considerations will be taken into account
 by the Council in relation to any planning application;
 
 « Impact on human health in relation to noise disturbance (including consistency
@@ -329,9 +340,9 @@ Council for a six-month amnesty for XL Bully dogs that are being surrendered to 
 animal welfare charities. This amnesty would facilitate the rehoming of these dogs to
 other countries, such as Italy and Sweden.
 
-ed by Councillor S. Hick: f
+ed by Councillor S. Hick: a
 
-I will move at the next Meeting that we run a Limerick-wide campaign to highlight the
+| will move at the next Meeting that we run a Limerick-wide campaign to highlight the
 importance of Men’s Mental Health through engaging with sports organisations,
 men’s sheds, schools, and other organisations to promote connection and a sense of
 belonging in our city and county.
@@ -339,4 +350,6 @@ belonging in our city and county.
 Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

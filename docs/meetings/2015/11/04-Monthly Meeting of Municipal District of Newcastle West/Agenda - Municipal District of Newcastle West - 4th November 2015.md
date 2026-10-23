@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 4th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+ee Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANS Cé na gCeannaithe,
+ay a Cé na gCeannaithe,
 
-P — Luimneach
+‘5 —— Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
-COUNCIL Te Quay,
+COUNCIL ——T Quay,
 imerick
 
 t: +353 (0) 61 407 100
@@ -48,18 +49,17 @@ Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 4th Novem
 2015, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-Cows OG
-Tina Knox,
+Cons OS G@—
+W Tina Knox,
 Meetings Administrator.
 
 AGENDA
 
 1. Minutes
-
 To adopt Minutes of the following Meetings:
 
 (a) Municipal District of Newcastle West held on 7 October, 2015.
-(b) Draft Budgetary Plan 2016 held on 21 October, 2015.
+(b) Draft Budgetary Plan 2016 held on 21* October, 2015.
 
 (Copies Enclosed)
 
@@ -72,7 +72,9 @@ Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © www imerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -121,7 +123,9 @@ and Ambrose's entrance with particular emphasis being placed on the significant 
 risks at Daar Bridge.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -151,4 +155,6 @@ bridge at Knocknagorna Athea.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

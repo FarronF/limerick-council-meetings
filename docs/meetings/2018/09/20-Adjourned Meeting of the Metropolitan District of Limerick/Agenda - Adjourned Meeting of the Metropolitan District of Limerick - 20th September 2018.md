@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20Adjourned%20Meeting%20of%20Metropolitan%20District%2020th%20September%202018.pdf)
+**Original file:** [Agenda - Adjourned Meeting of the Metropolitan District of Limerick - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20Adjourned%20Meeting%20of%20Metropolitan%20District%2020th%20September%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae tetra Cathrach
-= Contae Luimnigh
-“™N . . *
+ae tapiclrenbes Cathrach
+_ Contae Luimnigh
+“™N : . .
 — Limerick City
 & County Council
 
@@ -55,7 +56,7 @@ To: The Mayor and each Member of the Metropolitan District of Limerick
 
 A Chomhairleoir, a chara,
 
-1 wish to advise that, as agreed at today’s Meeting of the Metropolitan District of Limerick,
+| wish to advise that, as agreed at today’s Meeting of the Metropolitan District of Limerick,
 Agenda Item No. 4(a) was deferred for consideration at the Adjourned Meeting to be held on
 
 Thursday, 20" September, 2018 at 6.00 p.m.
@@ -79,10 +80,12 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Report Enclosed).
 
 = customerservices@limerick.ie
-© wvew.timerickie
+ wvewtimerickie
 
 @LimerickCouncil
 (061 - $7150
 
 
----
+
+[[PAGE_END:1]]
+

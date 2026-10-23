@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01b-2020-10-21-minutes-draft-budgetary-plan-meeting.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Newcastle West - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01b-2020-10-21-minutes-draft-budgetary-plan-meeting.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
 MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE
@@ -110,7 +111,9 @@ F04
 Community Initiatives
 
 20,000
----
+
+[[PAGE_END:1]]
+
 2
 
 Special Projects – LA Infrastructure
@@ -162,4 +165,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

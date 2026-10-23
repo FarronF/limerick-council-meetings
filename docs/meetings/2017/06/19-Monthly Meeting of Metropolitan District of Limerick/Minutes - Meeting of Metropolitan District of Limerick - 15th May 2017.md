@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20May%202017.pdf)
+**Original file:** [Minutes - Meeting of Metropolitan District of Limerick - 15th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20May%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
 **IN THE** **COUNCIL CHAMBER, MERCHANT’S QUAY,** **LIMERICK, ON MONDAY, 15TH** **MAY, 2017**
@@ -94,7 +95,9 @@ before the May Meeting of the Council. Members welcomed the proposed disposal on
 grounds that it would assist Mungret Regional Football Club in drawing down funding and
 
 enhance their capacity to deliver facilities for their growing membership.
----
+
+[[PAGE_END:1]]
+
 2
 
 Circulated, Report of the Senior Executive Officer, Community Support Services, setting out
@@ -174,7 +177,9 @@ which included the following :
 from the national and local viewpoint, including targets, funding, delivery mechanisms and
 
 local project details.
----
+
+[[PAGE_END:2]]
+
 3
 
  The role of Approved Housing Bodies (AHBs) in housing provision and their relationship with
@@ -264,7 +269,9 @@ plans.
 Raheen, Castletroy and Newcastle West.
 
  In relation to the activation of land, four sites had been submitted to the Department under
----
+
+[[PAGE_END:3]]
+
 4
 
 the Local Infrastructure Housing Activation Fund Scheme with a view to the State providing
@@ -342,7 +349,9 @@ Transportation and Environment Strategic Policy Committees.
 **residents request it.**
 
 The motion was proposed by Councillor Secas and seconded by Councillor Costelloe.
----
+
+[[PAGE_END:4]]
+
 5
 
 In proposing the motion Councillor Secas noted the need to change driver behaviour and make
@@ -426,7 +435,9 @@ agreeing and adopting the 2018 budget.
 In this particular case, the road in question is 620 metres long by an average
 
 width of 3 metres. It serves four houses, some farmland and is also used as an
----
+
+[[PAGE_END:5]]
+
 6
 
 access to Carrigogunnell Castle, a ruined 13th Century Castle on private property.
@@ -500,7 +511,9 @@ available sites.
 **Correspondence**
 
 Correspondence, as circulated, was noted.
----
+
+[[PAGE_END:6]]
+
 7
 
 At the conclusion of the agenda, and with the permission of the Mayor, Ms. Lisa Ruttle,
@@ -532,4 +545,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

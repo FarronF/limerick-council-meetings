@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_proceedings_at_inaugural_annual_meeting_of_municipal_district_of_cappamore-kilmallock_-_thursday_12_june.pdf)
+**Original file:** [Minutes of Proceedings at Inaugural Annual Meeting of Municipal District of Cappamore - Kilmallock - 12th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_proceedings_at_inaugural_annual_meeting_of_municipal_district_of_cappamore-kilmallock_-_thursday_12_june.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
 
 THE MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN
@@ -98,7 +99,9 @@ the coming year.
 Proposed by Councillor Donegan;
 
 Seconded by Councillor Gleeson;
----
+
+[[PAGE_END:1]]
+
 2
 
 “*That, Councillor Eddie Ryan be appointed Cathaoirleach of the Municipal District of*
@@ -176,7 +179,9 @@ Act, 2014.
 5.
 
 Training/Briefing for Members:
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members were appraised of training that was scheduled by the Corporate
@@ -216,4 +221,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

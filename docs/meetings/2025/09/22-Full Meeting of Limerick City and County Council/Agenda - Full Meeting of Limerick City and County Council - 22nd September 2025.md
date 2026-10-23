@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-full-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-full-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee
+a
 
-“Aes
+Ao™s
 
 ——
 
@@ -38,7 +39,7 @@ Corporate
 Comhairle Cathrach
 & Contae Luimnigh
 
-Seirbhnisi Corparaideacha,
+Seirbrnisi Corparaideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathni. Chorparaxieach,
@@ -53,11 +54,11 @@ Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (0) 61 §57150
+t: +353 (0) 61 $57150
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of f +353 (0) 61 415 266
 
@@ -72,7 +73,7 @@ Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 224 September, 202
 
 The business to be transacted is set out on the appended Agenda.
 
-eyo
+rer
 
 Meetings Administrator.
 
@@ -80,7 +81,7 @@ Meetings Administrator.
 
 To adopt Minutes of the following Meetings:
 
-(a) Ordinary Meeting of the Council held on 14™ July, 2025.
+(a) Ordinary Meeting of the Council held on 14 July, 2025.
 (b) Special Meeting of the Council held on 26" August, 2025.
 (c) Special Meeting of the Council held on 8” September, 2025.
 
@@ -95,7 +96,7 @@ Headquarters, Merchants Quay, Limerick
 
 (Correspondence Enclosed)
 
-m customerservices@limerickie
+em customerservices@limerickie
 © wow Mmerickie
 
 w @LimerickCouncil
@@ -103,7 +104,9 @@ w @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Dis posal of Land
@@ -146,7 +149,9 @@ Queens, New York, USA.
 Patrick's Day Parade 2026 in New York City, USA.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -158,7 +163,7 @@ Patrick's Day Parade 2026 in New York City, USA.
 (iv)
 
 Nomination of a delegation to attend and participate in the Annual St.
-Patrick's Day Parade 2026 in Savannah, Georgia, USA.
+Patrick’s Day Parade 2026 in Savannah, Georgia, USA.
 
 Visit by the Priomh Chomhairleoir and the Cathaoirleach of the
 Municipal District of Adare-Rathkeale to Bethpage Black, New York, to
@@ -166,7 +171,7 @@ represent Limerick at functions and events of the Ryder Cup 2025.
 
 (Reports Enclosed)
 
-Strategic Policy Committee ~- Sectoral Nomination
+Strategic Policy Committee ~ Sectoral Nomination
 
 To consider the approval of Sectoral Nomination to the Home and Social
 Development Strategic Policy Committee.
@@ -210,14 +215,16 @@ Travel and Transportation Strategic Policy Committee: Next Meeting
 scheduled for 22™ October, 2025.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
 Finance. Economic Development, Digital and ICT Services
 
-(a) _—_— Fixing of Date — Statutory Budget Meeting
+(a) _—_‘ Fixing of Date — Statutory Budget Meeting
 To fix date for the 2026 Statutory Budget Meeting.
 
 (Copy of Departmental Circular Fin 10/2025 dated 9" July, 2025, Enclosed)
@@ -241,7 +248,7 @@ General's Report or otherwise not to make the Scheme.
 (Report Enclosed)
 
 Rural, Community, Culture and Tourism Development
-(a) ‘Strategic Fund for Culture and Arts Scheme 2025
+(a) Strategic Fund for Culture and Arts Scheme 2025
 To consider approving recommended allocations under the Strategic Fund for
 
 Culture and Arts Scheme 2025.
@@ -254,7 +261,9 @@ To consider the adoption of the Limerick City and County Council Tourism Plan
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -305,12 +314,14 @@ advanced to the Dublin Bike Hire Company, are its repayments online, and when is
 repayment due.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
 
-14.
+14,
 
 15.
 
@@ -322,7 +333,7 @@ repayment due.
 
 uestion s b U. Gavan
 
-1 will ask at the next Meeting what is this year’s budget for refurbishing vacant
+| will ask at the next Meeting what is this year’s budget for refurbishing vacant
 properties, how many houses have been refurbished in 2024, the average cost of
 refurbishment and projected numbers for 2025.
 
@@ -362,7 +373,9 @@ not sub-standard; and we carry out a survey to remove others that are not sub-
 standard.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -371,19 +384,19 @@ standard.
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-I will move at the next Meeting that this Authority call on the Ministers for Agriculture
+! will move at the next Meeting that this Authority call on the Ministers for Agriculture
 and for Forestry to provide an appropriate Scheme to compensate for the loss of their
 livelihoods suffered by landowners due to Ash Dieback disease, and that support for
 this Motion be sought from sister Authorities nationally.
 
-Notice of Motion submitted by Councillor B. Collins
+Notice of Motion submitted by Councillor B, Collins
 
 I will move at the next Meeting that Limerick City and County Council write to the
 Minister for Housing, Local Government and Heritage seeking additional funding for
 the Housing Adaptation Grants for Older People and Disabled People to meet the
 demand for all grant types supported under this Scheme.
 
-Notice of Motion submitted by Councillor J. O"Donoghue
+Notice of Motion submitted by Councillor J. O’Donoghue
 
 | will move at the next Meeting that this Council write to the Minister of State at the
 Department of Education and request that any person, regardless of age, be allowed
@@ -408,7 +421,9 @@ any open noise wind turbines complaints and shadow flicker be referred to the He
 Service Executive for proper investigation as a matter of urgency.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27.
@@ -438,7 +453,7 @@ accessible for people living with dementia.
 Notice of Motion submitted by Councillor S. Kiely (to be referred to the Climate
 Action, Biodiversity and Environment Strategic Policy Committee)
 
-I will move at the next Meeting of this Council that we review with speed the tree
+| will move at the next Meeting of this Council that we review with speed the tree
 policy of this Local Authority to address shortcomings of the Council in this regard.
 
 Notice of Motion submitted by Councillor S. Hickey-O’Mara
@@ -446,7 +461,7 @@ Notice of Motion submitted by Councillor S. Hickey-O’Mara
 1 will move at the next Meeting that this Council write to the Taoiseach, Micheal
 Martin T.D., the Minister for Health, Jennifer Carroll-MacNeill T.D., and the Minister
 of State with responsibility for Menta! Health, Mary Butler T.0., in support of the
-1ACP's call for increased investment in counselling and psychotherapy in Budget 2026.
+IACP's call for increased investment in counselling and psychotherapy in Budget 2026.
 The !ACP's Budget 2026 Priorities are the following: (i) Removal of VAT on counselling
 and psychotherapy services; (ii) Extension of tax relief to counselling and
 psychotherapy fees; and (iii) Investment in and expansion of access to school
@@ -455,7 +470,9 @@ is circulated to the thirty other local authorities, asking that they support th
 campaign.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
@@ -470,4 +487,6 @@ social housing stock.
 Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

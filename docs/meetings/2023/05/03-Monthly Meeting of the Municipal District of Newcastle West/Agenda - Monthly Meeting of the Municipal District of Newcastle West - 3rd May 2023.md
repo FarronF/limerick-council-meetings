@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%202023-05-03%20Agenda%20May.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 3rd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%202023-05-03%20Agenda%20May.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+__——_ Comhairle Cathrach
 & Contae Luimnigh
-ae ae
+ADIN
 
 — Limerick City
 & County Council
 
 28" April, 2023
 
-Duiiche Bardais an Chaisledin Nua Thiar,
-Com)nairle Cathrach agus Contae Luimnigh
+Duiche Bardais an Chaisledin Nua Thiar,
+Comhairle Cathrach agus Contae Luimnigh
 Aras William Smith OBrien.
 
 Gortbut
@@ -45,7 +46,7 @@ Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
-Nevrcastle West,
+Nevicastle West,
 
 Co. Limerick.
 
@@ -62,10 +63,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 3% May,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-re,
-
 Martin Curran,
-
 Meetings Administrator.
 
 AGENDA
@@ -94,12 +92,14 @@ Corporate Headquarters, Merchant's Quay, Limerick
 (Reports Enclosed)
 
 & customerservicesa@limerick.ie
-e wow limerick le
+e wow limerick ie
 
 ( 062 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -134,7 +134,7 @@ Questions submitted by Councillor J. Scanian
 | will ask at the next Meeting when protective measures will be but in place at the
 junction of the Old Camas Road with the Ballyowen Road at Clounscherick.
 
-I will ask at the next Meeting when speed indicators will be put in place on (i) The
+| will ask at the next Meeting when speed indicators will be put in place on (i) The
 Southern approach to Feohanagh Village (ii) The Ballymackessy approach to
 Knockane Road, Newcastle West.
 
@@ -143,7 +143,7 @@ complement our Greenway facilities at Newcastle West.
 
 Questions submitted by Councillor M. Collins
 
-| will ask at the next Meeting for an update on the feasibility study for a new
+| will ask at the next Meeting for an update on the feasibility study for anew
 playground at The Demesne, Newcastle West.
 
 I will ask at the next Meeting that Limerick City and County Council will pipe the
@@ -151,7 +151,9 @@ stream and replace the dangerous and broken down railing at Glenmore, Strand in
 the interest of safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -199,7 +201,9 @@ stops:
 
 (i) A second stop for Templegiantine village
 (ii) Devon Road Cross
-(iii) —_— Killarney Road, Abbeyfeale
+(iii) Killarney Road, Abbeyfeale
 
 
----
+
+[[PAGE_END:3]]
+

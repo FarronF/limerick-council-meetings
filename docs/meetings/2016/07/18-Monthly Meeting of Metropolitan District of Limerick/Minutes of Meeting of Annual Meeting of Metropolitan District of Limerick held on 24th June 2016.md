@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2024th%20June%202016.pdf)
+**Original file:** [Minutes of Meeting of Annual Meeting of Metropolitan District of Limerick held on 24th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20on%2024th%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK
@@ -26,7 +27,7 @@ HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON FRIDAY, 24™ JUNE,
 
 AT 5.00 P.M.
 
-PRESENT IN THE CHAIR: Councillor Jerry O'Dea, Mayor
+PRESENT IN THE CHAIR: Councillor Jerry O’Dea, Mayor
 MEMBERS PRESENT:
 
 Councillors Butler, Collins, Costelloe, Crowley, Daly, Hourigan, Hurley, Keller, Leddin, Loftus,
@@ -60,7 +61,7 @@ communities in the Metropolitan area of Limerick and Limerick City received its 
 ranking in the Irish Business Against Litter (IBAL) League and is now ranked as ‘Clean to
 European norms’.
 
-© Sporting victories: All Ireland winning Na Piarsaigh hurlers received a civic reception and
+e Sporting victories: All Ireland winning Na Piarsaigh hurlers received a civic reception and
 public homecoming as well as the County's Under 21 team.
 
 ¢ Festivals: Riverfest particularly was a huge success as was the St. Patrick's Day Festival and
@@ -69,7 +70,9 @@ a wide variety of festivals and events - key drivers of economic growth and a vi
 income to Limerick during 2015.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Highlights:
@@ -91,7 +94,7 @@ e Cook Medical celebrated 20 years in Limerick. Analog Devices celebrated 40 yea
 
 ¢ Global HQ of Narrative 4 launched in Limerick.
 
-@ 100 new jobs announced at Three, which now employs 450 people at their Limerick based
+¢ 100 new jobs announced at Three, which now employs 450 people at their Limerick based
 call centre.
 
 e Limerick received European City of the Future award from international fDi Magazine (part of
@@ -134,7 +137,9 @@ Seconded by Councillor Collins.
 “That Councillor Michael Hourigan be appointed Mayor of the Metropolitan District of Limerick
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -176,7 +181,7 @@ candidate would be elected.
 the candidate with the least number of votes would be excluded and one or more further
 polls would be taken.
 
-e where there were only two candidates or where, as a result of one or more polls all the
+e¢ where there were only two candidates or where, as a result of one or more polls all the
 candidates except two had been excluded, the question as to which of such candidates
 would be elected would be put to the Members present and whichever of such candidates
 received the majority of votes cast would be elected.
@@ -197,7 +202,9 @@ For Councillor Keller
 Councillors Keller, Loftus and Prendiville (3)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 For Councillor Secas
@@ -211,7 +218,7 @@ District of Limerick and congratulated him on his election.
 
 On taking the Chair, the incoming Mayor, Councillor Hourigan said it was a great honour and
 distinction for him to be elected Mayor and that he was very proud. He thanked his wife, family
-and friends for their continued support and encouragement. He also acknowledged the support~
+and friends for their continued support and encouragement. He also acknowledged the support
 of his Council colleagues for giving him this opportunity. He congratulated the outgoing Mayor
 on his very successful year in office.
 
@@ -247,7 +254,9 @@ Seconded by Councillor Prendiville.
 Limerick to hold office until the next Annual Meeting or until a successor is appointed”.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Hurley;
@@ -279,7 +288,7 @@ For Councillor Butler
 Councillors Butler, Collins, Crowley, Daly, Hourigan, Hurley, Lynch, O’Dea, O’Hanlon, Pond and
 Sheahan (11)
 
-For Councillor I
+For Councillor II
 Councillors Costelloe, McCreesh and 6 Ceallaigh (3)
 
 For ncillor din
@@ -301,7 +310,9 @@ passed away tragically in the course of the year and former Councillor Shane Cli
 resigned. They congratulated former Councillor Byrne on her appointment to the Seanad.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -321,4 +332,6 @@ MAYOR
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

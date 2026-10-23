@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20-%209th%20October%202017.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 9th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20-%209th%20October%202017.pdf)
 
----
+[[FILE_START]]
+
 13th September 2017
 
 **To/Each Member of the Economic Development, Enterprise and Planning**
@@ -72,4 +73,6 @@ Yours sincerely
 Senior Executive Officer
 
 Economic Development
----
+
+[[PAGE_END:1]]
+

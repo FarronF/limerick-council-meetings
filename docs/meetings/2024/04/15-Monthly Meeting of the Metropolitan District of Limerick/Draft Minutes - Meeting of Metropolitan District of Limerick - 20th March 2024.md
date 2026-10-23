@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-20th-march-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 20th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-20th-march-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -84,7 +85,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 amended, and the Code of Conduct, she was inviting those present to notify the Cathaoirleach of
 
 any declaration of interest in any item due for discussion at the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 In accordance with Section 177 of the Local Government Act, 2001 (as amended) Councillor
@@ -154,7 +157,9 @@ Circulated, Report of the Director of Service dated 11th March, 2024, setting ou
 the Community Initiative Scheme 2024, which allowed for the sum of €4,500 for each Member, as
 
 follows:
----
+
+[[PAGE_END:2]]
+
 3
 
 **LIMERICK CITY EAST**
@@ -328,7 +333,9 @@ JFK School Parents Association
 Limerick Dragons
 
 €500
----
+
+[[PAGE_END:3]]
+
 4
 
 Moyross Utd FC
@@ -506,7 +513,9 @@ St. Paul’s Scouts
 Sudanese Community Centre
 
 €1500
----
+
+[[PAGE_END:4]]
+
 5
 
 Summerville Rovers
@@ -672,7 +681,9 @@ Caherdavin Residents Association
 City of Limerick Pipe Band
 
 €500
----
+
+[[PAGE_END:5]]
+
 6
 
 Connie
@@ -850,7 +861,9 @@ Patrickswell National School
 Patrickswell Tidy Towns
 
 €2000
----
+
+[[PAGE_END:6]]
+
 7
 
 Raheen Active Retired
@@ -932,7 +945,9 @@ Part II No. 5(j)
 The Operator shall lease or own all vehicles. The model(s) used will be a choice for the Operator.
 
 However, the Operator shall be required to justify to the Council its choice of vehicle(s) with
----
+
+[[PAGE_END:7]]
+
 8
 
 regard to the environmental performance and compliance with the Local Authority’s Climate
@@ -1004,7 +1019,9 @@ It was agreed that a letter would issue to University of Limerick.
 **REPLY:** The Limerick Laneways project is part of the Living Limerick City Centre Initiative which is
 
 funded under the Urban Renewal Development Fund. The Council appointed a design team
----
+
+[[PAGE_END:8]]
+
 9
 
 led by Tobins Consulting Engineers, working alongside Allies and Morrison to develop a
@@ -1082,7 +1099,9 @@ required pending on future budgets availability and its order of priority within
 road network in the area.
 
 **14.Question submitted by Councillor E. Secas**
----
+
+[[PAGE_END:9]]
+
 10
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what works are proposed***
@@ -1154,7 +1173,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 planted by the Council in 2023 and if any consideration will be given to schemes similar to the UK
 
 Scheme Trees for Streets.
----
+
+[[PAGE_END:10]]
+
 11
 
 **REPLY:** The total number of trees planted by Limerick City & County Council in 2023 was 955.
@@ -1230,7 +1251,9 @@ planning application.
 ***Council give details on what works will be done in Boherkyle with the €60,000 allocated to that***
 
 ***area by the NTA.***
----
+
+[[PAGE_END:11]]
+
 12
 
 **REPLY:** Limerick City and County Council Road’s Department has received a €30,000 grant
@@ -1300,7 +1323,9 @@ With the permission of the Cathaoirleach, it was agreed to take Item 33 next.
 ***on the road crossing the greenway joining both sides of Mills Estate.***
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Slattery and
----
+
+[[PAGE_END:12]]
+
 13
 
 agreed.
@@ -1374,7 +1399,9 @@ reduce traffic congestion and greatly improve the quality of life for residents.
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor O’Donovan and
 
 agreed.
----
+
+[[PAGE_END:13]]
+
 14
 
 In proposing the Motion, Councillor Slattery stated that she had been contacted by families who
@@ -1444,7 +1471,9 @@ reinstated.
 The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Councillor Secas and
 
 agreed.
----
+
+[[PAGE_END:14]]
+
 15
 
 In proposing the Motion, Councillor Sheehan (C) referred to the proposed introduction of the Bus
@@ -1516,7 +1545,9 @@ Family Project, and pointed out that this service needs financial support.
 ***I will move at the next Meeting of the Metropolitan District of Limerick that dog wash facilities***
 
 ***be installed close to dog parks in Limerick.***
----
+
+[[PAGE_END:15]]
+
 16
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
@@ -1550,4 +1581,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:16]]
+

@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_8th_january_2015_0.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 8th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_8th_january_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 
 Comhairle Cathrach agus Contae Luimnigh,
-ANT ~“ Cé na gCeannaithe,
-= , Luimneach *
-. .
+ANS ‘“ Cé na gCeannaithe,
+=> , Luimneach *
+J .
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and Pratl ne
-COUNCIL eee
+CITY & COUNTY Limerick City and fra ones
+COUNCIL ee
 
-t: +353 (0) 61 407 100
-2™ January, 2015 f: +353 (0) 61 415 266
+t; +353 (0) 61 407 100
+2” January, 2015 f: +353 (0) 61 415 266
 
 To/ The Cathaoirleach and each Member of the Municipal
 istri more-Kilmallock
@@ -56,8 +57,10 @@ AGENDA
 To hear Presentation from Inland Fisheries.
 
 @ customerservices@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wvew.limerickie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wvewimerickie
+Corporate Headquarters, Merchants Quay, Limerick Ww @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

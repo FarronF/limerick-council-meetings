@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2015th%20April%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2015th%20April%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_— Comhairle Cathrach
+_—_ Comhairle Cathrach
 
 & Contae Luimnigh
 
-“rN
-— Limerick City
+aAr™N
+—. Limerick City
 
 & County Council
 
@@ -56,7 +57,7 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 557150
-f; #353 (0) 61 415 266
+f; +353 (0) 61415 266
 
 litan District of Limerick
 
@@ -86,7 +87,9 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -130,7 +133,7 @@ Physical Development Directorate
 
 Del meet Transport Infrastructure Irelan
 
-(a) Nominate one Member to attend a Meeting with Transport Infrastructure Ireland (TH)
+(a) Nominate one Member to attend a Meeting with Transport Infrastructure Ireland (TI)
 in their Offices in Dublin.
 
 (b) Indicate any agenda items for discussion at this meeting.
@@ -138,7 +141,9 @@ in their Offices in Dublin.
 (Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -157,7 +162,7 @@ uestion subm Councillor S. Lynch
 
 Question submitted by Councillor S. Lynch
 
-! will ask at the next meeting when will Phase 2 of the Urban Village Renewal Scheme for
+| will ask at the next meeting when will Phase 2 of the Urban Village Renewal Scheme for
 Patrickswell commence and confirmation that the funding that was ring-fenced for same is
 still in place.
 
@@ -192,7 +197,9 @@ Mungret Community College Parents Association €1,000
 Draw Out Limerick €1,000
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -231,7 +238,7 @@ Notice of Motion submitted by Councillor J. Leddin
 pedestrianisation of Catherine Street from Glentworth Street to Thomas Street, thus
 creating a viable vibrant core urban space leading to increased footfall.
 
-Notice of Motion submitted by Councillor K. O’Hanlon
+Notice of Motion submitted by Councillor K. O'Hanlon
 
 | will move at the next meeting that the Council prepare a report to enhance the area at
 Cathedral Place at the statue of Patrick Sarsfield. Additional lighting, history displays, flower
@@ -244,4 +251,6 @@ Strategic Policy Committee)
 fountains in appropriate locations to cut the number of plastic bottles used.
 
 
----
+
+[[PAGE_END:4]]
+

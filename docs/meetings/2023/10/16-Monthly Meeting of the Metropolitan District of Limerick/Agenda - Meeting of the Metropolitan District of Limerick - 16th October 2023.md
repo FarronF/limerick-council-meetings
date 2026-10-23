@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-16th-October-2023.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 16th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Meeting-of-the-Metropolitan-District-of-Limerick-16th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-~ Setbhisi Corparaideacha,
-—_—_—_ ee ee of Comhairle Cathwach agus Contae Luimnigh,
-a ontae Luimnig Ceanncheathn Chorparaidesch,
-NON ——— Cé na gCeannaithe,
-ae — Limerick City Luimneach
+0 Setbhisi Corpartideacha,
+——_—_—_"_ elena peel of Comhairle Cathwach agus Contae Luimnigh,
+- ontae Luimnig Ceanncheathni Chorparaidesch,
+NAN ——— Cé na gCeannaithe,
+a — Limerick City Luimneach
 & County Council
 Corporate Services,
 Umerick City and County Council.
-Corporate Headquarters.
+Corporate Headquarters
 Merchants Ouay.
 
 Limerick
@@ -38,20 +39,20 @@ EIRCODE V94 EH90
 
 t +353 (0) 61 $57280
 
-11" October, 2023. f: +353 (0) 61 415 266
+11" October, 2023. t: +353 (0) 61 415 266
 To: The Cathaoirl I istrict of Limerick
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
-Monday, 16" October, 2023 at 10am in the Council Chamber, Dooradoyle, Limerick and Online
+Monday, 16 October, 2023 at 10am in the Council Chamber, Dooradoyle, Limerick and Online
 via Microsoft Teams.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Me ds,
+le ds
 Mark Leahy,
 Meetings Administrator.
 
@@ -65,20 +66,22 @@ Metropolitan District of Limerick.
 
 @ customerserviceséiimerickie
 
-© wevew tmericcie
+© wevew mericcie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luirnneach Ww @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick <\ 062 - 557150
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luirmneach Ww @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick \ 062 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Special Meeting of the Metropolitan District of Limerick held on 7‘ September, 2023.
-(b) Monthly Meeting of the Metropolitan District of Limerick held on 18 September, 2023.
+(b) Monthly Meeting of the Metropolitan District of Limerick held on 18™ September, 2023.
 
 (Copies Enclosed).
 3. Declaration of Interest.
@@ -128,7 +131,9 @@ the Planning & Development Act 2000 (as amended) and Section 11 of the Roads Act
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ESTIONS
@@ -168,7 +173,7 @@ a pilot upgrade of a lane way in the City Centre, what progress has been made to
 
 8. i Secas
 
-| will ask at the next meeting of the Metropolitan District of Limerick if the Report on the extension
+I will ask at the next meeting of the Metropolitan District of Limerick if the Report on the extension
 of the Castleconnell Playground has been completed and is available yet.
 
 9. Question submitted by Councillor E. Secas
@@ -185,7 +190,9 @@ now deceased or elderly and cannot clean up these laneways, The laneways are now
 and rat infested etc. Can the Council take these lanes in charge again please. There is a similar
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 lane in Granville Park that also needs to be taken in charge. We need to support our elderly
@@ -229,7 +236,7 @@ in the past 5 years in a tabular format as follows: year, consultancy services, 
 
 17. Question submitted by Councillor J, Pond
 
-| will ask at the next Meeting of the Metropolitan District of Limerick that Limerick City and County
+i will ask at the next Meeting of the Metropolitan District of Limerick that Limerick City and County
 Council write to An Post requesting them to reinstate the post box that was removed from the
 centre of Castleconnell Village when the Post Office was relocated.
 
@@ -240,7 +247,9 @@ for the delivery of the much-needed proposed Library for the greater Castletroy 
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Question submitted by Councillor E, O'Donovan
@@ -266,7 +275,7 @@ disabled parking bays in Limerick City North.
 | will ask at the next Meeting of the Metropolitan District of Limerick when the Climate Action
 Plan will be published by Limerick City and County Council.
 
-24. Question submitted by Councillor S. Novak Ui Chonchuir
+24. Question submitted by Councillor S. Novak Ui Chonchdir
 
 | will ask at the next Meeting of the Metropolitan District of Limerick if there are plans to designate
 areas for car sharing and enable for and/or install electric charging points in those areas.
@@ -285,7 +294,9 @@ for having these put in place and removed, and if they would provide an explanat
 service level agreement.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27. Question submitted by Councillor S. Benson
@@ -336,7 +347,9 @@ to cover schools that have not yet received funding.
 6
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 34. Notice of Motion submitted by Councillor C. Slattery (to be referred to the Local Electoral
@@ -348,11 +361,11 @@ Lawrence Cemetery and the up keep of the Cemetery with a view to improving the a
 35. Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Local Electoral
 Area Briefings)
 
-I will move at the next Meeting of the Metropolitan District of Limerick that the bollards that have
+| will move at the next Meeting of the Metropolitan District of Limerick that the bollards that have
 been removed on the cycle lane on O'Connell Street be replaced immediately to stop illegal
 parking and to protect cyclists.
 
-36. Notice af < Motion submitted by Councillor Ss. = 7 we {to be referred to
+36. Notice af 5 Motion submitted by Councillor Ss. = 7 ented {to be referred to
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the Council liaise with
 Google to introduce Project Air View to Limerick City to establish the status of Limerick’s air
@@ -374,4 +387,6 @@ currently only allow for traditional build units.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:7]]
+

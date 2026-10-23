@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_adare-rathkeale_-_minutes_of_meeting_8th_july_2014.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Adare-Rathkeale – 8th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_adare-rathkeale_-_minutes_of_meeting_8th_july_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF ADARE-RATHKEALE IN DUNRAVEN ARMS HOTEL,
@@ -88,7 +89,9 @@ Members outlined their concerns which included the following:
  Location of Speed Cameras.
 
  Reduced Opening Hours for Askeaton Garda Station.
----
+
+[[PAGE_END:1]]
+
 2
 
 Inspector Paul Reidy addressed the Meeting and responded to the Members
@@ -164,7 +167,9 @@ As there were no other nominations, the Cathaoirleach declared Councillor Keary
 elected as Leas-Chathaoirleach for the coming year and congratulated him on his
 
 election.
----
+
+[[PAGE_END:2]]
+
 3
 
 Following some discussion, on the proposal of Councillor Sheahan, seconded by
@@ -196,4 +201,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

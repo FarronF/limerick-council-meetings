@@ -16,16 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-06/agenda-annual-meeting-of-metropolitan-district-28th-june-2024.pdf)
+**Original file:** [Agenda - Annual Meeting of Metropolitan District of Limerick - 28th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-06/agenda-annual-meeting-of-metropolitan-district-28th-june-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach aes ea Sestohisi Corpartidescha,
+a Comhairle Cathrach besnatin Guest ee ee
+“t . orvrvermle Catach agus Contac Luimragnh,
+& Contae Luimnigh Ceanncheathni Chorparaideach.
+nN NO
 
-nf 2 omhairle Cathrach agus Contac Luimnigh,
-= , & Contae Luimnigh Ceanncheathni Chorparaideach,
-. Cé na gCeannaithe,
+Cé na gCeannaithe,
 
 —. Limerick City Lutmneach
 & County Council
@@ -40,7 +42,7 @@ Limenck
 
 EIRCODE V94 EH90
 
-21* June, 2024. t: 4353 (0) 61 557150
+21* June, 2024. t: 4353 (0) 61 $87150
 f: +353 (0) 62 415 266
 
 To: Th ch M ict of Limerick
@@ -64,12 +66,14 @@ next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Metropolitan District of Limerick to hold office until
 the next Annual Meeting or until a successor has been elected.
 
-mm customerservices@limerickie
+mm Customerservices@limerickie
 
-© wew.limerick.ie
+© wewlimerick.ie
 
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

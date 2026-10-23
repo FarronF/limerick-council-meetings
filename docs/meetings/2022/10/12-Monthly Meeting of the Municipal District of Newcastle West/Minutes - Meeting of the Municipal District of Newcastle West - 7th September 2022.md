@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%28a%29%202022-09-07%20Minutes%20September.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 7th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%28a%29%202022-09-07%20Minutes%20September.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -106,7 +107,9 @@ Proposed by: Councillor Galvin
 Seconded by: Councillor Scanlan
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
@@ -176,7 +179,9 @@ extend hatching beyond proposed build outs and the provision of new road marking
 He stated that eight submissions had been received and gave a briefing to the Members on
 
 the submissions received.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members welcomed the proposed works and referred to a number of matters including
@@ -244,7 +249,9 @@ Management Plan at the November Meeting of the District.
 5.
 
 Housing Development Directorate
----
+
+[[PAGE_END:3]]
+
 4
 
 To consider Chief Executive’s report prepared in accordance with
@@ -316,7 +323,9 @@ Connection Agreement has been made with Irish Water with regard to connecting to
 sewer. He stated that consultation had taken place with the Housing Allocations Team where
 
 the size of the scheme is matched against demand for housing.
----
+
+[[PAGE_END:4]]
+
 5
 
 In response to the dereliction in Ardagh, the Director stated that work is ongoing on the list
@@ -384,7 +393,9 @@ Question submitted by Councillor L. Galvin
 ***I will ask at the next Municipal Meeting (a) who is now the registered owner of the old***
 
 ***dump, Knockbrack (b) who is responsible to keep the gated area clean.***
----
+
+[[PAGE_END:5]]
+
 6
 
 REPLY:
@@ -460,7 +471,9 @@ REPLY:
 Under the National Broadband Plan, high-speed broadband will be delivered to every
 
 premises in Ireland through a combination of commercial and state investment. For Limerick,
----
+
+[[PAGE_END:6]]
+
 7
 
 the State have determined that 78% of premises are in the commercial (Blue) area, an area in
@@ -544,7 +557,9 @@ unlikely to be lit in accordance with their current standards. TII see this junc
 being improved significantly from a safety point of view and is similar to junctions across the
 
 national road network that are not lit. The improvements that were put in place making it a
----
+
+[[PAGE_END:7]]
+
 8
 
 safer junction included for, adequate sights lines, right turn lanes and road markings.
@@ -610,7 +625,9 @@ universal access for all patrons.
 ***building (c) that a museum displaying artefacts and documentation pertaining to the history***
 
 ***of Abbeyfeale and the surrounding area be located on site.***
----
+
+[[PAGE_END:8]]
+
 9
 
 The Motion was seconded by Councillor Sheahan.
@@ -674,7 +691,9 @@ view to getting a Master Plan drawn up to expand the playground and tennis court
 ***park in Mungret.***
 
 The Motion was seconded by Councillor Scanlan.
----
+
+[[PAGE_END:9]]
+
 10
 
 REPLY:
@@ -740,7 +759,9 @@ The Members also sought an update on a Meeting which was to be held with the App
 Housing Body on the unfinished housing estate at Cois Na Féile, Abbeyfeale and also asked if
 
 contact was made with the adjoining landowner with regard to anti-social behaviour taking
----
+
+[[PAGE_END:10]]
+
 11
 
 place on the adjoining land. In replying, the Senior Engineer agreed to revert to the relevant
@@ -794,4 +815,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

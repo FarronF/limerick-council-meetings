@@ -16,16 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%2021st%20March%252c%202018%20v3.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 21st March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%2021st%20March%252c%202018%20v3.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-pa
+po ae
 
-ot
+Amn fh ™
 Limerick
 CITY & COUNTY
+
 COUNCIL
 
 15" March, 2018.
@@ -40,7 +42,7 @@ Rath Caola,
 
 Co. Luimnigh
 
-Adare-Rathkeale Municipal! District,
+Adare-Rathkeale Municipal District,
 Limerick City and County Council,
 Aras Séan Finn,
 
@@ -87,7 +89,9 @@ Corporate Headquarters, Merchants Quay, Limerick
  @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -129,7 +133,9 @@ To note update on pedestrian controlled crossing for Adare.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -138,7 +144,7 @@ To note update on pedestrian controlled crossing for Adare.
 
 13.
 
-14,
+14.
 
 15.
 
@@ -165,11 +171,11 @@ NOTICES OF MOTIONS
 
 i fr ncillor A. T
 
-twill move at the next meeting, that this district writes to the financial regulator to ask if
+| will move at the next meeting, that this district writes to the financial regulator to ask if
 something can be done to encourage financial institutions to recognise disability
 allowance as a means of income for determining ones repayment ability.
 
-I will move at the next meeting, that this district carry out a survey on all local roads in
+| will move at the next meeting, that this district carry out a survey on all local roads in
 our district to ascertain there current condition to identify exactly what level of funding is
 required in order for these roads to be properly fixed.
 
@@ -183,4 +189,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

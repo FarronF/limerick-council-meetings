@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20October%202015.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 14th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
--
+_
 
-__—_—_ Seirdhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_—__ Seirdhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ail Cé na gCeannaithe,
+aati Cé na gCeannaithe,
 . = Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
@@ -52,12 +53,12 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-SS 5 ,
+SS 5 oy,
 ~~ Tom O'Callaghan,
 
 Meetings Administrator.
 
-eee wenn een e ee ence nen n nn ensns en ee enna reer enna nena nnn en enn eee ee enna sana snsssn sess eerreee
+eee nen een e ee ence nnn n nn ensns eee eee ee ena rere enn nn nner n nnn ee ene seen eens na enna sas esn sess eenseee
 
 AGENDA
 
@@ -65,7 +66,7 @@ AGENDA
 
 To adopt Minutes of Meeting of the Municipal District held on 8" September, 2015.
 
-Ze Croom Development Association
+pS Croom Development Association
 
 To receive presentation from Croom Development Association.
 
@@ -74,13 +75,15 @@ To receive presentation from Croom Development Association.
 To note the Local Economic and Community Plan Socio-Economic Statement and High
 Level Goals.
 
-= customerservices@limerick.i¢e
+= customerservices@timerick.ie
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach l © weew.limerickie
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach | © weew.limerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -129,7 +132,9 @@ Adare-Rathkeale District Office to enable that office to deal efficiently with C
 representations.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -157,4 +162,6 @@ Askeaton be replaced by a permanent surface.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20January%202016.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 18th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20January%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AE
+AR
 Limerick
 
 CITY & COUNTY
@@ -60,11 +61,11 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Chas 9u-—
+Chak S.-—
 Christy O’Connor,
 Meetings Administrator.
 
-To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 21"
+To adopt Minutes of Meeting of the Metropolitan District of Limerick held on 21*
 
 (Copy Enclosed).
 
@@ -78,7 +79,7 @@ of Councillor Shane Clifford, to hold office until the next Annual Meeting or un
 
 successor has been elected.
 
-3. Economic Develo) nt and Plannin
+3. Economic Develo; nt and Plannin
 
 Taking in Charge of Estates - Declaration of Roads to be Public Roads
 
@@ -93,11 +94,13 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Report Enclosed).
 
 @ customerservices@limerick.ie
-© weve timerick.te
+© wevewstimerick.te
 yw @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -137,13 +140,15 @@ ongoing flooding on Hyde Road.
 
 Question submitted by Councillor Sean Lynch
 
-| will ask at the next Meeting if Limerick City and County Council would consider taking in
+I will ask at the next Meeting if Limerick City and County Council would consider taking in
 charge and declaring Carrigogunnell Road in Ballybrown, Co. Limerick a Public Road
 according to the Act. This road leads to Carrigogunnell Castle which attracts visitors /
 tourists on a regular basis.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -190,12 +195,12 @@ public litter bins in the City.
 
 Notice of Motion submitted by Cmhir. Séighin O Ceallaigh
 
-I will move at the next Meeting that Limerick Metropolitan District calls on the Government
+| will move at the next Meeting that Limerick Metropolitan District calls on the Government
 to abolish water charges and dismantle Irish Water.
 
 Notice of Motion submitted by Councillor Maurice Quinlivan
 
-| will move at the next Meeting that Limerick Metropolitan District calls for the Bin Waiver
+I will move at the next Meeting that Limerick Metropolitan District calls for the Bin Waiver
 to be extended to those on invalidity pension.
 
 Notice of Motion submitted by Councillor Malachy McCreesh
@@ -205,4 +210,6 @@ the ongoing main water burst along Childers Road, specifically at Sycamore Avenu
 (Rathbane) and Greenfields (Ballinacurra).
 
 
----
+
+[[PAGE_END:3]]
+

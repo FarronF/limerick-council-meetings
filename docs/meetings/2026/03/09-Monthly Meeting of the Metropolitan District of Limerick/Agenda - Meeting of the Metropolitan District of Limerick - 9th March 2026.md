@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-meeting-of-the-metropolitan-district-of-limerick-9th-march-2026.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 9th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-meeting-of-the-metropolitan-district-of-limerick-9th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; t Seirbhisi Corpardideacha, Rialachais & Custaiméara
-ee Comhairle Cathrach Combhairie Cathvach & Contae Luimnigh
+——— Comhairle Cathrach Comhairie Cathvach & Contae Luimnigh
 
-& Contae Luimnigh Cesnncheerthth Chorpardideach
-NoN ——— Cé na gCeannaithe
-Limerick City Lubnneach. V94 EH90
+& Contae Luimnigh Cesnncheertht: Chorparaideach
+NoN ————— Cé na gCeannaithe
+Limerick City _ Lubnneach. V94 EH90
 
 = & County Council
 
@@ -54,7 +55,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-LN c e
+LN E A
 
 Aedin Foley,
 Meetings Administrator.
@@ -62,16 +63,18 @@ Meetings Administrator.
 1. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on
-16" February 2026.
+16'" February 2026.
 
 (Copy Enclosed).
 
-= a
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach wwwilimerick.fe
+= ee
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach wwwilimerick.te
 Corporate Headquarters, Merchant's Quay, Limerick  Codicans ens
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -111,7 +114,9 @@ Time Economy Pilot Programme Scheme via Twilight Thursday initiative.
 (Reports Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -125,7 +130,7 @@ e Groody Road
 
 @ Old Kilmurry Road
 
-e Castletroy College Road
+¢ Castletroy College Road
 
 9. Question submitted by Councillor D. Butler
 
@@ -145,7 +150,7 @@ Roundabout.
 | will ask at the next meeting of the Metropolitan District of Limerick for the total number of
 parking tickets given on O’Connell Avenue and Summerville Avenue in 2025.
 
-12. b ncillor E. O”
+12. b ncillor E. O’
 | will ask at the next meeting of the Metropolitan District of Limerick for an update on the
 taking in charge of Templeville Estate.
 
@@ -156,7 +161,9 @@ claims to the Council in relation to Limerick Metropolitan footpaths in 2025 and
 amount paid out to date for same.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14. Question submitted by Councillor S. Beasley
@@ -199,7 +206,9 @@ funding allocations, for a detailed update on the proposed Greenway projects of 
 Limerick to Patrickswell Roadspace Reallocation and Adare to Patrickswell link.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Question submitted by Councillor D. McSweeney
@@ -238,12 +247,14 @@ and County Council carry out a further examination of making some units availabl
 the 24-unit Barnakyle Housing Scheme for Affordable Purchase.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Notice of Motion submitted by Councillor J. Pond
 
-| will move at the next meeting of the Metropolitan District of Limerick that Limerick City &
+1 will move at the next meeting of the Metropolitan District of Limerick that Limerick City &
 County Council would put in place or trial a one way traffic system from the junction of
 Carrigeen/Roskeen Estates to the small roundabout near Annacotty Village on
 Saturdays/Sundays to alleviate traffic congestion in the vicinity of the Aisling Annacotty
@@ -256,7 +267,7 @@ secured from the Department of Justice/Local Government and Heritage to retain t
 Moyross CCTV Monitoring Centre as this infrastructure assists Gardai in tackling crime and
 anti-social behaviour all across Limerick.
 
-| will move at the next meeting of the Metropolitan District of Limerick that communication
+I will move at the next meeting of the Metropolitan District of Limerick that communication
 boards are installed in Council run public spaces. Communication Boards assist neuro
 divergent residents, those with disabilities, those experiencing ill mental health, and others,
 to communicate their needs in public spaces. The Right to Communication is a fundamental
@@ -275,7 +286,9 @@ and County Council conduct a speed survey with a view to installing additional t
 calming measures in Lower Park, Corbally.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31. Notice of Motion submitted by Councillor P. Reale
@@ -286,4 +299,6 @@ Street/Dublin Road junction to its route on the 304A service coming from Univers
 Limerick to Mungret Park and that bus stop markings be added here also.
 
 
----
+
+[[PAGE_END:7]]
+

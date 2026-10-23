@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Community, Leisure & Emergency Services SPC - 18th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_18th_october_2016.pdf) - [Extracted text](./Agenda%20-%20Community%2C%20Leisure%20%26%20Emergency%20Services%20SPC%20-%2018th%20October%202016.md)
+Agenda - Community, Leisure & Emergency Services SPC - 18th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_18th_october_2016.pdf) - Text not extracted
 
-Minutes - Community Leisure & Emergency Services SPC - 6th July 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/item_1_-_minutes_6th_july_2016.pdf) - [Extracted text](./Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%206th%20July%202016.md)
+Minutes - Community Leisure & Emergency Services SPC - 6th July 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/item_1_-_minutes_6th_july_2016.pdf) - Text not extracted
 
 Section 26 Draft 7 - Community Leisure & Emergency Services SPC.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/item_3_-_section_26_draft_7.pdf) - Text not extracted
 

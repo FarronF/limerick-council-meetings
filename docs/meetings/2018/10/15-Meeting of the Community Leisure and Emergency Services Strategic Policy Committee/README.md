@@ -30,5 +30,5 @@ Minutes - Meeting of the Community Leisure and Emergency Services Strategic Pol
 
 Draft Tobacco Free Policy - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%203%20%20DRAFT%20TOBACCO%20FREE%20POLICY.pdf) - Text not extracted
 
-Calendar of Meetings 2018_2019 - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%206%20Calendar%20of%20Meetings%202018%202019.pdf) - Text not extracted
+Calendar of Meetings 2018/2019 - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 15th October 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%206%20Calendar%20of%20Meetings%202018%202019.pdf) - Text not extracted
 

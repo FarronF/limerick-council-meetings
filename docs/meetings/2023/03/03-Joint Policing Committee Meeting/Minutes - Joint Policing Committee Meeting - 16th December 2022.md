@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Joint%20Policing%20Committee%20Meeting%20-%2016th%20December%202022.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 16th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Joint%20Policing%20Committee%20Meeting%20-%2016th%20December%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE LIMERICK JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON 16TH** **DECEMBER, 2022 AT 10.00 A.M.**
@@ -108,7 +109,9 @@ committed. However, there has been a downward trend in residential burglaries. T
 success in addressing travelling burglars and added that it is worth noting that most burglaries occur
 
 between the hours of 5.00 p.m. and 9.00 p.m.
----
+
+[[PAGE_END:1]]
+
 The number of assaults have increased in all areas apart from the Bruff District. In some instances, the
 
 injured parties do not make a statement to the police. The biggest number of assaults are domestic
@@ -192,7 +195,9 @@ force put their lives at risk.
 Deputy O’Donoghue suggested that retired Gardai should be encouraged to come back two or three
 
 days a week, as they would have invaluable experience to pass on to new recruits.
----
+
+[[PAGE_END:2]]
+
 Superintendent Magner stated that she would liaise with Padraig Sutton in the Road Safety Authority to
 
 arrange a meeting between Limerick JPC and TII.
@@ -284,7 +289,9 @@ Protecting the security of the Irish State;
 Sustainable Change and Innovation.
 
 The Members of the JPC thanked Supt Ruane for his presentation to the JPC Meeting.
----
+
+[[PAGE_END:3]]
+
 The Chairman stated that there was a better presence of Gardaí in the community fifteen years ago than
 
 there is now. True engagement at community level is needed to address the many criminal issues
@@ -366,7 +373,9 @@ The operation concentrated in the UL area and concluded on 1st December, 2022. I
 successful operation and those responsible were identified and have since been taken to court. Since 1st
 
 December 2022 only four bikes have been stolen.
----
+
+[[PAGE_END:4]]
+
 In reply to Councillor C. Sheehan, Superintendent Magner stated that she would get the figures for the
 
 number of bikes returned to owners and let Councillor Sheehan know. She added that property marking
@@ -442,7 +451,9 @@ the protection of children and vulnerable persons. If someone is doing relevant 
 organisation or group which has contact with children or vulnerable persons, they can apply for Garda
 
 vetting through the relevant organisation, but it has to be relevant work and they must have vetting
----
+
+[[PAGE_END:5]]
+
 prior to commencing work. An Garda Síochána provide the vetting service, we do not comment on
 
 suitability of members. Membership of organisations or groups is not a vetting/AGS function, as
@@ -520,7 +531,9 @@ appreciate that is behaviour while not only illegal (Insurance etc.) is particul
 balaclavas) and frustrating for commuters, residents and visitors to the city.
 
 The prosecutions for such offences rely solely on interceptions while driving.
----
+
+[[PAGE_END:6]]
+
 The interception of offenders is difficult given the dangers of a pursuit to the individuals involved (no
 
 helmets etc.) in heavy traffic. In terms of finding a solution to this problem, Gardaí have engaged with
@@ -606,7 +619,9 @@ conjunction with the Garda Youth Diversion Project at the Moyross Youth Academy.
 specific “Project Off Road” initiative has been run in conjunction with the Garda/HSE Life Saver Project
 
 and the Garda Youth Diversion Project, which resulted in an award this week at the R.S.A. Leading Lights
----
+
+[[PAGE_END:7]]
+
 Awards in Dublin. This initiative was targeted at Primary School children who were present during a
 
 recreation of a serious road traffic collision involving a scrambler and a car.
@@ -682,7 +697,9 @@ https://www.policingauthority.ie/en/news/policing-authority-publishes-report-on-
 symposium-on-co-response-models-to-crisis-mental-health-events
 
 **13.NOTICE OF MOTION SUBMITTED BY COUNCILLOR SEAN HARTIGAN**
----
+
+[[PAGE_END:8]]
+
 ***“I will move at the next m**eeting that statistics on fines issued for illegal parking are reported on at all***
 
 ***meetings of the Joint Policing Committee”.***
@@ -704,4 +721,6 @@ This concluded the business of the Meeting.
 **Councillor Adam Teskey, Chairman**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

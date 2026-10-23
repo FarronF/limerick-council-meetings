@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20July%202019%20Capp%20KIL%20MD%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20July%202019%20Capp%20KIL%20MD%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairie Cathrach Comhairle Cathrach agus Contae Luimnigh,
+_——_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-a Olfg an Cheantair, Aras Mhainchin Seoighe,
+~ Olfg an Cheantair, Aras Mhainchin Seoighe,
 
-— & Contae Luimnigh Gill Mocheetéa,
+& Contae Luimnigh Cill Mocheeisg,
 
-n-N A Co. Luimnigh.
-— Limerick City
+NEN 4 . Co. Luimnigh.
+—>> Limerick City
 
 & County Council Limerick City and County Council
 
 Aras Mainchin Seoighe Area Office.
 
-Kilmatiock,
+Kibmatiock,
 
 Co. Limerick.
 
@@ -45,7 +46,7 @@ f: 4353 (0) 63 985 99
 
 12" july, 2019.
 
-A Chomhairleoir, a chara,
+A Chombairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 18th July,
@@ -65,16 +66,18 @@ To adopt Minutes of Annual Meeting of the Municipal District of Cappamore-Kilmal
 held on the 13" June, 2019.
 (Copy enclosed)
 To adopt Minutes of Special Meeting of the Municipal District of Cappamore-Kilmallock
-held on the 2” July, 2019.
+held on the 2" July, 2019.
 (Copy enclosed)
-= SS
-Comhairle Cathrach Contae Luimnigh, Cheantair, Aras Mhainchin Seoighe wevew.timerickic
-Linmertcli City and County Councl, Arne Betnchds Secighe Ares, Omics W @LimerickCouncit
+= emai Ramet
+Comhairle Cathrach Contae Luimnigh, Cheantair, Aras Mhainchin Seoighe weve timerickic
+Limertch City and County Councl, Ares Betnchths Secighe Ares, Omics W @LimerickCouncit
 
 (083 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -119,7 +122,9 @@ road junction improvements are carried out at the Garrynoe junction on the R518
 Bruree road to improve sightlines and general safety at the junction.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Notice of Motion submitted by Councillor Teefy
@@ -163,4 +168,6 @@ park in Murroe.
 progress update on the roadworks on Main Street, Caherconlish.
 
 
----
+
+[[PAGE_END:3]]
+

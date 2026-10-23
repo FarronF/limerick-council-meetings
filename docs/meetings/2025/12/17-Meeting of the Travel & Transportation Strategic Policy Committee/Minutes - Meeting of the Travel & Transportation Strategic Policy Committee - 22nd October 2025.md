@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-october-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -66,7 +67,9 @@ Rathkeale to Limerick City Greenway. The Chair advised the response will be circ
 members
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 1: Minutes:**
@@ -134,7 +137,9 @@ Mr. Tobin asked Mrs. Browne if she would attend the next Road Safety Working Tog
 (RSWTG) and if her campaign be included in the updates. He also asked if she could feed into the
 
 next walkability audit with Toby Goodwin, Active Travel.
----
+
+[[PAGE_END:2]]
+
 3
 
 Mr. Tobin also suggested that staff attend the ‘Way Finding’ training in Dublin, if they have not
@@ -200,7 +205,9 @@ relation disc parking zones where chargers are to be located.
 In response to Cllr. O’ Donoghue, Mr. O’Leary advised that the costs of project are funded
 
 through ZEVI and operations and maintenance on the concession contract will be cost neutral to
----
+
+[[PAGE_END:3]]
+
 4
 
 the Council. Regarding heavy goods vehicles, technology is very much developing at present but
@@ -270,7 +277,9 @@ ZTkjozV\_KBU
 Ms. Carmel Brislane delivered a presentation on the urban development approach that
 
 integrates land uses with access to transport and concentrates housing, employment, and leisure
----
+
+[[PAGE_END:4]]
+
 5
 
 space near public transport nodes, such as rail and bus stations. She outlined the NDP submission
@@ -338,7 +347,9 @@ In relation to Car Share, Mr. McGrath advised Limerick are hoping to have a new 
 Bike share, bike and e-scooter scheme is to be put in place in 2026 in conjunction with the NTA
 
 and we will not lose the TFI bike scheme until a new scheme is in place.
----
+
+[[PAGE_END:5]]
+
 6
 
 In response to Mr. Golden, Mr. McGrath advised that the plan should be about prioritising
@@ -390,4 +401,6 @@ Following a discussion by the members, it was agreed to change the time of futur
 to 2:15p.m.
 
 This concluded the business of the meeting.
----
+
+[[PAGE_END:6]]
+

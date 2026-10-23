@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-27th-november-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 27th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-27th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -84,7 +85,9 @@ The A/Senior Executive Planner, with the aid of a PowerPoint presentation, updat
 Members on the Director General’s Report. The Members thanked the Planning Department
 
 for their work on this Strategic Infrastructure Development application.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Members made the following comments in relation to the proposed Strategic
@@ -168,7 +171,9 @@ that the HSE should be consulted.
 • In relation to the impact of infrasound from proposed development Members
 
 referenced a study on safe distances by Professor Ken Masterson.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 • Members raised concerns that the automated shut down system on turbines in the
@@ -246,7 +251,9 @@ be required for any construction and post construction incidents; this would hav
 implications for the Local Authority.
 
 Community Engagement
----
+
+[[PAGE_END:3]]
+
 **4**
 
 • Members expressed concerns in relation to the level of public consultation and
@@ -308,4 +315,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

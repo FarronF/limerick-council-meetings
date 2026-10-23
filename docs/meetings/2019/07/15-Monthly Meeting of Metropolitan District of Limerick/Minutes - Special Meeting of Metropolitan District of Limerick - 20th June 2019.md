@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28c%29%20Minutes%20Special%20Meeting%2020th%20June%202019.pdf)
+**Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 20th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28c%29%20Minutes%20Special%20Meeting%2020th%20June%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON THURSDAY, 20TH**
@@ -90,7 +91,9 @@ for all Council depots was established and implemented. Park Road Depot was incl
 part of this inspection programme as was the civic amenity centre which is in the car park of
 
 the depot. Following these inspections safety issues were highlighted.
----
+
+[[PAGE_END:1]]
+
 2
 
 Mr. Cooney referred to the pictures contained within the presentation and outlined the
@@ -174,7 +177,9 @@ took place and Mr. Lehane confirmed the following to the meeting:-
  The sequence of events leading to the closure of Park Road and that the decision to
 
 close the recycling facility was not part of the Budget.
----
+
+[[PAGE_END:2]]
+
 3
 
  The closure of the facility was based on health & safety obligations only and that
@@ -240,4 +245,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

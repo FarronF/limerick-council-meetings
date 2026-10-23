@@ -16,20 +16,21 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Draft%20Minutes%20of%20the%20Environment%20Strategic%20Policy%20Committee%2025th%20June%202018.-.pdf)
+**Original file:** [Minutes - Meeting of the Environment Strategic Policy Committee - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Draft%20Minutes%20of%20the%20Environment%20Strategic%20Policy%20Committee%2025th%20June%202018.-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach - args na Forberthe Fisicit®,
-& Contae Luimnigh jomhairle Cathrach agus Contae Luimnigh,
-i =m enemmnstnsstticci ea eci Ceanncheathni Chorpardideach,
-sade = Cé na gCeannsithe,
+_—__ Comhairle Cathrach - es na earanaae
+‘omhairle ach agus ae
 
-— Limerick City Lsdneseecht
+Limeric! . Cé na gCeannsithe,
+
+— k City F Luimneach
 & County Council
 
-Physical Development Directorate.
+Physical Development Directorate,
 
 Limenck City and County Council
 
@@ -44,7 +45,7 @@ EIRCODE V94 EH90
 t: +353 (0) 61 $56 000
 
 Minutes of the Meeting of Limerick City & County Council Environment Strategic Policy
-Committee held on Monday 25"" June 2018 at 2.00 p.m. in the Council Chamber,
+Committee held on Monday 25" June 2018 at 2.00 p.m. in the Council Chamber,
 Merchant’s Quay, Limerick.
 
 Present:
@@ -83,7 +84,9 @@ Midlands Region Water Supply Project.
 The following were the main points from the briefing;
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ Mr. Murphy outlined the policy framework for the management of Irish Water's
@@ -91,9 +94,9 @@ water infrastructure and services. He explained that by 2050, our population wil
 grow by 1.2 million with a consequential increased demand for water.
 
 e He advised that presently, Irish Water can produce a maximum of 598 MI/d from 7
-sources while on an average day, 579 MI/d is consumed.
+sources while on an average day, 579 Mi/d is consumed.
 
-¢ He advised that Irish Water is delivering projects to provide up to 656 Ml/day by
+¢ He advised that Irish Water is delivering projects to provide up to 656 Mi/day by
 2021 but that is the limit of existing sources.
 
 ¢ He outlined that 85% of the Greater Dublin Area’s (GDA’s) water supply comes from
@@ -119,9 +122,9 @@ leakage challenge through its metering programme, district metering areas, leaka
 management system and find and fix programme. She advised that by 2050 leakage
 will be reduced to 140 MI/d despite major network expansion.
 
-e Ms. Ryan advised that Irish Water have an urgent need for a new water supply. She
+¢ Ms. Ryan advised that Irish Water have an urgent need for a new water supply. She
 explained that Irish Water is facing real supply challenges across the Eastern and
-Midlands region with 141 MI/d urgently required by 2026 and 329 MI/d required by
+Midlands region with 141 MI/d urgently required by 2026 and 329 Mi/d required by
 2050.
 
 ¢ Mr. Murphy outlined that 10 strategic options were assessed and Irish Water
@@ -137,7 +140,9 @@ He explained that Water Supply project will deliver benefits for the wider regio
 the following:
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ This new water source will address the serious water supply deficit across the region.
@@ -153,7 +158,7 @@ and Parteen Basin.
 Mr. Murphy outlined that the next steps and overall programme on the project include:
 * Ongoing engagement.
 * Complete Planning Application (EIAR / Wayleaves etc.) Q1, 2019.
-* Submit Planning application (incl. ELAR) to ABP and abstraction application Q2, 2019
+* Submit Planning application (incl. EAR) to ABP and abstraction application Q2, 2019
 (subject to introduction of abstraction legislation).
 * Oral Hearing / Planning Decision 2019 — 2022.
 * Detailed Design & Procurement 2019 — 2022.
@@ -185,7 +190,9 @@ stated that some facilities in Limerick county were in very poor condition and n
 significant upgrading to facilitate both current and future developments.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Members sought clarification as to the accuracy and/or veracity of some of the Irish Water
@@ -227,15 +234,17 @@ Item 4: Update on the River Basin Management Plan for Ireland 2018 — 2021 ~ Ms
 Goggin
 
 Ms. Anne Goggin provided a briefing to the Members on the River Basin Management Plan
-for lreland 2018-2021.
+for Ireland 2018-2021.
 
 The main points from the briefing are as follows:
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-¢ The overall aim of the Water Framework Directive 2000/60/EC is “to achieve good
+© The overall aim of the Water Framework Directive 2000/60/EC is “to achieve good
 ecological status in all waters”.
 
 ¢ The Water Framework Directive (WFD) requires River Basin Management Plans and
@@ -284,7 +293,9 @@ Environmental Noise Regulations of 2006 and confirmed that the final date in res
 which submissions on the draft Noise Action Plan could be received was 29" June, 2018.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She pointed out that Noise should be factored in from the outset when proposed
@@ -321,7 +332,7 @@ submitted in respect of the West Limerick area.
 Ms. Goggin explained to the Members that TIl has established a framework for the
 eradication of Japanese Knotweed on the National Road Network.
 
-She outlined that there are 15 approved specialist contractors on the Til framework with a
+She outlined that there are 15 approved specialist contractors on the TIl framework with a
 total budget of €5.5million. Ms. Goggin advised that the budget allocation for Limerick is
 €35,000 and that work in relation to the eradication of Japanese Knotweed on national
 roads in Limerick is ongoing.
@@ -332,7 +343,9 @@ control programme for river banks and road verges and the provision of training 
 cutting contractors.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ms. Goggin further explained that, subject to budgetary provision, a pilot programme on
@@ -347,9 +360,13 @@ programme of eradication.
 The meeting then concluded.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

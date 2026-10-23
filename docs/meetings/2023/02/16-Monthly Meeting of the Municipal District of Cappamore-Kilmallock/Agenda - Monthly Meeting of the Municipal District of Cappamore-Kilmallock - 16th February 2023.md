@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach Combiaine Cotsuactiemis Cortes Liiekit
+_—_——_ Comhairle Cathrach Combiaine Cotsunctiemnis Cortes Uniehat
 
 & Contae Luimnigh Olfig an Cheantair, Aras a Mochenso.
 
 mS ° ‘ : Co. Luimnigh
-— Limerick City
+=—=_ Limerick City
 
 & County Council Limerick City and County Council,
 
@@ -66,21 +67,23 @@ Kilmallock held on the 19*" January 2022
 
 Relating to the Minutes of the Municipal District Meeting of 19" January 2022.
 
-© customerservicesa@limerick.te
+&& customerservicesa@limerick.te
 Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wevewlimerickie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office nd
+Limerick City and County Council, Aras Mainchin Seoighe Area Office F
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Property Services
 
 To consider Disposal of Property at:
 
-* Foxhall West Colmanswell
+¢ Foxhall West Colmanswell
 
 4. Deputation
 
@@ -105,7 +108,7 @@ promotes safety on our roads long term.
 
 8. Notice of Motion submitted by Councillor Teefy
 
-I will move at the next meeting of the Municipal District that a schedule be put in place to
+| will move at the next meeting of the Municipal District that a schedule be put in place to
 remove the grass ridge growing in the middle of many local/tertiary roads which are
 otherwise in good condition.
 
@@ -116,7 +119,9 @@ Limerick City and County Council to promote and allocate grant funding to suppor
 2023 Annual St. Patrick’s Day Parades planned within the Municipal District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. Notice of Motion submitted by Councillor Carey
@@ -146,4 +151,6 @@ to slow traffic and in the interests of safety for all road users.
 be carried out around the area of Cahercorney Graveyard on the R514.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/04-minutes-jan-2020-md-meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/04-minutes-jan-2020-md-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -50,7 +51,7 @@ passing.
 1. Adoption of Minutes
 
 (i) Circulated, copy of draft Minutes of Monthly Meeting of the Municipal District of
-Cappamore-Kilmallock held on the 12 December, 2019.
+Cappamore-Kilmallock held on the 12" December, 2019.
 
 Proposed by Councillor Carey,
 Seconded by Councillor M. Ryan.
@@ -63,7 +64,9 @@ preference locations selected by qualified applicants on the Housing Waiting Lis
 Municipal District.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii) Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
@@ -107,7 +110,9 @@ asked that consideration should be given instead to the provision of an overbrid
 location.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Concerns were also raised in relation to unauthorised parking and dumping on the section
@@ -155,7 +160,9 @@ Limerick City and County Council and Ballyhoura Development CLG in supporting lo
 communities with their future progress and development.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Housing Development Directorate
@@ -201,7 +208,9 @@ their positions?
 Cappamore Kilmallock Municipal District?
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -246,9 +255,13 @@ Cathaoirleach
 
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

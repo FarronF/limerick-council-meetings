@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-and-requisition-special-meeting-limerick-city-and-county-council-07.04.2025.pdf)
+**Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 7th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-and-requisition-special-meeting-limerick-city-and-county-council-07.04.2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ie Comhairle Cathrach
+i Comhairle Cathrach
 & Contae Luimnigh
-Arc™N acer
-= — merick City
+aArcN oaaer
+- — merick City
 & County Council
 
-2" April, 2025.
+2"4 April, 2025.
 
 Sembhisi Corparaideacha,
 
-Com)nnirie Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh,
 Ceannchesthra Chorparaideach,
 
 Cé na gCeannathe,
@@ -80,7 +81,9 @@ mm customerservices@limerick ie
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Limerick City & County Council
@@ -98,11 +101,13 @@ the projected cost of refurbishing current listed vacant units.
 
 Kind regards,
 
-Clir Sharon Benson ECN- Serore Seoso~
-vernon Cie. Uscedte
+Clie Sharon Benson CN - Seore Seso~
+neers Cie. Uscste
 
-Clir Shane Hickey O’Mara ChOn . bent L. Lo
-ening UY ee © p-
+Clir Shane Hickey O’Mara ChOrn . lent Le. Lo
+eee UY ee o p
 
 
----
+
+[[PAGE_END:2]]
+

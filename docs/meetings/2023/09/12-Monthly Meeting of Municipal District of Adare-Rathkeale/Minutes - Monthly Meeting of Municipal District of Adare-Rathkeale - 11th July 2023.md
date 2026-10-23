@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ And Resolved:
 Following the adoption of the Minutes, Councillor Teskey expressed disappointment that
 
 a representative from Uisce Éireann had not agreed to attend a Special Meeting of the
----
+
+[[PAGE_END:1]]
+
 2
 
 District to discuss sewerage issues in the town of Askeaton. Councillor Teskey proposed
@@ -160,7 +163,9 @@ majority of staff working on the proposed plan will be existing staff from withi
 organisation, the Climate Action Co-Ordinator salary will be funded entirely by the
 
 Department with recruitment due to take place shortly for a Climate Action Officer. He
----
+
+[[PAGE_END:2]]
+
 3
 
 further explained that this is a National Policy and each Local Authority is obliged to
@@ -226,7 +231,9 @@ Discussion ensued and Councillor Keary proposed a Motion be forwarded to Full Co
 requesting a tax rebate for people who contribute to have their roads repaired under the
 
 Community Involvement Scheme. This was seconded by Councillor Collins and agreed.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -300,7 +307,9 @@ with Limerick City and County Council’s Chief Executive requesting they (Askea
 Civic Trust) be given the same status as Limerick Civic Trust and had not received
 
 a response.
----
+
+[[PAGE_END:4]]
+
 5
 
 He proposed a formal reply be issued from the Chief Executive to the Group as
@@ -330,4 +339,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

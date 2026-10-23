@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%20Meeting%20290517.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 29th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%20Meeting%20290517.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-___ Seirbhis{ Corpardideacha,
-Comhairle Cathrach agus Contae Luimnigh.,
+_—_ Seirbhis{ Corpardideacha,
+Comhairle Cathrach agus Contae Luimnigh,
 
-TZ. Ceanncheathni Chorpardideach,
+aie Ceanncheathni Chorpardideach,
 = Cé na gCeannsithe,
 COMHAIRLE Luimneach
-CATHRACH & CONTAE .
+CATHRACH & CONTAE ;
 ; 7 ‘orporate Services,
-Luimnigh Unerteh Cay anc Coney Comes,
-M ° Corporate Headquarters,
-Limerick gage ee Fr
+Luimnigh Unerteh Cay anc Couey Cones,
+M4 . Corporate Headquarters,
+Limerick page
 CITY & COUNTY Limerick
 COUNCIL
 EIRCODE V94 EH90
@@ -48,18 +49,18 @@ Council Chamber, Dooradoyle, Limerick, on Monday, 29" May, 2017, at 3.00 p.m. Th
 business to be transacted is set out on the appended Agenda.
 
 is mise le meas,
-CRs, 8S LU —
+CR sn, 8 L—
 
-Christy O'Connor,
+Christy O’Connor,
 
 Meetings Administrator.
 
-oe oo eee een n en en eens nennnsweeneenanasesnsesenseseces:
+oe oo eee ewe nen enen ens nennnsseeesennanssesnsesenssssces:
 
 AGENDA
 
 1. Minutes
-To adopt Minutes of Ordinary Meeting of the Council held on 27 March, 2017.
+To adopt Minutes of Ordinary Meeting of the Council held on 27" March, 2017.
 
 (Copy Enclosed)
 2. Disposal of Land
@@ -75,7 +76,7 @@ To consider proposal for the disposal of land at:
 
 (f) 28 Delmege Park, Moyross, Limerick.
 
-({g) 8 Upper Carey’s Road, Limerick.
+(g) 8 Upper Carey’s Road, Limerick.
 
 (h) Knockulceare, Mountcollins, Co. Limerick.
 (i) West End, Kilfinane, Co. Limerick.
@@ -84,16 +85,18 @@ To consider proposal for the disposal of land at:
 
 (k) Knockanerry, Murroe, Co. Limerick.
 
-(Statutory Notice dated 2", 3rd, 5™, 15" and 17" May, 2017, already
+(Statutory Notice dated 2", 3rd, 5™, 15" and 17 May, 2017, already
 
 circulated)
 & Customerservicesatimerick.te
-@ vevewimerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
+@ vevewsimerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncit
+Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Support Services Directorate
@@ -131,7 +134,9 @@ Development, Enterprise and Planning Strategic Policy Committee to replace
 Councillor Prendiville.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (f)
@@ -179,12 +184,14 @@ Strategic Policy Committee Meeting held on 26" April, 2017.
 (Report Enclosed)
 
 Chairperson’s Report — Economic Development, Enterprise and
-Planning Strategic Policy Committee Meeting held on 3° April, 2017.
+Planning Strategic Policy Committee Meeting held on 3” April, 2017.
 
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (9)
@@ -195,10 +202,10 @@ Planning Strategic Policy Committee Meeting held on 3° April, 2017.
 
 (i)
 
-Annual Financial 16 -— Limerick City and
+Annual Financial 16 - Limerick City and
 County Council
 
-To consider the Annual Financial Statement for year ended 31" December,
+To consider the Annual Financial Statement for year ended 31* December,
 2016, for Limerick City and County Council, under Section 108 of the Local
 Government Act, 2001 (as amended by the Local Government Reform Act,
 
@@ -208,7 +215,7 @@ circulated)
 
 nal Expenditure 2016
 
-To authorise additional expenditure over budget for financial year ended 31*
+To authorise additional expenditure over budget for financial year ended 31°
 December, 2016, under Section 104 of the Local Government Act, 2001 (as
 amended by the Local Government Reform Act, 2014), including Capital
 
@@ -238,7 +245,9 @@ for the Year Ended 31% December, 2015.
 Ended 31" December, 2015.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -255,7 +264,7 @@ co d (LNDR
 
 To consider proposed Variation No. 5(a) to the Limerick County Development Plan
 2010-2016 (as extended) and the Chief Executive's Report dated 20" April, 2017,
-for the incorporation of the preferred route corridor for the Limerick Northern
+for the incorporation of the preferred route corridor for the Limerick Northern.
 Distributor Road (LNDR), and decide, by resolution, whether to make the variation,
 with or without further modification, or refuse to make it, in accordance with
 Sections 13 (5) and (6) of the Planning and Development Act, 2000 (as amended).
@@ -272,7 +281,7 @@ To consider proposed Variation No. 6(a) to the Limerick City Development Plan 20
 for the incorporation of the objectives of the Limerick Regeneration Framework
 Implementation Plan, and decide, by resolution, whether to make the variation, with
 or without further modification, or refuse to make it, in accordance with Sections 13
-(5) and (6) of the Planning and Development Act, 2000 (as amended).
+(5S) and (6) of the Planning and Development Act, 2000 (as amended).
 
 (Report already circulated)
 
@@ -292,7 +301,9 @@ accordance with Sections 13 (5) and (6) of the Planning and Development Act, 200
 (Report already circulated)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a)
@@ -344,7 +355,9 @@ from 12" to 14" May, 2017.
 Co. Cork, on 17/18" May, 2017.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -389,7 +402,9 @@ housing units in the Georgian Quarter of the City Centre, including the possibil
 developing them as Social and Affordable Housing.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -411,7 +426,7 @@ promised Community Centre for Garryowen.
 
 Questions submitted by Cmhir. S. 6 Ceallaigh
 
-1 will ask at the next Meeting what progress has been made in upgrading
+| will ask at the next Meeting what progress has been made in upgrading
 connectivity to Limerick City from the M7 as previously discussed at the Travel and
 Transportation Strategic Policy Committee.
 
@@ -433,7 +448,9 @@ campaign to ensure Pope Francis visits Limerick in his proposed trip to Ireland 
 2018.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -470,4 +487,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:9]]
+

@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-08/00-agenda-24th-august-2021.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 24th August 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-08/00-agenda-24th-august-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
+—_ Comhairle Cathrach
 & Contae Luimnigh
-No ‘“
+a a ‘“
 
-=— Limerick City
+— Limerick City
 & County Council
 
 19" August, 2021
 
 Ceantar Bardasach Ath Dara-Rath Caota,
 Comhairle Cathvach agus Contae Luininigh
-Aras Séan Pim,
+Aras Séan Pin,
 
 Unie Nua,
 
 Rath Caola,
 
-Ca. Luimnigh.
+Co. Laimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
@@ -86,11 +87,13 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
 = fe
-© wouwlimerick.ie
+© wunwlimerick.ie
 @LimerickCoun:
 
 cil
-061 - 556.000
+( 061 - 556.000
 
 
----
+
+[[PAGE_END:1]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-limerick-city-and-county-council-16th-september-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 16th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-limerick-city-and-county-council-16th-september-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -82,7 +83,9 @@ Exchequer funding, this discretion must comply with all existing financial publi
 codes and principles, as well as adhere to relevant national and local government policy and
 
 legislation.
----
+
+[[PAGE_END:1]]
+
 The Members were informed that €2,750,000 of the Mayoral Fund 2025 was allocated to
 
 Revenue expenditure, while €7,750,000 was allocated to Capital projects.
@@ -170,7 +173,9 @@ Members queried which community groups the Mayor had committed funding to
 and requested a list of the groups to be circulated to Members. Concerns were
 
 raised about the transparency of allocations.
----
+
+[[PAGE_END:2]]
+
 •
 
 It was noted that €1.2 million remains uncommitted before year-end, and Members
@@ -268,7 +273,9 @@ Revenue Budget.
 On the proposal of Councillor McSweeney and seconded by Councillor Slattery a quarterly
 
 update on the Mayor’s Budget was requested.
----
+
+[[PAGE_END:3]]
+
 It was proposed by Councillor Collins (M) and seconded by Councillor Sheahan that the
 
 meeting be adjourned to allow all information to be collated for presentation.
@@ -320,4 +327,6 @@ This concluded the meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-Joint-Policing-Committee-22nd-September-2023.pdf)
+**Original file:** [Agenda - Meeting of Joint Policing Committee - 22nd September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-Joint-Policing-Committee-22nd-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+al Comhairle Cathrach
 — & Contae Luimnigh
-* aie — Limerick Ci
+* a — Limerick Ci
 merick City
 & County Council
 18" September, 2023.
@@ -34,12 +35,12 @@ A Chara,
 
 Sevbhisi Corpardideacha,
 
-Comhairle Cathvach agus Contae Lulnnigh,
-Ceanncheathri Chorparaideach,
+Comhairle Cathvach agus Contae Lubnnigh,
+Ceanncheathr’ Chorparaideach,
 
-Cé na gCeannaithe
+Cé na gCeannaithw
 
-Luinywveach
+Luinwveach
 
 Corporate Services,
 
@@ -82,12 +83,14 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ customerservices@limerick.ic
-© worwlimerickie
+© wowlimerickie
 
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -132,14 +135,16 @@ Question submitted by Councillor Tom Collopy
 been taken to address the ongoing and open misuse of drugs and the discarding of drug
 paraphernalia within the City of Limerick.
 
-i b ncillor T it
+i b incillor T it
 | will ask at the next meeting of the Joint Policing Committee for an update on the number of
 
 “Community Gardai” presently operating in Limerick City and if it is anticipated if these numbers
 are due to change.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Policing Committee held on 2” June, 2023) _
@@ -164,4 +169,6 @@ avoid undue traffic pressure on unsuitable, narrow local roads which are unable 
 accommodate high traffic volumes.
 
 
----
+
+[[PAGE_END:3]]
+

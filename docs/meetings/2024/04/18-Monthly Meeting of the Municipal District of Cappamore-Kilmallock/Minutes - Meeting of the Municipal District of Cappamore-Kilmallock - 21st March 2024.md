@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -78,7 +79,9 @@ Allocation 2024 held on 28th February 2024
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2. Matters Arising
 
 There were no matters arising.
@@ -126,7 +129,9 @@ Limerick Draft Noise Action Plan 2024-2028.
 A presentation on the Draft Plan was delivered by the Executive Scientist. A general
 
 discussion took place and clarification was provided as required.
----
+
+[[PAGE_END:2]]
+
 7.Rural Development
 
 Circulated: Draft LECP Framework Plan 2023-2028.
@@ -170,7 +175,9 @@ The Director of Services and the Senior Executive Engineer for Roads outlined to
 Deputation that funding received by the Local Authority was received for specific purposes
 
 and that there was very little discretionary funding available.
----
+
+[[PAGE_END:3]]
+
 NOTICES OF MOTION DEFERRED FROM JANUARY
 
 MEETING
@@ -210,7 +217,9 @@ Housing, and the Property Management Department.
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Egan**
----
+
+[[PAGE_END:4]]
+
 NOTICES OF MOTION
 
 11.Proposed rescindment of Notice of Motion submitted
@@ -272,7 +281,9 @@ the Irish Red Cross.
 **property by other parties also.**
 
 13.Notice of Motion submitted by Councillor Donegan
----
+
+[[PAGE_END:5]]
+
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District
 
 calling on Limerick City and County Council to complete a review of the footpaths,
@@ -318,7 +329,9 @@ phone at 0818 372 772
 **Proposed: Councillor Donegan**
 
 **Seconded: Councillor Egan**
----
+
+[[PAGE_END:6]]
+
 QUESTIONS
 
 14.Question submitted by Councillor Carey
@@ -394,7 +407,9 @@ Caherconlish
 Taking in Charge Section has a multi-annual work programme and from there we devise an
 
 annual work programme. From the 2023 work programme we have two estates (Cluain
----
+
+[[PAGE_END:7]]
+
 Foinse & Castle Court) which will be coming before the Members to be taken in charge in
 
 the coming months. Our 2024 work programme has two estates which we are currently
@@ -448,4 +463,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

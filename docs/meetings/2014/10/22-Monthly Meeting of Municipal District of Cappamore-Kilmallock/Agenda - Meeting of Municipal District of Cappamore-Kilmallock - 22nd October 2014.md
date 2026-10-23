@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore-kilmallock_-_22nd_october_2014_0.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 22nd October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore-kilmallock_-_22nd_october_2014_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_ Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
+_—_—_— Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ae - Cé na gCeannaithe,
-—— Luimneach
+—=— Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL > Merchants Quay,
@@ -54,7 +55,7 @@ AGENDA
 To adopt Minutes of the following Meetings:
 
 (a) Ordinary Meeting of the Municipal District held on 18” September, 2014.
-(b) Budgetary Plan Meeting of the Municipal District held on 10" October, 2014.
+(b) Budgetary Plan Meeting of the Municipal District held on 10” October, 2014.
 
 2. Deputation
 To receive Deputation from Lough Gur Development Cooperative Society Limited.
@@ -67,16 +68,20 @@ Questions submitted by Councillor W. O’Donnell
 complete the Yellow Box Junction adjacent to the Glynn property in Bruff as previously
 agreed.
 
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach © vevevatimerick.ie
+Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach © vevevatimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -124,12 +129,16 @@ and brief the Members on the pollution of the River Lubagh in August and outline
 Council's plans to support Inland Fisheries Ireland and the local Angling Club.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -175,7 +184,9 @@ Circulated, copy of draft Standing Orders for the Municipal District of Cappamor
 Kilmallock for consideration and adoption.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Director of Service pointed out that the Standing Orders presented were
@@ -197,11 +208,11 @@ e Each Member shall be permitted to submit one Notices of Motion, which shall
 be relevant to the business of the Municipal District, for each Municipal District
 Meeting.
 
-« Each Member shall be permitted to submit two Questions, which shall be
+¢ Each Member shall be permitted to submit two Questions, which shall be
 relevant to the business of the Municipal District, for each Municipal District
 Meeting.
 
-e¢ Fora Notice of Motion from a Municipal District to be a valid Motion from the
+¢ Fora Notice of Motion from a Municipal District to be a valid Motion from the
 District, all Members of the District must sign the Notice. In this case, such
 Motion shall only be counted as a Motion from the Proposer.”
 
@@ -226,7 +237,9 @@ indicated in the Chief Executive’s Report.
 The Members noted the report and welcomed the proposed development.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. Travel and Transportation
@@ -239,7 +252,7 @@ QUESTIONS
 
 5. Question submitted by Councillor L.M. Sheehy
 
-| will ask at the next Meeting what is the process for re-establishing a specific
+/ will ask at the next Meeting what is the process for re-establishing a specific
 trading market place in the village of Kilfinane.
 
 REPLY:
@@ -278,7 +291,9 @@ available to carry out the works this year. If not, the repairs will be
 carried out in 2015, subject to available funding.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7. Question submitted by Councillor N. Gleeson
@@ -319,7 +334,7 @@ and will commence in next few weeks.
 NOTICE OF MOTION
 9. Notice of Motion submitted by Councillor M. Donegan
 
-1! will move at the next Cappamore-Kilmallock Municipal District Meeting that
+! will move at the next Cappamore-Kilmallock Municipal District Meeting that
 Limerick City and County Council reinstate a staff member to the Board of
 Ballyhoura Development until the alignment process and the role of the Local
 Community Development Committee is agreed.
@@ -329,7 +344,9 @@ Council had not reappointed a staff member to the Board of Ballyhoura Developmen
 and asked if the situation could be reviewed.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor O' Donnell seconded the Motion.
@@ -364,12 +381,16 @@ Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -393,11 +414,11 @@ O'Connor).
 
 2014
 
-Circulated, report from the Head of Finance dated 1 October, 2014.
+Circulated, report from the Head of Finance dated 1“ October, 2014.
 
 The Director of Service opened the Meeting saying that the prescribed period that
 applied for the holding of a Meeting of a Municipal District to consider the draft
-budgetary plan was from 1™ October, 2014, to 10” October, 2014. He added that the
+budgetary plan was from 1“ October, 2014, to 10” October, 2014. He added that the
 Meeting of the Municipal District must, in any case, conclude no later than 21 days
 prior to the local authority Budget Meeting. He explained that the purpose of a draft
 budgetary plan was to provide each Municipal District with an opportunity to allocate
@@ -419,7 +440,9 @@ Executive to the GMA with €310,000 of this assigned to the Cappamore-Kilmalloc
 District as follows:
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 To finance Gross Revenue Expenditure Municipal District
@@ -460,7 +483,9 @@ proposed that a figure would be provided in each District for special projects.
 He outlined that those projects must specify a minimum spend of €50,000
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 each and it was envisaged that this spend would be for projects of a specific
@@ -501,9 +526,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:14]]
+

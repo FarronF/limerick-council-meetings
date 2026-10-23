@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20June%202022.pdf)
+**Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 15th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20June%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND**
@@ -98,7 +99,9 @@ Cllr. Michael Murphy opened the meeting and welcomed all members to the June SPC
 meeting.
 
 **Item 1: Confirm minutes from meeting held on20th** **April 2022**
----
+
+[[PAGE_END:1]]
+
 2
 
 **Proposed:** Cllr. Conor Sheehan
@@ -178,7 +181,9 @@ tenants that can be replicated, (3) asked if anti-social behaviour matters with 
 tenants can be reported to Limerick City and County Council and (4) What do tenants and
 
 Councillors need to do to report anti-social behaviour?
----
+
+[[PAGE_END:2]]
+
 3
 
 Mr. Hayes stated in reply to Cllr. Benson (1) Limerick City and County Council work very
@@ -262,7 +267,9 @@ A copy of the report will be forwarded to the Newcastle West Municipal District 
 information once it has been completed. NCW MD to be advised of above in relation to
 
 NOM.
----
+
+[[PAGE_END:3]]
+
 4
 
 - Cllr. Kiely stated she would like to put herself forward to participate in the working group.
@@ -338,7 +345,9 @@ that an update would be provided at the next SPC meeting.
 - Ms. Siobhan Reidy, Sectoral Representative Community/Voluntary asked if the
 
 allocations team have considered or are actively collecting data on numbers of applicants
----
+
+[[PAGE_END:4]]
+
 5
 
 who are on the housing list, are currently in private rented accommodation and who
@@ -388,4 +397,6 @@ An Cathaoirleach, Cllr. Michael Murphy thanked everyone who attended the SPC and
 the contributions and presentations given and for the support provided to him as Chair.
 
 **END OF MEETING**
----
+
+[[PAGE_END:5]]
+

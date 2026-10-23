@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-agenda-for-october-2021-jpc-sub-committee-mtg.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 21st October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-agenda-for-october-2021-jpc-sub-committee-mtg.pdf)
 
----
+[[FILE_START]]
+
 **15th** **October, 2021.**
 
 **To/**
@@ -58,4 +59,6 @@ Sub-Committee held on 15th July , 2021.
 **2.Policing Issues**
 
 To discuss policing issues in the District.
----
+
+[[PAGE_END:1]]
+

@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%202022-07-13%20July%20Agenda%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 13th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%202022-07-13%20July%20Agenda%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach P Diiche Bescels an Chuistesin Nua Tar,
-& Contae Luimnigh omnairte Cathrach agus Contae Luimnig'
-- - Aras William Smith O'Brien,
-” — . 2 q Gortbul,
+_—_—_ Comhairle Cathrach P Diiche Bascal an Chuistedin Nua Tar,
+& Contae Luimnigh omnairte Cathrach agus Contae Luimnig!
+- -——— Aras William Smith O'Brien,
+“ — .. ry q Gortbul,
 — Limerick City An Ceisiean Nua Thiar,
 
 & County Council
@@ -32,7 +33,7 @@ _—_ Comhairle Cathrach P Diiche Bescels an Chuistesin Nua Tar,
 Co. Luimnigh
 
 Newcastle West Municipal District,
-Limerick City and County Counc,
+Limerick City and County Counce,
 Avas Villar Smith OBnen,
 Gortboy
 
@@ -40,7 +41,7 @@ Newcastle West
 
 Co. Limerick
 
-Eircode: V42EH73
+Eitrcode: V42EH73
 
 8" July, 2022 t: +353 (0) 69 62100
 
@@ -49,11 +50,11 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 13 July, 2022,
-at 10,00 a.m. The business to be transacted is set out on the appended Agenda.
+at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise lemeas,
 
-a
+a “—t—
 Martin Curran,
 Meetings Administrator.
 
@@ -70,13 +71,14 @@ held on 15" June, 2022.
 2. Planning, Environment and Place-Making Directorate
 To receive Update on the Abbeyfeale Traffic Management Plan.
 = customerservices@limerickic
-Ceanncheathna Chorparaideach, Cé na gCeannaithe, Luimneach © wewnlimerickie
+Ceanncheathna Chorparéideach, Cé na gCeannaithe, Luimneach © wwenlimerickie
 
-Corporate Headquarters, Merchant's Quay, Limerick rickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -108,7 +110,7 @@ stores, New Street, Abbeyfeale.
 ! will ask at the next Meeting for an update on the Hill Road from Dennison’‘s
 Junction up towards the Four Cross Road.
 
-ed by Coundillor T. !
+ed by Coundillor T. l
 
 | will ask at the next Meeting if the Council can put in place safety measures to help
 traffic from Woodfield merge onto the R522. This is very dangerous at present.
@@ -119,7 +121,7 @@ approaches the village very quickly and this would help slow the traffic down.
 
 itted by Council . lan
 
-! will ask at the next Meeting what plans are in place to utilise Fuller’s Folly and when
+| will ask at the next Meeting what plans are in place to utilise Fuller's Folly and when
 is it expected to be brought into use.
 
 | will ask at the next Meeting that vegetation at numerous local road junctions
@@ -129,7 +131,9 @@ around Ashford, Broadford and Raheenagh be cut back in the interest of safety.
 Cloncon junction with the R515.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -165,4 +169,6 @@ I will move at the next Meeting that a survey of traffic activity be undertaken 
 Bishops Court, Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+

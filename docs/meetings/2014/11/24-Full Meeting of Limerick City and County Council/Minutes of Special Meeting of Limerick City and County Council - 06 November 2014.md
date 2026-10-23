@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_06_november_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick City and County Council - 06 November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_06_november_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -96,7 +97,9 @@ following Motion, originally submitted by Councillor Quinlivan for the November
 Meeting, to be put to the Special Meeting and Members had been notified of this on
 
 4th November:
----
+
+[[PAGE_END:1]]
+
 2
 
 **“That, Limerick City and County Council calls on the Government to: (1)**
@@ -178,7 +181,9 @@ party had no issue with paying for water provided that people’s ability to pay
 taken into account.
 
 The Amendment was seconded by Councillor Gleeson.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Keller, on behalf of his party, proposed an Amendment to the Motion as
@@ -252,7 +257,9 @@ that the legislation had been rushed and that any charge should be based on a
 person’s ability to pay.
 
 The Amendment was seconded by Councillor Daly.
----
+
+[[PAGE_END:3]]
+
 4
 
 Councillor Sheahan (J) stated that his party would not be supporting the Motions as
@@ -314,7 +321,9 @@ Secas, Sheahan (J), Sheahan (K), Sheahan (M), Sheehy. **(29)**
 There were no abstentions.
 
 The Cathaoirleach declared the Amendment defeated.
----
+
+[[PAGE_END:4]]
+
 5
 
 **Third Amendment – Proposed by Councillor Leddin and seconded by**
@@ -372,4 +381,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

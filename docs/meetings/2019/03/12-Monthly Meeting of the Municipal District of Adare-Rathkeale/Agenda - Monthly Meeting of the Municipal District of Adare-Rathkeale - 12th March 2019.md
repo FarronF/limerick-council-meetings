@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%2012th%20March%2C%202019%20v1.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%20Agenda%2012th%20March%2C%202019%20v1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-aa peat Cathrach
+ee pee Cathrach
 & Contae Luimnigh
 ALN i No
 
-—> Limerick City
+—= Limerick City
 & County Council
 
 6" March, 2019.
@@ -38,7 +39,7 @@ Une Nua,
 
 Rath Caola,
 
-Co. Wumnigh.
+Co. Wuimnigh.
 
 Adare-Rathkeale Municipal District,
 Limenck City and County Council,
@@ -85,15 +86,17 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copies Enclosed)
 
-@ customerservicese@limericx.te
-© wurlimerick.ie
+@ customerservices@limericx.te
+© worilimerick.ie
 
 Ww alimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Deputation from Adare Community Trust
@@ -101,7 +104,7 @@ Deputation from Adare Community Trust
 To receive Deputation from Adare Community Trust Group. (Item to be taken at 9.00
 a.m.).
 
-.
+5
 
 ial Dev m
 Ballywilliam Derelict Estate
@@ -130,7 +133,9 @@ To note update on drainage issues at Courtmatrix.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -151,7 +156,7 @@ Flooding Issues in Foynes
 To note update on flooding issues in Foynes.
 
 (Copy Enclosed)
-Sli_na Slainte, Askeaton
+Slina Slainte, Askeaton
 To note update on the Sli na Slainte in Askeaton.
 
 (Copy Enclosed)
@@ -175,7 +180,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 NOTICE OF MOTION
 
-i will move at the next meeting the Property Department of Limerick City and County
+| will move at the next meeting the Property Department of Limerick City and County
 
 Council attend the March Adare-Rathkeale Municipal District meeting to give an
 
@@ -183,7 +188,9 @@ adequate explanation as to its reason for the sale of all the Council land at Pa
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -200,4 +207,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

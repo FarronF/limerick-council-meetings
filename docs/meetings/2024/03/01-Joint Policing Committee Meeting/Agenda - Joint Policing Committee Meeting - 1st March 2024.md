@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-joint-policing-committee-meeting-1st-march-2024.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 1st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/agenda-joint-policing-committee-meeting-1st-march-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ei Comhairle Cathrach . Sexbhisi Corpartideacha,
-“ : Comnatie Cathwach agus Contae Lutwjh,
-- ,—_ & Contae Luimnigh Ceanncheathna Chorpardideach.
-Ars ——=—— Cé na gCeannaithe,
+ae Comhairle Cathrach - Sexbhist Corpartideachs,
+“ PS Comnaitie Cathwach agus Contae Lutjh,
+- on™ & Contae Luimnigh Ceanncheathna Chorpardideach.
+Ars —_——— Cé na gCeannaithe,
 = Limerick City Luimneach
 
 —= & County Council
-Corporate Services
+Corporate Services,
 Limerick City and County Council
 
-27" February, 2024 Corporate Headquarters,
+27* February, 2024 Corporate Headquarters,
 Merchants Quay,
 
 Lirnerick
@@ -52,7 +53,7 @@ Laura Flannery
 Senior Executive Officer
 Corporate Services, Governance & Customer Services.
 
-ween ne een nn nn en nnn nn nnn nn nn nee nn ene ee nnn nn nn eee nnn eee enn enn en eee eee nee nee eeeeen enn n eee n nen nee mene senses
+enn ne een nn nn en nnn nnn nnn ns nn ee nnn eee ee ns nn enn heen es ee ne ens meen nen eee eee eee nee ee eee n enn w ene ne nen nee wenn senenee
 
 AGENDA
 1. To confirm Minutes of Joint Policing Committee Meeting held on 8" December, 2023
@@ -70,11 +71,13 @@ worn cameras.
 to the Immigration Office at Henry Street Garda Station to reduce the waiting time as this is causing
 undue hardship to people and their families.
 
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Lulmneach w @LimerickCouncil
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Lulmneach w @LimerickCouneil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -85,13 +88,15 @@ Question submitted by Deputy Maurice Quinlivan, T.D.
 combat the sale and supply of drugs in the Kings Island area, which has seen an increase in such
 behaviour in recent weeks.
 
-Question submitted by Dep Maurice Quintivan D
+Question submitted by Dep Viaurice Quintivan D
 
 | will ask at the next Meeting of the Joint Policing Committee, in relation to the issue of wandering and
 stray horses in urban areas, what is the number of seizures for non-compliance with horse chipping
 guidelines and the number of horses destroyed in Limerick in 2023 and to date in 2024
 
-1:
+d
 
 
----
+
+[[PAGE_END:2]]
+

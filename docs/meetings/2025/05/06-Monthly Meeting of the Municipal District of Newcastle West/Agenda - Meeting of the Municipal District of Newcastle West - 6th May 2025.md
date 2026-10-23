@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-may-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 6th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-municipal-district-of-newcastle-west-6th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach
+__—_— Comhairle Cathrach
 & Contae Luimnigh
-anAoN ,
+anAmN ,
 
 Limerick City
-— & County Council
+= & County Council
 
-Duiche Bardais an Chaisiedin Nua Thiar,
+Duiiche Bardais an Chaisiedin Nua Thiar,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras William Smith O'Brien,
 
@@ -42,9 +43,9 @@ Newcastle Vest Municipal District,
 Limerick City and County Council,
 Aras William Smith O'Brien,
 
-Gortboy,
+Gortbay,
 
-Nevicastle West,
+Newcastle West,
 
 Co. Limerick.
 
@@ -61,7 +62,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Tuesday, 6 May, 20
 
 Is mise le meas,
 
-upple,
+Upple,
 Meetings Administrator.
 
 AGENDA
@@ -72,7 +73,7 @@ AGENDA
 
 April, 2025.
 
-2. Declaration of Interest.
+2. _ Declaration of Interest.
 3. Deputation
 
 (Copy Enclosed)
@@ -85,13 +86,15 @@ To receive Update from the Housing Directorate for the Newcastle West Municipal
 
 District.
 
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -146,7 +149,9 @@ construct a multi-purpose facility to accommodate (a) Men's shed (b) Snooker clu
 (c) Theatre and Arts centre (d) Band practice facility.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14,
@@ -175,4 +180,6 @@ with An Garda Siochana immediately put a static speed camera in place at
 Clooneyscrehane on the R515 in the interest of road safety.
 
 
----
+
+[[PAGE_END:3]]
+

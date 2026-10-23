@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Annual-Meeting-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
+**Original file:** [Minutes - Annual Meeting Municipal District of Cappamore-Kilmallock - 22nd June, 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Annual-Meeting-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF THE ANNUAL MEETING OF THE
@@ -82,7 +83,9 @@ As there were no other nominations, the outgoing Cathaoirleach declared Councill
 Donegan elected as Cathaoirleach of the Municipal District of Cappamore-Kilmallock and
 
 offered him best wishes for the coming year.
----
+
+[[PAGE_END:1]]
+
 2
 
 The outgoing Cathaoirleach, Councillor J Egan thanked the Director of Services,
@@ -150,7 +153,9 @@ Promotion of the Thomas Fitzgerald Centre in Bruff, as well as strengthening
 connections with the town of Acton in Boston and supporting the development of the
 
 Stone Mansion in Kilmallock were among the priorities of the incoming Cathaoirleach.
----
+
+[[PAGE_END:2]]
+
 3
 
 Acknowledgement of the issues being highlighted by the Retained Firefighters, as well as
@@ -178,4 +183,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

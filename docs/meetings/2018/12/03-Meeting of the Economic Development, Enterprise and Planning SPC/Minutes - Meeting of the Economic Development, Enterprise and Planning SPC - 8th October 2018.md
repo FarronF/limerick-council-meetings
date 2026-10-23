@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20SPC%20Meeting%20-%208th%20Oct%202018.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 8th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20SPC%20Meeting%20-%208th%20Oct%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES**
 
 **OF**
@@ -112,7 +113,9 @@ The Chairperson explained that Cllr Teskey could not attend the meeting and he
 asked that the Notice of Motion be deferred to the next meeting of the SPC.
 
 This was agreed by the members.
----
+
+[[PAGE_END:1]]
+
 **Item 3.**
 
 **Notice of Motion from Cmhlr Ó Ceallaigh referred from the full Council meeting**
@@ -200,7 +203,9 @@ November 2018.
 Members expressed a huge gratitude to all associated with the preparation and
 
 submission of the applications. The applications showed that the Council and other
----
+
+[[PAGE_END:2]]
+
 agencies are hugely ambitious for the Limerick. The City region requires investment
 
 on this scale if it is to act as a counterbalance to the east coast. Members supported
@@ -226,4 +231,6 @@ This concluded the business of the meeting
 **Councillor Vivienne Crowley**
 
 Chairperson
----
+
+[[PAGE_END:3]]
+

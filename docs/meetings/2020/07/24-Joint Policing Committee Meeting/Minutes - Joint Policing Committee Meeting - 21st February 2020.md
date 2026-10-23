@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/minutes-of-jpc-meeting-21st-feb-2020.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 21st February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/minutes-of-jpc-meeting-21st-feb-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
 **CHAMBER, CORPORATE HEADQUARTERS, MERCHANT’S QUAY, ON FRIDAY, 21ST** **FEBRUARY, 2020 AT**
@@ -116,7 +117,9 @@ that, at present, An Garda Síochána has no outstanding complaint, however, if 
 aware of/or have any evidence regarding extortion/intimidation at building sites, he asked them to bring it
 
 to the attention of An Garda Síochána immediately for investigation.
----
+
+[[PAGE_END:1]]
+
 **3.Presentation by Ms. Grace O’Sheahan on the Role of The Community Policing Co-Ordinator**
 
 Ms. O’Sheahan stated that her role is :
@@ -218,7 +221,9 @@ He also gave an overview of drugs statistics for 2020 for the Limerick division 
 of the controlled substances seized to date in 2020. He outlined the differences between crack cocaine and
 
 cocaine.
----
+
+[[PAGE_END:2]]
+
 The Chief Superintendent stated that since September there is a deliberate input of drugs into the market
 
 by individuals in the city and is focused directly at the most vulnerable in our society. Alot of work is being
@@ -316,7 +321,9 @@ to become actively involved and acquire a sense of ownership of their estates.
 This is a service where trust is established and maintained through good communication and all
 
 information received is dealt with confidentially.
----
+
+[[PAGE_END:3]]
+
 Allegations of criminal behaviour are a matter for investigation in the first instance by An Garda SÍochána
 
 who is the Council’s key partner in trying to curb anti social behaviour. Many issues can be resolved by
@@ -354,4 +361,6 @@ This concluded the Meeting.
 **Councillor Adam Teskey, Chairman**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

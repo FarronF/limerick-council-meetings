@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-special-meeting-05.02.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 5th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-agenda-special-meeting-05.02.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_——_ Comhairle Cathrach
+_—_—_ Comhairle Cathrach
 & Contae Luimnigh
-AN LM ON OO
+ee le
 
 Limerick City
-— & County Council
+= & County Council
 
 29" January, 2021.
 
 Seirdhisi Corpardideacha,
 
-Comhairle Cathrach agus Contae Luimnigh.
+Comhairle Cathrach agus Contae Luimnigh,
 Ceanncheathni Chorperaideach.
 
 » Cé na gCeannaithe,
@@ -62,42 +63,46 @@ issue as set out in the attached Requisition in relation to the Coonagh Knockali
 
 Is mise le meas,
 
-a AGN
+a aa
 
-une,
+lune,
 ings Administrator.
 — ngs
 
-Ceanncheathrii Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Requisition attached)
 
-m Customerservices@limerick ie
-© weewlimerickie
+m Customerservices@limerickie
+© Wwewlimerickie
 @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Mayor 2 chara ‘
-‘ ip
+‘ re
 
-We the underegned members wish to submit an emergency mobon caling On te Minester for
-Transpon Eamonn Ryan to meet with thes Council es 8 matier of uxgency lo Gvcuss the ee
+We the undersigned members wish to submit an emergency mobon celing On Be Minesier for
+Transpon Eamonn Ryan to meet with thus Council es 8 matier of uxgency lo Gecuss the a
 Coonagh Knockalisheen Road.
 
 We therefore request a special meeting to discuss this motion.
 
 Kind Regards,
-Srcron Sensor eu <r be
+Srceon Sensor eu <r be
 
 bina. Secas
-CoNol, Sadho =
-yee ge
+CoNoo, SRodlone =
+Jee ge
 
 
----
+
+[[PAGE_END:2]]
+

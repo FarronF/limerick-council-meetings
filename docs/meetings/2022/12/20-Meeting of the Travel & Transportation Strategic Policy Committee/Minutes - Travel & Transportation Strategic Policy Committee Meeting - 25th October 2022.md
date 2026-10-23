@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20Meeting%20-%2025th%20October%202022.pdf)
+**Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting - 25th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20Meeting%20-%2025th%20October%202022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the** **Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -70,7 +71,9 @@ Cllr. Secas raised two points as follows:
 Fitzgerald could bring this up with TII.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Cllr. O’Donovan welcomed the works on the N69 Mungret and Boland’s Cross. She was
@@ -134,7 +137,9 @@ extension of the greenway to Patrickswell and the City needs to be a priority. H
 that landowners in Patrickswell are in limbo as they cannot get planning permission for house or
 
 extensions.
----
+
+[[PAGE_END:2]]
+
 3
 
 In response to members Mr. Fitzgerald added the following:
@@ -218,7 +223,9 @@ limits. She asked if there were any other measures, like traffic management or c
 Mr. O’Reilly stated that at a number of locations, engineering measures may be deemed
 
 necessary. It is currently a work in progress and will be dealt with on a case-by-case basis.
----
+
+[[PAGE_END:3]]
+
 4
 
 Mr. Kennedy advised Bus Connects has started and traffic management will be part of the Bus
@@ -282,7 +289,9 @@ Cllr Mitchell raised the following queries:-
 2. What type of fencing would help reduce noise.
 
 Mr. Jennings thanked the members for their questions and added the following: -
----
+
+[[PAGE_END:4]]
+
 5
 
 In relation to a published paper, a report on the M7 is completed, which looks at various
@@ -350,7 +359,9 @@ Mr. Kennedy confirmed that the Minister of Transport made the decision to exclud
 he assumed this continues to be the case. He added that the Executive agrees it is important to
 
 the region. He will bring the comments on cycle connects to the NTA.
----
+
+[[PAGE_END:5]]
+
 6
 
 Cllr. O’Donovan agreed with Cllr. McSweeney and added that there is no consistency between
@@ -418,7 +429,9 @@ which are dependent on an honesty policy for effective operation. The system inv
 a specific parking area with a recognised hidden disability emblem and depends on user honesty
 
 for subsequent parking on this spot.
----
+
+[[PAGE_END:6]]
+
 7
 
 It should be noted that that this is a very busy city centre location with paid parking. We will liaise
@@ -490,7 +503,9 @@ interruptions along the route.
 Cllr. Ryan stated that many local residents in Abbington Murroe area of the R516 have raised
 
 concerns in relation to speeding. In response, Mr. Kennedy added that the Council will write to
----
+
+[[PAGE_END:7]]
+
 8
 
 the Department of Justice on the matter. Cllr Ryan stated that it was important to keep
@@ -560,4 +575,6 @@ Mr. Lillis thanked Mr. Kennedy for the reply
 The Chair advised that the next meeting is scheduled for Tuesday, the 20th December 2022.
 
 The meeting then concluded.
----
+
+[[PAGE_END:8]]
+

@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2018th%20December%2C%202018%20V2.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 18th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%20Agenda%2018th%20December%2C%202018%20V2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach
+il Comhairle Cathrach
 & Contae Luimnigh
-OM ee —————
+DT ————————_
 
-—>== Limerick City
+—>= Limerick City
 & County Council
 
 Ceantar Bardasach Ath Dara-Rath Caola,
 Comhawie Cathrach agus Contae Luimnigh,
 Aras Séan Finn,
 
-Line Nua,
+Une Nua,
 
-Rath Cacta,
+Rath Caota,
 
 Co. Luimnigh.
 
@@ -52,7 +53,7 @@ EIRCODE V94 HKLV
 
 t: +353 (0) 69 64047
 
-11" December, 2018. #4353 Oh CO Estes
+11" December, 2018. #4353 ONC Estes
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-
 Rathkeale
@@ -61,7 +62,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on “" r, 2018 at 2.
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on “n r, 2018 at 2.
 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -70,7 +71,7 @@ dos A>
 Karen Butler,
 Meetings Administrator.
 
-ete e ee cnt ee en ne ewe n ee nn tenes nen enn een eeeeesees eres nese reer en nen cote eee reen renee:
+ete e ne cee e ene news nee nn ten ese nesses nese eeeeerers eeee nese reer es nen cote eeereen renee:
 
 AGENDA
 
@@ -93,14 +94,16 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copies Enclosed)
 
-= Geen
+= TT Geen
 www.limerickie
 
 W @LimerickCouncil
-{ 061 - 556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development Directorate
@@ -141,7 +144,9 @@ To note update on proposals to address the flooding issues in Askeaton.
 nN
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -194,4 +199,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

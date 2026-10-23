@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02-minutes-monthly-meeting-cappamore-kilmallock.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/02-minutes-monthly-meeting-cappamore-kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -40,7 +41,7 @@ Director, Support Services-Finance, Corporate, HR & ICT (Mr. S. Coughlan); Meeti
 Administrator, (Mr. M. Leahy); Senior Executive Engineer, Cappamore-Kilmallock (Mr. B.
 Kidney); Clerical Officer, Cappamore-Kilmallock (Ms. H. O'Neill).
 
-Also in attendance: Noel Kelly, Principal, Colaiste l6saef Community College.
+Also in attendance: Noel Kelly, Principal, Colaiste |6saef Community College.
 
 At the outset of the Meeting, the Principal of the Secondary School welcomed the Elected
 Members and officials to the school for their Meeting. The Elected Members thanked Mr Kelly
@@ -54,7 +55,9 @@ With the agreement of the Elected Members, the Cathaoirleach proposed a vote of 
 for all those who had perished in recent months because of the Covid 19 crisis and he praised
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the work done by all frontline workers in facing the challenges encountered in dealing with
@@ -67,7 +70,7 @@ were proposed, for the following people who had passed away since the previous m
 Roscommon on the 17" June, 2020. The Elected Members also thanked Bruff Gardai
 and Kilmallock Fire Service for the minutes silence outside Bruff Garda Station;
 
-* Brendan Lewis, Glenfield, Kilmallock-former retained firefighter, Kilmallock Fire
+¢ Brendan Lewis, Glenfield, Kilmallock-former retained firefighter, Kilmallock Fire
 Brigade;
 
 ¢ Gerard Houlihan, Green Road, Kilmallock and Crecora-brother of former Councillor
@@ -107,16 +110,18 @@ in the Schedule and thanked the Council staff for their assistance in the prepar
 same. The Director, Support Services-Finance, Corporate, HR & ICT confirmed that a
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 presentation would be made to the Elected Members later in the year in relation to the
 completion of works contained in the Schedule of Municipal District Works 2020.
 
-On the proposal of Clir E. Ryan, seconded by Cllr Teefy, it was agreed to approve the Draft
+On the proposal of Cllr E. Ryan, seconded by Cllr Teefy, it was agreed to approve the Draft
 Schedule of Municipal District Works for 2020 as outlined in the circulated report.
 
-(ii) General Municipal Allocation (GMA) Community Contributions 2020
+(li) General Municipal Allocation (GMA) Community Contributions 2020
 
 Prior to a discussion on this item, the Cathaoirleach stated that he wished to clarify rumours
 circulating that he was opposed to an allocation of €1,000 to Millmount Residents for
@@ -144,7 +149,7 @@ Disposal of freehold interest in property at Gibbonstown, Kilmallock,
 Co. Limerick
 
 Circulated, report from the Head of Property Services setting out the background to the
-proposed disposal of freehold interest in property at Gibbonstown, Kilmallock, Co. Limerick.
+proposed disposal of freehold interest in property at Glbbonstown, Kilmallock, Co. Limerick.
 
 It was intended to bring the proposed disposal to the Full Council for approval.
 
@@ -156,7 +161,9 @@ NOTICE OF MOTION
 
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next Meeting of the Municipal District of Cappamore-Kilmallock that
@@ -201,7 +208,9 @@ update and full clarity on this essential and necessary service which serves a h
 what are its future plans.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Cilr Mitchell, seconded by Cllr Teefy and agreed that the Meetings
@@ -244,7 +253,9 @@ the junction with the L5050 and the lining of the same junction.
 Reply:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Transport Infrastructure Ireland (Til) were contacted by Limerick City and County Council on
@@ -282,14 +293,16 @@ As you know Water Services, as a result of a complaint, inspected the foul netwo
 area known as Deebert Park in Kilmallock on 10/03/2020. An overflow in a manhole to the
 rear of house No. 9 Deebert Place was identified.
 
-emaiihariindin the mesrlif in land tooBesh River, preverding't Waste Water backing up
+umaitichaciiadin the mesrlif in land tooBedh River, preverding Waste Water backing up
 and flooding Irish Water customers and public lands.
 
 Further investigation revealed that the cause of this overflow discharge to river was as a
 direct result of a partial network blockage further downstream.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Water Services Operatives later that evening removed a significant amount of debris and
@@ -309,9 +322,13 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

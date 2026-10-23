@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/03%20%28c%29%20%28v%29%20Community%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 17th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/03%20%28c%29%20%28v%29%20Community%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 **Community, Leisure & Emergency Services Strategic Policy Committee**
 
 **Meeting 17/12/2018**
@@ -94,7 +95,9 @@ County Council.
 **Adoption of Minutes of Community, Leisure & Emergency Services Strategic**
 
 **Policy Committee held on 15th** **October, 2018**
----
+
+[[PAGE_END:1]]
+
 The Committee Members unanimously agreed on the minutes of meeting held on 15th
 
 October, 2018. The minutes were proposed by Cllr. G. Mitchell & seconded by Cllr. M.
@@ -174,7 +177,9 @@ the programme for the first 12 weeks.
 The members of the SPC were very complimentary and supportive of the
 
 project.
----
+
+[[PAGE_END:2]]
+
 **Item 5:**
 
 **Presentation on PLACE** **–** **EE European Research Project**
@@ -264,4 +269,6 @@ take place on Monday, 15th April, 2019 at 2.30 p.m. in Council Chamber,
 Dooradoyle
 
 Councillor Hurley closed the meeting by wishing everyone a Happy Christmas.
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-1st-july-2026_0.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 1st July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-1st-july-2026_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **1st** **July 2026**
@@ -51,7 +52,9 @@ transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -85,4 +88,6 @@ Wednesday, 17th February 2027 at 2:15 p.m.
 Wednesday, 21st April 2027 at 2:15 p.m.
 
 Wednesday, 16th June 2027 at 2:15 p.m.
----
+
+[[PAGE_END:2]]
+

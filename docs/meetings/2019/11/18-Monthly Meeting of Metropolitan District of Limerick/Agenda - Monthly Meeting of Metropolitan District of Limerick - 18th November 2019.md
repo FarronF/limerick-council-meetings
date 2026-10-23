@@ -16,36 +16,37 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Monthly%20Meeting%2018th%20November%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 18th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Monthly%20Meeting%2018th%20November%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-. Sewbhisi Corparaideacha,
-ell Comhairle Cathrach Comhairle Cathrach agus Contae Luimragh
+. Sebhisi Corparaideacha,
+- _ ae Comhairle Cathrach Comhairle Cathrach agus Contae Luimragh
 & Contae Luimnigh Ceanncheathni Chorperdideach:
-NN 4 . P Cé na gCeannaithe.
-—_ -> Limerick City Luirrnneach
+NON 4 ee ———— Cé na gCeannaithe.
+— Limerick City Luimneach
 & County Council
-Corporate Services,
+Corporate Sarvices,
 Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
-
 Limerick
-13** November, 2019.
-BIRCODE V34 EHSO
-: +353 (0) 61 557150
+
+13 November, 2019.
+BIRCODE V94 EHSO
+
+t: +353 (0) 61 557150
 To: _ The Cathaoirleach and ber of n Di +353 (0) 61 418 266
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
 
-Council Chamber, Merchant’s Quay, Limerick on Monday, 18 November, 2019 at 9.45 a.m. The
+Council Chamber, Merchant's Quay, Limerick on Monday, 18 November, 2019 at 9.45 a.m. The
 
 business to be transacted Is set out on the appended Agenda.
-
 Is mise le meas,
 
 CO
@@ -54,7 +55,7 @@ Ja une,
 Mee\jings Administrator.
 
 AGENDA
-1. Minutes
+1, Minutes
 To adopt Minutes of the following Meetings:
 {a) Meeting to consider Draft Budgetary Plan 2020 for the Metropolitan District of Limerick held
 on 18" October, 2019.
@@ -67,17 +68,20 @@ on 18" October, 2019.
 To note proposal for the disposal of land as follows:
 
 (a) Disposal of Land at Garryowen Road (0.033 acres) to St. John’s Hospital.
-(b) Disposal of 0.232 Hectares to Castletroy College. In exchange, disposal by Castletroy College
+(b) Disposal of 0.232 Hectares to Castletroy College. in exchange, disposal by Castletroy College
 of 0.136 Hectares to Limerick City and County Council.
 
 ~ :
-© wvew Simerick.ie
+© wvewlimerick.ie
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach (Reperts-Ervotctdjaci
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach (Reperes-Ervotcwtdpaci
+
 Corporate Headquarters, Merchants Guay, Limerick . 061-
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Service Operations Directorate
@@ -106,8 +110,6 @@ Standing Orders
 
 To consider proposals to review Standing Orders.
 
-7. Presentation on King John’s Castle
-
 To receive Presentation on the operations of King John’s Castle.
 
 QUESTIONS
@@ -115,11 +117,13 @@ QUESTIONS
 8. Question submitted by Councillor E, O’Donovan
 
 | will ask at the next Meeting for an update on the Coke Zero Bike Scheme proposed extension to
-L..T. Also, when the opening of the Colbert Station Bike Scheme and reopening of the King Johns
+LT. Also, when the opening of the Colbert Station Bike Scheme and reopening of the King Johns
 Castle Station might take place and why there is currently a delay with this scheme.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -136,7 +140,7 @@ outstanding in relation to footpaths/pavements and what impact this has had on u
 | will ask at the next Meeting for a breakdown of the total costs to the Council, of dealing with
 waste originating from households and businesses.
 
-11. Question submitted by Councillor O. O’Sullivan
+11. Question submitted by Councillor O, O’Sullivan
 
 | will ask at the next Metropolitan Meeting of Limerick City and County Council for confirmation of
 how many staff are directly employed by the Council for tourism and what roles each staff member
@@ -166,7 +170,9 @@ many were allocated to people living in emergency accommodation.
 issued so far this year, how many were paid and how many have resulted in prosecution.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -208,7 +214,9 @@ inception of the project.
 pedestrian crossings in the Metropolitan Area.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -224,10 +232,10 @@ Transportation Strategic Policy Committee)
 
 | will move at the next Metropolitan Meeting of Limerick City and County Council that the Council
 examine the entry to Limerick City from Co. Clare and look at installing welcome signage at the
-Clondrinagh roundabout approach on the Ennis Road that is befitting of Ireland's third largest city
+Clondrinagh roundabout approach on the Ennis Road that is befitting of Ireland’s third largest city
 and the commercial, administrative and cultural capital of the Mid-West.
 
-fon JOMILeG DB YYUNCIIOT Martigan (tO &
+fon JOMILeG DO OYUNCHIOF rartigan (tO 0
 Biodiversity and Environment Strategic Policy Committee)
 | will move at the next Meeting that Limerick City and County Council put in place a tree strategy to
 provide a coordinated approach to the management of trees in the Limerick Metropolitan area.
@@ -247,7 +255,9 @@ extend the opening hours of the TEP services to provide 24hr accommodation to se
 to provide access to daytime facilities and appropriate supports, as a matter of urgency.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -277,9 +287,11 @@ imaging camera in the River Shannon in the Metropolitan area to prevent drowning
 | will move at the next Meeting that Limerick City and County Council would employ an in-house
 chartered transport planner to provide professional input to all Directorates.
 
-| will move at the next Meeting that Limerick City and County Council would set an active travel
+[| will move at the next Meeting that Limerick City and County Council would set an active travel
 modal share target of 50% for the Limerick Metropolitan Area as an objective of the Limerick
 Shannon Metropolitan Area Transport Strategy (LSMATS).
 
 
----
+
+[[PAGE_END:6]]
+

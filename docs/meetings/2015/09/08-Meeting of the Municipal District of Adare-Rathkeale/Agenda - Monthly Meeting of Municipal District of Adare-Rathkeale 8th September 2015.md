@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%208th%20September%202015.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale 8th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%208th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-a Cé na gCeannaithe,
-= Luimneach
+ba Cé na gCeannaithe,
+—=—— Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL Merchants Quay,
@@ -42,7 +43,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
-Kilcornan Community Centre, Co. Limerick, on Tuesday, 3" September, 2015 at 9:00 a.m.
+Kilcornan Community Centre, Co. Limerick, on Tuesday, 8” September, 2015 at 9:00 a.m.
 
 The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
@@ -50,7 +51,7 @@ Is mise le meas,
 Tina Knox,
 Meetings Administrator.
 
-ee ee en ee eee ee een enn ee eee enn enn nn nnn een nnn een n eee n ene n nen n nena eee nnn nnn nnn ane ne nn nnne nn neneeeeeese
+ee ee ee eee cee eee rn ne eee enn nen nnn eee nn nn een n eee e nnn ene n nee e eee nn nnn nn nn ann ne nn nnnennneneeeeeese
 
 AGENDA
 
@@ -65,18 +66,20 @@ To adopt Minutes of the following Meetings:
 
 2015.
 
-2 Disposal of Land
+2: Disposal of Land
 
 To note proposal for the disposal of land at:
 
 Ballyroe, Loghill
 
-] © customerservices@limerickie
+] @ customerservices@limerickie
 Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach & www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -125,7 +128,9 @@ towards Ballylongford was completed during the 2015 Roads Scheme.
 nN
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -182,7 +187,9 @@ Askeaton and when it is anticipated that the Council will be in a position to ta
 even a part of the estate.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -207,7 +214,6 @@ Notices of Motion submitted by Councillor E. O’Brien
 plan is for the installation of traffic route lighting in the vicinity of the Kilcornan primary
 school and entrance to the Ger McDonnell all-weather playing facility/ Kilcornan
 Community Centre together with enhanced traffic calming/safety measures at this
-
 location.
 
 | will move at the next Meeting that Coillte be requested to hold a public information
@@ -225,7 +231,7 @@ improvements.
 
 Notices of Motion submitted by Councillor R. O'Donoghue
 
-1 will move at the next Meeting that the Council, having consulted with the Rates
+| will move at the next Meeting that the Council, having consulted with the Rates
 Valuation Office, would provide a designated helpline solely for Councillors (as per Irish
 Water) to assist Councillors in their representations on behalf of Rate Payers.
 
@@ -235,4 +241,6 @@ in the Community Park in Ballingarry, in the interest of public health and safet
 Correspondence
 
 
----
+
+[[PAGE_END:4]]
+

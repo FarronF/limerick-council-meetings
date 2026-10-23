@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%201%20Minutes%20of%20Cultural%20SPC%20meeting%20held%2012th%20December%202017.pdf)
+**Original file:** [Minutes - Meeting of the Cultural SPC - 12 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%201%20Minutes%20of%20Cultural%20SPC%20meeting%20held%2012th%20December%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 A meeting of the Cultural Strategic Policy Committee was held in Council Chamber, Limerick
@@ -90,7 +91,9 @@ Cuidithe ag Cllr. J. Leddin, agus glacadh leis:
 “That the draft Standing Orders as presented be adopted”
 
 **CULTURAL STRATEGIC POLICY COMMITTEE**
----
+
+[[PAGE_END:1]]
+
 2
 
 Cllr. Hogan noted that the minimum three clear day notice is still a tight lead in time. The
@@ -172,7 +175,9 @@ Mr. D. Brady, City & County Librarian
 o Limerick Gallery of Art: Overview of exhibition programme and plans
 
 Ms. U. McCarthy, Director/Curator, Limerick Gallery
----
+
+[[PAGE_END:2]]
+
 3
 
 o Limerick Arts Office: Overview, Creative Ireland, Participation and
@@ -244,7 +249,9 @@ meetings”.
 **Consideration of criteria for the open call bursary schemes.**
 
 Ar moladh Cllr M. Sheahan
----
+
+[[PAGE_END:3]]
+
 4
 
 Cuidithe ag Cllr J. Leddin, agus glacadh
@@ -316,7 +323,9 @@ alternative, family friendly events to celebrate bonfire night (23rd June) or St
 The events were established in 2007 by local communities, in partnership with Cork City
 
 Council and other statutory agencies in response to what had become a difficult night for
----
+
+[[PAGE_END:4]]
+
 5
 
 these communities; a night synonymous with litter and dumping, illegal fires and serious
@@ -368,4 +377,6 @@ Minutes Seconded By:
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

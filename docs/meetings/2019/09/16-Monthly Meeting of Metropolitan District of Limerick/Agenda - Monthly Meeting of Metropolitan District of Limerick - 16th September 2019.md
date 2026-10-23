@@ -16,21 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%2016th%20September%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/00%20Agenda%2016th%20September%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Sesbhis\ Compartédeacha,
-& Contae Luimnigh Com)naitle Cathwach agus Contae Luimnigh,
+a Comhairle Cathrach Comnaitle Cathrach Pap ars Luimnigh,
+& Contae Luimnigh Ceanncheathra Chorparaidesch,
 
-Ceanncheathra Chorparaidesch,
-NON A : = Cé na gCeannaithe
-sae Limerick City Ludmneach
-
+NON A ———————————— Cé na gCeannaithe
+sae Limerick City Luimneach
 & County Council
 
-Corporate Services,
+Corporate Services.
 Limerick Ory and County Council,
 Corporate Headquarters,
 Merchants Quay,
@@ -40,11 +39,11 @@ th
 
 & +353 (0) 61 557150
 
-To: __ The Cathaoirleach and each Member of the Metropolitan District of Limerick” °° >
+To: __ The Cathaoirleach and each Member of the Metropolitan District of Limerick” °° “’° “>
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Merchant’s Quay, Limerick on Monday, 16" September, 2019 at 9.45 a.m. The
+Council Chamber, Merchant’s Quay, Limerick on Monday, 16 September, 2019 at 9.45 a.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -69,13 +68,15 @@ Bungalow, Donnellan’s Buildings, Rosbrien, Limerick.
 (b) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 14 Elm
 Place, Rathbane, Limerick.
 =
-@ wera limerickie
+@ wervitimerickie
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimnesch w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -121,7 +122,9 @@ Development Act 2000-2015, and Part 8 of the Planning and Development Regulation
 in relation to the O’Connell Street Revitalisation Project.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -160,11 +163,13 @@ filled.
 11. Question submitted by Councillor S. Benson
 
 | will ask the Council to provide an update on all currently approved, social housing, approved
-housing body and turkey projects in the Metropolitan area, to include expected start and
+housing body and tumkey projects in the Metropolitan area, to include expected start and
 completion dates, amount of units per project and breakdown of size of units.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -181,7 +186,7 @@ each Council-owned surface level and multi-storey car parks in the area outlined
 
 NOTICES OF MOTION
 
-14. _—_ Notice of Motion submitted by Councillor C. Slattery
+14. Notice of Motion submitted by Councillor C. Slattery
 
 | am calling on the Government to increase the funding for early Childcare Assistants to the level of
 the living wage which is 12.30 euro per hour.
@@ -201,7 +206,7 @@ and support the Climate Strikes happening country-wide.
 | will move at the next meeting that Limerick City and County Council will remove the unnecessary
 arch from Cruises Street to provide a more attractive and accessible streetscape for citizens.
 
-18. NoticeofM ubmi: by Councillor S. Kiel
+18. Notice ofM ubmi: by Councillor S. Kiel
 
 | will move at the next council meeting to seek a shuttle bus service for the city as part of The
 Limerick Transport Strategy, for the provision of such service between UL and LIT and to include
@@ -209,7 +214,9 @@ stakeholders from Bus Eireann, TIF, Department of Transport, UL / LIT as well as
 progress this project.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -258,4 +265,6 @@ the city to be the focus, respecting the city's unique architectural setting.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+

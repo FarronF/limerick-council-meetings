@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-10/01%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20September%202017.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/01%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20September%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 18TH** **SEPTEMBER, 2017**
@@ -98,7 +99,9 @@ Council in this regard, for approval. The report was noted by Members.
 Circulated, report of the A/Senior Executive Officer, Community Support Services dated
 
 8th August, 2017 setting out proposals to dispose of the freehold interest of a dwelling
----
+
+[[PAGE_END:1]]
+
 2
 
 house situate at 19 Galvone Road, Kennedy Park and to bring a Section 183 Notice to Full
@@ -186,7 +189,9 @@ September, 2017 which sought approval of the District to payments in association
 Richard Harris International Film Festival and outlined programme information with regard to
 
 I.NY.
----
+
+[[PAGE_END:2]]
+
 3
 
 It was noted that while these allocations had previously been discussed by the District and
@@ -274,7 +279,9 @@ enter it onto the Derelict Sites Register.
 Limerick City and County Council has 5300 dwellings in its remit. The fire safety
 
 requirements differ depending on the type of building and its construction.
----
+
+[[PAGE_END:3]]
+
 4
 
 Housing Standards for Rented Houses Regulations apply to all houses let by a
@@ -362,7 +369,9 @@ The Council will endeavour to investigate, where appropriate, complaints
 received regarding air pollution from the public. The complaint will be referred to
 
 the EPA for investigation and enforcement where it is suspected the breach
----
+
+[[PAGE_END:4]]
+
 5
 
 comes from any industrial facility which is licensed by the EPA.
@@ -444,7 +453,9 @@ The notice of motion as submitted by Councillor Prendiville at the Metropolitan
 Meeting on 18th April 2017 was placed on the agenda for the next meeting of the
 
 Economic Development, Enterprise and Planning SPC which was held on 12th
----
+
+[[PAGE_END:5]]
+
 6
 
 June 2017, to which he was invited. As the Councillor was not in attendance at
@@ -534,7 +545,9 @@ that stage, but I understand that he will need to seek an extension of the licen
 into October to complete the works outright. These works will involve a total
 
 resurfacing of the public road and permanent road marking will not be in place
----
+
+[[PAGE_END:6]]
+
 7
 
 until this work is done.
@@ -618,7 +631,9 @@ The motion was proposed by Councillor Leddin and seconded by Councillor Secas.
 In proposing the motion Councillor Leddin noted the lack of available housing units on the
 
 market and the corresponding increase in housing waiting lists and homelessness. He
----
+
+[[PAGE_END:7]]
+
 8
 
 acknowledged the ongoing work of the Council in this area but stressed that the Council had
@@ -700,7 +715,9 @@ and would be circulated to Members.
 It was agreed that this motion would be referred to the Local Electoral Area Briefings and
 
 Councillor Hogan requested that a reply to the motion be available at the briefing.
----
+
+[[PAGE_END:8]]
+
 9
 
 **19.**
@@ -780,7 +797,9 @@ during discussion of the motion :
 • Particular focus was needed to provide accommodation for single vulnerable males who
 
 could not afford to rent accommodation.
----
+
+[[PAGE_END:9]]
+
 10
 
 • There were significant conservation and fire safety issues associated with the
@@ -862,7 +881,9 @@ Meetings are ongoing with the National Transport Authority in relation to the
 above matter. It is expected that all of the above will be operational by the end
 
 of Q1 2018.
----
+
+[[PAGE_END:10]]
+
 11
 
 The Senior Engineer, Physical Development Directorate undertook to bring the maintenance
@@ -936,7 +957,9 @@ relevant documentation prior to the workshop and it was agreed that the workshop
 held on 16th October, 2017 after the JPC Sub Committee Meetings and that an email to confirm
 
 times would be circulated.
----
+
+[[PAGE_END:11]]
+
 12
 
 This concluded the Meeting.
@@ -950,4 +973,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

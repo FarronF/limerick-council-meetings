@@ -16,19 +16,20 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%20Ordinary%20Meeting%20261118.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 26th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%20Agenda%20Ordinary%20Meeting%20261118.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: Seirbhisi Corpardideacha,
+: Seirbhisi Corparaideacha,
 
-— a Comhairle Cathrach agus Contae Luimnigh,
-jo uu g Ceanncheathwt: Chorparéideach,
+a Se tlbedyfeethos Comhairle Cathrach agus Contae Luimnigh,
+jo uu g Ceanncheathwi: Chorparéideach,
 
-AA EEE Cé na gCeannaithe,
+ATA EEE Cé na gCeannaithe,
 
-— Limerick City Luimneach
+=—— Limerick City Luimneach
 & County Council
 
 Corporate Services,
@@ -42,7 +43,7 @@ Limerick
 EIRCODE V94 EH90
 
 nd ty a
-22" November, 2018 t: +353 (0) 61 557150
+22"° November, 2018 t: +353 (0) 61 557150
 
 To:
 
@@ -59,45 +60,37 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-J nes Clune,
-
-1.
-
-2.
-
-ings Administrator.
-
+GY,
+James Clune,
+Meetings Administrator.
 AGENDA
+1. Minutes
 
-Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Ordinary Meeting of the Council held on 24 September, 2018.
-(b) Special Meeting of the Council held on 5" November, 2018.
-(c) Budget Meeting of the Council held on 15'* November, 2018.
+(b) Special Meeting of the Council held on 5 November, 2018.
+(c) Budget Meeting of the Council held on 15" November, 2018.
+
 (Copies Enclosed)
-
-Disposal of Land
-
+2. Disposal of Land
 To consider proposal for the disposal of land, in accordance with the provisions of
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
 Planning and Development Act, 2000 (as amended), at:
-
 (a) Cloughadreen, Old Pallas, Co. Limerick.
-
 (b) Ballinard, Herbertstown, Co. Limerick.
-
 (c) 38, St. Lawrence’s Park, Garryowen, Limerick.
 (d) 11, Ballygrennan Road, Ballynanty, Limerick.
+@ customerservices@limerick.ie
+© wwew.limerick.te
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @limerickCounct!
 
-@ customerservices@limerick.te
-© wew limerick.te
-
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCounctl
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) 25, Lilac Court, Southill, Limerick.
@@ -109,10 +102,10 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 (i) 7 Connolly Terrace, Newcastle West, Co. Limerick.
 
-(Statutory Notices dated 1* and 2 October, 5 and 8" November, 2018,
+(Statutory Notices dated 1* and 2 October, 5* and 8" November, 2018,
 already circulated)
 
-Si ort Services Directorate
+Ss ort Services Directorate
 
 (a)
 
@@ -159,18 +152,12 @@ Minister for Housing, Planning and Local Government and in accordance with
 Section 106 (2) of the Local Government act, 2001, as amended.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(e)
-
-(f)
-
-(g)
-
-(h)
-
-Statutory Audit Report 2017
+(e) Statutory Audit Report 2017
 
 To consider the Audit Committee’s report dated 19" November, 2018 on the
 Statutory Audit Report 2017 for Limerick City and County Council.
@@ -183,9 +170,9 @@ Documentation Enclosed as follows:
 Statement for Year Ended 31% December, 2017.
 
 (iii) Limerick City and County Council Statutory Audit Report for the
-Year Ended 31% December, 2017.
+Year Ended 31* December, 2017.
 
-Cultural Strategic Policy Committee - anc
+(f) Cultural Strategic Policy Committee - anc
 
 To consider the nomination of a Member to the Cultural Strategic Policy
 Committee consequent on the resignation of Councillor Scanian from the
@@ -193,7 +180,7 @@ Committee.
 
 (Report already circulated)
 
-Audit Committee - Vacancy
+(g) Audit Committee - Vacancy
 
 To consider the appointment of a Member to fill vacancy on Audit Committee
 consequent on the resignation of Councillor Scanian as a member of the
@@ -201,7 +188,7 @@ Committee
 
 (Report Enclosed)
 
-Fo el
+(h) Fo el
 
 To consider approval of foreign travel in respect of invitations received by the
 Mayor of the City and County of Limerick, as set out below, under Section 142
@@ -213,12 +200,14 @@ Mayor of the City and County of Limerick, as set out below, under Section 142
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (i)
 
-Gi)
+G)
 
 (k)
 
@@ -239,12 +228,12 @@ Strategic Policy Committee Reports
 To consider report and recommendations:
 
 (i) Chairperson’s Report — Home and Social Development Strategic Policy
-Committee Meeting held on 22"¢ October, 2018.
+Committee Meeting held on 22° October, 2018.
 
 (Chairperson’s Report)
 
 (ii) Chairperson’s Report - Travel and Transportation Strategic Policy
-Committee Meeting held on 8” October, 2018.
+Committee Meeting held on 8 October, 2018.
 
 (Chairperson’s Report Enclosed)
 
@@ -255,7 +244,9 @@ Planning Strategic Policy Committee Meeting held on 8" October,
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iv)
@@ -295,13 +286,16 @@ Chairperson’s Report — Cultural Strategic Policy Committee Meeting
 held on 5™ November, 2018.
 
 (Chairperson’s Report and Recommendation Report Enclosed)
+
 Recommendation
 
 “That, the recommendations from the Assessment Panel for Individual
 Arts Bursaries 2018 be recommended to Council for approval.”
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -343,13 +337,15 @@ on 23'¢/24" November, 2018.
 Clare, on 23'°/24™ November, 2018.
 
 (e) Approaches in Contemporary River Management, to be held in Clonakilty,
-Co. Cork, from 7 to 9" December, 2018.
+Co. Cork, from 7" to 9" December, 2018.
 
 (f) EU Cohesion Policy 2014-2020, to be held in Carlingford, Co. Louth, from 14"
 to 16" December, 2018.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -391,12 +387,14 @@ the then extant Authorities in 2013 and 2014, what the budget amounted to for 20
 and how its actual division in monetary terms was/is shared out to each of the
 Municipalities and to the Metropolis.
 
-I will ask at the next Meeting for a full detailed report on the progress of the dangerous
+| will ask at the next Meeting for a full detailed report on the progress of the dangerous
 junctions on the N21 - Wards Cross, Devon Road Cross and others, arising from the
 Special Meeting of the Council held on 6" November, 2017.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -429,7 +427,7 @@ Home and Social Development Strategic Policy Committee)
 
 | will move at the next Meeting that an equitable structure of rental payments be
 introduced that will apply to all tenants of the Joint Authority from 1% January, 2019,
-onwards.
+onwards,
 
 Notice of Motion submitted by Councillor P. Keller
 
@@ -443,7 +441,9 @@ packages being negotiated with laboratories engaged in carrying out smear slide
 analysis, including mandatory site audits.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -486,4 +486,6 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:9]]
+

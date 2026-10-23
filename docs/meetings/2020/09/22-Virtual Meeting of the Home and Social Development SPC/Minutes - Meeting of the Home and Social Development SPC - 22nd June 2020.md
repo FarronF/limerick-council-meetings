@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-of-spc-meeting-held-on-22.06.2020.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Development SPC - 22nd June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-of-spc-meeting-held-on-22.06.2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -90,7 +91,9 @@ Seconded: Cllr. Eddie Ryan
  Cllr. Keary wished to seek progress on the matter from Cathal Quaid regarding a
 
 reduction or subsidy that could be granted to tenants who wish to upgrade their
----
+
+[[PAGE_END:1]]
+
 properties by installing new windows and doors - from the previous minutes. Cathal
 
 Quaid responded that a formal pilot has not been put in place at present due to
@@ -160,7 +163,9 @@ anyone has any queries to feel free to contact her.
  At the end of the meeting, Aoife Duke mentioned that we are looking for support
 
 from the members of the SPC in relation to the percentage split as we review
----
+
+[[PAGE_END:2]]
+
 Turnkeys. Private developers are coming to HD and looking for HD to take them on.
 
 She asked for permission from SPC to have discussions with private developers on
@@ -224,7 +229,9 @@ Cllr. Benson expressed how well the SPOC project is working; she is seeing great
 and complimented the team.
 
 **Item 6: Rebuilding Ireland** **–** **Quarterly Delivery Update**
----
+
+[[PAGE_END:3]]
+
 Sarah Newell, Executive Planner, Housing Development gave a presentation on Rebuilding
 
 Ireland delivery streams and is hoping to give updates to SPC for every quarter from now on.
@@ -290,7 +297,9 @@ A discussion opened up from Councillors around the presentation.
 Responding to a question from Cllr. Donegan, Mr. Leahy will circulate planned works for
 
 each Municipal District after the meeting.
----
+
+[[PAGE_END:4]]
+
 Mr. Leahy also stated that he hopes there will be a follow-on phase in 2021 with a number
 
 of additional approvals. This will be dependent on Government funding.
@@ -350,4 +359,6 @@ END OF MEETING
 The Chair thanked all presenters, host, staff and Councillors for their attendance. The
 
 meeting concluded.
----
+
+[[PAGE_END:5]]
+

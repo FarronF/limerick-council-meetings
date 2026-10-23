@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-Special-Meeting-25-05-2022.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 25 May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-Special-Meeting-25-05-2022.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -84,7 +85,9 @@ these villages and in other areas nationally but stated that this does not pose 
 health. He also noted the ageing infrastructure in place in certain areas such as Broadford
 
 where water main replacement is required.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Operations Manager made reference to the number of burst water mains which have
@@ -146,4 +149,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

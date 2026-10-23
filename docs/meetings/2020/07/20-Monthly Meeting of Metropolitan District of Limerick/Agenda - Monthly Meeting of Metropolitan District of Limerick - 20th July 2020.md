@@ -16,23 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-07/00-agenda-monthly-meeting-20th-july-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/00-agenda-monthly-meeting-20th-july-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Comhairle Cathrach Comhairle Cathr asnCuieuaae
-& Contae Luimnigh ornare Tamwack agus fontae Luimnigh,
+al Comhairle Cathrach Comhairle Cathr equi Cateuane
+& Contae Luimnigh ora Tatwack agus ‘ontae Luimnagh
 
-Ceanncheathni Chorparaideach,
-ACN , Céna oCearnaithe,
-=> Limerick City ; Luimneach
-
+NON 4 Céna oceennsithe,
+—=> Limerick City Ludmneach
 & County Council
 
 Corporate Services,
 
-Limentck City and County Council,
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -54,27 +53,29 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-saderense
+sadesense
 
 Meeting Administrator.
 
 1. Minutes
 To adopt Minutes of the following Meetings :
 
-(a) Monthly Meeting of the Metropolitan District of Limerick held on 15" June, 2020.
+{a) Monthly Meeting of the Metropolitan District of Limerick held on 15" June, 2020.
 (b} Annual Meeting of the Metropolitan District of Limerick held on 15" June, 2020.
 
 (Copies Enclosed).
 
 @ customerservices@limerick.te
 
-1 © wvew.timerick.te
+1 © wvewtimerick.te
 
 Ceanncheathra Chorparéideach, Cé na gCeannaithe, Lutmneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -119,7 +120,9 @@ Section 200{1) of the Local Government Act 2001 as amended.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -127,7 +130,7 @@ QUESTIONS
 6. Question submitted by Councillor C. Slattery
 
 Limerick Museum has reopened in line with Government Guidelines, However as it only opens
-from Monday to Friday between 10am and Spm, | am requesting that it should be opened up
+from Monday to Friday between 10am and 5pm, | am requesting that it should be opened up
 for longer hours and more days such as weekends to allow people to visit and also to allow
 for easier implementation for social distancing
 
@@ -164,7 +167,9 @@ is any training planned in the near future with the focus on the changed circums
 to the Covid-19 public health crisis and the implications of it?
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor E O’Donovan
@@ -174,7 +179,7 @@ City centre. | would like to know the contractors hired for these works and cost
 an additional cost to Limerick Council for the poles installed and subsequently removed on
 Sarsfield Bridge? Who is responsible for quality control of these works?
 
-13. Question submitted by Councillor E O'Donovan
+13. Question submitted by Councillor E O’Donovan
 | will ask the Council for an update on feasibility of speed restriction measures and segregated
 cycling infrastructure on Hyde Road and Ballycummin Road
 
@@ -191,7 +196,7 @@ measures on Hyde Road, Limerick to reduce speeding on this road.
 to Irish Water requesting that previous plans to extend the public sewer line from Patrickswell
 Village towards Lurriga be included in Irish Waters Capital Investment Plan 2022-2026
 
-Coacmunity: Laaie aed Catiute strated ¢ Policy Committee)
+Coacmunity: aaa aed Cahiute strated ¢ Policy Committee)
 
 | will move at the next meeting that Limerick City and County Council carry out a feasibility
 study into the development of a Shannon River Interpretive Centre, to be located on the
@@ -204,10 +209,12 @@ facilitate public consultations to include online and public forums to facilitat
 prior to LSMATS strategy being brought to Council.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Travel and Trans tion Strate c Poli Committe
+Travel and Trans tion Strate c Poli Commies
 
 | will move at the next meeting that the Council develop a School Streets Pilot Initiative, which
 would identify and include at least two primary schools with an aim to address and tackle the
@@ -216,13 +223,11 @@ safety risks caused by cars driving near the school and inconsiderate parking; c
 less physically active children; and the damage to children’s lungs from cars parked with their
 engines running.
 
-19. Notice of Motion submitted by Councillor S. Novak Ui Chonchuir
-
-| will move at the next meeting that the Council remove two piers of the Thomond Weir for
+1 will move at the next meeting that the Council remove two piers of the Thomond Weir for
 better navigation of the river and to improve safety for the rowing clubs and others using the
 river.
 
-I will move at the next meeting that this Council put in place a working group to establish
+| will move at the next meeting that this Council put in place a working group to establish
 Limerick as an Autism-friendly City.
 
 21. Notice of Motion submitted by Councillor S, Benson
@@ -235,4 +240,6 @@ services at University Hospital Limerick.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20October%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20October%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach ; — Seirbhisi Corparaideacha,
-§ Contae Luimnigh Comhatie Cathrach agus Comtae Luimnigh,
+Ps Contae Luimnigh Comhatie Cathrach agus Conmtae Luimnigh,
 
 Ceanncheathra Chorparaideach.
 ~ Cé na gCearinaithe,
@@ -40,7 +41,7 @@ Limerick
 
 16" October, 2019. EIRCODE V4 E+90
 
-t: 4383 (0) 61 $57150
+t: 4383 (0) 61 557150
 f: 4-353 (0) 62 415 266
 
 A Chomhairleoir, a chara,
@@ -52,7 +53,7 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Que
+Qe
 
 Ja june,
 Meétings Administrator.
@@ -72,16 +73,18 @@ To adopt Minutes of the following Meetings:
 To note proposal for the disposal of land as follows:
 
 (a) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 81 Upper
-Carey’s Road, Limerick.
+Carey's Road, Limerick.
 (b) Disposal of Freehold Interest of premises consisting of a dwelling house situate at 48 St.
 Lawrence Park, Garryowen, Limerick.
 © customerservices@limerick.te
 © veurwlimerick.ie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -113,9 +116,9 @@ To receive update on Derelict Sites, Vacant Sites and Vacant Homes in the Metrop
 
 Presentation to Pride of Place 2019 Nominees:
 
-e Newtown Cottage Association, Clarina
+¢ Newtown Cottage Association, Clarina
 
-@ St. Mary’s Parish Men’s Shed, Nicholas Street.
+e St. Mary’s Parish Men’s Shed, Nicholas Street.
 
 QUESTIONS
 
@@ -126,7 +129,9 @@ progress for the proposed Corbally Nature Park given that €15000 was allocated
 during the term of the previous Council.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -152,7 +157,7 @@ Caherdavin area (Council and AHB) and also the number of houses rented through H
 With a view to retaining Limerick City’s purple flag, | will ask at the next meeting, has the Council
 developed an evening and night time strategy for the city centre and when will it be made public.
 
-11. Question submitted by Councillor E. O’Donovan
+11. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next meeting how many social houses are boarded up and how long have they been
 boarded. Have many houses been released back to communities in the last 5 years. How many will
@@ -171,7 +176,9 @@ improved bus services for Ballybrown / Clarina and Patrickswell area.
 Council put a management plan in place to rejuvenate the Westfield Wetlands.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next Metropolitan Meeting of Limerick City and County Council that the Council
@@ -200,4 +207,6 @@ Disabilities.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

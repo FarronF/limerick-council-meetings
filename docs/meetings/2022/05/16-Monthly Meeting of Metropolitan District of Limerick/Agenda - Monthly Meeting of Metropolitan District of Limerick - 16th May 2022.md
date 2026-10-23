@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202022.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20May%202022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—__— Comhairie Cathrach a pay
-= eo, & Contae Luimnigh jomhe! — Chearaditent:
-. cé the,
-———— _~—sLimerick City ae oat
+_—__-_" Comhairie Cathrach es ee
+= os, & Contae Luimnigh jomha! — Chearacditents
+* cé the,
+———= _—sLimerick City a.
 & County Council . -
 
-orporate Services,
+‘orporate Services,
 Limenck City and County Council
 Corporate Headquarters,
 Merchants Quay,
 
-pater
+paices
 
 EIRCODE V94 EH90
 t +353 (0) 61 557150
@@ -45,7 +46,7 @@ To:
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
-Monday, 16" May, 2022 at 9.45 am. in the Council Chamber, Dooradoyle and Online.
+Monday, 16 May, 2022 at 9.45 am. in the Council Chamber, Dooradoyle and Online.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -66,11 +67,13 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
 © weewlimerickie
 
-ee W @LimerickCouncil
+premeearapt tlhe chronicle lal W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Annual Meeting
@@ -82,7 +85,7 @@ To agree a date for the Annual Meeting of the Metropolitan District of Limerick.
 To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanala
 at Canal Bank, Pa Healy Road, Limerick.
 
-To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleanéla
+To consider and discuss the Strategic Housing Development (SHD) Application to An Bord Pleandla
 at Ballykeefe, Raheen, Limerick.
 
 (Reports Enclosed).
@@ -102,7 +105,9 @@ Council provide progress reports on the funding received under URDF to deliver a
 waterfront to include a new pedestrian bridge over the river Shannon.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor C. Sheehan
@@ -137,7 +142,7 @@ applications retrospectively for the rest of the year.
 | will ask at the next Meeting of the Metropolitan District of Limerick, can the Council advise an
 update on works to commence on Golf Links Road including widening the Bridge at O’Sheas Pub.
 
-12. lon su! neillor C. Slatter
+12. lon sul ncillor C. Slatter
 
 | will ask at the next Meeting of the Metropolitan District of Limerick can the Council provide a
 detailed overview of the plans for the combined works on the Graveyard Boundary Wall for Mount
@@ -145,7 +150,9 @@ St Oliver; the plan to widen the road at Georgian Village to Good Council Nursin
 design for the Roundabout at Rosmér, Old Cork Road.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -164,7 +171,7 @@ initiative by Fingal County Council.
 a policy for the urgent removal of racist, offensive or political graffiti so that any such graffiti
 reported to us will be removed within 48 hours.
 
-15. Notice of Motion submitted by Councillor E, O'Donovan
+15. Notice of Motion submitted by Councillor E, O’Donovan
 
 | will move at the next Meeting of the Metropolitan District of Limerick that this Council writes to
 the Taoiseach, the Minister of State for Local Government and the Minister of State for Electoral
@@ -184,8 +191,10 @@ Hartstonge/Newenham/Henry Street areas of the city.
 Council write to the National Parks and Wildlife Service requesting them to extend the permission
 that is currently in place for the pontoon at Montpelier, that is used by the Dragon Boat Group.
 
-18. Corres pondence
+18. Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/agenda-meeting-of-the-travel-and-transportation-spc-15th-dec-2020.pdf)
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/agenda-meeting-of-the-travel-and-transportation-spc-15th-dec-2020.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **8th** **December, 2020**
@@ -51,7 +52,9 @@ The business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -83,4 +86,6 @@ after this Covid-19 pandemic. I believe that to bring footfall back into our cit
 shoppers should be given 3 hours free car parking at any time of the day to help
 
 retailers”.
----
+
+[[PAGE_END:2]]
+

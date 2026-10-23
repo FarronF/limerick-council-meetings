@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%202nd%20November%2C%202018.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale  - 2nd November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%202nd%20November%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach
+a Comhairle Cathrach
 
 = & Contae Luimnigh
 
 ~~ Limerick Cit
-— imerick City
+—> imerick City
 
 & County Council
 
 23 October, 2018.
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comhaitle Cathrach agus Contae Luimnigh,
-Aras Séan Finn.
+Comhaile Cathrach agus Contae Luimnigh,
+Avas Séan Finn.
 
 Line Nua,
 
@@ -80,14 +81,16 @@ A Civic Reception to honour Ms. Margaret O’Shaughnessy for her contribution to
 
 in the Midwest region.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 @ customerservicesa@limerick.te
-© vewwlimerick.te
+@ vewwlimerick.te
 @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

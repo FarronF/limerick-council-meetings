@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-27th-November-2023.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 27th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-27th-November-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; } Selrbhisi Corpargideachs,
-_—_—_e__ Comhairle proce Comhairle Cathrach agus Contae Luimnigh,
-& Contae Luimnig Ceanncheathn’é Chorparaideach,
+; + Selrbhisi Corpargideachs,
+_—_ eons anes Comhairle Cathrach agus Contae Luimnigh,
+& Contae mnig Ceanncheathn’ Chorparaideach,
 
 ars - Cé na gCeannaithe,
 — Limerick City Luimneach
@@ -34,13 +35,13 @@ Corporate Headquarters,
 Merchants Quay,
 Limerick
 EIRCODE V94 EH90
-22 November, 2023.
+22™ November, 2023.
 & +353 (0) 61 557150
 f: +353 (0) 61 415 266
 To:
 A Chomhairleoir, a chara,
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 27 November, 2023, at
+Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 27% November, 2023, at
 3pm.
 
 The business to be transacted is set o
@@ -52,27 +53,39 @@ the appended Agenda.
 eZ
 
 Meetings Administrator.
-AGENDA ;
-1. Minutes
+
+1.
+
+AGENDA
+Minutes
+
 To adopt Minutes of the following Meetings:
+
 (a) Ordinary Meeting of the Council held on 25“ September, 2023.
 (b) Special Meeting of the Council held on 2" November, 2023, at 2.30 p.m.
 (c) Special Meeting of the Council held on 2™ November, 2023, at 3.30 p.m.
-2. Declaration of Interest
-3. Disposal of Land
+
+Declaration of Interest
+
+Disposal of Land
+
 To consider proposal for the disposal of land, in accordance with the provisions of
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
 Planning and Development Act, 2000 (as amended), at:
+
 (a) Knockboheen, Kilcolman, Ardagh, Co. Limerick.
 {b) 68, Hyde Road, Prospect, Limerick.
-@ customerservices@limerickie
-© wwwalimerickie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 
+@ customerservices@limerickie
+© wwwtimerickie
+
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c) 24, Flood Street, Pennywell, Limerick.
@@ -82,9 +95,9 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 (f) 27, Hogan Avenue, Kileely, Limerick.
 
-General! Disposals
+General Disposals
 
-(g) 6m?, Monastery Road, Doon, Co. Limerick.
+(g) 6m? Monastery Road, Doon, Co. Limerick.
 
 (h)  6m?, Market Place, Newcastle West, Co. Limerick.
 
@@ -131,7 +144,7 @@ Derelict Disposals
 
 (bb) Property at 3, Kileely Villas, New Road, Thomondgate, Limerick.
 
-(Statutory Notices dated 12 and 25" September, 27" October, and
+(Statutory Notices dated 12" and 25" September, 27" October, and
 9", 14" and 17" November, 2023, already circulated)
 
 Support Services
@@ -142,7 +155,9 @@ To consider Chief Executive's Report for the months of September and October
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -174,7 +189,7 @@ Government Act, 2001, as amended.
 
 (Report Enclosed)
 
-(i) stile West / Pelplin (Poland) Twinning Pro)
+(i) stile West / Pelplin (Poland) Twinning Pro;
 
 To consider application for financial assistance from the Newcastle
 West Community Council, in accordance with the provisions of Section
@@ -185,24 +200,29 @@ Strategic Policy Committee Reports
 To consider reports as follows:
 
 (i) Chairperson’s Report — Meeting of Community, Leisure and Culture
-Strategic Policy Committee held on 2” October, 2023.
+Strategic Policy Committee held on 2 October, 2023.
 
 (Chairperson’s Report Enclosed)
 
 (ii) Chairperson’s Report — Meeting of Economic Development, Enterprise
 and Planning Strategic Policy Committee held on 9" October, 2023.
+
 (Chairperson’s Report Enclosed)
-(iii) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
+
+(ii) | Chairperson’s Report — Meeting of Climate Action, Biodiversity and
 Environment Strategic Policy Committee held on 10” October, 2023.
+
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
-(iv)  Chairperson’s Report — Meeting of Home and Social Development
+(iv) Chairperson’s Report — Meeting of Home and Social Development
 Strategic Policy Committee held on 12"" October, 2023.
 
 (Chairperson’s Report Enclosed)
@@ -217,7 +237,7 @@ Planning, Environment and Place-Making
 Draft Patrickswell Local Area Plan 2024-2030
 
 To consider the Draft Patrickswell Local Area Plan 2024-2030 and the Chief Executive's
-Report dated 10” November, 2023, on the submissions received during the public
+Report dated 10" November, 2023, on the submissions received during the public
 consultation on the Draft Patrickswell Local Area Plan 2024-2030 and decide whether
 
 or not to make or amend the Draft Local Area Plan, in accordance with Section 20(3)
@@ -235,7 +255,7 @@ Conferences
 (a) Participation by Members at Conferences
 
 To consider participation by Members at “Salmon Watch Ireland” Conference
-held in Castleconnell, Co. Limerick on 12" November, 2023.
+held in Castleconnell, Co. Limerick on 12 November, 2023.
 
 (Details already circulated electronically)
 
@@ -247,7 +267,9 @@ Meeting / Event.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -256,13 +278,13 @@ Meeting / Event.
 
 12.
 
-Question submitted by Councillor S. Novak Ui Chonchair
+Question submitted by Councillor S$. Novak Ui Chonchair
 
 | will ask at the next Meeting how many units have been retrofitted under the Energy
 Efficient Retrofit Programme (EERP) by Limerick City and County Council in 2022, and
 how many to date in 2023.
 
-Question submitted by Councillor $. Novak Ui Chonchuir
+Question submitted by Councillor S$. Novak Ui Chonchuir
 
 Iwill ask at the next Meeting how many kilometres of Active Travel infrastructure have
 been completed to date since the establishment of Limerick Active Travel Team; how
@@ -290,7 +312,9 @@ GDPR (General Data Protection Regulation) rules regarding housing and giving out
 information to us as Councillors/Directors of this Council.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -307,11 +331,11 @@ information to us as Councillors/Directors of this Council.
 
 Notice of Motion submitted by Councillor A. Teskey
 
-| will move at the next Meeting that this Council write to the Minister for the
+1 will move at the next Meeting that this Council write to the Minister for the
 Environment, Climate and Communications, Mr. Eamon Ryan, TD, asking when the
 wind energy development guidelines will be revised and updated.
 
-AY F. Foley, L. Galvin, J. Scanian,
+el F. Foley, Ln Galvin, J. Scanion,
 J. Sheahan
 
 We will move at the next Meeting that this Council calls on Uisce Eireann to implement
@@ -326,7 +350,7 @@ villages that are not publicly lit.
 
 Notice of Motion submitted by Councillor E. O’Donovan
 
-! will move at the next Meeting that this Council endorse the Amnesty International
+I will move at the next Meeting that this Council endorse the Amnesty International
 
 report entitled ‘Israel’s Apartheid Against Palestinians: A Cruel System of Domination
 and a Crime Against Humanity,’ and support the Palestinian BDS Movement as a show
@@ -339,4 +363,6 @@ shortage of bed spaces for single men and women.
 Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

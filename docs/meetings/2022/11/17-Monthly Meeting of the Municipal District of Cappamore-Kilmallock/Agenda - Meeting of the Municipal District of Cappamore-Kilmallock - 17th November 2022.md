@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Agenda%20for%20November%202022%20MD%20Meeting.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Agenda%20for%20November%202022%20MD%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **11th** **November 2022.**
 
 **To/**
@@ -52,7 +53,9 @@ Kilmallock held on the 20th October 2022
 2.Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 20th October 2022.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.Property Services
@@ -108,7 +111,9 @@ up to look into, advise, discuss comprehensively the logistics and recommendatio
 The Directly Elected Mayor for Dublin report their findings back to us in the interest of
 
 fairness,balance, transparency and clarity to the proposed office of DEM in Limerick.”
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -152,4 +157,6 @@ estate.”
 relation to Electronic Speed Go Safe Feed Back Signs where batteries were and are being
 
 stolen. This is about health and safety procedures and is urgent accordingly.”
----
+
+[[PAGE_END:3]]
+

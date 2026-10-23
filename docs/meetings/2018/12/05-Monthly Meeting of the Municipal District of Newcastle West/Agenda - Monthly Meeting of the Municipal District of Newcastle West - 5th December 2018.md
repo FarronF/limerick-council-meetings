@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-05%20Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 5th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-05%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—=_—
+<=
 
 a —
 Limerick
@@ -50,7 +51,7 @@ Gortboy,
 
 Newcastle West,
 
-Co, Limerick
+Co. Limerick
 
 t: +353 (0) 69 62100
 ++-+353(0}-69-62861
@@ -65,7 +66,7 @@ in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 5 Decem
 
 Is mige le meas,
 
-Conteatr
+Conta
 
 Margaret Corbett,
 Meetings Administrator.
@@ -77,7 +78,7 @@ Meetings Administrator.
 November, 2018.
 
 (b) To adopt Minutes of Special Meeting of the Municipal District of Newcastle West on
-Housing developments held on 21* November, 2018.
+Housing developments held on 21** November, 2018.
 
 2. Economic Development Di
 
@@ -97,12 +98,14 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Report Enclosed)
 
-& customerservicesa@limerickie
-@ vevewAimerickie
+& customerservices@limerickie
+@ vevewMimerickie
 yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -110,12 +113,12 @@ yw @LimerickCouncil
 Capital Investments Directorate
 
 To consider the Chief Executive’s Report prepared pursuant to Section 179(3)(a) of the
-Planning and Development Acts, 2000 -2017, as amended, and Part VIil of the Planning
+Planning and Development Acts, 2000-2017, as amended, and Part VIil of the Planning
 and Development Regulations, 2001 - 2018, as amended, in relation to the
 construction of 6 residential units at Colbert Terrace, Abbeyfeale, Co. Limerick.
 
 (Report Enclosed)
-i elopment Dir t
+i elopment Dir ti
 To receive presentation on the Options Report for Fuller’s Folly, Newcastle West.
 Physi evelopment Dir:
 
@@ -138,7 +141,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 QUESTIONS
 
-uestions submitted b Hor L. Galvin
+uestions submitted b lor L. Galvin
 
 ! will ask at the next Meeting for (a) a detailed breakdown of the allocated budget for
 housing maintenance in each of the Municipal Districts and the Metropolitan District
@@ -150,7 +153,9 @@ maintenance (e) is there an emergency budget to carry out works.
 Abbeyfeale, Athea, Mountcollins, Tournafulla and Templeglantine will be occupied.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -183,7 +188,7 @@ The Square, Newcastle West for All Ireland Sunday.
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor L. Galvin
 
-Iwill move at the next Meeting that the purchase of the Lane property, Killarney Road,
+twill move at the next Meeting that the purchase of the Lane property, Killarney Road,
 Abbeyfeale be explored as part of the Abbeyfeale Traffic Management Plan if it is for
 sale.
 
@@ -191,4 +196,6 @@ sale.
 Abbeyfeale be resurfaced (back of Jim Lanes Bar) as it is impassable.
 
 
----
+
+[[PAGE_END:3]]
+

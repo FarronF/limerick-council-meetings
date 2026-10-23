@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01a-2021-10-06-minutes-october.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01a-2021-10-06-minutes-october.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -63,7 +64,9 @@ Newcastle West, Co. Limerick.
 Members noted the proposal.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Transportation and Mobility Directorate
@@ -114,7 +117,9 @@ so although land maybe included in the initial 400m corridor, it may not be impa
 by the roadway. However, he stated that there is nothing definite about moving to Phase 3
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 or about funding for same at the present time but was hopeful of approval to progress to
@@ -167,7 +172,9 @@ a manner that is incompatible with those purposes
 which they are processed.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 He made reference to the GDPR Article 6 Lawful Basis which states that processing is
@@ -217,7 +224,9 @@ On the proposal of Councillor Collins, seconded by Councillor Foley, it was agre
 €500 to The Paddocks Residents Association.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Director referred to the District allocations under the Development Fund for 2021, which
@@ -238,7 +247,7 @@ driving tourism in the county.
 QUESTIONS
 6. Question submitted by Councillor L. Galvin
 
-/ will ask at the next Meeting for an update on (a) Ward's Cross (b) the development at
+| will ask at the next Meeting for an update on (a) Ward's Cross (b) the development at
 Colbert Terrace, Abbeyfeale (c) the Abbeyfeale Traffic Management Plan.
 
 REPLY:
@@ -267,7 +276,9 @@ scheme. The TIl have requested a detailed breakdown of funding which is currentl
 being prepared and further meetings will be arranged to try and secure funding for
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the project. The design of the scheme is progressing with engagement with Irish
@@ -295,7 +306,7 @@ Abbeyfeale.
 Of these, there are 22no. cases where the particulars of the land are entered in the Derelict
 Sites register maintained by the Council, in summary, they are as follows:
 
-[REF.NO. | LOCATION OF LAND | STATUS
+|REF.NO. | LOCATION OF LAND | STATUS
 
 DS-045-18 _| 3 Colbert Terrace, Abbeyfeale, Co. Limerick. | On Derelict Sites Register
 DS-044-18 | 4Colbert Terrace, Abbeyfeale, Co. Limerick.
@@ -340,10 +351,12 @@ Clash Road, Abbeyfeale, Co. Limerick.
 
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-DS-130-20 The Convent Building, Abbeyfeale, Co. Limerick. _| Notice of Intention to add to
+DS-130-20 The Convent Building, Abbeyfeale, Co. Limerick. | Notice of Intention to add to
 DSR
 
 On Derelict Sites Register
@@ -351,7 +364,7 @@ On Derelict Sites Register
 Notice of Intention to add to
 DSR. Owner working onsite
 
-DS-042-18 _| 7 Colbert Terrace, Abbeyfeale, Co. Limerick.
+0S-042-18 _| 7 Colbert Terrace, Abbeyfeale, Co. Limerick,
 | DS-046-18 | 2 Colbert Terrace, Abbeyfeale, Co. Limerick.
 0S-128-20 Kerry Road, Abbeyfeale, Co. Limerick,
 
@@ -366,8 +379,8 @@ DS-046-18 2 Colbert Terrace, Abbeyfeale, Co. Limerick
 DS-040-18 11 Colbert Terrace, Abbeyfeale, Co. Limerick
 DS-042-18 7 Colbert Terrace, Abbeyfeale, Co. Limerick
 DS-043-18 6 Colbert Terrace, Abbeyfeale, Co. Limerick
-0S-081-20  Cois Na Feile, Clash, Abbeyfeale, Co. Limerick
-DS-118-19 Convent Road, Abbeyfeale, Co. Limerick
+DS-081-20  Cois Na Feile, Clash, Abbeyfeale, Co. Limerick
+DS-118-19 | Convent Road, Abbeyfeale, Co. Limerick
 DS-186-20 Clash Road, Abbeyfeale, Co. Limerick
 
 Case with An Bérd Pleanéla for determination on consent to acquire compulsorily
@@ -378,14 +391,14 @@ e 0DS-045-18 3 Colbert Terrace, Abbeyfeale, Co. Limerick
 e 0S-044-18 4 Colbert Terrace, Abbeyfeale, Co. Limerick
 
 For Sale or Sold on open market
-e DS-046-18 2 Colbert Terrace, Abbeyfeale, Co. Limerick
-e 0S-040-18  11Colbert Terrace, Abbeyfeale, Co. Limerick
+ DS-046-18 2 Colbert Terrace, Abbeyfeale, Co. Limerick
+e 0S-040-18 11Colbert Terrace, Abbeyfeale, Co. Limerick
 @ DS-155-20 9 Colbert Terrace, Abbeyfeale, Co. Limerick
 .
 
 in development by LCC
 e DS-042-18 7 Colbert Terrace, Abbeyfeale, Co. Limerick
-® DS-043-18 6 Colbert Terrace, Abbeyfeale, Co. Limerick
+© DS-043-18 6 Colbert Terrace, Abbeyfeale, Co. Limerick
 
 The remaining cases are either in the process of development by the owner or are under
 
@@ -398,7 +411,9 @@ compulsorily.
 us an update on the by passes for Abbeyfeale and Newcastle West.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 This item was dealt with as part of No. 3 on the Agenda.
@@ -442,8 +457,8 @@ The LA Maintenance Team or external contractors complete these works.
 
 Of this group of dwellings (14 No):
 
-© 3have been recently completed and keys have been given to tenants on Friday 1 October
-© 6are currently in progress — either at tender stage for contractor appointment (3) or on
+© 3have been recently completed and keys have been given to tenants on Friday 1% October
+© 6 are currently in progress — either at tender stage for contractor appointment (3) or on
 
 site for direct labour and works progressing (3). The time for completion of these six
 ranges from October 8” up to late January.
@@ -453,7 +468,9 @@ above 6. It is expected that they will start in the earlier part of 2022 and can
 approximately 3 to 4 months to complete once started.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Category 3 dwellings (S No). These can require a deeper retrofit which will involve works to
@@ -512,7 +529,9 @@ the case is being progressed and a Notice has been served on the registered
 9
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 owner of the Council’s intention to enter the particulars of the land in the
@@ -524,7 +543,7 @@ Derelict Sites Register.
 and also when can we expect work to begin on the new car park.
 
 REPLY: A meeting has taken place with Transport Infrastructure Ireland over funding
-for the scheme. The Til have requested a detailed breakdown of funding which
+for the scheme. The TIl have requested a detailed breakdown of funding which
 is currently being prepared and further meetings will be arranged to try and
 secure funding for the project. The design of the scheme is progressing with
 engagement with Irish Water and preparation of site investigation and slit
@@ -534,7 +553,7 @@ planned to go to tender early next year.
 
 Councillor Foley referred to the issue of traffic management in the town and to O’Riordan’s
 pub which has fallen into disrepair. He asked that funding for the project be sought from the
-Tll. It was agreed that the Meetings Administrator would follow up on the proposed Meeting
+Til. It was agreed that the Meetings Administrator would follow up on the proposed Meeting
 with the TIl with K. O’Gorman SEE and Project Co-ordinator. The Members also requested
 that Minister P. O'Donovan and Minister N. Collins also be invited to attend the Meeting.
 
@@ -563,7 +582,9 @@ from these car parks and are therefore not available to other bike hire provider
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Councillor Scanian expressed disappointment at the response
@@ -618,7 +639,9 @@ for the Council. it allows cases to be tracked and managed, with a view to achie
 11
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 optimum outcomes for the Councillors and Citizens of Limerick. In 2020, 34,863 cases were
@@ -680,7 +703,9 @@ request. In very rare instances, the subject line may have had some minor edits 
 12
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 — these edits are usually undertaken to remove any personal or sensitive data that may have
@@ -735,7 +760,9 @@ remove the bend and improve sight lines at this location.
 13
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Meetings Administrator stated that a number of months ago, it was agreed with the
@@ -767,4 +794,6 @@ Dated:
 14
 
 
----
+
+[[PAGE_END:14]]
+

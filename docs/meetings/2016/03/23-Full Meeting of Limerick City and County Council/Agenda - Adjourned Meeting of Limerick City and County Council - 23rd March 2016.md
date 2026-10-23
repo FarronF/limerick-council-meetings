@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Adjourned%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20March%202016.pdf)
+**Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 23rd March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Adjourned%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+ail Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-NN “ Cé na gCeannaithe,
+NN * Cé na gCeannaithe,
 —==> Luimneach
 Limerick Corporate Services and Change Management.
 Limerick City and County Council,
 
-cITY § COUNTY woeaa!
+CITY § COUNTY oceaa!
 Limerick
 
 t: +353 (0) 61 407 100
@@ -44,7 +45,7 @@ A Chomhairleoir, a chara,
 You are requested to attend the Adjourned Meeting of Limerick City and County Council to
 be held in the Council Chamber, Dooradoyle, Limerick, on Wednesday, 23 March, 2016, at
 
-The agenda is as set out for the Meeting of 14™ March, 2016, with the addition of a
+The agenda is as set out for the Meeting of 14 March, 2016, with the addition of a
 Supplementary Item as set out below which was inadvertently omitted from the agenda.
 Any inconvenience caused by this omission is regretted.
 
@@ -60,13 +61,15 @@ Travel and Transportation Strategic Policy Committee
 
 To consider the appointment of a Chair to the Travel and Transportation
 Strategic Policy Committee consequent on the election of the Chair of this
-Committee, Councillor Maurice Quinlivan, to Dail fireann.
+Committee, Councillor Maurice Quinlivan, to Dail Fireann.
 
 = customerservices@timerick.ic
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wevew. limerick.te
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © wevew limerick.ie
 w @limerickCouncil
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+

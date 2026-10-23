@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2011th%20March%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 11th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2011th%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ——
@@ -30,7 +31,7 @@ COUNCIL
 7" March, 2016.
 
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe,
-Comhairle Cathrach agus Contae Luimnigh.,
+Comhairle Cathrach agus Contae Luimnigh.
 
 Cé na gCeannaithe,
 
@@ -46,8 +47,8 @@ Limerick
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-Ceanncheathr Chorpardidaath, Cé na gOeenmntithe, Ludemeach
-Corporate Headquarters, M@schrartts Ouray, Limerick
+Ceanncheathri Chorpardidaath, Cé na gOeermantthe, Ludomeach
+Corporate Headquarters, M@schrrtts Oumey, Limerick
 
 To/ The Cathaoirleach_and each Member of the Municipal District_of Cappamore-
 
@@ -61,7 +62,7 @@ at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-edt
+esedlr
 
 Meetings Administrator.
 
@@ -83,18 +84,20 @@ To recap on presentation from previous Meeting and discuss the following:
 {i) Rural Economic Development Zone Initiative (REDZ);
 
 (ii) Love Your Street Scheme;
-(iii) Business and Retail incentive Scheme.
+(iii) Business and Retail Incentive Scheme.
 
 @ customerservicesalimerick.ie
 
-© wevewlimerickie
+© wevew limerickie
 w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Ne
+nN
 
 NOTICES OF MOTION ADJOURNED FROM PREVIOUS ING
 
@@ -131,4 +134,6 @@ Council allocate €1,500 from the general municipal allocation to the Knocklong
 Glenbrohane parish journal which has not been published in 20 years.
 
 
----
+
+[[PAGE_END:2]]
+

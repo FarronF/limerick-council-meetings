@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-may-2024_0.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 16th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-may-2024_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 10th May , 2024.
@@ -66,7 +67,9 @@ Matters Arising
 3.
 
 Declaration of Interest
----
+
+[[PAGE_END:1]]
+
 2
 
 4.
@@ -126,7 +129,9 @@ I will move at the next meeting of the Municipal District of Cappamore Kilmalloc
 City & County Council install traffic calming and junction tightening measures to make it safe for
 
 pedestrians at the junction at Gerard road, Millmount and the new road, Gortboy in Kilmallock.
----
+
+[[PAGE_END:2]]
+
 3
 
 QUESTIONS
@@ -168,4 +173,6 @@ Sruthain in Kilfinane.
 I will ask at the next meeting of the Cappamore Kilmallock Municipal District for an update on
 
 the Compulsory Purchase Order for the N20 O’Rourke’s Scheme.
----
+
+[[PAGE_END:3]]
+

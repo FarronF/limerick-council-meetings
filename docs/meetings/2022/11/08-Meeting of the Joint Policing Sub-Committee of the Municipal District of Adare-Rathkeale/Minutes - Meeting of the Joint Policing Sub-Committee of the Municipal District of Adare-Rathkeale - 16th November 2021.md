@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Minutes%20JPC%2016th%20November%202021.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 16th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Minutes%20JPC%2016th%20November%202021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE JPC SUBCOMMITTEE HELD IN THE RATHKEALE HOUSE, RATHKEALE, CO.**
@@ -82,7 +83,9 @@ assaults are down throughout the District with an increase in minor assaults in 
 area. In addition, she advised the Gardaí are unable to follow through on these crimes
 
 unless a statement is made.
----
+
+[[PAGE_END:1]]
+
 Detective Sergeant Reidy advised there are a number of operations in place at the
 
 moment to target criminal drug activity in the District and further advised there has been
@@ -152,4 +155,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28c%29%20Minutes%20Special%20Meeting%2015th%20November%2C%202017.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 15th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28c%29%20Minutes%20Special%20Meeting%2015th%20November%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -86,7 +87,9 @@ Proposed by Councillor Teskey;
 Seconded by Councillor O’Donoghue;
 
 And Resolved:
----
+
+[[PAGE_END:1]]
+
 2
 
 That the proposed development, as set out in the Chief Executives Report be varied to
@@ -112,4 +115,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

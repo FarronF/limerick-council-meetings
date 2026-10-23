@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20150218.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20150218.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHÍN
@@ -90,7 +91,9 @@ Councillor Sheehy requested that the Members be informed when a reply from Irish
 Rail was received in relation to her Notice of Motion regarding reopening Kilmallock Railway
 
 Station.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -176,7 +179,9 @@ school.
 • A curated meeting place for creative practitioners from different cultures to build
 
 relations through shared experience and achievement.
----
+
+[[PAGE_END:2]]
+
 3
 
 • Created the opportunity to work outside comfort zone, expanding perceptions and
@@ -254,7 +259,9 @@ towns.
 • 28 broadband connections between the local CCTV hubs and MCEC.
 
 • Remote access on mobile phones – linked to An Garda Síochána Mobility Project.
----
+
+[[PAGE_END:3]]
+
 4
 
 • 13 locations would be enabled in Wave 2.
@@ -330,7 +337,9 @@ Proposed by Councillor Donegan;
 Seconded by Councillor Teefy;
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 “That, the following estate - Toormore, Bruree, Co. Limerick – be taken in charge, in
@@ -402,7 +411,9 @@ Question submitted by Councillor M. Donegan
 ***I will ask at the next Meeting for an update on the proposed footbridge at the North***
 
 ***Bridge in Kilmallock***
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY:**
@@ -478,7 +489,9 @@ Other Matters Raised:
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the
 
 following items were raised:
----
+
+[[PAGE_END:6]]
+
 7
 
 •
@@ -562,7 +575,9 @@ Design Team which would progress the design of the junction with a view to bring
 revised junction design proposals to Part VIII stage. He confirmed that there would be
 
 further engagement and updates provided to the Members as the design phase progressed.
----
+
+[[PAGE_END:7]]
+
 8
 
 •
@@ -596,4 +611,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

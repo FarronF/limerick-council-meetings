@@ -16,32 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%20Agenda%20Jan%202020%20MD%20Mtg.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%20Agenda%20Jan%202020%20MD%20Mtg.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach
-& Contae Luimnigh
+_—_ Comhairle Cathrach Comhairle Ceteach apm Contae Luimnigh,
 
-AN fi ™
+2 2 OWRe "hes ‘ y » “hin Seoich
 
-To/
+& Contae Luimnigh Olfg an Cheantaiy, Aras ee ca Mochanie
 
-A Chomhairleoir, a chara,
+~ Fo ao ae ——— c og,
 
-Limerick City
-& County Council
+~ : . : Co, Laimnigh.
+=> > Limerick City
 
-Comhairie Cathrach agus Contae Luimnigh,
-Olfig an Cheantair, Aras Mhainchin Seoighe,
-Cill Mocheaidg,
+& County Council Limerick City and County Council
 
-Co, Usimnigh
+Aras Mainchin Seoighe Area Office,
 
-Limenck City and County Council
-Aras Mairnchin Seoighe Area Office,
-Kilmallock,
+Kilnallock,
 
 Co. Limerick
 
@@ -52,18 +48,20 @@ f: +353 (0) 63 985 99
 
 10" January, 2020.
 
-You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
-held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 16th January,
+To/
 
+A Chomhairleoir, a chara,
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
+
+held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 16th January,
 2020 at 3.00 p.m.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-1. Minutes
-
 AGENDA
+1. Minutes
 
 (i) To consider the adoption of Minutes of Meeting of the Municipal District of
 Cappamore-Kilmallock held on the 12th December, 2019.
@@ -73,20 +71,16 @@ Cappamore-Kilmallock held on the 12th December, 2019.
 (ii) To consider the adoption of Minutes of Special Meeting of the Municipal District of
 Cappamore-Kilmallock held on the 20th December, 2019.
 
-Comhairle Cathrach agus Contae
+= customerservices@himerickie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe (Copy enclosedpw.timerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office chee
 
-Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
-
-Limerick City and County Council, Aras Mainchin Seoighe Area Office
-
-customerservices@himerickie
-(Copy enclosedpw.limerickie
-Ww @LimerickCouncil
-
-(063 980 19
+063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Deputation from Bruff Grange Meanus Community Council
@@ -124,7 +118,9 @@ of charging points, be requested to install electric vehicle charging points in 
 villages throughout the Municipal District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -145,4 +141,6 @@ in the People’s Park in Kilmallock, specifically by closing off some entry poi
 Park.
 
 
----
+
+[[PAGE_END:3]]
+

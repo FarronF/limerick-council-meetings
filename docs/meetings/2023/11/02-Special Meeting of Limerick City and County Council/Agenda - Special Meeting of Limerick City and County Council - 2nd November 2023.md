@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-2nd-November-23.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 2nd November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-2nd-November-23.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_—e_e Comhairle Cathrach
+_——_ Comhairle Cathrach
 = & Contae Luimnigh
 a Limerick
-—< = imerick City
+— = merick City
 
 & County Council
 
@@ -63,7 +64,7 @@ attached Requisition in relation to boil water notices in Limerick City and Coun
 
 Is mise le meas,
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy of Requisition attached)
@@ -74,7 +75,9 @@ W @LimerickCouncil
 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Subject: Special Blended Meeting Limerick City and County Council
@@ -131,4 +134,6 @@ Limerick - Atlantic Edge, European Embrace.
 Leam More | Help | Meeting options | Legal
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%28b%29%20Minutes%20Special%20Meeting%2028th%20November%202019.pdf)
+**Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 28th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%28b%29%20Minutes%20Special%20Meeting%2028th%20November%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON THURSDAY,**
@@ -78,7 +79,9 @@ Councillors Collins, Costelloe, Kilcoyne, Leddin (B), O’Dea, Sheehan and Taluk
 (7)
 
 The Meetings Administrator declared the Motion defeated and the meeting was adjourned.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members wished to express their support to Cllr Kilcoyne and his family on the recent incident
@@ -98,4 +101,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

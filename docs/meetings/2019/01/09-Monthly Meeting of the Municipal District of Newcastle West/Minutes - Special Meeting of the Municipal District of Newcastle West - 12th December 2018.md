@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28b%29%202018-12-12%20Minutes%20Special%20Meeting.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 12th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28b%29%202018-12-12%20Minutes%20Special%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -88,7 +89,9 @@ The Members acknowledged the work to date on this matter and welcomed the provis
 new housing. However there was still concern on the density of houses in the area and the
 
 Members also referred to the existing derelict houses on Colbert Terrace. Discussion also took
----
+
+[[PAGE_END:1]]
+
 2
 
 place on the need for car parking in the area and for the housing scheme to be reduced to
@@ -170,4 +173,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

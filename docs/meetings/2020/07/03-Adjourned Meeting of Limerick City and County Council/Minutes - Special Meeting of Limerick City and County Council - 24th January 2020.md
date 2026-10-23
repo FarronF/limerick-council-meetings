@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-a-minutes-special-meeting-24.01.2020_0.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 24th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-a-minutes-special-meeting-24.01.2020_0.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
@@ -84,7 +85,9 @@ the longest period of service of any Mayor of Limerick since 1842. Pat was also 
 Alderman in the history of Limerick City as the title was subsequently abolished by the
 
 Government.
----
+
+[[PAGE_END:1]]
+
 2
 
 Pat had also served in Seanad Éireann on two occasions, both on the Administrative Panel
@@ -150,7 +153,9 @@ acknowledged his successful career in politics as a testament to his character.
 Councillor Hartigan also wished to be associated with expressions of sympathy to Pat’s wife
 
 Loretto and family.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Leddin (J) acknowledged Pat’s distinguished career in politics and referred to him
@@ -196,4 +201,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2010th%20July%252c%202018%20v2.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2010th%20July%252c%202018%20v2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-=
+a
 
-Ao —_,
+Aas —_
 
 . =
 Limerick
@@ -31,11 +32,11 @@ CITY & COUNTY
 
 COUNCIL
 
-5" July, 2018.
+5 July, 2018.
 
 To:
 
-2tiiad
+Sta
 
 Rathkeale
 
@@ -55,7 +56,7 @@ Adare-Rathkeale Municipal District,
 Limerick City and County Council,
 Aras Séan Finn,
 
-New Line Road,
+New Line Road.
 
 Rathkeale
 
@@ -64,7 +65,7 @@ Co. Limerick
 t: +353 (0) 69 64047 / 64129
 f: +353 (0) 69 63188
 
-AU di c-
+AU ai e-
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
 
@@ -83,7 +84,7 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-ee nna
+ee i nnn
 
 (a) Annual Meeting of the Municipal District of Adare-Rathkeale held on 26™ June,
 
@@ -102,15 +103,17 @@ To receive an update on the Housing Delivery Programme and Public Land Activatio
 for Adare.
 
 1
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-@ customerservices@limerick ie
-© vevew Mmerick. le
+@ customerservices@limerickie
+© vevew Mmerick le
 Ww @limerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Physical Development Directorate
@@ -149,7 +152,9 @@ To note update on pedestrian controlled crossing for Adare.
 tw
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -171,9 +176,13 @@ Correspondence
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

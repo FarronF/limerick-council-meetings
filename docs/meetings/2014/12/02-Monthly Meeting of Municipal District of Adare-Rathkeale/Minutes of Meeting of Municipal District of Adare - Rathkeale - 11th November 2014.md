@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_municipal_district_of_adare_-_rathkeale_-_11th_november_2014.pdf)
+**Original file:** [Minutes of Meeting of Municipal District of Adare - Rathkeale - 11th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_municipal_district_of_adare_-_rathkeale_-_11th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
@@ -67,7 +68,9 @@ Gortadroma Landfill Site. A discussion ensued on the matter and Members raised v
 questions and concerns.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -109,7 +112,7 @@ material alterations to the proposed Plan.
 
 Councillor Neville proposed the following amendments to the Draft Plan as follows:
 
-“(i). + In_relation to submission no 16, 17 and 18 the land at The
+“(i). In_relation to submission no 16, 17 and 18 the land at The
 
 thatched Cottage, Main St Adare in relation to change of use from residential
 to commercial and/or dual use remove objective H4(c) and objective (EH 1)
@@ -126,7 +129,9 @@ commercial or dual purposes. At present these dwellings not in commercial
 use are derelict and do not fulfil modern residential demands, facilities or
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii).
@@ -140,7 +145,7 @@ and EH 1 and any other text in the plan that refers to prohibiting the change of
 use of thatched cottages from residential to commercial / dual use is
 required.
 
-b. Section 8.2.3 A.C.A 2 states that these cottages are the villages unique
+4. Section 8.2.3 A.C.A 2 states that these cottages are the villages unique
 selling point and a must see location. This attracts volumes of tourists to
 these cottages. They take photographs/videos and also visit thatched
 cottages which are already in commercial use. The privacy implications for
@@ -185,12 +190,14 @@ phase 2 residential and phase 2 serviced sites at Deepark. Any future
 development on these lands shall incorporate as many of the trees as
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (iii).
 
-tiv)
+liv)
 
 4
 
@@ -213,7 +220,7 @@ It is considered that this change is not significant in terms of SEA/AA
 requirements particularly having regard to the inclusion of Objective EH10 in
 relation to the trees.
 
-In_relation to submission no 37 the land at Islandea, Adare shall be
+in_relation to submission no 37 the land at Islandea, Adare shall be
 changed to existing residential.
 
 Reasons
@@ -244,7 +251,9 @@ zoning of Adare Soccer Club portion of ground at Deerpark from Residential
 Development Area Phase 1 to Open Space compliments these guidelines.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 e The Adare Area Plan has zoned 34.54 hectares as Residential Development
@@ -285,7 +294,7 @@ and defer publishing a Notice under Section 20(3)(a)(ii) for Croom Local Area Pl
 4. Question submitted by Councillor K. Sheahan
 
 ! will ask at the next Meeting for a report regarding the arrangements in place for the
-collection of refuse from apartments, particularly 2°" and 3° floor apartments. In
+collection of refuse from apartments, particularly 2° and 3° floor apartments. In
 particular, | will ask why green bags are no longer permitted to be used.
 
 REPLY: For the majority of apartment blocks there are adequate facilities in place for
@@ -295,7 +304,9 @@ apartment block. However, it is difficult to comment on an individual
 apartment block without precise details of same.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -311,7 +322,7 @@ Councillor Sheahan indicated that he was unhappy with the response.
 5. Question submitted by Councillor R. O'Donoghue
 
 | will ask at the next Meeting if Limerick City and County Council intends to accept
-landowner Con Duggan’'s offer of a strip of land at St. Senan's Terrace, Croom, to
+landowner Con Duggan’s offer of a strip of land at St. Senan's Terrace, Croom, to
 facilitate the completion of footpaths.
 
 REPLY: Engineering staff from the Travel and Transportation Department will meet
@@ -337,7 +348,7 @@ under the 2015 Development Fund Programme.
 In relation to the water ponding issue, the existing drainage gully was
 blocked and has now been cleared.
 
-7. Notice of Motion submitted by Councillor R. O’Donoghue
+Zz. Notice of Motion submitted by Councillor R. O’Donoghue
 
 ! will move at the next Meeting, in the interest of health and safety, that traffic
 calming measures be introduced at Church Road, Croom, and at Towerfield, Croom.
@@ -349,7 +360,9 @@ cushions at Church Road, Croom. These works will be completed before the
 end of this year.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -404,7 +417,9 @@ this matter.
 pending a Council agreed strategy.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -451,21 +466,25 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ,
-
->
 
 Zoning changed from Agriculture to
 Residential Development Area phose 2
 
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

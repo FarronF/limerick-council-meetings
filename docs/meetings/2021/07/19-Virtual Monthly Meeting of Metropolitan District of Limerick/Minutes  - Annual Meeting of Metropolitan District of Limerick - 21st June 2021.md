@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01b-draft-minutes-annual-meeting-21st-june-2021.pdf)
+**Original file:** [Minutes  - Annual Meeting of Metropolitan District of Limerick - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01b-draft-minutes-annual-meeting-21st-june-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 21ST** **JUNE, 2021 AT**
@@ -88,7 +89,9 @@ Seconded by Councillor O’Dea;
 “That Councillor Catherine Slattery be appointed Cathaoirleach of the Metropolitan District of
 
 Limerick to hold office until the next Annual Meeting or until a successor has been appointed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Novak Uí Chonchúir;
@@ -166,7 +169,9 @@ burden of grief that many families have had to cope with, following the loss of 
 expressed her condolences to all those families who had lost someone due to Covid. While enduring
 
 lockdowns over the past year, the Covid pandemic also showed us what is really important, our
----
+
+[[PAGE_END:2]]
+
 3
 
 health, community spirit and social interactions and what we have learned must be put to positive
@@ -228,7 +233,9 @@ Councillor O’Hanlon thanked the Members for nominating him, looked forward to 
 and stated that he would support the Cathaoirleach during her twelve months term in the
 
 Metropolitan District.
----
+
+[[PAGE_END:3]]
+
 4
 
 On behalf of Management and Staff, the Director (Service Operations) congratulated Councillor
@@ -244,4 +251,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

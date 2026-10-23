@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-10th-february-2026.pdf)
+**Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-10th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and Environment
@@ -78,7 +79,9 @@ Items 2 – Notice of Motion
 Item 2 - Notice of Motion submitted by Councillor M. Donoghue (*referred from December*
 
 *Metropolitan Meeting*).
----
+
+[[PAGE_END:1]]
+
 *I will move at the next meeting of the Metropolitan District of Limerick that the current Presentation of*
 
 *Waste Byelaws are updated to reflect the current volume of required segregation of waste, and that a*
@@ -156,7 +159,9 @@ Following discussion, it was agreed that:
 CCTV monitoring and other mitigation measures would continue at problematic Bring Bank
 
 locations.
----
+
+[[PAGE_END:2]]
+
 •
 
 The operation and performance of Clothes Banks would be kept under review, particularly at
@@ -240,7 +245,9 @@ In relation to the upcoming workshops Ms Horigan advised we are still working on
 workshop on Cemeteries byelaws and Tree Maintenance however the SPC Programme workshop is
 
 set for 9th March with submissions being sought by 23rd February.
----
+
+[[PAGE_END:3]]
+
 Cllr Kiely asked if Cllrs not sitting on this SPC were entitled to submit suggestions.
 
 Ms Hourigan advised we would take all suggestions.
@@ -250,4 +257,6 @@ This concluded the business of this meeting.
 Cllr Joe Leddin
 
 Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee
----
+
+[[PAGE_END:4]]
+

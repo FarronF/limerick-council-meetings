@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 16th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20July%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -64,7 +65,9 @@ And Resolved:
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Corporate Services and Change Management
@@ -111,7 +114,9 @@ Works Programme and informed them that same would be completed in September.
 The Members commended the staff on the works already carried out.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -123,7 +128,7 @@ dealt with:
 5. Question submitted by Councillor Sheehy
 
 / will ask at the next Meeting is there a plan to insert channels along the bad
-sections of L-1516 where there is wearing away at the sides of the road? If so,
+sections of L-1516 where there is wearing away at the sides of the road? If So,
 what is the time frame envisaged to complete this?
 
 REPLY: Sections of this road will be considered for
@@ -144,7 +149,7 @@ At this stage it is likely that works to improve the junction will probably
 go ahead during the 3rd quarter of 2016 after completion of the Part 8
 planning process.
 
-Lf Question submitted by Councillor Teefy
+Te Question submitted by Councillor Teefy
 
 ! will ask at the next Meeting what the situation is regarding proposed work to
 be carried out on the River Loobagh?
@@ -155,7 +160,9 @@ held in the near future to review the proposed works and it is envisaged
 that work would start in the river in August.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. ion submitted uncillor chell
@@ -169,7 +176,7 @@ units under the charge of the Council.
 
 9. Question submitted by Councillor O’Donnell
 
-/ will ask at the next Meeting if the road markings at the junction of the L-1140
+| will ask at the next Meeting if the road markings at the junction of the L-1140
 and L-5061 at Patrickswell can be renewed and enhanced in the interest of
 road safety?
 
@@ -200,7 +207,9 @@ on the Hospital to Kilteely road a short distance from St. Joseph's school, in
 the interests of safety for all road users.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -219,7 +228,7 @@ emergencies.
 
 The Motion was proposed by Councillor Ryan and seconded by Councillor Mitchell.
 
-REPLY: The Council is currently in the initial stages of assessing projected
+REPLY: The Council is currently in the initial Stages of assessing projected
 anticipated financial resources likely to be available, its financial
 commitments and operational demands with a view to informing the
 Budget 2016 process, including the extent of GMA funding likely to be
@@ -241,10 +250,14 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-om te
+om be
 
 
----
+
+[[PAGE_END:6]]
+

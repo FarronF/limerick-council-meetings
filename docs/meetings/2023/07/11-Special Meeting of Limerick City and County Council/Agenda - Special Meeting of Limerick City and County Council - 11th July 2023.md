@@ -16,22 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-11th-July-2023.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 11th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-11th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Sewbnisi Corparstidesctw
+Comhairle Cathrach _ ___Seebhist Corparsidescha,
 
-Comhairle Cathrach _ ___Sewbhist Corparsidescha,
+a ‘ Comhairle Cathrach agus Contac Lulimnigh,
 
-o Fy Comhairle Cathrach agus Contae Lulimnigh,
-
-- » a & Contae Luimnigh Cesnncheathnd Chorparaideach,
+_ - & Contae Luimnigh Cesnncheathnd Chorpardideach,
 
 ~“ Cé na gCeannaithe,
 
-— Limerick City Luimuneach
+—=2 Limerick City Luimuneach
 & County Council
 
 Corporate Services,
@@ -52,10 +51,10 @@ Tuesday, 11" July, 2023, at 9.00 a.m., in order to pass a Vote of Sympathy on
 
 the passing of former Mayor of Limerick, John Quinn, RIP.
 
-Is mise le meas,
+Is mise le meas, ——
 
-we -
-Laura Flannery>——__
+se
+Laura Flannery;
 Meetings Administrator. ~~
 ™ Customerservices@limerick.ie
 © Wewwlimerick.ie
@@ -64,4 +63,6 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Lulmneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+

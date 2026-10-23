@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%208th%20January%2C%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%208th%20January%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach
+ae Comhairle Cathrach
 & Contae Luimnigh
-iil — Limerick City
+a — Limerick City
 merick City
 & County Council
 
@@ -31,7 +32,7 @@ merick City
 
 Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
-Aras Séan Finn.
+Aras Séan Finn,
 
 Line Nua,
 
@@ -61,7 +62,7 @@ Rathkeale
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 8'* January, 2019 at 9.00
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 8°" January, 2019 at 9.00
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -71,11 +72,11 @@ Karen Butler,
 Meetings Administrator.
 1. Minutes
 
-eer eer mene a ener nee ren ae nenrrereannens a aeeeeannnees -eeeeeenennee ee
+een ent enn a enn en ee ren ae nenerereannens a meeeennnneet peeeeesneenee ee
 
 AGENDA
 
-To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 18"*
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 18'*
 
 December, 2018.
 
@@ -90,15 +91,17 @@ To receive an update on the path from Kildimo Village to the Beer Garden Public 
 Ceanncheathni Chorpardideach, Céna gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
-2 samme [>ee rene
+2 maaan [eerie
 wvewlimerickie
 
 W e@LimerickCouncil
 
-© 061 - 556 000
+\ 061-556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Physical Development Directorate
@@ -112,25 +115,19 @@ To review position in relation to allocations under the General Municipal Alloca
 Service Operations Directorate
 Planning and Environmental Services
 To note update on Taking-In-Charge of An Curran, Pallaskenry.
-
 (Copy Enclosed)
 Operations and Maintenance Services
 Drainage Issues in Courtmatrix
 To note update on drainage issues at Courtmatrix.
-
 (Copy Enclosed)
 Flooding Issues in Askeaton
 To note update on proposals to address the flooding issues in Askeaton.
-
 (Copy Enclosed)
 Flooding Issues in Foynes
-
 To note update on flooding issues in Foynes.
 (Copy Enclosed)
-
 QUESTIONS
-
-ncillor A. T:
+Questions submitted by Councillor A. Teskey
 
 { will ask at the next Meeting how many people were found to be in breach of this
 districts littering offence laws during the month of December 2018.
@@ -138,7 +135,9 @@ districts littering offence laws during the month of December 2018.
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -162,4 +161,6 @@ purchase order to the vacant housing estate on the Ballywilliam Road in Rathkeal
 AOB
 
 
----
+
+[[PAGE_END:3]]
+

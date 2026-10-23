@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-09</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_150916.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 15th September 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_150916.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Seirdhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
-lay oN. ia ‘ Cé na gCeannaithe,
+lay at ow ‘ Cé na gCeannaithe,
 
 Luimneach
 
@@ -34,7 +35,7 @@ Limerick City and County Council,
 
 CITY & COUNTY
 COUNCIL ee
-9" September, 2016. t: +353 (0) 61 407 100
+9"" September, 2016. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
@@ -51,7 +52,7 @@ Agenda.
 
 Is mise le meas,
 
-Tac Know
+Tae Know
 
 Tina Knox,
 Meetings Administrator.
@@ -80,7 +81,9 @@ Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © www limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Economic Development Directorate
@@ -116,4 +119,6 @@ years and those who will be retiring shortly be replaced immediately as staff nu
 are at a critical level in the area.
 
 
----
+
+[[PAGE_END:2]]
+

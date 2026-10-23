@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-minutes-special-meeting.pdf)
+**Original file:** [Minutes  - Special Meeting of the Municipal District of Cappamore-Kilmallock - 1st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-minutes-special-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -58,7 +59,9 @@ rationale for choosing Kilmallock Business Park. She outlined the consultation a
 engagement that had taken place prior to the submission of the Part 8 application and this
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 included meeting with the Elected Members, meeting with local businesses in the Business
@@ -106,7 +109,9 @@ consultation process in relation to the issue of smoke generated as part of the 
 whether the Environmental Protection Agency should be consulted on the issue.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Overall, the Elected Members agreed that there were some concerns raised in their
@@ -131,9 +136,13 @@ Signed: Date:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20a%202018-03-07%20Minutes%20March.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20a%202018-03-07%20Minutes%20March.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES
@@ -100,7 +101,9 @@ Mr. B. Kennedy, Senior Executive Officer, gave a presentation to Members on work
 completed to date with regard to the upgrade of the Great Southern Greenway Limerick.
 
 Works included the following:
----
+
+[[PAGE_END:1]]
+
 2
 
  Re-surfacing Works
@@ -178,7 +181,9 @@ The Arts Officer, also noted that Creative Ireland were developing a Creative Yo
 also referenced the additional funding which was made available by the Council to progress
 
 youth projects.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members welcomed the Artist in Schools Programme but stated that a more geographical
@@ -266,7 +271,9 @@ It was proposed to allocate funds to the following projects:
  Abbeyfeale, Footpaths
 
 €20,000
----
+
+[[PAGE_END:3]]
+
 4
 
  Ballydonnell, Feohanagh – Road Widening
@@ -338,7 +345,9 @@ all. With regard to broadband in Newcastle West, the Council had informed the se
 provider of the requirements to apply for a road opening licence and had also offered to meet
 
 with the service provider.
----
+
+[[PAGE_END:4]]
+
 5
 
 8.
@@ -412,7 +421,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Sheahan, it was agr
 receive a Deputation from Tournafulla/Mountcollins Parish Finance Committee at the April
 
 Meeting of the Municipal District of Newcastle West.
----
+
+[[PAGE_END:5]]
+
 6
 
 QUESTIONS
@@ -484,7 +495,9 @@ The contractor has been on site and has completed site surveys and is currently
 completing design work. It is anticipated that the contractor will commence
 
 work at the end of March 2018.
----
+
+[[PAGE_END:6]]
+
 7
 
 **13.**Question submitted by Councillor L. Galvin
@@ -564,7 +577,9 @@ Question submitted by Councillor J. Sheahan
 A parking area outside the Garda Station in Glin shall be put in place following
 
 the completion of drawings and bye-laws.
----
+
+[[PAGE_END:7]]
+
 8
 
 NOTICES OF MOTION
@@ -636,7 +651,9 @@ email or social media. Members asked if leaflets could be delivered to household
 event of a planned outage of water supply. It was agreed to refer the matter to Water
 
 Services in order for Irish Water to be contacted.
----
+
+[[PAGE_END:8]]
+
 9
 
 The Motion was seconded by Councillor Sheahan.
@@ -706,7 +723,9 @@ been taking place at Glin Pier and asked if CCTV could be installed at this loca
 that small all weather cameras could be considered.
 
 The Motion was seconded by Councillor Foley.
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**:
@@ -734,4 +753,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

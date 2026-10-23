@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -76,7 +77,9 @@ Dromkeen Graveyard
 3. Declaration of Interest
 
 There was no interest declared.
----
+
+[[PAGE_END:1]]
+
 4. Property Services
 
 Disposal of freehold interest at 13 Ashill was noted by the Elected Members
@@ -118,7 +121,9 @@ will be contacted to clarify their registration details.
 A postal registration must be received by 11th May and the date for closing the register is
 
 20th May.
----
+
+[[PAGE_END:2]]
+
 7.Discussion item on Bank of Ireland Building, Bruff
 
 An Cathaoirleach wished to acknowledge the investment report regarding investment by
@@ -192,7 +197,9 @@ it ever be determined that sale of the building is the most appropriate option, 
 consultation with the community, the sale would have to go to the open market and be
 
 brought in front of the Elected Members at both Municipal District and Full Council.
----
+
+[[PAGE_END:3]]
+
 The Elected Members were advised that the funding received under Town and Village
 
 renewal has a requirement to be used as applied for towards the development of an E-hub,
@@ -244,7 +251,9 @@ Mr Casey advised that there are Kilmallock and Bruff Community Plans in place wh
 be updated in due course. Bruff also has a Public realm plan in place.
 
 The Elected Members thanked Mr Casey for his presentation.
----
+
+[[PAGE_END:4]]
+
 NOTICES OF MOTION
 
 9.Notice of Motion submitted by Councillor Donegan
@@ -290,7 +299,9 @@ with the Housing Directorate and internal checks with the Allocations team.
 **Proposed: Councillor Carey**
 
 **Seconded: Councillor Donegan**
----
+
+[[PAGE_END:5]]
+
 QUESTIONS
 
 11.Question submitted by Councillor Donegan and Teefy
@@ -346,7 +357,9 @@ District.
  Replace worn shackles on Nexus Free Ride Unit = €341.00.
 
  New replacement head for Fish Rocker Unit = €1,129.00.
----
+
+[[PAGE_END:6]]
+
 13.Question submitted by Councillor Carey
 
 “I will ask at the next meeting of the Cappamore-Kilmallock Municipal District meeting for
@@ -474,7 +487,9 @@ Maypole Crescent, Knocklong
 Eldery Bungalows Phase 3
 
 1
----
+
+[[PAGE_END:7]]
+
 Ship Renewal
 
 Lot 6 – Mullally Lawn, Cappamore
@@ -592,7 +607,9 @@ Kilmallock
 right of way beside Barry’s garage, Lord Edward St, in Kilmallock would be advertised
 
 and formal consultation would take place.
----
+
+[[PAGE_END:8]]
+
  The Elected Members wished happy birthday to Noreen Ward, Murroe on her 104th
 
 birthday.
@@ -626,4 +643,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

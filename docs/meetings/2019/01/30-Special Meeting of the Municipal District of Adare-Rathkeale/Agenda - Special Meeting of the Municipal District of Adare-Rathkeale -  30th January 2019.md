@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2030th%20January%2C%202019.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale -  30th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/00%20Agenda%2030th%20January%2C%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_— pa ieee deed
+_——_ a
 & Contae Luimnigh
-aAmN , A
+aAnmN , RE
 
 Limerick City
 & County Council
@@ -44,9 +45,9 @@ Adare-Rathkeale Municipal District.
 Lamenck City and County Council
 Aras Sean Finn,
 
-New Line,
+New Line.
 
-Rathkeale,
+Rathkeale.
 
 Co. Lumerick.
 
@@ -77,15 +78,17 @@ AGENDA
 
 3. Update Progress Re on Croom Link Road
 
-Ceanncheathna Chorpardideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathnia Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 @ customerservices@limerickie
-@ werwlimerickie
+@ worwlimerickie
 
 W @LimerickCouncil
 
 { 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

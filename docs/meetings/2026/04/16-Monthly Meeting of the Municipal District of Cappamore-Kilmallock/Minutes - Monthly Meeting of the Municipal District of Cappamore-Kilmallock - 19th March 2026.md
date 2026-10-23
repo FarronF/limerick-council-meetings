@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-19th-march-2026.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-19th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -51,7 +52,7 @@ work put in to the staging of the parades.
 The Cathaoirleach and Elected Members also expressed their condolences to the families and
 friends of the following, who had passed away recently:
 
-¢ Kevin Kiely, Belfield Gardens, Ennis Road, Limerick-former Mayor of Limerick and long-
+© Kevin Kiely, Belfield Gardens, Ennis Road, Limerick-former Mayor of Limerick and long-
 serving councillor with Limerick Corporation;
 
 Ruth Staunton (nee Tiernan), Raheen & Ballyclough, Limerick;
@@ -71,7 +72,9 @@ Proposed by: Councillor Stokes
 Seconded by: Councillor M. Ryan
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 And Resolved: “That, the draft Minutes, as circulated, be taken as read, adopted and signed”
@@ -118,7 +121,9 @@ others. Each centre would be supported by the various agencies including Local A
 Civil Defence, Red Cross, HSE, An Garda Siochana, etc.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 She outlined how it was proposed that Community Response Centres would be embedded
@@ -169,7 +174,9 @@ Proposed by: Councillor Teefy;
 Seconded by: Councillor E. Ryan;
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 And Resolved,
@@ -216,7 +223,9 @@ being sought by Limerick City & County Council for tree removing and re-surfacin
 the council-owned Kilmallock Business Park.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Reply:
@@ -265,7 +274,9 @@ proposed lease for a site at Kilteely Graveyard be finalised by Limerick City an
 Council.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -301,4 +312,6 @@ Signed:
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

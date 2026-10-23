@@ -16,26 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_6th_november_2014.pdf)
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 6th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_6th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_— Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-NEN. Ya . Cé na gCeannaithe,
+NEN. a . Cé na gCeannaithe,
 
 A = Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council
-‘ Merchants Quay,
 
-COUNCIL =
-imerick
+COUNCIL Merchants Quay,
+Limerick
+
 t: +353 (0) 61 407 100
-
-31° October, 2014. f: +353 (0) 61 415 266
+31° October, 2014. f; +353 (0) 61415 266
 
 To: THE CATHAOIRLEACH AND EACH MEMBER OF
 LIMERICK CITY AND COUNTY COUNCIL
@@ -47,15 +47,17 @@ Limerick City and County Council to be held in the Council Chamber,
 Dooradoyle, on Thursday, 6" November, 2014, at 10.30 a.m. to discuss the
 issue of Water Charges as set out in the attached Requisition.
 
-Eames
+Eamaet
 
 ings Administrator.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevew.timerick.ie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wvew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCourcil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 From: Quinlivan Maurice
@@ -90,4 +92,6 @@ Councillor Malachy McCreesh
 Printed/Hard copy with signatures will be dropped into Council later.
 
 
----
+
+[[PAGE_END:2]]
+

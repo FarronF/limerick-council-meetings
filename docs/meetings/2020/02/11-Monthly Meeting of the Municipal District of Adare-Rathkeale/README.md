@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th Fe
 
 Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th January 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-14th-january-2020.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20January%202020.md)
 
-Part 8 Procedure_ Deerpark & Rathkeale Road, Adare - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02-part-8-procedure-deerpark-rathkeale-road-adare.pdf) - Text not extracted
+Part 8 Procedure: Deerpark & Rathkeale Road, Adare - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/02-part-8-procedure-deerpark-rathkeale-road-adare.pdf) - Text not extracted
 
 Adare Local Area Plan 2015 - 2021 - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th February 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/03-a-adare-local-area-plan-2015-2021.pdf) - Text not extracted
 

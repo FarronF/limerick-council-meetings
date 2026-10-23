@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-9th-february-2026.pdf)
+**Original file:** [Minutes - Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 9th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-9th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
 **TOURISM AND PLANNING STRATEGIC POLICY COMMITTEE MEETING HELD ON MONDAY, 9th**
@@ -98,7 +99,9 @@ that rates are payable first before grant can be claimed and confirmed tattoo sh
 included on the scheme but accepted can be worthy establishments and advised that the
 
 Council has some discretion around what it includes on the scheme.
----
+
+[[PAGE_END:1]]
+
 •
 
 Cllr Keary asked what is the definition of an adult shop? Mr Troy advised that an adult shop
@@ -186,7 +189,9 @@ reason for the high court decision was based on the judge's opinion: - that lack
 the settlement was a valid reason to grant permission when a clear housing need was
 
 demonstrated.”
----
+
+[[PAGE_END:2]]
+
 Maria Woods, Senior Planner opened the discussion and gave an outline on the case at which point
 
 Carmel Brislane then gave a detailed presentation on the facts surrounding the case.
@@ -278,7 +283,9 @@ further indicated that the submitted motion did not accurately reflect the judge
 that the Development Plan policy already allows for Social and Economic need to be
 
 considered in accordance with National and Regional Policy.
----
+
+[[PAGE_END:3]]
+
 Ms Brislane advised she will make presentation available to all members.
 
 **Item 4**
@@ -352,4 +359,6 @@ The business of the meeting concluded at 4.15pm.
 **Signed: Cllr. P. Doyle, Chairperson**
 
 (Image omitted)
----
+
+[[PAGE_END:4]]
+

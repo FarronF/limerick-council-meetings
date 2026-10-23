@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-november-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 11th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-il Comhairle Cathrach
+_ _—l Comhairle Cathrach
 : & Contae Luimnigh
-ANS ~~ — —
+nN ~~ —&— —
 
 — Limerick City
 & County Council
@@ -31,12 +32,12 @@ ANS ~~ — —
 6" November, 2025.
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comnairie Cathvach agus Contae Lunnigh,
-Aras Séan Fawn,
+Comnairie Cathvach agus Contae Luinnigh,
+Aras Séan Fn,
 
 Une Nua,
 
-Rath Caola.
+Rath Caola,
 
 Ca. Luimnigh.
 
@@ -62,7 +63,7 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
 
-Tuesday 11” November, 2025 at 10.00 a.m. The business to be transacted is set out on the
+Tuesday 11 November, 2025 at 10.00 a.m. The business to be transacted is set out on the
 appended Agenda.
 
 Is mise le meas,
@@ -77,13 +78,15 @@ on 7™ October, 2025.
 (Copy Enclosed).
 2. Declaration of Interest
 & customerservices@limerick.ie
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach | © wwewlimerick.ie
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © wwewlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -113,18 +116,20 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor B. Collins
 
-I will move at the next Meeting that Limerick City and County Council hold a Civic Reception
+| will move at the next Meeting that Limerick City and County Council hold a Civic Reception
 to honour the contribution at both club and County level, of Declan Hannon on the
 announcement of his retirement from intercounty hurling.
 
 Notice of Motion submitted by Councillor J. O’Donoghue
 
-| will move at the next Meeting that Limerick City and County Council assist or remove any
+1 will move at the next Meeting that Limerick City and County Council assist or remove any
 dangerous or overhanging items that will potentially damage any current infrastructure
 along our road network.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will move at the next Meeting that Limerick City and County Council make provision for
@@ -133,4 +138,6 @@ apprentices in every code possible within the Local Authority.
 10. A.O.B
 
 
----
+
+[[PAGE_END:3]]
+

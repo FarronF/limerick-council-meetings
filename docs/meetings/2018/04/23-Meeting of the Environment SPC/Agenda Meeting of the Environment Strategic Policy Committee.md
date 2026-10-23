@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/23rd%20April%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
+**Original file:** [Agenda Meeting of the Environment Strategic Policy Committee.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/23rd%20April%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
 
----
+[[FILE_START]]
+
 **16th** **April 2018**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**
@@ -43,7 +44,9 @@ a.m. The business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -65,4 +68,6 @@ held on 26th February 2018.
 4. **Presentation on Energy Efficiency Improvements** **–** **Mr. Pat Stephens, Manager,**
 
 **Limerick Clare Energy Agency**
----
+
+[[PAGE_END:2]]
+

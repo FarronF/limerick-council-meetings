@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_inaugural_annual_meeting_of_the_metropolitan_district_of_limerick_-_16_june_2014.pdf)
+**Original file:** [Minutes of Inaugural Annual Meeting of the Metropolitan District of Limerick - 16th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_inaugural_annual_meeting_of_the_metropolitan_district_of_limerick_-_16_june_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ A vote was taken which resulted as follows :
 **For Councillor Sheahan**
 
 Councillors Butler, Byrne, Clifford, Collins, Crowley, Hourigan, Hurley, Lynch, O'Dea,
----
+
+[[PAGE_END:1]]
+
 O'Hanlon and Sheahan (11)
 
 **For Councillor Quinlivan**
@@ -178,7 +181,9 @@ Limerick.
 Proposed by Councillor Hourigan;
 
 Seconded by Councillor Collins;
----
+
+[[PAGE_END:2]]
+
 “That, Councillor Maria Byrne be appointed Deputy Mayor of the Metropolitan District of
 
 Limerick to hold office to the next Annual Meeting or until her successor is appointed”.
@@ -262,7 +267,9 @@ Councillors which was circulated to members and specifically to the one taking p
 Cork on 26th June. He said that Members who wished to attend same should inform
 
 Corporate Services Department accordingly.
----
+
+[[PAGE_END:3]]
+
 6.
 
 ANY OTHER BUSINESS
@@ -282,4 +289,6 @@ Riarthóir Chruinnithe
 Dáta:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

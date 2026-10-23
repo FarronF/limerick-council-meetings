@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20JPC%20Meeting%2011th%20Oct%2019.pdf)
+**Original file:** [Agenda - Meeting of the Limerick City and County Council Joint Policing Committee - 11th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20JPC%20Meeting%2011th%20Oct%2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ni Serdhisi Corpardideacha,
-ee Comhairle Cathrach Comhairle Cathrach agus Contae Lumnigh
-o—~ & Contae Luimnigh Ceanncheathni Chorparéidesch,
-ArN : Cé na gCeannsithe,
-— Limerick City ~ Lulmneach
+ot Sewbdhisi Corpardideacha,
+ee Comhairle Cathrach Comhairle Cathrach agus Contae Lulmnigh
+——~ & Contae Luimnigh Ceanncheathni Chorparéidesch
+ArN F Cé na gCeannaithe,
+= — Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -35,7 +36,7 @@ Limerick
 
 EIRCODE V94 EHSO
 
-7* October, 2019
+7” October, 2019
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
@@ -43,7 +44,7 @@ TO EACH MEMBER OF LIMERICK CITY AND COUNTY COUNCIL JOINT POLICING COMMITTEE
 
 A Chara,
 
-I wish to inform you that a —- of Limerick ide and 2 Council Joint seprhde Committee will
+I wish to inform you that a —- of Limerick ide and eT Council Joint dseprhdes Committee will
 take place in The Council Cit orpore
 
 Details of the Agenda and attachments to be discussed at the meeting are set out hereunder :
@@ -71,12 +72,14 @@ attached).
 
 @ customerservices@limerickie
 
-© vewrwimerickie
+© wowrwimerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10. To consider the following Question submitted by Councillor Michael Murphy :
@@ -93,4 +96,6 @@ out to each text alert group in each Garda District in the Limerick Garda Divisi
 very few text alerts”.
 
 
----
+
+[[PAGE_END:2]]
+

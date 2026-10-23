@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28c%29%20Minutes%20Special%20Meeting%20080118%20v2.pdf)
+**Original file:** [Minutes Special Meeting - Full Meeting of Limerick City and County Council - 8 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28c%29%20Minutes%20Special%20Meeting%20080118%20v2.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -74,7 +75,9 @@ Adare from the proposed new Limerick-Foynes Road. He introduced the following:
 A PowerPoint presentation was given by Ms. Mary Fitzgerald, Mr. Gearoid Costelloe and Ms.
 
 Julie Tiernan under the following headings:
----
+
+[[PAGE_END:1]]
+
 **2**
 
  Importance of the Fitzgerald’s Woodlands House Hotel to the local area.
@@ -140,7 +143,9 @@ Adare.
  While in favour of the by-pass, Members stated that they would not support any
 
 proposal which could result in a loss of jobs.
----
+
+[[PAGE_END:2]]
+
 **3**
 
  The importance of the Fitzgerald’s Woodlands House Hotel to the local area was
@@ -202,7 +207,9 @@ with a number of alternatives considered.
 would have to stand over the design proposals with An Bord Pleanála.
 
  An Bord Pleanála would be the ultimate decision-maker.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 The Director, Physical Development, confirmed that there would be a further design update
@@ -224,4 +231,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

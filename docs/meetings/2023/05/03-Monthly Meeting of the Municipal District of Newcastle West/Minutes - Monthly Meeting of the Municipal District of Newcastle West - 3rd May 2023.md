@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01%202023-04-05%20Minutes%20April.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01%202023-04-05%20Minutes%20April.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ West, held on 1st March, 2023.
 Proposed by: Councillor Foley
 
 Seconded by: Councillor Scanlan
----
+
+[[PAGE_END:1]]
+
 2
 
 And Resolved:
@@ -168,7 +171,9 @@ the Schedule. They noted the works proposed for 2023 and referred to the funding
 made available for the various projects, which was also welcomed. They also noted that the
 
 works proposed in the Schedule was well distributed throughout the District.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members referred to the funding made available for the N21 Newcastle West and
@@ -248,7 +253,9 @@ which is to be brought to the Working Group. He stated that the culvert in Grove
 to be reviewed as part of the scheme. He made reference to landowner agreements which
 
 are currently in progress and to a Tender which is to be issued in Quarter 2 2023. He outlined
----
+
+[[PAGE_END:3]]
+
 4
 
 to the Members the funding made available for the project and to potential funding which is
@@ -318,7 +325,9 @@ allocate €1,250 to defibrillator in Templeglantine.
 On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agreed to allocate
 
 €2,000 to Tournafulla GAA.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agreed to allocate
@@ -366,7 +375,9 @@ All the Members noted that the monies allocated to Tournafulla GAA is given on t
 that it will be used for community facilities and that the money is not over allocated for the
 
 works required.
----
+
+[[PAGE_END:5]]
+
 6
 
 QUESTIONS
@@ -516,7 +527,9 @@ follows:
 **3**
 
 **0**
----
+
+[[PAGE_END:6]]
+
 7
 
 **Feenagh**
@@ -670,7 +683,9 @@ recommended option. As an improvement measure, signage was installed on the R515
 Dore’s Cross and are currently developing a feasibility report for submission to TII. This
 
 feasibility report will look at a number of potential improvements at the junction and aim
----
+
+[[PAGE_END:7]]
+
 8
 
 to identify a preferred option. Assuming this report is accepted by TII, we will then
@@ -744,7 +759,9 @@ Submissions received have been considered and will be reflected in the Public Re
 Dromcollogher Town. The intention is to have the Plan brought to the Newcastle West
 
 Municipal District Meeting for publication in Quarter 2 of this year.
----
+
+[[PAGE_END:8]]
+
 9
 
 12.
@@ -806,7 +823,9 @@ it was agreed that the Senior Executive Engineer would revert to Councillor Galv
 matter.
 
 15. Notice of Motion submitted by Councillor J. Scanlan
----
+
+[[PAGE_END:9]]
+
 10
 
 ***I will move at the next Meeting that this Local Authorities vacancy and dereliction section***
@@ -872,7 +891,9 @@ published by the TII on Greenway crossings and following discussion it was agree
 drawings would be prepared and a submission made to the TII for a Road Safety Audit to be
 
 carried out at this location.
----
+
+[[PAGE_END:10]]
+
 11
 
 An update was sought on a one way system for Scanlan’s Lane, Newcastle West towards
@@ -916,4 +937,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

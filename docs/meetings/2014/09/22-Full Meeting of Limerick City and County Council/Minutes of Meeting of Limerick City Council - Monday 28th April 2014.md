@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20minutes_of_meeting_of_limerick_city_council_-_monday_28th_april_2014.pdf)
+**Original file:** [Minutes of Meeting of Limerick City Council - Monday 28th April 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20minutes_of_meeting_of_limerick_city_council_-_monday_28th_april_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ITEM NO.
@@ -71,7 +72,9 @@ wording he was recommending the adoption of the Joint Traveller Accommodation Pr
 2014 — 2018. The recommended change to the wording be amended to read as follows :
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rhebogue Group Housing
@@ -126,7 +129,9 @@ Cllr. McCarthy agreed with the previous speakers and also with Cllr. O'Hanlon's 
 senior official be appointed to deal with this group housing.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr. Kennedy fully supported the previous speakers adding that very genuine complaints were
@@ -185,7 +190,9 @@ a proposal for an alternative entrance for St. Patrick's G.A.A. Club examined. H
 sustainable solution has to be found and said he would abide by the intentions of this Council.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Her Worship the Mayor, Cllr. K. Leddin thanked the Members for their comments and also the
@@ -240,7 +247,9 @@ On the proposition of Cllr. Kiely, seconded by Cllr. Long, it was unanimously ag
 which were circulated, be and the same are hereby confirmed”.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. CHAIRMAN'S REPORT, SPECIAL MEETING OF ENVIRONMENTAL
@@ -268,7 +277,7 @@ Boherbuoy Brass and Reed Band
 Cecilian Musical Societ
 College Players Theatre Compan
 Filibusters Productions
-John Lidd'
+John Lidd
 Limerick Choral Union
 Limerick School of Music (Concerto Concert Project
 Limerick Theatre and Performance Hub
@@ -279,32 +288,31 @@ Richard Harris International Film Festival
 St Johns Brass and Reed Band
 Street Line Critics
 
-Ey
+ey
 =
-ac
-Ey
-ro
+~~
+&
+rel
 a
 
-eT
+Fiona Burke
+
 B |5 |*
 eo
 
-io] ro)
-g. E |
+~] roa)
+g. E\z
 5 ols
-° 2
-Zz Als
-6 |Z 18
-> |F Ig
+° 2 is
+Z Als
+6 1218 Be
+> 5 Ig
 2. 3
 =
 
--
+—
 
 s
-
-Fiona Burke
 
 Aaron Lawless
 
@@ -312,7 +320,9 @@ Angie Smalis
 
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 "That Limerick City Council bring the Limerick Culture Garden back to Limerick after the
@@ -372,7 +382,9 @@ Integrated Design Team Services as part of Major Capital Works Framework for
 Development at Palm Court, Southill;
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 * Thomond Bridge & Abbey River Quay Walls Remedial Works—Prequalification for
@@ -385,7 +397,7 @@ approve Disposal of Property as follows in accordance with Notices already circu
 Section 183 of the Local Government Act, 2001 and Section 211 of the Planning and Development
 Acts 2000 — 2013 :
 
-(a) Disposal of Freehold (Ground Rent) under Section 26 of the Landlord and Tenant (Ground
+(a) _ Disposal of Freehold (Ground Rent) under Section 26 of the Landlord and Tenant (Ground
 Rents) (No. 2) Act, 1978 as per attached Section 183 Notices.
 
 8. PARTICIPATION BY MEMBERS AT CONFERENCES
@@ -427,7 +439,7 @@ Held in the Millrace Hotel, Bunclody, Co. Wexford
 
 Sth - 10th May, 2014
 
-Estimated Travel and Subsistence : €325.78
+Estimated Travel and Subsistence: €325.78
 
 Conference Fee : €120.00
 
@@ -442,7 +454,7 @@ Estimated Travel and Subsistence: €411.73
 
 Conference Fee : €100.00
 
-Seminar organised by BG Seminarz "Managing Change in Local Government”
+Seminar organised by BG Seminarz "Managing Change in Local Government"
 Held in the Quality Hotel, Killarney, Co. Kerry
 
 9th - 11th May, 2014
@@ -450,7 +462,9 @@ Held in the Quality Hotel, Killarney, Co. Kerry
 Estimated Travel and Subsistence: €349.71
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Conference Fee : €140.00
@@ -469,7 +483,7 @@ AND TO CONSIDER THE ADOPTION OF SAME
 
 The Head of Finance gave a presentation on Small and Medium Business Support Scheme 2014.
 
-In reply to Cllr. Byrne, the Head of Finance stated that this Scheme is open to everybody and
+In reply to Clir. Byrne, the Head of Finance stated that this Scheme is open to everybody and
 applies to all areas in the city.
 
 Cllr. J. Leddin welcomed this Scheme adding that Limerick has now been declared the cheapest city
@@ -513,7 +527,9 @@ Members clarifies the position in relation to the erection of posters and if any
 to be causing a road safety risk then they will be removed.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. SOCIAL INTERVENTION GRANTS 2014
@@ -521,15 +537,15 @@ to be causing a road safety risk then they will be removed.
 It was proposed by Cllr. Kiely, seconded by Cllr. J. Leddin and unanimously agreed to approve
 Social Intervention Grants 2014 as follows :
 
-i
+i i
 
 Recommended
 
-rer loersemee ler —
+err eee —
 Centre
 
-Bee Resource Centre | Services & Supports for the
-a the Unemployed unemployed
+Bes Resource Centre | Services & Supports for the
+a- the Unemployed unemployed
 
 Southill Afterschools Club | Homework & educational
 Ltd support
@@ -544,11 +560,11 @@ Centre Facilities
 a
 
 Education Group Ltd
-eel een iol
+eel ceeaeindl hl
 
 Centre
 
-————
+——
 Development Project
 Tait House Community Provision of community €22,000
 Enterprise(formerly Southill | facilities & services
@@ -557,17 +573,17 @@ Development Co-op
 
 Moyross Community Provision of community €28,000
 Enterprise Centre Ltd facilities & services
-11 _| Moyross Residents Forum
+_11 __| Moyross Residents Forum
 
-Ya ee
+Pa oe
 
 Residents Group
 
-Pee aeons ee
+Pee eens ee
 Management
 
 114 | Our Lady of Lourdes CSG __| Estate Management Office
-r15 | St. Marys Aid Ltd
+45 | St. Marys Aid Ltd
 
 16. | PLANNING PROPOSALS AND DECISIONS
 
@@ -586,7 +602,9 @@ and 14 no. 4 bedroom duplex units to 7 no. 2 bedroom duplex units, 6 no. 3 bedro
 and 7 no. 2 bedroom apartments; (ii) improvements to the external facade including the provision of
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 set back terraces to apartments on the second floor; (iii) demolition of an existing apartment unit
@@ -600,7 +618,7 @@ Submitted the following Notice of Motion, due notice of which was given, which w
 the relevant Area Committee :
 
 “Given the risk to the safety of children attending St. Brigid's School from cars breaking the lights
-at the junction of the Childers Road and the Old Singland Road, that a second school traffic warden
+at the junction of the Childers Road and the Old Singland Road, that a second schoo] traffic warden
 be immediately deployed at this junction”. Signed : Cllr. Diarmuuid Scully
 
 19. NOTICE OF MOTION
@@ -646,7 +664,9 @@ honoured to be able to address all present on what is a historic occasion. She e
 the past and present members and staff of Limerick City Council for their contribution to the
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 development of the city over hundreds of years. In the period since the establishment of Limerick
@@ -707,7 +727,9 @@ management and staff, both past and present, for their outstanding contribution 
 economic development of Limerick City down through the years. He said he was confident that the
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 new Local Authority would continue to guide the destiny of this ancient and celebrated city for
@@ -728,7 +750,7 @@ well served with esteemed Mayors going back to 1197 and before and he welcomed t
 office of the Mayor and status of the Mayor will continue.
 
 Cllr. J. Leddin, on his own behalf and on behalf of the Labour Party, joined with Cllr. Scully in
-congratulating Her Worship the Mayor, Cllr, K. Leddin on an excellent year as Mayor. He
+congratulating Her Worship the Mayor, Cllr. K. Leddin on an excellent year as Mayor. He
 specifically referred to the lange number of functions/events which she attended in a professional
 and dignified manner adding that she attended more events than any other previous Mayor. He
 wished her every health and happiness in her retirement. He welcomed former Minister O'Malley,
@@ -767,7 +789,9 @@ been elected and is very proud of the work he does and looked forward to working
 Council.
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr. Kennedy said he wished to avail of this historic opportunity to express his thanks and
@@ -814,9 +838,13 @@ CONFIRMED THIS CM DAYORLO 2014".
 MAYOR OF LIMERICK
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:14]]
+

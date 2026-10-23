@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20September%202022.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 19th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20September%202022.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -95,7 +96,9 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **2.Disposal of Land**
 
 To note proposal for the disposal of land as follows:
@@ -181,7 +184,9 @@ Development Act, 2000 (as amended) and Part 8 of the Planning and Development Re
 Scheme.
 
 (Report Enclosed).
----
+
+[[PAGE_END:2]]
+
 3
 
 **(b)Part 8 Procedure – Fr Russell Road Cycle Lane Scheme**
@@ -237,7 +242,9 @@ what is the timeframe for planning and delivery of units.
 I will ask Limerick Metropolitan Council how much is outstanding in vacant site levies in the
 
 Metropolitan area, and how much has been collected since 2020.
----
+
+[[PAGE_END:3]]
+
 4
 
 **9.Question submitted by Councillor S. Benson**
@@ -289,7 +296,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick, for a b
 incurred to date, the proposed overall budget, and the source of this funding, associated with works
 
 on Childers Road Bridge, due to start in October, 2022.
----
+
+[[PAGE_END:4]]
+
 5
 
 **15.Question submitted by Councillor C. Slattery**
@@ -343,7 +352,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 festoon lighting? Is this lightning from a sustainable and energy efficient source and to ask if such
 
 lighting can be installed permanently around the Parnell Street/Davis Street area.
----
+
+[[PAGE_END:5]]
+
 6
 
 **21.Question submitted by Councillor E. O’Donovan**
@@ -399,7 +410,9 @@ I will move at the next Meeting that Limerick Metropolitan Council invite the CE
 Port to update Members on the Company’s Masterplan for Limerick Docklands, including the
 
 planned redevelopment of the former Bannatyne building.
----
+
+[[PAGE_END:6]]
+
 7
 
 **28.Notice of Motion submitted by Councillor S. Benson**
@@ -463,7 +476,9 @@ I will move at the next Meeting of the Metropolitan District of Limerick for zeb
 installed at St. Michaels National School and the Barrington Street entrance to People’s Park to
 
 provide safety for pedestrians in this area.
----
+
+[[PAGE_END:7]]
+
 8
 
 **34.Notice of Motion submitted by Councillor E. O’Donovan**
@@ -475,4 +490,6 @@ on Riverfest 2022 with a full breakdown of expenditure from last year so to plan
 **35.Correspondence**
 
 (Copy of Correspondence Enclosed)
----
+
+[[PAGE_END:8]]
+

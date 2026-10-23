@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20September%202015.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 17th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -67,7 +68,9 @@ Committee. The Administrative Officer, Economic Development & Planning agreed
 to circulate the Members details on the role of the Management Committee.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 nN
@@ -97,7 +100,7 @@ NOTICES OF MOTION
 Limerick City and County Council carry out road repair works at The Bridge,
 Bruff in the interest of road safety of vehicles.
 
-The Motion was proposed by Councillor O' Donnell and seconded by Councillor
+The Motion was proposed by Councillor O° Donnell and seconded by Councillor
 Donegan.
 
 REPLY: Under an active road opening licence, the contractor was instructed
@@ -106,14 +109,16 @@ Bruff. He carried out the repair works during the last week of August.
 
 4. Notice of Motion submitted $s h
 
-| will move at the next Meeting that the Municipal District of Cappamore-
+! will move at the next Meeting that the Municipal District of Cappamore-
 Kilmallock invest €10,000 into community based youth initiatives to be
 organised by Limerick Youth Service. This fund was allocated for a Special
 Innovation Project as part of the 2015 General Municipal Allocation
 Discretionary Budget.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was proposed by Councillor Sheehy and seconded by Councillor
@@ -162,7 +167,9 @@ Paudie Quish, from Hospital Handball Club following their recent success in the
 World Championship coinciding with the November Monthly Meeting.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members thanked Mr. Lehane for all his hard work, courtesy and co-operation
@@ -178,4 +185,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:4]]
+

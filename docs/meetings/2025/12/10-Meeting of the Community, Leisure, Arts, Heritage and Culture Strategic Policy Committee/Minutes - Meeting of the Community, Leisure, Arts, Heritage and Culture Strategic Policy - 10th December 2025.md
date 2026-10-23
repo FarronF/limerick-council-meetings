@@ -16,16 +16,17 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-10th-december-2025.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy - 10th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-10th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a cll pore
+a ley oreo
 & Contac Luimni
-AN f ™
+AN ™
 
-——
+—
 
 Limerick City
 & Coury Council
@@ -39,7 +40,7 @@ Council Chamber Dooradoyle and Online via Microsoft Teams.
 
 MEMBERS PRESENT:
 
-Chairperson: Cllr. Fergus Kilcoyne
+Chairperson: Clir. Fergus Kilcoyne
 Cllr. Azad Talukder
 Cllr. Brigid Teefy
 Cllr. Catherine Slattery
@@ -52,7 +53,7 @@ Clir. Michael Collins
 Clir. Olivia O'Sullivan
 Clir. Padraigh Reale
 Clir. PJ. Carey
-Clir. Sarah Beasley
+Cllr. Sarah Beasley
 Clir. Shane Hickey O'Mara
 Mr. Padraig Lohan
 Mr. John Ward
@@ -74,12 +75,14 @@ Ms. Joanna O'Donoghue, Staff Officer
 Ms. Aisling Coughlan, Assistant Staff Officer
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Am
+ams
 
-—
+——a
 
 oa Comhairle Cathrach
 & Contae Luimnigh
@@ -104,7 +107,7 @@ Item2: Matters Arising
 
 The Chairperson expressed appreciation to Director of Service Stéphane Duclot as he
 transitions to the Planning Department and extended a warm welcome to the two new
-Directors, Brian McCarthy and Sedn Lenihan, who were present at the meeting. Both
+Directors, Brian McCarthy and Sein Lenihan, who were present at the meeting. Both
 Directors were invited to introduce themselves to the members, which they did.
 
 Item 3: New Local Community Safety Partnership and the Pilot Community Safety
@@ -132,16 +135,18 @@ The Community Safety Co-Ordinator emphasised that the LCSP represents a pivotal
 move toward community-led safety, focusing on collaboration, transparency, and
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ArN
+aArN
 
-=——
+=—
 
-el Combhaine Cathrach
+re Combhairie Cathrach
 & Contae Lutmnigh
-wT” ™
+wT”~C™
 
 Limerick City
 & County Council
@@ -169,7 +174,7 @@ and will be introduced to communities through 2 press release. Wardens will be h
 visible on the streets.
 
 Cllr, C. Slattery queried whether wardens would work in pairs, what safety measures are
-in place, and their working hours.
+in place, anc their working hours.
 
 Mr. Moroney advised that a risk assessment has been completed, and lone working will
 not be permitted. Wardens will operate in pairs or groups of three and have received
@@ -195,32 +200,34 @@ Once the Community Safety Plan is developed, meetings with specific community gr
 will be arranged.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ae Comhairle Cathrach
 
 & Contae Luimnigh
 
-AN ff ™
-— Limerick City
+An f™
+= Limerick City
 
-= & Courny Council
+— & Courny Council
 
 Cllr. D. Butler asked if wardens will be on the streets before Christmas, given the short
 timeframe.
 
 The Co-Ordinator confirmed that uniforms are the final outstanding item and, once
-delivered, wardens will be deployed —expected next week.
+delivered, wardens will be deployed expected next week.
 
-Cllr. A. Talukder asked how wardens will communicate with Gardai and elected
+Cllr. A. Talukder asked how wardens will communicate with Garda/ and elected
 members.
 
 Mr. Moroney explained that wardens will use the ProWorks app to report issues, with
 emergencies handled via the standard 999 number. Wardens will also have mobile
 phones for contact, and meetings can be arranged as needed.
 
-Clir. G. Conway requested to be notified when wardens visit the Kilmallock area so he
+Cllr. G. Conway requested to be notified when wardens visit the Kilmallock area so he
 can introduce them to local community members and organisations.
 
 It was confirmed that while wardens will mainly operate in Limerick city centre, any rural
@@ -251,27 +258,31 @@ Limerick City and County Council’s submission. The consultation remains open u
 Friday, 12th December.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-AN f™~
-—-=
+ANS ™
+—-=>
 
 Comhairle Cathrach
 & Comae
 
 Limerick City
-& Cowny Council
+& County Council
 
 The Chair and members acknowledged the challenges facing rural Limerick, including the
 closure of small local businesses which play a vital role in their communities. However,
 they also noted the positive changes already taking place in towns and villages such as
-Bruree and Kilmallock. The Town Regeneration Officer, the Town Team, and al! council
+Bruree and Kilmallock. The Town Regeneration Officer, the Town Team, and all council
 staff involved in these projects were commended for their excellent work in supporting
 rural development.
 
@@ -299,10 +310,12 @@ meetings will be circulated to members.
 
 Meeting ended at 4.30 pm
 
-Minutes Proposed By: _ CL. @ P QeAacz
-Minutes Seconded By:  L- @ b. Terry
+Minutes Proposed By: CL. @ P. QeAcz
+Minutes Seconded By: ( L. @ b. Terry
 
-Minutes Signed by Chair: 4h
+Minutes Signed by Chair: Cd
 
 
----
+
+[[PAGE_END:6]]
+

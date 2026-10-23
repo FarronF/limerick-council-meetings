@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_-_municipal_district_of_newcastle_west_-_4th_february_2015.pdf)
+**Original file:** [Minutes - Municipal District of Newcastle West - 4th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_-_municipal_district_of_newcastle_west_-_4th_february_2015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -100,7 +101,9 @@ notification of Members on Housing Allocations.
 In response to a query re the accessibility of the new footbridge in Newcastle West, the
 
 Director clarified that a ramp is included in the design, but has not yet been constructed.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -180,7 +183,9 @@ Towns Committee.
 The Committee asked if the Council would fund the balance from the General Municipal
 
 Allocation.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members thanked the delegation for their presentation and the delegation then withdrew
@@ -242,7 +247,9 @@ a.m. to 1 p.m. in Limerick. He stated that they were hoping for a positive respo
 that it was a wonderful opportunity to take ownership of the City and County.
 
 The Members praised and supported the initiative.
----
+
+[[PAGE_END:3]]
+
 4
 
 QUESTIONS
@@ -322,7 +329,9 @@ Question submitted by Councillor F. Foley
 provided in accordance with the National Roads Authority’s Design
 
 Standards. The scheme, on completion, was subject to Safety Audit and all
----
+
+[[PAGE_END:4]]
+
 5
 
 recommendations were incorporated.
@@ -398,7 +407,9 @@ next Meeting of the Municipal District.
 ***a safety hazard for users.***
 
 **`**
----
+
+[[PAGE_END:5]]
+
 6
 
 In proposing the Motion, Councillor Collins stated that the bridge had become a Health
@@ -476,4 +487,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Cathaoirleach**
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

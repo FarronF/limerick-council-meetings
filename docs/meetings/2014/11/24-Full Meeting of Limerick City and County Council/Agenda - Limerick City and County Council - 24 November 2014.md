@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20agenda_-_limerick_city_and_county_council_-_24_november_2014.pdf)
+**Original file:** [Agenda - Limerick City and County Council - 24 November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20agenda_-_limerick_city_and_county_council_-_24_november_2014.pdf)
 
----
+[[FILE_START]]
+
 **19th November, 2014.**
 
 **To:**
@@ -88,7 +89,9 @@ To consider proposal for the disposal of land at:
 20, Linden Court, Kennedy Park, Limerick.
 
 (Statutory Notices dated 4th November, 2014)
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -150,7 +153,9 @@ To note correspondence received from the Association of Irish Local Government
 (AILG).
 
 (Copy Enclosed)
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -232,7 +237,9 @@ Association at Gortboy, Newcastle West, in accordance with Section 6(2)(a) of th
 Housing (Miscellaneous Provisions) Act, 1992.
 
 (Report Enclosed)
----
+
+[[PAGE_END:3]]
+
 4
 
 7.
@@ -318,7 +325,9 @@ on 5th/6th December, 2014.
 Seminar ‘Charities, Regulation and Legislation’ to be held in Clonakilty, Co. Cork,
 
 on 5th/6th December, 2014.
----
+
+[[PAGE_END:4]]
+
 5
 
 (o)
@@ -384,7 +393,9 @@ policy, procedure, transparency and correct governance have been applied to this
 disposal of Council property and that the process of appointments to the new Board of
 
 Directors of the Limerick Arts and Cultural Centre Limited was also properly applied.
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTION
@@ -466,7 +477,9 @@ I will move at the next meeting that the speed limits for residential estates be
 from 50 km/h to 30 km/h on a phased basis in order to ensure the safety of children at
 
 play and general pedestrian population.
----
+
+[[PAGE_END:6]]
+
 7
 
 Notice of Motion submitted by Councillor E. Secas
@@ -550,7 +563,9 @@ Gaelic style font will be used in order to differentiate between the Irish and E
 names on these signs. This will be implemented on a basis of new signage required, and
 
 will not require the replacement of any signs due to this bye-law alone.
----
+
+[[PAGE_END:7]]
+
 8
 
 Notice of Motion submitted by Councillor J. Sheahan
@@ -616,7 +631,9 @@ I will move at the next Meeting that a Committee be established comprising Membe
 from all parties represented on this Council to organise and arrange events for the
 
 Centenary of the 1916 Rising.
----
+
+[[PAGE_END:8]]
+
 9
 
 Notice of Motion submitted by Councillor L.M. Sheehy
@@ -632,4 +649,6 @@ change the full Council Meeting sittings from bi-monthly to monthly.
 **Correspondence.**
 
 (Copy of Correspondence Enclosed)
----
+
+[[PAGE_END:9]]
+

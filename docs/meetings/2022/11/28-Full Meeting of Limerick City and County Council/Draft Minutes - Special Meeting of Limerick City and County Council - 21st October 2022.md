@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28c%29%20Draft%20Minutes%20Special%20Meeting%2021.10.2022%20%28Land%20Tax%29.pdf)
+**Original file:** [Draft Minutes - Special Meeting of Limerick City and County Council - 21st October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28c%29%20Draft%20Minutes%20Special%20Meeting%2021.10.2022%20%28Land%20Tax%29.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE,
@@ -78,7 +79,9 @@ consideration as follows:
  The need to activate residential development land for housing in a timely manner, to
 
 meet the Housing For All plan;
----
+
+[[PAGE_END:1]]
+
 2
 
  RZLT was announced in Budget 2022 and is part of the Finance Act 2021;
@@ -162,7 +165,9 @@ from the map, or alternatively may also make a submission to include land which 
 on a map. She outlined that landowners can apply for referral, and noted there are 16
 
 settlements in Limerick City and County identified as meeting criteria for the Land Tax which
----
+
+[[PAGE_END:2]]
+
 3
 
 will be displayed in the map from 1st November 2022. The Senior Planner stated that if the
@@ -200,4 +205,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

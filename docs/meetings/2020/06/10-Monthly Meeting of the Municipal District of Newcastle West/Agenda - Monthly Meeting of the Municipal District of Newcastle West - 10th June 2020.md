@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
-“Ns — Limerick City
+_- — Limerick City
 merick City
 & County Council
 
@@ -31,9 +32,9 @@ merick City
 
 Diiche Bardais an Chaisleain Nua Thear,
 Comhairle Cathrach agus Contae Luimnagh
-Aras Witham Smith O'Brien.
+Aras Witam Smith O'Brien.
 
-Gorbut
+Gorbut.
 
 An Caisloan Nua Thar,
 
@@ -41,7 +42,7 @@ Co. Luimnigh,
 
 Newcastle West Municipal District.
 Limerick City and County Council
-Avas Wiliam Smith O'Brien,
+Azas Wiliam Smith O'Brien,
 Gortboy,
 
 Newcastle West,
@@ -59,12 +60,12 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 10” June, 2020,
-at 10,00 a.m. The business to be transacted is set out on the appended Agenda.
+at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-; Sg rote
-Mecaeced. &
+; bg vette
+Mecaeced. %
 Meetings Administrator.
 
 AGENDA
@@ -87,7 +88,7 @@ Abbeyfeale, Co. Limerick.
 
 To note Guidelines on the Community Initiative Scheme 2020.
 
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorpardéideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 (Report Enclosed)
@@ -95,7 +96,9 @@ Corporate Headquarters, Merchant's Quay, Limerick
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. General Municipal Allocation
@@ -144,11 +147,15 @@ Notices of Motion submitted by Councillor J. Scanian
 Newcastle West be conducted in the interest of public safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. | will move at the next Meeting that a safety audit be carried out on the derelict
 plant at Castlemahon.
 
 
----
+
+[[PAGE_END:3]]
+

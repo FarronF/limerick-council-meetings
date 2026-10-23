@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/03-minutes-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 1st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/03-minutes-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -84,10 +85,14 @@ Development Act, 2000 (as amended), in relation tothe **Refurbishment and Renova
 Proposed: Councillor Donegan
 
 Seconded: Councillor E Ryan.
----
+
+[[PAGE_END:1]]
+
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Cathaoirleach**
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

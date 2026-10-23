@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Minutes-Meeting-of-Limerick-City-and-County-Council-22nd-May-2023.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 22nd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Minutes-Meeting-of-Limerick-City-and-County-Council-22nd-May-2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -84,7 +85,9 @@ Seconded by Councillor Sheahan (J);
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 **Votes of Sympathy**
@@ -164,7 +167,9 @@ of Henry O’Neill, deceased, for the sum of €299.20, the disposal to be by wa
 Conveyance of the interest of Limerick City and County Council in the property, particulars of
 
 which were contained in Statutory Notice dated 24th March, 2023.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (c)
@@ -248,7 +253,9 @@ of which were contained in Statutory Notice dated 24th April, 2023.”
 Circulated, copy of Statutory Notice dated 24th April, 2023, concerning disposal of
 
 property at 75, Careys Road, Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Collins (M);
@@ -330,7 +337,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Kiely;
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -410,7 +419,9 @@ on 28th March, 2022 – applicable to the same property.”
 Circulated, copy of Statutory Notice dated 11th May, 2023, concerning disposal of
 
 property - Old School House, Grange, Kilmallock, Co. Limerick.
----
+
+[[PAGE_END:5]]
+
 6
 
 Proposed by Councillor Collins (M);
@@ -492,7 +503,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 €222,000, subject to the covenants and conditions contained within the contract, particulars
 
 of which were contained in Statutory Notice dated 9th May, 2023. This resolution rescinds
----
+
+[[PAGE_END:6]]
+
 7
 
 previous resolution relating to Statutory Notice dated 11th May, 2022 – passed at Council
@@ -570,7 +583,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Kiely;
 
 And Resolved:
----
+
+[[PAGE_END:7]]
+
 8
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -652,7 +667,9 @@ at Council Meeting on 26th September, 2022 – applicable to the same property.�
 Circulated, copy of Statutory Notice dated 9th May, 2023, concerning disposal of
 
 property at 58, St. Lawrence Park, Garryowen, Limerick.
----
+
+[[PAGE_END:8]]
+
 9
 
 Proposed by Councillor Collins (M);
@@ -732,7 +749,9 @@ Wolfe Tone Street, Kilmallock, Co. Limerick, to Tom Hennessy and Stephen Ryan, f
 of €65,000, subject to the covenants and conditions contained within the contract, particulars
 
 of which were contained in Statutory Notice dated 11th May, 2023.”
----
+
+[[PAGE_END:9]]
+
 10
 
 4.
@@ -808,7 +827,9 @@ And Resolved:
 by the Local Government Reform Act, 2014), the Annual Financial Statement for year ended
 
 31st December, 2022, for Limerick City and County Council, be and is hereby adopted.”
----
+
+[[PAGE_END:10]]
+
 11
 
 (c)
@@ -886,7 +907,9 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Galvin, Counci
 Sheahan (M) – (Limerick City East) - was appointed to the Board of PAUL Partnership Limerick
 
 CLG to fill the vacancy consequent on the resignation of Councillor Kiely from the Board.
----
+
+[[PAGE_END:11]]
+
 12
 
 The filling of the vacancy consequent on Councillor Benson’s resignation from the
@@ -962,7 +985,9 @@ details of the policies, programmes, services and other activities undertaken by
 It also included the Financial Statements for 2022 and an outline of activities to promote the
 
 interests of local communities and twinning.
----
+
+[[PAGE_END:12]]
+
 13
 
 Proposed by Councillor Sheahan (J);
@@ -1046,7 +1071,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:13]]
+
 14
 
 “That, in accordance with Section 142(5) of the Local Government Act, 2001, as
@@ -1124,7 +1151,9 @@ Circulated, report of the Director, Housing, dated 8th May, 2023, enclosing deta
 amendments to the Scheme of Priority for Affordable Dwelling Purchase Arrangements,
 
 together with copy of the amended Scheme of Priority for adoption by the Council.
----
+
+[[PAGE_END:14]]
+
 15
 
 Proposed by Councillor Sheahan (J);
@@ -1204,7 +1233,9 @@ application. The views of the Members were being sought and any recommendations 
 by the Members by way of resolution would be appended to the report sent to the Board,
 
 along with the administration record of the Meeting.
----
+
+[[PAGE_END:15]]
+
 16
 
 The Elected Members welcomed the proposed development works by Uisce Éireann for the
@@ -1280,7 +1311,9 @@ Participation by Members at Conferences
 Details of the following Conference had been circulated electronically to Members:
 
 The Suck Valley Way 2023 Conference held in Roscommon on 5th/6th April, 2023.
----
+
+[[PAGE_END:16]]
+
 17
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), the
@@ -1350,7 +1383,9 @@ Sheahan  ***(to be referred to Travel and Transportation Strategic Policy Commit
 It was agreed to refer this Motion to the Travel and Transportation Strategic Policy
 
 Committee for consideration.
----
+
+[[PAGE_END:17]]
+
 18
 
 12.
@@ -1432,7 +1467,9 @@ The Department of Agriculture investigates cases under the Animal Cruelty Act
 investigation team. A recent review by the Department concluded that to
 
 perform its duties effectively under this Act, “*a core group of highly-skilled and*
----
+
+[[PAGE_END:18]]
+
 19
 
 *trained investigators is needed to carry out any type of investigation to the*
@@ -1516,7 +1553,9 @@ strategy will include a review of the condition of the existing streetscape and
 will bring forward proposals to enhance our public areas and green spaces. As
 
 part of this review, a cross-departmental team has been convened to review
----
+
+[[PAGE_END:19]]
+
 20
 
 all street furniture including the parklets and build-outs put in place by the
@@ -1592,7 +1631,9 @@ Notice of Motion submitted by Councillor J. Sheahan
 On the proposal of Councillor Sheahan (J), seconded by Councillor Sheehan (C), the
 
 Motion was adopted.
----
+
+[[PAGE_END:20]]
+
 21
 
 **Suspension of Standing Orders:**  It was noted that the time was approaching 5.30 p.m., and
@@ -1652,7 +1693,9 @@ CHIEF EXECUTIVE’S ORDERS:
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
 available on SharePoint for inspection by the Members.
----
+
+[[PAGE_END:21]]
+
 22
 
 PLANNING AND DEVELOPMENT:
@@ -1670,4 +1713,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:22]]
+

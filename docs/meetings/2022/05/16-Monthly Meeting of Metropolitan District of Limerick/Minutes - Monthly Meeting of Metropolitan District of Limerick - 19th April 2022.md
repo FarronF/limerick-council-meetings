@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Draft%20Minutes%20Monthly%20Meeting%2019th%20April%202022.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Draft%20Minutes%20Monthly%20Meeting%2019th%20April%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON MONDAY, 19TH** **APRIL,**
@@ -88,7 +89,9 @@ setting out proposals to dispose of the Freehold Interest of premises consisting
 house situate at 28 Quins Cottages, Rosbrien, Limerick and the intention to bring a Section 183
 
 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -158,7 +161,9 @@ Limerick and the intention to bring a Section 183 Notice to Full Council in this
 approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 **3.Community Initiative Scheme - General Municipal Allocation (GMA)**
@@ -328,7 +333,9 @@ Southill Women’s Group
 Woodhaven Residents Association
 
 500
----
+
+[[PAGE_END:3]]
+
 4
 
 **Limerick City West**
@@ -506,7 +513,9 @@ CARI Foundation Ennis Road
 Coonagh Infant Burial Ground
 
 500
----
+
+[[PAGE_END:4]]
+
 5
 
 Coonagh Sports and Social
@@ -662,7 +671,9 @@ Geraldines FC
 Irish Wildlife Trust Limerick Branch
 
 750
----
+
+[[PAGE_END:5]]
+
 6
 
 Janesboro Tidy Towns
@@ -846,7 +857,9 @@ Patrickswell NS
 Patrickswell Tidy Towns
 
 1500
----
+
+[[PAGE_END:6]]
+
 7
 
 Raheen Active Retired
@@ -1008,7 +1021,9 @@ St Mary’s NS Bishop Street
 Thomondgate Residents Association
 
 1000
----
+
+[[PAGE_END:7]]
+
 8
 
 **QUESTIONS**
@@ -1090,7 +1105,9 @@ construction would commence in Q4 2022.
 out extensive consultation to inform the preparation of the Draft Zoning Map for the area.
 
 In order to comply with national and regional planning policy in terms of achieving compact
----
+
+[[PAGE_END:8]]
+
 9
 
 growth, numerous sites were rezoned to deliver residential development and meet the
@@ -1164,7 +1181,9 @@ An electronic brochure of One Opera Square was circulated as part of the respons
 ***the process to complete master plan for the Limerick 2030 Cleeves site and what is the timeframe***
 
 ***for completing this master plan.***
----
+
+[[PAGE_END:9]]
+
 10
 
 **REPLY**: There has been a lot of excellent work done in the preparation of the delivery of the Cleeves
@@ -1244,7 +1263,9 @@ in house selection.
 **13.Question submitted by Councillor S. Hartigan**
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for a report on how***
----
+
+[[PAGE_END:10]]
+
 11
 
 ***procurement works for energy retrofitting works undertaken by the Council and whether there***
@@ -1322,7 +1343,9 @@ necessity for crossing, by pedestrians from the existing Pelican crossing on Upp
 Street and from Barrington Street. There is also a layby at Pery Square for school buses to
 
 park at the same side of school entrance, which also reduces the need of crossing. Limerick
----
+
+[[PAGE_END:11]]
+
 12
 
 City and County Council have no current plans to install a pedestrian crossing in this location
@@ -1392,7 +1415,9 @@ forthcoming Climate Action Plan.
 ***to city centre active travel project.***
 
 **REPLY**: Limerick Active Travel has been liaising with the NTA on updated preliminary design
----
+
+[[PAGE_END:12]]
+
 13
 
 drawings. We are now progressing environmental assessments, landscape plans and
@@ -1468,7 +1493,9 @@ In proposing the Motion, Councillor Kiely highlighted the need for a library ser
 should be given to providing a temporary premises so as to provide a service to the community.
 
 **REPLY**: The need for a library for Castletroy was identified as a priority action in the new Limerick
----
+
+[[PAGE_END:13]]
+
 14
 
 Library Development Plan published June 2021.
@@ -1542,7 +1569,9 @@ developments, in accordance with the new Limerick City and County Development Pl
 It was agreed to refer this Notice of Motion to the Protocol Committee.
 
 **23.Notice of Motion submitted by Councillor J. Leddin**
----
+
+[[PAGE_END:14]]
+
 15
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick***
@@ -1620,7 +1649,9 @@ continuing to consult with the EPA in relation to the investigation and associat
 ***for properties by investment funds and the impact that this is having on potential first time***
 
 ***buyers.***
----
+
+[[PAGE_END:15]]
+
 16
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Collins and
@@ -1698,7 +1729,9 @@ type of tenure
 confirmation that First Time Buyers are not engaging/bidding on the property. If it is
 
 confirmed that First Time Buyers are bidding, the Housing Directorate will not support the
----
+
+[[PAGE_END:16]]
+
 17
 
 unit under Long Term Lease.
@@ -1766,7 +1799,9 @@ further requests for public toilets in our Parks will require funding to be made
 **28.Correspondence:**
 
 Correspondence was noted and taken as read.
----
+
+[[PAGE_END:17]]
+
 18
 
 This concluded the Meeting.
@@ -1780,4 +1815,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:18]]
+

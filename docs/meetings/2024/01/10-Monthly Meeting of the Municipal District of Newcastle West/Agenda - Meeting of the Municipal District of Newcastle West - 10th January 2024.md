@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-10th-january-2024.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 10th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-newcastle-west-10th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Duliche Bardais an Chaisiedin Nua Thiar.
-& Contae Luimnigh Comhamte Cathrach agus Contae Luimnich.
+Comhairle Cathrach Duliche Bardais an Chaisiedin Nua Thiar,
+& Contae Luimnigh Comhamte Cathrach agus Contae Luimnigh.
 
-= ——_ Aras William Smith O'Brien,
+a ——_ Aras William Smith O'Brien,
 
 Gortbui,
-—=— Limerick City An Caislean Nua Thiar,
+—=—> Limerick City An Caislean Nua Thiar,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District.
 Limerick City and County Council,
-Aras William Smith O'Brien
+Aras William Smith O'Brien.
 Gortboy
 
 Newcastle West,
@@ -72,14 +73,16 @@ to Cluid Housing Association.
 
 (Report Enclosed)
 
-mi customorservicesa@limerickie
+i customorservices@limerickie
 Ceanncheathna Chorpardideach, Cé na gCeannaithe, Luimneach © www limerick ie
 
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
-( 061 - 556 000
+( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -101,12 +104,12 @@ I will ask at the next Municipal District Meeting for the footpath to be extende
 Mountcollins to Eircode V94NFR8 approximately at West End, Mountcollins, Co.
 Limerick,
 
-t will ask at the next Municipal District Meeting for the footpath to be extended out
+! will ask at the next Municipal District Meeting for the footpath to be extended out
 the Abbeyfeale road R524 from Athea as far as the Meadow View Estate, Athea.
 
 | will ask at the next Municipal District Meeting for an update on (a) Devon Road Cross,
 Templeglantine, (b) The laying of double white lines at the Forge Cross from
-Templeglantine towards Abbeyfeale (Templeglantine junction towards the G.AA,.
+Templeglantine towards Abbeyfeale (Templeglantine junction towards the G.AA.
 field), (c) Bus shelters at Templeglantine village, Devon Road Cross and Killarney Road,
 Abbeyfeale.
 
@@ -124,7 +127,7 @@ to be completed at Daar River View, Newcastle West.
 
 Questions submitted by Councillor F. Foley
 
-I will ask at the next Meeting when the footpaths in West End, Mountcollins will
+| will ask at the next Meeting when the footpaths in West End, Mountcollins will
 commence.
 
 | will ask at the next Meeting for an update on the N21 road overlay in Abbeyfeale
@@ -134,7 +137,9 @@ from Mountmahon to Joy's Corner.
 village is planned for 2024.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -146,7 +151,7 @@ village is planned for 2024.
 NOTICES OF MOTION
 Notices of Motion submitted by Councillor L. Galvin
 
-1 will move at the next Municipal District Meeting for a pedestrian entrance to be
+I will move at the next Municipal District Meeting for a pedestrian entrance to be
 sought at the bridge dividing Ballaugh and Dromtrasna to access the Greenway.
 
 | will move at the next Municipal District Meeting for a survey to be carried out on all
@@ -164,7 +169,7 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 I will move at the next Meeting that Limerick City and County Council extend the
 public footpath on the Glin Road from Athea Village, the Galeside Estate to Tim
-Scanlon‘s House, Athea.
+Scanlon's House, Athea.
 
 Notices of Motion submitted by Councillor F. Foley
 
@@ -175,4 +180,6 @@ Roads Programme as this will be part of the Town Plan.
 Hazelgrove Estate, Newcastle West for the 2024 works programme.
 
 
----
+
+[[PAGE_END:3]]
+

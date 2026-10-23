@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/00-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ Comhairle Cathrach Diiiche Bardais an Chaisledin Nua Thiar,
-Comnhairle Cathrach agus Contue Luimnigh,
+_—_ Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiar,
+Com)nairie Cathrach agus Contue Luimnigh,
 
-& Contae Luimnigh pe ed on aaa Bd
-ANON 4 . ee Gortbul,
+& Contae Luimnigh pe el by caanere Bd
+ANON 4 . ee Gortbuf,
 —=—> Limerick City . An Caisiean Nua Thiay,
 
 & County Council Co. Luimnigh.
@@ -42,9 +43,9 @@ Newcastle West.
 
 Co. umerick.
 
-Earcode: V42EH173
+Encode: V42EH73
 
-29°" September, 2023 t: +353 (0) 69 62100
+29*" September, 2023 t: +353 (0) 69 62100
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -53,8 +54,6 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 4" October,
 2023, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
-
-ae
 
 Martin Curran,
 Meetings Administrator.
@@ -76,15 +75,17 @@ To consider the Chief Executive’s Report dated 13" of September 2023 on the
 submissions received on the Material Alterations to the Draft Abbeyfeale Local Area
 Plan 2023 -2029 and decide whether or not to make or amend the Draft Local Area
 
-a ee
+a eee
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach Www. limerick. te
 Corporate Headquarters, Merchant's Quay, Limerick
 
 @LimerickCouncil
-\ 061-556 000
+\ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Plan, in accordance with Section 20 (3)(n) of the Planning and Development Act 2000
@@ -117,7 +118,7 @@ To review position in relation to allocations under the General Municipal Alloca
 
 QUESTIONS
 
-submi llor J. Scan
+submii llor J. Scan
 
 | will ask at the next Meeting for the actual rainfall level for Newcastle West town
 from 2.45 p.m., to 4.30 p.m., for the 10™ September.
@@ -130,7 +131,9 @@ comprehensive and immediate survey of the storm water infrastructure of
 Newcastle West town.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -151,10 +154,10 @@ locations of Newcastle West as there is grass growing up the sides of the footpa
 We had over 30,000 visitors to the Castle last year and we do not want to project an
 image of an unkempt town.
 
-F_ MOTION
+F MOTION
 Notices of Motion submitted by Councillor J. Scanian
 
-! will move at the next Meeting that location identifier points be placed along the
+| will move at the next Meeting that location identifier points be placed along the
 Limerick Greenway in the interest of health and safety.
 
 | will move at the next Meeting that Limerick City and County Council provide funding
@@ -178,4 +181,6 @@ Notice of Motion submitted by Councillor M. Collins
 the speed limit at the Ballagh side.
 
 
----
+
+[[PAGE_END:3]]
+

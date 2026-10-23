@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%20Minutes%20MD%20Annual%20Meeting%2013th%20%20June%202019.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 13th  June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%20Minutes%20MD%20Annual%20Meeting%2013th%20%20June%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
@@ -49,7 +50,7 @@ The Members thanked the outgoing Cathaoirleach for his hard work and efforts in 
 previous twelve months and the professional manner he had chaired meetings and the way
 he had represented the Municipal District at functions and events.
 
-1. —_ Election of Cathaoirleach of the Municipal District
+1. Election of Cathaoirleach of the Municipal District
 
 The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach of the
 Municipal District for the coming year.
@@ -66,7 +67,9 @@ elected as Cathaoirleach of the Municipal District of Cappamore-Kilmallock. The 
 congratulated Cllr Donegan on his election and wished him well for the year ahead.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On taking the Chair, Councillor Donegan thanked his Proposer and Seconder and said he was
@@ -115,4 +118,6 @@ This concluded the Meeting.
 Signed:
 
 
----
+
+[[PAGE_END:2]]
+

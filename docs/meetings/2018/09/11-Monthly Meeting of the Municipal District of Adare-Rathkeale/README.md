@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th Se
 
 Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20Minutes%2010th%20July%2C%202018.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20July%202018.md)
 
-Chief Executive Report_ Part VIII Adare Heritage Centre - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/02%20Chief%20Executive%20Report%20-%20Part%20VIII%20Adare%20Heritage%20Centre.pdf) - Text not extracted
+Chief Executive Report: Part VIII Adare Heritage Centre - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/02%20Chief%20Executive%20Report%20-%20Part%20VIII%20Adare%20Heritage%20Centre.pdf) - Text not extracted
 
 Disposal of land at Adare, Co. Limerick - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th September 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/03%20Disposal%20of%20land%20at%20Adare%2C%20Co.%20Limerick.pdf) - Text not extracted
 

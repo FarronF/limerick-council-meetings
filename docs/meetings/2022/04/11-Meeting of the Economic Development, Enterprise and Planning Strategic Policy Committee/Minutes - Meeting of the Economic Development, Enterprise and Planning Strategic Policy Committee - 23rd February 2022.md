@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/minutes-of-spc-mtg-23rd-feb-2022.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 23rd February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/minutes-of-spc-mtg-23rd-feb-2022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD ON WEDNESDAY, 23rd** **FEBRUARY,**
@@ -90,7 +91,9 @@ Murray that monies in the development fund only covered capital projects. He sta
 refer their concerns regarding the maintenance of playgrounds to the Community, Tourism and
 
 Culture Directorate, who dealt with this matter.
----
+
+[[PAGE_END:1]]
+
 **Item 3**
 
 **To consider Notice of Motion referred from Council meeting held on 24th** **January, 2022 submitted**
@@ -176,7 +179,9 @@ The MWREP replaced the Regional Action Plan for Jobs 2015-2017, which secured fu
 Engine Collaboration Centre, the Future Mobility Campus in Shannon and the National Bio-Economy
 
 Campus in Co. Tipperary.
----
+
+[[PAGE_END:2]]
+
 While members welcomed the presentation and commended the level of collaboration between the
 
 stakeholders, they expressed concern over the lack of skilled workforce / trained apprentices to take
@@ -244,4 +249,6 @@ That concluded the business of the meeting.
 **Councillor Jerome Scanlan,**
 
 **Deputy Chairperson**
----
+
+[[PAGE_END:3]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-13th-january-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 13th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-13th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-wae Comhairle Cathrach
+wel Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -30,12 +31,12 @@ wae Comhairle Cathrach
 8" January, 2026.
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comhairle Cathwach agus Contae Luimnigh.
-Aras Séan Fir.
+Comnhairie Cathwach agus Contac Luimnigh.
+Aras Séan Finn.
 
 Line Nua,
 
-Ratn Cacla,
+Rath Cacla,
 
 Co. Luimnigh.
 
@@ -86,10 +87,12 @@ Corporate Headquarters, Merchants Quay, Limerick.
 (Copy Enclosed).
 
 @LimerickCouncil
-{ 061 - 556 000
+\ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -101,10 +104,9 @@ To update Members on issues of interest in the District.
 (Report Enclosed).
 
 Rural, Community, Culture and Tourism Development
-
 Bank of Ireland Building, Askeaton
-
 To receive a presentation from Damien Brady, Limerick City and County Librarian on the
+
 proposed re-purposing of the Bank of Ireland building in Askeaton.
 
 Bank of Ireland Premises, Rathkeale
@@ -127,4 +129,6 @@ of road network across all Districts.
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

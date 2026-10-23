@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-ii-minutes-special-meeting-02.11.2021.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 2nd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-ii-minutes-special-meeting-02.11.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -80,7 +81,9 @@ confirmed that the Government had set a target of 300,000 homes to be delivered 
 next decade for social, affordable and cost rental, private rental and private ownership
 
 housing, supported by over €4 billion in funding annually.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 She then gave a PowerPoint presentation to the Members summarising the Affordable
@@ -160,7 +163,9 @@ Economic Strategies (RSESs).
 location and place typology in accordance with Sustainable Residential Development in
 
 Urban Areas, issued as statutory Guidelines for Planning Authorities in 2009.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 5. Unit cost ceilings apply to proposals for affordable homes with a €375,000 cap per unit in
@@ -240,7 +245,9 @@ that no definition of affordability had been provided in the plan and that the D
 Housing, Local Government & Heritage should be asked to provide a definition of it. The
 
 Members also wanted clarification as to how the Metropolitan area of Limerick is defined and
----
+
+[[PAGE_END:3]]
+
 **4**
 
 was it based on the Metropolitan District of Limerick electoral boundary. They also queried
@@ -320,7 +327,9 @@ immediately extend or suspend a Development Plan review process that is currentl
 underway. It remains the case that there is generally a two year period within which to
 
 complete the process (with plan reviews that were under way during all or part of an 8-
----
+
+[[PAGE_END:4]]
+
 **5**
 
 week 'suspension' period from 29 March 2020 as a result of Covid, subject to up to a further
@@ -370,4 +379,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

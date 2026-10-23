@@ -24,5 +24,5 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Special Meeting of Municipal District of Adare-Rathkeale - 6th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_6th_march_2017_special_meeting.pdf) - [Extracted text](./Agenda%20-%20Special%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%206th%20March%202017.md)
+Agenda - Special Meeting of Municipal District of Adare-Rathkeale - 6th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_6th_march_2017_special_meeting.pdf) - Text not extracted
 

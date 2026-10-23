@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28a%29%20Minutes%20Annual%20Meeting%2026th%20June%2C%202018.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 26th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28a%29%20Minutes%20Annual%20Meeting%2026th%20June%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
@@ -84,7 +85,9 @@ participate in the proceedings.
 The outgoing Cathaoirleach, Councillor O’Donoghue invited nominations for the Office
 
 of Cathaoirleach for the coming year.
----
+
+[[PAGE_END:1]]
+
 2
 
 Proposed by Councillor Keary;
@@ -144,4 +147,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

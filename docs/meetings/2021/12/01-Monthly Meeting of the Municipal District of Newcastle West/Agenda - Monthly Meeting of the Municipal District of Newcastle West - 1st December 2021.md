@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-12-01-agenda-december-.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 1st December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-2021-12-01-agenda-december-.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_ ar Habra Cathrach
+_—_—_—_—" —- Cathrach
 ontae Luimnigh
-ans” , oe
+af” > i _
 
-—> Limerick City
+— Limerick City
 & County Council
 
-26 November, 2021
+26" November, 2021
 
-Duiche Bardais an Chaisledin Nua Thiar,
-Comhairle Cathrach agus Contae Luimnigh,
+Duiche Bardais an Chaisiedin Nua Thiar,
+Comhairle Cathrach agus Conae Luimnigh,
 Aras William Smith O'Brien,
 
 Gortbui,
 
-An Caisiean Nua Thier,
+An Caisiean Nua Thiar,
 
 Co. Luimnigh.
 
@@ -45,7 +46,7 @@ Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
-Newcastle West,
+Newcastle West.
 
 Co. Limerick
 
@@ -92,14 +93,16 @@ Facility CLG.
 Ceanncheathnii Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
-= acento
+= Te
 www.timerick.te
 
-@LirnerickCouncil
+@LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -144,17 +147,19 @@ for 2020 also be given as a comparison.
 
 Question submitted by Councillor J. Sheahan
 
-Iwill ask at the next Meeting for the full list of the current rates across the three
+\will ask at the next Meeting for the full list of the current rates across the three
 Housing Grant Schemes, which include Housing Aid for Older People, Mobility Aid
 Grant and the Housing Adaptation Grant Scheme.
 
-Question submitted by Councillor J, Scanian
+Question submitted by Councillor J. Scanian
 
 | will ask at the next Meeting when will the replication of property numbering at
 Daar River Walk and Daar River View, Newcastle West be resolved.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -170,7 +175,7 @@ Daar River Walk and Daar River View, Newcastle West be resolved.
 NOTICES OF MOTION
 . Galvin
 
-| will move at the next Meeting that road safety measures be put in place at Athea
+I will move at the next Meeting that road safety measures be put in place at Athea
 National School.
 
 | will move at the next Meeting that the Council improve the sight lines at Buckley's
@@ -193,4 +198,6 @@ Housing Adaption grants take place immediately and that Councillors be allowed
 participate in the review.
 
 
----
+
+[[PAGE_END:3]]
+

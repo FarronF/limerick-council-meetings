@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-2022-03-02-agenda-march.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 2nd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-2022-03-02-agenda-march.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiar,
-& Contae Luimnigh Comhairle Cathrach agus Contae Lulmnigh.
+—_ Comhairle Cathrach Duiiche Bardais an Chaisledin Nua Thiar,
+& Contae Luimnigh Comhairle Cathrach agus Contae Lulmnigh,
 Te Aras William Smith OBrien,
 
 —> Limerick City ; An Caisledn Nua Thiar,
@@ -68,17 +69,19 @@ Mr. Timothy Murphy.
 (b) To note proposal for the disposal of land at Clash North, Athea, Co. Limerick, to
 Mr. Marcin Kruszyna.
 
-(c) To note proposal for the disposal of land at Ballybehy South, Abbeyfeale, Co
+(c) To note proposal for the disposal of land at Ballybehy South, Abbeyfeale, Co.
 Limerick to Mr. Timothy Collins.
 
-(3 customerservices@limerick.te
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach © vevew timerick ie
+(© customerservices@limerick.te
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach © vevew timerick ic
 Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 ( 061 - $86 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (d) To note proposal for the disposal of 1— 10 Cois Na Féile, Abbeyfeale, Co.
@@ -100,7 +103,7 @@ Dromcollogher, Co. Limerick.
 (Reports Enclosed)
 Housing Directorate
 
-To consider the Chief Executive’s Report prepared pursuant to Section 179(3)(a) of the
+To consider the Chief Executive's Report prepared pursuant to Section 179(3)(a) of the
 Planning and Development Act, 2000 (as amended) and Part 8 of the Planning and
 
 Development Regulations, 2001 (as amended) in relation to Housing Scheme
@@ -125,7 +128,9 @@ To receive Update on Distributor Roads for Newcastle West and Abbeyfeale.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -162,11 +167,13 @@ Templeglantine National School.
 | will move at the next Meeting that this Council repair the floor of the bridge crossing
 the Greenway at Bill Kelly's next to Devon Road station.
 
-| will move at the next Meeting that the Council apply to the TIl to extend the footpath
+| will move at the next Meeting that the Council apply to the Tl to extend the footpath
 out to Dalton’s Cross on the N21 at Abbeyfeale.
 
 | will move at the next Meeting that either the Housing Agency or our Local Authority
 accommodate the provision of land for Private Sector Affordable Homes.
 
 
----
+
+[[PAGE_END:3]]
+

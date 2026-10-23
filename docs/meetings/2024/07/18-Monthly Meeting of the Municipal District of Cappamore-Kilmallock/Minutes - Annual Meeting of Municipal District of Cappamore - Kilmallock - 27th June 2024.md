@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/03-minutes-of-annual-meeting-27th-june-2024.pdf)
+**Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore - Kilmallock - 27th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/03-minutes-of-annual-meeting-27th-june-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF THE ANNUAL MEETING OF THE
@@ -82,7 +83,9 @@ Micheál Ryan were also noted but apologies given as they were unable to attend.
 An Leas Cathaoirleach outlined that he believed that it is important to give respect and
 
 get respect, and handed over to the Senior Executive Engineer.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Senior Executive Engineer outlined that the Director of Services sent his apologies
@@ -150,7 +153,9 @@ wished him well for the forthcoming year.
 The Cathaoirleach welcomed An Méara John Moran to the Cappamore-Kilmallock
 
 Municipal District and congratulated him on his new role.
----
+
+[[PAGE_END:2]]
+
 3
 
 An Méara outlined that there the task over the next couple of months is to convert the
@@ -200,4 +205,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

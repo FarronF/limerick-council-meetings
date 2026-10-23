@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%20Minutes%2028th%20February%202019%20JPC%20Sub-Committee%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 28th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/02%20Minutes%2028th%20February%202019%20JPC%20Sub-Committee%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF JOINT POLICING SUB COMMITTEE
@@ -64,7 +65,9 @@ ensuring that their vehicles were securely locked at all times and that no prope
 left on display in cars.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Superintendent also referred to the successful event that took place on the 12" February,
@@ -115,4 +118,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

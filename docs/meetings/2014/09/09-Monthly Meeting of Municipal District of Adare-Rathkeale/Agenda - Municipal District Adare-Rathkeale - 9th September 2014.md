@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20reply_to_question_-_municipal_district_of_adare-rathkeale_-_9th_september_2014.pdf)
+**Original file:** [Agenda - Municipal District Adare-Rathkeale - 9th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20reply_to_question_-_municipal_district_of_adare-rathkeale_-_9th_september_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LIMERICK CITY & COUNTY COUNCIL
@@ -43,13 +44,15 @@ A/Director of Service,
 Economic Development and Planning
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LIMERICK CITY & COUNTY COUNCIL
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
-Tuesday, 9"" September, 2014.
+Tuesday, 9" September, 2014.
 
 Question submitted by Councillor E. O’Brien
 
@@ -71,7 +74,9 @@ Director of Service
 Environment & Water Services.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LIMERICK CITY & COUNTY COUNCIL
@@ -126,13 +131,15 @@ Environment & Water Services
 
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 IMERICK CITY & NTY COUN
 
 September Meeting of the Municipal District of Adare-Rathkeale to be held on
-Tuesday, 9"° September, 2014.
+Tuesday, 9° September, 2014.
 
 Question submitted by Councillor E. O’Brien
 
@@ -151,7 +158,7 @@ the vicinity of the school gates. This plan involves the provision of single and
 yellow iines over a distance of around 250 metres. | informed Mr. McLoughlin that
 the Council would be happy to assist with this work but that there was a statutory
 
-. procedure to be followed before the lines could be put down. This procedure
+: procedure to be followed before the lines could be put down. This procedure
 required us to consult with the Gardai in advance. | will initiate this procedure
 
 immediately.
@@ -177,4 +184,6 @@ Finbarr Keyes,
 Senior Executive Engineer.
 
 
----
+
+[[PAGE_END:4]]
+

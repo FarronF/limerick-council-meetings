@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-online-monthly-meeting-of-the-metropolitan-district-of-limerick-19.07.2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-online-monthly-meeting-of-the-metropolitan-district-of-limerick-19.07.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach
+— Comhairle Cathrach
 —_ & Contae Luimnigh
-a — Limerick Ci
+adh — Limerick Ci
 merick City
 & County Council
 
@@ -60,7 +61,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-N\tere
+Mocks
 
 Mark Leahy,
 Meetings Administrator.
@@ -72,7 +73,7 @@ To adopt Minutes of the following Meetings:
 {a) | Monthly Meeting of the Metropolitan District of Limerick held on 21st June, 2021.
 (b) Annual Meeting of the Metropolitan District of Limerick held on 21* June, 2021.
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copies Enclosed).
@@ -83,7 +84,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Di of Land
@@ -98,12 +101,12 @@ Limerick.
 (c) Proposed Exchange of Property at 130 Delmege Park, Moyross and 56 Delmege Park, Moyross,
 Limerick.
 
-(d) Proposed Disposal! of 6 and 7 Gerard Street, Limerick.
+(d) Proposed Disposal of 6 and 7 Gerard Street, Limerick.
 
 (Reports Enclosed).
 3. Standing Orders-Remote Meetings
 4. Housing Directorate
-Procedure — R ID rig, Mi Li
+Procedure — Ri ID rig, M Li
 
 To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
 Development Act 2000 (as amended) and Part 8 of the Planning and Development Regulations,
@@ -128,10 +131,10 @@ possible to direct existing CCTV cameras, or install new CCTV cameras, to monito
 the city area.
 
 
----
-*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-7. Question submitted by Councillor S. Kiely
+[[PAGE_END:2]]
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how many Approved Housing
 Bodies are actively involved in housing in the city area and of said amount how many do not allow
@@ -173,7 +176,9 @@ of Metropolitan Councillors and the NTA regarding the public bike scheme, and if
 update on when the King John’s / Limerick Castle station will be reopened.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -199,7 +204,7 @@ public park areas in the Metropolitan District.
 
 17. Notice of Motion submitted by Councillor S. Kiely
 
-| will move at the next Meeting of the Metropolitan District of Limerick, that the record be
+1 will move at the next Meeting of the Metropolitan District of Limerick, that the record be
 corrected to reflect the accuracy of the Regeneration building program regarding the recent
 answer given to another Councillor which stated that Vizes Court, Wallers Well and Lord Edward
 Street developments are included in the numbers of houses built under the regeneration scheme
@@ -207,7 +212,7 @@ which is not accurate.
 
 18. Notice of Motion submitted by Councillor S. Kiely
 
-1 will move at the next Meeting of the Metropolitan District of Limerick that we write to Bus
+| will move at the next Meeting of the Metropolitan District of Limerick that we write to Bus
 Eireann and the NTA to ask why O'Malley Park, Southill is without a service after 6pm for 10 years
 now and insist that a service is restored as soon as possible.
 
@@ -218,7 +223,9 @@ increase in dog ownership, Limerick City and County Council carry out an intensi
 campaign to promote the purchase of dog licences in Limerick City and County.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ! will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
@@ -229,4 +236,6 @@ the longstanding connection between the two cities.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+

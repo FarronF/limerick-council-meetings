@@ -54,9 +54,9 @@ Chief Executive's Report - March 2017.pdf - [Original file](https://www.limerick
 
 Chief Executive's Report - April 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28a%29%20%28ii%29%20Chief%20Executive%20Report%20-%20April%202017.pdf) - Text not extracted
 
-Draft Annual Report 2016 - Report - Full Meeting of Limerick City and County Council - 29_05_17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28b%29%20%28i%29%20Draft%20Annual%20Report%202016%20-%20Report.pdf) - Text not extracted
+Draft Annual Report 2016 - Report - Full Meeting of Limerick City and County Council - 29/05/17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28b%29%20%28i%29%20Draft%20Annual%20Report%202016%20-%20Report.pdf) - Text not extracted
 
-Draft Annual Report 2016 - Full Meeting of Limerick City and County Council - 29_05_17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28b%29%20%28ii%29%20Draft%20Annual%20Report%202016.pdf) - Text not extracted
+Draft Annual Report 2016 - Full Meeting of Limerick City and County Council - 29/05/17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28b%29%20%28ii%29%20Draft%20Annual%20Report%202016.pdf) - Text not extracted
 
 Ballyhoura Development Correspondence.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28c%29%20Ballyhoura%20Development%20Correspondence.pdf) - Text not extracted
 
@@ -78,7 +78,7 @@ Additional Expenditure 2016.pdf - [Original file](https://www.limerick.ie/sites/
 
 Audit Committee Annual Work Programme 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28i%29%20Audit%20Committee%20Annual%20Work%20Programme%202017.pdf) - Text not extracted
 
-16_05_17 Report of Audit Committee on Statutory Audit Report for the Year 2015.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28j%29%20%28i%29%20160517%20Report%20of%20Audit%20Committee%20on%20Statutory%20Audit%20Report%20for%20the%20Year%202015.pdf) - Text not extracted
+16/05/17 Report of Audit Committee on Statutory Audit Report for the Year 2015.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28j%29%20%28i%29%20160517%20Report%20of%20Audit%20Committee%20on%20Statutory%20Audit%20Report%20for%20the%20Year%202015.pdf) - Text not extracted
 
 Audited Annual Financial Statement 2015.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/03%20%28j%29%20%28ii%29%20Auddited%20AFS%202015.pdf) - Text not extracted
 
@@ -98,7 +98,7 @@ City Riverway Engage Process - Riverway Crossing Proposal.pdf - [Original file](
 
 Living Limerick City Riverway Engage Presentation.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Living%20Limerick%20City%20Riverway%20Engage%20Presentation.pdf) - Text not extracted
 
-Conferences Report - Full Meeting of Limerick City and County Council - 29_05_17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/05%20%28ii%29%20Conferences%20Report.pdf) - Text not extracted
+Conferences Report - Full Meeting of Limerick City and County Council - 29/05/17.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/05%20%28ii%29%20Conferences%20Report.pdf) - Text not extracted
 
 Correspondence - Full Meeting of Limerick City and County Council - 29th May 2017.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/17%20Correspondence.pdf) - Text not extracted
 

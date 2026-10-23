@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-december-2024_0.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 10th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-december-2024_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ASKEATON CIVIC TRUST OFFICE, EAST SQUARE,**
@@ -88,7 +89,9 @@ It was noted as Councillor Collins is a nominee on this Council owned DAC she di
 a pecuniary or beneficial interest in the Part VIII proposed remodelling and extension of
 
 the Adare Heritage Centre.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -162,7 +165,9 @@ Centre go ahead subject to a maximum cost of ten million euro, the costs origina
 advised for the project. This was seconded by Councillor Keary, however, the Deputy
 
 Chief Executive advised that it was not possible to insert this caveat on the proposal.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Keary proposed to suspend Standing Orders in order to speak with Councillor
@@ -236,7 +241,9 @@ And Resolved:
 of four years, in accordance with the Mayor’s Report dated 29th November, 2024 and
 
 Section 19 of the Planning and Development Act 2000 (as amended)”.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -310,7 +317,9 @@ The delegation then withdrew from the Meeting.
 Older People grant scheme, which will no longer grant aid oil or gas boiler
 
 replacement. The Meetings Administrator advised the Department of Housing,
----
+
+[[PAGE_END:4]]
+
 5
 
 Local Government and Heritage guidelines are to provide funding for the repairs
@@ -330,4 +339,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

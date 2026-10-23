@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-council-meeting-28.03.2022.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 28th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-council-meeting-28.03.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__— Comhairie Cathrach sopnhonvte Cah pes Corpertideacha,
-: ry Comhairle Cathrac us © L r
-en 8 Contac Luimnigh Cearmcheativs: Chorporaideach,
-“ : Cé na gCeannaithe,
-— Limerick City Luimnesch
+_-e_e Comhairie Cathrach sophie Coa aonehiel Corpertideacha,
+: : Comhairle Cathrac jus © u r
+yo—~ © Contae Luimnigh Cearmcheathni Chorpardideach,
+A . Cé na gCeannaithe,
+— Limerick City Luimneach
 
 & County Council ;
 
@@ -39,7 +40,7 @@ Limerick
 
 EIRCODE V94 EHSO
 
-23 March, 2022. t; +353 (0) 61 57150
+23 March, 2022. t; +353 (0) 61 $57150
 f: +353 (0) 61415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -51,9 +52,7 @@ Council Chamber, Dooradoyle, and Online on Monday, 28" March, 2022, at 3pm. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-“Laura Flanpéry, _
-
-Meetings Administrator.
+—~Taura Flannéry, _
 
 AGENDA
 1. Minutes
@@ -71,13 +70,15 @@ To receive Deputation from Limerick Comhairle na nOg.
 
 fe
 
-© weve limarick.te
+© wewvelimarick.ie
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimmmeach w @LimerickCouncil
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimmeach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -122,13 +123,13 @@ Planning and Development Act, 2000 (as amended), at:
 
 (t) Moneymohill, Ballyhahill, Co. Limerick.
 
-({u) North Road, Coolaboy, Dromcollogher, Co. Limerick.
+(u) North Road, Coolaboy, Dromcollogher, Co. Limerick.
 (v) Former Garda Station, Mary Street, Limerick.
 
 (w) 1-10 Cois na Feile, Abbeyfeale.
 
 (Statutory Notices dated 21% January, 25" February, 1*, 3%,
-8". 14" and 16" March, 2022, already circulated)
+8'. 14" and 16" March, 2022, already circulated)
 
 Support Services
 (a) Chief Executive's Report
@@ -138,7 +139,9 @@ To consider Chief Executive’s Report for the months of January and February,
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -175,7 +178,7 @@ Strategic Policy Committee Reports
 To consider reports as follows:
 
 (i) Chairperson’s Report - Meeting of Economic Development, Enterprise
-and Planning Strategic Policy Committee held on 23 February, 2022.
+and Planning Strategic Policy Committee held on 23" February, 2022.
 
 (Chairperson’s Report Enclosed)
 
@@ -187,7 +190,9 @@ the development of a policy on the procurement of sustainable food
 and beverages, and catering services.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -233,7 +238,9 @@ Strategic Policy Committee held on 7" February, 2022.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -280,7 +287,9 @@ Development Committee.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -323,7 +332,9 @@ through Compulsory Purchase Order. The Council needs to refurbish these properti
 so that they can be allocated as soon as possible.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -357,7 +368,7 @@ when will work commence on the structure.
 NOTICES OF MOTION
 
 Notice of Motion submitted by the Municipal District of Cappamore-
-Kliimatiock - Councillors J. Egan (Proposer), P.J. Carey, M. Donegan, G.
+Klimatiock - Counciliors J. Egan (Proposer), P.J. Carey, M. Donegan, G.
 Mitchell, M. Ryan, B. Teefy
 
 We will move at the next Meeting that Limerick City and County Council Library Service
@@ -365,7 +376,7 @@ produce a document to commemorate local engagement in the Irish War of
 Independence in Limerick City and County, similar to the War of Independence West
 Cork Trail published by Cork County Council Library Service.
 
-| will move at the next Meeting that this Council put in place a working system for
+{| will move at the next Meeting that this Council put in place a working system for
 signing GDPR consent forms, The current system is not manageable in any event,
 especially emergencies. | will also call on the Minister for Housing, Local Government
 and Heritage to intervene and that this Motion be circulated to all Local Authorities.
@@ -378,7 +389,9 @@ adopted by the Council of Europe on 9 July 2014 in order to criminalise illegal 
 transplantations.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -400,7 +413,7 @@ situations.
 
 Notice of Motion submitted by Councillor O. O'Sullivan
 
-twill move at the next Meeting that the Council write to the Minister for Health, Mr.
+I will move at the next Meeting that the Council write to the Minister for Health, Mr.
 Stephen Donnelly, T.D., in support of Vicky Phelan’s call for the establishment of a
 Minister for Women’s Health, and to seek an update on the progress of the Patient
 Safety Bill.
@@ -413,7 +426,7 @@ Humphreys, TD, to provide Kildimo’s new Community Centre with the shortfall of
 €182,000 needed to complete the project as a result of Covid and recent inflationary
 construction cost increases,
 
-Notice of Motion submitted by Councillor J. Scanlan
+Notice of Motion submitted by Councillor J. Scantan
 
 | will move at the next Meeting that this Authority bring the cost of grave space in
 Rural County Limerick into line with that charged for graves in our neighbouring
@@ -430,4 +443,6 @@ safety needs of women in mind.
 Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

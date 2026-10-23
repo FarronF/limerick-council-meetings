@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Minutes%2020th%20November%202017.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Minutes%2020th%20November%202017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20TH** **NOVEMBER, 2017**
@@ -92,7 +93,9 @@ November, 2017 setting out proposals to dispose of the freehold interest in a dw
 18 Sycamore Avenue, Rathbane, Limerick and to bring a Section 183 Notice to Full Council in this
 
 regard, for approval. The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -176,7 +179,9 @@ looked at.
 Boundary from 80 km/hr to 100 km/hr to match the speed limit on the Tipperary side of the
 
 boundary.
----
+
+[[PAGE_END:2]]
+
 3
 
 • The high density and extent of school traffic at Ballybrown and it was noted that the request
@@ -258,7 +263,9 @@ street junction.
 ***I will ask at the next meeting when is it envisaged that the Committee established to oversee***
 
 ***the Northern Distributor Road will meet, in order to progress this vital piece of infrastructure.***
----
+
+[[PAGE_END:3]]
+
 4
 
 **REPLY**:
@@ -352,7 +359,9 @@ also invite visitors to bring gifts to donate to a local charity in Limerick.
 **4.Introduce a New Years Eve Event to Limerick** with a fireworks display on New
 
 Years Eve at King John’s Castle
----
+
+[[PAGE_END:4]]
+
 5
 
 **Audience**
@@ -440,7 +449,9 @@ to local charities, carol singers, musicians, buskers and choirs.
 **Christmas in Limerick:** Santa’s Postbox
 
 **Date:** 9th – 10th of December
----
+
+[[PAGE_END:5]]
+
 6
 
 **Time:** All Day
@@ -542,7 +553,9 @@ It has been reported that the Minister made a decision to omit cycling on
 footpaths from the penalties list for fear it would discourage families who cycle to
 
 school with their young children.
----
+
+[[PAGE_END:6]]
+
 7
 
 **NOTICES OF MOTION**
@@ -626,7 +639,9 @@ at €1m.
 The Council will engage with DTTAS to establish if funding could be sourced
 
 under the Specific Improvement Grant Scheme.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Council will also seek to ascertain if other relevant statutory or non statutory
@@ -676,4 +691,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

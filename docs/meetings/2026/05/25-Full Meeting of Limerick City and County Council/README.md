@@ -66,13 +66,13 @@ Raising of Loan - To fund the issuing of the Local Authority Home Loans (LAHL) b
 
 Raising of Loan - To fund Cost Rental Scheme at Newtown Avenue, Castletroy, Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/raising-of-loan-cost-rental-scheme-newtown-avenue.pdf) - Text not extracted
 
-Raising of Loan - To fund Cost Rental Scheme at Curry Lane_Broad Street, Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/raising-of-loan-cost-rental-scheme-curry-lane-broad-street.pdf) - Text not extracted
+Raising of Loan - To fund Cost Rental Scheme at Curry Lane/Broad Street, Limerick.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/raising-of-loan-cost-rental-scheme-curry-lane-broad-street.pdf) - Text not extracted
 
 Proposed Annual Report 2025 for Limerick City and County Council.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/limerik-city-and-county-council-annual-report-2025.pdf) - Text not extracted
 
 Report Recommendation - Halloween in Limerick 2026 Funding Open Call.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/report-recommendation-halloween-in-limerick-2026-funding-open-call.pdf) - Text not extracted
 
-Report Recommendation - Festivals and Events Grant Scheme 2026_2027.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/report-recommendation-festivals-events-grant-scheme-2026-2027.pdf) - Text not extracted
+Report Recommendation - Festivals and Events Grant Scheme 2026/2027.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/report-recommendation-festivals-events-grant-scheme-2026-2027.pdf) - Text not extracted
 
 Strategic Fund for Culture and Arts Recommendations.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/strategic-fund-for-culture-and-arts-recommendations.pdf) - Text not extracted
 
@@ -100,7 +100,7 @@ Local Authority Climate Action Plan 2024-2029 - Progress Report.pdf - [Original 
 
 Proposed Visit by Metro Delegation to Tallin, Estonia - June 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/proposed-visit-by-metro-delegation-to-tallin-estonia-june-2026.pdf) - Text not extracted
 
-Reports on Conference_ Seminar _ Meeting_ Event.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/reports-on-conferences.pdf) - Text not extracted
+Reports on Conference/ Seminar / Meeting/ Event.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/reports-on-conferences.pdf) - Text not extracted
 
 Replies to Notices of Motion - Full Meeting of Limerick City and County Council - 25th May 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-05/replies-to-notices-of-motion-full-meeting-of-limerick-city-and-county-council-25th-may-2026.pdf) - Text not extracted
 

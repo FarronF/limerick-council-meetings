@@ -16,20 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%202017-11-08%20%20Agenda%20%281%29.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 8th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%202017-11-08%20%20Agenda%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_— Comhairle Cathrach é _— aehtiy Corpertidenct,
-i 1 omhairle Cathrac agus Contae uimnigh.
-aAmN & Contae Luimnigh Ceanncheathri Chorpardideach,
-. . 5 Cé na gCeamnathe,
-— Limerick City Talneach
+_—_—_—_— Comhairle Cathrach é — apa sete y
+: : omhairle Cathrach agus Contae Luimnigh.
+ACN & Contae Luimnigh Ceanncheathra Chorpardideach,
+. . 5 Cé na gCeannathe,
+—= Limerick City Luimneach
 & County Council
 Corporate Services.
 Limerick City and County Council,
 Corporate Headquarters,
+
 Merchants Quay.
 Limerick
 
@@ -48,12 +50,12 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at Aras
 
-William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 8" November, 2017, at 10.00
+William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 8°" November, 2017, at 10.00
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Tors, kyo ee
+Tors, kyo aie
 
 Meetings Administrator.
 
@@ -74,14 +76,18 @@ To consider the Chief Executive’s Report prepared pursuant to Section 179(3)(a
 Planning and Development Act 2000, as amended, and Part Vill of the Planning and
 Development Regulations 2001, as amended, in relation to proposed incorporation of the
 Barnagh Tunnel and Viewing Area onto the Great Southern Greenway Limerick.
+
 = customerservices@limerick.te
-& wvew.limerick.te
+
+© wwwalimerick.te
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
+Corporate Headquarters, Merchants Quay, Limerick (061 - $$7150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -138,7 +144,9 @@ Notices of Motion submitted by Councillor J. Scanlan
 the Old Mill Ardagh, in the interest of safety.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -169,4 +177,6 @@ Notice of Motion submitted by Councillor S. Browne
 crossing in front of Broadford National School in the interest of safety.
 
 
----
+
+[[PAGE_END:3]]
+

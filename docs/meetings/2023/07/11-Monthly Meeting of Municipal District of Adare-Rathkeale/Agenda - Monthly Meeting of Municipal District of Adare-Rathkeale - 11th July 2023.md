@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ceantaer Bardasach Ath Dara-Rath Cacia,
-— Contes Uilewih Comhairle Cathrach agus comes Lay
-NEN 4 : , i” Line tun,
-— Limerick City Rath Cacla,
+— Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Cacia,
+& Contae Luimnigh Comhairie Cathrach agus = pha
+ar. 4 \ = : = Line Nua,
+— Limerick City Rath Cacia,
 = & County Council Co, Luimnigh
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council
-Aras Sean Firey
+Aras Sean Piney
 
 New Line,
 
@@ -59,7 +60,7 @@ AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 13" June,
+(a) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 13” June,
 2023.
 
 (b) Annual Meeting of the Municipal District of Adare-Rathkeale held on 19% June,
@@ -67,7 +68,7 @@ To adopt Minutes of the following Meetings:
 2023.
 (Copies Enclosed).
 2. Declaration of Interest
-aie eT
+——-€ €"T-
 Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach | www. limerickie
 Corporate Headquarters, Merchants Quay, Limerick.
 
@@ -75,7 +76,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -115,4 +118,6 @@ To review position in relation to allocations under the General Municipal Alloca
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

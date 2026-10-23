@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-a-minutes-of-monthly-meeting-9th-march-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th March, 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-a-minutes-of-monthly-meeting-9th-march-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD ON TUESDAY, 9TH** **MARCH, 2021 AT 9:30 A.M.**
@@ -86,7 +87,9 @@ The report, as circulated, was noted by Members.
 Circulated, report of the Senior Staff Officer, Housing Support Services, dated 5th
 
 February, 2021 setting out the position in relation the disposal of 0.046 hectares
----
+
+[[PAGE_END:1]]
+
 2
 
 situate at Loughill West, Co. Limerick to Nora & Bernadette Normile and the
@@ -154,7 +157,9 @@ completed. The Senior Executive Engineer advised the survey had been
 completed and agreed to discuss findings with the Roads Technician and revert to
 
 Members in due course.
----
+
+[[PAGE_END:2]]
+
 3
 
  Councillor O’Brien requested an update on progress to complete the footpath
@@ -224,7 +229,9 @@ carried out. The Senior Executive Engineer advised he has applied to the
 Transport Infrastructure Ireland for funding and will provide an update at the
 
 April Meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -290,7 +297,9 @@ City and County Council’s intentions are for the Burial Ground. This was secon
 Councillor Teksey and agreed.
 
 **QUESTION**
----
+
+[[PAGE_END:4]]
+
 5
 
 **8.**
@@ -370,7 +379,9 @@ In addition, Digital Services are coordinating the delivery of public WiFi
 networks in Adare, Askeaton, Croom, Foynes and Rathkeale, under the
 
 WiFi4EU initiative. The delivery of these networks has been delayed by the
----
+
+[[PAGE_END:5]]
+
 6
 
 current Covid Level 5 restrictions, but if public health advice permits we
@@ -444,7 +455,9 @@ Environmental Inspectors have these signs and they can be installed on
 request. Furthermore, stencils have also been placed on footpaths.
 
 Stencils are available to all Area Engineers.
----
+
+[[PAGE_END:6]]
+
 7
 
 The issuing of fines for dog fouling can be difficult to enforce and the
@@ -520,7 +533,9 @@ any regulation or bye-law made thereunder, request of the
 person his name and address and may request that any
 
 information given be verified;
----
+
+[[PAGE_END:7]]
+
 8
 
 (b) seize any dog and detain it in order to ascertain whether an
@@ -594,7 +609,9 @@ development would be deferred until 2026.
 Discussion ensued and Members all agreed they would not agree to any further social
 
 housing development projects for Pallaskenry in the future. The Director, Housing
----
+
+[[PAGE_END:8]]
+
 9
 
 Development informed Members their approval would have to be sought if further
@@ -638,4 +655,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

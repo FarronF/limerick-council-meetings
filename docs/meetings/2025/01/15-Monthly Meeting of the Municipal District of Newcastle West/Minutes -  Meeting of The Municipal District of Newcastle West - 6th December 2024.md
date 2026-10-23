@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2024.pdf)
+**Original file:** [Minutes -  Meeting of The Municipal District of Newcastle West - 6th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -92,7 +93,9 @@ Seconded by: Councillor Foley
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -164,7 +167,9 @@ over the decision not to fund oil boilers. A brief discussion took place and fol
 it was agreed by all the Members that the Director would write to the Minister for Housing,
 
 Local Government and Heritage with regard to this matter.
----
+
+[[PAGE_END:2]]
+
 3
 
 5.
@@ -232,7 +237,9 @@ The Council wishes to advise that there is only funding in place for the
 Consultants fees. The Council are exploring all avenues for funding the
 
 construction of the playground.
----
+
+[[PAGE_END:3]]
+
 4
 
 ADJOURNED NOTICE OF MOTION
@@ -304,7 +311,9 @@ Executive Engineer agreed to give an update on the issue at the January meeting.
 The Cathoirleach asked if a representative from Roads, Housing and Planning would come
 
 together to address the issues in Collins Park, Abbeyfeale.
----
+
+[[PAGE_END:4]]
+
 5
 
 A request was made to have speed ramps installed in Radharc na Feille, Pairc Luachra housing
@@ -338,4 +347,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

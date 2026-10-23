@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/221003%20Agenda%20SPC%20CLC.pdf)
+**Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 3rd October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/221003%20Agenda%20SPC%20CLC.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community, Leisure and Culture**
@@ -88,4 +89,6 @@ Date of next meeting
 **Community, Leisure and Culture SPC**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

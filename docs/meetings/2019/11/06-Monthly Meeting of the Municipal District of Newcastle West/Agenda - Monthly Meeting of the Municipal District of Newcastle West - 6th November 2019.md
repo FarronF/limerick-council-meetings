@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%202019-11-06-Agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 6th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%202019-11-06-Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+————ee Comhairle Cathrach
 = & Contae Luimnigh
-~~ Limerick City
-— imerick Ci
+~ Limerick City
+—> merick Ci
 & County Council
 
 1* November, 2019
 
-A Chomhairleoir, a chara,
+AChombhairleoir, a chara,
 
 Duiche Bardais an Chaisie4in Nua Thar,
-Comhatrte Cathrach agus Contae Luimnigh,
+Comhatrte Cathrach agus Contee Luimnigh,
 Aras William Smith O'Brien,
 
 Gortbut,
@@ -45,25 +46,23 @@ Newcastle West Municipal District.
 
 Limerick City and County Council,
 
-Aras ¥fitiaen Smith O'Brien,
+Aras ¥fitiarn Smith O'Brien,
 
 Gortboy,
 
 Newcastle West,
 
-Co. Limerick
+Co. Limerick.
 Eircode: V42EH73
 t: +353 (0) 69 62100
 
-Ie ve!
+IC Ve!
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 6" November,
 2019, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
-
-M sscarccttiny LO
 
 Meetings Administrator.
 
@@ -75,7 +74,7 @@ To adopt Minutes of the following Meetings:
 
 (a) Municipal District of Newcastle West held on 9" October, 2019.
 
-(b) Draft Budgetary Plan 2020 held on 23"? October, 2019.
+(b) Draft Budgetary Plan 2020 held on 23" October, 2019.
 
 2. Housing Development Directorate
 
@@ -93,7 +92,9 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions submitted by Councillor L. Galvin
@@ -129,7 +130,7 @@ undertaken at the Churchview Estate, Ballyagran.
 
 Questions submitted by Councillor M. Collins
 
-| will ask at the next Meeting can the paving outside “The Carry Out” off licence at the
+! will ask at the next Meeting can the paving outside “The Carry Out” off licence at the
 Square, Newcastle West, be repaired or reinstated to prevent accidents.
 
 ! will ask at the next Meeting for an update on the cctv and public wifi for Newcastle
@@ -140,7 +141,9 @@ monitor the bottle bank area outside the Newcastle West Civic Amenity Centre and
 is cctv installed there.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -149,13 +152,13 @@ is cctv installed there.
 
 17.
 
-I will move at the next Meeting that the Council change its policy within the Tier 5
+| will move at the next Meeting that the Council change its policy within the Tier 5
 Settlements for the village of Mountcollins.
 
-I will move at the next Meeting that the Council locate refuse bins within all the active
+| will move at the next Meeting that the Council locate refuse bins within all the active
 Cemeteries in our Municipal District.
 
-I will move at the next Meeting that immediate action is taken to secure the loose
+| will move at the next Meeting that immediate action is taken to secure the loose
 paving evident along Nash's Lane, off The Square, Newcastle West.
 
 twill move at the next Meeting that the speed ramps promised for Gortboy, Newcastle
@@ -166,4 +169,6 @@ Upper, Ballagh just beyond the Mass Rock to prevent a serious accident happening
 there.
 
 
----
+
+[[PAGE_END:3]]
+

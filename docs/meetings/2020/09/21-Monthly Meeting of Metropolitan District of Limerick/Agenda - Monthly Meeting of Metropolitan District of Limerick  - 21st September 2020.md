@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-monthly-meeting-21st-september-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick  - 21st September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-monthly-meeting-21st-september-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach Combisirie Camwach eps Conmeetuaneton
+el Comhairle Cathrach Combiirie Canwach emia Conmeetuanaton
 - . ¥
-wv” ™ & Contae Luimnigh Ceanncheathni Chorpardideach,
-AEN : P 1 Cé na gCeannaithe,
-—> Limerick City Lutmneach
+—~ & Contae Luimnigh Ceanncheathna Chorpardideach,
+APN : P : Cé na gCeannaithe,
+—> Limerick City Luénneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -33,17 +34,17 @@ Corporate Headquarters,
 Merchants Quay,
 Limerick
 
-EIRCODE V94 EH9O
+EIRCODE V94 EH90
 
 16" September, 2020.
 
 t +353 (0) 61 557150
-f: +353 (0) 61 415 266
+ft: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Dooradoyle, Limerick on Monday, 21° September, 2020 at 9.45 am.
+Council Chamber, Dooradoyle, Limerick on Monday, 21*t September, 2020 at 9.45 am.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -52,7 +53,7 @@ Is mise le meas,
 ony COn—
 James Clune,
 
-ng Administrator.
+ing Administrator.
 
 AGENDA
 
@@ -64,17 +65,19 @@ To adopt Minutes of the following Meetings :
 
 (b) Monthly Meeting of the Metropolitan District of Limerick held on 20th July, 2020.
 
-(c} Special Meeting of the Metropolitan District of Limerick held on 4'* September, 2020.
+(c) Special Meeting of the Metropolitan District of Limerick held on 4'* September, 2020.
 
 (Copies Enclosed).
 
 de
 © wewlimerickie
-Ceanncheathra Chorparéideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -117,7 +120,9 @@ of the Existing Playground at Castletroy, Limerick.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5. Economic Development Directorate
@@ -157,7 +162,9 @@ for the installation of new bus shelters and what locations in the Limerick City
 from this funding.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. Question submitted by Councillor J. Costelloe
@@ -199,7 +206,9 @@ Metropolitan Council meetings.
 Covid plans.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18. Question submitted by Councillor E. O’Donovan
@@ -243,13 +252,15 @@ Council compiles data on the demand for housing from people on the housing list 
 preference based on number of bedrooms required and publishes these figures.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 24. Notice of Motion submitted by Councillor D. McSweeney (to be referred to the Climate Action,
 Biodiversity and Environment Strategic Policy Committee)
 
-| will move at the next meeting of the Limerick Metropolitan District that Limerick City and County
+I will move at the next meeting of the Limerick Metropolitan District that Limerick City and County
 Council carry out a full review of the current 2015 Cemetery Bye-Laws.
 
 | will move at the next Meeting of the Metropolitan District of Limerick that this Council moves to
@@ -278,7 +289,9 @@ City Hall in purple for International Recovery Day on 30th of September, in supp
 of all those who have lost their lives to addiction and those who are in active recovery.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 30. Correspondence
@@ -286,4 +299,6 @@ of all those who have lost their lives to addiction and those who are in active 
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:7]]
+

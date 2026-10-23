@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Agenda%20Cultural%20SPC%205th%20March%202018.pdf)
+**Original file:** [Agenda - Meeting of the Cultural SPC - 5th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Agenda%20Cultural%20SPC%205th%20March%202018.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Cultural Services Directorate**
@@ -96,4 +97,6 @@ Any Other Business
 **Chairperson**
 
 **Cultural SPC, Limerick City & County Council**
----
+
+[[PAGE_END:1]]
+

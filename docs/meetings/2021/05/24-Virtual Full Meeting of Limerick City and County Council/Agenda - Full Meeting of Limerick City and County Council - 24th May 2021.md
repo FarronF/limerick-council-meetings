@@ -16,35 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-meeting-of-limerick-city-and-county-council-24.05.2021.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 24th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/00-agenda-meeting-of-limerick-city-and-county-council-24.05.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——
-—_—=>=>"
+el Comhairle Cathrach Comhairte Gsltanch nas Cen urion
+& Contae Luimnigh Ceanncheathru Chorpardideach,
 
-19” May, 2021.
-
-To:
-
-Comhairle Cathrach
-
-& Contae Luimnigh
-
-Limerick City
+NIN Se. Cé na gCeannaithe,
+— Limerick City Luimneach
 & County Council
-
-A Chomhairleoir, a chara,
-
-Seibhis{ Corparaideacha.
-
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathru Chorpardideach,
-
-Cé na gCeannaithe,
-
-Lummneach
 
 Corporate Services,
 
@@ -56,52 +39,50 @@ Limerick
 
 EIRCODE V94 EH90
 
-t #353 (0) 61 557150
+19” May, 2021. t: #383 (0) 61 557150
+
+To:
+
 f: 4353 (0) 61 415 266
+
+A Chomhairleoir, a chara,
 
 You are requested to attend an Online Meeting of Limerick City and County Council to be held on
 Monday, 24" May, 2021, at 3pm. The business to be transacted Is set out on the appended Agenda.
 
 Is mise le meas,
 
-4 tea
+4 dye
 
-Laura Flan
+/
+Laura cman
+inistrator.
+
 Meetings Adm
 
 1.
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
+AGENDA
 
 Minutes
-
 To adopt Minutes of the following Meetings:
 
-(a)
-(b)
-(c)
-(d)
-
-/
-x)
-
-Corporate Headquarters, Merchants Quay, Limerick
-
-Ordinary Meeting of the Council held on 22" March, 2021.
-Special Meeting of the Council held on 26" March, 2021.
-Special Meeting of the Council held on 7 April, 2021.
-Special Meeting of the Council held on 22™ April, 2021.
-
+(a) Ordinary Meeting of the Council held on 22° March, 2021.
+(b) Special Meeting of the Council held on 26" March, 2021.
+(c) Special Meeting of the Council held on 7 April, 2021.
+(d) Special Meeting of the Council held on 22™ April, 2021.
 (Copies Enclosed)
 
 m customerservices@limerickie
-© weevwelimerickie
+© woewlimerickie
 
-w @LimerickCouncil
-(061 - 557150
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -151,7 +132,9 @@ To consider Chief Executive’s Reports for the months of March and April 2021.
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b)
@@ -190,7 +173,7 @@ Strategic Policy Committee Reports
 To consider reports as follows:
 
 (i) Chairperson’s Report — Meeting of Climate Action, Biodiversity and
-Environment Strategic Policy Committee held on 13 April, 2021.
+Environment Strategic Policy Committee held on 13" April, 2021.
 (Chairperson’s Report Enclosed)
 
 Recommendation 1:
@@ -200,7 +183,9 @@ planting grant for community and voluntary groups similar to the
 Maintenance of Open Spaces Grant”
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -229,13 +214,13 @@ Full Council.
 
 Chairperson’s Report — Meeting of Travel and Transportation Strategic Policy
 Committee held on 20** April, 2021.
-(Chairperson’s Report Enclosed}
+(Chairperson’s Report Enclosed)
 
 Recommendation:
 
 “That Limerick City and County Council contact the Road Safety Authority to
 develop and deliver a communication / education campaign about safe and
-@ppropriate parking practices, with a focus on the dangers of parking on
+appropriate parking practices, with a focus on the dangers of parking on
 footpaths, cycle lanes and bus stops. Limerick City and County Council will
 reflect any such campaign across its communication channels”.
 
@@ -254,7 +239,9 @@ Planning Strategic Policy Committee held on 26" April, 2021.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -297,7 +284,9 @@ sewerage treatment plants in Co. Limerick; and (b) for a detailed programme of w
 sewerage treatment plants in Co. Limerick.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -351,7 +340,9 @@ parents whose children are engaging in such behaviour by means of fines and that
 fines would be recovered by way of attachment to earnings, if applicable.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -385,13 +376,11 @@ Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the H
 and Social Development Strategic Policy Committee)
 
 | will move at the next Meeting that Limerick Council write to the Minister for Housing,
-Local Government and Heritage, Darragh O’Brien TD and An Taoiseach, Micheal Martin TD
+Loca! Government and Heritage, Darragh O’Brien TD and An Taoiseach, Micheal Martin TD
 calling for the immediate termination of the current Planning and Development (Strategic
 Housing Developments) Regulations 2017.
 
-Notice of Motion submitted by Councillor E. Secas_
-
-1 will move at the next Meeting that this Council calls on the UL Hospitals Group to take
+| will move at the next Meeting that this Council calls on the UL Hospitals Group to take
 action now and lift restrictions in the Limerick Maternity Hospital so that women get the
 support they need throughout all the maternity stages.
 
@@ -408,4 +397,6 @@ work towards a more formal sister city / twin city relationship at some point in
 Correspondence
 
 
----
+
+[[PAGE_END:7]]
+

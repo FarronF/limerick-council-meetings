@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28i%29%20Agenda%20Adjourned%20September%20Meeting.pdf)
+**Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 28th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28i%29%20Agenda%20Adjourned%20September%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_—_—_ Comhairle Cathrach
+_—_—_—_" Comhairle Cathrach
 = & Contae Luimnigh
-x . . *
+ai : . .
 — Limerick City
 & County Council
 
@@ -61,7 +62,7 @@ at 3.00 p.m. in order to complete the September Council Meeting Agenda.
 
 As you are aware, the following items have been dealt with:
 
-No.1 Minutes.
+No. 1 Minutes.
 
 No. 2 Disposal of Land.
 
@@ -77,14 +78,16 @@ Is mise le meas,
 Christy O’Connor,
 Meetings Administrator.
 
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ Customerservices@limerickie
-© wwew.limerickie
+© www.limerickie
 
 @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

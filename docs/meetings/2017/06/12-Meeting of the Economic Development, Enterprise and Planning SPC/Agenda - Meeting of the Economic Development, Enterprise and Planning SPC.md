@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Meeting%20of%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%20-%2012.07.17.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Meeting%20of%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%20-%2012.07.17.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-6” June 2017
+6" June 2017
 
 To/Each Member of the Economic Development, Enterprise and Planning
 SPC
@@ -32,7 +33,7 @@ Dear Member,
 
 A meeting of the Economic Development, Enterprise & Planning Strategic Policy
 Committee will be held in the Council Chamber, City Hall, Merchants Quay,
-Limerick on Monday 12" of June 2017 at 2pm. Light refreshments will be
+Limerick on Monday 12” of June 2017 at 2pm. Light refreshments will be
 available from 1.30 pm.
 
 The Agenda is as set out hereunder and your attendance at this meeting is
@@ -58,7 +59,7 @@ approved and (b) a fee be introduced to recover the cost of reprocessing
 invalid planning applications.
 
 Metropolitan District of Limerick on the 18” of April 2017.
-Notice of motion submitted by Cilr C, Prendiville
+Notice of motion submitted by Cllr C, Prendiville
 
 ‘ will move at the next meeting of Limerick's Metropolitan District that the
 Council look to amend our development plan to ban the development of
@@ -77,4 +78,6 @@ Senior Executive Officer
 Economic Development
 
 
----
+
+[[PAGE_END:1]]
+

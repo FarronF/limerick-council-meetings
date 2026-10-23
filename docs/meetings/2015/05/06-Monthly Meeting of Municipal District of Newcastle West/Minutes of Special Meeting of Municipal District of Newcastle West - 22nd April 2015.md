@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03_draft_minutes_of_special_meeting_22nd_april2c_2015.pdf)
+**Original file:** [Minutes of Special Meeting of Municipal District of Newcastle West - 22nd April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/03_draft_minutes_of_special_meeting_22nd_april2c_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
@@ -74,7 +75,9 @@ Deputation from Abbeyfeale Community Development Association
 The Cathaoirleach welcomed the Deputation from Abbeyfeale Community
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -137,4 +140,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

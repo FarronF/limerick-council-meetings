@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2016th%20July%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 16th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2016th%20July%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corparaideacha,
 
 Comhairle Cathrach s
-a iy fibre rach ard Comhairle a —
+a fp flea peach Comhairle postbberbe bpm ——
 ~e™ Cé na gCearnnaithe,
 
 =— Limerick City Luimneach
 
-& County Council a
+& County Council ss eicee
 
 Limerick City and County Council,
 
@@ -40,19 +41,19 @@ Limerick
 
 EIRCODE V94 EH90
 
-To: The Mayor and each Member of the Metropolitan District of Limerick : 4353 (0) 61 57150
+To: The Mayor and each Member of the Metropolitan District of Limerick t: 4353 (0) 61 557150
 
 f; +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
-Council Chamber, Merchant's Quay, Limerick on Monday, 16" July, 2018 at 9.45 a.m. The business
+Council Chamber, Merchant's Quay, Limerick on Monday, 16"" july, 2018 at 9.45 a.m. The business
 to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Ch
+ar
 
 Orenoe
 James Clune,
@@ -63,7 +64,7 @@ AGENDA
 1. Minutes
 To adopt Minutes of the following Meetings :
 
-{a) Meeting of the Metropolitan District of Limerick held on 18” June, 2018.
+(a) Meeting of the Metropolitan District of Limerick held on 18” June, 2018.
 (b) Annual Meeting of the Metropolitan District of Limerick held on 25" June, 2018.
 
 (Copies Enclosed).
@@ -85,7 +86,9 @@ Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Capital Investment Directorate
@@ -133,7 +136,9 @@ A Fund All ions 2018
 To agree allocations under the GMA Fund 2018.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -188,7 +193,9 @@ commencement.
 ~ List the value of the contributions received per development.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -234,7 +241,7 @@ Corbally Community Park Enabling Association €15,000
 Kileely Autism €7,500
 Caherdavin Boys School Autism Unit €7,500
 
-Notice of Motion submitted by Cmhir. S. 6 Ceallaigh
+Notice of Motion submitted by Cmhir. S. O Ceallaigh
 
 | will move at the next meeting that the Metropolitan District of Limerick invite Irish Water
 
@@ -251,4 +258,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-metropolitan-district-of-limerick-22nd-april-2025.pdf)
+**Original file:** [Agenda  - Meeting of the Metropolitan District of Limerick - 22nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-metropolitan-district-of-limerick-22nd-april-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-££ Comhairle Cathrach
+a_i Comhairle Cathrach
 & Contae Luimnigh
-aAco™ _j_FHr
+aAc™ _FHOr
 — Limerick City
 & County Council
 
@@ -33,12 +34,12 @@ A Chomhairleoir, a chara,
 
 Seirbhisi Corparaideacha,
 
-Com)nairle Cathvach agus Contae Luimnigh,
+Comhairle Cathvach agus Contae Luimnigh,
 Ceanncheathna Chorparakiesch,
 
 Cé na gCeannaithe,
 
-Luirreveach
+Luirreyveach
 
 Corporate Services,
 
@@ -62,7 +63,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-mL
+cm CLI
 Meetings Administrator.
 
 AGENDA
@@ -78,7 +79,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
-m customerservices@limerick.ic
+mcustomerservices@limerick.ic
 © wrew timerick.te
 
 v @LimerickCouncil
@@ -86,7 +87,9 @@ v @LimerickCouncil
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.Declaration of Interest**
@@ -146,7 +149,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick what eng
 place with the owners of the site at 34 - 41 Catherine Street to determine when the construction
 
 and refurbishment of these key protected structures will be complete and ready for occupation.
----
+
+[[PAGE_END:2]]
+
 3
 
 **9.Question submitted by Councillor S. Beasley**
@@ -210,7 +215,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick that the
 Department provide us with a detailed breakdown of costs for Riverfest 2024 on an itemised, line-
 
 by-line basis.
----
+
+[[PAGE_END:3]]
+
 4
 
 **17.Question submitted by Councillor S. Hickey-O’Mara**
@@ -274,7 +281,9 @@ Direct Route Limerick and Transport Infrastructure Ireland to request automatic 
 recognition be installed at Limerick toll for adapted vehicles as it is in place in every other toll in
 
 Ireland.
----
+
+[[PAGE_END:4]]
+
 5
 
 **24.Notice of Motion submitted by Councillor E. O’Donovan (to be referred to the Economic**
@@ -350,4 +359,6 @@ Put up additional signage in communities.
 **30.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:5]]
+

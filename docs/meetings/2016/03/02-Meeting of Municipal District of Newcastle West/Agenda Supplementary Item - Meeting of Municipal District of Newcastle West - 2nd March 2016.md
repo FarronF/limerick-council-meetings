@@ -16,29 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Supplementary%20Item%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
+**Original file:** [Agenda Supplementary Item - Meeting of Municipal District of Newcastle West - 2nd March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Supplementary%20Item%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ae Cé na gCeannaithe,
+ile Cé na gCeannaithe,
 
 . —— Luimneach
 
-Limerick Corporate Services and Change Management.
+Limerick Corporate Services and Change Management,
 
 CITY & COUNTY Limerick City and County Council,
 
-COUNCIL laa S|
+COUNCIL ee
 imeri
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
-1* March, 2016
+1° March, 2016
 
 To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
 
@@ -60,7 +61,6 @@ Any inconvenience caused by this omission is regretted.
 
 Is mise le meas,
 
-(oe boo
 ina Knox,
 
 Meetings Administrator.
@@ -70,4 +70,6 @@ Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach é wow limerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

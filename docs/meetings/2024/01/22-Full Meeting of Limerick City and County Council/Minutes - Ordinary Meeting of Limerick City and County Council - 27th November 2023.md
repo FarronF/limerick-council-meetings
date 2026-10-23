@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-c-minutes-ordinary-meeting-limerick-city-and-county-council-27.11.2023.pdf)
+**Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 27th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-c-minutes-ordinary-meeting-limerick-city-and-county-council-27.11.2023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -90,7 +91,9 @@ Declaration of Interest
 The Meetings Administrator stated that, in line with Part 15 of the Local Government
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
----
+
+[[PAGE_END:1]]
+
 2
 
 Mayor of any declaration of interest in any item due for discussion at the Meeting. Councillor
@@ -174,7 +177,9 @@ And Resolved:
 amended), the approval of the Council be and is hereby given to the disposal of property at
 
 24, Flood Street, Pennywell, Limerick, to Sean Walsh, for the sum of €239.45, the disposal to
----
+
+[[PAGE_END:2]]
+
 3
 
 be by way of Deed of Conveyance of the freehold interest of Limerick City and County Council
@@ -258,7 +263,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 27, Hogan Avenue, Kileely, Limerick, to Ann McInerney, for the sum of €195.42, the disposal
 
 to be by way of Deed of Conveyance of the freehold interest of Limerick City and County
----
+
+[[PAGE_END:3]]
+
 4
 
 Council in the property, particulars of which were contained in Statutory Notice dated 27th
@@ -338,7 +345,9 @@ comprising 6m2 at Newtown Park, Castletroy, Limerick, to ESB Networks, for the s
 the ESB to discharge Limerick City and County Council’s legal costs up to €750 plus VAT -
 
 particulars of which were contained in Statutory Notice dated 9th November, 2023.”
----
+
+[[PAGE_END:4]]
+
 5
 
 (j)
@@ -420,7 +429,9 @@ And Resolved:
 2001 (as amended) and Section 211 of the Planning and Development Act, 2000 (as
 
 amended), the approval of the Council be and is hereby given to the disposal of land
----
+
+[[PAGE_END:5]]
+
 6
 
 comprising 0.111 hectares (0.27 acres) at Ballyvareen, Kildimo, Co. Limerick, to Mrs. Kathleen
@@ -504,7 +515,9 @@ And Resolved:
 2001 (as amended) and Section 211 of the Planning and Development Act, 2000 (as
 
 amended), the approval of the Council be and is hereby given to the disposal of 1-4 Toll
----
+
+[[PAGE_END:6]]
+
 7
 
 Cottages, Verdant Place, Limerick, to Aengus and Rioghna D’Arcy, for the sum of €120,000,
@@ -588,7 +601,9 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 27, Assumpta Park, Island Road, Limerick, to Ger and Geraldine Clancy, in consideration of
 
 Ger and Geraldine Clancy transferring the ownership of their property at 164, St. Munchins
----
+
+[[PAGE_END:7]]
+
 8
 
 Street, St. Mary’s Park, to Limerick City and County Council – (i) the disposal to be by way of
@@ -670,7 +685,9 @@ Statutory Notice dated 14th November, 2023.”
 Circulated, copy of Statutory Notice dated 14th November, 2023, concerning disposal of
 
 land (13.89 acres) at Rosbrien, Limerick.
----
+
+[[PAGE_END:8]]
+
 9
 
 Proposed by Councillor O’Hanlon;
@@ -750,7 +767,9 @@ in Statutory Notice dated 14th November, 2023.”
 Circulated, copy of Statutory Notice dated 17th November, 2023, concerning disposal of
 
 land (31.8 acres) at Ballygrennan, Limerick.
----
+
+[[PAGE_END:9]]
+
 10
 
 Proposed by Councillor O’Hanlon;
@@ -830,7 +849,9 @@ particulars of which were contained in Statutory Notice dated 14th November, 202
 Circulated, copy of Statutory Notice dated 14th November, 2023, concerning disposal
 
 of property at 53 Clare Street, Limerick.
----
+
+[[PAGE_END:10]]
+
 11
 
 Proposed by Councillor O’Hanlon;
@@ -910,7 +931,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor O’Hanlon;
 
 And Resolved:
----
+
+[[PAGE_END:11]]
+
 12
 
 “That, in accordance with Section 142 (5) of the Local Government Act, 2001, as
@@ -994,7 +1017,9 @@ assistance in the sum of €627,00 to Adare Community Council, towards the cost 
 initiative with Buckow, Germany, in accordance with the provisions of Section 66 of the Local
 
 Government Act, 2001, as amended.”
----
+
+[[PAGE_END:12]]
+
 13
 
 (ii)
@@ -1084,7 +1109,9 @@ Policy Committee dated 12th October, 2023, in relation to meeting of the Committ
 held on 12th October, 2023.
 
 The report was noted by the Council.
----
+
+[[PAGE_END:13]]
+
 14
 
 (v)
@@ -1156,7 +1183,9 @@ infrastructure, in line with the current active travel scheme.
 The amendment proposed by Councillor Butler and seconded by Councillor Kiely was
 
 approved.
----
+
+[[PAGE_END:14]]
+
 15
 
 Amendment proposed by Councillor Talukder and seconded by Councillor O’Hanlon.
@@ -1204,7 +1233,9 @@ the submissions received as part of the public consultation on the Draft Patrick
 Area Plan 2024-2030, that Limerick City and County Council make the Draft Patrickswell Local
 
 (Image omitted)
----
+
+[[PAGE_END:15]]
+
 16
 
 Area Plan 2024-2030 subject to the Chief Executive’s Report dated the 10th of November,
@@ -1276,7 +1307,9 @@ Question submitted by Councillor S. Novak Uí Chonchúir
 **Efficient Retrofit Programme (EERP) by Limerick City and County Council in 2022, and how**
 
 **many to date in 2023.**
----
+
+[[PAGE_END:16]]
+
 17
 
 **REPLY:**
@@ -1362,7 +1395,9 @@ events for *Christmas in Limerick 2023,* using external comapnies:
 **No cost to Limerick City &**
 
 **County Council**
----
+
+[[PAGE_END:17]]
+
 18
 
 **City Centre Seasonal Street Shows, Animation & Festival**
@@ -1496,7 +1531,9 @@ Onsite
 Projected substantial completion
 
 date May 2024
----
+
+[[PAGE_END:18]]
+
 19
 
 Kilmurray, Feenagh
@@ -1644,7 +1681,9 @@ November 2023
 Projected substantial completion
 
 date July 2024
----
+
+[[PAGE_END:19]]
+
 20
 
 88 Lenihan Avenue,
@@ -1790,7 +1829,9 @@ November 2023
 Projected substantial completion
 
 date July 2024
----
+
+[[PAGE_END:20]]
+
 21
 
 46, Garryglass Ave,
@@ -1934,7 +1975,9 @@ Onsite
 Projected substantial completion
 
 date December 2023
----
+
+[[PAGE_END:21]]
+
 22
 
 NOTICES OF MOTION
@@ -2014,7 +2057,9 @@ Councillor Keary also proposed than an audit is carried out of all Notice of Mot
 adopted during meetings that took place in 2023 and the implementation of these Notice of
 
 Motions. This was seconded by Councillor Galvin and agreed.
----
+
+[[PAGE_END:22]]
+
 23
 
 13.
@@ -2090,7 +2135,9 @@ happening in Gaza, and asked the Council to support the Amnesty International Re
 approaching 5.30 p.m., and on the proposal of Councillor Ryan (E), seconded by Councillor
 
 Butler, Standing Order 4 was suspended in order to complete the agenda.
----
+
+[[PAGE_END:23]]
+
 24
 
 17.
@@ -2168,7 +2215,9 @@ Members acknowledged this prestigious national award, thanked the Executive and 
 all their hard work over the years, and looked forward to continuing to achieve more for the
 
 people of Limerick.
----
+
+[[PAGE_END:24]]
+
 25
 
 CHIEF EXECUTIVE’S ORDERS:
@@ -2192,4 +2241,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:25]]
+

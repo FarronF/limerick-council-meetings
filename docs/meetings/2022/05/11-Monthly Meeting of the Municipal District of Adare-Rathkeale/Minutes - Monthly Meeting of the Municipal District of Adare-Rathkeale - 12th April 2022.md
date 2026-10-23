@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Minutes%2012th%20April%2C%202022.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Minutes%2012th%20April%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN THE COUNCIL CHAMBER, DOORADOYLE AND ONLINE ON**
@@ -82,7 +83,9 @@ And Resolved:
 Limerick and the intention to bring to Full Council, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 (b) Circulated, report of the Head of Property & Community Facilities, dated 15th March,
@@ -156,7 +159,9 @@ speed limit reduction requested by Councillors had been passed to Transport
 Infrastructure Ireland for review and added no response has been issued by Transport
 
 Infrastructure Ireland to date. Following discussion it was agreed to proceed with the
----
+
+[[PAGE_END:2]]
+
 3
 
 traffic calming scheme at the present time and liaise with Transport Infrastructure
@@ -226,7 +231,9 @@ had been carried out the previous week.
 On the proposal of Councillor O’Brien, seconded by Councillor O’Donoghue, it was agreed
 
 to allocate the following:
----
+
+[[PAGE_END:3]]
+
 4
 
  €2,500 to Pallaskenry National School.
@@ -296,7 +303,9 @@ to allocate the following:
 **Question submitted by Councillor K. Sheahan**
 
 **I will ask at the next meeting for an up to date report on sewerage issues in Askeaton.**
----
+
+[[PAGE_END:4]]
+
 5
 
 **Reply:**
@@ -372,7 +381,9 @@ Limerick Housing Development section is continuing to review options for
 this property, as it may require substantial investment, depending on the
 
 option decided upon.
----
+
+[[PAGE_END:5]]
+
 6
 
 Any interest or funded proposals for the future of this property would be
@@ -442,7 +453,9 @@ products being readily available to purchase in the town of Adare. Councillor Sh
 asked if the Motion would be amended to include the initiative being rolled out in all
 
 towns in the Municipal District. Councillor Collins agreed to amend accordingly.
----
+
+[[PAGE_END:6]]
+
 7
 
 **15.**
@@ -504,7 +517,9 @@ Bernie Hayes for her creation of INBHEAR choir and services rendered to the
 Community.
 
 Ellen Ranahan in appreciation of a life time as a teacher and principal in Ballysteen.
----
+
+[[PAGE_END:7]]
+
 8
 
 Liam Hernon in appreciation of a lifetime as a teacher and principal in Askeaton.
@@ -530,4 +545,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

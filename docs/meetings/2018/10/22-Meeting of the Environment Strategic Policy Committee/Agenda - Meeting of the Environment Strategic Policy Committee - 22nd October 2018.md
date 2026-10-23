@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/22nd%20October%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee%202_0.pdf)
+**Original file:** [Agenda - Meeting of the Environment Strategic Policy Committee - 22nd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/22nd%20October%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee%202_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _——_ Comhairle Cathrach
 & Contae Luimnigh
-a ae
+Aa MON
 — Limerick City
 & County Council
 
@@ -44,36 +45,33 @@ RECTOR O
 PHYSICAL DEVE ENT DIRECTORATE
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Agenda
 
 1. Minutes
+
 To adopt the minutes of the Meeting of the Environment Strategic Policy Committee held on
 25" June 2018.
 
 (Copy Enclosed)
-
 2. Pr tation on Waste Plastics nities for reuse, ling in building materials, roads
 and pavements — Mr. Mark McConnell
-
-Presentation on the Noise Action Plan — Ms. Anne Goggin
-
-¥
-
+3. Presentation on the Noise Action Plan — Ms. Anne Goggin
 4. Update i ies Initiatives — Ms. Anne G
-
-5. Pi imerick Consciou #RunR Refill Run — Ms. Sin
+5. Pi imerick Consciou #RunR Refill Run — Ms. Sin:
 McDonnell
 
 6. Notice of Motion submitted by Councillor E. Hogan
 
 “| will move at the next meeting that Limerick City and County Council consider upgrading the
+
 waste litter offering in the Metropolitan Area to provide an option for recycling in the Litter
 
 Bins.”
-
 7. Notice of Motion submitted by Councillor E. Hogan
 
 “| will move at the next Meeting, given the fact that Irish Water has indicated that it may need
@@ -83,4 +81,6 @@ Water requesting that it address the various longstanding leaks in the City and 
 particularly the leaks in Islanduane, Mungret.”
 
 
----
+
+[[PAGE_END:2]]
+

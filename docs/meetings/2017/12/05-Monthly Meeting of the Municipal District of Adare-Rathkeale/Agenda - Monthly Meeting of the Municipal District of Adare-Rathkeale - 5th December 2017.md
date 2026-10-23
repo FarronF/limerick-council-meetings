@@ -16,23 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%205th%20December%2C%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 5th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/00%20Agenda%205th%20December%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach
-_—_—" & Contae Luimnigh
-ArN SEE
+“rN
 — Limerick City
 & County Council
 
-1" December, 2017.
+1 December, 2017.
+
+Comhairle Cathrach
+_— & Contae Luimnigh
 
 Seirbhisi Corpardideacha,
 
 Comhairle Cathrach agus Contae Luimnigh.
-Ceanncheathré Chorparaideach,
+Ceanncheathra Chorparaideach,
 
 Cé na gCeannaithe,
 
@@ -72,7 +74,7 @@ AGENDA
 
 To adopt Minutes of the following Meetings:
 
-(a) | Meeting of the Municipal District of Adare-Rathkeale JPC Subcommittee held on
+(a) Meeting of the Municipal District of Adare-Rathkeale JPC Subcommittee held on
 
 9" November, 2017.
 
@@ -85,19 +87,22 @@ November, 2017.
 
 November, 2017.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
+
 Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed)
 
 & Customerservices@limerick.te
-© wewewslimerick.te
+© wewvalimerick.te
 
 @LimerickCouncil
-(061 - 557150
+(061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Service Operations Directorate — Operations and Maintenance Services
@@ -148,7 +153,9 @@ To note update on pedestrian controlled crossing for Adare.
 nN
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -205,4 +212,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-meeting-of-metropolitan-district-of-limerick-20.09.2021.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-meeting-of-metropolitan-district-of-limerick-20.09.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-pe E Comhairle Cathrach
+pt Comhairle Cathrach
 ; & Contae Luimnigh
-Am SS
+AmN SS
 
 — Limerick City
 & County Council
@@ -32,12 +33,12 @@ Am SS
 
 Ceanncheathné Chorpardideach,
 Cé na gCeannaithe,
-Luimneach
+Luimieach
 
 Corporate Services,
 
 Limerick City and County Council.
-Corporate Headquarters.
+Corporate Headquarters,
 Merchants Quay,
 
 Limerick
@@ -50,7 +51,7 @@ f; +353 (0) 61 415 266
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
-Monday, 20™ September, 2021 at 9.45 am in the Council Chamber, Dooradoyle and Online.
+Monday, 20" September, 2021 at 9.45 am in the Council Chamber, Dooradoyle and Online.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -63,8 +64,8 @@ Meetings Administrator.
 
 To adopt Minutes of the following Meetings:
 
-(a) Monthly Online Meeting of the Metropolitan District of Limerick held on 19" July, 2021.
-(b) Adjourned Meeting of the Metropolitan District of Limerick held on 5" August, 2021.
+(a) Monthly Online Meeting of the Metropolitan District of Limerick held on 19™ July, 2021.
+(b) Adjourned Meeting of the Metropolitan District of Limerick held on 5'" August, 2021.
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
@@ -72,7 +73,9 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copies Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -115,10 +118,12 @@ QUESTIONS
 5. Question submitted by Councillor J. Leddin
 
 | will ask at the next Meeting of the Metropolitan District of Limerick how many houses in Council
-ownership are currently boarded up and for how long these houses are unoccupied.
+ownership are currently boarded up and for how long these houses are unoccupied,
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor J. Leddin
@@ -159,13 +164,15 @@ to removal.
 on the housing waiting list in Limerick and if this figure includes those in receipt of HAP and RAS. If
 not could a total figure be provided to include HAP and RAS.
 
-12. Question submitted by Councillor S, Benson
+12. Question submitted by Councillor S. Benson
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, for an update on the Council's
 plan to introduce choice based letting which was supposed to be introduced over a year ago.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor J. Costelloe
@@ -174,7 +181,7 @@ plan to introduce choice based letting which was supposed to be introduced over 
 Street, how much progress has been made in the tendering process given the site has been derelict
 a number of years.
 
-14. subm b ncillor J. Costelloe
+14, subm b incillor J. Costelloe
 
 | will ask at the next Meeting of the Metropolitan District of Limerick, following the discovery of one
 
@@ -208,7 +215,9 @@ District Council consider revised traffic plan to facilitate permanent pedestria
 streets that currently cannot cater for two way traffic and on street parking.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Notice of Motion submitted by Councillor C. Slattery
@@ -253,4 +262,6 @@ in particular areas and ascertain areas where speed reduction measures need to b
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

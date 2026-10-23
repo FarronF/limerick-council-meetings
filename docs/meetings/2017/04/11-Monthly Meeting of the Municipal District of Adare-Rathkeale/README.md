@@ -24,15 +24,15 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Municipal District of Adare-Rathkeale - 11th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_adare-rathkeale_-_11th_april_2017.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202017.md)
+Agenda - Municipal District of Adare-Rathkeale - 11th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_adare-rathkeale_-_11th_april_2017.pdf) - Text not extracted
 
-Supplementary Agenda - Municipal District of Adare-Rathkeale - 11th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/Supplementary%20Agenda.pdf) - [Extracted text](./Supplementary%20Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202017.md)
+Supplementary Agenda - Municipal District of Adare-Rathkeale - 11th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/Supplementary%20Agenda.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 14th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_14th_march_2017.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202017.md)
+Minutes - Municipal District of Adare-Rathkeale - 14th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_adare-rathkeale_-_14th_march_2017.pdf) - Text not extracted
 
-Minutes of Special Meeting - Municipal District of Adare-Rathkeale - 14th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_special_meeting_-_municipal_district_of_adare-rathkeale_-_14th_march_2017.pdf) - [Extracted text](./Minutes%20of%20Special%20Meeting%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20March%202017.md)
+Minutes of Special Meeting - Municipal District of Adare-Rathkeale - 14th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_special_meeting_-_municipal_district_of_adare-rathkeale_-_14th_march_2017.pdf) - Text not extracted
 
-Minutes of Special Meeting - Municipal District of Adare-Rathkeale - 30th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_special_meeting_-_municipal_district_of_adare-rathkeale_-_30th_march_2017.pdf) - [Extracted text](./Minutes%20of%20Special%20Meeting%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2030th%20March%202017.md)
+Minutes of Special Meeting - Municipal District of Adare-Rathkeale - 30th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_special_meeting_-_municipal_district_of_adare-rathkeale_-_30th_march_2017.pdf) - Text not extracted
 
 Report on Draft Control of Horses Bye-Laws 2017 - Municipal District of Adare-Rathkeale - 11th April 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/2A%20Report%20on%20Draft%20Control%20of%20Horses%20Bye%20Laws%202017.pdf) - Text not extracted
 

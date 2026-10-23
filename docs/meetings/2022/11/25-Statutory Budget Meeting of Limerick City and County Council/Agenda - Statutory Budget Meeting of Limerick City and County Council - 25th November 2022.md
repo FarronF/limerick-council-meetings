@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Budget%20Meeting%2025.11.2022.pdf)
+**Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council - 25th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Budget%20Meeting%2025.11.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach
 & Contae Luimnigh
-ArT 7 SS
+ArT SN
 
 — Limerick City
 & County Council
@@ -49,9 +50,9 @@ Merchants Quay,
 
 Limerick
 
-EIRCODE V394 EHSO
+EIRCODE V34 EHSO
 
-& 4353 (0) 61 557150
+t 4353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and
@@ -67,11 +68,9 @@ November, 2022, at 10,00 a.m.
 
 The business to be transacted is set out on the appended Agenda.
 
-Is mise le meas,
+Is smmice y meas,
 
-Castanos
-
-Meetings Administrator.
+idestings Administrator.
 
 AGENDA
 
@@ -92,20 +91,21 @@ Act, 2014.
 
 (Oraft Chief Executive’s Budget Report and Tables Enclosed, including
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Lulmneach
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 Capital Programme 2023-2025.)
 
-= customerservicesq@limerick.le
-© wwrwilimerick.ie
+= Customerservicesq@limerick.le
+© wwnwiimerickie
 
 w @LimerickCouncil
+061 - 587150
 
-© 061 - 587150
 
 
----
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . To determine the proportion of commercial rates refund that applies on vacant
@@ -115,7 +115,7 @@ Reform Act, 2014, and Part 5 of the Local Government (Financial and Audit
 Procedures) Regulations, 2014, and Section 14 of the Local Government Act, 1946,
 which is recommended to be set at 10% for 2023.
 
-- To consider the adoption of the Vacant Property Refund Scheme 2023 to
+. To consider the adoption of the Vacant Property Refund Scheme 2023 to
 encourage the beneficial use of commercial property in accordance with Section
 66 of the Local Government Act, 2001, as amended by Section 43 of the Local
 Government Reform Act, 2014.
@@ -128,13 +128,13 @@ Section 43 of the Local Government Reform Act, 2014.
 
 (Copy of proposed Small and Medium Business Support Scheme 2023 Enclosed)
 
-. To consider the adoption of the Tourism Sector Support Scheme 2023 in
+- To consider the adoption of the Tourism Sector Support Scheme 2023 in
 accordance with Section 66 of the Local Government Act, 2001, as amended by
 Section 43 of the Local Government Reform Act, 2014.
 
 (Copy of proposed Tourism Sector Support Scheme 2023 Enclosed)
 
-. To consider the adoption of the Retail Economic Incentive Scheme for Vacant
+._ To consider the adoption of the Retail Economic Incentive Scheme for Vacant
 Property from 01/01/2023 until 31/12/2023 in accordance with Section 66 of the
 Local Government Act, 2001, as amended by Section 43 of the Local Government
 Reform Act, 2014.
@@ -143,4 +143,6 @@ Reform Act, 2014.
 Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

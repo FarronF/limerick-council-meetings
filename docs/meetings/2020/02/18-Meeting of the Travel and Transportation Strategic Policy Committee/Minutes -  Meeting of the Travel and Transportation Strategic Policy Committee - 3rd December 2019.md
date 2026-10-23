@@ -16,23 +16,24 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/draft-minutes-travel-transportation-spc-meeting-3.12.19.pdf)
+**Original file:** [Minutes -  Meeting of the Travel and Transportation Strategic Policy Committee - 3rd December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/draft-minutes-travel-transportation-spc-meeting-3.12.19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—__ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 . — Limerick City
 & County Council
 
-Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation
+Minutes of the Meeting of Limerick City & County Councils Travel and Transportation
 Strategic Policy Committee held on Tuesday 3rd December, 2019 at 4 pm in the Council
 Chamber, Merchant's Quay, Limerick.
 
 Members Present:
-Clirs. Leddin (J), Butler, Kilcoyne, Leddin (B), Mitchell, O’Donovan, O’Hanlon, Ryan (M), Secas,
+Clirs. Leddin (J), Butler, Kilcoyne, Leddin (B), Mitchell, O’ Donovan, O’Hanlon, Ryan (M), Secas,
 Sheahan (M), Mr T O’Brien.
 
 Apologies:
@@ -50,13 +51,15 @@ The Chair, Cllr. Leddin (J) opened the meeting and welcomed Mr. Tim O Brien, Sec
 Representative to his first SPC meeting.
 
 The minutes of the meeting of 15 October 2019 were proposed by Clir. Leddin (8), seconded
-by Clir. Butler, and adopted.
+by Cllr. Butler, and adopted.
 
-Item 2: Director’s Report
+Item 2: Director's Report
 Mr. Kennedy updated the Committee on items arising from the last meeting:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 1. Arrange workshop with Members on the outline proposals from the LSMATS:
@@ -110,7 +113,9 @@ LCCC is engaging with An Garda Siochana in relation to illegal parking at out of
 where Traffic Wardens are not on duty. LCCC in conjunction with the NTA is undertaking a
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 transport strategy for the Metropolitan Area that will prioritise and enable a modal shift to
@@ -155,15 +160,16 @@ welcomed the commitment to engage with the Members on the LSMATS prior to the fi
 draft of the Strategy issuing. He also welcomed confirmation that a Sustainable Travel
 Coordinator will be appointed shortly.
 
-Clir. O'Donovan requested that the Director's response to the query on the Smarter Travel
+Clir. O'Donovan requested that the Director’s response to the query on the Smarter Travel
 Route to UL be circulated to the members.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Item 3: Agree dates for T&T SPC 2020
-
 The Members agreed the following dates for 2020 meetings:
 
 Tuesday 18 February
@@ -181,22 +187,18 @@ Item 4: Update on Schemes in Limerick City
 
 Mr. Slavin, Executive Engineer, gave an update to the meeting on projects:
 
-R445 Dublin Road Improvements
-
-Castletroy Link Road & Golf Links Road ;
-
-—
+— _ _ —
 
 Part 8 being published this week.
+
 Options report being undertaken by
 consultants. Draft option drawings
+
+R445 Dublin Road Improvements
+
 | ed before Christmas.
-
-Part 8s to be published January 2020.
-
-' Park Road Bridge
-
-| Part 8 to be published before end
+Castletroy Link Road & Golf Links Road 7 _| Part 8s to be published January 2020.
+[ Park Road Bridge Part 8 to be published before end
 
 2019.
 Milford Plassey Park Junction Improvements, Part 8 drawings currently with NTA for
@@ -204,48 +206,45 @@ Milford Plassey Park Junction Improvements, Part 8 drawings currently with NTA f
 review. Part 8 submission early
 January 2020.
 
-Ceo
-
-Raheen Roundabout to Quinn’s Cross & Fr Russell
-
-Tur - consultation has been undertaken
+| MIC & LIT to City Centre Cycle Lanes yur - consultation has been undertaken
 with residents on Belfield with regard
 to road layout. Part from Belfield to LIT
 to be submitted in early January 2020.
 MIC to City Centre to be progressed
-
 separately in 2020.
 
-Draft feasibility complete, workshop
-with NTA in the coming week to
+Raheen Roundabout to Quinn’s Cross & Fr Russell | Draft feasibility complete, workshop |
 
-Road Cycle Lanes
+Cycle Lanes with NTA in the coming week to
+
+Road
 discuss how proj rogresses.
 Newcastle West Public Realm and Movement Plan Briefing with Area Councillors in mid-
 
-January with Public consultation to
+January with Public consultation to |
 follow.
 
 Abbeyfeale Traffic Calming Final consultation discussions on
 public realm ongoing with local
 representatives. Following completion
-
-_of discussions 2 meeting with TIl to be
-
+_of discussions a meeting with TIl to be
 
 
----
+
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 arranged to agree progress in early
 
-2020. i
+2020. sd
 
 On site, substantial completion prior to
 
 Christmas, some minor works to be
 
-if complete in 2020. -
+t complete in 2020. 7
 
 | CFRAMS — Limerick City and Environs FRS Work ongoing on brief for
 appointment of consultants.
@@ -258,7 +257,7 @@ Lower Park and Rhebogue, and queried whether the project should go ahead if an a
 solution could be achieved.
 
 Cllr. B Leddin echoed Cllr. O’Hanlon’s comments with regard to Park Road Bridge, and asked
-whether discussions had been held with the LSMATS consultants regarding O'Dwyer Bridge
+whether discussions had been held with the LSMATS consultants regarding O’ Dwyer Bridge
 and it’s interaction with the CFRAMS scheme.
 
 Cllr. Butler requested that consideration be given to junction treatments on the Raheen to
@@ -293,7 +292,9 @@ understanding that there was no additional cost to the Council arising from the 
 5
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Street cycle lane works. He also said that the design of the MIC to City Centre Cycle Lane
@@ -343,7 +344,9 @@ concerns expressed by the companies in the National Technology Park, The best pl
 Limerick, in his opinion, was a sustainable transport plan.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cllr. Ryan (M) disagreed stating as a road haulier, a route which by-passed Limerick city was
@@ -361,7 +364,7 @@ Mr. Kennedy responded by saying that the variation to the County Development Pla
 fastened the route of the road, and that the appraisal process now underway is to ensure that
 this route is still the optimal route.
 
-Cllr. Leddin (8) disagreed with Mr. Gallagher stating that we should not be discussing the
+Cllr. Leddin (B) disagreed with Mr. Gallagher stating that we should not be discussing the
 diversion of traffic from the city centre; we should be promoting a modal shift away from the
 car. The Limerick Tunnel is the Limerick bypass he argued, and the LNDR proposal would have
 a detrimental effect on traffic flows in the tunnel, which Transport Infrastructure Ireland may
@@ -377,7 +380,7 @@ into the city.
 
 Item 5: To Consider Draft Road Safety Plan
 Mr. Slavin did a presentation on the contents of the draft Road Safety Plan. The plan is an
-inter-agency approach to ensure the sefety of all road users, reduce road collisions and road
+inter-agency approach to ensure the safety of all road users, reduce road collisions and road
 
 deaths. He stated that it is the responsibility of all road users to ensure their own safety, and
 the safety of other road users.
@@ -399,7 +402,9 @@ Cllr. Secas asked about education actions contained in the Plan.
 7
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In response Mr. Slavin confirmed that he had spoken with the HSE about representation and
@@ -448,7 +453,9 @@ Limerick recorded in the Census 2016 was very low, and argued that the LSMATS wa
 opportunity to set ambitious targets to achieve a greater modal mix.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In a written response the Director stated that while the National Transport Authority would
@@ -486,7 +493,7 @@ seek improved bus services for Ballybrown / Clarina and Patrickswell area”.
 As Cllr. McSweeney was not in attendance, the Chair deferred this Motion to the next
 Committee Meeting.
 
-Motion submitted by Cllr. O’ Sullivan (def etl
+Motion submitted by Cllr. O’ Sullivan (def eti
 
 “| will move at the next Metropolitan Meeting of Limerick City and County Council that the
 Council examine the entry to Limerick city from Co Clare and look at installing welcome
@@ -498,7 +505,9 @@ In proposing the notice of motion, Cllr. O’Sullivan noted that there was a mul
 signage in the City of which some was out of date and others were confusing. She called for
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a review of signage and the installation of updated “welcome” signage at the entrance points
@@ -519,7 +528,7 @@ Section
 current transport infrastructure programmes to be ready to achieve at least 10% expenditure
 on facilitating cycling by Q4 2020, as mandated in the Government’s Climate Action Plan”.
 
-in a written response, the Director noted that it was a requirement of Action 97 of the Climate
+In a written response, the Director noted that it was a requirement of Action 97 of the Climate
 Action Plan 2019 that DTTAS revise its current transport infrastructure programmes to
 achieve at least 10% expenditure on facilitating cycling by Q4 2020. He continued by saying
 that the Council will comply with any grant condition from DTTAS pertaining to Action 97 once
@@ -532,4 +541,6 @@ This concluded the business of the Meeting.
 10
 
 
----
+
+[[PAGE_END:10]]
+

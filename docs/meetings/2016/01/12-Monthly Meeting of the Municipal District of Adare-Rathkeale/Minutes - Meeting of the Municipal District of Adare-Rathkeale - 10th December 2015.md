@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20December%202015.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 10th December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-
@@ -71,7 +72,9 @@ connection to these houses and carry out any related works, in conjunction with 
 road works,
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -121,7 +124,9 @@ Councillor O'Donoghue it was agreed that the Travel & Transportation SPC be writ
 to establish the reason for this cancellation.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ADJOURNED NOTICE OF MOTION
@@ -166,12 +171,14 @@ REPLY: The Water Services Department expect to have report finalised within the 
 days. Once the full schedule of works and costs are received the following steps
 will be taken;
 
-e The schedule of works and estimated costs are issued to the bondholder.
+¢ The schedule of works and estimated costs are issued to the bondholder.
 ¢ The bondholder may then appoint their own consultant to examine the
 Council’s schedule of works and costs.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -225,7 +232,9 @@ works under consideration included laying down 70 m of footpath and the removal 
 and wall.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -247,7 +256,7 @@ NOTICES OF MOTION
 
 7. Notice of Motion submitted by Councillor T. Neville
 
-I will move at the next Meeting for safety provisions to be installed at Cappagh Cross
+| will move at the next Meeting for safety provisions to be installed at Cappagh Cross
 (Cappagh Castle).
 
 REPLY: The Roads Engineer is investigating this request at the present time and a report
@@ -257,7 +266,7 @@ Councillor Neville indicated his satisfaction with the Council’s response to t
 
 8. Notice of Motion submitted by Councillor T. Neville
 
-! will move at the next Meeting for flood alleviation measures to be carried out in order to
+1 will move at the next Meeting for flood alleviation measures to be carried out in order to
 protect the swimming pool water pumps at Askeaton Pool and Leisure.
 
 Councillor Neville in proposing the Motion indicated that this facility was 51% owned by Limerick
@@ -276,7 +285,9 @@ at periods of high tides and take remedial action as required.
 
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Notice of Motion submitted by Councillor E. O’Brien
@@ -302,10 +313,10 @@ District Representatives.
 10. Correspondence
 Correspondence was noted.
 
-Following a discussion it was agreed to hold a GMA Workshop on Friday, is” December, 2015 at
+Following a discussion it was agreed to hold a GMA Workshop on Friday, 13” December, 2015 at
 9:00 a.m.
 
-Serer eee ene een n eee ene e nen n eens enna nese nes nee n nen eeneeeeen nea ee nese nee neeesenes a eeeeee nena nnn mene een een en eee neeneseeeeeseneneee
+Serene eee nee n nent eee e eens nn en ne en een n enn aeen een nen neneen nea een eennesnseeeenes a eeee een een nen mene een ee nner eee eneeeeeeeseeeneee
 
 The following items were discussed at the conclusion of the Agenda with the consent of the
 Cathaoirleach.
@@ -326,7 +337,9 @@ achieve this. He indicated that there were many Health and Safety issues when un
 improvements works on public roads and the safety of workers was paramount.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Sheahan raised the issue of flooding in the carpark of the Coach Inn in Kildimo. The
@@ -373,4 +386,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+

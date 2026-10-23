@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210413-agenda-cabe-spc-april-1.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment SPC - 13th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210413-agenda-cabe-spc-april-1.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **8th** **April, 2021**
@@ -46,7 +47,9 @@ The business to be transacted is set out in the appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -108,7 +111,9 @@ and voluntary groups similar to the Maintenance of Open Spaces Grant.”
 City and County Council install on-street compost bins for people to dispose of
 
 compostable cups and green waste.”
----
+
+[[PAGE_END:2]]
+
 3
 
 **6.Notice of Motion referred from the Full Council Meeting of 22 March, 2021**
@@ -142,4 +147,6 @@ of its negative impact on biodiversity and critically endangered species.”
 Trees (CAVAT) as a method for managing trees as public assets rather than liabilities.
 
 See https://www.ltoa.org.uk/resources/cavat"
----
+
+[[PAGE_END:3]]
+

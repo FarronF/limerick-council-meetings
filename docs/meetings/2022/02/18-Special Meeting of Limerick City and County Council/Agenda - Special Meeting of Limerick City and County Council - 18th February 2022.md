@@ -16,31 +16,41 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-special-meeting-18.02.2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/00-agenda-special-meeting-18.02.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-; Selrbhis( Corparéideacha,
-_—_—_ Comhairle Cathrach Comhairle Cathrach agus Contae Lufmnigh,
+_—_—_ Comhairle Cathrach
+& Contae Luimnigh
+ADN ~~
+= Limerick City
+— & County Council
 
-fr & Contae Luimnigh Ceanncheathri Chorparaideach,
-aAr™ :=7gSpSeaT a7 Cé na gCeannaithe,
-— Limerick City Lulmneach
-— & County Council Seesonta nates
+14” February, 2022.
+
+Selrbhisi Corparéideacha,
+
+Comhalrie Cathrach agus Contae Lutmnigh,
+Ceanncheathri: Chorparaideach,
+
+Cé na gCeannaithe,
+
+Luamneach
+
+Corporate Services,
+
 Limerick City and County Council,
-
 Corporate Headquarters,
-
 Merchants Quay,
 
 Limerick
 
 EIRCODE V94 EH90
 
-th
-14” February, 2022. t: 4383 (0) 61 $57150
-f: +353 (0) 61 415 266
+t 4353 (0) 61 557150
+f; +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -48,32 +58,38 @@ A Chomhairleoir, a chara,
 
 The Mayor, Councillor Daniel Butler, has called a Special Meeting of Limerick City and County
 Council, to be held in the Council Chamber, Dooradoyle, and Online, on Friday, 18”
-February, 2022, at 1.30 p.m.
+
+February, 2022, at 1,30 p.m.
 
 The business to be transacted is set out on the appended Agenda.
+
 Is mise le meas,
 
-Laura te
-
+Laura Sonne
 Meetings Administrator.
 
-eeeeeececccnrceccoworercrerrwcerenrennesccecnnceneecceecesesecss ces eesweeeeeeee ees eeeeeseee eee cceenesesecesercecccece cece
+seeewecccccnccwccowowercrerrwcwrennenwecccecn acess cceeceecsecss ses esweneeneen ees ecene seen ese eeeeeesnsenesetcccccece cece
 
 AGENDA
 
-1. Draft Limerick nt Plan 2022-2
+1. Draft Limerick int Plan 2022-2
 
 To consider the Draft Plan and the Chief Executive’s Report to Elected Members, dated
 26" November, 2021, under Section 12 (5) of the Planning and Development Act 2000 (as
 amended) and accept or amend the draft and make the Development Plan accordingly.
 
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmeach
+Corporate Headquarters, Merchants Quay, Limerick
+
 (Documentation previously circulated)
 
 jm customerservices@limerick te
+@ vewrerimerick.ie
+@LimerickCouncil
 
-© vewrerimerick.ie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmeach w @LimerickCouncit
-Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
+061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+

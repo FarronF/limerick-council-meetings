@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20March%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 1st March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20March%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 le Duiche Bardais an Chaisleain Nua Thie,
-aie a Contec Cath ach Comhairle Cathrach agus Contae Luimnigh,
-Yi ign Aras William Smith O'Brien.
+ail Conte Cath ach Comhairle Cathrach agus Contae Lutmnigh,
+i ign Aras William Smith O'Brien.
 
-“reo
+“aro
 
 Gortbui,
-— Limerick City An Caisiean Nua Thiay,
+=— Limerick City An Caisiean Nua Thiay,
 & County Council Co. Luimnigh
 
 Newcastle West Municipal District,
 
-Limenck City and County Council,
+Limerick City and County Council,
 
 Aras William Smith O'Brien,
 
@@ -58,12 +59,12 @@ at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Pa
+oo ae
 
 Martin Curran,
 Meetings Administrator.
 
-FF ee
+ee
 
 AGENDA
 
@@ -84,14 +85,16 @@ To receive Update from the Housing Directorate for the Newcastle West Municipal
 
 District.
 (Report Enclosed)
-Soe: te
+Sones: ie
 Ceanncheathré Chorpardideach, Cé na gCeannaithe, Luimneach www limerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick WY @limerickCouncil
 
-\ 061 - $56 000
+{ 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -109,7 +112,7 @@ ADJOURNED NOTICE OF MOTION
 
 Notice of Motion submitted by Councillor T. Ruddle
 
-! will move at the next Meeting that due to the shockingly bad level of service in
+| will move at the next Meeting that due to the shockingly bad level of service in
 fixing blown public lights which are now taking months if at all to get fixed, that
 Limerick City and County Council meet with Airtricity with a view to improving the
 service.
@@ -131,11 +134,13 @@ having the Glebe Estate at Monagea completed.
 
 Question submitted by Councillor T. Ruddle
 
-twill ask at the next Meeting when will the dog park in Newcastle West commence.
+| will ask at the next Meeting when will the dog park in Newcastle West commence.
 It was approved at this Council budget meeting.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -170,4 +175,6 @@ Abbeyfeale just above the school car park in order to facilitate a pupil with sp
 needs who is confined to a wheelchair.
 
 
----
+
+[[PAGE_END:3]]
+

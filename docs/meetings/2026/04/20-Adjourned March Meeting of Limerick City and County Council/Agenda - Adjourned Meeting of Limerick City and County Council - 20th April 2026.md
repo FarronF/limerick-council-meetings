@@ -16,18 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-adjourned-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
+**Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-adjourned-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-peo ae Comhairie Cathrach Seirbhisi Corparaideacha Rislachais & Custaiméara
-‘ Comvnairie Cathrach & Contae Luimnigh
-, & Contae Luimnigh Ceannchearthu Chorpardideach
-NEN — - Cé na gCeannaithe
-Limerick City Luimneach, V94 EH90
+re
 
-= & County Council
+—=—
+
+15" April, 2026.
+
+Comhairie Cathrach Seirbhisi Corparaideacha Rislachais & Custaiméara
+
+‘ Comvnairie Cathrach & Contae Luimnigh
+& Contae Luimnigh Ceannchearthu Chorparaideach
+P P : Cé na gCeannaithe
+Limerick City : Luimneach, V94 EH90
+& County Council
 
 Corporate, Governance & Customer Services
 Limerick City and County Council
@@ -37,7 +44,7 @@ Merchant's Quay
 
 Limerick. V94 EH9O
 
-15" April, 2026. t: +353 (0) 61557 150
+ts +353 (0) 61 557 150
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of
 Limerick City and County Council
@@ -50,7 +57,7 @@ be held in the Council Chamber, Dooradoyle, Limerick and Online on Monday, 20™
 
 As you are aware, the following items have been dealt with:
 
-No.1 Minutes.
+No. 1 Minutes.
 
 No. 2 Declaration of Interest.
 
@@ -78,14 +85,18 @@ No. 12 PPN Sectoral Nominations — Local Community Development Committee and
 Strategic Policy Committees (deferred from January Meeting of Limerick City
 and County Council).
 
-@ customerservices@limerick.ie
-Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach © vevwlimerick.ie
+& customerservices@limerick.ie
+Ceanncheathrui Chorpardideach, Cé na gCeannaithe, Luimneach © wevrwlimerick.ie
 
-Corporate Headquarters, Merchant's Quay, Limerick @limeric
+Corporate Headquarters, Merchant's Quay, Limerick
+
+@Limeric
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 No. 13 Strategic Policy Committee — Sectoral Nomination (deferred from January
@@ -106,10 +117,12 @@ No. 25 Notice of Motion submitted by Councillor E. Ryan.
 
 Is mise le meas,
 
-C Youedy)
+C Yowedy)
 
 Ciara Farrell,
 Meetings Administrator.
 
 
----
+
+[[PAGE_END:2]]
+

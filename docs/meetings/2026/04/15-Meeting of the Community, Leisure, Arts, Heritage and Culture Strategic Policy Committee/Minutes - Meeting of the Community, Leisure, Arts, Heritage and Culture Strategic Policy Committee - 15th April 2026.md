@@ -16,16 +16,17 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-15th-april-2026.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee - 15th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-15th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee a my predeeh
+ee a ap predeeh
 
 ontac
 
-nh : Limerick City
+nk : Limerick City
 = & County Council
 
 Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee Hybrid Meeting
@@ -39,7 +40,7 @@ MEMBERS PRESENT:
 
 Acting Chairperson: Clir, Azad Talukder
 Cllr. Brigid Teefy
-Clir, Catherine Slattery
+Cllr, Catherine Slattery
 Clir. Dan McSweeney
 Clir, Daniel Butler
 Clir. Gregory Conway
@@ -53,7 +54,7 @@ Mr. John Ward
 Ms. Marion Hurley
 Mr. Padraig Lohan
 
-APOLOGIES: ——ir. Brian McCarthy, Director of Service
+APOLOGIES: ——fiir. Brian McCarthy, Director of Service
 Clir. Fergus Kilcoyne
 Clir. Sarah Beasley
 
@@ -67,7 +68,7 @@ Cllr. PJ. Carey
 
 IN ATTENDANCE: Mr. Sean Lenihan, Director of Service
 Ms. Karen Burke, Town Centre First Officer
-Mr, Damien Brady, City & County Librarian
+Mr. Damien Brady, City & County Librarian
 Ms. Louise Magner, Administrative Officer
 Ms. Eileen Gleeson, Staff Officer
 Mr. Thomas O'Neill, Heritage Officer
@@ -75,13 +76,15 @@ Ms. Joanna O'Donoghue, Staff Officer
 Ms. Aisling Coughlan, Assistant Staff Officer
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach
-_ —— & Contae Luimnigh
+_ ——i & Contae Luimnigh
 
-Vo
+AN if ™
 
 —=_
 
@@ -132,14 +135,16 @@ The Town Centre First Officer, Karen Burke, informed members that the Limerick s
 Seanad Public Consultation on Culture and Arts Infrastructure had been completed; however, the
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-S_.-eel Comhairle Cathrach
+S.-i Comhairle Cathrach
 & Contae Luimnigh
 a
 
-—=--
+—=---
 
 Limerick City
 & County Council
@@ -188,14 +193,16 @@ particularly for young people, the limited availability of housing for artists, 
 challenges faced by venues.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+el Comhairle Cathrach
 & Contae Luimnigh
-af ™
+aL ™
 
-—— --
+—=--:
 
 Limerick City
 
@@ -232,10 +239,12 @@ Meeting ended at 3.50 pm
 
 Minutes Proposed By: CLLR G-. Conway
 
-Minutes Seconded By: CLvé D. GIT L2A@
+Minutes Seconded By: CLvé D. GIIL2A@
 as
 
-Minutes Signed by techat 22 Zaps __ ate: _(e 26
+Minutes Signed by ee ae APs __ ate: [& 26
 
 
----
+
+[[PAGE_END:4]]
+

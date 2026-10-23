@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-ordinary-meeting-15th-june-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-ordinary-meeting-15th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——_ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
-ars —_—_—_—_—_—_—_——
+ars —_—_—_—_—_—_—_—_—_——
 — Limerick City
 & County Council
 
 10" June, 2020
 
-Sewbdhisi Corpardideacha,
+Serbdhisi Corpardideacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathri Chorparaideach,
+Ceanncheathra Chorparaideach,
 
 Cé na gCeannaithe
 
-Latrmiveach
+Laimiveach
 
 Corporate Services,
 
@@ -48,7 +49,7 @@ Limerick
 
 EIRCODE V4 EHSC
 
-*: 4353 (0) 61 557250
+*: 4353 (0) 62 557250
 f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
@@ -65,7 +66,7 @@ Is mise le meas,
 
 J
 M Administrator.
-\MSsting Administrator
+Misting Administrator
 AGENDA
 1. Minutes
 
@@ -80,13 +81,15 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 (Copy Enclosed).
 
-m Customerservices@limerick.ie
+om Customerservices@limerick.ie
 @ veer imericic.ie
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -111,7 +114,7 @@ Limerick.
 (Report Enclosed).
 
 To consider and discuss the Strategic Housing Development Application at Walkers Lane,
-Annacotty, Limerick. This application can be viewed online at .walkershill.ie.
+Annacotty, Limerick. This application can be viewed online at -walkershill.ie.
 
 (Presentation by S. Duclot, Senior Planner).
 
@@ -124,7 +127,9 @@ area during the Covid 19 period; how many complaints of illegal dumping have bee
 and how many have been resolved.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor E. Secas
@@ -149,7 +154,7 @@ the special speed limit of 30kph: what is the level of implementation achieved a
 traffic calming measures were installed to ensure compliance.
 
 9. Question submitted by Councillor E, O’Donovan
-1 will ask at the next meeting for an update on the current use of Cleeves Site and the
+| will ask at the next meeting for an update on the current use of Cleeves Site and the
 
 possibility of cultural and community organisations to use this space, for example, boat
 building schools or local street theatre companies that require space.
@@ -166,12 +171,14 @@ and development of the city.
 and Bedford Row between January 2019 and January 2020.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor C. Slattery
 
-1 will ask at the next meeting, regarding verges and roundabouts left to grow for bee
+I will ask at the next meeting, regarding verges and roundabouts left to grow for bee
 pollination, when these verges, roundabouts etc are cut can the cuttings be collected please
 by the Council.
 
@@ -200,10 +207,12 @@ of a household waste collection service a condition of all tenancies and in case
 compliance the cost of waste collection is added to the customers rent bill.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-17. Notice of Motion submitted by Councillor S$. Novak Ui Chonchuir (to be referred to
+17. Notice of Motion submitted by Councillor S. Novak Ui Chonchuir (to be referred to
 
 | will move at the next meeting that the Council introduces a litter bin tagging system (QR
 codes) to identify each of its bins with a unique identifier number and QR code in order to
@@ -221,7 +230,7 @@ areas other than residential areas), and roads that can safely accommodate highe
 and those requiring lower speeds be identified and listed in the bye-laws.
 
 19. Notice of Motion submitted by Councillor S. Benson (to be referred to the Climate
-Action, Blodiversit J Envi tst ic Policy C ittee)
+Action, Blodiversit J Envi tt ic Policy C ittee)
 
 | will move at the next meeting that this Council, monitor and review the public bin collection
 service, in the Metropolitan area and increase collections where necessary.
@@ -248,7 +257,9 @@ who have given over 20 years of their working lives to the Company.
 5
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23. Notice of Motion submitted by Councillor O. O’Sullivan
@@ -277,4 +288,6 @@ restore 24 hour operations at the airport.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-8th-june-2026.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 8th June, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-8th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 **28th May,2026**
@@ -68,4 +69,6 @@ Planner
 Planner
 
 5. Date of Next SPC Meeting - TBA
----
+
+[[PAGE_END:1]]
+

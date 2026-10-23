@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015_0.pdf)
+**Original file:** [Agenda - Municipal District of Cappamore-Kilmallock - 19th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _————
 
-ae ili.
+aT iii.
 =
 Limerick
 
@@ -55,12 +56,12 @@ District of Cappamore-Kilmallock
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
-held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Tuesday 19%" May, 2015
+held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Tuesday 19°" May, 2015
 at 3.30pm. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-bee Know
+bre Know
 
 Tina Knox,
 
@@ -93,10 +94,12 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 = customerserviceselimerick.ie
 & wow Aimerick.te
- @LimerickCouncil
+vv @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -126,4 +129,6 @@ for walkers and cyclists on the Grange Road, Knocklong be addressed with adequat
 signage, lining and Garda or speed van monitoring or other methods.
 
 
----
+
+[[PAGE_END:2]]
+

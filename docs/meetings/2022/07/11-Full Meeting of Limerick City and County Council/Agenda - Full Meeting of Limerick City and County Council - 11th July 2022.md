@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00-Agenda-Council-Meeting-11-07-2022.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 11th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00-Agenda-Council-Meeting-11-07-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a_i Comhairle Cathrach Combate Cathwa: peealap card ap graarang
-. . mw le Cattwac’ agus Contae wuirninagh,
-—_ & Contae Luimnigh Ceanncheathra Chorparaidesch,
-“te ————————— Cé na gCeannaithe,
+_ ——_£ Comhairle Cathrach Combate Cathwa: eosin ar graarang
+. : me ie Cathwac’ agus Contae wuimnnagh,
+——_ & Contae Luimnigh Ceanncheathra Chorparaidesch,
+“te ———————— Cé na gCeannaithe,
 — Limerick City Luimneach
 
-—= & County Council
+— & County Council
 
 Corporate Services.
 
 Limerick Cry and County Council
 Corporate Headquarters,
-Mercharts Quay,
+Merchants Quay,
 
 Limerick
 
@@ -50,21 +51,19 @@ You are requested to attend Meeting of Limerick City and County Council to be he
 Council Chamber, Dooradoyle, and Online, on Monday, 11™ July, 2022, at 3pm. The business
 to be transacted is set out on the. appended Agenda.
 
-—
+_
 
-Is ming
-
-cnegtge >
-Laura Flannery, ~~ en
+Is mine
+Laura Flannery, ~~ Se
 Meetings Administrator.
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
-(a) Ordinary Meeting of the Council held on 23 May, 2022.
+(a) Ordinary Meeting of the Council held on 23% May, 2022.
 (b) Special Meeting of the Council held on 2" June, 2022.
 (c) Special Meeting of the Council held on 17" June, 2022.
-(d) Special Meeting of the Council on 23? June, 2022.
+(d) Special Meeting of the Council on 23"? June, 2022.
 
 (e) Special Meeting of the Council on 30™ June, 2022.
 
@@ -80,11 +79,13 @@ Planning and Development Act, 2000 (as amended), at:
 
 © Weew limerick.ie
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach w @LirnerickCouncil
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LirnerickCounctl
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (a) Forty Acres, Bruree, Co. Limerick.
@@ -118,7 +119,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 (8)
 
-(Statutory Notices dated 9th, 27”, 28 and 29" June and 1*
+(Statutory Notices dated 9th, 27”, 28° and 29" June and 1*
 July, 2022, already circulated)
 
 Chief Executive’s Report
@@ -146,7 +147,9 @@ further 16 Members of the Council as members of Limerick Market Trustees.
 (Report and List of Representatives Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
@@ -165,7 +168,7 @@ and Economic Meetings in Austin, Texas, and Santa Clara, California.
 Strate gic Policy Committee Reports
 
 To consider reports as follows:
-{i) Chairperson’s Report — Meeting of Community, Leisure and Culture
+(i) Chairperson’s Report — Meeting of Community, Leisure and Culture
 Strategic Policy Committee held on 13" June, 2022.
 (Chairperson’s Report Enclosed)
 
@@ -198,13 +201,15 @@ Penetrating Radar Surveys to be carried out in all older rural burial
 grounds to establish availability of grave spaces.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
 
 (v) Note: Meeting of Travel and Transportation Strategic Policy
-Committee held on 27 June, 2022, adjourned to 12" July, 2022.
+Committee held on 27" June, 2022, adjourned to 12" July, 2022.
 
 Housing
 Affordable Housing
@@ -239,7 +244,9 @@ To consider participation by Members at the following Conference:
 (Details already circulated electronically)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -280,7 +287,7 @@ returned to the Municipal District with adequate staff to manage same.
 
 Notice of Motion submitted by the Municipal District of Newcastle West —
 Councillors J. Sheahan (Proposer), F. Foley, L. Galvin, J. Scanian and T.
-Ruddie
+Ruddle
 
 We will move at the next Meeting that where Irish Water apply for a road opening
 licence to Limerick City and County Council, they should be asked to pay a bond that
@@ -288,7 +295,9 @@ will cover the cost of full reinstatement of the road within a short period of t
 determined.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -318,4 +327,6 @@ Grounds, in accordance with the adopted Burial Ground Strategy.
 Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

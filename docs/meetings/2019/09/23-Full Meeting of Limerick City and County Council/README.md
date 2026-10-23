@@ -28,15 +28,15 @@ Agenda - Full Meeting of Limerick City and County Council - 23rd September 2019
 
 Minutes  - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20Ordinary%20Meeting%2008.07.2019.pdf) - [Extracted text](./Minutes%C2%A0%20-%C2%A0Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%208th%20July%202019.md)
 
-Disposal of Land_ Gortakilleen, Oola - Full Meeting of Limerick City and County Council - 23rd September.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28a%29%20Disposal%20of%20Land%20-%20Gortakilleen%2C%20Oola.pdf) - Text not extracted
+Disposal of Land: Gortakilleen, Oola - Full Meeting of Limerick City and County Council - 23rd September.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28a%29%20Disposal%20of%20Land%20-%20Gortakilleen%2C%20Oola.pdf) - Text not extracted
 
-Disposal of Land_ 43 O' Dwyer Villas Thomondgate - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28b%29%20Disposal%20of%20Land%20%20-%2043%20O%27%20Dwyer%20Villas%20Thomondgate.pdf) - Text not extracted
+Disposal of Land: 43 O' Dwyer Villas Thomondgate - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28b%29%20Disposal%20of%20Land%20%20-%2043%20O%27%20Dwyer%20Villas%20Thomondgate.pdf) - Text not extracted
 
-Disposal of Land_ 48 Singland Road Garryowen - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28c%29%20Disposal%20of%20Land%20-%2048%20Singland%20Road%20Garryowen.pdf) - Text not extracted
+Disposal of Land: 48 Singland Road Garryowen - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28c%29%20Disposal%20of%20Land%20-%2048%20Singland%20Road%20Garryowen.pdf) - Text not extracted
 
-Disposal of Land_ 25 Greenhills Road Garryowen - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28d%29%20Disposal%20of%20Land%20-%2025%20Greenhills%20Road%20Garryowen.pdf) - Text not extracted
+Disposal of Land: 25 Greenhills Road Garryowen - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28d%29%20Disposal%20of%20Land%20-%2025%20Greenhills%20Road%20Garryowen.pdf) - Text not extracted
 
-Disposal of Land_ 9 Hawthorn Court Kennedy Park - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28e%29%20Disposal%20of%20Land%20-%209%20Hawthorn%20Court%20Kennedy%20Park.pdf) - Text not extracted
+Disposal of Land: 9 Hawthorn Court Kennedy Park - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28e%29%20Disposal%20of%20Land%20-%209%20Hawthorn%20Court%20Kennedy%20Park.pdf) - Text not extracted
 
 Disposal of Land Garryduff, Newcastle West (0.067 ha) - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20%28f%29%20%20Disposal%20of%20Land%20Garryduff%2C%20Newcastle%20West%20%280.067%20ha%29.pdf) - Text not extracted
 
@@ -80,7 +80,7 @@ Chief Executive's Report July 2019 - Full Meeting of Limerick City and County C
 
 Chief Executive's Report August 2019 - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20%28c%29%20%28iv%29%20Chief%20Executive%27s%20Report%20-%20August%202019.pdf) - Text not extracted
 
-Raising of Loan_ Rebuilding Ireland Home Loan - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20%28d%29%20Raising%20of%20Loan%20-%20Rebuilding%20Ireland%20Home%20Loanspdfjoiner.pdf) - Text not extracted
+Raising of Loan: Rebuilding Ireland Home Loan - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20%28d%29%20Raising%20of%20Loan%20-%20Rebuilding%20Ireland%20Home%20Loanspdfjoiner.pdf) - Text not extracted
 
 Strategic Policy Committees - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/03%20%28e%29%20Strategic%20Policy%20Committees.pdf) - Text not extracted
 

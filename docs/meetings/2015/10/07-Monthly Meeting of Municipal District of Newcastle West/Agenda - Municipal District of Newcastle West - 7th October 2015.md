@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20October%202015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 7th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
+i Seirbhis{ Corparaideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-Oe —_ Cé na gCeannaithe,
+AN fi ™ Cé na gCeannaithe,
 
 . —— Luimneach
 Limerick Corporate Services and Change Management,
@@ -44,17 +45,17 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at
 
-Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 7" October 2015,
+Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 7 October 2015,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Yn, Vor
+lin Vrove
 
 Tina Knox,
 Meetings Administrator.
 
-ee eee eee ee eee ene eee nee eee eee iiteietetetal
+ee ee eee ee ee eee ee ee en eee a eee eee tetiettetel
 
 AGENDA
 
@@ -71,13 +72,15 @@ To note the Local Economic and Community Plan Socio-Economic Statement and High
 
 Level Goals.
 (Reports Enclosed)
-& customerservices@limerick.ie
-Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach & wwwalimerickic
+& customerservicesG@limerickie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerickic
 
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -114,7 +117,7 @@ Abbeyfeale, on the Ballaugh Road.
 1. Church Road, Templeglantine.
 
 2. Between the Old Creamery (Condons) and the Railway Bridge,
-Templegliantine.
+Templeglantine.
 
 The Hill Road Abbeyfeale, (Nolans), down from junction.
 
@@ -130,16 +133,18 @@ Reidy's Shop, Athea.
 Update on flood works to be carried out in Glenashroen, from below Patrick
 Collin's house to Dalton’s Cross.
 
-Bw
+ew
 
-ONAG
+ONAN
 
 | will ask at the next Meeting if a safety railing could be placed at the entrance/exit to the
 pedestrian entrance at St. Ita’s Terrace, Abbeyfeale, coming out on to the Grove Road,
 opposite the old entrance to the Rugby Club.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -165,4 +170,6 @@ allocation of €10,000 be allocated from the General Municipal Allocation towar
 provision of new Christmas lights for Newcastle West town.
 
 
----
+
+[[PAGE_END:3]]
+

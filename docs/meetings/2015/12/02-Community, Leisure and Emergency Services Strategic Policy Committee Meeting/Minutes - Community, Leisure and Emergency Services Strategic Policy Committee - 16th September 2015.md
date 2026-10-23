@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%2C%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee%20-%2016th%20Septem.pdf)
+**Original file:** [Minutes - Community, Leisure and Emergency Services Strategic Policy Committee - 16th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%2C%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee%20-%2016th%20Septem.pdf)
 
----
+[[FILE_START]]
+
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
@@ -100,7 +101,9 @@ committee of SPC to review how the Council could best engage with this process.
 The notice of motion was proposed by Cllr. Sheehy and seconded by Cllr. Collins.
 
 The members discussed the merits of the Motion.
----
+
+[[PAGE_END:1]]
+
 Josephine Cotter Coughlan informed the meeting that the HSE appointed Suicide Prevention
 
 Officer for the Mid-West Area is Mr Martin Ryan. His office is in the process of beginning
@@ -180,7 +183,9 @@ Next Steps:
 Registration is to re-open in November 2015.
 
 PPN.ie communication platform will be launched.
----
+
+[[PAGE_END:2]]
+
 Resource worker finalised and appointed in December.
 
 Nominations and elections to fill SPC, JPC and LCDC seats to be completed by year end.
@@ -260,7 +265,9 @@ Josephine Cotter-Coughlan, Director of Service, and wished her well in her new r
 Director with responsibility for Customer Service. The Chair thanked Josephine for her
 
 assistance to him in his role as Chair both currently and in previous SPCs.
----
+
+[[PAGE_END:3]]
+
 Ms Cotter-Coughlan thanked the members for their dedication, and thanked the staff in her
 
 Directorate for their support over the years.
@@ -278,4 +285,6 @@ Minutes Seconded By:
 Minutes Signed By Chair:
 
 Date:
----
+
+[[PAGE_END:4]]
+

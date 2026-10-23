@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_adjourned_draft_budgetary_plan_meeting_0.pdf)
+**Original file:** [Minutes of Adjourned Draft Budgetary Plan Meeting of Metropolitan District of Limerick - 20th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_adjourned_draft_budgetary_plan_meeting_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ADJOURNED DRAFT
 
 BUDGETARY PLAN MEETING HELD IN THE COUNCIL
@@ -92,7 +93,9 @@ acknowledged the sentiments expressed by the Members in relation to same.
 In response to queries raised by the Members, the Meetings Administrator pointed out that
 
 if the Draft Budgetary Plan for the Metropolitan District was not adopted by the Members it
----
+
+[[PAGE_END:1]]
+
 would go forward for inclusion in the overall budgetary process. He also clarified that the
 
 Chief Executive was required to consult with the Corporate Policy Group in terms of the
@@ -114,4 +117,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

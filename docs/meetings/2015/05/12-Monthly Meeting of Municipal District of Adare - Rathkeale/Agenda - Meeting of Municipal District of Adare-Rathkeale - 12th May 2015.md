@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_adare-rathkeale_-_tuesday_12th_may_2015.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Adare-Rathkeale - 12th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_adare-rathkeale_-_tuesday_12th_may_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-mes Cé na gCeannaithe,
-—=— Luimneach
+mews Cé na gCeannaithe,
+—==>= Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City and oe ——
-lerchants A
+CITY & COUNTY Limerick City and County Council,
+Merchants Quay,
 
-COUNCIL weak
+COUNCIL aces
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -38,7 +39,6 @@ f: +353 (0) 61 415 266
 7% May, 2015.
 
 To: The C irl mber of the Municipal
-
 District of Adare-Rathkeale
 
 A Chomhairleoir, a chara,
@@ -51,11 +51,11 @@ a.m. The business to be transacted is set out on the appended Agenda.
 Is mise le meas,
 ‘
 
-/~ Tom ioe ieee
+~ Tom <a ieee
 
 Meetings Administrator.
 
-a an nn nn enn nn nn oo enn ee nee een RRR e RRR RENAN EARLE OOOO Oe ee ee ee a
+en a a nn nn nn nn nn en nn on een nn nee een RRR eee NRE A AREER LEER E EERE EO ee eee Oe
 
 AGENDA
 
@@ -71,11 +71,13 @@ e Ballymacave, Croagh
 (Report Enclosed)
 
 = customerservices@limerick.ie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach ! 6 wnw.limerick.te
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach ! 6 www.limerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -118,4 +120,6 @@ gasification plant at Gortadroma. This would be the first in a series of meeting
 public consultation.
 
 
----
+
+[[PAGE_END:2]]
+

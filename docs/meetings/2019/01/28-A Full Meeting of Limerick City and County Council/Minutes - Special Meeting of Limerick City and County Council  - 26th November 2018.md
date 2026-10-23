@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28b%29%20Minutes%20Special%20Meeting%20261118.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council  - 26th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28b%29%20Minutes%20Special%20Meeting%20261118.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -88,7 +89,9 @@ And Resolved;
 “That, in accordance with the provisions of Section 16(5)(b)(iv) of the Universities Act, 1997
 
 and Part 8 of the Regulations on Governing Body Elections of University College Cork,
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor O’Dea is hereby nominated to represent Limerick City and County Council on the
@@ -108,4 +111,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

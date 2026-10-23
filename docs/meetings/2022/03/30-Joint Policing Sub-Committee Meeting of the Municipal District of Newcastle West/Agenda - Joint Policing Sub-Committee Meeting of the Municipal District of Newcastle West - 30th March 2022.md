@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-30-agenda-jpc-subcommittee-meeting-march-2022.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Newcastle West - 30th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-30-agenda-jpc-subcommittee-meeting-march-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
-AN if ™
+AN fr ™
 
 — Limerick City
 — & County Council
@@ -31,7 +32,7 @@ AN if ™
 25" March, 2022
 
 Duche Bardais an Chaisieain Nua Thiar
-Comhairte Cathwach agus Contae Luimmigh,
+Comhairte Cathwach agus Contae Luimmnigh,
 Aras William Smith O'Brien.
 
 Gortbui
@@ -59,7 +60,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Newcastle West JPC
 Subcommittee to be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on
-Wednesday, 30% March, 2022, at 10.00 a.m.. The business to be transacted is set out on
+Wednesday, 30 March, 2022, at 10.00 a.m.. The business to be transacted is set out on
 
 the appended Agenda.
 
@@ -70,7 +71,7 @@ Meetings Administrator.
 
 AGENDA
 
-i Minutes
+1 Minutes
 
 To adopt Minutes of Meeting of the Joint Policing Sub Committee of the Municipal
 
@@ -80,10 +81,12 @@ District of Newcastle West held on 20" October, 2021.
 
 To discuss policing issues in the District.
 
-Chorpartideach, Cé na gCeannaithe, Luimneach
+Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchant's Quay, Limerick
 
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+

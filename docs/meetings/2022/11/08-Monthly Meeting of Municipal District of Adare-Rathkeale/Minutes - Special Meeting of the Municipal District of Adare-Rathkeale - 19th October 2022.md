@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28b%29%20Minutes%20of%20Special%20Meeting%2019th%20October%2C%202022.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28b%29%20Minutes%20of%20Special%20Meeting%2019th%20October%2C%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK**
@@ -114,7 +115,9 @@ Special Projects – LPT
 **General Municipal Allocation**
 
 **270,000**
----
+
+[[PAGE_END:1]]
+
 Following discussion, the following was agreed:
 
 Proposed by Councillor Sheahan;
@@ -174,4 +177,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

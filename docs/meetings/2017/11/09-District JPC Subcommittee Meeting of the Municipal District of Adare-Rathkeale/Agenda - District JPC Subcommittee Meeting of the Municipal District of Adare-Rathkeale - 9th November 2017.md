@@ -16,27 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%20JPC%20District%20Subcommittee%20Meeting%20%281%29.pdf)
+**Original file:** [Agenda - District JPC Subcommittee Meeting of the Municipal District of Adare-Rathkeale - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%20JPC%20District%20Subcommittee%20Meeting%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_— Comhairle Cathrach - — a
-& Contae Luimnigh omni chat 2a ety
+Seirbhisi Corparaideacha,
 
-NEN ini Cé na gCeannaithe.
-— Limerick City : Luimneach
+_—— Comhairle Cathrach a A enc
+& Contae Luimnigh aaa Chempermianaeh,
+NEN ; P ; Cé na gCeannaithe,
+—SS Limerick City Luimneach
 & County Council
 Corporate Services,
-Limerick City and County Courxil,
+Limerick City and County Council,
 Corporate Headquarters,
-
 Merchants Quay.
 Limerick
+EIRCODE V4 E90
 
-EIRCODE V94 E3190
-
-‘6 t: 4353 (0) 61 557150
+‘é t: 4353 (0) 61 557150
 3” November, 2017. f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare- 7
@@ -65,8 +65,10 @@ Policing Issues
 
 @ Customerservicesalimerick.te
 
-Ceanncheathri Chorpardéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathru Chorpardéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+

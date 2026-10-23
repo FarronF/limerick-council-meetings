@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-october-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -102,7 +103,9 @@ The proposed breakdown was outlined as follows:
 **Local Roads**
 
 **235,000**
----
+
+[[PAGE_END:1]]
+
 2
 
 **F04**
@@ -174,7 +177,9 @@ Limerick and the intention to bring a Section 183 Notice to Full Council in this
 approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:2]]
+
 3
 
 (d) Circulated, Report of the Head of Property Management dated 24th September, 2025, setting
@@ -250,7 +255,9 @@ The Senior Executive Engineer, Planning and Place-Making gave a Presentation to 
 Laneways Programme, noting that the Programme forms part of the Living Limerick City Centre
 
 (LLCC) Initiative.
----
+
+[[PAGE_END:3]]
+
 4
 
 He outlined the key aspects of the programme as follows:
@@ -324,7 +331,9 @@ And Resolved:
 in accordance with the provisions of the Planning and Development Act 2000 (as amended) and
 
 the Planning and Development Regulations 2001 (as amended).
----
+
+[[PAGE_END:4]]
+
 5
 
 **7.Transportation and Mobility Directorate**
@@ -394,7 +403,9 @@ and wheelchair accessibility principles, providing an adaptable and high-quality
 environment. The A2 BER-rated, five-bedroom property is located on a large site and has
 
 an internal gross floor area of 172m².
----
+
+[[PAGE_END:5]]
+
 6
 
 **10.Question submitted by Councillor U. Gavan**
@@ -466,7 +477,9 @@ Greenway is still in the route selection phase.
 A number of issues are still under consideration by the project team prior to the publication
 
 of the preferred route, and it is hoped that these will be resolved in the near future.
----
+
+[[PAGE_END:6]]
+
 7
 
 **13.Question submitted by Councillor O. O’Sullivan**
@@ -540,7 +553,9 @@ and contract docs. Transport Infrastructure Ireland (TII) has indicated they are
 of this scheme with intended delivery next year subject to funding.
 
 **16.Question submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:7]]
+
 8
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for the number of Notice to***
@@ -630,7 +645,9 @@ Five bedrooms
 sign a Friendship Agreement. This agreement unites Limerick and Savannah in both a
 
 cultural and economic partnership. We also welcomed a delegation from Georgia in May
----
+
+[[PAGE_END:8]]
+
 9
 
 which included Jon Burns, the Speaker of the House of Representatives. This visit was a
@@ -702,7 +719,9 @@ and assessments being completed with a view of presenting to the Members prior t
 end of the year.
 
 **22.Question submitted by Councillor M. Donoghue**
----
+
+[[PAGE_END:9]]
+
 10
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
@@ -776,7 +795,9 @@ measure.
 **REPLY**: Limerick Library Service have followed up on exploring the potential opportunity of the *One*
 
 *City, One Book* model for both Limerick City & County.
----
+
+[[PAGE_END:10]]
+
 11
 
 Important considerations which have emerged include a suitable funding model, the
@@ -850,7 +871,9 @@ developed by the Parks Dept and which will form part of the Part 8 planning appl
 Details of the proposed scheme have been circulated to the various directorates for review
 
 and/or comment and we await their feedback. Assuming no further design changes and/or
----
+
+[[PAGE_END:11]]
+
 12
 
 supporting studies, it is envisaged that a Part 8 will be submitted mid to late November of
@@ -900,7 +923,9 @@ Estimated completion date for each LA Affordable Purchase scheme in 2026 and 202
 ***normally do not use this road, so oncoming traffic are safe.*** ***With the grass cut the road will be***
 
 (Image omitted)
----
+
+[[PAGE_END:12]]
+
 13
 
 ***wider and safer.***
@@ -970,7 +995,9 @@ agreed.
 In proposing the Motion, Councillor Beasley stated that regular updates on available residential
 
 properties would be beneficial to Members.
----
+
+[[PAGE_END:13]]
+
 14
 
 **REPLY**: The Housing Directorate currently presents regular updates to each Municipal District on
@@ -1044,7 +1071,9 @@ people since Annacotty did not have a bus service into the city, and noted the s
 volumes in the area.
 
 **35.Notice of Motion submitted by Councillor U. Gavan**
----
+
+[[PAGE_END:14]]
+
 15
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick, that a traffic***
@@ -1132,7 +1161,9 @@ Flavours of Limerick festival and the value for money it provided.
 a workshop with the Metropolitan District members, as well as a review of the festival.
 
 Members consider that there was very little public awareness of the event and expressed concern
----
+
+[[PAGE_END:15]]
+
 16
 
 about the level of marketing that took place in advance of the festival. Members expressed support
@@ -1204,7 +1235,9 @@ In proposing the Motion, Councillor Kiely stated that providing extensions for t
 housing would provide a better quality of life for tenants and enhance the overall housing stock.
 
 **40.Notice of Motion submitted by Councillor S. Kiely**
----
+
+[[PAGE_END:16]]
+
 17
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that we examine the***
@@ -1280,7 +1313,9 @@ of the last remaining seats.
 ***requirements without the availability of sufficient external space within private residences.***
 
 The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor Gavan and
----
+
+[[PAGE_END:17]]
+
 18
 
 agreed.
@@ -1358,7 +1393,9 @@ the last number of years owing to increased focus on the City Centre by the Coun
 was requested by the Elected Members. On foot of this, the Council has been reviewing
 
 their operation with a view to identifying potential outdoor dining solutions within the
----
+
+[[PAGE_END:18]]
+
 19
 
 public realm that provides for a 2m clearance on the public footpath while avoiding cross
@@ -1394,4 +1431,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:19]]
+

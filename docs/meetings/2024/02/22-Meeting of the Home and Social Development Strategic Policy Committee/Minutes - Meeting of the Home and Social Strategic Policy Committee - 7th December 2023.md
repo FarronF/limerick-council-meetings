@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/minutes-meeting-of-the-home-and-social-strategic-policy-committee-22nd-february-2024.pdf)
+**Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 7th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/minutes-meeting-of-the-home-and-social-strategic-policy-committee-22nd-february-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
@@ -102,7 +103,9 @@ Regeneration Mr. Brendan Troy, Senior Executive Officer, Regeneration, Mr. Seamu
 Administrative Officer, Housing, Ms. Aoife O’Brien Slater, Administrative Officer, Housing, Ms.
 
 Miriam Donnelly, Administrative Officer, Housing.
----
+
+[[PAGE_END:1]]
+
 2
 
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
@@ -168,7 +171,9 @@ please a minimum deposit of 10% of the purchase price, plus in limited circumsta
 savings.
 
 **Item 4 (a) and (b) : Sales Schemes**
----
+
+[[PAGE_END:2]]
+
 3
 
 Item 4(a)
@@ -246,7 +251,9 @@ house prices are unaffordable.
 Ms. Curley advised the members that the Council have statutory obligations.
 
 Item 4(b) Consideration to be given to examination of dwellings compulsorily acquired under the
----
+
+[[PAGE_END:3]]
+
 4
 
 Derelict Sites Act with a view to offering a portion to first time buyers on the housing list
@@ -320,7 +327,9 @@ by the committee.
 A discussion took place. Cllr. Benson stated that Affordable Housing is private housing and that we
 
 need housing for everyone.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Keary stated that AHB tenants currently can’t purchase their own home. Cllr. Keary also stated
@@ -404,7 +413,9 @@ investment until 2030 and that there will be SIF funding available in 2024 subje
 approval of the scheme. Mr. Delaney informed the committee that it’s intended to make changes
 
 to the scheme in the areas of youth, employment, health and wellbeing.
----
+
+[[PAGE_END:5]]
+
 6
 
 Mr. Delaney stated that applications are submitted under an annual funding programme and that
@@ -460,4 +471,6 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC and 
 members a Merry Christmas and a happy new year.
 
 **END OF MEETING**
----
+
+[[PAGE_END:6]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-draft-minutes-monthly-meeting-15th-april-2024.pdf)
+**Original file:** [Minutes -  Meeting of Metropolitan District of Limerick - 15th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-draft-minutes-monthly-meeting-15th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -86,7 +87,9 @@ declared.
 proposals for Disposal of Derelict Property at Rathurd, Drombanny, Co. Limerick and the
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -220,7 +223,9 @@ Limerick Suicide Watch
 €500
 
 It was proposed by Councillor Kiely, seconded by Councillor O’Hanlon and agreed, to approve the
----
+
+[[PAGE_END:2]]
+
 3
 
 proposals under the Community Initiative Scheme 2024, as follows:
@@ -356,7 +361,9 @@ which is celebrating the 20th Anniversary of the Festival. She highlighted detai
 Parade which will be held on Friday night along the River Shannon and the fireworks display which
 
 will take place on Sunday night. Members welcomed the programme of activities and agreed that
----
+
+[[PAGE_END:3]]
+
 4
 
 this was a significant event for the city.
@@ -430,7 +437,9 @@ project is currently on site with handover of the 12 no. units scheduled for Qua
 consideration as part of the wider Arthur’s Quay Framework Plan. The emerging options
 
 were presented recently in committee to the Elected Members of the Metropolitan
----
+
+[[PAGE_END:4]]
+
 5
 
 District and are being developed in consultation with stakeholders with the objective of
@@ -504,7 +513,9 @@ necessary standards and to also regularly maintain when required.
 clear safe and direct pedestrian linkages’ between areas such as employment, shopping and
 
 residential zones. Furthermore, LSMATS sets out a commitment under a number of
----
+
+[[PAGE_END:5]]
+
 6
 
 measures to address permeability of neighbourhoods.
@@ -588,7 +599,9 @@ Please note, a total of €991,169 was spent over the three years on replacement
 windows, this figures does not include minor repairs under €1000.
 
 **14.Question submitted by Councillor E. O’Donovan**
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for an update on potential***
@@ -670,7 +683,9 @@ Submission
 Carey’s Road (of which the Circa 250
 
 Q2 2025
----
+
+[[PAGE_END:7]]
+
 8
 
 Guinness site is part)
@@ -744,7 +759,9 @@ public including online customer service help bots with interactive messaging.
 ***the Land Development Agency (LDA) to request an update on all housing projects in Limerick at***
 
 ***the next meeting**of this Council.***
----
+
+[[PAGE_END:8]]
+
 9
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor McSweeney and
@@ -824,7 +841,9 @@ specifically look to address congestion on the approaches to this junction as we
 facilitating a Park and Ride & mobility hub near Junction 28 in line with LSMATS to facilitate
 
 sustainable travel.
----
+
+[[PAGE_END:9]]
+
 10
 
 It is an aim under LSMATS to increase, promote and facilitate Active Travel & Public
@@ -904,7 +923,9 @@ suspended in order to complete the agenda.
 ***I will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and***
 
 ***County Council considers making available loan facilities to people who wish to refurbish a house***
----
+
+[[PAGE_END:10]]
+
 11
 
 ***as their own residence under the Vacant Home Refurbishment Scheme.***
@@ -992,7 +1013,9 @@ seconded by Councillor Kiely.
 **23.Notice of Motion submitted by Councillor K. O’Hanlon**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that bus stops would be***
----
+
+[[PAGE_END:11]]
+
 12
 
 ***erected in the vicinity of Ted Russell Park, Condell Road. These would facilitate buses going in and***
@@ -1036,4 +1059,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-9th-june-2026.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 9th June, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-9th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
 
-_——_— 5 Corkas ilanioh Comhairle Cathrach agus — rena
-Af —a me ne an
+_——_ 5 Corkas Lleanioh Comhairle Cathrach agus — av
+7. f  —- me Ae an
 Limerick City Rath Caola
 
-= & County Council Co. Luimnigh
+= & County Council Co, Luimnigh
 
 Adare-Rathkeale Municipal District.
 Limerick City and County Council,
@@ -39,7 +40,7 @@ Rathkeale,
 
 Co. Limenck.
 
-EIRCODE V94 HKIV
+EIRCODE V94 HIV
 
 4" June, 2026. t: +353 (0) 69 64047
 {: +353 (0) 69 63188
@@ -56,7 +57,7 @@ Agenda.
 
 Is mise le meas,
 
-Karen Butl
+Karen But
 Meetings Administrator.
 
 AGENDA
@@ -64,19 +65,21 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
-on 12" May, 2026.
+on 12"" May, 2026.
 
 (Copy Enclosed).
 2. Declaration of Interest
-= customerservices@limerick.ic
-Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © wvew.timerick.te
+‘= customerservices@limerick.ic
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach | © wvewltimerick.te
 Corporate Headquarters, Merchants Quay, Limerick.
 
 @LimerickCouncil
-© 061 - 586 000
+\ 061 - 536 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 R rati ni rt | Develo;
@@ -115,4 +118,6 @@ Heritage Number 21901919 with a view to having same removed from the said regist
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

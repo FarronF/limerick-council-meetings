@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 10th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -86,7 +87,9 @@ his work as a public representative and as a business man, his involvement in th
 his love of the Irish language.
 
 A minute’s silence and reflection was observed as a mark of respect.
----
+
+[[PAGE_END:1]]
+
 2
 
 1.
@@ -158,7 +161,9 @@ concerning proposal to dispose of land at rear of 13 Michael Hartnett Close, New
 Co. Limerick.
 
 Members noted the proposal.
----
+
+[[PAGE_END:2]]
+
 3
 
 4.
@@ -220,7 +225,9 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 On the proposal of Councillor Sheahan, seconded by Councillor Collins, it was agreed to
 
 allocate €1,000 to Athea Hall.
----
+
+[[PAGE_END:3]]
+
 4
 
 ADJOURNED NOTICE OF MOTION
@@ -292,7 +299,9 @@ Focus Housing Association received funding approval in October 2022 to refurbish
 Maiden Street, Newcastle West as part of lot in the Newcastle West District. Legal transfers
 
 are underway at present.
----
+
+[[PAGE_END:4]]
+
 5
 
 Following an update from Focus Housing Association on the 1st February 2023, it is
@@ -368,7 +377,9 @@ the design works are progressing with a tender during quarter two of 2023.
 The layout of the Abbeyfeale Traffic Management Scheme is attached overleaf.
 
 **(c) Costings**
----
+
+[[PAGE_END:5]]
+
 6
 
 The estimated cost of the project is €15.5m. There is a commitment of funding from Transport
@@ -394,7 +405,9 @@ It is planned to award the advance works contract for demolition of O’Riordan�
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:6]]
+
 7
 
 13.
@@ -472,7 +485,9 @@ These footpaths can be considered under the 2023 GMA program of works.
 In proposing the Motion, Councillor Scanlan referred to the poor condition of sections of the
 
 footpath at the Mass Path to Assumpta Park, Bóthar Bui Road and along St. Ita’s Road to
----
+
+[[PAGE_END:7]]
+
 8
 
 junction with Beechwood Estate. In replying, the Executive Engineer stated that these
@@ -546,7 +561,9 @@ where vulnerable people live.
 ***I will move at the next Meeting that*** ***a disability bay be put in place down Whites Passage,***
 
 ***Meenoline South next to the Greenway.***
----
+
+[[PAGE_END:8]]
+
 9
 
 The Motion was seconded by Councillor Sheahan.
@@ -616,7 +633,9 @@ An update was sought on Devon Road Cross and Dore’s Cross, Templeglantine. In 
 the Executive Engineer agreed to follow up with Transport Infrastructure Ireland on this
 
 matter.
----
+
+[[PAGE_END:9]]
+
 10
 
 An extension of the footpath and public lighting on the Killarney Road towards Dalton’s Cross
@@ -666,4 +685,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20Special%20Meeting%20261118.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council to elect a representative on the Governing Authority of University College Cork – National University of Ireland, Cork - 26th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20Special%20Meeting%20261118.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
 & Contae Luimnigh
-ay m<a. ick Ci
-—— imerick City
+al mca. ick Ci
+— imerick City
 & County Council
 
 20” November, 2018.
 
-Seirdhisi Corparaiieacha.,
+Seirdhisi Corparaiieacha,
 
 Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathni Chorparaideach,
+Ceanncheathri Chorparaideach,
 
 Cé na gCeannaithe,
 
@@ -69,33 +70,35 @@ Cork, for the five years commencing 1* February, 2019.
 
 Is mise le meas,
 
-Ja ! bag
+Ja ele
 
 ings Administrator.
 
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-= customerservices@limerickic
-© vewilimerickie
+= customerservices@limerickie
+© vows limerickie
 
 w @LimerickCouncil
 
 ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_ Comhairle Cathrach
+_—__ Comhairle Cathrach
 & Contae Luimnigh
-NIN “ manic, ick Ci
-—— imerick City
+
+— Limerick City
 & County Council
 
 20" November, 2018.
 
-Seirbhési Corparéideacha,
+Seirohési Corparéideacha.
 
 Comhairle Cathrach agus Contae Luimnigh.
 Ceanncheathra Chorparaideach.
@@ -112,9 +115,9 @@ Merchants Quay.
 
 Limerick
 
-EIRCODE V94 EH90
+EIRCODE V34 EH90
 
-t: +353 (0) 61 557150
+t: #353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
@@ -139,18 +142,20 @@ Election Meeting is requested.
 
 Is mise le meas,
 
-Ja Oe cluna,
+Ja Bas luna,
 Meetings Administrator.
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
-@ customerservicesa@limerick.ie
+@ customerservices@limerick.ie
 © werwlimerickie
 
-w @LimerickCouncil
+Ww @LimerickCouncil
 
-(061 - 557150
+( 061 - 557150
 
 
----
+
+[[PAGE_END:2]]
+

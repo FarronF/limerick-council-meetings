@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20%28c%29%20Minutes%20Special%20Meeting%2006.12.2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 6th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20%28c%29%20Minutes%20Special%20Meeting%2006.12.2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN COUNCIL CHAMBER DOORADOYLE AND ONLINE, ON
@@ -76,7 +77,9 @@ Michael was first elected as a TD for Limerick West in 1997, a seat he held unti
 2007. The Mayor confirmed that the Collins family held that seat in Dail Eireann since 1948,
 
 and noted that Michael took the seat previously held by his brother, Gerry, and his late father,
----
+
+[[PAGE_END:1]]
+
 2
 
 James, before that. Michael was a very warm, generous, humble man who dedicated his time
@@ -142,4 +145,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

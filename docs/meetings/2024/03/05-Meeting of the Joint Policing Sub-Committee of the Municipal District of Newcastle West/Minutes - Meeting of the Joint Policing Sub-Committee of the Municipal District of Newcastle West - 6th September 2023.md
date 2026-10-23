@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-joint-policing-sub-committee-of-the-municipal-district-of-newcastle-west-6th-september-2023.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West - 6th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-joint-policing-sub-committee-of-the-municipal-district-of-newcastle-west-6th-september-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES
@@ -98,7 +99,9 @@ Seconded by: Councillor Scanlan
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2. Policing Issues in the District
@@ -172,7 +175,9 @@ plan to be put in place over the Halloween period. He stated that the Gardaí wi
 plan under the nationwide Operation Tombolo which is focused on the prevention and detection
 
 of the sale of fireworks and associated public order and anti-social behaviour issues during the
----
+
+[[PAGE_END:2]]
+
 3
 
 Halloween period. He stated that resources will be made available which will include one
@@ -234,7 +239,9 @@ four to a five unit roster in November.
 The Cathaoirleach and Members acknowledged the work of An Garda Síochána and thanked the
 
 Superintendent and the Gardaí on the overview of policing matters in the District.
----
+
+[[PAGE_END:3]]
+
 4
 
 This concluded the Meeting.
@@ -244,4 +251,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

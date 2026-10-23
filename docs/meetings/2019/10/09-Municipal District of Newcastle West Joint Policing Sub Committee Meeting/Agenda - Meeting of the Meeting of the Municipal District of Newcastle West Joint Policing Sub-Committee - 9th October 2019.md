@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00-2019-10-09-JPC-Subcommittee-Agenda.pdf)
+**Original file:** [Agenda - Meeting of the Meeting of the Municipal District of Newcastle West Joint Policing Sub-Committee - 9th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00-2019-10-09-JPC-Subcommittee-Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+Comhairle Cathrach Diiiche Bardais an Chaiskedin Nua Thiar,
 & Contae Luimnigh Comnairle Cathwach agus Contae Luirnnigh,
 
-Ars , Aras Wiliam Smith OBrien,
+Ars  ™ Aras Wiliam Smith OBrien,
 
-, Gortbut,
+: Gortbus,
 
-Ss Limerick City _ An Caisingn Nua Thiar,
+———— Limerick City An Caisingn Nua Thiar,
 & County Council Co. Luimnigh.
 
 Newcastle West Municipal District,
 
-Limerick City aril County Courcil,
+Limerick City aril County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
@@ -41,7 +42,7 @@ Newcastle West,
 
 Co. Limerick
 
-Ewreode: V42EH73
+Earoode: V42EH73
 
 t +353 (0) 69 62100
 
@@ -54,11 +55,11 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West JPC
 Subcommittee to be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on
 Wednesday, 9" October, 2019, at 11.45 a.m. The business to be transacted is set out on
-
 the appended Agenda.
+
 Is mise le meas,
 
-eget Grete
+dergeast Caetr
 
 Meetings Administrator.
 
@@ -71,9 +72,11 @@ District of Newcastle West held on 6" March, 2019.
 (Copy Enclosed)
 2. Policing Issues
 To discuss policing issues in the District.
-meneneryeertarikt
+menenereyeertarikt
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www.limerickic
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

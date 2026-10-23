@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01_minutes_20th_march2c_2017.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick -  20th March 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01_minutes_20th_march2c_2017.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
 **IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20TH** **MARCH,**
@@ -90,7 +91,9 @@ Circulated, report of the Senior Executive Officer, Community Support Services d
 March, 2017 setting out proposals for the disposal of the Freehold Interest in dwellings set
 
 out below and the intention to bring the related Section 183 Notice to the full Council for
----
+
+[[PAGE_END:1]]
+
 2
 
 approval.
@@ -176,7 +179,9 @@ Section 179(3) of the Planning and Development Act 2000 (as amended) and Part VI
 Planning and Development Regulations 2001 (as amended) and it was proposed to proceed
 
 in accordance with Section 5 of the report.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members welcomed the proposed development as set out in the circulated report.
@@ -244,7 +249,9 @@ Further to consultation with Cluid Housing, the Approved Housing Body (AHB)
 developing the Hyde Road Flats, the completion of construction is
 
 programmed for October 2017.
----
+
+[[PAGE_END:3]]
+
 4
 
 **NOTICES OF MOTION**
@@ -330,7 +337,9 @@ be in a position to consider the overall Corbally area and will incorporate
 appropriate cycling and walking infrastructure, where possible, as part of the
 
 flood relief scheme.
----
+
+[[PAGE_END:4]]
+
 5
 
 Members expressed dissatisfaction with the reply and stressed the extent of flooding that
@@ -406,7 +415,9 @@ The Motion was proposed by Councillor Gilligan and seconded by Councillor Daly.
 Members supported the Motion and noted the importance of preserving the records that
 
 had been retained in relation to Glin to facilitate any future investigation.
----
+
+[[PAGE_END:5]]
+
 6
 
 **13.**
@@ -480,7 +491,9 @@ following points while discussing same;
 intended to support a single or small number of large events;
 
 • The difference in funding granted by Fáilte Ireland to Galway compared to Limerick
----
+
+[[PAGE_END:6]]
+
 7
 
 should be explored further;
@@ -558,7 +571,9 @@ Members welcomed the proposed works and the fact that an access was being provid
 from the proposed roundabout to the adjacent GAA facilities.
 
 Mr. Bergen confirmed that consultation with landowners had taken place and anticipated
----
+
+[[PAGE_END:7]]
+
 8
 
 that additional consultation would take place when the Part VIII was published. He noted
@@ -640,7 +655,9 @@ years. The Meetings Administrator emphasised the deadlines outlined in the reply
 undertook to bring the concerns of Members to Design and Delivery Services. The Mayor
 
 requested that the reply, as read out, be circulated to Members.
----
+
+[[PAGE_END:8]]
+
 9
 
 **17.**
@@ -724,7 +741,9 @@ In seconding the Motion Councillor Collins stressed that he did not support the 
 of toxic waste within the community. He expressed disbelief at the assertions made by Irish
 
 Cement and disappointment that Irish Cement should threaten job losses, should the
----
+
+[[PAGE_END:9]]
+
 10
 
 proposed development not go ahead. He noted that the Environmental Protection Agency
@@ -796,4 +815,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-b-minutes-council-meeting-03.12.2020.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 3rd December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-b-minutes-council-meeting-03.12.2020.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD AT LIMERICK RACECOURSE, GREENMOUNT PARK,
@@ -82,7 +83,9 @@ Seconded by Councillor Sheahan (J);
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -166,7 +169,9 @@ Representatives of William Quane, deceased, for the sum of €299.20, the dispos
 way of Deed of Conveyance of the interest of Limerick City and County Council in the property,
 
 particulars of which were contained in Statutory Notice dated 24th September, 2020.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (d)
@@ -248,7 +253,9 @@ particulars of which were contained in Statutory Notice dated 6th October, 2020.
 Circulated, copy of Statutory Notice dated 16th October, 2020, together with Land
 
 Registry Compliant Map, concerning disposal of land at Pallas, Kilmeedy, Co. Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Leddin;
@@ -330,7 +337,9 @@ Proposed by Councillor Leddin;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:4]]
+
 5
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -416,7 +425,9 @@ Proposed by Councillor Leddin;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 6
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -494,7 +505,9 @@ Proposed by Councillor Leddin;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:6]]
+
 7
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
@@ -574,7 +587,9 @@ And Resolved:
 from the Minister for Housing, Local Government and Heritage, in accordance with Section
 
 106 of the Local Government Act, 2001, as amended, for a loan in the amount of €4,592,199
----
+
+[[PAGE_END:7]]
+
 8
 
 to fund the drawdown of Rebuilding Ireland Home Loans, the loan to be drawn from the
@@ -652,7 +667,9 @@ Councillor Galvin seconded the Motion.
 The Meetings Administrator then went through his report as circulated, outlining the
 
 issues therein.
----
+
+[[PAGE_END:8]]
+
 9
 
 Members referred to the current workload and number of meetings that they were
@@ -726,7 +743,9 @@ The Meetings Administrator then read out the report that accompanied this agenda
 item in which he highlighted the annual cost, the viewership figures from the four Local
 
 Authorities that currently had a live-streaming service, and the defamation/litigation issues.
----
+
+[[PAGE_END:9]]
+
 10
 
 In the discussion that followed, it was broadly agreed that the matter of live-streaming
@@ -814,7 +833,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Leddin;
 
 And Resolved:
----
+
+[[PAGE_END:10]]
+
 11
 
 “That, the approval of the Council be and is hereby given to the appointment of further
@@ -932,7 +953,9 @@ On the proposal of Councillor O’Hanlon, seconded by Councillor O’Brien, the
 Recommendation was agreed and accordingly the Limerick City and County Council Play and
 
 Recreation Policy, as circulated, was approved by the Council.
----
+
+[[PAGE_END:11]]
+
 12
 
 **Recommendation No. 2**
@@ -1000,7 +1023,9 @@ Circulated, Report of the Chairperson of the Climate Action, Biodiversity and
 Environment Strategic Policy Committee dated 9th November, 2020, in relation to
 
 Meeting of the Committee held on 13th October, 2020.
----
+
+[[PAGE_END:12]]
+
 13
 
 The Report was noted by the Council
@@ -1068,7 +1093,9 @@ by the SPC:
 On the proposal of Councillor Murphy, seconded by Councillor Keary, the
 
 Recommendation was agreed.
----
+
+[[PAGE_END:13]]
+
 14
 
 Councillor Benson stated that there were a number of concerns expressed at the SPC
@@ -1148,7 +1175,9 @@ Proposed by Councillor O’Hanlon;
 Seconded by Councillor O’Brien;
 
 And Resolved:
----
+
+[[PAGE_END:14]]
+
 15
 
 “That, Limerick City and County Council agrees to the making of an Agreement, as
@@ -1222,7 +1251,9 @@ QUESTIONS
 Replies to the following Questions on the agenda were circulated to all Members prior
 
 to the Meeting and the Questions were therefore considered as having been dealt with.
----
+
+[[PAGE_END:15]]
+
 16
 
 8.
@@ -1422,7 +1453,9 @@ period of COVID-19 in March/April. All other requests for Housing
 Maintenance received from tenants are recorded in Sugar CRM for review
 
 when COVID-19 restrictions are eased.
----
+
+[[PAGE_END:16]]
+
 17
 
 In the period from January to October 2020, Housing Maintenance has
@@ -1578,7 +1611,9 @@ Heritage Unit Cost
 Ceiling for 2 bed and 3
 
 bed
----
+
+[[PAGE_END:17]]
+
 18
 
 County
@@ -1716,7 +1751,9 @@ Notice of Motion submitted by Councillor E. O’Brien
 **Transport Authority for the phased re-introduction of a freight and passenger service along**
 
 **the Limerick City to Foynes railway line in time for the 2027 Ryder Cup.**
----
+
+[[PAGE_END:18]]
+
 19
 
 In proposing the Motion, Councillor O’Brien emphasised that the railway line was not
@@ -1794,7 +1831,9 @@ list reduced to one year.
 In seconding the Motion, Councillor Scanlan spoke of the right of landowners to secure
 
 their properties and proposed an amendment to the wording of the Motion as follows:
----
+
+[[PAGE_END:19]]
+
 20
 
 *“**We will move at the next Meeting for the State to increase central funding for the*
@@ -1868,7 +1907,9 @@ condition.
 The Motion was seconded by Councillor Sheahan (J) and it was unanimously
 
 supported by the Council.
----
+
+[[PAGE_END:20]]
+
 21
 
 17.
@@ -1934,7 +1975,9 @@ The Invincibles Reinterment Campaign
 With the permission of the Mayor, Councillor Sheahan (K) proposed the following
 
 Motion:
----
+
+[[PAGE_END:21]]
+
 22
 
 *“That, Limerick City and County Council call on the Office of Public Works to carry out the*
@@ -1978,4 +2021,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:22]]
+

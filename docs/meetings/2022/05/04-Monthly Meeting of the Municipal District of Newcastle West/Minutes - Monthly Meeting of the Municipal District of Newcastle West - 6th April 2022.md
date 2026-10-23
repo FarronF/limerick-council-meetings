@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01%202022-04-06%20Minutes%20April.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01%202022-04-06%20Minutes%20April.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -98,7 +99,9 @@ Seconded by: Councillor Sheahan
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(b)**
@@ -172,7 +175,9 @@ Members, in welcoming the report, thanked staff for the work, which had gone int
 the Schedule. They noted the works proposed for 2022 and referred to the funding which was
 
 made available for the various projects, which was also welcomed.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Members unanimously adopted the Schedule of Works 2022 for the Municipal District
@@ -242,7 +247,9 @@ in Abbeyfeale to divert people into the town. In replying, the Director agreed t
 matter but stated that an information sign showing a map of the town centre of Abbeyfeale
 
 is in place at this location.
----
+
+[[PAGE_END:3]]
+
 4
 
 7.
@@ -316,7 +323,9 @@ Chuchtown landfill site.
 A scope of works has been agreed, and we will be engaging with Contractors to carry out site
 
 clearance at this location over the coming months. Subject to compliance with the provisions
----
+
+[[PAGE_END:4]]
+
 5
 
 of the Wildlife Acts, it is hoped to have this work completed in Quarter 2 of 2022. This should
@@ -392,7 +401,9 @@ Question submitted by Councillor J. Scanlan
 REPLY:
 
 **(a)**The approved loan of €300,000 is fully drawn down.
----
+
+[[PAGE_END:5]]
+
 6
 
 **(b)**€200,000 on 8 July 2021 and €100,000 on 2 March 2022.
@@ -460,7 +471,9 @@ In proposing the Motion, Councillor Galvin referred to the condition of the apar
 Killarney Road, Abbeyfeale and it was agreed that the Director would liaise with the relevant
 
 Directorate on this matter.
----
+
+[[PAGE_END:6]]
+
 7
 
 16. Notice of Motion submitted by Councillor T. Ruddle
@@ -530,7 +543,9 @@ and requested that site notices be placed on all Council owned property in advan
 disposal. A discussion followed and in replying the Director stated that it is not appropriate
 
 to change the existing process which is working well.
----
+
+[[PAGE_END:7]]
+
 8
 
 The following items were also raised.
@@ -566,4 +581,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:8]]
+

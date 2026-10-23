@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-september-council-meeting-28.09.2020.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 28th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-september-council-meeting-28.09.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Seirbhisi Corparaideacha,
-ae 5 Cortae lanai Comhairle Cathrach agus Contae Lulmnigh,
+a 5 Cortae lanl Comhairle Cathrach agus Contae Lulmnigh,
 NON 4 Céna gCeannaithe,
 
 — Limerick City Luimneach
 & County Council
 
-Ceanncheathra Chorperaideach,
+Ceanncheathri Chorperaideach,
 
 Corporate Services,
 
-Limenck City and County Council
+Limerick City and County Council
 Corporate Headquarters,
 Merchants Quay,
 
@@ -42,12 +43,12 @@ EIRCODE V94 EH90
 
 23 September, 2020. t: +353 (0) 61 557150
 
-4; +353 (0) 61 415 266
+4: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of Limerick City and County Council to be held at
-Limerick Racecourse, Greenmount Park, Patrickswell, Co. Umerick, on Monday, 28"
+Limerick Racecourse, Greenmount Park, Patrickswell, Co. Limerick, on Monday, 28"
 September, 2020, at 3pm. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -69,7 +70,7 @@ To adopt Minutes of the following Meetings:
 (b) Special Meeting of the Council held on 30" June, 2020.
 (c) Annual Meeting of the Council held on 30" June, 2020.
 (d) Adjourned Meeting of the Council held on 3 July, 2020.
-(e) Special Meeting of the Council held on 3" July, 2020.
+(e) Special Meeting of the Council held on 3 July, 2020.
 
 (Copies Enclosed)
 Disposal of Land
@@ -78,14 +79,16 @@ To consider proposal for the disposal of land, in accordance with the provisions
 Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
 Planning and Development Act, 2000 (as amended), at:
 
-= Customerservices@limerick.ie
+= customerservices@limerick.ie
 Cé na gCeannaithe, Luimneach vy
 
 Chorpardideach, @LimerickCouncit
-Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
+Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -112,34 +115,26 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 587150
 (k) Shanagolden Demesne, Shanagolden, Co. Limerick,
 (I) 3, Abbeyview, Askeaton, Co. Limerick.
 
-(Statutory Notices dated 16" June, 3 and 27" July, and 9" and 15"
+(Statutory Notices dated 16" June, 3° and 27" July, and 9" and 15"
 September, 2020, already circulated)
 
 Support Services Directorate
 
-(a)
-
-(b)
-
-(c)
-
-(4)
-
-Fixing of Date ~ Statutory Budget Meeting
+(a) _—‘ Fixing of Date ~ Statutory Budget Meeting
 To fix date for the 2021 Statutory Budget Meeting.
 (Copy of Department Circular Fin 14-2020 dated 31" August, 2020, Enclosed)
 
-Financial Update
+(b) Financial Update
 
 To receive presentation on financial out-turn projections for 2020.
 
-Local Property Tax
+(c) Local Property Tax
 
 To consider whether to pass a resolution to vary the basic rate of Local
 Property Tax for the year ending 31% December, 2021.
 (Report Enclosed)
 
-Overdraft Accommodation
+(4) Overdraft Accommodation
 
 To approve bank overdraft accommodation in the sum of €50m for the 12
 month period to 31* December, 2021, subject to the sanction of the Minister
@@ -147,16 +142,18 @@ for Housing, Local Government and Heritage and in accordance with Section
 106 (2) of the Local Government Act, 2001, as amended.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e)
 
 (9)
 
-(h)
+{h)
 
-Chief Executive's Report
+Chief Executive’s Report
 
 To consider Chief Executive’s Reports for the months of June, July and August
 2020.
@@ -172,7 +169,6 @@ Trustees.
 (Report and List of Representatives already circulated)
 
 Appointment of External Member to Limerick City and County Council
-Audit Committee
 
 To consider approving the appointment of a replacement external member to
 the Limerick City and County Council Audit Committee.
@@ -202,7 +198,9 @@ following Committees:
 .
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Strategic Policy Committee Reports
@@ -231,7 +229,7 @@ the development of a River Shannon visitor experience, to be located
 on the banks of the river in Limerick City.
 
 Chairperson’s Report — Meeting of Climate Change, Biodiversity and
-Environment Strategic Policy Committee held on 9 July, 2020.
+Environment Strategic Policy Committee held on 9" July, 2020.
 
 (Chairperson’s Report Enclosed)
 Recommendation
@@ -257,7 +255,9 @@ Strategic Policy Committee held on 22" June, 2020.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -298,10 +298,12 @@ Participation by Members at Conferences
 To consider participation by Members at the following online Conference:
 
 “Webinar - A Local Authority Support Model for Sustainable Energy Communities” to be
-held in Kildare on 8 October, 2020.
+held in Kildare on 8” October, 2020.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -321,7 +323,7 @@ Structures; (b) what funding comes from the Department to invest in same; (c) ho
 many Protected Structures has this Council; (d) how many fall under the Derelict Sites
 Act; (e) how many should be added to the Derelict Sites Structure; (f) can lists be
 made available of (i) Protected Structures; (ii) Protected Structures in dereliction; and
-(iii) Protected Structures to be added to the Dereliction List.
+(lili) Protected Structures to be added to the Dereliction List.
 
 Question submitted by Councillor C. Slattery
 
@@ -353,7 +355,9 @@ Question submitted by Councillor C. Sheehan
 premises in the Metropolitan District.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14,
@@ -378,7 +382,7 @@ NOTICES OF MOTION
 Notice of Motion submitted by Councillor S. Keary (to be referred to Protocol
 Committee)
 
-| will move at the next Meeting that, by Resolution, Standing Order No, 3 be changed
+I will move at the next Meeting that, by Resolution, Standing Order No, 3 be changed
 (Meetings of the Council) to read as follows: “Unless upon any occasion when it is
 otherwise fixed by Statute or by Resolution of the Council, Ordinary Meetings of the
 Council shall be held monthly on the fourth Monday of the months of September,
@@ -386,7 +390,7 @@ October, November, December, January, February, March, April, May, June and July
 
 Notice of Motion submitted by Councillor E. O’Brien
 
-I will move at the next Meeting that Limerick City and County Council call on the
+1 will move at the next Meeting that Limerick City and County Council call on the
 Minister for Agriculture to confirm that, under the provisions of the Programme for
 Government entitled ‘A Green New Deal,’ the status of reclaimed land on the Shannon
 Estuary, Deel and Maigue rivers will remain unchanged and land users will continue to
@@ -407,7 +411,9 @@ Limerick City and County and that this Task Force should also feed into the Econ
 Forum.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -424,12 +430,12 @@ future prosperity of Shannon Airport.
 Notice of Motion submitted by Councillor A. Talukder (to be referred to
 Community, Leisure and Culture Strategic Policy Committee)
 
-| will move at the next Meeting that Limerick City and County Council examine the
+1 will move at the next Meeting that Limerick City and County Council examine the
 feasibility of a Shannon River Cruise Development Project as this project will be helpful
 to attract local tourists in the ongoing post COVID-19 period and, in the long term,
 promote Limerick City’s attractiveness to foreign tourists.
 
-Notice of Motion submitted by Councillor ©. Sheehan (to be referred to Protocol
+Notice of Motion submitted by Councillor C. Sheehan (to be referred to Protocol
 Committee)
 
 | will move at the next Meeting that the Council erect a plaque in memory of Captain
@@ -439,4 +445,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:8]]
+

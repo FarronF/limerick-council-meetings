@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-newcastle-west-14th-january-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 14th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-newcastle-west-14th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_ Comhairle Cathrach
 & Contae Luimnigh
-oY
+Wy a
 
 — Limerick City
 & County Council
@@ -36,7 +37,7 @@ Duiche Bardais an Chaisledin Nua Thiay,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras Wiliam Smith O'Brien,
 
-Gortbui,
+Gortbul,
 
 An Caislean Nua Théar,
 
@@ -51,7 +52,7 @@ Newcastle West,
 
 Co. Limerick
 
-Ewrcode: V42EH73
+Ewcode: V42EH73
 
 t: +353 (0) 69 62100
 
@@ -75,7 +76,7 @@ AGENDA
 
 December, 2025.
 
-2. Declaration of Interest.
+2. _ Declaration of Interest.
 
 3. General Municipal Allocation
 
@@ -96,7 +97,9 @@ W @LimerickCouncil
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -111,12 +114,12 @@ I will ask at the next Meeting if Limerick City and County Council will open the
 at Bridge Street, Newcastle West leading to the River Arra. As part of this Question,
 it is important to make the necessary safety measures along the river bank.
 
-Questions submitted by Councillor J. Scanlan
+Questions submitted by Councillor J. Scanian
 
-I will ask at the next Meeting when the poles will be removed from the recently
+| will ask at the next Meeting when the poles will be removed from the recently
 provided footpath infrastructures at Monagea and Feohanagh.
 
-I will ask at the next Meeting when road reconstruction along that section between
+| will ask at the next Meeting when road reconstruction along that section between
 O'Brien's Auctioneering Agency and An Greasai will be undertaken at Maiden Street,
 Newcastle West.
 
@@ -131,7 +134,7 @@ up for traffic calming and pedestrian crossings in the town of Dromcollogher. Wh
 complete, funding to be sought to complete the works as soon as possible.
 
 | will move at the next Meeting that Limerick City and County Council request
-Transport Infrastructure Ireland (TIl) to extend traffic calming measures, footpaths,
+Transport Infrastructure Ireland (TI) to extend traffic calming measures, footpaths,
 speed limit and lighting at Shanagarry, Newcastle West in the interest of safety.
 
 Notices of Motion submitted by Councillor J. Scanlan
@@ -144,4 +147,6 @@ interest of safety.
 Ashgrove side of the entrance to Evergreen Court at Churchtown, Newcastle West.
 
 
----
+
+[[PAGE_END:2]]
+

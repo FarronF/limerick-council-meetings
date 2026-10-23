@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Item%201%20Minutes%20of%20meeting%20210617.pdf)
+**Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 21st June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Item%201%20Minutes%20of%20meeting%20210617.pdf)
 
----
+[[FILE_START]]
+
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
 **COMMITTEE**
@@ -102,7 +103,9 @@ County Council. He stated that he was aware of the challenges but assured the me
 he was trying to reach a “grass roots common” with an openness to change which he saw as
 
 crucial to the success of the project.
----
+
+[[PAGE_END:1]]
+
 **Item 3:**
 
 **Presentation on Creative Ireland Limerick Culture Plan**
@@ -176,7 +179,9 @@ prevention strategy and praised the sub committee for their good work to date.
 Ms. C. Kirby, A/Director of Service thanked Cllr. F.Foley for his last meeting as chairperson.
 
 Cllr.F.Foley wished everyone the best of luck for the future
----
+
+[[PAGE_END:2]]
+
 Minutes Proposed By:
 
 Minutes Seconded By:
@@ -184,4 +189,6 @@ Minutes Seconded By:
 Minutes Signed By Chair:
 
 Date:
----
+
+[[PAGE_END:3]]
+

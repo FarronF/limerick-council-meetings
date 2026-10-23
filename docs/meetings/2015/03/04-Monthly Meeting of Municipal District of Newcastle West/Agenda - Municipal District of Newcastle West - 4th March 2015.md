@@ -16,26 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_4th_march_2015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 4th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_4th_march_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-— Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
+——— Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-AON 4 : Cé na gCeannaithe,
+ACN 4 : Cé na gCeannaithe,
 
 . =— Luimneach
 Limerick Corporate Services and Change Management.
-CITY & COUNTY Limerick City and Pree Council,
-rehants Quay.
+CITY & COUNTY Limerick City and aoe Council,
+rchants Quay.
 
 COUNCIL Lisaaslck
 
 t: +353 (0) 61 407 100
-
-27% February, 2015. f: +353 (0) 61 415 266
+27 February, 2015. f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District
 
@@ -49,8 +49,8 @@ March, 2015, at 10.00 a.m. The business to be transacted is set out on the appen
 
 Is mise le meas,
 
-af.
-UAe. Know.
+af:
+Ure Know.
 ina Knox,
 Meetings Administrator.
 
@@ -63,6 +63,7 @@ February, 2015.
 (Copy Enclosed)
 
 2. Deputations
+
 Deputation from Castletown and Ballyagran Community Groupings
 
 To receive Deputation from Castletown and Ballyagran Community Groupings.
@@ -75,11 +76,14 @@ To consider receiving Deputation from Newcastle West Community Centre to make
 presentation at April Meeting.
 
 = customerservices@limerickic
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & www.limerick.ie
+
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wwwalimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -97,15 +101,15 @@ Finance, Motor Tax and ICT
 General Municipal Allocation
 To consider requests for funding from:
 
-(a) Glin Rovers Football Club (€5,000.00 to convert existing store room to a meeting
+(a) | Glin Rovers Football Club (€5,000.00 to convert existing store room to a meeting
 room).
 
-(b) — Glin Irish Countrywomen's Association (€1,000.00 to assist with flower planting
+(b) Glin Irish Countrywomen's Association (€1,000.00 to assist with flower planting
 and maintenance in the village).
 
 Economic Development and Planning
 
-Limerick City and County Council Business and Retail incentive
+Limerick City and County Council Business and Retail Incentive
 Scheme for Vacant Property in Limerick City Centre, Abbeyfeale,
 
 Kilmallock, Newcastle West and Rathkeale
@@ -129,7 +133,9 @@ housing estate on New Street, Abbeyfeale.
 roadside at Springmount, Abbeyfeale, up to Leahy’s Cross.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -182,7 +188,9 @@ Abbeyfeale, so as to secure its accessibility and use long-term by the community
 Abbeyfeale and surrounding parishes.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -200,4 +208,6 @@ past the entrance to Newcastle West Rugby Club and onward beyond the Physiothera
 Centre, be addressed and resurfaced in the interest of safety locally.
 
 
----
+
+[[PAGE_END:4]]
+

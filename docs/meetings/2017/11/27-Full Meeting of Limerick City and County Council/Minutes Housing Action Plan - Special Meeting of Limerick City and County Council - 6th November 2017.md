@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28d%29%20Minutes%20Housing%20Action%20Plan%20061117.pdf)
+**Original file:** [Minutes Housing Action Plan - Special Meeting of Limerick City and County Council - 6th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28d%29%20Minutes%20Housing%20Action%20Plan%20061117.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
 CITY AND COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER,
@@ -76,7 +77,9 @@ Meeting and, as Members were aware, it had been decided that the issue required 
 time for discussion and accordingly it was agreed to hold a Special Meeting to discuss the
 
 Housing Action Plan.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Meetings Administrator, in response to query from Councillor Galvin as to why
@@ -136,7 +139,9 @@ Affordability and the demand for large-scale renting needed to be addressed.
 • The need to focus on student accommodation and to liaise with the various colleges
 
 was raised.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 • Housing issues should be addressed locally, at the relevant Municipal District.
@@ -194,7 +199,9 @@ programme for trades and crafts in the Council.
 • Concern regarding the sustainability of HAP and RAS and what was in place for
 
 people who did not qualify for housing supports.
----
+
+[[PAGE_END:3]]
+
 **4**
 
 • Progress requested on Burke Avenue and Speakers Corner.
@@ -256,7 +263,9 @@ approval to proceed with the sites was given by the Department.
 • Approved Housing Bodies (AHBs) were part of the solution and the Council would
 
 endeavour to inform local Public Representatives of projects involving AHBs.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 • Since 2015, 154 voids in Council ownership were brought back into use. 22 houses were
@@ -320,7 +329,9 @@ the City. It was noted that the majority of properties in this area were in priv
 ownership.
 
 • A new national affordable housing scheme was being developed at a national level.
----
+
+[[PAGE_END:5]]
+
 **6**
 
 • The Council was consistently working with Third Level Institutions in relation to
@@ -386,7 +397,9 @@ Proposed by Councillor Sheahan (J);
 Seconded by Councillor Collins (M);
 
 And Resolved:
----
+
+[[PAGE_END:6]]
+
 **7**
 
 “That, the approval of the Council be and is hereby given to bank overdraft
@@ -408,4 +421,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

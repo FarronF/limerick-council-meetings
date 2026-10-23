@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/10%20updated_minutes_of_special_meeting_of_limerick_city_and_county_council_-_friday_29th_august_2014.pdf)
+**Original file:** [Minutes of Special Meeting of Limerick City and County Council - Friday 29th August 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/10%20updated_minutes_of_special_meeting_of_limerick_city_and_county_council_-_friday_29th_august_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -76,7 +77,9 @@ Members thanked the Cathaoirleach for calling the Special Meeting. It was stated
 that Mary was a wonderful person. She had held many positions, she trained as a
 
 Primary School Teacher, was a great Fine Gael person, was elected as a Councillor
----
+
+[[PAGE_END:1]]
+
 2
 
 in 1999 and the pinnacle of her career was being elected Cathaoirleach of Limerick
@@ -152,7 +155,9 @@ he had not had the pleasure of getting to know Mary well but she was firm and fa
 and had brought great leadership to the Council Chamber and indeed to the merger.
 
 He said he was delighted to be at the Meeting to pay his respects to her.
----
+
+[[PAGE_END:2]]
+
 3
 
 The Cathaoirleach expressed his gratitude to the local community and all involved in
@@ -194,4 +199,6 @@ Signed:
 Date:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

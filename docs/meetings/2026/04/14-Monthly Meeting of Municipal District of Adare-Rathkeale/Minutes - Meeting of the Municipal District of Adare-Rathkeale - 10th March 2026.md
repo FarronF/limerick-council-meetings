@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-march-2026_0.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 10th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-march-2026_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -90,7 +91,9 @@ Act, 2001, as amended, and the Code of Conduct, she was inviting those present t
 notify the Cathaoirleach of any declaration of interest in any item due for discussion at
 
 the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Ward declared his interest as a member of the Devere Curraghchase Society.
@@ -158,7 +161,9 @@ Proposed by Councillor Collins;
 Seconded by Councillor O’Donoghue;
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That the Manor Fields Road, Adare, Co. Limerick be taken in charge in accordance with
@@ -232,7 +237,9 @@ Discussion ensued and the following issues were raised by Members:
 • Councillor Keary requested an update on the Council owned property that was
 
 damaged by a fire in Coolanoran. The Senior Engineer, LA Housing Construction
----
+
+[[PAGE_END:3]]
+
 4
 
 and Maintenance agreed to arrange a workshop to provide Members with an
@@ -308,7 +315,9 @@ District and wished him well in his new role.
 The Senior Executive Engineer, Roads, Traffic and Cleansing advised Members due to the
 
 adverse weather over the last number of months the Roads Department have been
----
+
+[[PAGE_END:4]]
+
 5
 
 inundated with issue such as potholes and drainage adding an additional velocity
@@ -382,7 +391,9 @@ this project.
 needs to be cleaned on a regular basis. The Senior Executive Engineer, Roads,
 
 Traffic and Cleansing advised Traffic Infrastructure Ireland are responsible for
----
+
+[[PAGE_END:5]]
+
 6
 
 maintaining the road surface, signage and hedge cutting on the N21. Councillor
@@ -446,7 +457,9 @@ to allocate the following:
 **8.**
 
 **Question submitted by Councillor A. Teskey**
----
+
+[[PAGE_END:6]]
+
 7
 
 **I will ask at the next Meeting for a detailed guideline from our motor tax section as to**
@@ -524,7 +537,9 @@ manufactured in 1972.
 • If the vehicle details are not on the NVDF, but the person in
 
 possession of the vehicle has a registration number for the vehicle,
----
+
+[[PAGE_END:7]]
+
 8
 
 we can check with the relevant Motor Tax Office where the vehicle
@@ -600,7 +615,9 @@ address local towns and villages.
 **10.**
 
 **Question submitted by Councillor A. Teskey**
----
+
+[[PAGE_END:8]]
+
 9
 
 **I will ask at the next Meeting how many wind farm noise and shadow flicker**
@@ -670,7 +687,9 @@ and agreed.
 In proposing the Motion Councillor Teskey stated given the amount of windfarm
 
 installations in this Country, households do not feel they are better off financially with
----
+
+[[PAGE_END:9]]
+
 10
 
 the current infrastructure and current energy costs. He also noted that a lot of wind
@@ -752,7 +771,9 @@ Correspondence was noted and taken as read.
 private briefing with Elected Members to discuss concerns of the residents of
 
 Foynes village on the proposed Waste Water Treatment Plant. She proposed this
----
+
+[[PAGE_END:10]]
+
 11
 
 briefing would be held prior to the April Municipal District Meeting. Councillor
@@ -796,4 +817,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:11]]
+

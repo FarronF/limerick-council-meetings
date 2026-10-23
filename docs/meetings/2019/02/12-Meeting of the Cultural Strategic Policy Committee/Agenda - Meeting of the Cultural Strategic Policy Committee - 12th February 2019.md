@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20Cultural%20SPC%2012th%20Feb%202019.pdf)
+**Original file:** [Agenda - Meeting of the Cultural Strategic Policy Committee - 12th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20Cultural%20SPC%2012th%20Feb%202019.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY & COUNTY COUNCIL**
 
 **Social Development Directorate**
@@ -98,7 +99,9 @@ Parade be designated as commemorating the centenary of the Limerick Soviet.
 The celebrations planned by Trade Unions this year all surround the fight that
 
 workers took to have clear passage to their workplace’s without hindrance
----
+
+[[PAGE_END:1]]
+
 from the Military forces in our City at that time. It is a forgotten time in our
 
 City’s History and we need to have the celebrations highlighted as much as
@@ -132,4 +135,6 @@ AOB
 **Cathaoirleach**
 
 **Cultural SPC, Limerick City & County Council**
----
+
+[[PAGE_END:2]]
+

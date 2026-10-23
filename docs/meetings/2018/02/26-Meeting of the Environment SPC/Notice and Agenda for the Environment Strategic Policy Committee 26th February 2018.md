@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/26th%20February%202018-%20Updated%20Agenda%20Environment%20Strategic%20Policy%20Committee%20%281%29.pdf)
+**Original file:** [Notice and Agenda for the Environment Strategic Policy Committee 26th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/26th%20February%202018-%20Updated%20Agenda%20Environment%20Strategic%20Policy%20Committee%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 **22nd** **February 2018**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**
@@ -43,7 +44,9 @@ held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 26th February 2
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -85,4 +88,6 @@ throughout the City and County”.
 6. **Presentation on Environmental Awareness Initiatives** **–** **Ms. Sinead McDonnell**
 
 7. **Report on Pilot Project for the Upgrade and Maintenance of Strategic Roundabouts**
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-municipal-district-of-newcastle-west-14th-january-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 14th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-municipal-district-of-newcastle-west-14th-january-2026.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -94,7 +95,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathoairleach of any declaration of interest in any item due for discussion at the Meeting. No
 
 such interests were declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -164,7 +167,9 @@ Question submitted by Councillor J. Scanlan
 ***Newcastle West.***
 
 REPLY:
----
+
+[[PAGE_END:2]]
+
 3
 
 The Roads Engineer will carry out a site inspection at this location and will determine what
@@ -232,7 +237,9 @@ through the town on a daily basis. Councillor Collins asked that priority be giv
 being carried out in the town of Dromcollogher. Councillor Ruddle also referred to the need
 
 for traffic calming measures in front of the GAA field in Dromcollogher.
----
+
+[[PAGE_END:3]]
+
 4
 
 A brief discussion took place on the Draft Public Realm and Tourism Plan which was prepared
@@ -302,7 +309,9 @@ REPLY:
 Limerick City and County Council will present the proposal to Transport Infrastructure Ireland
 
 (TII) for consideration, with a view to assessing the identified need and the feasibility of
----
+
+[[PAGE_END:4]]
+
 5
 
 delivering the scheme. A further update will issue following the January Meeting.
@@ -372,7 +381,9 @@ Administrator would seek further clarification on responsibility for maintenance
 treatment plant post installation.
 
 The urgent need for social housing in the District was raised.
----
+
+[[PAGE_END:5]]
+
 6
 
 The condition of the road surface at South Quay, Newcastle West was raised and to an
@@ -438,7 +449,9 @@ arrange the following Workshops to take place:
 **(d)**To discuss the Provision of Public Convenience in Abbeyfeale.
 
 **(e)**To Discuss Housing in the District.
----
+
+[[PAGE_END:6]]
+
 7
 
 It was agreed to hold the February Meeting of the District on Wednesday, 4th February,
@@ -456,4 +469,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

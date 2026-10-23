@@ -16,16 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare Rathkeale - 9th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 a Comhairle Cathrach __ Ceantar Bardasach Ath Dara-Rath Caola,
-& Contae Luimnigh Comnhairte Cathvach agus aa oed a
-“~™ i ~~ ~ 5
-i : Line Nua,
-— Limerick City Rath Caola
+& Contae Luimnigh Comnhairte Cathwach agus ag ned ae
+“ : Line Nua,
+a Limerick City Rath Caota
 
 & County Council Co, Luimnigh
 
@@ -33,7 +33,7 @@ Adare-Rathkeale Municipal District,
 
 Limerick City and County Council
 
-Aras Sean Fire.
+Aras Sean Fire
 
 New Line,
 
@@ -56,32 +56,29 @@ Is mise le meas,
 
 Karen Butler,
 Meetings Administrator.
-
 AGENDA
-
-L Minutes
-
+1. Minutes
 To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
 on 12"" December, 2023.
-
 (Copy Enclosed).
-2. Declaration of Interest
-& custormerservices@limerickie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © wwwlimerickie
+2. _—_ Declaration of Interest
+& customerservices@limerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © wewwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
-
 To note proposal for the disposal of land at 4 High Street, Croom, Co. Limerick.
 (Report Enclosed).
 
 Schedule of Municipal District Works for the Adare-Rathkeale District deferred from
 
-Meeting of the Adare-Rathkeale Municipal District held on 12" December, 2023)
+Meeting of the Adare-Rathkeale Municipal District held on 12™ December, 2023)
 
 To receive a presentation on the review of the Schedule of Municipal District Works 2023.
 
@@ -117,7 +114,9 @@ Rathkeale Municipal District held on 12" December, 2023)
 in the Adare-Rathkeale Municipal District area.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -126,7 +125,7 @@ in the Adare-Rathkeale Municipal District area.
 
 Notice of Motion submitted by Councillor B. Collins
 
-! will move at the next Meeting that Limerick City and County Council engages with
+| will move at the next Meeting that Limerick City and County Council engages with
 Communities to establish Poster Free Zones in each town and village within the Adare-
 Rathkeale Municipal District.
 
@@ -135,4 +134,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

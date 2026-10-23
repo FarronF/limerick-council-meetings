@@ -28,7 +28,7 @@ Agenda - Monthly Meeting of Metropolitan District of Limerick - 17th May 2021.p
 
 Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-draft-minutes-monthly-online-meeting-19th-april-2021.pdf) - [Extracted text](./Minutes%C2%A0-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%C2%A0-%2019th%20April%202021.md)
 
-Strategic Housing Development_ Walkers Lane Annacotty - Monthly Meeting of Metropolitan District of Limerick - 17th May 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/02-strategic-housing-development-walkers-lane-annacotty.pdf) - Text not extracted
+Strategic Housing Development: Walkers Lane Annacotty - Monthly Meeting of Metropolitan District of Limerick - 17th May 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/02-strategic-housing-development-walkers-lane-annacotty.pdf) - Text not extracted
 
 Correspondence - Monthly Meeting of Metropolitan District of Limerick - 17th May 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/29-correspondence-17th-may-2021.pdf) - Text not extracted
 

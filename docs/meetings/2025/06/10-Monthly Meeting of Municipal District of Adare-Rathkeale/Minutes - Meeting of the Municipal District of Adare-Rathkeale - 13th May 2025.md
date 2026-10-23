@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-draft-minutes-of-monthly-meeting-13th-may-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-draft-minutes-of-monthly-meeting-13th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN** **ST. MARY’S NATIONAL SCHOOL, HIGH STREET, CROOM,**
@@ -80,7 +81,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
 No such interest was declared.
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.**
@@ -162,7 +165,9 @@ While Limerick City and County Council support the principle of providing a new 
 to the school as per the current proposal, there is no further funding committed to this
 
 scheme.
----
+
+[[PAGE_END:2]]
+
 3
 
 Mr. Murphy gave Members a brief outline of the background to the educational facilities
@@ -240,7 +245,9 @@ following on his behalf into the record of the Meeting:
 *Board of Management of the school to facilitate this new extension and upgrade*
 
 *works.*
----
+
+[[PAGE_END:3]]
+
 4
 
 *· I am advised that the developer who owns the land where this short section of road is*
@@ -314,7 +321,9 @@ following on his behalf into the record of the Meeting:
 *the Waste water Treatment Plant and Uisce Éireann will not consent to any additional*
 
 *large scale housing developments until the plant has been upgraded**”**.*
----
+
+[[PAGE_END:4]]
+
 5
 
 The Delegation thanked Members for the opportunity to discuss their concerns and they
@@ -390,7 +399,9 @@ to allocate the following:
  € 500 to Pallaskenry Senior Citizens.
 
  €1,500 to Crecora/Manister GAA Club.
----
+
+[[PAGE_END:5]]
+
 6
 
 On the proposal of Councillor Hartigan, seconded by Councillor Teskey it was agreed to
@@ -454,7 +465,9 @@ designed with good intentions however some users appear to not have sufficient
 knowledge of the rules of the road to operate them safely, therefore, users should be
 
 required to take a valid theory test and be licenced to operate same.
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY:**
@@ -530,7 +543,9 @@ retrofit for both the Bank of Ireland in Askeaton and Rathkeale attend a future 
 of the District to discuss their future uses. The A/Senior Executive Officer, Municipal
 
 Districts agreed to follow up and revert to Members in due course.
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY:**
@@ -604,7 +619,9 @@ this year.
  Councillor Keary requested an update on the Ballywilliam Housing Estate,
 
 Rathkeale for the next District Meeting.
----
+
+[[PAGE_END:8]]
+
 9
 
  Councillor O’Donoghue requested the Executive follow up on the new reduced
@@ -640,4 +657,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

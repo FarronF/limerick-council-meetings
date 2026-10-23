@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00-Agenda-Special-Meeting-Metropolitan-District-28th-November-2019.pdf)
+**Original file:** [Agenda Special Meeting - Metropolitan District - 28th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00-Agenda-Special-Meeting-Metropolitan-District-28th-November-2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Setbhisi Corparaideacha,
-r ~ te Cathract Cc ae '
-—_ & Contae Luimnigh. saidhamiaah ote oh cleat een
-NIN 4 e_—_—_—_— Cé na gCeannaithe,
+Comhairle Cathrach Sevbhisi Corparaideacha,
+r 5 te Cathract c ae '
+—_—_— & Contae Luimnigh. Se cleat een
+NIN 4 _—_—— Cé na gCeannaithe,
 = —= Limerick City Luimneach
 
 & County Council
@@ -34,10 +35,10 @@ Corporate Headquarters,
 Merchants Guay,
 Limerick
 
-22°¢ November, 2019. EIRCODE 94 EH90
+22"¢ November, 2019. EIRCODE V94 E}90
 
 t: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+#: +353 (0) 61 415 266
 
 A Chomhairleoir, 2 chara,
 
@@ -55,21 +56,25 @@ AGENDA
 
 To discuss Planning Permission granted to Irish Cement at their Plant in Mungret.
 
-@ Ccustomerservices@limerick.ie
+@ Customerservices@limerick.ie
 
 © wwwlimerickie
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 We the undersigned wish to request a Special Meeting of Limerick City and County Council to discuss
 Planning Permission granted to Irish Cement at their plant in Mungret.
 
-Keeper O po
+Breyer O po
 
 
 
----
+
+[[PAGE_END:2]]
+

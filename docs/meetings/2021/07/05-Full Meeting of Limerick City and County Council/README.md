@@ -36,29 +36,29 @@ Minutes - Adjourned Special Meeting of Limerick City and County Council - 16th J
 
 Minutes - Adjourned Special Meeting of Limerick City and County Council - 17th June 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-e-minutes-adjourned-special-meeting-17.06.2021.pdf) - [Extracted text](./Minutes%20-%20Adjourned%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2017th%20June%202021.md)
 
-Land Disposal_ Rossfinch, Ballinahinch, Co. Tipperary - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-a-land-disposal-rossfinch-ballinahinch-co.-tipperary.pdf) - Text not extracted
+Land Disposal: Rossfinch, Ballinahinch, Co. Tipperary - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-a-land-disposal-rossfinch-ballinahinch-co.-tipperary.pdf) - Text not extracted
 
-Land Disposal_ Glengort, Tournafulla - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-b-land-disposal-glengort-tournafulla.pdf) - Text not extracted
+Land Disposal: Glengort, Tournafulla - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-b-land-disposal-glengort-tournafulla.pdf) - Text not extracted
 
-Land Disposal_ 1 Grennan Villas, St. Joseph's Terrace, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-c-land-disposal-1-grennan-villas-st.-josephs-terrace-limerick.pdf) - Text not extracted
+Land Disposal: 1 Grennan Villas, St. Joseph's Terrace, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-c-land-disposal-1-grennan-villas-st.-josephs-terrace-limerick.pdf) - Text not extracted
 
-Land Disposal_ 35 Thomas Street, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-d-land-disposal-35-thomas-street-limerick.pdf) - Text not extracted
+Land Disposal: 35 Thomas Street, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-d-land-disposal-35-thomas-street-limerick.pdf) - Text not extracted
 
-Land Disposal_ 1-4 Parnell Street, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-e-land-disposal-1-4-parnell-street-limerick.pdf) - Text not extracted
+Land Disposal: 1-4 Parnell Street, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-e-land-disposal-1-4-parnell-street-limerick.pdf) - Text not extracted
 
-Land Disposal_ Land between Main St and Marian Park, Patrickswell - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-f-land-disposal-land-between-main-st-and-marian-park-patrickswell.pdf) - Text not extracted
+Land Disposal: Land between Main St and Marian Park, Patrickswell - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-f-land-disposal-land-between-main-st-and-marian-park-patrickswell.pdf) - Text not extracted
 
-Land Disposal_ Castletroy, Co. Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-g-land-disposal-castletroy-co.-limerick.pdf) - Text not extracted
+Land Disposal: Castletroy, Co. Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-g-land-disposal-castletroy-co.-limerick.pdf) - Text not extracted
 
-Land Disposal_ 214 O'Malley Park, Southill, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-h-land-disposal-214-omalley-park-southill-limerick.pdf) - Text not extracted
+Land Disposal: 214 O'Malley Park, Southill, Limerick - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/03-h-land-disposal-214-omalley-park-southill-limerick.pdf) - Text not extracted
 
-Local Property Tax_ Local Adjustment Factor 2022 - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/04-local-property-tax-local-adjusment-factor-2022.pdf) - Text not extracted
+Local Property Tax: Local Adjustment Factor 2022 - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/04-local-property-tax-local-adjusment-factor-2022.pdf) - Text not extracted
 
 LPT 2022 Presentation - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/lpt-2022-presentation-council-meeting-05.07.2021-final.pdf) - Text not extracted
 
 Chief Executive's Report May 2021 - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/06-a-chief-executives-report-may-2021.pdf) - Text not extracted
 
-Proposed Schedule of Dates_ SPC Meetings - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/06-b-proposed-schedule-of-dates-spc-meetings.pdf) - Text not extracted
+Proposed Schedule of Dates: SPC Meetings - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/06-b-proposed-schedule-of-dates-spc-meetings.pdf) - Text not extracted
 
 Limerick Market Trustees - Full Meeting of Limerick City and County Council - 5th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/06-c-limerick-market-trustees.pdf) - Text not extracted
 

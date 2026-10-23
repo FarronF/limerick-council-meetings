@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Amended%20Agenda%20JPC%20Meeting%2012th%20Dec%2019%20v3.pdf)
+**Original file:** [Agenda - Meeting of the Limerick City and County Council Joint Policing Committee - 12th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Amended%20Agenda%20JPC%20Meeting%2012th%20Dec%2019%20v3.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——_—_—_— Comhairle Cathrach cate Caieres sey ber ae aee ey
-: Crmuiree ©. 4 gus orilue ules 1
-& Contae Luimnigh Ceanncheathri Chorpardidesch,
-CN Tr
+_—_—_ Comhairle Cathrach cata aires seep ber arene ey
+: onmmnauiree CU. 4 qu: orilue Mires 4
+& Contae Luimnigh Ceanncheathri Chorparaidesch,
+a
 
 Cé na gCeannaithe,
-— Limerick City ip rechente
+— Limerick City ip pect
 
 & County Council
 Corporate Services.
@@ -36,11 +37,11 @@ Urnerick City and County Council
 Merchants Quay,
 Limerick
 
-EIRCODE V94 E490
+EIRCODE v94 EH90
 
 t: +353 (0) 61 557150
 
-To: Chairman and each Member of Limerick City and County Council Joint Policing CorimRt@es'5 256
+To: Chairman and each Member of Limerick City and County Council Joint Policing Corimltes'5 256
 A Chara,
 
 | wish to inform you that a Meeting of Limerick City and County Council Joint Policing Committee
@@ -51,14 +52,14 @@ th
 
 Details of the agenda and attachments to be discussed at the meeting set out hereunder :
 Is mise, le meas,
-on~ Qn
+o~ Qn
 
 Ja Clune,
 lor Executive Officer.
 
 AGENDA
 
-1. Confirmation of Minutes of Joint Policing Committee Meeting held on 11° October, 2019
+1. Confirmation of Minutes of Joint Policing Committee Meeting held on 11" October, 2019
 (copy attached).
 
 2. Address by Ms. Josephine Feehily, Chairperson, The Policing Authority
@@ -77,14 +78,16 @@ In light of the allocation of €81million for 700 new Garda recruits in Budget 
 Commissioner Drew Harris when will the 26 Gardai in the Henry Street Policing Division that
 have been promoted to higher ranks be replaced.
 
-@ Customerservicese@limerickie
+@ Customerservicese@limerick.ie
 
-© vevew.limerickie
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+© vevewlimerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -150,7 +153,9 @@ unit in the Limerick Division given the number of unsolved murders in the divisi
 is there a timeline for same.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. To consider the following Question submitted by Councillor J. Costelloe :
@@ -167,4 +172,6 @@ be welcomed by the Superintendent for major nights like St. Stephen’s Night an
 Eve.
 
 
----
+
+[[PAGE_END:3]]
+

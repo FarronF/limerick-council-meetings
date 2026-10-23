@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/02-monthly-meeting-minutes.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/02-monthly-meeting-minutes.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -67,7 +68,9 @@ Seconded by: Councillor Stokes
 And Resolved:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
@@ -115,7 +118,9 @@ Disposal of Site comprising of 0.79 Acres/0.32 hectares situate at Site F, Kilma
 Park, Kilmallock, Co. Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The report, as circulated, was noted by Members.
@@ -153,10 +158,10 @@ District to update them on their activities.
 They outlined that the Resource Centre was established in 2003, and serves the rural
 communities & towns of Hospital, Ballylanders, Galbally, Knockainey and Kilteely primarily.
 Current staff numbers comprise 13 full time staff as well as 60 volunteers. They are one of
-121 Family Resource Centre’s which form a national community development and family
+121 Family Resource Centre's which form a national community development and family
 support programme throughout Ireland.
 
-They explained how their primary asks under the Mayoral Programme Included:
+They explained how their primary asks under the Mayoral Programme included:
 Social inclusion and partnership working: Training support in softer skills and wellbeing;
 Community hub and rural amenities supports; digital connectivity.
 
@@ -164,7 +169,9 @@ Mental Health initiatives: On the spot counselling and support; support for orga
 and community groups supporting better mental health.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Grow peer support networks: Use the Mayoral Social Entrepreneurship Fund to finance
@@ -188,7 +195,7 @@ Family Resource Centre would be very deserving, given the range of supports and 
 provided by them.
 
 Proposed by: Cllr M. Ryan
-Seconded by: Cllr T. O’Sullivan
+Seconded by: Clir T. O’Sullivan
 And resolved:
 
 “That the PowerPoint Presentation be forwarded to the Mayor, with the request from the
@@ -204,7 +211,7 @@ Crawford Street, Bruff, Co. Limerick.
 
 The report had been prepared in accordance with Section 179 3(a) of the Planning and
 Development Act 2000 (as amended) and Part 8 of the Planning and Development
-Regulations, 2001 (as amended) and noted that it was proposed to proceed In accordance
+Regulations, 2001 (as amended) and noted that it was proposed to proceed in accordance
 with Section 8 of the report.
 
 The Members welcomed the proposed development and the provision of additional housing
@@ -213,7 +220,9 @@ in Bruff.
 Proposed by: Councillor M. Ryan;
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seconded by: Councillor B. Teefy;
@@ -257,7 +266,9 @@ And Resolved:
 approved for the Maigue River Trust & the Friars Gate Theatre”
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions
@@ -301,7 +312,9 @@ The Notice of Motion was proposed by Cllr Conway, seconded by Cllr M. Ryan, and 
 Reply:
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Roads Engineer for the Cappamore-Kilmallock Municipal District will assess the need for
@@ -313,7 +326,7 @@ a pedestrian crossing in Bruree village.
 road markings and whatever other measures deemed necessary by Limerick City & County
 Council be installed at Knocksauna, Kilbreedy, Co. Limerick.
 
-The Notice of Motion was proposed by Cllr Carey, seconded by Cllr Conway, and agreed.
+The Notice of Motion was proposed by Clir Carey, seconded by Cllr Conway, and agreed.
 Reply:
 There are existing road markings and signage at Knocksouna. The Roads Engineer will,
 
@@ -345,9 +358,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

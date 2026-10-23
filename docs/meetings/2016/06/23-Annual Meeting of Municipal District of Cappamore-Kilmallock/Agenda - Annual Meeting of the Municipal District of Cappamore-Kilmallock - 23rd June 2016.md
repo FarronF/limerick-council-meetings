@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20June%202016.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 23rd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_——_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
+__—_——_— Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
 ANF . Cé na gCeannaithe,
@@ -48,11 +49,11 @@ Kilmallock to be held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limeri
 
 Is mise le meas,
 
-Tend )
+Weg <)
 
 Meetings Administrator.
 
-ee St oo
+eee ene eee een ee eee een e ee ewe n es ees meee seers wes aren ees ens nese nes reer nen nee n enn ne nena nnn en nen nen nen nee nen nen neneeneee
 
 AGENDA
 
@@ -66,4 +67,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wevew. timerick.t
 Corporate Headquarters, Merchants Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

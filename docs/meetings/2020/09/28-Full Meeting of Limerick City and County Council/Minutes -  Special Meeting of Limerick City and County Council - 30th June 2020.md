@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-b-minutes-special-meeting-30.06.2020.pdf)
+**Original file:** [Minutes -  Special Meeting of Limerick City and County Council - 30th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-b-minutes-special-meeting-30.06.2020.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY
@@ -80,7 +81,9 @@ extended sympathy to Francis’s wife, Margaret, son Mark and daughter Grace, an
 extended family. He said this was a particularly sad note for Michael to end his Mayoralty
 
 on.
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor J. Sheahan, on his own behalf and on behalf of the Fine Gael Party, Councillor M.
@@ -128,4 +131,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

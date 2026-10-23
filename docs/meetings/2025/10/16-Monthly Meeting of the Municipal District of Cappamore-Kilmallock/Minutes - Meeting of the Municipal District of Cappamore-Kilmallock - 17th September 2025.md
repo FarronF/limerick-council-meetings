@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-september-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 17th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-september-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -65,10 +66,12 @@ SECONDED: CLLR Stokes
 And resolved.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. Declaration of interest
+2. Declaration of Interest
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
@@ -109,7 +112,9 @@ improvement safety works at Kilballyowen, Bruff, Co. Limerick.
 This proposal was seconded by Councillor Noreen Stokes and agreed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Questions
@@ -150,7 +155,7 @@ progression of the Merchant's House project is expected shortly. If the proposed
 development progresses, the Consultants design brief would be amended to include for a
 pedestrian crossing on Sarsfield Street.
 
-if the Merchant's House project does not proceed in the short term, the Roads Engineer will
+If the Merchant's House project does not proceed in the short term, the Roads Engineer will
 finalise a design and location for a new pedestrian crossing and make a submission for the
 Dept. of Transport to consider funding its construction through their Low-Cost Safety
 Programme.
@@ -159,7 +164,9 @@ An update on Sarsfield Street will be made to the October meeting of the Cappamo
 Kilmallock Municipal District
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor Conway
@@ -200,7 +207,9 @@ Development Fund. The other funding sources included in the Schedule of Municipa
 Works would not contain a budget for such works.”
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10 — Notice of Motion Councillor Teefy
@@ -249,7 +258,9 @@ operational framework governing Community CCTV in public spaces has changed
 significantly in recent years. The introduction of GDPR in 2018, followed by a comprehensive
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 audit by the Data Protection Commissioner, has resulted in much stricter controls on the
@@ -288,4 +299,6 @@ Signed:
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

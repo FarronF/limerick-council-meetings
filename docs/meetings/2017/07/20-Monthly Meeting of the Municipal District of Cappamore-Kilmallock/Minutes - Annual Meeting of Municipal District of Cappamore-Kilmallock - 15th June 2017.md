@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28ii%29%20Minutes%20Annual%20Meeting%20150617.pdf)
+**Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28ii%29%20Minutes%20Annual%20Meeting%20150617.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN
@@ -78,7 +79,9 @@ As there were no other nominations, the outgoing Cathaoirleach declared Councill
 elected as Cathaoirleach of the Municipal District and offered him his congratulations and best
 
 wishes for the coming year.
----
+
+[[PAGE_END:1]]
+
 2
 
 On taking the Chair, Councillor Mitchell thanked his Proposer and Seconder and said that he was
@@ -152,4 +155,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

@@ -1,7 +1,13 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2023 — 06 - June
 
 * [02 Joint Policing Committee Meeting](02-Joint Policing Committee Meeting/README.md)
 * [08 Meeting Of The Home And Social Development Strategic Policy Committee](08-Meeting of the Home and Social Development Strategic Policy Committee/README.md)
+* [12 Meeting Of The Community, Leisure And Culture Strategic Policy Committee](12-Meeting of the Community, Leisure and Culture Strategic Policy Committee/README.md)
+* [13 Meeting Of The Climate Action, Biodiversity And Environment Strategic Policy Committee](13-Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee/README.md)
 * [13 Monthly Meeting Of Municipal District Of Adare Rathkeale](13-Monthly Meeting of Municipal District of Adare-Rathkeale/README.md)
 * [19 Annual Meeting Of The Metropolitan District Of Limerick](19-Annual Meeting of the Metropolitan District of Limerick/README.md)
 * [19 Annual Meeting Of The Municipal District Of Adare Rathkeale](19-Annual Meeting of the Municipal District of Adare-Rathkeale/README.md)

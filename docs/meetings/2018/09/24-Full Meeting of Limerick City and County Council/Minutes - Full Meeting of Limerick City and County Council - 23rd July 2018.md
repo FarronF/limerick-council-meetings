@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01Minutes%20-%20July%202018%20Council%20Meeting%20v2.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01Minutes%20-%20July%202018%20Council%20Meeting%20v2.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
 COUNTY
@@ -90,7 +91,9 @@ accordingly of the date for same.
 Votes of Sympathy
 
 Sympathy was extended to the following on their recent bereavements:
----
+
+[[PAGE_END:1]]
+
 2
 
  Former Member of Limerick County Council, William (Willie) Sampson, Spittle,
@@ -170,7 +173,9 @@ Grima to facilitate the construction of the new road to provide future access to
 College lands and the newly constructed schools, particulars of which were contained in
 
 Statutory Notice dated 28th June, 2018.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (b)
@@ -254,7 +259,9 @@ subject to the covenants and conditions contained therein and a right-of-way to 
 place in favour of the Lessees, particulars of which were contained in Statutory Notice dated
 
 28th June, 2018.”
----
+
+[[PAGE_END:3]]
+
 4
 
 (e)
@@ -330,7 +337,9 @@ Montpelier, O’Brien’s Bridge, Limerick, to Teresa Burns, for the sum of €1
 to be by way of Deed of Conveyance of the interest of Limerick City and County Council in
 
 the property, particulars of which were contained in Statutory Notice dated 5th July, 2018.”
----
+
+[[PAGE_END:4]]
+
 5
 
 3.
@@ -402,7 +411,9 @@ And Resolved:
 “That, the Annual Report 2017 for Limerick City and County Council be and is hereby
 
 adopted.”
----
+
+[[PAGE_END:5]]
+
 6
 
 (e)
@@ -466,7 +477,9 @@ Seconded by Councillor Donegan:
 Policy Committee consequent on the resignation of Cmhlr. Ó Ceallaigh as Chairperson of the
 
 Committee.”
----
+
+[[PAGE_END:6]]
+
 7
 
 Proposed by Councillor Secas;
@@ -530,7 +543,9 @@ Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 
 July, 2018, setting out Schedule of proposed dates for Strategic Policy Committee Meetings
 
 up to May 2019.
----
+
+[[PAGE_END:7]]
+
 8
 
 On the proposal of Councillor Sheahan (J), seconded by Councillor Crowley, the
@@ -604,7 +619,9 @@ Recommendation No. 1 was agreed.
 On the proposal of Councillor O’Donnell, seconded by Councillor Galvin,
 
 Recommendation No. 2 was agreed.
----
+
+[[PAGE_END:8]]
+
 9
 
 **Recommendation No. 3**
@@ -674,7 +691,9 @@ Recommendation No. 1, as amended, was agreed.
 On the proposal of Councillor Sheahan (K), seconded by Councillor Ryan,
 
 Recommendation No. 2 was agreed.
----
+
+[[PAGE_END:9]]
+
 10
 
 (iii)
@@ -748,7 +767,9 @@ Recommendations which were agreed at the SPC Meeting:
 **the Festivals and Events Grant Scheme Strand 1 be recommended to the Council for**
 
 **approval.”**
----
+
+[[PAGE_END:10]]
+
 11
 
 **Recommendation No. 2**
@@ -820,7 +841,9 @@ Town).
  Unit of Management (UoM) 18 Blackwater (Munster), Flood Risk Management Plan
 
 2018 (Freemount, Mitchelstown).”
----
+
+[[PAGE_END:11]]
+
 12
 
 5.
@@ -896,7 +919,9 @@ Agenda.
 on the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), Standing
 
 Orders were suspended in order to complete the Agenda.
----
+
+[[PAGE_END:12]]
+
 13
 
 6.
@@ -982,7 +1007,9 @@ Proposed by Councillor Hurley;
 Seconded by Cmhlr. Ó Ceallaigh;
 
 And Resolved:
----
+
+[[PAGE_END:13]]
+
 14
 
 “That, Limerick City and County Council agrees to the making of an Agreement, as
@@ -1058,7 +1085,9 @@ Replies to the following Questions on the Agenda were circulated to all Members
 prior to the Meeting and the Questions were therefore considered as having been dealt
 
 with:
----
+
+[[PAGE_END:14]]
+
 15
 
 8.
@@ -1148,7 +1177,9 @@ was provided in 2018 by the Department of Transport, Tourism and Sport to
 continue advancing this important road scheme. The timelines for this
 
 scheme are dependent on the completion of design work and environmental
----
+
+[[PAGE_END:15]]
+
 16
 
 assessments by the Design Team which must be submitted to the
@@ -1280,7 +1311,9 @@ Leases
 **169**
 
 **1,365**
----
+
+[[PAGE_END:16]]
+
 17
 
 NOTICES OF MOTION
@@ -1346,7 +1379,9 @@ Economic Development, Enterprise and Planning Strategic Policy Committee)
 It was agreed to refer this Motion to the Economic Development, Enterprise and
 
 Planning Strategic Policy Committee.
----
+
+[[PAGE_END:17]]
+
 18
 
 16.
@@ -1406,4 +1441,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:18]]
+

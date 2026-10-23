@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 11th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—__ Comhairle Cathrach
+_—_——_ Comhairle Cathrach
 & Contae Luimnigh
-ALN SS
+ArN SO
 
 — Limerick City
 & County Council
@@ -33,7 +34,7 @@ ALN SS
 A Chomhairleoir, a chara,
 
 Ceantar Bardasach Ath Dara-Rath Cacia,
-Comhairle Cathvach agus Contae Luimnigh,
+Comhairle Cathwach agus Contae Luimnigh,
 Aras Séan Finn,
 
 Line Nua,
@@ -52,7 +53,7 @@ Rathkeale,
 
 EIRCODE V94 HKLV
 
-t: #353 (0) 69 64047
+t; 4353 (0) 69 64047
 f: +353 (0) 69 63188
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
@@ -74,13 +75,15 @@ on 14" January, 2025.
 
 2. Declaration of Interest
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -90,7 +93,7 @@ Mid West National Road Design Office
 Foynes to Limerick Road (Including Adare Bypass) Project (Item to be taken at 11:00 am)
 To receive an update on the Foynes to Limerick Road (Including Adare Bypass) Project.
 
-ive Travel
+ve Travel
 To receive an update on Active Travel Projects in the Adare-Rathkeale Municipal District.
 Roads, Traffic and Cleansing
 
@@ -117,7 +120,9 @@ To consider receiving a Deputation from Foynes Flying Boat Museum at a future Me
 of the District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -151,4 +156,6 @@ Swimming Pool along with any other updates.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

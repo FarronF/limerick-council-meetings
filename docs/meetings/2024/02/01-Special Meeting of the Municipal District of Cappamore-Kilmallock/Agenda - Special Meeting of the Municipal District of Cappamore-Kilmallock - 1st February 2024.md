@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-01/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 1st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26" January, 2024.
@@ -31,7 +32,6 @@ held in Aras Mainchin Seoige on Thursday 1" February at 3.00 p.m. The business t
 is set out on the appended Agenda.
 
 Is mise le meas,
-@istr7 OPV Q_
 
 Dara O’Brien,
 Meetings Administrator.
@@ -50,4 +50,6 @@ addition of a first floor, to the existing structure. The building is on the Rec
 Structure RPS 1324 and located in the Kilfinnane Architecture Conservation Area.
 
 
----
+
+[[PAGE_END:1]]
+

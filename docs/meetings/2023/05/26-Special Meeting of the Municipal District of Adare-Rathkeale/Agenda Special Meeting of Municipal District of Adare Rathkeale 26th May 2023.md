@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-26th%20May%202023.pdf)
+**Original file:** [Agenda Special Meeting of Municipal District of Adare Rathkeale 26th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00-Agenda-Special-Meeting-of-Municipal-District-of-Adare-Rathkeale-26th%20May%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-eel Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
 
-—= Limerick City
+— Limerick City
 & County Council
 
 23" May, 2023.
 
 Ceantar Bardasach Ath Dara-Rath Caola,
-Comhairie Cathrach agus Contae Luimnigh,
+Comhairle Cathrach agus Contae Luimnigh,
 Aras Séan Finn,
 
 Line Nua,
@@ -75,14 +76,16 @@ AGENDA
 
 To discuss water quality issues in Foynes.
 
-Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathni Chorpardideach, Cé na gCeannaithe Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 & customerservices@limerick.ie
-© veo limerick.ie
+© veuvilimerick.ie
 @LimerickCouncil
 
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+

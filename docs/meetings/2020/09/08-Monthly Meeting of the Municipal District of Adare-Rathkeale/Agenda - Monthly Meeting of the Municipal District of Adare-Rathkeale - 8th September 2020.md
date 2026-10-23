@@ -16,26 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-8th-september-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/00-agenda-8th-september-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
+—_ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola
 & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh
-~~ i ~ _ Ayas Séan Finn,
-~™ Line Nua,
-sa Limerick City Rath Ceola,
+_ —— _ Ayas Séan Finn,
+~N Line Nua,
+=> Limerick City Rath Caola,
 
 & County Council Co. Luimnigh.
 
-Adare-Rathkeale Municipal Distnct,
+Adare-Rathkeale Municipal District,
+
 Limerick City and County Council,
+
 Aras Sean Finn,
 
 New Line,
 
-Rathkeale
+Rathxrale
 
 Co. Limerick,
 
@@ -53,11 +56,11 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Kare 7
+Kare :
 Meetings Administrator.
 
 AGENDA
-1. — Minutes
+1. Minutes
 
 To adopt Minutes of Meeting of the Meeting of the Municipal District of Adare-Rathkeale
 held on 7™ July, 2020.
@@ -72,11 +75,13 @@ To receive an update in relation to the operation of CCTV cameras in the Distric
 Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach © weewlimerickie
 Corporate Headquarters, Merchants Quay, Limerick. 1 W alim
 
-erickCouncil
+erickCounct!
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Community Development Directorate
@@ -122,7 +127,9 @@ County recently due to Storm Ellen and what plans are in place to limit damage o
 from future storms.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -153,4 +160,6 @@ locally for Corona Virus.
 (Copy of correspondence enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

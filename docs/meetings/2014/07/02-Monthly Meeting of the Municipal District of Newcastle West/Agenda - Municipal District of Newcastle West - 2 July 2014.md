@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_municipal_district_of_newcastle_west_-_2nd_july_2014_0.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 2 July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_-_municipal_district_of_newcastle_west_-_2nd_july_2014_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26 June, 2014.
@@ -40,11 +41,11 @@ Is mise le meas,
 Tina Knox,
 Meetings Administrator.
 
-ween en nnn nn nnn ee nnn ee ene e eee eee een meee n nnn en een antennae nee e nee e eee e eRe e Rene anne Rennes anne,
+ween na nn nn nn nnn ee nnn ee en ee eee eee een meen nnn en nena nt enna ne eee e eee e enna ease RRR enn eens,
 
 1. Miontuairisci
 
-(a) To note the Minutes of the Newcastle West Area Committee Meeting held on 7
+(a) To note the Minutes of the Newcastle West Area Committee Meeting held on 7"
 
 May, 2014.
 (b) To adopt the Minutes of the Inaugural Meeting of the Municipal District of
@@ -58,7 +59,7 @@ Newcastle West held on 11" June, 2014.
 Part 8 Procedure — N21 Newcastle West Pavement Improvement and Pedestrian
 Facilities Scheme 2014.
 
-To consider the Chief Executive’s Report, prepared pursuant to Section 179 of the
+To consider the Chief Executive's Report, prepared pursuant to Section 179 of the
 Planning and Development Acts, 2000-2013, and Part 8 of the Planning and
 Development Regulations, 2001-2013, in relation to N21 Newcastle West Pavement
 
@@ -66,7 +67,9 @@ Improvement and Pedestrian Facilities Scheme 2014.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -90,7 +93,7 @@ regard to Daar Riverview and Arraview.
 Questions submitted by Councillor L. Galvin
 
 | will ask at the next meeting for the road number to be placed at the entrance to Maura
-O'Sullivan's property at Dromcollogher.
+O'Sullivan’s property at Dromcollogher.
 
 | will ask at the next meeting (a) what Local Authority is responsible for the upkeep of the
 creamery bridge Mountcollins and (b) can a plan be put in place to repair it.
@@ -109,4 +112,6 @@ addressed.
 Any Other Business.
 
 
----
+
+[[PAGE_END:2]]
+

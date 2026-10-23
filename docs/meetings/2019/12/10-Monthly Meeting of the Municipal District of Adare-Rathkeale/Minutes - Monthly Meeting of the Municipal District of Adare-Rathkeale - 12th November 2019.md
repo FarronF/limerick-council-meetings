@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%20Minutes%20of%20Monthly%20Meeting%2012th%20November%2C%202019%20V2.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%20Minutes%20of%20Monthly%20Meeting%2012th%20November%2C%202019%20V2.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -92,7 +93,9 @@ Rathkeale held on 8th October, 2019.
 Proposed by Councillor O’Donoghue;
 
 Seconded by Councillor Collins;
----
+
+[[PAGE_END:1]]
+
 2
 
 And Resolved:
@@ -168,7 +171,9 @@ Engineer, Mr. Richard Gorey, Mid West National Road Design Office to the Meeting
 Senior Executive Engineer addressed the Meeting and outlined details of the proposed
 
 scheme which will include a zebra crossing, designated set down areas, road signage,
----
+
+[[PAGE_END:2]]
+
 3
 
 resurfacing and drainage works. Following discussion, it was agreed a bus shelter would
@@ -234,7 +239,9 @@ a date and time in due course. Councillor Keary also requested the Senior Archit
 Housing Development Directorate provide an update on the 16 acre site in Adare for the
 
 next Meeting.
----
+
+[[PAGE_END:3]]
+
 4
 
 **6.**
@@ -302,7 +309,9 @@ with a view to installing a right turn lane on the Adare to Croagh side of the
 roadway. Councillor Keary also requested a traffic count take place to establish
 
 the volume of cars who use this junction.
----
+
+[[PAGE_END:4]]
+
 5
 
 **QUESTIONS**
@@ -378,7 +387,9 @@ by the Gardaí.
 **calming measures at Castlequarter Heights, Cluain Ard, Ballyea Close and Clohessy**
 
 **Park.**
----
+
+[[PAGE_END:5]]
+
 6
 
 **REPLY:**
@@ -456,7 +467,9 @@ above’.
 **We will move at the next Meeting that the Council carry out a traffic survey in Loughill,**
 
 **Co. Limerick with a view to having traffic calming measures installed.**
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY:**
@@ -484,4 +497,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

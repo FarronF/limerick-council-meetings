@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Special%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015.pdf)
+**Original file:** [Minutes of Special Meeting - Limerick City & County Council - 26th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Special%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -88,7 +89,9 @@ landing slots.”
 **Councillors J. O’Dea, K. O’Hanlon, J. Collins, S.**
 
 **Clifford, J. Crowley, S. Lynch.**
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Collins (J), in proposing the Motion on behalf of his party, put
@@ -154,7 +157,9 @@ added that connectivity to Heathrow was a prerequisite to doing business in
 the global economy.
 
 The amendment was seconded by Councillor Secas.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Prendiville, on behalf of his party, stated that they supported the
@@ -216,7 +221,9 @@ He asked the Party Leaders to review the various Motions put forward at the
 Meeting with a view to agreeing a single Motion which could be sent from the
 
 Council to the Government on the matter.
----
+
+[[PAGE_END:3]]
+
 4
 
 On resumption of the Meeting, the following Motion, which was proposed by
@@ -246,4 +253,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

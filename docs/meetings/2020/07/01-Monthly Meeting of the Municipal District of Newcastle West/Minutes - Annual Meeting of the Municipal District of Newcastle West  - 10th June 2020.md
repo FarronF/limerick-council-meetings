@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01b-2020-06-10-minutes-agm.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West  - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01b-2020-06-10-minutes-agm.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -82,7 +83,9 @@ On taking the Chair, Councillor Foley expressed his appreciation on being appoin
 Cathaoirleach of the Municipal District of Newcastle West and acknowledged the hard work
 
 and contribution made by Councillor Scanlan during his term as Cathaoirleach.
----
+
+[[PAGE_END:1]]
+
 2
 
 He stated that he was looking forward to working with the Members, Management and Staff
@@ -146,4 +149,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

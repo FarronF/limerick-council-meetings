@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-An fh Cé na gCeannaithe.
+a Cé na gCeannaithe.
 = Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay.
 
-COUNCIL rohants Quay
+COUNCIL rchants Quay
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -42,7 +43,7 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in Aras
-Sedn Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 1°* June, 2016 at the conclusion of
+Sedn Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 1* June, 2016 at the conclusion of
 the Annual Meeting. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -51,7 +52,7 @@ el
 
 Meetings Administrator.
 
-en nn nn nn nn nn ne ee eee enn eee eee e eee eee memes aera net e nee een n ener tenes meen n en nen nen e nen n nen ne ene nee nn eneennene
+an nnn nn nn nn nn ne ee eee enn cece eee en eee memes eet e net e nee meee nee renee meen nen een e ene e enn ne nee en ee nee nn eneeneene
 
 AGENDA
 
@@ -67,11 +68,13 @@ The Courthouse, Adare, Co. Limerick.
 (Copy Enclosed)
 1 es customerservices@limerick.ie
 
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ www limerick.ie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach @ www Mimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -87,7 +90,7 @@ and Development Act 2000-2015 and Part VIII of the Planning and Development Regu
 Social Development Directorate
 
 To consider the adoption of a Statement of Consistency on the Draft Local Economic and
-Community Plan (LECP) 2016-2021. -
+Community Plan (LECP) 2016-2021. 7
 
 (Copy Enclosed)
 Heritage Plan
@@ -105,7 +108,9 @@ To note update on the provision of a new sewerage treatment plan in Askeaton.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -148,7 +153,7 @@ Notice of Motion submitted by Councillor E. O’Brien
 Kilcornan, to extend an invite on the imprimatur of Kilcornan Community Council, for the
 Municipal District of Adare-Rathkeale to attend and hold a Municipal Meeting in Kilcornan
 Community Centre in October 2016. | will further move that an update and progress report from
-Limerick City and County Council and the TIl with respect to Kilcornan Traffic calming remain on
+Limerick City and County Council and the TI! with respect to Kilcornan Traffic calming remain on
 the agenda as | feel it is not getting any, or any adequate, attention.
 
 Notice of Motion submitted by Councillor K. Sheahan
@@ -160,4 +165,6 @@ Meeting be held at that location.
 Correspondence
 
 
----
+
+[[PAGE_END:3]]
+

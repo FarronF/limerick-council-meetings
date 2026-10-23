@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-11th-december-2023.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 11th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-11th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 29th November **2023**
@@ -76,10 +77,14 @@ of 9th October 2023 (copy attached)
 Yours sincerely
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 (Image omitted)
 
 ***Cecilia Larkin,***
 
 ***Planning, Environment and Place-Making Directorate***
----
+
+[[PAGE_END:2]]
+

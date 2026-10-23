@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Newcastle West - 2nd March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20March%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -57,7 +58,7 @@ Desmond Hall
 The Cathaoirleach welcomed Mr. Padraig O’Ruairc, Regional Manager, Shannon Region
 Heritage Sites, who gave a presentation on Desmond Hall, Newcastle West.
 
-Mr. O’Ruairc stated that visitor numbers to the 13” Century Castle had risen from
+Mr. O’Ruairc stated that visitor numbers to the 13" Century Castle had risen from
 around 2,000 in 2005 to 11,150 in 2015. He also stated that as a result of signage being
 erected, numbers had increased, however the present location of signage was confusing
 for visitors. It was outlined that there was potential to grow numbers to 20,000. He
@@ -70,7 +71,9 @@ the region.
 Mr. O’Ruairc also spoke of the proposal by the Office of Public Works to rename the
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -86,7 +89,7 @@ the Director of Services stated that this was a very worthwhile presentation and
 there was a need to promote tourism in Newcastle West and the surrounding area.
 
 Se ion
-n installation of double yellow lines at Cedarville Estate, A l
+in installation of double yellow lines at Cedarville Estate, A |
 
 The Roads Engineer stated that he had had a meeting with Fr. O’Shea in Abbeyfeale and
 outlined the concerns of residents in the estate with regard to parking in the vicinity of
@@ -117,13 +120,15 @@ Foley took over the role of Cathaoirleach for the duration of the discussion.
 Members noted the proposals for the disposal of land as follows:-
 
 ¢ Disposal of Freehold Interest in dwelling house situate 92 Assumpta Park,
-Newcastle West, Co.Limerick.
 
+Newcastle West, Co.Limerick.
 ¢ Disposal of Freehold Interest in dwelling house situate at Glensharrold,
 Carrickerry, Ardagh, Co.Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY:
@@ -189,7 +194,9 @@ REPLY: The Roads crew is currently engaged in reconstruction works and will ende
 to have this matter addressed when resources permit.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -249,7 +256,9 @@ is being granted and details of the allocation for the Newcastle West Municipal
 District are awaited.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -317,7 +326,9 @@ the 1960s to rename The Square in Newcastle West to Con Colbert Square. It was
 proposed to follow up on this and revert back in light of the 1916 Commemoration.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Following brief discussion on Cois na Feile, Athletics Track and Road Works Scheme
@@ -333,4 +344,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

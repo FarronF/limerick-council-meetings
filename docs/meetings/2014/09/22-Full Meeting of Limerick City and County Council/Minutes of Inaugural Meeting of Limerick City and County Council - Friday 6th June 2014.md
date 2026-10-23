@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/7%20minutes_of_inaugural_meeting_of_limerick_city_and_county_council_-_friday_6th_june_2014.pdf)
+**Original file:** [Minutes of Inaugural Meeting of Limerick City and County Council - Friday 6th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/7%20minutes_of_inaugural_meeting_of_limerick_city_and_county_council_-_friday_6th_june_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
@@ -59,7 +60,7 @@ volunteer programmes which provided in excess of 10,000 community service hours 
 year. He concluded by stating that the University of Limerick was proud of its association
 with Limerick and that it was willing to play its part in this new era for the Region.
 
-1. RESULT OF THE LOCAL ELECTIONS HELD ON 23"° MAY, 2014:
+1. RESULT OF THE LOCAL ELECTIONS HELD ON 23" MAY, 2014:
 
 The Meetings Administrator, as Returning Officer at the Local Elections held on 23” May,
 2014, welcomed all the Members to the Inaugural Annual Meeting of the new Authority
@@ -69,14 +70,17 @@ elected as a result of the Poll taken on 23 May, 2014, which comprised the 40 Me
 of the Council as follows:
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LOCAL ELECTIONS 2014
 RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
+
 The following is The Result Of the Poll Taken On: 23° May, 2014.
 To Fill The 8 Seats in the Local Electoral Area of Limerick City East
-____Name | __ Party | Occupation | Ss Address
+____Name | __ Party | Occupation | = Address
 Co. Limerick.
 Hurley, Marian Fine Gael Business Executive | Casa Loma, Annacotty,
 Co. Limerick.
@@ -122,11 +126,13 @@ Returning Officer.
 
 36, Lee Estate, Island Road,
 
-Date: 29” May, 2014.
+Date: 29" May, 2014.
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LOCAL ELECTIONS 2014
@@ -135,9 +141,9 @@ RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
 The following is The Result Of the Poll Taken On: 234 May, 2014,
 To Fill The 7 Seats in the Local Electoral Area of Limerick City West
 
-_____Name___|_—Party | Occupation _|
+_____Name___|_—Party =| Occupation _|
 Butler, Daniel Fine Gael | Drugs Education &
-Pater Daniel _|Fine Geet eeveriion Worker _
+Pater Daniel _|Fine Geet | prevention Worker
 Representative Limerick.
 Fail
 South Circular Road, Limerick.
@@ -147,24 +153,22 @@ Austerity | Electronic Engineer | 3 Lr. Glentworth Street, Limerick.
 
 Alliance
 
+AAA
+Lynch, Sean Ballycarney, Clarina, Co. Limerick.
+Fail
+McCreesh, Malachy (inal 1.T. Engineer 59, Gouldavoher Estate,
+Dooradoyle, Limerick.
+
+Eugene Griffin,
+Returning Officer. Date: 29" May, 2014.
+
 106, The Grange, Raheen, Limerick.
 
 Loftus, John
 
-AAA
-Lynch, Sean Ballycarney, Clarina, Co. Limerick.
-Fail
-McCreesh, Malachy (ian 1.T. Engineer 59, Gouldavoher Estate,
-Dooradoyle, Limerick.
-
-Eugene Griffin,
-Returning Officer.
-
-Date: 29” May, 2014.
-
 LOCAL ELECTIONS 2014
 RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
-The following is The Result Of the Poll Taken On: 234 May, 2014.
+The following is The Result Of the Poll Taken On: 23" May, 2014.
 To Fill The 6 Seats in the Local Electoral Area of Adare-Rathkeale
 
 Representative
@@ -183,7 +187,9 @@ Fine Gael
 
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 LOCAL ELECTIONS 2014
@@ -191,11 +197,10 @@ RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
 
 The following is The Result Of the Poll Taken On: 234 May, 2014.
 To Fill The 7 Seats in the Local Electoral Area of C Imallock
-Name __|_Party | Occupation | =F» Address
-Donegan, Michael Fianna IT Engineer Millmount, Kilmallock,
 
+___ Name _—|_Party | Occupation | —s_— Address
 Fail Co. Limerick.
-Fianna Public Cullenagh, Cappamore,
+
 Fail Representative Co. Limerick.
 
 Benrue House, Hospital,
@@ -207,7 +212,7 @@ Gleeson, Noel
 Mitchell, Gerald Fine Gael | Auctioneer
 
 ; 7 Co. Limerick.
-Ryan, Eddie Fianna ra | Castlecreagh, Galbally,
+Ryan, Eddie Fianna | Castlecreagh, Galbally,
 Fail Co. Limerick.
 
 Sheehy, Lisa Marie | Sinn Féin | University Student | Ballintubber, Kilfinane,
@@ -223,7 +228,9 @@ RETURN OF PERSONS ELECTED - LIMERICK CITY AND COUNTY COUNCIL
 The following is The Result Of the Poll Taken On: 23 May, 2014.
 To Fill The 6 Seats in the Local Electoral Area of Newcastle West
 
-Party ae
+Party
+
+eee
 Browne, Séamus _| Sinn Féin_| Legal Advisor
 Collins, Michael Ballinvallig, Newcastle West,
 Fail Co. Limerick.
@@ -242,7 +249,9 @@ Date: 29" May, 2014.
 
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. ELECTION OF CATHAOIRLEACH:
@@ -294,7 +303,9 @@ The Chief Executive declared Councillor Sheahan (K) elected as Cathaoirleach and
 congratulated him on his election.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On taking the Chair, Councillor Sheahan (K) stated that it was a great honour for him to be
@@ -344,7 +355,9 @@ City and County Council to hold office to the next Annual Meeting or until his
 successor is appointed.”
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 A vote was taken which resulted as follows:
@@ -362,7 +375,7 @@ For Councillor Crowley
 
 Councillors Butler, Byrne, Clifford, Collins (J), Collins (M), Crowley, Donegan, Foley,
 Galvin, Gleeson, Hourigan, Hurley, Keary, Lynch, Mitchell, Neville, O’Brien, O'Dea,
-O'Donnell, O'Donoghue, O'Hanlon, Ryan, Scanian, Sheahan (J), Sheahan (K), Sheahan
+O'Donnell, O'Donoghue, O'Hanlon, Ryan, Scanlan, Sheahan (J), Sheahan (K), Sheahan
 (M), Teefy. (27)
 
 The Cathaoirleach declared Councillor Crowley elected as Leas-Chathaoirleach and
@@ -396,7 +409,9 @@ closer and more responsive to the day-to-day needs of citizens and more represen
 their priorities in setting policies and making decisions. He said that, as an organisation,
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 the Council had engaged in a significant process of adaptation to meet the challenge that
@@ -417,7 +432,7 @@ of the Metropolitan and Municipal Districts were as follows:
 
 Municipal District of Adare-Rathkeale: Tuesday, 10” June, 2014, at 10am.
 Municipal District of Newcastle West: Wednesday, 11" June, 2014, at 10am.
-Municipal District of Cappamore-Kilmallock: | Thursday, 12” June, 2014, at 3.30pm.
+Municipal District of Cappamore-Kilmallock: | Thursday, 12" June, 2014, at 3.30pm.
 Metropolitan District of Limerick: Monday, 16” June, 2014, at 10am.
 
 5. APPOINTMENT OF CHAIRS-DESIGNATE TO THE STRATEGIC POLICY
@@ -448,7 +463,9 @@ Seconded by Councillor O’Hanlon;
 SPC Chairs-Designate for a three-year term.”
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 As there were no other nominations, the Cathaoirleach declared Councillors Donegan,
@@ -483,7 +500,7 @@ The Cathaoirleach declared Councillor Leddin appointed to the Southern and
 Eastern Regional Assembly.
 
 Molta ag Councillor Collins (M);
-Cuidid 6n Councillor Sheahan (J);
+Cuididé 6n Councillor Sheahan (J);
 
 “That, Councillors Gleeson and Sheahan (J) be appointed to the Southern
 and Eastern Regional Assembly.”
@@ -498,7 +515,9 @@ County Council was entitled to nominate the Cathaoirleach, together with a furth
 Members of the Council, as Trustees. Under the Act, the Council was required to make
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -529,7 +548,7 @@ appointed to the Limerick Market Trustees Committee.
 Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
-“That, Councillors Crowley, Lynch, Collins (J), O'Dea, O'Hanlon, Clifford,
+“That, Councillors Crowley, Lynch, Collins (J), O'Dea, O’Hanlon, Clifford,
 Sheahan (M), Byrne, O'Donnell, Mitchell, Hourigan and Hurley be appointed to the
 Limerick Market Trustees Committee.”
 
@@ -548,7 +567,9 @@ The Meetings Administrator stated that Limerick City and County Council was requ
 consider the appointment of 1 Member to the Library Association of Ireland.
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Quinlivan;
@@ -598,16 +619,17 @@ Limited.”
 
 As there were no other nominations, the Cathaoirleach declared Councillor O'Donnell
 appointed as the Council's representative to the Irish Public Bodies Mutual Insurances
-
 Limited.
 
 
----
+
+[[PAGE_END:11]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12
 
-12. LOCAL AUTHORITY MEM vA IATION:
+12. LOCAL AUTHORITY MEM vA ATION:
 
 The Meetings Administrator stated that Limerick City and County Council was required to
 consider the nomination of a delegate to the Local Authority Members’ Association.
@@ -634,7 +656,7 @@ Seconded by Councillor Sheahan (J);
 Governing Body of the National University of Ireland, Cork.”
 
 As there were no other nominations, the Cathaoirleach declared Councillor Ryan
-appointed as the Council's representative to the Governing Body of the National University
+appointed as the Council’s representative to the Governing Body of the National University
 of Ireland, Cork.
 
 14. GOVERNING AUTHORITY OF THE UNIVERSITY OF LIMERICK:
@@ -653,7 +675,9 @@ As thee were no other nominations, the Cathaoirleach declared Councillors O'Dea
 and Scanlan appointed to the Governing Authority of the University of Limerick.
 
 
----
+
+[[PAGE_END:12]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13
@@ -705,7 +729,9 @@ Crowley and O'Donnell appointed as the Council's representatives on the Hunt Mus
 Trust.
 
 
----
+
+[[PAGE_END:13]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14
@@ -759,7 +785,9 @@ The Meetings Administrator clarified that this item should have been titled RAP/
 Implementation Team for Rathkeale.
 
 
----
+
+[[PAGE_END:14]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15
@@ -788,7 +816,7 @@ Members was required in this case, if so desired.
 The following grouping was nominated:
 For Councillor Prendiville
 
-Councillors Browne, Daly, Gilligan, Keller, Leddin, Loftus, McCreesh, McMahon, O'Brien,
+Councillors Browne, Daly, Gilligan, Keller, Leddin, Loftus, McCreesh, McMahon, O’Brien,
 0 Ceallaigh, Prendiville, Quinlivan, Secas, Sheehy, Teefy.
 
 The Cathaoirleach declared Councillor Prendiville appointed to the Board of Governors of
@@ -808,10 +836,12 @@ On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), i
 agreed to defer this item.
 
 
----
+
+[[PAGE_END:15]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-24. tL! !
+24. UL !
 
 On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), it was
 agreed to defer this item.
@@ -829,7 +859,7 @@ Seconded by Councillor Sheahan (J);
 Moyross Community Enterprise Centre Limited.”
 
 Proposed by Councillor Browne;
-Seconded by Cmhir. © Ceallaigh;
+Seconded by Cmhir. O Ceallaigh;
 
 “That, Councillor Quinlivan be appointed to the Board of Directors of
 Moyross Community Enterprise Centre Limited.”
@@ -858,7 +888,9 @@ appoint 1 Member to the Board of Management of St. Munchin’s Community Develop
 Company Limited.
 
 
----
+
+[[PAGE_END:16]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor Collins (M);
@@ -890,9 +922,13 @@ An Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:17]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:18]]
+

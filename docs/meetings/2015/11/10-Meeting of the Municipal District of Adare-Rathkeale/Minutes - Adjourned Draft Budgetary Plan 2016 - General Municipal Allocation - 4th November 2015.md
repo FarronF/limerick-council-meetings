@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%204th%20November%202015.pdf)
+**Original file:** [Minutes - Adjourned Draft Budgetary Plan 2016 - General Municipal Allocation - 4th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%204th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT THE ADJOURNED DRAFT BUDGETARY
@@ -73,7 +74,9 @@ be allocated subject to having discretion in relation to the detail of spending 
 such heading.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor O'Brien;
@@ -81,7 +84,7 @@ Seconded by Councillor O'Donoghue;
 And Resolved:
 
 “That, the Budgetary Plan for the Municipal District of Adare-Rathkeale for the financial
-year ended 31“ December, 2016, in the total of €275,000 be adopted in accordance with
+year ended 31* December, 2016, in the total of €275,000 be adopted in accordance with
 Section 102 of the Local Government Act, 2001, as amended”.
 
 It was agreed that a further workshop to decide details of expenditure under the above
@@ -97,4 +100,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:2]]
+

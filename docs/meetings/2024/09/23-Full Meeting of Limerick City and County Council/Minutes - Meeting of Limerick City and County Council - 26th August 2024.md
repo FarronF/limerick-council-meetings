@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-d-minutes-special-meeting-limerick-city-and-county-council-26.08.2024-at-2.30pm.pdf)
+**Original file:** [Minutes - Meeting of Limerick City and County Council - 26th August 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-d-minutes-special-meeting-limerick-city-and-county-council-26.08.2024-at-2.30pm.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND
@@ -82,7 +83,9 @@ January, March, May and July and that the Order of Business for the Meeting of t
 Some Members view was that Workshops should be held with each of the Municipal
 
 Districts and the Metropolitan District to agree and prioritise items to be included in the
----
+
+[[PAGE_END:1]]
+
 **2**
 
 Mayoral Programme, while others were in agreement to amend the Schedule of Ordinary
@@ -108,4 +111,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

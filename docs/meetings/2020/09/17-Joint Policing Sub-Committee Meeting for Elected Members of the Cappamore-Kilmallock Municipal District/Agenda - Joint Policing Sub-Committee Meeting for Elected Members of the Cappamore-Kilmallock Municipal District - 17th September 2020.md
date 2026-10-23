@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-jpc-sub-committee-agenda.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District - 17th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-jpc-sub-committee-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-& Contae Luimnigh Org an Cheantair, Aras — ao
+& Contae Luimnigh Org an Cheantair, Aras — oe
 
-AN SS Co. Luimnigh.
-= Limerick City
+ANS SS Co. Luimnigh.
+— Limerick City
 
 = & County Council Limerick City and County Council
 
 Aras Mainchin Seoighe Area Office,
 
-Kiimallock,
+Kilmallock,
 
 Co, Limerick.
 
-EIRCODE V35 k497
+EIRCODE V35 497
 
 t: 4353 (0) 63 980 19
 f: +353 (0) 63 985 99
@@ -66,10 +67,12 @@ Sub-Committee held on 20th February, 2020.
 To discuss policing issues in the District.
 
 = te
+apm — — aaa re
+Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe @ worwimericicie
-Limerick City and County Council, Aras Mainchin Seoighe Area Office yemeucos
-063 980 19
+(063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

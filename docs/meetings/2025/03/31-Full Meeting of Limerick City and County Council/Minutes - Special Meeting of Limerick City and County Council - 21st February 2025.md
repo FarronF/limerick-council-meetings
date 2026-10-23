@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 21st February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -82,7 +83,9 @@ wholly owned subsidiaries of Limerick City and County Council. He referred to th
 of the DACs, the governance, the key milestones achieved to date, and informed the Members
 
 of what the potential was for these DACs.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 In the presentation, the Mayor gave the following overview of the Limerick DACs:
@@ -140,7 +143,9 @@ especially Office of Public Works building;
  Possible co-ordinator of all commercial office space of scale, owned by Limerick City
 
 and County Council.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 **Innovate Limerick DAC**
@@ -208,7 +213,9 @@ The Mayor advised the Members what the next steps were and these included:
  Post completion of review finalise new board members;
 
  Set-up of shareholder management unit in Limerick City and County Council;
----
+
+[[PAGE_END:3]]
+
 **4**
 
  Government Funding for Office of Public Works building or Plan B for Opera;
@@ -276,7 +283,9 @@ Elected Members that a policy document with clear instructions on the role of th
 Directors’ duties should be drafted, which would include decisions on whether minutes of
 
 meetings should be shared to the Elected Members.
----
+
+[[PAGE_END:4]]
+
 **5**
 
 He pointed out that the guidelines at a national level needed to be followed in relation to his
@@ -338,7 +347,9 @@ debate the progress of the three Limerick DACs at this Special Meeting, and to u
 the potential for moving forward. Some Members still expressed their concern at the
 
 possibility that Elected Members would no longer sit on the boards, stressing the local
----
+
+[[PAGE_END:5]]
+
 **6**
 
 element may be lost, while other Members looked forward to seeing the report following the
@@ -412,7 +423,9 @@ and County Council;
  The Annual Work Programme and Budget 2025 has been developed with the input
 
 from staff and the board. A detailed work programme outlining the company’s
----
+
+[[PAGE_END:6]]
+
 **7**
 
 commitment to operational excellence and enhanced visitor engagement was
@@ -468,4 +481,6 @@ This concluded the Meeting.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:7]]
+

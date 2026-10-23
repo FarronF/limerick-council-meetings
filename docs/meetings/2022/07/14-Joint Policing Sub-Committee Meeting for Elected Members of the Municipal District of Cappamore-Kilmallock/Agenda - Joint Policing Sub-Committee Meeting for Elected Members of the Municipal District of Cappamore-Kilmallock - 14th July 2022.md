@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20Agenda%20July%202022%20Municipal%20District%20of%20Cappamore-Kilmallock%20JPC%20Sub%20Committee%20Meeting.pdf)
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20Agenda%20July%202022%20Municipal%20District%20of%20Cappamore-Kilmallock%20JPC%20Sub%20Committee%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **8th** **July, 2022.**
 
 **To/**
@@ -54,4 +55,6 @@ Sub-Committee held on 21st April, 2022.
 **2.Policing Issues**
 
 To discuss policing issues in the District.
----
+
+[[PAGE_END:1]]
+

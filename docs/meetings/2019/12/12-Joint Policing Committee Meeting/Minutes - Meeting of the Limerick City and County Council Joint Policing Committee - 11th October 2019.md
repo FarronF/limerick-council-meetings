@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes-of-JPC-Meeting-11th-October-2019.pdf)
+**Original file:** [Minutes - Meeting of the Limerick City and County Council Joint Policing Committee - 11th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes-of-JPC-Meeting-11th-October-2019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
 **COUNCIL CHAMBER, CORPORATE HEADQUARTERS,** **MERCHANT’S QUAY, ON FRIDAY, 11TH**
@@ -106,7 +107,9 @@ It was agreed that the next Meeting would be held on Friday, 13th December at 10
 The A/Senior Executive Officer, Corporate Services, Governance and Customer Services, agreed to
 
 revert to Members with dates for meetings in 2020.
----
+
+[[PAGE_END:1]]
+
 **5.Overview on Crime Statistics**
 
 The Senior Crime and Policing Analyst then gave a brief overview on statistics under the following headings
@@ -196,7 +199,9 @@ in all instances, Gardai have to observe GDPR. He added that the Criminal Assets
 also used where necessary. The issue of building sites is ongoing and needs to be addressed at
 
 national level.
----
+
+[[PAGE_END:2]]
+
 **6.Garda Divisional Policing Model**
 
 The Chief Superintendent gave a Presentation on the new Garda Divisional Policing Model. The new
@@ -268,7 +273,9 @@ investigate serious burglaries and robberies. Members were presented with the nu
 Task Force Incidents under the various headings during the period from 9th September 2019 to 8th
 
 October, 2019.
----
+
+[[PAGE_END:3]]
+
 **10.Question submitted by Councillor Murphy:**
 
 **“I will ask at the next Meeting for an update on concerns expressed to me about the possibility**
@@ -322,4 +329,6 @@ This concluded the Meeting.
 **Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

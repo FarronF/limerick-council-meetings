@@ -16,27 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Council%20Meeting%2028.11.2022.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 28th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20Council%20Meeting%2028.11.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-z Seirbhis{ Corpardideacha,
-_——_ Comhehie pra erd Comhairle Cathrach agus Contae Luumnigh,
+: Seirbhis{ Corpardideacha,
+_—_ Comhehie aero Comhairle Cathrach agus Contae Luumnigh,
 Ceanncheathrii Chorpardideach,
 
-ArN fF LC —— Cé na gCeannaithe,
-Limerick City Ludmnesch
+ArN fF ne Cé na gCeannaithe,
 = & County Council
 
 Corporate Services,
 
 Limerick City and County Council.
-Corporate Headquarters.
-Merchants Quay.
+Corporate Headquarters,
+Merchams Quay.
 
 Limerick
-EIRCODE V94 EH9O
+EIRCODE V94 EHSO
 td
 23 November, 2022. t: 4.353 (0) 61 557150
 f; +353 (0) 61.415 266
@@ -45,12 +45,12 @@ A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
 
-Bernal Institute, University of Limerick, and Online, on Monday, 28 November, 2022, at
+Bernal Institute, University of Limerick, and Online, on Monday, 28" November, 2022, at
 3pm. The business to be transacted is set out on the appended Agenda.
 
-Is mise le meas, — os
+Is misele meas, — oe
 
-~<a Rannery,
+“ia Rannery,
 
 Meetings Administrator,
 
@@ -82,61 +82,46 @@ Planning and Development Act, 2000 (as amended), at:
 © wewwaimerick.ie
 @LimerickCouncil
 
-yv
+y
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(d) 102, Glasgow Park, Limerick.
+(d)
+(e)
 
-(e) Land comprising Folio LK14569F adjoining 55, College Avenue, Moyross,
+102, Glasgow Park, Limerick.
+Land comprising Folio LK14569F adjoining 55, College Avenue, Moyross,
 Limerick.
 
 (f) 15, Kileely Road, Kileely, Limerick.
-
 (g) 0.0348 hectares - land at 19, Oakland Drive, Greystones, Limerick.
-
 (h) 0.706 hectares (1.74 acres) in Ballinacurra Weston, Limerick.
-
 (i) | 2.643 acres of Land in the Lee Estate, King’s Island, Limerick.
-
 (j) 0.77 acres of land at Galvone Business Park, Galvone, Limerick.
-
 (k) 6, Verdant Crescent, King’s Island, Limerick.
-
-(I!) 20, Rose Court, Keyes Park, Limerick.
-
-Derel |
-
+(Il) 20, Rose Court, Keyes Park, Limerick.
+Derel U
 (m) 0.088 hectares of land at Ballyneety North, Templebredon, Co. Limerick.
 (n) Property on Railway Road, Bruree, Co. Limerick.
-
 (0) 3.No. Properties at Railway View, Knocklong, Co. Limerick.
-
 (p) Property on Main Street, Bruff, Co. Limerick.
-
 (q) Property on Main Street, Abbeyfeale, Co. Limerick.
-
 (r) Property on Lower Main Street, Rathkeale, Co. Limerick. (€125,000)
-
 (s) Lower Main Street, Rathkeale, Co. Limerick. (€195,000)
-
 (t) 34, Creagh Avenue, Kileely, Limerick.
-
 (u) 23, Catherine Street, Limerick.
-
-(Statutory Notices dated 30" September, 17" and 25™ October, 14", 15%,
+(Statutory Notices dated 30" September, 17" and 25™ October, 14", 15",
 17" and 18" November, 2022, already circulated)
-
 Support Services
 (a) Chief Executive’s Report
-
 To consider Chief Executive’s Report for the months of September and October
 2022.
 (Reports Enclosed)
-
 (b) Foreign Travel
 
 To consider approval of foreign travel, in accordance with Section 142 (5) of
@@ -148,11 +133,13 @@ October, 2022 — Deputy Mayor and a delegation (retrospective
 approval).
 
 (ii) Smart City Expo World Congress 2022 in Barcelona, Spain, from 14" to
-18 November, 2022 (retrospective approval).
+18™ November, 2022 (retrospective approval).
 (Reports Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -201,11 +188,13 @@ Policy Committee held on 25" October, 2022.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (v) Chairperson’s Report — Meeting of Home and Social Development
-Strategic Policy Committee held on 19" October, 2022.
+Strategic Policy Committee held on 19 October, 2022.
 
 (Chairperson’s Report Enclosed)
 Recommendation No. 1
@@ -250,7 +239,9 @@ To consider approving recommended allocations for Limerick Theatre Bursaries
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -304,7 +295,9 @@ Seanad, as promised to this Council in the Minister's correspondence of April 22
 2022.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -357,4 +350,6 @@ them of their potential liability for the payment of the 3% RZLT.
 Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

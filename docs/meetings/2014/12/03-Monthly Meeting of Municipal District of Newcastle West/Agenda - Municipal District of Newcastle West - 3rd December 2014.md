@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_3rd_december_2014.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 3rd December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_3rd_december_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
+_—_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
 Comhairle Cathrach agus Contae Luimnigh.
 
 AN > Cé na gCeannaithe,
 = Luimneach
-Limerick Corporate Services and Change rar ona
-CITY & COUNTY Limerick City and pa a
+Limerick Corporate Services and Change prec one
+CITY & COUNTY Limerick City and ——- —
 COUNCIL ‘ ‘umerick
 
 t: +353 (0) 61 407 100
@@ -48,17 +49,17 @@ Agenda.
 
 Is mise le meas,
 
-Loz Yroo
+oz Yroo
 Tina Knox,
 Meetings Administrator.
 
-eee een n en en ew ee en ee ee ne on enn enn nnn ne ene eee eee eee ee eee RON N NNN e Ne Ree REE EERE NEN ERNE NNER ENTE TTT Neen nnn e
+eee ee nnn re en en ee nn ee ne on en nnn enn ene ne enn eee eee eee ene eee REN e NOR Ne Ne Ree EERE REE N ENE R EER R RENE TTT Ree Rw wwe e
 
 AGENDA
 
 1. Minutes:
 
-To adopt Minutes of Meeting of Municipal District of Newcastle West held on 5"
+To adopt Minutes of Meeting of Municipal District of Newcastle West held on 5”
 November, 2014.
 
 2. Customer Services:
@@ -70,7 +71,9 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.ie
 Corporate Headquarters, Merchants Quay, Limerick y @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -78,7 +81,7 @@ Corporate Headquarters, Merchants Quay, Limerick y @LimerickCouncil
 N
 
 Home and Social Development:
-Clauid Housing Association
+Claid Housing Association
 
 Up-date from Cluid Housing Association regarding developments in Gortboy, Newcastle
 West, and Cois Féile, Abbeyfeale.
@@ -122,7 +125,9 @@ Question submitted by Councillor M. Collins
 Crescents to monitor and stop anti-social behaviour at these estates.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -148,6 +153,7 @@ District be made available to the Newcastle West Office and that one person with
 office be given the responsibility for dealing with queries in relation to same.
 
 | will move at the next Meeting that the leylandii tees at Oak Park be removed as they
+
 are unsightly, untidy, and a safety hazard to residents and children in the area.
 
 Correspondence
@@ -155,4 +161,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

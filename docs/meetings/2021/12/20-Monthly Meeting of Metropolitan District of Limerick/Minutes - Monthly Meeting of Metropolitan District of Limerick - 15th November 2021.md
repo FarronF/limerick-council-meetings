@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01b-draft-minutes-monthly-meeting-15th-november-2021.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01b-draft-minutes-monthly-meeting-15th-november-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ON MONDAY, 15TH** **NOVEMBER, 2021 at 09:45 A.M. IN THE COUNCIL CHAMBER,**
@@ -84,7 +85,9 @@ situate at 24 Cuirt Clochan, Limerick and the intention to bring a Section 183 N
 Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 (b) Circulated, report of the Senior Staff Officer, Housing Support Services dated 12th October, 2021
@@ -180,7 +183,9 @@ Open space should be increased where possible on the site.
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, can the Council advise what***
 
 ***plans they have for the Old Cinema Royal Building in Upper Cecil Street.***
----
+
+[[PAGE_END:2]]
+
 3
 
 **REPLY**: The former Royal is owned by Limerick and Clare ETB and while Innovate Limerick have
@@ -260,7 +265,9 @@ period is set out below:
 **REPLY**: There is currently no scheme under construction or being considered in Drominbeg,
 
 Rhebogue for social housing units under the Social Housing Investment Programme.
----
+
+[[PAGE_END:3]]
+
 4
 
 9.
@@ -348,7 +355,9 @@ time.
 ***delivery strategy for the City Centre, given the O’Connell Street works and the Christmas season***
 
 ***for retailers fast approaching.***
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY**: Limerick City and County Council has commenced the initial development of a Delivery
@@ -430,7 +439,9 @@ published on the Irish Water website at www.water.ie/help/water-quality/results
 b. an annual monitoring programme under the Urban Waste Water Treatment Regulations
 
 and the Wastewater Discharge (Authorisation) Regulations in accordance with Discharge
----
+
+[[PAGE_END:5]]
+
 6
 
 License conditions for the Castletroy Waste Water Treatment Plant with results published
@@ -516,7 +527,9 @@ funding source for the provision of lighting in Parks.
 16.
 
 **Question submitted by Councillor F. Kilcoyne**
----
+
+[[PAGE_END:6]]
+
 7
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, when are lights going to***
@@ -594,7 +607,9 @@ While the restoration of the Black Bridge is included in the Limerick City & Cou
 3-year Capital Programme, however progression of this restoration is dependent on
 
 securing a funding source.
----
+
+[[PAGE_END:7]]
+
 8
 
 **NOTICES OF MOTION**
@@ -674,7 +689,9 @@ Members supported the motion and highlighted the issues for schoolchildren and r
 very large volumes of traffic in the area.
 
 **REPLY**: Limerick City and County Council Traffic Department’s Adaptive Urban Traffic Control
----
+
+[[PAGE_END:8]]
+
 9
 
 (A.U.T.C.) system monitors the operation and adaption of signal operation on an hourly
@@ -754,7 +771,9 @@ this happening in the future.
 The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Slattery and
 
 agreed.
----
+
+[[PAGE_END:9]]
+
 10
 
 In proposing the motion, Councillor Secas highlighted the significant population increase in the
@@ -832,7 +851,9 @@ buses.
 The Notice of Motion was proposed by Councillor Kilcoyne, seconded by Councillor Leddin and
 
 agreed.
----
+
+[[PAGE_END:10]]
+
 11
 
 Members supported the motion and highlighted the importance of providing infrastructure for
@@ -876,4 +897,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

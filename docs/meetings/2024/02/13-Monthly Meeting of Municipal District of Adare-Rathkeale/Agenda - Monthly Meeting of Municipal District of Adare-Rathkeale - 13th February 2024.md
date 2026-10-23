@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-13th-february-2024.pdf)
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-monthly-meeting-of-municipal-district-of-adare-rathkeale-13th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Comhairle Cathrach
+ae Comhairle Cathrach
 & Contae Luimnigh
-AN fi ™
+ot
 
-—= Limerick City
+—=> Limerick City
 & County Council
 
 8" February, 2024.
@@ -33,7 +34,7 @@ To:
 
 A Chomhairleoir, a chara,
 
-Ceantar Bardasach Ath Dara-Réth Cavla
+Ceantar Bardasach Ath Dara-Réth Caola
 Comhairle Cathwach agus Contae Luimnigh,
 Aras Séan Finn,
 
@@ -56,7 +57,7 @@ Co. Limerick
 EIRCODE V94 HKIV
 
 t: +353 (0) 69 64047
-t: +383 (0) 69 63188
+1: +383 (0) 69 63188
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 
@@ -82,13 +83,15 @@ Corporate Headquarters, Merchants Quay, Limerick.
 (Copy Enclosed).
 
 & customerservices@limerick.te
-] www. ltimerick.te
+P) www ltimerick.te
 @LimerickCouncil
 
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -136,7 +139,9 @@ District Engineers Report
 To update Members on issues of interest in the District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -164,4 +169,6 @@ flickers, if not, are there any plans to introduce regulations.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

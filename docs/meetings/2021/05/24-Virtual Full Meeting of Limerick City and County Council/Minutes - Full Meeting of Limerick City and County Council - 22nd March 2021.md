@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-a-draft-minutes-ordinary-meeting-22.03.2021.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-a-draft-minutes-ordinary-meeting-22.03.2021.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD ON MONDAY, 22ND MARCH, 2021, AT 3PM
@@ -86,7 +87,9 @@ Councillor Benson proposed that the Minutes of the Special Meeting on 5th Februa
 signatories of the Requisition for the Meeting. This was seconded by Councillor Sheahan (J),
 
 and agreed. The Meetings Administrator advised that amendments to this motion were
----
+
+[[PAGE_END:1]]
+
 2
 
 subsequently proposed and agreed and therefore the minutes correctly reflected the
@@ -174,7 +177,9 @@ the disposal to be by way of Deed of Conveyance of the interest of Limerick City
 Council in the property, particulars of which were contained in Statutory Notice dated 25th
 
 January, 2021.”
----
+
+[[PAGE_END:2]]
+
 3
 
 (b)
@@ -256,7 +261,9 @@ particulars of which were contained in Statutory Notice dated 22nd February, 202
 Circulated, copy of Statutory Notice dated 23rd February, 2021, concerning disposal of
 
 land at 48, Carey’s Road, Limerick.
----
+
+[[PAGE_END:3]]
+
 4
 
 Proposed by Councillor Sheahan (J);
@@ -338,7 +345,9 @@ Statutory Notice dated 10th March, 2021.”
 Circulated, copy of Statutory Notice dated 10th March, 2021, concerning disposal of
 
 land at Loghill, Co. Limerick.
----
+
+[[PAGE_END:4]]
+
 5
 
 Proposed by Councillor Sheahan (J);
@@ -416,7 +425,9 @@ communities and twinning. The final version of the Annual Report would be brough
 the May Meeting of the Council for adoption.
 
 The Report was noted by the Council.
----
+
+[[PAGE_END:5]]
+
 6
 
 (c)
@@ -498,7 +509,9 @@ Queries were raised as to how many RIHL self-builds were applied for and how man
 were declined and some specific RHIL cases were also queried. The Director, Support Services,
 
 agreed to follow up with the Members concerned on their specific queries.
----
+
+[[PAGE_END:6]]
+
 7
 
 Proposed by Councillor Sheahan (K);
@@ -608,7 +621,9 @@ Community/Voluntary
 Patrick English
 
 Anglesborough Tidy Towns
----
+
+[[PAGE_END:7]]
+
 8
 
 (f)
@@ -686,7 +701,9 @@ on 9th February, 2021.
 **That, Limerick City and County Council write to Mr Leo Varadkar, TD, Minister for**
 
 **Enterprise, Trade and Employment, and Mr Eamon Ryan TD, Minister for Transport**
----
+
+[[PAGE_END:8]]
+
 9
 
 **and Minister for the Environment, Climate and Communications calling on them to**
@@ -758,7 +775,9 @@ Committee held on 17th February, 2021; and (ii) Report of the Director, Housing
 Development, dated 11th March, 2021, enclosing draft revision to the Limerick City
 
 and County Council Allocation Scheme.
----
+
+[[PAGE_END:9]]
+
 10
 
 **Recommendation No. 1**
@@ -828,7 +847,9 @@ Community Development
 Bridging Finance – EU LEADER Rural Development Programme/West
 
 Limerick Resources
----
+
+[[PAGE_END:10]]
+
 11
 
 Circulated, report signed jointly by the Directors of Support Services and Community
@@ -900,7 +921,9 @@ Circulated, reports by Members who had participated at Conference / Seminar /
 Meeting / Event.
 
 The reports were noted by the Members.
----
+
+[[PAGE_END:11]]
+
 12
 
 QUESTIONS
@@ -984,7 +1007,9 @@ The Forward/Strategic Planning Section will organise a Workshop on rural
 housing and the proposed Limerick Development Plan 2022-2028 within the
 
 next few weeks to discuss these issues in more detail.
----
+
+[[PAGE_END:12]]
+
 13
 
 9.
@@ -1122,7 +1147,9 @@ letting. Two of these vacant properties are not categorised.
 **2**
 
 **152**
----
+
+[[PAGE_END:13]]
+
 14
 
 The Single Point of Contact (SPOC) system is being used to record, inspect and
@@ -1190,7 +1217,9 @@ Environment SPC)
 It was agreed to refer the Motion to the Climate Action, Biodiversity and Environment
 
 Strategic Policy Committee for consideration.
----
+
+[[PAGE_END:14]]
+
 15
 
 12.
@@ -1266,7 +1295,9 @@ Notice of Motion submitted by Councillor L. Galvin
 The Motion was proposed by Councillor Galvin and seconded by Councillor Sheahan
 
 (J).
----
+
+[[PAGE_END:15]]
+
 16
 
 In proposing the Motion, Councillor Galvin said he wanted to see a Meat Regulator
@@ -1336,7 +1367,9 @@ Notice of Motion submitted by Councillor S. Benson
 **Disability, Integration and Youth, asking him to urgently intervene to find a permanent**
 
 **solution for the children living in the Knockalisheen Direct Provision Centre, who currently**
----
+
+[[PAGE_END:16]]
+
 17
 
 **have no transport to and from their pre-school following the closure of the on-site pre-**
@@ -1402,7 +1435,9 @@ CHIEF EXECUTIVE’S ORDERS:
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
 
 available on SharePoint and Alfresco for inspection by the Members.
----
+
+[[PAGE_END:17]]
+
 18
 
 PLANNING AND DEVELOPMENT:
@@ -1422,4 +1457,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:18]]
+

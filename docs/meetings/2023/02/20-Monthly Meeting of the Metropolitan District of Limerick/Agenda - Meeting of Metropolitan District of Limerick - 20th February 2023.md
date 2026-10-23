@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20February%202023%20%281%29.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20February%202023%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 : Setrbhisi Corperdidescha,
-ae pa alread Comhairie Cathrach agus Contae Lulmnigh
-ontae mrnigi Ceanncheathra Chorpardidesch,
-NON 4 . Cé na gCeannaithe,
+al pa debra Permclch et Comhairte Cathrach agus Contae Lulmnigh
+ontae mrnig: Ceanncheathra Chorpardidesch,
+ANON f . Cé na gCeannaithe,
 — Limerick City Luimneach
 
 — & County Council
@@ -32,12 +33,10 @@ NON 4 . Cé na gCeannaithe,
 Corporate Services,
 
 Limerick City and County Counc’,
-Corporate Headquarters,
+Corporate Headquarters.
 Merchants Quay,
 
-Limerick
-
-EIRCODE V94 EHS0
+EIRCODE ¥94 EHS0
 
 15" February, 2023. t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
@@ -52,7 +51,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-ke ~oy
+ke ~o-y
 Mark Leahy,
 Meetings Administrator.
 
@@ -63,13 +62,15 @@ January, 2023.
 
 (Copy Enclosed).
 
-m= customerservices@limerick.te
+= customerservices@limerick.te
 
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmmeach w @LimerickCouncti
-Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncti
+Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -114,10 +115,12 @@ the Council currently deploy in Limerick city and how many mini sweepers/cycle l
 are deployed in the city.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-6. Question submitted by Councillor E. O’Donovan
+6. Question submitted by Councillor E. O'Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 environmental concerns and ongoing work at Loughmore Canal.
@@ -158,7 +161,9 @@ Catherine Street.
 the long-term plans for Donnellan's Field / Thomondgate Weir.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor C. Sheehan
@@ -167,7 +172,7 @@ the long-term plans for Donnellan's Field / Thomondgate Weir.
 2030's plan for the Cleeve site. When will the masterplan be presented and what is the indicative
 timeline for lodging a planning application.
 
-14, i i llor C. Sheehan
+14. i i llor C. Sheehan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick the number of non-activated
 planning permissions for the period 2020 to date in the Metropolitan area in tabular form.
@@ -203,7 +208,9 @@ some works have been done the area is still not acceptable and needs immediate a
 proposed Flood Relief Scheme for Annacotty including Mulcair Drive and Mountshannon Road.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Question submitted by Councillor $. Novak Ui Chonchdir
@@ -213,7 +220,7 @@ Management Measures for Business initiative, with the focus on the Scope 3 emiss
 enabling the big industries in the National Technology Park and Raheen Industrial Estate to switch
 to sustainable mobility alternatives.
 
-21. Question submitted by Councillor S. Novak Uf Chonchuir
+21. Question submitted by Councillor S. Novak Ui Chonchuir
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the progress
 so far and the future plans for Safe Routes to School at Scoil ide and St. Munchin’s College,
@@ -227,7 +234,7 @@ NOTICES OF MOTION
 23. Notice of Motion submitted by Councillor J. Leddin
 
 | will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
-County Council emulate the ‘Clean it up you dirty Pup’ campaign by Galway City Council to address
+County Council emulate the ‘Clean it up you dirty Pup' campaign by Galway City Council to address
 the growing problem of dog fouling on our public footpaths, parks and civic places. This campaign
 has seen a 55% reduction in reported incidences of fouling in the selected areas chosen for their
 campaign.
@@ -237,14 +244,16 @@ campaign.
 | will move at the next Meeting of the Metropolitan District of Limerick that this Council write to
 the Minister for Transport, Transport infrastructure Ireland and the National Transport to allocate
 additional funding to Limerick Council to prioritise footpaths in the city for gritting in extreme
-weather conditions.
+weather conditions,
 
 | will move at the next Meeting of the Metropolitan District of Limerick that a suitable derelict site
 in Limerick city be retained by Limerick Council for community use as community groups have no
 Spaces to use within the city centre.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Notice of Motion submitted by Councillor C. Sheehan
@@ -262,7 +271,7 @@ on the Canal Bank and in public and green areas.
 
 28. Notice of Motion submitted by Councillor S. Kiely
 
-I will move at the Meeting of the Metropolitan District of Limerick that the provision of body
+| will move at the Meeting of the Metropolitan District of Limerick that the provision of body
 cameras for traffic wardens be re-examined as a matter of urgency given the seriousness of recent
 incidents.
 
@@ -281,17 +290,19 @@ Treatment Facility for the village of Montpellier and in particular the Brookhav
 village. At present raw sewage from the estate is gathered in a holding tank, and then flows
 directly into the River Shannon.
 
--
+7
 31. Notice of Motion submitted b
 
 Joint Policing Committee)
 
 We will move at the next Meeting of the Metropolitan District of Limerick that Limerick City and
-County Council write to An Garda Siochdna to request that extra Garda Patrols are dispatched
+County Council write to An Garda Siochana to request that extra Garda Patrols are dispatched
 regularly to St. John’s Square to alleviate anti-social behaviour in the area.
 
 32. Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

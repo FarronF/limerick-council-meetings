@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28d%29-Minutes-Special-Meeting-23-06-2022.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 23rd June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28d%29-Minutes-Special-Meeting-23-06-2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -92,7 +93,9 @@ present, and raised concerns over the lack of emergency accommodation available 
 Limerick. They went on to say that many people fall outside the threshold for housing support
 
 but find it difficult to obtain a mortgage, stating action needs to be taken to address this.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members queried the delays in certain projects. They asked the Executive if anything can be
@@ -160,7 +163,9 @@ Members raised concerns in relation to the risks associated with the uses of AHB
 executive agreed to add an agenda item to the July Full Council Meeting on affordable
 
 housing.
----
+
+[[PAGE_END:2]]
+
 3
 
 Signed:
@@ -172,4 +177,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

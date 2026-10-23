@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-april-2025_0.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-april-2025_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ Seconded by: Councillor Scanlan
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -174,7 +177,9 @@ improvement in public lighting in Limerick and in the Newcastle West District. T
 referred to a number of matters including a direct contact number for the Members to log
 
 public lights out of order, length of time taken to get lights repaired, night patrols, and
----
+
+[[PAGE_END:2]]
+
 3
 
 provision of regular updates to the Members. The Members gave an update to Mr. Corcoran
@@ -250,7 +255,9 @@ The NTA Active Travel schemes for 2025 are at the following locations:
 (e) Ballyagran village
 
 (f) Design of R520 Bruff Line
----
+
+[[PAGE_END:3]]
+
 4
 
 The Members were satisfied with the spread of schemes to urban centres that had not
@@ -324,7 +331,9 @@ under the Community Recognition Fund in 2024.
 The Environment and Climate Action Department have prepared tender documents to
 
 upgrade the playground which should be completed in 2025. The funding allocated under
----
+
+[[PAGE_END:4]]
+
 5
 
 the Community Recognition Fund (€50,000) and the GMA (€51,500) will result in a significant
@@ -442,7 +451,9 @@ approximate timeline for the upgrade works
 to be completed within the next seven
 
 years.
----
+
+[[PAGE_END:5]]
+
 6
 
 comprised of 4 no. 1 Bed units, 6
@@ -548,7 +559,9 @@ units in addition to ancillary site
 Tenders under view. Stage 4 application for
 
 funding to be made.
----
+
+[[PAGE_END:6]]
+
 7
 
 works comprising of a new
@@ -618,7 +631,9 @@ further stated that capital works are planned but are several years away. Theref
 proposed Sycamore Crescent housing development is now on hold until Uisce Éireann provide
 
 a connection.
----
+
+[[PAGE_END:7]]
+
 8
 
 Councillor Scanlan expressed dissatisfaction at the response received and that the
@@ -692,7 +707,9 @@ The intention is to provide a drawing for the Members approval as soon as possib
 ***the old Post Office, Ballaugh V42TR66 to prevent flooding and damage to the public road***
 
 ***and other property.***
----
+
+[[PAGE_END:8]]
+
 9
 
 The Motion was seconded by Councillor Sheahan.
@@ -764,7 +781,9 @@ and the Minister for Housing, Local Government and Heritage.
 ***clean up the basketball court at Sharwood estate, Newcastle West. I suggest this should***
 
 ***be done on a regular basis.***
----
+
+[[PAGE_END:9]]
+
 10
 
 The Motion was seconded by Councillor Scanlan.
@@ -832,7 +851,9 @@ car parking as part of the Abbeyfeale Traffic Management Plan.
 It was agreed that the Director would follow up on these matters with the relevant
 
 Directorates.
----
+
+[[PAGE_END:10]]
+
 11
 
 A request was received from the Dromcollogher26 Cinema Commemoration Committee to
@@ -868,4 +889,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:11]]
+

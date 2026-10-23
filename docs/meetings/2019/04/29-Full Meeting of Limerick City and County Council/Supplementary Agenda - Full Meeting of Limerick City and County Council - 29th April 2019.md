@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%28b%29%20Supplementary%20Agenda.pdf)
+**Original file:** [Supplementary Agenda - Full Meeting of Limerick City and County Council - 29th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%28b%29%20Supplementary%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Sebhist Corperdideacha,
-_——_—_ & Contac Lal igh Comhairle Cathrach agus Contae Luimnigh.
-fos. ontae Luimnig Ceanncheathni Chorpardideach,
-Ar™N Se Cé na gCeannaithe,
-==> Limerick City Luimneach
+Comhairle Cathrach Sebthist Corpersideacha,
+_———__" & Contae Lal igh Comhairle Cathrach agus Contae Luimnigh.
+fos ontae Luimnig Ceanncheathnii Chorpardideach,
+aArc™N eee Cé na gCeannaithe,
+— Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -35,12 +36,12 @@ Limerick
 
 EIRCODE V94 EH90
 
-25" April, 2019.
+2s" April, 2019.
 t: +353 (0) 61 557150
 
 f: +353 (0) 61 415 266
 
-To: The Mayor and Each Member of Limerick City and County Council
+To: |The Mayor and Each Member of Limerick City and County Council
 
 April Council Meeting — Supplementary Item
 
@@ -69,7 +70,7 @@ Any inconvenience caused by this omission is regretted.
 
 Is mise le meas,
 
-CRs
+Rus
 James Clune,
 eatings Administrator.
 
@@ -78,7 +79,9 @@ eatings Administrator.
 © vewwalimerick.ie
 
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
-Corporate Headquarters, Merchants Quay, Limerick < 061 - $7150
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

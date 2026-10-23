@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-04</span>
 
-[Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_-_meeting_municipal_district_cappamore-kilmallock_230317.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 23rd March 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_-_meeting_municipal_district_cappamore-kilmallock_230317.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN
@@ -80,7 +81,9 @@ firearms issues had been successfully detected.
 Members thanked Superintendent Duane for his presentation and made the following points
 
 in relation to this item.
----
+
+[[PAGE_END:1]]
+
 2
 
 • Limerick was under-resourced in terms of Garda numbers, compared to national
@@ -148,7 +151,9 @@ Adoption of Minutes
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
 
 Kilmallock held on 16th February, 2017.
----
+
+[[PAGE_END:2]]
+
 3
 
 Proposed by Councillor Mitchell;
@@ -224,7 +229,9 @@ proposed allocations under the Community Initiative Scheme 2017 to a total of �
 report noted that the available budget for the scheme was €10,000 and the remaining balance
 
 of €1,900 would have to be sourced elsewhere.
----
+
+[[PAGE_END:3]]
+
 4
 
 Members noted that the Bloomsday Weekend Group was seeking financial assistance
@@ -296,7 +303,9 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 The Motion was proposed by Councillor Mitchell, in the absence of Councillor Sheehy,
 
 and seconded by Councillor O’Donnell.
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY:**
@@ -390,7 +399,9 @@ permanent
 reinstatement works should take place. The R514 is included in the planned road
 
 condition survey.
----
+
+[[PAGE_END:5]]
+
 6
 
 **13.**
@@ -468,7 +479,9 @@ forward was considered the safest. It was noted that if Part VIII approval was g
 Transport Infrastructure Ireland funding allocated, the project would move the Compulsory
 
 Purchase Order phase, which was preferred by some landowners and helped to clear title.
----
+
+[[PAGE_END:6]]
+
 7
 
 **(b)**
@@ -546,7 +559,9 @@ that was required by the Department of Transport before funding for detailed des
 released. In relation to tolling, it was noted that shadow tolls were being looked at nationally
 
 and it could not be predicted where tolling would stand in ten years’ time.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Director stressed the importance of getting feedback from the Members and the
@@ -620,4 +635,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:8]]
+

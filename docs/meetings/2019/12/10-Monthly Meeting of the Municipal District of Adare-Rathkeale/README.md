@@ -40,7 +40,7 @@ District Engineers Report December 2019 - Monthly Meeting of the Municipal Dist
 
 Correspondence - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/10-Correspondence.pdf) - Text not extracted
 
-Deputation_ Loughill N69 Health and Safety Committee Presentation - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02%20Deputation%20-%20Loughill%20N69%20Health%20and%20Safety%20Committedd%20Presentation.pdf) - Text not extracted
+Deputation: Loughill N69 Health and Safety Committee Presentation - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02%20Deputation%20-%20Loughill%20N69%20Health%20and%20Safety%20Committedd%20Presentation.pdf) - Text not extracted
 
-Deputation_ Walkability Audit - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02%20Deputation%20-%20Walkability%20Audit.pdf) - Text not extracted
+Deputation: Walkability Audit - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-12/02%20Deputation%20-%20Walkability%20Audit.pdf) - Text not extracted
 

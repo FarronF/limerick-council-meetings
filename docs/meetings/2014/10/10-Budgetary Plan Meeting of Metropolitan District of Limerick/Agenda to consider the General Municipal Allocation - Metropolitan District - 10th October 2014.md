@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation.pdf)
+**Original file:** [Agenda to consider the General Municipal Allocation - Metropolitan District - 10th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ——
 
-. = .
+* = .
 Limerick
 CITY & COUNTY
 
@@ -69,12 +70,14 @@ reviewing the levels of discretionary allocations in 2014 budget.
 
 Section 102 (4A) (c) and (d) provide that it is a reserved function of the Members of a
 municipal district to adopt the draft budgetary plan with or without amendment.
-@ customerservices@limerick ic
+© customerservices@limerick ic
 Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © wwwelimerickie
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 For 2015 the main, strategic, non-discretionary expenditure of Limerick City and
@@ -96,12 +99,14 @@ Tom Gilligan,
 Head of Finance.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 METROPOLITAN MUNICIPAL DISTRICT DRAFT BUDGETARY
 PLAN 2015
-ee ee ee
+ee ee
 
 Municipal District
 640,000
@@ -110,9 +115,9 @@ General Municipal Allocation
 Increase/decrease in other charge
 
 640,000
+
 To finance Gross Revenue
 Expenditure
-
 Details of Proposed Expenditure
 
 Municipal District
@@ -140,9 +145,13 @@ Special Projects
 Relevant Gross Expenditure (B=A
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-january-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -90,7 +91,9 @@ setting out proposals for Disposal of Freehold Interest of premises consisting o
 situate at 17 Rossa Avenue, Mulgrave Street, Limerick and the intention to bring a Section 183
 
 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -162,7 +165,9 @@ the preferred route of the greenway project.
 ***with Our Lady Queen of Peace Community Centre.*** ***I am aware the Council have received funds***
 
 ***to refurbish the Centre.*** ***Have the Council an update on purchasing the property from the Diocese.***
----
+
+[[PAGE_END:2]]
+
 3
 
 **REPLY**: The Council has received provisional funding approval in relation to a refurbishment plan
@@ -234,7 +239,9 @@ to remove their signage. This allows for this roundabout to be included on the a
 for seeking Expressions of Interest for future roundabout sponsorship.
 
 **11.Question submitted by Councillor J. Leddin**
----
+
+[[PAGE_END:3]]
+
 4
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for the Council to undertake***
@@ -308,7 +315,9 @@ Some of the most frequent locations for illegal dumping in 2024 were, St. Marys 
 Ballinacurra Weston, Lenihan Avenue, City Centre Laneways, Coonagh / Clondrinagh,
 
 Johnsgate, and Kilmallock Road.
----
+
+[[PAGE_END:4]]
+
 5
 
 With the permission of the Cathaoirleach, the following Question was taken at the Meeting:
@@ -448,7 +457,9 @@ Santa Grotto O’Connell Crescent
 Limerick Bands (x3)
 
 €2,250
----
+
+[[PAGE_END:5]]
+
 6
 
 Traffic Management A Cruises Street Christmas
@@ -506,7 +517,9 @@ reports are below.
 December’s report shows an increase of 3 Families on the previous month.
 
 (Image omitted)
----
+
+[[PAGE_END:6]]
+
 7
 
 **17.Question submitted by Councillor U. Gavan**
@@ -549,7 +562,9 @@ follows:
 (Image omitted)
 
 *Figure 1-Cleeves Development Zones*
----
+
+[[PAGE_END:7]]
+
 8
 
 Since the Master Plan was completed in October 2023, Limerick Twenty Thirty have progressed
@@ -607,7 +622,9 @@ Riverside Quarter.
 **18.Question submitted by Councillor U. Gavan**
 
 (Image omitted)
----
+
+[[PAGE_END:8]]
+
 9
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick what is the timeline for the***
@@ -681,7 +698,9 @@ The EPA indicate that the main air quality pollutants across Ireland are fine pa
 (PM2.5) and nitrogen dioxide (NO2). Air quality levels for 2024 at Henry Street (which is part of the
 
 national ambient air quality monitoring network) near the Limerick North Metropolitan Area for
----
+
+[[PAGE_END:9]]
+
 10
 
 these parameters are good and meet EU norms (**Table 1**).
@@ -795,7 +814,9 @@ The improved and realigned Bloodmill Road is under construction and will be comp
 Summer 2025 providing improved access from the Castletroy \ Garryglass \ Groody Park
 
 Road areas to Childers Road and to the City.
----
+
+[[PAGE_END:10]]
+
 11
 
 Under Bus Connects a new and improved high frequency bus service will operate from UL
@@ -869,7 +890,9 @@ Street.
 **REPLY**: An audit of all disabled parking spaces in the Metropolitan District will be undertaken to
 
 establish if the appropriate dished kerbs, road markings and signage are in place. Thereafter,
----
+
+[[PAGE_END:11]]
+
 12
 
 if required, a remedial action plan will be coordinated through the Metropolitan District
@@ -941,7 +964,9 @@ In proposing the Motion, Councillor Hickey-O’Mara highlighted the importance o
 service in the community and the difficulties for those with decreased mobility in accessing the
 
 Library at Watch House Cross.
----
+
+[[PAGE_END:12]]
+
 13
 
 **REPLY**: Limerick City North is currently served by Watch House Cross Community Library. This 8,000
@@ -1017,7 +1042,9 @@ the team, in line with the LCCC social media policy
 The Notice of Motion was proposed by Councillor O’Sullivan, seconded by Councillor Secas and
 
 agreed.
----
+
+[[PAGE_END:13]]
+
 14
 
 In proposing the Motion, Councillor O’Sullivan stated that salt grit bins were used in other local
@@ -1049,4 +1076,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:14]]
+

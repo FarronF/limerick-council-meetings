@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%20Agenda%20MD%20Meeting%2013th%20Dec%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 13th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%20Agenda%20MD%20Meeting%2013th%20Dec%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_—_— Comhairle Cathrach
-i fs & —o ——
-= 6 County Concd
+_—_—_—_— Comhairle Cathrach
+ps & <a ——
+= 6 County Coca
 Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
@@ -37,13 +38,13 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 13th
 
-mber, : .m.
+mber, :: .m.
 
 The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-My Leahy, keds
+Uy Leahy, keds
 
 Meetings Administrator.
 
@@ -56,7 +57,9 @@ the 21°* November, 2018.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -104,4 +107,6 @@ with Bruff Community with a view to finding a solution to the ongoing issue of o
 parking in Bruff.
 
 
----
+
+[[PAGE_END:2]]
+

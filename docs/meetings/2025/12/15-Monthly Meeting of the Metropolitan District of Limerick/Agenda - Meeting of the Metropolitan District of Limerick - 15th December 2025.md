@@ -16,25 +16,26 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-december.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 15th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-december.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-el Cominhairie Cathrach Sewbhisi Corparaideacha, Rialachais & Custaimeare
-Con ; Combuirie Cathrach & Contae Luimnigh
-ACN & tae Luimnigh Ceannchearthu Chorperdideach
-P . Cé na gCeannaitne
-—=—_—> Limerick City : Luimneach, VO4 EH90
+ei Comihairie Cathrach Serbdhisi Corparaideacha, Rialachais & Custaimeare
+Con " Comuirie Cathrach & Contae Luimnigh
+AS & tae Luimnigh Ceannchearthu Chorperdideach
+‘ , Cé na gCeannaitne
+—=—>= Limerick City : Luimneach, VO4 EH90
 & County Council
-Corporate. Governance & Customer Services
+Corporate, Governance & Customer Services
 Limerick City and County Council
 Corporate Headquarters
 Merchant's Quay
 Limerick. V94 EH90
 
 t: +353 (0) 61 557 150
-10° December 2025.
+10 December 2025.
 To: Member of the n Limeri
 
 A Chomhairleoir, a chara,
@@ -48,7 +49,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Adis Bo he
+ddée Bohe
 
 Aedin Foley,
 Meetings Administrator.
@@ -60,14 +61,16 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 
 on 17" November 2025.
 (Copy Enclosed).
-= - —e
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach yi weevilimerickie
-Corporate Headquarters, Merchant's Quay, Limerick W @LinerickCouncil
+= - —
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach yi weevitimerickie
+Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -91,7 +94,7 @@ Part 8 Procedure — Scouthall, Bawnmore Road, Kennedy Park, Limerick
 
 Pursuant to Section 179(3) of the Planning and Development Act 2000 (as amended) and
 Part 8 of the Planning and Development Regulations 2001 (as amended) consider the
-proposal for 5 no. unit social housing demolition at Scouthall, Bawnmore Road, Limerick.
+proposal for 5 no. unit social housing demolition at Scouthal!l, Bawnmore Road, Limerick.
 
 (Report Enclosed).
 
@@ -107,7 +110,9 @@ improvement works at Cosgrave Park, Moyross, Limerick.
 (Report Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -152,7 +157,9 @@ Metropolitan area. Of those, how many are vacant or derelict and how many are
 occupied,
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor S. Benson
@@ -169,7 +176,7 @@ streams for vital social supports for 2026.
 
 15. Question submitted by Councillor C. Slattery
 
-| will ask at the next meeting of the Metropolitan District of Limerick can Limerick City
+I will ask at the next meeting of the Metropolitan District of Limerick can Limerick City
 and County Council advise how many vape, candy or phone shops are allowed in one
 main street in Limerick and also is there measures being taken as to what is being sold in
 these shops. Also on our main streets in the City is there any rules for signage such as
@@ -193,7 +200,7 @@ of an Approved Housing Body, including timelines where available.
 
 | will ask at the next meeting of the Metropolitan District of Limerick for a detailed and
 itemised breakdown of the costs associated with running the recent ‘Home of
-Hallowe'en’ Festival and very brief description of procurement routes followed for each
+Hallowe’en’ Festival and very brief description of procurement routes followed for each
 item.
 
 19. Question submitted by Councillor U. Gavan
@@ -203,7 +210,9 @@ rightsizing schemes will be available in the Metropolitan District in 2026 and c
 listed by LEA and date they plan to be ready for occupation.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20. Question submitted by Councillor U. Gavan
@@ -227,7 +236,7 @@ be placed visibly on social media so people will know where to go for assistance
 
 22. Question submitted by Councillor P. Reale
 
-| will ask at the next meeting of the Metropolitan District of Limerick what plans this
+I will ask at the next meeting of the Metropolitan District of Limerick what plans this
 Council have in relation to the release of the schedule of Municipal District Works 2026
 and what plans are in place to brief and conduct workshops with Councillors before
 being brought forward for ratification.
@@ -256,7 +265,9 @@ relation to a new community park for the area? Why were all Limerick City North 
 representatives not kept updated on these meetings and ensuing decisions?
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26. Question submitted by Councillor S. Hickey O’Mara
@@ -282,17 +293,17 @@ Links Road-Dublin Road junction is redesigned as a priority to ensure the safety
 everyone, especially children walking to the local schools, with specific focus on:
 
 ¢ Widening the footpath for all road users.
-© Installing a barrier to prevent vehicles from cutting the corner.
-¢ Reviewing the placement of poles that currently obstruct the path.
+¢ Installing a barrier to prevent vehicles from cutting the corner.
+e Reviewing the placement of poles that currently obstruct the path.
 
 29. Notice of Motion submitted by Councillor S. Kiely
 
-| will move at the next meeting of the Metropolitan District of Limerick that this Council
+i will move at the next meeting of the Metropolitan District of Limerick that this Council
 reconsider the inclusion of the Boro Park on the smart housing list.
 
 30. Notice of Motion submitted by Councillor S. Beasley
 
-Iwill move at the next meeting of the Metropolitan District of Limerick for Limerick City
+| will move at the next meeting of the Metropolitan District of Limerick for Limerick City
 and County Council to write to the Minister for Transport to collaborate with Transport
 for Ireland (TFI) to allow service dogs to accompany their owners on the new bus
 services in Limerick City.
@@ -304,7 +315,9 @@ and County Council to write to the Minister for Housing requesting the recording
 figures of people who have died in homelessness in Limerick City.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 32. Notice of Motion submitted by Councillor S. Benson
@@ -317,14 +330,14 @@ for the Condell Road as soon as possible.
 33. Notice of Motion submitted by Councillor M. Donoghue (to be referred to the
 Climate Action, Biodiversity and Environment Strategic Policy Committee)
 
-I will move at the next meeting of the Metropolitan District of Limerick that the current
+| will move at the next meeting of the Metropolitan District of Limerick that the current
 Presentation of Waste Bye-Laws are updated to reflect the current volume of required
 segregation of waste, and that a programme of clear communication around these
 updated bye-laws is developed.
 
 34. Notice of Motion submitted by Councillor M. Donoghue
 
-I will move at the next meeting of the Metropolitan District of Limerick that where
+| will move at the next meeting of the Metropolitan District of Limerick that where
 visibility has been reported as poor, the newer LED bulbs in our public lighting network
 are replaced with stronger LED bulbs to improve visibility for pedestrians, drivers and
 cyclists.
@@ -353,7 +366,9 @@ lighting including festoon lighting on Parnell Street, Wickham Street and Upper 
 Street to ensure better visibility and safety.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 39. Notice of Motion submitted by Councillor J. Pond
@@ -395,4 +410,6 @@ residents and workers.
 44. Correspondence
 
 
----
+
+[[PAGE_END:8]]
+

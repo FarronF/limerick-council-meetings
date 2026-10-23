@@ -30,7 +30,7 @@ Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 1
 
 Minutes  - Special Meeting of the Municipal District of Cappamore-Kilmallock - 1st October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/03-minutes-special-meeting.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Special%20Meeting%C2%A0of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%201st%20October%202020.md)
 
-Public Consultation Report_ Draft Limerick City and County Council Municipal District of Cappamore_Kilmallock (Parking Places) (Amendment) Bye-Laws 2020 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-public-consultation-report-ck-ev-charging-bye-laws_0.pdf) - Text not extracted
+Public Consultation Report: Draft Limerick City and County Council Municipal District of Cappamore/Kilmallock (Parking Places) (Amendment) Bye-Laws 2020 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-public-consultation-report-ck-ev-charging-bye-laws_0.pdf) - Text not extracted
 
 Land Disposal at Wolfe Tone Street Kilmallock - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th October 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/05-land-disposal-at-wolfe-tone-street-kilmallock.pdf) - Text not extracted
 

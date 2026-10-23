@@ -16,28 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-2021-07-14-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 14th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-2021-07-14-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach ___Diiche Bardais an Chaistedin Nua Thiar,
-tom, & Contae Luimnigh Conehualrte eal es Rea eae ty
-ncoN ——__—__ Willian rhe
-~a — Limerick City An Caislean iia Thane
+Comhairle Cathrach ___Diiche Bards an Chatstedin Nua Thiar,
+ge 5. Conine lameniols Conmiairte aay pam Corpes Dawe
+ae : Gortbul,
+———> _—Limerick City An Caistedin Nua Thiar,
 
 & County Council Co. Luimnigh,
 
 Newcastle West Municipal District,
-Lirwerick City and County Council,
-Avas Willieen Smith O'Brien,
+Linwerick City and County Council,
+Avas Willien Smith O'Brien,
 Gortboy,
 
 Newcastle West,
 
 Co. Limerick.
 
-9 july, 20a 7°
+9" july, 2021
 
 t: +553 (0) 69 62100
 
@@ -50,9 +51,9 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 14" July, 2021,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-hee le meas,
+ya le meas,
 
-Cordes Corbett,
+fordleots Corbett,
 Meetings Administrator.
 
 AGENDA
@@ -66,7 +67,7 @@ June, 2021.
 held on 23% June, 2021.
 
 (c) To adopt Minutes of Adjourned Annual General Meeting of the Municipal District of
-Newcastle West held on 30*" june, 2021.
+Newcastle West held on 30°" june, 2021.
 
 (Copies Enclosed)
 2. Housing Directorate
@@ -74,14 +75,16 @@ Newcastle West held on 30*" june, 2021.
 To receive Update from the Housing Directorate for the Newcastle West Municipal
 
 District.
-miaateaaialge oma
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach www. timerick.te
+a ea
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach wwew.timerick.te
 Corporate Headquarters, Merchant's Quay. Limerick W @LimerickCouncil
 
 ( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Di | of La
@@ -127,7 +130,9 @@ Nos. 13 to 24 at Castleview, Newcastle West and how much of this outlay was
 incurred on the air to water heating systems installed.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -150,7 +155,7 @@ I will ask at the next Meeting for (a) a detailed update on the takeover of the 
 Mountcollins and (b) the proposed new Council housing development in
 Mountcollins.
 
-! will ask at the next Meeting for a detailed update on (a) Wards Cross and (b) the
+| will ask at the next Meeting for a detailed update on (a) Wards Cross and (b) the
 Cryle view junction Abbeyfeale.
 
 | will ask at the next Meeting for signage to be updated at the Forge Cross,
@@ -178,9 +183,9 @@ periods of heavy rain.
 
 Notices of Motion submitted by Councillor J. Scanian
 
-twill move at the next Meeting that an immediate clean up be undertaken at
+| will move at the next Meeting that an immediate clean up be undertaken at
 Castleview Estate, Newcastle West with particular emphasis on the area next to house
-12 and to the side of house 13 as well as in the area surrounding the ESB installation
+12 and to the side of house 13 as well as in the area surrounding the ES8 installation
 in that area.
 
 | will move at the next Meeting that the front and rear garden areas of all Council
@@ -188,7 +193,9 @@ owned untenanted property be properly maintained in the best interest of the gen
 living amenity in Castleview Estate, Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -202,4 +209,6 @@ re-instatement of footpaths and road overlay at Churchview, Ballyagran, Co. Lime
 of the footbridge in Athea village.
 
 
----
+
+[[PAGE_END:4]]
+

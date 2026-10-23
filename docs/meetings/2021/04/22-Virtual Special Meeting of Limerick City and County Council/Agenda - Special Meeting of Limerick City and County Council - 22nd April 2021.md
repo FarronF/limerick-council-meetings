@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-special-meeting-16.04.2021.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 22nd April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-special-meeting-16.04.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a E Comhairle Cathrach
+ee E Comhairle Cathrach
 = & Contae Luimnigh
 “ne — Limerick City
 merick Ci
@@ -38,9 +39,9 @@ Cé na gCeannaithe,
 
 Luimneach
 
-Corporate Services,
+Corporate Services.
 
-Limerick City and County Council
+Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
@@ -92,7 +93,9 @@ Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 We request a Special Meeting of Limerick City and County Council to discuss the
@@ -107,12 +110,14 @@ Clir. Joe Leddin.
 Cllr. Eddie Ryan.
 
 Clir. Fergus Kilcoyne. —~
-8 Y Aa & Coun i
-& ec
+8 ¥ Ao & Coun i
+& Ee
 
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 We request a Special Meeting of Limerick City and County Council to discuss the following:
@@ -131,15 +136,17 @@ In addition, we request that this Council consider and draft a policy in relatio
 development in rural Limerick.
 
 Clir. Liam Galvin.
-Cllr. Tom Ruddle.
+Clir. Tom Ruddle.
 Cllr. John Sheahan.
 Cllr. Jerome Scanlan,
 Cllr. Eddie Ryan.
 Clir. Gerald Mitchell.
 
-q 0?
+q - -e?
 Clir. Stephen Keary. porate service a
 
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,28 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-17-June-2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 17th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-17-June-2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-. Setbhisi Corpardideacha,
-ee Comhairie Cathrach Cormhatlrie Cathrach agus Contac Luimeigh,
+. Seibhisi Corpardideacha,
+_e Comhairle Cathrach Cormhairie Cathrach agus Contae Luimeigh,
 : & Contae Luimnigh Ceanncheathn: Chorparaideach,
-af“™ i ‘“ ———— Cé na gCeannaithe,
+af” i ‘“ ——— Cé na gCeannaithe,
 Limerick City Luimneach
 
-—= & County Council
-Corporate Services,
+—= & County Council 6
+-orporate Services,
 Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 Limerick
-EIRCODE V94 EH9O0
+EIRCODE V94 EH90
 
-th t 4353 (0) 63 587150
-un .
-9” June, 2022 f: +353 (0) 61 415 266
+th t 4353 (0) 63 557150
+3” June, 2022. f: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -51,26 +51,28 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-eee nee ee ene ee nen ee een nee nenenrnes nee neem nnn nee enen enna ene sete ate e nena Hae ee enn nea n ne een nnn en nn ee een ne ee ene ne eens
+ence e eee eee renee een nee neeen ewes nee nee meen nen eeenen enna ewes a ten nen en nnn Hee ee enna e eae e nee een ee en ee een ne ee ene ne eeenns
 
 AGENDA
 
 1. Economic Develo and Enterprise Directorate
 
 In accordance with Section 12(10) of the Planning and Development Act 2000 (as amended)
-consider the Chief Executive’s Report on the Material Alterations dated May 10” 2022
+consider the Chief Executive's Report on the Material Alterations dated May 10” 2022
 (already circulated), and associated Environmental reports and AA Determination (attached)
 and make the Limerick Development Plan 2022 — 2028 with or without the proposed
 amendments.
 
 (AA Determination attached).
 
- customerservices@limerickie
+@ customerservices@limerickie
 
-© wrenwslimerickic
+© wrenwlimerickic
 
-———— een ee W @LimerickCouncil
+———— een W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

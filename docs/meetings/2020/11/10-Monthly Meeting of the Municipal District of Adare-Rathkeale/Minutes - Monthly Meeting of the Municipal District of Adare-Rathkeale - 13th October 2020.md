@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-a-minutes-of-monthly-meeting-13th-october-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-a-minutes-of-monthly-meeting-13th-october-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK ON TUESDAY,**
@@ -76,7 +77,9 @@ Seconded by Councillor Collins;
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -150,7 +153,9 @@ contract for the unit is with Ecofil and one water font provision was made
 available in each District. Other locations would be considered if more units
 
 become available.
----
+
+[[PAGE_END:2]]
+
 3
 
  Councillor Sheahan asked the Senior Executive Engineer if he could recommend a
@@ -220,7 +225,9 @@ allocate the following:
  €1,000 – Lime kiln restoration, Loughill.
 
  €1,000 – Askeaton/Ballysteen GAA Club.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor O’Brien, seconded by Councillor Teskey, it was agreed to
@@ -298,7 +305,9 @@ An inspection took place of the boundary between this property and the
 Council owned lands to the rear of this property. There is a large cattle
 
 grid that captures storm water directly above the property. There is a
----
+
+[[PAGE_END:4]]
+
 5
 
 bund with a fence on it extending over the lower half of the boundary, this
@@ -368,7 +377,9 @@ Killaheen was very successful and called on the Senior Executive Engineer to loo
 possibility of installing something similar at Blossom Hill Cross, Rathkeale.
 
 This Motion was seconded by Councillor O’Brien.
----
+
+[[PAGE_END:5]]
+
 6
 
 **9.**
@@ -432,4 +443,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

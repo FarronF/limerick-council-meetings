@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-2020-02-05-minutes-jpc-subcommittee.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-2020-02-05-minutes-jpc-subcommittee.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -88,7 +89,9 @@ Superintendent Magner gave an update on policing issues within the District. She
 cases, which the Gardai dealt with over the last quarter of 2019 including burglaries, road
 
 traffic accidents, public order offences, drink and drug offences. She stated that incidents of
----
+
+[[PAGE_END:1]]
+
 2
 
 theft from shops continues to rise and that a Crime Prevention Officer is liaising with business
@@ -164,7 +167,9 @@ Garda Station and the need for a Sergeant for the station, a timeframe for the o
 new Garda Station in Newcastle West, staff numbers in Garda patrol vehicles, the Text Alert
 
 System and the locations of Go Safe Vans.
----
+
+[[PAGE_END:2]]
+
 3
 
 This concluded the Meeting.
@@ -178,4 +183,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

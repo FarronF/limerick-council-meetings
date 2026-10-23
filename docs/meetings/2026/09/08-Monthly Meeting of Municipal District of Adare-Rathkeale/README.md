@@ -38,3 +38,7 @@ District Engineers Report - September 2026.pdf - [Original file](https://www.lim
 
 Correspondence - Meeting of the Municipal District of Adare - Rathkeale - 8th September 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-09/correspondence-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf) - Text not extracted
 
+Replies To Questions - Meeting of the Municipal District of Adare-Rathkeale - 8th September 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-09/replies-to-questions-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf) - Text not extracted
+
+Replies To Notices of Motion - Meeting of the Municipal District of Adare-Rathkeale - 8th September 2026.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-09/replies-to-notices-of-motion-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf) - Text not extracted
+

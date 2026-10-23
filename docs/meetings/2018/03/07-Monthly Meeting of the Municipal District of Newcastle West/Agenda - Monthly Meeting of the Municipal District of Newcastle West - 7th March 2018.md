@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-07%20Agenda%20March%20v2.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 7th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%202018-03-07%20Agenda%20March%20v2.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Diutiche Bardais an Chaisledin Nua Thiar,
 a Comhairle Cathrach agus Contae Luimnigh,
 
-APN ——~ Aras William Smith O'Brien,
+APN —~ Aras William Smith O'Brien,
 =— Gortbui,
 . . An Caisledn Nua Thiar,
 Limerick Co. Luimnigh
@@ -45,7 +46,7 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 7" March, 2018,
 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-ES aa
+isa aaa
 
 Meetings Administrator.
 
@@ -70,16 +71,18 @@ To consider Draft Schedule of Works for the Municipal District of Newcastle West
 (Report to follow)
 
 customerservices@limerickte
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach = @ Wrewlimerickte
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach ba @ Wrewlimerickte
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
-unicipa ition Operations an: Services
+unicipa tion Operations an: Services
 
 (a) To review position in relation to allocations under the General Municipal
 Allocation 2018.
@@ -95,7 +98,7 @@ To receive update on the provision of new graveyard in Abbeyfeale.
 Digital Strategy
 To receive presentation on the Smart CCTV Project.
 Service Operations Directorate
-in Cha ates — Di ion of R be Public Road
+in Cha ates — D ion of R be Public Road
 
 To consider the Taking in Charge of Estates Arra View, Newcastle West and Carrig
 Desmond, Newcastle West, in accordance with Section 180 of the Planning and
@@ -113,13 +116,15 @@ West, Co. Limerick.
 
 (Report to follow)
 
-R receive tion from T: full ollins Parish Committ
+R receive tion from Ti full ollins Parish Committ
 
 To consider receiving deputation from Tournafulla/Mountcollins Parish Finance
 Committee at a future Meeting of the District.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -187,13 +192,17 @@ i ubmitted b . Sheahan
 Management team to progress the provision of an eight lave 25m public pool with
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ancillary public facilities for the County Town of Newcastle West and its hinterland.
-21. | will move at the next Meeting that this Council install CCTV cameras to curtail the
+21. twill move at the next Meeting that this Council install CCTV cameras to curtail the
 fly tipping and excessive dumping that is occurring at Glin Pier so as to prevent it
 becoming a black spot on the Shannon Estuary.
 
 
----
+
+[[PAGE_END:4]]
+

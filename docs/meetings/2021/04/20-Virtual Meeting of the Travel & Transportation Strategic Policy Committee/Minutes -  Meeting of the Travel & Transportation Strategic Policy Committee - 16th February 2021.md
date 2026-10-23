@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/minutes-of-travel-transportation-spc-meeting-16th-february-2021.pdf)
+**Original file:** [Minutes -  Meeting of the Travel & Transportation Strategic Policy Committee - 16th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/minutes-of-travel-transportation-spc-meeting-16th-february-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City & County Council’s Travel and Transportation**
@@ -62,7 +63,9 @@ The Chair opened the meeting and welcomed all SPC members, Elected Members and N
 representatives.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 Mr. Kennedy stated that a number of submissions were made following public consultation
@@ -178,7 +181,9 @@ from the MASP.
 -Confirmed that there is insufficient demand to
 
 justify light rail.
----
+
+[[PAGE_END:2]]
+
 3
 
 - Analysis of Heavy Rail undertaken for Draft
@@ -276,7 +281,9 @@ engagement with Tipperary County Council. He acknowledged Cllr. Mitchell’s com
 the importance of dealing with freight for economic growth and this will be considered in the
 
 strategy.
----
+
+[[PAGE_END:3]]
+
 4
 
 Referring to Mr. Harper’s question, Mr. Creegan confirmed that the strategy will be compliant
@@ -356,7 +363,9 @@ On the heavy rail system, Mr. Creegan confirmed that 11 different stations in th
 were tested in the first strategy preparation. He confirmed that different scenarios need to
 
 be examined in more detail.
----
+
+[[PAGE_END:4]]
+
 5
 
 In response to the makeup of the Limerick Transport Forum, Dr. Cahill stated that it is
@@ -434,7 +443,9 @@ would be monitored with a view to a permanent speed limit reduction.
 How has it been monitored and what are the outcomes of same?
 
 How will the new limit be voted upon and is there a proposed time frame?”
----
+
+[[PAGE_END:5]]
+
 6
 
 A response to Question was circulated to all members prior to meeting as follows:
@@ -484,4 +495,6 @@ The Chair reminded all members that the next Travel and Transportation SPC meeti
 scheduled for Tuesday, the 20th April 2021. He thanked all for attending and thanked the NTA
 
 representatives individually for their presentation and declared the meeting closed.
----
+
+[[PAGE_END:6]]
+

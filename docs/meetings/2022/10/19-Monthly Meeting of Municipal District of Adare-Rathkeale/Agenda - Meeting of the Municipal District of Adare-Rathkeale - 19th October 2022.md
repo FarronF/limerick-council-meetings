@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00-Agenda-19th-October-2022-Adare-Rathkeale.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00-Agenda-19th-October-2022-Adare-Rathkeale.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_—_ Comhairle Cathrach
+_—_ Comhairle Cathrach
 & Contae Luimnigh
 NIN ‘ =
 
-——— _ Limerick City
+—— _ Limerick City
 & County Council
 
 14" October, 2022.
@@ -34,7 +35,7 @@ To:
 
 A Chomhairleoir, a chara,
 
-Ceantar Bardasach Ath Dara-Rath Caola.
+Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras Séan Finn,
 
@@ -60,17 +61,17 @@ t: +353 (0) 69 64047
 f; +353 (0) 69 63188
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Wednesday 19 October, 2022 at 9.30
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Wednesday 19“ October, 2022 at 9.30
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
 aren
-Meetings istrator,.
+Meetings istrator.
 
 AGENDA
 
-i, Minutes
+a, Minutes
 
 To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale held on
 
@@ -87,19 +88,21 @@ Local Area Plan, in accordance with Section 20 (3) of the Planning and Developme
 
 2000 (as amended).
 
-Ceanncheathri Chorpsraideach, Cé na gCeannaithe Luimneach
+Ceanncheathri Chorpsrdideach, Cé na gCeannaithe Luimneach
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Report Enclosed).
 
-J ———-€ 4
-wvew timerick.te
+= emer
+wvew timerick.ie
 
 W @LemerickCounci
-\ 061-556 000
+( 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -140,4 +143,6 @@ Rathkeale.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

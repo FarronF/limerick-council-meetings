@@ -34,7 +34,7 @@ Disposal of 27 Lord Edward Street - Metropolitan District of Limerick - 18th Jul
 
 Taking in Charge of Estates - Carriglea Corbally - Metropolitan District of Limerick - 18th July 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Taking%20in%20Charge%20of%20Estates%20-%20Carriglea%20Corbally.pdf) - Text not extracted
 
-Part 8 Procedure - Catherine Street _ Roches Street Junction Improvement Works - Metropolitan District of Limerick - 18th July 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Part%208%20Procedure%20-%20Catherine%20Stree%26Roches%20Street%20Junction%20Improvement%20Works.pdf) - Text not extracted
+Part 8 Procedure - Catherine Street / Roches Street Junction Improvement Works - Metropolitan District of Limerick - 18th July 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Part%208%20Procedure%20-%20Catherine%20Stree%26Roches%20Street%20Junction%20Improvement%20Works.pdf) - Text not extracted
 
 Part 8 Procedure - 45a and 46a Cliona Park Moyross and Cloncannane Road Ballynanty - Metropolitan District of Limerick - 18th July 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Part%208%20Procedure%2045a%20and%2046a%20Cliona%20Park%20Moyross%20and%20Cloncannane%20Road%20Ballynanty.pdf) - Text not extracted
 

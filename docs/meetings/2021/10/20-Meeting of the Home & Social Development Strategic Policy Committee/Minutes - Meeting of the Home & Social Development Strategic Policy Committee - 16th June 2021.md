@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-10/16062021_final_spc_minutes_0.pdf)
+**Original file:** [Minutes - Meeting of the Home & Social Development Strategic Policy Committee - 16th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/16062021_final_spc_minutes_0.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
 **DEVELOPMENT SPC**
@@ -96,7 +97,9 @@ Limerick. The SPC members gave their thanks to Ms. Duke on all of her work over 
 conveyed their best wishes to her for the future.
 
 **Item 1: Confirm minutes from meeting held on 21st April 2021**
----
+
+[[PAGE_END:1]]
+
 **Proposed:** Cllr. Joe Leddin
 
 **Seconded:** Cllr. Sarah Kiely
@@ -178,7 +181,9 @@ Cappamore/Kilmallock
 Ms. Ahern showed SPC members a photographs of a number of RLS units before refurbishment and
 
 after refurbishment.
----
+
+[[PAGE_END:2]]
+
 A discussion took place around this and the main points were:
 
 
@@ -288,7 +293,9 @@ running as part of Housing For All. Cllr. John Costelloe queried if the property
 on is the Council protected and Ms. Ahern advised him that we are protected and the tenant
 
 is protected for the duration of the lease period if the owner passes.
----
+
+[[PAGE_END:3]]
+
 
 
 Ms. Burns asked can a commercial unit used for the scheme and Ms. Ahern advised yes, the
@@ -376,7 +383,9 @@ which included Dept. funding and internal LCCC funding. Mr. Leahy advised that w
 and doors would be replaced. Mr. Leahy advised that when there are a lot of specialist skills
 
 involved when it comes to the design of heating systems and decisions around that and that
----
+
+[[PAGE_END:4]]
+
 there is a huge safety element involved and noted the sheer scale of the project. Mr. Leahy
 
 then noted the consultant is also the contractor who is fully involved in the project and that
@@ -482,7 +491,9 @@ Mr. Leahy noted the system is run on 100% electricity and advised that the therm
 room temperature and compares it to a target setting. Mr. Leahy advised that the tenant could
 
 choose a target temperate and noted that for example, if the target temperature were set at 20
----
+
+[[PAGE_END:5]]
+
 degrees and the thermostat registers the room at 15 degrees, the room would then be heated to 20
 
 degrees and then revert to standby mode.
@@ -572,7 +583,9 @@ effectively “ramp up” to an optimal level so this would cost a person more. 
 that for budgetary reasons people would choose this way for their electricity supply but that
 
 it could end up costing the person more. Mr. Leahy noted that when Pre-Pay Power does run
----
+
+[[PAGE_END:6]]
+
 out that it is exceedingly difficult to get the system fired back up again and becomes
 
 expensive and noted the validity of Mr. Lowth’s point.
@@ -654,7 +667,9 @@ Cllr. Keary expressed his concern that LCCC would not Garda Vet the potential HA
 the same way LCCC vets LA and RAS tenants. Cllr. Keary expressed his desire for an overall
 
 HAP review and Mr. Lowth agreed with Cllr. Keary’s point.
----
+
+[[PAGE_END:7]]
+
 
 
 Cllr. Slattery shared her experience of an individual who had a HAP tenant that left the
@@ -756,7 +771,9 @@ Mr. White noted that recent completed demolitions in O’Malley Park stand at fi
 outlined impending demolitions being worked on are units in Roseview Drive, currently out to
 
 tender.
----
+
+[[PAGE_END:8]]
+
 Mr. White noted team are currently working on the preparation of tender documents to go to
 
 tender for Valley View (five) units and a unit in Roseview Drive.
@@ -832,7 +849,9 @@ Mr. Mick Forde Bradley gave an update on the Service Sites Fund to SPC members.
 Mr. Forde Bradley advised that the presentation would be brief, as a Housing Workshop on the
 
 Service Sites would be given to members in July.
----
+
+[[PAGE_END:9]]
+
 Mr. Forde Bradley introduced himself as project manager of the Service Sites Fund along with
 
 colleague, Ms. Andrea Goble. He noted that they are working on five City Centre sites currently to
@@ -914,7 +933,9 @@ for the Development Plan. An Cathaoirleach, Cllr. Michael Murphy, advised that m
 the public are welcome to put in submissions against this if they so wished and noted that
 
 this is not the correct forum for it
----
+
+[[PAGE_END:10]]
+
 
 
 Mr. O’Grady asked for an update on the unfinished estate in Patrickswell and noted he was
@@ -930,4 +951,6 @@ The Chair wished Ms. Aoife Duke a fond farewell and thanked her for all her help
 The Chair thanked everyone for logging in, for their presentations and everyone’s valuable
 
 contributions.
----
+
+[[PAGE_END:11]]
+

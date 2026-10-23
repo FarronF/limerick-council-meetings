@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-council-meeting-03.12.2020.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 3rd December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-council-meeting-03.12.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Setrdhisi Corparaideacha,
-& Contae Luimnigh Comhairle Catteacts agus Contae Luimnigh
+Comhairle Cathrach Sewhisi Corparaideacha,
+& Contae Luimnigh Comhairle Catheacts agus Contae Luimmigh
 
-— Ceanncheathni Chorparaideach,
-en . P . Cé na qCeannaithe,
-—> Limerick City - Luirmneach
+_— Ceanncheathni Chorparaideach,
+en . ‘ . Cé na qCeannaithe,
+—> Limerick City . Luimmneach
 
 & County Council
 
@@ -40,12 +41,12 @@ Merchants Quay,
 
 Limerick
 
-BIRCODE W4 EHSO
+BIRCODE 4 EH9O
 
-27% November, 2020. So ose
-t: 4353 (0) 61 587350
+27% November, 2020. os pepaer
+t: 4353 (0) 61 557350
 
-#: +353 (0) 61 415 266
+t: +353 (0) 61 415 266
 
 To: The Mayor and Each Member of Limerick City and County Council
 
@@ -58,13 +59,13 @@ appended Agenda.
 
 Is mise le meas,
 
-Ja euGe—
+Ja ease
 
 ings Administrator.
 
 AGENDA
 
-1. Minutes
+41. Minutes
 
 To adopt Minutes of Ordinary Meeting of the Council held on 28" September, 2020.
 (Copy Enclosed)
@@ -86,13 +87,15 @@ Planning and Development Act, 2000 (as amended), at:
 
 @ customerservices@limerick.te
 
-© vevrwlimerick.ie
+© vevewlimerick.ie
 
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (f) Annacotty Business Park, Annacotty, Co. Limerick.
@@ -117,7 +120,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 (q) 116, Assumpta Park, Newcastle West, Co. Limerick.
 
-(Statutory Notices dated 24" and 25" September, 6'", 16", 27" 29th, 30"
+(Statutory Notices dated 24" and 25" September, 6'", 16", 27 29th, 30"
 October, and 4", 6k" and 16" November, 2020, already circulated)
 
 Support Services Directorate
@@ -154,14 +157,16 @@ Provisions) Act 2020 (Section 29) (Local Authorities) (Designation) Order 2020.�
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (9)
 
 (e)
 
-7]
+(
 
 (gs)
 
@@ -204,12 +209,14 @@ Strategic Policy Committee Reports
 To consider reports as follows:
 
 (i) Chairperson’s Reports - Meeting of Community, Leisure and Culture
-Strategic Policy Committee held on 9"" November, 2020.
+Strategic Policy Committee held on 9" November, 2020.
 
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -218,7 +225,7 @@ Strategic Policy Committee held on 9"" November, 2020.
 
 4
 
-Recommendation No. 3
+Recommendation No. 4
 
 ‘That, the Limerick City and County Council Play and Recreation Policy
 be approved.’
@@ -263,16 +270,18 @@ Employment and the SME Growth Task Force, for their consideration.’
 Challenging Times and Change’ Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(iv) Chairperson’s Report — Meeting of Travel and Transportation Strategic
+(iv) | Chairperson’s Report — Meeting of Travel and Transportation Strategic
 Policy Committee held on 20" October, 2020.
 
 (Chairperson’s Report Enclosed)
 
 (v) Chairperson’s Report — Meetings of Home and Social Development
-Strategic Policy Committee held on 22™ September, 2020 and 22™
+Strategic Policy Committee held on 22™ September, 2020 and 22°
 October, 2020.
 
 (Chairperson’s Reports Enclosed)
@@ -286,7 +295,7 @@ Proposed Supplementary Deve Contribution Scheme to assist in the
 Development of the R526 Link Road (Phase 3) Mungret
 
 To consider the Draft Supplementary Contribution Scheme and the Chief Executive's
-Report dated 23” October, 2020, and decide whether to make the Scheme, to vary or
+Report dated 23 October, 2020, and decide whether to make the Scheme, to vary or
 modify the Scheme, otherwise than is recommended in the Chief Executive's Report,
 or otherwise decide not to make the Scheme, in accordance with Section 49 of the
 Planning and Development Act, 2000 (Amended).
@@ -308,7 +317,9 @@ To consider approving recommended Limerick Theatre Bursary Awards 2020.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -343,7 +354,7 @@ Question submitted by Councillor S. Hartigan
 Limerick City and County Council in each Local Electoral Area, by number of bedrooms, in the
 Metropolitan District and the Municipal Districts.
 
-Question submitted by Councillor J. Costelloe
+Question submitted by Councillor J. Costelioe
 
 | will ask at the next Meeting are housing maintenance schedules on track given the
 varying levels of COVID-19 restrictions that have been in place since March.
@@ -362,7 +373,9 @@ and unit size and what is the ceiling cost per unit for Turnkeys in Limerick bro
 by unit size.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -387,7 +400,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor E. O’Brien
 
-! will move at the next Meeting that this Council call on the Minister for
+| will move at the next Meeting that this Council call on the Minister for
 Transport/National Transport Authority for the phased re-introduction of a freight and
 passenger service along the Limerick City to Foynes railway line in time for the 2027
 Ryder Cup.
@@ -413,7 +426,9 @@ Minister for Health, University Hospital Limerick and the HSE requesting the urg
 recruitment of a specialist dietician in post for adults with diabetes.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -434,4 +449,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:8]]
+

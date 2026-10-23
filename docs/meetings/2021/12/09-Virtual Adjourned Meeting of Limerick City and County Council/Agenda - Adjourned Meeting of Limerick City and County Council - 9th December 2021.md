@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-adjourned-meeting-09.12.2021.pdf)
+**Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 9th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-adjourned-meeting-09.12.2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-pe Comhairle Cathrach Seirbhisi Comardideacha,
-PY Py Comhairle Cathvach agus Contac Ludmnigh,
-& Contae Luimnigh Ceanncheathré Chorparaideach,
-aA —_ —_—$—$—$—$—$—$—$—$—<——<—__—— Cé na gCeannaithe,
-= Limerick City Ludrruveech
+i Comhairle Cathrach Seirbhisi Compardideacha,
+Py : Comhairle Catlvach agus Contac Luinigh,
+& Contae Luimnigh Ceanncheathré Chorpsraideach,
+— —_ —_—$—$—$—$$$$<<<<— Cé na gCeannaithe,
+= Limerick City Ludirruvesch
 
-—= & County Council
+— & County Council
 Corporate Services,
 Limerick City and County Council
 Corporat e Headquarters,
 Merchants Quay,
-Limerick
+Umerick
 
 EIRCODE V4 EHSO
 
-29" November, 2021. t: 4353 (0) 63 557150
+29" November, 2021. t: 4353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 To: The Mayor and Each Members of Limerick City and County Council
@@ -49,12 +50,12 @@ Agenda for the November Meeting of the Council, as set out below:
 
 Is mise le meas,
 
-nt i i
+aia
 
 Laura Flannery, C
-Meetings Administrator. —<—==—=!
+Meetings Administrator. —===
 AGENDA
-17. of Adare-Rathkeale -
+17. _of Adare-Rathkeale -
 i A. Ti 8. a
 O'Donoghue, K. Sheahan {to be referred to Economic Development, Enterprise =
 Planning Strategic Policy Committee)
@@ -72,11 +73,13 @@ fundraise has been hampered severely by the COVID-19 pandemic.
 
 © Wvewlimerick ie
 
-Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061- 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -95,7 +98,7 @@ vehicles and energy usage, in line with Government climate action policy.
 
 Notice of Motion submitted by Councillor S. Kiely
 
-| will move at the next Meeting that the Council write to the CEO and Chairperson of
+I will move at the next Meeting that the Council write to the CEO and Chairperson of
 the Limerick and Clare Education and Training Board to ask that their sports facilities
 be made available by agreement to sports clubs who do not have access to facilities
 of their own in the City and County.
@@ -119,4 +122,6 @@ order.
 Correspondence
 
 
----
+
+[[PAGE_END:2]]
+

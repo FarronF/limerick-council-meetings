@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-04/agenda-joint-policing-committee-meeting-26th-april-2024.pdf)
+**Original file:** [Agenda - Joint Policing Committee Meeting - 26th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/agenda-joint-policing-committee-meeting-26th-april-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-al Comhairle Cathrach Comnhairie Cath feaaOsnl L sigh
-. ervey ve Cathrach agus Contae Luiny
+“a Comhairle Cathrach Comnhairie Cath fea Oneal hi sigh
+. rey ve Cathrach agus Contae Luiny
 & Contae Luimnigh Ceanncheathri Chorparaideach
 
 nAr™N EE Cé na gCeannsithe,
-— Limerick City iaanineadh
+— Limerick City iaanineath
 
 & County Council
 Corporate Services,
@@ -36,9 +37,9 @@ Corporate Headquarters,
 
 Merchants Quay,
 
-23"¢ April, 2024 —_
+23" April, 2024 —_
 
-EIRCODE V34 EHSO
+EIRCODE V94 EHS0
 
 t: +353 (0) 61 557150
 
@@ -58,7 +59,7 @@ ra Flanne
 Senior Exeetitive Officer
 Corporate Services, Governance & Customer Services.
 
-ae new een ne enn een enn he nn ens ee ne ne hoe ee rns ee en enn nee nnn eee nnn heen n nee nee e nnn ee nes een me meeenen enn nneee
+te ne een a ee nn en een n hee ee en ns ee ne nn eee ee rns en enn nee nnn een nn heen eee ene ee nen ee nee een ee reeenen enna n ne ee
 
 AGENDA
 1. To confirm Minutes of Joint Policing Committee Meeting held on 1% March, 2024
@@ -75,15 +76,17 @@ AGENDA
 | will ask at the next Meeting of the Joint Policing Committee for an update on recent measures
 taken to address criminal and anti social behaviour in the Castletroy area.
 
-m Customerservices@limerickie
+™m Customerservices@limerickie
 
-© wvew timerickte
+© wvew.limerickte
 
 Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor Sean Hartigan
@@ -107,7 +110,7 @@ re-open shuttered rural Garda stations in Limerick.
 in Estuary House, Henry Street, engage with the operators of language schools in Limerick to
 discuss how they can assist in speeding up the processing of Irish residency permits.
 
-Bsr iat is
+Db Rartiban
 
 | will move at the next Meeting of the Joint Policing Committee that there is an increased visible
 presence of Gardai on foot and bicycle patrols in residential areas of Limerick City East to deter
@@ -117,4 +120,6 @@ it inh
 
 
 
----
+
+[[PAGE_END:2]]
+

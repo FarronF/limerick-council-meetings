@@ -24,13 +24,13 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda Meeting - Meeting of Limerick City and County Council - 27th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_meeting_270317.pdf) - [Extracted text](./Agenda%20Meeting%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20March%202017.md)
+Agenda Meeting - Meeting of Limerick City and County Council - 27th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_meeting_270317.pdf) - Text not extracted
 
 Supplementary Item - Meeting of Limerick City and County Council - 27th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/supplementary_item_-_meeting_270317.pdf) - Text not extracted
 
-Minutes Council Meeting - Meeting of Limerick City and County Council - 23rd January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_i_minutes_council_meeting_230117.pdf) - [Extracted text](./Minutes%20Council%20Meeting%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20January%202017.md)
+Minutes Council Meeting - Meeting of Limerick City and County Council - 23rd January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_i_minutes_council_meeting_230117.pdf) - Text not extracted
 
-Minutes Special Meeting - Meeting of Limerick City and County Council - 3rd February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_ii_minutes_special_meeting_030217.pdf) - [Extracted text](./Minutes%20Special%20Meeting%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%203rd%20February%202017.md)
+Minutes Special Meeting - Meeting of Limerick City and County Council - 3rd February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_ii_minutes_special_meeting_030217.pdf) - Text not extracted
 
 Land Disposal - 19 Elm Place, Rathbane, Limerick - Meeting of Limerick City and County Council - 27th March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_a_land_disposal_-_19_elm_place2c_rathbane2c_limerick.pdf) - Text not extracted
 

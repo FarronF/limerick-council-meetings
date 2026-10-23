@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-the-municipal-district-of-adare-rathkeale-20th-february-2025.pdf)
+**Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 20th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-the-municipal-district-of-adare-rathkeale-20th-february-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ works to be carried out prior to the event and requested Members would consider
 contributing from their General Municipal Allocation Funds towards the cost of these
 
 works.
----
+
+[[PAGE_END:1]]
+
 Councillor Teskey requested the funding to cover the costs associated with the event
 
 should be funded from the Mayor’s discretionary budget. This was seconded by
@@ -120,4 +123,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

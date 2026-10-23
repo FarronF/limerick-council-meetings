@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20150218.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 15th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20150218.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-rN\rN
+NTN
 
 Seirbhisi Corparéideacha,
 
 Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorpardideach.
-oo Cé na gCeannaithe,
+———————— Céna gCeannaithe,
 
-Limerick City Luimneach
-= & County Council
+Limerick City Luimmneach
+— & County Council
 
 Corporate Services,
 
 Limerick City and County Council.
 Corporate Headquarters,
-Merchants Quay,
+Merchants Quay.
 
 Limerick
 
@@ -47,14 +48,14 @@ f: +353 (0) 61 415 266
 
 9" February, 2018.
 
-To/ The Cathaoirleach and Each Member of th Municipal_District_of jamore-
-
+To/ The Cathaoirleach and Each Member of th Municipal _District_of jamore-
 Kilmallock
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 15”
+
 February, 2018, at 3.30 p.m. The business to be transacted is set out on the appended
 
 Agenda.
@@ -67,14 +68,16 @@ To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock he
 2. Disposal of Land
 To note proposal for the disposal of land at Castlefarm, Hospital, Co. Limerick.
 (Report Enclosed)
-m= customerservicesalimerick.te
-© vow limerickie
-Ceanncheathni Cé na gCeannaithe, Luimneach - ary 068 os - om
+& customerservicesalimerick.ie
+© vewwlimerickie
+Ceanncheathni Cé na gCeannaithe, Luimneach - acy ron - —
 
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -123,7 +126,9 @@ construction of a Solstice Park and shared road space at Lough Gur Visitor Centr
 (Report to follow)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -163,4 +168,6 @@ to host the works of the Joyce Brothers - famous poets, writers and collectors o
 music.
 
 
----
+
+[[PAGE_END:3]]
+

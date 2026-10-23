@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-2nd-september-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 2nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-2nd-september-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -84,7 +85,9 @@ The report, as circulated, was noted by Members.
 **4.**
 
 **Environment and Climate Action**
----
+
+[[PAGE_END:1]]
+
 2
 
 The Cathaoirleach welcomed Cathal Brodie, Senior Executive Scientist and Simon
@@ -158,7 +161,9 @@ Proposed by Councillor O’Donoghue;
 Seconded by Councillor Collins;
 
 And Resolved:
----
+
+[[PAGE_END:2]]
+
 3
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed subject to
@@ -232,7 +237,9 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 2nd September, 2025 outlining details of proposed works, projects and future projects
 
 planned for the District.
----
+
+[[PAGE_END:3]]
+
 4
 
 The report, as circulated, was noted by Members.
@@ -300,7 +307,9 @@ Meeting be amended to Pallaskenry Community Council.
 **that is indicating that all traffic travelling from the southern or Cork direction will have**
 
 **to travel through the village of Patrickswell to access the Dublin (M7) motorway.**
----
+
+[[PAGE_END:4]]
+
 5
 
 **REPLY:**
@@ -374,7 +383,9 @@ District of Adare-Rathkeale Meeting and the proposed Special Meeting.
 The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Teskey
 
 and agreed.
----
+
+[[PAGE_END:5]]
+
 6
 
 In proposing the Motion Councillor O’Donoghue requested Members to support his
@@ -434,4 +445,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

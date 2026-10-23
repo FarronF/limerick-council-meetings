@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-metropolitan-district-of-limerick-15th-september-2025.pdf)
+**Original file:** [Minutes - Meeting of The Metropolitan District of Limerick - 15th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-metropolitan-district-of-limerick-15th-september-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -94,7 +95,9 @@ Members of the Metropolitan District of Limerick.
 (a) Circulated, Report of the Head of Property Management dated 3rd September, 2025, setting out
 
 proposals for Disposal of two portions of land at the Railway Crossing, Childers Road, Limerick
----
+
+[[PAGE_END:1]]
+
 2
 
 and the intention to bring a Section 183 Notice to Full Council in this regard, for approval.
@@ -174,7 +177,9 @@ of continuing the delivery of these services to enhance the area.
 • Request the provision of extra bins at various locations, including several laneways and
 
 Steamboat Quay.
----
+
+[[PAGE_END:2]]
+
 3
 
 • Queried if consideration can be given to cutting trees back at Bedford Row.
@@ -254,7 +259,9 @@ Following discussions on the agreed programme for Christmas in Limerick 2025 and
 by Members regarding procurement timelines for the delivery of the programme, it was agreed to
 
 hold a Briefing to update Members on the progress for Christmas in Limerick 2025.
----
+
+[[PAGE_END:3]]
+
 4
 
 **5.Community Initiative Scheme 2025 - General Municipal Allocation (GMA)**
@@ -414,7 +421,9 @@ Garryowen Womens Shed
 Geraldines AFC
 
 €6000.00
----
+
+[[PAGE_END:4]]
+
 5
 
 Learning Hub Limerick
@@ -594,7 +603,9 @@ Newtown Cottage Association
 Ormston House
 
 €2000.00
----
+
+[[PAGE_END:5]]
+
 6
 
 Patrickswell AFC
@@ -676,7 +687,9 @@ dumping illegally.
 Four of these fines were issued for illegal dumping at Bring Bank facilities with each one
 
 paid in full (€150 per fine).
----
+
+[[PAGE_END:6]]
+
 7
 
 As well as the fines, 9 cases were brought before District Court so far with 5 successful
@@ -744,7 +757,9 @@ List that have selected an Area of Choice in the Metropolitan Area.
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
 ***Dockless Bike Scheme that was trialled in Annacotty/Castletroy area in the last few years.***
----
+
+[[PAGE_END:7]]
+
 8
 
 **REPLY**: The National Transport Authority (NTA) are currently progressing the procurement phase
@@ -842,7 +857,9 @@ the CPO is currently listed on the ACP website as October 2025.
 Active Travel will be seeking an update from An Coimisiún Pleanála at the end of September
 
 in relation to both applications.
----
+
+[[PAGE_END:8]]
+
 9
 
 (b) The detailed design is ongoing on the Golf Link Road Junction Upgrade Scheme and due
@@ -898,7 +915,9 @@ units, information of the current approval stage with the Department and a progr
 the Housing Team.
 
 REPLY: The information as requested has been presented in tabular format.
----
+
+[[PAGE_END:9]]
+
 10
 
 **18.Question submitted by Councillor D. McSweeney**
@@ -936,7 +955,9 @@ suitable properties.
 ***the various refusals for social housing in the past 5 years.***
 
 (Image omitted)
----
+
+[[PAGE_END:10]]
+
 11
 
 **REPLY**: Breakdown as follows: -
@@ -980,7 +1001,9 @@ was subject to 13 conditions.
 Conditions 11 and 12 relate to the establishment of a Community Liaison Committee and
 
 (Image omitted)
----
+
+[[PAGE_END:11]]
+
 12
 
 the establishment of a community gain fund respectively. The community gain fund will be
@@ -1058,7 +1081,9 @@ be forwarded to her.
 ***appointed a Tree Officer as set out in the Limerick City and County Tree Policy 2024-2030.***
 
 **REPLY**: The Council has appointed a Tree Officer whose name is David Murphy. The Tree Officer’s
----
+
+[[PAGE_END:12]]
+
 13
 
 role is to implement the tree policy in relation to the management of the tree stock and to
@@ -1130,7 +1155,9 @@ agreed.
 In proposing the Motion, Councillor Butler referred to the positive benefits of developing a space
 
 for those affected by the loss of a loved one.
----
+
+[[PAGE_END:13]]
+
 14
 
 **REPLY**: Limerick City and County Council will consider adding a Butterfly Garden as part of the
@@ -1202,7 +1229,9 @@ development of a map would contribute to making the city centre a more welcoming
 place to visit.
 
 **REPLY**: The Council can develop a map to show the locations of public toilets in the city centre.
----
+
+[[PAGE_END:14]]
+
 15
 
 There are public toilets located on Mallow Street outside People’s Park playground and on
@@ -1274,7 +1303,9 @@ agreed.
 In proposing the Motion, Councillor Secas stated that secretaries and caretakers are vital staff
 
 within schools, and she highlighted the importance of ensuring these workers had access to public
----
+
+[[PAGE_END:15]]
+
 16
 
 service pensions.
@@ -1342,7 +1373,9 @@ Strategic Policy Committee.
 **37.Notice of Motion submitted by Councillor S. Beasley**
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this District write to***
----
+
+[[PAGE_END:16]]
+
 17
 
 ***the Minister of Education, urging that from 2026 onwards, school emblems be made available***
@@ -1414,7 +1447,9 @@ reallocating rightsizing units exclusively for further private rightsizers.
 Vacancies often arise at short notice and Limerick City and County Council must be in a
 
 position to allocate promptly.
----
+
+[[PAGE_END:17]]
+
 18
 
 This Payment and Availability agreement (i.e., the Contract) between the AHB and the Local
@@ -1502,7 +1537,9 @@ Before You Park’ initiative. This is a joint initiative by Limerick City and C
 An Garda Síochána which was launched in 2024 to address the dangers of illegal and
 
 inconsiderate parking in Limerick. The campaign uses stickers with QR codes on illegally
----
+
+[[PAGE_END:18]]
+
 19
 
 parked cars that link to videos showing the impact of bad parking, and it encourages
@@ -1572,7 +1609,9 @@ The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor
 agreed.
 
 In proposing the Motion, Councillor Donoghue highlighted the need for the provision of a bus
----
+
+[[PAGE_END:19]]
+
 20
 
 shelter at the new college, noting the large numbers of students using the bus transport service.
@@ -1596,4 +1635,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:20]]
+

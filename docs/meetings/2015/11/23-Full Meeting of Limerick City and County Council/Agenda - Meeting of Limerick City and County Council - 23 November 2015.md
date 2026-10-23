@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023%20November%202015.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 23 November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i
+Am fi ™
 
-Limerick seca auvucusanncoumesameaeus
-CITY & COUNTY Lamenick « ty and County
+Limerick Saas aueasann couesaieaues
+CITY & COUNTY Lamenck « ty and County
 COUNCIL
 
 18" November, 2015.
@@ -59,7 +60,9 @@ To consider proposal for the disposal of land at:
 report, already circulated — Copies Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -72,7 +75,7 @@ report, already circulated — Copies Enclosed)
 258 Deer Court, Carew Park, Limerick.
 Loughill, Co. Limerick.
 
-(Statutory Notices dated 10 and 11" November,
+(Statutory Notices dated 10" and 11" November,
 2015, already circulated)
 
 Transportation and Travel / Environment
@@ -119,7 +122,9 @@ To hear presentation.
 (This item will be taken at 4.00 p.m.)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (i)
@@ -177,7 +182,7 @@ held in Dublin on 3° November, 2015.
 Conference “Consumer Rights Bill — Landmark Reform of Consumer
 Law,” held in Clonakilty, Co.Cork, from 6" to 8"” November, 2015.
 
-Conference “Planning & Environment Law,” held in Dublin on 7”
+Conference “Planning & Environment Law,” held in Dublin on 7"
 November, 2015.
 
 INOU Forum — Irish Organisation for the Unemployed Discussion Forum,
@@ -191,7 +196,7 @@ Seminar “Urban Regeneration and Housing Act 2015," to be held in
 Galway, on 20" & 21* November 2015.
 
 Seminar “Local Authorities Budgets 2016,” to be held in Wexford from
-20" to 22" November, 2015.
+20" to 22° November, 2015.
 
 6" Annual Tourism Policy Workshop to be held in Dromoland Castle, Co.
 Clare, from 20" to 22 November, 2015.
@@ -200,13 +205,15 @@ Seminar “Regulation of Lobbying Act 2015,” to be held in Galway on 27”
 and 28" November, 2015.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (n) Conference “A Practical Guide to Budget 2016,” to be held in Clonakilty,
-Co. Cork, from 4" to 6 December, 2015.
+Co. Cork, from 4"" to 6" December, 2015.
 
-(0) Seminar “The Town Renewal Plan,” to be held in Galway on 11 & 12"
+(0) Seminar “The Town Renewal Plan,” to be held in Galway on 41" & 12"
 December, 2015.
 
 (p) Conference “EU Cohesion Policy 2014-2020,” to be held in Carlingford,
@@ -253,7 +260,9 @@ the number of in-house staff within the Fire Service, from the Chief Executive
 down.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9.
@@ -299,9 +308,13 @@ Correspondence.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

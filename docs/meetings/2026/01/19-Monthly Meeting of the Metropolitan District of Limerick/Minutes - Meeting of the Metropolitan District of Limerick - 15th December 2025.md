@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-metropolitan-district-of-limerick-15th-december-2025.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 15th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-metropolitan-district-of-limerick-15th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE**
@@ -86,7 +87,9 @@ acknowledged the significant effort involved in planning this programme.
 The Members also welcomed the additional allocation for the General Municipal Allocation
 
 (GMA) for 2026.
----
+
+[[PAGE_END:1]]
+
 **2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -148,7 +151,9 @@ activity and over 35,000 people active in the park.
 Members acknowledged and commended the work of the Limerick Sports Partnership,
 
 highlighting the vital role of physical activity in promoting health and wellbeing.
----
+
+[[PAGE_END:2]]
+
 **5.Housing Directorate**
 
 **Part 8 Procedure – Scouthall, Bawnmore Road, Kennedy Park, Limerick**
@@ -214,7 +219,9 @@ Castletroy shopping centre and adjacent to both primary and secondary schools.
 Further progress is set in the context of available funding both local and national,
 
 therefore we are not in a position at this stage to have a definite timeline for delivery.
----
+
+[[PAGE_END:3]]
+
 In the interim the Mobile Library Service in Castletroy will continue to meet current
 
 demand.
@@ -288,7 +295,9 @@ NTA funding
 There was also drainage maintenance on the former pitch area undertaken 18
 
 months after the opening of the Park at a cost of €29,283.
----
+
+[[PAGE_END:4]]
+
 **11.Questionsubmittedby Councillor S. Beasley**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick**for**an update on***
@@ -398,7 +407,9 @@ work.
 Floor)
 
 Vacant and in plans to convert to residential.
----
+
+[[PAGE_END:5]]
+
 **13.Questionsubmittedby CouncillorS. Benson**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an***
@@ -468,7 +479,9 @@ social dimension of regeneration.
 In the years 2019-2025, 19 ESIF-funded projects or staff roles were mainstreamed
 
 into statutory funding or sustainable self-funding.
----
+
+[[PAGE_END:6]]
+
 In 2025, four ESIF-funded projects were awarded significant statutory funding.
 
 However, all of these grants are of a limited duration:
@@ -546,7 +559,9 @@ Development Plan 2022-2028 that are applied when planning permission is sought.
 Limerick City and County Council also published the Shopfront Design Guide in July
 
 2025, which provides guidance on appropriate shop fronts including signage.
----
+
+[[PAGE_END:7]]
+
 **16.Questionsubmittedby Councillor C. Slattery**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick can Limerick City and***
@@ -618,7 +633,9 @@ Until the legal transfer of ownership is complete LCCC cannot confirm a timeline
 project completion, but LCCC have been assured by Focus Housing Association that
 
 the project will be prioritised for delivery.
----
+
+[[PAGE_END:8]]
+
 **18.Questionsubmittedby Councillor M. Donoghue**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for a detailed and***
@@ -740,7 +757,9 @@ Misc, & Promotion
 **Total**
 
 **€129,662**
----
+
+[[PAGE_END:9]]
+
 Fáilte Ireland contributed funding of €100,000 under its national Home of Halloween
 
 support to ‘Home of Halloween Limerick’.
@@ -868,7 +887,9 @@ dates.
 A further update on estimated register launches will be issued to Elected Members
 
 on the 9th February, 2026.
----
+
+[[PAGE_END:10]]
+
 **20.Questionsubmittedby Councillor U. Gavan**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick how***
@@ -944,7 +965,9 @@ with the Homeless Action team. The out-of-hours service will be available all th
 the Christmas office closure from the 24th December to the 2nd January during
 
 normal operating hours.
----
+
+[[PAGE_END:11]]
+
 The contact number for out-of-hours is available on limerick.ie and anyone who calls
 
 the Homeless Action Team on 061-557051 will be redirected to this freephone
@@ -1014,7 +1037,9 @@ We have been advised that Bauer Media Outdoor are expecting to have a steady
 supply of bus shelters in Q2 of 2026. At present we cannot confirm how many bus
 
 shelters will be installed in 2026.
----
+
+[[PAGE_END:12]]
+
 **24.Questionsubmittedby Councillor P. Reale**
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick what if any plans this***
@@ -1082,7 +1107,9 @@ progressing land negotiations. We have to review access and egress options with 
 stakeholders to develop a scheme that will achieve the objectives.
 
 Subject to successful pre-consultation we hope to progress planning in Q1-2026.
----
+
+[[PAGE_END:13]]
+
 Mackey
 
 A preferred site has been identified within lands owned by LCCC. We have
@@ -1156,7 +1183,9 @@ to participate in these schemes.
 **REPLY:** This junction will be investigated to examine the issues raised. The safety of
 
 pedestrians can be improved at this junction under Active Travel funding and Local
----
+
+[[PAGE_END:14]]
+
 Cost Safety funding. Note the submissions for Low-Cost Safety funding 2026 is
 
 complete so it will be included in the 2027 submission.
@@ -1226,7 +1255,9 @@ this process and that any decision regarding the progression of the Boro Park si
 be made transparently, with due regard to community input and the strategic
 
 objectives of the SMART Housing Programme.
----
+
+[[PAGE_END:15]]
+
 **30.Notice of Motionsubmittedby Councillor S. Beasley**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick for Limerick City***
@@ -1288,7 +1319,9 @@ Ted Russell Park, Westfields Wetlands and Bloodmill Road. This amendment was agr
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and
 
 Environment Strategic Policy Committee.
----
+
+[[PAGE_END:16]]
+
 **34.Notice of Motionsubmittedby CouncillorM. Donoghue**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that where***
@@ -1358,7 +1391,9 @@ centralised governments in Europe.
 The Notice of Motion was proposed by Councillor Gavan, seconded by Councillor Secas and
 
 agreed.
----
+
+[[PAGE_END:17]]
+
 **37.Notice of Motionsubmittedby Councillor E. O’Donovan**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that this***
@@ -1424,7 +1459,9 @@ location.
 public lighting solution. Delivery of decorative festoon type lighting is not possible
 
 through the public lighting maintenance budget.
----
+
+[[PAGE_END:18]]
+
 **39.Notice of Motionsubmittedby Councillor J. Pond**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that following on***
@@ -1496,7 +1533,9 @@ surface at Scoil Ide and St. Munchin’s College and footpath upgrades. Pedestri
 crossings including a pedestrian crossing point 100m North of St Munchin’s College
 
 are included as part of this project.
----
+
+[[PAGE_END:19]]
+
 **41.Notice of Motionsubmittedby Councillor P. Reale**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick**that this Council***
@@ -1562,7 +1601,9 @@ operational issues beyond our control.
 The Notice of Motion was proposed by Councillor Hickey O’Mara, seconded by Councillor
 
 O’Sullivan and agreed.
----
+
+[[PAGE_END:20]]
+
 **REPLY:** Under the Coonagh to Knockalisheen Distributor Road project, a road safety audit
 
 will be carried out at the junction to Ferndale during the Audit process. Any works
@@ -1636,7 +1677,9 @@ LCCC has many other buildings in the city centre – for example the recently re
 for community use and, for co-working, especially ENGINE and the yet to be
 
 developed design and fashion hubs on Nicholas St/Mary St.
----
+
+[[PAGE_END:21]]
+
 **44.Correspondence**
 
 Correspondence was noted and taken as read.
@@ -1648,4 +1691,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:22]]
+

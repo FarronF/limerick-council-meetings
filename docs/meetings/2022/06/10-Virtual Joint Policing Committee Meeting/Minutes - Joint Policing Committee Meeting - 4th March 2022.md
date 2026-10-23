@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%204th%20March%202022.pdf)
+**Original file:** [Minutes - Joint Policing Committee Meeting - 4th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%204th%20March%202022.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF VIRTUAL MEETING OF THE LIMERICK JOINT POLICING COMMITTEE**
 
 **HELD ON 4TH** **MARCH, 2022**
@@ -110,7 +111,9 @@ At the peak of Covid he pointed out that up to 150 policing staff were out sick 
 pressure on the other Gardaí.. He indicated that the deterrent factor of CCTV cameras cannot be
 
 overstated and are a very important tool in dealing with crime.
----
+
+[[PAGE_END:1]]
+
 In reply to the Chairman, the Acting Chief Superintendent stated that the Gardaí will respond as
 
 required and take any necessary steps to address the vandalism and other issues since the start of
@@ -186,7 +189,9 @@ Councillor Keary expressed concern that CCTV cameras are not monitored or mainta
 regular basis. In his opinion, the cameras should be monitored at the centre on a 24hr/7 days per
 
 week basis by a member of the Gardaí and not by an ordinary civilian.
----
+
+[[PAGE_END:2]]
+
 In reply, the Acting Chief Superintendent stated that the Garda Commissioner’s preferred strategy is
 
 to have as many Gardaí as possible active and visible on the streets. He confirmed the current level
@@ -266,7 +271,9 @@ There was no correspondence.
 *Council operation ‘Operation Copóg’ in the St. Mary’s Park area and if there have been any targeted*
 
 *raids in the period since the last meeting of the Joint Policing Committee Meeting’.*
----
+
+[[PAGE_END:3]]
+
 In reply the Acting Chief Superintendent stated that Gardai are continuing to liaise with Limerick City
 
 and County Council in relation to St Mary’s Park and are working together in areas including tenancy
@@ -354,7 +361,9 @@ side of this project.
 *‘I will ask at the next meeting of the Joint Policing Committee what measures, if any, have been taken*
 
 *to* *ensure the safety of women in public spaces following the tragic death of Ashling Murphy’.*
----
+
+[[PAGE_END:4]]
+
 In reply, the Superintendent stated that the statutory function of An Garda Síochána includes
 
 providing policing services with the objective of protecting life, preventing crime, and investigating
@@ -444,7 +453,9 @@ to give their views on the objectives and the framework for action set out in th
 provided links below to the draft third National Strategy on Domestic, Sexual and Gender Based
 
 Violence and the survey I have referred to.
----
+
+[[PAGE_END:5]]
+
 He said he would welcome any recommendations from the Joint Policing Committee as to what can
 
 be done to improve the safety of women in public spaces. Section 36 of the Garda Siochana Act 2005
@@ -494,4 +505,6 @@ This concluded the business of the Meeting.
 **Councillor Adam Teskey**
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:6]]
+

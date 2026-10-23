@@ -16,16 +16,17 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-2021-05-05-minutes.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 5th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-2021-05-05-minutes.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
 ARAS WILLIAM SMITH OBRIEN, NEWCASTLE WEST,
 
-CO. LIMERICK, ON WEDNESDAY, 5" MAY, 2021, AT 10AM.
+CO. LIMERICK, ON WEDNESDAY, 5"™ MAY, 2021, AT 10AM.
 
 PRESENT IN THE CHAIR: Councillor F. Foley, Cathaoirleach.
 MEMBERS PRESENT:
@@ -66,7 +67,9 @@ Proposed by: Councillor Galvin
 Seconded by: Councillor Ruddle
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 And Resolved:
@@ -116,7 +119,9 @@ On the proposal of Councillor Ruddle, seconded by Councillor Galvin, it was agre
 €2,000 to Corrandeel Housing.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
@@ -125,7 +130,7 @@ On the proposal of Councillor Collins, seconded by Councillor Foley, it was agre
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 €2,000 for works at Castlemahon Community Field.
 
-On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agreed to allocate
+On the proposal of Councillor Scanian, seconded by Councillor Galvin, it was agreed to allocate
 €1,500 for works at Castlemahon Community Field.
 
 The number of organisations who have been allocated funding under GMA Special Projects
@@ -168,7 +173,9 @@ population figures.
 In litter fines, €300 was collected and there was no money collected in dog fouling fines.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Councillor Galvin expressed dissatisfaction at the response received with regard to the
@@ -218,7 +225,9 @@ September and there is also a new school/community field being developed. There 
 excessive speed in this location and it is difficult to cross the road.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: The completion of a speed survey and a pedestrian count survey will be
@@ -267,7 +276,9 @@ community housing units at Nunan’s corner in the village.
 REPLY:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The needs assessment in determining the number and a suitable bed-type mix for the
@@ -276,7 +287,7 @@ breakdown of the approved Housing Waiting List is provided below. The Capital In
 Directorate are phasing the scheme in the event that the unfinished estate adjacent to the
 Council-owned site should become available in the future. Phase 1 will consist of 11 units (2
 No. 1 Bed units, 1 No. 4 Bed unit, 6 No. 2 Bed units, 2 No. 3 Bed units) and Phase 2 will consist
-of 7 units (5S No. 1 bed units, 2 No. 2 Bed units).
+of 7 units (5 No. 1 bed units, 2 No. 2 Bed units).
 
 Breakdown for Broadford is:
 
@@ -314,7 +325,9 @@ Once the taking in charge process is complete, the installation of 30kph signage
 will be carried out.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 NOTICES OF MOTION
@@ -366,7 +379,9 @@ the WWTP project is completed. This will be subject to funding and other approva
 statutory processes”.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In proposing the Motion, Councillor Scanlan requested that priority be given to upgrading
@@ -418,7 +433,9 @@ the Limerick Greenway on both short sections immediately on either side of Stati
 where this is possible.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Motion was seconded by Councillor Ruddle.
@@ -464,7 +481,9 @@ Limerick City and County Council was referred to. The responsibility for vehicle
 footpaths was also raised.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members wished to thank Minister S. Harris, Minister for Further and Higher Education,
@@ -509,16 +528,18 @@ An update on the N21 Newcastle West Roads Scheme and the N21 Abbeyfeale Roads Sc
 was requested. In replying, the Meetings Administrator agreed to seek an update on this
 matter.
 
-It was agreed to hold the June Meeting of the District on Wednesday, 2 June, 2021, at 10.00
+It was agreed to hold the June Meeting of the District on Wednesday, 2™ June, 2021, at 10.00
 a.m., at Aras William Smith OBrien.
 
-It was agreed to hold the Annual Meeting of the District on Wednesday, 2"? June, 2021, at
+It was agreed to hold the Annual Meeting of the District on Wednesday, 2" June, 2021, at
 11.45 a.m., at Aras William Smith OBrien.
 
 10
 
 
----
+
+[[PAGE_END:10]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 This concluded the Meeting.
@@ -532,4 +553,6 @@ Cathaoirleach
 11
 
 
----
+
+[[PAGE_END:11]]
+

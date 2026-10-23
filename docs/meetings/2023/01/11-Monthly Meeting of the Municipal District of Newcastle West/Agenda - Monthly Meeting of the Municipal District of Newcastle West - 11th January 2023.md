@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Agenda%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2011th%20January%202023.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 11th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Agenda%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2011th%20January%202023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ pA Comhairle Cathrach
+_ pe Comhairle Cathrach
 & Contae Luimnigh
-AN So
+NaN i NS
 
-— Limerick City
+——> Limerick City
 & County Council
 
 6th January, 2023
@@ -35,7 +36,7 @@ To:
 A Chomhairleoir, a chara,
 
 Duiche Bardais an Chaisleain Nua Thiar,
-Comhairle Cathwach agus Contwe Luimnigh,
+Comhairle Cathwach aqus Contae Luimnigh,
 Aras William Smith O'Brien,
 
 Gortbuil,
@@ -46,7 +47,7 @@ Co. Luimnigh
 
 Newcastle West Municipal District,
 Limerick City and County Council,
-Ares William Smith O'Brien,
+Ares William Smith O'Bnen,
 Gortboy,
 
 Nevecastle West,
@@ -86,15 +87,16 @@ Limerick, to Ms. Katie Harnett and Mr. Killian Hough.
 
 to Mr. Mortimer McCarthy.
 
-Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchant's Quay, Limerick
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 
 (Reports Enclosed)
 = limerick.te
-www limerick.te
+wow limerick.te
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -125,7 +127,7 @@ To review position in relation to allocations under the General Municipal Alloca
 Questions submitted by Councillor L. Galvin
 
 | will ask at the next Meeting for an update on the following junctions (a) Devon
-Road Cross (b) Dore’s Cross, fempleglantine.
+Road Cross (b) Dore’s Cross, Templeglantine.
 
 | will ask at the next Meeting that the growth be cleaned off the following bridges:
 (a) The Mart bridge, Abbeyfeale (b) The metal bridge on the Ballagh road (c) That the
@@ -148,7 +150,9 @@ a) The entrance road to Cluain Arra Estate.
 b) The 2 lights out in the Old Mill.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -167,7 +171,7 @@ d) The light out at the Mass Path.
 
 e) Ballymorisheen near the Apple Green filling station.
 
-lon submitted b Hor J. Scanian
+lon submitted b lor J. Scanian
 
 | will ask at the next Meeting that reminder/enforcement notices are issued to the
 owners of hedgerows that remain uncut.
@@ -185,7 +189,7 @@ West, twelve years this is going on now.
 
 ice llor T. Ruddle
 
-twill move at the next Meeting that due to the shockingly bad level of service in
+t will move at the next Meeting that due to the shockingly bad level of service in
 fixing blown public lights which are now taking months if at all to get fixed, that
 Limerick City and County Council meet with Airtricity with a view to improving the
 service.
@@ -195,11 +199,13 @@ at night, this should be a priority for this Council.
 
 Notices of Motion submitted by Councillor J. Scant
 
-| will move at the next Meeting that all Council delivered tenancies have a front and
+I will move at the next Meeting that all Council delivered tenancies have a front and
 back entrance.
 
 | will move at the next Meeting that adequate public lighting is provided along Daar
 River View, Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+

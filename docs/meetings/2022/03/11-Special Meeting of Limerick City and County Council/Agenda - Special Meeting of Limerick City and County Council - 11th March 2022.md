@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-02/agenda-special-meeting-11.03.2022.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 11th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/agenda-special-meeting-11.03.2022.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach Comhairle C duchtnnConnuanan
-y a ) agu: Jonitae rrr.
-— & Contae Luimnigh Ceannchesthra Chorparaideach
-aAr™ —e—— Cé na gCeannaithe,
-- Limerick City _ Luimneach
+_——_ Comhairle Cathrach Comhairle C tuchenuCocnuanan
+y a ) agu: Anitae PTiragr,
+a ™ & Contae Luimnigh Ceannchesthra Chorparaideach
+aAr™ ——— Cé na gCeannailthe,
+- Limerick City Luimneach
 
 = & County Council
 Corporate Services,
 Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay.
-Limenck
+Limerick
 EBIRCODE V94 EH90
 
 t: 4383 (0) 61 557150
-#; +353 (0) 63 415 266
+f; +353 (0) 63 415 266
 
 22" February, 2022.
 
@@ -50,7 +51,7 @@ Council, to be held in the Council Chamber, Dooradoyle, and Online, on Friday, 1
 
 The business to be transacted is set out on the appended Agenda.
 
-| (\. le meas,
+{ (\. le meas,
 
 Meetings Administrator.
 
@@ -59,12 +60,14 @@ AGENDA
 
 1. Discussion on Climate Action Plan with Minister Eamon Ryan.
 
-= Customerservices@iimerick.ie
+@ Customerservices@limerick.ie
 
-© werwMmerick.te
+© worwMmerick.te
 
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061- 557150
 
 
----
+
+[[PAGE_END:1]]
+

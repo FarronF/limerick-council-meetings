@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28a%29%20Minutes%20Ordinary%20Meeting%2028.01.2019.pdf)
+**Original file:** [Minutes - Full Meeting of Limerick City and County Council - 28th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28a%29%20Minutes%20Ordinary%20Meeting%2028.01.2019.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN
 
 THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, ON MONDAY, 28TH JANUARY, 2019, AT
@@ -80,7 +81,9 @@ And Resolved:
 (a) Circulated, copy of Statutory Notice dated 22nd November, 2018, concerning disposal
 
 of land at 8, O’Donoghue Avenue, Janesboro, Limerick.
----
+
+[[PAGE_END:1]]
+
 Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
@@ -140,7 +143,9 @@ amended, the approval of the Council be and is hereby given to the disposal of l
 Devon Road, Templeglantine, Co. Limerick, to Teresa Mahony Dee, for the sum of €1.00,
 
 particulars of which were contained in the Statutory Notice dated 10th December, 2018.”
----
+
+[[PAGE_END:2]]
+
 (d) Circulated, copy of Statutory Notice dated 8th January, 2019, concerning disposal of
 
 land at 2, Galvone View, Limerick.
@@ -202,7 +207,9 @@ And Resolved:
 amended, the approval of the Council be and is hereby given to the disposal of land at 4,
 
 Galvone View, Limerick, to Helena Mackey, in exchange for 205, Valley View, O’Malley
----
+
+[[PAGE_END:3]]
+
 Park, Limerick, particulars of which were contained in the Statutory Notice dated 8th
 
 January, 2019.”
@@ -264,7 +271,9 @@ And Resolved:
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
 
 2001, as amended, and Section 211 of the Planning and Development Act, 2000, as
----
+
+[[PAGE_END:4]]
+
 amended, the approval of the Council be and is hereby given to the disposal of land at
 
 27, Lord Edward Street, Limerick, to Aidan Cahill, in exchange for 140, Oisin Drive,
@@ -326,7 +335,9 @@ Proposed by Councillor Collins (M);
 Seconded by Councillor Sheahan (J);
 
 And Resolved:
----
+
+[[PAGE_END:5]]
+
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
 
 2001, as amended, and Section 211 of the Planning and Development Act, 2000, as
@@ -400,7 +411,9 @@ Proposed By Councillor Sheahan (J);
 Seconded By Councillor O’Donnell (W);
 
 And Resolved:
----
+
+[[PAGE_END:6]]
+
 “That, the approval of the Council be and is hereby given to visit by
 
 the Mayor of the City and County of Limerick to London, under Section 142(5)
@@ -474,7 +487,9 @@ includes quiet rural breaks and the opportunity to experience real rural life.
 piers, islands and links to County Clare and the need for signage to highlight
 
 these amenities.
----
+
+[[PAGE_END:7]]
+
  The need to develop the potential of Knockfierna Famine Heritage, Glenquin
 
 and Broadford Castles, Barnagh Tunnel, the two Railway houses on the
@@ -566,7 +581,9 @@ fashion and cultural attractions.
  The need to develop Nicholas Street as an attraction, in conjunction with King
 
 John’s Castle.
----
+
+[[PAGE_END:8]]
+
  The need to include culture in the strategy and develop a weekend festival of
 
 Traditional Music and Irish Language.
@@ -636,7 +653,9 @@ Strategic Policy Committee dated 2nd January, 2019, in relation to the
 meeting held on the 10th December, 2018.
 
 The Report was noted by the Council.
----
+
+[[PAGE_END:9]]
+
 **(iii)**
 
 Circulated, Report of the Chairperson of the Travel and Transportation
@@ -704,7 +723,9 @@ Services, pointed out that appropriate securities would be put in place through
 either a charge on the property or a personal guarantee.
 
 Proposed By Councillor Lynch (S);
----
+
+[[PAGE_END:10]]
+
 Seconded By Councillor O’Hanlon (K);
 
 And Resolved:
@@ -772,7 +793,9 @@ with the executive role falling under the Minister for Culture, Heritage and the
 Gaeltacht, with advice from an All Party Group on Commemorations and an Expert
 
 Advisory Group.
----
+
+[[PAGE_END:11]]
+
 Members thanked Mr. Brady for his presentation and commended all those involved
 
 with the 1916 commemoration for their professionalism. Members stressed the
@@ -828,7 +851,9 @@ and Commercial Waste) Bye-Laws 2019 are hereby adopted in accordance with Sectio
 35 of the Waste Management Act 1996 and Part 19 of the Local Government Act 2001,
 
 as amended.”
----
+
+[[PAGE_END:12]]
+
 6.Conferences
 
 (i)Participation by Members at Conferences
@@ -882,7 +907,9 @@ I will ask at the next meeting if there has been progress on an Irish Language P
 particularly in relation to equality of size for Irish on signage and the feasibility of hiring an
 
 Irish Language Officer for Comhairle Cathrach agus Contae Luimnigh.
----
+
+[[PAGE_END:13]]
+
 **REPLY:**
 
 Limerick City and County Council’s draft Irish Language Scheme 2019-2022
@@ -956,7 +983,9 @@ programme. Additionally, 3 New Build Houses are anticipated to commence
 works on site in Municipal District of NCW in 2019, excluding the Buy and
 
 Renew programme.
----
+
+[[PAGE_END:14]]
+
 1 New Build House is anticipated to complete in Municipal District of
 
 Cappamore Kilmallock in 2019 as part of the Buy and Renew Programme.
@@ -1032,7 +1061,9 @@ Refurbishments
 Municipal District of Newcastle West
 
 32 (21 casual and 11 major refurb)
----
+
+[[PAGE_END:15]]
+
 Municipal District of Adare-Rathkeale
 
 11 (10 casual and 1 major refurb)
@@ -1100,7 +1131,9 @@ The National Transport Authority (NTA) is responsible for the Coca Cola Bike
 Scheme in Limerick, and has contracted out the operation of this scheme to a
 
 private company. The NTA has previously agreed to an extension to the Coca
----
+
+[[PAGE_END:16]]
+
 Cola Bike Scheme in Limerick, but this has not been able to proceed to date
 
 due to issues the NTA has experienced in obtaining new equipment. This has
@@ -1172,7 +1205,9 @@ In proposing the motion Councillor Galvin pointed out that such a scheme would e
 young couples to build next to rural houses, support small scale contractors, help maintain
 
 pupil numbers in local schools and reduce housing waiting lists. He noted the potential for
----
+
+[[PAGE_END:17]]
+
 the Council to let out the property in the future and asked that the Housing Department
 
 contact the Minister in relation to the motion and that the motion be circulated to all Local
@@ -1244,7 +1279,9 @@ In proposing the motion Councillor McCreesh acknowledged work taking place but
 expressed concern that the level of resources assigned to monitoring the construction of
 
 new buildings in the Council’s administrative area was not sufficient to robustly monitor the
----
+
+[[PAGE_END:18]]
+
 level of construction taking place. Councillor McCreesh highlighted the risks that buildings
 
 will not be constructed in accordance with planning permission and that development
@@ -1316,7 +1353,9 @@ standard for a risk based programme of building control inspections is set
 nationally at 12-15% of new buildings notified to the Building Control
 
 Authority. Limerick City and County Council as Building Control Authority has
----
+
+[[PAGE_END:19]]
+
 consistently achieved this target in recent years. Building Control inspections
 
 may be as a result of complaints from the public or part of a programme of
@@ -1380,7 +1419,9 @@ Councillor Galvin referred to the letter dated 18th December, 2018 from Kerry Co
 Council and the enclosed resolution relating to the undocumented in America and indicated
 
 his support for the resolution.
----
+
+[[PAGE_END:20]]
+
 CHIEF EXECUTIVE’S ORDERS:
 
 The Register of Orders made by the Chief Executive up to the date of the Meeting was
@@ -1402,4 +1443,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:21]]
+

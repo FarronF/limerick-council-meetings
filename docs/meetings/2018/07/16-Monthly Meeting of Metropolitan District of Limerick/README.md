@@ -38,9 +38,9 @@ Part 8 DeValera Park Sexton Street North and Quarry Road Drawings - Monthly Mee
 
 Taking in Charge of Estates Caherdavin Meadows - Monthly Meeting of Metropolitan District of Limerick 16th July 2018 - Monthly Meeting of Metropolitan District of Limerick 16th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/05%20Taking%20in%20Charge%20of%20Estates%20Caherdavin%20Meadows.pdf) - Text not extracted
 
-Draft Waste Bye Laws_ Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 16th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06a%20Draft%20Waste%20Bye%20Laws%20-%20Cover%20Letter.pdf) - Text not extracted
+Draft Waste Bye Laws: Cover Letter - Monthly Meeting of Metropolitan District of Limerick - 16th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06a%20Draft%20Waste%20Bye%20Laws%20-%20Cover%20Letter.pdf) - Text not extracted
 
-Draft Waste Bye Laws_ Report - Monthly Meeting of Metropolitan District of Limerick - 16th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06b%20Draft%20Waste%20Bye-Laws%20-%20Report.pdf) - Text not extracted
+Draft Waste Bye Laws: Report - Monthly Meeting of Metropolitan District of Limerick - 16th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06b%20Draft%20Waste%20Bye-Laws%20-%20Report.pdf) - Text not extracted
 
 Draft City and County of Limerick (Segregation Storage and Presentation of Household and Commercial Waste) Bye-laws 2018 - Monthly Meeting of Metropolitan District of Limerick - 16th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06c%20Draft%20City%20and%20County%20of%20Limerick%20%28Segregation%20Storage%20and%20Presentation%20of%20Household%20and%20Commercial%20Waste%29%20Bye-laws%202018.pdf) - Text not extracted
 

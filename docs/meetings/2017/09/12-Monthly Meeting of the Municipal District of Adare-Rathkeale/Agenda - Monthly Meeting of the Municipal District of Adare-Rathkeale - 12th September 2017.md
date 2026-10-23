@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20September%202017.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20September%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-———_ pana Cathrach
+_— ane Cathrach
 —_ ontae Luimnigh
-— Limerick Ci
+—— Limerick Ci
 erick City
 & County Council
 
@@ -42,7 +43,7 @@ Corporate Services,
 
 Limerick City and County Council,
 Corporate Headquarters,
-Merchants Quay.
+Merchants Guay.
 
 Limerick
 
@@ -70,7 +71,7 @@ Meetings Administrator.
 
 To adopt Minutes of the following Meetings:
 
-eee nen nen nes eeen wenn eeeen.
+eee nen wen nese een mene eenen.
 
 AGENDA
 
@@ -93,14 +94,16 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copies Enclosed)
 
 @ customerservicesa@limerick.ie
-@ wevew limerick.ie
+© wevew limerick.ie
 
 W @LimerickCouncil
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -109,9 +112,9 @@ Economic Development Directorate
 (a) Deferral of Notices to make a new Local Area Plan for Rathkeale and Extend
 
 the Existing Plan
-To consider the Chief Executive’s Report dated 22" August, 2017, regarding
-proposal to extend the life of the Rathkeale Local Area Plan 2012-2018, by a
 
+To consider the Chief Executive's Report dated 22"° August, 2017, regarding
+proposal to extend the life of the Rathkeale Local Area Plan 2012-2018, by a
 further 5 years, in accordance with the provisions of Section 19 of the Planning
 
 and Development Act 2000 (as amended).
@@ -120,10 +123,9 @@ and Development Act 2000 (as amended).
 (b) Limerick Heritage Plan 2017-2030
 
 To note the publication of Limerick Heritage Plan 2017-2030.
+
 (Report Enclosed)
-
 (c) Town Engage Adare
-
 To receive presentation on Town Engage for Adare.
 (Report Enclosed)
 
@@ -150,7 +152,9 @@ Ballysteen.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -204,7 +208,9 @@ on the pedestrian crossing at Main Street, Adare in the interest of better vehic
 movement.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15. Notice of Motion submitted by Councillor E. O’Brien
@@ -216,4 +222,6 @@ Saving Equipment Bill 2017.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

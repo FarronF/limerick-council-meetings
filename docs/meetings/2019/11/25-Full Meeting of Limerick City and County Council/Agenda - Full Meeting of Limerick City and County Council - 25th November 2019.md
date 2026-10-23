@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Ordinary%20Meeting%2025.11.19.pdf)
+**Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/00%20Agenda%20Ordinary%20Meeting%2025.11.19.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ae Comhairle Cathrach I nt Corpardidescha
-—_ & Contae Luimnigh Se ead Chama,
-a Cé na gCeannaithe,
+a Comhairle Cathrach Aseiubte Gene e Corpardidescha
+—_ & Contae Luimnigh See en enad cheamaaee,
+7 Cé na gCeannaithe,
 
-——> Limerick City : Luimneach
+—> Limerick City : Luimneach
 & County Council
 
 Corporate Services,
@@ -41,9 +42,9 @@ Limerick
 EIRCODE V94 EH90
 
 t: +353 (0) 61 $57150
-20° November, 2019. £4353 (0) 61.415 266
+20 November, 2019. £4353 (0) 61.415 266
 
-To: M ra M Li and Co il
+To: M ra M: Li and Co il
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of Limerick City and County Council to be held in the Council
@@ -79,11 +80,13 @@ Development Act, 2000 (as amended), at:
 {e) The Commons, Tournafulla, Co. Limerick.
 & customerservices@limerick te
 
-Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach Y @LimerickCouncil
+Ceanncheathrié Chorpardideach, Cé na gCeannaithe, Luimneach WY @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -123,7 +126,7 @@ Support Services Directorate
 
 (c)
 
-(a)
+(4)
 
 Chief Executive’s Report
 To consider Chief Executive’s Reports for the months of September and October,
@@ -138,7 +141,7 @@ month period to 31* December, 2020, subject to the sanction of the Minister for
 Housing, Planning and Local Government and in accordance with Section 106 (2) of
 the Local Government Act, 2001, as amended.
 
-Strategic Policy Committees —- Sectoral Nominations
+Strategic Policy Committees - Sectoral Nominations
 
 To approve Sectoral Nominations to Strategic Policy Committees.
 
@@ -151,7 +154,9 @@ To consider the adoption of the Limerick City and County Council Corporate Plan
 (Report and copy of Draft Plan Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (e) Audit
@@ -197,7 +202,9 @@ Committee Meeting held on 29™ October, 2019.
 (Chairperson’s Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (ii)
@@ -250,7 +257,9 @@ Arrangements.
 (Report and copy of Draft Scheme Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -299,7 +308,9 @@ e “Entitlement to Health Services” held in Clonakilty, Co. Cork, from 15" to
 November, 2019.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -316,14 +327,14 @@ e “trish Social Welfare System” to be held in Clonakilty, Co. Cork, from 6" 
 December, 2019.
 
 ¢ “First-Time Home Buyers Incentives” to be held in Carlingford, Co. Louth, from
-13" to 15 December, 2019.
+13" to 15° December, 2019.
 
 ¢ “Ireland Buzzing: International Conference on Pollinator Conservation” to be held
 in Limerick City on 20"/21% May, 2020.
 
 (Details already circulated electronically)
 
-(i) Reports on Conference / Seminar / Meeting / Event
+(ii) Reports on Conference / Seminar / Meeting / Event
 
 To note reports by Members who have participated at Conference / Seminar /
 Meeting / Event.
@@ -331,7 +342,7 @@ Meeting / Event.
 
 QUESTIONS
 
-Question submitted by Councillor E, O'Donovan
+Question submitted by Councillor E, O’Donovan
 
 | will ask the Council to confirm what air and water quality monitoring is currently active in
 the all Limerick Municipal Districts. | would like to know where these monitors are placed,
@@ -356,7 +367,9 @@ which has undergone retrofit in the last two years. Please provide numbers of ho
 BER grade.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -396,4 +409,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:7]]
+

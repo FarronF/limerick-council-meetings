@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20August%202015.pdf)
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 5th August 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20August%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_—_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh.
 
-ACN 4 Cé na gCeannaithe.
-—==>= Luimneach
+~ oN 4 Cé na gCeannaithe,
+—==> Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 Merchants Quay,
 
 COUNCIL Limerick
 
-31* July, 2015. t: +353 (0) 61 407 100
+31® July, 2015. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
 
@@ -73,4 +74,6 @@ Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwiimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

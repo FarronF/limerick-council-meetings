@@ -32,9 +32,9 @@ Minutes  - Annual Meeting Municipal District Cappamore-Kilmallock  - 28th June
 
 Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 5th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/04%20Minutes%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf) - [Extracted text](./Minutes%20-%20Special%C2%A0Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%205th%20July%202018.md)
 
-Cover Letter_ Draft Bye-Laws 2018 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/05%20Cover%20Letter%20re%20Draft%20Bye-Laws%202018.pdf) - Text not extracted
+Cover Letter: Draft Bye-Laws 2018 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/05%20Cover%20Letter%20re%20Draft%20Bye-Laws%202018.pdf) - Text not extracted
 
-Report_ Draft Waste Presentation Bye-Laws 2018 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06%20Report%20-%20Draft%20Waste%20Presentation%20Bye-Laws%202018.pdf) - Text not extracted
+Report: Draft Waste Presentation Bye-Laws 2018 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/06%20Report%20-%20Draft%20Waste%20Presentation%20Bye-Laws%202018.pdf) - Text not extracted
 
 Draft City and County of Limerick (Segregation Storage and Presentation of Household and Commercial Waste) Bye-laws 2018 - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/07%20Draft%20City%20and%20County%20of%20Limerick%20%28Segregation%20Storage%20and%20Presentation%20of%20Household%20and%20Commercial%20Waste%29%20Bye-laws%202018.pdf) - Text not extracted
 

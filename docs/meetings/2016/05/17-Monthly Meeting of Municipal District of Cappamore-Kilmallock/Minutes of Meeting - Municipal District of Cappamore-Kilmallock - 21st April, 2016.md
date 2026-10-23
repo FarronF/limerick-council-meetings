@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20April%2C%202016.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Cappamore-Kilmallock - 21st April, 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20April%2C%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN ÁRAS MAINCHĺN SEOIGE, MILLMOUNT, KILMALLOCK, CO. LIMERICK,**
@@ -92,7 +93,9 @@ to the town. A feasibility study had been carried out on the proposed Interpreta
 the rear of the Stone Mansion in Kilmallock. Lough Gur was an internationally important site
 
 and an excellent resource for tourism.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members thanked the Executive Archaeologist for her detailed and interesting presentation.
@@ -166,7 +169,9 @@ prepared.
 As a consultative process, the Roads Section will meet with the residents of
 
 Millmount Estate, Kilmallock.
----
+
+[[PAGE_END:2]]
+
 3
 
 A Reply to the following Question submitted by Councillor B. Teefy at Meeting held on Friday,
@@ -244,7 +249,9 @@ Garda Siochana.
  Revised Draft Bye Laws
 
  Adoption by Elected Members of the Local Authority.
----
+
+[[PAGE_END:3]]
+
 4
 
 The following items were raised at the completion of the Agenda:
@@ -294,4 +301,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

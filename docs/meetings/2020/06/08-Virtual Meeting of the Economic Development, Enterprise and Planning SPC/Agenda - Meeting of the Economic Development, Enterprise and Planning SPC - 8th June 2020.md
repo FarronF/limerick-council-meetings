@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-of-spc-mtg-8th-june-2020.pdf)
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 8th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-of-spc-mtg-8th-june-2020.pdf)
 
----
+[[FILE_START]]
+
 **3rd** **June, 2020**
 
 **To / Each Member of the Economic Development, Enterprise and Planning SPC**
@@ -52,4 +53,6 @@ Yours sincerely
 ***Senior Executive Officer***
 
 ***Economic Development***
----
+
+[[PAGE_END:1]]
+

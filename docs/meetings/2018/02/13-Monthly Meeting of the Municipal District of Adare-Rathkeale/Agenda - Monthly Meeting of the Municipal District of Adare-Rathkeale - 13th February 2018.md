@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%2013th%20February%202018%20v3_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%2013th%20February%202018%20v3_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-——
+———
 
-——-
+——
 Limerick
 CITY & COUNTY
 
@@ -68,7 +69,7 @@ a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-alae,
+sla,
 
 Karen er,
 Meetings Administrator.
@@ -94,10 +95,12 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed)
 
 @ customerservices@limerickie
-Ww @LimerickCouncil
+W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -130,7 +133,7 @@ To note update on proposed traffic calming scheme for Kilcornan.
 
 Flooding Issues in Askeaton
 
-To note update on proposals to address the flooding issues in Askeaton.
+To note update on proposals to address the flooding issues in Askeaton,
 (Copy Enclosed)
 
 Footpath from Kildimo to the Beer Garden Public House
@@ -148,7 +151,9 @@ To note update on pedestrian controlled crossing for Adare.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -175,13 +180,13 @@ on behalf of the public.
 from the Mid-West Design Team in relation to the Adare bypass and the proposed
 roundabout at The Lantern Lodge.
 
-ion submi C illor S. K
+ion submi Cc illor S. K
 I will ask at the February Meeting of the Adare Rathkeale Municipal Area for a clear and
 comprehensive report on the current status of the Planning Application by Cadence
 Enviropower to An Bord Pleanala for a Gasification Plant at Gortnadroma Landfill Site
 which is owned and maintained by Limerick City and County Council.
 
-n ult
+n I
 
 I will ask at the next meeting what revenue is collected by motor tax in Limerick County.
 
@@ -196,14 +201,16 @@ Notice of motion received from Councillor S. Keary
 Authority of Limerick City and County immediately commence the harmonisation of
 housing rent payable by tenants between City and County.
 
-ation ch wali aii trate Councilor G: O'nd
+ation ct wots wai Seate Commciiorc: O'nd
 
 | will move at the February Meeting of the Adare Rathkeale Municipal Area that the
 Adare Rathkeale area repair damage to the structural and/or retaining wall at the Market
 Lane, Summerville, Pallaskenry recently damaged due to storm damage.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -214,7 +221,7 @@ Lane, Summerville, Pallaskenry recently damaged due to storm damage.
 
 Notice of motion received from Councillor A. Teskey
 
-| will move at the next meeting for a programme to open water tables on our rural roads.
+i will move at the next meeting for a programme to open water tables on our rural roads.
 Notice of motion received from Councillors A. Teskey and K. Sheahan
 
 We will move at the next meeting that this district write to the Minister for Transport
@@ -226,4 +233,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+

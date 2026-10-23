@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-october-2025.pdf)
+**Original file:** [Agenda -  Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 13th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 
 **3rd** **October, 2025**
@@ -80,4 +81,6 @@ Limerick as a more inclusive destination. I urge your support for this beneficia
 6. Date of Next SPC Meeting Monday, 8th December at 2.15 pm
 
 7. AOB
----
+
+[[PAGE_END:1]]
+

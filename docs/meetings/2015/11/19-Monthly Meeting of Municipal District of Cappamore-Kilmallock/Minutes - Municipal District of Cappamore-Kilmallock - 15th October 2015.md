@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2015th%20October%202015.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 15th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2015th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
 DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ÁRAS MAINCHĺN
@@ -92,7 +93,9 @@ Circulated, Report of the Director, Home and Community in relation to Local
 Economic and Community Plan Socio-Economic Statement and High Level Goals
 
 dated September, 2015.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Administrative Officer, Home and Community stated that the Local Economic
@@ -172,7 +175,9 @@ He also outlined the benefits for the young people:
  Teaches interview skills.
 
  Improves financial literacy.
----
+
+[[PAGE_END:2]]
+
 3
 
 Members thanked Mr. Walsh for his presentation and asked that he would come
@@ -246,7 +251,9 @@ Question submitted by Councillor B. Teefy
 ***General Operatives and Gangers in the Cappamore-Kilmallock Municipal***
 
 ***District.***
----
+
+[[PAGE_END:3]]
+
 4
 
 REPLY:
@@ -332,7 +339,9 @@ so that they are visible approaching villages/junctions. If there are
 areas where there are issues with signage, please submit details so we
 
 can order and erect replacement signs.
----
+
+[[PAGE_END:4]]
+
 5
 
 NOTICES OF MOTION
@@ -400,7 +409,9 @@ REPLY:
 Operations-South Division will investigate junctions and will arrange for
 
 extra signage/road markings if appropriate.
----
+
+[[PAGE_END:5]]
+
 6
 
 11.
@@ -462,7 +473,9 @@ Hospital Handball Club.
 Following a short discussion, it was agreed that further clarification would be sought
 
 from the Handball Club and that this would be reported back to the next Meeting.
----
+
+[[PAGE_END:6]]
+
 7
 
 The Members enquired about the possibility of purchasing a backdrop for Municipal
@@ -488,4 +501,6 @@ Cathaoirleach
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

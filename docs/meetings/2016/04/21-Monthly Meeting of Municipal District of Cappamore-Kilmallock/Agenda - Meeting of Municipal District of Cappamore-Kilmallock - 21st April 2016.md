@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20April%202016.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 21st April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20April%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+_——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANS ‘“ Cé na gCeannaithe,
-—==> Luimneach
+ANS ‘ Cé na gCeannaithe,
+—==>= Luimneach
 
 . .
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and —— Council,
-lerchants Quay,
-COUNCIL Larasiex
+erchants Quay,
+COUNCIL uanasiex
 15" April, 2016. t: +353 (0) 61 407 100
 
 f: +353 (0) 61 415 266
@@ -48,7 +49,7 @@ at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Cre thor
+re dhor
 nox,
 
 Meetings Administrator.
@@ -67,12 +68,14 @@ To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock he
 To receive presentation and update on public realm / tourism projects in the Municipal
 District of Cappamore-Kilmallock.
 
-& customerservices@limerick.ic
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach @ wvew limerick.te
-Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+= customerservices@limerick.ic
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach  wvew limerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ne
@@ -86,7 +89,7 @@ To consider draft Schedule of Works for the Municipal District of Cappamore-Kilm
 
 QUESTIONS
 
-uestion submitted by C il F
+uestion submitted by C il if
 | will ask the next meeting for an update on bridge repairs at the following locations:
 R-512 at The Pike, Bruff
 . R-514 at Longford Bridge, Grange
@@ -102,4 +105,6 @@ Question submitted by Councillor M. Donegan
 Millmount Estate, Kilmallock.
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-11th-february-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-11th-february-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -88,7 +89,9 @@ And Resolved:
 today’s date, in accordance with the provisions of Section 19 of the Planning and
 
 Development Act 2000 (Amended)”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(b)**
@@ -162,7 +165,9 @@ And Resolved;
 “That the Part 8 report, as circulated, be adopted in accordance with Section 179 (4) (b)
 
 of the Planning and Development Act 2000 (as amended)”.
----
+
+[[PAGE_END:2]]
+
 3
 
 **1.**
@@ -238,7 +243,9 @@ informed that when the dereliction process is complete the Council can then look
 options for the estate. Councillor Teskey requested a process be put in place for
 
 Councillors to make representations in relation to Housing queries. The Director, Housing
----
+
+[[PAGE_END:3]]
+
 4
 
 Development agreed to examine this request and revert to the elected Members in due
@@ -308,7 +315,9 @@ allocate the following:
  €4,000 for Askeaton Tennis Club.
 
  €1,500 for Dernish Avenue Residents Association, Foynes.
----
+
+[[PAGE_END:4]]
+
 5
 
 On the proposal of Councillor Sheahan, seconded by Councillor Keary, it was agreed to
@@ -388,7 +397,9 @@ The public lighting section will assess the current lighting levels at Colasite
 na Trócaire Rathkeale and arrange to meet on site with Councillor A.
 
 Teskey.
----
+
+[[PAGE_END:5]]
+
 6
 
 **10.**
@@ -464,7 +475,9 @@ Councillor Sheahan advised on missing signage at Ballysteen and asked for an upd
 the matter. The Senior Executive Engineer informed Councillor Sheahan replacement
 
 signage will be erected.
----
+
+[[PAGE_END:6]]
+
 7
 
 Councillor Keary proposed a submission be made to An Bord Pleanala on the Limerick –
@@ -492,4 +505,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

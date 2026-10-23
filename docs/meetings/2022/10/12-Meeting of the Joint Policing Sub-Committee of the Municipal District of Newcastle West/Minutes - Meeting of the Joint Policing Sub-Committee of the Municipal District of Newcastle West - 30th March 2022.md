@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%202022-03-30%20Minutes%20JPC%20Subcommittee.pdf)
+**Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West - 30th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%202022-03-30%20Minutes%20JPC%20Subcommittee.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES
@@ -86,7 +87,9 @@ Seconded by: Councillor Galvin
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 2. Policing Issues in the District
@@ -162,7 +165,9 @@ increase in fraud and economic crimes which he stated is likely to continue, the
 cautious when disclosing bank details and to delete suspicious text messages. He stated that the
 
 Gardaí has identified persons and prosecutions are pending against this type of crime. He also
----
+
+[[PAGE_END:2]]
+
 3
 
 referred to the work which is ongoing with the banks at national level with a view to reducing
@@ -236,7 +241,9 @@ Path, Newcastle West and to any potential issues of anti-social behaviour which 
 as a result. In replying, Sergeant Barry noted that no incidents of anti-social behaviour has been
 
 highlighted and there are no concerns to date with regard to this matter.
----
+
+[[PAGE_END:3]]
+
 4
 
 The Senior Executive Engineer referred to speeding on the Ardnacrohy Road, Newcastle West,
@@ -272,4 +279,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

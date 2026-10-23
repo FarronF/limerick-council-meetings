@@ -16,27 +16,28 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-january-2025.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 16th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-january-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-i Comhairle Cathrach agus Contae Luirnnigh,
-Comhairle Cathrach Oifig an Chantal, Aras Mhainchin Seoighe,
-& Contae Luimnigh ill Mochealdg,
+i Comhairle Cathrach agus Contae Luirmnigh,
+Comhairle Cathrach Oifig an Chuantair, Aras Mhainchin Seoighe,
+& Contae Luimnigh Gill Mocheasdq,
 
-~—N a a Co, Laimragh
-= Ppseelere rae ick City and Caunty Council
+“N a ae Co, Laimnragh
+= Ppelere rae ick City and Caunty Council
 
-Limerick City arxi Cau founcl,
+Limerick City arxi Cau! founcl,
 
-: a om Aras Mainchit Seoighe Area Office,
+? a scans Aras Mainchit Seoighe Area Office,
 
 Kiirallock,
 
 EIRCODE V35 K497
 
-&: 4353 (0) 65 980 19
+&: 4383 (0) 65 980 19
 f: +353 (0) 63 985 99
 
 10" January, 2025.
@@ -53,7 +54,8 @@ Is mise le meas,
 
 Karen Buti
 Meetings Administrator.
-annem anne nenne nena nee eee
+
+eee nen antennae nnnenatennnnennneneneeennnenneeen-e-eeeeeneseeeen-
 
 AGENDA
 
@@ -68,13 +70,16 @@ December, 2024.
 
 2. Matters Arising
 
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe
-Limerick City and County Councit, Ares lainchin Seoighe Ares Ofice
+www. limerick.
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe Council
+Limerick City and County Council, Aras Mainchin Seoighe Area Office ve
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Declaration of Interest
@@ -104,7 +109,9 @@ survey be completed at Thomastown Cross on the Kilmallock-Charlevile road L8572 
 a view to traffic calming.”
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8. Question submitted by Councillor Carey
@@ -121,4 +128,6 @@ Hospital to Elton Road through Ballycahill is being considered for inclusion in 
 Surfacing Programme.”
 
 
----
+
+[[PAGE_END:3]]
+

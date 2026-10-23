@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-9th-may-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 9th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-9th-may-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -80,7 +81,9 @@ was particularly evident in her efforts to preserve the Westfields Wetlands, and
 passionate about heritage and community. The Príomh Chomhairleoir noted that Kathleen
 
 Leddin was the Sixth female Mayor of Limerick.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 The Príomh Chomhairleoir extended his deepest sympathy to her sons Timothy,
@@ -162,7 +165,9 @@ knowledgeable and was also a very sincere politician. She acknowledged her commi
 Limerick and, in particular, her community. She extended her sympathies to her family,
 
 Councillor Leddin and Councillor Pond.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 The Meeting concluded with a minute’s silence.
@@ -176,4 +181,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

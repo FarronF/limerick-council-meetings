@@ -16,26 +16,27 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-11-02%20Agenda%20November.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 2nd November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%202022-11-02%20Agenda%20November.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar.
-& Contae Luimnigh Comhairie Cathrach agus Contae Luimnigh.
+& Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh.
 
-= . Aras William Smith O'Brien,
-- Limerick Ci Gortbui
+= . Aras William Smith OBrien,
+“ Limerick Ci Gortbul
 —=—> merick City An Caislean Nua Thiar,
 
 & County Council Co. Luimnigh
 
-Newcastle West Municipal District,
-Umerick City and County Council,
+Nevvreastle West Municipal District,
+Limerick City and County Council,
 Aras Wiliam Smith O'Brien,
 Gortboy,
 
-Newcastle West,
+Nevwreastle West,
 
 Co. Limerick
 
@@ -51,13 +52,13 @@ You are requested to attend a Meeting of the Municipal District of Newcastle Wes
 in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 2™ November,
 2022, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-Is mise le Ss,
+Is mise le S,
 
 Martin Curran,
 Meetings Administrator.
 
 AGENDA
-Zz Minutes
+} Minutes
 To adopt Minutes of Meeting of the following Meetings:
 
 (a) Municipal District of Newcastle West held on 12 October, 2022.
@@ -73,13 +74,15 @@ To receive Update from the Housing Directorate for the Newcastle West Municipal
 District.
 (Report Enclosed)
 & customerservices@limerick.ic
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © wvew.limerick.ic
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach © wvewllimerick.ic
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -95,7 +98,7 @@ QUESTIONS
 
 Questions submitted by Councillor L. Galvin
 
-I will ask at the next Meeting for an update on the footpath from Healy's bend up to
+| will ask at the next Meeting for an update on the footpath from Healy's bend up to
 Fitzgerald’s farmhouse, Abbeyfeale.
 
 | will ask at the next Meeting (a) What year was the footpath replaced at Donoghue’s
@@ -110,7 +113,7 @@ Mass Path gate be implemented as agreed? The Council were to open in the
 morning, the neighbours were to close at night. This was due to the automatic
 opening and closing device being disabled.
 
-| will ask at the next Meeting when will traffic safety measures in the Glebe estate,
+I will ask at the next Meeting when will traffic safety measures in the Glebe estate,
 Monagea take place? A narrowing of the wide entrance was discussed to reduce the
 speed into the estate. The residents have previously signed a petition for ramps or
 alternative safety measures.
@@ -132,7 +135,9 @@ NOTICES OF MOTION
 the bridge dividing Kerry and Limerick on the Kilmorna Road.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -146,4 +151,6 @@ I will move at the next Meeting that a progress report be provided in respect of
 need for a Distributor Road in Newcastle West.
 
 
----
+
+[[PAGE_END:3]]
+

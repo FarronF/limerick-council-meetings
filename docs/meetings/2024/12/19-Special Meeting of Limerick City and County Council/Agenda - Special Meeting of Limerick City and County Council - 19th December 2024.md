@@ -16,16 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-special-meeting-of-limerick-city-and-county-council-19th-december-2024.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 19th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/agenda-special-meeting-of-limerick-city-and-county-council-19th-december-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach ; Seirbhisi Corparaideacha,
-& Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
-9g Ceanncheathru Chorparaidesch,
-NEON ©é na gCeannaithe,
+_—_ Comhairle Cathrach Selibhisi Corpardideachs,
+: : Comhairle Cathrach agus Contae Luimnigh,
+& Contae Luimnigh Ceanncheathru Chorparaidesch,
+AN-N ——_———— Cé na gCeannaithe,
 — Limerick City Luimneach
+
 & County Council
 
 Corporate Services,
@@ -40,7 +42,7 @@ EIRCODE V94 EH90
 
 13" December, 2024.
 t: +353 (0) 61 557150
-t: +353 {0) 61415 266
+t: +353 {0) 61.415 266
 
 To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and County
 Council
@@ -54,7 +56,7 @@ on Thursday, 19" December at 9:30 a.m.
 The business to be transacted is set out below.
 
 Is mise le meas,
-@] J
+4] J
 
 Ciara Farrell,
 Meetings Administrator
@@ -73,15 +75,17 @@ Councillor Conor Sheehan to Dail Eireann.
 Action, Biodiversity and Environment Strategic Policy Committee consequent to
 the election of Councillor Conor Sheehan to Dail Eireann.
 
-m customerservices@limerickie
+mcustomerservices@limerickie
 
 © wwvaltimerick.ie
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach vw @LimerickCouncil
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach vw @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) To consider the nomination of a replacement to Moyross Community Enterprise
@@ -98,4 +102,6 @@ City and County Council.
 (Report to follow)
 
 
----
+
+[[PAGE_END:2]]
+

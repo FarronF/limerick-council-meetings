@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-10th-november-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-10th-november-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach : Cearter Gardasech Ath Dara-Rath Caola
-s s Somhairie Cathrach agus Contae Luimrigh,
+a Comhairle Cathrach / Cearter Gardesech Ath Dara-Rath Caola
+ry . Somhairie Cathrach agus Contae Luimrigh,
 
-& Contae Luimnigh Aras Séan Finn.
+& Contae Luimnigh Aves Séan Finn.
 are : Line Nua,
-— Limerick City Rath Caola,
+— Limerick City Réth Caola,
 
-& County Council Co. Luimnagh.
+& County Council Co. Luimnigh.
 
-Adare-Ratnkeale Municipal District,
-Limerick (City and County Council,
-Aras Sean Firm,
+Adare-Rathkeale Municipal District,
+Limerick (ty and County Council,
+Aras Sean Fin,
 New Line,
 Rathkeale,
 Co. Limerick
@@ -57,21 +58,23 @@ AGENDA
 1. Minutes
 
 To adopt Minutes of the following Meetings:
-(a) Meeting of the Municipal District of Adare-Rathkeale held on 13™ October, 2020.
+(a) Meeting of the Municipal District of Adare-Rathkeale held on 13 October, 2020.
 
 (b) Draft Budgetary Plan 2021 Meeting of the Municipal District of Adare-Rathkeale
 held on 21* October, 2020
 
 (Copies Enclosed).
 2. Operations and Maintenance Services
-! nt Schem
+I nt Schem
 To receive a presentation on the Local Improvement Grant Scheme.
 —— eee
-Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach ) www.limerickie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach } www.limerickie
 Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -112,7 +115,9 @@ Ballingarry.
 discuss the future of the Industrial Park Lands in Askeaton.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -142,4 +147,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+

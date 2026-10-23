@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-special-meeting-of-the-metropolitan-district-of-limerick-25th-march-2026.pdf)
+**Original file:** [Minutes - Special Meeting of the Metropolitan District of Limerick - 25th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-special-meeting-of-the-metropolitan-district-of-limerick-25th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD ONLINE ON WEDNESDAY 25TH** **MARCH 2026 AT 3:30 P.M.**
@@ -88,7 +89,9 @@ Night-Time Economy Event Programming Open Call also had a maximum budget of €3
 He further advised that 6 applications were received under this call and highlighted that the
 
 total amount requested was €66,330.
----
+
+[[PAGE_END:1]]
+
 The Members were informed that an internal assessment panel convened on 20th March
 
 2026 to evaluate all submissions in accordance with the published criteria and guidelines,
@@ -196,7 +199,9 @@ The following table presents a list of groups who submitted applications under *
 **€**
 
 **Recommended**
----
+
+[[PAGE_END:2]]
+
 Irish Chamber
 
 Orchestra Youth
@@ -420,7 +425,9 @@ Wellness Series
 €880
 
 Referred to GY
----
+
+[[PAGE_END:3]]
+
 Lumen Street
 
 Theatre
@@ -454,4 +461,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH** 
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:4]]
+

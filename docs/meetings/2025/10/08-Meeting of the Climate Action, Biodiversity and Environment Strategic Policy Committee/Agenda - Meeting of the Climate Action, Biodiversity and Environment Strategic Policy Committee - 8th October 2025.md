@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-8th-october-2025.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 8th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-8th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **09th** **September 2025**
@@ -80,4 +81,6 @@ Action Officer, Environment & Climate Action.
 Environment & Climate Action.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+

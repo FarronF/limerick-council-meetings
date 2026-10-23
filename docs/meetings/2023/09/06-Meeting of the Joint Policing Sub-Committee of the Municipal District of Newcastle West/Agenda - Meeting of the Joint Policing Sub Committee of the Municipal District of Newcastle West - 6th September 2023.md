@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub Committee of the Municipal District of Newcastle West - 6th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
-_——_— & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
+_——_ & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
 
 Aras William Smith O'Brien,
 
@@ -31,9 +32,9 @@ ArN a Gortbul,
 
 & County Council Co. Luimnigh
 
-Nevscastle West Municipal District,
+Nevecastle West Municipal District,
 Limerick City and County Council,
-Aras William Smith O'Brien,
+Aras William Smith O'Bnen,
 Gortboy,
 
 Nevicastle West,
@@ -70,10 +71,12 @@ District of Newcastle West held on 10" February, 2023.
 2. Policing Issues
 To discuss policing issues in the District.
 & customerservices@limerickie
-Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vevowimerickie
-Corporate Headquarters, Merchant's Quay, Limerick WY alimerickCouncil
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vivew.imerickie
+Corporate Headquarters, Merchant's Quay, Limerick W alimerickCouncil
 
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

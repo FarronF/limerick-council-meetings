@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-e-minutes-special-meeting-11.03.2022.pdf)
+**Original file:** [Minutes  - Special Meeting of Limerick City and County Council - 11th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-e-minutes-special-meeting-11.03.2022.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK,
@@ -90,7 +91,9 @@ Government Departments, Agencies and outside expertise. It is his intention that
 teams would connect with Local Authorities and coordinate to achieve results in the next
 
 three years.
----
+
+[[PAGE_END:1]]
+
 2
 
 He indicated the first area of focus for the interagency team is sustainable mobility. The
@@ -172,7 +175,9 @@ They also queried if there was any update on progress with the legislation for t
 Elected Mayor for Limerick. Minister Ryan agreed that Ireland is a mosaic and rural farmers
 
 need to be incentivised to restore biodiversity and develop clear water where appropriate.
----
+
+[[PAGE_END:2]]
+
 3
 
 He agreed with the Members views that fuel poverty is a critical issue and it would be
@@ -198,4 +203,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28b%29%20Minutes%209th%20November%2C%202017.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28b%29%20Minutes%209th%20November%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
@@ -86,7 +87,9 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read, adopted and signed subject to
 
 the amendment outlined above”.
----
+
+[[PAGE_END:1]]
+
 2
 
 (c)
@@ -158,7 +161,9 @@ Teskey in relation to the GMA 2017 and on the proposal of Councillor Sheahan,
 seconded by Councillor O’Donoghue it was agreed that €2,000 be allocated to Foynes
 
 Yacht Club under the GMA 2017.
----
+
+[[PAGE_END:2]]
+
 3
 
 **5.**
@@ -230,7 +235,9 @@ Circulated, report of the Senior Executive Engineer, Design and Delivery, giving
 update on the incomplete footpath from Kildimo to the Beer Garden Public House. The
 
 report, as circulated was noted by Members.
----
+
+[[PAGE_END:3]]
+
 4
 
 **QUESTIONS**
@@ -304,7 +311,9 @@ Section 13:
 *without delay and where such works, damage, or breakage is carried out*
 
 *or repaired by the Council, shall pay the cost of such works to the Council.”*
----
+
+[[PAGE_END:4]]
+
 5
 
 Councillor O’Brien sought clarity on the obligations on tenants to maintain the outside of
@@ -376,7 +385,9 @@ requested that this go on the agenda for the next District Meeting.
 • Councillor Keary sought an update on why the number of social housing units
 
 proposed for Adare had been reduced from 30 to 20.
----
+
+[[PAGE_END:5]]
+
 6
 
 • Councillor Keary requested an update on proposal for a pedestrian controlled
@@ -450,4 +461,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:6]]
+

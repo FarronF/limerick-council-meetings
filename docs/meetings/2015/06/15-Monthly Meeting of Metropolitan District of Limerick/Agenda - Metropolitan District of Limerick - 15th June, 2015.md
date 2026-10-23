@@ -16,17 +16,18 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2015th%20June%2C%202015.pdf)
+**Original file:** [Agenda - Metropolitan District of Limerick - 15th June, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Metropolitan%20District%20of%20Limerick%20-%2015th%20June%2C%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
+ee — Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANON 3 Cé na gCeannaithe,
+ANON A 3 Cé na gCeannaithe,
 
-. =— Luimneach
+. =—_ Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council,
 COUNCIL =
@@ -43,16 +44,16 @@ Limerick
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held
-in the Council Chamber, Merchant's Quay, Limerick, on Monday, 15" June, 2015 at
+in the Council Chamber, Merchant's Quay, Limerick, on Monday, 15'" June, 2015 at
 9.45 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-wk Sta
+OX Stes
 Christy O’Connor,
 Meetings Administrator.
 
-meee nnn enn nnn eneeees meceeeereeccccccccssccessseesnerrcsocccsccesssesoressosocssssssssasssseune
+were wenn nn nnn nen neeees mecereereeecccccccsscsessseesesscccoccccccessoeseroscscoccssssassasssssune
 
 AGENDA
 
@@ -64,7 +65,6 @@ May, 2015.
 (Copy Enclosed).
 
 2. Disposal of Land
-
 To note proposal for the disposal of land as follows:
 
 Limerick Southern Ring Road Phase II Disposal of Land at Dooradoyle, Co.
@@ -72,12 +72,14 @@ Limerick Southern Ring Road Phase II Disposal of Land at Dooradoyle, Co.
 Limerick.
 (Report Enclosed).
 customerservicesa@limerick.
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach . é pases peers
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach * é pases penal
 
 Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncit
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -136,7 +138,9 @@ To receive Presentation giving update of progress on the Coonagh Knockalisheen
 Road.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -148,7 +152,7 @@ Road.
 QUESTIONS
 Question submitted by Councillor Joe Leddin
 
-| will ask at the next meeting for an update as to whether the lands formerly
+| will ask at the next meeting foran update as to whether the lands formerly
 owned by Braddish & Co located at Ballykeefe have now been transferred to
 Limerick City & County Council.
 
@@ -187,7 +191,9 @@ expansion of the successful public bike scheme to the suburbs to include areas
 such as Raheen, Dooradoyle, Castletroy, Ennis Road and Mayorstone.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
@@ -238,13 +244,15 @@ services by Limerick City and County Council;
 . what projects and in what areas of Limerick have been funded from the
 LPT.
 
-Notice of Motion submitted I hn Gilligan
+Notice of Motion submitted i hn Gilligan
 
 | will move at the next meeting that Corporate Headquarters, Merchants Quay, be
 made available as a venue for the Civil Ceremony of Marriage.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -264,4 +272,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

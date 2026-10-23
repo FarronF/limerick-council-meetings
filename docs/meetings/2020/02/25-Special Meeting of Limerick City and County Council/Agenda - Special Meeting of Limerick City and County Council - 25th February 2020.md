@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-special-meeting-25.02.2020.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 25th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/agenda-special-meeting-25.02.2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ell Cor thairle Cathrach Comhawie Catiwa pect a are
+el Cor thairle Cathrach Comhawtie Catiwa pec el rer
 P : 2 nwach agus Comae Luimnigh,
-, an & Contae Luimnigh Ceanncheathra Chorpardideach,
-“PN Cé na gCeannaithe,
-— Limerick City Luamneach
+, a & Contae Luimnigh, Ceanncheathna Chorpardideach,
+“PrN Cé na gCeannaithe,
+—— Limerick City Luamneach
 
 & County Council
 Corporate Services,
@@ -42,7 +43,7 @@ To: The Mayor and Each Member of Limerick City and County Council
 A Chomhairleoir, a chara,
 
 The Mayor, Councillor Michael Sheahan, has called a Special Meeting of Limerick City and
-County Council to be held in the Council Chamber, Dooradoyle, Limerick, on Tuesday, 25%
+County Council to be held in the Council Chamber, Dooradoyle, Limerick, on Tuesday, 25
 February, 2020, at 3pm. The business to be transacted is set out below.
 
 Is mise le meas,
@@ -57,7 +58,7 @@ AGENDA
 (a) f iV.
 
 To consider filling casual vacancies on the Council consequent on the election of
-Councillors Brian Leddin and Richard O’ Donoghue to Dail Eireann.
+Councillors Brian Leddin and Richard O’Donoghue to Dail Eireann.
 
 (Report dated 14” February, 2020, already circulated)
 (b) Filling of Vacancies on Strategic Policy Committees
@@ -69,18 +70,20 @@ O'Donoghue to Dail Eireann:
 lor i
 
 (i) Travel and Transportation Strategic Policy Committee.
-{ii) Economic Development, Enterprise and Planning Strategic Policy
+(ii) Economic Development, Enterprise and Planning Strategic Policy
 Committee.
 
 customerservices@limerickte
 
-. © weurwiimerickie
+. © weurwtimerickie
 
 Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach W @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -100,7 +103,7 @@ Eireann:
 Councillor Brian Leddin
 (i) Limerick Market Trustees.
 
-(ii) implementation Advisory Group on the Establishment of a Directly Elected
+(ii) Implementation Advisory Group on the Establishment of a Directly Elected
 Mayor for Limerick with Executive Functions.
 
 Councillor Richard O’Donoghue
@@ -110,4 +113,6 @@ Councillor Richard O’Donoghue
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

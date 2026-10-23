@@ -16,13 +16,14 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-ordinary-meeting-limerick-city-and-county-council-23.09.2024.pdf)
+**Original file:** [Agenda - Meeting of Limerick City and County Council - 23rd September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-ordinary-meeting-limerick-city-and-county-council-23.09.2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-a Comhairle Cathrach Comhairle Cathr ivan Caine anoun
-& Contae Luimnigh ee : a
+a Comhairle Cathrach Comhairle Cath inena cette unoun
+& Contae Luimnigh a ; a
 
 > Ceanncheathra Chorpardideach,
 ~ : A Cé na gCeannaithe,
@@ -38,10 +39,10 @@ Merchants Quay,
 
 18" September, 2024. Limerick
 
-EIRCODE V4 E90
+EIRCODE V4 EH90
 
-To: The Mayor, Priomh Chomhairleoir and Each Member of
-Limerick City and County Council See
+To: The Mayor. Priomh Chomhairleoir and Each Member of
+Limerick City and County Council & +555 (0) 62 557150
 
 f: +353 (0) 61 415 266
 
@@ -49,7 +50,7 @@ A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
 
-Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 23% September, 2024, at
+Council Chamber, Dooradoyle, Limerick, and Online, on Monday, 23 September, 2024, at
 3pm.
 
 The business to be transacted is set out on the appended Agenda.
@@ -65,7 +66,7 @@ To adopt Minutes of the following Meetings:
 
 (b) Special Meeting of the Council held on 22” July, 2024, at 2.00 p.m.
 
-(c) Special Meeting of the Council held on 22 July, 2024, at 2.30 p.m.
+(c) Special Meeting of the Council held on 22™ July, 2024, at 2.30 p.m.
 
 (d) Special Meeting of the Council held on 26" August, 2024, at 2.30 p.m.
 (e) Ordinary Meeting of the Council held on 26" August, 2024, at 3.00 p.m.
@@ -82,13 +83,15 @@ Housing Directorate
 
 (a) Cloontemple, Ballingarry, Co. Limerick (LKS538L)
 (b) Cloontemple, Ballingarry, Co. Limerick (LK6538L)
-@ customerservices@limerick.te
+= customerservices@limerick.te
 © wwvelimerick.ie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach  @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Rural, Community and Culture Directorate
@@ -99,7 +102,7 @@ General Disposals
 
 (d) 0.0544 acres (0.022 hectares) at Glendarragh, Newcastle West, Co. Limerick.
 
-{e) Garage at 16, Main Street, Croom, Co. Limerick.
+(e) Garage at 16, Main Street, Croom, Co. Limerick.
 
 (f) 2.72 acres (1.1 hectares) of land at Skagh, Croom, Co. Limerick.
 
@@ -150,7 +153,9 @@ To fix date for the 2025 Statutory Budget Meeting
 (Copy of Department Circular Fin 11/2024 dated 15" July, 2024, Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -159,7 +164,7 @@ To fix date for the 2025 Statutory Budget Meeting
 
 (e)
 
-1)
+i)
 
 (gs)
 
@@ -196,8 +201,6 @@ Meeting.
 Risk Committee.
 (Report Enclosed)
 
-Local Traveller Accommodation Consultative Committee
-
 To consider the appointment of the Chairperson of the Local Traveller
 Accommodation Consultative Committee, together with the appointment of
 the remaining Committee Members.
@@ -205,7 +208,9 @@ the remaining Committee Members.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -256,7 +261,9 @@ Record Number: 2022/1132 JR), which is listed for hearing on 26 - 28 November
 2024.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -279,7 +286,7 @@ Participation by Members at Conferences
 
 To consider participation by Members at the following Conferences:
 
-(a) “A Practical Guide to Budget, 2025” to be held in Carlingford, Co. Louth, from 11”
+(a) “A Practical Guide to Budget, 2025” to be held in Carlingford, Co. Louth, from 11
 to 13'" October, 2024.
 
 (b) “Corporate Governance” to be held in Clonakilty, Co. Cork, from 22" to 24"
@@ -288,7 +295,7 @@ November, 2024.
 
 QUESTIONS
 
-jon illor T. Ruddle
+lon illor T. Ruddle
 
 | will ask at the next Meeting if the Council can provide in tabular form from 2019 to
 end 2023 the details of schools that have been allocated funding under the Safe
@@ -297,21 +304,23 @@ completion.
 
 Question submitted by Councillor L. Galvin
 
-| will ask at the next Meeting (a) how many claims were made by the public as a result
+I will ask at the next Meeting (a) how many claims were made by the public as a result
 of damage to vehicles due to potholes on our rural roads; (b) can | have a breakdown
 for each of the Districts; (c) how many were successful; (d) how many were not
 successful; (e) what was the total paid out; and (f) can | ask for a report also on
 damage/claims as a result of overgrown hedges.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12.
 
 13.
 
-14.
+14,
 
 15.
 
@@ -335,7 +344,7 @@ including those who did not receive a service, so that we may be able to underst
 the true level of need in the city and county:
 
 * How many people were advised to return home when they presented seeking
-STA's?
+STA‘s?
 How many people were considered not entitled to a service?
 How many were not able to access accommodation due to limits in capacity?
 
@@ -359,7 +368,9 @@ responsibility and plan for the water quality of the River Deel considering the 
 fish kill in this river.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -400,7 +411,7 @@ enforcement of the Regulations regarding restricted dog breeds.
 
 Notice of Motion submitted by the Municipal District of Adare-Rathkeale —
 
-Councillors B. Collins (Proposer), S. Keary, T. Hartigan, J. O’Donoghue, A.
+Councillors B. Collins (Proposer), S, Keary, T. Hartigan, J. O’Donoghue, A.
 Teskey, G. Ward
 
 We will move at the next Meeting that Limerick City and County Council write to the
@@ -411,7 +422,9 @@ is legislated for in the Gigabit Infrastructure Act which aims to eliminate digi
 exclusion.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 27.
@@ -450,20 +463,22 @@ works BER/Inspection - approx. 2-3 months after works completed.
 
 Notice of Motion submitted by Councillor S. Hickey-O’Mara
 
-i will move at the next Meeting that we, as a Council, write to the Minister for Health
+| will move at the next Meeting that we, as a Council, write to the Minister for Health
 to request that the current visitor restrictions in the University Maternity Hospital
 Limerick be eased so as to be brought in line with other Maternity Hospitals nationally
 as the current restrictions are causing distress for families in the Midwest.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
 
 33.
 
-Notice of Motion submitted by Councillors F. Kilcoyne and G. Ward
+Notice of Motion submitted by Councillors F, Kilcoyne and G. Ward
 
 We will move at the next Meeting that Limerick City and County Council agrees that
 the present draft design of the proposed M20 be amended to allow for an exit and
@@ -506,4 +521,6 @@ County calling on them to oppose lifting the cap.
 Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

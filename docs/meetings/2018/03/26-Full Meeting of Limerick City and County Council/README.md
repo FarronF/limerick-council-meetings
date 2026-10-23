@@ -30,17 +30,17 @@ Minutes - Full Meeting of Limerick City and County Council - 22nd January 2018
 
 Minutes Special Council Meeting - Full Meeting of Limerick City and County Council - 26th January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20%28b%29%20Minutes%20Special%20Council%20Meeting%20260118.pdf) - [Extracted text](./Minutes%20Special%20Council%20Meeting%20-%C2%A0Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026th%20January%202018.md)
 
-Disposal of Land_ Ardaneer, Foynes, Co. Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28a%29%20Disposal%20of%20Land%20-%20Ardaneer%2C%20Foynes%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: Ardaneer, Foynes, Co. Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28a%29%20Disposal%20of%20Land%20-%20Ardaneer%2C%20Foynes%2C%20Co.%20Limerick.pdf) - Text not extracted
 
-Disposal of Land_ Main Street, Knockaderry, Co. Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28b%29%20Disposal%20of%20Land%20-%20Main%20Street%2C%20Knockaderry%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: Main Street, Knockaderry, Co. Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28b%29%20Disposal%20of%20Land%20-%20Main%20Street%2C%20Knockaderry%2C%20Co.%20Limerick.pdf) - Text not extracted
 
-Disposal of Land_ Castlefarm, Hospital, Co. Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28c%29%20Disposal%20of%20Land%20-%20Castlefarm%2C%20Hospital%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: Castlefarm, Hospital, Co. Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28c%29%20Disposal%20of%20Land%20-%20Castlefarm%2C%20Hospital%2C%20Co.%20Limerick.pdf) - Text not extracted
 
-Disposal of Land_ 8 Pearse Avenue, Janesboro, Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28d%29%20Disposal%20of%20Land%20-%208%20Pearse%20Avenue%2C%20Janesboro%2C%20Limerick.pdf) - Text not extracted
+Disposal of Land: 8 Pearse Avenue, Janesboro, Limerick - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/03%20%28d%29%20Disposal%20of%20Land%20-%208%20Pearse%20Avenue%2C%20Janesboro%2C%20Limerick.pdf) - Text not extracted
 
 General Data Protection Regulation - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/04%20%28a%29%20General%20Data%20Protection%20Regulation.pdf) - Text not extracted
 
-Presentation_ Commercial Rates - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/04%20%28c%29%20Presentation%20-%20Commercial%20Rates.pdf) - Text not extracted
+Presentation: Commercial Rates - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-04/04%20%28c%29%20Presentation%20-%20Commercial%20Rates.pdf) - Text not extracted
 
 Audit Committee Annual Work Programme 2018 - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/04%20%28d%29%20%28i%29%20Audit%20Committee%20Annual%20Work%20Programme%202018.pdf) - Text not extracted
 
@@ -72,7 +72,7 @@ Proposed Variation No. 6 to the Extended Limerick County Development Plan 2010-2
 
 Development Fund Allocations 2018 - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/05%20%28b%29Development%20Fund%20Allocations%202018.pdf) - Text not extracted
 
-Cultural Strategy 2018_ Strategic Investment - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Cultural%20Strategy%20Strategic%20Investment.pdf) - Text not extracted
+Cultural Strategy 2018: Strategic Investment - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Cultural%20Strategy%20Strategic%20Investment.pdf) - Text not extracted
 
 Traffic Calming Policy for Urban Areas - Full Meeting of Limerick City and County Council - 26th March 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-03/07%20-%20Traffic%20Calming%20Policy%20for%20Urban%20Areas.pdf) - Text not extracted
 

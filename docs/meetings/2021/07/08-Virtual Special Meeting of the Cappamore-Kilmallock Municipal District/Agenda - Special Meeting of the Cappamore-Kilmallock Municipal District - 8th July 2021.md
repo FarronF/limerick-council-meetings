@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-8th-july-2021.pdf)
+**Original file:** [Agenda - Special Meeting of the Cappamore-Kilmallock Municipal District - 8th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-8th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Comhairle Cathrach Ft omens aptly er
+Comhairle Cathrach tht tomcen map htrty er
 
-. eo L
+A eo 5
 
-& Contae Luimnigh Ci Mochealg.
+& Contae Luimnigh Cll Mochealg.
 
-Ao™N f . - Co. Luimnigh.
+nNoN f . - Co. Luimnigh.
 - = Limerick City
 
 — & County Council Limerick City and County Council,
@@ -42,9 +43,9 @@ t: +353 (0) 63 980 19
 f: +353 (0) 63 985 99
 
 6" July, 2021.
-To/ The Cathaoirieach and Each Member of the Municipal District of Cappamore-Kilmallock
+To/ The Cathaoirieach and Each Member of the Municipal District of Canpamore-Kilmallock
 
-A Chomhairieoir, a chara,
+A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Cappamore-Kilmallock
 to be held on-line on Thursday 8" July at 2.00pm via Microsoft Teams
@@ -63,11 +64,11 @@ AGENDA
 To discuss proposed submission to An Bord Pleanala regarding the elimination of Fantstown
 and upgrade of Thomastown level crossings on the Dublin to Cork Railway Line.
 
-s
-_ — —_ aiameay pa
-@LimerickCouncil
-
-Limerick City and County Council, Aras Mainchin Seoighe Area Office v
+a
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe www limerici.ie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

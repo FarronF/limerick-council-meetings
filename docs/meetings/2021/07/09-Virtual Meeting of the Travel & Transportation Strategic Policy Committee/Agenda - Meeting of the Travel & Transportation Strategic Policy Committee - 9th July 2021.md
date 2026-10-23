@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/20210601-agenda-travel-transportation-spc-meeting-9.07.21.pdf)
+**Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 9th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/20210601-agenda-travel-transportation-spc-meeting-9.07.21.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **30th** **June, 2021**
@@ -51,7 +52,9 @@ The business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Agenda**
@@ -101,6 +104,10 @@ the Council still aim to meet the Quality of Service levels set out in the study
 and no less than B for primary routes, B and no less than C for secondary routes
 
 etc.)?”
----
+
+[[PAGE_END:2]]
+
 3
----
+
+[[PAGE_END:3]]
+

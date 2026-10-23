@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-05/02-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th%20April%202023.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/02-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th%20April%202023.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE KILMALLOCK HELD IN
@@ -84,7 +85,9 @@ Engineer (J.B.O’Callaghan) who submitted the applications for the bus shelters
 An Cathaoirleach also requested that consideration be given to additional bus shelters in the
 
 2024 submission.
----
+
+[[PAGE_END:1]]
+
 Councillor Donegan wished that the suggestion for travelling to Boston to represent the
 
 Municipal District and the connection with Bruff and the Kennedy family be added to the
@@ -150,7 +153,9 @@ planning unit in the development of the plan, and the planning staff thanked the
 Members for their contribution.
 
 6. General Municipal Allocation
----
+
+[[PAGE_END:2]]
+
 The Community Grants and Roads/Tourism Projects nominated by the Elected Members
 
 were presented to the meeting, and were unanimously agreed.
@@ -206,7 +211,9 @@ order of €40,000 per annum. The cost of such a facility would have to be sourc
 existing Council budget and if approved would result in funding being reallocated from
 
 other essential Council services such as the maintenance of roads, housing, parks, etc.
----
+
+[[PAGE_END:3]]
+
 ***A discussion took place on the costs associated with providing and operating/maintaining***
 
 ***a public toilet. A query was raised as to whether a pilot scheme could be used to introduce***
@@ -262,7 +269,9 @@ Any Other Business
 **Meetings**
 
 o The Meetings administrator requested potential dates for the following meetings:
----
+
+[[PAGE_END:4]]
+
  Briefing by Sergeant Ber Leetch on Personal Safety for the Elected Members
 
 (suggested 4th May)
@@ -334,7 +343,9 @@ The Elected Members wished Robert Gallagher well on his retirement and thanked T
 McKechnie for his work. They wished him well in his acting position in the coming 3
 
 months.
----
+
+[[PAGE_END:5]]
+
 Next Meeting
 
 The next meeting of the Cappamore Kilmallock Municipal District will be held on Thursday
@@ -346,4 +357,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:6]]
+

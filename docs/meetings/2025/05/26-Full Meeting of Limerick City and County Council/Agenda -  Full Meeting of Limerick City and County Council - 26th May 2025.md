@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-special-meeting-of-limerick-city-and-county-council-9th-may-2025_0.pdf)
+**Original file:** [Agenda -  Full Meeting of Limerick City and County Council - 26th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-special-meeting-of-limerick-city-and-county-council-9th-may-2025_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-omhairte Cathwach agus Contae Luumnx
-_ & Contae Luimnigh Ceanncheathra Chorparaideach,
-A-N 2 = - Cé na gCearmnaithe,
+omhairte Cathwach agus Contae umn
+a & Contae Luimnigh Ceanncheathra Chorparaideach,
+A-N 2 = “ Cé na gCearmnaithe,
 — Limerick City Luimneach
 
 & County Council
 
 Corporate Services,
-Limerick Cty and County Council,
+Limerick Cay and County Council,
 Corporate Headquarters,
 Merchants Quay,
-Limenck
+Limerick
 
 21* May, 2025. EIRCODE V94 EH90
 
@@ -59,24 +60,26 @@ AGENDA
 To adopt Minutes of the following Meetings:
 (a) Ordinary Meeting of the Council held on 31* March, 2025.
 
-(b) Special Meeting of the Council held on 7 April, 2025.
+(b) Special Meeting of the Council held on 7™ April, 2025.
 (c) Special Meeting of the Council held on 9® May, 2025.
 
 2. Declaration of Interest
 
-3. Uy , ment
+3. Ly ’ ment
 
 To receive Deputation from the National Citizens’ Parliament.
 
 = customerservices@limerick.ie
 
-© www. limerick.te
+© weew.limerick.te
 
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach Ww @limerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach Ww @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061- 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -96,7 +99,7 @@ General Disposals
 
 (d) 0.0147 acres (0.0059 hectares) at Ballyadam, Askeaton, Co. Limerick.
 
-(Statutory Notices dated 2” and 13" May, 2025, already circulated)
+(Statutory Notices dated 2™ and 13" May, 2025, already circulated)
 
 Mayoral Fund
 
@@ -127,14 +130,16 @@ Metro Mayor of Greater Manchester and representative of Liverpool City
 Council. (retrospective)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-(a)
+(4)
 
 (e)
 
-(b) Attendance by Priomh Chomhairleoir at the Core Network Meeting of
+({b) Attendance by Priomh Chomhairleoir at the Core Network Meeting of
 URBACT GreenPlace in Vila Nova de Poiares, Portugal. (retrospective)
 
 {c) Proposed Visit by the Priomh Chomhairleoir to Savannah, Georgia.
@@ -175,7 +180,9 @@ July Meeting of Limerick City and County Council
 To agree date for the July Meeting of Limerick City and County Council.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -185,7 +192,7 @@ Finance, Economic Development, Digital and ICT Services
 (a) Unaudited Annual Financial Statement 2024 — Limerick and
 County Council
 
-To consider the Unaudited Annual Financial Statement for year ended 31*
+To consider the Unaudited Annual Financial Statement for year ended 31"
 December, 2024, for Limerick City and County Council, under Section 108 of
 the Local Government Act, 2001 (as amended by the Local Government
 Reform Act, 2014).
@@ -221,7 +228,9 @@ Limerick City and County Council Festivals and Events Grant Scheme 2025/2026.
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -280,7 +289,9 @@ I will ask at the next full Council Meeting for a full and detailed explanation 
 description for Sub-Standard Roads within this Council.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 15.
@@ -291,7 +302,7 @@ description for Sub-Standard Roads within this Council.
 
 18.
 
-estion sub ed by Councillor D. Mc
+estion sub’ ed by Councillor D. Mc:
 
 | will ask at the next Meeting of Limerick City and County Council for the following
 information in relation to the Local Authority Affordable Purchase Scheme, to be
@@ -332,7 +343,9 @@ withdrawn from the market in the coming weeks, please advise the Department of
 Limerick Council which requested this action and the rationale behind such an action.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19.
@@ -355,10 +368,10 @@ County Council to carry out inspections on private rented properties, including 
 under HAP and RAS.
 
 NOTICES OF MOTION
-Motion submitted by Cou P. le
+Motion submitted by Cou! P. le
 
 I will move at the next Meeting that Limerick City and County Council write to larnrod
-Eireann/trish Rail requesting that they investigate the purchase of land adjacent to
+Eireann/irish Rail requesting that they investigate the purchase of land adjacent to
 Annacotty Business Park and the Castleconnell rail line. This would provide an urban
 train station linking the Annacotty Business Park with Castleconnell, Birdhill and
 Nenagh and Colbert Station Limerick. Over 3,000 people work in the Annacotty
@@ -367,7 +380,7 @@ to work and reduce congestion on our roads.
 
 Notice of Motion submitted by Councillor L. Galvin
 
-| will move at the next meeting of Limerick City and County Council that this Council
+I will move at the next meeting of Limerick City and County Council that this Council
 call on the Government to enact legislation to prohibit the use of smartphones (mobile
 phones with access to internet and social media) among youths under 16 years of age.
 
@@ -377,16 +390,18 @@ I will move at the next Meeting that Limerick City and County Council promote Th
 Sunflower representing hidden disabilities across Limerick City and County.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 25.
 
 27.
 
-Notice of Motion submitted by Councillor E. m
+Notice of Motion submitted by Councillor E. n
 
-| will move at the next meeting that Limerick City and County Council call on the
+I will move at the next meeting that Limerick City and County Council call on the
 Minister for Housing, Local Government and Heritage, James Browne, TD, to amend
 the Tenant Incremental Purchase Scheme 2016/S.!. No. 619/2023, to allow tenants to
 purchase their Council house after a period of five years and not a ten-year period as
@@ -428,14 +443,16 @@ Ardagh Chalice be loaned from the National Museum of Ireland to Limerick to be p
 on display as an attraction for the duration of the Ryder Cup.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 31.
 
 Notice of Motion submitted by Councillor M. Ryan
 
-I will move at the next Meeting that Limerick City and County Council would install an
+| will move at the next Meeting that Limerick City and County Council would install an
 averaging speed camera system on 2 trial basis, for example, in a village like Elton, on
 a regional road. This should be on a benefit analysis basis as a method to reduce speed
 while monitoring cost comparison, overall environmental and safety benefits for a
@@ -456,4 +473,6 @@ met.
 Correspondence
 
 
----
+
+[[PAGE_END:9]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01a%20Minutes%2017th%20September%202018.pdf)
+**Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01a%20Minutes%2017th%20September%202018.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 17TH** **SEPTEMBER, 2018.**
@@ -94,7 +95,9 @@ situate at 26 Garryglass Avenue, Ballinacurra Weston, Limerick and the intention
 a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
----
+
+[[PAGE_END:1]]
+
 2
 
 (b)
@@ -174,7 +177,9 @@ the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads 
 It was agreed that the report be amended to include the commitment given by the Council to
 
 maintain the pumping station until this responsibility was transferred to Irish Water.
----
+
+[[PAGE_END:2]]
+
 3
 
 **(b)**
@@ -258,7 +263,9 @@ details of proposed Housing Development at Lower Carey’s Road, Limerick. The r
 prepared in accordance with Section 179 3(a) of the Planning and Development Act, 2000 (as
 
 amended) and Part 8 of the Planning and Development Regulations, 2001 (as amended) and
----
+
+[[PAGE_END:3]]
+
 4
 
 noted that it was proposed to proceed in accordance with Section 5 of the report.
@@ -344,7 +351,9 @@ Daly, that the following amendments be made to the Scheme:
 1.
 
 That the four bedroom houses be taken out and replaced with three bedroomed houses
----
+
+[[PAGE_END:4]]
+
 5
 
 to reduce density.
@@ -426,7 +435,9 @@ entered on to the Derelict Sites Register as the Urban Village Renewal Departmen
 are working with the property owners in relation to carrying out remedial
 
 measures to remove the property from dereliction.
----
+
+[[PAGE_END:5]]
+
 6
 
 **7.**
@@ -514,7 +525,9 @@ houses such as 8 – 10 Gaol Lane, 1-3 Weston Gardens, etc. which while deliveri
 constructed in 2018 to date is 42 with the total projection for 2018 of 61. These
 
 are broken down as follows: 42 – Southill and 19 – St. Mary’s Park.
----
+
+[[PAGE_END:6]]
+
 7
 
 **9.**
@@ -592,7 +605,9 @@ Ireland
 Tel: +353 1 6463600
 
 info@tii.ie
----
+
+[[PAGE_END:7]]
+
 8
 
 **NOTICES OF MOTION**
@@ -670,7 +685,9 @@ Committee.
 ***waste litter offering in the Metropolitan Area to provide an option for recycling in the Litter***
 
 ***Bins.***
----
+
+[[PAGE_END:8]]
+
 9
 
 It was agreed to refer this Notice of Motion to the Environment Strategic Policy Committee.
@@ -744,7 +761,9 @@ Defence Forces both in Ireland and overseas. It was agreed to write to the Minis
 in relation to this Notice of Motion and to also request that the rate of pay for all emergency
 
 services be looked at.
----
+
+[[PAGE_END:9]]
+
 10
 
 **21.**
@@ -764,4 +783,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

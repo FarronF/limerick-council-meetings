@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-23rd-april-2024.pdf)
+**Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 23rd April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-23rd-april-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of the Meeting of Limerick City and County Council’s Travel and Transportation**
@@ -68,7 +69,9 @@ the 13th of February 2024 were proposed by Cllr. J Leddin, seconded by Cllr. E. 
 adopted.
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **Item 2: NTA Presentation: TFI Bike Scheme in Limerick** **–** **Andreas Saul-Rotne**
@@ -130,7 +133,9 @@ contract not renewed.
 Mr. Harper would welcome an expansion of the scheme and a re-evaluation of the management
 
 of the contract.
----
+
+[[PAGE_END:2]]
+
 3
 
 Cllr. O’ Hanlon believes that it is dangerous to have bikes and pedestrians using the same walkway
@@ -194,7 +199,9 @@ should be available in Q3 or Q4 and it will then go to consultation.
 Mr. Golden asked if the Arthur’s Quay project will interact with the Transport Plan. Mr. Kennedy
 
 replied that both will work in tandem and the plan is cognisant of all plans for the city.
----
+
+[[PAGE_END:3]]
+
 4
 
 Cllr. O’ Hanlon referred to the recent announcement regarding cameras at traffic lights which will
@@ -262,7 +269,9 @@ acceptance of speed limits and asked what changes would need to be made to the b
 asked if average speed cameras could help in those high-speed areas. The Chair supported Cllr
 
 Ryan’s comments.
----
+
+[[PAGE_END:4]]
+
 5
 
 Cllr. Kilcoyne agreed with the previous speakers, but he was concerned about the lack of visible
@@ -322,7 +331,9 @@ and county is not equitable.
 Cllr. Galvin stated the €25 is not much however there should not be two different rates and a two
 
 - permit rule should apply.
----
+
+[[PAGE_END:5]]
+
 6
 
 Ms. Power read the response to both Motions as follows:
@@ -348,4 +359,6 @@ to speak separately to Cllr. Scanlon on both Motions to which Cllr. Galvin agree
 The Chair thanked all for their attendance and contribution. This concluded the business of the
 
 meeting.
----
+
+[[PAGE_END:6]]
+

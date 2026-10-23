@@ -16,23 +16,24 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_november_meeting.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District - 17th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_november_meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corparaideacha agus Bainistfocht Athruithe,
-_—_ Comhairle Cathrach agus Contae Luimnigh,
+_—_—_—_ Comhairle Cathrach agus Contae Luimnigh,
 
 NN . Cé na gCeannaithe,
 —=— : Luimneach
 Limerick Corporate Services and Change Management,
-CITY & COUNTY Limerick City lg ord ap be
+CITY & COUNTY Limerick City ae ety Hap be
 COUNCIL Limerick
 
 th t: +353 (0) 61 407 100
 
-ier noveroer, 2a f: +353 (0) 61 415 266
+ier novernber, 2ur= f: +353 (0) 61 415 266
 
 To: The Mayor and each Member of Metropolitan District of Limerick
 
@@ -44,11 +45,11 @@ at 9.45 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-2 Latbiglon
+2? Lattiaglon
 rf Eugene Griffin
 Meetings Administrator
 
-OR RR RRR RR RRNA Renan nee eee eee eee eee Renee eee e ne nee n wenn nn nn nn nnn enn n wees eee eneerasnnesenens
+No ee ee ee eens
 
 AGENDA
 
@@ -77,11 +78,13 @@ Dwelling House situate at 157 Hyde Road, Limerick City.
 
 (Report Enclosed).
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach & wwew.limerick.ie
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach & wvew.limerick.ie
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -127,12 +130,14 @@ Lua housing estate so as to reduce the speed of cars driving in an estate
 where there are many families with young children living.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
 
-a.
+at.
 
 12.
 
@@ -174,9 +179,13 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

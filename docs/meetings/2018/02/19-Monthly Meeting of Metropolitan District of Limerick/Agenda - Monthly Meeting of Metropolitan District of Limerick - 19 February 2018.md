@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%2019th%20February%202018.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19 February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/00%20Agenda%2019th%20February%202018.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_— Comhairle Cathrach
+_—_—_— Comhairle Cathrach
 & Contae Luimnigh
-AcoN —_—_—_—_—_—_—_———
+aAmoN —_—_—_—_—_—_———
 =— Limerick City
 & County Council
 
@@ -81,18 +82,20 @@ To receive Presentation by Professor Colette Cowan, Chief Executive Officer, UL 
 
 Group on University Hospital Limerick.
 
-Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 @ customerservices@limerick.te
-@ vevewslimerick.te
+@ vevew limerick.te
 
 w @LimerickCouncit
 
 ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -112,8 +115,8 @@ Fixing of Date
 
 To agree dates for the following Meetings :
 
-e March Meeting of the Metropolitan District of Limerick.
-¢ Annual Meeting of the Metropolitan District of Limerick.
+@ March Meeting of the Metropolitan District of Limerick.
+e Annual Meeting of the Metropolitan District of Limerick.
 
 Services Operations Directorate
 Part 8 Procedure — Clare Str: nd Lelia Str Limerick
@@ -131,10 +134,9 @@ Question submitted by Cmhir. S. 6 Ceallaigh
 
 | will ask at the next Meeting what the value of the Mayoral Chain which was allegedly
 stolen is, and for an explanation as to why two very different values were printed in various
-
 media.
 
-Question submitted by Cmhir. S. O Ceallaigh
+Question submitted by Cmhlr. S. O Ceallaigh
 
 | will ask at the next Meeting for a binding commitment from Limerick City and County
 Council as to when works will begin and be completed on the Ferrybridge in Castleconnell,
@@ -142,7 +144,9 @@ due to the numerous false promises made to local representatives and the people 
 Castieconnell for over a year.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -201,7 +205,9 @@ almost full, Limerick City and County Council would immediately begin the proces
 acquiring a suitable site in the area for a new Burial Ground.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -211,4 +217,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

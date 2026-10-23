@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-february-2026.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 16th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE**
@@ -82,7 +83,9 @@ Seconded by Councillor Doyle.
 And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 **2.Declaration of Interest**
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
@@ -150,7 +153,9 @@ Members requested that updates be provided on:
 • Plans from University of Limerick on their city centre campus
 
 • Plans from the Office of Public Works (OPW) regarding Sarsfield House
----
+
+[[PAGE_END:2]]
+
 **5.March Meeting**
 
 On the proposal of Councillor Kiely, and seconded by Councillor Pond, it was agreed to hold
@@ -216,7 +221,9 @@ outstanding.
 • To date, 47 RAS NTQs with an expiry date in 2026 have been received. 35 of
 
 these remain outstanding.
----
+
+[[PAGE_END:3]]
+
 The RAS unit continue to identify properties from the Buy, Build, Lease pipeline and
 
 allocate properties for RAS tenants that have received NTQs as per Limerick City and
@@ -294,7 +301,9 @@ endorses the recommendation for Mayoral Review and Sign off.
 is witnessed by SEO or DOS.
 
 • Signed copies of contracts are saved digitally.
----
+
+[[PAGE_END:4]]
+
 LCCC Civic festivals have audiences ranging from 40,000 to 110,000 people & are
 
 primarily held in the public realm. Stakeholder engagement is central to planning and
@@ -366,7 +375,9 @@ Saint Lawrence. The design will allow for multiple Columbarium Walls with access
 the garden from the main road and via steps from within the Cemetery. The garden
 
 will be wheelchair accessible and will be fully landscaped.
----
+
+[[PAGE_END:5]]
+
 The project is being progressed inhouse with a timeline of May 2026 for lodging a
 
 Part 8 planning application. Delivery will be subject to funding.
@@ -430,7 +441,9 @@ housing tenures on Council owned land by the end of February 2026.
 ***distributor road linking the Golf Links Road from its Schoolhouse Road junction, with the***
 
 ***Groody Road at the southern leg of Kilbane Roundabout.***
----
+
+[[PAGE_END:6]]
+
 **REPLY:**Planning approval for the Castletroy Link Road Scheme was received from An
 
 Coimisiún Pleanála under Section 177AE of the Planning and Development Act 2000
@@ -500,7 +513,9 @@ Tenant-in-Situ scheme.
 ***I will ask at the next meeting of the Metropolitan District of Limerick can Discover Limerick***
 
 ***DAC explain their**future plans**for Castle Lane Tavern which closed in 2000.***
----
+
+[[PAGE_END:7]]
+
 **REPLY:**Along with a Museum function, the Castle Lane Tavern formed part of the Castle
 
 Lane building complex constructed in 1998. The Tavern was operated by the Castle’s
@@ -572,7 +587,9 @@ identify funding avenues from government.
 ***the development of student housing initiatives to address the student housing shortage in***
 
 ***conjunction with other partners such as 3rd level institutions including the establishment***
----
+
+[[PAGE_END:8]]
+
 ***of an Expression of Interest process to seek operators to consider developing student and***
 
 ***other housing tenures on Council owned land.***
@@ -640,7 +657,9 @@ have resources to attend to various locations during daytime operations.
 0 fines issued in 2025 for Ashbourne Avenue.
 
 0 fines issued in 2025 for Ashbourne Park.
----
+
+[[PAGE_END:9]]
+
 **NOTICES OF MOTIONS**
 
 **23.Notice of Motionsubmittedby Councillor J. Leddin**
@@ -716,7 +735,9 @@ the next phase of the project i.e. a feasibility study of the site.
 ***not have right of way, to install additional signage specifically at busy junctions requesting***
 
 ***cyclists to wait and dismount when crossing.***
----
+
+[[PAGE_END:10]]
+
 *As the Motion was not moved, the Motion was adjourned to the next Meeting.*
 
 **25.Notice of Motionsubmittedby Councillor J. Leddin**
@@ -782,7 +803,9 @@ agreed.
 Road (Formerly the N24). There is a Stop line and “STOP” text on the tertiary road
 
 and there is yellow hatched box spanning both lanes of the regional road to facilitate
----
+
+[[PAGE_END:11]]
+
 traffic movement from the tertiary road when the regional road is congested. The
 
 option of installing traffic lights at this location is not suitable due to the presence of
@@ -854,7 +877,9 @@ opportunities to further enhance the city suburbs.
 ***of Irish in both primary and secondary level Junior and Leaving Certificate cycles,***
 
 ***requesting a greater focus on oral communication.***
----
+
+[[PAGE_END:12]]
+
 The Notice of Motion was proposed by Councillor Gavan, seconded by Councillor Hickey
 
 O’Mara and agreed.
@@ -924,7 +949,9 @@ management plan which is reviewed with the Council regularly. This mobility plan
 requires developers to report on modal use by a development, including traffic
 
 figures using the development.
----
+
+[[PAGE_END:13]]
+
 There is already significant high frequency public transport infrastructure serving this
 
 area on both the Groody Park Road and the Dublin Road with more increased
@@ -998,7 +1025,9 @@ numbers and to seek to develop audiences. These could be asked to consider
 including promotional work to support access to their venues by 18 to 22 year olds,
 
 within their marketing and access strategies.
----
+
+[[PAGE_END:14]]
+
 **33.Notice of Motionsubmittedby Councillor E. O’Donovan**
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that Traffic***
@@ -1052,4 +1081,6 @@ This concluded the Meeting.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CATHAOIRLEACH**
----
+
+[[PAGE_END:15]]
+

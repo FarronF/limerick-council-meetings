@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%20May%202018%20Meeting.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%20May%202018%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
@@ -42,7 +43,7 @@ Leahy), Staff Officer, Corporate Services (Ms. C. Sheehy).
 1. Adoption of Minutes
 
 Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappamore-
-Kilmallock held on 29" March, 2018.
+Kilmallock held on 29™ March, 2018.
 
 Councillor Donegan requested that the Minutes be amended on Page 2 to include that
 the Notice of Motion submitted by Councillor Sheehy had been proposed by Councillor
@@ -65,13 +66,15 @@ approval.
 The Members noted the report, as circulated.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. General Municipal Allocation
 
 Circulated, Cappamore-Kilmallock General Municipal Allocation (GMA) 2018 Schedule
-prepared by the A/Senior Executive Engineer, Cappamore-Kilmallock, dated 19" April, 2018,
+prepared by the A/Senior Executive Engineer, Cappamore-Kilmallock, dated 19"" April, 2018,
 setting out proposed General Municipal Allocation for 2018 showing proposals for the
 expenditure of €290,000 of the District’s GMA allocation.
 
@@ -89,7 +92,7 @@ with Section 102(4) of the Local Government Act, 2001, as amended.”
 QUESTIONS
 4. Question submitted by Councillor G. Mitchell
 
-1 will ask at the next Meeting for an update on Cluain Foinse Estate in Hospital in relation
+! will ask at the next Meeting for an update on Cluain Foinse Estate in Hospital in relation
 to taking-in-charge by the Council.
 
 REPLY: There are outstanding works in this estate which need to be completed to
@@ -114,7 +117,9 @@ is awaiting the ESB to make the final connections. Airtricity has said it is
 confident the 5 lights will be operating before the end of April 2018.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 There is no funding available at present for the upgrade of estates to LED
@@ -154,7 +159,7 @@ Members expressed their concern that local knowledge could be lost and it was
 considered that a system was required in order to maintain same.
 7. Notice of Motion submitted by Co W. O’Donnell
 
-! will move at the next Meeting that Limerick City and County Council carry out a review of
+| will move at the next Meeting that Limerick City and County Council carry out a review of
 the Bruff Local Area Plan to include re-zoning of lands for residential development which
 are required for the town.
 
@@ -162,7 +167,9 @@ The Motion was proposed by Councillor O’Donnell and seconded by Councillor
 Mitchell.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: There is currently sufficient zoned lands for residential development in Bruff
@@ -177,7 +184,7 @@ her ised:
 At the conclusion of the Agenda and with the permission of the Cathaoirleach, the
 following items were raised:
 
-e Vote of Congratulations
+¢ Vote of Congratulations
 
 Congratulations were extended to Hospital/Herbertstown GAA on winning the County U21B
 Hurling Championship.
@@ -213,7 +220,9 @@ Scheme, which was to be arranged to inform the public about the Scheme. The Meet
 Administrator stated he would follow up on this with the Head of Digital Strategy.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 . id Ca m
@@ -230,9 +239,13 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:6]]
+

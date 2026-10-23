@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20May%202016.pdf)
+**Original file:** [Draft Minutes - Municipal District of Newcastle West - 4th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%204th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -34,7 +35,7 @@ OFFICIALS IN ATTENDANCE: =
 
 Director of Services (Mr. G. Daly), Operations Manager West and South Division (Mr. B. Kennedy),
 Administrative Officer, Corporate Services (Mr. T. O'Callaghan), Senior Executive Engineer, West Division
-(Mr. R. Noonan), Executive Engineer, Roads (Mr. P. Vallety), Senior Staff Officer, Newcastle West (Ms. M.
+(Mr. R. Noonan), Executive Engineer, Roads (Mr. P. Vallely), Senior Staff Officer, Newcastle West (Ms. M.
 Corbett), Clerical Officer, Corporate Services (Ms. D. O'Kelly).
 
 1. Adoption of Minutes
@@ -71,7 +72,9 @@ relation to Desmond Hall had now been approved and would be put in place in the
 coming weeks. He also stated that, as a result of matters raised in the Tidy Towns
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -120,7 +123,7 @@ between the pedestrian entrance to Wingfield Orchard and the Woodfield Junction 
 
 REPLY: Repair works will be carried out on this section of roadway within the next 2 weeks.
 
-5. uestion su nlan
+5. uestion su nian
 
 1 will ask at the next Meeting when the old garden fencing fronting the Social Housing at Oak
 Crescent will be renewed.
@@ -129,7 +132,9 @@ REPLY: An inspection on the existing fencing at this location will be carried ou
 week in order to assess this matter.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -191,7 +196,9 @@ every second week and this is rotated between the towns of Newcastle West and
 Abbeyfeale. Given the limited availability of the sweeper, the Council can only commit to
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -207,7 +214,7 @@ Notice of Motion submitted by Councillor J. Scanian
 signage at the junction with the L 1315 at Boherbui, Newcastle West.
 
 REPLY: Signage for Monagea at this junction has been ordered and will be erected as soon as
-possible. =
+possible. —
 
 11. Notice of Motion sub: incillor J. Scant.
 1 will move at the next Meeting that Limerick City and County Council put an immediate
@@ -222,7 +229,7 @@ REPLY: The Glebe Estate in Monagea has not been taken in charge by Limerick City
 Council. We have looked at the estate and there are significant elements of landscaping
 works to be carried out as well as grass cutting. These should be completed and the
 estate taken in charge before the Parks and Landscaping team become responsible for
-grass cutting.
+Brass cutting.
 
 12. Notice of Motion submitted by Councillor L. Galvin
 1 will move at the next Meeting that Limerick City and County Council take over the running
@@ -240,7 +247,9 @@ matter can be discussed further at that time.
 Members noted that there were grottos elsewhere with similar requirements.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -265,12 +274,12 @@ REPLY: The Council's Roads Department is currently preparing a submission to the
 
 15.
 
-PLy:
+PLY:
 
 funding and the above mentioned roadway forms part of this submission.
-N f M i ncillor S. Brown:
+N f Mi i ncillor S. Brown
 
-! will move at the next Meeting that hedges at St. Joseph's housing estate, Dromcollogher be
+! will move at the next Meeting that hedges at St. Joseph’s housing estate, Dromcollogher be
 trimmed back.
 
 Councillor Browne in proposing the Motion stated that this was a Council estate and that, due to
@@ -311,7 +320,9 @@ the necessary funds being available. A submission in this regard will be made to
 Development Fund shortly.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16.
@@ -370,4 +381,6 @@ Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:6]]
+

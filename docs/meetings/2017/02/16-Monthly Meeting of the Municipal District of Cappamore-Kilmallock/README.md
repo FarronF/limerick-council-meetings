@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Municipal District of Cappamore-Kilmallock - 16th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_16th_february2c_2017.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202017.md)
+Agenda - Municipal District of Cappamore-Kilmallock - 16th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_16th_february2c_2017.pdf) - Text not extracted
 
-Minutes -  Municipal District of Cappamore-Kilmallock - 19th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_meeting_19th_january_2017.pdf) - [Extracted text](./Minutes%20-%20%C2%A0Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20January%202017.md)
+Minutes -  Municipal District of Cappamore-Kilmallock - 19th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_meeting_19th_january_2017.pdf) - Text not extracted
 
 Presentation - County Limerick Youth Theatre - Municipal District of Cappamore-Kilmallock - 16th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/presentation_-county_limerick_youth_theatre.pdf) - Text not extracted
 

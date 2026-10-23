@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-limerick-city-and-county-council-13th-november-2025.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 13th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-limerick-city-and-county-council-13th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
 COUNTY COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, AND ONLINE,
@@ -86,7 +87,9 @@ Land Use:
 input from Department of Agriculture.
 
 • Potential to locate windfarms on lands not suitable for farming/housing e.g. bogland.
----
+
+[[PAGE_END:1]]
+
 **2**
 
 • Concerns in relation to the impact of the ‘Preferred’ areas for windfarm development
@@ -172,7 +175,9 @@ Accident and Emergencies:
 • Fire and Emergency Services training required in the event of an incident(s) on the
 
 site pre and post construction.
----
+
+[[PAGE_END:2]]
+
 **3**
 
 Community Engagement:
@@ -206,4 +211,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

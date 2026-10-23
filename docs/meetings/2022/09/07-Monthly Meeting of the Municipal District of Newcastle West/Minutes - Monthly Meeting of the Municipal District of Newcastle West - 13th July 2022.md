@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%28a%29%202022-07-13%20Minutes%20July.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 13th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%28a%29%202022-07-13%20Minutes%20July.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ Seconded by: Councillor Ruddle
 And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(b)**
@@ -170,7 +173,9 @@ on a number of the units mentioned on the circulated report.
 The Members also sought an update on the unfinished housing estate at Cois na Féile,
 
 Abbeyfeale. In replying, the Administrative Officer, Housing Strategy outlined that they are
----
+
+[[PAGE_END:2]]
+
 3
 
 due to meet the AHB next week to agree a schedule and that a new planning application is
@@ -250,7 +255,9 @@ On the proposal of Councillor Sheehan, seconded by Councillor Foley, it was agre
 On the proposal of Councillor Collins, seconded by Councillor Foley, it was agreed to allocate
 
 €500 to Old Mill Development Association for a defibrillator.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agreed to
@@ -328,7 +335,9 @@ Question submitted by Councillor T. Ruddle
 ***to Broadford village from Ashford side and the Dromcollogher side. Traffic approaches the***
 
 ***village very quickly and this would help slow the traffic down.***
----
+
+[[PAGE_END:4]]
+
 5
 
 REPLY:
@@ -400,7 +409,9 @@ REPLY:
 The NTA have just allocated €170,000 for the repair and upgrade of footpaths
 
 in Mountcollins and works will commence in the coming months.
----
+
+[[PAGE_END:5]]
+
 6
 
 NOTICES OF MOTION
@@ -464,7 +475,9 @@ fund the scheme.
 ***exiting the Woodfield Estates to the R522.***
 
 The Motion was seconded by Councillor Ruddle.
----
+
+[[PAGE_END:6]]
+
 7
 
 REPLY:
@@ -538,7 +551,9 @@ District. Councillor Ruddle asked if a Dog Park would be more beneficial to the 
 town. A request was also made that consultation take place with the Working Group which
 
 has been established locally.
----
+
+[[PAGE_END:7]]
+
 8
 
 In replying, the Director acknowledged the need for an Arts Centre in Newcastle West and
@@ -614,7 +629,9 @@ forward.
 A request was made that the speed sensor on the Monegea road be moved closer to the
 
 speed limit sign.
----
+
+[[PAGE_END:8]]
+
 9
 
 An update was sought on the application made to Transport Infrastructure Ireland for traffic
@@ -664,4 +681,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

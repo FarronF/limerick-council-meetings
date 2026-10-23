@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-23rd-march-2021-1.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 23rd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-23rd-march-2021-1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach _ Ceantar Bardasach Ath Dara-Rath Caola,
@@ -34,28 +35,27 @@ Adare-Rathkeale Municipal District,
 Limerick City and County Council,
 Aras Sean Finn,
 
-New Line,
+New Line.
 
 Rathkeale,
 
 Co. Limetick
 
-EIRCODE V934 HIV
+EIRCODE V34 HxIV
 
-th +353 (0) 69 64047
-19" March, 2021. : pds
+19" March, 2021.
+
 To:
 
 A Chomhairleoir, a chara,
 
 You are requested to attend an online Special Meeting of the Municipal District of Adare-
-
 Rathkeale to be held on Tuesday 23™ March, 2021 at 4.00 p.m, as agreed at the Municipal District
 Meeting of the 9" March, 2021. The Business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Karen >
+Karen 4
 Meetings Administrator.
 
 AGENDA
@@ -64,9 +64,11 @@ AGENDA
 
 To discuss the proposed social housing development in Pallaskenry.
 
-= customerservices@limerick.te
-Ceanncheathri: Chorpardideach, Cé na gCeannaithe,Luimneach l © wvew.timerick.te
-Corporate Headquarters, Merchants Quay, Limerick. Se eelraareae
+= customerservices@limerick.ie
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe,Luimneach 1] © wvew.timerick.te
+Corporate Headquarters, Merchants Quay, Limerick. are
 
 
----
+
+[[PAGE_END:1]]
+

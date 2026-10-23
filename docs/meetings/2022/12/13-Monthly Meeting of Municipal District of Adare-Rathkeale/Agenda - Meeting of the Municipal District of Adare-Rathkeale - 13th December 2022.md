@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2022</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-12/00%20Agenda%2013th%20December%2C%202022_0.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 13th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/00%20Agenda%2013th%20December%2C%202022_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -32,22 +33,20 @@ ee Comhairle Cathrach
 To: |
 
 Ceantar Bardasach Ath Dara-Rath Cacia
-Cornhatrie Cathvach agus Contae Luinwagh,
-Aras Séan Finn.
+Comhatie Cathvach agus Contae Luimnigh
+Aras Séan Finn,
 
-Une Nua.
+Une Nua,
 
 Rath Caola
 
-Co. Luimnigh
+Co. Luimmnigh
 
 Adare-Rathkeale Mumicipal District,
 Lirnerick City and County Council,
 Aras Sean Finn,
 
-New Line,
-
-Rathkeale,
+Rathkeale
 
 Co. Limerick
 
@@ -61,7 +60,7 @@ District of Adare-Rathkeale
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
-Aras Se4n Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 13" December, 2022 at 9.30
+Aras Se4n Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 13 December, 2022 at 9.30
 a.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
@@ -80,18 +79,20 @@ on 8" November, 2022.
 
 (Copy Enclosed).
 
-To receive an update from larnrdéd Eireann on current upgrade works on the Foynes Railway
+To receive an update from larnréd Eireann on current upgrade works on the Foynes Railway
 
 line.
 
-Ceanncheathna Chorpardideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathni Chorpardideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 LimerickCouncil
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4.
@@ -120,4 +121,6 @@ To review position in relation to allocations under the General Municipal Alloca
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

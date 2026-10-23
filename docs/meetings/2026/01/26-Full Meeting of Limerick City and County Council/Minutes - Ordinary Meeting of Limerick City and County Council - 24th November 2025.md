@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-ordinary-meeting-of-limerick-city-and-county-council-24th-november-2025.pdf)
+**Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 24th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-ordinary-meeting-of-limerick-city-and-county-council-24th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 MMINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
 COUNCIL HELD IN THE COUNCIL CHAMBER, DOORADOYLE, LIMERICK, AND
@@ -82,7 +83,9 @@ Chomhairleoir welcomed Sean and wished him well in his new role.
 The Príomh Chomhairleoir informed the Meeting that she had agreed to take Notice of
 
 Motion No. 20 at the start of the Meeting.
----
+
+[[PAGE_END:1]]
+
 2
 
 20.
@@ -148,7 +151,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Meeting of any declaration of interest in any item due for discussion at the Meeting. No such
 
 interests were declared.
----
+
+[[PAGE_END:2]]
+
 3
 
 3.
@@ -222,7 +227,9 @@ Proposed by Councillor Leddin;
 Seconded by Councillor Pond;
 
 And Resolved:
----
+
+[[PAGE_END:3]]
+
 4
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act, 2001
@@ -300,7 +307,9 @@ of Land at Childers Road, Limerick to CIE.
 On the proposal of Councillor Kiely and seconded by Councillor Slattery it was agreed to defer
 
 this Disposal to allow for further engagement with Irish Rail.
----
+
+[[PAGE_END:4]]
+
 5
 
 (g) Circulated, copy of Statutory Notice dated 24th October, 2025, concerning the disposal of
@@ -380,7 +389,9 @@ to rescind the previous S183 Notice dated 27th March, 2024, in relation to the d
 at Main Street, Adare, Co. Limerick – Agreement to grant a 6 meter wide wayleave over
 
 adjacent lands - the disposal to be subject to the covenants and conditions contained within
----
+
+[[PAGE_END:5]]
+
 6
 
 the Deed – the purchaser to discharge Limerick City and County Councils’ legal costs up to
@@ -452,7 +463,9 @@ cost of refurbishing the property and it was agreed to revert to Members in this
 On the proposal of Councillor Collins (M) and seconded by Councillor Ruddle it was agreed to
 
 reject the Disposal of Property at 13 The Hawthorns, Ballyagran, Co. Limerick.
----
+
+[[PAGE_END:6]]
+
 7
 
 (m)  Circulated, copy of Statutory Notice dated 7th November, 2025, concerning the disposal
@@ -526,7 +539,9 @@ Members queried if any communication had been received from the Minister in rela
 the Designated Activity Companies (DACs). It was confirmed that no communication had
 
 been received to date.
----
+
+[[PAGE_END:7]]
+
 8
 
 In discussion, Members raised concerns in relation to the zoning of land, and it was agreed
@@ -602,7 +617,9 @@ sur Yerres from 12th to 15th September, 2025. It is recommended that the Council
 proportion of the costs incurred in the transportation of the delegation while here, entry fees
 
 to tourist attractions and hosting costs. Therefore, the Council’s approval was now being
----
+
+[[PAGE_END:8]]
+
 9
 
 sought for the provision of financial assistance in the amount of €1,200 towards the cost of
@@ -672,7 +689,9 @@ Environment Strategic Policy Committee dated 14th October, 2025, in relation to
 Meeting of the Committee held on 8th October, 2025.
 
 The Chairperson’s report was noted by the Council.
----
+
+[[PAGE_END:9]]
+
 10
 
 **Recommendation 1**
@@ -744,7 +763,9 @@ Tourism and Planning Strategic Policy Committee dated 10th November 2025 in
 relation to Meeting of the Committee held on 13th October, 2025.
 
 The Chairperson’s report was noted by the Council.
----
+
+[[PAGE_END:10]]
+
 11
 
 (iv)
@@ -816,7 +837,9 @@ Collins (M), it was agreed to write to An Coimisiún Pleanála to request approv
 Elected Member to be nominated to the Irish Cement Castlemungret – Community Liaison
 
 Committee.
----
+
+[[PAGE_END:11]]
+
 12
 
 (b)
@@ -874,7 +897,9 @@ Circulated, reports by Members who had participated at Conference / Seminar / Me
 Event.
 
 The reports were noted by the Council.
----
+
+[[PAGE_END:12]]
+
 13
 
 MAYOR’S QUESTIONS
@@ -952,7 +977,9 @@ committed to the detailed design, greening, and public works for laneways and st
 within Newtown Pery. The delivery of these did not proceed as I had hoped over 2025,
 
 but they remain priorities for 2026 now. Large urban trees and planters will be
----
+
+[[PAGE_END:13]]
+
 14
 
 installed early next year to create a more inviting environment for visitors and
@@ -1026,7 +1053,9 @@ public realm improvements. This review will commence in Q2 2026 and will address
 parking locations, loading bays, and inclusive access.
 
 **Culture, Entertainment & Safety (MP88, ML32, ML35 & ML50)**
----
+
+[[PAGE_END:14]]
+
 15
 
 Additional Mayoral funding has been allocated to expand the successful Twilight
@@ -1100,7 +1129,9 @@ A query arose regarding the Standing Orders and time given to questions and it w
 that a copy of the Standing Orders for Plenary Meetings would be circulated to each Elected
 
 Member in advance of the January Meeting.
----
+
+[[PAGE_END:15]]
+
 16
 
 8.
@@ -1166,7 +1197,9 @@ Question submitted by Councillor L. Galvin
 ***specific to extreme weather conditions; (c) have we engaged with Uisce Éireann, the IFA,***
 
 ***ESB; and (d) has the ESB been encouraged to cut back all trees from overhead power lines.***
----
+
+[[PAGE_END:16]]
+
 17
 
 **REPLY**:
@@ -1252,7 +1285,9 @@ Note the biggest issue for the ESB is powerlines within wooded areas as these li
 in place since the 1950’s when the trees were smaller but now, they are mature and causing
 
 potential faults.
----
+
+[[PAGE_END:17]]
+
 18
 
 10.
@@ -1334,7 +1369,9 @@ D. The Local Authority’s total outlay was by way of subvention paid to APL DAC
 E. The newly renovated Askeaton Pool & Leisure Centre reopens following extensive
 
 works to improve flood resilience, upgrade facilities, and enhance energy
----
+
+[[PAGE_END:18]]
+
 19
 
 efficiency, delivering a modern, sustainable amenity for the local community. Total
@@ -1418,7 +1455,9 @@ original documents are also posted to the group.
 availed of the insurance cover.
 
 Current insurance cover is up to the end of December 2025 (31st of December 2025).
----
+
+[[PAGE_END:19]]
+
 20
 
 IPB Insurances confirmed that the scheme will also be administered via the local
@@ -1492,7 +1531,9 @@ emergency
 It was proposed by Councillor Keary and seconded by Councillor O’Donoghue that new Bye-
 
 laws be drafted for the city and county, making property owners responsible for clearing snow
----
+
+[[PAGE_END:20]]
+
 21
 
 from footpaths adjacent to their premises. It was agreed to refer this proposal to the Travel
@@ -1566,7 +1607,9 @@ to the Travel and Transportation Strategic Policy Committee)
 ***glyphosate or other toxic herbicides.***
 
 *(iii)Use any viable alternative to glyphosate or other toxic herbicides in their work.***
----
+
+[[PAGE_END:21]]
+
 22
 
 *(iv)Agree to end the use of glyphosate and other toxic herbicides in our communities by a***
@@ -1638,7 +1681,9 @@ Notice of Motion submitted by Councillor J. Sheahan
 ***rescue of six Fenian prisoners from a British penal colony in Fremantle, Western Australia***
 
 ***and asking the Irish government to recommend that the six Fenian prisoners concerned,***
----
+
+[[PAGE_END:22]]
+
 23
 
 ***namely James Wilson, Thomas Hasset, Michael Harrington, Thomas Darragh, Martin Hogan***
@@ -1680,4 +1725,6 @@ amended, is available on SharePoint for inspection by the Members.
 **Date:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:23]]
+

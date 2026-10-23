@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-22nd-feb-2021.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 22nd Feb 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-22nd-feb-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF JOINT MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE (SPC) AND THE CLIMATE ACTION, BIODIVERSITY**
@@ -98,7 +99,9 @@ to the executive considerations as outlined below:
  No Finance model identified
 
  Not time specific
----
+
+[[PAGE_END:1]]
+
  Not aligned with National Development Plan
 
  Not aligned with National Planning Framework
@@ -174,7 +177,9 @@ sewerage treatment plants for the County and City of Limerick and also the provi
 adequate water supply.
 
 It was also agreed that this Notice of Motion be circulated to all TD’s in Limerick
----
+
+[[PAGE_END:2]]
+
 Ms. Reidy informed members that a submission was being prepared in response to review of the
 
 National Development Plan and one of the major issues raised was the lack of investment in Irish
@@ -242,4 +247,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

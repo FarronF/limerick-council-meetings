@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-a-2020-09-02-minutes-september.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-a-2020-09-02-minutes-september.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE
@@ -45,7 +46,7 @@ of Mr. Jim Galvin, RIP. The date for the Adjourned Meeting was re-fixed for Wedn
 September, 2020.
 
 The Cathaoirleach thanked Members for attending the September Meeting of the District
-Stating it was being held to pass a Vote of Sympathy for Mr. Jim Galvin who passed away
+stating it was being held to pass a Vote of Sympathy for Mr. Jim Galvin who passed away
 suddenly, father of Councillor Liam Galvin. The Members expressed deep sympathy to
 Councillor Galvin, his mother Betty, his brother and sisters for their great loss. Mr. Jim Galvin
 was recalled as having a great interest in politics and was an outstanding farmer who was very
@@ -66,4 +67,6 @@ Dated:
 
 
 
----
+
+[[PAGE_END:1]]
+

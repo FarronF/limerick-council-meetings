@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-meeting-of-the-metropolitan-district-of-limerick-11th-december-2023.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 11th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-meeting-of-the-metropolitan-district-of-limerick-11th-december-2023.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -97,7 +98,9 @@ November, 2023.
 (Image omitted)
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **3.Disposal of Land**
@@ -167,7 +170,9 @@ I will ask at the next Meeting of the Metropolitan District of Limerick if St Br
 Singland is included in the Safe Routes to School scheme and if not, can St Bridget’s School be
 
 included in same.
----
+
+[[PAGE_END:2]]
+
 3
 
 **8.Question** **submitted by Councillor E. O’Donovan**
@@ -233,7 +238,9 @@ Time Economy Advisor position within Limerick City and County Council as adverti
 scheme to support the night-time economy, and an update on the Night Time Economy focused
 
 work to date.
----
+
+[[PAGE_END:3]]
+
 4
 
 **15.Question submitted by Councillor S. Kiely**
@@ -299,7 +306,9 @@ Bus Eireann and driving schools that operate bus, articulated truck and HGV driv
 city that they do not operate or drive through roads that have weight restrictions and use main
 
 roads and bus corridors.
----
+
+[[PAGE_END:4]]
+
 5
 
 **22.Notice of Motion submitted by Councillor F. Kilcoyne**
@@ -353,4 +362,6 @@ in the City Centre area.
 **27.Correspondence**
 
 (Copy of Correspondence Enclosed).
----
+
+[[PAGE_END:5]]
+

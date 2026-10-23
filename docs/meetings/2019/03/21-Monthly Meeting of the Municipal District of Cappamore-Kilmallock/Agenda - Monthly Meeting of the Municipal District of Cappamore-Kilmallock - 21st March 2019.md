@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Agenda%20MD%20Meeting%2021st%20March%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Agenda%20MD%20Meeting%2021st%20March%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_— Comhairle Cathrach
-= —_ ° Contas —
-— ime
+
+= —_ ° Contes —
 Limerick City & County Council,
 Aras Mainchin Seoighe District Office,
 Kilmallock, Co. Limerick.
@@ -44,10 +45,10 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-lbs lads
+lsc lads
 
 Mark Leahy,
-Meetings Adniinistrator.
+Meetings Administrator.
 
 AGENDA
 
@@ -59,7 +60,9 @@ the 28th February, 2019.
 (Copy enclosed)
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Proposed Trailhead Visitors Centre and Facilities at Ballyhoura
@@ -71,8 +74,8 @@ proposed Trailhead Visitors Centre and facilities at Ballyhoura.
 
 Disposal of
 (i) To note proposal for the disposal of portion of land at Ardnamoher, Galbally, Co.
-Limerick.
 
+Limerick.
 (Report enclosed)
 
 (ii) To note proposal for the disposal of property at 2 Galtee View, Galbally, Co. Limerick.
@@ -84,14 +87,11 @@ Limerick.
 (Report enclosed)
 
 Draft Schedule of Municipal District Works (SMDW) 2019
-
 To consider Schedule of Municipal District Works for 2019.
 
 (Report enclosed)
 
-e
-
-Housing Development Directorate
+4. Housing Development Directorate
 
 To note progress report from the Housing Development Directorate.
 
@@ -105,7 +105,9 @@ QUESTIONS
 in relation to Hospital Sewerage Treatment Plant, Hospital, Co.Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6. Question submitted by Councillor Ger Mitchell
@@ -122,9 +124,13 @@ of Scoil P6!l Secondary School, the National School, and the GAA Grounds in Kilf
 with a view to possibly installing speed ramps.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

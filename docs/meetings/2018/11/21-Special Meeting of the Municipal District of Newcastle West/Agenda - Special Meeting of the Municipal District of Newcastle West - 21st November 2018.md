@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%202018-11-21%20Agenda.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 21st November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/00%202018-11-21%20Agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Diuiiche Bardais an Chaisleain Nua Thiar,
+= Comhairle Cathrach agus Contae Luimnigh,
+Am Aras William Smith O'Brien,
 
-a Comhairle Cathrach agus Contae Luimnigh,
-ARM Aras William Smith O'Brien,
-—=>=> Gortbui,
+—=>>=> Gortbui,
 
-* . An Caislean Nua Thiar,
+. . An Caislean Nua Thiar,
 Limerick Co, Luimnigh
 CITY & COUNTY Newcastle West Municipal District,
 COUNCIL Limerick City and County Council,
@@ -40,9 +41,9 @@ Newcastle West,
 Co. Limerick
 
 t: +353 (0) 69 62100
-—4-+353(0}69-62861
+—4:-+353(0}69-62861
 
-16" November, 2018
+16"* November, 2018
 
 To: The Cathaoirleach and Ea f the Municipal District of Newcastle We:
 
@@ -53,13 +54,13 @@ be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday,
 November, 2018, at 10 a.m. The business to be transacted is set out on the appended
 Agenda.
 
-Is mise le meas, .10tk—
+Is mise le meas, 6.10
 jargaret Corbett,
 Meetings Administrator.
 
 AGENDA
 
-Z Housing Development Directorate
+a“ Housing Development Directorate
 
 (a) To receive update on housing developments for towns and villages within the
 Municipal District of Newcastle West.
@@ -72,4 +73,6 @@ Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach &) wwwlimerickte
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+

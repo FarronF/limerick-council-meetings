@@ -16,21 +16,22 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20May%202016.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 11th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_—_——" Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
+_——" Seirbhisi Corparéideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-ANF . Cé na gCeannaithe,
+AN 4 ‘ Cé na gCeannaithe,
 —=—=> Luimneach
 Limerick Corporate Services and Change Management,
 Limerick City and County Council,
 
 CITY & COUNTY Merchants Quay,
-COUNCIL pao
+COUNCIL pars
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -49,24 +50,26 @@ Is mise le meas,
 
 Meetings Administrator.
 
-ee et een eee en nnn enn enn nn nn nn en nnn nnn nn nn nnn nn nnn en nn ne nn nn nnn en ne ene en eee essen messes snsseees nes:
+en et een eee enn nn nnn enn nnn nn en nnn nn nnn nn nnn nn nnn ee nen nnn nnn nee ne ene n ee nen ns seesmesens sess ers nes)
 
 AGENDA
 1. Minutes
 To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 11" April,
 2016.
 (Copy Enclosed)
-2. Deputation from St. Joseph’s Boys National School and St. Anne’s Primary School
+2. Deputation from St. Joseph’s Boys National School and St. Anne's Primary School
 
 To receive Deputation from St. Joseph’s Boys National School and St. Anne’s Primary School,
 Rathkeale, Co. Limerick. (Item to be taken at 10.30 a.m.).
 
 ] @ customerservices@limerick.ie
-Ceanncheathrai Chorpardideach, Cé na gCeannaithe, Luimneach @ www limericikie
+Ceanncheathrai Chorparaideach, Cé na gCeannaithe, Luimneach © vewwlimerickie
 Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Corporate Services
@@ -105,7 +108,9 @@ To note update on the provision of a new sewerage treatment plant in Askeaton.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -152,4 +157,6 @@ mean the best work.
 Corresponden
 
 
----
+
+[[PAGE_END:3]]
+

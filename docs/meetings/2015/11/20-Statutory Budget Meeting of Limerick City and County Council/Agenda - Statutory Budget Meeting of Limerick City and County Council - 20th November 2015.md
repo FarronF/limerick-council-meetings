@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Statutory%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20November%202015.pdf)
+**Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council - 20th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Statutory%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20November%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _ Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
@@ -29,7 +30,6 @@ NIN . Cé na gCeannaithe,
 ; = Luimneach
 Limerick Corporate Services and Change Management.
 CITY & COUNTY Limerick City and County Council,
-COUNCIL Merchants Quay.
 Limerick
 
 t: +353 (0) 61 407 100
@@ -53,12 +53,12 @@ Is mise le meas,
 Christy O’Connor,
 Meetings Administrator.
 
-ween nnn nnn e eee e ener eene ean nnn eee wenn ee eee enn n en nn enn nnn een n enna ener neerrnrsesnnee
+ween nnn ence eee e ener eene wean enna eee wenn e teen en nnn nn nn enn nnn een n nnn ener rrerrnrsesnnee
 
 AGENDA
 
 1. To consider the Chief Executive's Draft Budget of Limerick City and County
-Council for year ending 31% December, 2016, the Draft Budget having been
+Council for year ending 31** December, 2016, the Draft Budget having been
 served in accordance with Section 103 of the Local Government Act, 2001, as
 amended by the Local Government Reform Act, 2014.
 
@@ -75,7 +75,9 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 Corporate Headquarters, Merchants Quay, Limerick
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4. To consider the Capital Programme 2016-2018 in accordance with Section
@@ -107,4 +109,6 @@ Scheme 2016, copy of revised Limerick City & County Council Business & Retail
 Incentive Scheme)
 
 
----
+
+[[PAGE_END:2]]
+

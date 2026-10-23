@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda-monthly-meeting-of-the-municipal-district-of-adare-rathkeale-12th-november-2024_0.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare - Rathkeale - 12th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/agenda-monthly-meeting-of-the-municipal-district-of-adare-rathkeale-12th-november-2024_0.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach
+_—_—_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 — Limerick City
@@ -69,7 +70,7 @@ Is mise le meas,
 Karen Bu
 Meetings Administrator.
 
-eee wee eecncncecnccacenescensceecseneererenseesesssanaaseeeenensaseeeeneeeee ett e Teen ee eeeee See SOOO COE OSL OLG OSLO LLL ELD LOLOL OS
+eee ween ecncncecnccacenaceeeeceecseneeeereeseeseess nasa seeeeneeeeeeSeeneeeee ete e eee eee ee ee SNO Se OSO COED LOLOL LL OL LD ELL D LOLOL OOS,
 
 AGENDA
 
@@ -97,14 +98,16 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 (Report Enclosed).
 
-= cates amen omc
-www limerick.ie
+= aticanasiy momen omer
+www limerickie
 
 @LimerickCouncil
 \ 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -141,7 +144,7 @@ District Engineers Report
 To update Members on issues of interest in the District.
 (Report Enclosed).
 
-Request to receive De on from Askeaton Civic Trust, Tourist Office and l
+Request to receive De on from Askeaton Civic Trust, Tourist Office and |
 Centre
 
 To consider receiving a Deputation from Askeaton Civic Trust, Tourist Office and Genealogy
@@ -157,4 +160,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

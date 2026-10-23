@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5minutes_of_meeting_of_limerick_county_council_-_wednesday_14th_may_2014.pdf)
+**Original file:** [Minutes of Meeting of Limerick County Council - Wednesday 14th May 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5minutes_of_meeting_of_limerick_county_council_-_wednesday_14th_may_2014.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
@@ -66,14 +67,16 @@ statutory obligations and any relevant plans and policies of the Government or a
 of the Government.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Ne
 
 The Senior Executive Planner outlined the procedure to be adhered to following
 
-receipt of the Managers Report, including the making of amendments which would
+receipt of the Manager's Report, including the making of amendments which would
 constitute material alterations to the proposed Plan.
 
 1.
@@ -121,10 +124,12 @@ public/private partnership delivery of important infrastructure at the chosen Do
 which would be highly unlikely if the land was zoned ‘Agriculture.’
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-2. 1! recommend an increase in the area of open space as indicated on the map submitted (additional
+2. | recommend an increase in the area of open space as indicated on the map submitted (additional
 open space area of 0.58 hectares). This change is in line with the proper planning and sustainable
 development of the area in that it will provide additional open space for the residents in the area
 and is in line with objectives C1- C3 in the proposed Local Area Plan. it is considered that this
@@ -141,10 +146,13 @@ Manager's Report to the Members on any submissions received on the proposed
 amendments.
 
 Molta ag Councillor Scanlan;
-Cuidit 6n Councillor Collins (M);
+
+Cuidid 6n Councillor Collins (M);
+
 Agus an Cinneadh:
 
 “That, the proposed material alterations to the proposed Newcastle West
+
 Local Area Plan 2014-2020, as recommended in the Manager's Report dated 14" April,
 2014, be put on public display for the statutory period under section 20(3)(e-h) of the
 Planning and Development Acts 2000-2013, together with the following amendments
@@ -160,14 +168,18 @@ This concluded the Meeting.
 Sinithe:
 An Cathaoirleach
 
-An Ranai Contae
+An Ruanai Contae
 
 Data:
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:4]]
+

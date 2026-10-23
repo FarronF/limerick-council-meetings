@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-meeting-of-metropolitan-district-19th-october-2020.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-meeting-of-metropolitan-district-19th-october-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ee Comhairle Cathrach
+ae Comhairle Cathrach
 & Contae Luimnigh
 eer —— Limerick City
-= merick City
+= imerick City
 & County Council
 
 14" October, 2020.
@@ -36,7 +37,7 @@ Ceanncheathru Chorparaideach,
 
 Cé na gCeannaithe,
 
-Lutmneach
+Luamneach
 
 Corporate Services,
 
@@ -44,11 +45,11 @@ Limerick City and County Council,
 Corporate Headquarters,
 Merchants Quay,
 
-Limenck
+Limerick
 
 EIRCODE V94 EH90
 
-t: +353 (6) 61 557150
+t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
 A Chomhairleoir, a chara,
@@ -57,12 +58,12 @@ You are requested to attend a Meeting of the Metropolitan District of Limerick t
 
 Is mise le meas,
 
-:
+,
 sah Sunt
 
 ng Administrator.
 
-on Monday, 19" October, 2020 at 9.45 am.
+on Monday, 19"" October, 2020 at 9.45 am.
 
 The business to be transacted is set out on the appended Agenda.
 
@@ -78,13 +79,15 @@ Corporate Headquarters, Merchants Quay, Limerick
 (Copy Enclosed).
 
 m customerservices@limerick.ie
-@ wrewimerick.te
+© wrewimerick.te
 @Limeric
 
 (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Disposal of Land
@@ -133,7 +136,9 @@ in accordance with Section 131A and Schedule 14A of the Local Government Act 200
 (Report Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -174,7 +179,9 @@ I will ask at the next meeting if “Residents Only” signs and permits can be 
 on roads surrounding University Hospital Limerick.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 12. Question submitted by Councillor E. O’Donovan
@@ -209,14 +216,16 @@ explore the use of body cams for traffic wardens in the city area for any staff 
 them as a security measure.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 18. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next meeting of Limerick Metropolitan District that we write to the Minister for
 Agriculture to impress upon him the urgent need to implement an updated Control of Horses Act to
-give -more effective powers to the Department of Agriculture, Local Authorities and the Gardai to
+give-more effective powers to the Department of Agriculture, Local Authorities and the Gardai to
 deal with the urban horse control problem and strengthen the powers in relation to animal cruelty.
 
 19. Notice of Motion submitted by Councillor J. Costelloe
@@ -230,4 +239,6 @@ fought at the siege of Jadotville.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:5]]
+

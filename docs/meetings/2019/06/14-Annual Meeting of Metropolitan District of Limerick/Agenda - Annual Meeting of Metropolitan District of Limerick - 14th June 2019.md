@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2014th%20June%202019.pdf)
+**Original file:** [Agenda - Annual Meeting of Metropolitan District of Limerick - 14th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Annual%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2014th%20June%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_ Comhairle Cathrach Comnhattie Gatvach onus Contes uumrrtn
-: Yo & Contae Luimnigh Ceanncheathni Chorparaideach,
+__——_—_ Comhairle Cathrach Comnhatie Geach emus Cortana
+, 5 & Contae Luimnigh Ceanncheathni Chorparaideach,
 NEN . . . Cé na gCeannaithe,
-— Limerick City Ludmneach
+——~ Limerick City Ludmneach
 
 & County Council
 Corporate Services,
@@ -37,9 +38,9 @@ EIRCODE Y™4 EHSO
 
 h
 10" June, 2019. t: 4353 (0) 61 557150
-f: +353 (0) 61 415 266
+f: +353 (0) 61 415 265
 
-To: _ The Mayor and each Member of the Metropolitan District of Limerick
+To: The Mayor and each Member of the Metropolitan District of Limerick
 
 A Chomhairleoir, a chara,
 
@@ -59,8 +60,10 @@ next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Metropolitan District of Limerick to hold office until
 the next Annual Meeting or until a successor has been elected.
 
-Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @limerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

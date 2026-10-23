@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-13th-february-2024.pdf)
+**Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-13th-february-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -94,7 +95,9 @@ order to view the draft minutes sent to the Executive before any amendments had 
 made. Councillor Sheahan asked it be recorded that he had never experienced any
 
 difficulty with staff on minute recording in the District. All Members concurred with
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Sheahan’s sentiments. The Director, Rural, Community and Culture
@@ -166,7 +169,9 @@ To consider the proposed Material Alteration of the Draft Adare Local Area Plan 
 2030 and the report of the Chief Executive dated 25th January 2024 on the submissions
 
 received on the Material Alterations to the Draft Adare Local Area Plan, and decide
----
+
+[[PAGE_END:2]]
+
 3
 
 whether the Local Area Plan be made or amended in accordance with Section 20(3)(n) of
@@ -240,7 +245,9 @@ compulsorily under the Derelict Sites Act, 1990 at 22 William Street, Askeaton, 
 Limerick and the intention to bring the Section 183 Notice to Full Council for
 
 approval.
----
+
+[[PAGE_END:3]]
+
 4
 
 The report, as circulated, was proposed by Councillor Sheahan, seconded by Councillor
@@ -312,7 +319,9 @@ And Resolved:
 the Planning and Development Act, 2000 (as amended) and Section 11 of the Roads Act,
 
 1993”.
----
+
+[[PAGE_END:4]]
+
 5
 
 Councillor Keary stated a snag list had been compiled on this estate approximately two
@@ -390,7 +399,9 @@ to possible remedial works in the meantime at this location.
  Councillor O’Brien requested the road from the Corner House, Pallaskenry to
 
 Milltown be tarred. The Senior Executive Engineer, Roads, Traffic and Cleansing
----
+
+[[PAGE_END:5]]
+
 6
 
 advised this location would be included in the Draft Schedule of Municipal District
@@ -470,7 +481,9 @@ allocate the following:
  €2,000 to Adare Saint Patrick's Day Parade.
 
  €3,000 to Dromore United Soccer Club.
----
+
+[[PAGE_END:6]]
+
 7
 
  €500 to City of Limerick Pipe Band.
@@ -544,7 +557,9 @@ contribution as Chairperson of Knockfierna Heritage Society and Amy O’Sullivan
 Rathkeale for her success in competitive clay pigeon shooting. This was seconded by
 
 Councillor O’Brien and agreed.
----
+
+[[PAGE_END:7]]
+
 8
 
 The Meetings Administrator advised Members the Executive was not in favour of General
@@ -618,7 +633,9 @@ pollution as well as shadow flickers.
 The wind energy development guidelines (2006) are the current relevant
 
 guidelines in respect of wind farms.
----
+
+[[PAGE_END:8]]
+
 9
 
 The Minister has published, **Draft Revised Wind Energy Development**
@@ -688,4 +705,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:9]]
+

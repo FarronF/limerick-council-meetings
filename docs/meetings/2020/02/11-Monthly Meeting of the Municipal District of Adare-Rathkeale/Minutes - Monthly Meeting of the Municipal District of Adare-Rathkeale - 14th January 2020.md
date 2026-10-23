@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-14th-january-2020.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-14th-january-2020.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
 **RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO. LIMERICK ON**
@@ -80,7 +81,9 @@ Askeaton Pool and Leisure for the proposed upgrade works and proposed the Distri
 write to Deputy Tom Neville and Minister Brendan Griffin to thank them for their efforts
 
 to secure funding for this project. This was seconded by Councillor Teskey.
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.**
@@ -152,7 +155,9 @@ Newcastle West District in relation to resurfacing this junction.
 the fowl sewer, diversions are in place diverting traffic through Kilcornan which
 
 will also have ongoing traffic calming works taking place during this time.
----
+
+[[PAGE_END:2]]
+
 3
 
 Councillor Keary suggested temporary traffic lights should be considered for
@@ -228,7 +233,9 @@ connections. We only inspect the main truck sewers and other core
 services within housing developments/estates to ensure planning
 
 compliance and suitability for taking in charge.
----
+
+[[PAGE_END:3]]
+
 4
 
 **NOTICES OF MOTION**
@@ -304,7 +311,9 @@ Circulated, correspondence from Irish Water dated 6th January, 2020.
 Councillor Keary requested an update on the site identified by Irish Water for the
 
 proposed Askeaton waste water treatment plan.
----
+
+[[PAGE_END:4]]
+
 5
 
 **10.**
@@ -334,4 +343,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

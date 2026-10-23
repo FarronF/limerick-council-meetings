@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-11/02-minutes-budget-meeting.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Cappamore - Kilmallock - 15th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/02-minutes-budget-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF DRAFT BUDGETARY PLAN MEETING
@@ -60,18 +61,19 @@ District of Cappamore-Kilmallock, which was the second highest allocation to a D
 the Metropolitan District allocation.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The proposed breakdown was outlined as follows:
 
-[ Service _ General Municipal Allocation-2021 Cappamore-Kilmallock MD
+f Service _ General Municipal Allocation-2021 Cappamore-Kilmallock MD
 
-B04 Local Roads | €130,000 _
+B04 Local Roads | €130,000 7
 DOS Tourism Development Recreation & €10,000
-| Amenity | _ -
 | FO4 | Community Initiatives | €10,000
-| Special Projects-LA Infrastructure €100,000 -
+| Special Projects-LA Infrastructure €100,000 :
 L | Special Projects LPT €45,000
 Total § —~ General Municipal Allocation €295,000
 
@@ -102,4 +104,6 @@ Cathaoirleach
 Date:
 
 
----
+
+[[PAGE_END:2]]
+

@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-april-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 14th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-april-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__——_ Comhairle Cathrach
+__—_—_ Comhairle Cathrach
 & Contae Luimnigh
 
 = — Limerick City
@@ -33,7 +34,7 @@ Ceantar Bardasach Ath Dara-Rath Caola,
 Comhairle Cathrach agus Contae Luimnigh,
 Aras Séan Fie,
 
-Une Nua,
+Line Nua,
 
 Rath Caola,
 
@@ -49,7 +50,7 @@ Rathkeale,
 
 Co. Limerick
 
-EIRCODE VO4 HKLV
+EIRCODE V4 HKLV
 
 t: +353 (0) 69 64047
 f: +353 (0) 69 63188
@@ -61,7 +62,7 @@ A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
 Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick and Online via Microsoft Teams on
 
-Apri The business to be transacted is set out on the appended
+* Apri The business to be transacted is set out on the appended
 Agenda.
 Is mise le meas,
 Meetings Administrator.
@@ -74,13 +75,15 @@ on 10" March, 2026.
 
 2. Declaration of Interest
 
-Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathra Chorparaideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -98,4 +101,6 @@ To review position in relation to allocations under the General Municipal Alloca
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:2]]
+

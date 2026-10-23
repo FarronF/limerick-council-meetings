@@ -16,13 +16,14 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-11th-february-2026.pdf)
+**Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy - 11th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-11th-february-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_— a Cathrach
-~— — Limerick City
+—_— — Cathrach
+war Limerick City
 & County Council
 
 Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee Hybrid Meeting
@@ -35,12 +36,12 @@ Online via Microsoft Teams.
 
 MEMBERS PRESENT:
 
-Chairperson: Cllr, Fergus Kilcoyne
+Chairperson: Cllr. Fergus Kilcoyne
 Cllr. Azad Talukder
 Cllr. Brigid Teefy
 Clir. Catherine Slattery
-Cllr, Dan McSweeney
-Cllr. Daniel Butler
+Cllr. Dan McSweeney
+Cilr. Daniel Butler
 Cllr. Gregory Conway
 Clir. John Sheahan
 Clir, Michael Collins
@@ -81,11 +82,13 @@ Ms. Joanna O’Donoghue, Staff Officer
 Ms. Aisling Coughlan, Assistant Staff Officer
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Cornhairle Cathrach .
-—— & Contae Luimnigh
+a & Contae Luimnigh
 
 ~~ Limerick ©
 - ny
@@ -97,12 +100,12 @@ amended, and the Standing Order, all present members should notify the Cathaoirl
 declaration of interest in any item due for discussion at the Meeting. No such interests were
 declared.
 
-Item 1: Minutes:
+item 1: Minutes:
 
 The Minutes of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee held
 on 10" December 2025 were proposed by Cllr. P. Reale and seconded by Clir. B. Teefy and adopted.
 
-Item2: Matters Arising
+item2: Matters Arising
 
 Notice of Motion submitted by Councillor S. Beasley (to be referred to the Community, Leisure,
 Arts, Heritage and Culture Strategic Policy Committee)
@@ -117,7 +120,7 @@ respond when they see the symbol.
 Councillor S. Beasley asked for the SPC to recommend that Corporate Services will issue an email to
 all Limerick City and County Council staff informing them about the Hidden Disabilities Sunflower
 Project and advising staff to be attentive to individuals presenting with a Sunflower lanyard, pin, or
-identification card. This was proposed by Cllr. S. Hickey O'Mara and seconded by Clr. G. Conway.
+identification card. This was proposed by Clir. S. Hickey O'Mara and seconded by Clr. G. Conway.
 
 Item 3: Review of Limerick Ubrary Development Plan 2021-2025 People, Place, Platform
 
@@ -134,16 +137,18 @@ campaigns such as Summer Stars, Ireland Reads and the Children’s Book Festival
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—— Cornhairle Cathwach
+— Cormhairle Cathwach
 Cortae Luimnigh
 
 &
-ANS =
+Vw a =
 
-=~:
+=
 
 Limerick City
 & County Council
@@ -195,12 +200,14 @@ of supporting residents of all ages and abilities to be active. Members were bri
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-__-e Comhairle Cathrach .
+a Comhairle Cathrach .
 & Contae Luimnigh
-on i
+Co i
 
 =_>
 
@@ -211,7 +218,7 @@ strategic themes, which include empowering communities to become more active, en
 county's sports and recreational facilities, and strengthening communication and collaboration
 among stakeholders. Key priorities outlined in the draft plan focus on increasing participation levels,
 particularly in disadvantaged areas and among minority groups, Supporting clubs and volunteers,
-improving access to indoor and outdoor facilities, and Maximising opportunities linked to the 2027
+improving access to indoor and outdoor facilities, and maximising opportunities linked to the 2027
 Ryder Cup legacy. Ms McCormack noted the next steps, including the ongoing SEA/AA screening,
 the upcoming public consultation in March, and the intention to bring the plan forward to the
 Management Board and subsequently to the May meeting of Limerick City and County Council for
@@ -250,13 +257,15 @@ be eligible to sit on the LCSP, They felt this number was insufficient and would
 geographical representation. Members Suggested establishing special sub-groups—including one
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-La teas
+La cma
 
-i]
-oF
+&
+i ea
 
 —=—>
 
@@ -292,7 +301,7 @@ to log any issues they encounter. Mr. Moroney added that he hopes, at a future d
 presentation during the Metropolitan District meeting outlining the wardens’ achievements to date.
 
 In relation to concerns that the LCSP may become the only forum for engagement with senior
-Gardai, the Community Safety Co-ordinator clarified that there is no reason why the elected
+Gardal, the Community Safety Co-ordinator clarified that there is no reason why the elected
 members cant request independent meetings between elected members and senior gardai, outside
 of the meetings with the LCSP.
 
@@ -305,12 +314,14 @@ March. The Director also recognised the need for sub-groups but advised that the
 formed once the Partnership itself has been formally established.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ——
 
-=_
+=—
 
 Comhairle Cathrach .
 & Contae Luimnigh
@@ -340,9 +351,9 @@ based on submissions from local authorities. Delivery of generators is expected 
 months.
 
 Members acknowledged the importance of establishing such centres but stressed that additional
-Provision is particularly needed in the east of the county.
+provision is particularly needed in the east of the county.
 
-The Chair, Cllr. F. Kilcoyne, thanked the emergency services and Council staff for their significant
+The Chair, Cilr. F. Kilcoyne, thanked the emergency services and Council staff for their significant
 efforts during the recent severe weather conditions,
 
 Cllr. C. Slattery welcomed the initiative but expressed concern that no centres had been identified
@@ -359,14 +370,16 @@ Cllr. D. McSweeney asked to repeat the list of the nine centres selected to date
 whether these were GAA clubs or community centres.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-was Conte Cathrach
+—__wa- Conthaite Cathrach
 - & Contae Luimnigh
 aw
 
-—=——>-
+—>=>
 
 Limerick City
 & County Council
@@ -403,12 +416,16 @@ Minutes Proposed By: C222 ». McSweenzy
 
 Minutes Seconded By: CLLQ CG. Con WAY
 
-Minutes Signed by Chair: Date: 1304 /2e
+Minutes Signed by Chair: Date: 13[04/2¢
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:8]]
+

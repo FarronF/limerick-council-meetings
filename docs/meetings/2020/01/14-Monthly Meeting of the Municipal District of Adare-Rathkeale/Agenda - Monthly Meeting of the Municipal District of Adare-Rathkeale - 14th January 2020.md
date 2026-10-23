@@ -16,30 +16,30 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%20Agenda%2014th%20January%2C%202020.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/00%20Agenda%2014th%20January%2C%202020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 aa Comhairie Cathrach Ceantar Bardasach Ath Dara-Rath Coola,
-aw & Contae Luimnigh Comhairle Cathrach agus Contae Luirmigh.
-Ars. i \
+ww & Contae Luimnigh Corm)nairle Cathrach agus Contae Luirrmigh.
 
-Ayas Séan Finn,
+Avas Séan Finn,
 Une Nua
 
-— Limerick City Rath Caola.
+— Limerick City Rath Caola
 & County Council Co. Luimnigh
 
 Adure-Rathkeale Municipal District,
 Limerick City and County Council
-Aras Sean Fir,
+Aras Sean Fire
 
 New Une,
 Rathkeale,
 9" January, 2020. Co. Limerick
 EIRCODE V94 HKIV
-To: The Cathaoirleach and Each Member of the Municipal District of ©) => * (°°) “*'"
+To: The Cathaoirleach and Each Member of the Municipal District of © '°°* (0°) “*°""
 f: +353 (0) 69 63188
 
 Adare-Rathkeale
@@ -54,9 +54,9 @@ Is mise le
 
 AGENDA
 
-2. Minutes
+2 Minutes
 
-To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10"
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10°
 December, 2019.
 
 (Copy Enclosed)
@@ -71,13 +71,15 @@ Housing Progress Report
 To note Housing Progress Report from the Housing Development Directorate.
 (Report Enclosed)
 = te
-Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 p www.limerick.te
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 P' www.limerick.te
 
 Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
-( 061 - 556 000
+(. 061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5.
@@ -107,7 +109,7 @@ NOTICE OF MOTION
 Notice of Motion submitted by Councillor A. Teskey
 
 | will move at the next Meeting that this Loca! Authority, in conjunction with Irish Water,
-carry out a full review of all connections to the fowl sewer in Rathkeale town.
+Carry out 2 full review of all connections to the fowl sewer in Rathkeale town.
 
 | will move at the next Meeting that the Local Authority carry out a review of where
 street names have gone missing in Rathkeale and arrange to reinstate them where
@@ -119,4 +121,6 @@ Correspondence
 A.0.B
 
 
----
+
+[[PAGE_END:2]]
+

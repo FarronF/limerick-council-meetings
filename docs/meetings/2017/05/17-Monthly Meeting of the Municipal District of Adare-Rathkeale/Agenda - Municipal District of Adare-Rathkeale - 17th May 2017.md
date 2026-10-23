@@ -16,40 +16,29 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2017th%20May%252c%202017.pdf)
+**Original file:** [Agenda - Municipal District of Adare-Rathkeale - 17th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/00%20Agenda%2017th%20May%252c%202017.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-tas
-=
-COMHAIRLE
-CATHRACH & CONTAE
-Luimnigh
-Limerick
-CITY & COUNTY
-COUNCIL
-
-12" May, 2017.
-
 Seirbhist i
-Comhairle Cathrach agus Contae Luimnigh,
-Ceanncheathni Chorpardideach,
 
-Cé na gCeannaithe,
-Luimneach
+ail Comhairle Cathrach agus Contae Luimnigh,
+AN 4 ; Ceanncheathni Chorpardideach,
+=_> Cé na gCeannaithe,
+COMHAIRLE Luirnesch
+CATHRACH & CONTAE ——e
+. . rate Services,
+Luimnigh Limerick City and County Council
+. . Ce rate ers,
+Limerick —
+CITY & COUNTY Limerick
+COUNCIL
+. EIRCODE V94 EHS0
 
-Corporate Services,
-
-Limerick City and County Council,
-Corporate Headquarters,
-Merchants Quay,
-
-Limerick
-
-EIRCODE V94 EH90
-
-t: +353 (0) 61 407 100
+th
+12” May, 2017. t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
@@ -57,7 +46,6 @@ To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkea
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in the
-
 Croom Enterprise Centre, Croom, Co. Limerick, on Wednesday, 17" May, 2017 at 2.00 p.m. The
 
 business to be transacted is set out on the appended Agenda.
@@ -69,30 +57,24 @@ Meetings Administrator.
 AGENDA
 
 1. Minutes
-
 To adopt Minutes of the following Meetings:
 
 (a) Meeting of the Municipal District of Adare-Rathkeale held on 11" April, 2017.
 (b) Special Meeting of the Municipal District of Adare-Rathkeale held on 18" April, 2017.
 (c) Special Meeting of the Municipal District of Adare-Rathkeale held on 27" April, 2017.
 
-2. Deputation from Croom Development Association
-
 (Copies Enclosed)
-
+2. Deputation from Croom Development Association
 To receive deputation from the Croom Development Association.
-
-Ceanncheathra Chorpardideach, Cé na gCeannaithe, Lutmneach
-Corporate Headquarters, Merchants Quay, Limerick
-
-customerservices@limerickic
-= @ vaenwimerickic
-
-vy
-(061 - 496200
+@ customerservices@limerickic
+I @ werwimerickic
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Lutmneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Support Services Directorate - Corporate Services
@@ -134,7 +116,9 @@ Ballysteen.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -145,7 +129,7 @@ Ballysteen.
 
 13.
 
-14.
+14,
 
 15.
 
@@ -170,7 +154,7 @@ Question submitted by Councillor C. McMahon
 | will ask at the next Meeting if there are any plans to develop;
 e Signage at the crossroads by the Church in Cappagh where there is currently a caved
 in wall and a signless bollard.
-e Improved signage and line markings at Chep’s Cross.
+© Improved signage and line markings at Chep’s Cross.
 If a program for these works is not in place | will ask that an estimation of cost and possible
 date to review these works be provided.
 
@@ -196,7 +180,9 @@ Croom Garda Station, in light of the age and condition of the current vehicles.
 3
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 17.
@@ -220,4 +206,6 @@ Correspondence
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:4]]
+

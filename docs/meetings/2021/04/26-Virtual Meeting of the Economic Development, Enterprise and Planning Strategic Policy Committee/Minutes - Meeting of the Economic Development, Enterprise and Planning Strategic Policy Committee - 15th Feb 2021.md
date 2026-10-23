@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-15th-feb-2021.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 15th Feb 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-15th-feb-2021.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
 **PLANNING STRATEGIC POLICY COMMITTEE HELD REMOTELY ON WEDNESDAY, 15th** **FEBRUARY,**
@@ -98,7 +99,9 @@ are taken in charge each year. The Council is now taking estates in charge as ph
 developments are completed. Pre-planning consultations with developers involve discussions on
 
 the eventual taking in charge of the estates.
----
+
+[[PAGE_END:1]]
+
 **Item 2**
 
 **National Water Resources Plan (NWRP) Draft Framework** **–** **Consultation 2**
@@ -166,7 +169,9 @@ to application of national guidelines on various issues.
 It was agreed that the PPN members would also be briefed on the various issues impacting on the
 
 preparation of a draft development plan.
----
+
+[[PAGE_END:2]]
+
 **Item 4**
 
 **Any Other Business**
@@ -184,4 +189,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

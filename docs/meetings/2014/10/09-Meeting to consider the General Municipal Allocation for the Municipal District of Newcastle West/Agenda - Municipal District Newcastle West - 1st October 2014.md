@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_1st_october_2014.pdf)
+**Original file:** [Agenda - Municipal District Newcastle West - 1st October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_1st_october_2014_1.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 26” September, 2014.
 
 Corporate Services.
 Seirbhisi Corparaideacha.
-To: T haoirleach mber of the Municipal
+To: T haoirleach mber_ of the Municipal
 
 District of Newcastle West.
 
@@ -52,7 +53,9 @@ To note date for Meeting to discuss Draft Budgetary Plan.
 To note position on District Roads Work Scheme.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -105,7 +108,9 @@ Notice of Motion submitted by Councillor F. Foley
 section of road at Barnagh.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -121,4 +126,6 @@ front of Desmond Castle.
 books to Newcastle West District Libraries.
 
 
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-special-meeting-of-the-municipal-district-of-newcastle-west-29th-october-2025.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 29th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-special-meeting-of-the-municipal-district-of-newcastle-west-29th-october-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
@@ -27,12 +28,12 @@ Comhairle Cathrach agus Contae Luimnigh,
 AN Ll ™ 6 Contae Ladmnigh Aras William Smith O'Brien,
 , Gortbut,
 
-—_—— Limerick City ; An Caisiean Nua Thiar,
+—— Limerick City ; An Caisiean Nua Thiar,
 
 & County Council Co, Luimnigh
 
 Newcastle West Municipal District
-Limenck City and County Council,
+Limerick City and County Council,
 Aras William Smith O'Brien,
 Gortboy,
 
@@ -56,7 +57,7 @@ the appended Agenda.
 
 Is mise le meas,
 
-op Headl.or Supple.
+op Headlor Supple.
 Heather Supple,
 Meetings Administrator.
 
@@ -68,9 +69,11 @@ To Discuss Mayoral Fund towards Christmas lights in Newcastle West.
 
 = customerservices@limerick.ie
 
-Ceanncheathru Chorparéideach, Cé na gCeannaithe, Luimneach © wens limerick.ie
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © veo limerick.ie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+

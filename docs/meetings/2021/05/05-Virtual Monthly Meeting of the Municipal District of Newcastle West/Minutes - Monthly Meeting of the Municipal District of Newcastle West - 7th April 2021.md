@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-04-07-minutes-april.pdf)
+**Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-2021-04-07-minutes-april.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
@@ -64,7 +65,9 @@ referred to the consequences of the frequent movement of Senior staff from the D
 expressed the need for continuity.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 41. Adoption of Minutes
@@ -114,7 +117,9 @@ farmers in the developing world such as Climate Change, Low Prices for their pro
 Covid19.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members thanked the Ms. O’Meara for the comprehensive presentation and
@@ -155,7 +160,7 @@ for the Hill Road, Abbeyfeale from Dennison’s junction up to the Four Cross Ro
 
 REPLY:
 
-(a) An onsite meeting has taken place with Til at the Cryle View Estate with regard to the
+(a) An onsite meeting has taken place with TIl at the Cryle View Estate with regard to the
 draft proposals for the junction re-alignment.
 
 Til have now requested a re-design of the junction proposals in line with the Design
@@ -164,7 +169,9 @@ Manual for Urban Roads and Streets. This is anew requirement from the TIl.
 This new design is currently being prepared for submission to Til for the consideration.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) — Asite selection report for a new burial ground for Abbeyfeale was completed in 2020
@@ -189,7 +196,7 @@ stated that the newly appointed Senior Executive Engineer would visit the site.
 
 5. Question submitted by Councillor L. Galvin
 
-| will ask at the next Meeting for a detailed report on all derelict buildings in Abbeyfeale
+! will ask at the next Meeting for a detailed report on all derelict buildings in Abbeyfeale
 town.
 
 REPLY: Derelict sites are identified through regular vacancy and dereliction surveys in
@@ -208,7 +215,7 @@ in Abbeyfeale.
 Of these, there are 18 no. cases with particulars of the land entered on the
 Derelict Sites Register maintained by the Council, in summary as follows:
 
-_REF, NO. | LOCATION OF LAND |
+_ REF, NO. | LOCATION OF LAND
 
 = - 4
 
@@ -218,33 +225,35 @@ _REF, NO. | LOCATION OF LAND |
 4
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-)'DS-043-18 6 Colbert Terrace, Abbeyfeale, Co. Limerick V94 H9P3
+| DS-043-18 6 Colbert Terrace, Abbeyfeale, Co. Limerick V94 H9P3
 | DS-119-19
 
-| DS-040-18 | 11 Colbert Terrace, Abbeyfeale, Co. Limerick. :
+ DS-040-18 | 11 Colbert Terrace, Abbeyfeale, Co. Limerick. :
 Convent Road, Abbeyfeale, Co. Limerick.
 |
 
-| DS-118-19 Convent Road, Abbeyfeale, Co. Limerick. |
-| DS-081-20 Cois Na Féile, Abbeyfeale, Co. Limerick.
+| DS-118-19 Convent Road, Abbeyfeale, Co. Limerick. __ |
+_ DS-081-20 Cois Na Féile, Abbeyfeale, Co. Limerick.
 
-| DS-111-17 Kerry Road, Abbeyfeale, Co. Limerick V94 H6R3 }
-| DS-155-20 9 Colbert Terrace, Abbeyfeale, Co. Limerick. |
-'DS-041-18 8 Colbert Terrace, Abbeyeale, Co. Limerick. _ -
+| DS-111-17 Kerry Road, Abbeyfeale, Co. Limerick V94 H6R3 |
+| DS-155-20 9 Colbert Terrace, Abbeyfeale, Co. Limerick |
+| DS-041-18 8 Colbert Terrace, Abbeyeale, Co. Limerick. _ :
 
 DS-129-20 | Main Street, Abbeyfeale, Co. Limerick. _|
 | DS-156-20 | 10 Colbert Street, Abbeyfeale, Co. Limerick.
 
 DS-150-18 | Old Church Street, Abbeyfeale, Co. Limerick.
-_0S-164-20- | Church Street, Abbeyfeale, Co. Limerick. __ |
+_0S-164-20_ a Church Street, Abbeyfeale, Co. Limerick. |
 _0S-165-20 Church Street, Abbeyfeale, Co. Limerick. |
-_ S-187-20 | New Street, Abbeyfeale, Co. Limerick.
+_DS-187-20 _ New Street, Abbeyfeale, Co. Limerick.
 _DS-188-20 __New Street, Abbeyfeale, Co. Limerick. _|
 
-DS-186-20 | Clash Road, Abbeyfeale, Co. Limerick. }
+DS-186-20 _ Clash Road, Abbeyfeale, Co. Limerick. |
 
 6. Question submitted by Councillor L. Galvin
 
@@ -283,7 +292,9 @@ Management seeking any proposals they may have on traffic flow in the
 vicinity of the school.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Newcastle West Public Realm and Traffic Movement Plan is also to go on
@@ -293,9 +304,9 @@ of the community once the public display period commences.
 Councillor Scanlan referred to the ongoing issue of traffic congestion and traffic flow along
 Boherbui. The Senior Executive Engineer agreed to follow up on this matter.
 
-8. Question submitted by Councillor J. Scanlan
+8. Question submitted by Councillor J. Scanian
 
-| will ask at the next Meeting when footpath replacement works will be carried out on the
+1 will ask at the next Meeting when footpath replacement works will be carried out on the
 right hand side approach to Beechwood Avenue and Meadow Court as well as within
 Beechwood Avenue particularly on the approach to and from the vacant site therein.
 
@@ -328,16 +339,18 @@ however, to raise this matter with the relevant Directorate.
 
 11. Question submitted by Councillor T. Ruddle
 
-! will ask at the next Meeting (a) what is the current sewerage capacity in towns and villages
+1 will ask at the next Meeting (a) what is the current sewerage capacity in towns and villages
 in the Newcastle West Municipal District (b) when will the Newcastle West sewerage
 scheme be upgraded.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: irish Water issued the Newcastle West Municipal District Wastewater Capacity
-Register dated 17" June 2020 (attached) in response to part (a).
+Register dated 17 June 2020 (attached) in response to part (a).
 
 Please note below the response received from Irish Water in response to part
 (b).
@@ -381,7 +394,9 @@ REPLY:
 locations will have to be agreed with the nearby businesses.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) As previously advised the owners of Lee’s and Cronin’s Bar may apply for a licence to
@@ -433,7 +448,9 @@ support in the amending of legislation. The Meetings Administrator agreed to fol
 this matter regarding correspondence with the Deputies.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 As this Notice of Motion is requesting a change in National Policy it would be referred to
@@ -483,7 +500,9 @@ area and improvements will be carried out as appropriate.
 The following items were also raised.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 An update was sought on the proposed works at Wards Cross and Devon Road Cross on the
@@ -529,4 +548,6 @@ Dated:
 10
 
 
----
+
+[[PAGE_END:10]]
+

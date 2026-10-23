@@ -16,20 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-10th-march-2026.pdf)
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-10th-march-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 __—_——_—_ Comhairle Cathrach
 & Contae Luimnigh
-~_ Limerick C
-— merick Cily
+
+— Limerick City
 & County Council
 
 5" March, 2026.
 
-AChomhairleoir, a chara,
+A Chomhairleoir, a chara,
 
 Ceantar Bardasach Ath Dara-Réth Caola,
 Comhairle Cathrach agus Contae Luimnigh,
@@ -51,7 +52,7 @@ Rathkeale,
 
 Co. Limenck.
 
-EIRCODE V4 HKLV
+EBIRCODE V94 HKLV
 
 t: +355 (0) 69 64047
 f: +353 (0) 69 63188
@@ -79,19 +80,21 @@ on 10" February, 2026.
 
 2. Declaration of Interest
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe,Luimneach |
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Copy Enclosed).
 
 a customerservices@limerick.ie
-€ www. limerick.te
+6 www. limerick.te
 @LimerickCouncil
 
 \ 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Disposal of Land
@@ -134,7 +137,9 @@ within our district to improve amenities, facilities and capital infrastructure 
 for the hosting of the Ryder Cup.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -177,4 +182,6 @@ Correspondence
 @
 
 
----
+
+[[PAGE_END:3]]
+

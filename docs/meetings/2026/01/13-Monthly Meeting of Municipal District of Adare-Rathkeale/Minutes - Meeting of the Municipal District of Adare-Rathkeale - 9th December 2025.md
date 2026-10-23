@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-9th-december-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-9th-december-2025.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
 **ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
@@ -86,7 +87,9 @@ Brendan Kidney, Senior Engineer, LA Housing Construction and Maintenance would
 provide an update after the adoption of the Minutes.
 
 Proposed by Councillor O’Donoghue;
----
+
+[[PAGE_END:1]]
+
 2
 
 Seconded by Councillor Keary;
@@ -160,7 +163,9 @@ Act, 2001, as amended, and the Code of Conduct, he was inviting those present to
 the Cathaoirleach of any declaration of interest in any item due for discussion at the
 
 Meeting.
----
+
+[[PAGE_END:2]]
+
 3
 
 No such interest was declared.
@@ -236,7 +241,9 @@ Councillor O’Donoghue questioned the cost of the overall project and what Lime
 and County Council’s contribution would be. The Senior Executive Engineer,
 
 Environment and Climate Action advised she was awaiting Uisce Éireanns cost estimate
----
+
+[[PAGE_END:3]]
+
 4
 
 and would provide the Council’s contribution costs when that information would
@@ -304,7 +311,9 @@ On the proposal of Councillor Ward, seconded by Councillor Keary, it was agreed 
 allocate the following:
 
 • €4,000 to Kilcornan Community Council.
----
+
+[[PAGE_END:4]]
+
 5
 
 • €6,500 to Wood Road Residents, Foynes.
@@ -354,4 +363,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

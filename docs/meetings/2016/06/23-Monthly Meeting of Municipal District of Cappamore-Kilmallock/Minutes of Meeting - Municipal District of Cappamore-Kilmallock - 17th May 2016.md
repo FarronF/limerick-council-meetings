@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20May%202016.pdf)
+**Original file:** [Minutes of Meeting - Municipal District of Cappamore-Kilmallock - 17th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
 **KILMALLOCK HELD IN JOHN THE BAPTIST COMMUNITY SCHOOL, HOSPITAL, CO. LIMERICK,**
@@ -88,7 +89,9 @@ expressed his thanks to staff.
 Members referred to traffic congestion at John the Baptist Community School and the
 
 Executive Engineer agreed to attend the school at peak times.
----
+
+[[PAGE_END:1]]
+
 2
 
 **2.**
@@ -168,7 +171,9 @@ under the Community Initiative Scheme 2016 for the District.
 It was proposed by Councillor Gleeson, seconded by Councillor Teefy and agreed to approve
 
 the following allocations :
----
+
+[[PAGE_END:2]]
+
 3
 
 Comhaltas Fleadh Luimni
@@ -252,7 +257,9 @@ Limerick City & County Council has previously been in contact with TII in relati
 to this junction to facilitate the undertaking of a safety assessment here. The
 
 Council will again formally request TII to prioritise this junction for assessment.
----
+
+[[PAGE_END:3]]
+
 4
 
 **8.**
@@ -324,4 +331,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:4]]
+

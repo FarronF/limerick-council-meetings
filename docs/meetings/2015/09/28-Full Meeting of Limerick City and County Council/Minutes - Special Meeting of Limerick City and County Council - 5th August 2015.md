@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20August%202015.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 5th August 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%205th%20August%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -92,7 +93,9 @@ with proposal agreed at Meeting of the Municipal District of Adare-Rathkeale hel
 14th July, 2015, with all costs associated with the disposal to be borne by Limerick
 
 Community Games.”
----
+
+[[PAGE_END:1]]
+
 2
 
 2.
@@ -160,7 +163,9 @@ affected by these proposals were aware of same.
 • A high level of lead was discharged from local mining into the Parteen Basin, which
 
 should be taken into consideration in relation to that option.
----
+
+[[PAGE_END:2]]
+
 3
 
 • What effect would the abstraction of water from the Shannon have on:
@@ -210,4 +215,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:3]]
+

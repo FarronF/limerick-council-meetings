@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council  - 21st February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-: Seirbhis{ Corparaideacha,
-_ ——_ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+: Seirbhiisl Corparaideacha,
+_ —_£ Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathni Chorparaideach.
 
-4 ‘ ————————=== Cé na gCearinaithe,
+ya ‘ ————————————= Cé na gCearinaithe,
 
-oe Li ick C
+el. Li ick C
 = — meric ity Luimneach
 & County Council ;
 Corporate Services.
@@ -44,7 +45,7 @@ Council
 A Chomhairleoir, a chara,
 The Priomh Chomhairleoir, Councillor Dan McSweeney, has called a Special Meeting of
 Limerick City and County Council to be held in the Council Chamber, Dooradoyle, and Online,
-on ns
+on “
 The business to be transacted is set out below.
 Is mise le meas,
 Ciara Farrell,
@@ -60,4 +61,6 @@ Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach v @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+

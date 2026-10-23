@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/special_meeting_of_limerick_city_and_county_council_-_agenda_07_july_2014.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 7th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/special_meeting_of_limerick_city_and_county_council_-_agenda_07_july_2014.pdf)
 
----
+[[FILE_START]]
+
 **Date: 2nd** **July, 2014.**
 
 **Corporate Services.**
@@ -72,7 +73,9 @@ To consider the nomination of 3 Members from within the number
 nominated at (a) above to be permanent delegates to the Standing
 
 Policy Council of the Association for the full five-year term.
----
+
+[[PAGE_END:1]]
+
 2
 
 4.
@@ -132,7 +135,9 @@ County Council on the RAPID Action Implementation Team for Rathkeale.
 9.
 
 To consider the nomination of 1 Member to the Limerick Sports Partnership.
----
+
+[[PAGE_END:2]]
+
 3
 
 10.
@@ -198,7 +203,9 @@ and Development Regulations, 2001-2013, in relation to N21 Newcastle West
 Pavement Improvement and Pedestrian Facilities Scheme 2014.
 
 (Report Enclosed)
----
+
+[[PAGE_END:3]]
+
 4
 
 (b)Section 85 Agreements
@@ -264,7 +271,9 @@ report, in accordance with Section 180 of the Planning and Development Acts,
 2000-2013, and Section 11 of the Roads Act, 1993.
 
 (Report Enclosed)
----
+
+[[PAGE_END:4]]
+
 5
 
 17.
@@ -276,4 +285,6 @@ Standing Orders
 To consider draft Limerick City and County Council Standing Orders.
 
 (Copy of draft Standing Orders Enclosed)
----
+
+[[PAGE_END:5]]
+

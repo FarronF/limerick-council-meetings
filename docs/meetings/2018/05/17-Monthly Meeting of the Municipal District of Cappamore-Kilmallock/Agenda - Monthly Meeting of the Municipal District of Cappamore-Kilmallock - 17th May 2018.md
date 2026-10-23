@@ -16,14 +16,15 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%20%28Amen%29%20May%202018%20Meeting.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%20Agenda%20%28Amen%29%20May%202018%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ee Comhairle Cathrach
 
-= a —— —s
+= —_ —— —
 imeri
 
 : & County Counc Limerick City & County Council,
@@ -43,10 +44,9 @@ You are requested to attend a Meeting of the Municipal District of Cappamore-Kil
 held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co. Limerick, on Thursday, 17 May,
 2018, at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
 
-bs le meas,
+abs le meas,
 
-\ keels
-Mark .aty/
+Mark Leahy
 Meetings Administrator.
 
 AGENDA
@@ -66,7 +66,9 @@ To consider the Chief Executive’s Report prepared pursuant to Section 179, sub
 3(a), of the Planning and Development Act’s 2000 (as amended) and Part 8 of the
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -86,7 +88,7 @@ Kilmallock.
 roads to facilitate pedestrians, walkers, cyclists, vehicles and all road users to make them
 safer and fit for purpose.
 
-uestions submitted by Councillor B. T.
+uestions submitted by Councillor B. T
 | will ask at the next Meeting how many people are on
 (a) The Housing Waiting List in the Municipal District of Cappamore-Kilmallock;
 
@@ -102,10 +104,12 @@ Notice of Motion submitted by Councillor G. Mitchell
 
 | will move at the next meeting that any new developments or impending road works,
 particularly on main strategic routes, should include necessary ducting for CCTV.
-Notice of Motion submitted b llor M n n
+Notice of Motion submitted b lior M n n
 
 | will move at the next meeting that Limerick City & County Council coordinate an agreed
 traffic management plan and social area for Deebert Close Estate, Kilmallock.
 
 
----
+
+[[PAGE_END:2]]
+

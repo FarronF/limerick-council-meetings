@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20-%2022nd%20Oct%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 22nd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20-%2022nd%20Oct%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
 
----
+[[FILE_START]]
+
 **16th** **October, 2019**
 
 **To: The Chairperson and Each Member of the Climate Action, Biodiversity and**
@@ -44,7 +45,9 @@ appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -64,4 +67,6 @@ appended agenda.
 that the Council put a management plan in place to rejuvenate the Westfield
 
 Wetlands”.
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-08/agenda-special-meeting-of-limerick-city-and-county-council-18th-august-2026.pdf)
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th August 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-08/agenda-special-meeting-of-limerick-city-and-county-council-18th-august-2026.pdf)
 
----
+[[FILE_START]]
+
 (Image omitted)
 (Image omitted)
 (Image omitted)
@@ -44,4 +45,6 @@ Is mise le meas,
 **Aedín Foley,**
 
 **Meetings Administrator.**
----
+
+[[PAGE_END:1]]
+

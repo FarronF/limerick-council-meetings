@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-newcastle-west-5th-november-2025.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 5th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-newcastle-west-5th-november-2025.pdf)
 
----
+[[FILE_START]]
+
 MINUTES
 
 OF
@@ -96,7 +97,9 @@ Following discussion, as the Minutes of the Draft Budgetary Plan Meeting held on
 15th October, 2025, was not adopted by the Members, the budget for the District
 
 would now, therefore, form part of the overall budgetary process for the Council.
----
+
+[[PAGE_END:1]]
+
 2
 
 **(c)**
@@ -170,7 +173,9 @@ Planning and Place-Making Directorate
 Taking in Charge of Estates – Declaration of Roads to be Public
 
 Roads
----
+
+[[PAGE_END:2]]
+
 3
 
 To consider the proposed Taking in Charge of Ray’s Estate,
@@ -240,7 +245,9 @@ On the proposal of Councillor Galvin, seconded by Councillor Collins, it was agr
 On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agreed to allocate
 
 €934 to Tony Noonan Christmas lights.
----
+
+[[PAGE_END:3]]
+
 4
 
 On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agreed to allocate
@@ -310,7 +317,9 @@ participated in a mixed event with over 200 students attending.
 ➢ Irish Wheelchair Association Training
 
 ➢ National Transplant Games Training
----
+
+[[PAGE_END:4]]
+
 5
 
 ➢ Munster Athletics Development Squad training
@@ -388,7 +397,9 @@ Question submitted by Councillor J. Scanlan
 REPLY:
 
 Road markings will be put in place at these junctions in the coming weeks.
----
+
+[[PAGE_END:5]]
+
 6
 
 10.
@@ -460,7 +471,9 @@ Plan and have reiterated their commitment at the most recent meeting in October 
 resurfacing works are currently linked to the progression of the Abbeyfeale Traffic
 
 Management Plan in this area. There is a major funding shortfall for the Abbeyfeale Traffic
----
+
+[[PAGE_END:6]]
+
 7
 
 Management Plan. A Meeting is being arranged with Ministers O’Donovan and Minister
@@ -524,7 +537,9 @@ REPLY:
 Limerick City and County Council roads personnel will meet with locals to discuss traffic flow
 
 and road safety in Boherbui.
----
+
+[[PAGE_END:7]]
+
 8
 
 In proposing the Motion, Councillor Scanlan referred to issues with regard to car parking, fire
@@ -590,7 +605,9 @@ Following consultations with Transport Infrastructure Ireland (TII) and Mid West
 Road Design Office (MWNRDO), Barry Transportation completed a Feasbility Report which
 
 recommended the construction of a staggered junction at Devon Cross as the preferred
----
+
+[[PAGE_END:8]]
+
 9
 
 option to improve safety at this location. This Feasibility Report was submitted to TII in 2020,
@@ -660,7 +677,9 @@ to the family involved in this tragic event. A discussion took place on the need
 measures to be carried out at this junction as a matter of urgency to prevent future tragedies
 
 taking place. Following discussion, it was agreed that the Meetings Administrator would
----
+
+[[PAGE_END:9]]
+
 10
 
 invite representatives from the Mid West National Road Design Office to attend the next
@@ -724,7 +743,9 @@ process again for Brewery Lane, Newcastle West. It was agreed that the Senior Ex
 Engineer would seek clarification on the lifespan of the report and the submissions received,
 
 public car parking, lighting, cctv and re-surfacing of the laneway.
----
+
+[[PAGE_END:10]]
+
 11
 
 19. Notice of Motion submitted by Councillor F. Foley
@@ -796,7 +817,9 @@ Reference was made to a number of water outages which had taken place in the Dis
 recently and to the name of a liaison person to contact in these instances. Reference was also
 
 made to the holding of clinics which had taken place previously prior to the District Meeting.
----
+
+[[PAGE_END:11]]
+
 12
 
 It was agreed that the Acting Senior Executive Officer would seek an update for the Members
@@ -836,4 +859,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:12]]
+

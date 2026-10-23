@@ -16,22 +16,23 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-2021-02-03-agenda.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 3rd February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/00-2021-02-03-agenda.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-“el Comhairle Cathrach
+a Comhairle Cathrach
 & Contae Luimnigh
-aArN eo
+aArcN ee
 —> Limerick City
 & County Council
 
 To: The Cathaoirleach and Each Member of
 
 Duiche Bardais an Chaisieain Nua Thar,
-Comhairle Cathrach agus Contae Luimmnigh,
-Aras Wilham Smith O'Bnen.
+Comhairle Cathach agus Contae Luimmnigh,
+Aras William Smith O'Bnen.
 
 Gortbed,
 
@@ -40,7 +41,7 @@ An Caisiean Nua Timer,
 Co. Luimnigh
 
 Newcastle West Mumicipal District.
-Umerick City ari County Council,
+Umerick City ark County Council,
 Aras Wiltiam Smith O'Brien,
 Gortboy,
 
@@ -48,8 +49,8 @@ Nevicastie West,
 
 Co. Limenck.
 
-29th January, 202¢rcode: V42EH73
-&; +353 (0) 69 62100
+29th January, 202arcode: V42EH73
+&: +353 (0) 69 62100
 
 Municipal District of Newcastle West
 
@@ -60,7 +61,7 @@ to be held on Wednesday, 3% February, 2021, at 10.00 a.m. The business to be tra
 
 set out on the appended Agenda.
 
-ago Corett
+Magee Crett
 Margaret Corbett,
 
 Meetings Administrator.
@@ -80,7 +81,7 @@ December, 2020.
 held on 16" December, 2020.
 
 (Copy Enclosed)
-2. ni n r l
+2. ni ni r U
 Taking in Charge of Estates ~ Declaration of Roads to be Public Roads
 
 To consider the Taking in Charge of Estate Ellis Wood, Abbeyfeale, in accordance with
@@ -95,17 +96,18 @@ of the Roads Act 1993.
 To consider report on Roads Act 1994 Section 38(3) process as amended by the
 Public Transportation Regulation Act, 2009 (Section 46), with regard to the
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
-Corporate Headquarters, Merchant's Quay, Limerick
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach
 
-@& customerservices@limerick.ie
-© wer limerick.te
+i customerservices@limerick.ie
+© wervilimerick.te
 
 W @LimerickCouncil
 (061 - 556 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -124,7 +126,7 @@ To review position in relation to allocations under the General Municipal Alloca
 2021.
 
 UESTIONS
-u s submitted by Councillor J. an
+lu $s submitted by Councillor J. an
 
 | will ask at the next Meeting that a pedestrian crossing be provided along Sheahan’s
 Road between Reidy’s Undertakers and the entrance to Liosan Estate.
@@ -158,7 +160,9 @@ juesti ncillor F. F
 to be replaced on the Killarney Road, Abbeyfeale.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13.
@@ -196,8 +200,10 @@ Notice of Motion submitted by Councillor J. Scanian
 | will move at the next Meeting that a footpath extension be provided on the left
 hand side of the road along the R520 from Kerry Co-Op to the speed limit sign.
 
-| will move at the next Meeting that pedestrian crossings be provided at the North
+! will move at the next Meeting that pedestrian crossings be provided at the North
 and Liscarroll roads along the R522 at Dromcollogher in the Interest of safety.
 
 
----
+
+[[PAGE_END:3]]
+

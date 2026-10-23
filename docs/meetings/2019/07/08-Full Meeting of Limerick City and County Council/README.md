@@ -30,19 +30,19 @@ Minutes - Full Meeting of Limerick City and County Council - 29th April 2019.pd
 
 Minutes - Annual Meeting of Limerick City and County Council - 7th June 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2007.06.2019.pdf) - [Extracted text](./Minutes%20-%20Annual%C2%A0Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%207th%20June%202019.md)
 
-Disposal of Land_ 3 Mitchell Street - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28a%29%20Disposal%20of%20Land%20-%203%20Mitchell%20Street.pdf) - Text not extracted
+Disposal of Land: 3 Mitchell Street - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28a%29%20Disposal%20of%20Land%20-%203%20Mitchell%20Street.pdf) - Text not extracted
 
-Disposal of Land_ 23 Coolraine Estate Mayorstone - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28b%29%20Disposal%20of%20Land%20-%2023%20Coolraine%20Estate%20Mayorstone.pdf) - Text not extracted
+Disposal of Land: 23 Coolraine Estate Mayorstone - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28b%29%20Disposal%20of%20Land%20-%2023%20Coolraine%20Estate%20Mayorstone.pdf) - Text not extracted
 
-Disposal of Land_ Ardnamoher, Galbally, Co. Limerick - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28c%29%20Disposal%20of%20Land%20-%20Ardnamoher%2C%20Galbally%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: Ardnamoher, Galbally, Co. Limerick - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28c%29%20Disposal%20of%20Land%20-%20Ardnamoher%2C%20Galbally%2C%20Co.%20Limerick.pdf) - Text not extracted
 
-Disposal of Land_ Bohergar, Brittas, Co. Limerick - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28d%29%20Disposal%20of%20Land%20-%20Bohergar%2C%20Brittas%2C%20Co.%20Limerick.pdf) - Text not extracted
+Disposal of Land: Bohergar, Brittas, Co. Limerick - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%28d%29%20Disposal%20of%20Land%20-%20Bohergar%2C%20Brittas%2C%20Co.%20Limerick.pdf) - Text not extracted
 
 Chief Executive's Report April 2019 - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%28a%29%28i%29%20Chief%20Executive%20Report%20April%202019.pdf) - Text not extracted
 
 Chief Executive's Report May 2019 - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%28a%29%28ii%29%20Chief%20Executive%20Report%20May%202019.pdf) - Text not extracted
 
-Report_ Raising of Loan - Rebuilding Ireland Home Loans - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%28b%29%20Report%20-%20Raising%20of%20Loan%20-%20Rebuilding%20Ireland%20Home%20Loans.pdf) - Text not extracted
+Report: Raising of Loan - Rebuilding Ireland Home Loans - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%28b%29%20Report%20-%20Raising%20of%20Loan%20-%20Rebuilding%20Ireland%20Home%20Loans.pdf) - Text not extracted
 
 Draft Strategic Policy Committee Scheme - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/04%28c%29%20Draft%20Strategic%20Policy%20Committee%20Scheme.pdf) - Text not extracted
 
@@ -54,7 +54,7 @@ Cover Letter - Climate Change Adaptation Strategy - Full Meeting of Limerick Ci
 
 Draft Climate Adaptation Strategy 2019-2024 - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/07%28ii%29%20Draft%20Climate%20Adaptation%20Strategy%202019-2024.pdf) - Text not extracted
 
-Draft Climate Adaptation Strategy_ Report on Public Consultation - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/07%28iii%29%20Draft%20Climate%20Adaptation%20Strategy%20%28Report%20on%20Public%20Consultation%29.pdf) - Text not extracted
+Draft Climate Adaptation Strategy: Report on Public Consultation - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/07%28iii%29%20Draft%20Climate%20Adaptation%20Strategy%20%28Report%20on%20Public%20Consultation%29.pdf) - Text not extracted
 
 Reports on Conferences July 2019 - Full Meeting of Limerick City and County Council - 8th July 2019.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/08%28ii%29%20Reports%20on%20Conferences%20July%202019.pdf) - Text not extracted
 

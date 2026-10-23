@@ -1,7 +1,13 @@
+---
+data-pagefind-ignore: true
+---
+
 # 2015 — 09 - September
 
+* [07 Travel And Transportation Strategic Policy Committee Meeting](07-Travel and Transportation Strategic Policy Committee Meeting/README.md)
 * [08 Meeting Of The Municipal District Of Adare Rathkeale](08-Meeting of the Municipal District of Adare-Rathkeale/README.md)
 * [14 Home And Social Development Strategic Policy Committee Meeting](14-Home and Social Development Strategic Policy Committee Meeting/README.md)
+* [15 Economic Development, Enterprise And Planning Strategic Policy Committee Meeting](15-Economic Development, Enterprise and Planning Strategic Policy Committee Meeting/README.md)
 * [16 Community Leisure & Emergency Services Strategic Policy Committee Meeting](16-Community Leisure & Emergency Services Strategic Policy Committee Meeting/README.md)
 * [16 Monthly Meeting Of Municipal District Of Newcastle West](16-Monthly Meeting of Municipal District of Newcastle West/README.md)
 * [17 Monthly Meeting Of Municipal District Of Cappamore Kilmallock](17-Monthly Meeting of Municipal District of Cappamore-Kilmallock/README.md)

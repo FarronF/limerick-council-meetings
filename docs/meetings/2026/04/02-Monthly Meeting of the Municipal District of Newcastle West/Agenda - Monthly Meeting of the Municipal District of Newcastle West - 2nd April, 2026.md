@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-03/00-2026-04-02-agenda-april.pdf)
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 2nd April, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/00-2026-04-02-agenda-april.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Diliche Bardais an Chaisledin Nua Thiar,
@@ -26,8 +27,8 @@ lt Comhairie Cathrach agus Contae Luimnigh,
 
 & Contae Luimnigh Aras William Smith O'Brien,
 
-NAN : Gortbul,
-— Limerick City _ An Caisledn Nua Thiar,
+NAN ; Gortbul,
+—= Limerick City An Caisledn Nua Thiar,
 
 & County Council Co. Luimnigh
 
@@ -47,11 +48,11 @@ To: The Cathaoirleach and Each Member of the Municipal District of Newcastle Wes
 A Chomhairleoir, a chara,
 You are requested to attend a Meeting of the Municipal District of Newcastle West to be held
 
-in Aras William Smith OBrien, Newcastle West, Co. Limerick on Thursday, 2 April, 2026, at
+in Aras William Smith OBrien, Newcastle West, Co. Limerick on Thursday, 2" April, 2026, at
 
 10.00 a.m. The business to be transacted is set out on the appended Agenda.
 
-is mise le meas,
+Is mise le meas,
 eather Supp .
 
 Meetings Administrator.
@@ -70,12 +71,14 @@ March, 2026.
 To receive an update in relation to progress on Rural Development Projects in the
 Municipal District.
 
-@& customerservices@limerickie
+@ customerservices@limerickie
 Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach © wwwalimerickie
 Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -126,7 +129,9 @@ each to be occupied (d) What are the costs of each to bring to completion (e) Wh
 are the delays.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -141,7 +146,7 @@ are the delays.
 
 Question submitted by Councillor J. Sheahan
 
-twill ask at the next Meeting how many claims for Personal Injuries have been made
+{will ask at the next Meeting how many claims for Personal Injuries have been made
 to Limerick City and County Council over the last five years due to the surface of the
 cobbled area in The Square in Newcastle West Town.
 
@@ -175,4 +180,6 @@ of Works with the required qualifications to deal specifically with the reinstat
 works associated with works done by utility companies.
 
 
----
+
+[[PAGE_END:3]]
+

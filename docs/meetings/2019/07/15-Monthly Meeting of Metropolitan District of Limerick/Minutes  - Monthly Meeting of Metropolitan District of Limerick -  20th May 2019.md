@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%20Minutes%20Monthly%20Meeting%2020th%20May%202019.pdf)
+**Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick -  20th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%20Minutes%20Monthly%20Meeting%2020th%20May%202019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
 **THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK, ON MONDAY, 20TH** **MAY, 2019**
@@ -92,7 +93,9 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 dwelling house situate at 23 Coolraine Estate, Mayorstone, Limerick and the intention to
 
 bring a Section 183 Notice to Full Council in this regard, for approval.
----
+
+[[PAGE_END:1]]
+
 2
 
 The report, as circulated, was noted by Members.
@@ -182,7 +185,9 @@ So far this year, Limerick City and County Council have completed 1 no. housing
 scheme in Rathbane Road, Metropolitan District of Limerick, providing 2 no. new
 
 houses.
----
+
+[[PAGE_END:2]]
+
 3
 
 Sycamore Avenue, Metropolitan District of Limerick, is on schedule to complete by
@@ -282,7 +287,9 @@ houses.
 **Question submitted by** **Councillor M. McCreesh**
 
 ***I will ask at the next meeting can an update be provided on the Limerick Shannon Metropolitan***
----
+
+[[PAGE_END:3]]
+
 4
 
 ***Area Transport Strategy Study. Councillors were promised the opportunity to provide input to***
@@ -364,7 +371,9 @@ reports in relation to this work. Works required must then be specified and cost
 Tender of works must then take place. Our representative Brendan Moore will
 
 work with residents in relation to this matter keeping them informed by way of
----
+
+[[PAGE_END:4]]
+
 5
 
 regular updates.
@@ -412,4 +421,6 @@ This concluded the Meeting.
 **Dated:**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:5]]
+

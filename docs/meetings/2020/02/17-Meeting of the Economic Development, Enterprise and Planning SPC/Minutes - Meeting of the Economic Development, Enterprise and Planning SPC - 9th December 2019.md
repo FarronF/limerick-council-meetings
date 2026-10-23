@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-02/minutes-of-spc-9th-dec-2019.pdf)
+**Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 9th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/minutes-of-spc-9th-dec-2019.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
 **AND PLANNING STRATEGIC POLICY COMMITTEE HELD IN THE COUNCIL CHAMBER,**
@@ -92,7 +93,9 @@ airports (state and private) of less than 3 million passengers
 While members thanked Dr. Cahill for a very comprehensive presentation, they expressed
 
 concern over the lack of funding available to Shannon Airport and that National Aviation
----
+
+[[PAGE_END:1]]
+
 Policy was in direct contradiction with Project Ireland 2040-balanced regional growth.
 
 Replying to members, Dr. Cahill stated that the omission of financial support for Shannon
@@ -166,7 +169,9 @@ film service. He stated that, as it is a new industry, they are reliant on attra
 skills. He also stated that they are currently establishing a Mid-West Film Education and
 
 Training group to develop a supply of skilled people locally to work for future productions.
----
+
+[[PAGE_END:2]]
+
 Members congratulated him on the success of Troy Studios and stated that it was a great
 
 vote of confidence having a film studio in Limerick.
@@ -222,4 +227,6 @@ That concluded the business of the meeting.
 **Councillor Eddie Ryan,**
 
 **Chairperson**
----
+
+[[PAGE_END:3]]
+

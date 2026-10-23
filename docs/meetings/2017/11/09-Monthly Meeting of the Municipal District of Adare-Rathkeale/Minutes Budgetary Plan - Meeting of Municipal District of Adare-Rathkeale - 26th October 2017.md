@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Budgetary%20Plan%202018%2026th%20October%2C%202017.pdf)
+**Original file:** [Minutes Budgetary Plan - Meeting of Municipal District of Adare-Rathkeale - 26th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Budgetary%20Plan%202018%2026th%20October%2C%202017.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **MINUTES OF PROCEEDINGS AT THE BUDGETARY PLAN 2018 MEETING OF THE**
@@ -108,7 +109,9 @@ Director, Regional Services noted the importance of inviting groups to apply for
 funding in terms of audit trail and inclusiveness and suggested that an advertisement be
 
 place in this regard.
----
+
+[[PAGE_END:1]]
+
 2
 
 Members discussed the raised expectations that might arise from advertising a scheme
@@ -144,4 +147,6 @@ Signed:
 Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

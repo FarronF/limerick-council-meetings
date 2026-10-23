@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 16th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2016th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 _—_—_—_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-~—S Cé na gCeannaithe,
+ie Cé na gCeannaithe,
 = Luimneach
 Limerick Corporate Services and Change Management
 CITY & COUNTY Limerick City and County Council,
@@ -72,11 +73,13 @@ To consider the taking-in-charge of Liosan, Newcastle West, in accordance with S
 
 = Customerservices@limerick.ie
 
-Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach o& wwwlimerick.te
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach © wwwlimerick.te
 Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -132,7 +135,9 @@ at Cois na Féile Estate are stopped until all outstanding issues regarding the 
 resolved, including concerns of the local residents and the wider community for example
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11.
@@ -153,4 +158,6 @@ for Christmas lighting be provided on a pro rata basis based on the overall popu
 City and County.
 
 
----
+
+[[PAGE_END:3]]
+

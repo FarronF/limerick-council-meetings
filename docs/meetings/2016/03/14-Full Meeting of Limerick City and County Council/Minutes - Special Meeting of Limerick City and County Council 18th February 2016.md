@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2018th%20February%202016_0.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council 18th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2018th%20February%202016_0.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
 LIMERICK CITY AND COUNTY COUNCIL HELD IN THE
@@ -84,7 +85,9 @@ The Mayor said that he had only gotten to know Joe since he had been elected
 and that during that relatively short timeframe, he had found him to be a
 
 gentleman of the highest calibre. He added that he had taken his role of
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor very seriously and that he had been so proud to have been elected
@@ -156,7 +159,9 @@ delighted he was to be selected as Deputy Mayor of our first amalgamated Local
 Authority last June. This was truly a great honour for him and his family and a role
 
 he carried out with great respect and dignity.
----
+
+[[PAGE_END:2]]
+
 3
 
 Recently, he had been telling me of his improved health following a near death
@@ -224,7 +229,9 @@ particular interest in ensuring the future of the Westfields Wetland natural
 beauty spot and had been the subject of much discussion at Meetings of the
 
 Metropolitan District – thanks to Joe.
----
+
+[[PAGE_END:3]]
+
 4
 
 He said the most important thing for Joe was his family, his wife, Christine,
@@ -290,7 +297,9 @@ politics, some others raised the question – was it not more people like Joe th
 were needed in politics. The Members said that Joe epitomised everything that
 
 was good in politics, he was devoid of ego and self-interest, he had as his main
----
+
+[[PAGE_END:4]]
+
 5
 
 objective to look after his community. It was said that he was a man for all
@@ -338,4 +347,6 @@ Signed:
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:5]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
+**Original file:** [Minutes - Meeting of Municipal District of Newcastle West - 2nd December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF NEWCASTLE WEST
@@ -72,7 +73,9 @@ The Cathaoirleach welcomed representatives from Calvary Cemetery Committee and o
 the format for the presentation. He advised that a letter would issue to them, in due course,
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -111,7 +114,7 @@ regard to the issues raised.
 The Cathaoirleach thanked the Deputation for their presentation. The Deputation then
 withdrew from the Meeting.
 
-4. Eco’ i nd Plannin
+4. Eco! i ind Plannin
 
 Initiatives for the Municipal District of Newcastle West
 
@@ -137,7 +140,9 @@ not very beneficial. It may need to be looked at in the future. Members also sta
 something needed to be done to bring back people to live in towns and villages. It was
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -163,7 +168,7 @@ It was agreed that the Cathaoirleach of the Municipal District would attend a me
 representatives from Transport Infrastructure Ireland. In the event that the Cathaoirleach was
 unavailable he would nominate another Member. It was also agreed that Members submit a list
 of issues they wished to have raised at this meeting to the Administrative Officer, Corporate
-Services by the 9" December, 2015. It was requested that this meeting be arranged to take
+Services by the 9°" December, 2015. It was requested that this meeting be arranged to take
 
 place in Limerick.
 
@@ -177,7 +182,7 @@ UESTIONS
 
 6. Question submitted by Councillor L. Galvin
 
-1 will ask at the next Meeting for an update on the provision of a footpath from Abbey United
+! will ask at the next Meeting for an update on the provision of a footpath from Abbey United
 Soccer Field to the Railway Bar, Abbeyfeale.
 
 REPLY: Limerick City and County Council has applied for grant funding for an extension
@@ -195,7 +200,9 @@ Signage for the Park will be erected at the Square and at the entrance to the
 Town Park.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -221,9 +228,9 @@ building will be considered in the new Traffic Management Plan about to be
 
 undertaken.
 
-9. Question submitted by Councillor J. Scanlan
+9. Question submitted by Councillor J. Scanian
 
-| will ask at the next Meeting if the suction sweeper can be deployed in the Woodfield Estates
+! will ask at the next Meeting if the suction sweeper can be deployed in the Woodfield Estates
 to remove the very significant leaf fall in the area.
 
 REPLY: We are actively progressing a programme of sweeping roads and footpaths in the
@@ -231,7 +238,7 @@ district. We will endeavour to schedule estates into this programme.
 
 10. Question submitted by Councillor J. Scanian
 
-! will ask at the next Meeting when the part of the footpath in urgent need of repair will be
+1 will ask at the next Meeting when the part of the footpath in urgent need of repair will be
 replaced at Chapel Close.
 
 REPLY: The repair of the footpath at Chapel Close is part of works scheduled for
@@ -251,7 +258,9 @@ Councillor Collins asked what criteria were used with regard to the provision of
 The Operations Manager stated that each estate is looked at on its merits.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 5
@@ -287,14 +296,14 @@ from the Main Street in Abbeyfeale. It was the only town on the N21 with no bus 
 left hand side. People find it very difficult to pull up in the town. It was suggested that a Public
 Toilet be reinstated at the Square, Abbeyfeale. Councillor Browne in seconding the Motion
 stated that he would welcome a Traffic Management Plan and proper consultation was
-required with the people and the business sector.
+required with the people and the business sector,
 
 REPLY: Limerick City and County Council has appointed consultants, Malachy Walsh and
 Partners, to prepare a Traffic Management Plan. Work will commence on the Plan
 prior to Christmas, 2015. Public consultation will take place in early 2016 with a
 view to bringing the Plan through the Part Vill process.
 
-14. Noti f ion submitted b uncillor J. Scanian
+14. Noti f ion submitted b' uncillor J. Scanian
 
 1 will move at the next Meeting that the Council liaise with Irish Water to enable meters to be
 installed at several private residences in the Newcastle town area where users are currently
@@ -310,7 +319,9 @@ Councillor Collins and agreed.
 REPLY: The Council will refer Councillor Scanlan’s Notice of Motion to Irish Water for
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -328,18 +339,18 @@ number is 1890178178. Email address: localrepsupport@water.ie.
 
 15. Notice of Motion submitted by Councillor J. Scanian
 
-! will move at the next Meeting that essential works are carried out on local roads at (a)
+1 will move at the next Meeting that essential works are carried out on local roads at (a)
 Clonmore, Dromcollogher, (b) Gorteen Feenagh, (c) Appletown, Feohanagh, (d) Gardenfield,
 Monagea so as to ensure against the repercussions of future flooding in these areas.
 
-The Motion was proposed by Councillor Scanian and seconded by Councillor Sheahan.
+The Motion was proposed by Councillor Scanlan and seconded by Councillor Sheahan.
 
 REPLY: Works such as gully cleaning and drainage works will be carried out at the above
 mentioned locations in the next few weeks.
 
 16. Notice of Motion submitted by Councillor M. Collins
 
-! will move at the next Meeting that signage located at the Grange side of Dores Cross on the
+| will move at the next Meeting that signage located at the Grange side of Dores Cross on the
 R520 be relocated to a safer area at the junction as it is causing a sight line and traffic hazard
 for vehicle owners accessing the regional road.
 
@@ -369,4 +380,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:6]]
+

@@ -24,9 +24,9 @@ file_type: "Meeting Overview"
 
 Files: 
 
-Agenda - Municipal District of Adare-Rathkeale - 12th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_12th_january_2017.pdf) - [Extracted text](./Agenda%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2012th%20January%202017.md)
+Agenda - Municipal District of Adare-Rathkeale - 12th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_12th_january_2017.pdf) - Text not extracted
 
-Minutes - Municipal District of Adare-Rathkeale - 13th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_13th_december_2016.pdf) - [Extracted text](./Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2013th%20December%202016.md)
+Minutes - Municipal District of Adare-Rathkeale - 13th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_13th_december_2016.pdf) - Text not extracted
 
 Ballyhahill Development Association - Request to hold District Meeting in Ballyhahill - Municipal District of Adare-Rathkeale - 12th January 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/ballyhahill_development_association_-_request_to_hold_district_meeting_in_ballyhahill.pdf) - Text not extracted
 

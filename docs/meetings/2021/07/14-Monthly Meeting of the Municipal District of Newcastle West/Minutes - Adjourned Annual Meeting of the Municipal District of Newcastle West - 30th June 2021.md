@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01c-2021-06-30-adj-agm-minutes.pdf)
+**Original file:** [Minutes - Adjourned Annual Meeting of the Municipal District of Newcastle West - 30th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01c-2021-06-30-adj-agm-minutes.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
 MUNICIPAL DISTRICT OF NEWCASTLE WEST HELD IN
@@ -80,7 +81,9 @@ during a challenging twelve months due to the Covid 19 pandemic. They also thank
 outgoing Leas-Chathaoirleach, Councillor Michael Collins.
 
 The Director on behalf of Management and staff, also paid tribute to Councillor Foley.
----
+
+[[PAGE_END:1]]
+
 2
 
 **1.**
@@ -150,7 +153,9 @@ Proposed by: Councillor J. Scanlan
 Proposed by: Councillor T. Ruddle
 
 Seconded by: Councillor M. Collins
----
+
+[[PAGE_END:2]]
+
 3
 
 *“That, Councillor* *J. Sheahan be appointed Leas-Chathaoirleach of the Municipal District of*
@@ -176,4 +181,6 @@ Signed:
 Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2023</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2023-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Travel-and-Transportation-Strategic-Policy-Committee-Meeting-20th-June-2023.pdf)
+**Original file:** [Agenda - Travel & Transportation Strategic Policy Committee Meeting - 20th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Travel-and-Transportation-Strategic-Policy-Committee-Meeting-20th-June-2023.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **9th** **June 2023**
@@ -51,7 +52,9 @@ out in the appended agenda.
 
 (Image omitted)
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 2
 
 **AGENDA**
@@ -87,4 +90,6 @@ policy in relation to its stance on non-national tertiary roads and include a mi
 of two per year in the Schedule of Municipal District Works for reconstruction to
 
 start the process.
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%2015th%20October%2C%202018.pdf)
+**Original file:** [Agenda - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%2015th%20October%2C%202018.pdf)
 
----
+[[FILE_START]]
+
 **LIMERICK CITY AND COUNTY COUNCIL**
 
 **Community Leisure and Emergency Services**
@@ -82,4 +83,6 @@ Calendar of SPC Meetings 2018/2019
 **Community, Leisure and Emergency Services SPC**
 
 **Limerick City and County Council**
----
+
+[[PAGE_END:1]]
+

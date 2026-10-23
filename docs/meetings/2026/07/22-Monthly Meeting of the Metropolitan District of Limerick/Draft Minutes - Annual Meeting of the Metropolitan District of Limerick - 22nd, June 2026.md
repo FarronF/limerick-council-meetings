@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-annual-meeting-of-the-metropolitan-district-of-limerick-22nd-june-2026.pdf)
+**Original file:** [Draft Minutes - Annual Meeting of the Metropolitan District of Limerick - 22nd, June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-annual-meeting-of-the-metropolitan-district-of-limerick-22nd-june-2026.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
 **HELD IN THE COUNCIL CHAMBER,** **MERCHANT’S QUAY** **AND ONLINE, ON MONDAY, 22ND** **JUNE 2026**
@@ -90,7 +91,9 @@ The Members congratulated Councillor Butler on his very successful year as Catha
 Metropolitan District, particularly for his commitment to the city centre. They commended him for
 
 the professional manner in which he chaired the meetings and carried out his duties.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Director, Environment, Climate Action and Fire, on behalf of Management and Staff, thanked
@@ -162,7 +165,9 @@ He wished all associated with the Ryder Cup every success for the event next yea
 his good wishes to the Senior and Minor Hurlers in their upcoming games. He finished by saying it
 
 was a great honour to accept the role of Cathaoirleach.
----
+
+[[PAGE_END:2]]
+
 3
 
 **2.To elect a Leas Chathaoirleach of the Metropolitan District of Limerick to hold Office until the**
@@ -198,4 +203,6 @@ This concluded the Meeting.
 **Cathaoirleach**
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:3]]
+

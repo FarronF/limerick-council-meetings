@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_muncipal_district_of_newcastle_west_-_1_april_2015.pdf)
+**Original file:** [Agenda - Municipal District of Newcastle West - 1st April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_muncipal_district_of_newcastle_west_-_1_april_2015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_——_—_— Seirbhisi Corpardideacha agus Bainisttocht Athruithe,
+_—_—_—_—" Seirbhisi Corpardideacha agus Bainisttocht Athruithe,
 Comhairle Cathrach agus Contae Luimnigh,
 
-Ses Cé na gCeannaithe,
+SEMA Cé na gCeannaithe,
 — Luimneach
 Limerick Corporate Services and Change Management,
 CITY & COUNTY Limerick City and County Council
@@ -49,7 +50,7 @@ Is mise le meas,
 
 Vf
 
-lone row
+lone Vrow
 
 Tina Knox,
 
@@ -57,13 +58,13 @@ Meetings Administrator.
 
 AGENDA
 
-eee eenn-------: eee en cnr e wenn cnn n ewan mene stern tenet ane eee eeseee
+eee eeenn------ eee een en eee wenn ene n ewan eee nes teeter ene n nen e ee eeeeee
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 
 (a) Municipal District of Newcastle West held on 4” March, 2015.
-(b) Special Meeting of Municipal District of Newcastle West held on 18" March, 2015.
+(b) Special Meeting of Municipal District of Newcastle West held on 18” March, 2015.
 
 (Copies Enclosed)
 
@@ -78,13 +79,15 @@ To receive Deputations from the following:
 
 ° Mountcollins Development Association.
 ° Newcastle West Community Centre.
-= customerservices@limerick ie
+= customerservices@limerickie
 Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © worwlimerickie
 
-Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -135,7 +138,9 @@ Notices of Motion submitted by Councillor J. Scanlan
 on an ongoing basis.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 11. | will move at the next Meeting that, given the recently announced ability to adjust speed
@@ -143,4 +148,6 @@ limits at Local Authority level, an audit be undertaken of our residential estat
 introduce appropriate limits therein in the interests of general safety.
 
 
----
+
+[[PAGE_END:3]]
+

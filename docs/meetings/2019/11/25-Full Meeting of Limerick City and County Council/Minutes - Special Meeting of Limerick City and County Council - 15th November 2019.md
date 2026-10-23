@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28c%29%20Minutes%20Special%20Meeting%2015.11.19.pdf)
+**Original file:** [Minutes - Special Meeting of Limerick City and County Council - 15th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28c%29%20Minutes%20Special%20Meeting%2015.11.19.pdf)
 
----
+[[FILE_START]]
+
 1
 
 **Minutes of Proceedings at Special Meeting of Limerick City and County Council**
@@ -88,7 +89,9 @@ Minister for Communications, Climate Action and Environment and demand that he
 intervenes to stop the closure and to save Lyric FM. Councillor Sheehan also requested that
 
 the Council write to the Cathaoirligh of Clare and Tipperary County Councils requesting
----
+
+[[PAGE_END:1]]
+
 2
 
 them to oppose the proposal. Councillor Sheehan also requested that the Council write to
@@ -154,4 +157,6 @@ Mayor
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

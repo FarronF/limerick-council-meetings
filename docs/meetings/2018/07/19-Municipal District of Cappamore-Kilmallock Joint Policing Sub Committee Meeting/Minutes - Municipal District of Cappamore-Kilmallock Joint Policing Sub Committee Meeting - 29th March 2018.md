@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2018</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Joint%20Policing%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2029thMar2018.pdf)
+**Original file:** [Minutes - Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting - 29th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Joint%20Policing%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2029thMar2018.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
 MEETING
@@ -94,7 +95,9 @@ The Acting Superintendent also confirmed that additional resources had been depl
 targeted patrols are being carried out across the District as part of Operation Portable which
 
 was a Garda operation to address the increase in burglary crimes this year. Because of
----
+
+[[PAGE_END:1]]
+
 2
 
 Operation Portable, the Gardaí had six separate individuals who were arrested and
@@ -168,4 +171,6 @@ Cathaoirleach
 Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:2]]
+

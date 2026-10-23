@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%2025th%20July%252c%202017%20%281%29.pdf)
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 25th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%2025th%20July%252c%202017%20%281%29.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Seirbhis{ Corpardideacha.
-__——_— & Contae Luimnigh = ena
-aAar™N ————————————— cé annaithe,
-——— Limerick city ae aun
+_—_—_— & Contae Luimnigh a psc de ahi pr tb
+aAr™N —————————— cé annaithe,
+——— Limerick city aaa
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -47,7 +48,7 @@ You are requested to attend a Special Meeting of the Municipal District of Adare
 held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 25 July, 2017 at 6.30
 p.m. The business to be transacted is set out on the appended Agenda.
 
-ls mise le meas,
+Is mise le meas,
 
 FLL
 
@@ -75,16 +76,18 @@ Rathkeale to Ballingarrane, Co. Limerick along the former Limerick to Kerry rail
 To consider the Chief Executive’s Report, prepared pursuant to Section 179(3) (a) of the
 Planning and Development Act 2000 (as amended) and Part VIII of the Planning and
 
-& customerservices@limerick.ie
+& customerservices@limerick.ic
  wvalimerick.ie
 
 Ceanncheathrit Chorpardideach, Cé na gCeannaithe, Luimneach !
 
-W @LimerickCouncil
+w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Development Regulations 2001 (as amended) in relation to the Extension of the Great
@@ -94,4 +97,6 @@ along the former Limerick to Kerry railway line.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:2]]
+

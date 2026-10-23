@@ -30,5 +30,5 @@ Minutes - Meeting of the Cultural SPC - 12 December 2017.pdf - [Original file](
 
 Presentation from CWB on Proposal for a New Festival for Limerick - Meeting of the Cultural SPC - 16 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%205.pdf) - Text not extracted
 
-Report on Creative Youth Plan_ Creative Ireland - Meeting of the Cultural SPC - 16 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%206.pdf) - Text not extracted
+Report on Creative Youth Plan: Creative Ireland - Meeting of the Cultural SPC - 16 January 2018.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%206.pdf) - Text not extracted
 

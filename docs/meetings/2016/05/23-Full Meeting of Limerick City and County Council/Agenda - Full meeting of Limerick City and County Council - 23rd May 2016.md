@@ -16,24 +16,25 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2016</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20May%202016.pdf)
+**Original file:** [Agenda - Full meeting of Limerick City and County Council - 23rd May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Full%20meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20May%202016.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seirbhisi Corparaideacha agus Bainistiocht Athruithe
 Comhairle Cathrach agus Contae Lutnngh
 
-a“™s ia ‘ Cé na gCeannaithe
+a“s a “ Cé na gCeannaithe
 
-—=_ Lutmneach
+—=— Lutrmneach
 Limerick Corporate Services and Change Management
-CITY & COUNTY Limerick Cty and rte Count
+CITY & COUNTY Limerick Cty and te Counc
 
-COUNCIL Mere Hs —_
+COUNCIL Merc ie =
 
-& 4353 (0) 61 407 100
-f: +353 (0) 61.415 266
+© 4353 (0) 61 407 100
+f: +353 (0) 61 415 266
 
 18" May, 2016.
 
@@ -42,26 +43,26 @@ Council
 A Chomhairleoir, a chara,
 
 You are requested to attend Meeting of Limerick City and County Council to be held in the
-Council Chamber, Dooradoyle, Limerick, on Monday, 23” May, 2016, at 3.00 p.m. The
+Council Chamber, Dooradoyle, Limerick, on Monday, 23% May, 2016, at 3.00 p.m. The
 business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-OG.—~
+OG—~
 
 Christy O’Connor,
 Meetings Administrator.
-Aanateaeneccennceneneeeeerrenccccacceeeeeeenecuceseceseerereceecenne
+Aanneeeeneccennceneaeeneenwerceccacceeeeereneeneeeeececereceeeeennne
 
 AGENDA
 
 1. Minutes
 To adopt Minutes of the following Meetings:
 (a) Special Meeting of the Council held on 14" March, 2016.
-(b) Ordinary Meeting of the Council held on 14 March, 2016.
+(b) Ordinary Meeting of the Council held on 14" March, 2016.
 (c) Special Meeting of the Council held on 21 March, 2016.
 
-(d) Adjourned Meeting of the Council held on 23% March, 2016.
+(d) Adjourned Meeting of the Council held on 23 March, 2016.
 (Copies Enclosed)
 
 2. Disposal of Land
@@ -73,7 +74,9 @@ To consider proposal for the disposal of land at —
 Castletroy, Co. Limerick.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3.
@@ -102,7 +105,6 @@ Other Bodies
 
 To consider the nomination of a replacement to the following Strategic Policy
 Committees consequent on the election of Councillor Maria Byrne to Seanad
-
 Eireann.
 
 Travel and Transportation Strategic Policy Committee.
@@ -126,7 +128,9 @@ Limerick and Clare Education and Training Board.
 Stakeholder Group of Limerick 2020.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (c)
@@ -156,6 +160,7 @@ To consider draft Annual Report 2015.
 Ballyhoura Development Limited
 
 To consider the nomination of 1 Member of Limerick City and County Council
+
 to the Board of Ballyhoura Development Limited.
 (Correspondence Enclosed)
 
@@ -188,20 +193,12 @@ Government Act 2001 (as amended by the Local Government Reform Act,
 Chief Executive already circulated)
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-4.
-
-(i)
-
-(i)
-
-(k)
-
-()
-
-Additional Expenditure 2015
+(i) Additional Expenditure 2015
 
 To authorise additional expenditure over budget for financial year ended 31st
 December, 2015, under Section 104 of the Local Government Act 2001 (as
@@ -210,7 +207,7 @@ amended by the Local Government Reform Act, 2014), including Capital
 transfers.
 (Report already circulated)
 
-Audit Committee
+(j) Audit Committee
 
 (i) To consider the adoption of the Draft Charter for Limerick City and
 County Council Audit Committee.
@@ -221,30 +218,28 @@ Limerick City and County Council Audit Committee.
 
 (Report Enclosed)
 
-(iii) To consider Audit Committee Annual Report December 2014 to
+(iii) | To consider Audit Committee Annual Report December 2014 to
 
 December 2015.
 (Report Enclosed)
 
-Motion from Irish Congress of Trade Unions
+(k) Motion from Irish Congress of Trade Unions
 
 To consider adopting Motion received from the Irish Congress of Trade
 
 Unions in relation to fair conditions of employment.
 (Report Enclosed)
 
-Civic Reception
+(l) Civic Reception
 
 To consider the grant of a Civic Reception to honour the Religious Orders in
 Limerick which come under the auspices of the Diocese of Cashel and Emly,
 in accordance with Section 74 of the Local Government Act, 2001, as
 amended.
 
-Limerick 2020
+4. Limerick 2020
 
-(a)
-
-Limerick Cultural Strategy: A Framework 2016-2030
+(a) Limerick Cultural Strategy: A Framework 2016-2030
 
 To consider the adoption of the Limerick Cultural Strategy: A Framework
 
@@ -252,7 +247,9 @@ To consider the adoption of the Limerick Cultural Strategy: A Framework
 (Report and Draft Strategy Enclosed)
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 (b) Limerick 2020 Bid for European Capital of Culture
@@ -262,7 +259,7 @@ European Capital of Culture.
 (Report Enclosed)
 
 Economic Development Directorate
-(a) Development Contribution Scheme 2016
+(a) Development Contribution Scheme 2016 _
 
 To note the proposed allocations from the Development Fund 2016.
 
@@ -296,11 +293,13 @@ to 13" March, 2016.
 15/16" April, 2016.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-{c) Open House Information Session on Lobbying Regulation held in Dublin
-on 19” April, 2016.
+(c) Open House Information Session on Lobbying Regulation held in Dublin
+on 19™ April, 2016.
 
 (d) Conference on 2014 Freedom of Information Act and W.R.C. (Workplace
 Relations Commission), held in Letterkenny, Co. Donegal, from 15" to
@@ -321,15 +320,15 @@ be held in Clonakilty, Co. Cork, from 20" to 22" May, 2016.
 (i) | Conference on A Programme for Government to be held in Wexford from
 27” to 29" May, 2016.
 
-(j) | Sedan MacDiarmada Summer School 2016 to be held in Kiltyclogher, Co.
-Leitrim, from 9°" to 12 June, 2016.
+(j) | Sedn MacDiarmada Summer School 2016 to be held in Kiltyclogher, Co.
+Leitrim, from 9°" to 12" June, 2016.
 
 (k) Conference on Auditing and Governance in Local Government to be held
 in Clonakilty, Co. Cork, from 10" to 12" June, 2016.
 
 (I) | Conference on The Councillor and Local Development and Enterprise ‘All
 That You Need to Know’ to be held in Letterkenny, Co. Donegal, from 10”
-to 12" June, 2016.
+to 12™ June, 2016.
 
 (m) Conference on Housing Grants and Schemes to be held in Clonakilty, Co.
 Cork, from 24" to 26" June, 2016.
@@ -344,7 +343,9 @@ Meeting/Event.
 (Copy Enclosed)
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10.
@@ -390,11 +391,13 @@ the early morning collection of waste.
 
 Questions submitted by Councillor C. Prendiville
 
-I will ask at the next Meeting how many social houses are expected to be completed
+| will ask at the next Meeting how many social houses are expected to be completed
 construction by Limerick City and County Council in 2016.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 14.
@@ -430,7 +433,7 @@ Notice of Motion submitted by Cmhir. S. 6 Ceallaigh (to be referred
 to Travel and Transportation Strategic Policy Committee)
 
 | will move at the next Meeting that this Council renames William Street, Little
-William Street and Upper William Street to Srdid Ui Dhdlaigh, Sréid Ui Dhailaigh
+William Street and Upper William Street to Srdid Ui Dhdlaigh, Srdéid Ui Dhailaigh
 Bheag and Srdaid U{ Dhalaigh Uacht, in honour of Ned Daly.
 
 Notice of Motion submitted by Councillor P. Keller
@@ -450,7 +453,9 @@ developments specifically exclude the provision of timber panel boundary fencing
 the interests of both safety and of visual amenity.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 20.
@@ -505,7 +510,9 @@ Limerick City and County and what he plans to do about the urban / rural divide 
 relation to access to mental health services.
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 10
@@ -519,7 +526,7 @@ vulture fund housing stock under CPO if necessary.
 
 Notice of Motion submitted by Councillor J. Costelloe
 
-26. | will move at the next Meeting that this Council write to the Department of Foreign _
+26. | will move at the next Meeting that this Council write to the Department of Foreign __
 Affairs asking them to publicly demand the release of Irish Citizen, Ibrahim Halawa.
 
 Notice of Motion submitted by Councillor M. McCreesh
@@ -548,4 +555,6 @@ November, December, January, February, March, April, May, June and July.
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:10]]
+

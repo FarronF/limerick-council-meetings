@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-metropolitan-district-of-limerick-20th-may-2024.pdf)
+**Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/00-agenda-meeting-of-metropolitan-district-of-limerick-20th-may-2024.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ; Sewbhisi Corparaideacha,
-eel Comhairle Cathrach Comhaite Cathrach agus Contae Luimnigh,
-~ & Contae Luimnigh Ceanncheathri Chorpardideach,
-ALN A —_—_ Cé na gCeannaithe,
+el Comhairle Cathrach Comnairte Cathrach agus Contae Luimnigh,
+—~ & Contae Luimnigh Ceanncheathrii Chorpardideach,
+ALN A ————— Cé na gCeannaithe,
 Limerick City Luirmneach
 
 = & County Council
@@ -42,14 +43,14 @@ EIRCODE V94 ER90
 t: +353 (0) 61 557150
 f: +353 (0) 61 415 266
 
-15t May, 2024.
+15 May, 2024.
 
 To: The Cathaoirleach and each Member of the Metropolitan District of Limerick
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Meeting of the Metropolitan District of Limerick to be held on
-Monday, 20% May, 2024 at 9.45am in the Council Chamber, Merchant’s Quay, Limerick and
+Monday, 20 May, 2024 at 9.45am in the Council Chamber, Merchant’s Quay, Limerick and
 Online via Microsoft Teams.
 
 The business to be transacted is set out on the appended Agenda.
@@ -70,15 +71,17 @@ April, 2024.
 
 (Copy Enclosed).
 2. Declaration of Interest.
-m Customerservices@limerickte
+mm Customerservices@limerick te
 @ Wewelimerick.ie
 Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach ye
 
-‘LimerickCouncil
+LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3. Regeneration, Sports and Recreation Directorate
@@ -132,7 +135,9 @@ a lot of green area, can the green area be cut into to make up car parking space
 2
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor C. Slattery
@@ -147,7 +152,7 @@ youth/sport facilities in the area.
 who have received regeneration funding over the last 5 years from the Social and Economic
 Intervention Fund, and the amount they have each received.
 
-11. Question submitted by Councillor E. O'Donovan
+11. Question submitted by Councillor E. O’Donovan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for a pedestrian crossing to
 be placed on the Rossbrien Road from Roundwood Estate to Ballinacurra Gardens for the people
@@ -181,7 +186,9 @@ provision of a Community Centre for the Dooradoyle/Raheen area following the com
 feasibility study in early 2023.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 16. Question submitted by Councillor D. McSweeney
@@ -199,7 +206,7 @@ of the Castleconnell Playground has been completed and is available on request.
 
 18. Question submitted by Councillor O. O’Sullivan
 
-| will ask at the next Meeting of the Metropolitan District of Limerick for an update on plans fora
+| will ask at the next Meeting of the Metropolitan District of Limerick for an update on plans for a
 Park and Ride facility at Coonagh/Clondrinagh.
 
 19. Question submitted by Councillor O. O'Sullivan
@@ -209,7 +216,7 @@ table top and slope of the traffic calming measures on Brookville Avenue, and pl
 meets guideline height and slope on routes used regularly by buses and trucks, as excessive
 heights are causing noise disturbance at night time.
 
-20. Question submitted by Councillor O. O’Sullivan
+20. Question submitted by Councillor O. O'Sullivan
 
 | will ask at the next Meeting of the Metropolitan District of Limerick for an update on the
 Shopfront Design Guidelines for Limerick City.
@@ -227,7 +234,9 @@ made on a new location for the bring centre in Castleconnell as the current one 
 not in a suitable location.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 N OF MOTION
@@ -277,13 +286,15 @@ County Council outline its proposals to address the issues relating to the prope
 maintenance of cemeteries, located within the Metropolitan District of Limerick.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-30. Notice of Motion submitted by Coundillor S. Kiely
+30. Notice of Motion submitted by Councillor S. Kiely
 
 | will move at the next Meeting of the Metropolitan District of Limerick that the restrictions on
-Capacity at Mungret Recycling Centre for green waste from small businesses be lifted by Limerick
+capacity at Mungret Recycling Centre for green waste from small businesses be lifted by Limerick
 City and County Council and a solution is examined as soon as possible.
 
 31. Notice of Motion submitted by Councillor S. Kiely
@@ -303,4 +314,6 @@ summer.
 (Copy of Correspondence Enclosed).
 
 
----
+
+[[PAGE_END:6]]
+

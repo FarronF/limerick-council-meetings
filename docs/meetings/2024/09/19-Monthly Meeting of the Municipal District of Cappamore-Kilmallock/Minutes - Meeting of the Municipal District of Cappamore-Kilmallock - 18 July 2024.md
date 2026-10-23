@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-09/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18-july-2024.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18 July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18-july-2024.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
 MUNICIPAL DISTRICT OF CAPPAMORE-KILMALLOCK HELD IN ARAS
@@ -76,7 +77,9 @@ Cappamore-Kilmallock regarding Athenacy held on 16th May 2024.
 **And Resolved:**
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
----
+
+[[PAGE_END:1]]
+
 **(i)**
 
 Circulated copy of draft Minutes of Annual Meeting of the Municipal District of
@@ -130,7 +133,9 @@ The Part 8 was noted by the Elected Members.
 The Senior Engineer for Strategy and Non LA Housing also provided an update for the
 
 Elected Members on other developments in the area including:
----
+
+[[PAGE_END:2]]
+
  Construction commenced on units in Kilfinane in Easter
 
  9 units in Ballylanders have gone to tender
@@ -186,7 +191,9 @@ Municipal District, initially to discuss the new LCSP initiative.
 **Read into minutes:** Correspondence from Ballyhoura Failte and Ballyhoura Heritage.
 
 See attached correspondence and agreed response from Elected Members.
----
+
+[[PAGE_END:3]]
+
 NOTICES OF MOTION
 
 7. Notice of Motion submitted by Councillor Carey
@@ -244,7 +251,9 @@ complete and the tendering process is currently underway. A main contractor is e
 be appointed within 6 weeks with works to be completed by the end of the year, and the
 
 Boil Water Notice is subsequently expected to be lifted. Following this, we expect the Taken
----
+
+[[PAGE_END:4]]
+
 in Charge process to progress. Further information will be available in the Rural Water
 
 Department of Limerick County Council.
@@ -292,7 +301,9 @@ confirms they are willing to progress through the Tenant in Situ Acquisition Sch
 Housing Support Services team are aware of the situation and have been in contact with the
 
 tenants with a view to finding a solution.
----
+
+[[PAGE_END:5]]
+
 10.
 
 Question submitted by Councillor Carey
@@ -348,7 +359,9 @@ on the reason that the Main four cross roads at Powers Corner in Kilfinane are s
 double yellow lines causing major road blockages at times. These were removed during
 
 road resurfacing last year and not replaced.”
----
+
+[[PAGE_END:6]]
+
 **REPLY :**
 
 The Roads Engineer will organise for the double yellow lines to be reinstated at the junction
@@ -400,4 +413,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
----
+
+[[PAGE_END:7]]
+

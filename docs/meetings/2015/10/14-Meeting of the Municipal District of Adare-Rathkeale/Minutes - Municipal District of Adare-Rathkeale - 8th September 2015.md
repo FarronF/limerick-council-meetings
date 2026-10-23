@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%208th%20September%202015.pdf)
+**Original file:** [Minutes - Municipal District of Adare-Rathkeale - 8th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%208th%20September%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 OF ADARE-RATHKEALE HELD IN KILCORNAN COMMUNITY CENTRE,
-KILCORNAN, CO. LIMERICK ON TUESDAY, 8" SEPTEMBER, 2015, AT
+KILCORNAN, CO. LIMERICK ON TUESDAY, 8 SEPTEMBER, 2015, AT
 
 9.00 A.M.
 PRESENT IN THE CHAIR: Councillor R. O'Donoghue, An Cathaoirleach.
@@ -43,7 +44,7 @@ Mid West National Road Design Office (Mr. M. Leahy), Administrative Officer, Wat
 Services (Mr. Michael Griffin), Meetings Administrator (Ms. T. Knox), Staff Officer (Ms.
 Karen Butler), Assistant Staff Officer (Ms. E. Buckley).
 
-With the Cathaoirleach’s permission, it was agreed that Item 3 would be taken at this stage
+With the Cathaoirleach's permission, it was agreed that Item 3 would be taken at this stage
 of the Meeting.
 
 3. Deputation from Kilcornan Community Council
@@ -65,14 +66,16 @@ With the Cathaoirleach's permission, it was agreed to take Item 17 in conjunctio
 
 17. Notice of Motion submitted by Councillor E. O’Brien
 
-! will move at the next Meeting for the NRA to attend at our area and explain what
+| will move at the next Meeting for the NRA to attend at our area and explain what
 their plan is for the installation of traffic route lighting in the vicinity of the Kilcornan
 primary school and entrance to the Ger McDonnell all-weather playing facility/
 Kilcornan Community Centre together with enhanced traffic calming/safety
 measures at this location.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2
@@ -130,7 +133,9 @@ Rathkeale held on 14” July, 2015.
 Proposed by Councillor O’Brien;
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Seconded by Councillor McMahon;
@@ -139,7 +144,7 @@ And Resolved:
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
 (b) Circulated, copy of draft Minutes of Special Meeting of the Municipal District of
-Adare-Rathkeale held on 14” July, 2015,
+Adare-Rathkeale held on 14” July, 2015.
 
 Proposed by Councillor O'Brien;
 Seconded by Councillor McMahon;
@@ -182,7 +187,9 @@ The Head of Finance, Motor Tax and ICT indicated that, subject to agreement by t
 Members, this item would go before the full Council. He pointed out that there were time
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 4
@@ -194,7 +201,7 @@ was agreed to discuss this matter ‘in committee’ at the conclusion of the Me
 QUESTIONS
 6. Question submitted by Councillor E. O’Brien
 
-| will ask at the next Meeting what steps are being taken by the Human Resources
+! will ask at the next Meeting what steps are being taken by the Human Resources
 Department of Limerick City and County Council to employ a Supervisory Executive
 Engineer and Engineering Technician for the Adare Rathkeale area.
 
@@ -225,8 +232,8 @@ order to provide for emergency funding to estates not in charge.
 
 8. Question submitted by Councillor E. O’Brien
 
-! will ask at the next Meeting if consideration could be given to the substitution of
-1423, from the Seven Sisters Pub to Clorhane, for L1423, Curraghbridge towards
+/ will ask at the next Meeting if consideration could be given to the substitution of
+11423, from the Seven Sisters Pub to Clorhane, for L1423, Curraghbridge towards
 Ballylongford, on the 2016 List of Local Road Schemes in circumstances where
 11423 Curraghbridge towards Ballylongford was completed during the 2015 Roads
 Scheme.
@@ -234,7 +241,9 @@ Scheme.
 REPLY: This work will be carried out under the 2016 Road Works Scheme.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 9. Question submitted by Councillor S. Keary
@@ -261,7 +270,7 @@ in this assessment.
 
 11. ion submi Councillor T. Nev
 
-/ will ask at the next Meeting for an update on the flood relief works to be carried out
+| will ask at the next Meeting for an update on the flood relief works to be carried out
 on the Askeaton Ballysteen road at Moig Askeaton.
 
 REPLY: Flood Relief Works to be carried out on the Askeaton Ballysteen Road at
@@ -269,7 +278,7 @@ Moig Askeaton — Works will commence before the end of September, 2015.
 
 12. Question submitted by Councillor T. Neville
 
-! will ask at the next Meeting for an update on the replacement of rubber speed
+/ will ask at the next Meeting for an update on the replacement of rubber speed
 ramps in St. Mary's Park with ramps similar to the permanent ramp already erected
 in the estate.
 
@@ -280,7 +289,9 @@ speed ramps at this location. However, it is our intention to reduce the
 speed limit in this estate to 30 kph this year.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 6
@@ -325,14 +336,16 @@ submissions received prior to bye-laws being submitted to the full Council for
 
 formal approval.
 
-15. Question submitted by Councillor R. O’Donoghue
+15. Question submitted by Councillor R. O'Donoghue
 
 | will ask at the next Meeting in relation to the Council's Draft Cemeteries Bye-Laws
 2015, if a person wants to purchase a second grave is it proposed that the price of
 the second grave be set at the same price or discounted.
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7
@@ -384,7 +397,9 @@ Meeting of the District to outline future plans for the forest park.
 Ballyculhane, Kildimo.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 REPLY: Pothole repairs will be carried out in the next few weeks. The road at this
@@ -434,7 +449,9 @@ REPLY: The Community Park in Ballingarry is not in the ownership of Limerick Cit
 and County Council.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 23. Correspondence
@@ -470,9 +487,13 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

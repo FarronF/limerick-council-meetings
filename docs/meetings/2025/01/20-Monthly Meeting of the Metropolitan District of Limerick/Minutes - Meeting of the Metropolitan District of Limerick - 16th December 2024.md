@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-december-2024.pdf)
+**Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 16th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-december-2024.pdf)
 
----
+[[FILE_START]]
+
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
 **LIMERICK HELD IN THE COUNCIL CHAMBER, MERCHANT’S QUAY, LIMERICK AND ONLINE ON**
@@ -94,7 +95,9 @@ The Members considered if the Forum should be expanded to include representative
 Community Groups and Residential Organisations. Following discussion, it was agreed that trader
 
 representatives only, would be invited at this time.
----
+
+[[PAGE_END:1]]
+
 2
 
 The Cathaoirleach stated that a number of Questions and Notices of Motion on the agenda were
@@ -172,7 +175,9 @@ service; or have a limited service at present;
  Members queried why the rollout of Park and Ride facilities was not included in the plan, and
 
 emphasised the need to prioritise these;
----
+
+[[PAGE_END:2]]
+
 3
 
  Communication between the Council and Bus Eireann should be improved, particularly in
@@ -246,7 +251,9 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 2001 (as amended) and noted that it was proposed to proceed in accordance with Section 8 of the
 
 report.
----
+
+[[PAGE_END:3]]
+
 4
 
 A number of Members referred to the historical significance of the building and raised concerns in
@@ -318,7 +325,9 @@ Revival Scheme) Strand 1 for the King’s Island Area.
  A survey seeking views on King’s Island and the Walled Town Framework Survey was carried
 
 out and engagement events were held.
----
+
+[[PAGE_END:4]]
+
 5
 
  The Fireplace Site had been vacant for over 25 years, with a lot of dereliction in Nicholas Street.
@@ -390,7 +399,9 @@ out physical assessments of same.
 ***CCTV scheme that is proposed for the Castletroy Greenway.***
 
 **REPLY:** Limerick City and County Council’s Digital Services CCTV team submitted a Community CCTV
----
+
+[[PAGE_END:5]]
+
 6
 
 application for the Castletroy Greenway to An Garda Síochána on Friday, 30th August, 2024.
@@ -474,7 +485,9 @@ Transport Operations & Maintenance as part of NTA allocation for 2025.
 ***improve footpaths on Caragh Avenue, Caragh Drive and Sheelin Road, Caherdavin, as part of***
 
 ***their ongoing footpath improvement works in the Caherdavin area.***
----
+
+[[PAGE_END:6]]
+
 7
 
 **REPLY:** Footpath improvements in the Caherdavin area will be prioritised based on need, resource
@@ -552,7 +565,9 @@ Citizens Information or other charities supported by Council funds for sources o
 **NOTICES OF MOTION**
 
 **14.Notice of Motion submitted by Councillor S. Kiely**
----
+
+[[PAGE_END:7]]
+
 8
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that we engage with the***
@@ -626,7 +641,9 @@ identified are rectified and that the report on the review is shared with the El
 alignment with Emergency Responder.
 
 Our Team has re-run this tender and awaits submission in January 2025, once this report is
----
+
+[[PAGE_END:8]]
+
 9
 
 completed and reviewed it will be shared with Elected Members.
@@ -700,7 +717,9 @@ review the area again and re-instate the bin if required.
 The Notice of Motion was proposed by Councillor O’Donovan, seconded by Councillor Hickey-
 
 O’Mara and agreed.
----
+
+[[PAGE_END:9]]
+
 10
 
 In proposing the Motion, Councillor O’Donovan stated that responses to complaints needed to be
@@ -734,4 +753,6 @@ This concluded the Meeting.
 **CATHAOIRLEACH**
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:10]]
+

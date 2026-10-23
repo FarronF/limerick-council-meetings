@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2014</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_17th_november_2014.pdf)
+**Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 17th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_17th_november_2014.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
 DISTRICT OF LIMERICK HELD IN THE COUNCIL CHAMBER,
@@ -102,7 +103,9 @@ need for a plan to develop the area as a park if planning permission was rejecte
 that consideration be given, in developing the Cleeves Site, to its historical role in
 
 the Limerick Soviet of 1919.
----
+
+[[PAGE_END:1]]
+
 Proposed by Councillor Hourigan;
 
 Seconded by Councillor Butler
@@ -204,7 +207,9 @@ noted that more houses were being demolished than built in these areas but a vie
 also expressed that communities see this as a positive development as it creates more
 
 open spaces.
----
+
+[[PAGE_END:2]]
+
 Discussion took place in relation to the needs of some locations adjacent to the
 
 regeneration areas and in particular the left hand side of Hyde Road, including the area
@@ -296,7 +301,9 @@ and tenants will come from regeneration and not the general housing list.
 The redevelopment of the Fireplace Site in Kings Island was under review and will
 
 have regard to the heritage value of the property.
----
+
+[[PAGE_END:3]]
+
 (b)
 
 Hyde Road Refurbishment
@@ -392,7 +399,9 @@ unit cost of redevelopment with the potential unit cost of rebuilding.
 •
 
 The extent of tenure required by Clúid arose from their need to borrow to part fund
----
+
+[[PAGE_END:4]]
+
 the development and there will not be a one year review of the contract.
 
 4.
@@ -476,7 +485,9 @@ This motion should be considered in the context of Circular RSD 01/2014
 issued recently by the DTTAS. The Circular asks Local Authorities to
 
 undertake a review process of speed limits in housing estates. In effect, the
----
+
+[[PAGE_END:5]]
+
 Circular is suggesting the use of 30kph Speed Limits in Housing Estates with
 
 signage to be accompanied by the yellow warning sign "Children at Play". If
@@ -560,7 +571,9 @@ voting was as follows :-
 Councillors Butler, Byrne, Collins, Daly, Hourigan, Hurley, Leddin, Lynch, O'Dea, O'Hanlon,
 
 Secas and Sheahan.
----
+
+[[PAGE_END:6]]
+
 **Against the Amendment:**
 
 Councillors Keller, Loftus, McCreesh, Ó Ceallaigh, Prendiville and Quinlivan.
@@ -640,7 +653,9 @@ safety point of view. Generally speaking, it is considered that a zebra control
 is preferable because it requires an interaction between the pedestrian and
 
 the motorist that ensures the pedestrian does not step off the kerb until it is
----
+
+[[PAGE_END:7]]
+
 safe to do so. With a signal control, some pedestrians assume that the
 
 appearance of the green man display gives them an assured safe crossing
@@ -724,7 +739,9 @@ to include for Annacotty Village. This is a matter that will have to be brought
 before the Transportation and Infrastructure SPC when it is established in
 
 2015.
----
+
+[[PAGE_END:8]]
+
 To allow for enforcement of the Bye Laws an additional Traffic Warden, based
 
 in the suburbs, may be required and provision for this will have to be
@@ -738,4 +755,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:9]]
+

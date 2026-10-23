@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-05</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda%2020th%20May%202019.pdf)
+**Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/Agenda%2020th%20May%202019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-~ : . 37) Sexbhisi Corparéideacha.
-__——_ Comhairle Cathrach Comhairle Catwach agus Contae Luimnigh,
+~ : . ~ Sembhisi Corparéideacha.
+__——_—_ Comhairle Cathrach Comhairle Cathwach agus Contae Luimnigh,
 & Contae Luimnigh Ceanncheathra Chorparaideach,
-ANF ‘ Cé na gCeannaithe,
-==> Limerick City Ludmnneach
+ANF ‘ : Cé na gCeannaithe,
+— Limerick City Ludmnneach
 & County Council
 Corporale Services,
 Limerick Cty and County Council,
@@ -34,7 +35,7 @@ Merchants Quay,
 Limerick
 
 15" May, 2019.
-EIRCODE V4 LO
+EIRCODE V4 L190
 
 t: 4553 (0) 61 557150
 f: 4353 (0) 61 415 266
@@ -68,13 +69,15 @@ To note proposal for the disposal of land as follows:
 
 @ customerservices@limerick le
 
-2 weve limerick.io
+@ weve Kimerick.io
 
-Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach wW @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 7.
@@ -108,7 +111,7 @@ a different manner by the developer.
 
 Question submitted by Councillor M. McCreesh
 
-I will ask at the next meeting can an update be provided on the Limerick Shannon
+| will ask at the next meeting can an update be provided on the Limerick Shannon
 Metropolitan Area Transport Strategy Study. Councillors were promised the opportunity to
 provide input to the consultation process on behalf of constituents.
 
@@ -116,7 +119,9 @@ provide input to the consultation process on behalf of constituents.
 Court and the Units on Convent Street.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -132,4 +137,6 @@ Correspondence
 (Copy of Correspondence Enclosed)
 
 
----
+
+[[PAGE_END:3]]
+

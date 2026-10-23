@@ -16,24 +16,21 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-june-2026.pdf)
+**Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 15th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_ pea Comhairle Cathrach Seirbhisi lier = & Custaiméara
-‘ ‘ornmhairie Cathrach & Contae Luimnigh
+ea Comhairle Cathrach Seirbhisi ae. = & Custaiméara
+‘ ‘ormhairie Cathrach & Contae Luimnigh
 Am & Contae Luimnigh Ceannchearthu Chorparaideach
-—=__> Limerick City Lubnwene Vos BO
-
+—=—_> Limerick City Lurene Youle
 & County Council
-
 Corporate. Governance & Customer Services
 Limerick City and County Council
 Corporate Headquarters
-
 Merchant's Quay
-
 Limerick. V94 EHSO
 
 t: +353 (0) 61 557 150
@@ -58,16 +55,18 @@ AGENDA
 
 To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick held on
 
-18 May 2026.
+18" May 2026.
 (Copy Enclosed).
-= customerservices@limerickie
+= customerservicesGlimerickie
 Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wwwilimerickie
 Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
 
 ( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 2. Declaration of Interest
@@ -94,9 +93,9 @@ Programme Scheme via Twilight Thursday initiative.
 
 6. Environment, Climate Action and Fire Directorate
 
-atric
+marie
 
-pf : VUre ove > Ji,*) O
+pt : VUure oe > Ji.*) O
 Ball yanrahan East, Patrickswell, Co. Limerick
 Pursuant to Section 179(3) of the Planning and Development Act 2000 (as amended) to
 
@@ -113,7 +112,9 @@ To receive an update from the Land Development Agency (LDA) on its housing deliv
 for Limerick.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 QUESTIONS
@@ -154,7 +155,9 @@ boules area in the Pocket Park on Parnell Street and if those wishing to use the
 can hire boules for use.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 13. Question submitted by Councillor O’Donovan
@@ -190,7 +193,7 @@ has Limerick City and County Council purchased under compulsory purchase order i
 city centre, and how many of these have been sold on for private or affordable housing.
 
 NOTICES OF MOTION
-18. N f Mi itted by Councillor Kilco
+18. N if Mi itted by Councillor Kilco
 
 | will move at the next meeting of the Metropolitan District of Limerick that this District
 write to Irish Rail requesting the installation of a temporary rail platform at Patrickswell
@@ -200,7 +203,9 @@ post-event review, in order to maximise public transport capacity, reduce road c
 and future-proof transport infrastructure for the metropolitan area.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 19. Notice of Motion submitted by Councillor Doyle
@@ -242,7 +247,9 @@ Caherdavin Lawn entrance on all GAA match days, allowing only residents to enter
 estate.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 25. Notice of Motion submitted by Councillor O’Donovan
@@ -280,4 +287,6 @@ and County Council look at meanwhile uses for Calls Park, Hyde Road.
 30. Correspondence
 
 
----
+
+[[PAGE_END:6]]
+

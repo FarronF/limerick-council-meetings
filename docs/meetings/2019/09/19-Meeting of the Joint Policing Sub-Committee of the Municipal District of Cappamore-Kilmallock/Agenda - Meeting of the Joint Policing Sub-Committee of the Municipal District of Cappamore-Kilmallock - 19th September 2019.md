@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20JPC%20Meeting%2019%209%2019.pdf)
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20JPC%20Meeting%2019%209%2019.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-ew Comhairle Cathrach
+—e Comhairle Cathrach
 & Contae Luimnigh
-nts ia x“
-— Limerick City
+nts ya x
+—> Limerick City
 & County Council
 
 A Chomhairleoir, a chara,
@@ -56,7 +57,7 @@ The business to be transacted Is set out on the appended Agenda.
 
 ie le meas,
 
-M\ Nese y
+W\ Nese y
 Meetings Administrator.
 
 1. Minutes
@@ -71,10 +72,12 @@ Sub-Committee held on 11th April, 2019.
 To discuss policing issues in the District.
 
 & customerservicesalimerick.te
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wevewslimerick.ie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wevralimerick.ie
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

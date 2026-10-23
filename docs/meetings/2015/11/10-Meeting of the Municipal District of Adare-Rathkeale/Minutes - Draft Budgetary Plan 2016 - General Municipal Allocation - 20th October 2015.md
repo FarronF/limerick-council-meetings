@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%2020th%20October%202015.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan 2016 - General Municipal Allocation - 20th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%202016%20-%20General%20Municipal%20Allocation%20-%2020th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT THE DRAFT BUDGETARY PLAN 2016
@@ -51,7 +52,7 @@ allocated by the Chief Executive to the General Municipal Allocation with €275
 assigned to the Municipal District of Adare-Rathkeale as follows:
 
 e Local Roads €115,000
-e¢ Tourism Development Recreation and Amenity €10,000
+e Tourism Development Recreation and Amenity €10,000
 e Parks, Pitches and Playgrounds €40,000
 e Community Initiatives €10,000
 e Special Projects €100,000
@@ -67,4 +68,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:1]]
+

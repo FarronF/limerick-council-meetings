@@ -16,15 +16,16 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2020</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-21st-october-2020.pdf)
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Adare-Rathkeale Municipal District - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-21st-october-2020.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-wae Comhairle Cathrach
+awe Comhairle Cathrach
 & Contae Luimnigh
 ANS ‘
-—>==> Limerick City
+—==>- Limerick City
 & County Council
 
 16" October, 2020.
@@ -42,7 +43,7 @@ Line Nua
 
 Rath Caola,
 
-Co. Luimmnigh.
+Co. Luimnigh.
 
 Adare-Rathkeale Municipal District,
 Limerick City and County Council,
@@ -67,13 +68,13 @@ District of Adare-Rathkeale to be held in the Council Chamber, Dooradoyle, Limer
 Wednesday, 21* October, 2020 at 3:00 p.m. The business to be transacted is set out on the
 appended Agenda.
 Is mise le meas,
-K T,
+Ki r,
 Meetings Administrator.
 AGENDA
 
 1. To consider the Draft Budgetary Plan 2021 for the Municipal District of Adare-Rathkeale.
 
-Ceanncheathru Chorperdideach, Céna gCeannaitheLuimnesch |
+Ceanncheathru Chorperdideach, Céna gCeannaithe,Luimnesch |
 Corporate Headquarters, Merchants Quay, Limerick.
 
 (Report Attached)
@@ -81,7 +82,9 @@ Corporate Headquarters, Merchants Quay, Limerick.
 @& customerservices@limerick.ie
 
 @LimerickCouncil
-( 061 - 556 000
+( 061 - $56 000
 
 
----
+
+[[PAGE_END:1]]
+

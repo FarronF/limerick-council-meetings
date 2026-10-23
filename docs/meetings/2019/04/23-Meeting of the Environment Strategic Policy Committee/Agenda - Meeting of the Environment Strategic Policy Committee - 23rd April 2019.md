@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2019</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda-23rd-April-2019-Environment-SPC-Meeting.pdf)
+**Original file:** [Agenda - Meeting of the Environment Strategic Policy Committee - 23rd April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda-23rd-April-2019-Environment-SPC-Meeting.pdf)
 
----
+[[FILE_START]]
+
 **15th** **April, 2019**
 
 **To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**
@@ -42,7 +43,9 @@ business to be transacted is set out in the appended agenda.
 **PHYSICAL DEVELOPMENT DIRECTORATE**
 
 (Image omitted)
----
+
+[[PAGE_END:1]]
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **Agenda**
@@ -78,4 +81,6 @@ developments”.
 “I will move at the next meeting that the Council consider installing a network of drinking
 
 fountains in appropriate location to cut the number of plastic bottles being used.”
----
+
+[[PAGE_END:2]]
+

@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-ii-minutes-8th-july-2021.pdf)
+**Original file:** [Minutes - Special Meeting of Municipal District of Cappamore-Kilmallock - 8th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-ii-minutes-8th-july-2021.pdf)
 
----
+[[FILE_START]]
+
 1
 
 MINUTES OF PROCEEDINGS OF ON-LINE SPECIAL MEETING OF THE
@@ -72,7 +73,9 @@ Councillor Mitchell told Members he had also had a constructive meeting with res
 Minister Patrick O’Donovan regarding the upgrade of the Thomastown crossing together with
 
 representatives of Iarnrod Eireann
----
+
+[[PAGE_END:1]]
+
 2
 
 Councillor Ryan (Eddie), Councillor Carey and Councillor Teefy had also had meetings together with
@@ -106,4 +109,6 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
----
+
+[[PAGE_END:2]]
+

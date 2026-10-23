@@ -30,9 +30,9 @@ Minutes - Meeting of the Municipal District of Newcastle West - 7th September 20
 
 Minutes - Special Meeting of the Municipal District of Newcastle West - 20th September 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%28b%29%202022-09-20%20Minutes%20Special%20Meeting.pdf) - [Extracted text](./Minutes%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2020th%20September%202022.md)
 
-Disposal of Property_ Main Street Abbeyfeale - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/02%202022-10-12%20Disposal%20of%20property%20at%20Main%20Street%20Abbeyfeale.pdf) - Text not extracted
+Disposal of Property: Main Street Abbeyfeale - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/02%202022-10-12%20Disposal%20of%20property%20at%20Main%20Street%20Abbeyfeale.pdf) - Text not extracted
 
-Part 8 Presentation_ Ardagh - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/19122%20Ardagh%20-%20Part%208%20Presentation%20%5B20.09.2022%5D.pdf) - Text not extracted
+Part 8 Presentation: Ardagh - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/19122%20Ardagh%20-%20Part%208%20Presentation%20%5B20.09.2022%5D.pdf) - Text not extracted
 
 Replies to Questions - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-10/2022-10-12%20Replies%20to%20Questions.pdf) - Text not extracted
 

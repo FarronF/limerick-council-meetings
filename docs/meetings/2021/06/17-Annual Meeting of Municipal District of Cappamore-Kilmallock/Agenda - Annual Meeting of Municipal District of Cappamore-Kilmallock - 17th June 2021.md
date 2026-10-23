@@ -16,18 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2021</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-annual-meeting.pdf)
+**Original file:** [Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-annual-meeting.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-_— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+__— Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
 
-& Contae Luimnigh. Ottg an Cheantaw, Aras Mhainctin Seoighe,
+& Contae Luimnigh. Ovtg an Cheantaw, Aras Mhainchin Seoighe,
 
-an _.. : : Cl Mochealég,
+an _.. : . Cl Mochealég,
 
-m™ a : : Co, Lsimnigh.
+m™ a P : Co. Luimnigh.
 — Limerick City
 
 & County Council Limerick City and County Council,
@@ -35,11 +36,11 @@ Aras Mairichin Seoighe Area Office,
 
 hibnallock,
 
-Co. Limerick.
+Co. Uimenck.
 
 EIRCODE V35 K497
 
-¢: 4353 (0) 63 980 19
+¢; 4353 (0) 63 980 19
 f: +353 (0) 63 985 99
 
 11™ June, 2021.
@@ -55,7 +56,7 @@ The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-=
+hea
 
 Karen
 Meetings Administrator.
@@ -68,11 +69,13 @@ office until the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas Cathaoirleach of the Municipal District of Cappamore Kilmallock to hold
 office until the next Annual Meeting or until a successor has been elected.
 
-= ie
-Comhairle Cathrach agus Contae Luimnigh. Oifig an Cheantair, Aras Mhainchin Seoighe ee onalonericha wwweltimerick.te
+= te
+Comhairle Cathrach agus Contae Luimnigh. Oifig an Cheantair, Aras Mhainchin Seoighe a oralenericha wwweltimerick.te
 Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

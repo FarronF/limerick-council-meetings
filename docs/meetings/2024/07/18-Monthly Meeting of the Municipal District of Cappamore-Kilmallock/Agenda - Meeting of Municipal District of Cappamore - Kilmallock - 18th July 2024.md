@@ -16,9 +16,10 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2024</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-agenda-july-md-meeting-2024.pdf)
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore - Kilmallock - 18th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-agenda-july-md-meeting-2024.pdf)
 
----
+[[FILE_START]]
+
 1
 
 12th July 2024.
@@ -72,7 +73,9 @@ Annual Meeting of the Cappamore-Kilmallock Municipal District held on Thursday
 2.
 
 Matters Arising
----
+
+[[PAGE_END:1]]
+
 2
 
 3.
@@ -130,7 +133,9 @@ I will ask at the next meeting of the Cappamore-Kilmallock Municipal District fo
 my motion from April regarding the possible purchase of five units at Beech Lodge Care Facility,
 
 Bruree or any other alternative options that are being considered for the current residents.
----
+
+[[PAGE_END:2]]
+
 3
 
 10.Question submitted by Councillor Carey
@@ -154,4 +159,6 @@ the reason that the Main four cross roads at Powers Corner in Kilfinane are stil
 yellow lines causing major road blockages at times. These were removed during road
 
 resurfacing last year and not replaced.
----
+
+[[PAGE_END:3]]
+

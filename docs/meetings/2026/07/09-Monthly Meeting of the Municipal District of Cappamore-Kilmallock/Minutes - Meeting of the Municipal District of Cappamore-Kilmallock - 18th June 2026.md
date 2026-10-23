@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
+**Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF
@@ -48,8 +49,8 @@ retirement.
 
 1. MINUTES
 
-Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal! District of
-Cappamore-Kilmallock held on 21% May, 2026.
+Circulated, copy of draft Minutes of the Monthly Meeting of the Municipal District of
+Cappamore-Kilmallock held on 21%t May, 2026.
 
 Proposed by: Councillor Stokes
 Seconded by: Councillor Carey
@@ -68,7 +69,9 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 No such interest was declared.
@@ -78,7 +81,7 @@ Proposed taking in charge of Glenstal Gate, Murroe, Co Limerick.
 The Members welcomed the fact that this estate was being taken in charge, and they thanked
 the staff for their work on this estate as part of the taking in charge process.
 
-Proposed by: Cilr Teefy
+Proposed by: Cllr Teefy
 Seconded by: Cllr M. Ryan
 
 “That Glenstal Gate, Murroe, Co. Limerick be taken in charge in accordance with Section 180
@@ -90,7 +93,7 @@ Presentation on Review of Grants available for Energy Upgrades
 
 The Cathaoirleach welcomed the Climate Action Co-Ordinator, and the Energy Officer, to
 the Meeting. The Energy Officer proceeded to outline details of the grants available from
-the Sustainable Energy Authority of Ireland (SEA!) for Energy Efficiency measures.
+the Sustainable Energy Authority of Ireland (SEAI) for Energy Efficiency measures.
 
 He outlined how there were four grant categories operated by the SEAI and these were for
 Home (Residential); Business; Solar PV grants; and Electric Vehicle (Car & Charger) grants.
@@ -98,8 +101,8 @@ He then went into the detail of the grants available under each of the grant cat
 he explained the requirements under each scheme and the measures involved.
 
 He confirmed that an additional grant of €5,000 was also being introduced by the SEAI from
-the 1% July 2026 for people who traded in their car if it was 13 years or older and purchased
-a new electric vehicle instead. This was a trial scheme being introduced by the Government,
+the 1* July 2026 for people who traded in their car if it was 13 years or older and purchased
+anew electric vehicle instead. This was a trial scheme being introduced by the Government,
 with a limited initial allocation of grant funding for same.
 
 He then spoke about the recently introduced SEAI Windows & Doors Grants Scheme and
@@ -119,7 +122,9 @@ Some SEAI grant schemes also had a long lead in time from application to complet
 was not ideal.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 3
@@ -136,17 +141,17 @@ Reply:
 Limerick City and County Council have the following sites in the Cappamore- Kilmallock
 Municipal District which are zoned for housing and suitable subject to utility availability:
 
-beset OS (ance aie
+be ese ST Usama ia
 .37
 
 Ballylanders
 Caherconlish
-[boon
+[Doon
 
-|Kilteely 4
+[Kilteely 04
 
 eC
-Pallasgreen joasSSCSC~*™
+Pallasgreen oasSSSC~*S
 
 In addition, the Housing Agency is responsible for lands in Bruff, Cappamore, Kilmallock and
 Knocklong which may be suitable for future development.
@@ -154,9 +159,9 @@ Knocklong which may be suitable for future development.
 1
 
 fen
-Homes
+homes
 
-6. jon submi by Councillor T:
+6. lon submi by Councillor T
 
 | will ask at the next Meeting of the Cappamore-Kilmallock Municipal District for
 confirmation as to when preparations will commence for the next Limerick Development
@@ -179,7 +184,9 @@ It is expected that forthcoming legislation will provide greater clarity on time
 the Development Plan review and the proposed extension.
 
 
----
+
+[[PAGE_END:3]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 In relation to the Wind Energy mapping, National Policy Objective 97 of the Revised National
@@ -229,7 +236,9 @@ discussions at a recent Full Council Meeting, where reference was made to the po
 withdrawal of GMA funding for projects not completed, in a worst-case scenario situation.
 
 
----
+
+[[PAGE_END:4]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Members agreed that this was totally unacceptable as sometimes projects can get held
@@ -257,7 +266,7 @@ It is the intention of the Municipal District Office for the Cappamore-Kilmalloc
 District to complete all outstanding 2025 projects by year end.
 
 9. Notice of Motion submitted by Clir Carey
-| will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
+1 will move at the next Meeting of the Cappamore-Kilmallock Municipal District that
 designated casual trading license areas be extended to include the town of Kilmallock.
 
 The Notice of Motion was proposed by Cllr Carey, seconded by Clir E. Ryan.
@@ -279,7 +288,9 @@ in Kilmallock; implications for traffic flow and parking; having appropriate pla
 permission for same, insurance cover, etc. were also important to consider.
 
 
----
+
+[[PAGE_END:5]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 It was agreed to arrange a Workshop with the relevant staff involved in the area to discuss
@@ -311,7 +322,7 @@ supervised and regulated by Council staff who ensure compliance with the require
 the Council’s byelaws. Any proposal would have to be considered very carefully in the
 context of the retail profile of the town and potential impacts on same.
 
-10. Notice of Motion submitted by Clir Conway
+10. Notice of Motion submitted by Cllr Conway
 
 | will move at the next meeting of Cappamore Kilmallock Municipal District that Limerick
 City & County Council provide access to public libraries in areas with Deis schools in the
@@ -333,7 +344,9 @@ emphasised the role of the Library Service as a central hub within the community
 Public Libraries now fulfil a range of diverse and multifaceted functions, including:
 
 
----
+
+[[PAGE_END:6]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 ¢ The development of the library as a multi-purpose educational and social space that
@@ -375,7 +388,7 @@ prolonged period on other library users, library activities and programming. Thi
 period is busy from a programming perspective as it encompasses Spring into Storytime,
 Limerick Lifelong Learning Festival and Cruinnid na nOg as well as other events.
 
-The focus on DEIS schools, is not an easy construct. Schools are assigned as DEIS based on a
+The focus on DEIS schools, is not an easy construct. Schools are assigned as DEIS based ona
 Department of Education Identification Model that assesses the socio-economic and
 demographic profile of their student body. In terms of secondary schools, students often
 travel outside their own area to attend school. Therefore, providing access to the nearest
@@ -383,7 +396,9 @@ library to the DEIS school may not benefit the students attending that school, a
 live elsewhere and are commuting to and from the DEIS school on a daily basis.
 
 
----
+
+[[PAGE_END:7]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 8
@@ -420,20 +435,22 @@ Limerick Minor Hurling Team
 The Members wished the best of luck to the players and management of the Limerick Minor
 Hurling team in their upcoming All Ireland Final against Tipperary in the Gaelic Grounds.
 
-HH Windfarm ing a
+Hi Windfarm ing a
 The Members referred to the Ballinlee Windfarm planning application which was currently
-with An Coimisitiin Pleanala (ACP) and the recent invitation extended to Limerick City and
+with An Coimisidn Pleanala (ACP) and the recent invitation extended to Limerick City and
 County Council to make a submission/observations in relation to the submissions received
 by ACP from several prescribed bodies. The A/Senior Engineer confirmed that he would
 clarify the situation with the Senior Planner as to what was happening in relation to same.
 
 nicipal District R
-The Members referred to the Municipal District Reception which had taken place on the 27"
+The Members referred to the Municipal District Reception which had taken place on the 27%
 May. They congratulated all those who had received awards on the night, and they thanked
 those staff involved in organising the reception.
 
 
----
+
+[[PAGE_END:8]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Private Housing Grants
@@ -449,9 +466,13 @@ Signed: Dated:
 Cathaoirleach
 
 
----
+
+[[PAGE_END:9]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
----
+
+[[PAGE_END:10]]
+

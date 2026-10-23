@@ -16,12 +16,13 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2026</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 18th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-june-2026.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-—_e_ Comhairle Cathrach
+—__ Comhairle Cathrach
 
 & Contae Luimnigh
 
@@ -31,15 +32,15 @@ ars
 & County Council
 
 Comhairle Cathrach agus Contae Luirnnigh,
-Ojfig an Cheantair, Aras Mhainchin Seosghe,
-Cit Mochealég,
+Ojfig an Cheantair, Aras Mhainchin Seoaghe,
+Cit Mochealég.
 
 Co, Luimnigh
 
 Limerick City and Courty Council,
 
 Aras Mainchin Seoighe Area Office,
-Milrnallock,
+*Milrnallock,
 
 Co. Limerick.
 
@@ -69,13 +70,15 @@ the next Annual Meeting or until a successor has been elected.
 2. To elect a Leas-Cathaoirleach of the Municipal District of Cappamore-Kilmallock to hold office
 until the next Annual Meeting or until a successor has been elected.
 
-Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aris Mhainchin Seoighe
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Ards Mhainchin Seoighe
 Limerick City and County Council Aras Mainchin Seoighe Area Office
 
-= customerservices@limerici.ie
-© woevelimericicie
+= customerservices@limerick.ie
+© weevelimericicie
 
 (063 980 19
 
 
----
+
+[[PAGE_END:1]]
+

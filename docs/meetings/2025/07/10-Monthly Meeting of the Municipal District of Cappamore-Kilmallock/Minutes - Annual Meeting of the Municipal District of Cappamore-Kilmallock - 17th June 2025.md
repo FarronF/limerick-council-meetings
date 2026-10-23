@@ -16,14 +16,15 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2025</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2025-07</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-minutes-of-annual-meeting-17th-june-2025.pdf)
+**Original file:** [Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 17th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-minutes-of-annual-meeting-17th-june-2025.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 MINUTES OF PROCEEDINGS OF ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF
 CAPPAMORE-KILMALLOCK HELD IN ARAS MAINCHIN SEOIGE AND ON-LINE, ON TUESDAY
-17™ JUNE 2025 AT 2.00PM.
+17" JUNE 2025 AT 2.00PM.
 
 PRESENT IN THE CHAIR:
 
@@ -33,9 +34,9 @@ MEMBERS PRESENT:
 
 Councillors Carey, Conway, O’Sullivan, E. Ryan, Stokes and Teefy.
 
-| INA DANCE:
+1 INA DANCE:
 
-Meetings Administrator (Mr. M. Leahy); Senior Executive Engineer (Mr. T. McKechnie);
+Meetings Administrator (Mr, M. Leahy); Senior Executive Engineer (Mr. T. McKechnie);
 A/Senior Executive Officer (Ms. K. White), Clerical Officer (Ms. Helen O'Neill).
 
 Apologies: A/Director of Services (Mr. H McGrath)
@@ -61,7 +62,9 @@ The outgoing Cathaoirleach, Councillor M Ryan invited nominations for the Office
 Cathaoirleach for the coming year.
 
 
----
+
+[[PAGE_END:1]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Proposed by Councillor O'Sullivan;
@@ -93,7 +96,7 @@ Proposed by Councillor Stokes:
 Seconded by Councillor M. Ryan:
 
 “That Councillor O'Sullivan be appointed Leas-Cathaoirleach of the Municipal District of
-Cappamore-Kilmallock to hold office until the next Annual Meeting or until a successor has
+Cappamore-Kilmallock to hold office until the next Annual! Meeting or until a successor has
 been appointed”.
 
 As there were no other nominations, the Cathaoirleach declared Councillor O’Sullivan
@@ -111,7 +114,9 @@ on the results of the 2024 Local Elections and that the current arrangement for 
 and election of positions would stand.
 
 
----
+
+[[PAGE_END:2]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 The Senior Executive Engineer, on behalf of management and staff, congratulated the
@@ -125,4 +130,6 @@ Cathaoirleach
 Dated:
 
 
----
+
+[[PAGE_END:3]]
+

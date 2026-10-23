@@ -16,19 +16,19 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026%20June%202015.pdf)
+**Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 26 June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026%20June%202015.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
-Serbivsi Corparaideacha agus Bainistiocht Athuithe.
+Serbiisi Corparaideacna agus Bainistiocht Athuithe.
 Comhairle Cathrach agus Contae Lutnnigh
 
-AN 4 ‘ Ce na gCeannaithe
+AN 4 bs Ce na gCeannaithe
 — Luimneach
-Limerick Corporate Services oe pce chielg sey
-CITY & COUNTY Limerick Cy unc
-COUNCIL seat Pa
+CITY & COUNTY Limerick Cy ounct
+COUNCIL oe
 
 t: +353 (0) 61 407 100
 f: +353 (0) 61 415 266
@@ -46,11 +46,11 @@ business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-DOD Cn—~
+DO Conn—~
 Christy O’Connor,
 Meetings Administrator.
 
-et ew ee ren ee een et nn en en ns een nnn nnn nnn enn ne ene n enn n nnn mene nnn nnnnn nnn nn en enen ene nnneseneses
+ees
 
 AGENDA
 
@@ -69,4 +69,6 @@ Market Trustees.
 (List of Representatives Enclosed)
 
 
----
+
+[[PAGE_END:1]]
+

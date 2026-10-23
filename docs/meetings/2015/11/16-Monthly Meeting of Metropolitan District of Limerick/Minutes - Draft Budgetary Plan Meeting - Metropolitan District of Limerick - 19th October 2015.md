@@ -16,9 +16,10 @@ file_type: "Minutes"
 <span data-pagefind-filter="Year" style="display:none;">2015</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2015-11</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
+**Original file:** [Minutes - Draft Budgetary Plan Meeting - Metropolitan District of Limerick - 19th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
 
----
+[[FILE_START]]
+
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
 MEETING HELD IN THE COUNCIL CHAMBER, MERCHANT’S
@@ -86,7 +87,9 @@ attend the Operational Briefings to be held on Tuesday, 3rd November, 2015 and M
 agreed that the Operational Briefings for November would be changed to Friday, 6th
 
 November at the times originally agreed.
----
+
+[[PAGE_END:1]]
+
 This concluded the Meeting.
 
 **Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -94,4 +97,6 @@ This concluded the Meeting.
 **MAYOR**
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
----
+
+[[PAGE_END:2]]
+

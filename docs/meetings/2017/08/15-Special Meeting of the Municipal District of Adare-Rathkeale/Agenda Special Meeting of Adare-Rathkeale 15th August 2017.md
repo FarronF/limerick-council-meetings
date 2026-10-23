@@ -16,16 +16,17 @@ file_type: "Agenda"
 <span data-pagefind-filter="Year" style="display:none;">2017</span>
 <span data-pagefind-filter="Year-Month" style="display:none;">2017-08</span>
 
-[Original file](https://www.limerick.ie/sites/default/files/media/documents/2017-08/00%20Agenda%20Special%20Meeting%2015th%20August%20.pdf)
+**Original file:** [Agenda Special Meeting of Adare-Rathkeale 15th August 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/00%20Agenda%20Special%20Meeting%2015th%20August%20.pdf)
 
----
+[[FILE_START]]
+
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 Comhairle Cathrach Seirbhist Corpardideacha,
-ir! hr, imnigh,
-ee & Contae Luimnigh a. boheme
-NN ——— : Cé na gCeannaithe,
-=— Limerick City Luimneach
+irl hr, imnigh,
+a & Contae Luimnigh ———. pe ahem
+NEN ——— : Cé na gCeannaithe,
+— Limerick City Luimneach
 & County Council
 Corporate Services,
 Limerick City and County Council,
@@ -36,19 +37,19 @@ Limerick
 
 1* August, 2017. EIRCODE V94 EH90
 t: +353 (0) 61 557150
-f: +353 (0) 61 415 266
+f; +353 (0) 61 415 266
 
 To: The Cathaoirleach and Each Member of the Municipal District of Adar thkeal
 
 A Chomhairleoir, a chara,
 
 You are requested to attend a Special Meeting of the Municipal District of Adare-Rathkeale to be
-held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 1s” August, 2017 at
+held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, is” August, 2017 at
 6.45 p.m. The business to be transacted is set out on the appended Agenda.
 
 Is mise le meas,
 
-Zley—
+Zag
 
 Meetings Administrator.
 
@@ -75,4 +76,6 @@ Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
 Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 
----
+
+[[PAGE_END:1]]
+
