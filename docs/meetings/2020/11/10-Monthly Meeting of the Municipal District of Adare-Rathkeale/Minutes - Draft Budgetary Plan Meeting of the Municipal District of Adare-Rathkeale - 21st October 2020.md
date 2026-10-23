@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Adare-Rathkeale - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-b-minutes-of-draft-budgetary-plan-2021-meeting-21st-october-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE MUNICIPAL**
 
@@ -110,7 +110,7 @@ Special Projects – LPT
 
 **270,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Following discussion, the following was agreed:
 
@@ -140,5 +140,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

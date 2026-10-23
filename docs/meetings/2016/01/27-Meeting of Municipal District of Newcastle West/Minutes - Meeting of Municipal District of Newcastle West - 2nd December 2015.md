@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Newcastle West - 2nd December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -74,7 +74,7 @@ the format for the presentation. He advised that a letter would issue to them, i
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -141,7 +141,7 @@ something needed to be done to bring back people to live in towns and villages. 
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -201,7 +201,7 @@ Town Park.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -259,7 +259,7 @@ The Operations Manager stated that each estate is looked at on its merits.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -320,7 +320,7 @@ REPLY: The Council will refer Councillor Scanlan’s Notice of Motion to Irish W
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -381,5 +381,5 @@ Dated:
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

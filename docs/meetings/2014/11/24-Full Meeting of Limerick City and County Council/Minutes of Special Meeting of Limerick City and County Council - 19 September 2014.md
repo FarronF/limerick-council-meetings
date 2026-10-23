@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Special Meeting of Limerick City and County Council - 19 September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_19_september_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -80,7 +80,7 @@ relation to the National Programme of Revaluation of Commercial and Industrial
 
 Properties with particular emphasis on the Limerick Revaluation.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,7 +142,7 @@ stated that not only did businesses pay rates, which funded services, but they
 
 also created employment and brought vibrancy and growth to the County.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -196,5 +196,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

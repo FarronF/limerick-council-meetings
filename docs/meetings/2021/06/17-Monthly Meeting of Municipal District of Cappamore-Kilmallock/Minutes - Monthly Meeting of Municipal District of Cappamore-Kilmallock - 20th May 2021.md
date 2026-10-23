@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 20th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-minutes-of-monthly-meeting-20th-may-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -63,7 +63,7 @@ Cappamore-Kilmallock needed to be a priority into the future.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -112,7 +112,7 @@ This proposal was seconded by Councillor Mitchell and agreed.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -156,7 +156,7 @@ areas of the loop walks in Kilmallock town.”
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -209,7 +209,7 @@ submitted to the members at the July Meeting.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -249,7 +249,7 @@ measures in this area will be prepared in due course.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -299,7 +299,7 @@ ja
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -328,5 +328,5 @@ Cathaoirleach
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

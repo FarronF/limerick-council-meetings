@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 29th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-29-march-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -96,7 +96,7 @@ He also outlined a range of initiatives being proposed/developed through Innovat
 
 month
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Rathkeale Enterprise Centre** –Part VIII planning application submitted for Industrial launderette
 
@@ -184,7 +184,7 @@ Development, Enterprise and Planning SPC and 2 representatives from the Business
 
 and a member of the Education/Training/Skills community. The committee will have a dual
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 reporting relationship with the Board of Innovate Limerick and the Economic Development,
 
@@ -200,5 +200,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

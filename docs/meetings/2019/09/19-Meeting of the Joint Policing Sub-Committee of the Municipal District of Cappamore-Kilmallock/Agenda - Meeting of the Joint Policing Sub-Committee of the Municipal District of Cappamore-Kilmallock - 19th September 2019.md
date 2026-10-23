@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 19th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Agenda%20JPC%20Meeting%2019%209%2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,5 +79,5 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

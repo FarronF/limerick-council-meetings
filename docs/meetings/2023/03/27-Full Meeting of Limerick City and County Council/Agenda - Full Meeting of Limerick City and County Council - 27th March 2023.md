@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Full Meeting of Limerick City and County Council - 27th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20March%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -73,7 +73,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - $57150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -135,7 +135,7 @@ To consider the Audit and Risk Committee’s Work Programme 2023.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -191,7 +191,7 @@ To consider Draft Annual Report 2022.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -248,7 +248,7 @@ submissions would be made available at the March Meeting.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -291,7 +291,7 @@ To note the Development Fund Allocations for 2023.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -342,7 +342,7 @@ Department of Housing.
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -396,7 +396,7 @@ and Article 43 of Bunreacht na hEireann.
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -414,5 +414,5 @@ Correspondence
 
 
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

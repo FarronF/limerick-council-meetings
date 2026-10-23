@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-11th-May-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -94,7 +94,7 @@ Resources together with members of the Rathkeale Pre Social Cohesion Project Tea
 
 the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ On the proposal of Councillor O’Donoghue, seconded by Councillor Sheahan it wa
 
 Councillor Collins would represent the District on the steering group.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ One offer as been made on the property but was subsequently
 
 withdrawn. The property will remain on the market but, in the interim, it
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ refurbish the existing dwelling into a two bedroom dwelling with large
 
 rear south facing garden.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ advised the Community Development Department are compiling reports which will be
 
 brought before the District when completed.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -452,7 +452,7 @@ Mary Kury Ardagh for her publications on the Ardagh Chalice and in depth study o
 
 local burial grounds.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -498,5 +498,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

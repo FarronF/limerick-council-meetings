@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/04-minutes-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-28th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
@@ -78,7 +78,7 @@ with the relevant contact details for the community groups nominated at their ea
 
 convenience.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Both schemes were proposed and seconded.**
 
@@ -92,5 +92,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

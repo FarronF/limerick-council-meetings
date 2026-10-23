@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -80,7 +80,7 @@ refurbishment and renovation of the Kilfinane Market House held on 1st February
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising
 
@@ -136,7 +136,7 @@ would be put on the agenda of the full Council meeting in March or May for consi
 
 adoption by the Elected Members. This was noted by the Elected Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A query was raised in relation to whether a bus stop at Holycross would be possible. The issue
 
@@ -212,7 +212,7 @@ Notice of Motion submitted by Councillor Martin Ryan deferred to
 
 March Meeting
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 NOTICES OF MOTION
 
@@ -272,7 +272,7 @@ assess the pedestrian crossing movements and if warranted, a design will prepare
 
 funding submission made to the relevant funding authority.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 11.Notice of Motion submitted by Councillors Donegan
 
@@ -332,7 +332,7 @@ scheduling minor drainage works in the estate to relieve surface water ponding a
 
 of the estate. It is expected that these works will be carried out shortly.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 14.Question submitted by Councillor Donegan
 
@@ -388,7 +388,7 @@ make a submission to the NTA for funding.
 
 **The Questions were taken as read.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Any Other Business
 
@@ -458,7 +458,7 @@ role. The Elected Members complimented his professionalism and thanked him for h
 
 support when Director of Services of the Municipal District.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **Parking**
 
@@ -488,5 +488,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 20th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/00-agenda-meeting-of-metropolitan-district-of-limerick-20.12.2021-v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Disposal of Land**
 
@@ -161,7 +161,7 @@ Street and place automated bollards to facilitate controlled deliveries and emer
 
 a closure will improve the safety of pedestrians.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 2
 
@@ -217,7 +217,7 @@ with relevant stakeholders on the redevelopment of the cities disused railway ne
 
 smarter travel options.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 3
 
@@ -269,7 +269,7 @@ road from Clarina Roundabout to Red Brick Lodge, these improvement works are due
 
 in 2022.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 4
 
@@ -335,7 +335,7 @@ on land banks along the Motorway to serve towards absorbing carbon emissions fro
 
 Motorway.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 5
 
@@ -351,5 +351,5 @@ District.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 13th October 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-13th-october-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -74,5 +74,5 @@ an audit of lighting in all public parks across the Metropolitan District be und
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

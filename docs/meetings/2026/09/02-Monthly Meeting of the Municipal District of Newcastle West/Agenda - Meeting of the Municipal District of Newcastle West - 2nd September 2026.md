@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 2nd September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-08/agenda-meeting-of-the-municipal-district-of-newcastle-west-2nd-september-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -91,7 +91,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -146,7 +146,7 @@ Castletown/Ballygran, Feenagh/Kilmeedy and Dromcollogher areas.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -206,7 +206,7 @@ junction in Athea village.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -240,5 +240,5 @@ Correspondence
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

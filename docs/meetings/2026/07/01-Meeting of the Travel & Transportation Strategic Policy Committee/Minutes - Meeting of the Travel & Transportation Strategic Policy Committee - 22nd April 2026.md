@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -64,7 +64,7 @@ with Clare County Council, and welcomed Patrick O’ Rourke, Senior Executive Te
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ JOK is to check this out. Guidelines are quite clear, Ballylander is a very rura
 
 not believe this area is suitable for reduction.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -188,7 +188,7 @@ Cllr Jerome Scanlon – lack of connectivity locally. There is a bus from Newcas
 
 but not to the city centre. There are no taxis in Newcastlewest after 7pm.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -216,5 +216,5 @@ and 2029.
 
 This concluded the business of the meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

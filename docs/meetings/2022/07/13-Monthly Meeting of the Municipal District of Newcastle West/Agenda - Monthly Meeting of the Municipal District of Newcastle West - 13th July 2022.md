@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 13th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%202022-07-13%20July%20Agenda%20Meeting%20of%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,7 +77,7 @@ Ceanncheathna Chorparéideach, Cé na gCeannaithe, Luimneach © wwenlimerickie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -132,7 +132,7 @@ Cloncon junction with the R515.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -170,5 +170,5 @@ Bishops Court, Newcastle West.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

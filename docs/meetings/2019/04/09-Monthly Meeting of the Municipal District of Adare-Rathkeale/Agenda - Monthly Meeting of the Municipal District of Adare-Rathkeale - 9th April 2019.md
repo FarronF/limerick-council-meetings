@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%209th%20April%2C%202019%20v3.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -105,7 +105,7 @@ wwwilimerickie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -144,7 +144,7 @@ Development Regulations 2001 (As Amended), for Kilcornan
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -191,7 +191,7 @@ To note update on the Sli na Slainte in Askeaton.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -249,7 +249,7 @@ Irish insurers.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -264,5 +264,5 @@ AOB
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

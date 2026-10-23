@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 27th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-i-minutes-council-meeting-27.09.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ confirmed that the Motion had been removed following receipt of legal advice, wh
 
 subsequently circulated to the Municipal District Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Circulated, copy of Statutory Notice dated 29th July, 2021, concerning disposal 
 
 at Ballywilliam, Rathkeale, Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Seconded by Councillor Sheehan (C);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ Delmege Park, Moyross, Limerick, particulars of which were contained in Statutor
 
 dated 2nd September, 2021.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ Moneymohill, Ballyhahill, Co. Limerick (V94WK4W), to Mr. Leon Fitzpatrick, for t
 
 2021.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ conditions contained therein, particulars of which were contained in Statutory N
 
 16th September, 2021.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -586,7 +586,7 @@ Customer Services dated 13th September, 2021, seeking retrospective approval to 
 
 visit by the Mayor of the City and County of Limerick to Huy and Landen, Belgium, from
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ held on 8th July, 2021.
 
 The Report was noted by the Council.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -752,7 +752,7 @@ approval to recommended allocations under Limerick City and County Council Festi
 
 Events Grant Scheme 2021/2022.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -828,7 +828,7 @@ the Limerick Senior Hurlers in recognition of their achievement in winning the 2
 
 Senior Hurling Championship.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -906,7 +906,7 @@ Meeting / Event.
 
 The reports were noted by the Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -984,7 +984,7 @@ Replies to the following Questions on the agenda were circulated to all Members 
 
 to the Meeting and the Questions were therefore considered as having been dealt with:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1072,7 +1072,7 @@ is expected that the algae will dissipate as the temperature drops over the next
 
 number of weeks.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1156,7 +1156,7 @@ Sheahan, A. Teskey)
 
 **interests of safety.**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1234,7 +1234,7 @@ Notice of Motion submitted by Councillor E. Secas
 
 This Motion was adjourned to the November Meeting of the Council.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1298,5 +1298,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

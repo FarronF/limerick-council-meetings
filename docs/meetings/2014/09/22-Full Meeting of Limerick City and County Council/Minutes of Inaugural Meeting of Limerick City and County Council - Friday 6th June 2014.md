@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Inaugural Meeting of Limerick City and County Council - Friday 6th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/7%20minutes_of_inaugural_meeting_of_limerick_city_and_county_council_-_friday_6th_june_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -71,7 +71,7 @@ of the Council as follows:
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -131,7 +131,7 @@ Date: 29" May, 2014.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -188,7 +188,7 @@ Fine Gael
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -250,7 +250,7 @@ Date: 29" May, 2014.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -304,7 +304,7 @@ congratulated him on his election.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -356,7 +356,7 @@ successor is appointed.”
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -410,7 +410,7 @@ their priorities in setting policies and making decisions. He said that, as an o
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -464,7 +464,7 @@ SPC Chairs-Designate for a three-year term.”
 
 
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -516,7 +516,7 @@ Members of the Council, as Trustees. Under the Act, the Council was required to 
 
 
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -568,7 +568,7 @@ consider the appointment of 1 Member to the Library Association of Ireland.
 
 
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -623,7 +623,7 @@ Limited.
 
 
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -676,7 +676,7 @@ and Scanlan appointed to the Governing Authority of the University of Limerick.
 
 
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -730,7 +730,7 @@ Trust.
 
 
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -786,7 +786,7 @@ Implementation Team for Rathkeale.
 
 
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -837,7 +837,7 @@ agreed to defer this item.
 
 
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -889,7 +889,7 @@ Company Limited.
 
 
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -923,12 +923,12 @@ Date:
 
 
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

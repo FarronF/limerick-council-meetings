@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 15th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-municipal-district-of-newcastle-west-15th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -57,5 +57,5 @@ Corporate Headquarters, Merchant's Quay, Limerick W a@limerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 19th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-travel-transportation-spc-meeting-19th-oct-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -83,5 +83,5 @@ how serious the problem of speeding is in particular areas and ascertain areas w
 
 speed reduction measures need to be introduced.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

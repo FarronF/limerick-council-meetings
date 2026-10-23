@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 21st July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20metropolitan_district_of_limerick_-_minutes_of_meeting_-_21st_july_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
@@ -94,7 +94,7 @@ Members expressed the need for local Area Meetings. The Meetings Administrator
 
 informed Members that the Council was precluded from setting up Area Committees.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **NOTICES OF MOTION**
 
@@ -164,7 +164,7 @@ It was stated that people were paying lots of charges including property tax and
 
 they deserved to have all necessary services in estates.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **5.**
 
@@ -238,7 +238,7 @@ Members queried whether the proposed Notice of Motion referred to all lands or j
 
 those in Council ownership.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Councillor Butler requested that the Motion go to the full Council in his name and that it
 
@@ -256,5 +256,5 @@ Mayor of Limerick
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

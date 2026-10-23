@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Full Meeting of Limerick City and County Council - 23rd January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/00%20Agenda%20-%20Council%20Meeting%2023.01.2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,7 +79,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -129,7 +129,7 @@ ended 31* December, 2021.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -185,7 +185,7 @@ the Steering Group.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -236,7 +236,7 @@ Line reinstatement will future-proof the line to become a dual line.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -288,7 +288,7 @@ Meeting / Event.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -340,7 +340,7 @@ line from Limerick to Foynes and discuss potential of disused Mungret line.
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -374,5 +374,5 @@ Correspondence
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 5 September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/03-minutes-special-meeting-meeting-of-the-municipal-district-of-cappamore-kilmallock-5-september-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
@@ -66,7 +66,7 @@ Act, 1990 at Foxhall West, Colmanswell, Co Limerick and the intention to bring t
 
 Section 183 Notice to Full Council for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The report, as circulated, was proposed by Councillor Carey, seconded by Councillor
 
@@ -82,5 +82,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

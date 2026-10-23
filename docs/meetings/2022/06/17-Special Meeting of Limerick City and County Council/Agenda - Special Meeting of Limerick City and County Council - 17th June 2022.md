@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - 17th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-Special-Meeting-of-Council-17-June-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -74,5 +74,5 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

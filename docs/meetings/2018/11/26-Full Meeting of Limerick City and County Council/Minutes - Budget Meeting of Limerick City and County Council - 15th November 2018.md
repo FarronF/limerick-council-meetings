@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 15th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28c%29%20Minutes%20%20Budget%20Meeting%20151118.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ on 17th September, 2018, with an initial Corporate Policy Group meeting. On 24th
 
 further Corporate Policy Group meetings held on 15th October and 12th November. Also, the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ It is important that to remind ourselves of some of the key decisions that enabl
 
 to be made.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ The Chief Executive stated that the leadership, vision and decision-making shown
 
 Members have supported all of these initiatives and this faith in the new Limerick story has
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,7 +302,7 @@ including Urban and Village renewal while also marketing Limerick as a great pla
 
 and do business.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -348,7 +348,7 @@ Circular Fin 05/2018 also refers to the prescribed period that applies for the h
 
 Budget Meeting on Thursday 15th November 2018 at 11am, in Council Chamber, Dooradoyle.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -432,7 +432,7 @@ stimulation of the local economy underlining our commitment to economic growth i
 
 order to generate employment and create an environment for continued prosperity.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -500,7 +500,7 @@ into the Limerick City Development Plan 2010-2016 (as extended) with €170m
 
 committed by central Government in the national capital plan.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -706,7 +706,7 @@ at the sub-General Government level will have serious implications for national 
 
 expenditure increases in the LA & other sectors with own resource income will have to be
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,7 +782,7 @@ most important developments ever undertaken in Limerick, one with the capacity t
 
 3,000 jobs across a 450,000 sq ft campus.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -858,7 +858,7 @@ Based Letting (CBL) model of allocation during 2019. The management of existing 
 
 is a critical piece of work in which we continue to engage.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -928,7 +928,7 @@ expenditure necessary to carry out the functions of the Council and the income e
 
 accrue to the Council. The key objectives of the 2019 Budget are set out in the Table below:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1081,7 +1081,7 @@ targets and to meet the objectives of the Water Framework directive.
 
 ***Continue to seek efficiencies in service provision, cost reduction and value for money.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1187,7 +1187,7 @@ H - Misc Services
 
 **Table 2: Analysis of Expenditure by Division**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1339,7 +1339,7 @@ Division, with comparative figures for 2018:
 
 **(Excl HAP)**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1419,7 +1419,7 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **Analysis of Income (excluding HAP)**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1513,7 +1513,7 @@ to adjust the LPT rate upwards by 7.5% in 2019 equating to an increase of €1,1
 
 **Adopted Budget 2018 €'m**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1615,7 +1615,7 @@ resources for the delivery of the following services as follows:
 
 **Table 5: Allocation of additional resources**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1695,7 +1695,7 @@ below in ***Table 6***:
 
 **Table 6: Allocation of additional resources from proposed 1.90% Commercial Rate increase**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1807,7 +1807,7 @@ shall apply to eligible persons for the year to which the budget relates. The bu
 
 framed on the basis the refund rates on vacant property noted in ***Table 8*** below.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1873,7 +1873,7 @@ intended to address property vacancy rates, improve streetscapes and to support 
 
 business community.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1941,7 +1941,7 @@ in 2019. The Graph below shows our overall numbers at present and the number of 
 
 staff, which will rise significantly towards the end of 2019.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2051,7 +2051,7 @@ Council’s absolute commitment to the provision of responsive, efficient and in
 
 **Number Staff**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2167,7 +2167,7 @@ source of funding for the 3 year capital plan 2019 to 2021.
 
 **Table 9: Summary Capital Plan 2019-2021**
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2237,7 +2237,7 @@ ARV (Annual Rate on Valuation), and reflects the decision by elected members to 
 
 **€'m**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2315,7 +2315,7 @@ public toilet in Abbeyfeale was inadequate and therefore would not be supporting
 
 budget.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2379,7 +2379,7 @@ In addition, Members asked questions on several aspects of the Annual Budget Div
 
 Council then noted the provisions made in the Draft Annual Budget for these Divisions.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2457,7 +2457,7 @@ Cllr Collins referred to the delivery of the HAP Programme which is a major and 
 
 contract for this local authority with responsibility for a revenue of €518m.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2531,7 +2531,7 @@ authorities around the country today seeking the adoption of a budget of €35/4
 
 and stated how progressive Limerick had become.
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2613,7 +2613,7 @@ need for more housing projects and the investment that is required in housing. C
 
 people in care centres unable to return home as their house is not suitable.
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2699,7 +2699,7 @@ Teefy, Teskey. **(31)**
 
 The Meetings Administrator declared the Amendment **defeated.**
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2757,7 +2757,7 @@ by the Local Government Reform Act, 2014, the Report on Capital Projects 2019 �
 
 presented to the meeting is considered (Item 3 on Meeting Agenda)
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -2821,7 +2821,7 @@ by Section 43 of the Local Government Reform Act, 2014 subject to finances avail
 
 adopted as circulated without amendment (Item 8 on Meeting Agenda)
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 33
 
@@ -2841,5 +2841,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 

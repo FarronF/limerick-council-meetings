@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/03-minutes-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
@@ -82,7 +82,7 @@ funding from the NTA once the large scale projects are completed, for additional
 
 that are shovel ready
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The installation of Bus stops was acknowledged, and it was noted that applications from
 
@@ -102,5 +102,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-monthly-meeting-9th-november-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -86,7 +86,7 @@ December Municipal District meeting to discuss the water quality issues and lack
 
 proper sewerage system in Askeaton. Councillor Teskey requested an update on the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ projects planned for the District.
 
 Following discussion the following issues were raised by Members:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ if traffic calming was required in the area and added that the Safe Routes to Sc
 
 programme was a means of activating funding for these type of works.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,7 +302,7 @@ the Treaty of Askeaton. He also requested costing figures for the Adare logo for
 
 December District Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -364,5 +364,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

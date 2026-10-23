@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 10th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Draft-Minutes-Meeting-of-the-Metropolitan-District-of-Limerick-10th-July-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ details of proposed disposal of land for the Plassey Park Road Improvement Schem
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ systems.
 
 These communications are still ongoing and will continue until a source/sources of the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ to reach agreement on an appropriate annual grant.
 
 ***phone number has been published publicly.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,7 +388,7 @@ demolitions is provided below.
 
 Moyross
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ library service to this location.
 
 **REPLY**: The Westfield Management Plan is in the final stages of drafting and we will be in a position
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ dispose of it in a proper manner
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick on how many parking fines***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -658,7 +658,7 @@ Members.
 
 ***be made available for the road at The Cat’s Cradle to address the dangerous conditions and try***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -734,7 +734,7 @@ The Notice of Motion was proposed by Councillor Hartigan, seconded by Councillor
 
 agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -808,7 +808,7 @@ It was agreed to take Items 24 and 25 together.
 
 **25.Notice of Motion submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -870,5 +870,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

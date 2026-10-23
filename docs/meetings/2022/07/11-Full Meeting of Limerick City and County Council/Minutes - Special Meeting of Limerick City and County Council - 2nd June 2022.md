@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 2nd June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28b%29-Minutes-Special-Meeting-02-06-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -84,7 +84,7 @@ of life and full of energy, stating that she remained very active within her own
 
 after her political career was over.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,5 +130,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

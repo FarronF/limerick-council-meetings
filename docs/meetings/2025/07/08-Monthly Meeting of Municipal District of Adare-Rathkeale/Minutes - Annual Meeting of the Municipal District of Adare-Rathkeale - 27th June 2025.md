@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Municipal District of Adare-Rathkeale - 27th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-draft-minutes-of-annual-meeting-27th-june-2025_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -90,7 +90,7 @@ Adare-Rathkeale to hold office until the next Annual Meeting or until a successo
 
 been appointed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,5 +162,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

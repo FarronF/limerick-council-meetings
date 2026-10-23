@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-special-meeting-of-limerick-city-and-county-council-10th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ consultation with the Mayor and the Director General. The Meeting adjourned at 4
 
 for one hour.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -136,7 +136,7 @@ seconded by Councillor Collins (M) to extend the adjournment until 10.45 p.m.
 
 Circulated, Draft Corporate Plan 2025-2029 with proposed amendments and appendix:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -150,7 +150,7 @@ Circulated, Draft Corporate Plan 2025-2029 with proposed amendments and appendix
 
 **Limerick”**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -218,7 +218,7 @@ Circulated, Draft Corporate Plan 2025-2029 with proposed amendments and appendix
 
 (Image omitted)(Image omitted)(Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -276,7 +276,7 @@ competes internationally and delivers locally.
 
 ***Director General***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -334,7 +334,7 @@ addressed as necessary in the Corporate Plan.
 
 1 https://www.gov.ie/en/publication/29839-code-of-corporate-governance-for-local-authorities/
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -426,7 +426,7 @@ quality of life in Limerick.
 
 Election in June 2024 of the first Directly Elected Mayor in Ireland
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -490,7 +490,7 @@ especially in emerging sectors, which could negatively impact job prospects and 
 
 growth. The facilitating and enabling role of education will also be key in addressing the socio-
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -518,7 +518,7 @@ A key challenge will be advocating for solutions to these challenges and seeking
 
 all the other actions in this plan.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -544,7 +544,7 @@ resilient, sustainable and connected Limerick for future generations, working to
 
 while upholding the highest standards of integrity, transparency and accountability.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -606,7 +606,7 @@ We are driven by bold ideas and innovation to guide our economic, social, digita
 
 development. We strive to be courageous in our ambition for Limerick by creating the space for
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -614,7 +614,7 @@ transformation, growth and untapped potential, actively building a better future
 
 Limerick.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -674,7 +674,7 @@ and accessible information to the staff, elected members, stakeholders and the p
 
 in everything we do.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **Socio-Economic Profile of Limerick**
 
@@ -732,7 +732,7 @@ stakeholders.
 
 *Source: Pobal HP Deprivation Index 2022*
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **Infographic – TO BE INSERTED**
 
@@ -774,7 +774,7 @@ Skills & Workforce Composition – 39% senior/professional, 22% skilled trades.
 
 (Sustainability & Growth – Strong focus on digital and infrastructure development)
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **Profile of Our Council**
 
@@ -820,7 +820,7 @@ National Housing Assistance Payment Service on behalf of the Department of Housi
 
 Government and Heritage and all 31 local authorities in the State.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 **Council Management**
 
@@ -874,7 +874,7 @@ LCCC is structured into eight directorates which play their parts in ensuring sm
 
 delivery of both the DG Functions and the Mayor Functions and the Mayoral Programme.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 The Directorates are:
 
@@ -942,7 +942,7 @@ new technology tools for improved efficiency and to better monitor and record de
 
 deadlines.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **Corporate Plan Implementation Supports**
 
@@ -1004,7 +1004,7 @@ designated activity companies. Membership of this Board will include officials o
 
 experts when relevant and up to five councillors to be nominated by the Council.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 **Making Policy for a New Future for Limerick**
 
@@ -1060,7 +1060,7 @@ County Council, many of which are priorities set out in the Mayoral Programme co
 
 each Council.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 The Mayor and the Executive may be assisted in the development of policy frameworks by a number
 
@@ -1118,7 +1118,7 @@ making authority on Council Policy. All policies brought before the Council must
 
 relevant and appropriate legislation refer to Appendices A.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 **Supporting Organisation**
 
@@ -1152,7 +1152,7 @@ role to support the effective operation of Council. All policies brought before 
 
 accordance with relevant and appropriate legislation refer to Appendices A.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 **Our Strategic Objectives**
 
@@ -1242,7 +1242,7 @@ online portal, using the NOAC's service indicators as benchmarks for assessing p
 
 will also be considered at Full Council half yearly.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 An online portal that will show progress against performance indicators is required in Limerick City
 
@@ -1296,7 +1296,7 @@ Full Council with half yearly updates to be provided to Full Council.
 
 The Director General and the Mayor will provide separate monthly reports to the elected members.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 **Performance Goals**
 
@@ -1350,7 +1350,7 @@ Corporate Plan.
 
 Advance equality and wellbeing
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 **26**
 
@@ -1414,7 +1414,7 @@ person-to-person access to services.
 
 Metrics
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 **27**
 
@@ -1468,7 +1468,7 @@ Programmes delivered; Participation
 
 Strengthen inter-agency collaboration
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 **28**
 
@@ -1522,7 +1522,7 @@ Protect and Enhance all Greenspaces including Parks
 
 and Residential Green Areas.
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 **29**
 
@@ -1570,7 +1570,7 @@ Authority Own Build whilst complying with the mixed
 
 tenure and National policy.
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 **30**
 
@@ -1628,7 +1628,7 @@ Increase in employment levels leading to a decrease in
 
 live register figures
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 **31**
 
@@ -1674,7 +1674,7 @@ economic, housing, community, culture and recreation
 
 and other uses.
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 **32**
 
@@ -1728,7 +1728,7 @@ Deliver effective planning service
 
 Strengthen enforcement and compliance
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 **33**
 
@@ -1770,7 +1770,7 @@ Liquidity levels to be sufficients
 
 Maintain moderate debt levels over the medium term
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 
 **NOAC Performance Indicators** **–** **Limerick**
 
@@ -1982,7 +1982,7 @@ Carbon reduction (tCO2)
 
 6.0
 
-[[PAGE_END:34]]
+<span data-pagefind-ignore>[[PAGE_END:34]]</span>
 
 **35**
 
@@ -2206,7 +2206,7 @@ Regional roads strengthened (kms)
 
 15.9
 
-[[PAGE_END:35]]
+<span data-pagefind-ignore>[[PAGE_END:35]]</span>
 
 **36**
 
@@ -2454,7 +2454,7 @@ LED lighting proportion (%)
 
 72.23
 
-[[PAGE_END:36]]
+<span data-pagefind-ignore>[[PAGE_END:36]]</span>
 
 **37**
 
@@ -2690,7 +2690,7 @@ Attendance within 10 minutes (fire)
 
 63.34%
 
-[[PAGE_END:37]]
+<span data-pagefind-ignore>[[PAGE_END:37]]</span>
 
 **38**
 
@@ -2938,7 +2938,7 @@ Rent & annuities collected 2023 (%)
 
 72%
 
-[[PAGE_END:38]]
+<span data-pagefind-ignore>[[PAGE_END:38]]</span>
 
 **39**
 
@@ -3092,7 +3092,7 @@ Ryan (E), Ryan (M), Sheahan, Slattery, Stokes, Talukder, Teskey, Ward.
 
 **(26)**
 
-[[PAGE_END:39]]
+<span data-pagefind-ignore>[[PAGE_END:39]]</span>
 
 **40**
 
@@ -3140,5 +3140,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:40]]
+<span data-pagefind-ignore>[[PAGE_END:40]]</span>
 

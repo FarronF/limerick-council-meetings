@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 16th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Draft-Minutes-Meeting-of-Metropolitan-District-of-Limerick-16th-October-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ be included in the main budget for the Council.
 
 The proposed breakdown was outlined as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -216,7 +216,7 @@ And Resolved:
 
 Limerick held on 18th September, 2023.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -288,7 +288,7 @@ proposals for disposal of 27 Assumpta Park, Limerick, Regeneration House Exchang
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -358,7 +358,7 @@ to the area and in particular for Scoil Ide. Members thanked the Active Travel T
 
 on the project.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -442,7 +442,7 @@ and the Active Travel / NTA funded scheme. However, Active Travel will engage wi
 
 Operations / Placemaking Departments to ensure this commitment is acted on.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ road upgrades to include access road to the graveyard, surfacing of the existing
 
 Marian Park and adjustments to drainage and paving within previous Phase 1 area
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **Patrickswell Phase 2** **Parking Review**
 
@@ -664,7 +664,7 @@ requirements for distance from junction and sightline were addressed. These
 
 resulted in design amendments, which reduced parking by 2 spaces.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -712,7 +712,7 @@ vehicles.
 
 # From Construction Drawings Rev A
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **7.Question submitted by Councillor D. McSweeney**
 
@@ -786,7 +786,7 @@ regularly maintain when required.
 
 ***can be provided to the children and parents attending the school.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -860,7 +860,7 @@ area over the period 2019 – 2023.
 
 ***grant has been applied for.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -938,7 +938,7 @@ Shopping Centre and adjacent to both primary and secondary schools. The identifi
 
 of a site is a key milestone in advancing this important project.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1018,7 +1018,7 @@ place in the following days during daylight hours.
 
 The Council’s contractor has returned to the Raheen area and has removed the debris
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1124,7 +1124,7 @@ EAST SINGLAND ROAD, GARYOWEN
 
 (Image omitted)
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1312,7 +1312,7 @@ SIR HARRYS MALL
 
 3
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1476,7 +1476,7 @@ Plan is currently being prepared and is anticipated to be published for public c
 
 in early November for a period of 6 weeks.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1592,7 +1592,7 @@ will revert with an update as soon as we have completed a detailed review on whe
 
 a basis can be justified.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1680,7 +1680,7 @@ throughout the year. The ability to accommodate additional works will be depende
 
 the scope and complexity of the works (and the needs of the applicant).
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1752,7 +1752,7 @@ agreed.
 
 In proposing the Motion, Councillor Slattery referred to the importance of the community policing
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1822,7 +1822,7 @@ It was agreed to refer this Notice of Motion to the Local Electoral Area Briefin
 
 **Action, Biodiversity and Environment Strategic Policy Committee)**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1886,5 +1886,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

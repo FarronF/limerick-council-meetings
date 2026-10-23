@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20Agenda%20Meeting%20210917.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -102,7 +102,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -143,7 +143,7 @@ Policing Committee and to agree arrangements for Sub-Committee Meeting.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -191,5 +191,5 @@ Correspondence.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 8th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/20210608-agenda-cabe-spc-june.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -48,7 +48,7 @@ business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -124,7 +124,7 @@ City and County Council identify suitable locations for additional public toilet
 
 the Metropolitan area”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -166,5 +166,5 @@ and to call on the Minister for Transport, Environment and Climate Change to rol
 
 the initiative nationwide”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

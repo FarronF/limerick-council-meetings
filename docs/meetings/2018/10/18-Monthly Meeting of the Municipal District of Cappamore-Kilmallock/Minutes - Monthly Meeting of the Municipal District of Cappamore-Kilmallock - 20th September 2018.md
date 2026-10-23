@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/03%20Minutes%20Municipal%20District%20Meeting%2020th%20Sept%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -58,7 +58,7 @@ And Resolved:
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -105,7 +105,7 @@ location. This will be followed by the renewal of the white lines.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -158,7 +158,7 @@ ground three-phase power line between the old and new burial grounds, as
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -206,7 +206,7 @@ Policy for Urban Areas’.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -254,7 +254,7 @@ assessed the drainage issue along with the deleterious condition of the
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -305,7 +305,7 @@ John Halligan, who as Minister for State had school transport as one of his Mini
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -359,7 +359,7 @@ This concluded the Meeting.
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -371,5 +371,5 @@ Cathaoirleach
 
 
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

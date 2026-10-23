@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-minutes-of-monthly-meeting-10th-november-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -86,7 +86,7 @@ Mayor to commemorate this event. This proposal was seconded by Councillor Sheaha
 
 and agreed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ dated 10th November, 2020 outlining details of works, projects and future projec
 
 planned for the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ the walkway/eco park and works should proceed for this aspect of the project at 
 
 present time. Members were in agreement these works should commence, however,
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -300,7 +300,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Teskey, it was agr
 
 allocate €2,000 for Christmas Crib in the Adare-Rathkeale Municipal District Office.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -368,7 +368,7 @@ Seconded by Councillor Teskey;
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -402,5 +402,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

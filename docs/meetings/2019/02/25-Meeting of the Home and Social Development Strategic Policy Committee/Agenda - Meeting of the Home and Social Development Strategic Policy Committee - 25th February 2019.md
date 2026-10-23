@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 25th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20of%20Home%20and%20Social%20Development%20SPC%2025th%20February%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **19/02/2019**
 
@@ -82,5 +82,5 @@ Council development in the Metropolitan District.
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-annual-meeting-limerick-city-and-county-council-30.06.2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -86,7 +86,7 @@ government.
 
 The Príomh Chomhairleoir then gave the following address:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -164,7 +164,7 @@ are not flaws.
 
 In fact, those debates took on added importance this year, as for the first time in the history
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -238,7 +238,7 @@ Having taken the Chair, the incoming Príomh Chomhairleoir, Councillor Slattery,
 
 following address:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -318,7 +318,7 @@ individuals were once the voice of our communities, and now it is our duty to be
 
 protect, support, and celebrate them in their later years.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -390,7 +390,7 @@ the election of a female Príomh Chomhairleoir, and noted that it was a great oc
 
 her and her family.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -448,5 +448,5 @@ This concluded the meeting.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

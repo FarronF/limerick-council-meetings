@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 21st February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes-Meeting-of-the-Travel-%26-Transportation-Strategic-Policy-Committee-21st-February-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -78,7 +78,7 @@ Meetings from 3:30 to 3:00 p.m.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,7 +142,7 @@ Cllr. Teefy asked if Park & Ride is identified in Ballysimon and what is the tim
 
 that there is large volume of traffic on the N24 and R512.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -208,7 +208,7 @@ Mr. Harper was pleased that TFI Bike Scheme is going to UL. He raised concerns r
 
 €5 fee and suggested the need to put in extra bike stands as they can fill up.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -270,7 +270,7 @@ area. Mr. O’Leary added that the draft EV Strategy is to be issued for conside
 
 2023 and the final strategy is expected Q2 2023. An implementation plan will follow on from this.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -334,7 +334,7 @@ have longevity and referenced the recent branding of Adare, which is built into 
 
 Development Plan. Mr. Farrell also added that tree cages will be examined.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -380,5 +380,5 @@ The Chair thanked the presenters and members for their contribution. The meeting
 
 concluded.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

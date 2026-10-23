@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-agenda-10th-december-2020-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **3rd** **December, 2020.**
 
@@ -54,7 +54,7 @@ To consider the adoption of Minutes of Meeting of the Municipal District of
 
 Cappamore-Kilmallock held on the 19th November, 2020.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -108,7 +108,7 @@ Limerick City and County Council will erect signage to the spot where the Dromke
 
 took place.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -168,5 +168,5 @@ given to carrying out improvement works at the bad bend on the Lough Gur to Holy
 
 L1500.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Agenda for Meeting of Metropolitan District - 20th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/supplementary_agenda_for_meeting_of_metropolitan_district_-_20th_october_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -72,5 +72,5 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

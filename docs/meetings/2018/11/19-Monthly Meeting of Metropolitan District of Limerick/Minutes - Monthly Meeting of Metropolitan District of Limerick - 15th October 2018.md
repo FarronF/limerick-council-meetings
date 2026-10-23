@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01a%20Minutes%2015th%20October%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -94,7 +94,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Approx. €2.36 million remains outstanding in respect of these permissions.
 
 Of these developments:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ following Tender.
 
 Lisheen Park sanctioned costs €3,700,000
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -364,7 +364,7 @@ single-stage tendering process; and
 
 when following traditional procurement routes.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -448,7 +448,7 @@ and details of parking and public transport for Limerick City Centre will be inc
 
 ***there are in Limerick City North and how many are monitored and in working order.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -532,7 +532,7 @@ Metropolitan District of Limerick.
 
 ***other possible issues.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -612,7 +612,7 @@ Notice of Motions on the Agenda. The Meetings Administrator stated that the rele
 
 will be invited to attend.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,5 +656,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

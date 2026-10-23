@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 16th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Joint%20Policing%20Committee%20Meeting%20-%2016th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE LIMERICK JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -110,7 +110,7 @@ success in addressing travelling burglars and added that it is worth noting that
 
 between the hours of 5.00 p.m. and 9.00 p.m.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The number of assaults have increased in all areas apart from the Bruff District. In some instances, the
 
@@ -196,7 +196,7 @@ Deputy O’Donoghue suggested that retired Gardai should be encouraged to come b
 
 days a week, as they would have invaluable experience to pass on to new recruits.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Superintendent Magner stated that she would liaise with Padraig Sutton in the Road Safety Authority to
 
@@ -290,7 +290,7 @@ Sustainable Change and Innovation.
 
 The Members of the JPC thanked Supt Ruane for his presentation to the JPC Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 The Chairman stated that there was a better presence of Gardaí in the community fifteen years ago than
 
@@ -374,7 +374,7 @@ successful operation and those responsible were identified and have since been t
 
 December 2022 only four bikes have been stolen.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 In reply to Councillor C. Sheehan, Superintendent Magner stated that she would get the figures for the
 
@@ -452,7 +452,7 @@ organisation or group which has contact with children or vulnerable persons, the
 
 vetting through the relevant organisation, but it has to be relevant work and they must have vetting
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 prior to commencing work. An Garda Síochána provide the vetting service, we do not comment on
 
@@ -532,7 +532,7 @@ balaclavas) and frustrating for commuters, residents and visitors to the city.
 
 The prosecutions for such offences rely solely on interceptions while driving.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 The interception of offenders is difficult given the dangers of a pursuit to the individuals involved (no
 
@@ -620,7 +620,7 @@ specific “Project Off Road” initiative has been run in conjunction with the 
 
 and the Garda Youth Diversion Project, which resulted in an award this week at the R.S.A. Leading Lights
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Awards in Dublin. This initiative was targeted at Primary School children who were present during a
 
@@ -698,7 +698,7 @@ symposium-on-co-response-models-to-crisis-mental-health-events
 
 **13.NOTICE OF MOTION SUBMITTED BY COUNCILLOR SEAN HARTIGAN**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 ***“I will move at the next m**eeting that statistics on fines issued for illegal parking are reported on at all***
 
@@ -722,5 +722,5 @@ This concluded the business of the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

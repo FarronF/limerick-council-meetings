@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale JPC Subcommittee - 8th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%20%28b%29%20Minutes%208th%20November%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -82,7 +82,7 @@ presence of Gardaí in the town. As a result, this year there will be an emphasi
 
 patrolling the streets as well as using motorbikes and pedal bikes.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Superintendent Deasy went on to say the Gardaí have visited schools in the area to discuss
 
@@ -156,5 +156,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

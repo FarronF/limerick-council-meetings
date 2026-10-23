@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning SPC - 8th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-of-spc-mtg-8th-june-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -102,7 +102,7 @@ V. Murray stated that this initiative was part of a short term strategy for the 
 
 of Limerick City, he also outlined medium / long term goals such as the delivery of Kirkland
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 office development, Project Opera, UL City Centre Campus, Cleeves Campus, World Class
 
@@ -188,7 +188,7 @@ While Members welcomed the presentation, they suggested that Byelaws for street 
 
 should be reviewed before the plan is enacted, that local authority staff be on-hand to identify
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 pressure points and monitor queues once businesses reopened and that a reduction in
 
@@ -274,7 +274,7 @@ She also pointed out that should the new Development Plan not be adopted by the 
 
 then the responsibility for its adoption would fall to the Chief Executive.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 On the proposal of Cllr. Scanlan, seconded by Cllr. Egan, it was unanimously agreed to
 
@@ -340,5 +340,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

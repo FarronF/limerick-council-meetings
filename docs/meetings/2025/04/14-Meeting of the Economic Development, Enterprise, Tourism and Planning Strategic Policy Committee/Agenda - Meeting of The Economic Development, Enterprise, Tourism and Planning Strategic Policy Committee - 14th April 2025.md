@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of The Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 14th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-14th-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -66,5 +66,5 @@ Enterprise, Tourism and Planning Strategic Policy Committee held on Monday 3rd M
 
 6. Date of Next Meeting Monday, 23rd June 2025
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

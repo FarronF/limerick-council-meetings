@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting - 29th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Joint%20Policing%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2029thMar2018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -96,7 +96,7 @@ targeted patrols are being carried out across the District as part of Operation 
 
 was a Garda operation to address the increase in burglary crimes this year. Because of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,5 +172,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

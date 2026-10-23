@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%2015.10.19%20-%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.docx.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -46,7 +46,7 @@ PHYSICAL DEVELOPMENT DIRECTORATE
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -63,5 +63,5 @@ recht, Netherlands looking a ling | -
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

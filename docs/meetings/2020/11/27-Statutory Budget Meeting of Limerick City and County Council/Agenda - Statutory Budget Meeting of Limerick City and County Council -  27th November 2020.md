@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council -  27th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/00-agenda-budget-meeting-27.11.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -102,7 +102,7 @@ om Customerservicesalimerickie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -142,5 +142,5 @@ Reform Act, 2014, subject to finances available.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

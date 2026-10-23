@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-11th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,5 +72,5 @@ including St. Mary’s Park, Ballinacurra Weston, Lenihan Avenue, Coonagh/Clondr
 
 Johnsgate and Kilmallock Road.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

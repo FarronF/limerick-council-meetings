@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02-minutes-of-july-2021-jpc-sub-committee-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -92,7 +92,7 @@ burglaries of private houses and sheds over the period and added the following d
 
  Road Traffic Collisions up 50% on 2020 stats
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Trevor McKechnie agreed to look at the location with a view to submitting an app
 
 funding of Driver Feed Back signs under the low cost safety improvement funding scheme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,5 +240,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-2022-01-12-agenda-january.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,7 +82,7 @@ Corporate Headquarters, Merchant's Quay, Limerick yv
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -142,7 +142,7 @@ to Gala Supermarket on the Killarney Road, Abbeyfeale.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -177,5 +177,5 @@ junction known as Dillane’s Forge leading onto the L7056 in Templeglantine.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

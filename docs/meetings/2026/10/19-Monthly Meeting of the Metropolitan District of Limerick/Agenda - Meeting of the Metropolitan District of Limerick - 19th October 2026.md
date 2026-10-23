@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 19th October 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/agenda-meeting-of-the-metropolitan-district-of-limerick-19th-october-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,7 +78,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Minutes**
 
@@ -130,7 +130,7 @@ Night-Time Economy Pilot Programme Scheme via Twilight Thursday Initiative.
 
 (Report Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **7.Transportation, Mobility and Public Realm Directorate**
 
@@ -190,7 +190,7 @@ streets, following the introducƟon of the new one-way systems on and around the
 
 Circular Road.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **13.QuesƟon submiƩed by Councillor E. O’Donovan**
 
@@ -246,7 +246,7 @@ Council funding awarded to each programmed event that took place as part of Cult
 
 2026 in the Metropolitan District.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **18.QuesƟon submiƩed by Councillor D. McSweeney**
 
@@ -308,7 +308,7 @@ strategy, or defer its inclusion, unƟl such Ɵme as meaningful consultaƟon has
 
 the Limerick Market Trustees.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **24.QuesƟon submiƩed by Councillor S. Kiely**
 
@@ -366,7 +366,7 @@ provide councillors with a full list of Approved Housing Bodies operaƟng in the
 
 contact details for each Approved Housing Body.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **30.NoƟce of MoƟon submiƩed by Councillor S. Hickey-O’Mara**
 
@@ -430,9 +430,9 @@ prioriƟses a walkway from Castleconnell Campsite connecƟng it to the village b
 
 Cross.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **36.Correspondence**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

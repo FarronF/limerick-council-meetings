@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Budget Meeting of Limerick City & County Council - 12th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_budget_meeting_of_limerick_city_county_council_-_15th_december_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
@@ -84,7 +84,7 @@ the Budget had been complied with. In recommending the Budget to the Council for
 
 consideration, the Chief Executive said the following:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -170,7 +170,7 @@ consideration, the Chief Executive said the following:
 
 **and these decisions will be progressed at District Level over the coming months.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -258,7 +258,7 @@ consideration, the Chief Executive said the following:
 
 **consideration by mid-2015.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -338,7 +338,7 @@ I attach, for your consideration, the Draft Annual Revenue Budget for Limerick C
 
 and County Council for year ending 31st December, 2015. This is an historic Budget
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -426,7 +426,7 @@ Valuation Office posting over 6,700 final Valuation Certificates to commercial a
 
 industrial ratepayers in the Limerick City and County Council Rating Authority area
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -566,7 +566,7 @@ Unemployment rate
 
 8.9
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -656,7 +656,7 @@ this production brought for those three days in September will live long in the
 
 memory and the gathering of over 230,000 people helped to showcase the finest that
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **8**
 
@@ -774,7 +774,7 @@ M. Miscellaneous Services
 
 **173,156,191**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **9**
 
@@ -854,7 +854,7 @@ and to comply with the Government Directive to reduce payroll costs, a number of
 
 2014
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **10**
 
@@ -940,7 +940,7 @@ significant reductions, especially to the City demand, have seen total rates bil
 
 decrease to €53.667m. This represents a drop of €5.6m, (9.4%) in the 3 year period.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **11**
 
@@ -1052,7 +1052,7 @@ summary of potential spend and source of funding for the 3-year capital plan 201
 
 2017.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **12**
 
@@ -1168,7 +1168,7 @@ The PowerPoint presentation was delivered under the following headings:
 
 • Comparison with Previous Years.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **13**
 
@@ -1234,7 +1234,7 @@ levy on vacant properties was unacceptable. He welcomed the fact that the
 
 commercial rate would be maintained at the same level as the previous year.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **14**
 
@@ -1302,7 +1302,7 @@ the Community Horse Stables project. He concluded by saying that he would not be
 
 supporting the Budget.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **15**
 
@@ -1370,7 +1370,7 @@ City which should attract new businesses.
 
 • The Council’s interest in economic development.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **16**
 
@@ -1422,7 +1422,7 @@ On resumption of the Meeting, it was agreed to proceed with consideration and
 
 questions under the various Divisions.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 **17**
 
@@ -1482,7 +1482,7 @@ National Roads Authority would be contacted in relation to repair and maintenanc
 
 footpaths on National Roads.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 **18**
 
@@ -1544,7 +1544,7 @@ Some Members expressed disappointment in relation to the level of funding provid
 
 for Tourism Development and Promotion.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **19**
 
@@ -1608,7 +1608,7 @@ was unsuccessful, the allocation provided of €600,000 could be re-allocated to
 
 Tourism.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 **20**
 
@@ -1680,7 +1680,7 @@ For properties with a liability of rates €10,000 +, no grant.
 
 Council’s housing tenants as requested by the Members.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 **21**
 
@@ -1746,7 +1746,7 @@ Reduction in Bad Debt
 
 Provision – Commercial Rates (H0303) - €100,000
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 **22**
 
@@ -1812,7 +1812,7 @@ with Section 103 of the Local Government Act, 2001, as amended by the
 
 Local Government Reform Act, 2014, subject to the following amendments:
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 **23**
 
@@ -1852,5 +1852,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

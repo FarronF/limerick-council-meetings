@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Metropolitan District of Limerick - 18th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%20-%20Draft%20Budgetary%20Plan%20Meeting%202020%20-%2018th%20October%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -75,5 +75,5 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Notice and Agenda for the Environment Strategic Policy Committee 26th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/26th%20February%202018-%20Updated%20Agenda%20Environment%20Strategic%20Policy%20Committee%20%281%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **22nd** **February 2018**
 
@@ -45,7 +45,7 @@ held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 26th February 2
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -89,5 +89,5 @@ throughout the City and County”.
 
 7. **Report on Pilot Project for the Upgrade and Maintenance of Strategic Roundabouts**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

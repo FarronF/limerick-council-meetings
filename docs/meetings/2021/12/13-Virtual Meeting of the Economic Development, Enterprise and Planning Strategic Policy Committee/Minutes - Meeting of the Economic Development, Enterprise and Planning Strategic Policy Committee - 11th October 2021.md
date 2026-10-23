@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 11th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/minutes-of-spc-mtg-11th-october-21.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -104,7 +104,7 @@ agreed to make the inclusion of swift bird nesting boxes on suitable sites, a pl
 
 as part of the planning application process.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3**
 
@@ -204,7 +204,7 @@ following public display, the Chief Executive would prepare a report on the subm
 
 received, for the members to consider. M. Woods confirmed that another workshop for
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 elected members would be convened in advance of Council Meeting in January. The
 
@@ -288,7 +288,7 @@ Mr. Moloney referred to the following EI supported projects/initiatives in Limer
 
  Research and Innovation at 3rd level and business
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 EI has 593 clients in Limerick, with 9,774 people employed and provide a wide range of services to
 
@@ -368,7 +368,7 @@ Members welcomed the large amount of outdoor dining facilities available in Lime
 
 pandemic, which had been funded under the Outdoor Seating & Accessories for Tourism and
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Hospitality Business Scheme, run by Failte Ireland and the Local Authorities. They also expressed
 
@@ -406,5 +406,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

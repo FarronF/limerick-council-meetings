@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 29th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/00%20Agenda%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20290318.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,7 +82,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -94,5 +94,5 @@ Ardpatrick in the Clar programme to avail of grant monies to invest in the commu
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

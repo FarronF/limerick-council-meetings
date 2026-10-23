@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02a-draft-minutes-special-meeting-17th-september-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -96,7 +96,7 @@ Members expressed concern in relation to proposals to relocate the site for the 
 
 in St. Mary’s Park and highlighted the need to have the Centre in the heart of the community.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,5 +168,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

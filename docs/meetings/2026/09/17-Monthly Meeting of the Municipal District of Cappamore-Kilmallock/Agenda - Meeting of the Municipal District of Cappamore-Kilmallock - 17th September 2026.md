@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 17th September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-17th-september-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -83,7 +83,7 @@ eee oes 90019
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -134,7 +134,7 @@ January 2026 on proposed walkway lighting in Kilmallock.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -187,7 +187,7 @@ that a design for pedestrian crossings and footpath for the crossing at Deebert,
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -233,5 +233,5 @@ Waiting List.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Adare-Rathkeale - 11th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20April%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -73,7 +73,7 @@ priorities. The council would, however, continue to engage with Irish Water in t
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -123,7 +123,7 @@ accordance with the Deputy Chief Executive's Report.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -179,7 +179,7 @@ it was hoped work would commence on site within four weeks.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -232,7 +232,7 @@ complaints arise the Council investigates the issues and issue notices if warran
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -297,7 +297,7 @@ If an applicant is VAT exempt there are other options available to them.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -355,7 +355,7 @@ social housing in Adare.
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -410,7 +410,7 @@ the safety of young people using schools and sports facilities and we should be 
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -469,7 +469,7 @@ Joint Policing Committee (JPC).
 
 
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -515,5 +515,5 @@ Dated:
 
 
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

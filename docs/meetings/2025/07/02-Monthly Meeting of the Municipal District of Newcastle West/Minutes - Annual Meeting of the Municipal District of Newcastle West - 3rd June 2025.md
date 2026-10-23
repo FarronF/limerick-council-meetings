@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 3rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-2025-06-03-agm-minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
@@ -82,7 +82,7 @@ Proposed by: Councillor Foley
 
 Seconded by: Councillor Ruddle
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ As there were no other nominations, the Cathaoirleach declared Councillor Foley
 
 elected as Leas-Chathaoirleach of the Municipal District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -180,5 +180,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

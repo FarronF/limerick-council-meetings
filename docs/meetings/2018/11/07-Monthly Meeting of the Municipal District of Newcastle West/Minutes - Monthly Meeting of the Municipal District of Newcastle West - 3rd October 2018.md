@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%202018-10-03%20Minutes%20October.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ The Senior Executive Engineer, Physical Development Directorate, gave a presenta
 
 Members on Japanese Knotweed in County Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ REPLY:
 
 Repairs works will be carried out on the above within the next two weeks.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ and brought back into stock given the acute housing shortage and the extensive h
 
 waiting list.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 ***update on Nellie Lane’s Yard (iii) details on the funding to complete the plan (iv) proposed***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -518,7 +518,7 @@ location be addressed in unison. The Director informed Members that the derelict
 
 Colbert Terrace were actively being pursued.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,5 +582,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

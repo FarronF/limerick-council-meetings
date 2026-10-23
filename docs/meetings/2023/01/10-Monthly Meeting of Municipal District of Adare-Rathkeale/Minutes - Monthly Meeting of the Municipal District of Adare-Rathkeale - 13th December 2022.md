@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2013th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ Mr. Vaughan continued outlining Phase Two of the project, which will involve sig
 
 and train control systems for the route and the installation of 13 no. CCTV level crossings
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 
 October, 2022 setting out proposals to dispose of freehold interest in property at 21
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ to allocate €4,000 to Crecora Community Council.
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -258,5 +258,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

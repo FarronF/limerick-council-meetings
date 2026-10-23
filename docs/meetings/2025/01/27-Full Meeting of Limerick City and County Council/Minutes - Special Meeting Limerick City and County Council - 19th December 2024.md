@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting Limerick City and County Council - 19th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-c-minutes-special-meeting-limerick-city-and-county-council-19.12.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -82,7 +82,7 @@ Seconded by Councillor Secas;
 
 casual vacancy consequent on the election of Councillor Conor Sheehan to Dáil Éireann.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ Biodiversity and Environment Strategic Policy Committee consequent to the electi
 
 Councillor Conor Sheehan to Dáil Éireann.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ O’Donoghue, O’Hanlon, O’Sullivan (O), O’Sullivan (T), Pond, Reale, Ryan 
 
 Scanlan, Secas, Sheahan, Slattery, Stokes, Talukder, Teefy, Teskey, Ward. **(34)**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,7 +290,7 @@ Councillors Leddin, O’Hanlon, Pond, Collins (B), Foley, Kiely, Galvin, Stokes,
 
 Hartigan (S), Hartigan (T), Ryan (E), Daly, Secas, Hickey-O’Mara, Carey.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -374,7 +374,7 @@ And Resolved:
 
 Strategic Policy Committees as set out below:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -436,7 +436,7 @@ Strategic Policy Committees as set out below:
 
  Khurram Iqbal, Limerick Migrants Forum
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -456,5 +456,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

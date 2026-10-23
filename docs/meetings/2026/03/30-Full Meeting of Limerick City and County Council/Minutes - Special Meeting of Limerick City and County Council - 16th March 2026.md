@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 16th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-special-meeting-of-limerick-city-and-county-council-16th-march-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ mind were well known in the council chamber and beyond. On behalf of the people 
 
 Limerick, I extend my sincere sympathies to Kevin’s family and friends.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -156,7 +156,7 @@ At the conclusion of the meeting, a minute's silence was held as a mark of respe
 
 Ar dheis Dé go raibh a anam.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -172,5 +172,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

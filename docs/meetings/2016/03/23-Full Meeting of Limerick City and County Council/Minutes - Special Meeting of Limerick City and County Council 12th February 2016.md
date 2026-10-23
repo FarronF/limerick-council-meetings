@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council 12th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2012th%20February%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
@@ -92,7 +92,7 @@ At this point, on the proposal of Councillor Sheahan (J), seconded by Councillor
 
 it was agreed to adjourn for twenty minutes.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ equivalent to the electrical supply requirement for 700 households. This facilit
 
 considerable annual income for the Council.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ A decision to extend the life of the Landfill and commit capital to build new ce
 
 considered viable given the market and regulatory restrictions.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ Environmental Consultants, RPS, to undertake the Market Sounding Exercise on beh
 
 the Council.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -452,7 +452,7 @@ Council during 2012 proposing alternate waste treatment options that could be si
 
 Gortadroma Landfill.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -544,7 +544,7 @@ The RPS report recommended that the Council authorised proceeding to the selecti
 
 preferred bidder stage. The above reports are included in Appendix E.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -618,7 +618,7 @@ procurement law.
 
 The Gortadroma Landfill is located within the Adare-Rathkeale Municipal District.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -710,7 +710,7 @@ months. Subsequent to this period of consideration, the Adare-Rathkeale Members 
 
 their decision to support the proposed disposal at their meeting of the 16th March, 2015.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -792,7 +792,7 @@ clarifications in relation to Section 2.
 
 In response to queries from the Members, the following points were noted:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -866,7 +866,7 @@ to Strategic Infrastructure Development.
 
 been given as to whether planning would be appropriate.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -942,7 +942,7 @@ It was also agreed that it would be preferable if this meeting could take place 
 
 public meeting.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1014,7 +1014,7 @@ carried out in accordance with terms specified in the resolution, the disposal m
 
 carried out in accordance with those terms;
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1100,7 +1100,7 @@ clarifications in relation to Section 3.
 
 In response to queries from Members, the following points were noted:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1172,7 +1172,7 @@ required to undertake prior to any formal grant or refusal of permission.
 
 ***application to An Bord Pleanála or a Part V111 application by the Council.”***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1256,7 +1256,7 @@ The following reply was drafted by the planning section.
 
 *any event this assessment will be carried out as part of the planning application process.”*
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1340,7 +1340,7 @@ received hereunder for your attention:
 
 *Motion to rescind.*
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1434,7 +1434,7 @@ legal advice in relation to the content of this document. The advice received by
 
 set out hereunder.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1524,7 +1524,7 @@ advice.
 
 *Gortadroma facility will be inert or not.*
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1616,7 +1616,7 @@ advice.
 
 *Directors lacked honest belief in what they had said”.*
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1718,7 +1718,7 @@ in fairness very limited circumstances, which I will deal with below, grant reli
 
 party who had been induced to enter into an agreement by virtue of the
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1822,7 +1822,7 @@ clearly misrepresentation, be it fraudulent or otherwise, did not induce that pa
 
 enter into the contract.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1922,7 +1922,7 @@ presumably would be, given the value of the scheme etc. be dealt with in the
 
 Commercial Court. That would mean that the hearing would take place, if such
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2008,7 +2008,7 @@ passed and the “Agreement to Lease” entered into. The “Agreement to
 
 Lease” was only the first part in a long process, it would be followed with a
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2088,7 +2088,7 @@ to Lease may be terminated are as follows:-
 
 *Tenant, on the occurrence of the following events:*
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2178,7 +2178,7 @@ required Waste Licence.
 
 *proposed lessee’s planning and waste licence applications.”*
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2272,7 +2272,7 @@ decision being made in relation to this proposed development.
 
 *environmental process being put in place before the Lease is to be granted.”*
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2338,5 +2338,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 

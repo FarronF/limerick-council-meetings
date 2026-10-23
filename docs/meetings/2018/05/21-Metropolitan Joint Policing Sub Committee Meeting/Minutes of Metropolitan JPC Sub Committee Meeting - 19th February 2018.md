@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Metropolitan JPC Sub Committee Meeting - 19th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Minutes%20of%20meeting%20Metropolitan%20JPC%20Feb%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF MEETING OF METROPOLITAN JOINT POLICING SUB COMMITTEE
 
@@ -120,7 +120,7 @@ reinforced and a Guard appointed to liaise with the Council in relation to the h
 
 Limerick;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 
 
@@ -224,7 +224,7 @@ referred specifically to the fact that sulky riding takes place every evening at
 
 Road;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 
 
@@ -320,5 +320,5 @@ This concluded the meeting.
 
 **CHAIRMAN**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

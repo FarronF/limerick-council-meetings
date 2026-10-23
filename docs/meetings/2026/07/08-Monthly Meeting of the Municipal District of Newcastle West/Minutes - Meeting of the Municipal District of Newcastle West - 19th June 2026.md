@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 19th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-newcastle-west-19th-june-2026_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 DRAFT
 
@@ -100,7 +100,7 @@ And Resolved:
 
 Declaration of Interest.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ On the proposal of Councillor Sheehan, seconded by Councillor Collins, it was ag
 
 allocate €1,700 to Athea Community Council for the purchase of a lawnmower.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Works Scheme. This road requires full reconstruction which would include a full 
 
 could then be implemented subject to the availability of funding.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ design stages, with sketch design options being explored. It is anticipated that
 
 planning proposal will be lodged in late 2026, subject to design development.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ REPLY:
 
 The Roads Department will meet with Councillor Scanlan to review this request.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ supported the Motion and said the Castle should be opened from St. Patrick’s D
 
 Halloween. Councillor Collins also supported the Motion and suggested the Council’s Tourism
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ addressing the existing pavement defects between Main Street and Tesco as part o
 
 works where feasible.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ if there are any penalties when roads not reinstated satisfactorily under the co
 
 Opening Licence.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -658,5 +658,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01b-draft-minutes-monthly-meeting-15th-november-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -86,7 +86,7 @@ Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ Open space should be increased where possible on the site.
 
 ***plans they have for the Old Cinema Royal Building in Upper Cecil Street.***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ period is set out below:
 
 Rhebogue for social housing units under the Social Housing Investment Programme.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ time.
 
 ***for retailers fast approaching.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -440,7 +440,7 @@ b. an annual monitoring programme under the Urban Waste Water Treatment Regulati
 
 and the Wastewater Discharge (Authorisation) Regulations in accordance with Discharge
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -528,7 +528,7 @@ funding source for the provision of lighting in Parks.
 
 **Question submitted by Councillor F. Kilcoyne**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -608,7 +608,7 @@ While the restoration of the Black Bridge is included in the Limerick City & Cou
 
 securing a funding source.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -690,7 +690,7 @@ very large volumes of traffic in the area.
 
 **REPLY**: Limerick City and County Council Traffic Department’s Adaptive Urban Traffic Control
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -772,7 +772,7 @@ The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Sl
 
 agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -852,7 +852,7 @@ The Notice of Motion was proposed by Councillor Kilcoyne, seconded by Councillor
 
 agreed.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -898,5 +898,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

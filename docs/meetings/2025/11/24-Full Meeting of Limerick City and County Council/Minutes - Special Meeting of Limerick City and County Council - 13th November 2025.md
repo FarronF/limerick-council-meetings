@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 13th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-limerick-city-and-county-council-13th-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ input from Department of Agriculture.
 
 • Potential to locate windfarms on lands not suitable for farming/housing e.g. bogland.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -176,7 +176,7 @@ Accident and Emergencies:
 
 site pre and post construction.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -212,5 +212,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

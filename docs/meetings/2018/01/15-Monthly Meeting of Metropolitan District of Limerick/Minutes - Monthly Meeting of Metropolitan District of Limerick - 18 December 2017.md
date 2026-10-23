@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Minutes%2018th%20December%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -92,7 +92,7 @@ outlining proposals for the disposal of land at 5 Byrne Avenue, Prospect, Limeri
 
 consideration of ownership of 33 Byrne Avenue, Prospect, Limerick being transferred to the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -212,7 +212,7 @@ Circulated, Report of the Director of Services, Service Operations Directorate d
 
 December, 2017 and enclosed Chief Executive’s Report dated 13th December, 2017 setting out
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -296,7 +296,7 @@ to technical faults. The O'Connell Street monitor was offline from 25th May unti
 
 to 13th Dec. due to a blown transformer.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -462,7 +462,7 @@ CSS is to examine the feasibility of undertaking a pilot CBL project in 2018 and
 
 will report on this matter to the Housing SPC in advance of same.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -686,7 +686,7 @@ Temporary Emergency Provision – Lord Edward Street
 
 20
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -810,7 +810,7 @@ City and County Council, to meet their Part V obligations with the provision of
 
 community dwellings and elderly accommodation.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -894,7 +894,7 @@ into consideration.
 
 ***Metropolitan District call for a halt to the sell off of Council owned lands suitable for housing,***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -978,7 +978,7 @@ noted the Chief Executive’s commitment to brief the Members, prior to submissi
 
 planning application, which would take into consideration any submissions already made.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1062,7 +1062,7 @@ It was agreed that this Notice of Motion be referred to the Travel and Transport
 
 Policy Committee.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1110,5 +1110,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

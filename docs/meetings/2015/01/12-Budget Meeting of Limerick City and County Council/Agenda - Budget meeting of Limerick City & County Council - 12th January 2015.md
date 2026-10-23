@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Budget meeting of Limerick City & County Council - 12th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_budget_meeting_of_limerick_city_county_council_-_12th_january_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 2nd January, 2015.
 
@@ -76,5 +76,5 @@ Government Reform Act, 2014.
 
 Report from Chief Executive, including Capital Programme 2015-2017)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

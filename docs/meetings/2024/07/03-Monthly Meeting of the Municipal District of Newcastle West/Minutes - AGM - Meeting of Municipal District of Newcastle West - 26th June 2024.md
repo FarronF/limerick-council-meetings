@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - AGM - Meeting of Municipal District of Newcastle West - 26th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-2024-06-26-agm-minutes-.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
@@ -86,7 +86,7 @@ projects in the District.
 
 The Members thanked Councillor Ruddle for his time as Cathaoirleach and wished him well.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ The incoming Leas-Chathaoirleach wished the very best to the incoming Cathaoirle
 
 assuring him of his full support.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,9 +224,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

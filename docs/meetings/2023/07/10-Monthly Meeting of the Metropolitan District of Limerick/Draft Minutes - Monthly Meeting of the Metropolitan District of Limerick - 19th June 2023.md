@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick - 19th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-a-Draft-Minutes-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Engineer, Roads, Traffic and Cleansing.
 
 The report, as circulated, was noted by the Elected Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ lights before the turn to Carey’s Road will provide 4no ramps at the following
 
 ***its policy on dealing with reports of attacks on people by dogs in public places.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ closed.
 
 Immediate
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -516,7 +516,7 @@ and will advise in due course when a preferred site has been identified.
 
 **13.Question submitted by Councillor E. Secas**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -720,7 +720,7 @@ Approved in Principle
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -794,7 +794,7 @@ under the Cost Rental Tenant in Situ Scheme.
 
 ***RAS inspections carried out this year and the results of same.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -868,7 +868,7 @@ Economic Assessment Schedule:
 
  September 2023: Phase 1 - Discovery Phase
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -944,7 +944,7 @@ difficult.
 
 ***allowing access to the water for residents and visitors, including Dragon Boat personnel.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1020,7 +1020,7 @@ Committee.
 
 ***scale projects in Limerick City and County.*** ***Economic growth has been introduced in Limerick but***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1102,7 +1102,7 @@ development was granted over 20 years ago.
 
 **29.Notice of Motion submitted by Councillor S. Hartigan**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1182,7 +1182,7 @@ Street is currently being cleaned in accordance with current cleansing operation
 
 ***Greenway and in adjoining estates.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1268,7 +1268,7 @@ presence of Gardaí in the area.
 
 ***waiting time be reduced.*** ***Presently the waiting time is 14 weeks.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1344,7 +1344,7 @@ Park, Shannon Airport, and Adare Heritage Centre.
 
 Guide(s) in five languages.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1420,7 +1420,7 @@ applicants were having in proving vacancy and the need to ease the criteria.
 
 ***litter and food waste.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1456,5 +1456,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

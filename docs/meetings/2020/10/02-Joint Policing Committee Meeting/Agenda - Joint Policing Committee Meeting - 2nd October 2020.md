@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Joint Policing Committee Meeting - 2nd October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-amended.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,7 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 ~ 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -150,7 +150,7 @@ engaged in non core court duties and it’s impact on frontline policing”.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -185,5 +185,5 @@ installing additional cameras at this location”.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

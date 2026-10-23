@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 23rd March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Minutes%20of%20JPC%20Meeting%20held%2023rd%20March%202018%20%281%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
 
@@ -90,7 +90,7 @@ Executive Officer, on his promotion to the position of Director of Service, Kerr
 
 Council.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Programme for 2018 and outlined the following:-
 
  Joint Policing Committee Annual Work Plans
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ a result, burglary crime was rising. The Chief Superintendent stated that it was
 
 under the Commissioners remit to appointed staff.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,5 +290,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

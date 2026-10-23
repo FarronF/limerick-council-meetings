@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 17th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-metropolitan-district-of-limerick-17th-february-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ And Resolved:
 
 Planning and Development Act 2000 (as amended) and Section 11 of the Roads Act, 1993”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ the amendment includes a mirror sensitive response to the context by reflecting 
 
 building heights”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ retirement and thanked her for all her work over the years.
 
 ***six months ago.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ Garda Commissioner has the authority to approve the presence of such cameras, en
 
 that each scheme or individual location is justified, proportionate, and necessary.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -480,7 +480,7 @@ funding is secured.
 
 ***I will ask at the next**meeting of the Metropolitan District of Limerick, on behalf of the Residents***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -574,7 +574,7 @@ Below is a summary of the number of Families and Singles placed in December of 2
 
 Council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -742,7 +742,7 @@ Total
 
 December 08/12/2023
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -894,7 +894,7 @@ of this scheme and provide updates as they become available.
 
 **17.Question submitted by Councillor S. Kiely**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -968,7 +968,7 @@ as follows:
 
 (b) Efficacy of the Grant in Achieving the Aims of the Historic Structures Fund.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1048,7 +1048,7 @@ under the Water Pollution Act 1977 when necessary. In 2024, 77 inspections of bu
 
 were conducted, and 26 notices were issued. The primary issues identified included the
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1126,7 +1126,7 @@ an individual basis by a waste advisor. A number of coffee outlets in Limerick h
 
 independently to move to reusables in support of sustainability. This initiative is supported
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1222,7 +1222,7 @@ In April 2024, the Department announced the approval of 11 capital projects for 
 
 However, Limerick was not included on this list.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1296,7 +1296,7 @@ measure with the communities interlinking the estates which can also be advanced
 
 ***up a humanitarian hub in the Southside of Limerick City.***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1372,7 +1372,7 @@ Please see below statement issued by the owners last week.
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Doyle and agreed.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1448,7 +1448,7 @@ O’Connell Street, in particular doming from Bedford Row, and stressed the urge
 
 the pedestrian crossing here. She referred to the many calls Councillors had received in relation to
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1520,7 +1520,7 @@ Active Travel to discuss the request for a pedestrian crossing at the Parkway Ro
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1550,5 +1550,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

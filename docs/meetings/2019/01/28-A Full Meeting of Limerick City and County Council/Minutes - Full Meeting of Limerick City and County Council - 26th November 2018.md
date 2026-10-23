@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 26th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28a%29%20Minutes%20Ordinary%20Meeting%20261118.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN
 
@@ -88,7 +88,7 @@ Meetings Administrator confirmed that the amendment was already defeated as a re
 
 the earlier vote on his proposed Amendments on the adoption of the Budget.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ Honan (deceased), for the sum of €125.42, particulars of which were contained 
 
 Notice dated 1st October, 2018.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ Ballygrennan Road, Ballynanty, Limerick, to Michael McInerney, for the sum of �
 
 particulars of which were contained in Statutory Notice dated 2nd October, 2018.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ Proposed by Councillor Leddin (J);
 
 Seconded by Councillor Crowley (V);
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ The Mayor congratulated Ms Cahillane on her nomination to the Council and
 
 then invited Ms Cahillane to address the Chamber.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -464,7 +464,7 @@ And Resolved:
 
 of Cllr Mary Cahillane, to the Board of Governors of St. John’s Hospital to fill
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -540,7 +540,7 @@ that the focus was primarily on the Wild Atlantic Way and the Shannon
 
 Estuary waterfront.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -610,7 +610,7 @@ Audit Report for the year ended 31st December, 2017.
 
 The correspondence, as circulated, was noted by the Council.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -690,7 +690,7 @@ authorities in economic development as set out in the Local Government
 
 Reform Act 2014.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -776,7 +776,7 @@ Bronze Medal in IFCPF European Championships – Irish
 
 Cerebral Palsy side
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -894,7 +894,7 @@ Seconded by Councillor O Hanlon;
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -966,7 +966,7 @@ Enterprise and Planning Strategic Policy Committee dated 15th November,
 
 2018, in relation to Meeting of the Committee held on 8th October, 2018.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1034,7 +1034,7 @@ Meeting:
 
 **Recommendation**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1102,7 +1102,7 @@ Initiative Scheme, in accordance with Section 66 of the Local Government Act, 20
 
 (as amended), as set out below.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1320,7 +1320,7 @@ Landsdowne Active Retirement Group
 
 € 450
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1480,7 +1480,7 @@ Circulated, report from Director of Service, Physical Development, dated 14th
 
 November, 2018 enclosing Circular L3/18 from the Department of Housing, Planning
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1546,7 +1546,7 @@ Meeting / Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1632,7 +1632,7 @@ Thomandgate had a maximum rent of €90. All other areas in the city outside of
 
 these were not subject to a maximum rent cap.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1732,7 +1732,7 @@ acquisition, will be required.
 
 (Image omitted)
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1812,7 +1812,7 @@ introduced that will apply to all tenants of the Joint Authority from 1st Januar
 
 onwards.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1888,5 +1888,5 @@ single-use plastics within Council Departments.
 
 The Correspondence circulated with the Agenda was taken as read.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

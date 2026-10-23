@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeeting of the Metropolitan District of Limerick - 18th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20Minutes%2018th%20April%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ foot of same :-
 
 Irish / New York Festival
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ A number of Members expressed the view that the allocation to the Ireland / New 
 
 festival should be made if there was any danger that this festival would relocate.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ Members welcomed the development and complimented Ms. Goggin on the work carried
 
 out in this area.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ road may be included from the 2019 roadworks programme.
 
 **representations made by them and on their behalf in the past years.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -506,7 +506,7 @@ Structural overlay at entrance to Mount Green Estate with an upgrade to the
 
 existing table top ramp.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ appropriate at this stage to consider the potential inclusion of this site withi
 
 derelict sites register.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ on Regional and Local roads throughout the County. The Bridge Rehabilitation
 
 Works Scheme generally funds works to roads with bridges carrying vehicular
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -742,7 +742,7 @@ budget, and on a not for profit basis and in the process provided valuable train
 
 planning a career in broadcasting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -796,5 +796,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

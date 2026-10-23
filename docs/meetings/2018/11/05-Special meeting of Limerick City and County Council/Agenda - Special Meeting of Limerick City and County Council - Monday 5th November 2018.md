@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - Monday 5th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%205-11-18.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -88,5 +88,5 @@ w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

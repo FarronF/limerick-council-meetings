@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 3rd December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-3rd-december-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -94,7 +94,7 @@ Mr Barry Deane, Regional Coordinator | South West, Local Authority Waters Progra
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -108,5 +108,5 @@ resolutions – Aidan Finn, Senior Engineer
 
 7.SPC Work Programme 2026 – Next Steps – Aidan Finn, Senior Engineer
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

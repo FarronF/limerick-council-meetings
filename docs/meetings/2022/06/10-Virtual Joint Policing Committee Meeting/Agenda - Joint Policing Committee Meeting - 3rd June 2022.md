@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Joint Policing Committee Meeting - 3rd June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Agenda%20JPC%20Meeting%203rd%20June%2C%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -91,7 +91,7 @@ Ww @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -138,5 +138,5 @@ Commissioner to request additional Garda resources to police the city centre’.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

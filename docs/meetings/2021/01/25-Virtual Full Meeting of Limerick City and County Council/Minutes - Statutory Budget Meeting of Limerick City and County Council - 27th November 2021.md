@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Statutory Budget Meeting of Limerick City and County Council - 27th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-a-minutes-budget-meeting-27.11.20.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD AT**
 
@@ -84,7 +84,7 @@ December, 2021, the Draft Budget having been served in accordance with Section 1
 
 Local Government Act, 2001, as amended by the Local Government Reform Act, 2014.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ This budget is framed against a prolonged health crisis and a potential no-deal 
 
 Draft Budget has been prepared on the principle of a “balanced budget” based on the overall
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ Budget 2021 will actively allow for the further engagement with and support of o
 
 communities. It will address enhancing quality of life for our citizens by supporting new public
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,7 +302,7 @@ face of severe socio-economic challenges and the member’s decision to vary the
 
 has facilitated this commitment.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -366,7 +366,7 @@ The budget process for the preparation, consideration and adoption of the Budget
 
 statutory compliance with a number of steps, which can be summarised as follows:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -442,7 +442,7 @@ transmission of COVID-19 had a dramatic impact on Irish economic activity in the
 
 Quarter and, notwithstanding the rebound evident in the third Quarter, recovery remains far
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -514,7 +514,7 @@ billion, while a ‘recovery fund’ – including for Brexit-contingency purpos
 
 established, as provided for in the *Programme for Government.*
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -704,7 +704,7 @@ Reflecting the national lockdown, passenger numbers through Shannon Airport fell
 
 with huge knock-on impacts for tourism and commerce across the Mid-West. Combined with
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -780,7 +780,7 @@ to vehicular traffic at certain times during the week to encourage active transp
 
 more space for outdoor activities, and traffic was reduced on other routes on a pilot basis.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -856,7 +856,7 @@ expenditure necessary to carry out the functions of the Council and the income e
 
 accrue to the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -938,7 +938,7 @@ o Deliver on targets as set out in Rebuilding Ireland.
 
 o Maximise the output of Approved Housing Bodies as a key delivery mechanism.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1018,7 +1018,7 @@ looking to implement innovative solutions to deliver further efficiencies.
 
 ***Continue to seek efficiencies in service provision, cost reduction and value for money.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1128,7 +1128,7 @@ H - Misc Services
 
 The following chart gives a breakdown of expenditure by each Division.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1278,7 +1278,7 @@ following sources:
 
 **(Excl HAP)**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1366,7 +1366,7 @@ Comparative figures for Budgets 2021 and 2020 are shown hereunder.
 
 **Analysis of Income (excluding HAP)**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1460,7 +1460,7 @@ will be received in 2021 for loss of income in Goods and Services due to COVID-1
 
 **Adopted Budget 2020 €'m**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1530,7 +1530,7 @@ The 2021 allocation from the Local Property Tax and the calculation provided by 
 
 on the basis of this allocation is set out in ***Table 4*** below:
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1656,7 +1656,7 @@ commercial properties in the City and County are included on the rates records a
 
 properly rated.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1824,7 +1824,7 @@ appeals from Windfarms to be adjudicated by the Valuation Tribunal which could r
 
 further financial losses from reduced Commercial Rates of €600k per annum (arrears of
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1900,7 +1900,7 @@ conditions, including 25% of arrears must be paid in year 1 to qualify for the s
 
 payment plan in place over years 2 to 4 for the remaining arrears.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1972,7 +1972,7 @@ Circular Fin 08/2015 referred to the Local Government (Financial and Audit Proce
 
 and Audit Procedures) Regulations 2014 by providing that the Meeting at which
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2064,7 +2064,7 @@ value for money services that provide the best customer experience.
 
 **Number Staff**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2138,7 +2138,7 @@ annual review and possible adjustment. Below is a summary of potential spend and
 
 of funding for the three-year Capital Plan 2021 to 2023:
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2234,7 +2234,7 @@ provided an invaluable support structure to local communities.
 
 **Capital Expenditure 2021-2023 by Year €'m**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2306,7 +2306,7 @@ capital projects, including Urban and Village Renewal, while also marketing Lime
 
 place to live, visit and do business.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2370,7 +2370,7 @@ The Deputy Chief Executive then provided an overview of the Budget including an 
 
 of all Divisions within the Revenue Account and the corresponding Capital programmes.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2442,7 +2442,7 @@ anti-rural policies need to be reversed. On behalf of the Fine Gael Group, he fo
 
 proposed the Draft Budget as presented.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2514,7 +2514,7 @@ an opportunity to provide small amounts of funding to various community groups. 
 
 of the Fianna Fail Party, he formally seconded the proposal to adopt the Budget for 2021.
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2592,7 +2592,7 @@ maintenance of parks and open spaces and the different programmes in Arts and Cu
 
 She welcomed the fact that there was no increase in commercial rates in 2021 and stressed
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2670,7 +2670,7 @@ stock remains incredibly low. She stated there is a profound shortage of housing
 
 across Limerick. She said the budget makes reference to delivering on targets as set out in
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2742,7 +2742,7 @@ budget and that there are some important questions that need to be answered, the
 
 Sinn Féin team on this Council would be voting in favour of this budget.
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -2812,7 +2812,7 @@ Local Government (Financial and Audit Procedures) Regulations, 2014, and Section
 
 Local Government Act, 1946, be set at 10% for 2021 (Item 4 on Meeting Agenda).
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 33
 
@@ -2860,5 +2860,5 @@ This concluded the business of the Meeting.
 
 **Date:** **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 

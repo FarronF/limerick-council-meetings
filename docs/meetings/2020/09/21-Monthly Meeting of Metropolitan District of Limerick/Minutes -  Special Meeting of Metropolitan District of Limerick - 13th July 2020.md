@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Special Meeting of Metropolitan District of Limerick - 13th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01a-draft-minutes-special-meeting-13th-july-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -94,7 +94,7 @@ those over 18 when scramblers are seized.
 
  Clarification that bye-laws are not required in relation to scramblers/electric scooters.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,5 +152,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

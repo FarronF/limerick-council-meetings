@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council 13th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2013th%20January%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -80,7 +80,7 @@ The Director, Service Operations/Change Management opened the Meeting and gave a
 
 overview of the presentation that was to follow.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -152,7 +152,7 @@ The following measures were implemented:
 
 • Machinery – Excavators x 3, Lorries x 3, pickups x 6, Tractors/trailers x 2.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -228,7 +228,7 @@ The Senior Engineer moved on to outline events that had occurred in Corbally on
 
 Saturday, 12th December:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -302,7 +302,7 @@ estimated that the damage due to flooding alone in Limerick was in excess of €
 
 and that it was on the back of years of under-investment in roads maintenance.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -384,5 +384,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District Cappamore - Kilmallock - 12th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_cappamore_-_kilmallock_-_agenda_12_june_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,5 +77,5 @@ iS Cé na gCeannaithe, Luimneach t: 061 407100 e@: infoetimerickcity.ie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

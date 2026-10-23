@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/minutes-of-travel-and-transportation-spc-meeting-14-12-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -78,7 +78,7 @@ pedestrians.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ to Cllr. Ryan’s comment on the bus network, Mr. Kennedy confirmed that the NTA
 
 appointing a consultant to do a BusConnects scheme for the entire metro area.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -222,7 +222,7 @@ Association Ireland (DDAI). He explained the working and technology of the app a
 
 the disabled parking spaces on the app’s map to show that Limerick is an accessible city.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -292,7 +292,7 @@ The Chair thanked Mr. Williams for the Presentation adding that it is good to se
 
 in connectivity of rural Ireland. He opened the floor to questions.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -328,5 +328,5 @@ peaceful Christmas. He confirmed that the next Meeting is scheduled for Tuesday,
 
 The Meeting then concluded.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

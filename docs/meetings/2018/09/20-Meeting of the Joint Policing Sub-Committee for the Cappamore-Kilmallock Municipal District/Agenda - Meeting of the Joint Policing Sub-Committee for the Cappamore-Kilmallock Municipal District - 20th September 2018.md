@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee for the Cappamore-Kilmallock Municipal District - 20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20JPC%20Agenda%20for%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20Joint%20Policing%20Sub-Committee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -62,5 +62,5 @@ To discuss policing issues in the District.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

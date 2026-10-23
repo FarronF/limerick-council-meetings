@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 9th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2019-10-09-minutes-jpc-subcommittee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -92,7 +92,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Sergeant Thompson gave a comprehensive overview of the Text Alert System ,which 
 
 benefit to the local community and the Gardai. He also noted its used in locating missing persons.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,5 +212,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

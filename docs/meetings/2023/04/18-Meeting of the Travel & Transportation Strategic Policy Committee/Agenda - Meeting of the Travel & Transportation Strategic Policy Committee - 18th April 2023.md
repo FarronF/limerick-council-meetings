@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Agenda%20-%20Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2018th%20April%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -73,5 +73,5 @@ Policy Committee held on the 21st February 2023.
 
 **4.Presentation:** BusConnects Programme Update by the National Transport Authority
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

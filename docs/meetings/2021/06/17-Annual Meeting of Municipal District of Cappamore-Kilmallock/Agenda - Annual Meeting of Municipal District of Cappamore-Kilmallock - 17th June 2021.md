@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-17th-june-2021-annual-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,5 +77,5 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

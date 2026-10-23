@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 16th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-16th-december-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ concerns regarding the recent installation of the new lighting in the area, noti
 
 petition had been signed by these residents. Following notice of the Meeting, further calls
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ borrow €10m in December 2021. €6.4m has been paid to Cork County Council and
 
 paid in other costs, leaving a balance of €3m.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,5 +238,5 @@ This concluded the meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

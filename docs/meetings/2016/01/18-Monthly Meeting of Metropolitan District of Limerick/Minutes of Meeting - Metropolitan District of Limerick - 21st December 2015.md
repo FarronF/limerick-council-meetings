@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 21st December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2021st%20December%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ relation to the proposed disposal of the freehold (ground rent) at 1 Farranshone
 
 City.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ December, 2015 setting out potential revisions to the Part VIII, as originally c
 
 reflect the considered outcome of further workshop and consultation.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ It is intended to bring draft byelaws to the February Meeting of the Metropolita
 
 District to be held on Monday, 15th February, 2015.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ consistently rough sleeping in Limerick.
 
 The Limerick Homeless Action Team office hours are 9am to 5pm, Monday to
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -438,7 +438,7 @@ recent extreme weather but expressed concern at the flooding that had occurred i
 
 was proposed by Councillor Quinlivan and seconded by Cmhlr. Ó Ceallaigh that this District calls
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -524,7 +524,7 @@ noted that, as we were applying for European Capital of Culture Status, other cu
 
 taken into consideration.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -594,5 +594,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

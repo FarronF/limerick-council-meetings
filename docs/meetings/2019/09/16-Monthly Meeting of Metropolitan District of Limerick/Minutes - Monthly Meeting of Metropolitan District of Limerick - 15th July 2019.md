@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%28a%29%20Minutes%20Monthly%20Meeting%2015th%20July%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -102,7 +102,7 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 
 2019 setting out proposals to dispose of the Freehold Interest of premises consisting of a
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -192,7 +192,7 @@ proposals to dispose of land at Galvone Industrial Estate to Limerick City Build
 
 Limited and the intention to bring a Section 183 Notice to the September Meeting of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -274,7 +274,7 @@ Limerick City and County Council has a co-ordinated approach to implementing the
 
 various provisions of the Litter Pollution Act / Waste Management Acts and the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -366,7 +366,7 @@ provided by or **under the control or management** of the local authority. In th
 
 context the Council has included bye-laws regulating the use of vehicles (including
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -460,7 +460,7 @@ to it.
 
 €4,021,392
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -548,7 +548,7 @@ based on a standard scope and timeframe, which is determined by an inspection
 
 of the property at the outset.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -666,7 +666,7 @@ No. of cessations
 
 228
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -748,7 +748,7 @@ and in addition, options including park and ride and park and stride bus
 
 connections will be examined.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -834,7 +834,7 @@ sewer extension to meet their needs. A link to the application forms is attached
 
 your reference, https://www.water.ie/connections/get-connected/
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -924,7 +924,7 @@ and ride, park and stride bus connection and cycle networks.
 
 Correspondence was taken as read.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -944,5 +944,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

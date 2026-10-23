@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 15th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%202018-06-15%20Minutes%20June.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ facilitate further detailed design studies and assessments in relation to the de
 
 appropriate flood mitigation and defences.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Movement Plan, which will take traffic flow on the Boherbui area into
 
 consideration.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ Question submitted by Councillor L. Galvin
 
 ***West.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ Councillor Collins requested that the process as outlined in the Traffic Calming
 
 commence for this request.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ appropriate, a licence agreement could be issued to allow for this land to be
 
 developed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -550,7 +550,7 @@ within the Abbeyfeale area seeking accommodation.
 
 The following items were also raised.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -600,5 +600,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

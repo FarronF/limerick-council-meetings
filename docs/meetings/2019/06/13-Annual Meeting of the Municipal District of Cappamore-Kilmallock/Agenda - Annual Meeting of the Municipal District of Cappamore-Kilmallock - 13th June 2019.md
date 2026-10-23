@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 13th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Signed%20Agenda%20MD%20Meeting%2013th%20June.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -57,5 +57,5 @@ office until the next Annual Meeting or until a successor has been elected.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

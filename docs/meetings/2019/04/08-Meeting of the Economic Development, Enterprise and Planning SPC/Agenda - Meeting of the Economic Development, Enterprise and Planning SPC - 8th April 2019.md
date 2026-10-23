@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 8th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda%20of%20SPC%20Mtg%20%20-%208th%20April%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **2nd** **April, 2019**
 
@@ -70,5 +70,5 @@ Yours sincerely
 
 ***Economic Development***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

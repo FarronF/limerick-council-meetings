@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Newcastle West - 3rd December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_newcastle_west_-_3rd_december_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -72,7 +72,7 @@ Corporate Headquarters, Merchants Quay, Limerick y @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -126,7 +126,7 @@ Crescents to monitor and stop anti-social behaviour at these estates.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -162,5 +162,5 @@ Correspondence
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting - 27th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.06.22.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -76,5 +76,5 @@ The Meeting then concluded.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

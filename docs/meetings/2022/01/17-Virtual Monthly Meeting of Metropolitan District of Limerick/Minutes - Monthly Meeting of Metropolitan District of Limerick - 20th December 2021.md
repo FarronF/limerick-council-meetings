@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-draft-minutes-monthly-meeting-20th-december-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ house situate at 126 Sycamore Avenue, Rathbane, Limerick and the intention to br
 
 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Road), Limerick.  The report had been prepared in accordance with Section 17
 
 and Development Act 2000 (as amended) and Part 8 of the Planning and Development Regulations,
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ of the Dublin Road Bus Corridor (Plassey Park Road to Parkway Roundabout). This 
 
 the publication of the Limerick Shannon Metropolitan Area Transport Strategy (LSMATS) in
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ mobile pumps.
 
 ***County Council advise if Stradbally Cemetery is full to capacity or if people can purchase plots.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ discussions will influence the Rail content of LSMATS, Draft 2, which is due to 
 
 at beginning of 2022.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,7 +490,7 @@ ground, which will accommodate the needs of the Ballysimon DED, is set out below
 
 ***and County Council liaised with the ESB in determining what caused this to occur.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -620,7 +620,7 @@ the consultants brief with a view of proceeding with the next steps in Q1 next y
 
 (Note this will be subject to TII funding and approvals)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -698,7 +698,7 @@ In proposing the motion, Councillor Slattery stated that many elderly people wer
 
 and additional lighting was urgently required.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,7 +782,7 @@ and the need to maintain and sweep them regularly so as to ensure they could be 
 
 public without possible damage to tyres, etc.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -826,5 +826,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

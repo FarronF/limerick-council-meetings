@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Special Meeting of Limerick City and County Council - 23rd March, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-special-meeting-of-limerick-city-and-county-council-23rd-march-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -96,7 +96,7 @@ Limerick receives no direct benefit from this project, despite being a designate
 
 under the National Planning Framework.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -232,7 +232,7 @@ conditions, the real source of water available is the stored water in Lough Derg
 
 Ardnacrusha.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -362,7 +362,7 @@ Indicated that the Water Resource Management Plans underpinning this project has
 
 statutory basis, yet Uisce Éireann is relying on them to justify this development of national scale.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -436,7 +436,7 @@ No Member voted in favour of the proposed project.
 
 (0)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -468,5 +468,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and Council Council - 18th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-c-minutes-special-meeting-18th-february-2022_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -96,7 +96,7 @@ process. This included webinars, development of a virtual room, meetings held on
 
 Meetings etc. This process culminated in 285 submission received on the Draft Plan, all of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 which are summarised in the Chief Executive’s Report, with the response and
 
@@ -166,7 +166,7 @@ Councillors Hartigan, Novak, Ryan (E). **(3)**
 
 The Amendment proposed by Councillor Galvin, seconded by Councillor Collins was approved.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Amendment** **No. 3: Amendment submitted by Cllr. Liam Galvin to support the Extension of**
 
@@ -234,7 +234,7 @@ that a vote be taken on the proposed amendment from Cllr Costelloe and the resul
 
 voting was as follows:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **In Favour**
 
@@ -306,7 +306,7 @@ approved.
 
 **Manufacturing Land Use Zoning Matrix**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 The Amendment proposed by Councillor McSweeney, seconded by Councillor Sheahan (J) was
 
@@ -376,7 +376,7 @@ The Amendment proposed by Councillor Keary, seconded by Councillor Teskey was ap
 
 The Amendment proposed by Councillor Keary, seconded by Councillor Teskey was approved.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **Amendment** **No. 20: Amendment submitted by Cllr. Stephen Keary - Objective CGR 016 –**
 
@@ -444,7 +444,7 @@ different categories, and not all within Flood Zone A. The Senior Planner noted 
 
 that came in under Flood Zone C was already zoned as residential in the Draft Plan, but if it
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 came in under Flood Zone A or B, it was considered high risk and the planning authority did
 
@@ -516,7 +516,7 @@ be made more aware of all potential energy saving proposals and be encouraged, r
 
 than mandated, into availing of same. Following these discussions, the Mayor directed that
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 a vote be taken on the proposal from Cllr Hartigan that the amendment not be made and
 
@@ -582,7 +582,7 @@ Hartigan that the amendment not be made and the result of the voting was as foll
 
 Councillors Hartigan, Novak. **(2)**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **Against**
 
@@ -656,7 +656,7 @@ Sheahan (K), Sheehan (C), Slattery, Talukder, Teefy, Teskey.
 
 **(34)**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **Abstain**
 
@@ -730,7 +730,7 @@ directed that a vote be taken on the proposal from Cllr Hartigan that the amendm
 
 made and the result of the voting was as follows:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **In Favour**
 
@@ -804,7 +804,7 @@ approved.
 
 **Urban Quarter**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 The Amendment proposed by Councillor Leddin, seconded by Councillor Sheahan (J) was
 
@@ -876,7 +876,7 @@ The Amendment proposed by Councillor Novak, seconded by Councillor Hartigan was
 
 approved.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **Amendment No. 44: Amendment submitted by Cllr. Michael Sheahan - Change of zoning**
 
@@ -952,7 +952,7 @@ The Amendment proposed by Councillor Ryan (M), seconded by Councillor Teskey was
 
 approved.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **Amendment No. 53:** **Amendment submitted by Cllr. Elena Secas** **–Need for additional**
 
@@ -1026,5 +1026,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\
 
 **Mayor**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

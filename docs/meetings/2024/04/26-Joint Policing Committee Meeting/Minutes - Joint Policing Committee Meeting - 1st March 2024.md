@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 1st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-joint-policing-committee-meeting-1st-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
@@ -110,7 +110,7 @@ repercussions of obstructive parking, which can pose challenges for various road
 
 people with disabilities, cyclists, parents pushing buggies and other pedestrians.  He also referred to
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Mobility No Insurance App, which was launched in Limerick recently. Thirty cars were seized in the
 
@@ -192,7 +192,7 @@ are due out from Templemore on 20th March, 2024 and he has requested at least th
 
 for Limerick. He said he will do all he can to ensure Limerick gets these additional vital resources. He
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 stated that Limerick has received a number of new Garda pedal bikes, however, no update in relation
 
@@ -266,7 +266,7 @@ reputable traders. He also promoted property marking, which greatly assists Gard
 
 goods are retrieved.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Cllrs. Teskey and Keary voiced their concern at people calling to houses asking if they wanted
 
@@ -340,7 +340,7 @@ Limerick Joint Policing Committee Meeting held on 8th December, 2023, that the C
 
 written to voicing the Council’s opposition to proposals to disband dedicated community policing.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **6.QUESTION SUBMITTED BY COUNCILLOR AZAD TALUKDER**
 
@@ -412,7 +412,7 @@ an application to relaunch Op Feabhsaigh in a similar format as seen in 2023. It
 
 challenge the issue of drugs and anti-social behaviour which worked very successfully in the past.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **8.QUESTION SUBMITTED BY DEPUTY MAURICE QUINLIVAN, T.D.**
 
@@ -588,12 +588,12 @@ That concluded the business of the meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 3rd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-d-minutes-special-meeting-03.03.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ Ukraine should be congratulated for embracing people fleeing the conflict. He ca
 
 local authority, members of the public, the Department of Housing and the Government to
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ dismay at the heartbreaking and unprovoked action. Councillor Hartigan described
 
 actions of Russia as a disgrace.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,5 +250,5 @@ Date:
 
 **Mayor**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

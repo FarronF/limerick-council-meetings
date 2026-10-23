@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2019th%20October%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -108,7 +108,7 @@ Cllr. Stephen Keary opened the meeting and welcomed all members to the October S
 
 **Item 2: Matters arising from the Minutes**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -188,7 +188,7 @@ Ms. Mary Hayes, Senior Executive Officer, Housing Support Services presented the
 
 Policy Document”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ to a number of questions on a variety of topics including:
 
 1. Enforcement powers available to Council.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ provided an example of the financial contribution payable by the applicant and a
 
 City and County Council’s Allocation Scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -428,7 +428,7 @@ arrears, and were adhering to such plans, had nevertheless received such letters
 
 them distress. Mr. Hayes advised that he would be very surprised if that was the case and it was
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -454,5 +454,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

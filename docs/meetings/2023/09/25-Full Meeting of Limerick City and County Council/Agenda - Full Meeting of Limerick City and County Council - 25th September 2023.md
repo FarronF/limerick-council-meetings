@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Full Meeting of Limerick City and County Council - 25th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Full-Meeting-of-Limerick-City-and-County-Council-25th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -93,7 +93,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -151,7 +151,7 @@ and Planning Strategic Policy Committee held on 10™ July, 2023.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -199,7 +199,7 @@ Limerick City and County Council Festivals and Events Grant Scheme 2023/2024.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -258,7 +258,7 @@ Limerick City and County Council Traffic Calming Policy for Urban Areas in 2023.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -319,7 +319,7 @@ roads repaired under the Community Involvement Grant Scheme.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -374,7 +374,7 @@ reversed or at least done on a phased basis.
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -397,5 +397,5 @@ Correspondence
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

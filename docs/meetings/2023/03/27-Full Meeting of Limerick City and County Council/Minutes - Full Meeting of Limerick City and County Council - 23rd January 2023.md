@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20%28a%29%20Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20January%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ With the permission of the Mayor, the Council expressed its sympathy to the
 
 following:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Conveyance of the interest of Limerick City and County Council in the property, 
 
 which were contained in Statutory Notice dated 6th December, 2022.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ County Council in the property, particulars of which were contained in Statutory
 
 4th January, 2023.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ disposal; the disposal being subject to the covenants and conditions contained w
 
 contract, particulars of which were contained in Statutory Notice dated 12th January, 2023.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ Seconded by Councillor Kiely;
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -506,7 +506,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ And Resolved:
 
 City and County of Limerick, and a delegation, to Rockaway Beach, Queens, New York, USA.”
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ Seconded by Councillor O’Brien;
 
 vacancy consequent on the resignation of Councillor Ryan (E) from the Board.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -728,7 +728,7 @@ vacancy on the LECP (Local Economic and Community Plan) Steering Group consequen
 
 the resignation of Councillor Ryan (E) from the Steering Group.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -800,7 +800,7 @@ Committee dated 10th January, 2023, in relation to Meeting of the Committee held
 
 The report was noted by the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -874,7 +874,7 @@ limit appeals only and that the next full Speed Limit Review process would be co
 
 later in 2023.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -946,7 +946,7 @@ Question submitted by Councillor S. Hartigan
 
 **City and County Council impose if a meeting is recorded by an individual.**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1028,7 +1028,7 @@ with the agreed payment schedule.
 
 purchased approximately 300 bikes.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1120,7 +1120,7 @@ County Council also administers the Local LPSS (Live Performance Support
 
 Scheme) and Fáilte Ireland funding.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1246,7 +1246,7 @@ The Motion was proposed by Councillor Hartigan and seconded by Councillor Sheeha
 
 (C).
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1320,7 +1320,7 @@ the Motion if legal advice were sought on the matter. The Chief Executive agreed
 
 request to seek formal legal advice on the matter.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1384,7 +1384,7 @@ Correspondence
 
 The Correspondence circulated with the agenda was taken as read.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1410,5 +1410,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

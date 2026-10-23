@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 19th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%2019th%20October%2C%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ of lighting, traffic calming and lay-bys be installed at bus stops in the Adare-
 
 District and asked the Local Authority to attend to this as a matter of urgency.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ public display for a further 4 weeks”.
 
 It was agreed Item 6 on the Agenda would be taken next.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ public transport complementing where possible existing transport services allowi
 
 everyone in the community to have access to social, economic and other services. She
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,7 +296,7 @@ Correspondence was noted and taken as read.
 
 at 9.30 a.m. in Croom Civic Centre.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -320,5 +320,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 9th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-of-travel-transportation-spc-meeting-9th-july-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -68,7 +68,7 @@ The Chair welcomed Ms. Gallagher and welcomed her attendance at future meetings.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -134,7 +134,7 @@ He referenced a blog regarding Fr. Russell Road design which caused consternatio
 
 time. There is a statutory process to be followed which goes through the public elected
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -198,7 +198,7 @@ going to be implemented and what the timelines are and if it is the NTA or the C
 
 have the biggest input.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -266,7 +266,7 @@ Groody Link Road and Plassey Park Road. In some instances, bollards are used to 
 
 same delineation, i.e., southern approach to Kilmurray Roundabout in Castletroy.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -336,7 +336,7 @@ reimagined and transformed and in particular had four concerns she wished the Co
 
 consider:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -406,7 +406,7 @@ Cllr. O’Donovan supported the Motion and commented that the Dock Road is not a
 
 entry route into the city. She added that it is a very hostile road used by HGV’s going through
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -472,7 +472,7 @@ being done on medium to long term plans but would like to see some short term wi
 
 of a temporary measure.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -534,5 +534,5 @@ The Chair confirmed that the next SPC meeting is scheduled for Tuesday, the 19th
 
 2021. This concluded the meeting.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

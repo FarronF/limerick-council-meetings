@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 21st July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2021st%20July%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
@@ -98,7 +98,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -276,7 +276,7 @@ Chief Executive’s Report
 
 Circulated, Chief Executive’s Reports for the months of May and June.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ appointed to the Board of Governors of St. John’s Hospital for the duration of
 
 Councillor O’Dea’s term as Mayor of the Metropolitan District of Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -428,7 +428,7 @@ The estimated cost of the trip for the Mayor and 1 official was €1,259 and the
 
 of the Council was being sought to this visit.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ costs associated with any of the planned events and people in various sectors
 
 were anxious to be involved.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -592,7 +592,7 @@ Circulated, Annual Financial Statement for year ended 31st December, 2014,
 
 together with report from the Head of Finance dated 6th July, 2015.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -678,7 +678,7 @@ Seconded by Councillor Collins (J);
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -758,7 +758,7 @@ hereby adopted, in accordance with Section 66 (2) of the Local Government Act, 2
 
 (as amended).”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -840,7 +840,7 @@ it was agreed that the following Members would attend:
 
 **Clonakilty (7th/9th** **August):** Councillor Teefy.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -928,7 +928,7 @@ Adare-Rathkeale
 
 3 Casual Vacancies
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1014,7 +1014,7 @@ Legal advice was sought in relation to this Question and I set out details
 
 of the advice received hereunder for your attention:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1106,7 +1106,7 @@ of the advice received hereunder for your attention:
 
 ***any breach of statutory law or common law.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1196,7 +1196,7 @@ of the advice received hereunder for your attention:
 
 ***above clarifies the position.”***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1280,7 +1280,7 @@ The opinion is formed by the Board at the conclusion of the pre-
 
 application stage.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1362,7 +1362,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***the forthcoming years Budgets.***
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1446,7 +1446,7 @@ Meeting in light of the Emergency Motion that had been agreed earlier in relatio
 
 Gortadroma and this was agreed.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1530,7 +1530,7 @@ of Road Restoration Improvement. This grant was part of an additional €24,000,
 
 in funding being made available nationally this year for road improvements.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1584,5 +1584,5 @@ Date:
 
 .
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

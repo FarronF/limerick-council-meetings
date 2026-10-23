@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of Metropolitan District of Limerick - 24th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%20Draft%20Minutes%20Monthly%20Meeting%2024th%20October%202022_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -114,7 +114,7 @@ Special GMA Projects – Metro Area
 
 **€628,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -218,7 +218,7 @@ of the importance of increasing awareness of the GMA Community Initiatives Grant
 
 the GMA Special Projects funded through the Local Property Tax, so that people could see tangible
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -290,7 +290,7 @@ Athlunkard Villas Football Club and the intention to bring a Section 183 Notice 
 
 in this regard, for approval.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -366,7 +366,7 @@ As soon as an incident occurs, the Park Ranger makes contact with the Gardai and
 
 their presence. All incidents are documented by the Park Ranger. The Council is arranging
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -440,7 +440,7 @@ has recently been granted for a new Active Travel footpath scheme on the Condell
 
 extending from the Condell Road roundabout to Ted Russell Park.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -520,7 +520,7 @@ Regulation 11 - Refuse Facilities
 
 Regulation 12 - Gas, Oil and Electricity
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -594,7 +594,7 @@ There is no regulatory sign to inform motorists where they cannot park on public
 
 as it is illegal to park on any public footpaths. The cost of a fixed penalty for parking on a
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -676,7 +676,7 @@ circumstances. Not all requests result in the need for immediate replacement at 
 
 in time and the request is noted in the area.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -756,7 +756,7 @@ Garda Síochána. Other measures to increase general awareness will also be cons
 
 21. **Notice of Motion submitted by Councillor J. Leddin**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -834,7 +834,7 @@ The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor
 
 agreed.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -912,7 +912,7 @@ safety measures near the Schools in Caherdavin and that Sheelin Drive and Alderw
 
 should be looked at.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -990,7 +990,7 @@ also be an opportunity for Third Level Institutes to expand their sporting progr
 
 ***That the Council will conduct a public awareness campaign about the dangers of pavement***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1068,7 +1068,7 @@ isolation.
 
 **Development, Enterprise and Planning Strategic Policy Committee)**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1132,5 +1132,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

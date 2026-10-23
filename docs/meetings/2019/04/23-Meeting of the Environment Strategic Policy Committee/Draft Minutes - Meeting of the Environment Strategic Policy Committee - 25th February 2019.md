@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Environment Strategic Policy Committee - 25th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Draft-Minutes-of-the-Environment-Strategic-Policy-Committee-Meeting-25-Feb-2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -76,7 +76,7 @@ climate change.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,7 +150,7 @@ be sent to Full Council for consideration. Cllr O’Hanlon seconded the Motion.
 
 all refuse collectors charge customers only on a pay by weight basis.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -178,5 +178,5 @@ Following discussion by the Members, Cllr Gilligan thanked the Director for his 
 
 Themeeting then concluded.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

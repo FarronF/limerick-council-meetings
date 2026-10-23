@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 18th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2018th%20April%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -92,7 +92,7 @@ Area Plan, which related to an Amended Zoning and Master Plan for the Mungret Lo
 
 Area of Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ with Department of Transport guidelines.
 
 the three year roads programme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ We will raise this question with Iarnrod Eireann who are in the process of
 
 refurbishment of the Plaza in front of Colbert Station.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ Authority (NTA). Limerick City and County Council has assisted the NTA in the
 
 roll-out of this facility.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -442,7 +442,7 @@ Limerick City and County Council as a Roads Authority to make provision for the
 
 management and control of on street parking and parking charges.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -528,7 +528,7 @@ acknowledged that, given the scale of public lighting, this was an issue that ne
 
 addressed at a national level. In relation to carbon footprints, he noted that a presentation was
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -612,7 +612,7 @@ with and thereby ensuring the best care for both mother and child.
 
 Some Members spoke in favour of the St. James’ site noting that a new children’s hospital was
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -634,5 +634,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

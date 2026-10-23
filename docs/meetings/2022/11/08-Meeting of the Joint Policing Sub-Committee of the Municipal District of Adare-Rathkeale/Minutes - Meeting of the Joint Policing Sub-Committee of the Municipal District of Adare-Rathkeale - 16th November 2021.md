@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 16th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20Minutes%20JPC%2016th%20November%202021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -84,7 +84,7 @@ area. In addition, she advised the Gardaí are unable to follow through on these
 
 unless a statement is made.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Detective Sergeant Reidy advised there are a number of operations in place at the
 
@@ -156,5 +156,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

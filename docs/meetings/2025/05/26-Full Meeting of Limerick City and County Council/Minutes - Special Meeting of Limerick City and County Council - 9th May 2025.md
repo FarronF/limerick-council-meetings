@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 9th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-9th-may-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -82,7 +82,7 @@ passionate about heritage and community. The Príomh Chomhairleoir noted that Ka
 
 Leddin was the Sixth female Mayor of Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -166,7 +166,7 @@ Limerick and, in particular, her community. She extended her sympathies to her f
 
 Councillor Leddin and Councillor Pond.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -182,5 +182,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Municipal District of Cappamore-Kilmallock - 15th September 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/minutes_15th_september_2016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
@@ -90,7 +90,7 @@ Circulated, Report of the Director, Physical Development Directorate dated 5th S
 
 2016.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ the Scheme, subject to the inclusion of the housing estates Ceol na hAbhann, Cah
 
 Ros Fearna / The Meadows, Murroe.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ The following is the age profile of outdoor staff employed with the Council.
 
 The number of outdoor staff that retired in the last 5 years is 129.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ following completion of a competition which is currently underway within the
 
 Council.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -428,7 +428,7 @@ plans included a garden for meditation, spaces for women’s groups and youth gr
 
 a one bedroom apartment to rent and office space which would also be available to rent.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -468,5 +468,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

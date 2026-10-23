@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare - Rathkeale - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -94,7 +94,7 @@ properties in Rathkeale, he noted that he received the list under Correspondence
 
 however, he had also asked for the length of time each building is in Council ownership
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ In Q1 2026 cleaning and painting works have taken place on the former Post Offic
 
 building as well as the preparation of design options. Public consultation for input and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ Councillor O’Donoghue advised the meeting he was proposing this motion due to
 
 concerns among the local population of Croom regarding traffic congestion at the T
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ The report, as circulated, was noted by Members.
 
 out proposals for the disposal of 0.2629 Acres (0.1064 Hectares) of land at Askeaton,
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -392,7 +392,7 @@ On the proposal of Councillor Ward, seconded by Councillor Teskey, it was agreed
 
 allocate the following:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -468,7 +468,7 @@ these spaces.
 
 **services in the District.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ informed of the day to day running’s of the swimming pool and hoped that
 
 memberships would be kept up as well as regular maintenance to the facility. Councillor
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -624,7 +624,7 @@ assistance to St. Patrick's Day Parades and St. Patrick's Festivals through
 
 two open calls:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -676,5 +676,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

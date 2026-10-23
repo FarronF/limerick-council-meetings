@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 16th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-draft-minutes-monthly-meeting-16th-november-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -86,7 +86,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ The Cathaoirleach noted that Section 130 of the proposed Standing Orders would b
 
 after six months.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ roofs.
 
 ***I will ask at the next meeting:***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ give legal standing to the Climate Action Plan 2019.
 
 Section 3 of the Bill – as it is currently constituted – states that “The State shall
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ balance, prepared for the Council by the Limerick Clare Energy Agency, which
 
 informed the development of the current City and County Development Plans.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -498,7 +498,7 @@ challenge, which, it is hoped, will be addressed by the government commitment to
 
 carbon budgets in the forthcoming Climate Action and Low Carbon Development
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -592,7 +592,7 @@ December.
 
 25
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -684,7 +684,7 @@ upgrade interventions;
 
 €118,803.34
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -776,7 +776,7 @@ as requested.
 
 Please note that not all those on the waiting list are verified as rough sleepers.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -860,7 +860,7 @@ that eventual construction is several years away at this time.
 
 ***dog fouling offences which blights our city streets.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -954,7 +954,7 @@ held in each District and the Community, Culture and Leisure SPC received a brie
 
 at its recent meeting on 9th November.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1028,7 +1028,7 @@ It was agreed to refer this motion to the Economic Development, Enterprise and P
 
 Policy Committee.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1102,5 +1102,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

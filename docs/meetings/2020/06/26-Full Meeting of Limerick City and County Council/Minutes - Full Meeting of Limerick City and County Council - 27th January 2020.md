@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 27th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-b-minutes-ordinary-meeting-27.01.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -84,7 +84,7 @@ With the Mayor’s permission, sympathy was extended to the following on their r
 
 bereavements:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ approval of the Council be and is hereby given to the disposal of 94, Assumpta P
 
 Co. Limerick, to Richard Long, for the sum of €125.42, the disposal to be by way of Deed of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ Ballingarry, Co. Limerick, to Phelim O’Neill, for the sum of €31,000, partic
 
 contained in Statutory Notice dated 13th January, 2020.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ the 2019-Q3 Broadband statistics and confirmed the members of the Limerick Broad
 
 Group.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -488,7 +488,7 @@ Elected Members and various organisations, contractors and sub-contractors to co
 
 successful rollout of NBP in the City and County of Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ the resignation of Councillor Slattery as a member of the Committee, for the rem
 
 lifetime of the current Council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -650,7 +650,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -728,7 +728,7 @@ accordance with Section 66 of the Local Government Act, 2001, as amended, repaya
 
 November, 2020.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -804,7 +804,7 @@ Committee, presented an overview of matters discussed at the Meeting.
 
 The report was noted by the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -886,7 +886,7 @@ Finance Agency loans to each Local Authority. As part of this project, an Asset 
 
 would also be completed.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -964,7 +964,7 @@ of the Local Government Act, 2001, as amended, for the proposed Local Authority 
 
 Energy Efficiency Project – Southern Region.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1044,7 +1044,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1122,7 +1122,7 @@ Question submitted by Councillor E. Secas
 
 ***and is GDPR compliant.***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1298,7 +1298,7 @@ owners when the owners fulfil the legal requirements for the keeping of horses.
 
 Similarly, a proportion of dogs seized are returned to their owners.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1482,7 +1482,7 @@ Free car parking was provided at Cleeves, O’Callaghan Strand, the Council Car 
 
 (via Nicholas Street) and the Irish Rail Depot, Roxboro Road.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1660,7 +1660,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 The Motion was proposed by Councillor Scanlan. There was no Seconder for the Motion.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1734,7 +1734,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor Sheahan (J).
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1802,7 +1802,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint and Alfresco for inspection by the Members.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1822,5 +1822,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

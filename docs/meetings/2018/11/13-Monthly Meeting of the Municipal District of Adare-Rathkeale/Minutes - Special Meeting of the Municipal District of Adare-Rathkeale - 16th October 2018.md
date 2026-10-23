@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28c%29%20Minutes%2016th%20October%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,7 +146,7 @@ go ahead.
 
 at the junction beside the bridge.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,7 +212,7 @@ Social Development Mr. Padraig Malone and Technician, Urban and Village Renewal 
 
 Ann Lahiff to the Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,7 +288,7 @@ Meeting to facilitate the Workshop and Special Meeting for discussion of the Dra
 
 Budgetary Plan 2019 for the Municipal District of Adare-Rathkeale. Members also
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -356,7 +356,7 @@ dated 10th October, 2018 giving an update in relation to the flooding issues in 
 
 The report was noted by Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -428,7 +428,7 @@ Ray O’Driscoll.
 
 **(c)An up-to-date program for the allocation of these much needed properties.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -504,7 +504,7 @@ be provided to include the Greenway and hotels in the locality. Members also
 
 welcomed the Senior Executive Officer, Social Development Directorate response to
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -578,7 +578,7 @@ the proposal of Councillor O’Donoghue, seconded by Councillor McMahon it was a
 
 to allocate the following:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -642,5 +642,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

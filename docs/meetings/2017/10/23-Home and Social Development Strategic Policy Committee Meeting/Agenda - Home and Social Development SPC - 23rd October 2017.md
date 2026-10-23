@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Home and Social Development SPC - 23rd October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Home%20and%20Social%20Development%20SPC%20-%2023rd%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -57,5 +57,5 @@ Limerick City and County Council
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

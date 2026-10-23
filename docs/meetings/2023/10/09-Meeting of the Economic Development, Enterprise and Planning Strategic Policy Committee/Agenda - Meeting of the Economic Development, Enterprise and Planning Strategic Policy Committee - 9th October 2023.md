@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 9th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Agenda-Meeting-of-the-Economic-Development-Enterprise-and-Planning-Strategic-Policy-Committee-9th-October-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -63,7 +63,7 @@ business, in particular retall, in the core city centre area.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -85,5 +85,5 @@ Planning, Environment and Place-Making Directorate
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

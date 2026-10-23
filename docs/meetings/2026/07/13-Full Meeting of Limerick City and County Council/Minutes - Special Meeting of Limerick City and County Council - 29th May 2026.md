@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-29th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -94,7 +94,7 @@ of infrastructure warranted a wider Options Report highlighting that alternative
 
 should be more thoroughly investigated.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ They examined the potential impacts on future generations in the area and discus
 
 following issues:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ This concluded the Meeting.
 
 **Leas Phríomh Chomhairleoir**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -258,5 +258,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

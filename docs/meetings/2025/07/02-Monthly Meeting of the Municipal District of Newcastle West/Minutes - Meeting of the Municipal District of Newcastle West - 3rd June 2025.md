@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 3rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-2025-06-03-minutes-june.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ amendment outlined above to the Minutes of the Municipal District of Newcastle W
 
 on 6th May, 2025”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ out the design for these works. It is hoped that by Q3 2025, a design proposal
 
 will be available.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ sources of funding are actively being explored and a Meeting has been requested 
 
 Éireann by Limerick City and County Council (LCCC) on behalf of the Mayor to help unlock
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ Review Request Form for further consideration by the Office of Public Works.
 
 *For full details of the Flood Map Review Programme Guidance Note go to* *www.floodinfo.ie**.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -396,7 +396,7 @@ Member Quarterly Management Claims Trend Report for Quarter 4 2024 attached
 
 provides full details on all personal injury claims for the period 2022 – 2024.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ made to have the ESB substation protected in the interest of safety. In replying
 
 Executive Engineer stated that a Meeting has taken place on site and quotations are also
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -548,7 +548,7 @@ This area has been examined and it is not deemed to require a road safety
 
 audit.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ spent on general maintenance in The Square, Newcastle West and in replying, the 
 
 Centre First Officer agreed to revert to the Mayor with regard to this request.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -684,7 +684,7 @@ agreed that a Workshop would take place on Wednesday, 2nd July, 2025, at 9.15 a.
 
 William Smith O’Brien to discuss this matter.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -704,5 +704,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

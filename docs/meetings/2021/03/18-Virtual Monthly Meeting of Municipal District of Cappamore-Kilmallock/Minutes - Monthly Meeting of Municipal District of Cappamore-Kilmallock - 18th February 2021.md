@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 18th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/04.-minutes-of-18th-february-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ would issue. An update was also provided that the National Water Resources Plan 
 
 Framework was open for submissions to be submitted by the deadline of 1st March 2021. A
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ February, Kilmallock Business Park Update.
 
 A frank and open discussion was had by all.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -218,7 +218,7 @@ as there are frequent outages and low pressure to a number of households in the 
 
 **Seconded by : Councillor M Ryan**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -280,7 +280,7 @@ and requested further information.
 
 Subject to the approval of the Senior Engineer these works will be advanced in 2021.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,7 +388,7 @@ Property 3
 
 09/01/2020 Acquired property – not previously tenanted
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -458,7 +458,7 @@ Thanks was also expressed to James O’Rourke, Roads Supervisor and his team, fo
 
 to and preventing incidents of flooding recently.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -522,7 +522,7 @@ A Vote of Sympathy was expressed to the family of the late Emer Williams, Kilmal
 
 Caherdavin, daughter of ex Councillor Hurley, who passed away on the 25th January 2021.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -570,5 +570,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

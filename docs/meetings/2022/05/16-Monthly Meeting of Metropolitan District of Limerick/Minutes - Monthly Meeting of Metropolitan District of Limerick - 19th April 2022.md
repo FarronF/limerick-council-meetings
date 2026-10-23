@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Draft%20Minutes%20Monthly%20Meeting%2019th%20April%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ house situate at 28 Quins Cottages, Rosbrien, Limerick and the intention to brin
 
 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -334,7 +334,7 @@ Woodhaven Residents Association
 
 500
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -514,7 +514,7 @@ Coonagh Infant Burial Ground
 
 500
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -672,7 +672,7 @@ Irish Wildlife Trust Limerick Branch
 
 750
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -858,7 +858,7 @@ Patrickswell Tidy Towns
 
 1500
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -1022,7 +1022,7 @@ Thomondgate Residents Association
 
 1000
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -1106,7 +1106,7 @@ out extensive consultation to inform the preparation of the Draft Zoning Map for
 
 In order to comply with national and regional planning policy in terms of achieving compact
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1182,7 +1182,7 @@ An electronic brochure of One Opera Square was circulated as part of the respons
 
 ***for completing this master plan.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1264,7 +1264,7 @@ in house selection.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick for a report on how***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1344,7 +1344,7 @@ Street and from Barrington Street. There is also a layby at Pery Square for scho
 
 park at the same side of school entrance, which also reduces the need of crossing. Limerick
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1416,7 +1416,7 @@ forthcoming Climate Action Plan.
 
 **REPLY**: Limerick Active Travel has been liaising with the NTA on updated preliminary design
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1494,7 +1494,7 @@ should be given to providing a temporary premises so as to provide a service to 
 
 **REPLY**: The need for a library for Castletroy was identified as a priority action in the new Limerick
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1570,7 +1570,7 @@ It was agreed to refer this Notice of Motion to the Protocol Committee.
 
 **23.Notice of Motion submitted by Councillor J. Leddin**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1650,7 +1650,7 @@ continuing to consult with the EPA in relation to the investigation and associat
 
 ***buyers.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1730,7 +1730,7 @@ confirmation that First Time Buyers are not engaging/bidding on the property. If
 
 confirmed that First Time Buyers are bidding, the Housing Directorate will not support the
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1800,7 +1800,7 @@ further requests for public toilets in our Parks will require funding to be made
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1816,5 +1816,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

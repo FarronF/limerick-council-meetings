@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 21st October 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-21st-october-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ to be transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -105,5 +105,5 @@ to Carew Park to traffic.
 
 **7.Update on Park and Ride Sites.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

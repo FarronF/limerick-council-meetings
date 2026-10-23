@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Cultural SPC - 12 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/Item%201%20Minutes%20of%20Cultural%20SPC%20meeting%20held%2012th%20December%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -92,7 +92,7 @@ Cuidithe ag Cllr. J. Leddin, agus glacadh leis:
 
 **CULTURAL STRATEGIC POLICY COMMITTEE**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ o Limerick Gallery of Art: Overview of exhibition programme and plans
 
 Ms. U. McCarthy, Director/Curator, Limerick Gallery
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ meetings”.
 
 Ar moladh Cllr M. Sheahan
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ The events were established in 2007 by local communities, in partnership with Co
 
 Council and other statutory agencies in response to what had become a difficult night for
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,5 +378,5 @@ Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

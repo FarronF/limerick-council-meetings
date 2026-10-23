@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-13th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -79,5 +79,5 @@ enable them to park their vehicle at various locations throughout the city in or
 
 deliver essential and important services to people in the City Centre area.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

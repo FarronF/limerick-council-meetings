@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - 8th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-council-meeting-08.03.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,7 +82,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -102,5 +102,5 @@ Cllr. Eddie Ryan
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

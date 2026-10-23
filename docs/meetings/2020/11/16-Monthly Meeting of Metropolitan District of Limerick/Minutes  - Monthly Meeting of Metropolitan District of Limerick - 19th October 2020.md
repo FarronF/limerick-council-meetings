@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 19th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-draft-minutes-monthly-meeting-19th-october-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -86,7 +86,7 @@ And Resolved:
 
 **2.Disposal of Land**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Seconded by Councillor Murphy;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ Government Act, 2001”.
 
 ***million planned maintenance programme on Limerick City and County Council’s housing stock.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -348,7 +348,7 @@ Park side of the Childers’ Road, situating a bus stop on the opposite side wou
 
 currently be practical on safety grounds.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,7 +424,7 @@ Hospital Limerick in an attempt to alleviate the problem.
 
 Inland Fisheries Ireland, in their role in the protection, management and
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ Goods vehicle loading or unloading in a loading bay over 30 minutes.
 
 149
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -638,7 +638,7 @@ It was agreed to take Items 14 and 16 together
 
 **14.Notice of Motion submitted by Councillor F. Kilcoyne**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -712,7 +712,7 @@ would revert to Members at a subsequent Local Electoral Area Briefing or Metropo
 
 ***and how they will secure access in the interim to prevent anti social behaviour.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,7 +782,7 @@ With the permission of the Cathaoirleach, the following Motions were included �
 
 submitted prior to the deadline for Motions to be submitted:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -838,5 +838,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 16th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-december-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -96,7 +96,7 @@ Community Groups and Residential Organisations. Following discussion, it was agr
 
 representatives only, would be invited at this time.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ service; or have a limited service at present;
 
 emphasised the need to prioritise these;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Development Act 2000 (as amended) and Part 8 of the Planning and Development Reg
 
 report.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Revival Scheme) Strand 1 for the King’s Island Area.
 
 out and engagement events were held.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ out physical assessments of same.
 
 **REPLY:** Limerick City and County Council’s Digital Services CCTV team submitted a Community CCTV
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ Transport Operations & Maintenance as part of NTA allocation for 2025.
 
 ***their ongoing footpath improvement works in the Caherdavin area.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ Citizens Information or other charities supported by Council funds for sources o
 
 **14.Notice of Motion submitted by Councillor S. Kiely**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -642,7 +642,7 @@ alignment with Emergency Responder.
 
 Our Team has re-run this tender and awaits submission in January 2025, once this report is
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -718,7 +718,7 @@ The Notice of Motion was proposed by Councillor O’Donovan, seconded by Council
 
 O’Mara and agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -754,5 +754,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

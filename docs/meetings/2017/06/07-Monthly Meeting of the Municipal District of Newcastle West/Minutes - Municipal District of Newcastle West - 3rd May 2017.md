@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West - 3rd May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%202017-05-03%20Minutes%20May%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -72,7 +72,7 @@ weeks.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -130,7 +130,7 @@ to the Municipal District of Newcastle West and that the maximum amount of grant
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -187,7 +187,7 @@ were advised that the locations were as follows:
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -242,7 +242,7 @@ REPLY: A dog waste bin will be installed in order to deal with issue on the stre
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -271,5 +271,5 @@ Dated:
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

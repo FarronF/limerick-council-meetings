@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick - 20th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2020th%20March%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ Sheehan (C) as follows:
 
 “An adjournment was proposed by Councillor Leddin and seconded by Councillor Sheehan (C)”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Thomondgate, Limerick and the intention to bring a Section 183 Notice to Full Co
 
 regard, for approval.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Circulated, Report of the Senior Architect, Place-Making and Public Realm Depart
 
 March, 2023 and enclosed Chief Executive’s Report dated 9th March, 2023 setting out details in
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ works can take place.
 
 Section. These sweepers will be available to sweep streets and laneways throughout the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ to give a definitive timeline for the delivery of the project.
 
 ***when detailed design will be brought to Limerick City West Councillors for input.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -488,7 +488,7 @@ the RCT system would apply.
 
 applicant does not have a bank account. These are considered on a case-by-case basis.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ In proposing the Motion, Councillor Secas referred to the urgent need to progres
 
 project at Monaleen N.S., which had been ongoing for many years.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -634,7 +634,7 @@ consideration the lead in time for the delivery of equipment.
 
 The Members welcomed the response received and looked forward to the completion of the
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -656,5 +656,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

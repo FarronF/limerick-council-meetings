@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Home & Social Development SPC - 11th April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20%26%20Social%20Development%20SPC%20-%2011th%20April%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -82,5 +82,5 @@ Any other business.
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

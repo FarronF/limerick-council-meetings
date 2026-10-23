@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%20Minutes%20Monthly%20Meeting%2015.04.19_1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -88,7 +88,7 @@ It was proposed by Councillor Sheahan, seconded by Councillor Loftus and agreed 
 
 Meeting of the Metropolitan District of Limerick would be held on 20th May, 2019.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ to the units that are currently vacant and requested the Executive to complete t
 
 works on these properties as soon as possible.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ Equine Centre in Dublin. Arrangements will be made to convene a meeting, at
 
 which members will be updated on the learnings from the Clondalkin study visit.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Community Support Services as the project approaches completion to align
 
 timing of allocations of the units with the completion date.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ The motion was proposed by Councillor Hogan and seconded by Councillor Leddin.
 
 ***€1,000***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -518,7 +518,7 @@ out on Thomas Street and Catherine Street, at a cost of €4.3 million, which ha
 
 development of a cafe quarter within the prime city centre retail area.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -598,7 +598,7 @@ It was agreed that this Notice of Motion be referred to the Environment Strategi
 
 Committee.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -614,5 +614,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

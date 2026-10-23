@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Draft Budgetary Plan 2016 - Municipal District of Newcastle West - 21st October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Draft%20Budgetary%20Plan%202016%20-%20Municipal%20District%20of%20Newcastle%20West%20-%2021st%20October%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -66,5 +66,5 @@ Corporate Headquarters, Merchants Quay, Limerick vy @LimerickCouncit
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

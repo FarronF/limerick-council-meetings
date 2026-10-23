@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 20th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_20th_october_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
@@ -96,7 +96,7 @@ appointed for a specific purpose.
 
 The Deputy Chief Executive pointed out that while he was mindful of traditional practice,
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 the legality and servicing of such meetings would have to be taken into consideration. He
 
@@ -196,7 +196,7 @@ to the potential of flooding in the city.
 
 That consideration be given to encouraging food science research and evaluation
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 centres to establish in key sites in the city.
 
@@ -296,7 +296,7 @@ Council staff were working hard to deliver on plans for the Opera Centre site
 
 including an anchor tenant.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 •
 
@@ -390,7 +390,7 @@ The archaeological heritage of the site, along with the old black walk, were not
 
 potential tourist attractions and Members highlighted the potential of the site to also
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 facilitate sporting, recreational, community and educational use and requested that a
 
@@ -480,7 +480,7 @@ As Items No. 6, 10 and 11 related to the same location, it was agreed to take th
 
 together at this point.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6.
 
@@ -572,7 +572,7 @@ embankment a new footpath can be constructed along the riverside as part
 
 of the scheme.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Limerick City and County Council are not aware of any problems with the
 
@@ -664,7 +664,7 @@ demand will be satisfied through the development of the buildings and lands
 
 of the college.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 In that regard a comprehensive master plan for the building and lands is to
 
@@ -748,7 +748,7 @@ for that development with a view to remediating the system to a standard
 
 needed to facilitate its taking in charge by Irish Water.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Councillor Crowley sought guidance from the Council on how to progress this matter and
 
@@ -834,7 +834,7 @@ parking regulations prohibit vehicle parking because of road width. No disc
 
 parking operates on Little Gerald Griffin Street, therefore, the provision of
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 Resident Parking Permits is not applicable on this street. The Limerick City
 
@@ -918,7 +918,7 @@ Notice of Motion submitted by Councillor Maria Byrne
 
 The motion was proposed by Councillor Byrne and seconded by Councillor Butler.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 In proposing the motion Councillor Byrne stressed the need to bring people into the city
 
@@ -1006,7 +1006,7 @@ quite a number of owners who do not. This is an area that has been targeted
 
 by the Councils Litter Team over the last year or so with greater resources
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 put in to the creation of awareness amongst the public of the nuisance
 
@@ -1096,7 +1096,7 @@ Notice of Motion submitted by Cmhlr. Séighin Ó Ceallaigh
 
 ***Luimnigh’, as well as the Irish translation for ‘Metropolitan District of Limerick’,***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 ***which is ‘Ceantar Cathrach Luimnigh’ in the Council Chamber, Merchant’s Quay.***
 
@@ -1182,7 +1182,7 @@ undergone a number of refurbishments. A significant upgrade of the course
 
 was undertaken in 2010/2011. This upgrade included the construction of 18
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 new tee complexes, a new 9th hole featuring a new lake, a new practice
 
@@ -1258,5 +1258,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

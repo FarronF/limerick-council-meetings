@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Full Meeting of Limerick City and County Council - 24th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/00%20Agenda%20September%20Meeting%20240918.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,7 +79,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -131,7 +131,7 @@ issues with the cervical screening programme.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -193,7 +193,7 @@ Chairperson’s Report — Cultural Strategic Policy Committee Meeting held on
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -249,7 +249,7 @@ Cork, on 26", 27 and 28" October, 2018.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -296,7 +296,7 @@ District per annum for Civic Receptions.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -326,5 +326,5 @@ Correspondence.
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

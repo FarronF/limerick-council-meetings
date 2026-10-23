@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 7th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-08/00-Agenda-Special-Meeting-of-Metropolitan-District-of-Limerick-7th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,5 +79,5 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

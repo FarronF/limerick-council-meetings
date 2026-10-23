@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 11 April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Minutes-Meeting-of-Economic%20Development-Enterprise-and-Planning-SPC-11th-April-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -90,7 +90,7 @@ Cllr. M. Murphy and Cllr. S. Novak O’Conchuir requested to be disassociated fr
 
 recommendation.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2**
 
@@ -174,7 +174,7 @@ living wage and moved out of the bottom 20% deprivation index all of which led t
 
 effect on the health and wellbeing of residents.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Members thanked Mr Lloyd Goodwin for the very interesting presentation and queried the
 
@@ -256,7 +256,7 @@ allowable for other use - 15% under SHD)
 
  Application made to Planning Authority as opposed to ABP
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
  Appeal LRD decision to ABP
 
@@ -328,7 +328,7 @@ to provide the facilities at various stages.
 
 It was agreed that an update on the Town Centre First Plan Initiative be given at next meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **Item 7**
 
@@ -364,5 +364,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

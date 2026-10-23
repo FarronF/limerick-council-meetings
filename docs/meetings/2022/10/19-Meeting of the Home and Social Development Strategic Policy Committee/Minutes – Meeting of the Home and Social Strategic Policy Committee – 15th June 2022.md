@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 15th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20June%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -100,7 +100,7 @@ meeting.
 
 **Item 1: Confirm minutes from meeting held on20th** **April 2022**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ tenants can be reported to Limerick City and County Council and (4) What do tena
 
 Councillors need to do to report anti-social behaviour?
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ information once it has been completed. NCW MD to be advised of above in relatio
 
 NOM.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ that an update would be provided at the next SPC meeting.
 
 allocations team have considered or are actively collecting data on numbers of applicants
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,5 +398,5 @@ the contributions and presentations given and for the support provided to him as
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

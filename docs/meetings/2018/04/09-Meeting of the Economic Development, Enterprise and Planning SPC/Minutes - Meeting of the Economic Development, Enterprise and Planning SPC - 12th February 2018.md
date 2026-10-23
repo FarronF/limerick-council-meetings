@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 12th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Minutes%20of%20SPC%2012th%20February%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -120,7 +120,7 @@ policy statement and will factor same into any discussions/agreements with
 
 organisers of food related events.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3**
 
@@ -214,7 +214,7 @@ Key issues covered in the presentation included:
 
  IT Talent Acquisition
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  Develop IT business Ecosystem
 
@@ -272,5 +272,5 @@ This concluded the business of the meeting
 
 Chairperson
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-minutes-monthly-meeting-17th-february-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
@@ -98,7 +98,7 @@ Circulated, Report of the Head of Property and Community Facilities dated 7th Fe
 
 Limerick Gaelic Grounds Limited and the intention to bring a Section 183 Notice to the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ details to resolve to extend the life of the Patrickswell Local Area Plan 2015 â
 
 years from todayâ€™s date, in accordance with the provisions of Section 19 of the Planning and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ supervision costs.
 
 (replaces 250W and 400W son)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ Development. A detailed report will be presented to the next Metropolitan Distri
 
 meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -438,7 +438,7 @@ Members supported the motion stating that the facility is urgently required by c
 
 with serious, life-limiting conditions.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -508,7 +508,7 @@ A vote of sympathy was extended to the family of Garrett Fitzgerald, former CEO 
 
 who passed away recently. Members observed a minute's silence in his memory.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -524,5 +524,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

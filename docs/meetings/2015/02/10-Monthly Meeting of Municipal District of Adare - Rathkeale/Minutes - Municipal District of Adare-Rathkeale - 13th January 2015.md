@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Adare-Rathkeale - 13th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_adare-rathkeale_-_13th_january_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
@@ -92,7 +92,7 @@ Members thanked the delegation for their positive presentation and the delegatio
 
 withdrew from the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ Members noted and approved the disposal of land as set out below :-
 
 • Dwelling house and site situate at Corgrigg, Foynes, Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ box on the Rathkeale Road that is scheduled to be refreshed as soon
 
 as weather permits.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ for minor works in the port. This framework expired on the 1st May 2014 and
 
 therefore could not be used for this scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -432,7 +432,7 @@ Councillor Neville, in proposing the Motion, stated that a number of existing ra
 
 Mary’s Park, Rathkeale were insufficient and high powered cars were able to drive over
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,5 +516,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

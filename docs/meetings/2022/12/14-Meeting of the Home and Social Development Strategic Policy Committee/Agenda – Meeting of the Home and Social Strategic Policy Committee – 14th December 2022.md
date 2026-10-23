@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
@@ -70,5 +70,5 @@ into. (PPN Linkage Group)
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

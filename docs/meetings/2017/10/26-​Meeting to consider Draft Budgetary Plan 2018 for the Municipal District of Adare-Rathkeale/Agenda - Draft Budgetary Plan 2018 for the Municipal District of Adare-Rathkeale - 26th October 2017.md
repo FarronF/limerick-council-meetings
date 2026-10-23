@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Draft Budgetary Plan 2018 for the Municipal District of Adare-Rathkeale - 26th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Draft%20Budgetary%20Plan%202018%20for%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2026th%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,5 +70,5 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

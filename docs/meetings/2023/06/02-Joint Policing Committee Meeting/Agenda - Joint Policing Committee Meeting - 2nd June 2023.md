@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Joint Policing Committee Meeting - 2nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Joint-Policing-Committee-Meeting-2nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -85,7 +85,7 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -124,5 +124,5 @@ from the vehicle in either direction”.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Full Meeting of Limerick City and County Council - 26th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-full-meeting-of-limerick-city-and-county-council-26th-january-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,7 +78,7 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -128,7 +128,7 @@ Limerick City and County Council for the Year ended 31% December, 2024.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -181,7 +181,7 @@ and Culture Strategic Policy Committee held on 10" December, 2025.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -235,7 +235,7 @@ to create a Temporary Park and Ride Facility at Croagh North and South PT8LL303.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -284,7 +284,7 @@ To receive an update on the Mayoral Fund.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -336,7 +336,7 @@ Question submitted by Councillor J. Scanian
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -398,7 +398,7 @@ MY/2025/592 to include the following information:
 
 
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -446,7 +446,7 @@ deployment of Irish Defence Forces.
 
 
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -497,5 +497,5 @@ Correspondence
 
 
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

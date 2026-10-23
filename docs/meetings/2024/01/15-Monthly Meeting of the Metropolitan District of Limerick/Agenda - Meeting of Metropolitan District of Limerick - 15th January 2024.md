@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 15th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-metropolitan-district-of-limerick-15th-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -167,7 +167,7 @@ schemes will be available in Limerick in 2024 and can they be listed by area and
 
 available.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -231,7 +231,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 Management Plan for the City Centre.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -303,7 +303,7 @@ a cross department working group to assist and advise the owners of Georgian bui
 
 redevelopment for residential use.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -343,5 +343,5 @@ trees, shrubbery, and foliage by Irish Rail along the railway line.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

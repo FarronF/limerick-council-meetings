@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Item for Agenda - Ardrahan, Galbally - Purchase of Freehold - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/Item%20for%20Agenda%20-%20Ardrahan%2C%20Galbally%20-%20Purchase%20of%20Freehold%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%202.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -92,7 +92,7 @@ customerservices@limerick.ie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -102,5 +102,5 @@ TLR was enysnpues
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

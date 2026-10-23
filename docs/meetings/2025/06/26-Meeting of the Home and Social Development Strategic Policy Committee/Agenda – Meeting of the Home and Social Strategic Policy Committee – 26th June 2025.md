@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 26th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-the-home-and-social-strategic-policy-committee-26th-june-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -70,5 +70,5 @@ authority homes.
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 10th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-metropolitan-district-of-limerick-10th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ been completed. He confirmed that the report would be circulated to Elected Memb
 
 Briefing would be arranged to discuss the outcome of the review.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Proposed Protected Structure (Ref. No.: P.P.S. 2024/A)) to comprise artist studi
 
 area, exhibition space and café/restaurant with associated outdoor area adjoining St. Peter Street.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ District over the lifetime of the plan to 2028. However, the Housing Directorate
 
 overview of the affordable and social housing pipeline up to 2028, as outlined in Columns C and D.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -482,7 +482,7 @@ play items.
 
 In order to progress the project further, Clancourt Ltd have requested financial assistance
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -556,7 +556,7 @@ environmental sensitivity analysis and this is being considered by Discover Lime
 
 part of wider plans for the castle.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -634,7 +634,7 @@ housing waiting list. This figure covers Limerick City and County and includes t
 
 transfer list.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -716,7 +716,7 @@ Housing. These criteria are as follows:
 
  Efficacy of the Grant in Achieving the Aims of the Historic Structures Fund.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -794,7 +794,7 @@ will be made for the removal of the waste/litter after investigations by the Lit
 
 Management section.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -878,7 +878,7 @@ involving an independent all-in cost estimate alongside an independent valuation
 
 Should that check above be deemed positive, the following steps are required:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -960,7 +960,7 @@ scheme. We will continue to follow up on this and provide an update once availab
 
 With the permission of the Cathaoirleach, it was agreed to take Item No. 29 next.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1036,7 +1036,7 @@ adjacent to the Men’s Shed in Dooradoyle. If it is decided to make this availa
 
 Community Centre it is at this stage a feasibility study will be undertaken.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1110,7 +1110,7 @@ Administrative Officer, Housing Support Services agreed to update the Members on
 
 of an upcoming webinar organised by the Department of Housing, Local Government and Heritage.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1188,7 +1188,7 @@ any dogs being held in the shelter on an ongoing basis. That each animal has;
 
  Protection from extreme weather whether hot or cold.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1258,7 +1258,7 @@ The Mayor has indicated his willingness to meet the community liaison group and 
 
 forward to engaging with the Councillor on the matter.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1270,5 +1270,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

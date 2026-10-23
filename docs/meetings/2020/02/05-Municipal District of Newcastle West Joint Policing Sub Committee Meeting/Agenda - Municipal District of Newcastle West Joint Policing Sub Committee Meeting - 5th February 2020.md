@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/00-2020-02-05-jpc-sub-committee-agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -67,5 +67,5 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

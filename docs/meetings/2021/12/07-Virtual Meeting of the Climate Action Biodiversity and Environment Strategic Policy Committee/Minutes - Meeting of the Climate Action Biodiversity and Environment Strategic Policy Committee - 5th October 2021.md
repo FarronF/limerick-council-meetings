@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 5th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211005-cabe-spc-minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Minutes of the Online Meeting of Limerick City & County Council Climate Action,**
 
@@ -92,7 +92,7 @@ reduce our GHG emissions in real terms and maintain and strengthen our local eco
 
 real terms.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Mr. Stephens, in reply, confirmed that the Energy & Emissions Balance only deals with the
 
@@ -174,7 +174,7 @@ where peat use is low for those where it is high, to allow for the continuation 
 
 peat extraction.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Mr. Stephens, in reply, that the report focuses only on the amount of energy we are using,
 
@@ -244,7 +244,7 @@ feasibility study on a large green area at the back of the Old Cork Road that ru
 
 established in the area.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 In proposing the motion, Cllr Slattery noted that the green space in question had no lighting,
 
@@ -324,7 +324,7 @@ Lynch SEE and notes LCCC is moving in the right direction. He would like to see 
 
 spraying tender and process being reviewed.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Ms Gallagher then read the reply:
 
@@ -382,12 +382,12 @@ Is mise le meas,
 
 **Policy Committee**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 21st March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2021st%20March%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -78,7 +78,7 @@ proposal of Councillor Sheahan, seconded by Councillor O’Donoghue it was agree
 
 this matter should be brought to the Full Council Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ Report, as circulated, was proposed by Councillor Sheahan and seconded by Counci
 
 O’Brien.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ Members expressed their disappointment that following promises from the Senior
 
 Minister with responsibility for costal erosion and flooding a number of years back that
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -286,7 +286,7 @@ whom will assess the damage caused and arrange for a repair when funds
 
 become available.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -356,7 +356,7 @@ Councillor Teskey questioned why the €25,000,000 revenue for motor tax that wa
 
 collected in Limerick cannot be returned to Limerick to use better quality materials to
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -418,5 +418,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

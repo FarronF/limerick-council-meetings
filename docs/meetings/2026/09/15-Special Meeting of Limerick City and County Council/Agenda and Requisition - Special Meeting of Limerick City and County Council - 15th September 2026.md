@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 15th September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-15th-september-2026_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -50,7 +50,7 @@ Is mise le meas,
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -100,5 +100,5 @@ Cllr Shane Hickey O’ Mara
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

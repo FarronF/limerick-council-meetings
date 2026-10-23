@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda Special Meeting 161017 - Ward's Cross and Other Junctions on N21.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/2%20Agenda%20Special%20Meeting%20161017%20-%20Ward%27s%20Cross%20and%20Other%20Junctions%20on%20N21.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -73,5 +73,5 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - $7150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

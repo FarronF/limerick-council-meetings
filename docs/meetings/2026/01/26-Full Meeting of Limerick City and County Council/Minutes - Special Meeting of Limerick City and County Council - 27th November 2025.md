@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 27th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-special-meeting-of-limerick-city-and-county-council-27th-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ Members on the Director General’s Report. The Members thanked the Planning Dep
 
 for their work on this Strategic Infrastructure Development application.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -172,7 +172,7 @@ that the HSE should be consulted.
 
 referenced a study on safe distances by Professor Ken Masterson.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -252,7 +252,7 @@ implications for the Local Authority.
 
 Community Engagement
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -316,5 +316,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

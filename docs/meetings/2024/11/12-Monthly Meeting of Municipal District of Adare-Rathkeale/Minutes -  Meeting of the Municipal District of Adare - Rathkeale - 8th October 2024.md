@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Meeting of the Municipal District of Adare - Rathkeale - 8th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-october-2024_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ Councillor Keary raised concerns in relation to an issue which arose in Asgard C
 
 Loughill with a farmer spreading slurry in the green area of the estate. Members had
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Arlene Mellett, Senior Executive Engineer, Environment and Climate Action and Co
 
 McDonagh, Senior Executive Engineer, Limerick Clare Energy Agency, Environment and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ ensued in relation to the issue of buses stopping on the public road. Councillor
 
 O’Donoghue queried if the stop could be moved into the green area and off road. The
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ rehabilitation works and an application would need to be made to the Active Trav
 
 Department for consideration.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,5 +400,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

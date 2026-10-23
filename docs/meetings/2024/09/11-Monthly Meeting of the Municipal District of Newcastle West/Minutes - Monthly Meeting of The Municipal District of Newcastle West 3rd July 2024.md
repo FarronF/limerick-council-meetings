@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of The Municipal District of Newcastle West 3rd July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-monthly-meeting-of-the-municipal-district-of-newcastle-west-3rd-july-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ property. Following a brief discussion on these properties, the Staff Officer, P
 
 agreed to revert to the Members with an update on these properties.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ Following discussion, the Members wished to consider this matter further and rev
 
 September Meeting of the District.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ Limerick City and County Council will locate a disability bay in the carpark
 
 across from the Church subject to agreement.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ Limerick, to the Shannon Estuary. This important project involves the constructi
 
 wastewater treatment plant and sewerage infrastructure including a pumping station and
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -460,7 +460,7 @@ In proposing the Motion, Councillor Scanlan referred to the speed of traffic on 
 
 Killeline and to the speed indicator sign on this roadway. In replying, the Executive Engineer
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -530,7 +530,7 @@ calming measures in housing estates and villages in the District.
 
 ***speed ramps installed as a matter of urgency in the interest of safety.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -606,7 +606,7 @@ of the Ambulance Service and the Fire Service having safe access within Marian P
 
 and to the recently developed Glin Rovers Soccer pitch at Corbry estate. Councillor Sheahan
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -662,5 +662,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

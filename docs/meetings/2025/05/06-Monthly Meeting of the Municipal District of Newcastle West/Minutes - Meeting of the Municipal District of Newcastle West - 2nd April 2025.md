@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-april-2025_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ referred to a number of matters including a direct contact number for the Member
 
 public lights out of order, length of time taken to get lights repaired, night patrols, and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ The NTA Active Travel schemes for 2025 are at the following locations:
 
 (f) Design of R520 Bruff Line
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ The Environment and Climate Action Department have prepared tender documents to
 
 upgrade the playground which should be completed in 2025. The funding allocated under
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -452,7 +452,7 @@ to be completed within the next seven
 
 years.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -560,7 +560,7 @@ Tenders under view. Stage 4 application for
 
 funding to be made.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -632,7 +632,7 @@ proposed Sycamore Crescent housing development is now on hold until Uisce Éirea
 
 a connection.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -708,7 +708,7 @@ The intention is to provide a drawing for the Members approval as soon as possib
 
 ***and other property.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,7 +782,7 @@ and the Minister for Housing, Local Government and Heritage.
 
 ***be done on a regular basis.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -852,7 +852,7 @@ It was agreed that the Director would follow up on these matters with the releva
 
 Directorates.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -890,5 +890,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

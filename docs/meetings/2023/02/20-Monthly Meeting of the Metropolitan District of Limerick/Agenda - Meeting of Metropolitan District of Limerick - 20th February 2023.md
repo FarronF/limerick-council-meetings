@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20February%202023%20%281%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -69,7 +69,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -116,7 +116,7 @@ are deployed in the city.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -162,7 +162,7 @@ the long-term plans for Donnellan's Field / Thomondgate Weir.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -209,7 +209,7 @@ proposed Flood Relief Scheme for Annacotty including Mulcair Drive and Mountshan
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -252,7 +252,7 @@ Spaces to use within the city centre.
 
 
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -304,5 +304,5 @@ regularly to St. John’s Square to alleviate anti-social behaviour in the area.
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

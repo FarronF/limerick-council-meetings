@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28b%29%20Minutes%209th%20April%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -82,7 +82,7 @@ And Resolved:
 
 “That, the N69 Kilcornan Traffic Calming Scheme, as circulated, be adopted”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ behalf of the owners of the statue and explained he is in the process of arrangi
 
 with the owners to discuss replicating the statue and returning it to its original location.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -220,7 +220,7 @@ March, 2019 giving details of the number of casual vacancies/void houses and hou
 
 requiring major refurbishment within the Adare-Rathkeale Municipal District.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -286,7 +286,7 @@ meeting with TII in Dublin to discuss their concerns on the proposed Adare/Limer
 
 scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -354,7 +354,7 @@ Circulated, report of the Senior Executive Engineer, Service Operations West Div
 
 Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -420,7 +420,7 @@ allocate the following:
 
  €2,500 to the L1478 Ballyourgan, Croom.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -494,7 +494,7 @@ The listing for electrical charging points in the Adare-Rathkeale District is
 
 provided on the ecar website and includes locations at Adare and Foynes.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -556,7 +556,7 @@ This roadway is currently scheduled for works in 2021 at an estimated cost of
 
 Members welcomed the response.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -572,5 +572,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

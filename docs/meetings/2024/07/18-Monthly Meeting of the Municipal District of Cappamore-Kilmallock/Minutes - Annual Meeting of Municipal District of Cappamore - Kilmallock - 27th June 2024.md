@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore - Kilmallock - 27th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/03-minutes-of-annual-meeting-27th-june-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ An Leas Cathaoirleach outlined that he believed that it is important to give res
 
 get respect, and handed over to the Senior Executive Engineer.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ The Cathaoirleach welcomed An Méara John Moran to the Cappamore-Kilmallock
 
 Municipal District and congratulated him on his new role.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -206,5 +206,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

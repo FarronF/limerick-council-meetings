@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 19th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Supplementary%20Agenda%2019th%20June%252c%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -71,5 +71,5 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - 496200
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

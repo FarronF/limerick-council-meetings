@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01b-2021-06-23-agm-minutes-.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
@@ -88,5 +88,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

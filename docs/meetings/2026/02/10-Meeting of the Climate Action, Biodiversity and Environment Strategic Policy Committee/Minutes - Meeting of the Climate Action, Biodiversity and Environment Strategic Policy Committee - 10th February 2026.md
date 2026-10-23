@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 10th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-10th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -80,7 +80,7 @@ Item 2 - Notice of Motion submitted by Councillor M. Donoghue (*referred from De
 
 *Metropolitan Meeting*).
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *I will move at the next meeting of the Metropolitan District of Limerick that the current Presentation of*
 
@@ -160,7 +160,7 @@ CCTV monitoring and other mitigation measures would continue at problematic Brin
 
 locations.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 •
 
@@ -246,7 +246,7 @@ workshop on Cemeteries byelaws and Tree Maintenance however the SPC Programme wo
 
 set for 9th March with submissions being sought by 23rd February.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Cllr Kiely asked if Cllrs not sitting on this SPC were entitled to submit suggestions.
 
@@ -258,5 +258,5 @@ Cllr Joe Leddin
 
 Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

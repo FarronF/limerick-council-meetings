@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -73,7 +73,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -109,7 +109,7 @@ To note update on the provision of a new sewerage treatment plan in Askeaton.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -166,5 +166,5 @@ Correspondence
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

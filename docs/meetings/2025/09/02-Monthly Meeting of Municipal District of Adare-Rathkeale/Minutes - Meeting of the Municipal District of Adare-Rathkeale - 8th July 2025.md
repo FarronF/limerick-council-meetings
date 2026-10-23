@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-08/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-july-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ wayleave at Main Street, Adare, Co. Limerick.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ Design Office agreed to take consideration of Councillor O’Donoghue’s observ
 
 **Social Housing Delivery**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ It was also agreed the LA Construction Department would provide updates to membe
 
 every three weeks going forward.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -380,7 +380,7 @@ allocate the following:
 
  €1,000 to Alliance Française Limerick (Sarsfield Homecoming Project).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -442,5 +442,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20Minutes%2018th%20February%202019%20%28Final%20Version%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ in exchange for 134, St. Munchin’s Street, St. Mary’s Park, Limerick.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ the following:
 
 *Your comments will be taken into account when determining same”.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ the intention of the Government to invest in a total of 118 flood relief schemes
 
 nationwide over the coming decade.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -440,7 +440,7 @@ Wallers Well
 
 10 Units
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -532,7 +532,7 @@ Directorate in conjunction with the OPW, at a future meeting.
 
 ***facility for various Suicide Prevention Groups.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -616,5 +616,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

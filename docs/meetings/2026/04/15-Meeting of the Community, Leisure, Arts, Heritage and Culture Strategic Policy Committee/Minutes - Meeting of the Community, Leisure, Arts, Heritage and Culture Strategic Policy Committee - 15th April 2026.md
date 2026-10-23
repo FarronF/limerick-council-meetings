@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee - 15th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-15th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,7 +77,7 @@ Ms. Aisling Coughlan, Assistant Staff Officer
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -136,7 +136,7 @@ Seanad Public Consultation on Culture and Arts Infrastructure had been completed
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -194,7 +194,7 @@ challenges faced by venues.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -246,5 +246,5 @@ Minutes Signed by ee ae APs __ ate: [& 26
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

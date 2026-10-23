@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 20th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-Meeting%20of%20the%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20-%2020th%20Dec%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,7 +66,7 @@ Cllr. Secas asked if there is funding ring fenced for projects in the implementa
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -140,7 +140,7 @@ In response to Cllr Novak, Mr. Creegan advised that all routes are indicative an
 
 are benefits of rail to Shannon airport however it is some years away yet.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,7 +212,7 @@ Cllr. Ryan asked if the next phase is imminent. He noted Bruff and Kilmallock ar
 
 they are quite close and could be spread out better.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -286,5 +286,5 @@ The Chair thanked the presenters and members for their contribution and wished a
 
 Peaceful Christmas. The meeting then concluded.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

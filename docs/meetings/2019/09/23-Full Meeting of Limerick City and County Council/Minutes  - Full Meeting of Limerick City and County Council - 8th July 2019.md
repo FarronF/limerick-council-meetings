@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Full Meeting of Limerick City and County Council - 8th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%20Minutes%20Ordinary%20Meeting%2008.07.2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN**
 
@@ -90,7 +90,7 @@ after the economic recession, recovering from challenging social problems and di
 
 an administrative perspective. Deputy Mayor Teskey stated that while we respect your
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ partners. He concluded by with a quote from John Lennon who said
 
 *do it.”*
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ broke new grounds. Cllr Leddin thanked the Chief Executive and wished him well f
 
 future.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -432,7 +432,7 @@ Circulated, copy of Statutory Notice dated 12th June, 2019, concerning disposal 
 
 at Bohergar, Brittas, Co. Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ confirmed that a staff member has been assigned to work with the PPN and is conf
 
 the process will be completed in the near future.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -586,7 +586,7 @@ Seconded by Councillor O’Hanlon;
 
 Committee”.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ Seconded by Councillor Sheahan (J);
 
 Development Limited.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -726,7 +726,7 @@ The Meetings Administrator advised that Limerick City and County Council was req
 
 consider the nomination of 2 Members to the Hunt Museums’ Trust.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -788,7 +788,7 @@ As there were no other nominations, the Meetings Adminstrator declared Councillo
 
 Talukder and Teskey appointed to the Joint Policing Committee.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -860,7 +860,7 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Collins (M);
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -926,7 +926,7 @@ Proposed by Councillor Sheahan (J);
 
 Seconded by Councillor Galvin;
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -996,7 +996,7 @@ O’Donovan, O’Donoghue, Secas, Sheehan, Teefy.
 
 The Meetings Administrator declared Councillor Teefy appointed to the Audit Committee.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1062,7 +1062,7 @@ As there were no other nominations, the Meetings Administrator declared Councill
 
 and Ryan (E) appointed to the Rural Water Monitoring Committee.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1140,7 +1140,7 @@ enclosing draft Limerick City and County Council Climate Change Adaptation Strat
 
 2024 and Report on Public Consultation.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1226,7 +1226,7 @@ Tullamore, Co. Offaly on 9th October, 2019.
 
 The Council approved the attendance of the following Members:
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1320,7 +1320,7 @@ for various services, should they wish.
 
 €2.9 million
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1414,7 +1414,7 @@ Cases will always be addressed.
 
 ***Metropolitan Area Transport Strategy.***
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1496,7 +1496,7 @@ objectives, national transport policies, existing plans and strategies in the
 
 region and existing transport assets.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1576,7 +1576,7 @@ understanding that the return of properties, for various reasons, takes place
 
 on an on-going basis.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1654,7 +1654,7 @@ is causing.
 
 **numerous fatalities at this location over the years.**
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1742,7 +1742,7 @@ With the agreement of the Deputy Mayor, Items 18 and 20 were taken together
 
 **Ennis and Limerick hospitals.**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1838,7 +1838,7 @@ It was agreed to refer this Motion to the Climate Change and Environment Strateg
 
 Committee.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1914,5 +1914,5 @@ amended, was also available on Alfresco for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

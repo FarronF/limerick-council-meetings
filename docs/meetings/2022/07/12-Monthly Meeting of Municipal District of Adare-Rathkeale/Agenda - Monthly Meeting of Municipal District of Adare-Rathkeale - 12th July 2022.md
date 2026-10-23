@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/00%20Agenda%20Monthly%20Meeting%20Adare-Rathkeale%2012th%20July%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -76,7 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -121,5 +121,5 @@ A.0.B
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

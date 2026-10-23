@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 16th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20Minutes%2016th%20July%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ It was proposed by Cmhlr. Ó Ceallaigh and seconded by Councillor Daly not to pr
 
 Part 8 as it would interfere with the original planning, layout and design of the estate.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ proposed Bye-Laws would be brought before the Members for approval at a later st
 
 available at night time and weekends.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ Richard Harris Film Festival
 
 € 5,000
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -446,7 +446,7 @@ quality of life for people both in the city and suburbs**.**  It is necessary to
 
 the residential parking permits system so as to ensure that this continues.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -538,7 +538,7 @@ the international marketing of Riverfest in 2018 as well as Tourism Ireland. Lau
 
 Ryan, Head of Marketing to liaise with Failte Ireland.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -636,7 +636,7 @@ Marine for that period is projected to be **€46,025.00.**
 
 ***will be built or renovated and re-let by the end of 2019.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -744,7 +744,7 @@ The number of new build homes projected to be completed in 2019 is 79.
 
 **housing.**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -834,7 +834,7 @@ Members supported the motion and stressed their opposition to Irish Water’s pr
 
 water from the River Shannon.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -876,5 +876,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

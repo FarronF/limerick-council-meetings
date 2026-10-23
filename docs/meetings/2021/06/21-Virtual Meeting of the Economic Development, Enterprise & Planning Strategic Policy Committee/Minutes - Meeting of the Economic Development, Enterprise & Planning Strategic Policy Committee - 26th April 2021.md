@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 26th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/item-1-minutes-of-spc-26th-april-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -98,7 +98,7 @@ motions referred from SPC meetings could take up to 6 weeks to be considered at 
 
 meeting and they also requested more prompt action from outcomes from Council meetings.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 M Lyes welcomed the 10 days’ notice for ordinary meetings, which allows sectoral representatives
 
@@ -192,7 +192,7 @@ that it was proposed that it would be for a mixed use development and that once 
 
 place, further information would be made available to members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Replying to members, he also confirmed that the Community Department were currently awaiting
 
@@ -272,7 +272,7 @@ The main points of the various schemes are:
 
  Up to €4,000 available to businesses to purchase additional outdoor seating/equipment
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
  Up to 19 Buildouts (widening of footpaths – 10 in Limerick Metropolitan District and 3 in
 
@@ -352,7 +352,7 @@ number of initiatives in the area for the Summer period and he would discuss pro
 
 Kennedy, Director of Service and report back to members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 V. Murray assured members that he would discuss the matter of setting up of a Taskforce for the
 
@@ -404,5 +404,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

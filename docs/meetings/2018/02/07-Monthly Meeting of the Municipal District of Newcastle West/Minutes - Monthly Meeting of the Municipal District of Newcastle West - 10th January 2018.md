@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 10th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%202018-01-10%20Minutes%20January%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ agus Íde, Newcastle West. The Deputation consisted of Ms. Sheila O’Mahony Ken
 
 Principal, Sean Lane, Deputy Principal, Derek Herevin, Chairperson, Board of Management.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Ms. O’Mahony Kennedy addressed the Meeting and welcomed the opportunity to outline to
 
@@ -172,7 +172,7 @@ from 31st January. The Members stated that this deadline should be deferred as i
 
 impact on those using the banks correctly.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 4.
 
@@ -242,7 +242,7 @@ Question submitted by Councillor L. Galvin
 
 ***river at that location? (e) why/how was the Roche property granted planning permission***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 ***without a condition of planning that a properly designed/engineered wall be put in place***
 
@@ -314,7 +314,7 @@ section who will reply directly on the matter.
 
 **properties on New St., be made available to the Councillors?**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 I attach herewith, for your information and consideration, copy of the
 
@@ -388,7 +388,7 @@ qualified consultancy firm would significantly differ from the original Dennany
 
 Reidy Associates report.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Members must also have regard to the fact that commissioning a second
 
@@ -466,7 +466,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***effect from January 2018.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 In proposing the Motion, CouncillorScanlan stated weekly rents within the metro area
 
@@ -552,7 +552,7 @@ the Developer along the riverbank. He asked if the Roche family could be relocat
 
 highlighted the effects of river erosion at other properties along New St. Abbeyfeale. He
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 proposed that the OPW take ownership of the section of the Rivers Feale and Alaughaun
 
@@ -628,5 +628,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

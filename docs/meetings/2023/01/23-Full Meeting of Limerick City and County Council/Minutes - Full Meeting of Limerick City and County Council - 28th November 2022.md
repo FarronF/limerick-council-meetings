@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 28th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20%28b%29%20Minutes%20Council%20Meeting%2028.11.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ across the wider Mid-West Region and he looked forward to the continued engageme
 
 co-operation between Limerick City and County Council and the University in the future.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ would be entered into with the owner. The period would be a minimum 6 months ide
 
 utilities be paid by the residents.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 of Thomas Hanley, deceased, for the sum of €199.20, the disposal to be by way of Deed of
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ Act, 2001 (as amended), and Section 211 of the Planning and Development Act, 200
 
 amended), the approval of the Council be and is hereby given to the disposal of 2.643 acres
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ at 20, Rose Court, Keyes Park, Limerick, to Mrs. Mary Crawford, in exchange for 
 
 acquisition of 567 Castle Oaks View, O’Malley Park, Limerick, subject to the covenants
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 properties at Railway View, Knocklong, Co. Limerick, to Al Fitzgerald, for the sum of
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -748,7 +748,7 @@ Mayor of the City and County of Limerick, and a delegation, at a Cycling Study T
 
 the Netherlands, from 16th to 19th October, 2022.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -832,7 +832,7 @@ standardising the number of Questions and Notice of Motions allowed per Member, 
 
 each Municipal District.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -910,7 +910,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -978,7 +978,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1052,7 +1052,7 @@ Question submitted by Councillor S. Benson
 
 **and (b) unannounced inspections.**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1152,7 +1152,7 @@ Over the coming 12 months, Limerick City and County Council is proposing
 
 to provide:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1236,7 +1236,7 @@ start-up - maximum payable shall be 50% of the investment or
 
 €150,000, whichever is the lesser.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1318,7 +1318,7 @@ The Motion was proposed by Councillor Sheahan (K) and seconded by Councillor
 
 Collins (M) and adopted.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1394,7 +1394,7 @@ Notice of Motion submitted by Councillor S. Benson **(to be referred to Home**
 
 **(6) (b) (i) of the Housing Act, 1966.**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1470,7 +1470,7 @@ It was also agreed that a copy of the Motion would be forwarded to the Minister 
 
 Housing, Local Government and Heritage and the Minister for Finance.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1540,7 +1540,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint for inspection by the Members.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1560,5 +1560,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

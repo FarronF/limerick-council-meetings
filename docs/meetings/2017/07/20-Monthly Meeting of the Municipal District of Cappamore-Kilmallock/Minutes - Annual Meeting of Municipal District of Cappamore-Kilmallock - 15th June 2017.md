@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28ii%29%20Minutes%20Annual%20Meeting%20150617.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL
 
@@ -80,7 +80,7 @@ elected as Cathaoirleach of the Municipal District and offered him his congratul
 
 wishes for the coming year.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,5 +156,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

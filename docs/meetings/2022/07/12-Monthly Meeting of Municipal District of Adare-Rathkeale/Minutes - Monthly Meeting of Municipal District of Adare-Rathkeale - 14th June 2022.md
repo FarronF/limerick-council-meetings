@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%20%28a%29%20Minutes%20of%20Monthly%20Meeting%20Adare-Rathkeale%2014th%20June%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ Circulated, copy of draft Minutes of Meeting of the Municipal District of Adare-
 
 held on 11th May, 2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ Housing Construction & Maintenance agreed to attend the July District Meeting an
 
 provide requested report.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ On the proposal of Councillor Keary, seconded by Councillor O’Brien, it was ag
 
 allocate €4,000 to Croagh Community Council.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -292,7 +292,7 @@ Councillor Keary requested hedge cutting take place at Limetree Avenue, Adare an
 
 advised the avenue footpath is also damaged due to HGVs attempting to access the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -312,5 +312,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

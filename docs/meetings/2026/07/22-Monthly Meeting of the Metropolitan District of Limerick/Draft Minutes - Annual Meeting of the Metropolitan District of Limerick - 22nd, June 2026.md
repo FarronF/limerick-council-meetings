@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Annual Meeting of the Metropolitan District of Limerick - 22nd, June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-annual-meeting-of-the-metropolitan-district-of-limerick-22nd-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -92,7 +92,7 @@ Metropolitan District, particularly for his commitment to the city centre. They 
 
 the professional manner in which he chaired the meetings and carried out his duties.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ his good wishes to the Senior and Minor Hurlers in their upcoming games. He fini
 
 was a great honour to accept the role of Cathaoirleach.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -204,5 +204,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

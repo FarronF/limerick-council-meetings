@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 15th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -88,7 +88,7 @@ the City of Limerick.
 
 the City of Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ document should be changed as necessary. The land zoned as established residenti
 
 the front of the site as shown on the map submitted (see Appendix 1)”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ and Sheahan
 
 **(11)**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ We will engage with the Management of the Hospital in relation to these issues
 
 to ascertain their proposals in relation to same.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,5 +412,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

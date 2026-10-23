@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 16th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%2016th%20April%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ surrounded by housing, was ignored. The Members commended the work of Limerick A
 
 Pollution on this issue.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ the May Meeting of the Council.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ Chief Executives Report setting out details of conversion of 6 vacant 1 bedroom 
 
 2 bedroom units at Chas Flats, Mary Street, Limerick City. The Chief Executive’s Report had been
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -352,7 +352,7 @@ upgrades to be completed and these include:
 
 • The riverside from Sarsfield Bridge to King Johns Castle
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ worthy civic projects can be funded from the new Urban Regeneration Fund
 
 announced by Government in the new National Development Plan 2018 to 2027.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -528,7 +528,7 @@ Procurement Regulations (and relevant EU Directives) were used to inform the
 
 procurement process, including the development of Selection and Award criteria.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -626,7 +626,7 @@ development of this strategy.
 
 ***(iii) Are, or were the Derelict Site Levies suspended until the discussions reached a conclusion.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -712,7 +712,7 @@ to wildlife. Members expressed frustration at the difficulty in identifying who 
 
 waterways and the need to support Limerick fishermen. It was agreed that the Council would
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -752,5 +752,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

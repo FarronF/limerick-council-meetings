@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Special Meeting of Limerick City and County Council - 20th April, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-special-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ relation to proposed works at Boro Park, Janesboro” as follows;
 
 *zone.*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -174,7 +174,7 @@ Park and the importance of advancing housing delivery on these sites. She furthe
 
 the housing development planned for Carey’s Road, which is adjacent to Janesboro, as well
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -246,7 +246,7 @@ The Príomh Chomhairleoir declared the proposal that the Section 139 Motion “T
 
 Council shall not proceed with the proposed works at Boro Park, Janesboro” as carried.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -276,5 +276,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

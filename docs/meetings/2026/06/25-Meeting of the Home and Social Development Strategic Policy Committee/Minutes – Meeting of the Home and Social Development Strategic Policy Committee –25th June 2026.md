@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Development Strategic Policy Committee –25th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-meeting-of-the-home-and-social-development-strategic-policy-committee-25th-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -100,7 +100,7 @@ Mr. Liam Dooley, Clerical Officer, Housing Strategy and Mixed-Tenure Partnership
 
 Mr. Alan Jacques, Limerick Post
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Cllr. Dan McSweeney
 
@@ -168,7 +168,7 @@ exercise might be undertaken to evaluate which AHBs operate in Limerick and what
 
 to highlight which AHBs might be considered for future collaboration. Ms. Patricia Phillips, Head of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Unit for Housing Welfare and Traveller Accommodation, communicated that Housing Welfare meet
 
@@ -244,7 +244,7 @@ The members agreed that the Work Programme should proceed to Full Council for ap
 
 **Proposed:** Cllr. Elisa O’Donovan **Seconded:** Cllr. Noreen Stokes
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 6: Update on Affordable Scheme of Priority**
 
@@ -316,7 +316,7 @@ his team. Cllr. Elisa O’Donovan outlined the disparity in rental payment for c
 
 accessing emergency accommodation. Ms. Patricia Phillips commented that the process of rent
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 collection would be a beneficial stepping stone for people moving from homeless accommodation to
 
@@ -354,5 +354,5 @@ summer.
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

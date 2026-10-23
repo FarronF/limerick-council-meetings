@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development SPC - 22nd June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-of-spc-meeting-held-on-22.06.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -92,7 +92,7 @@ Seconded: Cllr. Eddie Ryan
 
 reduction or subsidy that could be granted to tenants who wish to upgrade their
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 properties by installing new windows and doors - from the previous minutes. Cathal
 
@@ -164,7 +164,7 @@ anyone has any queries to feel free to contact her.
 
 from the members of the SPC in relation to the percentage split as we review
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Turnkeys. Private developers are coming to HD and looking for HD to take them on.
 
@@ -230,7 +230,7 @@ and complimented the team.
 
 **Item 6: Rebuilding Ireland** **–** **Quarterly Delivery Update**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Sarah Newell, Executive Planner, Housing Development gave a presentation on Rebuilding
 
@@ -298,7 +298,7 @@ Responding to a question from Cllr. Donegan, Mr. Leahy will circulate planned wo
 
 each Municipal District after the meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Mr. Leahy also stated that he hopes there will be a follow-on phase in 2021 with a number
 
@@ -360,5 +360,5 @@ The Chair thanked all presenters, host, staff and Councillors for their attendan
 
 meeting concluded.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

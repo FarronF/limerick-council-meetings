@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - 21st October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20-%20Special%20Meeting%2021.10.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,7 +70,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -101,5 +101,5 @@ Sent from Outlook for iOS
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

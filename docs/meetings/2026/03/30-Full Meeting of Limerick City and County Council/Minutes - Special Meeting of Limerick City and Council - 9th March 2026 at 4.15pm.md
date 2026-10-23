@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and Council - 9th March 2026 at 4.15pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-special-meeting-of-limerick-city-and-council-9th-march-2026-at-4.15pm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ b. Villages (maximum funding cap at €800 per village).
 
 3. Category 3: Other St. Patrick’s Festival-themed Events/Creations
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -128,5 +128,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

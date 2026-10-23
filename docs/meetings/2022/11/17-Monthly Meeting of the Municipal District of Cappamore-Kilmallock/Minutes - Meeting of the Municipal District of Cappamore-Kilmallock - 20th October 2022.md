@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/02%20Minutes%20of%2020th%20October%20Municipal%20District%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -76,7 +76,7 @@ Councillor Teefy wished to confirm that the South Limerick Branch of the Red Cro
 
 be interested in any location in Kilmallock, not just in Kilmallock Business Park.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3.Draft Budgetary Plan
 
@@ -140,7 +140,7 @@ with Limerick.ie.
 
 **Seconded: Councillor Teefy.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 6. Disposal of Property
 
@@ -186,7 +186,7 @@ Councillor E Ryan wished to highlight the issue of water being turned off regula
 
 Galbally School Breakfast Club and noted that a generator is required.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Notices of Motion
 
@@ -248,7 +248,7 @@ these lights. However, a submission will be made to the NTA to consider funding 
 
 under their 2023 Active Travel Programme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 12.
 
@@ -308,7 +308,7 @@ It was agreed to contact Pallasgreen Community Centre to enquire about availabil
 
 8th December.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **Water supply Doon**
 
@@ -342,5 +342,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

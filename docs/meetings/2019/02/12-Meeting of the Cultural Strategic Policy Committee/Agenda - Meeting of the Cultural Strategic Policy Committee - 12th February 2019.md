@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Cultural Strategic Policy Committee - 12th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Agenda%20Cultural%20SPC%2012th%20Feb%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -100,7 +100,7 @@ The celebrations planned by Trade Unions this year all surround the fight that
 
 workers took to have clear passage to their workplace’s without hindrance
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 from the Military forces in our City at that time. It is a forgotten time in our
 
@@ -136,5 +136,5 @@ AOB
 
 **Cultural SPC, Limerick City & County Council**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

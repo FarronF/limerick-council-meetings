@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-january-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ situate at 17 Rossa Avenue, Mulgrave Street, Limerick and the intention to bring
 
 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ the preferred route of the greenway project.
 
 ***to refurbish the Centre.*** ***Have the Council an update on purchasing the property from the Diocese.***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ for seeking Expressions of Interest for future roundabout sponsorship.
 
 **11.Question submitted by Councillor J. Leddin**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ Ballinacurra Weston, Lenihan Avenue, City Centre Laneways, Coonagh / Clondrinagh
 
 Johnsgate, and Kilmallock Road.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -458,7 +458,7 @@ Limerick Bands (x3)
 
 €2,250
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -518,7 +518,7 @@ December’s report shows an increase of 3 Families on the previous month.
 
 (Image omitted)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -563,7 +563,7 @@ follows:
 
 *Figure 1-Cleeves Development Zones*
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -623,7 +623,7 @@ Riverside Quarter.
 
 (Image omitted)
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -699,7 +699,7 @@ The EPA indicate that the main air quality pollutants across Ireland are fine pa
 
 national ambient air quality monitoring network) near the Limerick North Metropolitan Area for
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -815,7 +815,7 @@ Summer 2025 providing improved access from the Castletroy \ Garryglass \ Groody 
 
 Road areas to Childers Road and to the City.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -891,7 +891,7 @@ Street.
 
 establish if the appropriate dished kerbs, road markings and signage are in place. Thereafter,
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -965,7 +965,7 @@ service in the community and the difficulties for those with decreased mobility 
 
 Library at Watch House Cross.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1043,7 +1043,7 @@ The Notice of Motion was proposed by Councillor O’Sullivan, seconded by Counci
 
 agreed.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1077,5 +1077,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

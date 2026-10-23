@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 17th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-sept-2020-jpc-sub-committee-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -94,7 +94,7 @@ He confirmed that while there had been a reduction in certain crime categories, 
 
 burglaries, public order offences and minor assaults, that domestic incidents and drug
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,5 +170,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

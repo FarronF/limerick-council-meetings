@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 15th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01a-draft-minutes-monthly-online-meeting-15th-february-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ Avenue be taken in charge in accordance with Section 180 of the Planning and Dev
 
 2000 (as amended) and Section 11 of the Roads Act 1993”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -204,7 +204,7 @@ Housing Act 2015 the total amount Vacant Levies charged for 2019 was €506,45O.
 
 LCCC have not received any payments in respect of the Vacant Site Levies owning.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -252,7 +252,7 @@ There are road markings on the R525 to warn drivers that they are approaching th
 
 (Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -334,7 +334,7 @@ County Council will arrange to discuss the matter further with the National Monu
 
 Service and the Office of Public Works (OPW).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -400,7 +400,7 @@ is therefore not liable for any levies.
 
 **NOTICES OF MOTION**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -478,7 +478,7 @@ the Notice of Motion as follows:
 
 ***County Council engage with Bus Eireann and the NTA to provide Glasgow Park and Flanker Court***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -556,7 +556,7 @@ Casual Trading is regulated by the Casual Trading Act 1995, as amended, together
 
 Limerick City and County Council’s Casual Trading Byelaws. It is an offence under this Act to
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -626,7 +626,7 @@ the Three Bridges walk in the City Centre, as this was much busier at the presen
 
 noted the increased amount of dog fouling.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -706,7 +706,7 @@ be a further undermining of the powers of local authorities, which was disappoin
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -730,5 +730,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

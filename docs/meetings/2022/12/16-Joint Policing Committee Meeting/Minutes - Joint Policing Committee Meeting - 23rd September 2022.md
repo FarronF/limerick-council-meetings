@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 23rd September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes%20of%20JPC%20Meeting%2023rd%20September%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE LIMERICK JOINT POLICING COMMITTEE**
 
@@ -98,7 +98,7 @@ write to the Minister conveying the concerns of the JPC Members regarding the pr
 
 changes.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 As part of a general discussion, Members discussed the following issues:
 
@@ -168,7 +168,7 @@ The Chairman and Members extended good wishes to Inspector Niall Flood who had b
 
 injured in a recent accident and wished him well in his recovery.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **4.UPDATE ON GARDA OPERATING FUNCTIONAL MODEL**
 
@@ -230,7 +230,7 @@ there has been a marked downward trend of road deaths in Limerick where there we
 
 deaths in Limerick in 2009 with 18 losing their lives the following year.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Limerick
 
@@ -308,7 +308,7 @@ number of mandatory intoxicant checkpoints are carried in towns and villages ove
 
 (Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 weekend period most recently in the St Marys Park and Corbally areas of Limerick City
 
@@ -384,7 +384,7 @@ namely original station & railway stop. Local “actors” with suitable attire 
 
 sourced;
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 o **Medal/Coin Ceremony**
 
@@ -450,7 +450,7 @@ Submitted email dated 4th July, 2022 from the Office of the Minister for Justice
 
 Resolution from the Joint Policing Committee in respect of Criminal Legal Aid. Noted.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **11.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D.**
 
@@ -522,7 +522,7 @@ out the strategy for implementation. It is currently at an advanced stage. Centr
 
 implementation is the appointment of key full time positions.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **13.QUESTION SUBMITTED BY COUNCILLOR SHARON BENSON**
 
@@ -676,7 +676,7 @@ Sep-22
 
 33
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 In proposing the motion, Councillor Slattery highlighted serious incidents that had occurred
 
@@ -746,7 +746,7 @@ sanctioned by the Chief Superintendent Limerick and will begin on the 25th of Se
 
 currently taking place.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 As part of that plan the Limerick Roads Policing Unit have altered their MIT checkpoints to
 
@@ -776,5 +776,5 @@ This concluded the business of the Meeting.
 
 **Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

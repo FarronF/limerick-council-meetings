@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 30th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -98,7 +98,7 @@ Mr. Liam Mannix, Director of Research and Dig
 
 **Apologies:** Ms. Patricia Phillips, Ms. Sarah Newell
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
@@ -164,7 +164,7 @@ input on a proposal for homelessness units in the county, reflecting these units
 
 the city to allow ease of access to health and addiction services.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Cllr. Stephen Keary responded to Cllr. Ruddle that it would be prudent to provide council owned
 
@@ -234,7 +234,7 @@ housing schemes outside of the Limerick City Metropolitan District in small town
 
 finding purchasers for completed units may be more difficult due to demand and location. Key
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 considerations were discussed including housing need and delivery, vacancy and dereliction risk and
 
@@ -304,7 +304,7 @@ Mr. Darragh Quinn, Executive Architect gave a presentation on the Future of Modu
 
 Modern Methods of Construction (MMC). The members had a lot of questions in relation to the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Mayoral Programme on SMART Housing and requested that a Special SPC be held in advance of the
 
@@ -340,5 +340,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

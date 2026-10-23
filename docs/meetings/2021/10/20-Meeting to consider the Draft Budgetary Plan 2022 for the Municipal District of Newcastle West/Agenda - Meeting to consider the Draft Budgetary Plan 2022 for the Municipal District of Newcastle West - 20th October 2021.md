@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2022 for the Municipal District of Newcastle West - 20th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/00-2021-10-20-agenda-draft-budgetary-plan-.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,5 +82,5 @@ W @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Joint Policing Committee Meeting - 10th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/agenda-limerick-joint-policing-committee-10th-december-2018_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -89,5 +89,5 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

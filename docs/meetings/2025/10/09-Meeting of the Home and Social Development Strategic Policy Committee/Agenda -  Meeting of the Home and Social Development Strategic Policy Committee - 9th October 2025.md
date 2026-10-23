@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda -  Meeting of the Home and Social Development Strategic Policy Committee - 9th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-home-and-social-development-strategic-policy-committee-9th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -72,7 +72,7 @@ downsizing property becomes available that the property is used for downsizing a
 
 not put back into the social housing stock.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 9. **Notice of Motion submitted by Councillor S. Hickey-O'Mara (to be referred to Home and**
 
@@ -100,5 +100,5 @@ appropriate for the construction of student housing.
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

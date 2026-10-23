@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Meeting - 20th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01b-2021-10-20-minutes-draft-budgetary-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,7 +70,7 @@ BO4 Local Roads ____ |. 95,000 :
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -112,5 +112,5 @@ Dated
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

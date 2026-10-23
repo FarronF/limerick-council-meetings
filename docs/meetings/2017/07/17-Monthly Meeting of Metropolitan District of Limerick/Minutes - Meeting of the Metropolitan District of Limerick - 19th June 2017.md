@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 19th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202017%20UPDATED.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ Circulated, report of the A/Senior Planner, Planning and Environmental Services 
 
 declaration of roads to be public roads.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ products were used;
 
  Rubbish should be removed from the River Shannon.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ The Arts and Culture Officer stated that the allocation approved by Members unde
 
 which offered funding to festival and event organisers operating in the Metropolitan District,
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ Crowley, Leddin and Loftus would sit on the Assessment Panel for the Limerick Me
 
 GMA Festivals and Events Grant Scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ Further information is available at: http://www.epa.ie/radiation/radon/
 
 ***I will ask at the next meeting, as part of the Healthy Ireland initiative, has consideration been***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -530,7 +530,7 @@ Total Households
 
 ***Golf Club.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -620,7 +620,7 @@ entered into a sub letting arrangement over the same period for the operation of
 
 the car park.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -700,7 +700,7 @@ The Motion was proposed by Councillor Keller and seconded by Councillor Lynch.
 
 Members, in supporting the Motion, requested that the Council address effective integration of
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -778,7 +778,7 @@ The Baggot Estate would also require higher annual maintenance and the
 
 presence of a park ranger with obvious cost implications.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -820,5 +820,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

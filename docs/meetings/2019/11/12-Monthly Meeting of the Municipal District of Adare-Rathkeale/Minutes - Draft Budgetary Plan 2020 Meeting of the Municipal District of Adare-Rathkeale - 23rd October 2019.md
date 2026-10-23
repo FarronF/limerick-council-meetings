@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan 2020 Meeting of the Municipal District of Adare-Rathkeale - 23rd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%202020%20Meeting%2023rd%20October%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE MUNICIPAL**
 
@@ -82,7 +82,7 @@ discussed at a Workshop prior to the Meeting, if approved by the Members, would 
 
 for inclusion in the main budget for the Council.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 He informed Members that a total of €1,403,000 had been allocated by the Chief Executive
 
@@ -158,5 +158,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

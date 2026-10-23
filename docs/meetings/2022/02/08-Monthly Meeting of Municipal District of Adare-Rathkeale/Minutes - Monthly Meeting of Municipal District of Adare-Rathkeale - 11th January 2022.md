@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-minutes-of-monthly-meeting-11th-january-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ projects planned for the District.
 
 Following discussion the following issues were raised by Members:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ around it and laurel hedging was planted in late Autumn 2021 outside the fence t
 
 it more presentable. This is an established Depot for a significant number of years.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ In proposing the motion, Councillor O’Brien requested Limerick City and County
 
 enter into discussions with the Hunt Museum with a view to bringing the Shannongrove
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ forward. This was seconded by Councillor O’Brien and agreed.
 
 Carnegie Library and a Civic Reception be convened to acknowledge the Carnegie
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -362,5 +362,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

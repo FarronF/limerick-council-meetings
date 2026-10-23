@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/02-minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-23rd-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -72,7 +72,7 @@ District Reception. A great night was had and it was all appreciated.
 
 There were no matters arising
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Declaration of Interest
 
@@ -122,7 +122,7 @@ this issue. The Roads Engineer will revert early in 2024 with a status report.
 
 **Seconded: Councillor Donegan**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 6.Notice of Motion submitted by Councillor M Ryan
 
@@ -176,7 +176,7 @@ Should this Notice of Motion be passed, Limerick City and County Council will co
 
 with Irish Water as requested.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 QUESTIONS
 
@@ -230,7 +230,7 @@ remaining 8 are at design stage/procurement stage and will be completed in 2024.
 
 **The Questions were taken as read.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Any Other Business
 
@@ -294,5 +294,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

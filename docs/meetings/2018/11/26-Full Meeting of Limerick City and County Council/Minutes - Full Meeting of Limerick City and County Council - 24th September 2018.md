@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 24th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%20240918.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ contract and the Council retaining wayleave/right-of-way access over the site, p
 
 which were contained in Statutory Notice dated 12th September, 2018.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Councillor Collins (M) and seconded by Councillor Ryan that there would be a 7.5
 
 on the basic rate of Local Property Tax for 2019.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ The Meetings Administrator confirmed that Ms. Phelan had indicated that the even
 
 of Thursday, 18th October, 2018, was suitable.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ September, 2018, in relation to the nomination of a Member to the Cultural Strat
 
 Committee consequent on the resignation of Councillor Scanlan from the Committee.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ City and County of Limerick to Austin, Texas, under Section 142(5) of the Local 
 
 Act, 2001, as amended.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ On the Proposal of Councillor O’Hanlon, seconded by Councillor Collins (M),
 
 Recommendation No. 2 was agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -630,7 +630,7 @@ approved the attendance of the following Members:
 
 **Clonmel, Co. Tipperary:**  Cmhlr. Ó Ceallaigh.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -720,7 +720,7 @@ Plan) discussions. Specific budgetary provision for Civic Receptions for each
 
 District can also be considered as part of the Statutory Budget 2019 process.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -780,7 +780,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on Alfresco for inspection by the Members.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -800,5 +800,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

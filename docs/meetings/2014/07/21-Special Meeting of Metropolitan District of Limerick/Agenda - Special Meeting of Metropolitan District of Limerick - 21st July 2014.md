@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 21st July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/agenda_of_special_meeting_of_the_metropolitan_district_of_limerick_-_21_july_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **16th July, 2014.**
 
@@ -76,7 +76,7 @@ suitable zoning can be approved by Councillors to facilitate the provision of a
 
 Neighbourhood Park and new Primary/Secondary schools.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 4.
 
@@ -122,5 +122,5 @@ endured by the animals involved and the serious animal welfare issued
 
 raised.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/02-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -80,7 +80,7 @@ meeting onwards.
 
 **Seconded: Councillor: G Mitchell**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3.Annual General Meeting
 
@@ -134,7 +134,7 @@ Business Park becomes a priority for this Local Authority in order to keep the e
 
 businesses and to encourage other businesses to establish there.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Reply:**
 
@@ -198,7 +198,7 @@ regarding parking at Athenacey Cemetery. To this end, the Council will investiga
 
 options to facilitate parking at the cemetery and will revert on the matter in due course.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 ***The Elected Members requested that a representative from the Burial Grounds section***
 
@@ -266,7 +266,7 @@ Planning Department
 
 Council.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **Reply:**
 
@@ -334,7 +334,7 @@ Kilbehenny. It was noted that at the workshop with Water services, Director of
 
 Services, K Lehane, outlined that it was important to identify what the community of
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Kilbehenny need Limerick City and County Council to do. It was agreed that the
 
@@ -380,5 +380,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 16th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-minutes-monthly-meeting-16th-june-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ Seconded by Councillor McSweeney;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ City and County Council's Allocations Team have provided nominations for all uni
 
 and PMVT will begin their own assessments on the week beginning June 23rd, 2025. Once
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ approximately €8,000.
 
 **Transportation & Mobility.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ concerns were heard.
 
 3. **Meeting on 19/06/2024**:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ weeks.
 
 The results of the report will be shared at a future meeting of the Metro Council. LCCC can
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ advise the Metro Members.
 
 **16.Question submitted by Councillor P. Reale**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -564,7 +564,7 @@ of littering and graffiti around the city, and emphasised the overall benefits o
 
 enhancing the city’s appearance and visitor experience.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -640,7 +640,7 @@ Councillor Kiely suggested that a centralized database should be considered to o
 
 The Notice of Motion was proposed by Councillor Hartigan, seconded by Councillor Secas and
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -718,7 +718,7 @@ manage waste more effectively.
 
 A number of Members were not in agreement with the Motion, highlighting the potential effects
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -792,7 +792,7 @@ It was agreed to amend the wording of the Notice of Motion as follows:
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this District calls on***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -872,7 +872,7 @@ attract in excess of 100,000 visitors to Limerick if chosen as a host city.
 
 ***bonfire in these identified areas to encourage families and households to dispose of their***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -964,7 +964,7 @@ homes of bulky items such as furniture, doors, pallets, mattresses etc. A simila
 
 collection will take place in the coming week in Johnsgate and Watergate from Monday June
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1016,5 +1016,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 23rd May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20b%20Minutes%20Special%20Meeting%2023rd%20May%252c%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING ‘IN COMMITTEE’ OF THE**
 
@@ -82,7 +82,7 @@ Members requested the Meeting Administrator to convey their disappointment at th
 
 decision to the Irish Athletic Boxing Association (IABA) and agreed a Notice of Motion
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 calling on the IABA to re-examine the position and provide for a box-off to decide the
 
@@ -100,5 +100,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

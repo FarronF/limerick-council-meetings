@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 17th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/03%20%28c%29%20%28v%29%20Community%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Community, Leisure & Emergency Services Strategic Policy Committee**
 
@@ -96,7 +96,7 @@ County Council.
 
 **Policy Committee held on 15th** **October, 2018**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Committee Members unanimously agreed on the minutes of meeting held on 15th
 
@@ -178,7 +178,7 @@ The members of the SPC were very complimentary and supportive of the
 
 project.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Item 5:**
 
@@ -270,5 +270,5 @@ Dooradoyle
 
 Councillor Hurley closed the meeting by wishing everyone a Happy Christmas.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

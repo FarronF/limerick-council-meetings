@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council -  18th February 2025 at 4pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-18th-february-2025-at-4pm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -82,7 +82,7 @@ Election until his retirement in 2014. He was elected as Chairman of the Council
 
 1988/89, 1989/90 and again in 2004/2005.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -124,5 +124,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

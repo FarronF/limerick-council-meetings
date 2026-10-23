@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Municipal District of Adare - Rathkeale - 24th August 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-b-minutes-of-special-meeting-24th-august-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -96,7 +96,7 @@ LAWPRO (Local Authority Water Programme) to investigate the issue at catchment l
 
 entire River Deel plus its tributaries.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,5 +152,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-draft-minutes-monthly-meeting-21st-february-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ situate at 4 Mitchell Street, Limerick and the intention to bring a Section 183 
 
 Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Castleconnell
 
 Birch - Health & Safety, Brittle Crindle
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -370,7 +370,7 @@ Council will notify the Forestry Service of its intention to fell trees where it
 
 **Question submitted by Councillor C. Slattery**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -462,7 +462,7 @@ much more conscious of the need to advise the Rents Unit of household changes wh
 
 impact on their rent and, as a result, there is a steady stream of rent assessment forms
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -544,7 +544,7 @@ consultation as part of the Part 8 Planning process in the coming weeks.
 
 **Question submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -630,7 +630,7 @@ in Ireland was invited to submit an expression of interest to participate in the
 
 two of the five schools in the Roxboro Road / Sexton Street area applied to be part of the
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -714,7 +714,7 @@ Consultants to design and deliver the new playground for People’s Park. It is 
 
 Consultants will be appointed by the end of March and the project delivered by the end of
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -792,7 +792,7 @@ Safety Bill to be prioritised. She stated that other countries had already estab
 
 Women’s Health and that this should be seriously considered by the Government.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -872,7 +872,7 @@ previously been approved for Bloodmill Road and an update on the possibility for
 
 the Parkway Roundabout.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -950,7 +950,7 @@ grant, from approximately €350 to €450. This increased grant amount will be 
 
 burial ground committees.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -976,5 +976,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

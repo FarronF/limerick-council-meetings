@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/05%20Budget%20Meeting%20Minutes_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -73,7 +73,7 @@ Total | General Municipal Allocation | €295,000
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -102,5 +102,5 @@ Date:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

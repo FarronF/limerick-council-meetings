@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_15_december_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
@@ -104,7 +104,7 @@ Update on the Arts, Culture and Sports Areas
 
 Mr. Damien Brady, Acting Director, Community, Leisure and Emergency Services
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 presented an update on the Arts, Culture and Sports areas which included the following :
 
@@ -192,7 +192,7 @@ establishing the appropriate structures were ongoing but no formal proposals wer
 
 in place yet.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The following further points were clarified by the Acting Director, Community, Leisure and
 
@@ -272,7 +272,7 @@ Road junction.
 
 taken place with Irish Rail with regard to a pedestrian tunnel at this location but the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 provision of same would be outside the scope of the Smarter Travel works due to
 
@@ -358,7 +358,7 @@ Question submitted by Councillor Joe Leddin
 
 ***access roads to the city.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **REPLY**:
 
@@ -444,7 +444,7 @@ Howley's Quay to make it more visible at night Limerick City and County
 
 Council will examine this issue and carry out paint work in quarter 1 in 2015.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 7.
 
@@ -572,7 +572,7 @@ Woodlawn Park, Ballysimon Road
 
 DS232
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 11
 
@@ -730,7 +730,7 @@ It was agreed that derelict sites would be discussed in more detail at a forthco
 
 meeting.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8.
 
@@ -822,7 +822,7 @@ conjunction with the City and County Council and a further approximately
 
 Limerick City and County Council as Lead Local Authority for Homelessness
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 in the Mid West Region are currently in the process of reviewing the delivery
 
@@ -906,7 +906,7 @@ West Homelessness Strategy is focused on the delivery of Housing Led
 
 solutions to dealing with Homelessness. This system has been proven to
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 deliver a greater level of success to individuals at a fraction of the cost of
 
@@ -990,7 +990,7 @@ external moderators to be appointed and an independent chair. He noted that teac
 
 not take strike action lightly and that a further strike was planned for 22nd January, 2015.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 In seconding the motion, Cmhlr. Ó Ceallaigh indicated that he wished to extend his full
 
@@ -1024,5 +1024,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

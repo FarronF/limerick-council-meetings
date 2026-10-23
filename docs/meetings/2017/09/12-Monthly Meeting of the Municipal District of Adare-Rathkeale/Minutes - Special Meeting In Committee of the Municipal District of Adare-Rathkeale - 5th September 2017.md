@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting In Committee of the Municipal District of Adare-Rathkeale - 5th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28d%29%20Minutes%20-%20Special%20Meeting%20In%20Committee%20of%20Adare-Rathkeale%20-%205th%20September%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING ‘IN COMMITTEE’ OF THE**
 
@@ -90,7 +90,7 @@ to the social housing proposed for the Council lands, there was potential for in
 
 200 private residential units at that location.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Director, Regional Services pointed out that the issue being brought before the
 
@@ -148,5 +148,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

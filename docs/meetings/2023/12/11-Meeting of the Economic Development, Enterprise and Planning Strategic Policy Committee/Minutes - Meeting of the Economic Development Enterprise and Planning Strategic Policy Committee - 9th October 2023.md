@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 9th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-9th-october-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -80,7 +80,7 @@ this regard, and Mr McGuigan said that he would raise the matter with the TIC te
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 (Image omitted)
 
@@ -172,7 +172,7 @@ responded that the Taskforce Report is a conduit to support local authorities in
 
 investment for infrastructure and industries.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 (Image omitted)
 
@@ -252,7 +252,7 @@ the member’s concerns to Limerick 2030 DAC.
 
 **Item 4** **–** **Presentation on the** **Emerging Arthur’s Quay Framework Plan**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 (Image omitted)
 
@@ -340,7 +340,7 @@ Mr Murray provided the following response: The Limerick Development Plan and its
 
 strategies approved in June 2022 by the elected members set out the policies and objectives that are
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 (Image omitted)
 
@@ -426,7 +426,7 @@ retail incentive of €6,000 was introduced in last year’s budget to promote n
 
 ups in the core city centre.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 (Image omitted)
 
@@ -486,5 +486,5 @@ Is mise le meas,
 
 **Chairperson of the Economic Development, Enterprise and Planning Strategic Policy Committee**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

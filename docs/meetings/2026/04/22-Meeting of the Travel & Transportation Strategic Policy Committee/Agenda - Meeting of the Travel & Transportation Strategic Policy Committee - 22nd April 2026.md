@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-april-2026_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -73,5 +73,5 @@ Policy Committee held on the 18th of February 2026.
 
 **Byrne of Byrne Training and Consultation Ltd.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

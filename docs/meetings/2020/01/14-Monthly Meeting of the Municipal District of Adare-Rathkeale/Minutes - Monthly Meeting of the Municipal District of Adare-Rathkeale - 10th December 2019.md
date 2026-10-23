@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01%20Minutes%20of%20Monthly%20Meeting%2010th%20December%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -86,7 +86,7 @@ the January Meeting to discuss the issue and also requested a report on the cost
 
 repairs before works are carried out.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ Meeting to consider the second Chief Executives Report with a view to making the
 
 Area Plan. Councillor Keary advised he wished to abstain from the proposal as he
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Circulated, report of the Head of Property Services, dated 28th November, 2019 s
 
 out proposal to dispose of house at Main Street, Ballingarry, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ Following discussion, the following issues were raised by Members:
 
 Askeaton.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ requesting a private meeting with Members. Councillor Sheahan agreed to Meeting
 
 members of the ACT at 12pm on Tuesday 14th January, 2020.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -420,5 +420,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

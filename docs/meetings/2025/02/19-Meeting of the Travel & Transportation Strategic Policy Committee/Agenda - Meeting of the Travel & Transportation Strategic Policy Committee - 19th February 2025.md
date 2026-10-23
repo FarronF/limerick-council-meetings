@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 19th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-19th-february-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -125,7 +125,7 @@ measures where an elected member provides the funding and the necessary petition
 
 is signed and submitted by residents.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -179,9 +179,9 @@ Clare/Leitrim/Cork County Councils.
 
 **10.Update on Bus Connects programme.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

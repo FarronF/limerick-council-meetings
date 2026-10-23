@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01a-2022-03-02-minutes-march.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ for those affected by the conflict in the Ukraine.
 
 A minute’s silence and reflection was observed as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ February, 2022, concerning proposal to dispose of property at 6 Radharc Na Féil
 
 Abbeyfeale , Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ amended) and Part 8 of the Planning and Development Regulations, 2001 (as amende
 
 it is proposed to proceed in accordance with Section 5 of the report.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ at Woodfield Manor, Newcastle West, criteria required for getting a Council loan
 
 for the Voids Programme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ Following discussion, it was proposed by Councillor Collins and seconded by Coun
 
 Scanlan that a Special Meeting be held on the Distributor Roads for Newcastle West and
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ allocate €2,000 to Newcastle West Coursing Club.
 
 QUESTIONS
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ The next review should commence no later than November 2022 to allow
 
 adequate time for consultation.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ NOTICES OF MOTION
 
 **Greenway at Bill Kelly’s next to Devon Road station.**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -688,7 +688,7 @@ primarily. The call was targeted at advance purchase opportunities for a minimum
 
 a maximum of 150 dwellings in any one scheme.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -754,5 +754,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

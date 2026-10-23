@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ February 2024
 
 (Copy Enclosed)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -134,7 +134,7 @@ Environment and Climate Action - Cemeteries
 
 Kilteely Dromkeen Cemetery
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -204,7 +204,7 @@ Limerick City and County Council to complete a review of the footpaths, road sig
 
 public lighting in Ballyorgan village.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -242,5 +242,5 @@ charge (how many and where?)
 
 2. What progress is being made regarding taking these outstanding estates in charge”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

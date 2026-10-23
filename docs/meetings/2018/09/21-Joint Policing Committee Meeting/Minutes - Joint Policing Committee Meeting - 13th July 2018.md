@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 13th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Minutes%20of%20JPC%20Meeting%2013th%20Jul%2018%20%287%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING
 
@@ -90,7 +90,7 @@ The Chief Superintendent gave a brief introduction and listed the changes in the
 
 also outlined the current staffing levels within the Limerick Division and District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Ms. L. Breen then gave a presentation on the latest crime statistics for Limerick City and County under the
 
@@ -184,7 +184,7 @@ He pointed out, however, that some shops do not make a complaint and do not foll
 
 cameras.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 
 
@@ -268,7 +268,7 @@ The Chief Superintendent stated that there are not enough resources available to
 
 full time in county areas, it will be based on level of crime in the areas.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4. TO RECEIVE PRESENTATION FROM MR. WILLIAM PRIESTLEY ON THE
 
@@ -342,7 +342,7 @@ It was unanimously agreed to hold this public meeting in the Council Chamber, Do
 
 10th December, 2018 at 7.00 p.m.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Members asked that heretofore, if the Chief Executive is unable to attend JPC Meetings, then Deputy Chief
 
@@ -358,5 +358,5 @@ Cathaoirleach
 
 Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

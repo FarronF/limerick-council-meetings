@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29-Minutes-Meeting-of-Limerick-City-and-County-Council-23-05-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -92,7 +92,7 @@ Circulated, report from the Mayor of the City and County of Limerick, Councillor
 
 Butler, dated 17th May, 2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The report stated that at a meeting of the Corporate Policy Group held on 16th May, 2022,
 
@@ -168,7 +168,7 @@ Councillor Collopy took his seat in the Chamber and thanked all the Members for 
 
 wishes, and he stated that he was proud to become a Member of Limerick City and County
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Council. He looked forward to working with all the Members, Management and staff in
 
@@ -252,7 +252,7 @@ Limerick Youth Service delivers the project through a service level agreement wi
 
 City & County Council. They explained that Limerick Comhairle is a place where young
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 people in Limerick come together to discuss and work through topics that have a significant
 
@@ -338,7 +338,7 @@ Circulated, copy of Statutory Notice dated 26th April, 2022, concerning disposal
 
 ha. of land at Ballycarrane, Patrickswell, Co. Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -418,7 +418,7 @@ Circulated, copy of Statutory Notice dated 6th May, 2022, concerning disposal of
 
 property at 90, Lenihan Avenue, Prospect, Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -498,7 +498,7 @@ Circulated, copy of Statutory Notice dated 6th May, 2022, concerning disposal of
 
 property at 4, Hyde Villas, Prospect, Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -578,7 +578,7 @@ Circulated, copy of Statutory Notice dated 6th May, 2022, concerning disposal of
 
 property at 18, Ballyclough Avenue, Ballinacurra Weston, Limerick.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -658,7 +658,7 @@ Circulated, copy of Statutory Notice dated 6th May, 2022, concerning disposal of
 
 property at 119, Shanabooly Road, Ballynanty, Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -738,7 +738,7 @@ Circulated, copy of Statutory Notice dated 22nd April, 2022, concerning disposal
 
 0.006 hectares (Driveway) at the Square, Ballingarry, Co. Limerick.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -822,7 +822,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
 
@@ -904,7 +904,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
 
@@ -978,7 +978,7 @@ Circulated, Chief Executive’s Reports for the months of March and April, 2022.
 
 The Reports were noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 (b)
 
@@ -1054,7 +1054,7 @@ County Council Audit and Risk Committee Work Programme 2022, as agreed by the Au
 
 Committee at a meeting of the Committee held on 13th May, 2022.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 Proposed by Councillor Sheahan (J);
 
@@ -1124,7 +1124,7 @@ Seconded by Councillor Collins (M);
 
 Limerick DAC.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 Proposed by Councillor Benson;
 
@@ -1194,7 +1194,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 “That, the Annual Report 2021 for Limerick City and County Council be and is hereby
 
@@ -1278,7 +1278,7 @@ be held in London on 15th and 16th June, 2022, in accordance with Section 142(5)
 
 Government Act, 2001, as amended.”
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 (i)
 
@@ -1350,7 +1350,7 @@ Strategic Policy Committee, representing the Community/Voluntary Sector, to fill
 
 on the Committee caused by the resignation of Ailish Drake.”
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 (k)
 
@@ -1422,7 +1422,7 @@ On the proposal of Councillor Collins (M), seconded by Councillor Daly, the
 
 Recommendation was agreed.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **Recommendation No. 2**
 
@@ -1490,7 +1490,7 @@ on the proposal of Councillor Collins (M), seconded by Councillor Kiely, Standin
 
 suspended in order to complete the agenda.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 **Annual Meeting**
 
@@ -1582,7 +1582,7 @@ importance of identifying whatever vacant properties were out there that could b
 
 refurbished quickly and used to assist the need was currently there.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 10.
 
@@ -1658,7 +1658,7 @@ since no legal basis currently exists for their operation. National legislation 
 
 being prepared that will address this particular traffic management situation.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 Locations of all cameras can be found at:
 
@@ -1736,7 +1736,7 @@ Ireland and they currently have no plans to install vehicle restraint barriers
 
 along this section of road.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 14.
 
@@ -1818,7 +1818,7 @@ innovative and a place that people should live in or visit.
 
 €154,174.20
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 NOTICES OF MOTION
 
@@ -1894,7 +1894,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 The Motion was proposed by Councillor Galvin and seconded by Councillor O’Sullivan.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 On the proposal of Councillor Keary, and with the agreement of Councillor Galvin, the
 
@@ -1960,5 +1960,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 

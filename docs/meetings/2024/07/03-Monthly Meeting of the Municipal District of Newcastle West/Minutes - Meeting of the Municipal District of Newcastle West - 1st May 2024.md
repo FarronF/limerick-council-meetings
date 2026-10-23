@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 1st May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01a-2024-05-01-minutes-may.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ To Receive Update on the Voter Registration Process.
 
 The Cathaoirleach welcomed the Administrative Officer and Staff Officer to the Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ and Ortec, new Primary Health Care Centre in 2020
 
 €398,076 in grants approved by the LEO
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -348,7 +348,7 @@ biodiversity also supports pollination and soil fertility, regulates climate and
 
 from extreme weather and other effects of climate change.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Ruddle, it was agr
 
 allocate €2,000 to Roads Section, Newcastle West, for drainage works.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,7 +496,7 @@ Question submitted by Councillor L. Galvin
 
 ***2023 (d) who inspects that all the above works are done correctly.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -596,7 +596,7 @@ as follows:
 
 • 26th of Sept 23 St Mary's Road N21 Ncw.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -662,7 +662,7 @@ All roadworks in the District that are carried out in the Newcastle West Distric
 
 inspected by Foremen, Senior Supervisors, Technicians and Engineers.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -794,7 +794,7 @@ Church Street, Abbeyfeale
 
 On Derelict Sites Register
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -970,7 +970,7 @@ Main Street, Abbeyfeale
 
 **Development (RLHD) Programme**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1080,7 +1080,7 @@ as the NTA projects in the Schedule of Municipal District Works 2024 have
 
 already been approved.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1148,7 +1148,7 @@ The Motion was seconded by Councillor Foley.
 
 REPLY:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1224,7 +1224,7 @@ reviewed on completion of the Limerick Transport Plan and updated as necessary.
 
 ***I will move at the next Meeting that*** ***the Council consider purchasing extra ground off***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1292,7 +1292,7 @@ replying, the Meetings Administrator stated that park magic is in operation in t
 
 signage will be in place shortly.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1364,9 +1364,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

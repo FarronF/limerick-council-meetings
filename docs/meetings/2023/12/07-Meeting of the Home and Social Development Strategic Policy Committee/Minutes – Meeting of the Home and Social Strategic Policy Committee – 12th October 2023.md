@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 12th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-12th-october-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -102,7 +102,7 @@ Housing, Ms. Miriam Donnelly, Administrative Officer, Housing, Ms. Jurate Andrij
 
 Officer, Housing
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Ms. Fennessy responded that the programme is a collaboration between the Departm
 
 and Department of Housing and Local Government. She informed the committee that the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ informed the committee that a workshop can be organised for the Councillors.
 
 **Item 6: AOB**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,5 +308,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

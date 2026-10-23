@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 19th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-metropolitan-district-of-limerick-19th-may-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -71,7 +71,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -139,7 +139,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick if this 
 
 for funding for a bus shelter and seating at bus stop 607891 on the Mulcair Road, Dooradoyle.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -207,7 +207,7 @@ in the city centre, across all social housing sectors including AHBs, LCCC-owned
 
 Rentals.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -275,7 +275,7 @@ taken, including blocking access from the Greenway, to alleviate the anti-social
 
 occurring at both Apartment Blocks in Newtown Meadows in Castletroy.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -325,5 +325,5 @@ identified for the chapel in Mount St. Lawrence to be restored.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

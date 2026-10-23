@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 18th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02-minutes-of-march-2021-jpc-sub-committee-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -98,7 +98,7 @@ Councillor Donegan thanked the Gardai and welcomed the fact that Sgt Colcannon h
 
 assigned to Kilmallock.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ rubbish, and cameras have been installed in some areas with the Environment depa
 
 LCCC undertaking spot checks.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ rolled out, and agreed that GDPR was an issue, but that it was important to co-o
 
 Councilllor Donegan fully supported the prioritisation of the vaccine rollout with the Gardai.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -250,5 +250,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

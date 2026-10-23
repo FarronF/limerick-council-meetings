@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 28 September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2028%20September%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -98,7 +98,7 @@ the death of Councillor O’Hanlon’s sister, Veronica (Ronnie) O’Connor. It 
 
 unanimously agreed to observe a minute’s silence as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ build on the current relationships which existed with diaspora contacts in Brita
 
 The estimated cost of the trip was €750.00.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Workshop on Monday, 19th October, 2015, at 12.30pm.
 
 GMA Budget Meeting on Monday, 19th October, 2015, at 2.30pm.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ potential increase or decrease in 2016 Local Property Tax allocation, if maximum
 
 variation of 15% were implemented by Limerick City and County Council, would be
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ Arising from queries raised by Members, the Head of Finance clarified the
 
 following:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ Seconded by Councillor Byrne;
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ laws and this was seconded by Councillor Hurley:
 
 *9.30am and from 4.30pm to 7.30pm.”*
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -644,7 +644,7 @@ Seconded by Councillor Byrne;
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -716,7 +716,7 @@ The considerations recommended for the longer term were:
 
 • Put enablers in place to support the strategy roll-out.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -792,7 +792,7 @@ Members, in welcoming this initiative, thanked Mr. Moriarty and stated that it
 
 was most innovative.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -872,7 +872,7 @@ Meeting/Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -946,7 +946,7 @@ Members prior to the Meeting and the Questions were therefore considered as
 
 having been dealt with:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1032,7 +1032,7 @@ A lengthy discussion ensued with a number of Members opposed to the
 
 Motion and a number of Members in favour of the Motion.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1102,7 +1102,7 @@ difficult for a lot of towns and villages to cover expenditure associated with t
 
 purchase and running costs of Christmas Lights..
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1188,7 +1188,7 @@ It was agreed to refer this Motion to the Economic Development, Enterprise &
 
 Planning Strategic Policy Committee.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1254,5 +1254,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

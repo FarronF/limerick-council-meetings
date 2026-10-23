@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-12th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -100,7 +100,7 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -140,7 +140,7 @@ the defunct sewerage treatment plant in Askeaton prior to Irish Water being esta
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -177,5 +177,5 @@ to discuss the ongoing problems with school bus operations.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

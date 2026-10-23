@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-2020-12-02-minutes-december.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ The Cathaoirleach welcomed the Director, Housing Development and the A/Senior
 
 Executive Planner, Housing Development to the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ approved. The addition of the Supplementary Item to Standing Order was proposed 
 
 Councillor Sheahan and seconded by Councillor Scanlan with the recommendation that the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Once the pilot project is complete, a full review will be undertaken which will
 
 formulate the basis of any future “self-help” scheme.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ should also be made available to Limerick City and County Council to progress th
 
 works at Wards Cross and Devon Cross.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -418,7 +418,7 @@ The above can be considered for a Low Cost Safety Scheme. However as an
 
 interim measure road markings will be improved in this area.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ In proposing the Motion, Councillor Galvin requested that a pedestrian crossing 
 
 in the interest of child safety and that funding of this crossing be considered under the Great
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ matter. He agreed to follow up on overgrown hedges at forestry owned lands in th
 
 District.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -612,5 +612,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

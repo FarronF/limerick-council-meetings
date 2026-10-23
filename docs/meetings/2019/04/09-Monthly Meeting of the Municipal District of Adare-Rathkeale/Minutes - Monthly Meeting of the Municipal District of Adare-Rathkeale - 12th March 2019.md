@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Minutes%2012th%20March%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -92,7 +92,7 @@ their support and briefed Members on the progress of the Manor Fields project to
 
 and went on to say the facility, which will be operating ten years this summer, is a regional
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ discussions are taking place with the owners in relation to a site resolution pl
 
 estate.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ Members were all in agreement should the Compulsory Purchase Order be commenced
 
 it would progress the scheme to a conclusion.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ Pallaskenry.
 
 Proposed by Councillor O’Brien;
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -382,7 +382,7 @@ to allocate the following:
 
 **County Council attend the March Adare-Rathkeale Municipal District Meeting to give**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -426,5 +426,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

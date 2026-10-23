@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-a-Minutes-Annual-Meeting-of-Limerick-City-and-County-Council-30th-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -90,7 +90,7 @@ the staff in Corporate Services for their support during the year and in particu
 
 Buckley, in the Mayor’s Office who kept his diary going at all times.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ for the position of Mayor of the City and County of Limerick and I want to thank
 
 have supported me in the election today.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ As there were no other nominations the Mayor declared Councillor McSweeney elect
 
 Deputy Mayor of the City and County of Limerick and congratulated him on his election.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,5 +310,5 @@ Mayor
 
 Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

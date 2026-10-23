@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 23rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-23rd-june-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
@@ -104,7 +104,7 @@ Limerick Tourism Development Strategy Action Plan 2019 – 2023. Key achievement
 
 February 2024
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 ➢ Festival & Events Unit established
 
@@ -194,7 +194,7 @@ study on the impact of other attractions. Ms. Coleman said she will get figures 
 
 attractions for Cllr. J O’Donoghue.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Cllr. Gavan had the following queries and comments:
 
@@ -302,7 +302,7 @@ are working with OPW on development of Fullers Folly. Wild Encounters is highlig
 
 Limerick.ie.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Cllr. M Donoghue said that there is a range of tourism that is not Limerick City and County Council
 
@@ -392,7 +392,7 @@ footfall on Twilight Thursday and that an increased presence is required. The NT
 
 of 1 with a small budget and the Gardaí is a broader issue for LCCC.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 •
 
@@ -498,7 +498,7 @@ yearlong, contractor waiting to begin works in September so to not to negatively
 
 summer trade for business owners there.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 •
 
@@ -596,7 +596,7 @@ Monday 8th December 2025 from 2.15 pm to 4.15pm
 
 Monday 9th February 2026 from 2.15 pm to 4.15 pm
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 −
 
@@ -652,5 +652,5 @@ The Chair concluded the meeting at 4.45 pm and thanked the SPC Committee for the
 
 **Signed: Cllr. P. Doyle, Chairperson**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

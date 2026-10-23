@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 16th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/16022022_final_spc_minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -96,7 +96,7 @@ meeting.
 
 **Item 2: Matters arising from the Minutes**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 -
 
@@ -198,7 +198,7 @@ Cllr. Eddie Ryan flagged a concern in relation to tenants taking out a loan to d
 
 on an LA house.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Proposal to write to the Minister for Housing to ask him implement a scheme which would**
 
@@ -304,7 +304,7 @@ income. Ms. Curley advised that HAP is considered social housing and if a person
 
 financial situation changes, they are to advise LCCC.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 5: AOB**
 
@@ -344,5 +344,5 @@ The Chair thanked everyone for joining the SPC, the contributions made and Thres
 
 their presentation. The next SPC is the 20th April.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

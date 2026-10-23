@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Cappamore-Kilmallock Municipal District - 5th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Special%20Meeting%205th%20July.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -57,5 +57,5 @@ RIP.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

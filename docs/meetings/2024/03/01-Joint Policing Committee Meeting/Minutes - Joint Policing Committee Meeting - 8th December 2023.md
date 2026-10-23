@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 8th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-joint-policing-committee-meeting-8th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -100,7 +100,7 @@ In reply, the Chief Superintendent stated that even though the percentages seeme
 
 handful of cases. He added that drug related offences have increased in all areas of Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Superintendent Kennedy added that there has been an increase in a number of issues in Kilmallock.
 
@@ -188,7 +188,7 @@ Coronation had raided 132 properties, seized property, drugs, cash and other ite
 
 for alleged money laundering and drugs offences and charged six people with sale and supply of drugs.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Superintendent Reidy stated that Operation Croí is running very successfully in Roxboro and is tackling anti-
 
@@ -282,7 +282,7 @@ In reply to Members requests, the Chief Superintendent stated that a Representat
 
 available next year to come to one of the Limerick JPC Meetings.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Minister Kieran O’Donnell stated that he would bring the matters raised today and the Members concerns
 
@@ -372,7 +372,7 @@ Cash to an approximate value of €222,000.00 seized, various currency
 
 6 persons charged with offences under Section 15 of the Misuse of Drugs Act, 1977/’84
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 
 
@@ -454,7 +454,7 @@ Investigations ongoing x 3
 
 Actioned by LCC x 1
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Roxboro Road Community Engagement
 
@@ -552,7 +552,7 @@ Five members of an OCG arrested on the 24th October with significant drugs seize
 
 Year to date for LCS the following categories of crime show reductions:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 •
 
@@ -618,7 +618,7 @@ maintain a visible presence, which will hopefully be reflected in a reduction in
 
 (Image omitted)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **Miscellaneous Operations/Initiatives** - AGS Limerick have teamed up with the management at the Milk
 
@@ -706,7 +706,7 @@ This matter has been discussed and dealt with earlier in the meeting.
 
 ***resources in the city centre”.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 This matter has been discussed and dealt with earlier in the meeting.
 
@@ -788,7 +788,7 @@ In reply, the Chief Superintendent stated that the age limit for Garda Reserves 
 
 age. A number of the force has been lost due to retirement; however, Garda Reserves are getting renewed
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 focus, which is to be welcomed. He confirmed that it is up to the Judiciary to allocate a sentence for assault
 
@@ -812,5 +812,5 @@ Christmas.
 
 **Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

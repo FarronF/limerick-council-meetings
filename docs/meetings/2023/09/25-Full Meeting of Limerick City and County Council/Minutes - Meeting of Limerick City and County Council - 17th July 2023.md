@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 17th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-c-Minutes-Meeting-of-Limerick-City-and-County-Council-17th-July-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -96,7 +96,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 comprising Area ‘A’ 0.009 hectares (0.022 acres) at Childers Road, Limerick, and land
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ Seconded by Councillor Sheehan (C);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ It was noted that Councillor Sheahan (M) had been appointed at the May Meeting t
 
 fill the vacancy caused by the resignation of Councillor Kiely (Limerick City East) from the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,7 +424,7 @@ Action, Biodiversity and Environment Strategic Policy Committee, representing th
 
 Community/Voluntary Sector.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,7 +496,7 @@ Councillors Novak, Kilcoyne, O’Donovan, Daly, Collins (J), Sheahan (K), Slatte
 
 (M), Butler, Kiely, McSweeney, Sheahan (M), Murphy, Sheehan (C), O’Sullivan, Pond.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ held on 10th July, 2023 - it was noted that the Chairperson’s report in relati
 
 meeting would be included on the agenda for the September Council Meeting.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -646,7 +646,7 @@ Centre 30 km/h Speed Limit Bye-Laws until the September Plenary Meeting as carri
 
 it was agreed that a Workshop would be arranged.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -728,7 +728,7 @@ He outlined the following to the Members:
 
 legislation to be signed to permit use of cameras.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -812,7 +812,7 @@ under the Individual Arts Bursary Awards Scheme 2023, as set out in the report o
 
 Officer dated 7th July, 2023.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -892,7 +892,7 @@ approval to recommended allocations under the Strategic Fund for Arts and Cultur
 
 2023.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -968,7 +968,7 @@ loan is provided as bridging finance to the borrower to assist in the delivery o
 
 Bike Hire and Bus Shuttle service infrastructure on Limerick Greenway.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1082,7 +1082,7 @@ Cheshire Foundation Of Ireland (The)
 
 Novas
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1196,7 +1196,7 @@ Occupational Therapist Assessments for housing adaptation/older person’s
 
 grants is €20,648.25.  The figure to date in 2023 is €9,225.45.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1278,7 +1278,7 @@ under strong urban influence to be managed to avoid over development.
 
 Relevant National and Regional Policies are as follows:
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1362,7 +1362,7 @@ more compact and consolidated growth, integrating land use and transport,
 
 with the use of higher densities and mixed use developments at an appropriate
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1436,7 +1436,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Keary, the Motion w
 
 adopted.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1522,7 +1522,7 @@ upcoming Public Lighting Energy Efficiency Project (PLEEP) contract. It should
 
 also be noted that there has been a vast improvement in outstanding faults
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1598,7 +1598,7 @@ On the proposal of Councillor O’Donovan, seconded by Councillor Sheahan (J), t
 
 Motion was adopted.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1674,7 +1674,7 @@ Transport, the Minister of State at the Department of Transport with special res
 
 International and Road Transport and Logistics, the Taoiseach and the Tánaiste.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1706,5 +1706,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

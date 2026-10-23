@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 6th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-6th-of-july-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -86,7 +86,7 @@ committee meeting held on the 3" February, 2020 were unanimously adopted.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -138,7 +138,7 @@ integrated ambitions, which focus on:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -190,7 +190,7 @@ working closely with Failte Ireland on a campaign to advertise Limerick as a per
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -214,5 +214,5 @@ Minutes Signed By Chair:
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

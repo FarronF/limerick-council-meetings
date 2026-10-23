@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Home and Social Development Strategic Policy Committee Meeting - 22nd October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/minutes-spc-meeting-22-10-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -86,7 +86,7 @@ No matters arising from previous meeting.
 
 **Item 3: Policy Documents Following Update**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 A.
 
@@ -154,7 +154,7 @@ Selection will be based on certain criteria:
 
 4. Proposals that ABH have to sites – tenure mix, feasibility etc…
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ms. Newell went on to say the next step is that we will look for their funding capacity – do
 
@@ -232,7 +232,7 @@ noted that we would welcome county sites to be brought forward for scheme.
 
 around delays with AHBs. Ms. Newell said that we will be looking at a small number
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 of sites for first tranche and it is a pilot to see if there is an appetite in the AHB sector
 
@@ -304,7 +304,7 @@ Limerick Regeneration areas. Once they meet the social and economic objectives, 
 
 be grant funded.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 In 2020, there were 203 applications received and they came in from112 organisations. The
 
@@ -382,7 +382,7 @@ tendering process
 
 following competitive tendering process
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 •
 
@@ -486,7 +486,7 @@ o Improved air quality
 
 o No handling of dirty solid fuel
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 o Reduced energy costs (‘Watt watcher’ to be installed on selected homes by SSE
 
@@ -596,7 +596,7 @@ wrap a house if it was in a block of LA owned houses. Mr. Leahy said it the exte
 
 insulation is robust and quite durable.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
  Cllr. Hartigan asked could there be a possibility to include private residents in the
 
@@ -678,7 +678,7 @@ A discussion took place around this:
 
 Ms. Duke noted that in 2020 we have introduced the Single Point of Contact system
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 were any voids properties that came back into the system were recorded, inspected
 
@@ -728,5 +728,5 @@ The Chair thanked everyone for logging in and for their valuable contributions. 
 
 thanked the members of the executive present.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/2-.-minutes-of-17th-february-municipal-district-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -78,7 +78,7 @@ Members on the Community Alert Programme. Mr Cronin agreed to deliver a workshop
 
 discuss the Programme further as part of the Joint Policing Committee Meeting in April.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 6.Issuing of Bruff Public Realm Plan
 
@@ -142,7 +142,7 @@ structure. The Castle at Ballynoe is protected under the National Monuments Act 
 
 significant structure in Limerick’s heritage.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The closing date for applications is 1 March, 2022. If the application is successful the proposed
 
@@ -218,7 +218,7 @@ elected Mayor is a matter outside the remit of Limerick City and County Council.
 
 decision to postpone the implementation of the Directly Elected Mayor pending the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 adoption of appropriate legislation is a matter more appropriately directed to the
 
@@ -294,7 +294,7 @@ The policy is based on the principles of good heritage and environmental practic
 
 grounds.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 11.
 
@@ -364,7 +364,7 @@ A full presentation on the Dereliction & Vacancy Initiative will be provided to 
 
 meeting of Cappamore/Kilmallock Municipal District.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 14.
 
@@ -420,5 +420,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

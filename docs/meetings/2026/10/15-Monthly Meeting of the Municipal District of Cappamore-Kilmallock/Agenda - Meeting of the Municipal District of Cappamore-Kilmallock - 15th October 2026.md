@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 15th October 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-october-2026_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -68,7 +68,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office Yo
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -111,7 +111,7 @@ Bruff and a timeline as to when these works will be delivered.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -145,5 +145,5 @@ Hospital.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

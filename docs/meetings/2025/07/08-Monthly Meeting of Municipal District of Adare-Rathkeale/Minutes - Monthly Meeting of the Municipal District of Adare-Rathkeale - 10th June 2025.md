@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-draft-minutes-of-monthly-meeting-10th-june-2025-2_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ Engineer for the District had been appointed. All Members expressed their well w
 
 to Mr. O’Keeffe and agreed with Councillor Teskeys sentiments.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 
 for the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ allocate €1,000 to Askeaton Ballysteen Active Retirement Group.
 
 **residential or commercial.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ reports pending)
 
 **Reports pending**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -452,7 +452,7 @@ The “energy policy relating to noise” presentation will be presented to the
 
 September meeting of the Municipal District of Adare-Rathkeale.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -536,7 +536,7 @@ agreed to revert to Members when a date is agreed.
 
 Deerpark site in Adare.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -576,5 +576,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 7th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and Environment**
 
@@ -74,7 +74,7 @@ pharmaceutical facilities.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 At a national level, the Climate Action Plan targets the delivery of 2.7 TWh of district heating by 2030,
 
@@ -158,7 +158,7 @@ all members of the SPC.
 
 **Support Strategic Policy Committee** **–** **next steps - Sinead Hourigan** **–** **Administrative Officer.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ms. Hourigan presented the draft Multi Annual Work Programme for the CABE SPC. The SPC
 
@@ -206,5 +206,5 @@ Remaining meetings in 2026 will be held on October 13 and December 8.
 
 **Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Budget Meeting of Limerick City and County Council - 23rd November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Adjourned%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20November%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF
 
@@ -124,7 +124,7 @@ and entered on the central valuation list. The Commissioner of Valuation is
 
 responsible for the valuations. The most recent global valuations carried out by
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -204,7 +204,7 @@ Executive outlined his proposals for amendments to the Draft Budget to take acco
 
 of the additional funding of €1,191,546, details as outlined hereunder:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -332,7 +332,7 @@ Finance was requested to cost these proposals in the format required for
 
 amendment to the Budget. The proposals were subsequently costed and were
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -500,7 +500,7 @@ Balance
 
 (€273,526) €273,526 €0
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -568,7 +568,7 @@ calculation of this rate is a Reserved Function of the Elected Members of the Ra
 
 Authority.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -640,7 +640,7 @@ Executive would be reduced to 2.03%, giving an ARV of 0.2459.  There would also
 
 be amendments to the Budget as proposed by the Chief Executive as follows:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -768,7 +768,7 @@ with or without amendment. These would be taken in the order in which they had
 
 been received.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **8**
 
@@ -848,7 +848,7 @@ accordance with Section 103 of the Local Government Act, 2001, as amended
 
 by the Local Government Reform Act, 2014.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **9**
 
@@ -914,7 +914,7 @@ Local Government Act, 2001, as amended by the Local Government Reform
 
 Act, 2014.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **10**
 
@@ -978,7 +978,7 @@ hereunder, is hereby adopted as per Tables A,B,D,E and F, in the sum of
 
 2001, as amended by Local Government Reform Act, 2014:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **11**
 
@@ -1110,7 +1110,7 @@ adopted in accordance with Section 66 of the Local Government Act, 2001, as
 
 amended by Section 43 of the Local Government Reform Act, 2014,”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **12**
 
@@ -1152,5 +1152,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

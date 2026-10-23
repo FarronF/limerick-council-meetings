@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Metropolitan District of Limerick - 23rd June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-b-minutes-annual-meeting-23rd-june-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -90,7 +90,7 @@ Proposed by Councillor O’Donovan;
 
 Seconded by Councillor Benson;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ The Cathaoirleach invited nominations for the Office of Leas Chathaoirleach of t
 
 District of Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -202,5 +202,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

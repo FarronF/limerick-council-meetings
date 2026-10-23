@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 9th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20-%209th%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 13th September 2017
 
@@ -74,5 +74,5 @@ Senior Executive Officer
 
 Economic Development
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

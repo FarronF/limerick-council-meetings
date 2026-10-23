@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 11th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%20%28b%29%20Minutes%2011th%20September%2C%202018%20v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ Regarding Item 2 in the Minutes, Counillor Keary enquired if there was any progr
 
 place for money to be reappropriated to return voids back into stock. The Senior Architect
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,7 +156,7 @@ August, 2018 setting out the position in relation to the taking in charge of An 
 
 Pallaskenry. The report was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -222,7 +222,7 @@ issues in unison.
 
 This was proposed by Councillor Sheahan and seconded by Councillor Keary.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,7 +288,7 @@ Members note the report, as circulated, and requested an update report for the O
 
 Monthly Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -356,7 +356,7 @@ erected in Newcastle West and Kilmallock. The Director informed Members this mot
 
 would be raised with Central Services.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -422,7 +422,7 @@ provided in the estimates. Councillor Keary proposed a Motion should go to the
 
 full Council Meeting, this was seconded by Councillor Teskey.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -468,5 +468,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

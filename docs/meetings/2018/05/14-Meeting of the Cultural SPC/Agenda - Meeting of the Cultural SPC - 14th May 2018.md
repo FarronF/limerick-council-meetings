@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Cultural SPC - 14th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/Agenda%20Cultural%20SPC%2014th%20May%202018%20V2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -88,7 +88,7 @@ of all Limerick's historical and artistic assets to ensure their preservation an
 
 their potential as tourist attractions and encourage civic pride.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 9**.
 
@@ -136,5 +136,5 @@ Any Other Business
 
 **Cultural SPC, Limerick City & County Council**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

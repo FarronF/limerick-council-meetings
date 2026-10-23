@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/item-1-minutes-of-spc-21st-june-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -98,7 +98,7 @@ and focuses of the Chamber. Limerick Chamber of Commerce was established in 1805
 
 currently has 420 members, which supports approx. 50,000 jobs.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 It supports the economic and social development of Limerick through working with other
 
@@ -174,7 +174,7 @@ J. Hassett pointed out that the rules were set nationally and with 75% funding a
 
 conditions were necessary, but that training was provided in governance, which assisted with the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 application process. A recent survey showed that 70% of successful applicants were still in
 
@@ -256,7 +256,7 @@ representatives could be increased from 2 to 3, so PPN had an opportunity to mak
 
 recommendation for a nominee in that category. P. Fitzgerald advised that
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 recommendations coming from the SPC to full Council on any subject matter are
 
@@ -282,5 +282,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Cappamore - Kilmallock - 16th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/02-minutes-of-may-municipal-district-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -78,7 +78,7 @@ Regarding the response to the question on playground repair, clarification was r
 
 regarding the swing in the Kilmallock playground which has been left idle, and the high
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 quotation for repair of the wetpour. This query will be forwarded to the appropriate
 
@@ -136,7 +136,7 @@ Meetings administrator would circulate a response to a recent question on the is
 
 (December 2023).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 6.
 
@@ -192,7 +192,7 @@ necessary improvements, be it a mountable roundabout, road markings, improved si
 
 etc.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **REPLY:**
 
@@ -250,7 +250,7 @@ be needed will be costed and a submission made to the relevant funding authority
 
 consideration.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **Proposed: Councillor Donegan**
 
@@ -298,7 +298,7 @@ location indicated in Cllr. Carey’s question.
 
 Question submitted by Councillor Teefy
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 I will ask at the next meeting of the Municipal District what the possibility is of
 
@@ -358,7 +358,7 @@ the judge agreed to remit, (“send back”) the Compulsory Purchase Order Appli
 
 Bord Pleanála for their renewed consideration. A new Oral Hearing will be held into the
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Compulsory Purchase Order in due course by An Bord Pleanála, however as yet we have not
 
@@ -402,5 +402,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

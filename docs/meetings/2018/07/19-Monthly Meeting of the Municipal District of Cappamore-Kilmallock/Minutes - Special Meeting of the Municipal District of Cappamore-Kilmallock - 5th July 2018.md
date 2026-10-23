@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Cappamore-Kilmallock - 5th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/04%20Minutes%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
@@ -76,7 +76,7 @@ was a former Chairman of the old County Agricultural Committee, which he chaired
 
 distinction. The Members also recalled his affinity to people who were marginalised in the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -108,5 +108,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

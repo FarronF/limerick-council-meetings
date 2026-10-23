@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - 7th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/special_meeting_of_limerick_city_and_county_council_-_agenda_07_july_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Date: 2nd** **July, 2014.**
 
@@ -74,7 +74,7 @@ nominated at (a) above to be permanent delegates to the Standing
 
 Policy Council of the Association for the full five-year term.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -136,7 +136,7 @@ County Council on the RAPID Action Implementation Team for Rathkeale.
 
 To consider the nomination of 1 Member to the Limerick Sports Partnership.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -204,7 +204,7 @@ Pavement Improvement and Pedestrian Facilities Scheme 2014.
 
 (Report Enclosed)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -272,7 +272,7 @@ report, in accordance with Section 180 of the Planning and Development Acts,
 
 (Report Enclosed)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -286,5 +286,5 @@ To consider draft Limerick City and County Council Standing Orders.
 
 (Copy of draft Standing Orders Enclosed)
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

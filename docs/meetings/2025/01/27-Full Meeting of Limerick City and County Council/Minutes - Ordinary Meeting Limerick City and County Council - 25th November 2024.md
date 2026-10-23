@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting Limerick City and County Council - 25th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-25.11.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ Circulated, copy of draft Minutes of the following Meetings:
 
 (b) Adjourned Ordinary Meeting of the Council held on 4th October, 2024.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Knockatanna, Caherconlish, Co. Limerick (LK4127L), to James Fanning, for the sum
 
 the disposal to be by way of Deed of Conveyance of the freehold interest of Limerick City and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Council in the property, particulars of which were contained in Statutory Notice
 
 October, 2024.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ City and County Council in the property, particulars of which were contained in 
 
 Notice dated 23rd October, 2024.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Circulated, copy of Statutory Notice dated 14th November, 2024, concerning dispo
 
 0.03 acres (0.012 hectares) at Baunacloka, Mungret, Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ land comprising 16.50 acres (6.677 hectares) at Churchtown, Newcastle West, Co.
 
 Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -586,7 +586,7 @@ Seconded by Councillor Galvin;
 
 And Resolved:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ Seconded by Councillor Teefy;
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -748,7 +748,7 @@ attendance and participation by a delegation from the Council in the Annual St. 
 
 Day Parade 2025, in Savannah, Georgia, USA
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -830,7 +830,7 @@ in relation to the appointment of a Chairperson to the Limerick Traveller Accomm
 
 Consultative Committee.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -902,7 +902,7 @@ under the Strategic Fund for Culture and Arts, as set out in report of the Arts 
 
 Ireland Co-Ordinator dated 13th November, 2024.”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -972,7 +972,7 @@ Average Speed Site will be in County Limerick. The location of this will be
 
 determined in consultation with the Local Authority and TII.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1060,7 +1060,7 @@ Question submitted by Councillor S. Hickey-O’Mara
 
 ***residents.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1146,7 +1146,7 @@ The Unit deals with derelict sites, vacant homes and vacant sites across all the
 
 Municipal Districts. It advises and guides owners of unproductive properties
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1224,7 +1224,7 @@ a big issue for people living in areas with roadways badly in need of improvemen
 
 stressed the importance of removing this condition to allow more people apply.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1306,7 +1306,7 @@ advised the Meeting the Planning Department operate under current 2006 Wind Ener
 
 Development Guidelines, and advised a review of the current guidelines was underway to
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1384,7 +1384,7 @@ bringing it forward. The Members outlined the need to encourage more men to enga
 
 various community based organisations that provide a space where men feel included and
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1464,7 +1464,7 @@ Mayor agreed to examine the issue with the Director of Transportation and Mobili
 
 including the need for a consultation process.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1548,7 +1548,7 @@ year. Although I think we still have a very varied and rich programme, I share
 
 their views that we can do better.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1632,7 +1632,7 @@ days, I shall ask officials to immediately assess if that approach could instead
 
 be agreed in time for our Budget meeting on Friday.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1716,7 +1716,7 @@ we have to make sure that they are fully enabled and supported to do that. I
 
 shall ask the reviewer to assess the range of skills on each board and the
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1798,7 +1798,7 @@ business as usual with which we have become accustomed may no longer be
 
 the right choice. Furthermore, many of the plans for the DACs require
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1840,5 +1840,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

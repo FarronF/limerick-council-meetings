@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda to consider the General Municipal Allocation - Municipal District of Cappamore-Kilmallock - 10th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/general_municipal_allocation_cappamore-kilmallock.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -69,7 +69,7 @@ reviewing the levels of discretionary allocations in 2014 budget.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -95,7 +95,7 @@ Head of Finance.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -119,5 +119,5 @@ Relevant Gross Expenditure (B=A)
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

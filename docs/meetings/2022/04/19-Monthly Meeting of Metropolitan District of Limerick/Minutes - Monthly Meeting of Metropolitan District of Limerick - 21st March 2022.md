@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-draft-minutes-monthly-meeting-21st-march-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ queried what objectives had been met in relation to the Expression of Interest d
 
 been issued as part of the disposal process, and what options had been considered for the use of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Municipal District Works 2022 for the Metropolitan District of Limerick.
 
 The Members noted the contents of the proposed Draft Schedule of Municipal District Works 2022
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ end of 2022.
 
 **REPLY**:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ demand.
 
 **Question submitted by Councillor S. Benson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ route. The Council will make direct representation to the NTA regarding the matt
 
 **Question submitted by Councillor J. Costelloe**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -508,7 +508,7 @@ projects with €30,614,647 on social and economic supports.
 
 ***exists in many other jurisdictions and call on the Minister to make a statement on the matter.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ Whilst Members noted the importance of Raheen Business Park for business and emp
 
 they supported the Motion and expressed concern at the potential impact of pollutants on
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -658,5 +658,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

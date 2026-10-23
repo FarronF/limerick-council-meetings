@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-i-minutes-15th-july-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -124,7 +124,7 @@ speed limit between Barrington’s Bridge and Collin’s Cross to Operations and
 
 during the next Countywide speed limit review assess Cllr. Egan’s request.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -178,7 +178,7 @@ Land and Property
 
 Planning and Design
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -240,7 +240,7 @@ delayed. The restoration of the walls will commence in October/November of this
 
 year.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -296,7 +296,7 @@ additional powers and added the campaign surrounding the Directly Elected Mayor 
 
 been rushed and not enough clarity provided on the subject.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -358,7 +358,7 @@ Councillor Teefy requested a housing workshop to be held before the September Mu
 
 District meeting to discuss housing vacancies and repairs staffing etc.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -390,5 +390,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Municipal District of Cappamore-Kilmallock - 21st April, 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20April%2C%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
@@ -94,7 +94,7 @@ the rear of the Stone Mansion in Kilmallock. Lough Gur was an internationally im
 
 and an excellent resource for tourism.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ As a consultative process, the Roads Section will meet with the residents of
 
 Millmount Estate, Kilmallock.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Garda Siochana.
 
  Adoption by Elected Members of the Local Authority.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,5 +302,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

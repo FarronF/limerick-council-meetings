@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 26th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-a-minutes-ordinary-meeting-26.06.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ Adoption of Minutes
 
 Circulated, copies of draft Minutes of the following Meetings:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ County Council in the property, particulars of which were contained in Statutory
 
 23rd January, 2020.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Circulated, copy of Statutory Notice dated 12th February, 2020, concerning dispo
 
 land at Ballinveala, Crecora, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Conveyance of the interest of Limerick City and County Council in the property, 
 
 which were contained in Statutory Notice dated 26th May, 2020.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -498,7 +498,7 @@ Harnett, for the sum of €20,100, particulars of which were contained in Statut
 
 dated 11th June, 2020.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -572,7 +572,7 @@ and May 2020.
 
 The Chief Executive’s Reports were noted by the Council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -648,7 +648,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -726,7 +726,7 @@ Transfers to Capital).
 
  Key Income Movements.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -798,7 +798,7 @@ officials in the respective District Offices.
 
 The following resolutions were adopted:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -872,7 +872,7 @@ approved Sectoral Interests. A number of these nominations were received and app
 
 the Council at the November 2019 Meeting.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1006,7 +1006,7 @@ Donnah Vuma,
 
 Doras.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1078,7 +1078,7 @@ Committee held on 8th June 2020:
 
 **that the request be circulated to all local authorities.”**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1152,7 +1152,7 @@ That, all future recipients of HAP would be Garda vetted similar to the direct S
 
 applicants.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1220,7 +1220,7 @@ Councillor Collins (B) and with the permission of the Mayor, it was agreed to ta
 
 urgent Motion (No. 26) on the agenda:
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1268,5 +1268,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

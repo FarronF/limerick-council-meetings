@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 9th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/minutes-of-spc-9th-dec-2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -94,7 +94,7 @@ While members thanked Dr. Cahill for a very comprehensive presentation, they exp
 
 concern over the lack of funding available to Shannon Airport and that National Aviation
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Policy was in direct contradiction with Project Ireland 2040-balanced regional growth.
 
@@ -170,7 +170,7 @@ skills. He also stated that they are currently establishing a Mid-West Film Educ
 
 Training group to develop a supply of skilled people locally to work for future productions.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Members congratulated him on the success of Troy Studios and stated that it was a great
 
@@ -228,5 +228,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 12th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-minutes-of-monthly-meeting-12th-october-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -92,7 +92,7 @@ requesting this body now take legal action against Irish Water on the matter. Th
 
 Director, Housing advised Councillor Teskey a Local Authority cannot instruct another
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ Councillor Teskey asked, further to his earlier request at the start of the Meet
 
 relation to the Environmental Protection Agency investigating Irish Water, if the District
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ contractor on site for the first cut and added the second cut is due to commence
 
 the 22nd October, 2021 and will be carried out over a four week period.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ A previous funding application under Low Cost Safety Improvement Works
 
 for Fedamore was unsuccessful.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -380,7 +380,7 @@ payments for the 2022 scheme subject to budgetary requirements.
 
 **rebellion and an appropriate plaque be erected .**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -442,5 +442,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

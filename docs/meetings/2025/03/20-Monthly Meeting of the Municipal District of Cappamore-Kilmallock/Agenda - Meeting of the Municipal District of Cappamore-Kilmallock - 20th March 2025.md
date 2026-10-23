@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-20th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,7 +77,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -126,7 +126,7 @@ projects.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -170,5 +170,5 @@ where there is only a grass margin on the boundary of the road.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

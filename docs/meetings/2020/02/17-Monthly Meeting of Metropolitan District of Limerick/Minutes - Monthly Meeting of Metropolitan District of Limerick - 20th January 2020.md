@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-monthly-meeting-20th-january-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
@@ -98,7 +98,7 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 7
 
 2020 setting out proposals to dispose of the Freehold Interest of premises consisting of a
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ investigation.
 
 The Part 8 for Golf Links Road involves works on lands, which have been identified
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -270,7 +270,7 @@ provided in the near future.
 
 The Southside Masterplan consists of three stages as follows:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -360,7 +360,7 @@ Works are now substantially complete.
 
 ***development approved for the 5 properties on Kileely Road and if possible to include an expected***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -460,7 +460,7 @@ Park Enabling Association for €15,000. The motion was proposed by Councillor
 
 Hourigan and seconded by Councillor Daly.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -586,7 +586,7 @@ DS-028-18
 
 3 Knockane Road, Newcastlewest, Co. Limerick
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -752,7 +752,7 @@ April 2019, 14 consultations and 2 citizen surveys have gone live on the portal.
 
 VIII submissions received in hard copy are now routinely uploaded to MyPoint along
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -832,7 +832,7 @@ Action, Biodiversity and Environment Strategic Policy Committee Meeting.
 
 This Motion was seconded by Councillor McSweeney and agreed.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -916,7 +916,7 @@ to address the revitalisation of the city centre.
 
 This Motion was seconded by Councillor Secas and agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1004,7 +1004,7 @@ this ‘Not for Profit’ company. He referred to the large number of children w
 
 last weekend and the importance of continuing this underage activity. Cllr O’Dea requested the
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1100,7 +1100,7 @@ The Director of Service wished those Members contesting the upcoming General Ele
 
 success.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1116,5 +1116,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

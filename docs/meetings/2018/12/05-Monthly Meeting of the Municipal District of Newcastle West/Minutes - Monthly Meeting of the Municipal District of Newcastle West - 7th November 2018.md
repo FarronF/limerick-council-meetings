@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01%28a%29%202018-11-07%20Minutes%20November.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ progressing the projects outlined. Members also asked that regular updates be gi
 
 work of the Directorate.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agre
 
 €250.00 to the Scouts, Newcastle West.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Works such as specifications, tendering, scheduling and construction are
 
 progressing.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ Footpath upgrade works are due to be carried out at this location within the
 
 next month.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -538,7 +538,7 @@ Unit 1
 
 **Abbeyfeale** – 5 units as follows:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -640,7 +640,7 @@ As per our records held, I wish to confirm that the Peter McVerry Trust manage
 
 6 units in the Newcastle West District Area.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -714,7 +714,7 @@ along the Boherbui road from the Church towards the junction with Old Killeline 
 
 West be reviewed. The Senior Executive Engineer stated that tenders have been received
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,5 +782,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

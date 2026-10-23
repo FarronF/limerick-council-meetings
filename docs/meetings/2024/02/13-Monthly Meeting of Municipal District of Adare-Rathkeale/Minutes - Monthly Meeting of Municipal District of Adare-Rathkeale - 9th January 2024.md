@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 9th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-minutes-monthly-meeting-of-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ intention to bring the Section 183 Notice to Full Council for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ condition.
 
 with asphalt instead of tar and chip.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ The motion was proposed by Councillor Teskey, seconded by Councillor Sheahan and
 
 agreed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ Councillors Collins, O’Brien and O’Donoghue.
 
 Councillors Keary, Sheahan and Teskey.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -366,5 +366,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Annual General Meeting - 25th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-b-draft-minutes-of-annual-meeting-25th-june-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -92,7 +92,7 @@ Members to consider him and Councillor Hartigan for Cathaoirleach and Leas
 
 Cathaoirleach at some point during the five year term.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ included in the Mayoral Programme for the next five years and suggested a Worksh
 
 be convened by Members to assist in compiling these objectives on or before the 12th
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -206,5 +206,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

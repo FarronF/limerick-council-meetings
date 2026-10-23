@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Special Meeting of the Municipal District of Newcastle West - 29th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-the-municipal-district-of-newcastle-west-29th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ Meeting. The Members and the Mayor wished to ensure the funding would remain in 
 
 Newcastle West Municipal District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -136,5 +136,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

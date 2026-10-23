@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/02-minutes-of-december-2020-jpc-sub-committee-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -94,7 +94,7 @@ by Bruff Garda Station in 2020 to 2019 including:
 
  An increase in serious injury traffic accidents.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Further clarification on the operating model and property marking will be sought
 
 JPC meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -182,5 +182,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 11th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/00%20Agenda%2011th%20June%202019%20Special%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,5 +78,5 @@ im customerservices@limerick.te
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

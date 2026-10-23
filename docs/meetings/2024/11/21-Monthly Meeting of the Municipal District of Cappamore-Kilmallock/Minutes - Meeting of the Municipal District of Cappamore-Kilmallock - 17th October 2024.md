@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 17th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-17th-october-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -70,7 +70,7 @@ Cappamore-Kilmallock held on 19th September, 2024.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising
 
@@ -120,7 +120,7 @@ September, 2024 setting out proposals for the disposal of freehold interest in
 
 property at 5 Ash Hill, Kilmallock, Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Councillor Carey (PJ) excused himself from meeting while this item was being discussed.
 
@@ -196,7 +196,7 @@ the General Municipal Allocation of the Cappamore-Kilmallock Budgetary Plan 2025
 
 **327,600**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Proposed:
 
@@ -262,7 +262,7 @@ has to be addressed and added the staff of the Property Management are available
 
 with the owners of Derelict properties and Elected Members if required.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Councillor Ryan (M) asked more work be invested in tracing ownership of derelict properties
 
@@ -322,7 +322,7 @@ Limerick City and County Council would implement a programme of establishing
 
 Playgrounds throughout our municipality targeting Teenagers.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *In proposing this motion Councillor Ryan (M) told the meeting following observations and local*
 
@@ -384,7 +384,7 @@ acquire compulsorily a further seven derelict sites pursuant to section 15 of th
 
 Act, 1990 (as amended).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 One of the derelict sites intended to be acquired compulsorily by the Council, consists of a
 
@@ -444,7 +444,7 @@ most appropriate funding authority to consider the provision of a budget.
 
 **Seconded: Councillor M. Ryan**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *Councillor Teefy (B) also requested Active Travel Department install a footpath for pedestrians*
 
@@ -500,7 +500,7 @@ Cappamore Foileen Public Water Supply that the Boil Water Notice issued on 26 Se
 
 2023 remains in place.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 This notice was issued as a precautionary measure to protect the health of approximately
 
@@ -564,7 +564,7 @@ on BWNs. Customers are reminded that the water is safe to consume once boiled.�
 
 \* Brushing of teeth;
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 \* Making of ice - discard ice cubes in fridges and freezers and filtered water in fridges.
 
@@ -632,7 +632,7 @@ Yours sincerely,
 
 Geraldine Torreon
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Local Representative Support Desk
 
@@ -704,7 +704,7 @@ Bosca PO 860, Oifig Sheachadta na Cathrach Theas, Cathair Chorcaí, Éire
 
 Uisce Éireann
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 Uisce Éireann, PO Box 860, South City Delivery Office, Cork City
 
@@ -768,7 +768,7 @@ resilience while also supporting future social and economic development. The ini
 
 this project is now complete with the construction of 6km of new pipeline connecting
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 Croom to the Clareville Water Treatment Plant in Limerick City. This will improve the
 
@@ -832,7 +832,7 @@ after which the houses will return to active housing stock.
 
 **The Questions were taken as read.**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 Any Other Business
 
@@ -872,5 +872,5 @@ Cathaoirleach
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

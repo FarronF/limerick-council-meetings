@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Annual Meeting of the Metropolitan District of Limerick - 28th June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01b-draft-minutes-annual-meeting-28th-june-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -88,7 +88,7 @@ Pond, Secas, Sheehan, Slattery and Talukder
 
 (15)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ District of Limerick.
 
 Proposed by Councillor Slattery;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,5 +232,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

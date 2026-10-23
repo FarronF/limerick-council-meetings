@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -84,7 +84,7 @@ June Meeting of the Cappamore Kilmallock Municipal District.
 
 There were no matters arising.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Deputation by Garrienderk Community
 
@@ -158,7 +158,7 @@ Finally An Cathoirleach, on behalf of the Elected Members made clear that antiso
 
 behavior would not be tolerated.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A time frame as follows was agreed – an update would be provided where appropriate at
 
@@ -210,7 +210,7 @@ on the Stone Mansion House, Kilmallock, when the Part8 procedure would commence 
 
 an update on the application under the Fáilte lreland Large Capital Grant Scheme.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **REPLY:**
 
@@ -276,7 +276,7 @@ are currently being developed. There are thirty four cremation plots being provi
 
 of the newly developed burial ground extension in Ballylanders, each capable of
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 accommodating multiple cremated remains and where feasible, within existing burial
 
@@ -326,5 +326,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

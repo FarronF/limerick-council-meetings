@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Metropolitan District of Limerick - 21st September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20September%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -108,7 +108,7 @@ issues.
 
  Emerging issues.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -200,7 +200,7 @@ Level Goals, Draft Report on Submissions and Observations received, dated August
 
 2015.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -280,7 +280,7 @@ creating attractive destinations and the benefits of same.
 
 evaluation that would take place.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -366,7 +366,7 @@ Question submitted by Cmhlr. Séighin Ó Ceallaigh
 
 Rathbane Golf Course is an 18 hole municipal golf course situated
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -468,7 +468,7 @@ The EPA is the relevant authority for the issue of waste licences which
 
 would cover the storage of hazardous waste.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -554,7 +554,7 @@ provisions would remain. The estimated cost of the provision of this
 
 project is €5,000.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -656,7 +656,7 @@ Notice of Motion submitted by Councillor Cian Prendiville
 
 ***City a great place for worker rights.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -738,7 +738,7 @@ Members expressed reservations in relation to the motion and made the following 
 
 during discussion of the motion;
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -838,7 +838,7 @@ The Members should also be aware that income from parking is used to
 
 run the traffic light system, provide new road markings and signs, and
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -924,7 +924,7 @@ on the motion;
 
  The nite clubs in the area should be required to close at 2.00 p.m.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1014,7 +1014,7 @@ use of extra lighting at night to ensure that the river flowed in light through 
 
 be used as a positive theme in this regard.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1092,5 +1092,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

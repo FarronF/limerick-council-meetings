@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District Adare-Rathkeale - 7th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_7th_october_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -76,7 +76,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -105,5 +105,5 @@ Kilfinny village.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 23rd March 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01_minutes_-_meeting_municipal_district_cappamore-kilmallock_230317.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -82,7 +82,7 @@ Members thanked Superintendent Duane for his presentation and made the following
 
 in relation to this item.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ Circulated, copy of draft Minutes of Meeting of the Municipal District of Cappam
 
 Kilmallock held on 16th February, 2017.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ report noted that the available budget for the scheme was €10,000 and the rema
 
 of €1,900 would have to be sourced elsewhere.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ The Motion was proposed by Councillor Mitchell, in the absence of Councillor She
 
 and seconded by Councillor O’Donnell.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ reinstatement works should take place. The R514 is included in the planned road
 
 condition survey.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -480,7 +480,7 @@ Transport Infrastructure Ireland funding allocated, the project would move the C
 
 Purchase Order phase, which was preferred by some landowners and helped to clear title.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -560,7 +560,7 @@ released. In relation to tolling, it was noted that shadow tolls were being look
 
 and it could not be predicted where tolling would stand in ten years’ time.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -636,5 +636,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

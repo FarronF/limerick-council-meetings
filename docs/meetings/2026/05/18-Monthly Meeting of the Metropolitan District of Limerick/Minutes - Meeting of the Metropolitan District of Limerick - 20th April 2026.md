@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -100,7 +100,7 @@ District of Limerick, Parks and Cemeteries (Mr. B. Barry), Clerical Officer, Met
 
 District of Limerick, Parks and Cemeteries (Mr. B. English), Co-Op Student, Metropolitan
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 District of Limerick, Parks and Cemeteries (Mr. M.P. Meaney), Senior Executive Architect,
 
@@ -172,7 +172,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Cathaoirleach of any declaration of interest in any item due for discussion at the Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 No such interests were declared.
 
@@ -242,7 +242,7 @@ Response Team and the Executive Engineer, Cleansing Team, which included updates
 
 footpath refurbishments, laneway improvements, pedestrianisation works, installation of
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 bollards and bin storage units, seating upgrades, lighting pole refurbishment, park and
 
@@ -320,7 +320,7 @@ Members referred to the Riverfest Sustainability Report 2025 and queried why it 
 
 circulated to date. Some Members emphasised the importance of agreeing a theme for
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Limerick Riverfest and requested that a festival sub‑group would be established, similar to
 
@@ -454,7 +454,7 @@ Lisnagry FC
 
 €5000.00
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Limerick Protestant Young Men’s Association
 
@@ -624,7 +624,7 @@ Nepalese Community Limerick
 
 €1000.00
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Munster Indian Cultural Association
 
@@ -780,7 +780,7 @@ Aisling Annacotty FC
 
 €17,000.00
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Newtown Rovers FC
 
@@ -950,7 +950,7 @@ Indian Cultural of Limerick
 
 €2500.00
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Patrickswell Community Council
 
@@ -1036,7 +1036,7 @@ other Members highlighted the ongoing need for a community centre in other areas
 
 Castletroy and Garryowen.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **(b)Part 8 Procedure – King’s Island Youth and Community Centre**
 
@@ -1106,7 +1106,7 @@ Seconded by: Councillor McSweeney;
 
 And Resolved:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 “That the Part 8 in relation to Toppins Field, and subject to the agreed amendment, be
 
@@ -1176,7 +1176,7 @@ clearly communicated in the final design.
 
 of the month, weather dependent.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 Phase 1 of the O’Connell Street improvements brought the new scheme as far as the
 
@@ -1252,7 +1252,7 @@ advance of closing the gates at the people’s Park, the Park Ranger rings the b
 
 minutes before the Park is due to close around the perimeter and within the Park to
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 notify the impending closure. This is repeated 5 minutes before the Park is due to
 
@@ -1320,7 +1320,7 @@ will advise the public on the opening dates in the near future.
 
 **16.Question submitted by Councillor Hickey-O’Mara**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
@@ -1392,7 +1392,7 @@ regarding the UL - Castleconnell - Montpelier Greenway.
 
 Montpelier Greenway is still in the Options Selection phase.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 Currently the MWNRDO are analysing all options concerning this Scheme, in an effort
 
@@ -1462,7 +1462,7 @@ Department of Agriculture, Food and the Marine (DAFM). All animal welfare cases
 
 received by the Council are therefore referred to DAFM.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **NOTICES OF MOTION**
 
@@ -1534,7 +1534,7 @@ The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor
 
 and agreed.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 In moving the Motion, Councillor Donoghue highlighted the urgent need to deliver the
 
@@ -1602,7 +1602,7 @@ straights, deflection and junctions.
 
 ***and Cork.***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 The Notice of Motion was proposed by Councillor O’Sullivan, seconded by Councillor Butler
 
@@ -1674,7 +1674,7 @@ Limerick City & County Council will review seating arrangements in the city duri
 
 **31.Notice of Motion submitted by Councillor Kiely**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that tabletop***
 
@@ -1744,7 +1744,7 @@ permitted. Arrangements are also being progressed to install appropriate signage
 
 clearly indicate that parking and trading on the green are prohibited.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 In parallel, the Council is actively examining alternative locations for licensed food
 
@@ -1814,7 +1814,7 @@ Parking is available in city-centre car parks with additional match-day parking 
 
 patrons facilitated by Na Piarsaigh GAA.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 An Garda Síochána, as the Traffic Authority, is the body responsible for planning,
 
@@ -1868,5 +1868,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Minutes%20of%20Monthly%20Meeting%2008th%20November%2C%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ And Resolved:
 
 October, 2022 setting out proposals to dispose of derelict property on Lower Main
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Circulated, report of the Senior Executive Engineer, Roads, Traffic and Cleansin
 
 planned for the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ to allocate the following:
 
  €1,000 to St James National School, Cappagh.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -292,5 +292,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

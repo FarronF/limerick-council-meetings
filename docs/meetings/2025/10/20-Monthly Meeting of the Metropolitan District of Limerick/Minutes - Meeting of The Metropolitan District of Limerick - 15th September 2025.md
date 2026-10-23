@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of The Metropolitan District of Limerick - 15th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-metropolitan-district-of-limerick-15th-september-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -96,7 +96,7 @@ Members of the Metropolitan District of Limerick.
 
 proposals for Disposal of two portions of land at the Railway Crossing, Childers Road, Limerick
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ of continuing the delivery of these services to enhance the area.
 
 Steamboat Quay.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ by Members regarding procurement timelines for the delivery of the programme, it
 
 hold a Briefing to update Members on the progress for Christmas in Limerick 2025.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -422,7 +422,7 @@ Geraldines AFC
 
 €6000.00
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -604,7 +604,7 @@ Ormston House
 
 €2000.00
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -688,7 +688,7 @@ Four of these fines were issued for illegal dumping at Bring Bank facilities wit
 
 paid in full (€150 per fine).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -758,7 +758,7 @@ List that have selected an Area of Choice in the Metropolitan Area.
 
 ***Dockless Bike Scheme that was trialled in Annacotty/Castletroy area in the last few years.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -858,7 +858,7 @@ Active Travel will be seeking an update from An Coimisiún Pleanála at the end 
 
 in relation to both applications.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -916,7 +916,7 @@ the Housing Team.
 
 REPLY: The information as requested has been presented in tabular format.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -956,7 +956,7 @@ suitable properties.
 
 (Image omitted)
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1002,7 +1002,7 @@ Conditions 11 and 12 relate to the establishment of a Community Liaison Committe
 
 (Image omitted)
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1082,7 +1082,7 @@ be forwarded to her.
 
 **REPLY**: The Council has appointed a Tree Officer whose name is David Murphy. The Tree Officer’s
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1156,7 +1156,7 @@ In proposing the Motion, Councillor Butler referred to the positive benefits of 
 
 for those affected by the loss of a loved one.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1230,7 +1230,7 @@ place to visit.
 
 **REPLY**: The Council can develop a map to show the locations of public toilets in the city centre.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1304,7 +1304,7 @@ In proposing the Motion, Councillor Secas stated that secretaries and caretakers
 
 within schools, and she highlighted the importance of ensuring these workers had access to public
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1374,7 +1374,7 @@ Strategic Policy Committee.
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this District write to***
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1448,7 +1448,7 @@ Vacancies often arise at short notice and Limerick City and County Council must 
 
 position to allocate promptly.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1538,7 +1538,7 @@ An Garda Síochána which was launched in 2024 to address the dangers of illegal
 
 inconsiderate parking in Limerick. The campaign uses stickers with QR codes on illegally
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1610,7 +1610,7 @@ agreed.
 
 In proposing the Motion, Councillor Donoghue highlighted the need for the provision of a bus
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1636,5 +1636,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

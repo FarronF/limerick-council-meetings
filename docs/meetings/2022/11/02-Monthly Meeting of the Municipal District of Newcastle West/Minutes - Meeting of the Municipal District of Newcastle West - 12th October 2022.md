@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 12th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-10-12%20Minutes%20October.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ The importance of showing respect and courtesy to colleagues and local authority
 
 was also raised.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ resolution to proceed with the development as described in the Chief Executiveâ€
 
 August 29th 2022, prepared in accordance with Section 179 3(a) of the Planning and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ On the proposal of Councillor Collins, seconded by Councillor Ruddle, it was agr
 
 â‚¬3,000 to Newcastle West GAA public lighting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ Engineer referred to the number of hedge cutting notices issued and stated that 
 
 also be following up on blackspot areas in the District.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -370,7 +370,7 @@ REPLY:
 
 A site meeting will be arranged to discuss further safety measures.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -462,7 +462,7 @@ Limerick
 
 On Derelict Sites Register
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -692,7 +692,7 @@ Convent Road, Abbeyfeale
 
 Open derelict sites case
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -796,7 +796,7 @@ New Street, Abbeyfeale, Co. Limerick
 
 Convent Road, Abbeyfeale Co. Limerick
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -864,7 +864,7 @@ place for the operation and maintenance of this facility and a notice is applica
 
 contract.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -932,7 +932,7 @@ Refurbishment Programme and gave a comprehensive overview of the current situati
 
 regard to these properties.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1000,9 +1000,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

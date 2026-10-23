@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20Agenda%20JPC%20Meeting%2021st%20Nov%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -61,5 +61,5 @@ Kilmallock, Co. Limerick. V35 K497 063-98019
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

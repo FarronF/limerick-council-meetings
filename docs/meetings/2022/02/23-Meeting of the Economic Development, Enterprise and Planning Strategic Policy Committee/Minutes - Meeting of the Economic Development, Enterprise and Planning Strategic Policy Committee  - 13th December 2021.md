@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee  - 13th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/minutes-of-spc-mtg-13th-december-2021_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -98,7 +98,7 @@ process, which was now at a very advanced stage and the granting of an extension
 
 beneficial in the completion of the Development Plan process.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Members also expressed concern at the number of planning decisions for private housing, which had
 
@@ -178,7 +178,7 @@ Ciara Farrell, LEO gave a presentation on the Measure 2 Business Supports provid
 
 supports include Start Your Own Business Courses, Mentoring Programmes, Management
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Development courses, Trading Online Vouchers, Technical Assistance for Micro Exporters, Micro
 
@@ -260,7 +260,7 @@ works were progressing on the Limerick Northern Distributor Road and that the Li
 
 Metropolitan Area Transport Strategy (LSMATS) would be completed in April, 2022.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 5**
 
@@ -282,5 +282,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

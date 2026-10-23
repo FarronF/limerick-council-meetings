@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 21st November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20November%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ To adopt Minutes of the following Meetings of the Metropolitan District of Limer
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -159,7 +159,7 @@ estimated budgetary cost required for the implementation of said plan is and an 
 
 timeline for implementing the measures of the plan.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -217,7 +217,7 @@ widening of the Golf Links Road by O'Shea's Pub and also an update on the propos
 
 connecting Groody Road to Golf Links Road/Old School House Road.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -283,7 +283,7 @@ I will ask at the next meeting of the Metropolitan District of Limerick if the D
 
 could provide leaf cleaning schedule for the City area.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -347,7 +347,7 @@ and how long it will take to complete the scheme and if it is anticipated that i
 
 during 2023.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -409,7 +409,7 @@ Micheál Martin outlining the urgent need for the allocation of additional fundi
 
 additional staff required to deliver affordable housing within our City and County.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -453,5 +453,5 @@ connecting in to these IDA owned lands and Business Parks.
 
 (Copy of Correspondence Enclosed)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

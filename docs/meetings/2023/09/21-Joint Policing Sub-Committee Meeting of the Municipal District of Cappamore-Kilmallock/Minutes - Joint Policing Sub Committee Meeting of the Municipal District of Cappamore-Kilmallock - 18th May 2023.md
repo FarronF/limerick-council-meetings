@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub Committee Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Joint-Policing-Sub-Committee-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -110,7 +110,7 @@ Section 3 assaults
 
 4
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ Travel and Transport SPC in June and back to the Cappamore Kilmallock Joint Poli
 
 Committee.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -216,5 +216,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

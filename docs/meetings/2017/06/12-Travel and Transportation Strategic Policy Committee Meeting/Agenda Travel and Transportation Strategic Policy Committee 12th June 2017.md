@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda Travel and Transportation Strategic Policy Committee 12th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee%2012th%20June%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **6th** **June, 2017**
 
@@ -48,7 +48,7 @@ June, 2017 at 10:00 a.m. The business to be transacted is set out in the appende
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -86,5 +86,5 @@ implementation of ramps, across the Metropolitan District”.
 
 **Murray**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

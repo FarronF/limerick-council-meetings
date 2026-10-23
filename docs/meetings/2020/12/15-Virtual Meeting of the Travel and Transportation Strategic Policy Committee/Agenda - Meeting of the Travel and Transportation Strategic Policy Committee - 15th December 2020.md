@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/agenda-meeting-of-the-travel-and-transportation-spc-15th-dec-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ The business to be transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -87,5 +87,5 @@ shoppers should be given 3 hours free car parking at any time of the day to help
 
 retailers”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

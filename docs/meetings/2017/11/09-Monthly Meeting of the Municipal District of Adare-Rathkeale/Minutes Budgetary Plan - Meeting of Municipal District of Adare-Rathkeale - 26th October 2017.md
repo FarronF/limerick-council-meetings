@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Budgetary Plan - Meeting of Municipal District of Adare-Rathkeale - 26th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Budgetary%20Plan%202018%2026th%20October%2C%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -110,7 +110,7 @@ funding in terms of audit trail and inclusiveness and suggested that an advertis
 
 place in this regard.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -148,5 +148,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

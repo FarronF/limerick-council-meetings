@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 31st January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -90,7 +90,7 @@ Corporate Headquarters, Merchant's Quay, Limerick WY a@limerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -122,5 +122,5 @@ proposal is a continuation of the previously approved Part 8 Planning for a carp
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/02-Agenda-Annual-Meeting-of-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **16th** **June, 2023.**
 
@@ -54,5 +54,5 @@ office until the next Annual Meeting or until a successor has been elected.
 
 office until the next Annual Meeting or until a successor has been elected.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

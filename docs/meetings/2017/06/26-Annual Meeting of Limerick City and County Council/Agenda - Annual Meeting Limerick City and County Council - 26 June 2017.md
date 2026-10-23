@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting Limerick City and County Council - 26 June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%20260617.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -76,5 +76,5 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - 496200
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

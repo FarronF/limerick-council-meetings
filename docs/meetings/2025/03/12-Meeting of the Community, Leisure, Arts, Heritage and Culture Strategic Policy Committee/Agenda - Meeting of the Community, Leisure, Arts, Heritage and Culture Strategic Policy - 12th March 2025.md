@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy - 12th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-12th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -80,5 +80,5 @@ Date of next meeting
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

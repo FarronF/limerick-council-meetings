@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale JPC Subcommittee - 14th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20%28b%29%20Minutes%20JPC%2014th%20February%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -92,7 +92,7 @@ the Christmas period. Members complimented the Superintedent and his staff for t
 
 excellent policing of the District over the season. While some residents of the town of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Rathkeale had complained of over policing due to checkpoints etc. it was agreed that the
 
@@ -168,5 +168,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

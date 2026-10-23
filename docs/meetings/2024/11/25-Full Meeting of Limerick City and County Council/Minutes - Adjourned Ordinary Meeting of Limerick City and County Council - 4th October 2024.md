@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Ordinary Meeting of Limerick City and County Council - 4th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-b-minutes-adjourned-ordinary-meeting-limerick-city-and-county-council-04.10.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY AND
 
@@ -90,7 +90,7 @@ following:
 
  Raheen-Dooradoyle Areas of Focus
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ works at the following locations:
 
 7. An upgrade of the drinking water treatment facility in Athea
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ villages.
 
  The upgrade and development of public parks and recreational facilities.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ be made more accessible for tourism.
 
 *Survey.**”*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -406,7 +406,7 @@ view of some Members that the Land Development Agency should be invited to addre
 
 Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -474,5 +474,5 @@ further develop Limerick in the future.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

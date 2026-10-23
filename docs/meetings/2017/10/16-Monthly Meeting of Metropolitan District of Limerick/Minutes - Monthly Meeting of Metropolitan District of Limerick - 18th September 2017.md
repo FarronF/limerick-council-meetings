@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/01%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2018th%20September%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -100,7 +100,7 @@ Circulated, report of the A/Senior Executive Officer, Community Support Services
 
 8th August, 2017 setting out proposals to dispose of the freehold interest of a dwelling
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -190,7 +190,7 @@ Richard Harris International Film Festival and outlined programme information wi
 
 I.NY.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -280,7 +280,7 @@ Limerick City and County Council has 5300 dwellings in its remit. The fire safet
 
 requirements differ depending on the type of building and its construction.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -370,7 +370,7 @@ received regarding air pollution from the public. The complaint will be referred
 
 the EPA for investigation and enforcement where it is suspected the breach
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -454,7 +454,7 @@ Meeting on 18th April 2017 was placed on the agenda for the next meeting of the
 
 Economic Development, Enterprise and Planning SPC which was held on 12th
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -546,7 +546,7 @@ into October to complete the works outright. These works will involve a total
 
 resurfacing of the public road and permanent road marking will not be in place
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -632,7 +632,7 @@ In proposing the motion Councillor Leddin noted the lack of available housing un
 
 market and the corresponding increase in housing waiting lists and homelessness. He
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -716,7 +716,7 @@ It was agreed that this motion would be referred to the Local Electoral Area Bri
 
 Councillor Hogan requested that a reply to the motion be available at the briefing.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -798,7 +798,7 @@ during discussion of the motion :
 
 could not afford to rent accommodation.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -882,7 +882,7 @@ above matter. It is expected that all of the above will be operational by the en
 
 of Q1 2018.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -958,7 +958,7 @@ held on 16th October, 2017 after the JPC Sub Committee Meetings and that an emai
 
 times would be circulated.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -974,5 +974,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

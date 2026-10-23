@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 16th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-special-meeting-of-limerick-city-and-county-council-16th-september-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -84,7 +84,7 @@ codes and principles, as well as adhere to relevant national and local governmen
 
 legislation.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Members were informed that €2,750,000 of the Mayoral Fund 2025 was allocated to
 
@@ -174,7 +174,7 @@ and requested a list of the groups to be circulated to Members. Concerns were
 
 raised about the transparency of allocations.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 •
 
@@ -274,7 +274,7 @@ On the proposal of Councillor McSweeney and seconded by Councillor Slattery a qu
 
 update on the Mayor’s Budget was requested.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 It was proposed by Councillor Collins (M) and seconded by Councillor Sheahan that the
 
@@ -328,5 +328,5 @@ This concluded the meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

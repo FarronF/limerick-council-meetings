@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 11th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2011th%20March%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -93,7 +93,7 @@ w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -135,5 +135,5 @@ Glenbrohane parish journal which has not been published in 20 years.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

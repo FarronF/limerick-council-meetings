@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 19th May 2026 1.30pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-19th-may-2026-1.30pm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ He outlined that comments raised at the workshop held on the 9th April 2026, tog
 
 submissions received, had been circulated to Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The following amendments were proposed by Councillor McSweeney and seconded by Councillor
 
@@ -336,7 +336,7 @@ deliver legacy projects in areas providing Park
 
 and Ride Sites.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ride sites.
 
@@ -482,7 +482,7 @@ through the Mayoral Fund, in accordance with the Limerick Mayoral
 
 and Government Consultative Forum Framework. All Directorates
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 shall identify which actions require Mayoral Fund allocations and
 
@@ -584,7 +584,7 @@ Maintain a respectful workplace and ensure Dignity at Work
 
 Compliance.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 To be
 
@@ -774,7 +774,7 @@ Service
 
 Parks & Cemeteries service review to reflect EA boundaries
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 2026
 
@@ -922,7 +922,7 @@ Following discussion on the proposal to remove the reference to Vienna Model on 
 
 27 of the Annual Service Delivery Plan (ASDP), Members queried whether the Vienna Housing
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Model was the same as the Cost Rental Model and expressed disappointment that they had not
 
@@ -1008,7 +1008,7 @@ Completion status of the Vienna Model
 
 Framework in collaboration with LTT.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 • Finance & Audit Sign-off on Vienna Model.
 
@@ -1152,7 +1152,7 @@ strengthen the 2026 key deliverable
 
 as follows:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 “The Council will prioritise the
 
@@ -1282,7 +1282,7 @@ the 2026 ASDP as follows:
 
 responses to Elected Members
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 including the drafting of an updated
 
@@ -1434,7 +1434,7 @@ budgetary consideration and
 
 resources continue to be focused on
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Shareholder
 
@@ -1588,7 +1588,7 @@ Councillors can also see the
 
 status of their cases if they
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 •Visibility of status for
 
@@ -1716,7 +1716,7 @@ An updated objective to be included
 
 in the 2026 ASDP as follows:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 •Response time
 
@@ -1844,7 +1844,7 @@ Programme but this can be reviewed
 
 if funding is received.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **13.**
 
@@ -1986,7 +1986,7 @@ Seconded by Councillor Collins (B):
 
 And Resolved:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 “That, in accordance with Section 134 (a) of the Local Government Act, 2001 (as amended,
 
@@ -2008,5 +2008,5 @@ This concluded the meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

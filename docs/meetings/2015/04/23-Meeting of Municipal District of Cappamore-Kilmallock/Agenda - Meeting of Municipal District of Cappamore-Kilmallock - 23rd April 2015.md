@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 23rd April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01_agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -80,7 +80,7 @@ Corporate Headquarters, Merchants Quay, Limerick wv @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -107,5 +107,5 @@ was Regional Road R514 treated under the Winter Maintenance Programme.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

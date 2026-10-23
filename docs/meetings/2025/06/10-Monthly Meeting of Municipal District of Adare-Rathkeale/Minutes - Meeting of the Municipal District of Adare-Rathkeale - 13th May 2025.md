@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-a-draft-minutes-of-monthly-meeting-13th-may-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -82,7 +82,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interest was declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ to the school as per the current proposal, there is no further funding committed
 
 scheme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ following on his behalf into the record of the Meeting:
 
 *works.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ following on his behalf into the record of the Meeting:
 
 *large scale housing developments until the plant has been upgraded**”**.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ to allocate the following:
 
  €1,500 to Crecora/Manister GAA Club.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -466,7 +466,7 @@ knowledge of the rules of the road to operate them safely, therefore, users shou
 
 required to take a valid theory test and be licenced to operate same.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ of the District to discuss their future uses. The A/Senior Executive Officer, Mu
 
 Districts agreed to follow up and revert to Members in due course.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ this year.
 
 Rathkeale for the next District Meeting.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -658,5 +658,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

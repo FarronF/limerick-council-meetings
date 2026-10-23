@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Appendix 1 - Minutes of Meeting of Metropolitan District of Limerick - 15th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Appendix%201%20-%20Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Appendix 1**
 
@@ -26,5 +26,5 @@ Map submitted by Councillor Daniel Butler as referred to in Item 3 of Minutes of
 
 Proceedings at Meeting of Metropolitan District of Limerick held on 15th February, 2016.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

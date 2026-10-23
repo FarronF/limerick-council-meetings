@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 15th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-monthly-meeting-of-the-metropolitan-district-of-limerick-15th-november-2021-v1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -97,7 +97,7 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Disposal of Land**
 
@@ -147,7 +147,7 @@ and a map of all vacant land in the ownership of Limerick City and County Counci
 
 as suitable for either housing or recreation purposes.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 2
 
@@ -207,7 +207,7 @@ management plan for the Parkway Roundabout given the volume of traffic back on o
 
 the previous commitment that the possibility of traffic lights being installed would be examined.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 3
 
@@ -255,7 +255,7 @@ been set aside for the refurbishment of the Black Bridge in Plassey when will th
 
 commence and is there a timeframe involved to complete.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 4
 
@@ -317,7 +317,7 @@ the significant increase in the population and new housing developments in the a
 
 primary schools in the area are at their full capacity.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 5
 
@@ -351,5 +351,5 @@ to facilitate members of the public who wish to use this facility in the evening
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

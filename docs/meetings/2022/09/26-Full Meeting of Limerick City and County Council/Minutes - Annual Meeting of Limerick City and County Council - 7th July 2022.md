@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 7th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28a%29%20Minutes%20Annual%20Meeting%2007.07.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -94,7 +94,7 @@ He thanked the Chief Executive, Management and staff across all Departments, inc
 
 District Offices, and outdoor staff, for their work on a daily basis for all of Limerick. He thanked
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ a huge personal moment for my family, and me it would be remiss of me not to men
 
 friend and colleague. It was his sudden passing that triggered this event for me and while it is
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Limerick is a place that people from many different countries and creeds call ho
 
 represent all communities in Limerick and ensure that every section of these communities
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ hope their and our dream of a three-in-a-row becomes a reality on Sunday week.
 
 Luimneach Abú-Go raibh míle maith agaibh
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,5 +410,5 @@ Mayor
 
 Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

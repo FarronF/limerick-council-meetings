@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation SPC Meeting - 19th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-travel-transportation-spc-meeting-19th-february-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ and adopted.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -148,7 +148,7 @@ law prohibiting hedge cutting if there is a health and safety risk. She also ask
 
 an update of the scheme before the budget is passed next November.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ confirmed that there is 4,000 km of roads in County Limerick, with 3,000 of them
 
 The council also cuts junctions on regional roads. (Contractor cost is €80 per hour approx.).
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,7 +298,7 @@ I will move at the next Meeting that this Local Authority examine the possibilit
 
 Community Hedge Cutting Grant.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -372,7 +372,7 @@ danger to people using or working on a public road. Examples of hazards might be
 
 trees, ditches or hedges interfering with traffic, blocking footpaths, obscuring road signs or
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -448,7 +448,7 @@ get deliveries. The Transport Strategy team is working on installing sensors in 
 
 help commercial drivers locate and book a bay to make it easier to facilitate deliveries. The City
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -518,7 +518,7 @@ him and Mr. J Gannon for further discussions on the matter. Cllr. Leddin welcome
 
 and the proposal to advance discussion.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -584,7 +584,7 @@ Mr. Kennedy added that the item can be referred to the Limerick City Centre Task
 
 interest to the Limerick City taskforce group for consideration.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -654,7 +654,7 @@ roadside hedge/overhanging trees to be cut with a minimum length of road network
 
 incorporated in any application of 5km.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -700,5 +700,5 @@ The Chair thanked all for their attendance and contribution. This concluded the 
 
 meeting.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 24th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-agenda-for-march-2022-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **11th** **March 2022.**
 
@@ -64,7 +64,7 @@ To receive a presentation on the Dereliction & Vacancy Initiative in the Cappamo
 
 Kilmallock Municipal District
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -128,7 +128,7 @@ Limerick City and County Council to complete a pedestrian footpath and review tr
 
 measures from Elton Close housing estate to Elton village.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -154,5 +154,5 @@ County Council plan to install public car park signage in the vicinity of Emmett
 
 Charleville road, Kilmallock.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 19th May 2026 11.30am.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-special-meeting-of-limerick-city-and-county-council-19th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -90,7 +90,7 @@ convened to consider the Motion as set out on the Agenda.
 
 **publicly available on the Council’s official website (www.limerick.ie) no later than two**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **business days following the conclusion of each meeting, without unnecessary barriers or**
 
@@ -164,7 +164,7 @@ It was agreed on the proposal of Councillor Collins (B), seconded by Councillor 
 
 take a short adjournment.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Upon resumption, the Mayor and Members agreed that further clarification was necessary
 
@@ -186,5 +186,5 @@ This concluded the meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

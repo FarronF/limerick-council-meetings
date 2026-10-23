@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of The Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 3rd March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-3rd-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
@@ -116,7 +116,7 @@ Membership of the Economic Development, Enterprise, Planning & Tourism SPC 2024-
 
 Scheme was adopted at the meeting of the Council held on 25th November 2024.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 
 
@@ -238,7 +238,7 @@ phased payments, especially in large scale developments. Mr. Murray advised that
 
 Department of Housing, Local Government & Heritage has paid the development
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 contributions for residential properties for the last 2 years. The development contributions
 
@@ -352,7 +352,7 @@ Introduction
 
  How to use guidance document
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
  Historic/protected shopfronts and facades
 
@@ -484,7 +484,7 @@ Other Funding Supports
 
 4. MicroFinance Funding
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 The 2025 budget for LEO is €2.3m. 178 net new jobs were created in 2024 by LEO supported
 
@@ -556,5 +556,5 @@ The Chair concluded the meeting.
 
 **Cllr. P. Doyle, Chairperson**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

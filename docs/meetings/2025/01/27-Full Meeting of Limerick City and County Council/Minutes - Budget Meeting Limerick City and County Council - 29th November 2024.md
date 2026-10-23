@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Budget Meeting Limerick City and County Council - 29th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/01-b-minutes-budget-meeting-limerick-city-and-county-council-29.11.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ On resumption the Director General read of the following statement “*Following
 
 *made, by him, on Live95fm.*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ include:
 
  Homeless increased contribution
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ help small and local businesses.
 
 **“Introduction**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ Councillors to be held on the 11th November and 22nd November.
 
 the adoption of the Budget.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ not being covered by corresponding increases in central government funding witho
 
 imposing significant cuts in services year on year, the Budget seeks to maximise the available
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ Government is allocating €14.9 billion next year by way of (voted) capital exp
 
 highest level ever.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ domestic economy has proven to be remarkably solid, evidenced by an unemployment
 
 that has stabilised at just over 4 per cent throughout this year. On the other hand, the level
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -650,7 +650,7 @@ standards could be held-back in the years ahead.
 
 Finance's budget for 2025.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -870,7 +870,7 @@ accommodating over 1,000 jobs. This project will contribute to the revitalising 
 
 centre with new business, retail, and leisure opportunities. In line with my commitment to
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -958,7 +958,7 @@ quarterly updates provided to maintain transparency and accountability. This off
 
 closely with the Mayoral Advisory and Implementation Committee, a newly established body
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -996,7 +996,7 @@ expenditure necessary to carry out the functions of the Council and the income e
 
 accrue to the Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1070,7 +1070,7 @@ Framework (NPF) and the development of Regional Land Use, Employment and Strateg
 
 key partners and the Southern Regional Assembly.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1230,7 +1230,7 @@ and Adare Heritage;
 
 preliminary Ryder Cup plans;
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1292,7 +1292,7 @@ attractiveness of the city centre.
 
 **Continue to seek efficiencies in service provision, cost reduction and value for money**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1400,7 +1400,7 @@ H - Misc Services
 
 **Table 2: Analysis of Expenditure by Division**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1560,7 +1560,7 @@ Division, with comparative figures for 2024:
 
 **(Excl HAP)**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1646,7 +1646,7 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **Analysis of Income (excluding HAP)**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1746,7 +1746,7 @@ Budget 2024).
 
 **Adopted Budget 2024 €'m**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1824,7 +1824,7 @@ Based on its shortfall position when expected 2025 LPT receipts are compared to 
 
 Baseline, Limerick City & County Council will be in receipt of equalisation funding in 2025.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1916,7 +1916,7 @@ so as to reward businesses moving into vacant premises more than those owning pr
 
 which remain vacant. This will be a first step in such a process which will be enhanced over
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -2000,7 +2000,7 @@ of €170 million and is aimed at SMEs in the hospitality, retail and beauty sec
 
 builds on the success of the Increased Cost of Business Scheme (ICOB) which has paid €244
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2078,7 +2078,7 @@ centre to address issues of concern.
 
 **Climate Action**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2144,7 +2144,7 @@ equipment, services, plant hire and energy are now purchased through the Uisce �
 
 procurement system and, therefore, no longer appears on the Council’s expenditure system.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2274,7 +2274,7 @@ Chart 6 profiles the Capital Expenditure for each of the five years:
 
 **€'m**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2350,7 +2350,7 @@ Members would be afforded the opportunity for questions and answers in relation 
 
 division.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2428,7 +2428,7 @@ of our housing stock in the County, and hoped to see an improvement in the refur
 
 of houses in 2025.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2500,7 +2500,7 @@ costs;
 
 grounds where the access road is not owned by the Council;
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2572,7 +2572,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2646,7 +2646,7 @@ subject to the terms and conditions of the scheme:
 
 **% Refund**
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2738,7 +2738,7 @@ E1101
 
 300,000
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2804,5 +2804,5 @@ Signed:
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 

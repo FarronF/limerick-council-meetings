@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 26th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28c%29%20Minutes%20Annual%20Meeting%20260617.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK
 
@@ -90,7 +90,7 @@ address:
 
 **throughout the year.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ address:
 
 **have a common bond and that is Limerick.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Hourigan, Hurley, Keary, Lynch, Mitchell, O’Brien, O’Dea, O’Donnell, O’D
 
 Pond, Ryan, Scanlan, Sheahan (J), Sheahan (K), Sheahan (M), Teefy, Teskey. **(27)**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ The incoming Mayor, Councillor Keary, gave the following address to the Meeting:
 
 **put their trust in me and have elected me to this Council since 2009.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ The incoming Mayor, Councillor Keary, gave the following address to the Meeting:
 
 **my influence where possible to improve their services.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ Limerick for the coming year.
 
 A vote was taken which resulted as follows:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -554,7 +554,7 @@ The incoming Deputy Mayor, Councillor Hurley, addressed the Meeting as follows:
 
 **Limerick East being the recent advancements with the Northern Distributor**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -638,7 +638,7 @@ which they had performed their role and stated that they had been excellent amba
 
 for Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -698,7 +698,7 @@ Crowley, Pond, O’Donnell, Mitchell, Butler, Hurley, Sheahan (M) and Hogan.
 
 This was seconded by Councillor Collins (M) and agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -714,5 +714,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

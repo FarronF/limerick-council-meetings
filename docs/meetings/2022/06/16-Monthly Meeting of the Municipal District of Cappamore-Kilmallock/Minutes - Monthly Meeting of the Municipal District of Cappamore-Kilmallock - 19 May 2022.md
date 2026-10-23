@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19 May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Minutes-19th-May-Monthly-Meeting-of-Cappamore-Kilmallock-Municipal-District.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -76,7 +76,7 @@ discussion on the response, and agreed to correspond with Minister Peter Burke�
 
 requesting further clarification regarding
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
  Details of the role of the Directly Elected Mayor
 
@@ -144,7 +144,7 @@ Allocation is on behalf of all Elected Members of the Cappamore Kilmallock Munic
 
 District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A suggestion was made that funding be provided from the Central budget towards Friars
 
@@ -196,7 +196,7 @@ Municipal District Meeting and the Notice of Motion above will carry over to the
 
 Municipal District Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 7.Any other Business
 
@@ -248,5 +248,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%202019-03-06%20Minutes%20March.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Ms. Rizzo addressed the Meeting and welcomed the opportunity to outline to the M
 
 the life and contribution of Max Arthur MacAuliffe to the Sikh Culture and Religion.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ West, in accordance with Section 180 of the Planning and
 
 Development Acts, 2000-2017, and Section 11 of the Roads Act, 1993.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ On the proposal of Councillor Scanlan, seconded by Councillor Galvin, it was agr
 
 €990 for public lighting at Ardagh.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ Broadford National School – Pedestrian Crossing
 
 €35,000
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ Devon Cross and detailed design of N21 Wards Cross. This commission is
 
 subject to TII approval.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ Question submitted by Councillor J. Sheahan
 
 ***From June 2004 to date how many sites have been excavated in the environs of***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -592,7 +592,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***authority communities who undertook the task of applying the paint themselves.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -678,7 +678,7 @@ vouchers under this scheme, one for each Metro and Municipal Council in
 
 Limerick City and County. In addition, the Department of Rural and Community
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -750,7 +750,7 @@ minimum required road and footpath width, land take is required.
 
 It is proposed to discuss the land take matter with the relevant landowners.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -824,5 +824,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -68,7 +68,7 @@ members
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -138,7 +138,7 @@ Mr. Tobin asked Mrs. Browne if she would attend the next Road Safety Working Tog
 
 next walkability audit with Toby Goodwin, Active Travel.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -206,7 +206,7 @@ In response to Cllr. O’ Donoghue, Mr. O’Leary advised that the costs of proj
 
 through ZEVI and operations and maintenance on the concession contract will be cost neutral to
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -278,7 +278,7 @@ Ms. Carmel Brislane delivered a presentation on the urban development approach t
 
 integrates land uses with access to transport and concentrates housing, employment, and leisure
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -348,7 +348,7 @@ Bike share, bike and e-scooter scheme is to be put in place in 2026 in conjuncti
 
 and we will not lose the TFI bike scheme until a new scheme is in place.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -402,5 +402,5 @@ to 2:15p.m.
 
 This concluded the business of the meeting.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

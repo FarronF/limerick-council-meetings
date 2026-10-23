@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council 25th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2025th%20January%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -98,7 +98,7 @@ Adoption of Minutes
 
 Circulated, copy of draft Minutes of the following Meetings:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ from 1st March, 1928, for the sum of €212.78 (including legal fees), particula
 
 were contained in Statutory Notice dated 6th January, 2016.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ Seconded by Councillor O’Dea;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ On the proposal of Councillor Collins (M), seconded by Councillor O’Hanlon, th
 
 was deferred to the next Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ Partner. Ballyhoura Development Limited and West Limerick Resources Limited woul
 
 acting as Implementing Partners for their respective geographic areas.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ Statutory Audit Reports for the year ended 31st December, 2014.
 
 The position was noted by the Council.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -594,7 +594,7 @@ Seconded by Councillor Teefy;
 
 And Resolved:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ cities committee to develop a protocol on twinning in all Municipal and Metropol
 
 Districts to achieve a co-ordinated approach.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -738,7 +738,7 @@ the 2016 campaign.
 
 The Initiative was noted and welcomed by Members.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -814,7 +814,7 @@ Limited on behalf of Limerick City and County Council. He explained that e-parki
 
 one-stop shop window displaying the parking offering available in Limerick City and County.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -888,7 +888,7 @@ The Mayor welcomed Dr. Kathleen McLoughlin, from Milford Care Centre and
 
 Maynooth University, to the Meeting.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -972,7 +972,7 @@ Seconded by Councillor Byrne;
 
 And Resolved:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1052,7 +1052,7 @@ Limerick: Councillor Sheahan (M).
 
 Edgeworthstown, Co. Longford: Councillor Scanlan.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1122,7 +1122,7 @@ At this point, on the proposal of Cmhlr. Ó Ceallaigh, seconded by Councillor Br
 
 it was agreed to take a 15 minute adjournment in order to discuss the matter further and to
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1206,7 +1206,7 @@ monumental sculptors can be removed from the Council’s Register of
 
 Monumental Sculptors.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1330,7 +1330,7 @@ Council in the last five years due to the poor state of the Council footpaths an
 
 was the total cost to the Council.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1414,7 +1414,7 @@ The Motion was proposed by Councillor Sheahan (J) and seconded by Councillor
 
 Collins (M).
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1490,7 +1490,7 @@ I will move at the next Meeting that this Council extends the Bin Waiver to thos
 
 invalidity pension.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1564,7 +1564,7 @@ The Motion was seconded by Councillor Sheahan (J) and agreed.
 
 It was also agreed to circulate the Motion to all Local Authorities for support.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1644,7 +1644,7 @@ Shannon Estuary similar to the Wild Atlantic Way. Following a short discussion o
 
 the Members stated that they were in support of the proposal. The following was agreed:
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1676,5 +1676,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

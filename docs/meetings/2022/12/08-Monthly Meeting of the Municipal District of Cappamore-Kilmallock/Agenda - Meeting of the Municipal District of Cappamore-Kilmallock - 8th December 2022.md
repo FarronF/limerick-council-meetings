@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 8th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01-Agenda-for-December-2022-MD-Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **2nd** **November 2022.**
 
@@ -54,7 +54,7 @@ Kilmallock held on the 17th November 2022
 
 Relating to the Minutes of the Municipal District Meeting of 17th November 2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -110,7 +110,7 @@ previous motion on traffic issues in Doon, what is the outcome of the traffic su
 
 out there to help with the traffic congestion in Main St, Doon.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -142,5 +142,5 @@ population. “
 
 voids in Cappamore/Kilmallock will actually be returned to use.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

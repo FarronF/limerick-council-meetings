@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 5th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/01-2025-03-05-minutes-march.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Mr. Reid outlined the progress to date on the scheme which includes the followin
 
 Planning Documentation.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agr
 
 allocate €500 to Athea United Football Club.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ A survey to warrant a crossing at this location has been carried out and it has
 
 been submitted to TII for approval and possible funding.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ The project which is the Limerick Greenway Hub at Abbeyfeale has had Part 8 plan
 
 since March 2024, planning reference 24/8000.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -480,7 +480,7 @@ Limerick Greenway use exceeds national recreational walking averages, compared t
 
 national walking data reported in the Irish Sports Monitor.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ Signage has already been erected and further signage has been ordered and
 
 will be in place once delivery has been received.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -630,7 +630,7 @@ provision of a school warden at Templeglantine also take place and that clarific
 
 sought on where funding for the school wardens in Adare and Newcastle West is sourced.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -698,7 +698,7 @@ Engineer stated that ducting for the lights is in place and a costing for the po
 
 shortly.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -770,7 +770,7 @@ also wished the Director well in his new role. In replying, the Director thanked
 
 and colleagues for their kind words.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -790,5 +790,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

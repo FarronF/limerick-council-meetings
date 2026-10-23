@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 18th January 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2018th%20January%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ Proposed by Councillor Collins;
 
 Seconded by Councillor Hourigan;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ achieving the objective of sustainable mixed communities in accordance with
 
 national and local planning policy. Factors to be considered include for e.g.,
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -282,7 +282,7 @@ The pumping station will be handed over to Irish Water upon satisfactory
 
 upgrade under the taking in charge process.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -388,7 +388,7 @@ Limerick City & County Council Fire Authority operates under the Fire Services A
 
 1981 and 2003.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -494,7 +494,7 @@ residential accommodation in the Limerick City & County Council area and this
 
 will continue in 2016.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -580,7 +580,7 @@ when the weather if finer.
 
 set down their proposal for the region.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -666,7 +666,7 @@ day. In total there are in excess of 200 bins in the City, 160 of which get empt
 
 daily.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -752,7 +752,7 @@ resources were exacerbated by the decisions of the Valuation Office on appeals i
 
 relation to commercial Rates.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -844,7 +844,7 @@ Email address :
 
 localrepsupport@water.ie
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -862,5 +862,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

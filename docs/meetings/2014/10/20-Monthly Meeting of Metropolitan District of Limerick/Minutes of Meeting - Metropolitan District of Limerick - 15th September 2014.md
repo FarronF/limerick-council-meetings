@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 15th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/metropolitan_district_of_limerick_-_minutes_of_meeting_-_15th_september_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF
 
@@ -102,7 +102,7 @@ Seconded by Councillor Hourigan;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed,
 
@@ -172,7 +172,7 @@ The Meetings Administrator pointed out that three clear days is laid down in
 
 legislation and could not be changed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 On the proposal of Councillor Prendiville, seconded by Councillor Byrne, it was
 
@@ -244,7 +244,7 @@ As all Members were not in agreement, a Vote was taken which resulted as follows
 
 For
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Councillors Butler, Byrne, Clifford, Collins, Crowley, Daly, Hourigan, Hurley, Leddin,
 
@@ -324,7 +324,7 @@ unanimously agreed to defer making a decision on this matter to allow Councillor
 
 the area to meet with the Planners to discuss the concerns raised and, if necessary,
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 to have a second round of consultations with the residents,the various interested
 
@@ -410,7 +410,7 @@ involved in the construction of this estate, M.A. Ryan & Sons and
 
 Castlelands Construction. Both have requested that their portion of the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 estate be taken in charge. A snag list has been issued to M.A. Ryan &
 
@@ -504,7 +504,7 @@ The Metropolitan District of Limerick move that Irish Water immediately provide 
 
 drinking water for all its customers in Limerick, residential, commercial and
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 agricultural, and that Limerick City and County Council produce a detailed report on
 
@@ -588,7 +588,7 @@ agreed.
 
 ***agreed that the commitment given by a previous Director in 2005 to the***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 ***residents of 26 – 38, New Road, Thomondgate, be fulfilled and these***
 
@@ -680,7 +680,7 @@ date no response to this application for funding has been received from
 
 Government.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Limerick City and County Council has carried out repairs to damaged
 
@@ -766,7 +766,7 @@ The Motion was proposed by Councillor Leddin and seconded by Councillor Daly.
 
 ***each day;***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 •
 
@@ -868,7 +868,7 @@ These changes will need the support and agreement of the business
 
 community, many of whom continue to get deliveries well into the
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 afternoon, so each loading bay will have to be looked at on a business
 
@@ -952,7 +952,7 @@ the quay wall, near the skateboard park up to the Clarion Hotel (4
 
 lifebuoys) and at the Seaman’s Memorial Park (1 lifebuoy in the park).
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 There have been numerous emergency calls to the river for rescues at
 
@@ -1042,7 +1042,7 @@ The Meetings Administrator agreed to circulate a copy of the Reply to Members.
 
 ***Israel;***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 •
 
@@ -1092,12 +1092,12 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 16th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/minutes-of-16th-september-municipal-district-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -74,7 +74,7 @@ to corresponding to the Minister for Housing, Local Government and Heritage, Dar
 
 O'Brien.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **(ii)**
 
@@ -138,7 +138,7 @@ consideration.
 
 **Seconded by: Councillor Donegan**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 4. Notice of Motion submitted by Councillor Teefy
 
@@ -202,7 +202,7 @@ support farmers and the local economy.
 
 **Main Council meeting for inclusion.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 7. Notice of Motion submitted by Councillor M Ryan
 
@@ -262,7 +262,7 @@ on progress of the Beary’s Cross/N24 junction.
 
 **Reply:**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Subsequent to the previous update in March 2021, the Compulsory Purchase Order (CPO),
 
@@ -330,7 +330,7 @@ in Kilglass with the barrier and also in Galbally with the fencing at the Commun
 
 The work undertaken by the Active Travel scheme was also acknowledged.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **October JPC Meeting**
 
@@ -402,7 +402,7 @@ the respective organisations to the Meetings Administrator as follows:
 
 *have withdrawn from the Meeting***.”**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **Covid Restrictions**
 
@@ -476,7 +476,7 @@ Administrator would correspond with the O’Malley family on behalf of the Elect
 
 Members to acknowledge Mr O’Malley’s service in politics to the Limerick People.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
  The family of PJ Garvey, late of Hospital-Herbertstown GAA and former Dual Inter
 
@@ -512,5 +512,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

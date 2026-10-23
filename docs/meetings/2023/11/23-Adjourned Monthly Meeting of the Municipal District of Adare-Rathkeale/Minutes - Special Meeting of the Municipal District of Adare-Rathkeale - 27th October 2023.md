@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 27th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-c-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-27th-October-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ use vehicles with Limerick City and County Council logo on them and added the pu
 
 need to be advised of the distinction going forward.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Councillor Keary requested a schedule of works for the Foynes Shannon Estuary
 
@@ -170,7 +170,7 @@ to request Uisce Éireann to attend this meeting”. This was seconded by Counci
 
 Collins and agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 This concluded the Meeting.
 
@@ -184,5 +184,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

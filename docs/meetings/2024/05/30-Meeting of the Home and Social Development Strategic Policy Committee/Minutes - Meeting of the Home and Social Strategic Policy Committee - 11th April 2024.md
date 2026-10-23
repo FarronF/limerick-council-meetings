@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 11th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-meeting-of-the-home-and-social-strategic-policy-committee-11th-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -98,7 +98,7 @@ McElligott.
 
 **Seconded:** Cllr. Sharon Benson
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Mr. Kidney answered that LCCC are in the process of tendering the stock conditio
 
 moment.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ on the area of the wall itself, there are different rates and everything should 
 
 rate.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ or with the AHB sector. Target 60% New build by LCCC and 40% New build with priv
 
 developers.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,5 +388,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

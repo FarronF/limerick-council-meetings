@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 24th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-a-minutes-ordinary-meeting-24.01.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ had passed away due to Covid during the pandemic of the past two years.
 
 A minute’s silence was observed as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ acres) at Long’s Lane, Limerick, to The Absolute Hotel Limerick Ltd., for the 
 
 particulars of which were contained in Statutory Notice dated 11th January, 2022.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -500,7 +500,7 @@ Statutory Audit Report for year ended 31st December, 2020, for Limerick City and
 
 Council; (ii) Limerick City and County Council Audited Annual Financial Statement for the Year
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -594,7 +594,7 @@ inviting the Mayor and a delegation to attend and participate in the Annual St. 
 
 Day Parade in New York City, USA.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -672,7 +672,7 @@ Seconded by Councillor Teskey;
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -746,7 +746,7 @@ Policy Committee dated 15th December, 2021, in relation to Meeting of the Commit
 
 held on 15th December, 2021, together with a copy of the Homeless Policy Document.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,7 +816,7 @@ Other Members noted that no concerns had been raised previously at various SPC M
 
 in relation to the Draft Development Contribution Scheme 2022-2026 as proposed, and that
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -892,7 +892,7 @@ weeks of receipt of the application by the Board and there was a requirement for
 
 to be firstly submitted to the Elected Members. The Council was required to note and
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -964,7 +964,7 @@ Seconded by Councillor Collins (M):
 
 And Resolved:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1036,7 +1036,7 @@ ADJOURNED NOTICE OF MOTION
 
 ***energy usage, in line with Government climate action policy.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1116,7 +1116,7 @@ Replies to the following Questions on the agenda were circulated to all Members 
 
 to the Meeting and the Questions were therefore considered as having been dealt with:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1242,7 +1242,7 @@ The figures for the Chief Executive’s Report from October to December:
 
  2,109 in December 2021 (up 35)
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1320,7 +1320,7 @@ in the Property and Community Facilities Department of the Community,
 
 Tourism and Culture Directorate.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1402,7 +1402,7 @@ Question submitted by Councillor J. Costelloe
 
 ***Limerick).***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1490,7 +1490,7 @@ the Consultants will commence development of planning level design and
 
 preparation of the Environmental Impact Assessment Report ahead of lodging
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1568,7 +1568,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 ***with responsibility for our rivers and lakes.***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1644,7 +1644,7 @@ Councils, and asking if the Council would be agreeable to writing jointly to Iri
 
 regard. This was agreed.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1740,7 +1740,7 @@ He also confirmed that remedial actions to resolve the issues had already commen
 
 involving a team including the Head of Digital Services, the Data Protection Officer,
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1836,7 +1836,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint for inspection by the Members.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1850,5 +1850,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\
 
 **Mayor**
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

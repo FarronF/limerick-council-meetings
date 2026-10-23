@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 9th March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-draft-minutes-ordinary-meeting-9th-march-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -98,7 +98,7 @@ House Community Enterprise CLG and the intention to bring a Section 183 Notice t
 
 March Meeting of Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ report.
 
 Members welcomed the proposed development and queried the time frame of the development.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ accommodation within 10 minutes walk of the City. Presently the canal is underut
 
  Concerns in relation to number of storeys in terms of height.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ address (not personal details) that has been allocated. Individual house numbers
 
 are not issued in this notification. This process was developed in the interest of
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -440,7 +440,7 @@ The short-term letting regulations requires a person who is letting a second pro
 
 planning permission for change of use. The Council has received 3 planning
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -526,7 +526,7 @@ of non compliance with parking regulations cannot be presented by Limerick City
 
 and County Council before the Courts to enable prosecution.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -614,7 +614,7 @@ Business, Enterprise and Innovation to intervene in order to prevent the propose
 
 Raheen. This Motion was seconded by Councillor O’Donovan and agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -682,5 +682,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

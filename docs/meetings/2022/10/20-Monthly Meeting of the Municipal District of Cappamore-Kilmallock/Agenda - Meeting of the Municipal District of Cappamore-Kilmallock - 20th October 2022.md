@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 20th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%20Agenda%20for%20October%202022%20Municipal%20District%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **14th** **October 2022.**
 
@@ -54,7 +54,7 @@ Kilmallock held on the 21st September 2022
 
 Relating to the Minutes of the Municipal District Meeting of 21st September 2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -102,7 +102,7 @@ on Limerick City and County Council to carry out necessary safety improvements a
 
 junction of Emmett Street and Gerard Road, Kilmallock.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -132,5 +132,5 @@ we expect a reply in relation to the funding application submitted to the Depart
 
 Rural and Community Development to upgrade the building.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meting of the Home and Social Development SPC - 23rd April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda-for-Home-and-Social-Development-SPC-for-meeting-23-04-2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **17/04/2019**
 
@@ -72,5 +72,5 @@ poor condition and close proximity to the Medieval Quarter.
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

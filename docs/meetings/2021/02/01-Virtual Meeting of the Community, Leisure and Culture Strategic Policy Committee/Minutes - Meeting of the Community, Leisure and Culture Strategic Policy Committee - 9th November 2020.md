@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 9th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-9th-of-november-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,7 +70,7 @@ committee meeting held on the 7" September, 2020 were adopted.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -124,7 +124,7 @@ ambitions, which focus on:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -173,7 +173,7 @@ Limerick as an Autism-friendly City & County”
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -210,5 +210,5 @@ Minutes Signed By Chair: Yoasgn OA cules. pate: lato;
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

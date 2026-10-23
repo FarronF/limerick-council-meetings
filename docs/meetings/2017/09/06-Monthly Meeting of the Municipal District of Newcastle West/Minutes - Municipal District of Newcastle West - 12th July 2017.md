@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West - 12th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%202017-07-12%20Minutes%20July.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Application process under the following headings:
 
 • Application Fee and Interest Rates.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ property. In all such cases the tenants are advised, at the outset, of the timel
 
 when the unit will be ready for occupation. Examples of such allocations would
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ Grants Scheme 2017 stated that 28 applications had been received of which 27 wer
 
 and 10 were recommended for funding as follows:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -512,7 +512,7 @@ with the LCDC recommendation will then be submitted to the Municipal District Co
 
 who will make the final decision on project approval taking into consideration the LCDC
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -596,7 +596,7 @@ solution and works will be carried out in August.
 
 (a) Church Street, Newcastle West - Safety measures will be considered at this
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -664,5 +664,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

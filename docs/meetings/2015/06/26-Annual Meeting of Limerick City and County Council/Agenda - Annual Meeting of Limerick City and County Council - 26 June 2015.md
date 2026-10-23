@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 26 June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026%20June%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,5 +70,5 @@ Market Trustees.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

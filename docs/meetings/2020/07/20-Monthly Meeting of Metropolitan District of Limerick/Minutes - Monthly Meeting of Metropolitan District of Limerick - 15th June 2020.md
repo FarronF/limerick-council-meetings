@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01a-draft-minutes-monthly-meeting-15th-june-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ bring a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ at Milford Grange, Kilbane and Castletroy Heights
 
 €100,000 Construction of Patrickswell Community Centre
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ proposed development to Members. He also outlined that the pre-planning process 
 
 completed in full. Mr. Duclot stated that all amendments and observations will be taken on board
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ Restoration Improvement Scheme.
 
 **REPLY*:*** There are two dog wardens employed by Limerick City and County Council who cover all
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ currently there is Covid-19 / isolation housing accommodation by the HSE on the 
 
 ***development of the city.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ years, and within the resources available collect street clean-up material provi
 
 is advised.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ resources accordingly.
 
 The motion was proposed by Councillor Hartigan, seconded by Councillor Benson and agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -636,7 +636,7 @@ Strategic Policy Committee.
 
 ***parameters of the procurement process, while still achieving value for money.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -716,7 +716,7 @@ be removed from Shannon Group and transferred to The Office of Public Works and 
 
 that the Minister for Culture, Heritage and the Gaeltacht be written to on the matter.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -794,7 +794,7 @@ tourism and hospitality sector should pay adequate wages to all workers includin
 
 workers.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -848,5 +848,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

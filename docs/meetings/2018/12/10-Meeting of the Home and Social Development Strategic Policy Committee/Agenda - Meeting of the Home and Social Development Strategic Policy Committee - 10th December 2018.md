@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 10th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Agenda%2010.12.2018%20-%20Revised.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **06/12/2018**
 
@@ -66,5 +66,5 @@ payments be introduced that will apply to all tenants of the Joint Authority fro
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

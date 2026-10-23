@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Meeting of the Municipal District of Adare-Rathkeale - 16th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28d%29%20Minutes%2016th%20October%2C%202018%20Draft%20Budgetary%20Plan%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE MUNICIPAL**
 
@@ -110,7 +110,7 @@ Special Projects – LA Infrastructure
 
 **€ 225,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,5 +146,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Adare-Rathkeale - 13th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%20Minutes%20Monthly%20Meeting%2013th%20June%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -88,7 +88,7 @@ It was noted that the Facilitators report on Christmas in Rathkeale was to be co
 
 Management Team.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ and noted that work was ongoing with the Derelict Sites Department to identify p
 
 that might benefit from the scheme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ to control or eliminate the range of invasive plants and members thanked her for
 
 informative presentation.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ House. The report, as circulated was noted by Members.
 
 This work has been scheduled for the 8th June, 2017.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -384,7 +384,7 @@ regarding road safety in Shanagolden that expressed concerns in relation to the 
 
 and trucks passing through the square.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -462,5 +462,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

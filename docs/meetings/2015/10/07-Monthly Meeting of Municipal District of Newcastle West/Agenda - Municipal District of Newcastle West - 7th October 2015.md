@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Newcastle West - 7th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20October%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,7 +79,7 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -143,7 +143,7 @@ opposite the old entrance to the Rugby Club.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -171,5 +171,5 @@ provision of new Christmas lights for Newcastle West town.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

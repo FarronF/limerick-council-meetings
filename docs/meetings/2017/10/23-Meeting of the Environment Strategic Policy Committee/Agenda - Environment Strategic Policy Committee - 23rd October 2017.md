@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Environment Strategic Policy Committee - 23rd October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2023rd%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **17th** **October, 2017**
 
@@ -45,7 +45,7 @@ held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 23rd October, 2
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -95,5 +95,5 @@ prosecution, and the need to make it accountable to the Ombudsman”.
 
 **Areas for Action** **–** **Ms. Anne Goggin**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

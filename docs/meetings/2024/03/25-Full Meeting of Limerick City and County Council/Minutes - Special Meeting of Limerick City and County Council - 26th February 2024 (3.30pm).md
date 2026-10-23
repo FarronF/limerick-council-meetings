@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 26th February 2024 (3.30pm).pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-citya-nd-county-council-26.02.2024-3.30-pm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
@@ -88,7 +88,7 @@ City, while others pointed out that a lot of money was allocated to rural areas,
 
 Limerick Greenway and they felt the allocation was fair and appropriate.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 During discussions, Members called on the Director for Transportation and Mobility to give an
 
@@ -152,5 +152,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 13th Feb 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2013th%20Feb%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -106,7 +106,7 @@ was listed, under standing orders the motion cannot be deferred and will need to
 
 *compensation when building works impact on revenue.”*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 While the motion was broadly welcomed, Councillors urged caution on the introduction of
 
@@ -198,7 +198,7 @@ in waters over 100m deep, where traditional fixed bottom turbine foundations wou
 
 uneconomical.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ms Gleeson outlined the economic opportunity, which this project presents, and the job and supply
 
@@ -260,5 +260,5 @@ No other issues were raised.
 
 **Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

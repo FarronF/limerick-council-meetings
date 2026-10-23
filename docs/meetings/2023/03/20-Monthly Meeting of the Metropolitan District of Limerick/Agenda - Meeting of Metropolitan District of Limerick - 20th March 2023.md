@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20March%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -97,7 +97,7 @@ on 20th February, 2023.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -161,7 +161,7 @@ Street, Limerick.
 
 (Reports Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -219,7 +219,7 @@ work will commence on Father Russell Road and South Circular Road Active Travel 
 
 when detailed design will be brought to Limerick City West Councillors for input.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -279,7 +279,7 @@ I will move at the next Meeting of the Metropolitan District of Limerick that th
 
 for the children’s playground at The People’s Park are commenced without delay.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -287,5 +287,5 @@ for the children’s playground at The People’s Park are commenced without del
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

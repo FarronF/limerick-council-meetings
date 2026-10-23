@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 8th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -100,7 +100,7 @@ www.limerick.ie if
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Templeglantine (c) Devon Road Cross, Templeglantine.
 
 I will ask at the next Meeting for an update on the housing development at Mountcoilins.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,5 +264,5 @@ over dereliction to do whatever is necessary to bring the two derelict commercia
 
 Ardmoyle estate, Carrigkerry into use either as commercial or residential.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18 July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18-july-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -78,7 +78,7 @@ Cappamore-Kilmallock regarding Athenacy held on 16th May 2024.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **(i)**
 
@@ -134,7 +134,7 @@ The Senior Engineer for Strategy and Non LA Housing also provided an update for 
 
 Elected Members on other developments in the area including:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  Construction commenced on units in Kilfinane in Easter
 
@@ -192,7 +192,7 @@ Municipal District, initially to discuss the new LCSP initiative.
 
 See attached correspondence and agreed response from Elected Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 NOTICES OF MOTION
 
@@ -252,7 +252,7 @@ be appointed within 6 weeks with works to be completed by the end of the year, a
 
 Boil Water Notice is subsequently expected to be lifted. Following this, we expect the Taken
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 in Charge process to progress. Further information will be available in the Rural Water
 
@@ -302,7 +302,7 @@ Housing Support Services team are aware of the situation and have been in contac
 
 tenants with a view to finding a solution.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 10.
 
@@ -360,7 +360,7 @@ double yellow lines causing major road blockages at times. These were removed du
 
 road resurfacing last year and not replaced.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **REPLY :**
 
@@ -414,5 +414,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

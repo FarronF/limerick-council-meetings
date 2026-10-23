@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Adjourned Meeting - Municipal District of Cappamore-Kilmallock - 25th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2025th%20February%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ The following issues were raised :
 
  Drake’s Cross and Malone’s Crossroads required signage.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ Pedestrian Bridge and Ancillary Works at Northbridge, Kilmallock which had been 
 
 accordance with Section 179 3(a) of the Planning and Development Act 2000-2015, and Part 8
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ On the proposal of Councillor O’Donnell, seconded by Councillor Ryan, it was a
 
 March Meeting would be held on Friday, 11th March, 2016.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ factors associated with any proposed change on such a heavily trafficked road
 
 are being given careful consideration by the Consultants, both with regard to
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,5 +408,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

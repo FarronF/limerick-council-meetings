@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 9th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%202019-01-09%20Minutes%20January.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Galvin, it was agr
 
 allocate €1,000 to Glin Men’s Shed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -298,7 +298,7 @@ Question submitted by Councillor L. Galvin
 
 ***Abbeyfeale, Athea, Mountcollins, Tournafulla and Templeglantine will be occupied.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -378,7 +378,7 @@ Question submitted by Councillor J. Scanlan
 
 ***the Newcastle West Municipal District.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -452,7 +452,7 @@ Question submitted by Councillor Galvin
 
 ***Naofa, Abbeyfeale.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -538,7 +538,7 @@ Clear access paths/cut back excess shrubbery or remove shrubs.
 
 Lawns near entrance gate- both sides to be topsoiled where required.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -624,7 +624,7 @@ detached) siding onto rear of houses 6 & 7 Foxfield and fronting onto house
 
 15 Ashgrove.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -692,7 +692,7 @@ Authority within 3 months after completion of the development or within 3
 
 months of work commencing on a subsequent phase:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -772,7 +772,7 @@ A discussion took place on pedestrian crossings and the funding required for sam
 
 Members queried if funding would be available from Development Levy monies but the
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -850,7 +850,7 @@ result in a cost of €18,580 per house to bring a footpath out this road.
 
 Therefore based on the above, this project is a cost prohibitive project.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -922,7 +922,7 @@ the school. The Members agreed to the attendance of a delegation at the February
 
 of the District.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -942,5 +942,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

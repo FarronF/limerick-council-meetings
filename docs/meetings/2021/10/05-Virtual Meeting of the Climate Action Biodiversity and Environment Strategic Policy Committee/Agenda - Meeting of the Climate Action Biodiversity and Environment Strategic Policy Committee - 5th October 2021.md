@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 5th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20210920-agenda-cabe-spc.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -48,7 +48,7 @@ The business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -108,5 +108,5 @@ City and County Council and that of our own staff members also, given the possib
 
 health implications of its use on wildlife, domestic pets and people.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

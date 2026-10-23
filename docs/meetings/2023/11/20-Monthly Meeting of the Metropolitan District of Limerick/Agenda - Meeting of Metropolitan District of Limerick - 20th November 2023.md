@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 20th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/00-Agenda-Meeting-of-Metropolitan-District-of-Limerick-20th-November-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -101,7 +101,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -179,7 +179,7 @@ areas, how many front and back doors have been installed:
 
 (c) In 2023.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -253,7 +253,7 @@ phase of the public realm upgrade of O'Connell Street and if funding has been se
 
 EU or Nationally.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -315,7 +315,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick:
 
 the sale.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -383,7 +383,7 @@ funds applied for, and drawn down, by Limerick City and County Council from the 
 
 Tourism, Culture, Arts, Gaeltacht, Sport and Media for the six years of 2018 to 2023 inclusive.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -451,7 +451,7 @@ I will move at the next Meeting of the Metropolitan District of Limerick that an
 
 by the relevant Director regarding the progress on the acquisition of the Markets Field.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -525,5 +525,5 @@ education buildings to open beyond pre-school hours.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

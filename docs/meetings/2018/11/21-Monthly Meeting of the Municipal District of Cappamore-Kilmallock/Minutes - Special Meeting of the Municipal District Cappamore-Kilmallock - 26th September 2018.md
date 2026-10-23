@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District Cappamore-Kilmallock - 26th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/02%20Minutes%20of%2026th%20Sept%20Special%20Meeting%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -68,7 +68,7 @@ commercial business.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -111,5 +111,5 @@ Date:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 27th May, 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/01-b-draft-minutes-of-special-meeting-27th-may-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ addressed. The Senior Executive Officer, Strategy and Non LA Housing Constructio
 
 advised the scheme is required to be taken in charge and the developer will be
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 responsible for making the entrance safe in accordance with the conditions of the
 
@@ -140,5 +140,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 20th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-20th-may-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,5 +66,5 @@ Senior Executive Scientist, Environment and Climate Action.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

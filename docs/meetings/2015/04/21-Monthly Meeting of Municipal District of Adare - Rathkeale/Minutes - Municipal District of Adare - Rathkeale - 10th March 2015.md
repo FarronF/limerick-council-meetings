@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Adare - Rathkeale - 10th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/02_minutes_10th_march_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
@@ -98,7 +98,7 @@ was recommended that the Adare Local Area Plan 2015-2021 be made in accordance w
 
 the Chief Executive‟s Report dated 29th January, 2015.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -192,7 +192,7 @@ amendments –
 
 the lands adjoining Station Road; there would be no impact on the core strategy as phase
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -278,7 +278,7 @@ the development of smaller sites at Askeaton could be included as part of the Mi
 
 Action Plan.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -366,7 +366,7 @@ dated 10th February, 2015 and associated application form and guidelines for Bus
 
 and Retail Incentives Scheme for Vacant Properties Grant.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -450,7 +450,7 @@ Members were informed that a request to receive a deputation had been received f
 
 Croom Parish Sporting and Education Group. On the proposal of Councillor Neville,
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -530,7 +530,7 @@ inspection of the Ballyvareen sewerage system. However, there are further
 
 investigations to be carried out on the sewer network. I confirm that the bond
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -612,7 +612,7 @@ Question submitted by Councillor Stephen Keary
 
 ***I will ask at the next Meeting that a representative from the Office of Public***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -704,7 +704,7 @@ location would have to traverse the existing town park and the impact on the
 
 amenity of this would have to be assessed further.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -778,7 +778,7 @@ assessment to determine what remedial action may be required at the above
 
 location.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -864,7 +864,7 @@ Roads Engineer will write to IE requesting a meeting to discuss the matter.
 
 The following items were raised by Members at the completion of the Agenda.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -906,5 +906,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

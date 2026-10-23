@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 26th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%2026.09.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -100,7 +100,7 @@ PowerPoint presentation on the Shannon Estuary Economic Taskforce and outlined t
 
 membership and composition of the Taskforce.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ PowerPoint presentation update on the Land Development Agency to the Members. Th
 
 presentation outlined how the Land Development Agency had a current staffing compliment
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ facilitate wider regeneration;
 
 delivery of compact affordable housing delivery.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 Avenue, Mulgrave Street, Limerick, to Elaine Duffy (Nee Devane), for the sum of €195.42, the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 property (0.031 acres) at 6 and 7 Gerard Street, Limerick, to Kevin Finucane, for the sum of
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -514,7 +514,7 @@ of land at Ballyanrahan, Patrickswell, Co. Limerick, to Mr. Billy Mann, for the 
 
 subject to the purchaser being liable for legal and other costs that may arise from the disposal
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -600,7 +600,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 48, Bengal Terrace, Kilmallock Road, Limerick, to Novas Ireland, for the sum of €130,000,
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -682,7 +682,7 @@ subject to the covenants and conditions contained within the contract, particula
 
 were contained in Statutory Notice dated 16th September, 2022.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -758,7 +758,7 @@ subject to the covenants and conditions contained within the contract, particula
 
 were contained in Statutory Notice dated 16th September, 2022.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -842,7 +842,7 @@ revised bank overdraft accommodation in the sum of €57m for the 12-month perio
 
 December, 2023.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -918,7 +918,7 @@ assistance from Adare Community Council towards a twinning initiative with Bucko
 
 Germany.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1000,7 +1000,7 @@ City and County of Limerick to Amsterdam, the Netherlands, from 9th to 11th Octo
 
 to attend the Bloomberg CityLab Summit.”
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1088,7 +1088,7 @@ year lease gave Troy an option to purchase the property for a price that would c
 
 purchase and infrastructural support costs. The former Factory has an overall footprint of
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1182,7 +1182,7 @@ rates and in the current climate, this would guarantee the best rate in lieu of 
 
 market place for a new loan. The balance of the funding for the above schemes for 2022
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1266,7 +1266,7 @@ The following variation to the proposed Part 8 was proposed by Councillor Sheaha
 
 seconded by Councillor Teskey:
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1344,7 +1344,7 @@ approval to recommended allocations from the Assessment Panel under the Individu
 
 Bursary Awards Scheme 2022.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1422,7 +1422,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1504,7 +1504,7 @@ Question submitted by Councillor J. Sheahan
 
 **‘Active Farmer’ in the context of the Local Improvement Scheme.**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1592,7 +1592,7 @@ approx. 62 no. staff collectively. They endeavour to employ further local
 
 experienced/skilled labour as the need arises.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1694,7 +1694,7 @@ Parking on a footpath, a grass margin or a median strip is prohibited by Section
 
 City and County Council’s Traffic Wardens have the authority to issue Fixed
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1778,7 +1778,7 @@ project e.g. a herd/flock number and a copy of the maps associated with their
 
 Basic Payment Scheme application provided by the Department of Agriculture,
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1862,7 +1862,7 @@ Metropolitan District)
 
 It was agreed to refer this Motion to the Metropolitan District for consideration.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1934,7 +1934,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint for inspection by the Members.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1954,5 +1954,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

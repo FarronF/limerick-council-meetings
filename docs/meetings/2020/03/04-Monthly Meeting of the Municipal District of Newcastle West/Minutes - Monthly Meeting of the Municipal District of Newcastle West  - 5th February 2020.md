@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West  - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-03/01-2020-02-05-minutes-february.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ Members welcomed the report and referred to the importance of progressing the Di
 
 Roads for Newcastle West and Abbeyfeale. The Members also referred to matters including
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ agreement.
 
 Councillor Galvin noted the response and requested a timeframe for the completion of the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ stated that a Meeting will be arranged with the Park Committee to discuss the va
 
 streams which may be available for upgrade works in the park.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ REPLY:
 
 Thank you for your recent communications.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -418,7 +418,7 @@ units)
 
 15. Raheenagh – not an Irish Water agglomeration.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,7 +496,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 ***Grove, Templeglantine.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -570,7 +570,7 @@ within the District for the next five years. It was agreed that a date would be 
 
 March to discuss this matter.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -596,5 +596,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

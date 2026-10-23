@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick - 15th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-Draft-Minutes-Monthly-Meeting-of-the-Metropolitan-District-of-Limerick-15th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ Mulcair Drive Residents Association
 
 **€500**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -342,7 +342,7 @@ nominated groups to provide evidence of expenditure in advance. Members noted th
 
 would assist nominated groups and speed up the process for them.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -496,7 +496,7 @@ Thomondgate Residents Association
 
 **LIMERICK CITY WEST**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -596,7 +596,7 @@ The report, as circulated, was noted by the Elected Members.
 
 **7.Question submitted by Councillor S. Hartigan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -656,7 +656,7 @@ Budgets for the maintenance of these areas will be further reviewed in 2024.
 
 map are deemed to be serviced or serviceable. The total area is 36.68 ha.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -714,7 +714,7 @@ Enforcement Notice Served
 
 (Image omitted)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -802,7 +802,7 @@ Additionally, recipients must provide the Regeneration Directorate with a Progre
 
 and an Expenditure Report to receive their final tranche funding.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -878,7 +878,7 @@ appointment and Phase A in 2023 and Phase B and C in 2024.
 
 **16.Question submitted by Councillor J. Leddin**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -948,7 +948,7 @@ Government and Heritage (DHLGH) in the next two weeks.
 
 **Bonfire Night Clean-ups**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1036,7 +1036,7 @@ are estimated to be completed in Q4 2023 and 2 units are estimated to be complet
 
 **23.Question submitted by Councillor C. Slattery**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1114,7 +1114,7 @@ It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity
 
 Strategic Policy Committee.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1190,7 +1190,7 @@ The Notice of Motion was proposed by Councillor McSweeney, seconded by Councillo
 
 agreed.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1262,7 +1262,7 @@ In proposing the Motion, Councillor Kiely highlighted the difficulties for users
 
 when cars were parked on the lanes and blocking entrances.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1340,7 +1340,7 @@ any waste in a bonfire, backyard fire, stove or indoor grate is illegal and dang
 
 should not be undertaken by any person.  Limerick City and County Council will undertake
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1368,5 +1368,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

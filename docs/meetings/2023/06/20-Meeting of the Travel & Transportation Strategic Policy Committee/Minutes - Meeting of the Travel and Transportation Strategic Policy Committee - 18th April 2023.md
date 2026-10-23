@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 18th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Minutes-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-18th-April-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -74,7 +74,7 @@ Limerick.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ group and added that she had received a number of concerns from the public with 
 
 junction of Bedford Row and Thomas Street. There were also concerns raised by Dóchas Autism
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ The chair thanked Mr. Walker and the NTA for the presentation and opened the flo
 
 questions.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,7 +298,7 @@ The Chair thanked the NTA and Jarrett Walker & Associates for the Presentation a
 
 there was a lot of useful information discussed. She wished the best of luck with the submissions.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -332,5 +332,5 @@ The Chair thanked the presenters and members for their contribution. The meeting
 
 concluded.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

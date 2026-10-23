@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/20250313-minutes-cabe-spc.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and Environment
 
@@ -60,7 +60,7 @@ Mr. Conor McDonagh (Senior Executive Engineer)
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 
 
@@ -144,7 +144,7 @@ Cemeteries Capital (e.g. Development of new cemeteries, existing cemeteries incl
 
 Columbarium walls and management of Ancient Structures in cemeteries).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 
 
@@ -242,7 +242,7 @@ sanctioning sculptors nationally. A Graveyard Strategy for Limerick City and Cou
 
 drafted and will be published this year.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Tree planting – Members discussed tree planting in general and the LCCC Tree Planting Policy. Cllr.
 
@@ -318,7 +318,7 @@ refuse collection scheme be piloted in illegal dumping hot-spots in the city inc
 
 Ballinacurra Weston, Lenihan Avenue, Coonagh/Clondrinagh, Johnsgate and Kilmallock Road.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Response:
 
@@ -368,5 +368,5 @@ Cllr Joe Leddin
 
 Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

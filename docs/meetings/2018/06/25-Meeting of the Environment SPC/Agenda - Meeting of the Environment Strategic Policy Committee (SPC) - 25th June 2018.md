@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Environment Strategic Policy Committee (SPC) - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/25th%20June%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **20th** **June 2018**
 
@@ -49,7 +49,7 @@ appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -77,5 +77,5 @@ held on 26th February 2018.
 
 6. **Discussion in relation to the Eradication of Japanese Knotweed**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

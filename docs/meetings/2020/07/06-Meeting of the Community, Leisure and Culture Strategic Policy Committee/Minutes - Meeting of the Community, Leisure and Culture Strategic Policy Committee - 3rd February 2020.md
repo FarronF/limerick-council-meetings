@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 3rd February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/meeting-minutes-of-the-community-leisure-and-culture-strategic-policy-committee-3rd-february-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -71,7 +71,7 @@ committee meeting held on the 14" November, 2019 were unanimously adopted.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -122,7 +122,7 @@ highlighted key achievements in 2019 including SICAP Audit requirements and the 
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -173,7 +173,7 @@ at the meeting.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -195,5 +195,5 @@ Minutes Signed By Chair:
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

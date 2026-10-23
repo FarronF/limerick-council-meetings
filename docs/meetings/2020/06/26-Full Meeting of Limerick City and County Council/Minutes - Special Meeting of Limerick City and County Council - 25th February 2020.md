@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 25th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01-c-minutes-special-meeting-25.02.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ also confirmed that all the required documentation in relation to the co-option 
 
 received and was in order.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,7 +150,7 @@ the nomination. Councillor Novak thanked her family for their support and looked
 
 to working with the Elected Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -220,7 +220,7 @@ Circulated, report of the Meetings Administrator dated 18th February, 2020, in r
 
 to the filling of vacancies on other Bodies.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,5 +298,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 3rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Minutes-Joint-Policing-Committee-Meeting-3rd-March-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -114,7 +114,7 @@ good structure is now in place. He confirmed that many meetings have taken place
 
 of the organisations Councillor Keary referred to and stressed the importance that the Chairperson of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 this group is a non-political person. He also confirmed that a joint collaboration report would be going
 
@@ -190,7 +190,7 @@ He added that this is also an issue in Southill and pointed out that some people
 
 bikes and e scooters responsibly and participate in anti-social behaviour. The noise from these bikes are
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 causing a problem for people working from home. He stated that there are children as young as four or
 
@@ -270,7 +270,7 @@ thanked them for their dedicated service. He pointed out that there are a lot of
 
 rural roads some of whom have dogs so it is important that people are educated about the dangers of
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 walking the roads and that cyclists be made aware also. He asked that this message go out to rural
 
@@ -350,7 +350,7 @@ county – 121 in Northside of the city, 122 in the Southside, 22 on Canal and R
 
 hinterland.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 The Chairman thanked Mr. Dooley on his work to date in relation to CCTV and for his detailed
 
@@ -432,7 +432,7 @@ criminal investigation before Gardaí can request CCTV footage.
 
 There was no correspondence
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **10.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D. :**
 
@@ -570,7 +570,7 @@ services results in the overall reduction in drug use, sale and supply of drugs,
 
 behaviour.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Community Engagement Limerick City North also provides information to relevant persons via a Drug
 
@@ -648,7 +648,7 @@ March.
 
 **2023)**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 ***“We will move at the next Meeting that Limerick City and County Council write to An Garda Síochána***
 
@@ -704,5 +704,5 @@ caller’s name and address.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

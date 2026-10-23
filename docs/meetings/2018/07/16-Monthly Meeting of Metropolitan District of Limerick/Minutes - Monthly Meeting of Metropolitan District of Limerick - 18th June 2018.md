@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01a%20Minutes%2018th%20June%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -90,7 +90,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Dr. Fitzgerald responded to the points made and welcomed the support from the Me
 
 Mayor thanked Dr. Fitzgerald for his comprehensive address.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ Ministerial approval received.
 
 Funding under Project Ireland 2040 National Development Plan.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ place at planning stage.
 
 • Shannonvale, Old Cratloe Road should be included in Plan.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -428,7 +428,7 @@ Members welcomed the proposed development and requested that a 2.4 metre boundar
 
 would be part of the scheme.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -514,7 +514,7 @@ commencing the Limerick Transport Strategy this Summer and as the R445 is a
 
 major access route to the City Centre, this study will also examine the R445 in its
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -624,7 +624,7 @@ breakdown between HAP and RAS properties.
 
 **Inspections 1.1.18**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -718,7 +718,7 @@ interested stakeholders and the general public. At all times the views of the El
 
 Members have been respected and changes made as a result of the various
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -802,7 +802,7 @@ Limerick City and County Council and the National Transport Authority are
 
 commencing the Limerick Transport Strategy this Summer, and as the R445 is a
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -868,5 +868,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

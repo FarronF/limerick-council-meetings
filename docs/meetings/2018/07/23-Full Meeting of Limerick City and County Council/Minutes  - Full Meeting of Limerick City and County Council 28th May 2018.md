@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Full Meeting of Limerick City and County Council 28th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28a%29%20Minutes%20May%20Council%20Meeting%20280518.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -104,7 +104,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ Circulated, copy of Statutory Notice dated 1st May, 2018, concerning disposal of
 
 freehold interest in property at Thomastown, Kilfinane, Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -270,7 +270,7 @@ to be by way of Deed of Conveyance of the interest of Limerick City and County C
 
 the property, particulars of which were contained in Statutory Notice dated 8th May, 2018.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ Seconded by Councillor Daly;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ Seconded by Councillor Daly;
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -512,7 +512,7 @@ Circulated, report of the A/Senior Executive Officer, Corporate Services, dated 
 
 May, 2018, together with draft Annual Report 2017.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ Development Strategic Policy Committee arising from the resignation of Ms. Carol
 
 Kelleher from the Committee.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ Seconded by Councillor Hourigan;
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -740,7 +740,7 @@ Committee, presented an overview of matters discussed at the Meeting.
 
 The Report was noted by the Council.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -818,7 +818,7 @@ She outlined to the Members the following key points of the Integration Plan:
 
  Scope of Integration Plan.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -892,7 +892,7 @@ Recommendations which were agreed at the SPC Meeting:
 
 **That the following Grants/Bursary Awards be recommended to Council for approval:**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -964,7 +964,7 @@ submitted directly to the Culture and Arts Officer:
 
  Labour – 1 Member.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1034,7 +1034,7 @@ Awards 2018, as recommended, and as set out in the report of the Culture and Art
 
 dated 17th May, 2018.”
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1110,7 +1110,7 @@ Section 14 of the Roads Act, 1993, with Cork County Council, for the development
 
 N/M20 Cork to Limerick Road Improvement Scheme.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1182,7 +1182,7 @@ approved the attendance of the following Member:
 
 **Cork:** Councillor Sheehy.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1258,7 +1258,7 @@ Conservation and an Appropriate Assessment was required and has just been
 
 completed. Limerick City and County Council is inviting tenders for this work
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1346,7 +1346,7 @@ Limerick City Council and Limerick County Council were carried forward and
 
 continued to apply. It would clearly have been desirable to design and adopt
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1422,7 +1422,7 @@ subject to Budget Allocation. He stated that while the Members might not agree w
 
 current structure, services were being delivered efficiently.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1500,7 +1500,7 @@ Council. Where sanction is received, the position will be considered as part
 
 of the annual budgetary review process.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1580,7 +1580,7 @@ Submission, and was seconded by Councillor Hogan:
 
 **our community cannot be accurately assessed. The detrimental effects of toxic**
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1666,7 +1666,7 @@ Submission, and was seconded by Councillor Hogan:
 
 **current safety standards.**
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1752,7 +1752,7 @@ Submission, and was seconded by Councillor Hogan:
 
 **from harmful health effects related to exposure to natural and man-made**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1834,7 +1834,7 @@ Cappamore-Kilmallock. The Cappamore Housing Association, an Approved
 
 Housing Body, has also secured funding for a scheme in Cappamore.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1892,5 +1892,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

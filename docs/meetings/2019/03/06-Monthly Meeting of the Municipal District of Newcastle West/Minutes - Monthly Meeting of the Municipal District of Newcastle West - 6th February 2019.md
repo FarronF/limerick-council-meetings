@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%202019-02-06%20Minutes%20February.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ of pupils, pedestrians and motorists. He also noted that 91 of the 167 pupils wa
 
 school. He mentioned that proposed upgrade roadworks on the R515 offers an ideal
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ It was agreed that costings for the requested safety measures at Scoil Mhuire, B
 
 Fergus Glin and Killoughteen National Schools would be sought and the Members advised on
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Footpath upgrade works along Scanlan’s Lane will be carried out within the
 
 next two weeks.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -358,7 +358,7 @@ suitable material
 
 500.00
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -502,7 +502,7 @@ TOTAL
 
 60,170.00
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -574,7 +574,7 @@ NOTICES OF MOTION
 
 ***Abbeyfeale.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -648,7 +648,7 @@ town.
 
 ***eastward bound approach to Ballynoe Cross.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -710,7 +710,7 @@ REPLY**:**
 
 This request will be forwarded to the TII for consideration.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,5 +782,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

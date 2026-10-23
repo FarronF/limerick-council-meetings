@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 19th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20191017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
@@ -98,7 +98,7 @@ entrance which was now causing a hazard.
 
 entrances.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ improvement scheme was located in both the Metropolitan District area and the Ca
 
 Kilmallock Municipal District area.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -294,7 +294,7 @@ Development Regulations 2001 (as amended).
 
 It was proposed to proceed with the development as outlined in the report.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -402,7 +402,7 @@ Staff from the Mid-West National Road Design Office, and the Consultant, respond
 
 queries from the Members as follows:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -484,7 +484,7 @@ appropriate funding being provided, a Contractor will be appointed and the
 
 works complete in 2018.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -542,7 +542,7 @@ A Vote of Congratulations was extended to the team representing Cappamore Fire B
 
 on winning ‘Limerick’s Fittest Superstars.’
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,5 +562,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

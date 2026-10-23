@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 16th October 12019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes%20of%20SPC%20%2016th%20Oct%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT INAUGURAL MEETING OF THE ECONOMIC**
 
@@ -100,7 +100,7 @@ On the proposition of Cllr. Ryan, seconded by Cllr. Collins, it was unanimously
 
 agreed to adopt the Draft Standing Orders.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 .
 
@@ -186,7 +186,7 @@ final RSES.
 
 amendments to proposed SDZ not carried.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  MASP fails to set out a clear strategic and co-ordinated approach for the future
 
@@ -264,7 +264,7 @@ and residential in the city centre. She stated that the local authority would no
 
 the financial resources itself to carry out such a masterplan.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 V. Murray informed members that board members from the Land Development
 
@@ -288,5 +288,5 @@ That concluded the business of the meeting.
 
 **Deputy Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

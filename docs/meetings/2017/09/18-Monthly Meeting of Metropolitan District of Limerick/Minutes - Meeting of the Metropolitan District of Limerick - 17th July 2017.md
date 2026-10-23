@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 17th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20Minutes%2017th%20July%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -94,7 +94,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ And Resolved:
 
 Festivals and Events Grant Scheme 2017”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -316,7 +316,7 @@ Report setting out proposals for the construction of 18 new residential units at
 
 Moyross that had been prepared in accordance with Section 179(3)(a) of the Planning and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -398,7 +398,7 @@ awaiting decision.
 
 ***reclaimed, and the number put down.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -498,7 +498,7 @@ to the Full Council.
 
 The Council in May 2016 requested Limerick Twenty Thirty Strategic Development
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -582,7 +582,7 @@ It was agreed that this motion would be withdrawn.
 
 The motion was proposed by Councillor Butler and seconded by Councillor Sheahan.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -666,7 +666,7 @@ contains a number of food and drink retail units and is generally seen as a very
 
 positive asset.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -750,7 +750,7 @@ should be held after the meeting.
 
 ***Ballinacurra with taxis and buses driving extremely quickly on the bus lane.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -836,7 +836,7 @@ Circulated, report of the Chief Officer, LCDC dated 12th July, 2017 setting out 
 
 recommendations of the LCDC on the allocation of funding under the Communities Facilities
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1016,7 +1016,7 @@ IT Equipment – Visual
 
 €1,000
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1208,5 +1208,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

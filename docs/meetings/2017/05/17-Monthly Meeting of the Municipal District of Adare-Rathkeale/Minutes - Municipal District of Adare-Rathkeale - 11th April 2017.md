@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Adare-Rathkeale - 11th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20a%20Minutes%20Monthly%20Meeting%2011th%20April%252c%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -94,7 +94,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ public display in accordance with Section 199 and Schedule 14A Part 1 of the Loc
 
 Government Act 2001 (as amended).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Members noted the importance of maintaining the costal infrastructure and stress
 
 to make annual applications to the Department for any funding available in this regard.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Rock Armour:
 
 Topsoiling and reseeding: € 2,000.00
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ On the proposal of Councillor Teskey, seconded by Councillor McMahon it was agre
 
 amount of €3,500 be allocated to Limerick City and County Motor Club under the GMA 2017.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -436,5 +436,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

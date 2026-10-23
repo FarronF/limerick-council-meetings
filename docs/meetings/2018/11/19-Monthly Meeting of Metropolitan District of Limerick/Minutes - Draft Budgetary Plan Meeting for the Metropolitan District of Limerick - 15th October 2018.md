@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan Meeting for the Metropolitan District of Limerick - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01b%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE METROPOLITAN**
 
@@ -134,7 +134,7 @@ Nil
 
 **€503,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,5 +174,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

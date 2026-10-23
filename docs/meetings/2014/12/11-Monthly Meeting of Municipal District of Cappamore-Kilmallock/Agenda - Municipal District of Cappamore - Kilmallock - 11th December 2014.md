@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Cappamore - Kilmallock - 11th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_municipal_district_of_cappamore_-_kilmallock_-_11th_december_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 5th December, 2014.
 
@@ -68,7 +68,7 @@ I will move at the next meeting that Limerick City & County Council install appr
 
 speed ramps at Hillview Terrace, Caherconlish, in the interest of road safety.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -82,5 +82,5 @@ removed completely and a pedestrian crossing with flashing lights be fitted inst
 
 lowering in the footpaths for safe wheelchair access.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

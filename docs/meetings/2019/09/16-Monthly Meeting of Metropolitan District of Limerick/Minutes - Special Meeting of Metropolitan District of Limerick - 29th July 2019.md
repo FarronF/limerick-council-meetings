@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 29th July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%28b%29%20Minutes%20Special%20Meeting%2029th%20July%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -94,7 +94,7 @@ the course of discussion of the item the following points were made :
 
 understanding around the development, difficult for lay person to understand plans and
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,5 +172,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

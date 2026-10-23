@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 18th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/1.-agenda-18th-february-md-meeting-final.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **11th** **February, 2021.**
 
@@ -62,7 +62,7 @@ Cappamore-Kilmallock held on the 10th December 2020.
 
 To receive an update on the Kilmallock Business Park.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -118,5 +118,5 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District if
 
 plans to upgrade Kilmallock Business Park to fibre optic broadband.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

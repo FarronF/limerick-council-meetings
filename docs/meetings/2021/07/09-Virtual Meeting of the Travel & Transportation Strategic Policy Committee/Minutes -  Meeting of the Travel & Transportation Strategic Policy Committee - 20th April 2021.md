@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Meeting of the Travel & Transportation Strategic Policy Committee - 20th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/minutes-of-travel-and-transportation-spc-meeting-20th-april-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -58,7 +58,7 @@ on the 16th February 2021 were proposed by Cllr. Butler, seconded by Cllr. Foley
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -126,7 +126,7 @@ improving access to schools in terms of walking and cycling. It is unlikely that
 
 to parking will be the main target.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -182,7 +182,7 @@ Mr. Gallagher confirmed that the new draft should be made available towards the 
 
 June 2021.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -244,7 +244,7 @@ FRS.
 
 Ms. Ailish Drake re-joined the meeting following the completion of Item 4.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -318,7 +318,7 @@ schemes this summer Local Authorities must prioritise Covid Mobility Plans. Last
 
 announced that they will permanently pedestrianise 17 streets for outdoor dining.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -396,7 +396,7 @@ open discussion and if so, are representatives of Limerick PPN included”
 
 *road users will be to the fore in all instances. Engagement with relevant stakeholders will be*
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -468,7 +468,7 @@ A response to Question was circulated to all members prior to meeting as follows
 
 *It is also hoped to widen the upstream footpath to allow more space for the many pedestrians*
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -540,7 +540,7 @@ engage with the Limerick Pedestrian Network. The presentation will be circulated
 
 Members with her consent.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -566,5 +566,5 @@ that the next SPC meeting is scheduled for 22nd June 2021.
 
 This concluded the meeting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 19th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20September%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -97,7 +97,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Disposal of Land**
 
@@ -185,7 +185,7 @@ Scheme.
 
 (Report Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -243,7 +243,7 @@ I will ask Limerick Metropolitan Council how much is outstanding in vacant site 
 
 Metropolitan area, and how much has been collected since 2020.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -297,7 +297,7 @@ incurred to date, the proposed overall budget, and the source of this funding, a
 
 on Childers Road Bridge, due to start in October, 2022.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -353,7 +353,7 @@ festoon lighting? Is this lightning from a sustainable and energy efficient sour
 
 lighting can be installed permanently around the Parnell Street/Davis Street area.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -411,7 +411,7 @@ Port to update Members on the Company’s Masterplan for Limerick Docklands, inc
 
 planned redevelopment of the former Bannatyne building.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -477,7 +477,7 @@ installed at St. Michaels National School and the Barrington Street entrance to 
 
 provide safety for pedestrians in this area.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -491,5 +491,5 @@ on Riverfest 2022 with a full breakdown of expenditure from last year so to plan
 
 (Copy of Correspondence Enclosed)
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

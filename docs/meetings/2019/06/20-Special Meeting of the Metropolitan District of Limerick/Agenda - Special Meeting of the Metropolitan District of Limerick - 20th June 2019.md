@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 20th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-06/Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20June%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -88,5 +88,5 @@ Ww @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

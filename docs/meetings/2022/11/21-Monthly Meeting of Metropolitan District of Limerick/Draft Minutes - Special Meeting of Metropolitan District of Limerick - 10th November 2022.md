@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Special Meeting of Metropolitan District of Limerick - 10th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%20Draft%20Minutes%20Special%20Meeting%2010th%20November%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -100,7 +100,7 @@ proposed pedestrian bridges and queried if the Condell Road area was included in
 
 project.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Members complimented the business owners in Foxes Bow on the work carried out in
 
 and acknowledged the assistance given to them by the Council.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ The Director, Planning, Environment and Place-Making gave a PowerPoint Presentat
 
 Street and Milk Market area. She outlined details of the provisional funding allocation of €6.325m
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,5 +302,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Newcastle West - 15th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-newcatlse-west-15th-january-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -112,7 +112,7 @@ Glin, Co. Limerick.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ I will move at the next Meeting that the Council expedite the Flood Relief Schem
 
 after recent floods nearly causing flooding in the village.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,5 +212,5 @@ I will move at the next Meeting that the road lighting at Killoughteen school be
 
 timer to limit its levels of glare and intrusiveness on neighbouring residential properties.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

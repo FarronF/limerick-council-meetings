@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Annual Meeting of Limerick City and County Council - 29th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28c%29%20Minutes%20Annual%20Meeting%20290618.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK
 
@@ -92,7 +92,7 @@ The outgoing Mayor, Councillor Keary, opened the Meeting by giving the following
 
 **meaningful employment. This increase in employment has not only seen the**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -194,7 +194,7 @@ The outgoing Mayor, Councillor Keary, opened the Meeting by giving the following
 
 **face of people who can never be allowed to erase or rewrite history.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -290,7 +290,7 @@ The outgoing Mayor, Councillor Keary, opened the Meeting by giving the following
 
 **future of Limerick.** **Go raibh mile maith agaibh go léir.”**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -358,7 +358,7 @@ issue, as was Crime and Safety of local communities, along with Employment, Hous
 
 Transport.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ Abstention
 
 Councillor Prendivllle. **(1)**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -512,7 +512,7 @@ The incoming Deputy Mayor, Councillor Collins (M), addressed the Meeting as foll
 
 **Deputy Mayor, Councillor Hurley, for representing us in the past year. They**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -570,5 +570,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

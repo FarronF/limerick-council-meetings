@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan - Meeting of the Municipal District of Newcastle West - 15th October.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-draft-budgetary-plan-meeting-of-the-municipal-district-of-newcastle-west-15th-october.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -66,5 +66,5 @@ Dated:
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

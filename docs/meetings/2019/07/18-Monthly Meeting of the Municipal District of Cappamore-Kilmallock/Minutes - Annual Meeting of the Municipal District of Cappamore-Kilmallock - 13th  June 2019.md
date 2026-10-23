@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Municipal District of Cappamore-Kilmallock - 13th  June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/03%20Minutes%20MD%20Annual%20Meeting%2013th%20%20June%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -68,7 +68,7 @@ congratulated Cllr Donegan on his election and wished him well for the year ahea
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -119,5 +119,5 @@ Signed:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

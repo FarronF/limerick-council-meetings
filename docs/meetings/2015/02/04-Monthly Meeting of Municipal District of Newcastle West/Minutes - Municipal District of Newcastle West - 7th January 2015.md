@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West - 7th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_newcastle_west_-_7th_january_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -86,7 +86,7 @@ stated that they did not have enough information to make a decision and deferred
 
 to a future Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Question submitted by Councillor J. Scanlan
 
 The above signage will be ordered and will be erected once it is delivered.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ Members stated that the bin collection service at Monagea had been suspended and
 
 Ardagh Cemetery had no tap water.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ families using the trail. Members asked if funding could be sought from the Nati
 
 Transport Authority.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -392,7 +392,7 @@ Councillor Scanlan, it was agreed to receive a Deputation from Newcastle West Ar
 
 Committee at the next monthly Meeting to be held on 4th February, 2015.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -412,5 +412,5 @@ Cathaoirleach
 
 Dated:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

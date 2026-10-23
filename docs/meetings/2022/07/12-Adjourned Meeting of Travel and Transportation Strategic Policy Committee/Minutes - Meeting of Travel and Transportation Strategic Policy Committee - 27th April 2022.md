@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Travel and Transportation Strategic Policy Committee - 27th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Minutes%20of%20%20T%26T%20SPC%20Meeting%2027.04.22_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -70,7 +70,7 @@ Michael MacAree from the NTA.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -136,7 +136,7 @@ investment in Limerick with €18m in 2021 and over €24m allocated for this ye
 
 Team, which currently has a compliment of 17 staff, has been set up to implement the plan.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -202,7 +202,7 @@ reduction targets and emphasised that achieving this goal will be a challenging 
 
 will continue to be monitored for effectiveness as the strategy progresses.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -268,7 +268,7 @@ Limerick and establish a channel of communication between the local authority, I
 
 OPR and other relevant agencies.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -342,7 +342,7 @@ Cllr. Sheahan (M) added that a railway station would not be viable without popul
 
 and these areas will have to be allowed to grow.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -424,7 +424,7 @@ by Limerick firm ParkMagic, has been supported and endorsed by the Disabled Driv
 
 Association of Ireland (DDAI).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -458,5 +458,5 @@ held on Monday, 27th June 2022.
 
 The Meeting then concluded.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Home and Social Development Strategic Policy Committee Meeting - 16th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/agenda-for-spc-meeting-16-12-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
@@ -50,5 +50,5 @@ a. SIF Update
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

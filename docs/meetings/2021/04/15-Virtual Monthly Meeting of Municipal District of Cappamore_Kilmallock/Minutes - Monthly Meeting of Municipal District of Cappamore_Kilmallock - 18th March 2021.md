@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 18th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/2.-minutes-of-18th-march-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ Clarification was received that it was proposed that John Kiely be invited to a 
 
 Reception with the Municipal District once restrictions are removed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ Members of the District votes in favour, amend or revoke Standing Orders and mak
 
 Standing Orders.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -214,7 +214,7 @@ vigorous enforcement action in respect of all such incidents. The Council also h
 
 commercial waste team who investigate suspected incidents of commercial waste dumping e.g.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,7 +288,7 @@ pedestrians and road users.
 
 **Proposed by: Councillor Mitchell**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -354,7 +354,7 @@ The allocation for the Cappamore Kilmallock Municipal District for the Housing a
 
 grant for private homeowners is €601297.75.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -430,7 +430,7 @@ hold an oral hearing to hear objections to the compulsory purchase order on the 
 
 the decision of An Bord Pleanála to either confirm or annul the compulsory purchase order.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -504,7 +504,7 @@ commencement date.
 
 **REPLY:**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -580,7 +580,7 @@ that the public lighting section does not have any funding currently allocated i
 
 the provision of new lighting.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -638,5 +638,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

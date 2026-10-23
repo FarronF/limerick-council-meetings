@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/02-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th%20April%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -86,7 +86,7 @@ An Cathaoirleach also requested that consideration be given to additional bus sh
 
 2024 submission.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Councillor Donegan wished that the suggestion for travelling to Boston to represent the
 
@@ -154,7 +154,7 @@ Members for their contribution.
 
 6. General Municipal Allocation
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Community Grants and Roads/Tourism Projects nominated by the Elected Members
 
@@ -212,7 +212,7 @@ existing Council budget and if approved would result in funding being reallocate
 
 other essential Council services such as the maintenance of roads, housing, parks, etc.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 ***A discussion took place on the costs associated with providing and operating/maintaining***
 
@@ -270,7 +270,7 @@ Any Other Business
 
 o The Meetings administrator requested potential dates for the following meetings:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
  Briefing by Sergeant Ber Leetch on Personal Safety for the Elected Members
 
@@ -344,7 +344,7 @@ McKechnie for his work. They wished him well in his acting position in the comin
 
 months.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Next Meeting
 
@@ -358,5 +358,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

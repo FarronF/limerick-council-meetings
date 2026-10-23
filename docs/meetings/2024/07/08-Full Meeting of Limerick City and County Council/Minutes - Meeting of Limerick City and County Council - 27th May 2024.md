@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 27th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/01-a-minutes-may-meeting-27.05.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 Court, Kennedy Park, Limerick, to Joanne Griffin, Legal Personal Representative (LPR) of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of property at
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ costs incurred by Limerick City and County Council, particulars of which were co
 
 Statutory Notice dated 15th May, 2024.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Statutory Notice dated 26th March, 2024.”
 
 property at Bunkey, Lisnagry, Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,7 +496,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -580,7 +580,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 10, Hartstonge Street, Limerick, to Kandahar Grocery Limited, for the sum of €315,000,
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -660,7 +660,7 @@ Circulated, Unaudited Annual Financial Statement for the year ended 31st Decembe
 
 dated 16th May, 2024.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -738,7 +738,7 @@ Audit and Risk Committee Annual Report 2023.
 
 The report was noted by the Council.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -818,7 +818,7 @@ on 10th April, 2024.
 
 The report was noted by the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -900,7 +900,7 @@ Circulated, report of the Director, Rural, Community and Culture Development dat
 
 15th May, 2024, enclosing Progress Report on Working towards an Autism-Friendly Limerick.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -976,7 +976,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1050,7 +1050,7 @@ Seconded by Councillor Egan;
 
 And Resolved:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1124,7 +1124,7 @@ Replies to the following Questions on the agenda were circulated to all Members 
 
 to the Meeting and the Questions were therefore taken as having been dealt with:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1210,7 +1210,7 @@ Executive response was outlined as follows:
 
 *regard to supporting the local food system and increasing employment*
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1292,7 +1292,7 @@ revenue stream for the Council and is projected to amount to in excess of
 
 €19m in 2024. Any downward adjustment to the income criteria would have
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1398,7 +1398,7 @@ to the Housing Strategic Policy Committee for further consideration along with
 
 any updates on a national Differential Rents Scheme.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1478,7 +1478,7 @@ Notice of Motion submitted by Councillor J. O’Donoghue
 
 **Departments for the establishment of a fund for the rehabilitation of our older housing**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1548,5 +1548,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 26th February 2024 (2pm).pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-special-meeting-of-limerick-city-and-county-council-26.02.2024-2pm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
@@ -82,7 +82,7 @@ removed himself from the meeting, declaring that a family member was the owner o
 
 area.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Director of Planning, Environment and Place-Making, advised the Members that this meeting
 
@@ -128,7 +128,7 @@ proximity to the motorway, remote from the village and without pedestrian infras
 
 (Image omitted)
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Members sought clarification on various aspects of the proposed amendment to the Draft
 
@@ -200,7 +200,7 @@ and the result of the vote was as follows:
 
 **In Favour:**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Councillors Butler, Egan, Galvin, Hartigan, Keary, Kiely, Mitchell, Murphy, Novak Uí Chonchúir,
 
@@ -258,7 +258,7 @@ provided in the Material Alterations report at Ballyhanrahan East, to provide a 
 
 on the subject lands.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 This concluded the meeting.
 
@@ -272,5 +272,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

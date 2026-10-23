@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 16th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20January%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ Innovate Offices. He gave an outline of the many facilities provided at the Offi
 
 Innovate Limerick assists business start-ups by providing office spaces, at the Offices of Innovate,
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ finalised.
 
 ***for a home. I am aware funding is needed to maintain the roof.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ developed in conjunction with Clare County Council for the Metropolitan Area. Th
 
 recommendations set out in the document are primarily to inform decision making on
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -418,7 +418,7 @@ have 63% of our budget currently committed. The Department allowed all local aut
 
 to approve up to 65% of last year’s budget.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -520,7 +520,7 @@ based from depots in
 
 11
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -604,7 +604,7 @@ be explored in conjunction with RSES from a forward planning perspective.
 
 LSMATS has a specific objective for rail based Park and Ride provision at Ballysimon and an
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -684,7 +684,7 @@ of identifying what worked well previously and what aspects needed to be improve
 
 enhance the experience at future Christmas events in Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -760,7 +760,7 @@ area, and pointed out that it needs to be added to the Winter Maintenance Plan a
 
 along with any other highly trafficked pedestrian areas.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -802,5 +802,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

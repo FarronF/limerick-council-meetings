@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/00-agenda-15-07-2021-meeting-of-the-joint-policing-sub-committee-cappamore-kilmallock.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,5 +70,5 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office ¥
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

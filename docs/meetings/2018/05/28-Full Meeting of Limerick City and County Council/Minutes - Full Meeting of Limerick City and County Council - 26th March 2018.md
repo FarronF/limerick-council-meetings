@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 26th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20%28i%29%20Minutes%20Meeting%20260318%20V2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -80,7 +80,7 @@ courteous manner and his availability to deal with queries, both during office h
 
 frequently at evenings and weekends.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ Seconded by Councillor Scanlan;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ and County Council in the property, particulars of which were contained in Statu
 
 dated 12th March, 2018.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ excluding HAP.
 
  2018 Debt Management actions.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ Circulated, Chief Executive’s Reports for the months of January and February 2
 
 The Chief Executive’s Reports were noted by the Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ On the proposal of Councillor Daly, seconded by Councillor Butler, Recommendatio
 
 No. 1 was agreed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ The Mayor and Chief Executive then withdrew from the Chamber for the duration of
 
 discussion on Item No. 5 (a).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -626,7 +626,7 @@ would take the form of a show of hands. Following the vote, the Deputy Mayor dec
 
 the proposal to hold a Special Meeting on 10th April, 2018, at 3pm, as carried.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -694,7 +694,7 @@ On the proposal of Councillor Hourigan, seconded by Councillor Hogan,
 
 Recommendation No. 1 was agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -768,7 +768,7 @@ Circulated, report of the Director, Economic Development, dated 15th March, 2018
 
 setting out details of the proposed allocations from the Development Fund 2018.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -844,7 +844,7 @@ dated February 2018, as circulated, be and is hereby adopted, in accordance with
 
 1994, as amended.”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -916,7 +916,7 @@ Meeting / Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1028,7 +1028,7 @@ during the period 2015-2017. Of this number, 32 were purchased in the Municipal
 
 Districts as follows:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1156,7 +1156,7 @@ there are signs in place, including estate nameplates and directional signs,
 
 that do not fully conform with the Council’s policy on the use of Irish. An
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1240,7 +1240,7 @@ tenants are required, under the letting agreement, to notify the Council of
 
 any change to their income status.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1326,7 +1326,7 @@ and not Limerick Twenty Thirty DAC, in accordance with normal protocols for acqu
 
 property. The Deputy Chief Executive and Director of Economic Development added that
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1412,7 +1412,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 **examination subject.**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1490,7 +1490,7 @@ through working with the owners of these properties and/or exercising the
 
 various legislative powers available to the Council.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1540,5 +1540,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

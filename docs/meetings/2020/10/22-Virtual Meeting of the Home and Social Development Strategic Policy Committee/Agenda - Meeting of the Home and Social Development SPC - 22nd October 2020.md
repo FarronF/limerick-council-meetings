@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home and Social Development SPC - 22nd October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/agenda-spc-meeting-22-oct-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
@@ -56,5 +56,5 @@ a. 2021 Work Programme
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

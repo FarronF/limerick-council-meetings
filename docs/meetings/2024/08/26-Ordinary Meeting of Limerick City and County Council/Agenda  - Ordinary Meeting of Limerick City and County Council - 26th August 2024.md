@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda  - Ordinary Meeting of Limerick City and County Council - 26th August 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-08/agenda-ordinary-meeting-of-limerick-city-and-county-council-august-26th-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 30th July, 2024.
 
@@ -52,5 +52,5 @@ Miscellaneous Provisions Act, 2024, the Mayor is to present a draft of the Mayor
 
 Programme for consideration by the Elected Council.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

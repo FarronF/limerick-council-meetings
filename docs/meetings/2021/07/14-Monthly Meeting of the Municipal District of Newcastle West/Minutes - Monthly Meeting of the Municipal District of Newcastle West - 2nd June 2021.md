@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01a-2021-06-02-minutes-june.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
@@ -94,7 +94,7 @@ And Resolved:
 
 Disposal of Land
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ To discuss illegal dumping and receive update from the Environment
 
 Department.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ works and to Section 17 where the Minister can grant a licence for the felling o
 
 trees. He also gave an overview of the Forestry Regulations 2017 to the Members to include
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agre
 
 community initiative project in conjunction with An Garda Síochana.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ are having difficulty sourcing housing and that this proposal could be one solut
 
 of housing availability.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ Question submitted by Councillor F. Foley
 
 REPLY:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ Construction of Pedestrian Crossings at this stage is premature pending an agree
 
 Realm Plan.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -624,7 +624,7 @@ Question submitted by Councillor J. Scanlan
 
 REPLY:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -700,7 +700,7 @@ the TII.
 
 ***transfer full control of Go Safe Vans to An Garda Siochána for use at their discretion, in areas***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -770,7 +770,7 @@ issues of safety and speeding at this location.
 
 ***for Housing to immediately provide funding to renew the 30 or so vacant properties our***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -836,7 +836,7 @@ will be circulated, similar to previous voids schemes.
 
 The Motion was seconded by Councillor Ruddle.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -914,7 +914,7 @@ seek further guidance from the Corporate Services with regard to Deputations att
 
 Meetings during the current level of Covid19 restrictions.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -938,5 +938,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 28th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/00%20%28i%29%20Agenda%20Adjourned%20September%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -89,5 +89,5 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

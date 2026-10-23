@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20180118.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -90,7 +90,7 @@ Coshlea. The Society’s headquarters was at Ballinvreena Community Hall and the
 
 undertaken several projects.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,7 +156,7 @@ Limited for the operation of the Lough Gur Site in 2018, as outlined by the Dire
 
 noted that this allocation would come before Full Council in 2018 for formal ratification.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ condition of the roads either. Some Members felt that a provision for an allocat
 
 purchase a grader should be considered which would help alleviate the problem.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -276,5 +276,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 10th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-10th-june-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ East Limerick.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -132,7 +132,7 @@ Raheenagh, he added that the proposed choice of route in Mountcollins, Tournaful
 
 Raheenagh would be a key lifeline and would be very much welcomed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -194,7 +194,7 @@ Cllr. Secas referenced steps to 5 in the presentation, and she asked if a diffic
 
 prevent the council from taking possession of the land and delay the project.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -262,7 +262,7 @@ medium-term parking permits for tradespeople, service providers, attendees at co
 
 Retirement, where hourly parking discs and residential parking permits are not appropriate.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -330,7 +330,7 @@ Transport Plan. Putting a more reasonable price on residential parking might be 
 
 costs elsewhere.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -394,7 +394,7 @@ matter of charging for disability parking for blue badge holders. The space find
 
 identify spaces most widely used, and we could invest in improving these spaces.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -462,7 +462,7 @@ The Chair wished to add her support to the Motion and asked that rural stops be 
 
 Cllr. Secas also supported the motion.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -534,7 +534,7 @@ and full delivery of the **Rathkeale to Limerick City Greenway** in advance of t
 
 *the Adare Bypass and ensure sustainable transport options for the event.*
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -600,7 +600,7 @@ any obstacles that may impact the project's delivery ahead of the 2027 Ryder Cup
 
 *operational railway within the confines of the existing railway corridor.*
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -678,7 +678,7 @@ achieved within the timeline, then at minimum, the section from Limerick City to
 
 be completed before the Ryder Cup, to align with the completion of the Adare Bypass and ensure
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -690,5 +690,5 @@ opportunity to maximise national and international benefit from the project in t
 
 This concluded the business of the meeting.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/00%20Agenda%2012th%20April%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -80,5 +80,5 @@ Corporate Headquarters, Merchants Quay, Limerick. WY @limerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

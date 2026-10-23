@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 19th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/minutes-of-travel-transportation-spc-meeting-held-on-19th-oct-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,7 +66,7 @@ as it will provide funding certainty and is fundamental to the Limerick Developm
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,7 +142,7 @@ examples of schemes such as the recently opened Castletroy Urban Greenway, and t
 
 segregated cycleways on Dooradoyle Road and at Groody Road. He added that Part VIII planning
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,7 +212,7 @@ for and if e-bikes would be included in the scheme. She agrees that competition 
 
 needs to be done in conjunction with the Council’s Park and Ride.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,7 +290,7 @@ for the development of Greenway schemes from the DoT and will be managed through
 
 West National Road Design Office (NWMRDO) and there will be a requirement to comply with TII
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -358,7 +358,7 @@ projects will be subject to a process involving an Environmental Impact Assessme
 
 Bord Pleanála approval and all schemes have the potential to be referred for judicial review.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -422,5 +422,5 @@ confirmed that the next Meeting is scheduled for Tuesday, 14th December, 2021.
 
 The Meeting then concluded.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

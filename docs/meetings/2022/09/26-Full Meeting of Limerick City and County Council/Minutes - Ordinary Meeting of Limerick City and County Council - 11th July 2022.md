@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 11th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20%28c%29%20Minutes%20Ordinary%20Meeting%2011.07.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ covenants and conditions contained within the Contract, particulars of which wer
 
 in Statutory Notice dated 27th June, 2022.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Circulated, copy of Statutory Notice dated 27th June, 2022, concerning disposal 
 
 property at Montpelier, O’Briensbridge, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ of King John’s Castle and Interpretive Centre to Discover Limerick DAC, for th
 
 year rent, the length of the lease being 22 years and subject to the covenants and conditions
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -498,7 +498,7 @@ were to be appointed by a Local Authority, the Grouping System as provided for i
 
 18 of Schedule 10 of the Local Government Act, 2001, as amended, could apply if so desired.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ the Mayor of the City and County of Limerick to attend a number of Civic and Eco
 
 Meetings in Austin, Texas, and Santa Clara, California.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ approved the placing of the Draft Limerick City and Environs Green and Blue Infr
 
 Strategy on public display.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -740,7 +740,7 @@ developments quicker and he confirmed that the LDA would be invited to present t
 
 Members at the September Meeting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,7 +816,7 @@ Members: European Inland Fisheries and Aquaculture Advisory Commission (EIFAAC)
 
 Symposium 2022 held in Killarney, Co. Kerry, on 20th/21st June, 2022.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -894,7 +894,7 @@ account. Individual tenants, or members on their behalf, should contact the
 
 rent account manager for their area with any concerns.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -972,7 +972,7 @@ of the Full Council/Municipal or Metropolitan District/two SPCs currently
 
 attends **30 meetings** per year from those meetings alone as follows:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1048,7 +1048,7 @@ to synchronise with this change, including the current integrated series of
 
 Council Meetings / SPC Meetings to deal with policy matters of the Council. A
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1128,7 +1128,7 @@ created and logged and entered onto the Sugar CRM system. They are then
 
 allocated to the relevant area and team for action (Housing Maintenance).
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1230,7 +1230,7 @@ nine have been returned and are to be inspected.
 
 **Allocation of Houses**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1308,7 +1308,7 @@ Notice of Motion submitted by Councillor E. Ryan
 
 **Maintenance budget for Cemeteries in the amount of €100,000 per annum, to provide for**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1378,7 +1378,7 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 2000, as amended, was also available on SharePoint for inspection by the Members.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1392,5 +1392,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

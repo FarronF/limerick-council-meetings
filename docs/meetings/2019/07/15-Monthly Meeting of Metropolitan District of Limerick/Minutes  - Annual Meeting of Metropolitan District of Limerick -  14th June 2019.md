@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Annual Meeting of Metropolitan District of Limerick -  14th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2014th%20June%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -90,7 +90,7 @@ Slattery and Talukder
 
 (11)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ of Limerick.
 
 Cllr O’Hanlon thanked the Members for nominating him and he looked forward to the year ahead.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ about the roadway outside the facility and pointed out that this facility would 
 
 was any other choice.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -260,5 +260,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

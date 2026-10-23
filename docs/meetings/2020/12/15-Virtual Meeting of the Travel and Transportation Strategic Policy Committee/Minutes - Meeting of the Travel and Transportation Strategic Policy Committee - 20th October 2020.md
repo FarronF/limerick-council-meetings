@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 20th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/minutes-travel-transportation-spc-meeting-20th-oct-2020_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -76,7 +76,7 @@ agreed that all meetings would commence at 3:30pm:
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -148,7 +148,7 @@ requested publicly a ministerial review of LSMATS, regarding concerns raised suc
 
 used, the timeframes on projects etc. Mr. Kennedy confirmed that the NTA have themselves
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ roundabout with bus priority in place.
 
  **Raheen Cycleways -**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ scheme will go to public consultation before Christmas. He added that consultant
 
 currently being appointed on the MIC to city centre scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ extreme caution.
 
 Cllr. Leddin welcomed the response.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -458,7 +458,7 @@ money in the city and trying to ensure they have space to park. He added that Li
 
 very reasonable tariff for parking.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -536,7 +536,7 @@ Cllr. O’Hanlon wished to draw attention to an issue with the surface on Cather
 
 he raised before, that when it got wet people slipped and there were a number of claims as a
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -616,7 +616,7 @@ with South Circular Road during the stated hours; with access only available to 
 
 during those hours.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -694,7 +694,7 @@ first and then get other schools to buy in.
 
 **Item 9: Any Other Business:**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -720,5 +720,5 @@ The Chair thanked the members for their participation and as we enter into level
 
 for 6 weeks, he wished everybody well and declared the meeting closed.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

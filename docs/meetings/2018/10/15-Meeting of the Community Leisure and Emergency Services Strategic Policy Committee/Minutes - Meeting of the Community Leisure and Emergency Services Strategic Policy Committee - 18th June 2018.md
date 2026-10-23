@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community Leisure and Emergency Services Strategic Policy Committee - 18th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Item%201%20%20Minutes%20of%20Meeting%2018%20June%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
@@ -96,7 +96,7 @@ anticipates the successful implementation of same.
 
 **COMMITTEE**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3:**
 
@@ -170,7 +170,7 @@ Cllr. Sheehan proposed that the Executive substantially increase the Water Safet
 
 next year. The proposal was seconded by Cllr. G. Mitchell.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Item 5:**
 
@@ -228,5 +228,5 @@ Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 11th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ the future. The Town Regeneration Officer, Rural Development agreed to discuss
 
 maintenance issues with the Parks Department and revert to Members. Councillor Keary
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ then. Councillor O’Donoghue requested the survey costs associated with the foo
 
 extension from Kildimo to the Beer Garden be provided by the next meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ On the proposal of Councillor Teskey, seconded by Councillor Collins, it was agr
 
 allocate the following:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ in the summer.
 
 **responsible for and what exactly are the functions of the said appointment.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ refurbishment of vacant properties for occupation as a principal private
 
 residence, and for properties which will be made available for rent,
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -570,7 +570,7 @@ The Motion was proposed by Councillor Teskey, seconded by Councillor O’Donoghu
 
 agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -650,7 +650,7 @@ This compares favourably with the other rural districts of Kilmallock –
 
 Cappamore 202 days and Newcastle West 222 days.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -734,7 +734,7 @@ commencement location on the Limerick side of the project.
 
 This concluded the Meeting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -748,5 +748,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

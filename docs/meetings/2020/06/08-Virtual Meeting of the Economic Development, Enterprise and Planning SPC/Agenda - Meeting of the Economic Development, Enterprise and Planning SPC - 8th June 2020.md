@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 8th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/agenda-of-spc-mtg-8th-june-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **3rd** **June, 2020**
 
@@ -54,5 +54,5 @@ Yours sincerely
 
 ***Economic Development***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

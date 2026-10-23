@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Cappamore-Kilmallock - 16th February 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-02-16_meeting_minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -90,7 +90,7 @@ under the following headings:
 
 • Limerick 2020 Bid / Limerick Cultural Strategy / 8 Steps to Inclusive Practice.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ with buff chippings and also gave a view of surface dressed walkway showing typi
 
 construction with grey limestone chippings.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ residents, businesses and visitors.
 
 • Budget: €35,520.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ works and the Supervisor will be requested to carry out whatever
 
 patching is appropriate.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -342,5 +342,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

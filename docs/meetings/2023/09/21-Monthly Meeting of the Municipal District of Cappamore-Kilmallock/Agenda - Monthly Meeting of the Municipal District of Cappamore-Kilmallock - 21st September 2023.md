@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/1-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,7 +66,7 @@ Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 20th July, 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -110,7 +110,7 @@ Housing Strategy, Capital and Maintenance
 
 Housing Construction and SPC update
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -172,7 +172,7 @@ programme be put in place as a matter of priority for the ongoing maintenance of
 
 drainage grates on the roads in the district.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -202,5 +202,5 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District th
 
 are erected outside the Ardpatrick National School.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

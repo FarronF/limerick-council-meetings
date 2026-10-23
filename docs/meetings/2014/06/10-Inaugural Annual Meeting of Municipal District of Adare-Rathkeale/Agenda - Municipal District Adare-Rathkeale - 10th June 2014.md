@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District Adare-Rathkeale - 10th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_adare-rathkeale_-_agenda_10_june_2014_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -67,5 +67,5 @@ Xe. Zl Merchant's Quay, Limerick . 061 415266 ve: weww timerickcity.le
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

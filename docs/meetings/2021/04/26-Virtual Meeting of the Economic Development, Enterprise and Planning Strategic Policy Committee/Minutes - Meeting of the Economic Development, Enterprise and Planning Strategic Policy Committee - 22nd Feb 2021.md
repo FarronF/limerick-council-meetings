@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 22nd Feb 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-22nd-feb-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF JOINT MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -100,7 +100,7 @@ to the executive considerations as outlined below:
 
  Not time specific
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
  Not aligned with National Development Plan
 
@@ -178,7 +178,7 @@ adequate water supply.
 
 It was also agreed that this Notice of Motion be circulated to all TD’s in Limerick
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ms. Reidy informed members that a submission was being prepared in response to review of the
 
@@ -248,5 +248,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - JPC Subcommittee Meeting - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28a%29%20Minutes%20JPC%20Subcommittee%209th%20November%2C%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -92,7 +92,7 @@ In response to queries from Members, Superintendent O’Neill noted that he woul
 
 dialogue with the various state agencies, as appropriate, as issues arose. With regard to
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Motion was agreed by Members.
 
 advertising campaign on national television, targeted in particular at the elderly,
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,5 +212,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

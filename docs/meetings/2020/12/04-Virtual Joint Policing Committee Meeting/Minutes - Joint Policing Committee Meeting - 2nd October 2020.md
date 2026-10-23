@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 2nd October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/minutes-of-jpc-meeting-held-2nd-oct-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -102,7 +102,7 @@ not lockdown.
 
 Ms. L. Collins gave a brief statistical overview of current crime statistics.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Chief Superintendent stated that there has been an increase in drug use with 175 people
 
@@ -176,7 +176,7 @@ compliance with covid regulations. However, he would revert if there were differ
 
 Galway or other local authorities.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Presentation on Policing Plan, University of Limerick Academic Year 2020/2021**
 
@@ -250,7 +250,7 @@ Members requested that the presentation on Property Marking be circulated to eac
 
 Municipal Districts.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **6.Question submitted by Councillor Conor Sheehan (referred from Metropolitan District**
 
@@ -326,7 +326,7 @@ domestic violence for the period of March to August of this year ? Can a compari
 
 the same period in 2019 ?”.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 In reply, the Chief Superintendent stated that he could not give out domestic violence figures for
 
@@ -444,7 +444,7 @@ Policing Unit and that there had been an increase of two Gardaí to Mayorstone C
 
 with an additional two Community Gardaí to the Henry Street unit in the coming days.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **15.**
 
@@ -530,7 +530,7 @@ He stated that Members can submit a maximum of two Questions and two Notices of 
 
 for future JPC Meetings.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 It was agreed that the next meeting of the Joint Policing Committee be held on Friday, 4th December,
 
@@ -544,5 +544,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

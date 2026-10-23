@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale -  9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01-a-minutes-of-monthly-meeting-09th-june-2020_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -84,7 +84,7 @@ through Tom Hernon, Central Services, HQ to ascertain how many schemes are propo
 
 for completion in 2021.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Glenameade, Kildimo area following a recent oil spill on the N69. Councillor
 
 O’Brien advised some residents in that area have fresh water wells and asked the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Ballingarry Development Association
 
 €1,000
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ asking what the current status for the reopening schedule of all branches in the
 
 This was seconded by Councillor Sheahan and agreed.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -352,5 +352,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

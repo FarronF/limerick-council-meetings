@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/01-draft-minutes-of-monthly-meeting-8th-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interest was declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ which took place in November 2023 and May 2024.
 
  Environmental assessments.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ of Housing, Local Government and Heritage due to the rise in material and constr
 
 costs.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ stretch from the dual carriageway to the Adare Lantern Lodge not currently inclu
 
 the overall scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ injunction. In all cases the Council will attempt to engage with complainants
 
 and operators to find a satisfactory solution to a complaint.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ In 2024, 215 Claims were settled at a total cost of €3,527,131.
 
 **National School, Croom.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -508,5 +508,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 7th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01%28a%29%202022-09-07%20Minutes%20September.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -108,7 +108,7 @@ Seconded by: Councillor Scanlan
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ He stated that eight submissions had been received and gave a briefing to the Me
 
 the submissions received.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Management Plan at the November Meeting of the District.
 
 Housing Development Directorate
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ sewer. He stated that consultation had taken place with the Housing Allocations 
 
 the size of the scheme is matched against demand for housing.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ Question submitted by Councillor L. Galvin
 
 ***dump, Knockbrack (b) who is responsible to keep the gated area clean.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ Under the National Broadband Plan, high-speed broadband will be delivered to eve
 
 premises in Ireland through a combination of commercial and state investment. For Limerick,
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ being improved significantly from a safety point of view and is similar to junct
 
 national road network that are not lit. The improvements that were put in place making it a
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -626,7 +626,7 @@ universal access for all patrons.
 
 ***of Abbeyfeale and the surrounding area be located on site.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -692,7 +692,7 @@ view to getting a Master Plan drawn up to expand the playground and tennis court
 
 The Motion was seconded by Councillor Scanlan.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -760,7 +760,7 @@ Housing Body on the unfinished housing estate at Cois Na Féile, Abbeyfeale and 
 
 contact was made with the adjoining landowner with regard to anti-social behaviour taking
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -816,5 +816,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

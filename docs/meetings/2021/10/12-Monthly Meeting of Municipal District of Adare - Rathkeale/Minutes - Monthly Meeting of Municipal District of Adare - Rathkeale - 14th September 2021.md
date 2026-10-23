@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 14th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-minutes-of-monthly-meeting-14th-september-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -90,7 +90,7 @@ set down area for coaches together with upgrade of the existing car park to incl
 
 paving, public lighting and a pedestrian crossing adjacent to the Rathkeale House Hotel.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ to allocate the following:
 
  €2,000 for Pallaskenry Scouts Troup.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ Croagh, Co. Limerick and the intention to bring to Full Council for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -384,7 +384,7 @@ is due to be installed at this location shortly.
 
 Ireland in relation to funding delay for the traffic calming scheme at Coolanoran.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -456,7 +456,7 @@ off at night in Croom having huge implications on families and business owners i
 
 area. Fedamore also has a boil water notice for a number of years now and Banogue
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -532,7 +532,7 @@ housing estates would include speed ramps as part of the planning process. This
 
 was seconded by Councillor Keary and agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -572,5 +572,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

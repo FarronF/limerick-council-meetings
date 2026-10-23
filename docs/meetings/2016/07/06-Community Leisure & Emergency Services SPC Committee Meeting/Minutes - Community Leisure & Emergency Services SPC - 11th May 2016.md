@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Community Leisure & Emergency Services SPC - 11th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20%26%20Emergency%20Services%20SPC%20-%2011th%20May%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
@@ -104,7 +104,7 @@ Road, he added that it would also be available to other users and is the first i
 
 kind in the country.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Chairperson endorsed the project and commended the foundation for all the good work
 
@@ -194,7 +194,7 @@ buildings in rural villages and towns and that the needs of our aging population
 
 factored in to all plans, city and county alike.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ms. Vaughan Mullane pointed out that every small derelict building is used abroad. She
 
@@ -250,5 +250,5 @@ Minutes Signed By Chair:
 
 Date:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

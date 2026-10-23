@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 13th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-minutes-of-monthly-meeting-13th-april-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ dated 13th April, 2021 outlining details of works, projects and future projects 
 
 the District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ allocate the following:
 
  €2,500 for Pallaskenry Scout Troop (2020 Allocation).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ the Meeting. Members agreed to hold a meeting in committee with Rathkeale
 
 Community Council and An Garda Síochána, followed by the JPC prior to the May
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,5 +290,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

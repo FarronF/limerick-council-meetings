@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Adare-Rathkeale - 10th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28a%29%20Minutes%2010th%20October%2C%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ and engage with Irish Water in relation to same and highlighted the need for pri
 
 houses to ensure that their sewerage connections were properly vented.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ headings:
 
 • Team Limerick Clean Up
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ would meet quarterly with the local Garda Superintendent and the District PPN
 
 Representative on the JPC.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ dated 5th October, 2017 which was noted by Members.
 
 **Ireland (TII) and request that an Island to be put in place for the crossing on the road**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ hoped to complete the survey before the end of the year.
 
 **the Kilcornan primary school and entrance to the Ger McDonnell all-weather playing**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -462,7 +462,7 @@ At the conclusion of the Agenda and with the consent of the Cathaoirleach the fo
 
 issues were raised by Members:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -540,7 +540,7 @@ Councillor Sheahan referred to previous discussion regarding the provision of
 
 affordable sites in Adare and noted that he had been informed that a policy in
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -598,5 +598,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 4th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/minutes-of-jpc-meeting-held-on-4th-dec-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT VIRTUAL MEETING OF THE JOINT
 
@@ -100,7 +100,7 @@ working from home in the city which has resulted in reduced house burglaries in 
 
 Ms. L. Collins gave a brief statistical overview of current crime statistics.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Chief Superintendent stated that the Gardaí in Limerick launched an initiative a few years ago in
 
@@ -188,7 +188,7 @@ additional budget was applied for and granted. The Gardai have an extensive enga
 
 stakeholders in Rathkeale and the main aim is to identify any breach of legislation. Loitering on the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 street is an issue so Gardai are on the streets to address this problem and are also targeting illegal
 
@@ -288,7 +288,7 @@ Traffic Act were as follows :
 
 Limerick policing district in 2019 and 2020 to date”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 The Chief Superintendent replied as follows :
 
@@ -368,7 +368,7 @@ assist with all investigations and policing matters. Garda Edel Moloney operates
 
 Pallasgreen Garda Stations providing policing to both areas.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **12.Question submitted by Councillor Martin Ryan**
 
@@ -442,7 +442,7 @@ out in pubic but are required to be worn on all public transport, shops, shoppin
 
 etc. He added that it is the responsibility of the retailers to ensure compliance by people entering
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 their premises. From 7th December members of the public can be subject to on the spot fines for not
 
@@ -502,5 +502,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

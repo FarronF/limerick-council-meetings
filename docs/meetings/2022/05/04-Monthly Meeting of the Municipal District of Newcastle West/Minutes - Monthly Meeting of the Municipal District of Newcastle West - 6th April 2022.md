@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01%202022-04-06%20Minutes%20April.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ the Schedule. They noted the works proposed for 2022 and referred to the funding
 
 made available for the various projects, which was also welcomed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ matter but stated that an information sign showing a map of the town centre of A
 
 is in place at this location.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ A scope of works has been agreed, and we will be engaging with Contractors to ca
 
 clearance at this location over the coming months. Subject to compliance with the provisions
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ REPLY:
 
 **(a)**The approved loan of €300,000 is fully drawn down.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ Killarney Road, Abbeyfeale and it was agreed that the Director would liaise with
 
 Directorate on this matter.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ disposal. A discussion followed and in replying the Director stated that it is n
 
 to change the existing process which is working well.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -582,5 +582,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

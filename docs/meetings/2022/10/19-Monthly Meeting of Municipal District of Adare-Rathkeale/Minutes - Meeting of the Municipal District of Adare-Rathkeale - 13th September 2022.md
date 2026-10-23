@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/01-Minutes-of-Monthly-Meeting-13th%20September-2022-Adare-Rathkeale.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -82,7 +82,7 @@ should have an input in any directive in relation to the National Flag.
 
 This was seconded by Councillor Collins and agreed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,7 +156,7 @@ Rathkeale, Co. Limerick and the intention to bring to Full Council, for approval
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ Circulated, report of the A/Senior Executive Architect, Place-Making & Public Re
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,7 +296,7 @@ allocate the following:
 
  €2,000 to Adrian Columb Art c/o Askeaton Civic Trust.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -366,7 +366,7 @@ The Motion was proposed by Councillor O’Donoghue, seconded by Councillor Keary
 
 agreed.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -444,7 +444,7 @@ This involves working with local stakeholders, the Gardaí, emergency
 
 services and the Department of Education to raise awareness among all
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -500,5 +500,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

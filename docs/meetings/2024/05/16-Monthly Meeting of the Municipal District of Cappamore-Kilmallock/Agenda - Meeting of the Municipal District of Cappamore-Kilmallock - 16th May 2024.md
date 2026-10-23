@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 16th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-16th-may-2024_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -68,7 +68,7 @@ Matters Arising
 
 Declaration of Interest
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ City & County Council install traffic calming and junction tightening measures t
 
 pedestrians at the junction at Gerard road, Millmount and the new road, Gortboy in Kilmallock.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -174,5 +174,5 @@ I will ask at the next meeting of the Cappamore Kilmallock Municipal District fo
 
 the Compulsory Purchase Order for the N20 O’Rourke’s Scheme.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

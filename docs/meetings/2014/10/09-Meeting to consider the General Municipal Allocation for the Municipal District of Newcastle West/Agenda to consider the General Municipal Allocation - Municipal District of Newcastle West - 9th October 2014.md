@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda to consider the General Municipal Allocation - Municipal District of Newcastle West - 9th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_newcastle_west_-_agenda_to_consider_the_general_municipal_allocation_9th_october_2014_1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Corporate Services.**
 
@@ -56,5 +56,5 @@ for the financial year ending 31st December, 2015.
 
 (Report attached).
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

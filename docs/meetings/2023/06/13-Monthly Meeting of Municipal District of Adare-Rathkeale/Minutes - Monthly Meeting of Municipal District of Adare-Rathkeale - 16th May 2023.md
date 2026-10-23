@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 16th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-a-Minutes-of-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-16th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ for Kilteery Pier following a Deputation from the group at the April District Me
 
 Senior Executive Engineer, Roads, Traffic and Cleansing advised a number of funding
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ District.
 
 and requested this be included as an item on the Agenda for the next JPC Sub-
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ to receive a Deputation from the Adare Community First Responders group at the J
 
 Meeting of the Municipal District of Adare-Rathkeale.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ to allocate the following:
 
  €1,500 to Limerick Garden Plants Group.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -392,7 +392,7 @@ Council, is one of the most successful programmes nationally. Since 2019 to
 
 the end of Feb 2023,the following Stats apply:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ subsidiary companies linked to the Council is €53,500.
 
 **various towns involved in twinning.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ Councillor Teskey advised he wished to withdraw his Notice of Motion.
 
 **our national roads.**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -622,7 +622,7 @@ Swim” notice currently in place in the River Deel.
 
 her help during her term as Director of the Adare-Rathkeale Municipal District.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -642,5 +642,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

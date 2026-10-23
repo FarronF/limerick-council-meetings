@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 21st November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-budget-meeting-of-limerick-city-and-county-council-21st-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -94,7 +94,7 @@ achievements from 2025, including delivery of a budget of almost €1bn, progres
 
 dereliction reduction, and major regeneration projects. He noted that Limerick’s reputation
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ a) Amend the Small and Medium Business Support Scheme with the effect of capping
 
 the impact of the Commercial Rates increase by providing additional relief of an
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ statutory compliance with a number of steps, which can be summarised as follows:
 
 prepared and published on 14th October 2024, as set out in Section 31 of the Local
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ Retail Economic Incentive Scheme)
 
 **Budget 2026 Context**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ time houses are in a void state.
 
 (b) Public Realm
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ To fund increasing demand, rising costs, and fund significant payments coming du
 
 based on discussions with officials, I am recommending difficult decisions this year.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -570,7 +570,7 @@ by 1.3 per cent over the same period. Indeed, the employment rate – the share 
 
 age population in employment – remains at near record highs in the second quarter.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,7 +656,7 @@ Q4 2019 as per Central Statistics Office data. The growth rate in Dublin was jus
 
 cent for the same period.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -848,7 +848,7 @@ delivery framework across local government and in partnership with private secto
 
 community stakeholders’ involvement.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -940,7 +940,7 @@ Europride Support Delivery (F0505)
 
 **Budget Strategy & Objectives**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -962,7 +962,7 @@ expenditure necessary to carry out the functions of the Council and the income e
 
 accrue to the Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1036,7 +1036,7 @@ Metropolitan Area Strategic Plan (MASP) and Strategies key partners and the Sout
 
 Regional Assembly.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1196,7 +1196,7 @@ and Adare Heritage.
 
 preliminary Ryder Cup plans.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1266,7 +1266,7 @@ attractive and well presented as Limerick’s main commercial and cultural area.
 
 clean, vibrant, and well managed throughout 2026.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1294,7 +1294,7 @@ reflecting the Council’s commitment to greater transparency and shared situati
 
 across governance structures.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1402,7 +1402,7 @@ H - Misc Services
 
 **Table 3: Analysis of Expenditure by Division**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1560,7 +1560,7 @@ Division, with comparative figures for 2025:
 
 **(Excl HAP)**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1646,7 +1646,7 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **Analysis of Income (excluding HAP)**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1746,7 +1746,7 @@ Budget 2025).
 
 **Adopted Budget 2025 €'m**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1826,7 +1826,7 @@ to adjust the LPT rate upwards by 15% for 2026 equating to an increase of €2,5
 
 (compared to €2,351,468 in 2025, an increase of €185,328).
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1916,7 +1916,7 @@ Separately the Council will be asked to consider the adoption of the **Vacant Pr
 
 **Scheme 2026** to encourage the beneficial use of previously vacant commercial property in
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2004,7 +2004,7 @@ households with a long-term housing need, including many long-term Rent Suppleme
 
 recipients.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2066,7 +2066,7 @@ metropolitan areas, with overall GMA funding linked to Local Property tax increa
 
 Commercial Rates increase, and contribution from revenue budget process.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2232,7 +2232,7 @@ is subject to Departmental approval.
 
 **Table 7: Summary Capital Plan 2026-2030**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2308,7 +2308,7 @@ access to clearer, more-timely, and better-linked information to support effecti
 
 **€'m**
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2386,7 +2386,7 @@ that the €280,000 required to increase the Small and Medium Business Support S
 
 proposed to be funded from changes to the vacant property scheme and hedge cutting grant.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2462,7 +2462,7 @@ An increase of €80,000 for burial ground improvements, with the additional amo
 
 of €80,000 ring-fenced specifically for Burial Ground maintenance.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2540,7 +2540,7 @@ Matters Act 2019 as amended and Local Government (Mayor of Limerick) and Miscell
 
 Provision Act 2024.
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2628,7 +2628,7 @@ Section 66 of the Local Government Act, 2001, as amended by Section 43 of the Lo
 
 Government Reform Act, 2014 and Local Government (Mayor of Limerick) and Miscellaneous
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2722,7 +2722,7 @@ preparing the budget. He welcomed the engagement with the Elected Members and st
 
 that he considered the concerns raised by the Members were addressed during the Budget
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2746,5 +2746,5 @@ Signed:
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 

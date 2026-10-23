@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 22nd February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-22nd-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -94,7 +94,7 @@ Mr. Noel Lindsey, Clerical Officer, Housing
 
 Cronin
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Welcome by Chairperson** **–** **Cllr. Stephen Keary**
 
@@ -168,7 +168,7 @@ and Mr. Jamie Butler, Executive Engineer, Housing Welfare & Traveller Accommodat
 
 presentation on the Traveller Accommodation Programme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The presentation highlighted progress to-date under the current plan and Ms. Phillips confirmed
 
@@ -254,7 +254,7 @@ Accommodation Unit works very closely with Planning Enforcement and that the mat
 
 go through the Court System.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Cllr. Tom Collopy enquired (a) if rent was payable by families occupying unofficial sites, (b) if the
 
@@ -326,7 +326,7 @@ Cllr. Tom Collopy asked what the income was required before the current €11,00
 
 confirmed the amount was reduced from €15,000 to €12,500 on 1st February 2022.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **Item 6: SPC Programme of Work 2024**
 
@@ -410,7 +410,7 @@ Cllr. Tom Collopy asked how we get families out of emergency accommodation. Ms. 
 
 that no-one wants to see a family in temporary accommodation but added that in some
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 circumstances people have made themselves homeless on purpose having regard to the order of
 
@@ -436,5 +436,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meet
 
 **END OF MEETING**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

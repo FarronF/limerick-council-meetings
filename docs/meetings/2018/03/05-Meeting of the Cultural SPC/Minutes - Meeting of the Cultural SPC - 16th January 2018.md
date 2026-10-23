@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Cultural SPC - 16th January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Item%201.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -92,7 +92,7 @@ That the minutes from Cultural Strategic Policy Committee meeting held on 12th D
 
 **CULTURAL STRATEGIC POLICY COMMITTEE**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ An independent panel made a number of recommendations that were approved at the 
 
 2017 meeting of the Limerick Metropolitan District meeting, including;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,5 +236,5 @@ Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

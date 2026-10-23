@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 3rd April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-3rd-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ sewage tankering from the site and the possibility of having the public sewerage
 
 extended from the NCT Centre to the Railway Bar in Abbeyfeale.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ The Administrative Officer stated that the preparation of the Local Economic and
 
 Framework Plan involved a public consultation process across Limerick City and County and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ Circulated, report of Director of Services, dated March 2024, setting out the de
 
 Draft Schedule of Works for the Municipal District of Newcastle West 2024.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was ag
 
 allocate €3,000 to roadworks in Ballyagran.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -484,7 +484,7 @@ Limerick City and County Council do not maintain this area. It is currently bein
 
 maintained by Athea Community Council.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ REPLY:
 
 Mountcollins Village is included under the NTA 2024 footpath scheme.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -622,7 +622,7 @@ funding has been secured to carry out a design of the pipeline and consultants a
 
 being sought with a view to having design complete by end of 2024.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -692,7 +692,7 @@ and in replying the Senior Executive Engineer stated that road works have commen
 
 location this week.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -762,7 +762,7 @@ An update was sought on the application made to Transport Infrastructure Ireland
 
 calming measures at Dalton’s Cross, Abbeyfeale. In replying, the Executive Engineer agreed
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -810,5 +810,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

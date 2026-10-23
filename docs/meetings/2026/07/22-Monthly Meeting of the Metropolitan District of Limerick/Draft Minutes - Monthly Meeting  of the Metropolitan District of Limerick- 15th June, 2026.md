@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting  of the Metropolitan District of Limerick- 15th June, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/draft-minutes-monthly-meeting-of-the-metropolitan-district-of-limerick-15th-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 **2.Declaration of Interest**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Meetings Administrator stated that, in line with Part 15 of the Local Government Act,
 
@@ -160,7 +160,7 @@ Members acknowledged the importance of textile recycling banks in the city; howe
 
 supported the Director’s proposal to remove the textile bank on the Dock Road.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Members welcomed the update and acknowledged the work of the Director of Services,
 
@@ -232,7 +232,7 @@ involvement or interest in the lands subject to the Part 8 proposal.
 
 The Mayor stated that he was pleased to commend the proposal to the Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Following discussions, it was proposed by Councillor Kilcoyne, and seconded by Councillor
 
@@ -308,7 +308,7 @@ County Council that the proposed development proceed as proposed with the inclus
 
 natural play area instead of a playground at the proposed location.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **FOR THE AMENDMENT:**
 
@@ -376,7 +376,7 @@ Members were advised that the development was a long-term project involving Lime
 
 and County Council and private partners, focused on delivering housing, healthcare and local
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 services in the area. The proposed development includes 115 new homes, a neighbourhood
 
@@ -444,7 +444,7 @@ interference with invasive species, and to report any instances immediately.
 
 income in the years 2024, 2025 and 2026:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **Year**
 
@@ -522,7 +522,7 @@ and STA (Short Term Accommodation) hostels to retain these payment charges that
 
 they have received from clients who have been referred by the Homeless Action Team.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 These payments have been used by the service providers to offset the amount of
 
@@ -592,7 +592,7 @@ required parameters. Monitoring will continue over the bathing season in 2026 wi
 
 further review of the results there after.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **14.Question submitted by Councillor Gavan**
 
@@ -662,7 +662,7 @@ arise to support delivery.
 
 **16.Questionsubmittedby Councillor Donoghue**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 ***I**will ask at the next meeting of the Metropolitan District of Limerick for a full breakdown***
 
@@ -736,7 +736,7 @@ protection requirements.
 
 **17.Questionsubmittedby Councillor Donoghue**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 ***I**will ask at the next meeting of the Metropolitan District of Limerick how many living units***
 
@@ -824,7 +824,7 @@ and agreed.
 
 ***lines and the residential areas of**Clyduff,**Garraun**and**Lisnagry.***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 The Notice of Motion was proposed by Councillor Doyle, seconded by Councillor Pond and
 
@@ -894,7 +894,7 @@ ground.
 
 **22.Notice of Motionsubmittedby CouncillorSlattery**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 ***I**will move at the next meeting of the Metropolitan District of Limerick that traffic calming***
 
@@ -960,7 +960,7 @@ On the proposal of Councillor McSweeney, and seconded by Councillor Kiely, Stand
 
 **24.Notice of Motion submitted by CouncillorBeasley**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 ***I**will move at the next meeting of the Metropolitan District of Limerick that Limerick City***
 
@@ -1034,7 +1034,7 @@ exists reflects those historic decisions made during periods of significant orga
 
 crime, rather than anything recent or planned across LEAs.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 Proposals for new CCTV installations should be brought forward on the basis of
 
@@ -1112,7 +1112,7 @@ In proposing the Motion, Councillor Gavan highlighted the need for proper infras
 
 within the area and emphasised the need to address the delay in the delivery of BusConnects.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **REPLY:**Limerick City and County Council (LCCC) acknowledges the level of development
 
@@ -1188,7 +1188,7 @@ strategy, community infrastructure together with heritage and cultural policy ar
 
 expressed in a framework for future development and growth.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 Our Corporate Plan, Moving Forward Together 2025-2029, identifies the vision,
 
@@ -1262,7 +1262,7 @@ matter that can be progressed through a Notice of Motion in the absence of these
 
 requirements.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 Following discussions, the Senior Planner, Development Management, noted that a dedicated
 
@@ -1338,7 +1338,7 @@ partners, stakeholders as the broader masterplan phases and associated funding
 
 streams are advanced.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 Following discussion, the Programme Manager, Colbert Quarter Infrastructure Activation
 
@@ -1354,5 +1354,5 @@ This concluded the meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

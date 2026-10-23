@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda to consider the General Municipal Allocation - Municipal District of Adare-Rathkeale - 9th October 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/municipal_district_of_adare_-_rathkeale_-_agenda_to_consider_the_general_municipal_allocation_-_9th_october_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,5 +78,5 @@ Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

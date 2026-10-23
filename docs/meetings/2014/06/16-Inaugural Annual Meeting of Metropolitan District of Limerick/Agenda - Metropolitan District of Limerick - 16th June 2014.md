@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Metropolitan District of Limerick - 16th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/metropolitan_district_of_limerick_-_agenda_16_june_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -71,5 +71,5 @@ Ff s*: Cé na gCeannaithe, Luimneach t: 061 407100 ¢: info@limerickcity.te
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

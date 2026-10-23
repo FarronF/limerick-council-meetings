@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Monthly Meeting of Municipal District of Cappamore_Kilmallock - 10th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/2.-minutes-of-10th-december-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ granted to Pallasgreen, in respect of the amount, purpose and source of funding.
 
 Clarification was received.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -144,7 +144,7 @@ The Elected Members requested that Ian O’Mahoney, Irish Water be invited to me
 
 the Municipal District to discuss Waste Water and Water services in the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -214,7 +214,7 @@ The Elected Members also wished to acknowledge the work undertaken regarding the
 
 footpaths and approach roads.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -270,7 +270,7 @@ Council’s *Libraries & Museums Department*. It is scheduled to be erected duri
 
 ending 13th December 2020.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -350,7 +350,7 @@ deployment under the National Broadband Plan. Under this programme, Limerick Cit
 
 County Council has had five Broadband Connection Point locations approved in the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -420,7 +420,7 @@ In understand that this issue is a source of concern for you and your constituen
 
 bear with us while this matter is being investigated.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -486,7 +486,7 @@ any progress in plans to establish a Civic amenity centre in the east if the
 
 Cappamore/Kilmallock area.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -554,7 +554,7 @@ Cappamore Kilmallock District. An update is to be provided by Director, Support 
 
 Corporate, HR & ICT.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -594,5 +594,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

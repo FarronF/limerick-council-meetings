@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Re-Scheduled Monthly Meeting - Monthly Meeting of Metropolitan District of Limerick - 27th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28a%29%20Minutes%20Re-Scheduled%20Monthly%20Meeting%2027th%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT RE-SCHEDULED MEETING OF METROPOLITAN DISTRICT OF**
 
@@ -96,7 +96,7 @@ Circulated, Report of the Senior Manager, Planning and Environmental Services De
 
 dated 6th October, 2017 setting out the legal and procedural background to the addition of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Police / Garda Barracks, Barnakyle, Patrickwell, Limerick, Ref. No. P.P.S. 2017/
 
 added to the Record of Protected Structures as, in view of the policy to encourage people to live
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Seconded by Councillor Collins;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ response to an enquiry from Members, the Senior Engineer, Mid West National Road
 
 Office noted that, given the need to acquire land as part of the project, it was anticipated that
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ therefore, the Council are not in a position at this stage to indicate a timefra
 
 for the Castleconnell Flood Relief Scheme.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ Meetings online. This is a matter which would require consideration at
 
 Metropolitan District level and would require an amendment of Standing Orders
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -596,7 +596,7 @@ consideration.
 
 The motion was proposed by Cmhlr. Ó Ceallaigh and seconded by Councillor Costelloe.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -680,7 +680,7 @@ United Nations Convention on the Rights of Persons with Disabilities (UNCRPD), w
 
 how enjoyment of human rights were to be promoted and protected to enable people with
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -756,5 +756,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

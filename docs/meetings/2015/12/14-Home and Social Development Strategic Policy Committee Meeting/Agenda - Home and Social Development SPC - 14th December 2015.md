@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Home and Social Development SPC - 14th December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Home%20and%20Social%20Development%20SPC%20-%2014th%20December%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -76,5 +76,5 @@ Strategy 2015-2017.
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

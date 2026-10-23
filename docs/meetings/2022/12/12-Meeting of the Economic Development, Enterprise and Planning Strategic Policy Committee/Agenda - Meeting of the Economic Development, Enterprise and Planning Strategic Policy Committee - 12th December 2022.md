@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda-Economic-Development-Enterprise-Planning-SPC-Meeting-12th-December-22.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **25th** **November, 2022**
 
@@ -62,5 +62,5 @@ Yours sincerely
 
 ***Economic Development & Enterprise Directorate***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 1st March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/01%20Minutes%20March%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%201st%20March%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -106,7 +106,7 @@ West, held on 10th February, 2023.
 
 Proposed by: Councillor Galvin
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ representative desk is to remain in place and that the whole area of policy is y
 
 determined.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ derelict units that will be refurbished and made ready for the rental market and
 
 principle places of residence for the owner”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ On the proposal of Councillor Collins, seconded by Councillor Scanlan, it was pr
 
 allocate €500 to drainage issues in Carrickerry.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ Question submitted by Councillor J. Scanlan
 
 ***the verge of the R521 at Ballynoe.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ the sites and the consent was granted by the Board in July 2020. In September 20
 
 Owner was granted leave by the High Court for a judicial review of the An Board Pleanála
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -550,7 +550,7 @@ In proposing the Motion, Councillor Ruddle requested that double yellow lines be
 
 of the houses across from Oakpark, Estate, Gortboy, Newcastle West, and in replying the
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -616,7 +616,7 @@ provided on the northern approach to Feohanagh village. A discussion followed on
 
 of matters including the use of flashing speed indicator signs and speed ramps in the District.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -688,9 +688,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

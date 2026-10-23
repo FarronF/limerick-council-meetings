@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 15th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%202022-06-15%20Minutes%20June%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Meeting would be adjourned for fifteen minutes, in accordance with Standing Orde
 
 the recent passing of Ms Peggy Collins, RIP.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ The Cathaoirleach welcomed the Senior Executive Engineer, Planning, Environment 
 
 Place-Making Directorate, to the Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ REPLY:
 
 **(b)** These works will be complete pending the decision on the Section 38 outcome.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ stress on this fragile watermain. We have not received any complaints to date re
 
 pressure and will review this on an ongoing basis should they arise. Similarly, where possible,
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ NOTICES OF MOTION
 
 ***standard.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ requested that the laneway be taken in charge by Limerick City and County Counci
 
 ***I will move at the next Meeting that the Council engage with Limerick 2030 DAC to***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ update from the relevant Directorate on this matter.
 
 16. Notice of Motion submitted by Councillor J. Scanlan
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -624,7 +624,7 @@ routes.
 
 Landscaping works at St. Ita’s Road, Abbeyfeale, which are ongoing was also raised.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -652,5 +652,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

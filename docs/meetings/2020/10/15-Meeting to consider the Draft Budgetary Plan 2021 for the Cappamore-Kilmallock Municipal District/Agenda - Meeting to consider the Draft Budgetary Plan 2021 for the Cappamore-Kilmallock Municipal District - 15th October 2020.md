@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Cappamore-Kilmallock Municipal District - 15th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/04-agenda-budget-meeting-1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -74,5 +74,5 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

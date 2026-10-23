@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-a-draft-minutes-ordinary-meeting-22.03.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ signatories of the Requisition for the Meeting. This was seconded by Councillor 
 
 and agreed. The Meetings Administrator advised that amendments to this motion were
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Council in the property, particulars of which were contained in Statutory Notice
 
 January, 2021.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ Circulated, copy of Statutory Notice dated 23rd February, 2021, concerning dispo
 
 land at 48, Carey’s Road, Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ Circulated, copy of Statutory Notice dated 10th March, 2021, concerning disposal
 
 land at Loghill, Co. Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ the May Meeting of the Council for adoption.
 
 The Report was noted by the Council.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ were declined and some specific RHIL cases were also queried. The Director, Supp
 
 agreed to follow up with the Members concerned on their specific queries.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -622,7 +622,7 @@ Patrick English
 
 Anglesborough Tidy Towns
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -702,7 +702,7 @@ on 9th February, 2021.
 
 **Enterprise, Trade and Employment, and Mr Eamon Ryan TD, Minister for Transport**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -776,7 +776,7 @@ Development, dated 11th March, 2021, enclosing draft revision to the Limerick Ci
 
 and County Council Allocation Scheme.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -848,7 +848,7 @@ Bridging Finance – EU LEADER Rural Development Programme/West
 
 Limerick Resources
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -922,7 +922,7 @@ Meeting / Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1008,7 +1008,7 @@ housing and the proposed Limerick Development Plan 2022-2028 within the
 
 next few weeks to discuss these issues in more detail.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1148,7 +1148,7 @@ letting. Two of these vacant properties are not categorised.
 
 **152**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1218,7 +1218,7 @@ It was agreed to refer the Motion to the Climate Action, Biodiversity and Enviro
 
 Strategic Policy Committee for consideration.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1296,7 +1296,7 @@ The Motion was proposed by Councillor Galvin and seconded by Councillor Sheahan
 
 (J).
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1368,7 +1368,7 @@ Notice of Motion submitted by Councillor S. Benson
 
 **solution for the children living in the Knockalisheen Direct Provision Centre, who currently**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1436,7 +1436,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint and Alfresco for inspection by the Members.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1458,5 +1458,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of The Metropolitan District of Limerick - 16th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-september-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ The report, as circulated, was noted by Members.
 
 (g) Circulated, Report of the Administrative Officer, Rural, Community & Culture Development
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ here.
 
 ***Government Scheme since it was launched, and how many are projected for purchase in 2024.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -358,7 +358,7 @@ funded through the Croí Conaithe (Towns) Fund, on behalf of the Department of H
 
 Local Government and Heritage.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -454,7 +454,7 @@ units in total in the Metropolitan District which represents 10.7% of the total 
 
 acquisition completions in the same timeframe.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -644,7 +644,7 @@ community to ensure the needs of the community are met as part of the design pro
 
 the project. A Part 8 planning application is required for the project and once planning is
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -714,7 +714,7 @@ Station and is engaging with the developer in relation to addressing outstanding
 
 **16.Question submitted by Councillor S. Kiely**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -810,7 +810,7 @@ since July of this year in light of the announcement of the ban on XL Bully dogs
 
 Minister for Rural and Community Affairs, Heather Humphries.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -882,7 +882,7 @@ addiction and mental health through the relevant provider.
 
 **REPLY**:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -968,7 +968,7 @@ of their annual rates, up to a maximum grant of €1,500 if the applicant is pay
 
 by Direct Debit or pays their annual rates in full by 31st July.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1046,7 +1046,7 @@ progression.
 
 Housing Directorate seeks confirmation from the vendor/Estate Agent that first-time
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1126,7 +1126,7 @@ Riverfest, Samhain and Christmas in Limerick are delivered primarily by the Fest
 
 Events team who are also responsible for the allocated budget for these events.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1216,7 +1216,7 @@ underway, aiming to gather input from a wide range of stakeholders. The outcome 
 
 consultation process will shape the Action Plan, a draft of which is expected in the coming
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1290,7 +1290,7 @@ Road will need to be considered once the Limerick City Transport Plan is finalis
 
 ***acquiring a stake in the Markets Field Stadium.***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1366,7 +1366,7 @@ Committee.
 
 ***permanent premises for their vital service.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1438,7 +1438,7 @@ The Notice of Motion was proposed by Councillor O’Donovan, seconded by Council
 
 agreed.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1508,7 +1508,7 @@ Development Agency.
 
 **38.Notice of Motion submitted by Councillor S. Kiely**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1582,7 +1582,7 @@ Strategic Policy Committee.
 
 ***wage, and factor that policy into all its contracts it undertakes.***
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1650,5 +1650,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

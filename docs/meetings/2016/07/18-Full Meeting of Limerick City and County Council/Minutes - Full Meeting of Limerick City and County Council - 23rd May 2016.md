@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20May%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -106,7 +106,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Circulated, copy of Statutory Notice dated 27th April, 2016, concerning disposal
 
 land at Rathmale, Mungret, Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Forces for their contribution, support and participation in the various ceremoni
 
 The Chief Executive’s Reports were noted by the Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ Circulated, correspondence dated 11th May, 2016, from the Manager, West Limerick
 
 Resources.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -488,7 +488,7 @@ in the ICT infrastructure.
 
 He then gave an analysis of over-expenditure by Service and outlined the following:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,7 +582,7 @@ significant variance in Revenue expenditure.
 
 accounts.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -662,7 +662,7 @@ May, 2016, together with copy of Charter for Limerick City and County Council’
 
 Committee.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -740,7 +740,7 @@ detailing its considerations and findings for the year just expired in relation 
 
 within its authority, duties and functions and send same to the Local Authority for
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -810,7 +810,7 @@ Dooradoyle, to honour the Religious Orders in Limerick which came under the ausp
 
 the Diocese of Cashel and Emly.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -884,7 +884,7 @@ Culture was €37m over 5 years. Formal approval from the Council was being soug
 
 proceed with the submission of the Limerick 2020 bid for European Capital of Culture.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -958,7 +958,7 @@ for funding. The Council was in a position to allocate funding to 30 projects/in
 
 criteria for assessment of projects included: meeting the City/County split, and
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1030,7 +1030,7 @@ identify viable uses and advance movement on the remaining strategic locations: 
 
 Site, Colbert Station Phase ll, Opera Site and the Georgian area.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1106,7 +1106,7 @@ Seconded by Councillor Scanlan;
 
 And Resolved:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1220,7 +1220,7 @@ Members: (a) Conference on The Value of Local Government held in Wexford from 11
 
 15th/16th April, 2016; (c) Open House Information Session on Lobbying Regulation held in
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1294,7 +1294,7 @@ water charges was not over and pointed out that over 1 million households were i
 
 The Motion was seconded by Councillor Keller.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1370,7 +1370,7 @@ during 2014 with the new valuations taking effect from 1st January, 2015.
 
 These valuations will form the basis for commercial rates in Limerick for
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1446,7 +1446,7 @@ submitted to the Office of Public Works for funding for this scheme in 2015
 
 and we await a response from the Office of Public Works.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1524,7 +1524,7 @@ waste bye-laws for City and County for the purpose of regulating and controlling
 
 morning collection of waste.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1604,7 +1604,7 @@ Councillors were previously notified of the membership of the Limerick
 
 Economic Forum, details as set out hereunder:
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1684,7 +1684,7 @@ people in the dangers of taking drugs was to be welcomed.
 
 The Motion was agreed.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1760,7 +1760,7 @@ University Hospital Limerick and to ensure that those infected with the Hepatiti
 
 can get adequate Infectious Disease assessment and treatment here in Limerick.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1830,7 +1830,7 @@ provide this training.
 
 The Motion was seconded by Councillor Sheehy and agreed.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1902,7 +1902,7 @@ As the Mayor had to leave the Meeting at this point, the Deputy Mayor, Councillo
 
 Mitchell, took the Chair for the remainder of the Meeting.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -1976,7 +1976,7 @@ buy back the Shannon Tunnel and make it a toll free route. He added that, in the
 
 Tunnel was a great idea, it was a great way to avoid the city but that people were still
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2052,7 +2052,7 @@ Policy Committees and said that an amendment had previously been made to the Sta
 
 Orders for Strategic Policy Committees so that Meetings would be held two weeks in
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2096,5 +2096,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 

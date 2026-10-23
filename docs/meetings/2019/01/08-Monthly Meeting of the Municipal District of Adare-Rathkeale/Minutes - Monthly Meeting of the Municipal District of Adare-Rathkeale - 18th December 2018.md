@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 18th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20Minutes%2018th%20December%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -84,7 +84,7 @@ Items 12 and 13 would be taken first.
 
 **delayed time frame that was occured during the recent rent review process. In**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ cases.
 
 The Motion was proposed by Councillor Teskey and seconded by Councillor Keary.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ Circulated, report of the Chief Executive, dated 30th November, 2018 setting out
 
 proposed amendment to the Adare Local Area Plan 2015 – 2021 which relates to the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,7 +298,7 @@ Councillor Sheahan:
 
 **Update on Taking-In-Charge of An Curran, Pallaskenry**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -366,7 +366,7 @@ Applicant must be living alone and in receipt of a living alone allowance or wit
 
 spouse/partner who also qualifies.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -448,7 +448,7 @@ requires the contractor to repair public lights within 10 working days from
 
 the date faults are reported.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -518,7 +518,7 @@ the Woodlands Hotel and also footpaths from the new roundabout to the village
 
 of Adare need to be considered during constrution of the Adare bypass.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -538,5 +538,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

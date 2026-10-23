@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council to consider the Issues Paper for the Regional and Spatial Economic Strategy for the Southern Region - 4th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/00%20Agenda%20Special%20Meeting%20041217.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -69,5 +69,5 @@ Corpordee t Headquarters, Merchants Quay, Limerick ( 061 - 587150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

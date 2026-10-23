@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/02%20Minutes%20JPC%20Sub%20Committee%20Meeting%2021st%20November%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -67,7 +67,7 @@ should be left on display in cars.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -118,5 +118,5 @@ Date:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

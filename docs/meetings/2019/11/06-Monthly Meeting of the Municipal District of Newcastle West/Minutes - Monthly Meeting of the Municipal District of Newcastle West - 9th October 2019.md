@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 9th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29-2019-10-09-Minutes-October.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ A discussion took place on the highest bid for the property and the future use o
 
 building. The Members noted the proposed for the disposal of 36 Cecil Street, Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Members also wished Abbeyfeale Community Council well in the upcoming All Irelan
 
 of Place Awards.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -272,7 +272,7 @@ Road markings and Road Traffic Signage plus poles
 
 Fingerpost signage
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Question submitted by Councillor L Galvin
 
 ***problematic roads.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -432,7 +432,7 @@ Meeting if these are available. The Members also complimented staff on the work 
 
 out to date on the project.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ Question submitted by Councillor T. Ruddle
 
 ***hindered.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -594,7 +594,7 @@ appointing suitably qualified consultants to prepare a Sports & Recreation
 
 Strategy for the Council. This strategy will examine the need for new facilities.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ The cutting back of trees at Cullinagh Newcastle West was also requested as publ
 
 hidden by overgrown trees.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -692,5 +692,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

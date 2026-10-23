@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 20th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Meeting%20of%20Joint%20Policing%20Sub-Committee%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2020th%20October%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -88,7 +88,7 @@ Kilmallock Barracks in Unit D. It was highlighted that the public should contact
 
 emergency rather than the local Garda Station as calls would be guaranteed to be answered.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -216,7 +216,7 @@ Acting Superintendent Brennan noted that the County Drug unit was now staffed wi
 
 Sergeant which should see an increase in detections.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -346,7 +346,7 @@ An awareness campaign regarding the offence of parking on the footpath was put f
 
 suggestion for Limerick City and County Council.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -388,5 +388,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

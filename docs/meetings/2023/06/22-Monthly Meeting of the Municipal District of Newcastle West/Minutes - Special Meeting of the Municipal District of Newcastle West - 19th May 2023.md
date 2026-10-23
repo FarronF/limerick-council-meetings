@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 19th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-Special-Meeting-of-the-Municipal-District-of-Newcastle-West-19th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
@@ -88,7 +88,7 @@ that were originally designed for a horse and cart, not a cycle lane and a car. 
 
 the very least we should cost a distributor road as this opens up a huge pocket of land for
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ South West pocket of Newcastle West is crucial to Limerick City and County Counc
 
 believed a distributor road through the Woodfield estate will remove a lot of the issues.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -180,5 +180,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

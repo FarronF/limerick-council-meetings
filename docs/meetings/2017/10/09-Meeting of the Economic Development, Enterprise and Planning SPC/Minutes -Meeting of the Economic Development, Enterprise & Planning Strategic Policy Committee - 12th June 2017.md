@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 12th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20%26%20Planning%20Strategic%20Policy%20Committee%20%20-%2012th%20June%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -124,7 +124,7 @@ Ms Humphries outlined that there are a number of existing programmes in rural
 
 areas to support social enterprise including actions under LEADER and the SICAP
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 programme. SICAP supports unemployed people to progress into employment in
 
@@ -204,7 +204,7 @@ Regulations so we are not in a position to change this process.
 
 ***destructive industries in Limerick City & County Council.’***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 It was agreed that this item would be deferred to the next SPC meeting as Cllr C
 
@@ -254,5 +254,5 @@ Chairperson
 
 Economic Development, Enterprise and Planning Strategic Policy Committee
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

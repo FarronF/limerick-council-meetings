@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Municipal District of Newcastle West - 11th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_of_newcastle_west_-_minutes_of_meeting_11_june_14.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -66,7 +66,7 @@ Seconded by Councillor Sheahan;
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -130,7 +130,7 @@ Members imminently. The Director provided an update on the Customer Relationship
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -178,5 +178,5 @@ Dated:
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

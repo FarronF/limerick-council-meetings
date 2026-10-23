@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Special Meeting of the Metropolitan District of Limerick - 15th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28b%29%20Draft%20Minutes%20-%20Special%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2015th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -90,7 +90,7 @@ She confirmed that the High Court had ordered that the process should be reverte
 
 Council’s Chief Executive’s Report phase, and had further ordered that the Council had until the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ total number of build-to-rent apartments is 30, containing 104 bed spaces. Overa
 
 area at or above ground level is 14,358m2.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,5 +256,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

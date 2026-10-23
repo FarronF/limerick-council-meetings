@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 25th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28b%29%20Minutes%20Special%20Meeting%2025th%20February%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -88,7 +88,7 @@ Limerick is borrowing money from the European Investment Bank to finance the
 
 redevelopment of the City.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -174,7 +174,7 @@ Key Attributes and Enablers of Limerick including City Centre Revitalisation, th
 
 Georgian Quarter and creation of a Living City are not represented and are requested
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -258,7 +258,7 @@ Southern Region
 
 not yet commenced. However, this is not clear in the document. As this is not a tried
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -348,7 +348,7 @@ discussion then took place and the Members raised the following issues:
 
 • The growth and development of rural Limerick is not considered in this Strategy
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -436,7 +436,7 @@ Executive that to include a policy that bans incineration in the RSES would be c
 
 national policy.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -492,5 +492,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

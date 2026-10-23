@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Municipal District of Newcastle West - 19th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%202018-10-19%20Agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -72,5 +72,5 @@ w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

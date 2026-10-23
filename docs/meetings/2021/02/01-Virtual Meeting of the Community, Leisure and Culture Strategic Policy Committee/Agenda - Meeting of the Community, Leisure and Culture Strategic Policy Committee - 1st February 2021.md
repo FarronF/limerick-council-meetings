@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 1st February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/20210201-agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -88,5 +88,5 @@ Date of Next Meeting.
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

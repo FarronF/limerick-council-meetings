@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 10th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2010th%20February%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -88,7 +88,7 @@ his love of the Irish language.
 
 A minute’s silence and reflection was observed as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Co. Limerick.
 
 Members noted the proposal.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Collins, it was ag
 
 allocate €1,000 to Athea Hall.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -300,7 +300,7 @@ Maiden Street, Newcastle West as part of lot in the Newcastle West District. Leg
 
 are underway at present.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,7 +378,7 @@ The layout of the Abbeyfeale Traffic Management Scheme is attached overleaf.
 
 **(c) Costings**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -406,7 +406,7 @@ It is planned to award the advance works contract for demolition of O’Riordan�
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -486,7 +486,7 @@ In proposing the Motion, Councillor Scanlan referred to the poor condition of se
 
 footpath at the Mass Path to Assumpta Park, Bóthar Bui Road and along St. Ita’s Road to
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -562,7 +562,7 @@ where vulnerable people live.
 
 ***Meenoline South next to the Greenway.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -634,7 +634,7 @@ the Executive Engineer agreed to follow up with Transport Infrastructure Ireland
 
 matter.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -686,5 +686,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

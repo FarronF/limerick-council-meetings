@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01a%20Minutes%2017th%20September%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ It was agreed that the report be amended to include the commitment given by the 
 
 maintain the pumping station until this responsibility was transferred to Irish Water.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ prepared in accordance with Section 179 3(a) of the Planning and Development Act
 
 amended) and Part 8 of the Planning and Development Regulations, 2001 (as amended) and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -352,7 +352,7 @@ Daly, that the following amendments be made to the Scheme:
 
 That the four bedroom houses be taken out and replaced with three bedroomed houses
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ are working with the property owners in relation to carrying out remedial
 
 measures to remove the property from dereliction.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -526,7 +526,7 @@ constructed in 2018 to date is 42 with the total projection for 2018 of 61. Thes
 
 are broken down as follows: 42 – Southill and 19 – St. Mary’s Park.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -606,7 +606,7 @@ Tel: +353 1 6463600
 
 info@tii.ie
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -686,7 +686,7 @@ Committee.
 
 ***Bins.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -762,7 +762,7 @@ in relation to this Notice of Motion and to also request that the rate of pay fo
 
 services be looked at.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -784,5 +784,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2014th%20February%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ receive a Deputation from Kilteery Pier Group at a future Meeting of the Municip
 
 of Adare-Rathkeale.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ allocate the following:
 
  €1,000 to Askeaton St. Patrick’s Day Parade.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ development. The onus is on the applicant to ensure all necessary consents are i
 
 place prior to the commencement of development.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ Town and Village Grants to deliver the approved scheme which will be a good exam
 
 of deliver on Governments Town Centre first Policy.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -458,7 +458,7 @@ Accordingly, there are no plans to carry out Traffic Calming on Roches Road.
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -502,5 +502,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 14th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-a-draft-minutes-of-monthly-meeting-14th-may-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -94,7 +94,7 @@ regarding the proposed upgrade works and completion date of same which had been
 
 circulated in the Askeaton area.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ accommodation such as halting site accommodation and in agreement with the curre
 
 tenants in Hillview Halting Site. The A/Senior Executive Officer, Traveller Accommodation
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Following discussion on grass cutting in Rathkeale, the following issues were ra
 
 Members:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ to allocate the following:
 
  €1,000 to Adare Soccer Club.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ allocate the following:
 
  €600 to Kilcornan Soccer Club.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -480,7 +480,7 @@ undertake maintenance works along the N21 Traffic Calming at Croagh.
 
 **due to potholes or poor road surface.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ funding.
 
 **at Kilfinny Cross with a view to making it safer for pedestrians.**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ referred to the next Full Meeting of Limerick City and County Council, recommend
 
 policy change to the calculation of social housing rents at the next estimates Meeting.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -714,5 +714,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

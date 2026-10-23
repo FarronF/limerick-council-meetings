@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/2%20.%20%20Minutes%20of%2021st%20April%20%20Municipal%20District%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -84,7 +84,7 @@ A request was made that feedback be received from Minister Peter Burkes office r
 
 correspondence sent from the Municipal District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Correspondence
 
@@ -144,7 +144,7 @@ and environmental initiatives to be used in the development.
 
 **Seconded: Councillor Mitchell**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 6. Strategy & Non LA Housing Construction
 
@@ -218,7 +218,7 @@ determine the most appropriate infrastructure to be used at this location.
 
 **Seconded by: Councillor Carey**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 8. Notice of Motion submitted by Councillor Egan
 
@@ -274,7 +274,7 @@ may be required*.*
 
 **Seconded by: Councillor Mitchell**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 QUESTIONS
 
@@ -354,7 +354,7 @@ considered for compulsory acquisition under the derelict sites legislation where
 
 derelict site within their functional area. An application is made to An Bord Pleanála for
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 consent to the acquisition, on foot of an objection received from an Owner to a Notice of
 
@@ -418,7 +418,7 @@ maintenance programme for 2022/2023 for cleaning inlets and gullies.
 
 ***The Questions were taken as read.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Any other Business
 
@@ -484,5 +484,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

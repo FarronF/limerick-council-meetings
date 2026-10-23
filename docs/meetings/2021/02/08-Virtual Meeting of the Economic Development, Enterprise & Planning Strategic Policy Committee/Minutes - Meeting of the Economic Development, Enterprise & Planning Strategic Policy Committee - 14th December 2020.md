@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 14th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/item-1-minutes-of-spc-mtg-14th-december-2020_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -92,7 +92,7 @@ accommodation for all ages and inclusion of retail and office space to encourage
 
 facilities to encourage arts, culture and sporting activities.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 A number of stakeholder meetings took place and feedback from these will inform the next stage of
 
@@ -170,7 +170,7 @@ She stated that a workshop would be organised for elected members to discuss rur
 
 development of towns and villages and the promotion of use of serviced sites.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 It was confirmed that a list of protected structures in each of the Municipal Areas had been circulated
 
@@ -238,7 +238,7 @@ consideration as they have responsibility for the management of the river.
 
 It was agreed to circulate a copy of the presentation to members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 5**
 
@@ -268,5 +268,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

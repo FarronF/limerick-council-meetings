@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Minutes%20of%20meeting%2009.11.17.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **COMMUNITY, LEISURE AND EMERGENCY SERVICES STRATEGIC POLICY**
 
@@ -98,7 +98,7 @@ applauded the work being undertaken by the group and pledged their support to
 
 EmployAbility.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3:**
 
@@ -186,5 +186,5 @@ Cllr. Hurley thanked her predecessor Cllr. F. Foley
 
 **Date:**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

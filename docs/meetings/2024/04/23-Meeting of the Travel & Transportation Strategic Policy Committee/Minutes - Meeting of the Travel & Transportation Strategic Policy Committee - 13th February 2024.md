@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-13th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -68,7 +68,7 @@ questions/comments.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,7 +156,7 @@ He also enquired if the new speed limit reduction of 50kp/h would apply on the B
 
 Road.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ and subject to further comments, to finalise the policy wording and recommend th
 
 the Full Council for adoption.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,9 +302,9 @@ SPC Meeting is scheduled for Tuesday, the 16th of April 2024. This concluded the
 
 meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

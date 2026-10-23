@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 18th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ Limerick Junction and highlighted the following issues: -
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -148,7 +148,7 @@ to be considered in the commuter rail study
 
 and he hopes to revert by September with an update.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,7 +212,7 @@ MC read the response as follows:
 
 *fines can be significantly higher.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -286,7 +286,7 @@ We have reviewed your request and can confirm that the following is the position
 
 *Licence.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -358,7 +358,7 @@ accessibility objectives of LSMATS?
 
 *provision as we did not receive any tenders.*
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -408,5 +408,5 @@ make a work programme.
 
 This concluded the business of the meeting.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

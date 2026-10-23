@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Cappamore-Kilmallock - 11th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/02%20Minutes%20JPC%20Meeting%2011%204%2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -67,7 +67,7 @@ additional resources including staffing and a policing plan for the area.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -106,5 +106,5 @@ Date:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

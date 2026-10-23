@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-9th-december-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ provide an update after the adoption of the Minutes.
 
 Proposed by Councillor O’Donoghue;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ the Cathaoirleach of any declaration of interest in any item due for discussion 
 
 Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ and County Council’s contribution would be. The Senior Executive Engineer,
 
 Environment and Climate Action advised she was awaiting Uisce Éireanns cost estimate
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ allocate the following:
 
 • €4,000 to Kilcornan Community Council.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -364,5 +364,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

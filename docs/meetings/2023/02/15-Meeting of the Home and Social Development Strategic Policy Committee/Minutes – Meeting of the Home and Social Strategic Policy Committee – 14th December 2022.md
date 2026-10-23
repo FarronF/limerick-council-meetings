@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -102,7 +102,7 @@ Mr. Joe Delaney, Director of Service, Limerick Regeneration updated the Group on
 
 The Economic and Social Intervention Fund (ESIF) Plans for funding after 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -206,7 +206,7 @@ Cllr. Stephen Keary requested that the line in the draft housing one-rep policy 
 
 Councillor or one Oireachtas member can make representations on behalf of a customer in
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -306,7 +306,7 @@ November, 2022:
 
 *Mid-West Homeless Plan 2022-2025*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -404,7 +404,7 @@ Cllr. Tom Collopy welcomed inviting the AHB’s as it would be a learning curve 
 
 for all Councillors.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -434,5 +434,5 @@ Merry Christmas.
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

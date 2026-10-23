@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 13th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/agenda-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -78,7 +78,7 @@ Development Strategic Policy Committee) - 10th October 2024
 
 *households with changes in circumstances.*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Notice of Motion submitted by Councillor S. Beasley – 31st January 2025
 
@@ -112,5 +112,5 @@ Home and Social Development Strategic Policy Committee)
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

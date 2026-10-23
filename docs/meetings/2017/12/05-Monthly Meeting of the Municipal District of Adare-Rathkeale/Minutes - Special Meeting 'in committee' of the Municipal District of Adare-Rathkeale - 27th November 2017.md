@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting 'in committee' of the Municipal District of Adare-Rathkeale - 27th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28d%29%20Minutes%20Special%20Meeting%2027th%20November%2C%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -86,7 +86,7 @@ regard locally.
 
 the Adare locality.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ improving the economic position of Adare and County Limerick generally and the n
 
 to have regard to the interests of all of Adare.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -192,5 +192,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

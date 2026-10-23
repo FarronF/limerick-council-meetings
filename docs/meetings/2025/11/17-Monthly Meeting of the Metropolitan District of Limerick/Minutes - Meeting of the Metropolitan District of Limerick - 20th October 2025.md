@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-metropolitan-district-of-limerick-20th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -104,7 +104,7 @@ The proposed breakdown was outlined as follows:
 
 **235,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Laneways Programme, noting that the Programme forms part of the Living Limerick 
 
 (LLCC) Initiative.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ in accordance with the provisions of the Planning and Development Act 2000 (as a
 
 the Planning and Development Regulations 2001 (as amended).
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ environment. The A2 BER-rated, five-bedroom property is located on a large site 
 
 an internal gross floor area of 172m².
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ A number of issues are still under consideration by the project team prior to th
 
 of the preferred route, and it is hoped that these will be resolved in the near future.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -554,7 +554,7 @@ of this scheme with intended delivery next year subject to funding.
 
 **16.Question submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -646,7 +646,7 @@ sign a Friendship Agreement. This agreement unites Limerick and Savannah in both
 
 cultural and economic partnership. We also welcomed a delegation from Georgia in May
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -720,7 +720,7 @@ end of the year.
 
 **22.Question submitted by Councillor M. Donoghue**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -796,7 +796,7 @@ measure.
 
 *City, One Book* model for both Limerick City & County.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -872,7 +872,7 @@ Details of the proposed scheme have been circulated to the various directorates 
 
 and/or comment and we await their feedback. Assuming no further design changes and/or
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -924,7 +924,7 @@ Estimated completion date for each LA Affordable Purchase scheme in 2026 and 202
 
 (Image omitted)
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -996,7 +996,7 @@ In proposing the Motion, Councillor Beasley stated that regular updates on avail
 
 properties would be beneficial to Members.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1072,7 +1072,7 @@ volumes in the area.
 
 **35.Notice of Motion submitted by Councillor U. Gavan**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1162,7 +1162,7 @@ a workshop with the Metropolitan District members, as well as a review of the fe
 
 Members consider that there was very little public awareness of the event and expressed concern
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1236,7 +1236,7 @@ housing would provide a better quality of life for tenants and enhance the overa
 
 **40.Notice of Motion submitted by Councillor S. Kiely**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1314,7 +1314,7 @@ of the last remaining seats.
 
 The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor Gavan and
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1394,7 +1394,7 @@ was requested by the Elected Members. On foot of this, the Council has been revi
 
 their operation with a view to identifying potential outdoor dining solutions within the
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1432,5 +1432,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

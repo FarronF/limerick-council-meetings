@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 10th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/00%202023-02-10%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%20%2010th%20February%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,7 +77,7 @@ Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -129,7 +129,7 @@ road linking the River Arra and the Bridge of Tears Roundabout.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -193,7 +193,7 @@ Passage, Meenoline South next to the Greenway.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -212,5 +212,5 @@ way system towards Assumpta Park in the interest of pedestrian and vehicular saf
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

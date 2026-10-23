@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **16th** **June 2023.**
 
@@ -56,7 +56,7 @@ Kilmallock held on the 18th May 2023
 
 Relating to the Minutes of the Municipal District Meeting of 18th May 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -106,5 +106,5 @@ I will ask at the next Municipal District meeting are there any plans for a Colu
 
 or Ash Plots in the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

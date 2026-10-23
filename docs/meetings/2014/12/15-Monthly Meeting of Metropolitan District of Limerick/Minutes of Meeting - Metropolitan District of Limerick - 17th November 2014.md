@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 17th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_17th_november_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
@@ -104,7 +104,7 @@ that consideration be given, in developing the Cleeves Site, to its historical r
 
 the Limerick Soviet of 1919.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Proposed by Councillor Hourigan;
 
@@ -208,7 +208,7 @@ also expressed that communities see this as a positive development as it creates
 
 open spaces.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Discussion took place in relation to the needs of some locations adjacent to the
 
@@ -302,7 +302,7 @@ The redevelopment of the Fireplace Site in Kings Island was under review and wil
 
 have regard to the heritage value of the property.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 (b)
 
@@ -400,7 +400,7 @@ unit cost of redevelopment with the potential unit cost of rebuilding.
 
 The extent of tenure required by Clúid arose from their need to borrow to part fund
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 the development and there will not be a one year review of the contract.
 
@@ -486,7 +486,7 @@ issued recently by the DTTAS. The Circular asks Local Authorities to
 
 undertake a review process of speed limits in housing estates. In effect, the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Circular is suggesting the use of 30kph Speed Limits in Housing Estates with
 
@@ -572,7 +572,7 @@ Councillors Butler, Byrne, Collins, Daly, Hourigan, Hurley, Leddin, Lynch, O'Dea
 
 Secas and Sheahan.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **Against the Amendment:**
 
@@ -654,7 +654,7 @@ is preferable because it requires an interaction between the pedestrian and
 
 the motorist that ensures the pedestrian does not step off the kerb until it is
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 safe to do so. With a signal control, some pedestrians assume that the
 
@@ -740,7 +740,7 @@ before the Transportation and Infrastructure SPC when it is established in
 
 2015.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 To allow for enforcement of the Bye Laws an additional Traffic Warden, based
 
@@ -756,5 +756,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

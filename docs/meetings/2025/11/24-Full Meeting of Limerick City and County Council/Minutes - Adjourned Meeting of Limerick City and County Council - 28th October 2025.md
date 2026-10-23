@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Meeting of Limerick City and County Council - 28th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-adjourned-meeting-of-limerick-city-and-county-council-28th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF LIMERICK
 
@@ -88,7 +88,7 @@ He noted that he does not have confidence in the current level of resources avai
 
 deliver the Mayoral programme, emphasising the need for more support.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 A discussion took place regarding the need to create a respectful environment for all within
 
@@ -162,7 +162,7 @@ highlighted the importance of working together to produce a balanced budget. He 
 
 Members to submit their priorities for projects to be include in the Mayoral Fund 2026.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Mayor presented the objectives and associated budget costs for the pillars More
 
@@ -188,5 +188,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

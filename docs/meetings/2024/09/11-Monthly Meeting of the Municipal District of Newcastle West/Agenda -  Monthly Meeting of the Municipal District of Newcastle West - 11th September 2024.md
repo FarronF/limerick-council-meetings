@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda -  Monthly Meeting of the Municipal District of Newcastle West - 11th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-2024-09-11-agenda-september.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -84,7 +84,7 @@ Corporate Headquarters, Merchant's Quay, Limerick ee gr
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -141,7 +141,7 @@ be significantly improved.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -204,7 +204,7 @@ Treatment Plant facilities in Newcastle West taking place.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -218,5 +218,5 @@ our towns and villages and that it would be properly funded.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

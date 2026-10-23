@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 22nd January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/minutes-meeting-of-limerick-city-and-county-council-22.01.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ Circulated, copies of draft Minutes of the following Meetings:
 
 (d) Special Meeting of the Council held on 29th December, 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Deed of Conveyance of the freehold interest of Limerick City and County Council 
 
 property, particulars of which were contained in Statutory Notice dated 5th December, 2023.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ County Council in the property, particulars of which were contained in Statutory
 
 13th December, 2023.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ the property, particulars of which were contained in Statutory Notice dated 18th
 
 2023.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Conveyance of the freehold interest of Limerick City and County Council in the p
 
 particulars of which were contained in Statutory Notice dated 18th December, 2023.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -500,7 +500,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 (0.123 hectares) of land at Turagh Crescent, Cappamore, Co. Limerick, to Clúid Housing
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,7 +582,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 comprising 1 acre (Site C) at Kilmallock Business Park, Kilmallock, Co. Limerick, to IC Motor
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -664,7 +664,7 @@ hectares of land at Dromdarrig, Mungret, Co. Limerick, to Clúid Housing, for th
 
 2024.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -746,7 +746,7 @@ and County Council to be discharged by Clúid Housing Association, particulars o
 
 contained in Statutory Notice dated 10th January, 2024.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -828,7 +828,7 @@ enclosing Draft Annual Service Delivery Plan 2024 for Limerick City and County C
 
 including, as an Appendix, a Review of the 2023 Service Delivery Plan.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -914,7 +914,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -990,7 +990,7 @@ held on 7th December, 2023.
 
 The report was noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1070,7 +1070,7 @@ Council approved the attendance of the following Members:
 
 Donegan, Sheahan (K), Teskey, Foley, Galvin, Collins (M).
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1152,7 +1152,7 @@ Dooradoyle Road, Ennis Road (two locations), Father Russell Road, High Street
 
 R510 between Quinn’s Cross and the Raheen Roundabout, recently installed
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1260,7 +1260,7 @@ Question submitted by Councillor C. Sheehan
 
 **establishment of the scheme.**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1350,7 +1350,7 @@ key community stakeholders showcasing the work groups and organisations
 
 carry out in their local communities.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1432,7 +1432,7 @@ buildings at Rathkeale and Askeaton, and will progress to the relevant consent,
 
 when an appropriate use has been established.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1512,7 +1512,7 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 2000, as amended, was also available on SharePoint for inspection by the Members.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1538,5 +1538,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

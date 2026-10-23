@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Metropolitan District of Limerick - 15th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20May%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
@@ -96,7 +96,7 @@ grounds that it would assist Mungret Regional Football Club in drawing down fund
 
 enhance their capacity to deliver facilities for their growing membership.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ from the national and local viewpoint, including targets, funding, delivery mech
 
 local project details.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -270,7 +270,7 @@ Raheen, Castletroy and Newcastle West.
 
  In relation to the activation of land, four sites had been submitted to the Department under
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ Transportation and Environment Strategic Policy Committees.
 
 The motion was proposed by Councillor Secas and seconded by Councillor Costelloe.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ In this particular case, the road in question is 620 metres long by an average
 
 width of 3 metres. It serves four houses, some farmland and is also used as an
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -512,7 +512,7 @@ available sites.
 
 Correspondence, as circulated, was noted.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -546,5 +546,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

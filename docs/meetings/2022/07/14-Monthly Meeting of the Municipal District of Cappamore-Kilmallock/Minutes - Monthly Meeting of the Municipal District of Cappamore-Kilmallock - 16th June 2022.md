@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/02%20Minutes%20of%2016th%20June%20Municipal%20District%20of%20Cappamore-Kilmallock%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -82,7 +82,7 @@ Members were advised that this was an item for discussion on the agenda and it w
 
 to continue the discussion when the item arose.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Disposal of Property
 
@@ -144,7 +144,7 @@ Flood Zone A location.
 
 It was noted that the Original planning permission would no longer apply.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A portion of the Malachy Walsh report was read to the Elected Members, and it was noted
 
@@ -218,7 +218,7 @@ of the AGM.
 
 **Seconded: Councillor Mitchell.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 NOTICES OF MOTION
 
@@ -282,7 +282,7 @@ Bewleys.
 
 **Seconded: Councillor Donegan**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 8. Notice of Motion submitted by Councillor Donegan
 
@@ -358,7 +358,7 @@ prepared for the relevant funding authority.
 
 **Seconded: Councillor Egan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 QUESTIONS
 
@@ -436,7 +436,7 @@ Contractors to deliver the works have been procured so there will be no delay on
 
 available.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 15.
 
@@ -506,7 +506,7 @@ It was noted that batteries were being stolen from Driver Feedback signs. It was
 
 this item would be included on the agenda for the Joint Policing Committee Meeting in July.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Next Meeting
 
@@ -524,5 +524,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

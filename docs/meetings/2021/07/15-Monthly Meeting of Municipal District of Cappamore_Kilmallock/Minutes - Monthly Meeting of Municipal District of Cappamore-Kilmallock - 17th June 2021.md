@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-minutes-17th-june-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -76,7 +76,7 @@ Councillor Egan requested his motion from the April meeting on Rail Network upgr
 
 forwarded for the Agenda of the next full Council meeting from the District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ two on either side.”
 
 The motion was proposed by Councillor Carey, seconded by Councillor Donegan and agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -198,7 +198,7 @@ works be carried out such as a staggered junction at Patrickswell Cross roads on
 
 Herbertstown to Holy Cross road.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -252,7 +252,7 @@ identify locations where he feels there is a signage issue, we will review the s
 
 ensure it complies with National Policy.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -318,7 +318,7 @@ previous weekend.
 
 who worked on the sewerage blockage in Murroe
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -378,5 +378,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

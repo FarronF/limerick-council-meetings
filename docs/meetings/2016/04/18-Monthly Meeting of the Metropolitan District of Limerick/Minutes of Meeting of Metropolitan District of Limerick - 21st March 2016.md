@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Metropolitan District of Limerick - 21st March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -92,7 +92,7 @@ of strategic action points which included :
 
  The representation of Limerick Chamber on key Council Committees to assist in driving the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ their views in relation to a range of issues pertinent to the city.
 
 support staff would also be required.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ noted that the main building, the chimney and a reservoir were listed and that o
 
 merited conservation would be conserved.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ been granted for a new Central Library for Limerick under the new Library Capita
 
 Investment Programme 2016 – 2021.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -460,7 +460,7 @@ certified marathon, a half marathon and a 6 mile run/walk and relay marathon.
 
 The University of Limerick Orchestra present their annual Summer Proms Concert
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -546,7 +546,7 @@ festival.
 
 ***Council’s ownership.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -634,7 +634,7 @@ In line with the commitment in the LRFIP for monitoring and review of the
 
 programme, a review of the demolition and retention strategy took place in 2015.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -648,5 +648,5 @@ demolished and will be presented to the Elected Members at the next meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

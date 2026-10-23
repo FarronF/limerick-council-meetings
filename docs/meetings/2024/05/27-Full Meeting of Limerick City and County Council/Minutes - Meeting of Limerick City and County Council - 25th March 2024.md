@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 25th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-minutes-meeting-of-limerick-city-and-county-council-25th-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ emergency funding to help support the funding of repair works to roads in the lo
 
 area which are affected by recent bad weather.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ the approval of the Council be and is hereby given to the disposal of land compr
 
 (2.738 acres) at Rosbrien, Limerick, to the Health Service Executive, for the sum of €1, with
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,7 +424,7 @@ agrees to discharge Limerick City and County Council’s legal costs, particular
 
 contained in Statutory Notice dated 12th March, 2024.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ contained within the Lease, particulars of which were contained in Statutory Not
 
 March, 2024.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,7 +582,7 @@ Government and Heritage for a loan in the amount of €5,590,000 to fund the dra
 
 Local Authority Home Loans.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -660,7 +660,7 @@ Seconded by Councillor Egan;
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -742,7 +742,7 @@ Clare County Council and Kerry County Council on this, and the Chief Executive a
 
 discuss this with his counterparts in those local authorities so as to ensure a joint approach.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -814,7 +814,7 @@ Development Strategic Policy Committee to fill vacancy consequent on the resigna
 
 Tracy McElligott.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -890,7 +890,7 @@ The Chairperson’s report was noted by the Council
 
 ***on 25th March, 2024, for adoption.**“***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -964,7 +964,7 @@ meeting of the Committee held on 20th February, 2024.
 
 The Chairperson’s report was noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1046,7 +1046,7 @@ its Local Authority Climate Action Plan 2024-2029 on a monthly basis in the Coun
 
 Chief Executive Report.”
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1124,7 +1124,7 @@ Community Development Committee.
 
 The LCDC Annual Report 2023 was noted by the Members.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1202,7 +1202,7 @@ both with an address at 107, Glenmaroon Road, Palmerstown, D20 PW22;
 
 during 2022 and 2023;
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1290,7 +1290,7 @@ Limerick Greenway Hub @ Newcastle West
 
 Part 8 Planning Reference 23 - 8015
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1378,7 +1378,7 @@ On the proposal of Councillor Sheehan (C), seconded by Councillor Collins (B), t
 
 Motion was adopted.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1430,5 +1430,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

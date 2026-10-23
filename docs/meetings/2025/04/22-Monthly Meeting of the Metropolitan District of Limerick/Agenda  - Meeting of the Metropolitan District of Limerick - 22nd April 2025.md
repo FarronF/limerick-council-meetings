@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda  - Meeting of the Metropolitan District of Limerick - 22nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-metropolitan-district-of-limerick-22nd-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -88,7 +88,7 @@ v @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,7 +150,7 @@ place with the owners of the site at 34 - 41 Catherine Street to determine when 
 
 and refurbishment of these key protected structures will be complete and ready for occupation.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -216,7 +216,7 @@ Department provide us with a detailed breakdown of costs for Riverfest 2024 on a
 
 by-line basis.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -282,7 +282,7 @@ recognition be installed at Limerick toll for adapted vehicles as it is in place
 
 Ireland.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -360,5 +360,5 @@ Put up additional signage in communities.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

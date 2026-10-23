@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 19th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-january-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **3.Limerick City Centre**
 
@@ -166,7 +166,7 @@ Members thanked the team for their hard work in ensuring the Christmas in Limeri
 
 campaign was a huge success.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **(b)Vacant Business Premises Rates Incentive Scheme 2026**
 
@@ -228,7 +228,7 @@ noting that this will require a Part 8 planning consent.
 
 ***when**a public toilet**will be installed**at Castletroy Park and Clare Street Park.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **REPLY:** There are public toilet facilities physically in place at Castletroy Park but these
 
@@ -298,7 +298,7 @@ the works contract to PBC Ltd. to advance construction on the Living Georgian Ci
 
 an anticipated 19 month works programme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **10.Questionsubmittedby Councillor S. Beasley**
 
@@ -378,7 +378,7 @@ enforcement under the Act for this offence is very challenging.
 
 ***venues**in the Metropolitan District.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **REPLY:** An application for the 2025 Community Safety Fund to implement this initiative city
 
@@ -474,7 +474,7 @@ from Homelessness in the requested years has been as follows:
 
 80
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **13.Questionsubmittedby Councillor E. Secas**
 
@@ -586,7 +586,7 @@ Halloween at Lough Gur visitor centre
 
 €3,500
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Programming:
 
@@ -682,7 +682,7 @@ publication of the preferred route corridor. We also await the announcement of t
 
 ***County Council will be implementing inline bus stops which allow buses**to collect***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 ***passengers without having to pull in off the road on routes throughout Limerick**City**to aid***
 
@@ -842,7 +842,7 @@ Patrickswell
 
 • ***Mill Road***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **REPLY:**  It’s important to note that each project presents unique challenges, influenced by
 
@@ -918,7 +918,7 @@ VAT). MHL Consulting assessed the claims and determined a final account sum of
 
 process.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 On October 28, 2025, the Conciliator recommended a final payment of
 
@@ -986,7 +986,7 @@ April 2026. If further works are required the Council will apply for a S38 notic
 
 implement further Traffic Calming measures
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **19.Questionsubmittedby Councillor M. Donoghue**
 
@@ -1060,7 +1060,7 @@ accommodation for homeless persons/emergency accommodation. An amount of
 
 accommodation.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 The number of families availing of these services is reported monthly in the Executive
 
@@ -1128,7 +1128,7 @@ event).
 
 finalised and includes proposed public realm design layouts for several key areas.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 We will be a presentatiing to Councillors and further Public Engagement events will
 
@@ -1260,7 +1260,7 @@ December
 
 **33**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 Total no. dogs to enter shelter
 
@@ -1328,7 +1328,7 @@ The current status related to the Food Hub is that a preferred premises has been
 
 identified and the Council are working with stakeholders to secure the purchase.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **29.Questionsubmittedby Councillor O. O’Sullivan**
 
@@ -1542,7 +1542,7 @@ Table 2 identifies the timeline of when commencement notices were served.
 
 **193**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 **NOTICES OF MOTION**
 
@@ -1608,7 +1608,7 @@ Members welcomed the motion and acknowledged the benefit this would have for the
 
 people of Limerick and for retailers in the area.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 **REPLY:** Parking regulations in Ireland do not specifically address click and collect parking
 
@@ -1686,7 +1686,7 @@ bin” approach. The Council no longer provides pet waste bins or dedicated pet 
 
 bag dispensers following a review of public health concerns, improper use and cost
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 efficiency concerns. Most dog bins have now been removed and replaced with street
 
@@ -1758,7 +1758,7 @@ engagement with the registered property owner to initiate the process of taking 
 
 charge the said section of public carriageway.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 **35.Notice of Motionsubmittedby Councillor C. Slattery**
 
@@ -1832,7 +1832,7 @@ down the full allocation. They requested that a detailed review be undertaken, i
 
 timeline of events outlining the actions that led to these delays.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 In response, the Senior Executive Officer, Strategy & Non-LA Housing Construction,
 
@@ -1898,7 +1898,7 @@ to return the property to stock. Works are carried out to ensure that it complie
 
 the Housing (Standards for Rented Houses) Regulations 2019.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 Properties are classified in accordance with the works required as follows:
 
@@ -1966,7 +1966,7 @@ The Notice of Motion was proposed by Councillor O’Donovan, seconded by Council
 
 Hickey O’Mara and agreed.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 **41.Notice of Motionsubmittedby Councillor Hickey O’Mara**
 
@@ -2038,7 +2038,7 @@ In moving the Motion, Councillor O’Sullivan stressed the importance of ensurin
 
 related to the Metropolitan District receives consistent attention.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 **REPLY:** Local Community Safety Partnerships are established under the national Community
 
@@ -2070,5 +2070,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

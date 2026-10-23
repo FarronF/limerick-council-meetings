@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 8th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01-minutes-of-monthly-meeting-8th-december-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -84,7 +84,7 @@ the Director assured Members that Limerick City and County Council are actively 
 
 the matter at the present time.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ a playground adjacent to the Greenway. This was seconded by Councillor
 
 O’Donoghue and agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ Community Development Association.
 
 **Askeaton is going to be extended.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,7 +296,7 @@ the Meeting, the Elected Members agreed to adjourn the Meeting having regard for
 
 Covid 19 guidelines on the duration of Meetings.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -314,5 +314,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 18th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-18th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **6th** **February 2026**
 
@@ -51,7 +51,7 @@ transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **AGENDA**
 
@@ -81,5 +81,5 @@ To discuss the Council’s approach to pedestrianisation and pedestrian-priority
 
 across Limerick and how enforcement of existing pedestrian spaces is addressed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

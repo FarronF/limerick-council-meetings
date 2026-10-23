@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 21st December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-draft-minutes-monthly-meeting-21st-december-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -90,7 +90,7 @@ Park Upper, Limerick and the intention to bring a Section 183 Notice to Full Cou
 
 regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ qualifying criteria under the Local Improvement Scheme had been received and he 
 
 to circulate this to Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ has taken place. A key objective of the CCRO is to work with the business commun
 
 to increase footfall in the city centre.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ from the Urban Innovation Department. These are held every 2 weeks on an
 
 appointment basis.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -418,7 +418,7 @@ At present, the detailed capital appraisal for the projects is being prepared fo
 
 to the Department.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ the criteria considered are:
 
 ***Parnell Street and the reason behind this number of bike stands on this street.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ Notwithstanding this where (as is the case in most city centre facilities) full 
 
 cycle facilities is not required or practical we will continue to consider any measures that
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -644,7 +644,7 @@ The Council initiated 56 Prosecutions in 2019.
 
 A total of 27 Prosecutions have been initiated to date in 2020.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -716,7 +716,7 @@ to the delay in the commencement of the Coonagh to Knockalisheen Section of this
 
 community of Moyross in particular are frustrated at the thirteen year wait for the project.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -790,7 +790,7 @@ to the Local Electoral Area Briefings.
 
 ***arising from it, including the revoking of the Government of Ireland Act. We reaffirm our support***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -866,7 +866,7 @@ consultancy services for this CFRAMS project is currently underway.
 
 ***I will move at the next Meeting that the Council fast track the demolition of a number of***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -934,5 +934,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

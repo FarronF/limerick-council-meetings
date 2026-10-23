@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 18th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/2-.-minutes-of-18th-november-municipal-district-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -84,7 +84,7 @@ The Elected Members wished to extend their congratulations to Lough Gur on their
 
 Flag award, and suggested Lough Gur as a possible venue in 2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 It was agreed by the Elected Members to postpone the Workshop with Irish Water as the
 
@@ -152,7 +152,7 @@ Active Travel will submit a grant application to the National Transport Authorit
 
 January 2022. We will include Kilfinane, Kilmallock and Bruff as well as potential locations
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 bus shelters. Pending NTA approval, Active Travel will progress works at these locations in
 
@@ -220,7 +220,7 @@ food strategy at the Re-Ignite conference at the Strand Hotel on the 24th Novemb
 
 I will ask at the next meeting of the Cappamore/Kilmallock Municipal District for an update on:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 (a) the amount of local authority houses that are currently vacant in Kilmallock town.
 
@@ -282,7 +282,7 @@ I will ask at the next Municipal District meeting
 
 (a) How many qualified housing applicants, first choice, are on the waiting list in this district
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 (b) and what is the breakdown of locations.
 
@@ -406,7 +406,7 @@ As at Thursday 11th November the total number of dwellings shown as ‘vacant’
 
 Cappamore/Kilmallock Municipal District was twenty four.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 The follow table details this figure.
 
@@ -482,7 +482,7 @@ November 2022.
 
 ***The Questions were taken as read.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Any other Business
 
@@ -552,7 +552,7 @@ Elected Members noted potential nominees to be considered for a Civic reception 
 
 and the process for planning a Civic reception was circulated to all Elected Members.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **Housing List**
 
@@ -606,5 +606,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

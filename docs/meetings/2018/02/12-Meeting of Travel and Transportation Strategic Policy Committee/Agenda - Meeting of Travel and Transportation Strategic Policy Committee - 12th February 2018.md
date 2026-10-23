@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Travel and Transportation Strategic Policy Committee - 12th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/12th%20February%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **6th** **February, 2018**
 
@@ -50,7 +50,7 @@ agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -106,5 +106,5 @@ further isolating West Limerick”.
 
 **7.Presentation on National, Regional and Local Roads Grants 2018** **–** **Mr. Vincent Murray**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

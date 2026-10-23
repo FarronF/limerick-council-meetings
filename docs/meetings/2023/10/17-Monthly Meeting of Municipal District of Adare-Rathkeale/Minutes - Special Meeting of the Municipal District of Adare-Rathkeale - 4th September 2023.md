@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 4th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-a-Minutes-Special-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-4th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -94,7 +94,7 @@ in relation to the proposed expansion of pedestrian areas and cycle lanes as wel
 
 replacement of on-street parking with off-street parking. The Senior Executive
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Architect, Forward Planning, Public Realm & Heritage assured Members the new
 
@@ -144,5 +144,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

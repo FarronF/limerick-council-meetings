@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 13th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/20210413-draft-minutes-cabe-spc_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -70,7 +70,7 @@ the Minister for Enterprise and Trade, Mr Leo Varadkar TD and Minister for the E
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -128,7 +128,7 @@ Ms. Goggin assured him that the Tree Policy will ensure that tree planting will 
 
 **Item 4(a). Notice of Motion referred from the Metropolitan District Meeting held on**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -196,7 +196,7 @@ Mr. Kennedy then read the reply to the Motion:
 
 **Monday 15th** **February, 2021**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -270,7 +270,7 @@ submitted to Full Council as a recommendation.
 
 **(submitted by Councillor S. Hartigan)**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -334,7 +334,7 @@ Mr. Kennedy then read the reply to the Motion:
 
 **(Proposer), B. Collins, S. Keary, E. O’Brien, K. Sheahan, A. Teskey)**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -404,7 +404,7 @@ Mr. Kennedy then read the reply to the Motion:
 
 *obstruct or interfere with the safe use of a public road or the maint**enance of a public road. “*
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -472,7 +472,7 @@ the Committee recommends that the Annacotty Weir be removed because of its negat
 
 impact on biodiversity and critically endangered species.”
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -546,7 +546,7 @@ Mr. Kennedy outlined that there are five FRS as follows; Castleconnell, Athea, R
 
 King’s Island & Adare. The city environs FRS includes Annacotty. Mr. Kennedy said he would
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -606,9 +606,9 @@ Jerome Scanlan
 
 **Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

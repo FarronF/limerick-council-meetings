@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Adjourned Meeting of Metropolitan District of Limerick -  20th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01b%20Minutes%20Adjourned%20Meeting%2020th%20September%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ recommendations and the following amendments;
 
 use Phase 2 and changes are made to the land use zoning map to amend this zoning from
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ shortage. The additional population accommodated at this site will form part of 
 
 allocated growth of 28,000 up to 2040.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,5 +230,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

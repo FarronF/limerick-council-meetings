@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 21st September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-meeting-of-the-metropolitan-district-of-limerick-21st-september-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -100,7 +100,7 @@ objectives for the continued development and enhancement of Limerick City and th
 
 Metropolitan District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Members acknowledged Mr. Lee Reeves following his recent hospitalisation and paid tribute
 
@@ -164,7 +164,7 @@ of An Taisce who serve on the Limerick Public Participation Network to give a wo
 
 was seconded by Councillor McSweeney.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **4.Limerick City Centre**
 
@@ -248,7 +248,7 @@ Twilight Thursday
 
 €1,004.57
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **LIMERICK CITY EAST**
 
@@ -366,7 +366,7 @@ Twilight Thursday
 
 **LIMERICK CITY WEST**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 LCCC Parks and Environment Department Projects – Limerick City
 
@@ -454,7 +454,7 @@ Circulated, Report of the Senior Planner, Development Management dated 10th Sept
 
 Clonmacken, Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Proposed by Councillor Hickey-O’Mara;
 
@@ -520,7 +520,7 @@ of Tait’s Memorial Clock, Baker Place and Davis Street, in January 2024. No de
 
 assessment of the clock mechanism or bell-ringing mechanism was included in the
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 assessment. The estimated cost for repairs to the structure (excluding VAT and
 
@@ -586,7 +586,7 @@ Economic and Tourism Development Team issued the finalised Christmas in Limerick
 
 – 3 Year Strategy to the Metro Christmas Sub Committee and Mayor on 7th May 2026.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 It was also communicated at that stage that the team would proceed to prepare and
 
@@ -666,7 +666,7 @@ reach a positive way forward, but as the legal process is ongoing, I cannot say 
 
 further at this stage.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 The Council has been advised not to enter onto the lands to undertake any work at
 
@@ -742,7 +742,7 @@ scheme will proceed to the construction stage in Quarter 3 of 2027.
 
 ***TII in 2026, to clearly set out:***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 • ***What is proposed to be included as part of this scheme (improved pedestrian facilities,***
 
@@ -812,7 +812,7 @@ reconciliation of accounts is still underway. At this stage, a number of expendi
 
 items remain subject to verification, invoice processing and final cost allocation.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Accordingly, it would be premature to provide the detailed itemised breakdown
 
@@ -878,7 +878,7 @@ approaches to the roundabout.
 
 • ***In each case, was the property deemed to pose a hazard or risk to public safety.***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **REPLY:**
 
@@ -966,7 +966,7 @@ materials to be used in the manufacturing process and set a rate of one euro per
 
 to be set aside for the community gain fund. To date, there has been one payment of
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 50% of the total fund i.e. €45,000. This sum was received by Limerick City and County
 
@@ -1042,7 +1042,7 @@ may include a bank statement, social welfare statement, Revenue document, or
 
 similar official correspondence.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 Every effort is made by the Assessments Team to assist applicants and facilitate the
 
@@ -1106,7 +1106,7 @@ Electoral Areas.
 
 acquired by the Local Authority or are located within designated regeneration
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 areas. These units are eligible for capital funding under programmes such as SHIP
 
@@ -1306,7 +1306,7 @@ Metro East
 
 Voids Funding
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 Chesterfield Downes, Limerick
 
@@ -1592,7 +1592,7 @@ Estate Wide Regeneration
 
 Works
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 Cosgrave Park, Limerick
 
@@ -1860,7 +1860,7 @@ Metro North 14
 
 Voids Funding
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 Cliona Park, Limerick
 
@@ -2114,7 +2114,7 @@ Estate Wide Regeneration
 
 Works
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 Sarsfield Street, Limerick
 
@@ -2334,7 +2334,7 @@ area:
 
 **Date**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 Affordable
 
@@ -2512,7 +2512,7 @@ Scheme, but this is subject to income thresholds and landlord intention to sell 
 
 property.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 Persons living in private rented accommodation can make an application for a Local
 
@@ -2590,7 +2590,7 @@ equipment. At present, there is no identified funding or budget available to fun
 
 development of any new Community CCTV schemes.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 Consequently, while the initial assessment process can commence, progression
 
@@ -2664,7 +2664,7 @@ The Council also installed autism friendly car parking spaces at the following p
 
 Mungret Park – 4 spaces, Castletroy Park – 2 spaces, Shelbourne Park – 2 spaces.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 **2.(Action 68) To build on existing efforts at local government level to support autistic**
 
@@ -2744,7 +2744,7 @@ winning Sensory Suite at Watch House Cross Library, we have added Sensory Pods a
 
 Spaces in several libraries including Abbeyfeale Library and Newcastle West Library.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 Since their installation, the Library Service recorded over 7,000 visits to these sensory
 
@@ -2818,7 +2818,7 @@ ARISE, which emerged directly from community contributors, was recognised at the
 
 UL Citizens’ Assembly 2025. The project was shortlisted and formally presented at the
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 Assembly on 1 May 2025, reflecting its strong social impact and community relevance
 
@@ -2888,7 +2888,7 @@ and agreed. Discussions between library staff and the author are ongoing to
 
 determine how best to roll out the initiative in the most accessible and inclusive way.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 The selection of the book is complete and a book supplier has been sought to provide
 
@@ -2956,7 +2956,7 @@ phone system is currently being developed and this would include a dedicated out
 
 contact line for Elected Members.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 **REPLY:** Customers can currently contact Limerick City and County Council through a number
 
@@ -3022,7 +3022,7 @@ contribution scheme for the Castletroy area could create disparities between dif
 
 of the Metropolitan District and have a negative impact on investment in other areas.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 The Senior Planner advised that, under the provisions of the Planning and Development Act
 
@@ -3098,7 +3098,7 @@ the definition of the geographic area to which the scheme would apply.
 
 **36.Notice of Motion submitted by Councillor Kiely**
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that a review takes***
 
@@ -3168,7 +3168,7 @@ Policy Committee for consideration.
 
 including continuous overfilling and illegal dumping.
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 Members of the public can continue to recycle unwanted clothing and textiles at the
 
@@ -3262,7 +3262,7 @@ most significant decisions in the history of the state.
 
 ***the current proposed flat fees of €1,800 per annum, which will disproportionately impact***
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 ***small businesses and most likely result in closure of many small operators across our towns***
 
@@ -3326,7 +3326,7 @@ A site survey is scheduled for this Rhebogue Road/Park Road junction week beginn
 
 this survey will be brought to Council.
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 **43.Notice of Motion submitted by Councillor Kiely**
 
@@ -3394,7 +3394,7 @@ relevant internal stakeholders to coordinate the advice provided to prospective
 
 applicants.
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 On Large Scale Residential Developments (LRD’s) and other large scale and/or complex
 
@@ -3476,7 +3476,7 @@ Environment, Rural Water and Climate Action, agreed to review this matter with t
 
 Action, Biodiversity and Environment Strategic Policy Committee.
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 
 **REPLY:** Limerick City and County Council can carry out a review of the public lighting in
 
@@ -3526,5 +3526,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:34]]
+<span data-pagefind-ignore>[[PAGE_END:34]]</span>
 

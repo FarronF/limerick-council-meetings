@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd Novembera 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/02-minutes-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-23rd-november-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -78,7 +78,7 @@ An Cathaoirleach wished to thank the Elected Members, staff and Pallasgreen Comm
 
 for arranging the special meeting at short notice.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising:
 
@@ -122,7 +122,7 @@ consider whether or not the proposed deletion should be made in accordance with 
 
 **Seconded: Cllr Egan**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 NOTICES OF MOTION
 
@@ -176,7 +176,7 @@ A request was made that the reply include the directorate who will be responsibl
 
 project moving forward.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 QUESTIONS
 
@@ -214,7 +214,7 @@ subject to appropriate project specific funding being allocated.
 
 **The Questions were taken as read.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Any Other Business
 
@@ -268,5 +268,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

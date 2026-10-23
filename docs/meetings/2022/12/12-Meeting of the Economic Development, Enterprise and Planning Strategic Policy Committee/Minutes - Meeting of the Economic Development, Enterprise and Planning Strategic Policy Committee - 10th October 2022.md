@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 10th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Minutes-Agenda-Economic-Development-Enterprise-SPC-Meeting-10th-Oct-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -106,7 +106,7 @@ Members welcomed the presentation and acknowledged the volume of work involved i
 
 preparing the first LECP and expressed the importance of a Review of the LECP 2016-2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 They stated that it was a very important document and underpinned a lot of work carried out
 
@@ -198,7 +198,7 @@ zoning, would be prepared by 1st May 2023 including a further public consultatio
 
 final map would be prepared by 1st December 2023, which will be reviewed on an annual basis.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 While members thanked Maria for the presentation, they vehemently opposed the
 
@@ -292,7 +292,7 @@ Members thanked D. McGuigan for the presentation and stated that it will simplif
 
 for applying for planning permission in the future. Replying to queries, D. McGuigan stated:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
  Planning applications will still be able to be submitted by post / in person
 
@@ -384,5 +384,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

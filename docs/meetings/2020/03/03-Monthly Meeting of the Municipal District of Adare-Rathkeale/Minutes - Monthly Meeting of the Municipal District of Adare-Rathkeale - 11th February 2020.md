@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-11th-february-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -90,7 +90,7 @@ today’s date, in accordance with the provisions of Section 19 of the Planning 
 
 Development Act 2000 (Amended)”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ And Resolved;
 
 of the Planning and Development Act 2000 (as amended)”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ options for the estate. Councillor Teskey requested a process be put in place fo
 
 Councillors to make representations in relation to Housing queries. The Director, Housing
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ allocate the following:
 
  €1,500 for Dernish Avenue Residents Association, Foynes.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ na Trócaire Rathkeale and arrange to meet on site with Councillor A.
 
 Teskey.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ the matter. The Senior Executive Engineer informed Councillor Sheahan replacemen
 
 signage will be erected.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -506,5 +506,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

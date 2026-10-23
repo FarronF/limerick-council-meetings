@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider Draft Budgetary Plan 2016 for Metropolitan District of Limerick - 19th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20to%20consider%20Draft%20Budgetary%20Plan%202016%20for%20Metropolitan%20District%20of%20Limerick.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -67,5 +67,5 @@ Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

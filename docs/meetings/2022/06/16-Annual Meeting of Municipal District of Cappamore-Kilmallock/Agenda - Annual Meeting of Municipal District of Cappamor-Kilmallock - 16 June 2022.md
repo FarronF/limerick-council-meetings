@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of Municipal District of Cappamor-Kilmallock - 16 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/02-Agenda-Annual-Meeting-of-Municipal-District-of-Cappamore-Kilmallock-16-June-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **10th** **June, 2022.**
 
@@ -52,5 +52,5 @@ office until the next Annual Meeting or until a successor has been elected.
 
 office until the next Annual Meeting or until a successor has been elected.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

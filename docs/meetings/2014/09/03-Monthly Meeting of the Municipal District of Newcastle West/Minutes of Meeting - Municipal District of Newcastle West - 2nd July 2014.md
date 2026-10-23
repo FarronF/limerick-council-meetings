@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Municipal District of Newcastle West - 2nd July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20municipal_district_of_newcastle_west_-_minutes_of_meeting_02_july_14.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT
 
@@ -74,7 +74,7 @@ held on the first Wednesday of every month at 10.00 a.m. It was noted that the n
 
 Meeting would take place on Wednesday, 3rd September, 2014 at 10.00 a.m.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,7 +146,7 @@ Councillor Collins stated that he was not in agreement with the scheme, as
 
 presented, and did not support the proposal.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -220,7 +220,7 @@ Council and Kerry County Council. It was agreed that the matter would be raised
 
 with Castleisland Area Office.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -268,5 +268,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

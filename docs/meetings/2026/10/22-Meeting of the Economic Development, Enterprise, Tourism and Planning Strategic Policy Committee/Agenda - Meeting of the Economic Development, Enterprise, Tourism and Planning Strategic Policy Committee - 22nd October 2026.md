@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 22nd October 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-22nd-october-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -82,7 +82,7 @@ relation to noise disturbance (including consistency with the Word Health Organi
 
 quality.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -106,5 +106,5 @@ Monday, 8th February 2027
 
 Monday, 12th April 2027
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

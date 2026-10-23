@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West - 4th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_-_municipal_district_of_newcastle_west_-_4th_february_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ In response to a query re the accessibility of the new footbridge in Newcastle W
 
 Director clarified that a ramp is included in the design, but has not yet been constructed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ The Committee asked if the Council would fund the balance from the General Munic
 
 Allocation.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ that it was a wonderful opportunity to take ownership of the City and County.
 
 The Members praised and supported the initiative.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ provided in accordance with the National Roads Authority’s Design
 
 Standards. The scheme, on completion, was subject to Safety Audit and all
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ next Meeting of the Municipal District.
 
 **`**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -488,5 +488,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

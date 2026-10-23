@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20%28a%29%20Minutes%208th%20January%2C%202019_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -78,7 +78,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,7 +150,7 @@ Circulated, report of the A/Senior Executive Engineer, Service Operations West, 
 
 Pallaskenry. The report was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ Councillor Keary requested Túsla attend a Meeting to discuss the problem of
 
 children between the ages of 7 and 13 years old who are causing trouble around
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,7 +296,7 @@ within this review.
 
 We will continue to liaise with the District in developing solutions.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -372,7 +372,7 @@ them for engaging youths with their service over the Christmas period.
 
 prosecutions for illegally parked caravans in Rathkeale town over Christmas.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -412,5 +412,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

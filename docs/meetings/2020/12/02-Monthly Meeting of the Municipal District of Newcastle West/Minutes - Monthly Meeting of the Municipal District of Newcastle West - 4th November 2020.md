@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 4th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-2020-11-04-minutes-november.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ Circulated, copy of draft Minutes of Meeting of the Draft Budgetary Plan 2021 he
 
 Proposed by: Councillor Galvin
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ the plan with input from the Abbeyfeale Community Council and Abbeyfeale Busines
 
 Community. Messrs. Malachy Walsh & Partners, are the Consultants for the plan.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ On the proposal of Councillor Scanlan, seconded by Councillor Foley, it was agre
 
 €1,000 to flashing lights at Feohanagh.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ Greenway Limerick as part of the resurfacing project that is currently on site.
 
 There is no provision to provide lighting as part of this contract.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Two landowners who received Section 70(2)(b) Notices have already complied.
 
 If any particular area is of concern to the Members please advise of same.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ received and requested that the Local Authority work with the appropriate Approv
 
 Bodies to improve the delivery of housing in our villages.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -568,7 +568,7 @@ than 100m2. Air to water heat pumps provide both space and hot water and are
 
 suitable for larger homes. Both systems incorporate an external fan and compressor
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -642,7 +642,7 @@ The footpaths at Churchtown were noted and it was requested that the tree stumps
 
 right hand side of the roadway be removed.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -690,5 +690,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

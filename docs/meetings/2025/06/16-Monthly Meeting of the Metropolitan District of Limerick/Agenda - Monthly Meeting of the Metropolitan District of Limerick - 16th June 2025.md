@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Metropolitan District of Limerick - 16th June 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/agenda-meeting-of-metropolitan-district-of-limerick-16th-june-2025_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -91,7 +91,7 @@ v @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -157,7 +157,7 @@ the government provided justification on their decision to wind-down Limerick's 
 
 Programme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -227,7 +227,7 @@ Christmas in Limerick 2025 working group and what tentative plans/proposals they
 
 identified to enhance the customer experience.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -291,7 +291,7 @@ to maintain adequate supply for our expanding population and its potential adver
 
 impacts.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -359,7 +359,7 @@ EuroPride 2028 to the West of Ireland and commit to enhancing understanding and 
 
 the LGBTQIA+ community.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -391,5 +391,5 @@ lifetime of the current government.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

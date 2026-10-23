@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 29th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28b%29%20Minutes%20Ordinary%20Meeting%20290517.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -272,7 +272,7 @@ Circulated, copy of Statutory Notice dated 17th May, 2017, concerning disposal o
 
 land at Knockulceare, Mountcollins, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ Taylor, for the sum of €1 (if demanded), particulars of which were contained i
 
 Notice dated 17th May, 2017.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), t
 
 item was deferred to the July Meeting.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ the Committee held on 26th April, 2017.
 
 The report was noted by the Council.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -568,7 +568,7 @@ investment required in the ICT infrastructure.
 
  €1.2m transferred to provide funding for Corporate Building Capital Works.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,7 +656,7 @@ improvements on Council properties. He added that it was for capital spend on bu
 
 and that the Executive would revert to the Members with formal proposals at a later date.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -734,7 +734,7 @@ And Resolved:
 
 hereby adopted.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,7 +816,7 @@ The Chief Executive addressed the Meeting as follows:
 
  **Ireland 2040.**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -898,7 +898,7 @@ The Chief Executive addressed the Meeting as follows:
 
 **the City Centre.**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -980,7 +980,7 @@ summarised as follows:
 
 2012 – Publication of Emerging Preferred Route Corridor.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1054,7 +1054,7 @@ the road scheme.”
 
 **(or a variant).”**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1126,7 +1126,7 @@ Annacotty/University of Limerick.
 
  Close to €1.4 billion of investment had been announced for Limerick from 2013-2016.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1188,7 +1188,7 @@ whether the Council could progress these first.
 
 • Concerns were raised regarding noise management.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1252,7 +1252,7 @@ proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), this was
 
 **the Limerick City Flood Relief Scheme.”**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1320,7 +1320,7 @@ dated 20th April, 2017, be made in accordance with Sections 13 (5) and (6) of th
 
 and Development Act, 2000 (as amended).”
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1362,7 +1362,7 @@ The Amendment was seconded by Councillor Crowley and agreed.
 
 (Image omitted)
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **Amendment No. 2**
 
@@ -8709,7 +8709,7 @@ s outlined above.”
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -8781,7 +8781,7 @@ At this point, on the proposal of Councillor Sheahan (J), seconded by Councillor
 
 Collins (M), it was agreed to take the Notices of Motion on the Agenda:
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -8857,7 +8857,7 @@ In the absence of Councillor Prendiville, the Motion was proposed by Councillor
 
 Keller on his behalf.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -8927,7 +8927,7 @@ A number of events were held between Tuesday, 25th April, and Friday, 28th April
 
 were as follows:
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -9001,7 +9001,7 @@ Riverway in the City: Waterways Ireland, Office of Public Works, ESB, Harbourmas
 
 Fáilte Ireland etc.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -9083,7 +9083,7 @@ Death, held in Clonakilty, Co. Cork, from 12th to 14th May, 2017; (e) 2-Day Micr
 
 Advanced Training for Councillors, held in Clonakilty, Co. Cork, on 17th/18th May, 2017; (f)
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -9161,7 +9161,7 @@ appealed to An Bord Pleanála on 4th April, 2017. A decision on the appeal is
 
 likely to take many months and it is possible that an Oral Hearing will take
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -9211,7 +9211,7 @@ population increase of 12.27% from 2011 to 2016. Please refer to Figure 1.
 
 (Image omitted)
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -9299,7 +9299,7 @@ Question submitted by Councillor P. Keller
 
 ***economic evictions and homelessness.***
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -9393,7 +9393,7 @@ Question submitted by Cmhlr. S. Ó Ceallaigh
 
 ***Strategic Policy Committee.***
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -9481,7 +9481,7 @@ seconded by Councillor Ryan. It was agreed to refer this matter to the Party Lea
 
 further consideration.
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -9517,5 +9517,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 

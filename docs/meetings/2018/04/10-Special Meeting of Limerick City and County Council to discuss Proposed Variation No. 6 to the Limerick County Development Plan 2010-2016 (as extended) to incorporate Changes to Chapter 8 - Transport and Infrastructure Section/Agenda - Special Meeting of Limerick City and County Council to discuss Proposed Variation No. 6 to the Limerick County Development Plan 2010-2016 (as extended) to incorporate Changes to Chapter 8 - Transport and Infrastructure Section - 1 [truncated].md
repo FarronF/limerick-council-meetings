@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council to discuss Proposed Variation No. 6 to the Limerick County Development Plan 2010-2016 (as extended) to incorporate Changes to Chapter 8 - Transport and Infrastructure Section - 1 [truncated].pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/00%20Agenda%20Special%20Meeting%20100418.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -85,5 +85,5 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

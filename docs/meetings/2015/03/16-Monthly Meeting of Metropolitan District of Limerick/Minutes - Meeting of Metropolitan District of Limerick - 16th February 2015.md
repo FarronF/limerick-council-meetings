@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Metropolitan District of Limerick - 16th February 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_meeting_of_metropolitan_district_of_limerick_-_16th_february_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ And Resolved:
 
 "That the draft Minutes, as circulated, be taken as read and adopted and signed".
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2.
 
@@ -196,7 +196,7 @@ as Tidy Towns and Going for Gold. He pointed out that the event was being run in
 
 partnership with Mr. Binman and that the Council’s Environmental Department, 95FM
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 and the Limerick Leader were all adding their support, as was Paul O’Connell who was
 
@@ -284,7 +284,7 @@ agreed that a copy of the report that had been commissioned by the Council on th
 
 future use of 69 O’Connell Street would be circulated to Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 5.
 
@@ -376,7 +376,7 @@ other streets.
 
 • There was scope to raise awareness of the scheme and the retail sector and the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 local media will be engaged with in this regard.
 
@@ -458,7 +458,7 @@ Question submitted by Councillor Joe Leddin
 
 ***site opposite Punch's Hotel and formerly the site of John Moloney Garage, which***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 ***has planning permission for a commercial development, and what the current***
 
@@ -552,7 +552,7 @@ Notice of Motion submitted by Councillor Frankie Daly
 
 ***open for a 6 month trial. Over that 6 months the library can be housed on the***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 ***ground floor of the community centre, to avoid breaching health and safety***
 
@@ -640,7 +640,7 @@ out. In addition the Library at Watch House Cross is opened 41 hours per
 
 week over 5 days including 2 late nights, lunchtime and every Saturday.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 It was initially proposed in March 2008 to close Caherdavin part time
 
@@ -728,7 +728,7 @@ relevant landowner(s). Any such proposal will have to be assessed to
 
 ascertain if planning permission is required.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 8.
 
@@ -814,7 +814,7 @@ It is a requirement of the grass cutting contract that all areas will be cut
 
 once every two weeks.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10.
 
@@ -904,7 +904,7 @@ continue to communicate with property owners and take enforcement
 
 measures as necessary.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Any dangerous trees that are notified to Limerick City and County Council
 
@@ -986,7 +986,7 @@ Week in promoting the Irish language and the need to continue the promotion of t
 
 language in conjunction with our bid for European City of Culture status.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 The motion was seconded by Councillor Lynch.
 
@@ -1038,5 +1038,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

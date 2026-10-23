@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting - 25th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Travel%20%26%20Transportation%20Strategic%20Policy%20Committee%20Meeting%20-%2025th%20October%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ Fitzgerald could bring this up with TII.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -138,7 +138,7 @@ that landowners in Patrickswell are in limbo as they cannot get planning permiss
 
 extensions.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ Mr. O’Reilly stated that at a number of locations, engineering measures may be
 
 necessary. It is currently a work in progress and will be dealt with on a case-by-case basis.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,7 +290,7 @@ Cllr Mitchell raised the following queries:-
 
 Mr. Jennings thanked the members for their questions and added the following: -
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -360,7 +360,7 @@ he assumed this continues to be the case. He added that the Executive agrees it 
 
 the region. He will bring the comments on cycle connects to the NTA.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -430,7 +430,7 @@ a specific parking area with a recognised hidden disability emblem and depends o
 
 for subsequent parking on this spot.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -504,7 +504,7 @@ Cllr. Ryan stated that many local residents in Abbington Murroe area of the R516
 
 concerns in relation to speeding. In response, Mr. Kennedy added that the Council will write to
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -576,5 +576,5 @@ The Chair advised that the next meeting is scheduled for Tuesday, the 20th Decem
 
 The meeting then concluded.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

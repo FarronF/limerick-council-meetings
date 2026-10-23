@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01a-2020-06-10-minutes-june.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ The Members also referred to the future development of Colbert Street, Abbeyfeal
 
 proposal for additional houses for the area.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Circulated, report from Urban and Rural Community Development, dated 27th May, 2
 
 Members noted the report.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ installation of a right turn lane on the N21 at Wards Cross. TII accepted the fi
 
 and recommendations of this feasibility report and approved for Limerick City and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ procured to carry this out. TII approved funding for the appointment of these
 
 engineering consultancy services.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ public toilet is in the new car park to be constructed at O’Riordan’s.
 
 Councillor Galvin expressed disappointment at the responses outlined above in relation to
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ Question submitted by Councillor L. Galvin
 
 ***Cois Na Feile, Clash Road, Abbeyfeale.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -580,7 +580,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 ***information was given out.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,7 +656,7 @@ Engineering consultants will shortly be appointed to undertake this feasibility
 
 study after which a full project scope will be determined. At this early stage it
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -726,7 +726,7 @@ Development Department and Operations and Maintenance with regard to the matters
 
 raised.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -802,5 +802,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 8th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20SPC%20Meeting%20-%208th%20Oct%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -114,7 +114,7 @@ asked that the Notice of Motion be deferred to the next meeting of the SPC.
 
 This was agreed by the members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3.**
 
@@ -204,7 +204,7 @@ Members expressed a huge gratitude to all associated with the preparation and
 
 submission of the applications. The applications showed that the Council and other
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 agencies are hugely ambitious for the Limerick. The City region requires investment
 
@@ -232,5 +232,5 @@ This concluded the business of the meeting
 
 Chairperson
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

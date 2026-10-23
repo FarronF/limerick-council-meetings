@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%28ii%29Supplementary-Agenda-Meeting-of-Metropolitan-District-of-Limerick-15th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -75,5 +75,5 @@ Corporate Headquarters, Merchants Quay, Limerick \ 061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

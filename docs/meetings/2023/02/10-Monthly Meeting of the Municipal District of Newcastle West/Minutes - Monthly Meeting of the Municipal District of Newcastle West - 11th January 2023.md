@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 11th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%202023-01-11%20Minutes%20-%20%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2011th%20January%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ Deep sympathy was also expressed to the family of T. J. Madigan, Ganger, Newcast
 
 Roads, on his sudden passing this week.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Proposed by Councillor Galvin, seconded by Councillor Foley and resolved:
 
 and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ promoting Fairtrade and to the importance of everyone in getting involved and wo
 
 together to achieve Fairtrade Status for Newcastle West.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ Limerick City and County Council expect to have comments from TII in January 202
 
 Question submitted by Councillor L. Galvin
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ Question submitted by Councillor T. Ruddle
 
 REPLY:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ In proposing the Motion, Councillor Galvin stated that the taking in charge of R
 
 Mountcollins is a priority and referred to the existing services which are in place at this estate.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -540,7 +540,7 @@ February Meeting of the Municipal District of Newcastle West.
 
 ***back entrance.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -608,7 +608,7 @@ stated that an application has been made to the National Transport Authority for
 
 provision of funding to include a full design and appointment of a consultant.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -652,5 +652,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

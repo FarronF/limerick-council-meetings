@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council 18th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2018th%20February%202016_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
@@ -86,7 +86,7 @@ and that during that relatively short timeframe, he had found him to be a
 
 gentleman of the highest calibre. He added that he had taken his role of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Authority last June. This was truly a great honour for him and his family and a 
 
 he carried out with great respect and dignity.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ beauty spot and had been the subject of much discussion at Meetings of the
 
 Metropolitan District – thanks to Joe.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,7 +298,7 @@ were needed in politics. The Members said that Joe epitomised everything that
 
 was good in politics, he was devoid of ego and self-interest, he had as his main
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -348,5 +348,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

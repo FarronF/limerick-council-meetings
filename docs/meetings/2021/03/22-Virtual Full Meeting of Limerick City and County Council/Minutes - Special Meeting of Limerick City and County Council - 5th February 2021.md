@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 5th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-b-minutes-special-meeting-05.02.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
@@ -94,7 +94,7 @@ Technology. He said the Government had announced funding for the delivery of its
 
 a third of the project budget had already been spent on a number of enabling works with
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ this project.
 
  Limerick Institute of Technology was in support of the road being completed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ scheme and upgrading the Knockalisheen Road would avoid this and allow for
 
 significant traffic calming within Moyross;
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ contained a provision to widen two bridges to facilitate twin-track development
 
 within the road scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ She also pointed out the Council had received very positive feedback from the co
 
 in Regeneration areas about Regeneration initiatives that had been completed.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ None
 
 Councillors Hartigan and Novak. (2)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -492,5 +492,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

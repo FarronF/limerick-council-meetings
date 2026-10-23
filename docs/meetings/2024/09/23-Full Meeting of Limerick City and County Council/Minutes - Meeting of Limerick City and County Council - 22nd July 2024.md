@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 22nd July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-c-minutes-special-meeting-limerick-city-and-county-council-22.07.2024-at-2.30pm_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ consisting of light manufacturing, ancillary offices and to include relocation o
 
 pitch and all associated works. Plg. Ref. 24/60/159 refers.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -152,7 +152,7 @@ There were no Abstentions.
 
 Accordingly, the following resolution was adopted by the same voting:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -218,7 +218,7 @@ There were no Abstentions.
 
 Accordingly, the following resolution was adopted by the same voting:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -248,5 +248,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Environment SPC - 11th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/11th%20December%202017%20Notice%20and%20Agenda%20Env%20SPC.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -48,7 +48,7 @@ PHYSICAL DEVELOPMENT DIRECTORATE
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -80,5 +80,5 @@ prosecution, and the need to make it accountable to the Ombudsman”.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

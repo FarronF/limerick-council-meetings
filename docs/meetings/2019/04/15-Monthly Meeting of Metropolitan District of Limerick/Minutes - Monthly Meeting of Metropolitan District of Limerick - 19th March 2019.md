@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%20Minutes%2019th%20March%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -90,7 +90,7 @@ Members expressed their sympathies to the victims of the terror attack in Christ
 
 Zealand.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ And Resolved:
 
 the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -278,7 +278,7 @@ Traffic Delays due to over reliance on the private car in the Metropolitan Area.
 
 Inaccessible Bus Stops due to illegal parking and illegal driving in Bus Lanes.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -392,7 +392,7 @@ Authority, Limerick City and County Council, and all local stakeholders, to deli
 
 of service in Limerick City.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -596,7 +596,7 @@ TEP1
 
 20
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -868,7 +868,7 @@ to complete and submit the Environmental Impact Assessment Report (EIAR) to An
 
 Bord Pleanála, and the Department is considering this request.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -1008,7 +1008,7 @@ will be sought from Contractors. A current estimation of the timeframe for this
 
 project would be approximately four months.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -1102,7 +1102,7 @@ Therefore, the continuity in design concept that will emerge is important to the
 
 successful implementation of the Great Streets Programme.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1194,7 +1194,7 @@ and will inform investment in transport infrastructure and services over the sho
 
 medium and longer term to promote and encourage sustainable transport use.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1310,7 +1310,7 @@ Create extra car spaces at back of Hilltop, St. Patrick’s Road
 
 €2,625
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1446,7 +1446,7 @@ location. There was no seconder to this proposal.
 
 ***I will move at the next meeting that Limerick City and County Council reinstate the Christmas***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1522,7 +1522,7 @@ The annual rate of increase in the average amount of rent for that area is 7
 
 per cent or more in four of the previous six quarters and
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1604,7 +1604,7 @@ the other would be in contravention of the terms of the European funding.
 
 Mr. McGuigan confirmed that the Physical Directorate will review the current signage along the
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1628,5 +1628,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

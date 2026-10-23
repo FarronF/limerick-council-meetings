@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/minutes-meeting-of-the-travel-and-transportation-strategic-policy-committee-17th-october-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -68,7 +68,7 @@ The Chair thanked Mr. Leahy for the presentation and opened the floor to questio
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ N25 road. Substantial segregation with the existing road was provided to provide
 
 and cycling environment.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -190,7 +190,7 @@ commuter rail route. Mr. Kennedy advised that he will discuss the matter with Ir
 
 & NTA going forward.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -252,7 +252,7 @@ the 20th June 2023 were proposed by Cllr. McSweeney, seconded by Cllr. Mitchell 
 
 The Chair agreed to move to Item 4 on the Agenda.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -316,7 +316,7 @@ on Friday, the 13th October. She very much welcomed this document and added that
 
 important that we have flexibility with the guidelines and all stakeholders.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -376,5 +376,5 @@ the presenters and members for their contribution. She confirmed that the next S
 
 scheduled for Tuesday, the 12th December 2023. The meeting then concluded.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

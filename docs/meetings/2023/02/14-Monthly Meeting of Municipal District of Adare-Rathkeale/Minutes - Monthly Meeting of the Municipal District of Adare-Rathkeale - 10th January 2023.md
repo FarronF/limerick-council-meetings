@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/01%20Minutes%20-%20Monthly%20Meeting%20of%20Municipal%20District%20of%20Adare-Rathkeale%20-%2010th%20January%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ Following discussion Councillor O’Donoghue stated the maps used on the report 
 
 not site specific and are outdated. The Senior Executive Planner, Strategic and Forward
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ Morenane Junction, and added a different scale of works is required at this
 
 junction which will not necessitate a Part VIII planning.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ request from Councillor Collins.
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -268,5 +268,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

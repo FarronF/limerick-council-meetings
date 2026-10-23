@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 27 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Travel-and-Transportation-SPC-Meeting-27-June-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -83,5 +83,5 @@ Tuesday 18th April 2023 @ 3:30 p.m.
 
 **Dr. Simon Jennings, A/Senior Executive Scientist**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

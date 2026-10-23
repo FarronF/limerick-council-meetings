@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 7th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-08/20200907-agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -100,5 +100,5 @@ Date of next Meeting
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

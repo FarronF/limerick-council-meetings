@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Meeting%20of%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%20-%2012.07.17.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,5 +79,5 @@ Economic Development
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

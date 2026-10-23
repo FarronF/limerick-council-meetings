@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Annual Meeting of Metropolitan District of Limerick - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01b-draft-minutes-annual-meeting-21st-june-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -90,7 +90,7 @@ Seconded by Councillor O’Dea;
 
 Limerick to hold office until the next Annual Meeting or until a successor has been appointed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ expressed her condolences to all those families who had lost someone due to Covi
 
 lockdowns over the past year, the Covid pandemic also showed us what is really important, our
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ and stated that he would support the Cathaoirleach during her twelve months term
 
 Metropolitan District.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -252,5 +252,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

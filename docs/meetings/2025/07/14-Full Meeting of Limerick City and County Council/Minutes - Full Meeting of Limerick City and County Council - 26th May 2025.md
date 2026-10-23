@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 26th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-07/minutes-ordinary-meeting-limerick-city-and-county-council-26.05.2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -84,7 +84,7 @@ The Members congratulated Elaine Houlihan, Athlacca, outgoing National President
 
 Macra na Féirme, and commended her for all her work representing Limerick at national level.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 Interest in property at 77 Mayorstone Gardens, Mayorstone, Limerick, to Pat and Claire
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ subject to the covenants and conditions contained within the contract, particula
 
 were contained in Statutory Notice dated 13th May, 2025.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ District.
 
 funding in comparison to the Metropolitan District.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ across all Districts and stressed the need to prioritise projects for next year 
 
 Fund.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ It was agreed to provide advice to members on Section 138 of the Local Governmen
 
 Act, 2001.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ Seconded by Councillor Doyle;
 
 And Resolved:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -642,7 +642,7 @@ meeting of the Committee held on 14th April, 2025.
 
 The report was noted by the Council.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -708,7 +708,7 @@ July Meeting of the Council was re-fixed to Monday, 14th July, 2025, at 3pm.
 
 The Mayor indicated that he would not be available on that date.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -786,7 +786,7 @@ he would prepare and submit a half-yearly financial progress report for 2025 to 
 
 Meeting and noted that the Council was currently on budget for 2025.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -852,7 +852,7 @@ Limerick Street Performance and Busker Bye-Laws 2025 for the administrative area
 
 Limerick City and County Council, be and are hereby adopted.”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -926,7 +926,7 @@ Question submitted by Councillor E. Secas
 
 **in Castletroy, and if he can request the OPW to provide an official statement on the matter.**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1010,7 +1010,7 @@ Review Report, which is expected to be issued shortly. This report will include
 
 contributions from the architectural panel and will present a range of potential
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1092,7 +1092,7 @@ changes and release the portal to Elected Members has been scheduled for
 
 July 2025.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1186,7 +1186,7 @@ Housing Fund (AHF – A.31) for 2025 nationally.
 
 0
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1350,7 +1350,7 @@ investment in staffing has laid the groundwork for an uplift in the pipeline for
 
 housing delivery in Limerick City and County.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1436,7 +1436,7 @@ compact growth in line with the Sustainable Residential Development and Compact
 
 Settlements Guidelines which prioritise optimised density and the efficient use of land.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1526,7 +1526,7 @@ Question submitted by Councillor J. Scanlan
 
 **service in Limerick.**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1614,7 +1614,7 @@ public realm across King’s Island and encourage redevelopment in the most
 
 historic part of the City.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1702,7 +1702,7 @@ This includes as follows:
 
  276 RAS Tenancies
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1786,7 +1786,7 @@ issued to landlords on private rented properties including properties rented und
 
 HAP and RAS
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1868,7 +1868,7 @@ HAP and RAS
 
 210 - Sanitary Non-Compliant
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1952,7 +1952,7 @@ staff complement is reduced to 1 Technician, 1 Assistant Supervisor, 1 Assistant
 
 Officer and 3 Co-Op Students to carry out inspections on private rented properties,
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2022,7 +2022,7 @@ It was agreed to refer this Motion to the Community, Leisure, Arts, Heritage and
 
 Culture Strategic Policy Committee.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2092,7 +2092,7 @@ were of the view that a full review of the operations system within the Emergenc
 
 Department was required.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2168,7 +2168,7 @@ The Motion was proposed by Councillor Ryan (M) and seconded by Councillor Collin
 
 (B).
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2242,7 +2242,7 @@ democratic committee consisting of all Party Leaders and any Member could make
 
 recommendations or amendments to any matters raised at Protocol Committee.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2276,5 +2276,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 

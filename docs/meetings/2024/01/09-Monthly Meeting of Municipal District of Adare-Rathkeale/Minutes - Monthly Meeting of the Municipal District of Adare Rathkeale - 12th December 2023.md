@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare Rathkeale - 12th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-minutes-monthly-meeting-of-the-municipal-district-of-adare-rathkeale-12th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -96,7 +96,7 @@ of any declaration of interest in any item due for discussion at the Meeting. No
 
 interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ All Members welcomed the update on the project. Following discussion a number of
 
 queries were raised by Members:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ the percentage targets being met in accordance with the Housing Delivery Action 
 
 Discussion ensued and the following issues were raised by Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ Members requested a timeline for when the scheme would be completed. The Senior
 
 Executive Engineer, Mid West Road Design Office advised it is hoped the scheme would
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ District of Adare-Rathkeale.
 
 **erected in the Adare-Rathkeale Municipal District area.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,5 +470,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

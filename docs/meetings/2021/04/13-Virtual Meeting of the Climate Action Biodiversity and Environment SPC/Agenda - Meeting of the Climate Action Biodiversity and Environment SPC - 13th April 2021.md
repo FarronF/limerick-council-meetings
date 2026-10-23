@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment SPC - 13th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210413-agenda-cabe-spc-april-1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -48,7 +48,7 @@ The business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -112,7 +112,7 @@ City and County Council install on-street compost bins for people to dispose of
 
 compostable cups and green waste.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -148,5 +148,5 @@ Trees (CAVAT) as a method for managing trees as public assets rather than liabil
 
 See https://www.ltoa.org.uk/resources/cavat"
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

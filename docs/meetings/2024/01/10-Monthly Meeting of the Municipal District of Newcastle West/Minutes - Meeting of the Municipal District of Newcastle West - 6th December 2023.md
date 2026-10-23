@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 6th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-6th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ maps.
 
 **Seconder:** Councillor Scanlan
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ it, and in such an instance, there is potential for a Draft Ministerial Directio
 
  Otherwise the Local Area Plan will be effective by the 26th January 2024.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ He also stated that following a detailed application in 2022 the Department prov
 
 to progress the scheme through planning in 2023. He made reference to a number of issues
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ On the proposal of Councillor Scanlan, seconded by Councillor Sheahan, it was ag
 
 allocate €2,000 to West Limerick Radio.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ fence type will have to be in compliance with the new TII standards.
 
 ***Convent building.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -658,7 +658,7 @@ Open case
 
 **Cases in the area may be further categorised as follows:**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -794,7 +794,7 @@ Convent Road, Abbeyfeale
 
 Convent Road, Abbeyfeale
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -880,7 +880,7 @@ Question submitted by Councillor T. Ruddle
 
 ***process of being purchased for the Tenant In Situ Scheme since it was introduced (b)How***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -980,7 +980,7 @@ the terms of the scheme.
 
  no agreement with owner on an independent market valuation
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1052,7 +1052,7 @@ to consider these works and to revert to the Members on this matter at the Febru
 
 The Motion was seconded by Councillor Scanlan.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1128,7 +1128,7 @@ Community carpark. He stated that an update will follow at the next Meeting.
 
 The Motion was seconded by Councillor Collins.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1202,7 +1202,7 @@ Reference was also made to the deterioration of roads over the last number of ye
 
 the number of tar patchers in the District. In replying, the Senior Executive Engineer stated
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1270,5 +1270,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

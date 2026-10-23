@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Community Leisure & Emergency Services SPC - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Agenda%209th%20Nov%20%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -78,5 +78,5 @@ Any Other Business
 
 **Limerick City & County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

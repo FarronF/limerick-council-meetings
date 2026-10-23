@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 22nd September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/minutes-joint-policing-committee-meeting-22nd-september-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -100,7 +100,7 @@ The Chairman expressed concern at the increase in figures for the possession of 
 
 and for sale / supply and highlighted the need to retain the Specialist Drugs Units going forward.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 In relation to the Newcastle West area, Councillor O’Donoghue queried what measures would be taken
 
@@ -174,7 +174,7 @@ Submitted email from the Office of the Garda Commissioner acknowledging receipt 
 
 dated 8th June, 2023 in relation to legislation on the introduction of body worn cameras.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **5.Question submitted by Councillor Sean Hartigan**
 
@@ -254,7 +254,7 @@ The injured party’s clothing has been pulled or damaged by a dog,
 
 The injured party has injured themselves in an attempt to evade an attack by a dog
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 In terms of response time, if that is referring to the investigative process which varies based on the
 
@@ -346,7 +346,7 @@ YTD 2023
 
 **51**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 AGS has had a number of successful detections and seizures around the use of scrambler/e scooters
 
@@ -418,7 +418,7 @@ Superintendent Andrew Lacey can give a presentation at the next JPC if members a
 
 10. **Question submitted by Councillor Tom Collopy**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 ***I will ask at the next meeting of the Joint Policing Committee for a progress report on the steps been***
 
@@ -498,7 +498,7 @@ revert to the core units with 3 members retaining non-core hours.
 
 **Committee held on 2nd** **June, 2023)**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 ***I will move at the next meeting for the creation of an action plan, similar to Operation Copóg, to target***
 
@@ -568,7 +568,7 @@ Superintendent Joanne O’Brien of the Performance, Assurance & Functional Area,
 
 Division stated they were seeking submissions for the Limerick Divisional Policing Plan 2024 as part of
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 their commitment to ongoing engagement with stakeholders within the Limerick Division. Members
 
@@ -584,5 +584,5 @@ a.m.
 
 **Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Roads Meeting of the Municipal District of Newcastle West - 20th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01c%202018-03-20%20Minutes%20Special%20Meeting%20Roads%20Matters.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL ROADS MEETING
 
@@ -90,7 +90,7 @@ made available through grants and the budget process. He stated that 80km of roa
 
 surface dressed in 2017 and 95km of roadway would be surface dressed in 2018.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Discussion also took place on the possibility of appointing a Clerk of Works to oversee projects
 
@@ -126,5 +126,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

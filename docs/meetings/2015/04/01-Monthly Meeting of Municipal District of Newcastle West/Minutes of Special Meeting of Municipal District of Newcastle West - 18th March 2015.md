@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Special Meeting of Municipal District of Newcastle West - 18th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_of_muncipal_district_of_newcastle_west_-_18th_march_2015_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -63,7 +63,7 @@ was funding to undertake a feasibility study for the project.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -101,5 +101,5 @@ Dated:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

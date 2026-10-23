@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Municipal District of Adare-Rathkeale - 26th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-b-Minutes-of-Special-Meeting-of%20Municipal-District-of-Adare-Rathkeale-26th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ O’Brien, Uisce Éireann advised approximately 7,000 customers are currently
 
 affected and regular updates are provided on local media outlets as well as on
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Uise Éireann’s website www.water.ie. He further advised vulnerable customer
 
@@ -134,5 +134,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 29th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/minutes-of-spc-29.10.2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -104,7 +104,7 @@ Aoife Duke spoke about Strategic goals and priorities and explained that private
 
 land availability and any other priorities would be discussed at the meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 1: (a) Private Downsizing Scheme**
 
@@ -186,7 +186,7 @@ The issue of land purchase and zoning was also discussed. Seamus Hanrahan to sen
 
 owned sites to all newly elected councillors in the coming weeks.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Item 1: (c) Strategic Goals/Priorities for 2020**
 
@@ -246,7 +246,7 @@ February 2020. A significant communication campaign will take place with tenants
 
 of the deadline. Members will be updated on an on-going basis also.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 4: Affordable Housing Scheme of Priorities**
 
@@ -290,5 +290,5 @@ noted that the next SPC meeting isn’t being held until February 2020
 
 The meeting concluded.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

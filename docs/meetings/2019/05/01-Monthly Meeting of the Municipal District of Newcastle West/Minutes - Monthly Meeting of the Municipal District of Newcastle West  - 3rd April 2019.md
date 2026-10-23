@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West  - 3rd April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%202019-04-03%20Minutes%20April.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ Deferral of Notices to make a New Local Area Plan for
 
 Newcastle West and to Extend the Existing Local Area Plan.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Development Act 2000 (Amended), which provides for the extension of the valid li
 
 Area Plan.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 €2,000 to Abbeyfeale Christmas Lights.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ a Deputation from Cryleview Residents Association, Abbeyfeale, at the May Meetin
 
 Municipal District of Newcastle West.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -406,7 +406,7 @@ NOTICES OF MOTION
 
 Notice of Motion submitted by Councillor L. Galvin
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ Notice of Motion submitted by Councillor M. Collins
 
 ***Sweeps Cross, to make it safer for road users.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ of a 25 metre public swimming facility/pool to be located in Newcastle West Town
 
 the people of the Municipal District and its hinterland”.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -640,5 +640,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

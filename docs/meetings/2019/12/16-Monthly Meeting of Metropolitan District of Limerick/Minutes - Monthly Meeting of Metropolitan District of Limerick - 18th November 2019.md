@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%28a%29%20Minutes%20Ordinary%20Meeting%2018th%20November%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
@@ -86,7 +86,7 @@ Members also referred to the invitation issued to the HSE and expressed disappoi
 
 representative from the HSE was unavailable to attend.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Derelict and Vacant Sites Levies.
 
 The reports, as circulated, were noted by Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ drafted. Construction of new station is programmed by the NTA for Quarter 1, 202
 
 ***design.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -442,7 +442,7 @@ However, the Council spent a total of €4,001,918 in relation to Street Cleanin
 
 Litter Warden Services in 2018. Further monies of €73,857 and €50,200 were
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -530,7 +530,7 @@ November 2019: Survey of Facilities commenced
 
 Mid-February 2020: Draft Report of findings
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -616,7 +616,7 @@ in 2020 as part of the Council’s phased introduction of 30 kph speed limits in
 
 housing estates in the City and County
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -708,7 +708,7 @@ turning movements from Chawkes and Lidl onto the R445, which has been
 
 constructed to comply with a condition of planning.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -792,7 +792,7 @@ lanes and footpaths and advance works on the remainder of the route to
 
 Knockalisheen.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -888,7 +888,7 @@ realm in the area.
 
 ***pedestrian crossings in the Metropolitan Area.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -966,7 +966,7 @@ discussion and the ongoing development of the evening and night time economy in
 
 Limerick City.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1050,7 +1050,7 @@ Costello and agreed.
 
 ***Council calls to request our Government to:***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1130,7 +1130,7 @@ It was agreed to refer this Notice of Motion to the Travel and Transportation St
 
 Committee.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1166,5 +1166,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

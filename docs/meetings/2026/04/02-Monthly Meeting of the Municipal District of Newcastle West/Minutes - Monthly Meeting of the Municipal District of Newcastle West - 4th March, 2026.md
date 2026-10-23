@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 4th March, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/01-2026-03-04-minutes-march.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -92,7 +92,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ On the proposal of Councillor Foley , seconded by Councillor Collins , it was ag
 
 €1,800 to Abbeyfeale St. Patrick’s Day Committee.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ aspects of the updated Feasibility Report. The additional information sought has
 
 been provided by the MWNRDO and a response from TII is currently awaited.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ Question submitted by Councillor T. Ruddle
 
 **and raised platforms on the Knockane/Monegea road to reduce speed.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -384,7 +384,7 @@ OPW has responded that the scheme remains under review with no current timeline 
 
 for a decision.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -456,7 +456,7 @@ developed and any works deemed necessary will be carried out subject to
 
 funding being available.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -522,7 +522,7 @@ developments of up to 40 homes.
 
 Councillors expressed concern on the timeframe for delivery of the project.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -574,5 +574,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

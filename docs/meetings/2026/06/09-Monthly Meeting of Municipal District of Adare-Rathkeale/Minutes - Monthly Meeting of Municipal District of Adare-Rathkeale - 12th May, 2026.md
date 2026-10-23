@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 12th May, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-monthly-meeting-of-municipal-district-of-adare-rathkeale-12th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ Councillor Collins, Keary and O’Donoghue **(3)**
 
 **Against the proposal:**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ in the village.
 
 Village.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ stop and improved lighting.
 
 • Footpath from Kildimo to the Beer Garden public house.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ Engineer, Active Travel advised as there is a 50km speed limit on this carriagew
 
 Active Travel Department are governed by recommended guidelines on road width. The
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -382,7 +382,7 @@ agreed to allocate the following:
 
 • €500 to Askeaton/Ballysteen Active Retirement Group (from his 2025 allocation).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -450,7 +450,7 @@ throughout the village and works would be progressed for this event when
 
 funding is made available.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -520,5 +520,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

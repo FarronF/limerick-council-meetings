@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 16th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28a%29%20Minutes%20Ordinary%20Meeting%2016th%20September%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
@@ -102,7 +102,7 @@ dwelling house situate at 1 The Bungalow, Donnellan’s Buildings, Rosbrien, Lim
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ of Limerick held on 15th July, 2019) and the intention to bring a Section 183 No
 
 September Meeting of Council in this regard, for approval.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ Target National Blend:
 
 •20% Buy: 273
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ Members welcomed the introduction of the pilot scheme for voids and referred to 
 
 need for houses to be returned to use. Members raised the following issues
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ https://www.hse.ie/eng/services/list/4/mental-health-services/connecting-for-
 
 life/publications/connecting-for-life-mid-west-11.pdf
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ Government Act, 2001.
 
 ***with Limerick Council.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -626,7 +626,7 @@ There are no continuous water quality monitors in the city. Water quality is sam
 
 monthly from March to October by the Council/Irish Water laboratory at Worrell's
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -706,7 +706,7 @@ A date for completion cannot be estimated at this early stage.
 
 ***been filled.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -902,7 +902,7 @@ Executive Technician
 
 1
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1164,7 +1164,7 @@ Total
 
 75
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1376,7 +1376,7 @@ Monday to Friday. The CBD extends from Georges Quay to Mallow Street and from
 
 Cathedral Place to Howleys Quay (Shannon riverside).
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1462,7 +1462,7 @@ to the visual amenity on Clancy Strand. He referred to the prominence of Currago
 
 visual, architectural and heritage amenity that it contributes to and the importance of including
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1546,7 +1546,7 @@ Officer, Mr. McGuigan confirmed that works are to be carried out before the end 
 
 The motion was proposed by Councillor O’Donovan, seconded by Councillor Kiely and agreed.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1632,7 +1632,7 @@ more expected to join in the coming months. By being on the “tap map”, Limer
 
 Businesses of all kinds are agreeing to refill water bottles with tap water for free.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1714,7 +1714,7 @@ OPW fix has held to allow water levels return to normal.
 
 From Sunday the 1st of September, 3 of the 4 families who suffered flooding of their
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1798,7 +1798,7 @@ facilities by the Local Authority in the administrative area of Limerick City an
 
 County Council.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1880,7 +1880,7 @@ Members that the Strategic Policy Committees and the Operational Briefings will 
 
 October which will allow Motions to be referred as appropriate.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1896,5 +1896,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 1st November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-1st-november-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ Municipal Allocation with €270,000 of this assigned to the Municipal District 
 
 West as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -210,7 +210,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -288,7 +288,7 @@ The Senior Executive Officer, Strategy and Non LA Housing Construction provided 
 
 update on the Housing Delivery for the District. She referred to the Housing for All Plan and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -362,7 +362,7 @@ Members noted the proposal.
 
 concerning proposal to dispose of land at Market Place, Newcastle West, Co. Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ Question submitted by Councillor L. Galvin
 
 **to be carried out in the Graveyard (Abbey) wall in The Square, Abbeyfeale.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ we will of course implement these.
 
 12.Question submitted by Councillor L. Galvin
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ Limerick City & County Council will carry out a clean-up as part of routine town
 
 maintenance.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ inclusion on the Agenda for the next Full Council Meeting.
 
 ***I will move at the next Meeting that traffic calming measures be put in place on St Ita's***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -726,7 +726,7 @@ have taken place on this matter and that pedestrian access will be considered as
 
 NTA scheme.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -802,7 +802,7 @@ footpaths at Castlemahon and Killeedy cemeteries and requested that work be carr
 
 the footpaths at these locations in the interest of safety. The Members also acknowledged
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -870,7 +870,7 @@ It was agreed to hold the December Meeting of the District on Wednesday, 6th Dec
 
 2023, at 15.00 p.m., at Áras William Smith OBrien.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -886,5 +886,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

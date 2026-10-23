@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Metropolitan District of Limerick - 25th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-special-meeting-of-the-metropolitan-district-of-limerick-25th-march-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ He further advised that 6 applications were received under this call and highlig
 
 total amount requested was €66,330.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Members were informed that an internal assessment panel convened on 20th March
 
@@ -200,7 +200,7 @@ The following table presents a list of groups who submitted applications under *
 
 **Recommended**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Irish Chamber
 
@@ -426,7 +426,7 @@ Wellness Series
 
 Referred to GY
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Lumen Street
 
@@ -462,5 +462,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

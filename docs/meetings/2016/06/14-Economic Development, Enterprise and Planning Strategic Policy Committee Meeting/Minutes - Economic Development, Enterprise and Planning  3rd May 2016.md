@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Economic Development, Enterprise and Planning  3rd May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20%203rd%20May%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE ECONOMIC**
 
@@ -94,7 +94,7 @@ objective of enhancing the well being and quality of life for the citizens of Li
 
 The SPC will be part of the monitoring process of the Plan.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The members generally welcomed the plan. Many issues were raised by the
 
@@ -188,7 +188,7 @@ Issues were raised by Councillors around Food Strategy including branding,
 
 incubation space, the appointment of a Food Development Manager, Kitchen Units.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Mike Cantwell informed the meeting that there was a shortage of available Food
 
@@ -214,5 +214,5 @@ Secretary
 
 Date: Date:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

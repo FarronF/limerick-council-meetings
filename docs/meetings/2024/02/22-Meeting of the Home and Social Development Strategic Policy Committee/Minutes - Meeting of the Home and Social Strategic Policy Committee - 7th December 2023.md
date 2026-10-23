@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 7th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/minutes-meeting-of-the-home-and-social-strategic-policy-committee-22nd-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -104,7 +104,7 @@ Administrative Officer, Housing, Ms. Aoife O’Brien Slater, Administrative Offi
 
 Miriam Donnelly, Administrative Officer, Housing.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ savings.
 
 **Item 4 (a) and (b) : Sales Schemes**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Ms. Curley advised the members that the Council have statutory obligations.
 
 Item 4(b) Consideration to be given to examination of dwellings compulsorily acquired under the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ A discussion took place. Cllr. Benson stated that Affordable Housing is private 
 
 need housing for everyone.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ approval of the scheme. Mr. Delaney informed the committee that it’s intended 
 
 to the scheme in the areas of youth, employment, health and wellbeing.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,5 +472,5 @@ members a Merry Christmas and a happy new year.
 
 **END OF MEETING**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

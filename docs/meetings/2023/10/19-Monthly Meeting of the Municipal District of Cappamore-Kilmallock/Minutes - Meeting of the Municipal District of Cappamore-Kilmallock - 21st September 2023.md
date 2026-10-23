@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-Minutes-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-21st-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -82,7 +82,7 @@ Cappamore-Kilmallock held on 20th July, 2023.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising:
 
@@ -134,7 +134,7 @@ The Climate Action co-ordinator outlined that further briefings will be provided
 
 submissions for the plan and highlighted the importance of promotion of climate action.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 7.Property Services
 
@@ -188,7 +188,7 @@ It was noted that the Councils’ contract for a Property Service Valuer is due 
 
 and that a tender for a new Valuer would be advertised during the month of October.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 It was stressed that the disposal method used for the sale of Council property should be
 
@@ -242,7 +242,7 @@ under the Safety Improvement Measures grants in 2024.
 
 Notice of Motion submitted by Councillor Carey
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 I will move at the next meeting of the Cappamore-Kilmallock Municipal District meeting
 
@@ -292,7 +292,7 @@ issues.
 
 QUESTIONS
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 13.
 
@@ -338,7 +338,7 @@ to Carry out works at Kilgarriff Cross. The contractor is due on site shortly.
 
 Question submitted by Councillor Carey
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 I will ask at the next meeting of the Cappamore-Kilmallock Municipal District that flexi-
 
@@ -384,7 +384,7 @@ District were congratulated on their achievements.
 
 **Public Lighting**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Councillor Teefy highlighted the issue of power to the public lighting between Bruff and
 
@@ -438,5 +438,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

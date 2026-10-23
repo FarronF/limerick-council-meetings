@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-2021-02-03-minutes-february.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
@@ -92,7 +92,7 @@ Seconded by: Councillor Ruddle
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ sightlines when entering the Square from Nash’s Lane which pose a serious Heal
 
 risk. He also referred to the pedestrian/vehicular conflict at this junction which endangers
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 
 €1,000 to Glórach Theatre, Abbeyfeale.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ Property 8
 
 05/11/2018
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -464,7 +464,7 @@ tenancies in Newcastle West.
 
 **(c)**Our records show that there are 17 individuals accommodated.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -556,7 +556,7 @@ The breakdown of these applications are as follows:
 
 6
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -804,7 +804,7 @@ T-
 
 Junction
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -876,7 +876,7 @@ matter be referred to a Meeting of the Home and Community SPC.
 
 ***Feenagh/Kilmeedy but in most villages.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -948,7 +948,7 @@ protection would involve significant expenditure and would also involve land
 
 acquisition at the above location.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1014,7 +1014,7 @@ House at Castlemahon. In replying, the Executive Engineer stated that works were
 
 out at this location before Christmas and the area has now been tidied up.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1090,7 +1090,7 @@ a request was made that the name of a dedicated contact person be made available
 
 tenants of newly allocated houses to address any issues they may have.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1118,5 +1118,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

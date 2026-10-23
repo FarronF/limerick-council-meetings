@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Annual Meeting of Limerick City and County Council - 30th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-c-minutes-annual-meeting-30.06.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -90,7 +90,7 @@ over the previous twelve months for their support. He then gave the following ad
 
 ***opened and almost 100 per cent let. Troy Studios was at capacity. The two other tentpole***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ over the previous twelve months for their support. He then gave the following ad
 
 ***you again.**”***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ Seconded by Councillor Leddin;
 
 to hold office to the next Annual Meeting or until his successor is appointed.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,7 +298,7 @@ address:
 
 ***the next 12 months.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -382,7 +382,7 @@ address:
 
 ***SICAP funding, which assists groups and initiatives helping to reduce poverty and promote***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -458,7 +458,7 @@ address:
 
 ***and looking forward to the challenges ahead. Go raibh maith aga**ibh go leir.”***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -528,7 +528,7 @@ The incoming Deputy Mayor, Councillor Talukder, then addressed the Meeting:
 
 ***- beyond their colour, ethnicity and religion.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -606,7 +606,7 @@ The incoming Deputy Mayor, Councillor Talukder, then addressed the Meeting:
 
 ***well in the year ahead. Thank you very much.”***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -654,5 +654,5 @@ Mayor
 
 Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

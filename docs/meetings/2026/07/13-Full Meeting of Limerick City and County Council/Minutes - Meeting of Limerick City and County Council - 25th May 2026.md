@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 25th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-limerick-city-and-county-council-25th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -80,7 +80,7 @@ sympathy to the following:
 
 A minute’s silence was observed as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ revoke the previous Section 183 Resolution approved by the Members at Meeting he
 
 above, particulars of which were contained in Statutory Notice dated 5th May, 2026”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ Diocesan Trust Company Limited by Guarantee, for the sum of €1 – subject to 
 
 and conditions contained therein including the grant of a Right of Way for access – a covenant
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ for 0.043 Acres (0.0174 Hectares), subject to the covenants and conditions conta
 
 the Lease, particulars of which were contained in Statutory Notice dated 5th May, 2026.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ contribution in maintaining the Council’s financial stability and delivery of 
 
 the year.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -466,7 +466,7 @@ from the Minister for Housing, Local Government and Heritage, in accordance with
 
 106 of the Local Government Act, 2001, as amended, for a loan in the amount of €5,710,000
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -546,7 +546,7 @@ Circulated, report of the Senior Executive Officer, Corporate Services and Gover
 
 Council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ Festivals and Events Grants Scheme 2026 / 2027, as set out in the report of John
 
 Mayor of Limerick dated 18th May, 2026.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -732,7 +732,7 @@ Community
 
 Eileen McMahon
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -858,7 +858,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -932,7 +932,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Collins (M), the
 
 Recommendation was agreed.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1000,7 +1000,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor O’Hanlon, the da
 
 Meeting of the Council was re-fixed to Monday, 13th July, 2026 at 3pm.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1076,7 +1076,7 @@ In supporting the Motion, Members highlighted the risks to road users and the an
 
 concerns associated with the illegal racing of sulkies.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1158,7 +1158,7 @@ referred to the Protocol Committee)
 
 ***We will move at the next Meeting of Limerick City and County Council that:***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1254,7 +1254,7 @@ planned, and that, due to a lack of funding, no new bus services could be delive
 
 Limerick in 2026, with new services possible in 2027 subject to funding. Delays and
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1328,7 +1328,7 @@ Question submitted by Councillor D. McSweeney
 
 Expenditure on legal advice incurred by Corporate Services from June 2024 to date as follows:
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1532,7 +1532,7 @@ The Top 30 third-party suppliers to Limerick City and County Council for the yea
 
 2025 for all non-construction-related services including professional services are as follows:
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1838,7 +1838,7 @@ whereby there is a monetary value attached to the disposal of recyclable bottles
 
 cans in public litter bins. To date the following actions have been taken:
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1920,7 +1920,7 @@ Notice of Motion submitted by Councillors E. Ryan and J. Scanlan
 
 ***on the Minister for Finance to abolish the Universal Charge with effect from January 2027***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1992,7 +1992,7 @@ The Motion was proposed by Councillor Hickey-O’Mara and seconded by Councillor
 
 O’Donovan.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -2024,5 +2024,5 @@ amended, is available on SharePoint for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

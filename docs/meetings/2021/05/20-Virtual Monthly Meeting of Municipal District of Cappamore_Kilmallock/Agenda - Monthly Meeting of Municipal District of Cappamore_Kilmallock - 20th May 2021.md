@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 20th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/1.-agenda-20th-may-md-meeting-final.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **13th** **May, 2021.**
 
@@ -60,7 +60,7 @@ Confirmation of date for Annual General Meeting of Cappamore Kilmallock Municipa
 
 District
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -124,7 +124,7 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District wh
 
 City and County Council plan to start improvement works in Clare Glens.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -144,5 +144,5 @@ number of qualified applicants, First Preference, in the Cappamore/Kilmallock Di
 
 what are the breakdown by areas.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

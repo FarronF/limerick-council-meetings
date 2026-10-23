@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Joint Policing Committee - 2nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Meeting-of-Joint-Policing-Committee-2nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF LIMERICK JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
@@ -104,7 +104,7 @@ The Chief Superintendent stated that he would answer any queries after the prese
 
 and Policing Analyst.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **3.OVERVIEW ON CRIME STATISTICS FROM SENIOR CRIME AND POLICING ANALYST**
 
@@ -186,7 +186,7 @@ of the landowner.
 
 ***both Limerick city and county”.***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **RESPONSE**
 
@@ -294,7 +294,7 @@ units to non-core community policing units.
 
 ***path from The Lock to the University of Limerick”.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Cllr. Hartigan stated that the Notice of Motion be amended to read Locke Quay, not The Lock.
 
@@ -366,7 +366,7 @@ The Chairman pointed out that he met with the Head of the Policing Unit who agre
 
 road.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Councillor K. Sheahan expressed concern at the speed and driving behaviour on the Adare to Askeaton Road.
 
@@ -406,5 +406,5 @@ The Chairman convened the remainder of the Meeting “In Committee” to discuss
 
 **Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

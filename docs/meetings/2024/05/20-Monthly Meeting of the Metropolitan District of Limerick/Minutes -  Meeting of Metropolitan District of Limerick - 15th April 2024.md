@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Meeting of Metropolitan District of Limerick - 15th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-draft-minutes-monthly-meeting-15th-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ proposals for Disposal of Derelict Property at Rathurd, Drombanny, Co. Limerick 
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -224,7 +224,7 @@ Limerick Suicide Watch
 
 It was proposed by Councillor Kiely, seconded by Councillor O’Hanlon and agreed, to approve the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -362,7 +362,7 @@ Parade which will be held on Friday night along the River Shannon and the firewo
 
 will take place on Sunday night. Members welcomed the programme of activities and agreed that
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -438,7 +438,7 @@ consideration as part of the wider Arthur’s Quay Framework Plan. The emerging 
 
 were presented recently in committee to the Elected Members of the Metropolitan
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -514,7 +514,7 @@ clear safe and direct pedestrian linkages’ between areas such as employment, s
 
 residential zones. Furthermore, LSMATS sets out a commitment under a number of
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -600,7 +600,7 @@ windows, this figures does not include minor repairs under €1000.
 
 **14.Question submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -684,7 +684,7 @@ Carey’s Road (of which the Circa 250
 
 Q2 2025
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -760,7 +760,7 @@ public including online customer service help bots with interactive messaging.
 
 ***the next meeting**of this Council.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -842,7 +842,7 @@ facilitating a Park and Ride & mobility hub near Junction 28 in line with LSMATS
 
 sustainable travel.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -924,7 +924,7 @@ suspended in order to complete the agenda.
 
 ***County Council considers making available loan facilities to people who wish to refurbish a house***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1014,7 +1014,7 @@ seconded by Councillor Kiely.
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that bus stops would be***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1060,5 +1060,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

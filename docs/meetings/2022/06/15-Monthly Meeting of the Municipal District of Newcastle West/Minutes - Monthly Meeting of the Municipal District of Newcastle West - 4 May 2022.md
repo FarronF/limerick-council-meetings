@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 4 May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-May-Meeting-04-05-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ The Cathaoirleach welcomed the Senior Engineer, LA Housing Construction and Main
 
 to the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ To Consider Planning Compliance Report for Abbeyfeale Traffic
 
 Management Scheme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Transportation and Mobility Directorate
 
 To receive Update on the Mass Path, Newcastle West.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ date of
 
 completion
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ on this matter.
 
 Question submitted by Councillor J. Scanlan
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ NOTICES OF MOTION
 
 ***I will move at the next Meeting that where houses are habitable that this Council move***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ over the next five years. Given the focus of support on the build programme and 
 
 avoid competition, Limerick City and County Council has been requested to limit acquisitions
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ Directorate on this matter.
 
 The Motion was seconded by Councillor Collins.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -722,7 +722,7 @@ It was agreed to hold the Annual Meeting of the District on Wednesday, 8th June,
 
 This concluded the Meeting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -736,5 +736,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

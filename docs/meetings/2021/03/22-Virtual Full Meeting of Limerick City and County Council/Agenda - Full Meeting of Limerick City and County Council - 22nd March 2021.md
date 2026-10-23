@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Full Meeting of Limerick City and County Council - 22nd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/00-agenda-council-meeting-22.03.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 16th March, 2021.
 
@@ -76,7 +76,7 @@ Dr. Mai Mannix, Director of Public Health Mid-West.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,7 +150,7 @@ Council
 
 (Documentation Enclosed as follows:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -220,7 +220,7 @@ Committees.
 
 (Report and Draft Standing Orders Enclosed)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,7 +296,7 @@ Enterprise and Planning Strategic Policy Committee held on 8th, 15th and
 
 **the shortest period possible, post completion.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -364,7 +364,7 @@ Strategic Policy Committee held on 17th February, 2021.
 
 **for one person per Elected Representative.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -432,7 +432,7 @@ Meeting / Event.
 
 (Report Enclosed)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -508,7 +508,7 @@ and County and if an update could be provided regarding the Single Point of Cont
 
 (SPOC) system.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -582,7 +582,7 @@ Regulator with the necessary associated legislative powers would be to police an
 
 regulate the Meat Industry.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -620,5 +620,5 @@ closure of the on-site pre-school facility.
 
 Correspondence
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

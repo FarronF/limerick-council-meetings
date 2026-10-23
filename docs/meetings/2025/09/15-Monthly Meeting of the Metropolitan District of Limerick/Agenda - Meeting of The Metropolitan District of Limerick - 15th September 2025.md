@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of The Metropolitan District of Limerick - 15th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/agenda-meeting-of-the-metropolitan-district-of-limerick-15th-september-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -80,7 +80,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -140,7 +140,7 @@ been issued and paid in 2024 and 2025 across all bring sites since the CCTV came
 
 been installed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -204,7 +204,7 @@ Rathkeale-Adare-Patrickswell-Limerick Greenway and an indicative timeline be pro
 
 each phase of the project.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -270,7 +270,7 @@ was approved by elected members; projected costs to be incurred during the 2025 
 
 financial years; and any engineering reports completed for the building.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -336,7 +336,7 @@ I will move at the next Meeting of the Metropolitan District of Limerick that a 
 
 developed to show the locations of public toilets in the city centre.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -402,7 +402,7 @@ to the Minister of Education, urging that from 2026 onwards, school emblems be m
 
 available for purchase independently of full school uniforms.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -472,5 +472,5 @@ route.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

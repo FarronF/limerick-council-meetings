@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 27th March 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20Minutes%20March%20Meeting%20of%20the%20Council%20270317.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -94,7 +94,7 @@ on a rescue mission.
 
 tragically lost their lives following a collision near Abbeyfeale.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ stressed the importance of preserving the records that had been retained in rela
 
 to facilitate any future investigation.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ at 36 Greenhills Road, Garryowen, Limerick, to William and Mary Walsh, for the s
 
 €95.42, the disposal to be by way of Deed of Conveyance of the interest of Limerick City and
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ Circulated, Chief Executive’s Reports for the months of January and February 2
 
 The Chief Executive’s Reports were noted by the Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -484,7 +484,7 @@ Members were advised that the level of collection had improved and was now runni
 
 77% and that the objective was to reach 80% by the end of 2017.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -590,7 +590,7 @@ those in the sector whose commercial rates liability was in excess of €21,000.
 
 grant payment was set at 4% of the total rates, including arrears.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ Mayor and 3 Members to Boston, under Section 142 (5) of the Local Government Act
 
 as amended.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -738,7 +738,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
 recommendation was agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -812,7 +812,7 @@ circulated. They complimented staff involved in this project and highlighted the
 
 tourism potential of the Great Southern Trail.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -890,7 +890,7 @@ Liverpool and Manchester, in accordance with Section 142 (5) of the Local Govern
 
 2001, as amended.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -976,7 +976,7 @@ Border Tourism Conference 2017 to be held in Carlingford, Co. Louth, on 5th Apri
 
 April, 2017; (n) Hepatitis C Community Summit to be held in Amsterdam, the Netherlands,
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1044,7 +1044,7 @@ Question submitted by Councillor V. Crowley
 
 **a Special Area of Conservation.**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1132,7 +1132,7 @@ B. According to the 2016 Central Statistics Office Census figures, the average
 
 vacancy rate across these 5 electoral divisions is 18.56%. Within these areas
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1182,7 +1182,7 @@ in Limerick city centre. A decision is awaited on this ‘Pathfinder’s Proposa
 
 (Image omitted)
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1272,7 +1272,7 @@ rented residential property starts on 1 January 2017 and ends on 4 May
 
 2020.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1352,7 +1352,7 @@ citizens an opportunity to come and ask questions related to the scheme to a
 
 cross departmental panel.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1440,7 +1440,7 @@ very suitable landbank at Askeaton. He had had a number of meetings with Shannon
 
 Development in this regard. He added that the landbank in question had been vacant for
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1524,7 +1524,7 @@ elderly and other vulnerable people in their community. He explained that there 
 
 mechanism for awarding these points through the Leaving Certificate. Vocational
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1614,7 +1614,7 @@ so that anyone who had applied to take part in an educational course could avail
 
 payment.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1688,7 +1688,7 @@ Following considerable discussion, it was agreed to refer this item to the Mayor
 
 Party Leaders for further consideration.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1754,7 +1754,7 @@ The Meetings Administrator declared the Mayor’s proposal to reject the Motion 
 
 carried.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1830,7 +1830,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 was available on Alfresco for inspection by the Members.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1850,5 +1850,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

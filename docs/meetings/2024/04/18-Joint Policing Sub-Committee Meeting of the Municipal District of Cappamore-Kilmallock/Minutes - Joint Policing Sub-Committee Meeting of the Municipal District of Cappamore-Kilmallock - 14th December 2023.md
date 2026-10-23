@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -66,7 +66,7 @@ Matters Arising
 
 There were no matters arising
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ It was noted that there was no aggravation or interaction involved in the house 
 
 the fraud was all online, which is on the increase.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -276,7 +276,7 @@ There was acknowledgement of the patrols at Halloween, and those in attendance n
 
 need to think of road safety at Christmas.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ inviting any submissions.
 
 This concluded the business of the meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -374,5 +374,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

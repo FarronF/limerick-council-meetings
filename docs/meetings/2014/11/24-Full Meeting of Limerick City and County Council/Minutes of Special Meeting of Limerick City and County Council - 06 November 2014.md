@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Special Meeting of Limerick City and County Council - 06 November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/5%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_06_november_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
@@ -98,7 +98,7 @@ Meeting, to be put to the Special Meeting and Members had been notified of this 
 
 4th November:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ taken into account.
 
 The Amendment was seconded by Councillor Gleeson.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ person’s ability to pay.
 
 The Amendment was seconded by Councillor Daly.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ There were no abstentions.
 
 The Cathaoirleach declared the Amendment defeated.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -382,5 +382,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

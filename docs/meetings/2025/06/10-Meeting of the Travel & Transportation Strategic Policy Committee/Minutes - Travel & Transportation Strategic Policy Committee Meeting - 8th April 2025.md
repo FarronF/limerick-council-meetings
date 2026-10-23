@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-of-the-travel-transportation-spc-meeting-08.04.25.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -78,7 +78,7 @@ o National Transport Authority (NTA)
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -148,7 +148,7 @@ up as soon as possible. She added that it is a much more powerful mechanism to g
 
 Mayor’s office.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ consultation. The motion only refers to Raheen & Mungret, however, there is also
 
 services to Castletroy, and we need to be fair-minded. She queried the three schools referred
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,7 +290,7 @@ Cllr. O’Donovan added that she is in favour of the bus corridor on O’Connell
 
 when O’Connell Street was developed, Blue Badge parking was removed. More car sharing
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -356,7 +356,7 @@ times. He is currently talking to businesses in relation to starting and finishi
 
 employees.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -418,7 +418,7 @@ on TFI bikes in Limerick. Cllr. Gavan added that TFI scheme could be extended as
 
 Castleconnell.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -468,5 +468,5 @@ The Chair thanked all for their attendance and contribution and advised that the
 
 Tuesday, the 10th of June 2025. This concluded the business of the meeting.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 12th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-12th-July-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ Circulated, copy of draft Minutes of the Annual General Meeting of Municipal Dis
 
 of Newcastle West, held on 22nd June 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ agreed by all the Members that the following material alterations be made to the
 
 Draft Local Area Plan for Abbeyfeale.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -216,7 +216,7 @@ community.
 
 (Image omitted)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -256,7 +256,7 @@ outlined the key changes since the last quarterly update.
 
 (Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -340,7 +340,7 @@ District and stated that with the co-operation of the ESB a lot of these street 
 
 operational again shortly.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -424,7 +424,7 @@ Climate Action Plan. These suggestions will be accepted from 7th July, 2023 to 4
 
 2023. He referred to the anticipated timeframes in the delivery of the Plan including the
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -504,7 +504,7 @@ September 2023. Works period 6 months
 
 September 2023. Works period 6 months.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -584,7 +584,7 @@ Question submitted by Councillor L. Galvin
 
 ***I will ask at the next Meeting how many legal proceedings were enacted for non-***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -660,7 +660,7 @@ tender. However it is estimated that the total scheme cost will be in the order 
 
 to €1.5 million.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -734,7 +734,7 @@ replying, the Senior Executive Officer stated that legal transfers are underway 
 
 that Focus Housing Association has sought funding approval. She also stated that the
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -814,7 +814,7 @@ limited to the following:
 
  Defective House Grant Scheme
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -890,7 +890,7 @@ Lane, Gortboy, be fixed and in replying, the Executive Engineer stated that a mi
 
 be put in place at this location and the light is to be connected by the E.S.B. shortly.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -958,7 +958,7 @@ calming measures in Feohanagh and Athea was also made.
 
 The holding of a Briefing on the Dromcollogher Public Realm Plan was also raised.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -982,5 +982,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

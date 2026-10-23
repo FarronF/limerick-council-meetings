@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-special-meeting-of-the-municipal-district-of-adare-rathkeale-30th-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -92,5 +92,5 @@ www. limerick te
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

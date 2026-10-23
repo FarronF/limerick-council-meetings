@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Special Meeting of Metropolitan District of Limerick - 5th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-b-Draft-Minutes-Special-Meeting-of-Metropolitan-District-of-Limerick-5th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -92,7 +92,7 @@ Limerick and the intention to bring a Section 183 Notice to Full Council in this
 
 approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,5 +130,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

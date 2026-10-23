@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Full Meeting of Limerick City and County Council - 28th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28c%29%20Minutes%20Adjourned%20September%20Meeting%20280917.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -120,7 +120,7 @@ Circulated, report from the A/Head of Finance dated 18th September, 2017, in
 
 relation to Local Property Tax (LPT) – Local Adjustment Factor 2018.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -192,7 +192,7 @@ Circulated, report of the A/Head of Finance dated 19th September, 2017, in relat
 
 to Limerick 2030 Strategic Development DAC.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ Councillor Loftus, that this item be adjourned until a Briefing was held on the 
 
 with adequate notice given to Councillors.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -348,7 +348,7 @@ representation on a Cultural Strategic Policy Committee and noted that this migh
 
 feasible under the proposed structure. Members suggested that an additional four places be
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ Mayor of the City and County of Limerick to Birmingham, under Section 142 (5) of
 
 Government Act, 2001, as amended.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ held on 11th September, 2017.
 
 The report was noted by the Council.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -572,7 +572,7 @@ and in 2017 to date, are as follows:
 
 2017 to date - 10 loans approved (including 4 tenant purchase).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -680,7 +680,7 @@ completion date.
 
 ***exactly are to be carried out.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -772,7 +772,7 @@ located in the Limerick City area have passed the strategic constraints filter
 
 (zoning, flood risk, environmental designations, etc.) with a number of
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -900,7 +900,7 @@ Site behind Bourke Ave fronting onto Russell Park
 
 Lord Edward Street
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1014,7 +1014,7 @@ While the preparation of the Register of Electors is a matter for each local
 
 Registration Authority, the Department of Housing, Planning and Local
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1102,7 +1102,7 @@ years. There have been 3 dwellings successfully acquired using CPO
 
 powers under Derelict Sites legislation over the last few years.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1192,7 +1192,7 @@ It was agreed that Councillor Galvin’s Motion would be circulated to all Local
 
 Authorities for support.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1270,7 +1270,7 @@ area.
 
 ***Saving Equipment Bill 2017.***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1318,5 +1318,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

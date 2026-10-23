@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 15th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-meeting-of-the-metropolitan-district-of-limerick-15th-july-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -101,7 +101,7 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -169,7 +169,7 @@ what steps have been taken to inform local residents and traders about the propo
 
 House and the Ballysimon Centre as IPAS refugee centres?
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -233,7 +233,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick how many
 
 have been supplied by Limerick City and County Council over the last 5 years.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -297,7 +297,7 @@ Centre in Dooradoyle, parallel to the railway line and then connected to the N18
 
 Section, so as to alleviate congestion on the Dooradoyle Road.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -321,5 +321,5 @@ County Council consider the development of a Village Enhancement Plan for Clarin
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

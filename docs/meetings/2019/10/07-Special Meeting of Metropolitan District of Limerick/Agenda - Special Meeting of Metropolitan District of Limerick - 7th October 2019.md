@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 7th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20Special%20Meeting%20of%20Metropolitan%20District%20-%20Monday%2007.10.19.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -84,5 +84,5 @@ i Customerservices@limerickic
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

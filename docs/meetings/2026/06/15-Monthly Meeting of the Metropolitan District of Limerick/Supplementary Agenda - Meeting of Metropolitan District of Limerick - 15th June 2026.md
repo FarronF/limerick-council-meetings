@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/supplementary-agenda-meeting-of-metropolitan-district-of-limerick-15th-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -66,5 +66,5 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

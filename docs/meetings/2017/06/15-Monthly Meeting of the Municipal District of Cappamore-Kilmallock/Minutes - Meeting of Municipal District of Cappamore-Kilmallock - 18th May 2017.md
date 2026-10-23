@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 18th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018%20May%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -88,7 +88,7 @@ It was agreed that the Annual Meeting of the Municipal District of Cappamore-
 
 Kilmallock would take place on Thursday, 15th June, 2017, at 5pm.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ Action Plan for Housing and Homelessness. She informed the Members that it was a
 
 plan with five key Pillars, which were as follows:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ the importance of the supply from Part V developments for a spectrum of applican
 
 housing waiting list.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Notice of Motion submitted by Councillor L.M. Sheehy
 
 ***markings and signage and take precautions to reduce speed on this route.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ invited to the next Meeting).
 
 This concluded the Meeting.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -426,5 +426,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

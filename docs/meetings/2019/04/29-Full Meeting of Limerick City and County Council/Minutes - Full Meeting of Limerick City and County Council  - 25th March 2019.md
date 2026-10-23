@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council  - 25th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/01%28b%29%20Minutes%20-%20March%202019%20Council%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ approval of the Council be and is hereby given to the disposal of 93 St. Munchin
 
 Mary’s Park, Limerick to Mary McGrath and Gerard McGrath, in exchange for 180 St.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Browne, Cahillane, Costelloe, Daly, Gilligan, Keller, Loftus, McCreesh, Ó Ceall
 
 Keary, Scanlan, Teskey
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ of €1,106,015, particulars of which were contained in Statutory Notice dated 1
 
 2019.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ and Second Floors. Mr Coughlan confirmed that Limerick City and County Council a
 
 Shareholders and that a quarterly review can be provided to the Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ together with copy of Limerick City and County Council Audit Committee Annual Re
 
 The Report was noted by the Members.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -564,7 +564,7 @@ emphasised the importance the adhering to this Directive in the run up to the lo
 
 Members also referred to the timing of this recommendation and that most candidates have
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -638,7 +638,7 @@ On the proposal of Councillor O’Hanlon, seconded by Councillor O’Dea, Recomm
 
 3 was agreed.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -722,7 +722,7 @@ Ms Deegan referred to the legacy of 2014 Limerick City of Culture which created 
 
 Limerick open to new ideas, leveraged national funding and corporate support.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -806,7 +806,7 @@ Development Committee for the year ending 31st December, 2018.
 
 The LCDC Annual Report was noted by the Members.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -888,7 +888,7 @@ implementation of the Food Strategy is important to add to the tourism offering 
 
 Limerick City and County.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -950,7 +950,7 @@ Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1030,7 +1030,7 @@ The National Expert Advisory Group on Commemoration issued a recommendation to
 
 the Government in late 2018, which was noted by Cabinet at its January 2019 meeting.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1110,7 +1110,7 @@ It was agreed to refer this Motion to the Environment Strategic Policy Committee
 
 ***5) Investigate bus corridors from the City Centre to the University of Limerick.***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1182,7 +1182,7 @@ It was agreed to refer this Motion to the Environment Strategic Policy Committee
 
 The Correspondence circulated with the Agenda was taken as read.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1208,5 +1208,5 @@ amended, was also available on Alfresco for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

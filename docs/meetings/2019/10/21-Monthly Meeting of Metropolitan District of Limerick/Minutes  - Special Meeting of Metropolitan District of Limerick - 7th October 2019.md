@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Special Meeting of Metropolitan District of Limerick - 7th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28c%29%20Minutes%20Special%20Meeting%207th%20October%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -84,7 +84,7 @@ Environmental Protection Agency to grant a licence to Irish Cement to incinerate
 
 Mungret.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -138,5 +138,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

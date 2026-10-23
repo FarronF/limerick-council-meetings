@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Municipal District of Cappamore-Kilmallock - 8th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-ii-minutes-8th-july-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -74,7 +74,7 @@ Minister Patrick O’Donovan regarding the upgrade of the Thomastown crossing to
 
 representatives of Iarnrod Eireann
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -110,5 +110,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

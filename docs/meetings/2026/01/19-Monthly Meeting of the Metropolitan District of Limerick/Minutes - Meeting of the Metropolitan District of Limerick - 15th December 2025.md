@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 15th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-meeting-of-the-metropolitan-district-of-limerick-15th-december-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ The Members also welcomed the additional allocation for the General Municipal Al
 
 (GMA) for 2026.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Declaration of Interest**
 
@@ -152,7 +152,7 @@ Members acknowledged and commended the work of the Limerick Sports Partnership,
 
 highlighting the vital role of physical activity in promoting health and wellbeing.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **5.Housing Directorate**
 
@@ -220,7 +220,7 @@ Further progress is set in the context of available funding both local and natio
 
 therefore we are not in a position at this stage to have a definite timeline for delivery.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 In the interim the Mobile Library Service in Castletroy will continue to meet current
 
@@ -296,7 +296,7 @@ There was also drainage maintenance on the former pitch area undertaken 18
 
 months after the opening of the Park at a cost of €29,283.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **11.Questionsubmittedby Councillor S. Beasley**
 
@@ -408,7 +408,7 @@ Floor)
 
 Vacant and in plans to convert to residential.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **13.Questionsubmittedby CouncillorS. Benson**
 
@@ -480,7 +480,7 @@ In the years 2019-2025, 19 ESIF-funded projects or staff roles were mainstreamed
 
 into statutory funding or sustainable self-funding.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 In 2025, four ESIF-funded projects were awarded significant statutory funding.
 
@@ -560,7 +560,7 @@ Limerick City and County Council also published the Shopfront Design Guide in Ju
 
 2025, which provides guidance on appropriate shop fronts including signage.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **16.Questionsubmittedby Councillor C. Slattery**
 
@@ -634,7 +634,7 @@ project completion, but LCCC have been assured by Focus Housing Association that
 
 the project will be prioritised for delivery.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **18.Questionsubmittedby Councillor M. Donoghue**
 
@@ -758,7 +758,7 @@ Misc, & Promotion
 
 **€129,662**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 Fáilte Ireland contributed funding of €100,000 under its national Home of Halloween
 
@@ -888,7 +888,7 @@ A further update on estimated register launches will be issued to Elected Member
 
 on the 9th February, 2026.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **20.Questionsubmittedby Councillor U. Gavan**
 
@@ -966,7 +966,7 @@ the Christmas office closure from the 24th December to the 2nd January during
 
 normal operating hours.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 The contact number for out-of-hours is available on limerick.ie and anyone who calls
 
@@ -1038,7 +1038,7 @@ supply of bus shelters in Q2 of 2026. At present we cannot confirm how many bus
 
 shelters will be installed in 2026.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **24.Questionsubmittedby Councillor P. Reale**
 
@@ -1108,7 +1108,7 @@ stakeholders to develop a scheme that will achieve the objectives.
 
 Subject to successful pre-consultation we hope to progress planning in Q1-2026.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 Mackey
 
@@ -1184,7 +1184,7 @@ to participate in these schemes.
 
 pedestrians can be improved at this junction under Active Travel funding and Local
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 Cost Safety funding. Note the submissions for Low-Cost Safety funding 2026 is
 
@@ -1256,7 +1256,7 @@ be made transparently, with due regard to community input and the strategic
 
 objectives of the SMART Housing Programme.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **30.Notice of Motionsubmittedby Councillor S. Beasley**
 
@@ -1320,7 +1320,7 @@ It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity
 
 Environment Strategic Policy Committee.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 **34.Notice of Motionsubmittedby CouncillorM. Donoghue**
 
@@ -1392,7 +1392,7 @@ The Notice of Motion was proposed by Councillor Gavan, seconded by Councillor Se
 
 agreed.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 **37.Notice of Motionsubmittedby Councillor E. O’Donovan**
 
@@ -1460,7 +1460,7 @@ public lighting solution. Delivery of decorative festoon type lighting is not po
 
 through the public lighting maintenance budget.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **39.Notice of Motionsubmittedby Councillor J. Pond**
 
@@ -1534,7 +1534,7 @@ crossings including a pedestrian crossing point 100m North of St Munchin’s Col
 
 are included as part of this project.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 **41.Notice of Motionsubmittedby Councillor P. Reale**
 
@@ -1602,7 +1602,7 @@ The Notice of Motion was proposed by Councillor Hickey O’Mara, seconded by Cou
 
 O’Sullivan and agreed.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 **REPLY:** Under the Coonagh to Knockalisheen Distributor Road project, a road safety audit
 
@@ -1678,7 +1678,7 @@ for community use and, for co-working, especially ENGINE and the yet to be
 
 developed design and fashion hubs on Nicholas St/Mary St.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 **44.Correspondence**
 
@@ -1692,5 +1692,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 

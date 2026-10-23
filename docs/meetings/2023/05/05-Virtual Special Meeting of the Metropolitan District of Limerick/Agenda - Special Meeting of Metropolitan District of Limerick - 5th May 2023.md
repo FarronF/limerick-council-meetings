@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Metropolitan District of Limerick - 5th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/00%20Agenda%20-%20Special%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%205th%20May%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -103,7 +103,7 @@ To note proposal for the disposal of land as follows:
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -115,5 +115,5 @@ To note proposal for the disposal of land as follows:
 
 (Reports Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

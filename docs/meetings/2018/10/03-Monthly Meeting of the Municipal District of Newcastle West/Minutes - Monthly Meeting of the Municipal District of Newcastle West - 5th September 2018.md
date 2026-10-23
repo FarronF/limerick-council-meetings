@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 5th September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/01%202018-09-05%20Minutes%20September.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ On the proposal of Councillor Browne, seconded by Councillor Galvin, it was agre
 
 allocate €1,000.00 for the provision of a bus shelter in Newcastle West.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -274,7 +274,7 @@ the total connected residential population is 85 PE and the
 
 potential load including the school is higher. The design
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -358,7 +358,7 @@ identified on the N21 and indeed on all other National roads within Limerick
 
 will be assessed for suitable improvement works over the next few months.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -434,7 +434,7 @@ rapid growth driven by one very large site. Specifically in
 
 (Image omitted)
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -501,7 +501,7 @@ growth of the settlement.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -577,7 +577,7 @@ sites within and around the core area rather than focusing on
 
 (Image omitted)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -653,7 +653,7 @@ where demonstrated to be appropriate.
 
 (Image omitted)
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -725,7 +725,7 @@ Consultation will have to take place with the existing business in this location
 
 with regard to the removal of the loading bay.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -799,7 +799,7 @@ as part of the budget process and this request will be forwarded to the Physical
 
 Department for discussion.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -875,7 +875,7 @@ Cllr. Collins stated that he was unhappy with the response and requested that a 
 
 arranged with Irish Water regarding the water quality at O’Connor Park, Ardagh.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -947,5 +947,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

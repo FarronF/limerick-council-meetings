@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Limerick City and County Council - 20th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/limerick_city_and_county_council_agenda_-_20_june_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,7 +78,7 @@ Merchant's Quay, Limerick f 061 415266 w: www, limerickcity.ie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -101,5 +101,5 @@ Plan.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

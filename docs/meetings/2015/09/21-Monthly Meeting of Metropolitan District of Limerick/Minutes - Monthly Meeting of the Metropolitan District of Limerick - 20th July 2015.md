@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 20th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2020th%20July%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -108,7 +108,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -188,7 +188,7 @@ now changed, an application for funding had been made to the Department and it
 
 was hoped that this matter would be resolved within months.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -278,7 +278,7 @@ Members noted the contents of the report and the following points were raised by
 
 Members:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -362,7 +362,7 @@ Senior Executive Officer’s Report noted that it was necessary to prepare a new
 
 Scheme as a result of the changes to the Dáil Constituencies and the establishment of
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -450,7 +450,7 @@ communication with the Department and the NRA in relation to same.
 
 Clarina was under review by the NRA.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -532,7 +532,7 @@ The number of people approved on the housing waiting list for the
 
 Metropolitan Area is 3,854 as at the 30th June, 2015.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -620,7 +620,7 @@ In proposing the motion, Councillor Crowley pointed out that, while he acknowled
 
 urgent need for social housing, the site in this case was unsuitable for housing or use as
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -710,7 +710,7 @@ develop this area as a focal point in the city and the need to remove weed growt
 
 the lake area was lost.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -802,7 +802,7 @@ last ten years or so, until the Limerick Communications office ceased to
 
 exist in 2013. The service was funded by a combination of funds from the
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -892,7 +892,7 @@ The Council owns a number of strategic sites in the Metropolitan District;
 
 these are in the main identified in Limerick 2030. Development proposals
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -974,7 +974,7 @@ Members supported the motion and requested that Irish Rail be asked to remove th
 
 refuse deposited along this section of the rail track.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1064,7 +1064,7 @@ Section 41(2)(b) of the Housing (Miscellaneous Provisions) Act 2014 which
 
 states that the Housing Authority shall, within a prescribed period after the
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1124,5 +1124,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Special Meeting - Full Meeting of Limerick City and County Council - 8 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28c%29%20Minutes%20Special%20Meeting%20080118%20v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -76,7 +76,7 @@ A PowerPoint presentation was given by Ms. Mary Fitzgerald, Mr. Gearoid Costello
 
 Julie Tiernan under the following headings:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -144,7 +144,7 @@ Adare.
 
 proposal which could result in a loss of jobs.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -208,7 +208,7 @@ would have to stand over the design proposals with An Bord Pleanála.
 
  An Bord Pleanála would be the ultimate decision-maker.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -232,5 +232,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

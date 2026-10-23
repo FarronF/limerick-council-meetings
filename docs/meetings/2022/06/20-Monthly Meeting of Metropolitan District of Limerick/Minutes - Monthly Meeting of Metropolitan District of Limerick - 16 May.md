@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 16 May.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Minutes-Monthly-Meeting-16th-May-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -86,7 +86,7 @@ Metropolitan Meeting.
 
 **Healy Road, Limerick**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ adjacent to all entrances, New public park of 0.5ha along city canal, communal o
 
 space and communal roof gardens for all apartments, all ancillary drainage, civil and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -274,7 +274,7 @@ The provision of 3 no. ESB sub-stations, ancillary services and infrastructure w
 
 including foul and surface water drainage, attenuation areas, landscaped public open spaces
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -388,7 +388,7 @@ Circulated, Report of the Director of Services, Transportation and Mobility Dire
 
 May, 2022 together with Draft Limerick City and County Council Metropolitan District of Limerick
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -510,7 +510,7 @@ appraisal of available options to progress the project to the next stage of the 
 
 for approval of funding.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -596,7 +596,7 @@ Riverfest weekend.
 
 It also schedules online and traditional ads across various media, online promotion of
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -708,7 +708,7 @@ Dooradoyle Road
 
 ***applications the Council has received in 2022 and if the Council will consider approving late***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -786,7 +786,7 @@ scheme to the Elected Members in advance of advertising the Part 8.
 
 ***similar to an initiative by Fingal County Council.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -862,7 +862,7 @@ highlighted the workload of public representatives and the need for improved sup
 
 ***Hartstonge/Newenham/Henry Street areas of the city.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -914,5 +914,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

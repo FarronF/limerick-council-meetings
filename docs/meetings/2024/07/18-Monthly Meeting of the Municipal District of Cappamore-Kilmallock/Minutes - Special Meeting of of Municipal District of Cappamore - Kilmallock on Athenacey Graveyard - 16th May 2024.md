@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of of Municipal District of Cappamore - Kilmallock on Athenacey Graveyard - 16th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/04-minutes-of-special-meeting-on-athenacey-graveyard_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF SPECIAL MEETING OF THE
 
@@ -86,7 +86,7 @@ The Senior Engineer also advised that this situation exists at numerous location
 
 country and seeking legal advice on right of way is the most appropriate option.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Director of Services reiterated that the mediation process undertaken in 2023 between
 
@@ -112,5 +112,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

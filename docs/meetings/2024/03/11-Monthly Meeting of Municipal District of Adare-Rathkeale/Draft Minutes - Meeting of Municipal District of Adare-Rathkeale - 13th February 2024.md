@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 13th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-13th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -96,7 +96,7 @@ made. Councillor Sheahan asked it be recorded that he had never experienced any
 
 difficulty with staff on minute recording in the District. All Members concurred with
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ To consider the proposed Material Alteration of the Draft Adare Local Area Plan 
 
 received on the Material Alterations to the Draft Adare Local Area Plan, and decide
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Limerick and the intention to bring the Section 183 Notice to Full Council for
 
 approval.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ the Planning and Development Act, 2000 (as amended) and Section 11 of the Roads 
 
 1993”.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ to possible remedial works in the meantime at this location.
 
 Milltown be tarred. The Senior Executive Engineer, Roads, Traffic and Cleansing
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ allocate the following:
 
  €3,000 to Dromore United Soccer Club.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ Rathkeale for her success in competitive clay pigeon shooting. This was seconded
 
 Councillor O’Brien and agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -634,7 +634,7 @@ The wind energy development guidelines (2006) are the current relevant
 
 guidelines in respect of wind farms.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -706,5 +706,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

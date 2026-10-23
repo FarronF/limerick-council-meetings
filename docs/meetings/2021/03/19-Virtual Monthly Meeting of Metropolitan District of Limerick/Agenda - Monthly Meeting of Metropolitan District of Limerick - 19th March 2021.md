@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/draft-agenda-monthly-meeting-19th-march-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 15th March, 2021.
 
@@ -50,7 +50,7 @@ February, 2021.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -114,7 +114,7 @@ c) The proposed date for when these signs will be erected;
 
 d) How many signs in total have been acquired by Limerick City and County Council.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -178,7 +178,7 @@ properties that have not been completed or properties that have not been started
 
 for works to begin.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -234,7 +234,7 @@ littering and dumping have there been in relation to the use of CCTV cameras sin
 
 up to February 2021.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -300,7 +300,7 @@ Station and to tackle the increase in anti-social behaviour and crime. Also, to 
 
 recommendations set out by the Fitzgerald report 2007 regarding Garda resources in Limerick City.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -362,7 +362,7 @@ Governing Authority and the Gardai on a proposal to install cameras in the commu
 
 estates near the UL campus.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -394,5 +394,5 @@ Relations Commission and calls on the Minister for Enterprise, Trade and Employm
 
 to prevent the job losses.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

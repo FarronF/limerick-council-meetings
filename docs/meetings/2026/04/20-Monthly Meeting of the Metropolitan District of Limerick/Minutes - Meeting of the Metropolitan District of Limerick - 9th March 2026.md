@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 9th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-metropolitan-district-of-limerick-9th-march-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ Limerick held on 16th February 2026.
 
 Proposed by Councillor O’Hanlon.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Seconded by Councillor Slattery.
 
@@ -158,7 +158,7 @@ The Cathaoirleach asked that Members share and promote the festival through thei
 
 social media outlets.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **5.April Meeting**
 
@@ -234,7 +234,7 @@ report, as circulated, was approved.
 
 ***Old Kilmurry Road***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 •
 
@@ -306,7 +306,7 @@ It was possible to extend the green light for traffic exiting St. Patrick’s Ro
 
 negatively impacting traffic on the R445 Dublin Road.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **11.Questionsubmittedby Councillor E. O’Donovan**
 
@@ -372,7 +372,7 @@ then.
 
 ***particular the recurring potholes on the Abbey Bridge.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **REPLY:** In the case of the pothole referred to on Abbey bridge the recurring nature of the
 
@@ -482,7 +482,7 @@ each of these years.
 
 €441,885.47
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 2025
 
@@ -564,7 +564,7 @@ Environment, Climate and Communications—following the successful pilot of the
 
 service in 2024.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 For a nominal fee of €10, householders can avail of a door-to-door Bulky Waste
 
@@ -636,7 +636,7 @@ that can be offered as affordable housing once legal issues have been resolved.
 
 ***the area.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Kiely and
 
@@ -708,7 +708,7 @@ Subject to progress at each stage, it is anticipated that the CBL system will be
 
 for rollout in the second half of 2026. Elected members will be fully briefed in
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 advance of implementation and throughout the planned pilot and later roll out
 
@@ -776,7 +776,7 @@ time, the scheme does not meet the eligibility criteria for the Affordable Housi
 
 Fund (AHF) to meet a minimum of 15% affordability gain (i.e., discount).
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Further development opportunities are being explored in Patrickswell to deliver
 
@@ -848,7 +848,7 @@ The long-term sustainability and certainty of the CCTV service will require the
 
 securing of sustainable multiannual funding, and Members are advised that
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 engagement with the Department of Justice is ongoing to seek a commitment in this
 
@@ -924,7 +924,7 @@ A similar site-specific approach is being taken in other LCCC owned and operated
 
 buildings.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 Following discussions, it was agreed to consider implementing communication boards in
 
@@ -994,7 +994,7 @@ In proposing the Motion, Councillor Reale amended the motion to read as follows:
 
 *added here also.*
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 The Notice of Motion was proposed by Councillor Reale, seconded by Councillor Hickey
 
@@ -1008,5 +1008,5 @@ This concluded the Meeting.
 
 **Dated:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-minutes-of-monthly-meeting-9th-february-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ The Senior Executive Engineer agreed to contact the Road Design Office on the ma
 
 and to provide and update at the March Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ And Resolved:
 
 “That the Section 183 Notice be brought to full Council for approval”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,7 +288,7 @@ matter with Carmel Lynch, Senior Executive Engineer and revert.
 
 Shanagolden and requested an update for the March District Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -358,7 +358,7 @@ allocate the following:
 
  €300 for Christmas Crib in the Adare-Rathkeale Municipal District Office.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -426,7 +426,7 @@ lands are now for sale and it is hoped when sold they will be used for job creat
 
 purposes.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -492,5 +492,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

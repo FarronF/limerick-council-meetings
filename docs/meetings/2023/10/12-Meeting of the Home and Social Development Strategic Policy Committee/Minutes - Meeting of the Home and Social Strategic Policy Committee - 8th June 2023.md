@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 8th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Home-and-Social-Strategic-Policy-Committee-8th-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -96,7 +96,7 @@ SPC.
 
 The Cathaoirleach also communicated the protocol for the SPC meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ advised that both Novas and Focus work with the Education and Training Board (ET
 
 Training, life skills programme, courses and apprenticeships.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ Build and that Mr. Mick Forde-Bradley gave a workshop on Modern Methods of Const
 
 this year.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -278,5 +278,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

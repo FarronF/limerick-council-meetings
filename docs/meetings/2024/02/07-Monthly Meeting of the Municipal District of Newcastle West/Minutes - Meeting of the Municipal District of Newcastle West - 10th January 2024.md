@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 10th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01a-minutes-meeting-of-the-municipal-district-of-newcastle-west-10th-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -94,7 +94,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Broadford, NCW and Carrigkerry. A large of allocation was attributed to Athea du
 
 2022/2023. This project will be added to the current list of priorities and the works will be
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ We will examine the projects identified above for potential inclusion into the
 
 Schedule of Municipal Works 2024.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ be added to the current list of priorities and the works will be carried out whe
 
 funding will be available.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -392,7 +392,7 @@ commencing in the Abbeyfeale area shortly and a substantial number of these manh
 
 covers will be addressed when these works are carried out.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ in the District. Other Members concurred with Councillor Scanlan and a discussio
 
 on a number of matters including statistics on the number of street lights not operational in
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -542,7 +542,7 @@ all interested parties were invited to submit a Tender. It was also noted that a
 
 put in place in early 2024 which will be circulated to the Members in due course.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -614,7 +614,7 @@ rear of Hazelgrove Estate, Newcastle West this year. Following a brief discussio
 
 Collins stated that he had previously raised this matter and that if works were to go ahead at
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -678,5 +678,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

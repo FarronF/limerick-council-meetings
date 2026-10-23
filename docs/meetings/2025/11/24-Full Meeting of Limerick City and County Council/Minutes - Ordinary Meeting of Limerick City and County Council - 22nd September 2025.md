@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 22nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-ordinary-meeting-of-limerick-city-and-county-council-22nd-september-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ Circulated, copy of draft Minutes of the following Meetings:
 
 (c) Special Meeting of the Council held on 8th September, 2025.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ An amendment was proposed as follows:
 
 Proposed by Councillor Sheahan;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ Proposed by Councillor Teefy;
 
 Seconded by Councillor Daly;
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -286,7 +286,7 @@ Keary, Kiely, Leddin, McSweeney, O’Donovan, O’Sullivan (O), O’Sullivan (T)
 
 (E), Sheahan, Stokes, Teskey. **(21)**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -346,7 +346,7 @@ majority, Limerick City and County Council would not be putting a candidate forw
 
 Presidential Election 2025.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -424,7 +424,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 Sheares Street, Kilmallock, Co. Limerick, to Kilmallock Tourism Development CLG, for the sum
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -502,7 +502,7 @@ The Chief Economist and Director of Policy, Limerick Chamber, outlined the key
 
 findings of the Chamber’s housing research as follows:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -580,7 +580,7 @@ barometer is a county-wide issue. He explained that the survey was carried out t
 
 members a voice. The Chief Economist and Director of Policy outlined that people do want
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -662,7 +662,7 @@ Circulated, report of the Senior Executive Officer, Corporate Services, Governan
 
 Customer Services dated 16th September, 2025, seeking the Council’s approval for
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -740,7 +740,7 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -820,7 +820,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Butler, the follow
 
 date was agreed:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -896,7 +896,7 @@ Seconded by Councillor Slattery;
 
 And Resolved:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -970,7 +970,7 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1048,7 +1048,7 @@ Its current membership comprises:
 
 • Dr. Pat Daly, Director General, Limerick City and County Council
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1136,7 +1136,7 @@ those discussions, I would welcome a more detailed briefing note from
 
 Councillor O’Donovan setting out the particular schemes where she or others
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1200,7 +1200,7 @@ No. of Commencement Notices received for Developer-Led Builds - 34
 
 units.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1280,7 +1280,7 @@ Question submitted by Councillor E. O’Donovan
 
 **rejected, with reasons for same.**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1400,7 +1400,7 @@ from
 
 documentation provided.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1476,7 +1476,7 @@ basis.
 
 • 8 no. Kilteely
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1558,7 +1558,7 @@ NOM below).
 
 *steady supply of new shelters to commence from later this year based on the*
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1636,7 +1636,7 @@ adoption of the resolution.
 
 Following further discussion, the Mayor agreed to commence a review as requested.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1708,7 +1708,7 @@ buses in the city and county and emphasised the benefits of allowing people over
 
 70 to drive school buses.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1782,7 +1782,7 @@ by the Council:
 
 **urgency.”**
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1856,7 +1856,7 @@ through the Limerick Age Friendly Programme, the Council is already undertaking 
 
 become dementia-friendly and agreed to consider additional areas for development.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -1928,7 +1928,7 @@ The Register of Orders made by the Mayor or the Director General up to the date 
 
 the Meeting was available on sharepoint for inspection by the Members.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -1948,5 +1948,5 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 

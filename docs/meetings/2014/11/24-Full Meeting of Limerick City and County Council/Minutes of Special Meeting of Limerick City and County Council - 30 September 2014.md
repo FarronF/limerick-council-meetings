@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Special Meeting of Limerick City and County Council - 30 September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/4%20minutes_of_special_meeting_of_limerick_city_and_county_council_-_30_september_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
@@ -92,7 +92,7 @@ Councillors Browne, McCreesh, McMahon, Cmhlr Ó Ceallaigh, Quinlivan, Sheehy,
 
 Keller, Loftus, Prendiville, Gilligan.  **(10)**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ stamp duty paid or the forthcoming water charges.
 
 • The tax would not be used to pay for local services.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ proposed an amendment to the original Motion and proposed a reduction of 15%
 
 over 5 years at a rate of 3% per annum to be reviewed annually.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ Seconded by Councillor Clifford;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ recommended that they be appointed to the Committee as was prescribed in Section
 
 22 (1) of the Housing (Traveller Accommodation) Act, 1998:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,7 +496,7 @@ Development Plans, namely those in respect of merging Planning Authorities. In
 
 accordance with Section 28 of the Electoral, Local Government and Planning and
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -576,7 +576,7 @@ towards A Cemeteries Development Programme 2014-2015, the details of which
 
 were outlined in the report.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,7 +652,7 @@ raising of a loan of €300,000 to finance the Cemeteries Development Programme
 
 2014-2015.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -738,7 +738,7 @@ Ross, Co. Wexford, from 11th to 13th September, 2014; (f) The 13th Benedict Kiel
 
 Literary Weekend held in Omagh, Co. Tyrone, from 12th to 14th September, 2014; (g)
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,7 +816,7 @@ through the media and also by publishing details on the Council
 
 websites.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -918,7 +918,7 @@ For Sale
 
 1
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1068,7 +1068,7 @@ Road Grader
 
 95.15/hr
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1206,7 +1206,7 @@ Municipal District of Newcastle West
 
 **4,203**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1284,7 +1284,7 @@ considerable number of estates not yet taken-in-charge and asked if funding coul
 
 be provided for essential maintenance work.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1364,7 +1364,7 @@ maternity units in the country and had no Intensive Care or High Dependency Unit
 
 The Motion was seconded by Councillor Foley.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1440,7 +1440,7 @@ scheme be reviewed to ensure equality in the City and County.
 
 Councillor Mitchell seconded the Motion.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1518,7 +1518,7 @@ The Motion was proposed by Councillor Ryan and seconded by Councillor
 
 Scanlan.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1604,7 +1604,7 @@ they have the option to raise the matter with the Office of the
 
 Ombudsman.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1680,7 +1680,7 @@ modified to read ‘domestic’ water charges as businesses and the farming comm
 
 were already paying water charges.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1766,7 +1766,7 @@ The Schemes have had a positive impact for both the participants and
 
 the local communities where they operate.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1786,5 +1786,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

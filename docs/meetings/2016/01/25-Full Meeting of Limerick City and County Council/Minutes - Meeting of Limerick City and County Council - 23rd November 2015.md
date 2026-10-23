@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 23rd November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20November%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -104,7 +104,7 @@ September, 2015, in relation to the disposal of land, by means of lease, at
 
 Ballinacarriga, Kildimo.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ November, 2015, together with Draft Limerick City and County Council (Cemeteries
 
 Bye-Laws, 2015.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ attaching Schedules setting out details of the Revenue and Capital Accounts for 
 
 nine month period ended 30th September, 2015.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ In view of time constraints, the scheduled presentation on this item was
 
 deferred to the January Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Collins
 
 **Sligo:** Councillor Gilligan.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -506,7 +506,7 @@ per hour varies depending on type of incident as follows:
 
 refuse skip/refuse bin fires etc.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -602,7 +602,7 @@ It was agreed to refer this Motion to the Home and Social Development
 
 Strategic Policy Committee.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -670,7 +670,7 @@ Correspondence
 
 The Correspondence circulated with the Agenda was taken as read.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -710,5 +710,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 22nd July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/minutes-meeting-of-the-metropolitan-district-of-limerick-22nd-july-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ celebration that was evident throughout Limerick.
 
 Circulated, copy of draft Minutes of the following Meetings:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 (a) Monthly Meeting of the Metropolitan District of Limerick held on 15th June 2026.
 
@@ -156,7 +156,7 @@ proposals for Disposal of Property at 26 Clare Street, Limerick to Emma Varley.
 
 The Report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **4.Community Initiative Scheme 2026 – General Municipal Allocation (GMA)**
 
@@ -294,7 +294,7 @@ Woodview Residents Association
 
 €4,000.00
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **LIMERICK CITY EAST**
 
@@ -436,7 +436,7 @@ Patrickswell GAA & Camogie
 
 €4,500.00
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Patrickswell National School
 
@@ -580,7 +580,7 @@ St. Munchin's Boxing Club
 
 €6,000.00
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 St. Munchin's Community Centre
 
@@ -722,7 +722,7 @@ Limerick Dementia Social Club
 
 €1,000.00
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Limerick Feral Cats
 
@@ -822,7 +822,7 @@ out details in relation to the proposed development of 6 no. dwellings and assoc
 
 works at Knock Hill, Ferndale, Caherdavin, Limerick. The Report had been prepared in
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 accordance with Section 179 of the Planning and Development Act 2000 (as amended) and
 
@@ -942,7 +942,7 @@ Yes
 
 Yes
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 3-bed
 
@@ -1048,7 +1048,7 @@ finalised following receipt of Departmental approval and completion of the
 
 associated legal processes.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **8.Question submitted by Councillor Leddin**
 
@@ -1138,7 +1138,7 @@ Confirmation of mayoral funding will facilitate and prioritise the awarding of t
 
 contract.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **10.Question submitted by Councillor Slattery**
 
@@ -1216,7 +1216,7 @@ bollards or orcas to quickly improve safety on existing lanes, subject to design
 
 and safety audits.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 The Council and its Active Travel Team continue to work in close partnership
 
@@ -1288,7 +1288,7 @@ completed repairs to all identified faults within the festoon lighting network a
 
 Three Bridges Walk. As of the week ending 10 July 2026, all sections of the lighting
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 installation are operational, with the exception of the section adjacent to Arthur's
 
@@ -1454,7 +1454,7 @@ City and
 
 **0**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 County
 
@@ -1616,7 +1616,7 @@ to provide a breakdown of the number or locations of bat boxes within the
 
 Metropolitan District.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **17.Question submitted by Councillor Hickey O’Mara**
 
@@ -1686,7 +1686,7 @@ basis.
 
 **20.Question submitted by Councillor Donoghue**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick how frequently Traffic***
 
@@ -1772,7 +1772,7 @@ Active Travel and Roads Teams to bridge local network gaps identified during a J
 
 2024 cycling audit.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 The project aims to provide a safer, quieter alternative to the busy Ballinacurra Road,
 
@@ -1842,7 +1842,7 @@ newsletter.
 
 ***lease scheme has stopped in Limerick.***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 **REPLY:** There are currently 10 no. units being progressed through the Repair and Lease
 
@@ -1910,7 +1910,7 @@ is between the Local Authority & Swim Ireland).
 
 • Site security to be provided by the local authority.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 Subject to available funding Limerick City & County Council could explore the potential
 
@@ -1978,7 +1978,7 @@ scooter usage.
 
 ***Authority to carry out an immediate safety audit of O'Callaghan Avenue and Sexton Street***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 ***North Junction, otherwise known as Johnsey's Corner, concurrent to the completion of the***
 
@@ -2044,7 +2044,7 @@ response as soon as it is received.
 
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Reale.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 **REPLY:** The Active Travel team is closely monitoring vehicle tracking at the specific pinch-
 
@@ -2112,7 +2112,7 @@ O’Donovan and agreed.
 
 ***personnel engage with residents living on the Old Cratloe Road, Pass Road and Willow***
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 ***Grove and support them in their request that, as part of current roadworks on the Old***
 
@@ -2188,7 +2188,7 @@ The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor
 
 O’Mara.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 **REPLY:** Information on arts grants, bursaries and opportunities administered by the arts office
 
@@ -2264,7 +2264,7 @@ to bring any issues they identify to the attention of the Roads Team.
 
 locations requiring surface water drainage cleansing and maintenance. Priority is
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 given to areas with a history of flooding and to locations where drainage issues have
 
@@ -2340,7 +2340,7 @@ amend the Motion to the following:
 
 Procedure which requires project teams to brief elected members in advance of the
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 commencement of the public consultation process. This procedure is designed to
 
@@ -2394,12 +2394,12 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 20th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210401-agenda-travel-transportation-spc-meeting-20.04.21.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ business to be transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -111,7 +111,7 @@ What plans, if any, are in progress for Limerick City Centre and county town cen
 
 for covid mobilty, walking and cycling and pedestrianisation of streets for outdoor
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -157,5 +157,5 @@ route?”
 
 **Presentation by The Limerick Pedestrian Network - Three Bridges Walking Route**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

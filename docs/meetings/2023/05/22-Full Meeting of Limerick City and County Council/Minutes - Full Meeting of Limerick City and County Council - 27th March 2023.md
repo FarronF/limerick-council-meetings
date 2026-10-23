@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 27th March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-%28a%29-Minutes-Council-Meeting-27-03-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ Mayor of any declaration of interest in any item due for discussion at the Meeti
 
 interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ Council in the property, particulars of which were contained in Statutory Notice
 
 January, 2023.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ comprising 28m2 (0.007 acres) at rear of 13 Michael Hartnett Close, Newcastle We
 
 Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ Circulated, copy of Statutory Notice dated 13th March, 2023, concerning disposal
 
 property at Drombanna, Co. Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -594,7 +594,7 @@ Government and Heritage for a loan in the amount of €5,150,000 to fund the dra
 
 Local Authority Home Loans.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -672,7 +672,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -750,7 +750,7 @@ amended, the Annual Service Delivery Plan 2023 for Limerick City and County Coun
 
 circulated, be and is hereby adopted.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -830,7 +830,7 @@ Policy Committee dated 15th February, 2023, in relation to meeting of the Commit
 
 held on 15th February, 2023, together with accompanying reports as set out below.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -894,7 +894,7 @@ And Resolved:
 
 circulated, be and is hereby adopted.”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -970,7 +970,7 @@ The Members noted the allocation details outlined in the Report and agreed that 
 
 funding and resources needed to be directed at the issue of Taking in Charge of estates.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1042,7 +1042,7 @@ Meeting / Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1124,7 +1124,7 @@ Notice of Motion submitted by Councillor L. Galvin
 
 **property owners convert their vacant commercial properties to residential units, either a**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1206,7 +1206,7 @@ Notice of Motion submitted by Councillor S. Keary
 
 **on the intended use of the former Bank of Ireland building which it recently purchased at**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1288,7 +1288,7 @@ available for social renting for the duration of the mortgage or leasing
 
 agreement (e.g. 25 years).
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1360,7 +1360,7 @@ Correspondence
 
 The Correspondence circulated with the agenda was taken as read.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1386,5 +1386,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

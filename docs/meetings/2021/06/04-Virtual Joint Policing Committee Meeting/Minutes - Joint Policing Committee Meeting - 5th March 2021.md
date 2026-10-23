@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 5th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/minutes-of-jpc-meeting-5th-march-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT VIRTUAL MEETING OF THE JOINT
 
@@ -108,7 +108,7 @@ stated that the issue around admissibility of CCTV could be detrimental to prose
 
 significant fines to the Council for breaches.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **18.**
 
@@ -204,7 +204,7 @@ Crimes against the person and overall assaults are also down. The Gardaí contin
 
 moving outside 5 kms from their home with 972 covid 19 fixed penalty notices issued.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3.**
 
@@ -306,7 +306,7 @@ The Members congratulated the Council and the Gardaí for the work they are doin
 
 the horse issue in the city.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **5.**
 
@@ -392,7 +392,7 @@ The objectives of this operation are :
 
 To ensure compliance with Health Act legislation and regulations;
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 
 
@@ -494,7 +494,7 @@ to discuss with the Council.
 
 **Question submitted by Councillor Conor Sheehan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *“I will ask at the next Meeting if the CCTV cameras on t**he Park Canal and Shannon Fields are*
 
@@ -586,7 +586,7 @@ were allocated to the Division and went to Henry Street and Roxboro respectively
 
 January;
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 
 
@@ -700,7 +700,7 @@ Newcastle West.
 
 *Have the Gardaí been in contact with Limerick City and County Council with regards to the derelict*
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 *houses that are allegedly used to store drugs ? Are there any intentions to investigate these*
 
@@ -804,7 +804,7 @@ of houses need to be speeded up as this is a contributing factor to the drugs is
 
 **Question submitted by Maurice Quinlivan, T.D.**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 *“I will ask at the next Meeting for data with regards to Garda response* *times to calls from the public*
 
@@ -874,7 +874,7 @@ Roxboro Road – 1
 
 1 Attention & Complaints
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 The Chief Superintendent confirmed there were 128 seizures in 2020 and 1 seizure in January 2021
 
@@ -936,5 +936,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

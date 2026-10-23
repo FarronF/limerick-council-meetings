@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Adjourned Meeting of Travel and Transportation Strategic Policy Committee - 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/Agenda-Travel-and-Transportation-Adjourned-SPC-Meeting-12th-July-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ is set out on the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -79,5 +79,5 @@ Tuesday 18th April 2023 @ 3:30 p.m.
 
 **A/Senior Engineer**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

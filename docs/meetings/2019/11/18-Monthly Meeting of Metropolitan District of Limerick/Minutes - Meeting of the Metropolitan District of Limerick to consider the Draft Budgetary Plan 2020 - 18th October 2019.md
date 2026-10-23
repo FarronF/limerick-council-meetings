@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick to consider the Draft Budgetary Plan 2020 - 18th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28a%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK TO**
 
@@ -118,7 +118,7 @@ Special Projects – LPT
 
 €65,000
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -206,7 +206,7 @@ increased from three to four projects. Director, Support Services confirmed that
 
 be ringfenced in the Capital Account and allocated up to four strategic projects per electoral area.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,5 +242,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

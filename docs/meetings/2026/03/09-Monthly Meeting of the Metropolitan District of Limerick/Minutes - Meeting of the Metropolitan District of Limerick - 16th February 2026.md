@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 16th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-metropolitan-district-of-limerick-16th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Declaration of Interest**
 
@@ -154,7 +154,7 @@ Members requested that updates be provided on:
 
 • Plans from the Office of Public Works (OPW) regarding Sarsfield House
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **5.March Meeting**
 
@@ -222,7 +222,7 @@ outstanding.
 
 these remain outstanding.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 The RAS unit continue to identify properties from the Buy, Build, Lease pipeline and
 
@@ -302,7 +302,7 @@ is witnessed by SEO or DOS.
 
 • Signed copies of contracts are saved digitally.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 LCCC Civic festivals have audiences ranging from 40,000 to 110,000 people & are
 
@@ -376,7 +376,7 @@ the garden from the main road and via steps from within the Cemetery. The garden
 
 will be wheelchair accessible and will be fully landscaped.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 The project is being progressed inhouse with a timeline of May 2026 for lodging a
 
@@ -442,7 +442,7 @@ housing tenures on Council owned land by the end of February 2026.
 
 ***Groody Road at the southern leg of Kilbane Roundabout.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **REPLY:**Planning approval for the Castletroy Link Road Scheme was received from An
 
@@ -514,7 +514,7 @@ Tenant-in-Situ scheme.
 
 ***DAC explain their**future plans**for Castle Lane Tavern which closed in 2000.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **REPLY:**Along with a Museum function, the Castle Lane Tavern formed part of the Castle
 
@@ -588,7 +588,7 @@ identify funding avenues from government.
 
 ***conjunction with other partners such as 3rd level institutions including the establishment***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 ***of an Expression of Interest process to seek operators to consider developing student and***
 
@@ -658,7 +658,7 @@ have resources to attend to various locations during daytime operations.
 
 0 fines issued in 2025 for Ashbourne Park.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **NOTICES OF MOTIONS**
 
@@ -736,7 +736,7 @@ the next phase of the project i.e. a feasibility study of the site.
 
 ***cyclists to wait and dismount when crossing.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 *As the Motion was not moved, the Motion was adjourned to the next Meeting.*
 
@@ -804,7 +804,7 @@ Road (Formerly the N24). There is a Stop line and “STOP” text on the tertiar
 
 and there is yellow hatched box spanning both lanes of the regional road to facilitate
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 traffic movement from the tertiary road when the regional road is congested. The
 
@@ -878,7 +878,7 @@ opportunities to further enhance the city suburbs.
 
 ***requesting a greater focus on oral communication.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 The Notice of Motion was proposed by Councillor Gavan, seconded by Councillor Hickey
 
@@ -950,7 +950,7 @@ requires developers to report on modal use by a development, including traffic
 
 figures using the development.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 There is already significant high frequency public transport infrastructure serving this
 
@@ -1026,7 +1026,7 @@ including promotional work to support access to their venues by 18 to 22 year ol
 
 within their marketing and access strategies.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **33.Notice of Motionsubmittedby Councillor E. O’Donovan**
 
@@ -1082,5 +1082,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

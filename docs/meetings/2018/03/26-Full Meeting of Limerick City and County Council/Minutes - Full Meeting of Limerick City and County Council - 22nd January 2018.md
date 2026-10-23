@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 22nd January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20%28a%29%20Minutes%20January%20Council%20Meeting%20220118.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -98,7 +98,7 @@ They expressed sympathy, on behalf of the Council, to Michael’s wife, Helen, a
 
 Michael and Byran, on his sudden and untimely passing.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ of the freehold interest in property at 18 Sycamore Avenue, Rathbane, Limerick
 
 (Folio LK3402L).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ Prospect, Limerick; particulars of which were contained in Statutory Notice date
 
 January, 2018.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ January, 2018, seeking the Council’s approval of Sectoral Nomination to the Cu
 
 Strategic Policy Committee.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ and reviewed the Statutory Audit Report for the year ended 31st December, 2016.
 
 The position was noted by the Council.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,7 +490,7 @@ of this expenditure. The Council’s approval for the provision of financial ass
 
 amount of €315.42 towards the cost of this twinning initiative was required.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ Planning Strategic Policy Committee, presented an overview of matters discussed 
 
 Meeting and outlined the following Recommendation which was agreed at the SPC Meeting:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -640,7 +640,7 @@ as follows:
 
 **Municipal/Metropolitan District level as appropriate.”**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -716,7 +716,7 @@ Seconded by Councillor Crowley;
 
 And Resolved:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -788,7 +788,7 @@ Meeting / Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -874,7 +874,7 @@ in 2017 from its peak. The Council’s strategy in this regard is ongoing and wi
 
 continue throughout 2018.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -958,7 +958,7 @@ examination prior to finalisation and the matter will be clarified further in th
 
 near future.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1036,7 +1036,7 @@ Notice of Motion submitted by Cmhlr. S. Ó Ceallaigh ***(to be referred to***
 
 It was agreed to refer this Motion to the Cultural Strategic Policy Committee.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1098,7 +1098,7 @@ especially mark his major contribution in providing Limerick’s enduring anthem
 
 *You’re a Lady.”*
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1124,5 +1124,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

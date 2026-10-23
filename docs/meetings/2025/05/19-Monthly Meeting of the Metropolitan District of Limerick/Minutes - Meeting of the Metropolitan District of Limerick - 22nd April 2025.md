@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 22nd April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-meeting-of-the-metropolitan-district-of-limerick-22nd-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 amended, and the Code of Conduct, she was inviting those present to notify the Cathaoirleach of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -190,7 +190,7 @@ Meeting of the Metropolitan District of Limerick at 9.45am on Monday, 23rd June,
 
 **Taking in Charge of Estates - Declaration of Roads to be Public Roads**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ building to progress the development of the site.
 
 **REPLY**: The Cleansing Section cannot service bins along this walkway due to access restrictions for
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ explore suitable homeless accommodation options.
 
 **13.Question submitted by Councillor E. Secas**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ Enquiries for the past 5 years are as follows:
 
 and County Council was €3,221,755.11 and in 2024 this figure was €4,735,578.89.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -534,7 +534,7 @@ backdrop of King John’s Castle was another highlight.
 
 designers. €14,089.65.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -610,7 +610,7 @@ friendly event. €1,000.00.
 
 €500.00.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -698,7 +698,7 @@ includes Limerick Dock tide levels and times, wind direction and speed, wave act
 
 pressure and surge. In addition, the River Shannon water levels and discharge from the
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -774,7 +774,7 @@ was agreed to invite Fáilte Ireland to brief the Elected Members of the Metropo
 
 Limerick on their future plans for Limerick City.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -850,7 +850,7 @@ services, noting it would help improve the process and possibly encourage more p
 
 public transport. She referred to transport systems across the UK and Europe where contactless
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -930,7 +930,7 @@ use of stencils on footpaths has been effective in tackling dog fouling and requ
 
 stenciling in areas across the Metropolitan District.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -988,5 +988,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

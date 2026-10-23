@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th November 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/01a%20Minutes%2019th%20November%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -92,7 +92,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ Figures up to 31/10/2018 regarding Rebuilding Ireland Homeloan since
 
 introduction of the scheme in February 2018 for all of Limerick City and County.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ The Council pursues outstanding contributions through continuous active debt
 
 management.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ Most casual vacancies require minor works which are undertaken on an on-going
 
 basis by our Housing Maintenance staff.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -472,7 +472,7 @@ It is the intention of Limerick City and County Council to submit additional pro
 
 funding.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -546,7 +546,7 @@ as an integral and unique part of the City’s heritage and it is the intention 
 
 maintain and care for them subject to funding.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -618,7 +618,7 @@ The call for applications was launched on November 7th. The Council has applied 
 
 Department for 4 vouchers under the WiFi4EU scheme, one for each metro/municipal council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -676,5 +676,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

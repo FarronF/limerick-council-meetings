@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Strategic Policy Committee - 13th March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/minutes-meeting-of-the-home-and-social-strategic-policy-committee-13th-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -108,7 +108,7 @@ retirement. He then welcomed all new and current members to the March SPC meetin
 
 **Item 1: Confirm minutes from meeting held on30th May 2024**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Proposed:** Cllr. Adam Teskey
 
@@ -176,7 +176,7 @@ advised there is a list available.
 
 **Proposed:** Cllr. Francis Foley **Seconded:** Cllr. Noreen Stokes
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Mr. McNamara went onto to give a brief overview of what the scheme provides grant assistance
 
@@ -248,7 +248,7 @@ A discussion took place. Cllr. Tommy O’Sullivan asked how many 1 bedroom apart
 
 projected over next few years.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Ms. Sarah Newell, Senior Executive Officer replied that they are looking at the possibility of the
 
@@ -328,7 +328,7 @@ Notice of Motion submitted by Councillor S. Beasley - 26th July 2024
 
 *program).*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Cllr. Beasley gave more clarity on the motion, she advised that dumping around the city is more
 
@@ -404,7 +404,7 @@ cross-directorate meetings (between Housing and Property Management) have taken 
 
 regarding such properties. Due to increased resources in the Housing Directorate and an evidential
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 housing need, it has been proposed that many more properties from this source will be taken by the
 
@@ -482,7 +482,7 @@ Ms. Kathy O’Grady, Administrative Officer, Housing, gave an update to members 
 
 The Land Development Agency have agreed to brief the Elected Members of the Metropolitan
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 District of Limerick on Monday, 7th April 2025, at 2pm in the Council Chamber, Merchants Quay and
 
@@ -550,5 +550,5 @@ wished everyone a happy St. Patricks Day.
 
 **END OF MEETING**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

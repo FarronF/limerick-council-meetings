@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 1st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-1st-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -51,5 +51,5 @@ Structure RPS 1324 and located in the Kilfinnane Architecture Conservation Area.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

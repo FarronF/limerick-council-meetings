@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/02-minutes-of-september-2023-jpc-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT JOINT POLICING SUB COMMITTEE
 
@@ -120,7 +120,7 @@ Criminal damage
 
 40
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -222,7 +222,7 @@ Speed in Bruff, Bruree, Kilmallock and Elton was highlighted by the Elected Memb
 
 speed limit review was welcomed, as were the Taoiseach’s comments regarding road safety.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -314,7 +314,7 @@ This concluded the business of the meeting.
 
 *Mainchin Seoighe Area Office, Kilmallock.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,5 +326,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

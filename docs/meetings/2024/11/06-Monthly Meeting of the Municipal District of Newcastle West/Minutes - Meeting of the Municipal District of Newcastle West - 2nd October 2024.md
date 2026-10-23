@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-october-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ A discussion followed and the Members referred to a number of matters including 
 
 projects in progress in the District, various timeframes and the number of outstanding
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ however raised a number of queries including what engagement had taken place wit
 
 Board of Management of the school, the number of students driving to school and the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ The existing light no. 13 on Sheehan’s Road has been upgraded to LED. The
 
 lights within the Liosán Development will be upgraded to LED as part Limerick
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ The Electoral Commission and Department of Housing, Local Government and Heritag
 
 campaigns to promote voter participation prior to recent electoral events and will continue
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ with representatives of the Community Centre and revert to the Members on this m
 
 The Motion was seconded by Councillor Collins.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ it was agreed that a site meeting would be arranged to discuss this matter furth
 
 ***and House No. 39 to 42.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -634,7 +634,7 @@ Abbeyfeale, and in replying, the Director stated that tender documents are to is
 
 An update was also sought on the provision of a new burial ground for Abbeyfeale.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -690,5 +690,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

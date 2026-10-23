@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 22nd February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/Minutes%20of%20Travel%20%26%20Transportation%20Meeting%2022.02.22.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ to rearrange the times of SPC Meetings to suit all members.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,7 +142,7 @@ this year. He also confirmed that a schedule for District Works will be brought 
 
 districts in April 2022.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -216,7 +216,7 @@ travel zone. Ms. McDonnell agreed with Mr. Gallagher regarding implementing meas
 
 Local Authority and the other areas he addressed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -282,7 +282,7 @@ confirmed that the Council will be running a new competition once bye-laws are i
 
 was a pilot but a full tender process will be put in place.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -362,7 +362,7 @@ projects in which considerable evaluation processes, in the form of technical, e
 
 environmental needs, will be assessed, and this forms the basis of the evaluation process.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -434,7 +434,7 @@ withdraw the signatory to the Local Authority Climate Charter (2019) for not adh
 
 obligations.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -520,7 +520,7 @@ When will the next review take place?
 
 This item was moved to the next SPC Meeting to be held on the 19th April 2022.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -558,5 +558,5 @@ held on Tuesday, the 19th April 2022.
 
 The Meeting then concluded.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

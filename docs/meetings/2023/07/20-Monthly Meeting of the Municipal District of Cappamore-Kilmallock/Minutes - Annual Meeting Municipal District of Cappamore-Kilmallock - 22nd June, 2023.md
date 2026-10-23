@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting Municipal District of Cappamore-Kilmallock - 22nd June, 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/Minutes-Annual-Meeting-Municipal-District-of-Cappamore-Kilmallock-22nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ Donegan elected as Cathaoirleach of the Municipal District of Cappamore-Kilmallo
 
 offered him best wishes for the coming year.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ connections with the town of Acton in Boston and supporting the development of t
 
 Stone Mansion in Kilmallock were among the priorities of the incoming Cathaoirleach.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -184,5 +184,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

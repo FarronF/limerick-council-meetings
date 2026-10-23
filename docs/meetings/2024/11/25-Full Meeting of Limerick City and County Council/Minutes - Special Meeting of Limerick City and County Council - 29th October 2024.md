@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-c-minutes-special-meeting-limerick-city-and-county-council-29.10.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ Members so the suggestion was that the Elected Members were to blame for the clo
 
 which he believed was very unfair on Members. He stated that both Council Management
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -172,7 +172,7 @@ grow the attraction in terms of visitors and revenue. However, it was estimated 
 
 projected breakeven figure was 70,000- 80,000 visitors p.a. which was not currently being
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -252,7 +252,7 @@ the issues in relation to the proposed transfer and what he had done subsequentl
 
 address the issue.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -336,7 +336,7 @@ It was agreed that this proposal would be communicated to the representatives of
 
 International Rugby Experience and that an invitation be issued to Barry Hannon, CEO of the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -352,5 +352,5 @@ Signed:
 
 **Príomh Chomhairleoir**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

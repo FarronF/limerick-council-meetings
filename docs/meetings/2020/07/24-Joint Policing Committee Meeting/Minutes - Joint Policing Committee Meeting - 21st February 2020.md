@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 21st February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/minutes-of-jpc-meeting-21st-feb-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE COUNCIL**
 
@@ -118,7 +118,7 @@ aware of/or have any evidence regarding extortion/intimidation at building sites
 
 to the attention of An Garda Síochána immediately for investigation.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **3.Presentation by Ms. Grace O’Sheahan on the Role of The Community Policing Co-Ordinator**
 
@@ -222,7 +222,7 @@ of the controlled substances seized to date in 2020. He outlined the differences
 
 cocaine.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Chief Superintendent stated that since September there is a deliberate input of drugs into the market
 
@@ -322,7 +322,7 @@ This is a service where trust is established and maintained through good communi
 
 information received is dealt with confidentially.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Allegations of criminal behaviour are a matter for investigation in the first instance by An Garda SÍochána
 
@@ -362,5 +362,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

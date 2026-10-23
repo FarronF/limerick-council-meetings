@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Metropolitan Joint Policing Sub Committee Meeting  - 21st May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Minutes%20of%20Meeting%2021st%20May%2018%20%283%29%20%284%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF MEETING OF METROPOLITAN JOINT POLICING SUB COMMITTEE
 
@@ -112,7 +112,7 @@ stability to an area, Request additional community gardai in areas where anti so
 
 taking place;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 
 
@@ -220,7 +220,7 @@ presence had been increased there with between nine and eleven Gardai patrolling
 
 daily. Unfortunately there is limited CCTV in the area;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 
 
@@ -270,5 +270,5 @@ COUNCILLOR SEAN LYNCH
 
 JPC CHAIR
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

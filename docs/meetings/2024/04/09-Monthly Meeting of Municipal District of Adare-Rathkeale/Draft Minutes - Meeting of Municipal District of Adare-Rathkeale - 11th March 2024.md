@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 11th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-11th-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ acres/3.5205 hectares of land at Skagh, Croom, Co. Limerick and the intention to
 
 the Section 183 Notice to Full Council for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ and the harmful effects assessment to reduce environmental noise where exposure 
 
 affect human health. A public consultation on the Draft Noise Action Plans will be held at
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ archaeological investigations prior to construction and added as this is a lengt
 
 process the site has to be fenced off at this stage of the project.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ supplied by Foynes/Shannon Estuary Public Water Supply are nearing
 
 completion.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ Adare-Rathkeale MD is home to a number of practitioners and
 
 organisations who are supported through various grants schemes and
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -550,5 +550,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

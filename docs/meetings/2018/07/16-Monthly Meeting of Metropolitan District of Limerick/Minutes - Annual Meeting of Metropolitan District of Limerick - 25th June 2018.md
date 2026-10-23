@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Metropolitan District of Limerick - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01b%20Minutes%20Annual%20Meeting%2025th%20June%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -96,7 +96,7 @@ Seconded by Councillor McCreesh.
 
 hold office until the next Annual Meeting or until a successor has been appointed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 
 *ahead but we must not take one step back because this will be our single biggest shot of a*
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -284,7 +284,7 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 
 *together for the sake of our electorate.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -384,7 +384,7 @@ On taking the Chair, the incoming Mayor, Councillor Butler gave the following ad
 
 *achievement as much as mine and I share it with you all.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -460,7 +460,7 @@ working with the new Mayor and helping him in any way possible and also to assis
 
 the city over the coming year.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,5 +472,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

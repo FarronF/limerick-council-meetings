@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 15th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28b%29%20Minutes%2015th%20May%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -82,7 +82,7 @@ The Superintendent acknowledged the issues raised by Members and responded to ea
 
 of their concerns.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
  Drug use is on the increase due to more disposable income being available. The
 
@@ -160,7 +160,7 @@ footage to use as evidence for criminal investigations.
 
 downloaded by the Gardai.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  The CCTV is commissioned under the Garda Siochana Act. The Head of Digital
 
@@ -196,5 +196,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

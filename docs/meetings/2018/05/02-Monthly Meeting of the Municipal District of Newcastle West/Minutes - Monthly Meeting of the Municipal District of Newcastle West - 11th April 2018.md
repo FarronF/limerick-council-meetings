@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 11th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%202018-04-11%20Minutes%20April.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ On the proposal of Councillor Foley, seconded by Councillor Collins, it was agre
 
 €1,000 to Athea Tidy Towns.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ for funding to TII. The six junctions are:
 
 N21/L7091 Wards Cross
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ Unable to provide details due to
 
 Data Protection constraints
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -448,7 +448,7 @@ for the erection of the above mentioned sign.
 
 Question submitted by Councillor J. Scanlan
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -528,7 +528,7 @@ Voluntary Home Relocation Scheme, which only dealt with householders who experie
 
 flooding and not erosion issues. It was also noted that Members should contact local TDs
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -608,7 +608,7 @@ signs can be erected on the approaches to Coolyroe GAA Grounds as an interim
 
 measure.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -686,5 +686,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

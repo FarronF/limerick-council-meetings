@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 29th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20290318.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -86,7 +86,7 @@ With the permission of the Cathaoirleach, it was agreed that Item No. 3 would be
 
 taken at this point.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ there was agreement amongst the Members that the criteria for selecting DED area
 
 this Programme needed to be reviewed as simply basing it on population decline was not a
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ They agreed that clarification should be sought as to what options were open and
 
 to the Members when dealing with a Part 8 application.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,5 +304,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

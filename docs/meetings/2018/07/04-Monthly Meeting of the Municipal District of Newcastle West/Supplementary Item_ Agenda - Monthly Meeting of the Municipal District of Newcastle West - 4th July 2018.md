@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Item_ Agenda - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/Supplementary%20Item%20Municipal%20District%20of%20Newcastle%20West%20Agenda%20v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -90,5 +90,5 @@ w @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

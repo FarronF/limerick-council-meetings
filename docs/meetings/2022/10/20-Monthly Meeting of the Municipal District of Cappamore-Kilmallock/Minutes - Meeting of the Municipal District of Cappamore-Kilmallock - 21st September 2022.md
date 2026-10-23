@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/02.%20Minutes%20of%2021st%20September%20%20Municipal%20District%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -78,7 +78,7 @@ Councillor Carey wished to for the word “abstained” to be removed from the v
 
 Notice of Motion submitted by Councillors Carey, Mitchell and E. Ryan. This was agreed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3.Housing Directorate Quarterly update on Housing
 
@@ -138,7 +138,7 @@ One submission was received on this.
 
 **Seconded: Councillor Teefy**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 6. Disposal of Property
 
@@ -210,7 +210,7 @@ A new county wide review of speed limits across the public road network will com
 
 in Q4 this year and continue into 2023.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 8.Notice of Motion submitted by Councillor Egan
 
@@ -280,7 +280,7 @@ Branch of the Irish Red Cross, so I would recommend that a detailed report be su
 
 to Limerick City and County Council’s Property Department (email:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 tinaknox@limerick.ie) with further details of the requirements in relation to the desired
 
@@ -346,7 +346,7 @@ Cemetery.
 
 **Seconded: Councillor Donegan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **Reply:**
 
@@ -416,7 +416,7 @@ crossing will be installed as soon as a power supply is made available to the Co
 
 It is anticipated that all works will be completed before the end of November.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 14.Question submitted by Councillor Donegan
 
@@ -490,7 +490,7 @@ passed away on 12th August.
 
  Paddy Leddin, Hospital, who passed away on 20th September.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **Hidden Heartlands**
 
@@ -554,7 +554,7 @@ Orders regarding deputations.
 
 **Seconded: Councillor Donegan.**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Next Meeting
 
@@ -568,5 +568,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

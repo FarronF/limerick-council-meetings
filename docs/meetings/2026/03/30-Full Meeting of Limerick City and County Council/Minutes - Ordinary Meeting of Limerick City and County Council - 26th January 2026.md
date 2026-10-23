@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 26th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-ordinary-meeting-of-limerick-city-and-county-council-26th-january-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ the Courthouse, Main Street, Rathkeale, Co. Limerick, to the Trustees of Rathkea
 
 Community Council, for the sum of €1, subject to the covenants and conditions contained
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ Seconded by Councillor Sheahan;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ Meeting of the Full Council (In Camera) be arranged. This was seconded by Counci
 
 Donoghue.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -392,7 +392,7 @@ Meeting of the Committee held on 3rd December, 2025.
 
 The Chairperson’s report was noted by the Council.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ seeking the Council’s approval to recommended allocations from the Assessment 
 
 Limerick Theatre Bursaries 2026.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -550,7 +550,7 @@ An Garda Síochána and other agencies.
 
 He outlined the key objectives in selecting the proposed sites:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -626,7 +626,7 @@ The Director read the following statement for the information of the Members.
 
 *information from the Mid West National Road Design Office**”**.*
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -700,7 +700,7 @@ On the proposal of Councillor Sheahan and seconded by Councillor Collins (M), th
 
 Report, as circulated, was approved.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -778,7 +778,7 @@ Local Authority is provided for within the Development Plan.
 
 housing units to the end of the plan.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -860,7 +860,7 @@ Participation by Members at Conferences
 
 Details of the following Conference had been circulated electronically to the Members:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -938,7 +938,7 @@ More generally, engagement at official level with the NTA, Transport Infrastruct
 
 Ireland and the Department of Transport is ongoing and is led on a day-to-day basis
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1012,7 +1012,7 @@ alternatively if a lease or deferred purchase arrangement were to be considered.
 
 an approach could, subject to agreement, facilitate an extension of the overall project.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1084,7 +1084,7 @@ parking income arising from use of the permit.
 
 Question submitted by Councillor J. Scanlan
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1186,7 +1186,7 @@ Question submitted by Councillor P.J. Carey
 
 ***City and County Council’s position on same.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1274,7 +1274,7 @@ Castlemungret to develop land to facilitate on site handling, storage and introd
 
 of alternative fuels with conveyor kiln, storage tanks, uploading station, handling
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1392,7 +1392,7 @@ Build Target
 
 551
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1536,7 +1536,7 @@ procurement lead-in periods. As a result, outputs in the initial years do not fu
 
 the scale of programme activity now currently underway.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1660,7 +1660,7 @@ signed on December 19th, 2025. The changes to the original memo requested a
 
 greater breakdown of the tender price, including a breakdown of development works,
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1738,7 +1738,7 @@ contractor for the construction of the Adare Bypass project. These include bridg
 
 beams, culverts, retaining walls, underpasses, pipes, headwalls, manholes, duct boxes,
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1860,7 +1860,7 @@ Housing Support Services
 
 78
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1970,7 +1970,7 @@ Thirty Economic and Spatial Plan and the Limerick Development Plan 2022–2028, 
 
 of which support the regeneration of the Opera Square site and the provision of city-
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2042,7 +2042,7 @@ With the permission of the Príomh Chomhairleoir, Notice of Motion 30 and Notice
 
 34 were taken together.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2152,7 +2152,7 @@ Cappamore–Kilmallock 1,081.40
 
 ***Table 1: Additional Local Road Budget per MD (2026)***
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2262,7 +2262,7 @@ Cappamore–Kilmallock 1,081.40
 
 Notice of Motion submitted by Councillor E. O’Donovan
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2332,7 +2332,7 @@ Thank you for your motion concerning the need for a comprehensive schedule of
 
 proposed spending on Active Travel Projects for 2026.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2404,7 +2404,7 @@ The Register of Orders made by the Mayor or the Director General up to the date 
 
 Meeting was available on Sharepoint for inspection by the Members.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2424,5 +2424,5 @@ amended, is available on SharePoint for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 

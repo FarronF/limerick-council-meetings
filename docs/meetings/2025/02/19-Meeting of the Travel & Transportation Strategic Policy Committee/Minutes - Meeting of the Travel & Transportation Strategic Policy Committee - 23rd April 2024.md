@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 23rd April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-23rd-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -70,7 +70,7 @@ adopted.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -134,7 +134,7 @@ Mr. Harper would welcome an expansion of the scheme and a re-evaluation of the m
 
 of the contract.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -200,7 +200,7 @@ Mr. Golden asked if the Arthur’s Quay project will interact with the Transport
 
 replied that both will work in tandem and the plan is cognisant of all plans for the city.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -270,7 +270,7 @@ asked if average speed cameras could help in those high-speed areas. The Chair s
 
 Ryan’s comments.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -332,7 +332,7 @@ Cllr. Galvin stated the €25 is not much however there should not be two differ
 
 - permit rule should apply.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -360,5 +360,5 @@ The Chair thanked all for their attendance and contribution. This concluded the 
 
 meeting.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

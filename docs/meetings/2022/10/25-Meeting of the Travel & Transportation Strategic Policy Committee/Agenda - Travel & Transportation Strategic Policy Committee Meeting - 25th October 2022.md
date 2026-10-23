@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Travel & Transportation Strategic Policy Committee Meeting - 25th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2025.10.22.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -107,9 +107,9 @@ awareness of the illegality of parking on any footpath and/or footway, as per *A
 
 *36(i) of S.I. No. 182/1997 - Road Traffic (Traffic and Parking) Regulations, 1997*.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

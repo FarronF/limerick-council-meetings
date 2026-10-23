@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Metropolitan District of Limerick – 15th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20metropolitan_district_of_limerick_-_agenda_15_september_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 10th September, 2014
 
@@ -60,7 +60,7 @@ held on 21st July, 2014.
 
 **Corporate Services**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Standing Orders**
 
@@ -108,7 +108,7 @@ To consider the Chief Executive’s Report, prepared pursuant to Section 179
 
 3(a) of the Planning and Development Acts, 2000 – 2014 and Part 8 of the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Planning and Development Regulations, 2001 – 2013, in relation to a
 
@@ -172,7 +172,7 @@ covered by Irish Water. Again, if Irish Water refuse, the Council should
 
 ensure this itself;
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
  guarantee that there will be no charge for the undrinkable water it is
 
@@ -218,7 +218,7 @@ Barrington’s Pier before winter.
 
 **Notice of Motion submitted by Councillor M. Hourigan**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **11.**
 
@@ -282,7 +282,7 @@ Shannon, Thomond and Sarsfield Bridges and also to investigate the
 
 possibility of introducing bye-laws or other measures governing these life
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 buoys/rings, to ensure that those who steal, damage or interfere with the life
 
@@ -326,5 +326,5 @@ Barrington’s Pier and that the sandbags used during the storms be removed
 
 forthwith.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

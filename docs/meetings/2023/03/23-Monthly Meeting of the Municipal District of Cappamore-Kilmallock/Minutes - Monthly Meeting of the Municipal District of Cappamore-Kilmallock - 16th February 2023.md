@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2016th%20February%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -82,7 +82,7 @@ District meeting. The dates agreed are as followed:
 
 3pm March Monthly Meeting of Cappamore Kilmallock Municipal District
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Disposal of Property
 
@@ -154,7 +154,7 @@ Heartlands initiative. A presentation on the region was delivered to the Elected
 
 and leaflets circulated.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Notices of Motion
 
@@ -220,7 +220,7 @@ Annual St. Patrick’s Day Parades planned within the Municipal District.”
 
 **Seconded: Councillor M Ryan**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **REPLY:**
 
@@ -288,7 +288,7 @@ bond has been drawn down. Therefore, it is estimated that the formal procedures 
 
 in charge and works will commence in Q4 2023.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 12.
 
@@ -342,5 +342,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

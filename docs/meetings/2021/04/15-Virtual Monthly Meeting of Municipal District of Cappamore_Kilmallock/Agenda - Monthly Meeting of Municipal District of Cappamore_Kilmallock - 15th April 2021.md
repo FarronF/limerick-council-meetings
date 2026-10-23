@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 15th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/1.-agenda-15th-april-md-meeting-final.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **8th** **April, 2021.**
 
@@ -58,7 +58,7 @@ To note proposal for the disposal of property at Gragane, Caherconlish, Co. Lime
 
 (Report enclosed)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -118,7 +118,7 @@ going to commence on the Housing Project at the Old Creamery site in Cappamore.
 
 9.Question submitted by Councillor Donegan
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -166,5 +166,5 @@ Hospital to Sully’s Cross (O’Sullivans) L8504 which is used as a loop walk b
 
 number of walkers.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

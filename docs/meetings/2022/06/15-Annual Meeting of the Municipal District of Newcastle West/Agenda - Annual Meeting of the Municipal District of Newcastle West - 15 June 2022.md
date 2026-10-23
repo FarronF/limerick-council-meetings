@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 15 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/00-Agenda-AGM-15-06-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -70,5 +70,5 @@ Corporate Headquarters, Merchant's Quay, Limerick Cosi: tasese
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

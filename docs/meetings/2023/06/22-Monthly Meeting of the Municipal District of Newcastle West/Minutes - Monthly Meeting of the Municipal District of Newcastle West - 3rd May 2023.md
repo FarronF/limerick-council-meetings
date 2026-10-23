@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/01-a-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-3rd-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ April, 2023, concerning proposal to dispose of property at 16 Hawthorn
 
 Drive, Newcastle West, Co. Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ install 30km speed limit signage. Limerick City and County Council do not have
 
 the budgetary allocation to implement traffic calming at this stage.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ Question submitted by Councillor J. Scanlan
 
 ***our Greenway Facilities at Newcastle West.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Limerick City and County Council have included this traffic calming measure as
 
 part of the NTA works which is due to commence shortly.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ the proposed works.
 
 The Motion was seconded by Councillor Scanlan.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ the car park and that access to the new playground is through the car park. He r
 
 that the playground be insured under the Council’s portfolio and that clarification be sought
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -556,7 +556,7 @@ of double yellow lines at Gortboy, Newcastle West, and to drawings which have re
 
 prepared.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -618,5 +618,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

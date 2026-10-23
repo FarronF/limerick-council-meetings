@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Cappamore-Kilmallock - 19th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -98,7 +98,7 @@ vv @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -130,5 +130,5 @@ signage, lining and Garda or speed van monitoring or other methods.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

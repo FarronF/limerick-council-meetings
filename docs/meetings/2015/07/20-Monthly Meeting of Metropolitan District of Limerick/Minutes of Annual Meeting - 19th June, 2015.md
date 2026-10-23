@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Annual Meeting - 19th June, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Annual%20Meeting%20-%2019th%20June%2C%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF
 
@@ -98,7 +98,7 @@ The outgoing Mayor gave the following address to the meeting:
 
 *proud when Limerick Council and University of Limerick collaborated to honour the*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -198,7 +198,7 @@ The outgoing Mayor gave the following address to the meeting:
 
 *importantly, with honour and with* *dignity”.*
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -282,7 +282,7 @@ The Mayor made the following address to the meeting:
 
 *who you are and I thank you.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -370,7 +370,7 @@ of Limerick.
 
 Proposed by Councillor Collins;
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -450,5 +450,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

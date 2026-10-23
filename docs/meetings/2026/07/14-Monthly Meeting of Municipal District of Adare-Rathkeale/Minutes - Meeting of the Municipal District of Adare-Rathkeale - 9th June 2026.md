@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 9th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-9th-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ come with additional operational costs. Members queried what costs would be
 
 involved. The Town Regeneration Officer, Rural Development advised the toilet facility
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ amended to Marathon Team Event c/o Terrance Madigan. This was seconded by
 
 Councillor O’Donoghue and agreed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ structural or conservation assessments required, the identification of appropria
 
 and any available conservation grant supports.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,7 +388,7 @@ District and advised correspondence was received from Matthew Clarke,
 
 Executive Engineer, Central Services, Limerick City and County Council advising
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -436,5 +436,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

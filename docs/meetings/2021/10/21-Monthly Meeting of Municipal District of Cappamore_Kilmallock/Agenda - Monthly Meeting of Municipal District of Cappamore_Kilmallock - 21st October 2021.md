@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 21st October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/agenda-21st-october-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **15th** **October 2021.**
 
@@ -64,7 +64,7 @@ Cappamire-Kilmallock held on the 2nd September, 2021.
 
 Municipal District Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -134,5 +134,5 @@ full presentation on the regeneration process as outlined at a recent Metropolit
 
 this has a huge bearing on our overall budget.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

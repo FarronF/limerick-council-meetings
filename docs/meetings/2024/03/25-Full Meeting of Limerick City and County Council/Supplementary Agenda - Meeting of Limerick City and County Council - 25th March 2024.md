@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Agenda - Meeting of Limerick City and County Council - 25th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/00-i-supplementary-agenda-council-meeting-25.03.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -89,5 +89,5 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 11th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-meeting-of-the-economic-development-enterprise-and-planning-strategic-policy-committee-11th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -78,7 +78,7 @@ Yours sincerely
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 (Image omitted)
 
@@ -86,5 +86,5 @@ Yours sincerely
 
 ***Planning, Environment and Place-Making Directorate***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

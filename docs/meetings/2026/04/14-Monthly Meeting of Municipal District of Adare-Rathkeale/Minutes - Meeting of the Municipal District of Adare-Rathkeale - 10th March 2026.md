@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 10th March 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-10th-march-2026_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ notify the Cathaoirleach of any declaration of interest in any item due for disc
 
 the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ Discussion ensued and the following issues were raised by Members:
 
 damaged by a fire in Coolanoran. The Senior Engineer, LA Housing Construction
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ The Senior Executive Engineer, Roads, Traffic and Cleansing advised Members due 
 
 adverse weather over the last number of months the Roads Department have been
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -392,7 +392,7 @@ needs to be cleaned on a regular basis. The Senior Executive Engineer, Roads,
 
 Traffic and Cleansing advised Traffic Infrastructure Ireland are responsible for
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -458,7 +458,7 @@ to allocate the following:
 
 **Question submitted by Councillor A. Teskey**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -538,7 +538,7 @@ manufactured in 1972.
 
 possession of the vehicle has a registration number for the vehicle,
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -616,7 +616,7 @@ address local towns and villages.
 
 **Question submitted by Councillor A. Teskey**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -688,7 +688,7 @@ In proposing the Motion Councillor Teskey stated given the amount of windfarm
 
 installations in this Country, households do not feel they are better off financially with
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -772,7 +772,7 @@ private briefing with Elected Members to discuss concerns of the residents of
 
 Foynes village on the proposed Waste Water Treatment Plant. She proposed this
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -818,5 +818,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

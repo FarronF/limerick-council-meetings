@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 24th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/minutes-of-cappamore-kilmallock-municipal-district-meeting-thursday-24th-march-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE MUNICIPAL**
 
@@ -70,7 +70,7 @@ Meeting held on the 17th February 2022
 
 **Seconded: Councillor Teefy and agreed**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **3. DEPUTATION**
 
@@ -158,7 +158,7 @@ Mr. Daly confirmed that the presentation would be circulated to all Members foll
 
 meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **9. Notice of Motion submitted by Councillor G. Mitchell**
 
@@ -232,7 +232,7 @@ Derelict Sites. Properties entered in it are levied an annual charge payable by 
 
 property owners. However, where properties continue to remain in a derelict state
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 and all reasonable alternatives have been exhausted with the owners, the option to
 
@@ -314,7 +314,7 @@ Where no objection is received to the Notice of intention to Acquire Compulsoril
 
 objection is withdrawn, or consent is granted by the Board following objection, the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 property may be vested in the Council by Order and Notice under Section 17/18 of the
 
@@ -380,7 +380,7 @@ The Members thanked Mr. O’Boyle and Mr. Culloo for the presentation
 
 (Image omitted)
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6. SCHEDULE OF MUNICIPAL DISTRICT WORKS**
 
@@ -452,7 +452,7 @@ bog/peat habitats, but is additionally important because of the presence of the 
 
 local ground water. The peat habitats would be vulnerable to any form of construction. The
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 area is acknowledged as being botanically diverse and is important from a regional level. It
 
@@ -512,7 +512,7 @@ Recreational pursuits for further discussion.
 
 **Seconded: Councillor - E. Ryan and agreed**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **8. Notice of Motion submitted by Councillor PJ Carey**
 
@@ -592,7 +592,7 @@ element of the project to detailed design stage.
 
 the adjoining plot to the south.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
  Work with the State partners to prepare for resubmission of the application under the
 
@@ -644,7 +644,7 @@ acquisition required and the scheme will require the normal planning approvals�
 
 **Seconded: Councillor M. Ryan and Agreed**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **11. Question submitted by Councillor G. Mitchell**
 
@@ -704,7 +704,7 @@ Councillor M. Donegan proposed a vote of sympathy be extended to
 
 February 2022.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **Expression of Congratulation**
 
@@ -750,5 +750,5 @@ the media.
 
 **blended/online meeting.**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

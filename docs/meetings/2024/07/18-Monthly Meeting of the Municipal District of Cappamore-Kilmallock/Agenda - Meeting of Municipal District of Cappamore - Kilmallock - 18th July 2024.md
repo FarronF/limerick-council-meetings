@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Municipal District of Cappamore - Kilmallock - 18th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01-agenda-july-md-meeting-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -74,7 +74,7 @@ Annual Meeting of the Cappamore-Kilmallock Municipal District held on Thursday
 
 Matters Arising
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -134,7 +134,7 @@ my motion from April regarding the possible purchase of five units at Beech Lodg
 
 Bruree or any other alternative options that are being considered for the current residents.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -160,5 +160,5 @@ yellow lines causing major road blockages at times. These were removed during ro
 
 resurfacing last year and not replaced.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

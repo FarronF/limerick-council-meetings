@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th November 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/02-minutes-of-19th-november-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ Cappamore – Kilmallock held on 15th October, 2020.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ The Elected Members noted the works completed and services provided to date in 2
 
 acknowledged the hard work and co-operation of local authority staff members in relation
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -220,7 +220,7 @@ phase 1 & 2.
 
 **Seconded by Councillor M Ryan.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,7 +288,7 @@ Cappamore Kilmallock Municipal District will carry out an appropriate assessment
 
 proposal.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -348,7 +348,7 @@ submitted to the local Municipal District for noting and if approved, will prece
 
 monthly Council meeting for approval.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -414,7 +414,7 @@ available to Pallasgreen Community Council to complete work on the upgrading of 
 
 Community Hall.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -484,7 +484,7 @@ Staff will engage with the Knocklong Community Council about their concerns rega
 
 traffic in their village.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -566,7 +566,7 @@ owners in these locations with a view to erecting the Access Points on their pre
 
 process is due for completion 27th November, with rollout commencing early December.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -642,7 +642,7 @@ less than the statutory speed limit. The survey also verified that traffic volum
 
 excessive.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -708,7 +708,7 @@ They agreed to include him on the list of invited recipients to a Municipal Dist
 
 hopefully at some stage in 2021.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -742,5 +742,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 16th September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-special-meeting-of-the-municipal-district-of-newcastle-west-16th-september-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -94,7 +94,7 @@ also made to the reflection area as a lovely new addition to the graveyard along
 
 Columbarian wall.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ this is a new concept in the county bounds and that it will make the area signif
 
 for pedestrians, those using the adjacent soccer club and children living locally.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,5 +228,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

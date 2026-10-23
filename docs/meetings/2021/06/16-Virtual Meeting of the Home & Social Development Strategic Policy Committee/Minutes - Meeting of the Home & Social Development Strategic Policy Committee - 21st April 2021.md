@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home & Social Development Strategic Policy Committee - 21st April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/21042021_spc_final_minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -94,7 +94,7 @@ receive a copy of the revised standing order can request a copy.
 
 **Item 2: Matters arising from the Minutes**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 
 
@@ -212,7 +212,7 @@ landlords throughout Limerick do not care about the tenants they are letting the
 
 to. Mr. Lowth noted he took on board what Cllr. Keary was saying however, at the last SPC,
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 LCCC had advised that Councillors could discuss concerns they have on HAP tenants with
 
@@ -336,7 +336,7 @@ and no vetting for a HAP property, that the RTB is a regulatory body for private
 
 and the onus is on them to vet the people who they are letting their property to. Mr.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 McNamara noted that we need to be careful that we do not start encroaching on people’s
 
@@ -422,7 +422,7 @@ Ms. Duke noted that in 2020, the SPOC (Single Point of Contact) process was intr
 
 properties. Ms. Duke went on to outline the process - an e-mail system was set up, when a house
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 became vacant the SPOC was notified. An inspection would then be arranged within the first week of
 
@@ -506,7 +506,7 @@ discussed with the Newcastle West district Councillors and we have approval in p
 
 small number of the Newcastle West vacant houses through EOI to see if an AHB would be
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 interested in taking on some of these properties. The AHBs would provide wraparound supports and
 
@@ -614,7 +614,7 @@ noted that we got through 146 properties last year and noted the importance of h
 
 team in place which we are trying to set up currently.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 
 
@@ -726,7 +726,7 @@ have a fundamental re-look at this situation and noted that he had suggested the
 
 system previously to help with quick turnaround of vacant properties. Cllr. Leddin proposed
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 a special meeting to discuss the voids situation. Cllr. Benson seconded Cllr. Leddin’s
 
@@ -802,7 +802,7 @@ there are predominantly 2 beds being built as families with two children of diff
 
 cannot share the same bedroom after ten years of age and noted it as a concern for possible
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 future need to re-allocate to a larger house. She noted going forward there would be more
 
@@ -912,7 +912,7 @@ had been demolished. Ms. O’Connor noted 100 units are planned starting this ye
 
 infills, with a mixture of unit sizes. Ms. O’Connor expressed confidence with quality of the
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 infills units and the contractors. Ms. Duke advised that 75%-80% of the HWL requires one
 
@@ -1010,7 +1010,7 @@ make selections on areas that they may not have wanted to go to or they felt the
 
 areas that they knew.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Mr. Lowth advised that it was felt it was better to broaden out the Metro district areas and it is
 
@@ -1098,7 +1098,7 @@ Ms. Newell advised that Ms. Creed is managing scheme and noted it was a pilot sc
 
 are undertaking on two turnkeys in Pallaskenry and one in Redgate, Cratloe Road.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 Ms. Newell outlined the scheme is an initiative by central government that allows a new build
 
@@ -1176,7 +1176,7 @@ should not be engaged in anti-social behaviour and this will be checked, the app
 
 in rent arrears for more than twelve weeks in the past three years and if this is the case, a payment
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 arrangement must have been made with LCCC. Ms. Creed noted that the applicant/s also must not
 
@@ -1262,7 +1262,7 @@ outlined that this was brought up from SPC members and Councillors, that the cur
 
 scheme may be inflexible for future affordable dwellings and future affordable self-build projects.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 Ms. Newell outlined that the current criteria does not allow for flexibility in a household and the
 
@@ -1334,5 +1334,5 @@ contributions. The Chair advised that the Special Meeting for Voids will be arra
 
 weeks and that the remaining items from today’s meeting would be deferred to the June SPC.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

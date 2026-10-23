@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Cappamore - Kilmallock - 17th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/meeting_of_the_municipal_district_of_cappamore-kilmallock_-_agenda_17_july_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **10th** **July, 2014.**
 
@@ -86,7 +86,7 @@ from Ted O’Sullivan’s to Bridget Kelly’s gate area used by a lot of walker
 
 I will ask at the next meeting for Plastic Recycling bins in Galbally.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,5 +158,5 @@ pedestrian crossing be provided at Hospital
 
 Any Other Business.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

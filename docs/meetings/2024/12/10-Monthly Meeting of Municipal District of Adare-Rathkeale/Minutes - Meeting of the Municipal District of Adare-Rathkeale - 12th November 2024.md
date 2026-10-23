@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 12th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/01-draft-minutes-of-monthly-meeting-12th-november-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ that the amount of €270,000 be moved to Category D05 Tourism Development
 
 Recreation & Amenity.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ dated 2nd October, 2024 setting out details in relation to the Social Housing De
 
 the Adare-Rathkeale Municipal District.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ relation to the road closure, requesting the road would be made accessible from
 
 2025 roads budget. The Executive Engineer, Roads, Traffic and Cleansing advised
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ convene this workshop following the Garda Policing Workshop at a date to be
 
 agreed.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -420,5 +420,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

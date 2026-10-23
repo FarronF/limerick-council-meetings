@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 9th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20meeting%2009.07.18.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL DEVELOPMENT SPC**
 
@@ -106,7 +106,7 @@ in this regard
 
 **the city and county’**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3: Housing Delivery Update**
 
@@ -188,7 +188,7 @@ The Chair declared the motion defeated.
 
 The following motions were agreed:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Recommendation 1**
 
@@ -220,5 +220,5 @@ Sectoral Interests to be made aware of staff changes.
 
 **Date of next meeting**: Monday 22nd October 2018 at 3.00pm, Corporate Building, Dooradoyle.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

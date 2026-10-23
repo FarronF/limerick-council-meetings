@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Agenda%20for%20May%202022%20MD%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **13th** **May 2022.**
 
@@ -60,7 +60,7 @@ Relating to the Minutes of the Municipal District Meeting of 21st April.
 
 Correspondence received from Minister Peter Burke’s Office.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -86,5 +86,5 @@ developer and brought back into viable housing provision, subject to a Site Spec
 
 Assessment.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

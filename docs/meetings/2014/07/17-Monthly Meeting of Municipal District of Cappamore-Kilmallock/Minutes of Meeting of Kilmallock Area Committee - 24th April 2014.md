@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Kilmallock Area Committee - 24th April 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_meeting_of_kilmallock_area_committee_-_24_april_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **DRAFT**
 
@@ -88,7 +88,7 @@ meeting was adjourned.
 
 Meeting reconvened after 15 minutes.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Circulated copy of draft minutes of meeting of Committee held on the 20th
 
@@ -172,7 +172,7 @@ condition of Planning. It can be included if funding is made available.
 
 The members thanked Mr. O’Connor for his briefing.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Discuss road repairs and signage for upcoming bike championship event in**
 
@@ -252,7 +252,7 @@ Chairman David Moloney thanked the members for their kind works, and addressed
 
 the committee.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Chairman’s address to the Committee :**
 
@@ -334,7 +334,7 @@ the projects that it is to be put toward will make significant contributions to 
 
 level with the transfer of assets to Irish water. Progress is underway in this respect as
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 homes all over the area and county have or are getting water meters fitted.
 
@@ -416,12 +416,12 @@ The meeting then concluded.
 
 Signed\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Chairman
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Community, Leisure and Emergency Services SPC - 26th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Item%201%20Minutes%20260417.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
@@ -102,7 +102,7 @@ being and not merely as the absence of disease or infirmity. Healthy Limerick is
 
 all sectors in Limerick to appreciate that health is not simply about individuals' behaviours.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Health is strongly influenced by the circumstances in which people are born, grow, live, work
 
@@ -196,7 +196,7 @@ M. Healy commended the Council for providing walkways and amenities under Smarte
 
 Travel.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Cllr. M. Hurley pointed to the low take-up of bowel screening and more resources should be
 
@@ -278,7 +278,7 @@ Councillor. Cllr. J. Costello asked for support for the Darkness into Light walk
 
 Park on 6 May 2017.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 4**
 
@@ -368,7 +368,7 @@ applications submitted to Failte Ireland had met the criteria and re-iterated th
 
 work with the festival organisers to develop their skills in seeking funding, in particular on
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 the evaluation process with Failte Ireland i.e. off season, strong markets, 500 bed nights.
 
@@ -406,5 +406,5 @@ Minutes Signed By Chair:
 
 Date:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

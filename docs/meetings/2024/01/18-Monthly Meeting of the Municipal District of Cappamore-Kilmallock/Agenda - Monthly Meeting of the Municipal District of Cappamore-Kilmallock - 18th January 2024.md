@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,7 +66,7 @@ December 2023.
 
 (Copies Enclosed)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ potential first time buyers in the Cappamore Kilmallock Municipal District to sh
 
 housing potential of this type of development as an example.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -164,5 +164,5 @@ a) How many Driver Feedback signs are on the R512 and R513
 
 b) What speeds are recorded at these locations
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 15th August 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28c%29%20Minutes%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2015th%20August%20201.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 Southern Greenway walking and cycling route from Rathkeale to Ballingarrane, County
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -114,5 +114,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

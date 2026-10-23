@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 21st September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/agenda-meeting-of-the-metropolitan-district-of-limerick-21st-september-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -65,7 +65,7 @@ Corporate Headquarters, Merchant's Quay, Limerick (061 - 886000
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Declaration of Interest**
 
@@ -113,7 +113,7 @@ Section 11 of the Roads Act 1993.
 
 (Report Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **8.Housing Directorate**
 
@@ -171,7 +171,7 @@ Groody Road at the southern leg of Kilbane Roundabout, further to the update pro
 
 the February Meeting of the Metropolitan District of Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **13.Question submitted by Councillor Slattery**
 
@@ -225,7 +225,7 @@ street lighting etc.);
 
  Any further information deemed relevant.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **17.Question submitted by Councillor Slattery**
 
@@ -283,7 +283,7 @@ past five years;
 
  In each case, was the property deemed to pose a hazard or risk to public safety.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **21.Question submitted by Councillor O’Donovan**
 
@@ -337,7 +337,7 @@ Limerick City East, City West and City North, showing:
 
 Please provide the timeframes in weeks/months, broken down individually by property.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **26.Question submitted by Councillor McSweeney**
 
@@ -393,7 +393,7 @@ the second lanes of the Coonagh-Knockalisheen Road will be opened to the public,
 
 why they have been cordoned off thus far.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **32.Question submitted by Councillor Hickey-O’Mara**
 
@@ -455,7 +455,7 @@ Glasgow Park, to ensure residents in the area are not prevented from using it, w
 
 consideration for our climate targets in mind.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **37.Notice of Motion submitted by Councillor Leddin**
 
@@ -517,7 +517,7 @@ January, maintaining affordable fares for passengers whilst committing to signif
 
 improvements in service provision locally and nationwide.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **42.Notice of Motion submitted by Councillor Beasley**
 
@@ -573,7 +573,7 @@ safety concerns among members of the public, particularly as we enter the darker
 
 the year.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **47.Notice of Motion submitted by Councillor Hickey-O’Mara**
 
@@ -593,5 +593,5 @@ Sláintecare in Budget 2027;
 
 **48.Correspondence**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

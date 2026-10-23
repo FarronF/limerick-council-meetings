@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale  - 17th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/01%20a%20Minutes%20Monthly%20Meeting%2017th%20May%252c%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -92,7 +92,7 @@ Circulated, copy of draft Minutes of Special Meeting of the Municipal District o
 
 Rathkeale held on 27th April, 2017.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ The Cathaoirleach thanked the Deputation for their input and requested that they
 
 District Members informed of progress within the coming months.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ the system would bring to crime prevention and detection in the District. Member
 
 importance of controlling access to the system and discussed the importance of ensuring that
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ Circulated, report of the A/Senior Executive Engineer, West Division Operations 
 
 Ballysteen.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ A Notice under Section 8(7) of the Derelict Sites Act, 1990 has been served on
 
 the property, entering it on the Council’s Derelict Sites Register.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -480,7 +480,7 @@ area, Rathkeale and has initiated legal proceedings under the Waste
 
 Management Act.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ proposed road Scheme will not be undertaken until such time as the issue of
 
 Foul Sewer provision along this section of the N21 has been resolved.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -644,7 +644,7 @@ earlier in the year.
 
 Correspondence was noted.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -700,5 +700,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

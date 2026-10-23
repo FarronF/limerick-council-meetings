@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 20th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-20th-november-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ The report, as circulated, was noted by Members.
 
 Circulated, Report of the Director of Services, Planning, Environment and Place-Making dated 9th
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ areas):
 
 **REPLY**: The Cleansing Section is currently sweeping the Old Cork Road on a weekly basis, this will
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ for completion is the end of April 2024 based on current status.
 
 **10.Question submitted by Councillor J. Leddin**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -406,7 +406,7 @@ including the University of Limerick.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick that a bus stop and***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -522,7 +522,7 @@ where a household faces the termination of their
 
 tenancy due to the landlord’s intention to sell the
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -616,7 +616,7 @@ One 15 Tonne Road sweeper all year round on a rota basis between the four MDs.
 
 **Status**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -702,7 +702,7 @@ ceremony for the switching on of the Christmas lights in the City Centre due to 
 
 costs associated with managing an event of this scale. It is considered that the Council
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -778,7 +778,7 @@ with an Garda Siochána in relation to same.
 
 ***Tourism, Culture, Arts, Gaeltacht, Sport and Media for the six years of 2018 to 2023 inclusive.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -888,7 +888,7 @@ environmental issues.
 
 ***cycle network in line with the provisions of the new national cycle manual.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -964,7 +964,7 @@ poster free, it will help improve the visual look of the city, reduce littering 
 
 printing and erecting same.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1048,7 +1048,7 @@ displays is noted and the Council will consider this as part of its continued en
 
 property owners of planning for Christmas 2024.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1120,7 +1120,7 @@ advertisement of road closure notices is charged to applicants.
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that the Council revises***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1198,7 +1198,7 @@ Council housing to ensure they can be tackled at an early stage and ensure that 
 
 accommodation is maintained properly.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1274,7 +1274,7 @@ areas and the positive atmosphere it could create in Limerick. She highlighted t
 
 should commence early in the year for Christmas 2024.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1334,5 +1334,5 @@ This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

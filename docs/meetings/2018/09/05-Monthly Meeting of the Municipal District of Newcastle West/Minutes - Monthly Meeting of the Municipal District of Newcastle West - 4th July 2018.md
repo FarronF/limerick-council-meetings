@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 4th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%202018-07-04%20Minutes%20July.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ County Limerick in the absence of the Senior Executive Engineer, Physical Develo
 
 sent her apologies for her inability to attend the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Presentation of Household and Commercial Waste) Bye-Laws, 2018, which were propo
 
 Councillor Foley and seconded by Councillor Collins.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ On the proposal of Councillor Browne, seconded by Councillor Collins, it was agr
 
 allocate €1,000 to Men’s Shed, Glin.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ REPLY:
 
 Limerick City & County Council are required to provide an adequate painting
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -406,7 +406,7 @@ the week beginning 25th June, 2018.
 
 All loose asbestos has been removed and bagged by a specialist contractor.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ seeks to avail of all appropriate opportunities under each mechanism to
 
 meet current housing need.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 ***hinterland.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -660,7 +660,7 @@ repairs to the road at Gleann Cryle, Abbeyfeale and the Executive Engineer agree
 
 up on these matters.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -710,5 +710,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

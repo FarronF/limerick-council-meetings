@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 24th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-a-minutes-ordinary-meeting-24.05.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND COUNTY
 
@@ -98,7 +98,7 @@ any declaration of interest in any item due for discussion at the Meeting. No su
 
 declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ of the interest of Limerick City and County Council in the property, particulars
 
 contained in Statutory Notice dated 25th March, 2021.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ Circulated, copy of Statutory Notice dated 26th April, 2021, concerning disposal
 
 St. Laurence Park, Garryowen, Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ Circulated, copy of Statutory Notice dated 11th May, 2021, concerning disposal o
 
 Gragane, Caherconlish, Co. Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ Members raised the following points:
 
  Grant aid available.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,7 +582,7 @@ Council Buildings, Emergency Homeless, Backup Fire Station and COVID impact on G
 
 and Services income.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,7 +656,7 @@ expenditure incurred in excess of that provided for in the Annual Budget for the
 
 31st December, 2020, including capital transfers.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -724,7 +724,7 @@ On the proposal of Councillor O’Sullivan, seconded by Councillor O’Hanlon, t
 
 Recommendation was agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -792,7 +792,7 @@ Committee dated 10th May, 2021, in relation to Meeting of the Committee held on 
 
 2021.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -862,7 +862,7 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor O’Hanlon, th
 
 Meeting of the Council was re-scheduled to Monday, 5th July, 2021, at 3pm.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -962,7 +962,7 @@ in the provision of bike hire and shuttle bus service on the Limerick Greenway a
 
 County Council owned properties.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1032,7 +1032,7 @@ Question submitted by Councillor L. Galvin
 
 **available.**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1128,7 +1128,7 @@ available)
 
 Comment
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1262,7 +1262,7 @@ and cost estimates. LAs will be notified of successful projects
 
 throughout 2021 as project details are finalised.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -1273,19 +1273,19 @@ Waste Water Discharge Licences (WWDL) and Certificates of Authorisation (CoA) 17
 
 
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
 (Image omitted)
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
 (Image omitted)
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **1**0.
 
@@ -1375,7 +1375,7 @@ Interest process with qualifying criteria for assessment, as was recently undert
 
 by the Directorate for a number of landbanks in the city.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1459,7 +1459,7 @@ proposed by Councillor Sheahan (J), seconded by Councillor Leddin. The result of
 
 follows:
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1523,7 +1523,7 @@ In addition, the Council agreed to circulate the Motion to the Chief Superintend
 
 Street, Limerick.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1599,7 +1599,7 @@ Notice of Motion submitted by Councillor S. Kiely
 
 The Motion was proposed by Councillor Kiely and seconded by Councillor C. Sheehan.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1631,5 +1631,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 17th Dec 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%20held%20on%2017th%20Dec%202021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF VIRTUAL MEETING OF THE JOINT POLICING COMMITTEE HELD ON**
 
@@ -102,7 +102,7 @@ with in the courts by the end of the year which is double the number of cases in
 
 work done in this area is incredible, however, due to the volume trial days become backed up.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Chief Superintendent confirmed that a lot of work is being done in community policing. There
 
@@ -178,7 +178,7 @@ houses are causing issues, however, every effort will be made to continue to add
 
 sale and supply of drugs.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Deputy Quinlivan commended the Gardaí and all concerned in addressing this problem and
 
@@ -264,7 +264,7 @@ operation in place since 1st December. Parking in taxi ranks and in disabled per
 
 regular focus for Gardaí.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Councillor Costelloe expressed concern at the increase in domestic abuse adding that the services
 
@@ -372,7 +372,7 @@ Bruff
 
 **2**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Divisional
 
@@ -480,7 +480,7 @@ in the afore-mentioned area on a constant basis to perform proactive patrols. Th
 
 will continue throughout the Christmas and New Year period in order to ensure that a high visibility
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 policing presence is being maintained in this area daily. Additionally, dedicated Community Gardaí
 
@@ -578,7 +578,7 @@ A significant crime prevention initiative was instigated in recent weeks with th
 
 Limerick to promote bike safety and security and this will be ongoing throughout the academic year.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Community Policing Gardai supported by Limerick City and County Council also held a crime
 
@@ -656,7 +656,7 @@ deliveries could be undertaken by An Garda Síochána, where required. This was 
 
 times whereby pharmacies contacted the office and deliveries were co-ordinated.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 The Limerick Covid-19 Community Response group was established to coordinate the volunteer
 
@@ -734,7 +734,7 @@ with Limerick City & County Council to establish if they can take any enforcemen
 
 individuals who are in control of this house.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 The Chief Executive supported the Chief Superintendent in relation to St. Mary’s Park. The Council is
 
@@ -812,7 +812,7 @@ This was covered under Question 10
 
 This was covered under Question 13
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **19.Question submitted by Councillor John Costelloe :**
 
@@ -860,5 +860,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Statutory Budget Meeting of Limerick City and County Council - 26th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-b-minutes-budget-meeting-26.11.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ acknowledged that it had been a tough 12 months for everyone, especially the bus
 
 community who have had to operate within severe restrictions as we all learned to live with
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ to accrue to the Council. The budget is underpinned by our Corporate Plan that s
 
 overall budget strategy
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ contributes to achieving its share of the national emissions reduction targets. 
 
 development of the Council’s Climate Action Plan will begin in 2022.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -300,7 +300,7 @@ and delivery of public realm improvements in our urban areas and villages that w
 
 the public space and support place-making activities.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -370,7 +370,7 @@ In conclusion, he recommended the draft Budget, as presented, to the Members for
 
 **Introduction**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -454,7 +454,7 @@ Through consultation with the Corporate Policy Group and consideration of the vi
 
 Council as expressed through the different stages of the budgetary process, in particular as
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -536,7 +536,7 @@ national income) from the mid-part of this decade, and budgetary policy must be 
 
 based on this permanent revenue loss.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -690,7 +690,7 @@ Unemployment (per cent)
 
 ***Public Finances (per cent of GNI)***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -792,7 +792,7 @@ O’Connell Street, the Rugby Experience and Bishops Quay delivering a timely bo
 
 city-centre. The vaccination programme and government’s roadmap to reopen retail and
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -878,7 +878,7 @@ The Draft Budget has been prepared on the principle of a “balanced budget” b
 
 overall level of resources available to the Council and the requirement to meet statutory,
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -960,7 +960,7 @@ adaptations
 
  Leading at a local level on the Government’s ‘keep well’ campaign
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1046,7 +1046,7 @@ Transport Authority.
 
 **6.Frontline Local Authority Services**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1144,7 +1144,7 @@ E - Environmental Services
 
 €34,938,741
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1218,7 +1218,7 @@ Division, with comparative figures for 2021:
 
 **HAP 79%)**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1376,7 +1376,7 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **(Excl HAP)**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1480,7 +1480,7 @@ Comparative figures for Budgets 2022 and 2021 are shown hereunder.
 
 **Adopted Budget 2021 €'m**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1556,7 +1556,7 @@ on new yields will not be available for Budget 2022, but the Department have con
 
 allocations for 2022 to Limerick City and County Council via Circular Fin 18/2021.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1668,7 +1668,7 @@ resources for the delivery of the following services as follows:
 
 **Table 5: Allocation of additional resources**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1742,7 +1742,7 @@ of 50% required)
 
 50%
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1820,7 +1820,7 @@ The key business processes delivered on behalf of the Local Authorities by the H
 
 Tenancy Processing, Weekly Tenant Rent Run, Monthly Landlord Payment, Tenancy
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1898,7 +1898,7 @@ overwhelmingly positive feedback from local hospitality businesses across the re
 
 investment in the Limerick Greenway has provided a strategic piece of sustainable travel
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1950,7 +1950,7 @@ to the communities we serve. The Graph below shows our overall numbers at presen
 
 the number of retired staff.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2070,7 +2070,7 @@ SEP-21
 
 **receiving pensionFTE StaffNumber receiving pension**
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2144,7 +2144,7 @@ annual review and possible adjustment. Below please find a summary of potential 
 
 source of funding for the 3-year capital plan 2022 to 2024.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2202,7 +2202,7 @@ source of funding for the 3-year capital plan 2022 to 2024.
 
 **Table 7: Summary Capital Plan 2022-2024**
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2260,7 +2260,7 @@ to manage the impact of these events.
 
 **Capital Expenditure 2022-2024 by Year €'m**
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2334,7 +2334,7 @@ preparation of the Budget and also thanked the Executive of the Council for thei
 
 the Covid pandemic. He commended the people of Limerick for their resilience during the
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2410,7 +2410,7 @@ He welcomed the provisions contained in the Budget, which would ensure the conti
 
 delivery of a wide range of services across the City and County. He also welcomed the fact
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2482,7 +2482,7 @@ Councillor Teefy also welcomed the continued capital investment in the Roads inf
 
 in Limerick city and county. She welcomed the roads revenue budget stating that local and
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2550,7 +2550,7 @@ in relation to tourism promotion across both the city and county.
 
 She confirmed that the Labour Party would be supporting the budget.
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2622,7 +2622,7 @@ or cycle around their areas, thereby reducing the reliance on cars. He welcomed 
 
 Transport Authority Bus Connect Scheme and acknowledged the importance of climate action
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -2690,7 +2690,7 @@ Reform Act, 2014, is adopted as circulated without amendment. (Item 6 on the Mee
 
 Agenda).
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 33
 
@@ -2722,5 +2722,5 @@ Signed:
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 

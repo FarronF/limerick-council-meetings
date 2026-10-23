@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Adjourned Meeting of Metropolitan District of Limerick - 27th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01b-draft-minutes-adjourned-online-meeting-27th-january-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ADJOURNED ONLINE MEETING OF THE METROPOLITAN DISTRICT**
 
@@ -94,7 +94,7 @@ Metropolitan Area Transport Strategy or any replacement thereof.
 
 Facilitate implementation and delivery of the proposals that will be contained in the final
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Support delivery of strategic road infrastructure identified in the RSES includi
 
 Dock Road, with the provision of public transport infrastructure and Park and Ride facilities, as
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ with N/M20 Cork to Limerick scheme throughout the document.
 
 the regional and national strategies, put the welfare of people and sustainable safety at the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Explore improved accessibility to Limerick Southside, including the possible pro
 
 motorway interchange connection from the M20/M7 to Limerick Southside.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ amendment. The proposed amendment shall be included as a material amendment to t
 
 proposed public display documents.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ Amend Land Use Zoning Map
 
 To rezone lands located at Rosbrien and in the ownership of Shannon Group comprising of
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -568,7 +568,7 @@ Rosbrien Road, which had been included in the 2011 – 2017 Local Area Plan (as 
 
 Cllr Leddin outlined his reason for this proposed amendment outlining that the provision of a link
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -648,5 +648,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

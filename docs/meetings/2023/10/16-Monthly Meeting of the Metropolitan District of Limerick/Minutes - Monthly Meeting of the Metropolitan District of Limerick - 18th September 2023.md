@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 18th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-b-Draft-Minutes-Monthly-Meeting-of-the-Metropolitan-District-of-Limerick-18th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ any declaration of interest in any item due for discussion at the Meeting. Counc
 
 made a declaration on one agenda item.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ recognise the critical role of fostering a thriving business environment in the 
 
 city, and we are committed to the Limerick 2030 Economic and Special Plan and the Limerick
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Additionally, Limerick City and County Council are pursuing the following initia
 
 maintain, attract and improve competitiveness for new businesses to establish in the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ and dispose of it in a proper manner.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick how many applications have***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -500,7 +500,7 @@ currently contracted out by the Council to minimise use (as outlined above).
 
 ***approved; the number of successful applications drawn down, in tabular form.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -628,7 +628,7 @@ earlier presentation of homelessness
 
  Reasons for homeless presentation resolved i.e., family breakdown etc.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -710,7 +710,7 @@ Planning & CPO approval: Q3 2024
 
 Tender for Construction: Q4 2024
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -794,7 +794,7 @@ vehicle and were subsequently removed by Shareridge Ltd due to the potential ris
 
 posed to health and safety. Replacement of these bollards has been identified on a list of
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -876,7 +876,7 @@ through to NTA Phase 3 – Preliminary Design.
 
 To Progress to Phase 4 – Statutory Approvals, a Natura Impact Statement has been prepared
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -966,7 +966,7 @@ following confirmation of the CPO by An Bord Pleanála.
 
 developed based on a robust methodology to inform decision making on current and future
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1030,7 +1030,7 @@ windows are not eligible, but repairs or replacement glazing may be considered o
 
 by case basis if they are end of life.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **25.**
 
@@ -1348,7 +1348,7 @@ Complete
 
 2
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1652,7 +1652,7 @@ Scoping
 
 3
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **26.**
 
@@ -1730,7 +1730,7 @@ There is no current National Transport Authority (NTA) funded Active Travel proj
 
 route.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1814,7 +1814,7 @@ walkers in the area.
 
 ***upgrade and invest additional resources into the playground.***
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1898,7 +1898,7 @@ It was agreed that Items 34 and 38 would be taken together.
 
 ***children to the new school Educate Together.***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1976,7 +1976,7 @@ home during the Christmas night-time period and the need to introduce measures t
 
 issues. Members supported the motion and agreed it was important to improve the transport
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -2058,7 +2058,7 @@ outlined that Active Travel will engage with Operations and Maintenance to discu
 
 **Notice of Motion** **submitted by Councillor O. O’Sullivan**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -2098,5 +2098,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

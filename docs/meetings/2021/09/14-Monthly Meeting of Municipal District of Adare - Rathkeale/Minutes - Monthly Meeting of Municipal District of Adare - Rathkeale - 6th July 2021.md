@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 6th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-a-minutes-of-monthly-meeting-6th-july-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -90,7 +90,7 @@ a report be prepared outlining the full breakdown of where exactly the current
 
 expenditure of €177,585.50 was spent given the original estimate for the works was in
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Total
 
 € 50,000
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ Collins agreed to same. Following discussion it was agreed to refer this Motion 
 
 SPC to relook at improving the litter byelaws.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ under one or more of the following headings: Architectural; Artistic;
 
 Archaeological; Historic; Scientific; Technical; Cultural; Social significance.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -380,7 +380,7 @@ Councillor Sheahan proposed the painting grant scheme for painting external Coun
 
 houses would be reintroduced. This was seconded by Councillor Teskey, and agreed.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -414,5 +414,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

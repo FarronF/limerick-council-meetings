@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 6th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/211206-agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -92,7 +92,7 @@ residents being forced out of their homes over the years.
 
 EVA International- presentation
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 5**
 
@@ -114,5 +114,5 @@ Date of next meeting
 
 **Limerick City and County Council**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%20%28i%29%20%20Minutes%20Meeting%20150617.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -82,7 +82,7 @@ new office of Communications and Marketing for the Council. She informed the Mem
 
 their main aims were as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ closely with groups such as, Munster Vales, Ballyhoura Failte and Kilmallock Tou
 
 She provided information to the Members on the following projects:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ and revert back on this matter at the July Meeting. On foot of this, Councillor 
 
 would defer his Notice of Motion until the July Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ It was agreed that the Senior Executive Engineer would investigate this matter f
 
 and report back to the July Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -344,5 +344,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-April-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF
 
@@ -82,7 +82,7 @@ parades, and the Cathaoirleach thanked Councillors for representing LCCC at the 
 
 parades in the county.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Disposal of Property
 
@@ -146,7 +146,7 @@ Housing Maintenance section of this Council.
 
 **Proposed: Councillor Carey**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Seconded: Councillor Donegan**
 
@@ -192,7 +192,7 @@ Protocol Committee for consideration.
 
 **Seconded: Councillor M Ryan**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 QUESTIONS
 
@@ -250,7 +250,7 @@ The review of disability spaces across the Municipal District is ongoing. A repo
 
 available for the May meeting of the Cappamore/Kilmallock MD
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 12. Question submitted by Councillor Teefy
 
@@ -304,7 +304,7 @@ expected to be issued to our contractor in 2024. The works will improve the perf
 
 wastewater treatment plant but will not result in an increase in the loading capacity of the plant.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 14. Question submitted by Councillor Donegan
 
@@ -368,7 +368,7 @@ Congratulations
 
 The Elected Members wished to congratulate Betty McElholm on her 106th Birthday.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 The Elected Members also wished to congratulate Colaiste Iosaef on winning the Schools
 
@@ -386,5 +386,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

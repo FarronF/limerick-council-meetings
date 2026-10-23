@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Adjourned March Meeting of Limerick City and County Council - 20th April, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-adjourned-march-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY AND
 
@@ -118,7 +118,7 @@ No. 11
 
 Local Community Safety Partnership.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -212,7 +212,7 @@ Some Members were not in favour of live-streaming and recording of meetings, not
 
 resources could be used better elsewhere, while other Members strongly supported the live-
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -284,7 +284,7 @@ amendment of LAPs. Under the new legislation, the Development Plan will instead
 
 incorporate all settlements that were previously covered by LAPs.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -360,7 +360,7 @@ properties go through the normal planning process.
 
 **Notice of Motion submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -458,7 +458,7 @@ adjournment, and must complete by 6pm of that day, or be adjourned to another da
 
 **Correspondence**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -474,5 +474,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

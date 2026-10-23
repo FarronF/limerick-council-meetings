@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Municipal District of Cappamore-Kilmallock - 23rd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20An%20Meeting%20of%20Munil%20District%20of%20.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ gave the following address:
 
 *during the year. The civic reception is an honour not only for the recipient but is also an honour for*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ As there were no other nominations, the outgoing Cathaoirleach declared Councill
 
 as Cathaoirleach and offered him his congratulations and best wishes for the coming year.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,5 +232,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

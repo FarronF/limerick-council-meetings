@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 31st March 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-ordinary-meeting-of-limerick-city-and-county-council-31st-march-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -82,7 +82,7 @@ The Members joined in welcoming Councillor Moisa and extended their best for his
 
 visit in Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Circulated, copy of Statutory Notice dated 12th March, 2025, concerning disposal
 
 1.24 acres (0.50 hectares) Site E at Kilmallock Business Park, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ covenants and conditions contained within the contract, particulars of which wer
 
 in Statutory Notice dated 12th March, 2025.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -574,7 +574,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ The Members expressed disappointment that the Corporate Plan was not finalised.
 
 They noted that the Corporate Plan was very important to the Council and queried the delay.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -732,7 +732,7 @@ Seconded by Councillor Collins (M);
 
 consequent on the resignation from the Trust of Councillor Talukder.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -854,7 +854,7 @@ County Limerick Youth
 
 Theatre
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -946,7 +946,7 @@ to meeting of the Committee held on 3rd March, 2025.
 
 The Chairperson’s report was noted by the Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1016,7 +1016,7 @@ Recommendation from the SPC:
 
 **Recommendation:**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1094,7 +1094,7 @@ Rural, Community, Culture and Tourism Development
 
 Dolores O’Riordan Music Bursary Scheme 2025
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1172,7 +1172,7 @@ for Culture and Arts Scheme 2025.
 
 Proposed by Councillor O’Sullivan (O);
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1248,7 +1248,7 @@ Question submitted by Councillor U. Gavan
 
 ***parking issues on a regular basis.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1332,7 +1332,7 @@ of the Limerick Project Ireland 2040 Delivery Board, which took place on 30th
 
 September, 2024. The current membership of the Sub-Group comprises:
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1412,7 +1412,7 @@ dogs have been euthanised in the Dog Shelter.
 
 been issued.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1494,7 +1494,7 @@ Question submitted by Councillor E. O’Donovan
 
 ***by Limerick Council across Limerick in the last 12 months per month.***
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1654,7 +1654,7 @@ Prelets
 
 €215,000.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1744,7 +1744,7 @@ The Table below outlines the Per Cent for Art budgets approved on Limerick
 
 City and County Council Social Housing Investment Programme (SHIP)
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1870,7 +1870,7 @@ Question submitted by Councillor S. Beasley
 
 ***what are the maintenance costs for Council housing stock by year and District.***
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2018,7 +2018,7 @@ Government and Heritage at this time for the ‘sale agreed’ properties.
 
 Therefore, completion dates are not known.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2100,7 +2100,7 @@ Council Artists in Schools Scheme 2025, which is also funded by the Arts
 
 Council. In other supports, it has been agreed that quartets from the ICO will
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2180,7 +2180,7 @@ as a temporary measure by other local authorities and noted it as a possible sol
 
 Limerick.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2254,7 +2254,7 @@ Notice of Motion submitted by Councillor B. Collins
 
 ***demonstrated.’***
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2334,7 +2334,7 @@ the National Planning Framework and the Regional Spatial and Economic Strategy f
 
 the Southern Region, the Plan must also be in accordance with National Planning
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2418,7 +2418,7 @@ variation to the Limerick Development Plan is an executive function. However, un
 
 13 of the Planning and Development Act 2000 (as amended) the Members of a Planning
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2498,7 +2498,7 @@ through letters, phone calls etc. and, in some cases, this could be a lengthy
 
 process.
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2580,7 +2580,7 @@ Notice of Motion submitted by Councillor S. Benson
 
 ***be carried out ahead of the rollout of bus connects, to ensure that the roads on all routes***
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2664,7 +2664,7 @@ Museum affords the most appropriate and accessible location to showcase
 
 Limerick Lace to all.
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2730,5 +2730,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Cappamore - Kilmallock - 27th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_-_municipal_district_of_cappamore_-_kilmallock_-_27th_november_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -96,7 +96,7 @@ risen as had the theft of oil, copper cylinders and equine supplies. He stated t
 
 manpower had decreased in recent years and that the trend was nationwide.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ markings and signage. The Senior Executive Engineer stated that the proposed
 
 changes had been referred to the Superintendent in Roxboro who had approved the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Question submitted by Councillor G. Mitchell
 
 ***which are a health and safety hazard in the town of Hospital.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ effected by the flood. It is envisaged that this work will continue
 
 throughout the winter period.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ It is proposed to undertake such a review in the coming months in
 
 conjunction with a general review of speed limits.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ design stage. The Senior Executive Engineer stated that he would liaise with the
 
 Senior Executive Engineer, Main Roads, on the matter.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,5 +558,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

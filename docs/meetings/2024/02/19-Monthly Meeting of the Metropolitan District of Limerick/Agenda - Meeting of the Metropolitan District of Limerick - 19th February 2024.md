@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 19th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/00-agenda-meeting-of-metropolitan-district-of-limerick-19th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -171,7 +171,7 @@ Travel Scheme.
 
 (Report Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -241,7 +241,7 @@ permission, and what steps will be taken to address this issue, given that no op
 
 has been provided under any of those permissions to-date.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -311,7 +311,7 @@ and the roundabout on the N69 at Clarina Village which is for the safety of pede
 
 will work commence.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -377,7 +377,7 @@ both the NTA and Bus Eireann calling on them to provide a school bus service for
 
 Dooradoyle and Mungret areas to serve all six local schools.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -435,5 +435,5 @@ Garryowen now meets the criteria for CCTV cameras.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

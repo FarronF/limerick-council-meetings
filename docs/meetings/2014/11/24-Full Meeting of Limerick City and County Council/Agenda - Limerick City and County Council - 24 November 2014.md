@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Limerick City and County Council - 24 November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20agenda_-_limerick_city_and_county_council_-_24_november_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **19th November, 2014.**
 
@@ -90,7 +90,7 @@ To consider proposal for the disposal of land at:
 
 (Statutory Notices dated 4th November, 2014)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ To note correspondence received from the Association of Irish Local Government
 
 (Copy Enclosed)
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ Housing (Miscellaneous Provisions) Act, 1992.
 
 (Report Enclosed)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Seminar ‘Charities, Regulation and Legislation’ to be held in Clonakilty, Co
 
 on 5th/6th December, 2014.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ disposal of Council property and that the process of appointments to the new Boa
 
 Directors of the Limerick Arts and Cultural Centre Limited was also properly applied.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ from 50 km/h to 30 km/h on a phased basis in order to ensure the safety of child
 
 play and general pedestrian population.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -564,7 +564,7 @@ names on these signs. This will be implemented on a basis of new signage require
 
 will not require the replacement of any signs due to this bye-law alone.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -632,7 +632,7 @@ from all parties represented on this Council to organise and arrange events for 
 
 Centenary of the 1916 Rising.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -650,5 +650,5 @@ change the full Council Meeting sittings from bi-monthly to monthly.
 
 (Copy of Correspondence Enclosed)
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

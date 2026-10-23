@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Adare-Rathkeale Municipal District - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-agenda-21st-october-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -86,5 +86,5 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

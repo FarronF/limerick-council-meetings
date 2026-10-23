@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Adjourned Meeting of Limerick City and County Council -  3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01-d-minutes-adjourned-meeting-03.07.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF LIMERICK CITY
 
@@ -82,7 +82,7 @@ in-charge of Steamboat Quay, Limerick, the Director, Physical Development, confi
 
 he would revert with an update.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ in 2020, as set out in the report of the Director, Community Development, dated 
 
 2020.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ Circulated, report of the A/Arts Officer dated 15th June, 2020, seeking the Coun
 
 approval to the Dolores O’Riordan Music Bursary Award 2020.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ Question submitted by Councillor D. McSweeney
 
 **to complete Phase Two of Patrickswell Village Renewal Scheme.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ What design features are included in this project towards accommodating people w
 
 special needs who wish to use the Greenway.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,7 +490,7 @@ Fehily Timoney Consulting Engineers.
 
 estimated cost is €120,000.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -574,7 +574,7 @@ national standards for gradients, works will be carried out to reduce the gradie
 
 bringing them into line with the applicable standard.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -670,7 +670,7 @@ Traveller Specific Accommodation, preparing an area in Rathkeale in
 
 conjunction with the HSE to provide an isolation area in Rathkeale, if required,
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -746,7 +746,7 @@ County Council has been engaging with this forum and also local hotels and
 
 attractions to profile them as part of the campaign.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -826,7 +826,7 @@ It was agreed to refer the Motion to the Home and Social Development Strategic P
 
 Committee for consideration.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -900,7 +900,7 @@ Notice of Motion submitted by Councillor T. Ruddle **(to be referred to Protocol
 
 It was agreed to refer the Motion to the Protocol Committee for consideration.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -980,7 +980,7 @@ Notice of Motion submitted by Councillor C. Sheehan **(to be referred to the**
 
 **amend the Control of Horses Bye-Laws to ban horses in housing estates; and that the**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1034,5 +1034,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Environment Strategic Policy Committee - 22nd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Environment%20Strategic%20Policy%20Committee%20-%2022nd%20June%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 ENVIRONMENT SECTION.
 
@@ -80,5 +80,5 @@ hereby invited to attend.
 
 7. **Any Other Business.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting Limerick City and County Council - 3rd January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-special-meeting-limerick-city-and-county-council-3rd-january-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF ONLINE SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ showing just how much his constituents trusted and respected him. In 2007, Ger h
 
 peak of his political career when he was elected the 811th Mayor of Limerick, a role he
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,5 +166,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

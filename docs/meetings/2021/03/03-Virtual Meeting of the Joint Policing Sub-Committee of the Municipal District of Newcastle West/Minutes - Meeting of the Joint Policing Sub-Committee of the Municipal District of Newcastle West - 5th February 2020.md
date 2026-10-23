@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West - 5th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-2020-02-05-minutes-jpc-subcommittee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -90,7 +90,7 @@ cases, which the Gardai dealt with over the last quarter of 2019 including burgl
 
 traffic accidents, public order offences, drink and drug offences. She stated that incidents of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ new Garda Station in Newcastle West, staff numbers in Garda patrol vehicles, the
 
 System and the locations of Go Safe Vans.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -184,5 +184,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

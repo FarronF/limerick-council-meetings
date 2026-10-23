@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/1%20meeting_of_the_municipal_district_of_cappamore-kilmallock_-_agenda_18_september_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **11th** **September, 2014.**
 
@@ -70,7 +70,7 @@ Cappamore-Kilmallock.
 
 (Draft Standing Orders enclosed)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,5 +146,5 @@ Development until the alignment process and the role of the Local Community
 
 Development Committee is agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

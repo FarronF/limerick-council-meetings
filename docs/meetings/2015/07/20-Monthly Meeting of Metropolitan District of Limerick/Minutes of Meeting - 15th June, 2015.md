@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - 15th June, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%2015th%20June%2C%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Road Design Centre confirmed that no rights of way to the walkways on the adjace
 
 wetlands were affected by the disposal.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ providing local employment during the construction phase and noted that a social
 
 was included in the construction contract for same.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ raised with the Property Department attached to the Economic Development and
 
 Planning Directorate.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -350,7 +350,7 @@ Question submitted by Councillor Elena Secas
 
 ***I will ask the next meeting if Limerick City and County Council would consider***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -444,7 +444,7 @@ Morning inbound traffic establishes sporadic vehicle queues from between
 
 persistent queue from 5.30pm to 6.10pm.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -532,7 +532,7 @@ railing repaired and the litter at the left hand side of the memorial to be remo
 
 report on the condition of each monument and any repair works needed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -624,7 +624,7 @@ The sponsorship of the bikes and the contract for the maintenance of the
 
 facility is a matter for the NTA.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -716,7 +716,7 @@ over a considerable portion of the wetland area and that, if left unchecked, by 
 
 would be no need for the viewing stand as it would be covered in reed. He stressed the
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -804,7 +804,7 @@ referred directly to Irish Water for response if the Notice of Motion is
 
 adopted by Council.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -894,7 +894,7 @@ The Deputy Chief Executive stated that the use of various venues for the Civil C
 
 of Marriage was increasing. He pointed out that the Council had agreed procedures and
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -970,5 +970,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Home and Social Development Strategic Policy Committee - 20th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/Special%20SPC%20Agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -40,5 +40,5 @@ Limerick City and County Council
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

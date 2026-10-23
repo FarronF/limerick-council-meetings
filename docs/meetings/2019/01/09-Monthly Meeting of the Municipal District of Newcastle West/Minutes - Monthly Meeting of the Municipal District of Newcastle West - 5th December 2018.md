@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 5th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-01/01%20%28a%29%202018-12-05%20Minutes%20December.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -106,7 +106,7 @@ Circulated, copy of draft Minutes of Special Meeting of the Municipal District o
 
 Newcastle West on Housing developments held on 21st November, 2018.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Limerick, to Teresa Mahony Dee.
 
 Members noted the proposal.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Director stated that the development of this Hub could be further explored with
 
 organisations within the town to secure a Summer 2019 opening.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ The Members approval was now being sought to proceed with the adoption of Specia
 
 Limit Bye-Laws, in accordance with the guidelines.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ Notices of Motion 15 to 16 on the Agenda be deferred to the January Meeting of t
 
 Municipal District of Newcastle West.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -450,5 +450,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

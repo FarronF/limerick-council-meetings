@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-a-minutes-annual-meeting-30.06.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ sympathy and support.
 
 A minute’s silence and reflection was then observed as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ The Mayor then gave the following address:
 
 **term. Well done to everyone.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ In conclusion, the Mayor thanked the outgoing Deputy Mayor, Councillor Talukder,
 
 invaluable support during the year and invited him to address the Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **YOU.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **you'll find the way.’**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **many respects a positive one. For example, the need to tackle climate change has brought**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -554,7 +554,7 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **few. Many of these communities see very low levels of Third Level educational attainment**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -636,7 +636,7 @@ Having taken the Chair, the incoming Mayor, Councillor Butler, gave the followin
 
 **as bad weather, just wrong clothing.**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -704,7 +704,7 @@ The incoming Deputy Mayor, Councillor Ruddle, then addressed the Meeting:
 
 **answered,** **‘that’s** **Jerome Scanlan.’**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -784,7 +784,7 @@ The incoming Deputy Mayor, Councillor Ruddle, then addressed the Meeting:
 
 **Well done.”**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -832,5 +832,5 @@ Mayor
 
 Date:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

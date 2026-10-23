@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Adare-Rathkeale - 27th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01%20c%20Minutes%20Monthly%20Meeting%2027th%20April%252c%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ have in meeting mortgage payments, the challenges of negative equity and the ris
 
 actions of Approved Housing Bodies (AHBs), purchasing property on the estate, would devalue
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ District write to the Minister for Housing, Planning, Community and Local Govern
 
 on him to allow Local Authorities, based on their experience, to use their discretion in how
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ Following discussion it was agreed that the May Meeting of the District would be
 
 Wednesday 17th May, 2017 at 2.00 p.m. in Croom.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -282,5 +282,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

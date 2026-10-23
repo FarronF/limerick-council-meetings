@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 24th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-meeting-of-the-home-and-social-strategic-policy-committee-24th-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -100,7 +100,7 @@ and online.
 
 **Seconded:** Cllr. Noreen stokes
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2: Matters arising from the Minutes**
 
@@ -170,7 +170,7 @@ able to control this as they are selling on the private market.
 
 Cllr. Sharon Benson advised that she is happy to support the changes on temporary basis.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Cllr. Maria Donoghue asked to confirm how anyone interested would access Private Rightsizing
 
@@ -244,7 +244,7 @@ recommended that this motion be put on hold pending the outcome of the exercise 
 
 undertaken by the Minister, until national guidance is available.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 The members outlined that it is unfair to include carers allowance as income in determining
 
@@ -282,5 +282,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meet
 
 **END OF MEETING**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

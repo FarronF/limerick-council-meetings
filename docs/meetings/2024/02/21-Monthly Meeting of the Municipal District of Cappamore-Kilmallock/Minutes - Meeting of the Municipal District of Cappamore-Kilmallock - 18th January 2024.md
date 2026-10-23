@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -82,7 +82,7 @@ Cappamore-Kilmallock held on 14th December, 2023.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Matters Arising:
 
@@ -146,7 +146,7 @@ their input.
 
 The Part 8 was accepted.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 7. Housing Strategy & Non-LA Housing Construction
 
@@ -208,7 +208,7 @@ Members were requested to refrain from discussing same.
 
 9. GMA
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Change of GMA allocation from Bulgaden National School to Effin National School –
 
@@ -310,7 +310,7 @@ Sites and Infill
 
 €37.50
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Sites in towns
 
@@ -392,7 +392,7 @@ Roads and Tourism GMA (€259,000) plus Capital Development Fund (to be confirme
 
 €309,000 (estimated), divided between the 7 Elected Members at €44,142 per Elected
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **Caherguillamore event**
 
@@ -460,7 +460,7 @@ council should there be changes to the bye laws required.
 
 **Water Engineer**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 It was noted that the Water Engineer (Diarmuid O’Dea) was moving to a new role in Housing
 
@@ -478,5 +478,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

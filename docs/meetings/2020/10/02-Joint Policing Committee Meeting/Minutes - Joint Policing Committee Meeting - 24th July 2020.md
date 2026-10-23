@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 24th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-of-jpc-meeting-24th-july-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -96,7 +96,7 @@ Proposed by Councillor S. Kiely
 
 Seconded by Councillor J. Costelloe
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Update from Chief Superintendent**
 
@@ -194,7 +194,7 @@ It was proposed by Councillor S. Kiely, seconded by Councillor M. Murphy and una
 
 approve the following Notice of Motion :
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *“That Limerick City and County Council write to the Minister for Justice requesting that Garda resources*
 
@@ -278,7 +278,7 @@ He stated that 1,587 hours of CCTV was downloaded between January to May 2020 wi
 
 cameras across the city and county.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Mr. Bilauca outlined the following Limerick City CCTV operations which were noted by the members:
 
@@ -368,7 +368,7 @@ In reply to Members, the Chief Superintendent stated that from a Garda perspecti
 
 to be approved as soon as possible and then it goes to the Commissioner. He added that every CCTV
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 camera is invaluable in investigations and prosecutions. He said he was very happy with the set up
 
@@ -444,7 +444,7 @@ Clarification of Powers of An Garda Siochana under Section 41 Road Traffic Act 1
 
 The Chief Superintendent outlined to Members Section 41 Road Traffic Act 1994, as amended.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Details of activities/number of seizures under the Act in the last twelve months
 
@@ -530,7 +530,7 @@ Superintendent stated that a lot of work has been done by the Gardai in relation
 
 has had good success. He appealed to the public for their help in addressing this matter also.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **8.Notice of Motion submitted by Councillor Sarah Kiely**
 
@@ -634,7 +634,7 @@ Cash seized
 
 € 140,438
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **11.Question submitted by Councillor John Costelloe**
 
@@ -680,5 +680,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

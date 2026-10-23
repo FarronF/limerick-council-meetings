@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 24th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20Minutes%20of%20July%20Meeting%20240717.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -106,7 +106,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -190,7 +190,7 @@ Seconded by Councillor Browne;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ the Department, and that the Guidelines would apply in relation to any new Strat
 
 Committee.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Circulated, report of the Senior Executive Officer, Corporate Services, dated 7t
 
 July 2018.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ Annual Plan and that these should be linked to the objectives of the Local Econo
 
 Community Plan (LECP). Work had been ongoing in relation to the preparation of the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -488,7 +488,7 @@ And Resolved:
 
 circulated, be and is hereby adopted.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -564,7 +564,7 @@ Circulated, Report of the Chairperson of the Environment Strategic Policy Commit
 
 dated 14th July, 2017, in relation to Meeting of the Committee held on 26th June, 2017.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -632,7 +632,7 @@ It was noted that this Recommendation would be dealt with under Item No. 7 (b) o
 
 the Agenda.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -716,7 +716,7 @@ Depot.
 
 ongoing rolling programme.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -784,7 +784,7 @@ Seconded by Councillor Galvin;
 
 Distributor Road Sub-Committee.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -858,7 +858,7 @@ Seconded by Councillor Galvin;
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -926,7 +926,7 @@ higher education over a range of years.
 
 • The case for increased investment in higher education.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -988,7 +988,7 @@ Deputation should contact the Members further with regard to any related Motion 
 
 should go forward to the next Meeting. The Deputation then withdrew.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1058,7 +1058,7 @@ Union of Students in Ireland (USI)
 
 It was noted that Item No. 10 had already been dealt with.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1128,7 +1128,7 @@ and Lease’ schemes launched as part of *Rebuilding Ireland: Action Plan for*
 
 *Housing and Homelessness.*
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1206,7 +1206,7 @@ leased by year end under these schemes. However, Limerick City and County
 
 Council are actively seeking to maximise the number of units delivered.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1286,7 +1286,7 @@ been given by the Council to RPS and whether RPS recommendations had to be accep
 
 totality or whether Council Engineers could have counter proposals. He noted that in
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1366,7 +1366,7 @@ Notice of Motion submitted by Councillor S. Lynch **(to be referred to the**
 
 ***children.***
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1420,5 +1420,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

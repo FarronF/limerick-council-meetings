@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West  - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01b-2020-06-10-minutes-agm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
@@ -84,7 +84,7 @@ Cathaoirleach of the Municipal District of Newcastle West and acknowledged the h
 
 and contribution made by Councillor Scanlan during his term as Cathaoirleach.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,5 +150,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

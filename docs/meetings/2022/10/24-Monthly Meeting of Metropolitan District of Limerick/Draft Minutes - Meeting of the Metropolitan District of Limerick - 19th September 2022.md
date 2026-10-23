@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 19th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/02%20Draft%20Minutes%20Monthly%20Meeting%2019th%20September%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ intention to bring a Section 183 Notice to Full Council in this regard, for appr
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Councillors and the general public from the Active Travel Team in relation to th
 
 The Members highlighted the importance of this infrastructure, on what was a very busy road with
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ Proposed by Councillor Butler;
 
 Seconded by Councillor McSweeney;
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ cover the proposed monthly repayments.
 
 ***and what is the timeframe for planning and delivery of units.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ There was no closing date for the years 2019 and 2020, however on review of the 
 
 a closing date was reintroduced in 2021 for operational / budgetary management reasons.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -564,7 +564,7 @@ Breakdown by electoral area within the city is not available.
 
 **14.Question submitted by Councillor C. Slattery**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -642,7 +642,7 @@ On Council-led new-build social housing schemes, there is a target to design 15%
 
 overall number of units to a Universal Design (UD) standard. The UD standard will apply to
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -716,7 +716,7 @@ properties from January 2022 to June 2022 inclusive.
 
 ***the Dublin Road side as it is in a deplorable condition.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -798,7 +798,7 @@ posed by ground conditions, location of existing services, etc.
 
 **22.Question submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -878,7 +878,7 @@ LCCC will also host events in City Hall and County Hall as part of Energy Awaren
 
 between 26th and 30th September where we will advise Council employees to switch off
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -962,7 +962,7 @@ safecommunities.limerick.ie.
 
 Work is underway to plan for the installation and commissioning of the additional cameras
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1034,7 +1034,7 @@ progressed through the Climate Action, Biodiversity and Environment Strategic Po
 
 Committee.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1112,7 +1112,7 @@ feasibility and an options report to determine the most beneficial layout and cr
 
 for Roxboro Road.  A consultant will be engaged in the coming weeks.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1190,7 +1190,7 @@ The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Sh
 
 agreed.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1268,7 +1268,7 @@ Including zip line, fireworks, entertainment, etc.
 
 €170,130
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1360,5 +1360,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 

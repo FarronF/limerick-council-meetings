@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 17th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/01-draft-minutes-monthly-online-meeting-17th-may-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ relative to other nearby developments including the Rivers Estate. They suggeste
 
 the development should be reduced to 35 units per hectare;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Vacant B&R and SHIP properties, also vacant Voids 2021 and properties funded by 
 
 are vacant because works are not completed yet.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ returned.
 
 (Image omitted)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -424,7 +424,7 @@ will co-ordinate with the NTA and advance the scheme once the optimum approach i
 
 agreed.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -500,7 +500,7 @@ submitted in June.
 
 ***in response to my Notice of Motion from the July 2020 Meeting of the Climate Action,***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -584,7 +584,7 @@ install covered pergolas in Bedford Row and Lower Thomas Street that will enable
 
 businesses in these streets to provide al fresco dining. The infrastructure, once provided,
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -670,7 +670,7 @@ administered through open call; The Military, Maritime, Industrial Atlantic Heri
 
 Limerick City and County Council are preparing a Public Art Policy and Strategy, which will
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -770,7 +770,7 @@ UL Chancellor
 
 Former Tánaiste and Government Minister
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -906,7 +906,7 @@ includes for replanting this boundary with semi-mature native species, with 2 ne
 
 proposed for each tree removed (18 no. new trees in total along this boundary).
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -978,7 +978,7 @@ It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity
 
 Strategic Policy Committee.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1052,7 +1052,7 @@ The Winter proofing Scheme (above) is specific to the Bedford Row / Lr Thomas St
 
 area of the City Centre where there is a concentration of hospitality type businesses. The
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1138,7 +1138,7 @@ bring this to our attention so that we can deal with the matter as a priority.
 
 ***all restaurants and takeaways with drive through facilities to print car registration numbers on***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1166,5 +1166,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 5th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-a-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-5th-april-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ to assist them in increasing housing supply.
 
 **Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The Mayor noted that he had received an amendment to the original motion and it was
 
@@ -158,7 +158,7 @@ Councillor O’Donoghue.
 
 **(1)**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Mayor declared the Amended Motion proposed by Councillor J. Sheahan and seconded by
 
@@ -176,5 +176,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

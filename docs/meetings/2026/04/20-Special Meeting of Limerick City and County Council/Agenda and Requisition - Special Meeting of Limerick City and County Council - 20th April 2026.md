@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-and-requisition-special-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -60,7 +60,7 @@ relation to proposed works at Boro Park, Janesboro.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -91,5 +91,5 @@ Cle Sarxd, Ks,
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

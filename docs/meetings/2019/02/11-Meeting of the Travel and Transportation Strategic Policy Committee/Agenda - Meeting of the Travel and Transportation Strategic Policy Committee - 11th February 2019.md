@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 11th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/11th%20Feb%202019%20-%20Agenda%20Travel%20%26%20Transportation%20Strategic%20Policy%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -51,7 +51,7 @@ PHYSICAL DEVELOPMENT DIRECTORATE
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -74,5 +74,5 @@ McAuliffe
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

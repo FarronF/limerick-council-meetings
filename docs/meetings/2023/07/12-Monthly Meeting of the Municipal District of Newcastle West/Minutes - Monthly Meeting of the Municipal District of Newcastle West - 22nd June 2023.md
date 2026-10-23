@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01%28a%29Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ Circulated, copy of draft Minutes of Special Meeting of Municipal District of
 
 Newcastle West, held on 19th May, 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 €1,000 to Mountcollins Development Association.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Limerick City and County Council will seek quotations for a new 75m long x
 
 1.2m wide concrete footpath located at the western boundary of the Council
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ ownership of the land involved and sourcing of finance to carry out the works
 
 should it be feasible to do same.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ for these works and are due to commence in August 2023.
 
 The Motion was seconded by Councillor Scanlan.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ An update was sought on the request to have the new playground and car park in T
 
 insured under the Council’s portfolio. In replying, the Meetings Administrator stated that a
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ and assistance during his term as Cathaoirleach. The Director, on behalf of Mana
 
 Staff thanked the Cathaoirleach for his assistance during the year.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -568,5 +568,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

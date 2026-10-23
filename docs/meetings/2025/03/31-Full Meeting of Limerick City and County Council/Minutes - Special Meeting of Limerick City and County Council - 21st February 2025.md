@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 21st February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-21st-february-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -84,7 +84,7 @@ of the DACs, the governance, the key milestones achieved to date, and informed t
 
 of what the potential was for these DACs.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -144,7 +144,7 @@ especially Office of Public Works building;
 
 and County Council.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -214,7 +214,7 @@ The Mayor advised the Members what the next steps were and these included:
 
  Set-up of shareholder management unit in Limerick City and County Council;
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -284,7 +284,7 @@ Directors’ duties should be drafted, which would include decisions on whether 
 
 meetings should be shared to the Elected Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -348,7 +348,7 @@ the potential for moving forward. Some Members still expressed their concern at 
 
 possibility that Elected Members would no longer sit on the boards, stressing the local
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -424,7 +424,7 @@ and County Council;
 
 from staff and the board. A detailed work programme outlining the company’s
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -482,5 +482,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Meeting of the Home and Social Development Strategic Policy Committee - 9th October2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-home-and-social-strategic-policy-committee-9th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -98,7 +98,7 @@ meetings.
 
 Cllr. Sarah Kiely and Cllr. Stephen Keary asked for clarification regarding SMART Housing in relation
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ guidance is announced for 2026 that this item will be brought back to the SPC me
 
 how to spend that allocation.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ A history of no rent arrears
 
 No history of anti-social behaviour
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ opportunities for cost-rental, or cooperative models of development; (iv) Removi
 
 zoning barriers where appropriate for the construction of student housing”.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -376,5 +376,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

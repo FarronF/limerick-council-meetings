@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda and Notice - Travel and Transportation SPC - 9th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20and%20Notice%20-%20Travel%20and%20Transportation%20SPC%20-%209th%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **3rd** **October, 2017**
 
@@ -50,7 +50,7 @@ agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -84,5 +84,5 @@ Ireland urging it to amend signage on the M7 at Junction 28 - Northbound - and J
 
 **5.Presentation on the Limerick Cycling Network Strategy**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

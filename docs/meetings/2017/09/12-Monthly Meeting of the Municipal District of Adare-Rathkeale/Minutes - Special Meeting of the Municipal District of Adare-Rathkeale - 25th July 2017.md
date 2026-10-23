@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 25th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20%28b%29%20Minutes%20-%20Special%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2025th%20July%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -94,7 +94,7 @@ Members:
 
 engaged with the Facilitator.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Following discussion it was agreed that this item would be discussed further at 
 
 Meeting of the District at a date and time to be confirmed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -192,5 +192,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

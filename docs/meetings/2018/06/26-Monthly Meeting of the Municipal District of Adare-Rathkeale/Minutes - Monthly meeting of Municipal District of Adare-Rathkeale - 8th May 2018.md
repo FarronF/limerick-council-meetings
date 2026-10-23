@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly meeting of Municipal District of Adare-Rathkeale - 8th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28a%29%20Minutes%208th%20May%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ EPA to request Askeaton be treated as a priority case for the installation of a 
 
 scheme.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -150,7 +150,7 @@ The Cathaoirleach welcomed Mr. Ger Carey, Senior Executive Engineer, Mid West Ro
 
 Design Office to the meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,7 +224,7 @@ Adare for housing provision would allow for some serviced sites to be provided t
 
 people who can’t afford the high cost of buidling sites in the area.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -290,7 +290,7 @@ Services, dated 25th April, 2018 setting out an update in relation to pedestrian
 
 controlled crossing for Adare. This report was noted by Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -356,7 +356,7 @@ permission of the Cathaoirleach.
 
 requested traffic counters be placed on the roadway from Lees Cross to Kilatal Road.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -410,5 +410,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

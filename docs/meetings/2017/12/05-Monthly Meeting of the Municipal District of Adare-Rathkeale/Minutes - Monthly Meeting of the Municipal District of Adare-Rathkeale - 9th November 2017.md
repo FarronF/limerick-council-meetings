@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20%28b%29%20Minutes%209th%20November%2C%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ And Resolved:
 
 the amendment outlined above”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ seconded by Councillor O’Donoghue it was agreed that €2,000 be allocated to 
 
 Yacht Club under the GMA 2017.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ update on the incomplete footpath from Kildimo to the Beer Garden Public House. 
 
 report, as circulated was noted by Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ Section 13:
 
 *or repaired by the Council, shall pay the cost of such works to the Council.”*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ requested that this go on the agenda for the next District Meeting.
 
 proposed for Adare had been reduced from 30 to 20.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -462,5 +462,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

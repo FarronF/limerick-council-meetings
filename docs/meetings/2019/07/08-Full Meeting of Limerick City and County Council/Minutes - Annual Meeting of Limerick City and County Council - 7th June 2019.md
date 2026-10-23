@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 7th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28b%29%20Minutes%20Annual%20Meeting%2007.06.2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUALMEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD**
 
@@ -104,7 +104,7 @@ Collins Bar, Dooradoyle
 
 Limerick
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -278,7 +278,7 @@ Corbally, Limerick
 
 **ADDRESS**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -454,7 +454,7 @@ Killeheen, Reens
 
 Ardagh, Co. Limerick
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -634,7 +634,7 @@ Ballyguiltenane, Glin
 
 Co. Limerick
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -708,7 +708,7 @@ Mayor Sheahan recalled as a young boy attending the counts for local elections a
 
 the attendance of his daughter and granddaughter Courtney. Mayor Sheahan spoke of the honour
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -782,7 +782,7 @@ Members congratulated Cllr Teskey on his election as Deputy Mayor and wished him
 
 year ahead.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -872,7 +872,7 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -942,7 +942,7 @@ Councillors Benson, Costelloe, Hartigan, Kilcoyne, Leddin (B), Leddin (J), Secas
 
 Councillors Daly, Carey, O’Brien, O’Donoghue, O’Donovan, Teefy.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1016,7 +1016,7 @@ Seconded by Councillor Sheahan (J);
 
 General Meetings of Irish Public Bodies Mutual Insurances Limited.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1092,7 +1092,7 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), i
 
 this item.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1160,7 +1160,7 @@ On the proposal of Councillor Collins (M), seconded by Councillor Sheahan (J), i
 
 this item.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1240,7 +1240,7 @@ The Meetings Administrator stated that Limerick City and County Council was requ
 
 Members to the Limerick and Clare Education and Training Board. The Grouping System applied
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1306,7 +1306,7 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), i
 
 this item.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1352,5 +1352,5 @@ July Meeting of Limerick City and County Council would be held on 8th July, 2019
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Special Meeting of Limerick City and County Council - 17th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-e-minutes-adjourned-special-meeting-17.06.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE ADJOURNED SPECIAL MEETING OF LIMERICK
 
@@ -76,7 +76,7 @@ The Mayor explained that the purpose of the meeting was to consider proposals ma
 
 Members regarding amendments to the Rural Settlement Strategy Map proposed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 1. **Changes proposed to Chapter 3**
 
@@ -144,7 +144,7 @@ strategy map, and that if the Council is using the 15% commuters to Limerick Cit
 
 include other EDs without justification.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Mayor thanked the Members and staff for their engagement and consideration of the Draft
 
@@ -200,5 +200,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

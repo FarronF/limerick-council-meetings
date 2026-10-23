@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Cultural SPC - 3rd September 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/Agenda%20Cultural%20SPC%203rd%20September%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -94,7 +94,7 @@ Notice of Motion referred from Metropolitan District of Limerick
 
 **Strategic Policy Committee)**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 I call at the next Meeting on Limerick City and County Council to develop an inventory
 
@@ -116,5 +116,5 @@ Any Other Business
 
 **Cultural SPC, Limerick City & County Council**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

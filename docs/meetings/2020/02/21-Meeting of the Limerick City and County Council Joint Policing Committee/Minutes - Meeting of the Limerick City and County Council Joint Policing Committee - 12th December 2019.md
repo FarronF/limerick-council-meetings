@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Limerick City and County Council Joint Policing Committee - 12th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/minutes-limerick-joint-policing-committee-12th-december-2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -108,7 +108,7 @@ Siochana. She stressed the importance of feedback from members of the public and
 
 Garda Siochana cannot do it’s job without community support. She also stated that transparency is
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 very important to ensure the public has confidence in it’s policing system and if there is public
 
@@ -194,7 +194,7 @@ serious incidents is lower than in previous years. Some road accidents can be li
 
 drugs so road policing is particularly important. A Christmas roads campaign would be in progress.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 He added that the number of drug testing is increasing all the time, most of which comes from
 
@@ -298,7 +298,7 @@ Gardaí are committed to policing critical neighbourhoods which require a strong
 
 so that people can live without the fear of crime and the fear of these gangsters and their behaviour.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Commissioner Harris replied to Members queries as follows :
 
@@ -390,7 +390,7 @@ He assured Members that additional Gardaí would be deployed to Limerick for the
 
 period and traffic issues at the Crescent Shopping Centre would be addressed.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 •
 
@@ -466,7 +466,7 @@ on the streets of Limerick City over the Christmas shopping period to ensure tha
 
 about their business without any hassle or fear”.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 As previously mentioned Operation Open City was up and running throughout the city and in
 
@@ -560,7 +560,7 @@ Abbeyfeale Garda Station starting the week of 24th February, 2020.
 
 City centre during the Christmas/New Year period”.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Members asked that more Gardaí be allocated to the Market Quarter to address anti social
 
@@ -628,7 +628,7 @@ Friday, 4th September, 2020
 
 Friday, 6th November, 2020
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 This concluded the Meeting.
 
@@ -638,5 +638,5 @@ Signed : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

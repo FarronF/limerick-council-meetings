@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 22nd October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/Minutes%2022.10.2018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL DEVELOPMENT SPC**
 
@@ -106,7 +106,7 @@ circulated. Director of Service Aoife Duke also presented a summary of the main 
 
 workshop as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Planned Maintenance Programme:
 
@@ -218,7 +218,7 @@ geographical boundaries.
 
 There was general agreement with this objective
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A discussion took place as follows:
 
@@ -370,7 +370,7 @@ November Meeting of Municipal
 
 District of Newcastle West
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 07
 
@@ -436,5 +436,5 @@ The meeting concluded.
 
 **Date of next meeting**: Monday 10th December 2018 at 3.00pm, Corporate Building, Dooradoyle
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

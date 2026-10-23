@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 8th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-08.07.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ TD and Senator for Mayo, and a well-known sports man. Members remembered John as
 
 true gentleman and a great GAA person who was very well respected for all he achieved.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ property at 9, Boherbue, Rathkeale, Co. Limerick, together with map outlining pr
 
 details.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ updates on the matter as it progressed.
 
 The position was noted by the Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ Customer Services dated 3rd July, 2024, enclosing Draft Strategic Policy Committ
 
 Act, 2001, as amended by Section 41 of the Local Government Reform Act, 2014.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,7 +388,7 @@ year - Councillors Sheahan (J), O’Sullivan (O), Kiely, Butler, McSweeney, Doyl
 
 Kilcoyne, Talukder, Slattery, Pond, Hickey-O’Mara, Daly, Donoghue, O’Donovan and Beasley.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -454,7 +454,7 @@ nomination of 4 Members of Limerick City and County Council to the Board of Lime
 
 Strategic Development DAC.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -516,7 +516,7 @@ the Economic Development, Enterprise and Planning Strategic Policy Committee hav
 
 appointed at the Annual Meeting.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -598,7 +598,7 @@ The A/Director, Transportation and Mobility, gave a PowerPoint presentation to t
 
 Members outlining the objectives of the Traffic Calming Policy 2024 as follows:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -668,7 +668,7 @@ was approaching 5.30 p.m. and on the proposed of Councillor Sheahan (J), seconde
 
 Councillor Slattery, Standing Order No. 4 was suspended in order to complete the agenda.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -784,7 +784,7 @@ Licensing
 
 €5,879.00
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -910,7 +910,7 @@ are vacant at the moment and further, have been empty for each of the last 5 yea
 
 5,475
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1032,7 +1032,7 @@ the range of Government subventions available for the delivery of affordable
 
 homes.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1122,7 +1122,7 @@ specific NTE data sets, however this will be built from
 
 relevant data from a variety of publicly available sources.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1204,7 +1204,7 @@ I will ask at the next Meeting of Limerick Council for an update on the use of c
 
 pesticides by Council staff and Council contractors.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1294,7 +1294,7 @@ extreme infestations. However, PPP is essential for the control of Japanese
 
 Knotweed and must be retained as an option.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1368,7 +1368,7 @@ Encourage engagement – live streaming promotes engagement with young
 
 people using mobile technology. Further the webcasting service can include a
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1452,7 +1452,7 @@ Live streaming and recording would involve the processing of personal data of
 
 those attending meetings whose can be seen and heard as well as any
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1528,7 +1528,7 @@ O’Donovan, Ryan (E), Secas. **(10)**
 
 **(0)**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1604,7 +1604,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Sheahan (J), the Mo
 
 was adopted.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1682,7 +1682,7 @@ once the Department have completed their review of the Regulations, a workshop w
 
 arranged in due course to discuss the proposed outcomes with the Elected Members.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1772,7 +1772,7 @@ Housing, Local Government and Heritage, An Post and the Elected Members
 
 to improve the accuracy and integrity of the electoral register.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1834,7 +1834,7 @@ The Register of Orders made by the Mayor or the Director General up to the date 
 
 the Meeting was available on SharePoint for inspection by the Members**.**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1854,5 +1854,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

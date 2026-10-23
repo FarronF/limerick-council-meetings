@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 16th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/161220_minutes_final.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -96,7 +96,7 @@ Cllr. Leddin sought clarification around the Area of Choice Form and the Housing
 
 Form as there is confusion around which form to use when an applicant would like to choose
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 a specific area- matter to be brought to Community Support Services for update at next
 
@@ -168,7 +168,7 @@ Ms. Duke noted that the purpose of this update was to advise that the Turnkey pr
 
 have a more formal internal process.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A discussion took place around this and the main points were:
 
@@ -262,7 +262,7 @@ to carve out a percentage of affordable rental in the Limerick area. Ms. Duke no
 
 percentage mix is being used as a template where the numbers go above and beyond
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 the settlement strategy figures. For example, when developers approach us LCCC is
 
@@ -340,7 +340,7 @@ Ireland and has created the presentation outlining the activities – Anne Rizzo
 
 Friendly Representative.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Ireland is the first country in the world to achieve full age friendly programmes across the 31
 
@@ -408,7 +408,7 @@ SPC to outline the policy – it will be a limited pilot for year one. The succe
 
 will be assessed and it will be rolled out as programme throughout the Local Authorities.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 The Chairperson, Mr. Murphy, also thanked Ms. Newell with her work in achieved in
 
@@ -488,7 +488,7 @@ Ms. Duke noted that there is a slight issue with the Tenant Purchase Scheme that
 
 in some areas.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 It allows a tenant for more than a year to purchase their house at a significant discount
 
@@ -560,7 +560,7 @@ closing date close after Christmas and in particular with Covid-19. Ms. Duke sai
 
 should not be an issue with extending deadline.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 
 
@@ -662,7 +662,7 @@ Anne’s Court as he is anxious that these get over the line. Ms. Duke agreed to
 
 both for next SPC.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 
 
@@ -692,5 +692,5 @@ thanked the members of the executive present and wished all members a very Happy
 
 Christmas.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

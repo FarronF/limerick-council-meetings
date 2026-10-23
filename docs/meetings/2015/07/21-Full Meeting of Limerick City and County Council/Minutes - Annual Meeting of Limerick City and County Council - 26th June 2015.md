@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 26th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2026th%20June%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF
 
@@ -90,7 +90,7 @@ follows:
 
 **wore it with immense pride and honour throughout my term.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ follows:
 
 **I made five overseas visits during the year which I believe all reaped benefits for Limerick.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ follows:
 
 **international student numbers.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ follows:
 
 **with a united front in the best interests of all the people of Limerick.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ County of Limerick for the coming year.
 
 ***office to the next Annual Meeting or until his successor is appointed.”***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -468,7 +468,7 @@ to publicly thank them for that support. He gave a special mention to his wife s
 
 that, as everybody was well aware, the role of a Public Representative was not
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -540,7 +540,7 @@ came from and he now fervently hoped that his home place would be equally proud
 
 of him in his role as Mayor.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ i rith na bliana seo chugainn -
 
 ar son Cathair agus Chontae Luimnigh.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -676,7 +676,7 @@ For Councillor Keller
 
 Councillors Keller, Loftus, Prendiville. **(3)**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -748,7 +748,7 @@ Councillors to deliver for the citizens of Limerick. In his role as Deputy Mayor
 
 looked forward to playing his part in this process.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -838,7 +838,7 @@ Sheahan (K) had himself identified the many highlights of a long year – a year
 
 learning for the new organisation. The Chief Executive said he had found him to be
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -884,5 +884,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

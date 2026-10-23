@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 21st October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/2.-minutes-of-21st-october-municipal-district-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -72,7 +72,7 @@ of Cappamore-Kilmallock held on 2nd September 2021.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Matters Arising:
 
@@ -148,7 +148,7 @@ part of the workshop, or else be further submitted to Irish Water for response. 
 
 workshop would co-incide with a date of a Municipal District Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 4.Covid Restrictions
 
@@ -222,7 +222,7 @@ Please note below the response received from Irish Water. “As part of our Smal
 
 Villages Growth Programme, a project to provide additional treatment capacity and improve
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 compliance at Hospital WWTP was recently announced. This project will now continue
 
@@ -284,7 +284,7 @@ husband of Carmel Fox, formerly of Ballyhoura Development Limited, who passed aw
 
 recently.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Next Meeting
 
@@ -300,5 +300,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

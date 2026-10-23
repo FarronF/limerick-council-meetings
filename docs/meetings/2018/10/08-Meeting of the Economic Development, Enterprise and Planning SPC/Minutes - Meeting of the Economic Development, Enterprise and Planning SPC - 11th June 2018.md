@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 11th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Minutes%20of%20SPC%2011th%20June%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -124,7 +124,7 @@ Members received a presentation on Regional Skills by the Regional Skills Co-
 
 ordinator, Mr. J. Leddin. The presentation covered the following areas;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
  National Context
 
@@ -212,7 +212,7 @@ was a consensus that Limerick needed another hotel to meet rising demand.
 
 **AOB Notice of Motion from Cllr. K. Sheahan**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 With the permission of the Chairperson, the following Notice of Motion was
 
@@ -240,5 +240,5 @@ This concluded the business of the meeting
 
 Chairperson
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

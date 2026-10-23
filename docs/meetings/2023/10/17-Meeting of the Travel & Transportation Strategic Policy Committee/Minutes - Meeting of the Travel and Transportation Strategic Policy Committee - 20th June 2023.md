@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel and Transportation Strategic Policy Committee - 20th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/Minutes-Meeting-of-the-Travel-and-Transportation-Strategic-Policy-Committee-20th-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -70,7 +70,7 @@ Council and An Garda Siochána (AGS), conveying a simple message ‘Think Before
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,7 +146,7 @@ the national broadcaster can be examined. It has yet to be decided what the sign
 
 and where it might go. He reiterated that the Gardaí are fully committed to the campaign.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -218,7 +218,7 @@ times but to no avail. The Adare-Rathkeale area has an immense amount of cul-de-
 
 Pallaskenry, Ballysteen, some with one house and some with 6 houses.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -292,7 +292,7 @@ Cllr. Teskey appreciated the response and the viewpoint but added that he needs 
 
 how to change policy and suggested that tertiary roads should go into a specific budget.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -352,5 +352,5 @@ The Chair thanked the presenters and members for their contribution. The meeting
 
 concluded.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

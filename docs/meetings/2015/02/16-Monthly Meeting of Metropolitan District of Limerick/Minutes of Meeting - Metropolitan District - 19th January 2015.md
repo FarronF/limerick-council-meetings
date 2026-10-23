@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District - 19th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_meeting_19_january_2015_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN
 
@@ -92,7 +92,7 @@ Members noted and approved the disposal of land as set out below :
 
 • Dwelling House situate at 20 Linden Court, Kennedy Park, Limerick City.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3.
 
@@ -174,7 +174,7 @@ partially developed housing development, permitted under planning ref.
 
 construction of 6 commercial units, 7 apartments, 11 No. terraced houses.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 This area would therefore not be suitable to accommodate a car park.
 
@@ -278,7 +278,7 @@ Notice of Motion submitted by Cmhlr. Séighin Ó Ceallaigh
 
 In proposing the motion, Cmhlr. Ó Ceallaigh indicated the importance of the Metropolitan
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 District playing its part in saving historic Moore Street as a key tourist location, the history
 
@@ -362,7 +362,7 @@ distances and also deal with slippery surfaces around the standpipe during icy w
 
 The following points were made by Members during discussion on the motion :
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 • That Irish Water had inherited the current situation including 40% water leakage in
 
@@ -454,7 +454,7 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 
 The motion was proposed by Councillor McCreesh and seconded by Councillor Keller.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 12.
 
@@ -542,7 +542,7 @@ Members noted that rent supplement had originally been intended as a short term 
 
 that had turned into a long term scheme which it was now intended to replace with HAP.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Members noted the substantial budget allocated to the Housing function and requested
 
@@ -620,7 +620,7 @@ amendment to the existing motion and following a vote by show of hands, the Mayo
 
 declared the motion accepted.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 This concluded the Meeting.
 
@@ -630,5 +630,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

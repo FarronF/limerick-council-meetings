@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Adjourned Ordinary Meeting - 23rd March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Adjourned%20Ordinary%20Meeting%20-%2023rd%20March%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -106,7 +106,7 @@ New Members
 
 The Mayor and Members welcomed the newly co-opted Members to the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -198,7 +198,7 @@ Circulated, copy of Statutory Notice dated 1st March, 2016, concerning disposal 
 
 freehold interest in 13 Donnellans Buildings, Rosbrien, Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -274,7 +274,7 @@ Seconded by Councillor Hourigan;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -362,7 +362,7 @@ July Meeting
 
 Monday, 18th July, 2016, at 3pm.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -452,7 +452,7 @@ Councillor John Costelloe was appointed to replace Cmhlr. Séighan Ó Ceallaigh 
 
 Community, Leisure and Emergency Services Strategic Policy Committee.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -536,7 +536,7 @@ Maureen Browne, Step Forward
 
 Disability Group
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -624,7 +624,7 @@ Keary, Leddin, Lynch, Mitchell, O’Donnell, O’Hanlon, Pond, Ryan, Scanlan, Se
 
 (M), Teskey.  **(21)**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **8**
 
@@ -710,7 +710,7 @@ Stakeholder Group of Limerick 2020 first. The remaining vacancies, which would b
 
 majority, would then be dealt with.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **9**
 
@@ -780,7 +780,7 @@ consequent on the death of Councillor Joe Crowley, RIP:
 
  **Limerick Marketing Board.**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **10**
 
@@ -860,7 +860,7 @@ the drive to reduce arrears.
 
 *December 2016 if paid by Direct Debit.*
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **11**
 
@@ -936,7 +936,7 @@ The report recommended to the Council the approval of the Section 183 transfer. 
 
 this regard, copy of Statutory Notice dated 10th March, 2016, concerning the disposal of
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **12**
 
@@ -1010,7 +1010,7 @@ Seconded by Councillor Mitchell;
 
 And Resolved:
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **13**
 
@@ -1086,7 +1086,7 @@ He stated that the ‘asks’ from City and County Councillors were the followin
 
 for the Charter.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **14**
 
@@ -1160,7 +1160,7 @@ agreed that the following Members would attend:
 
 **Dublin:** **Councillors Loftus, O’Hanlon, Hourigan, Lynch.**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **15**
 
@@ -1306,7 +1306,7 @@ up or unoccupied, broken down by Municipal District.
 
 **95**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **16**
 
@@ -1392,7 +1392,7 @@ Internship Scheme. There are currently 47 No. participants employed on the
 
 Gateway Scheme.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 **17**
 
@@ -1460,7 +1460,7 @@ In the absence of Councillor O’Donoghue, it was agreed to defer this Motion to
 
 May Meeting of the Council.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 **18**
 
@@ -1510,5 +1510,5 @@ The Register of Decisions on applications under the Planning and Development Act
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

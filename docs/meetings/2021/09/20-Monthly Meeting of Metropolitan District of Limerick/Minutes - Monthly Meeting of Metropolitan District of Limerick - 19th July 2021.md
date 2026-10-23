@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01a-draft-minutes-monthly-meeting-19th-july-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 
 2021 setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ amended) and Part 8 of the Planning and Development Regulations, 2001 (as amende
 
 noted that it was proposed to proceed in accordance with Section 5 of the report.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ Notices is prohibited under current G.D.P.R. regulations.
 
 The estimated cost of providing CCTV apparatus at taxi ranks where CCTV is not currently
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ activated shortly afterwards.
 
 ***funds, what checks are the Council putting in place to ensure that these pension funds have not***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -434,7 +434,7 @@ In the context of the housing crisis in Limerick, the Long-term Leasing Scheme i
 
 significant and very welcome contribution to social housing waiting lists.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -526,7 +526,7 @@ Councillor O’Sullivan stated that she wished to withdraw this Notice of Motion
 
 **Leisure and Culture Strategic Policy Committee)**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -602,7 +602,7 @@ In proposing the motion, Councillor Kiely expressed concern that funding for Reg
 
 projects was used outside the Regeneration areas.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -672,7 +672,7 @@ Indications so far for 2021 are that licences at year end will be approx. 200 ah
 
 2020 figure.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -712,5 +712,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District of Cappamore-Kilmallock Joint Policing Sub Committee Meeting - 19th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20JPC%20Meeting%2019th%20July%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Limerick City & County Council,**
 
@@ -66,5 +66,5 @@ To discuss policing issues in the District.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

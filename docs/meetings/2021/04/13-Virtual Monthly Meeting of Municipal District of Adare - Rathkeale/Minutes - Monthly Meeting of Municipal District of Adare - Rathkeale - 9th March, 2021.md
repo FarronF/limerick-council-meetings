@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 9th March, 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-a-minutes-of-monthly-meeting-9th-march-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ Circulated, report of the Senior Staff Officer, Housing Support Services, dated 
 
 February, 2021 setting out the position in relation the disposal of 0.046 hectares
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ completed and agreed to discuss findings with the Roads Technician and revert to
 
 Members in due course.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ Transport Infrastructure Ireland for funding and will provide an update at the
 
 April Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -298,7 +298,7 @@ Councillor Teksey and agreed.
 
 **QUESTION**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -380,7 +380,7 @@ networks in Adare, Askeaton, Croom, Foynes and Rathkeale, under the
 
 WiFi4EU initiative. The delivery of these networks has been delayed by the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -456,7 +456,7 @@ request. Furthermore, stencils have also been placed on footpaths.
 
 Stencils are available to all Area Engineers.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -534,7 +534,7 @@ person his name and address and may request that any
 
 information given be verified;
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -610,7 +610,7 @@ Discussion ensued and Members all agreed they would not agree to any further soc
 
 housing development projects for Pallaskenry in the future. The Director, Housing
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -656,5 +656,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

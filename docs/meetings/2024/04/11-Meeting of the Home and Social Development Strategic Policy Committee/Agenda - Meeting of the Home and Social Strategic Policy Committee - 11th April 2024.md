@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home and Social Strategic Policy Committee - 11th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/agenda-meeting-of-the-home-and-social-strategic-policy-committee-11th-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -52,5 +52,5 @@ Martina Brennan replacing Tracy McElligott
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

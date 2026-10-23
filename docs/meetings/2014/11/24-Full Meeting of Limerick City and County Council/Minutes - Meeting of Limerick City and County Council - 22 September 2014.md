@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 22 September 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/3%20minutes_-_meeting_of_limerick_city_and_county_council_-_22_september_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
@@ -102,7 +102,7 @@ Special Meeting of Limerick City and County Council held on 29th August,
 
 2014.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ the fact that each of the Party Leaders had, in turn, spoken at the Meeting.
 
 Both amendments were agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ Circulated, copy of Statutory Notice dated 10th September, 2014, concerning
 
 lease of office space at Lissanalta House, Dooradoyle, Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ additional expenditure over budget for Limerick City Council for financial year
 
 ending 31st December, 2013, including capital transfers.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -490,7 +490,7 @@ Property Management
 
 48,694.71
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -596,7 +596,7 @@ continuous efforts of the staff of the Council in achieving better value for mon
 
 increasing overall efficiencies during challenging times.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -734,7 +734,7 @@ Forward Planning
 
 51,353
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -890,7 +890,7 @@ Circulated, Chief Executive’s report dated 17th September, 2014, seeking the
 
 Council’s approval to seek sanction from the Minister for the Environment,
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -976,7 +976,7 @@ Seconded by Councillor Leddin;
 
 And Resolved:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1060,7 +1060,7 @@ On the proposal of Councillor Collins (M), seconded by Councillor O’Hanlon, it
 
 was agreed to take a 15 minute adjournment.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1140,7 +1140,7 @@ and Local Government, and (ii) Guidelines for Establishment and Operation of
 
 Corporate Policy Groups and Strategic Policy Committees.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1206,7 +1206,7 @@ Councillors Browne, Gilligan, Keller, Loftus, McCreesh, McMahon, Cmhlr Ó
 
 Ceallaigh, Prendiville, Quinlivan, Sheehy.  **(10)**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1282,7 +1282,7 @@ guidelines received for the establishment and operation of Joint Policing
 
 Committees.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1342,7 +1342,7 @@ As earlier agreed, the remaining items on the Agenda were deferred to the
 
 Special Meeting to be held on Tuesday, 30th September.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1370,5 +1370,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

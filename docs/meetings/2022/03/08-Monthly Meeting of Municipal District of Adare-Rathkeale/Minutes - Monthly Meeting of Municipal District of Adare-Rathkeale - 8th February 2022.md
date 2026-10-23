@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 8th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-minutes-of-monthly-meeting-8th-february-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -96,7 +96,7 @@ response agencies throughout the pandemic as part of the ‘whole of
 
 government approach’ at the local and regional level.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ presented at the Community, Leisure and Cultural Strategic Policy Committee
 
 held on the 7th February, 2022.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Councillor Collins, it was agreed to allocate the following:
 
  €3,000 to Croom Development Association.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ complied presently and he agreed to provide an update to Members when this strat
 
 is complete.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ times. Councillor Keary added he had spoken with the Gardaí on a number of
 
 occasions requesting a speed van be placed on this roadway to address speeding
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -464,5 +464,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

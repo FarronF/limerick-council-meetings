@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Ward's Cross - Special Meeting of Limerick City and County Council - 6th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28e%29%20Minutes%20Special%20Meeting%20061117%20-%20Ward%27s%20Cross.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -78,7 +78,7 @@ as follows:
 
 **Scanlan, S. Keary, F. Foley.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,7 +146,7 @@ to write to An Garda Síochána in order to ascertain what reports they had subm
 
 in relation to Ward’s Cross.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -186,5 +186,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-b-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-12th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ of any declaration of interest in any item due for discussion at the Meeting. No
 
 interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ The report, as circulated, was noted by Members.
 
 It was agreed Item 7 on the Agenda would be taken next.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ Engineer, Roads, Traffic and Cleansing advised he would convey this to Traffic
 
 Infrastructure Ireland.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ increase or improvement in usable space as universal public access is
 
 not possible to the upper floor.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,7 +378,7 @@ I located the attached notices which would have been displayed at
 
 Lismakeera in Askeaton in 2014.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -430,13 +430,13 @@ Tel: 01-2680100
 
 (Image omitted)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
 (Image omitted)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -512,7 +512,7 @@ Officer had requested a date for a private workshop be convened regarding
 
 personal security of Elected Members. Members agreed to discuss and revert.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -532,5 +532,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

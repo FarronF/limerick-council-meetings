@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda and Requisition - Special Meeting of Limerick City and County Council - 7th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-and-requisition-special-meeting-limerick-city-and-county-council-07.04.2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,7 +82,7 @@ mm customerservices@limerick ie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -109,5 +109,5 @@ eee UY ee o p
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

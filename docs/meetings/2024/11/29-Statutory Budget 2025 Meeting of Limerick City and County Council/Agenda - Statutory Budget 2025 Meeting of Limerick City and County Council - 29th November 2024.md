@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Statutory Budget 2025 Meeting of Limerick City and County Council - 29th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/00-agenda-budget-meeting-limerick-city-and-county-council-29.11.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -96,7 +96,7 @@ Corporate Headquarters, Merchants Quay, Limerick (063 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -134,5 +134,5 @@ Section 43 of the Local Government Reform Act, 2014 and Local Government
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

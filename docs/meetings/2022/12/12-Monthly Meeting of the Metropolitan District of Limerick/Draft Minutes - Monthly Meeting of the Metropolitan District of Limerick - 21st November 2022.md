@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick - 21st November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/01%20Draft%20Minutes%20Monthly%20Meeting%2021st%20November%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ review. Subject to approval, a 5-year timeframe is envisaged for project deliver
 
 **REPLY**: Within Limerick City and Environs, 2,450 residential units have the benefit of planning
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ paperwork has been submitted payment is issued in the following two weeks in lin
 
 accounts payable payment runs.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ road.
 
 an extension to the Castleconnell playground. It is intended that a Consultant will be
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ v.
 
 **REPLY:** i. In May 2022, Limerick City and County Council applied for 10 posts.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -500,7 +500,7 @@ of available resources. The Council gives additional attention to areas where la
 
 of leaf fall are a regular occurrence.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,7 +582,7 @@ Roche’s St / Shannon St junction. The remainder of the raised and long planter
 
 planted with a variety of bulbs, shrubs and grasses.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -664,7 +664,7 @@ requirement to acquire some lands by CPO. This scheme is managed by Active Trave
 
 ***I will ask at the next meeting of the Metropolitan District of Limerick for an update on the***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -742,7 +742,7 @@ support more cyclists and ensuring the security of their bicycles and equipment.
 
 ***centre and UL and to outline the management plans they have for the canal.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -824,7 +824,7 @@ locations where they could meet with Active Travel so as to make submissions on 
 
  Members agreed that Section 38 could be considered appropriate to use in certain
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -898,7 +898,7 @@ The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor Mc
 
 agreed.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -974,7 +974,7 @@ of transport and that it was important that these facilities complimented what w
 
 by Active Travel.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -994,5 +994,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

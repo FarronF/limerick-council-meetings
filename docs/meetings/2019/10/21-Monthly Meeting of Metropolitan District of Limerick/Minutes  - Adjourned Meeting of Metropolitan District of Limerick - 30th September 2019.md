@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Adjourned Meeting of Metropolitan District of Limerick - 30th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%28b%29%20Minutes%20Adjourned%20Meeting%2030th%20September%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -96,7 +96,7 @@ Councillors Benson, Costelloe, Hartigan and O’Dea.
 
 Councillors Butler, Collins, Daly, Kilcoyne, Leddin (J), McSweeney, Murphy, O’Hanlon,
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Councillors Collins, Hartigan, O’Dea, Slattery and Talukder
 
 (5)
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ Murphy, O’Dea, O’Hanlon, O’Sullivan, Secas, Sheahan, Sheehan, Slattery and
 
 (0)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,5 +288,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Community Leisure and Emergency Services SPC - 2nd December 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%20Leisure%20and%20Emergency%20Services%20SPC%20-%202nd%20December%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
@@ -106,7 +106,7 @@ commitment in his role and that there was no better person to take on this role.
 
 forward to an exciting year and felt it is a great occasion for the country.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Cllr. M. Hourigan queried how existing families will get involved. Mr. Brady informed the
 
@@ -188,7 +188,7 @@ committee’s endorsement of the campaign.
 
 The Chair thanked all involved in this very important work.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A discussion was had amongst the members regarding issues concerning employees with
 
@@ -262,7 +262,7 @@ The Chair thanked everyone for attending and for giving their time to all the sp
 
 meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Minutes Proposed By:
 
@@ -272,5 +272,5 @@ Minutes Signed By Chair:
 
 Date:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Special Meeting of Limerick City & County Council - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_special_meeting_of_limerick_city_county_council_-_15th_december_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
@@ -84,7 +84,7 @@ particular, the Local Authority needed to build on the momentum and climate of
 
 support for culture in Limerick in making a bid for the European Capital of Culture.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -160,7 +160,7 @@ video footage of some events:
 
 • Limerick 2014 and Beyond (2015-2030).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -212,5 +212,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

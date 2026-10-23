@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 28th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20%28a%29%20Minutes%20Council%20Meeting%2028.03.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -102,7 +102,7 @@ Proposed by Councillor Collins (M);
 
 Seconded by Councillor Sheahan (J);
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ land at Killarney Pole to Barnagh, Co. Limerick, to John Geary, The Garage, Kilm
 
 the sum of €9,000, particulars of which were contained in Statutory Notice dated 25th February, 2022.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ Circulated, copy of Statutory Notice dated 14th March, 2022, together with Drawi
 
 No. AG/5070, concerning disposal of 1, Fairhill, Rathkeale, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ Circulated, copy of Statutory Notice dated 14th March, 2022, concerning disposal
 
 property at Woolworth’s Lane, Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -520,7 +520,7 @@ sum of €73,000, particulars of which were contained in Statutory Notice dated 
 
 2022.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -608,7 +608,7 @@ Circulated, copy of Statutory Notice dated 14th March, 2022, concerning disposal
 
 property at Kilmurry, Feenagh, Co. Limerick.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -690,7 +690,7 @@ where concerns were expressed in relation to this proposed disposal. Members had
 
 highlighted that the property was in an important tourist location and the importance of it
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -772,7 +772,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 €1,270 (€127 per unit) – Clúid Housing Association shall be liable for legal and other costs that
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -854,7 +854,7 @@ circulated, be and is hereby adopted.”
 
 Annual Report 2021
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -930,7 +930,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Collins (M), the
 
 Recommendation was agreed.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1004,7 +1004,7 @@ Councillors Benson, Carey, Hartigan, Leddin, Novak Uí Chonchúir, O’Donovan, 
 
 **(7)**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1076,7 +1076,7 @@ On the proposal of Councillor Teskey, seconded by Councillor Sheahan (J), the
 
 Recommendation was ‘that, the increase in burial ground charges be reversed.’
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1156,7 +1156,7 @@ The report was noted by the Council.
 
 **carbon-proofing in any future major transport decisions, programmes and projects**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1228,7 +1228,7 @@ Community Development Committee.
 
 The LCDC Annual Report was noted by the Members.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1306,7 +1306,7 @@ the naming of key infrastructure and the selection of individuals or events that
 
 will be commemorated through the erection of civic monuments or plaques.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1388,7 +1388,7 @@ the Council’s responsibility. It is expected that these properties will be
 
 completed and ready for allocation within a 9-10 month timeframe.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1476,7 +1476,7 @@ Question submitted by Councillor J. Costelloe
 
 ***in Thomond Student Village.***
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1562,7 +1562,7 @@ vaccination centres and planning for a range of responses. Close collaboration
 
 between the agencies of the state has been a key cornerstone as Ireland
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1648,7 +1648,7 @@ implement an electronic process in consultation with stakeholders, namely
 
 Councillors, Local Government Management Agency, Association of Irish Local
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1726,7 +1726,7 @@ The Motion was proposed by Councillor Keary and seconded by Councillor Sheahan
 
 Notice of Motion submitted by Councillor J. Scanlan
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1808,7 +1808,7 @@ elements to look specifically at safety for women and we will explore options
 
 on how to achieve best practice on it and engage with relevant groups.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1880,7 +1880,7 @@ job, and the sense of humour that he brought. They wished him good health and th
 
 best for the future.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1930,5 +1930,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

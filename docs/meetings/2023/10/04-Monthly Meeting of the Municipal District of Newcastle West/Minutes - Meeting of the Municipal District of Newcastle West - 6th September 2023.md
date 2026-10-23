@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 6th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/01-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 replying, Councillor Collins disclosed an interest in one of the Disposals outlined below.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Woodfield as a rat run.
 
 **Proposers:** Councillors Collins, Scanlan
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ the OPR submission. Map included.
 
 Plan from Enterprise and Employment to New Residential.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Following a brief discussion, the Members noted the proposal.
 
 At this stage, Councillor Collins re-joined the Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ Infrastructure Ireland (TII) and are awaiting comments, observations from TII.
 
 with a view to installing a bus shelter (city bound) before the end of 2023.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ Phase 1 will commence upon completion of TII pavement improvement scheme and wil
 
 approximately eight months to complete. Phase 2 of Abbeyfeale Public Realm Scheme
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -582,7 +582,7 @@ Limited
 
 Hazel Avenue, Dromcollogher
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -682,7 +682,7 @@ The 2024/2025 scheme has been advertised where Limerick City and County Council 
 
 expressions of interest from communities/groups to improve Public Roads on which the
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -758,7 +758,7 @@ securely. Section 40 of the Data Protection Act 2018 specifically refers to Elec
 
 Representatives making representations to organisations seeking personal data.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -834,7 +834,7 @@ commence upon completion of TII pavement improvement scheme on N21
 
 and will take approximately eight months to complete.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -906,7 +906,7 @@ liaised with Central Services on this matter and that this laneway may not quali
 
 Improvement Scheme. He also stated that a Local Improvement Scheme will only guarantee
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -982,9 +982,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

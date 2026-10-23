@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Full Meeting of Limerick City and County Council - 30th March, 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/draft-minutes-full-meeting-of-limerick-city-and-county-council-30th-march-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ place earlier in the day.
 
 The Meeting was adjourned for 15 minutes as a mark of respect.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ And Resolved:
 
 2001 (as amended) and Section 211 of the Planning and Development Act, 2000 (as
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ transferred to the property at 6 Aster Court, Keyes Park, Limerick, particulars 
 
 contained in Statutory Notice dated 13th March, 2026.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ within the Contract, particulars of which were contained in Statutory Notice dat
 
 2026”.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -382,7 +382,7 @@ Circulated, Executive Report for the months of January and February 2026.
 
 The Reports were noted by the Council.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -450,7 +450,7 @@ And Resolved:
 
 Committee, as circulated, be and is hereby adopted.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -514,7 +514,7 @@ before the May Meeting of the Council for adoption.
 
 The draft Annual Report 2025 was noted by the Council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -584,7 +584,7 @@ The Local Community Development Committee Annual Report 2025 was noted by the
 
 Members.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -658,7 +658,7 @@ the Council would write to the PPN requesting them to review the geographical
 
 representation.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -734,7 +734,7 @@ Councillors Butler, Collins (M), Ryan (E) and Sheahan.
 
 Councillors Daly, Kiely, Slattery and Stokes.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -804,7 +804,7 @@ held on 12th February, 2026.
 
 The Chairperson’s report was noted by the Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -876,7 +876,7 @@ Event.
 
 The report was noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1022,7 +1022,7 @@ Value of fines issued
 
 €21,860
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1214,7 +1214,7 @@ of Bulky Waste Collections in these areas to encourage householders to dispose o
 
 responsibly and to help prevent litter and waste pollution.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1326,7 +1326,7 @@ and Waste/Litter prevention is contained within the 8 categories included in thi
 
 competition. 57 communities participated in 2025. Judged by National Tidy Towns judges.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1442,7 +1442,7 @@ The arts office is assisting sections in developing artist briefs and commission
 
 processes, within its current capacity, on a case by case basis and on request.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1542,7 +1542,7 @@ Total NoTs received
 
 80
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1722,7 +1722,7 @@ Funding drawn down from the Department to date is €2.5m, the total amount
 
 available under the RRDF grant.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1794,7 +1794,7 @@ Act, and the Dog Breeding Establishments Act, and will take action on cases that
 
 within the scope of these legislative provisions.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1874,7 +1874,7 @@ service advice to be provided if an Elected Member believes they might have a co
 
 of interest.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1950,7 +1950,7 @@ The livestreaming of Council and broadcasting of recordings is not provided for 
 
 Standing Orders.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2026,7 +2026,7 @@ On the proposal of Príomh Chomhairleoir, seconded by Councillor Collins (M) it 
 
 that the Meeting be adjourned to a date in the future.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2054,5 +2054,5 @@ amended, is available on SharePoint for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

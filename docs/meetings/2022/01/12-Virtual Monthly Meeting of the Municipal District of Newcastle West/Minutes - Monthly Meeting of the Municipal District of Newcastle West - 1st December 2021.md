@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 1st December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2021-12-01-minutes-december-.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ Community Childcare Facility CLG. The Deputation consisted of Ms. Mary Lee Geary
 
 Mike Boyce.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ wish to hold a workshop with the Newcastle West Councillors on the 8th December 
 
 Broadford Development at Nunan’s Corner could be raised at this.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ funeral home in Athea. Once these renovations are complete, footpath repairs wil
 
 carried out subject to the availability of funding.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ This request will be considered under the Roads Programme of Works for
 
 2022.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -432,7 +432,7 @@ Kilmeedy
 
 19
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ local authority (whichever is less). This grant can go towards the total cost of
 
 including the VAT.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -541,7 +541,7 @@ than €60,000, after the disregards and deductions are applied.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -613,7 +613,7 @@ have to agree to this and there would be a cost to them if this solution was to 
 
 ***Abbeyfeale (Kilmorna Junction).***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -675,7 +675,7 @@ The Motion was seconded by Councillor Sheahan.
 
 REPLY:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -745,7 +745,7 @@ for the Municipal District of Newcastle West is to take place on Wednesday, 8th 
 
 2021.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -781,5 +781,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Municipal District of Newcastle West - 7th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Draft%20Minutes%20-%20Municipal%20District%20of%20Newcastle%20West%20-%207th%20October%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -96,7 +96,7 @@ and 18 submissions had been received. Following a review of the submissions the 
 
 was amended. He outlined that the main changes to the Socio Economic Statement and
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Question submitted by Councillor L. Galvin
 
 ***locations:***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -270,7 +270,7 @@ Meeting to be arranged on site with relevant persons by Roads Engineer
 
 in order to investigate this matter.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ Council and therefore the Council are not in a position to carry out works
 
 in this case.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,5 +404,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

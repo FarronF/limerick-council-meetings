@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home & Social Development Strategic Policy Committee - 20th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/20102021_final_spc_minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -92,7 +92,7 @@ for Housing.
 
 **Item 1: Confirm minutes from meeting held on 16th** **June 2021**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Proposed:** Cllr. Stephen Keary
 
@@ -160,7 +160,7 @@ homes, which must be achieving 25% below the market rent. Ms. Newell
 
 noted that this is primarily focused on cities.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 b. The Local Authority Affordable Purchase Scheme – Ms. Newell noted the five
 
@@ -236,7 +236,7 @@ c. Ms. Newell shared summary of overall National targets under the plan until
 
 **4.Addressing Vacancy and Efficient Use of Existing Stock -**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 a. Ms. Newell noted the importance of the ‘Croí Cónaithe (Towns) Fund’ for
 
@@ -316,7 +316,7 @@ development for 31 units in Adare is sitting at and flagged lack of progress. Cl
 
 Keary asked about the status of sale for land block attached to Adare scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
  Ms. Newell outlined targets to SPC members for the next five years. Ms. Newell
 
@@ -388,7 +388,7 @@ asked for his Notice of Motion to be deferred to our next Home and Social SPC.
 
 **Item 6: AOB**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
  Cllr. Benson flagged that she is receiving communication from Home Improvement
 
@@ -470,7 +470,7 @@ individual cases and noted the processes are there and they adhere to them.
 
  Mr. O Grady agreed with Cllr. Kiely’s point on AHBs and anti-social behaviour.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **Proposal to write to the Minister for Housing requesting a review of the maximum**
 
@@ -488,5 +488,5 @@ The Chair thanked everyone for joining the meeting and advised the next SPC is t
 
 December 2021.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

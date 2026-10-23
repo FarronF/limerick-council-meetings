@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Statutory Budget Meeting of Limerick City and County Council - 26th November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/00-agenda-budget-meeting-26.11.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -86,7 +86,7 @@ Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -126,5 +126,5 @@ Reform Act, 2014, subject to finances available.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

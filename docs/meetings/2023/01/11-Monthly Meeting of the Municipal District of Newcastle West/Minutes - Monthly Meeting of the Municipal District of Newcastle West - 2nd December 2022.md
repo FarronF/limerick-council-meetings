@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%202nd%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Seconded by: Councillor Foley
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ Municipal District Roads Staff with regard to traffic calming in the area.
 
 The report was proposed by Councillor Collins, seconded by Councillor Foley and agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ the revised Square layout configuration for festivals following discussion with 
 
 Group.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Foley, it was agree
 
 €1,000 to Templeglantine Defibrillator.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -406,7 +406,7 @@ Question submitted by Councillor T. Ruddle
 
 ***the cobbles. It looks very unsightly and makes the town look neglected.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ NOTICES OF MOTION
 
 16. Notice of Motion submitted by Councillor L. Galvin
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ place.
 
 The Motion was seconded by Councillor Collins.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,7 +652,7 @@ will be drawn up for this junction.
 
 The Motion was seconded by Councillor Foley.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -724,7 +724,7 @@ representations may be made in writing no later than 4.00 p.m., on Tuesday, 3rd 
 
 Transport Authority for funding for pedestrian crossing and footpath upgrade in Kilmeedy.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -800,9 +800,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

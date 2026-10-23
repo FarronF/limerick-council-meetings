@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda for Special Meeting of Limerick City and County Council 23rd March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%2023rd%20March%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **18th** **March, 2015.**
 
@@ -72,7 +72,7 @@ Fixing of Date
 
 To consider re-fixing date of Annual Meeting to Friday, 26th June, 2015.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ the Year Ended 31st December, 2013.
 
 Limerick County Council Statutory Audit Report 2013.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ To note the Local Community Development Committee Annual Report
 
 (Report Enclosed)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ France.
 
 (Report Enclosed)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ Conference “EU Support Programmes for Irish Regions” held in
 
 Carlingford, Co. Louth, from 27th February to 1st March, 2015.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ extensions, and (f) in the case of those without bonds, what action is being
 
 taken to procure funding required to complete these developments.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -556,7 +556,7 @@ the Voluntary Health Insurance (VHI) give its full support to the proposal to
 
 have a Private Community Hospital built at the Dock Road, Limerick.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -624,7 +624,7 @@ the Ministers for Agriculture and Finance to reinstate the Early Retirement
 
 Scheme and Installation Grant for our Farming Communities.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -698,5 +698,5 @@ Committee)
 
 (Copy of Correspondence Enclosed)
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

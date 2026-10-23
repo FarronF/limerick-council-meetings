@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-draft-minutes-monthly-meeting-21st-september-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Circulated, report of the Senior Staff Officer, Housing Support Services dated 2
 
 dwelling house situate at 40 Kilmurry Road, Garryowen, Limerick and the intention to bring
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ details in relation to the extension to ENGINE, Cecil Street, Limerick. The repo
 
 in accordance with Section 179 3(a) of the Planning and Development Act 2000 (as amended) and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ Parking fine income January to June 2020 = €170,155
 
 It was agreed to refer this item to the Joint Policing Committee.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -396,7 +396,7 @@ and as such, we do not have information on their operations or employee data.
 
 ***made so far.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ housing is the primary use and therefore would be acceptable in principle. The i
 
 and availability of local education places for primary and secondary education has been dealt at an
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -572,7 +572,7 @@ will be amended to facilitate live streaming.
 
 ***Covid plans.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,7 +652,7 @@ It was agreed to refer this Notice of Motion to the Economic Development, Enterp
 
 Strategic Policy Committee.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -794,7 +794,7 @@ Southill
 
 12
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1136,7 +1136,7 @@ LIMEERICK
 
 11
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1498,7 +1498,7 @@ Policy Committee.
 
 ***I will move at the next Meeting of the Metropolitan District of Limerick that this Council moves***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1574,7 +1574,7 @@ pandemic as it is a disincentive to follow health guidelines.
 
 ***accommodation and cancel the plans to turn single occupancy rooms into twin (shared) rooms***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1652,7 +1652,7 @@ more important to highlight that recovery is possible.
 
 to support charity events. Some of the requests granted over the last year include :
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1710,5 +1710,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

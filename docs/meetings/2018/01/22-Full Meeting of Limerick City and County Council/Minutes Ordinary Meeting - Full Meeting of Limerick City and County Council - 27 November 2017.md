@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Ordinary Meeting - Full Meeting of Limerick City and County Council - 27 November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%20%28a%29%20Minutes%20Ordinary%20Meeting%20%20271117.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -98,7 +98,7 @@ to honour Joy Neville, in accordance with Section 74 of the Local Government Act
 
 amended.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -196,7 +196,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -280,7 +280,7 @@ County Council in the property, particulars of which were contained in Statutory
 
 dated 12th October, 2017.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -364,7 +364,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -444,7 +444,7 @@ Seconded by Cmhlr. Ó Ceallaigh;
 
 vacancy consequent on the resignation of Councillor McMahon from the Committee.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -518,7 +518,7 @@ European Investment Bank in relation to this loan facility and provide all certi
 
 requested.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -596,7 +596,7 @@ Committee, presented an overview of matters discussed at the Meeting and outline
 
 following Recommendations which were agreed at the SPC Meeting:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ Services Strategic Policy Committee dated 16th November, 2017, in relation to
 
 Meeting of the Committee held on 9th November, 2017.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -742,7 +742,7 @@ that it required an Environmental Impact Assessment Report (EIAR), then the Loca
 
 Authority would be required to apply to An Bord Pleanála to proceed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -822,7 +822,7 @@ Ireland’s First Digital City – Towards a Sustainable Smart Limerick City, Re
 
 Communities.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -896,7 +896,7 @@ Development.
 
 • Programme and Project Management.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -974,7 +974,7 @@ She concluded by stating that the closing date for public submissions was 26th J
 
 2018.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1058,7 +1058,7 @@ Network; and
 
 Sector.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1144,7 +1144,7 @@ necessary to form a Group for the purposes of nominating Members to the Committe
 
 question:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1234,7 +1234,7 @@ Was a staff member sitting on any of the Bodies which had received funding.
 
 Concern was expressed in relation to getting value for money for events.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1324,7 +1324,7 @@ had been brought to the October Meetings of both the Metropolitan District and t
 
 Municipal District of Cappamore-Kilmallock for consideration and discussion.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1404,7 +1404,7 @@ Buttevant, Co. Cork, on 14th October, 2017; (b) National Public Participation Ne
 
 Conference held in Sligo Town on 19th October, 2017; (c) M20 Economic Corridor held in
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1480,7 +1480,7 @@ Meeting/Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1560,7 +1560,7 @@ Question submitted by Cmhlr. S. Ó Ceallaigh
 
 **were re-homed, and how many were put down.**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1700,7 +1700,7 @@ Window seals/hinges in poor condition.
 
 Window restrictors required in upstairs windows (since July 2017).
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1776,7 +1776,7 @@ Question submitted by Councillor C. Prendiville
 
 **planning applications received and their scale this year compared to last year.**
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1856,7 +1856,7 @@ tanks. He concluded by stating that the Council should call on the Department of
 
 to provide grant-aid for any upgrading works.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1928,7 +1928,7 @@ It was agreed to refer this Motion to the Travel and Transportation Strategic Po
 
 Committee.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1986,5 +1986,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 

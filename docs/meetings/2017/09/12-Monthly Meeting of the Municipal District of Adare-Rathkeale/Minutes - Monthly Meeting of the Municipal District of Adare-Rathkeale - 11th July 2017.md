@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 11th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/01%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%2011th%20July%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -92,7 +92,7 @@ Superintendent Tom O’Connor be invited to a Special Meeting of the District to
 
 policing issues.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ McDermott, Project Manager to the Meeting. The Head of Digital Strategy presente
 
 overview of the background, scope and funding for the project and reviewed the detail of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ under discussion and stressed that he would make a public statement of interest 
 
 sale, as discussed, proceed. Councillor O’Brien and McMahon expressed reservations that
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ The Environmental Awareness Officer thanked Members for their suggestions and un
 
 to take same into consideration.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ currently being applied for. The new development if granted will provide a
 
 section of footpath towards the GAA pitch.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ The significant balance of €134,400 is subsidised through Local Roads General
 
 Maintenance.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ W: www.water.ie
 
 The Motion was proposed by Councillor Sheahan and seconded by Councillor O’Brien.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -646,7 +646,7 @@ On the proposal of Councillor Keary, seconded by Councillor Teskey it was agreed
 
 standing orders be suspended to allow for the completion of the Agenda.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -790,7 +790,7 @@ isolators to run the heaters in the large hall.
 
 €1,000
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -864,7 +864,7 @@ mentioned attend.
 
 This concluded the Meeting.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -878,5 +878,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/01%20Minutes%2012th%20April%2C%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ Limerick and the intention to bring to Full Council, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Infrastructure Ireland for review and added no response has been issued by Trans
 
 Infrastructure Ireland to date. Following discussion it was agreed to proceed with the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ On the proposal of Councillor O’Brien, seconded by Councillor O’Donoghue, it
 
 to allocate the following:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ to allocate the following:
 
 **I will ask at the next meeting for an up to date report on sewerage issues in Askeaton.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -382,7 +382,7 @@ this property, as it may require substantial investment, depending on the
 
 option decided upon.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -454,7 +454,7 @@ asked if the Motion would be amended to include the initiative being rolled out 
 
 towns in the Municipal District. Councillor Collins agreed to amend accordingly.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -518,7 +518,7 @@ Community.
 
 Ellen Ranahan in appreciation of a life time as a teacher and principal in Ballysteen.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -546,5 +546,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 2nd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-ii-minutes-special-meeting-02.11.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -82,7 +82,7 @@ next decade for social, affordable and cost rental, private rental and private o
 
 housing, supported by over €4 billion in funding annually.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -164,7 +164,7 @@ location and place typology in accordance with Sustainable Residential Developme
 
 Urban Areas, issued as statutory Guidelines for Planning Authorities in 2009.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -246,7 +246,7 @@ Housing, Local Government & Heritage should be asked to provide a definition of 
 
 Members also wanted clarification as to how the Metropolitan area of Limerick is defined and
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -328,7 +328,7 @@ underway. It remains the case that there is generally a two year period within w
 
 complete the process (with plan reviews that were under way during all or part of an 8-
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -380,5 +380,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

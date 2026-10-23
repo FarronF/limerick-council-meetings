@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 4th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-Minutes-Meeting-of-the-Municipal-District-of-Newcastle-West-4th-October-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -108,7 +108,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Planning, Environment and Place-Making Directorate
 
 Taking in Charge of Estates – Declaration of Roads to be Public Roads
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Ruddle, it was agre
 
 €1,500 to footpaths in Athea.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Limerick City and County Council has engaged the services of CES Ltd, who has ca
 
 extensive power cleansing of the surface water network in Kilmeedy, Newcastle West and
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ for the Members at the Annual Budget Meeting.
 
 In proposing the Motion, Councillor Scanlan requested that funding be provided for Christmas
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ one in Doonakenna. Both of these supervisors have crews operating out of these l
 
 Any additions to these bases would have staffing and financial implications that would need
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ stated that both schemes are sub-threshold for mandatory EIAR (Environmental Imp
 
 Assessment Report) and that following contact and recommendation from Limerick City and
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -624,7 +624,7 @@ and to an application made to the ESB with regard to this matter. In replying, t
 
 agreed to liaise with the ESB to get this issue resolved as soon as possible.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -698,9 +698,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

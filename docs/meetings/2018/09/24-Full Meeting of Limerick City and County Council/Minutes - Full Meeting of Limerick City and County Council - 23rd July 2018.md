@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01Minutes%20-%20July%202018%20Council%20Meeting%20v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ Votes of Sympathy
 
 Sympathy was extended to the following on their recent bereavements:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ College lands and the newly constructed schools, particulars of which were conta
 
 Statutory Notice dated 28th June, 2018.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ place in favour of the Lessees, particulars of which were contained in Statutory
 
 28th June, 2018.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ to be by way of Deed of Conveyance of the interest of Limerick City and County C
 
 the property, particulars of which were contained in Statutory Notice dated 5th July, 2018.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ And Resolved:
 
 adopted.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ Policy Committee consequent on the resignation of Cmhlr. Ó Ceallaigh as Chairpe
 
 Committee.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ July, 2018, setting out Schedule of proposed dates for Strategic Policy Committe
 
 up to May 2019.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ On the proposal of Councillor O’Donnell, seconded by Councillor Galvin,
 
 Recommendation No. 2 was agreed.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -692,7 +692,7 @@ On the proposal of Councillor Sheahan (K), seconded by Councillor Ryan,
 
 Recommendation No. 2 was agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -768,7 +768,7 @@ Recommendations which were agreed at the SPC Meeting:
 
 **approval.”**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -842,7 +842,7 @@ Town).
 
 2018 (Freemount, Mitchelstown).”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -920,7 +920,7 @@ on the proposal of Councillor Sheahan (J), seconded by Councillor Collins (M), S
 
 Orders were suspended in order to complete the Agenda.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1008,7 +1008,7 @@ Seconded by Cmhlr. Ó Ceallaigh;
 
 And Resolved:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1086,7 +1086,7 @@ prior to the Meeting and the Questions were therefore considered as having been 
 
 with:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1178,7 +1178,7 @@ continue advancing this important road scheme. The timelines for this
 
 scheme are dependent on the completion of design work and environmental
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1312,7 +1312,7 @@ Leases
 
 **1,365**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1380,7 +1380,7 @@ It was agreed to refer this Motion to the Economic Development, Enterprise and
 
 Planning Strategic Policy Committee.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1442,5 +1442,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

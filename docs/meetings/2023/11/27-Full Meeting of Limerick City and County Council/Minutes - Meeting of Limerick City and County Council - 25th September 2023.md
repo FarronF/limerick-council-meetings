@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 25th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-i-Minutes-Meeting-of-Limerick-City-and-County-Council-25th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -94,7 +94,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ of the Committee held on 10th July, 2023.
 
 The report was noted by the Council.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -586,7 +586,7 @@ Transportation and Mobility Directorate, dated 2nd August, 2023, enclosing copy 
 
 Limerick City and County Council Road Traffic (30 km/h Special Speed Limit) Bye-Laws 2023.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,7 +656,7 @@ The Motion was proposed by Councillor Benson, seconded by Councillor O’Donovan
 
 and adopted.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -728,7 +728,7 @@ Replies to the following Questions on the agenda were circulated to all Members 
 
 to the Meeting and the Questions were therefore taken as having been dealt with:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -814,7 +814,7 @@ measures, examples are:
 
  Childers Road Multi-Modal Orbital Corridor.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -894,7 +894,7 @@ Administrative Executive, on 5th September, 2023, stating the following:
 
 *a further period.*
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -972,7 +972,7 @@ Question submitted by Councillor S. Benson
 
 **Greenway towards Bunratty.**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1048,7 +1048,7 @@ Sheahan, A. Teskey
 
 The Motion was proposed by Councillor Keary and seconded by Councillor Collins (B).
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1126,7 +1126,7 @@ the contractor and the applicant and Limerick City and County Council has no
 
 liability.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1196,7 +1196,7 @@ Notice of Motion submitted by Councillor S. Benson
 
 It was noted that this Motion had already been dealt with earlier in the Meeting.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1256,7 +1256,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 was available on SharePoint for inspection by the Members.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1276,5 +1276,5 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 

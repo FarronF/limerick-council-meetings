@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Housing Action Plan - Special Meeting of Limerick City and County Council - 6th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28d%29%20Minutes%20Housing%20Action%20Plan%20061117.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -78,7 +78,7 @@ time for discussion and accordingly it was agreed to hold a Special Meeting to d
 
 Housing Action Plan.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -140,7 +140,7 @@ Affordability and the demand for large-scale renting needed to be addressed.
 
 was raised.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -200,7 +200,7 @@ programme for trades and crafts in the Council.
 
 people who did not qualify for housing supports.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -264,7 +264,7 @@ approval to proceed with the sites was given by the Department.
 
 endeavour to inform local Public Representatives of projects involving AHBs.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -330,7 +330,7 @@ ownership.
 
 • A new national affordable housing scheme was being developed at a national level.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -398,7 +398,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -422,5 +422,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

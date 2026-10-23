@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community, Leisure, Arts, Heritage and Culture Strategic Policy Committee - 14th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-community-leisure-arts-heritage-and-culture-strategic-policy-committee-14th-may-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -73,7 +73,7 @@ Ms. Amy Hanna, Assistant Staff Officer
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -138,7 +138,7 @@ Laws were brought back to the Council for approval.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -202,7 +202,7 @@ other like in Galway assigned for street performance.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -239,5 +239,5 @@ Minutes Signed By Chair: _7 4s K. he “y Date: Wa Yeh f As
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

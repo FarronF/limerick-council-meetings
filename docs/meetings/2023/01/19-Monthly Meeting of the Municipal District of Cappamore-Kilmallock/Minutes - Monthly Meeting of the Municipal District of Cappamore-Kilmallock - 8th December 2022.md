@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 8th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%208th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -86,7 +86,7 @@ Cappamore-Kilmallock held on 17th November, 2022.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising:
 
@@ -156,7 +156,7 @@ construction at the end Q2 2023.
 
 maintenance section.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  The Senior Engineer also outlined a plan to set up a unit specifically for turning
 
@@ -230,7 +230,7 @@ The Senior Engineer agreed to return to the February meeting of the Municipal Di
 
 an update on the 14 voids.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 6.Notice of Motion submitted by Councillor Carey
 
@@ -286,7 +286,7 @@ Subject to funding availability, the rollout of further EV charging points in th
 
 follow in line with the strategy's rollout policy, with locations to be agreed at that stage.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 8.Question submitted by Councillor Teefy
 
@@ -344,7 +344,7 @@ c) The Minister approved these requests and made regulations under Statutory Ins
 
 No’s 362/1991, 59/2004, 813/2005, and 154/2015.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 10.
 
@@ -424,7 +424,7 @@ and refurbishment. The remaining 3 are due for inspection.
 
 **The Questions were taken as read**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 12.
 
@@ -474,7 +474,7 @@ the Meetings Administrator prior to being brought to the Elected Members.
 
 The above were approved subject to written correspondence being received.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **Votes of Sympathy**
 
@@ -504,5 +504,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

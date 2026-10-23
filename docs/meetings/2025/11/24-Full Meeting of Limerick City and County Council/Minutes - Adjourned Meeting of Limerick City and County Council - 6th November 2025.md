@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Meeting of Limerick City and County Council - 6th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-adjourned-meeting-of-limerick-city-and-county-council-6th-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF LIMERICK
 
@@ -88,7 +88,7 @@ Meeting was adjourned for ten minutes.
 
 On resumption of the Meeting, the Members raised the issue of conduct at meetings.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 On the proposal of the Mayor and seconded by Councillor Benson the Meeting was adjourned
 
@@ -116,5 +116,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

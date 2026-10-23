@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-d-Minutes-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ and signed by a number of Members as follows:
 
 **Signed: Councillors Benson, Carey, Collopy, O’Donovan, Ryan (E), Scanlan**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 The motion was proposed by Councillor Benson and seconded by Councillor Collopy.
 
@@ -140,7 +140,7 @@ reporting it, and pointed out these people are not included in the report on hom
 
 figures.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Director of Housing thanked the Members for their questions and confirmed that the
 
@@ -172,5 +172,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

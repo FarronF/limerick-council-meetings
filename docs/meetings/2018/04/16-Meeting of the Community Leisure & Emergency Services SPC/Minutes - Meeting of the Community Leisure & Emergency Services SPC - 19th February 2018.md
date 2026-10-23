@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 19th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/Item%201%20Minutes%20of%2019th%20Feb%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 A meeting of the Community, Leisure and Emergency Services Strategic Policy Committee
 
@@ -96,7 +96,7 @@ and that “accessibility for all” will now be embedded in all policy document
 
 **COMMITTEE**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3:**
 
@@ -172,5 +172,5 @@ Minutes Seconded By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Minutes Signed By Chair: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

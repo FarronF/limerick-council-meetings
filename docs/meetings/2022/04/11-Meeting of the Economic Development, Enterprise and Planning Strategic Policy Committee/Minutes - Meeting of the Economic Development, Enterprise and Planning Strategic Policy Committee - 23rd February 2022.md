@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 23rd February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/minutes-of-spc-mtg-23rd-feb-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -92,7 +92,7 @@ refer their concerns regarding the maintenance of playgrounds to the Community, 
 
 Culture Directorate, who dealt with this matter.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3**
 
@@ -180,7 +180,7 @@ Engine Collaboration Centre, the Future Mobility Campus in Shannon and the Natio
 
 Campus in Co. Tipperary.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 While members welcomed the presentation and commended the level of collaboration between the
 
@@ -250,5 +250,5 @@ That concluded the business of the meeting.
 
 **Deputy Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

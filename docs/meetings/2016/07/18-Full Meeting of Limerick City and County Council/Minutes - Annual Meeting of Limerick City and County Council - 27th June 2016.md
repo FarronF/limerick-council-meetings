@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 27th June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Annual%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2027th%20June%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF
 
@@ -100,7 +100,7 @@ The outgoing Mayor, Councillor Galvin, opened the Meeting by giving the followin
 
 **initiatives such as Team Limerick Cleanup, Pride of Place and Tidy Towns.** **It**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -196,7 +196,7 @@ The outgoing Mayor, Councillor Galvin, opened the Meeting by giving the followin
 
 **year.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ O’Hanlon, Pond, Ryan, Scanlan, Secas, Sheahan (J), Sheahan (K), Sheahan (M), T
 
 (29**)**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 
 ***seemed to be no hope at all. ‘***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -436,7 +436,7 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 
 **Limerick is felt in every corner of our proud County. In addition to being on the**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -538,7 +538,7 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 
 **fellow Councillors on behalf of the local authority that will also include**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -634,7 +634,7 @@ The incoming Mayor, Councillor O’Hanlon, gave the following address to the Mee
 
 **economic prosperity.”**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -688,7 +688,7 @@ For Councillor Keller
 
 Councillors Keller, Loftus, Prendiville. (3)
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -762,7 +762,7 @@ In conclusion, he thanked the outgoing Mayor and Deputy Mayor and Cathaoirligh a
 
 Chathaoirligh for the work in their respective Metropolitan and Municipal Districts.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -812,5 +812,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

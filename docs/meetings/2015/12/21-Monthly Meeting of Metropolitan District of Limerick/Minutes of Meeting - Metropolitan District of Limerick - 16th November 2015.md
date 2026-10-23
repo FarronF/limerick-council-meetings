@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Metropolitan District of Limerick - 16th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2016th%20November%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -96,7 +96,7 @@ O’Dea, O’Hanlon and Secas
 
 **(13)**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ site on Upper Gerald Griffin Street that had trees growing from same and asked t
 
 addressed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -270,7 +270,7 @@ response to same.
 
 ***I will move at the next meeting that all representative bodies that work in the city centre are***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -352,7 +352,7 @@ structure of any committee and it was agreed that the matter would be referred t
 
 The motion was proposed by Councillor Crowley and seconded by Councillor Daly.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -454,7 +454,7 @@ conjunction
 
 with the Council’s Capital Works Department, designs are being considered for
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -536,7 +536,7 @@ following additional points were raised during discussion on same:
 
 meetings.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -628,7 +628,7 @@ approval in principle.
 
 All AHB’s have responsibility for the delivery of the approved projects and have to
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -710,7 +710,7 @@ resolve this issue which had already been discussed in detail at the operational
 
 asked that these proposals be discussed with local residents.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -760,5 +760,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

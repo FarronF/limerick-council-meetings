@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Special Meeting of Limerick City and County Council - 11th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-e-minutes-special-meeting-11.03.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ teams would connect with Local Authorities and coordinate to achieve results in 
 
 three years.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Elected Mayor for Limerick. Minister Ryan agreed that Ireland is a mosaic and ru
 
 need to be incentivised to restore biodiversity and develop clear water where appropriate.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -204,5 +204,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

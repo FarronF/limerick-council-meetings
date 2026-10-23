@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 8th September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-special-meeting-of-limerick-city-and-county-council-8th-september-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -82,7 +82,7 @@ relation to the N/M20 Cork to Limerick Project:
 
 ***solutions for the Attyflin Junction 5 and the proposed Croom Junctions**.”***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -168,7 +168,7 @@ existing N20 and R526 at Attyflin to the M20/M21 motorway network. This addition
 
 would be for M20 /M21 motorway journeys to and from destinations around Attyflin Junction.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -240,7 +240,7 @@ The decision to select a motorway road type for the N/M20 project was announced 
 
 2024 project update. A comparative analysis considered four different forms of divided
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -342,7 +342,7 @@ A timeline for a possible solution to the junctions and for submission of planni
 
 requested.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -400,5 +400,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

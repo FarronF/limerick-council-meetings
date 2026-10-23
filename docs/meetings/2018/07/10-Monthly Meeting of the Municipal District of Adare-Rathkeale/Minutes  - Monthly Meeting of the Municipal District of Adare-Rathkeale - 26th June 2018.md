@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of the Municipal District of Adare-Rathkeale - 26th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20%28b%29%20Minutes%20Monthly%20Meeting%2026th%20June%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ Councillor Teskey it was agreed this request be forwarded for the Environment
 
 Departement for the inclusion on the Agenda of the next Environmental SPC Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ June, 2018 setting out the position in relation to the taking in charge of Deel 
 
 Askeaton.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -294,7 +294,7 @@ Services, dated 1st June, 2018 setting out the update on the proposed traffic ca
 
 measures at Kilcornan. The report was noted by Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -362,7 +362,7 @@ investigation is required at the location.
 
 **indigenous small enterprises has not taken place.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -430,7 +430,7 @@ Heritage Centre would like to address Members at the July Meeting. It was agreed
 
 Mr. Gleeson would be taken at 9.00 a.m.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -446,5 +446,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

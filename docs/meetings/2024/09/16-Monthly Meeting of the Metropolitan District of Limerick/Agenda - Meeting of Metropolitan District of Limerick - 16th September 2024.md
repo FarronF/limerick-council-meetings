@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 16th September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/00-agenda-meeting-of-metropolitan-district-of-limerick-16th-september-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -169,7 +169,7 @@ purchased in the Metropolitan District area to enable tenants remain in situ und
 
 Government Scheme since it was launched, and how many are projected for purchase in 2024.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -235,7 +235,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick what pro
 
 made on the taking in charge of the road at the back of Dochas building on Parnell Street.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -305,7 +305,7 @@ housing units are there in the Metropolitan District. What is the average turnar
 
 these back into use and the average cost per house.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -375,7 +375,7 @@ City Transport Plan with reference to the approaches to the city from Pa Healy R
 
 Corbally Road and the timeline for implementation.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -443,7 +443,7 @@ I will move at the next meeting of the Metropolitan District of Limerick that th
 
 letting scheme be extended to the Metropolitan area.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -511,5 +511,5 @@ Limerick City at weekends, so as to increase footfall and business activity in t
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

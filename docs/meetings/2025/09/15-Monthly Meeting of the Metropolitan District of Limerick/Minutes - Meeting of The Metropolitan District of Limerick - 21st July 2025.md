@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of The Metropolitan District of Limerick - 21st July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-meeting-of-the-metropolitan-district-of-limerick-21st-july-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -96,7 +96,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ created.
 
 He also outlined that in the coming months it is intended to launch the national Night Time
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Elected Members that the Place-Making Team collaborated closely with all relevan
 
 within Limerick City and County Council, on the development of the scheme. He further noted that
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ licence rebates.
 
 current breakdown below, as at 11/07/25:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -352,7 +352,7 @@ tenderer.
 
 (Image omitted)
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -424,7 +424,7 @@ retained as part of the Old Cratloe Road Active Travel Scheme.
 
 ***forthcoming ‘August Activations’*** ***throughout the city, the Council plans to increase the provision***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -508,7 +508,7 @@ commencement notice will be advertised in local newspapers and published in *Iri
 
 The bye-laws are available on the Limerick City and County Council website.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -586,7 +586,7 @@ from these fines.
 
 ***detailed and itemised basis.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -718,7 +718,7 @@ Total
 
 ***for No. 58 O’Connell Street, the building formerly occupied by Narrative 4 and now sitting vacant.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -792,7 +792,7 @@ the documentary. She emphasised the need to enact the Adult Safeguarding Bill.
 
 ***with the new 30km limit in the city centre.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -866,7 +866,7 @@ The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor 
 
 and agreed.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -940,7 +940,7 @@ agreed between Limerick City & County Council and any preferred tenderer.
 
 ***We will move at the next meeting of the Metropolitan District of Limerick that we examine the***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1018,7 +1018,7 @@ agreed to revert to Members in this regard.
 
 ***contribution fee for students given the increased financial burden that this will place on students***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1092,7 +1092,7 @@ suspended in order to complete the agenda.
 
 **33.Notice of Motion submitted by Councillor M. Donoghue**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1176,7 +1176,7 @@ ownership, private rental, social-rental, and affordable housing (both affordabl
 
 rental) integrated within the same development.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1258,7 +1258,7 @@ Members requested that a Briefing on the Council’s Mixed Tenure Policy would b
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1270,5 +1270,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 

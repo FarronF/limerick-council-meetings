@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West to consider The Abbeyfeale Traffic Management Plan Part VIII - 9th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/00%202018-05-09%20Agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -75,5 +75,5 @@ Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

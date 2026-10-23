@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 3rd August 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%28b%29%202022-08-03%20Minutes%20Special%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
@@ -84,7 +84,7 @@ Seconded by: Councillor Ruddle
 
 *Newcastle West to hold office to the next Annual Meeting or until his successor is appointed”.*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ The condition of the road surface on a section of the N21 Devon Road, Templeglan
 
 raised. In replying, the Senior Executive Engineer agreed to follow up on this matter.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -188,9 +188,9 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

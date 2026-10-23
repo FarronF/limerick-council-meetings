@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 7th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-7th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ Following a brief discussion, the report was proposed by Councillor Galvin, seco
 
 Councillor Foley and agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ On the proposal of Councillor Foley, seconded by Councillor Ruddle, it was agree
 
 €1,000 to Meenkilly National School for defibrillator.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ access issues for future maintenance if a light is to be placed on the ESB pole.
 
 Alternative solutions are being investigated in the vicinity of the ESB pole.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ Question submitted by Councillor F. Foley
 
 ***Lyons Cross, Kilmorna Road, Abbeyfeale.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -452,7 +452,7 @@ Footpath replacement works are due to commence within the first quarter of
 
 2024 at Castlemahon Graveyard.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -524,7 +524,7 @@ and forward to TII for inclusion under the Minor Maintenance Pavement
 
 Programme.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -592,7 +592,7 @@ renewed between Moanroe and Broadford in the interest of safety.
 
 The Motion was seconded by Councillor Galvin.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -670,7 +670,7 @@ The repair of manhole covers in New Street, Abbeyfeale, outside the Pharmacy on 
 
 Killarney Road and in front of the National School in Abbeyfeale was raised. In replying, the
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -700,5 +700,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

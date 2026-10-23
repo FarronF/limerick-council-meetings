@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 17th  June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28c%29-Minutes-Special-Meeting-17-06-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -102,7 +102,7 @@ will grow our population by almost 50,000 additional people, and provide almost 
 
 new homes and create significant additional employment growth in Limerick by 2028.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ make a proposed Development Plan only after having determined that it shall not 
 
 integrity of a European site. She confirmed that the Chief Executive had issued this
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ The Modification proposed by Councillor Slattery, seconded by Councillor Daly wa
 
 **as summarised below.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ approved.
 
 Gaelcholaiste.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ not be facilitated.
 
 and schools are vulnerable uses, which require a Justification Test. The site adjoins the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ relation to flood risk in respect of any future planning application, further st
 
 by the minor modification proposed as part of this motion.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -576,7 +576,7 @@ unsubstantiated conclusion reached that “Although not suitable for highly vuln
 
 development due to the level of residual risk and the brownfield nature of the site,
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -660,7 +660,7 @@ Councillors Benson, Butler, Carey, Collins (B), Collins (J), Collopy, Daly, Done
 
 Keary, Kiely, Kilcoyne, Leddin, McSweeney, Mitchell, Murphy, O’Dea, O’Hanlon, O’Sullivan, Ruddle,
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -706,5 +706,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

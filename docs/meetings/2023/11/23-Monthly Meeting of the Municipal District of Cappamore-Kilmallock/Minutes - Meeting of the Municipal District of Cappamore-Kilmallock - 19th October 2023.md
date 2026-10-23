@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 19th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/02-Minutes-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-19th-October-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -82,7 +82,7 @@ It was agreed that follow up in relation to the submission to the protocol commi
 
 take place.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Councillor Mitchell advised that contact had been made by the Mayors Office with Mr Joe
 
@@ -140,7 +140,7 @@ Purchase of Freehold: - 2 Crawford Street, Bruff, Co Limerick.
 
 The reports as circulated, were noted by the Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 NOTICES OF MOTION
 
@@ -196,7 +196,7 @@ determine the most appropriate solution and an application will be made to the L
 
 Active Travel office/NTA to fund improvement works under annual Active Travel allocations.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 9. Notice of Motion submitted by Councillor Teefy
 
@@ -254,7 +254,7 @@ Any defects on existing road markings or signage on the R513 between Garyspillan
 
 Ballylanders will be rectified as soon as practicable.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 12. Question submitted by Councillor Donegan
 
@@ -330,7 +330,7 @@ maintained by the local Community Employment Scheme.
 
 o It was requested that the pedestrian crossings are also repainted.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 o A request was made that correspondence be sent to Nora Higgins, Herbertstown, on
 
@@ -396,5 +396,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

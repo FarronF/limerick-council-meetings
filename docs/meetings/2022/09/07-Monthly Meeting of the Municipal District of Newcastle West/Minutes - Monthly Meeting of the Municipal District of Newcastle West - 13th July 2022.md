@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 13th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%28a%29%202022-07-13%20Minutes%20July.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ The Members also sought an update on the unfinished housing estate at Cois na F�
 
 Abbeyfeale. In replying, the Administrative Officer, Housing Strategy outlined that they are
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ On the proposal of Councillor Collins, seconded by Councillor Foley, it was agre
 
 €500 to Old Mill Development Association for a defibrillator.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ Question submitted by Councillor T. Ruddle
 
 ***village very quickly and this would help slow the traffic down.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ The NTA have just allocated €170,000 for the repair and upgrade of footpaths
 
 in Mountcollins and works will commence in the coming months.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ fund the scheme.
 
 The Motion was seconded by Councillor Ruddle.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ town. A request was also made that consultation take place with the Working Grou
 
 has been established locally.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -630,7 +630,7 @@ A request was made that the speed sensor on the Monegea road be moved closer to 
 
 speed limit sign.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -682,5 +682,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

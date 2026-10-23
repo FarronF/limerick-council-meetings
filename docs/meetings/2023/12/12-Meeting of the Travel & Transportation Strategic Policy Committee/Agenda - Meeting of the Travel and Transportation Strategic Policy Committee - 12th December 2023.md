@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 12th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-meeting-of-the-travel-and-transportation-strategic-policy-committee-12th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -71,5 +71,5 @@ Policy Committee held on the 17th October 2023.
 
 **4.Presentation: Control of Car Club/ Car Share Bye Laws -** **John O’Leary, A/S.E.E.**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

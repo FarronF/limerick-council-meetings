@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Proceedings at Inaugural Annual Meeting of Municipal District of Cappamore - Kilmallock - 12th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_proceedings_at_inaugural_annual_meeting_of_municipal_district_of_cappamore-kilmallock_-_thursday_12_june.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT INAUGURAL ANNUAL MEETING OF
 
@@ -100,7 +100,7 @@ Proposed by Councillor Donegan;
 
 Seconded by Councillor Gleeson;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Act, 2014.
 
 Training/Briefing for Members:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -222,5 +222,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

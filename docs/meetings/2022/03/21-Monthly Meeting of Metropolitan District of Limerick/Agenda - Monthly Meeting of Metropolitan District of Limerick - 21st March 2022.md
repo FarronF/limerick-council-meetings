@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of Metropolitan District of Limerick - 21st March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-agenda-meeting-of-the-metropolitan-district-of-limerick-21st-march-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -97,7 +97,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Disposal of Land**
 
@@ -147,7 +147,7 @@ Park are left to complete in the thermal upgrade works and what timescale is env
 
 the works.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -209,7 +209,7 @@ enhancement on the Condell Road, to serve the new and proposed housing developme
 
 as Coonagh and the expansion of the TUS Campus at Coonagh Cross.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -273,7 +273,7 @@ capacity audit of Loughmore Canal and also examine the possibility of installing
 
 culvert pipe at the canal.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -285,5 +285,5 @@ possibility of having a temporary library for the Castletroy/Annacotty community
 
 solution is found for the provision of a library for the area.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

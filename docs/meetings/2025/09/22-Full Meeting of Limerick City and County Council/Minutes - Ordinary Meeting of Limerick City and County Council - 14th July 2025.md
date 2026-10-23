@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 14th July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/minutes-ordinary-meeting-of-limerick-city-and-county-council-14th-july-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -94,7 +94,7 @@ The Mayor confirmed he would engage with the elected members to discuss Local
 
 Property Tax in advance of the meeting to vary the rate.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ Meeting of any declaration of interest in any item due for discussion at the Mee
 
 interests were declared.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Circulated, copy of Statutory Notice dated 2nd July, 2025, concerning disposal o
 
 property at 174 Cliona Park, Moyross, Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 - (i) Lease 999 year – Parcel 5, Opera Square, Limerick (Ground Floor 1,346 m2 approx. and
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,7 +424,7 @@ out important work. He noted that a special meeting was previously held to discu
 
 governance of DACs.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -508,7 +508,7 @@ which was approaching 5.30 p.m. and on the proposal of Councillor O’Donovan, s
 
 Councillor Stokes, Standing Order No. 4 was suspended in order to complete the agenda.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ Strategic Policy Committee Meetings up to June 2026.
 
 The Schedule, as circulated, was noted and agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,7 +652,7 @@ The position was noted by the Council in relation to Recommendation No. 1.
 
 The Draft Plan was noted by the Council.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -738,7 +738,7 @@ update on the grants to the members and to write a letter to the Department rega
 
 Clawback condition.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -800,7 +800,7 @@ Meeting / Event.
 
 The Reports were noted by the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -894,7 +894,7 @@ Show successful case studies of this type of construction achieved in other
 
 jurisdictions closeby - Cardiff, Bristol, London for example - who have been delivering
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -992,7 +992,7 @@ make housing costs more affordable for all and for this important housing and ec
 
 intervention for the benefit of not only the City but the entire Mid-West region.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1072,7 +1072,7 @@ Question submitted by Councillor E. Secas
 
 **Planning Framework, stressing the need to identify deliverable housing sites with access to**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1158,7 +1158,7 @@ Railway (including statutory responsibilities and appointments) are the
 
 responsibility of Irish Rail.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1244,7 +1244,7 @@ x 5, Healthy Relationships Programme, Healthy Plate - Healthy You, Island
 
 Gardens Project, Oak Lodge Community Kitchen, Greenway Wellness Events x
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1326,7 +1326,7 @@ maintain their respective green spaces. There were fifty five grants paid to
 
 date for 2025.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1402,7 +1402,7 @@ Members supported this motion and suggested this could be considered as part of 
 
 Night Time Economy Plan.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1488,7 +1488,7 @@ The Motion was proposed by Councillor Ryan (M) and seconded by Councillor Foley.
 
 It was agreed that the Motion would be forwarded to all Local Authorities for support.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1560,7 +1560,7 @@ The Motion was proposed by Councillor Scanlan and was seconded by Councillor
 
 Hartigan (T).
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1636,7 +1636,7 @@ It was agreed to refer the Motion to the Community, Leisure, Arts, Heritage and
 
 Culture Strategic Policy Committee.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1696,7 +1696,7 @@ The Register of Orders made by the Mayor or the Director General up to the date 
 
 the Meeting was available on sharepoint for inspection by the Members.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1716,5 +1716,5 @@ The Register of Decisions on Applications under the Planning and Development Act
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 

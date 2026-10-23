@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 7th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/minutes-special-meeting-of-limerick-city-and-county-council-7th-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ The Senior Engineer, Local Authority Housing Maintenance, gave a PowerPoint pres
 
 to the Members on housing voids. He informed the Members that within Limerick City and
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -160,7 +160,7 @@ after becoming vacant and asked for clarification on the turn-around time to get
 
 voids back into stock.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -234,7 +234,7 @@ have the capacity within its own budget. He referred to the need for more housin
 
 Limerick must find alternative solutions to this issue. He agreed that some houses were
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -262,5 +262,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

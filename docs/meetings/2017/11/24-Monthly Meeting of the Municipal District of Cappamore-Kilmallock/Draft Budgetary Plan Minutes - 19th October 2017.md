@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Budgetary Plan Minutes - 19th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Cappamore%20Kilmallock%20Draft%20Budgetary%20Plan%20Minutes%202017%20%281%29.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE MUNICIPAL**
 
@@ -116,7 +116,7 @@ Seconded by Councillor Sheehy;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,5 +142,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

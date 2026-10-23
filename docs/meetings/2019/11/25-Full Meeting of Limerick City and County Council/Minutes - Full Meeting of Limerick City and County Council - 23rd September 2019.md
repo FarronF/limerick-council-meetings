@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 23rd September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20%28a%29%20Minutes%20Ordinary%20Meeting%2023.09.19.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -86,7 +86,7 @@ Following further discussion, it was agreed that a briefing on the proposal for 
 
 Elected Mayor with Executive Functions would be held in October.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ of Limerick City and County Council in the property, particulars of which were c
 
 Notice dated 29th July, 2019.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Circulated, copy of Statutory Notice dated 15th August, 2019, concerning disposa
 
 Garryduff, Newcastle West, Co. Limerick. (0.053 ha)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ assessment had been completed by the Senior Architect and Head of Property Servi
 
 confirmed the internal process involved before disposing of a property had been completed and no
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -512,7 +512,7 @@ Seconded by Councillor O’Donoghue;
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -598,7 +598,7 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Galvin, the fo
 
 were agreed:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -682,7 +682,7 @@ June, July and August 2019.
 
 The Chief Executive’s Reports were noted by the Members.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -766,7 +766,7 @@ It was now recommended that (i) the Draft Scheme, as circulated, be adopted; and
 
 Council Members be appointed to each Strategic Policy Committee.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -836,7 +836,7 @@ Circulated, list of Members appointed to the Limerick Market Trustees at the Fir
 
 Meeting of the Council held on 7th June, 2019.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -910,7 +910,7 @@ business development, portfolio management, relationship management and distress
 
 recovery.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -990,7 +990,7 @@ the City and County of Limerick to Hangzhou, China, under Section 142(5) of the 
 
 Act, 2001, as amended.”
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1070,7 +1070,7 @@ Circulated, report of the Director, Housing Development, dated 18th September, 2
 
 enclosing Draft Traveller Accommodation Programme 2019-2024.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1148,7 +1148,7 @@ Event.
 
 The reports were noted by the Council.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1236,7 +1236,7 @@ the review will commence with the publication of an Issues Paper in Quarter 2, 2
 
 This will commence the statutory 99 week process of preparing a new Development
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1322,7 +1322,7 @@ Equality Commission in its role as the official monitoring body for Ireland’s
 
 compliance with the UN Convention on the Rights of Persons with Disabilities.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1402,7 +1402,7 @@ It was agreed to refer this Motion to the Travel and Transportation Strategic Po
 
 Committee.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1486,7 +1486,7 @@ With the permission of the Mayor, the following Notice of Motion, in the name of
 
 Sheehan, was taken:
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1542,5 +1542,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

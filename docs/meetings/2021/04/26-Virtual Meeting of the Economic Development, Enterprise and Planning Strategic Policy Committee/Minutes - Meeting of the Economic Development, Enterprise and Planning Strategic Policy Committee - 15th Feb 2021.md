@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 15th Feb 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-15th-feb-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -100,7 +100,7 @@ developments are completed. Pre-planning consultations with developers involve d
 
 the eventual taking in charge of the estates.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2**
 
@@ -170,7 +170,7 @@ It was agreed that the PPN members would also be briefed on the various issues i
 
 preparation of a draft development plan.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Item 4**
 
@@ -190,5 +190,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

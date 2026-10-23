@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 29th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%20Minutes%20Ordinary%20Meeting%2029.04.2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN**
 
@@ -92,7 +92,7 @@ timeframe. He spoke of the importance of promoting the city from a social, polit
 
 cultural point of view and referred to the different city that Limerick is today. Cllr Hourigan
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ decision making shown by the Members that has supported key strategic enablers a
 
 resulted in the creation of strategic delivery vehicles.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ Directorate and on their work on dereliction and vacant properties. 800 inspecti
 
 were carried out in 2018 and a Vacant Sites Register was established. The Chief Executive
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ improving on the cultural offerings for the future
 
  Members discussed the upcoming plebiscite on the Directly Elected Mayor
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ Council in the property, particulars of which were contained in Statutory Notice
 
 March, 2019.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ Circulated, copy of Statutory Notice dated 17th April, 2019, concerning disposal
 
 at 33 Quins Cottages, Prospect, Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -596,7 +596,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -676,7 +676,7 @@ Circulated, Chief Executive’s Report for the month of March, 2019.
 
 The Chief Executive’s Report was noted by the Members.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -756,7 +756,7 @@ includes an Urban and Village Renewal Fund created and commencement of a number 
 
 strategic capital projects.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -852,7 +852,7 @@ of additional expenditure incurred in excess of that provided for in the Annual 
 
 year ended 31st December, 2018, including capital transfers.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -926,7 +926,7 @@ Councillors Costelloe, Gilligan, Hogan, Loftus, McCreesh, Ó Ceallaigh.
 
 **(6)**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1004,7 +1004,7 @@ Recommendation which was agreed at the SPC Meeting:
 
 **parking support for hard pressed retailers in Limerick City”.**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1070,7 +1070,7 @@ On the proposal of Councillor Gilligan, seconded by Councillor O’Donnell, Reco
 
 No. 4 was agreed.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1140,7 +1140,7 @@ Circulated, Report of the Director, Economic Development, dated 17th April, 2019
 
 details of the proposed allocations from the Development Fund 2019.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1220,7 +1220,7 @@ Steamboat Quay to resolve issues around roads and public open spaces, and
 
 to take the whole area in charge. There are a number of different owners of
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1302,7 +1302,7 @@ The motion was proposed by Councillor Cahillane and seconded by Councillor McCre
 
 **the portion of ground to the rear to provide parking.**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1376,7 +1376,7 @@ The Meetings Administrator declared the Motion defeated.
 
 **disability and not on household income as is the case at present.**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1430,5 +1430,5 @@ amended, was also available on Alfresco for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

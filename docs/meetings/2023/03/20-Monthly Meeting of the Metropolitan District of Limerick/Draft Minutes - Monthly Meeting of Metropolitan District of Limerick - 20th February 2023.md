@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2020th%20February%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ setting out details of proposed Disposal of Property at Ballyclough Avenue, Cast
 
 and the intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -280,7 +280,7 @@ Part 8 of the Planning and Development Regulations, 2001 (as amended) and noted 
 
 proposed to proceed in accordance with Section 10 of the report.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -366,7 +366,7 @@ Sheahan (M), Slattery and Talukder
 
 Councillors Collins, Hartigan, Kilcoyne, Leddin, Novak Uí Chonchúir, O’Donovan, Secas and
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -444,7 +444,7 @@ parameters discharging to the canal. This monthly sampling will begin in Februar
 
 **7.Question submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -520,7 +520,7 @@ distribution to the public at events; to dog owners via renewal licences; to the
 
 Environment Inspectors/Park Wardens; (iii) the dispensing of refills for Castletroy Park and
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -596,7 +596,7 @@ Limerick City and County Council will continue to monitor the case.
 
 ***the long-term plans for Donnellan's Field / Thomondgate Weir.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -670,7 +670,7 @@ Details were circulated as part of the reply.
 
 reminder letter for Household Waste Refuse Scheme. The reason for this decision is to
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -746,7 +746,7 @@ and to Area West on Wednesday 8th June 2022.
 
 ***access, as people visiting the graves of their loved ones are extremely frightened of these dogs.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -826,7 +826,7 @@ potential advance flood protection works to Annacotty is subject to the above an
 
 currently under review with a view to submitting for planning consent in mid to late 2025.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -906,7 +906,7 @@ for which will commence in March, these works will be included in the Mill Road
 
 Construction Project.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -982,7 +982,7 @@ In proposing the Motion, Councillor O’Donovan referred to the lack of funding 
 
 and that these should be prioritised in the future. Members agreed with the Motion, highlighting
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1060,7 +1060,7 @@ Ballysimon Cresent junction to the St. Patricks Road junction which would includ
 
 consultation process. This proposal could also cater for a new raised footpath on the
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1136,7 +1136,7 @@ In proposing the Motion, Councillor Kiely referred to the difficulties and stres
 
 whose children were not allocated a Secondary School place. She highlighted that there is a need
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1200,5 +1200,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

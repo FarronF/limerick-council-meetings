@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 20th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Budget%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2020th%20November%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
@@ -116,7 +116,7 @@ who had been killed and injured following the recent terrorist attacks in Paris 
 
 Beirut.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -186,7 +186,7 @@ The Chief Executive went on to list the core objectives of the Budget as follows
 
 underpin an innovative Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -260,7 +260,7 @@ It was unanimously agreed that the Chief Executive’s Report on the Draft Budge
 
 **and County Council for year ending 31st December, 2016.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -342,7 +342,7 @@ It was unanimously agreed that the Chief Executive’s Report on the Draft Budge
 
 **a result of the reduction in the Commercial Rate base by the following:**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -414,7 +414,7 @@ o **Ongoing support to the small and medium businesses and tourism sector.**
 
 **Finance's budget for 2016.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -562,7 +562,7 @@ Source: Department of Finance
 
 **2030 Plan, with 5,000 of these in the City Centre.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -680,7 +680,7 @@ H. Miscellaneous Services
 
 Table 2: Analysis of Expenditure by Division
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 The following chart gives a br
 
@@ -9383,7 +9383,7 @@ H - Misc
 
 Services
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **Analysis of Income 2016**
 
@@ -15200,7 +15200,7 @@ ng HAP.
 
 tes
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **76% of the Council's income**
 
@@ -17574,7 +17574,7 @@ y
 
 6
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **11**
 
@@ -17650,7 +17650,7 @@ y
 
 **of decline as highlighted in the chart below.**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **12**
 
@@ -17744,7 +17744,7 @@ Sep-15
 
 Analysis of Staff Numbers
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **13**
 
@@ -17852,7 +17852,7 @@ Diff in Yrs €
 
 Table 4: Analysis of Commercial Rate Income
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **14**
 
@@ -17920,7 +17920,7 @@ Table 5: Proposed Vacant Property Scheme 2016
 
 **The support payments are summarised in the following table.**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **15**
 
@@ -18014,7 +18014,7 @@ Table 6: Proposed Small & Medium Business Support Scheme 2016
 
 **based on the agreed Service Level Agreement and the annual service plan.**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **16**
 
@@ -18134,7 +18134,7 @@ Table 6: Proposed Small & Medium Business Support Scheme 2016
 
 Table 7: Summary Capital Plan 2016-2018
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 **17**
 
@@ -18206,7 +18206,7 @@ Draft Budget2016, and
 
 Proposed Schemes:
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 **18**
 
@@ -18274,7 +18274,7 @@ The A/Head of Finance provided a detailed analysis of expenditure under Division
 
 as follows:
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 **19**
 
@@ -18428,7 +18428,7 @@ A/Head of Finance. The Council then noted the provisions made in the Draft Annua
 
 Budget for Division A – Housing and Building.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 **20**
 
@@ -18586,7 +18586,7 @@ The A/Head of Finance provided a detailed analysis of expenditure under Division
 
 as follows:
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 **21**
 
@@ -18756,7 +18756,7 @@ D12 Agency & Recoupable Services
 
 €0.20
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 **22**
 
@@ -18832,7 +18832,7 @@ A/Head of Finance. The Council then noted the provisions made in the Draft Annua
 
 Budget for Division D – Development Management.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 **23**
 
@@ -19012,7 +19012,7 @@ The Mayor then invited Members to indicate if they wished to ask questions in
 
 relation to Division E.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 **24**
 
@@ -19178,7 +19178,7 @@ Agency & Recoupable Services
 
 €0.00
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 **25**
 
@@ -19310,7 +19310,7 @@ Budget for Division F – Recreation & Amenity; and Division G/H – Agriculture
 
 Education, Health and Welfare, and Corporate Services.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 **26**
 
@@ -19384,5 +19384,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 

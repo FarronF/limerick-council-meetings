@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 16th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-meeting-of-the-travel-transportation-spc-16th-feb-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ business to be transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -81,5 +81,5 @@ How has it been monitored and what are the outcomes of same?
 
 How will the new limit be voted upon and is there a proposed time frame?”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

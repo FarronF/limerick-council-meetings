@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 4th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-03/minutes-meeting-of-the-municipal-district-of-newcastle-west-4th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -110,7 +110,7 @@ amendment outlined above to the Minutes of the Municipal District of Newcastle W
 
 on 14th January, 2026”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Question submitted by Councillor J. Scanlan
 
 REPLY:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ works would be required.
 
 Question submitted by Councillor T. Ruddle
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Emergency Pavement Scheme for the N21. He also stated that the Roads Team is act
 
 working patching potholes over the last six weeks in the District. He informed the Members
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ health and safety issues around the use of a pay parking machine.
 
 ***a Plan for the long term expansion of the existing plant which a planning application was***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ undertake an initial scoping exercise on 19th February in Dromcollogher to asses
 
 and technical requirements to progress planning of the state led commemoration.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -510,5 +510,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

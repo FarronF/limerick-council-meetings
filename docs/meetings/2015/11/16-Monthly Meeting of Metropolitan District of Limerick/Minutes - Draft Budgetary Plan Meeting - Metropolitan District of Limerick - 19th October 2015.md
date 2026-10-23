@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan Meeting - Metropolitan District of Limerick - 19th October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Draft%20Budgetary%20Plan%20Meeting%20-%20Metropolitan%20District%20of%20Limerick%20-%2019th%20October%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
@@ -88,7 +88,7 @@ agreed that the Operational Briefings for November would be changed to Friday, 6
 
 November at the times originally agreed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 This concluded the Meeting.
 
@@ -98,5 +98,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 24th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/01%20Minutes%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%20241117.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -82,7 +82,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ provided by the Council and asked that the public be made aware of the competiti
 
 the rates being offered.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ Speed Limit Review 2015-2017 Limerick National Road Draft Bye-Laws Document:
 
 and Oola.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ fashion. The recently published Draft National Planning Framework outlined this 
 
 objective.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,7 +378,7 @@ Members, in noting the report, welcomed the proposal and, in particular, the pha
 
 basis for the proposed development.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -446,7 +446,7 @@ Notice of Motion submitted by Councillor W. O’Donnell
 
 The Motion was proposed by Councillor O’Donnell and seconded by Councillor Teefy.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -518,7 +518,7 @@ nominees.
 
 receive a Deputation from Hospital Community Council at the December Meeting.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -542,5 +542,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/00%20Agenda%20-%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-%2012th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -95,7 +95,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -155,7 +155,7 @@ Development Act, 2000 (as amended) and Part 8 of the Planning and Development Re
 
 (Report Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -213,7 +213,7 @@ I will ask at the next meeting of the Metropolitan District of Limerick as to wh
 
 Road be opened to link with Castletroy and what are the detailed plans for this road.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -281,5 +281,5 @@ for residential or cultural use.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

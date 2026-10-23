@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Travel & Transportation Strategic Policy Committee Meeting - 20th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20Travel%20%26%20Transportation%20SPC%20Meeting%20-%2020.12.22_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -81,5 +81,5 @@ on the Limerick/Foynes Rail Line reinstatement will future proof the line to bec
 
 dual line. I ask this to prevent incurring extra costs at later stages.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

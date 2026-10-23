@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 14th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/02%20Minutes%20of%2014th%20July%20%20Municipal%20District%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -82,7 +82,7 @@ of Cappamore-Kilmallock held on 16th June, 2022.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Matters Arising:
 
@@ -138,7 +138,7 @@ The property in question is on the Derelict Sites Register and has been acquired
 
 compulsorily by Limerick City and County Council under the Derelict Sites Act 1990.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A structural assessment has deemed that the unfinished and derelict structure is not suited
 
@@ -210,7 +210,7 @@ Multi Annual Rural Water Programme, aimed at assisting in the provision of Waste
 
 Treatment Facilities to villages and settlements, **without access to public sewers**.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Local Authorities have been invited to submit a maximum of two proposals for funding under
 
@@ -288,7 +288,7 @@ and villages within the Cappamore-Kilmallock would be premature at present as it
 
 their use would be governed by national policy. Limerick City and County Council will liaise
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 with both TII and the Dept. of Transport to discuss Cllr. Ryan’s motion and determine the
 
@@ -364,7 +364,7 @@ including the consideration of existing zoned lands, to determine the future dev
 
 needs of the town in line with the requirements of the recently adopted Limerick
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Development Plan 2022-2028. The team will engage regularly with the Elected Members of
 
@@ -434,7 +434,7 @@ As at July 7th Housing Maintenance have 5 units in the process of being returned
 
 pre-lets/voids:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 o 2 have been returned and to be inspected
 
@@ -530,7 +530,7 @@ Cases Closed
 
 *workshop on voids.*
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 14.
 
@@ -598,7 +598,7 @@ The date for the next meeting of the Cappamore Kilmallock District was agreed by
 
 Elected Members as Wednesday 21st September at 3pm in Deebert House Hotel.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -606,5 +606,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

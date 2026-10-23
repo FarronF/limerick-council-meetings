@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home and Social Strategic Policy Committee - 7th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/agenda-meeting-of-the-home-and-social-strategic-policy-committee-7th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -72,5 +72,5 @@ For Noting - Report to SPC from Housing Disability Strategic Group
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

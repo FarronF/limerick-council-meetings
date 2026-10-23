@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 22nd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Minutes-Meeting-of-Limerick-City-and-County-Council-22nd-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Conveyance of the interest of Limerick City and County Council in the property, 
 
 which were contained in Statutory Notice dated 24th March, 2023.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Circulated, copy of Statutory Notice dated 24th April, 2023, concerning disposal
 
 property at 75, Careys Road, Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ Seconded by Councillor Kiely;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ Circulated, copy of Statutory Notice dated 11th May, 2023, concerning disposal o
 
 property - Old School House, Grange, Kilmallock, Co. Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 of which were contained in Statutory Notice dated 9th May, 2023. This resolution rescinds
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ Seconded by Councillor Kiely;
 
 And Resolved:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ Circulated, copy of Statutory Notice dated 9th May, 2023, concerning disposal of
 
 property at 58, St. Lawrence Park, Garryowen, Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -750,7 +750,7 @@ of €65,000, subject to the covenants and conditions contained within the contr
 
 of which were contained in Statutory Notice dated 11th May, 2023.”
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -828,7 +828,7 @@ by the Local Government Reform Act, 2014), the Annual Financial Statement for ye
 
 31st December, 2022, for Limerick City and County Council, be and is hereby adopted.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -908,7 +908,7 @@ Sheahan (M) – (Limerick City East) - was appointed to the Board of PAUL Partne
 
 CLG to fill the vacancy consequent on the resignation of Councillor Kiely from the Board.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -986,7 +986,7 @@ It also included the Financial Statements for 2022 and an outline of activities 
 
 interests of local communities and twinning.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1072,7 +1072,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1152,7 +1152,7 @@ amendments to the Scheme of Priority for Affordable Dwelling Purchase Arrangemen
 
 together with copy of the amended Scheme of Priority for adoption by the Council.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1234,7 +1234,7 @@ by the Members by way of resolution would be appended to the report sent to the 
 
 along with the administration record of the Meeting.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1312,7 +1312,7 @@ Details of the following Conference had been circulated electronically to Member
 
 The Suck Valley Way 2023 Conference held in Roscommon on 5th/6th April, 2023.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1384,7 +1384,7 @@ It was agreed to refer this Motion to the Travel and Transportation Strategic Po
 
 Committee for consideration.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1468,7 +1468,7 @@ investigation team. A recent review by the Department concluded that to
 
 perform its duties effectively under this Act, “*a core group of highly-skilled and*
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1554,7 +1554,7 @@ will bring forward proposals to enhance our public areas and green spaces. As
 
 part of this review, a cross-departmental team has been convened to review
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1632,7 +1632,7 @@ On the proposal of Councillor Sheahan (J), seconded by Councillor Sheehan (C), t
 
 Motion was adopted.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1694,7 +1694,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint for inspection by the Members.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1714,5 +1714,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 

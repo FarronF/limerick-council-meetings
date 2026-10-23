@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Municipal District of Newcastle West - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-21-agenda-draft-budgetary-plan.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -72,5 +72,5 @@ C 061 - $56 000
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning SPC - 3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-of-spc-mtg-3rd-july-2020_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -100,7 +100,7 @@ working capital loans with low interest rates and a range of stimulus measures t
 
 products and services of firms.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 He stated that Recovery Plans for SME’s will vary greatly between city and county and not keeping
 
@@ -176,5 +176,5 @@ That concluded the business of the meeting.
 
 **CHAIRMAN**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West  - 4th March 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/01-2020-03-04-minutes-march.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -110,7 +110,7 @@ Henry Moran, Treasurer and Mr. Damian Ahern, Secretary, for hosting the March me
 
 the Newcastle West District at the Carnegie Library in Athea.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -192,7 +192,7 @@ dedicated Liaison Officer has been appointed to the project. Discussion took pla
 
 selection, funding and environmental impact.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ On the proposal of Councillor Ruddle, seconded by Councillor Foley, it was agree
 
 € 3,000 to flashing signs on Athea to Carrickerry road.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -352,7 +352,7 @@ To note progress report from the Housing Development
 
 Directorate
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -440,7 +440,7 @@ west.
 
 Staff of the Road Design Office have reviewed the options developed and the draft
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -522,7 +522,7 @@ Question submitted by Councillor T. Ruddle
 
 ***condition with sinking in parts and is a danger at present.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -606,7 +606,7 @@ Question submitted by Councillor J. Scanlan
 
 ***Pike and Lenihan’s garage in Dromcollogher.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -686,7 +686,7 @@ is also the case that there has been serious underinvestment in this service for
 
 many years.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -760,7 +760,7 @@ The current status of the remaining twelve houses at the Cois Na Feile estate, A
 
 was referred to and the request to have these twelve houses purchased. The extension of
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -798,5 +798,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 8th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-08/minutes-meeting-of-the-municipal-district-of-newcastle-west-8th-july-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -106,7 +106,7 @@ Circulated, copy of draft Minutes of the Annual General Meeting of Municipal
 
 District of Newcastle West, held on 19th June, 2026.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ of other facilities in similar scaled settlements. However, she stated that this
 
 during the planning design stage.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ Following further discussion, the report was proposed by Councillor Foley, secon
 
 Councillor Galvin and agreed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ infrastructure. He outlined to the Members the build timeline, 79 housing units 
 
 sites as follows:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ experiencing homelessness and the need to provide temporary accommodation was al
 
 raised.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -488,7 +488,7 @@ On the proposal of Councillor Foley, seconded by Councillor Galvin, it was agree
 
 €2,000 to Tournafulla GAA Club for fencing.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ Limerick City and County Council will continue to review this derelict site case
 
 QUESTIONS
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -642,7 +642,7 @@ This tenderer will be appointed to complete the Underground Utilities Survey pen
 
 Limerick City and County Council and Transport Infrastructure Ireland approvals in
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -722,7 +722,7 @@ when completed a funding stream can be determined to progress any
 
 identified works.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -794,7 +794,7 @@ of Motion at Item No. 17 and Item No. 18 on the Agenda would be deferred to the
 
 September Meeting of the Municipal District of Newcastle West.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -876,7 +876,7 @@ Prior to conclusion of the Meeting, the Cathaoirleach wished everyone well over 
 
 break.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -892,5 +892,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

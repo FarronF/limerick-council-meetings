@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 21st September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Minutes%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20September%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
@@ -120,7 +120,7 @@ million and covered the following services:
 
 • Community Supports.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -202,7 +202,7 @@ Promotion of Limerick as a tourist destination.
 
 It was agreed to circulate copy of presentation to the Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -288,7 +288,7 @@ from 21st September, 2017, in accordance with the provisions of Section 19 of th
 
 Development Act 2000 (as amended).”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -376,7 +376,7 @@ developing an inclusive vision for a Public Realm Project in the town, namely th
 
 threshold.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -466,7 +466,7 @@ level of rural public transport complementing, where possible, existing transpor
 
 allowing everyone in the community to have access to social, economic and other services.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -546,7 +546,7 @@ Review of Schedule of Works 2017
 
 It was noted that this item had been dealt with earlier in the Meeting.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -638,7 +638,7 @@ duration for the works is 4 to 6 weeks. This work is safety-critical for both pu
 
 road users and Irish Rail.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -704,7 +704,7 @@ It was agreed that contact would be made with the District Administrator, Nenagh
 
 Municipal Council, to ascertain further detail in relation to agenda for proposed Joint Meeting.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -784,7 +784,7 @@ honoured at a ceremony to be held after the November Meeting of the District at 
 
 Kilmallock.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -806,5 +806,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

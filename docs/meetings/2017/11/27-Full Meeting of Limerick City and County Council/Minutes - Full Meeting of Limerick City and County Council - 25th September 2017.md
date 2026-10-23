@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 25th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28b%29%20Minutes%20September%20Meeting%20250917.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -90,7 +90,7 @@ Cappamore.
 
 • The Finn Family, Corbally, Limerick, on the death of John Finn.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ accommodation and transitional family hub by November 2017.
 
 St. Patrick’s Hostel, Thomond House, Temporary Emergency Provision.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ The A/Director summarised the position in relation to the Housing Delivery
 
 Programme as follows:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ Prendiville, Scanlan, Sheahan (J), Sheahan (M), Teskey. **(14)**
 
 Councillor Daly.  **(1)**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -396,7 +396,7 @@ of a 35 year sub-lease and subject to the covenants and conditions contained the
 
 particulars of which were contained in Statutory Notice dated 13th September, 2017.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ At the outset of discussion on this item, on the proposal of Councillor Sheahan 
 
 seconded by Councillor Galvin, it was agreed to take a 20-minute adjournment.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ Promotion
 
 He concluded by outlining proposals for 2018 expenditure.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -646,7 +646,7 @@ Councillor Sheahan (J), seconded by Councillor Galvin, to vary the basic rate of
 
 by 10% for 2018.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -706,7 +706,7 @@ On the proposal of Councillor O’Hanlon, seconded by Councillor Sheahan (J), it
 
 agreed to take a further 10-minute adjournment.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -786,7 +786,7 @@ for approval. Section 66 of the Local Government Act, 2001, as amended, provided
 
 approval of such grants.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -852,7 +852,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 was available on Alfresco for inspection by the Members.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -872,5 +872,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

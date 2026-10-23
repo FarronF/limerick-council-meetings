@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024_1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -68,7 +68,7 @@ Matters Arising
 
 Declaration of Interest
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -132,7 +132,7 @@ from Bruff in Kilmallock, to include a 60Km section, installation of public ligh
 
 calming measures for pedestrians.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -180,5 +180,5 @@ and reallocated in the District in the same period and the number of vacant hous
 
 area at present.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

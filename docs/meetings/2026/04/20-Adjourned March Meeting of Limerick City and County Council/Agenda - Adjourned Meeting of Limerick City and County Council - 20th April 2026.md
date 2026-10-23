@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 20th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/agenda-adjourned-meeting-of-limerick-city-and-county-council-20th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -95,7 +95,7 @@ Corporate Headquarters, Merchant's Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -124,5 +124,5 @@ Meetings Administrator.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

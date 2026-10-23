@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West  - 2nd April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/minutes-meeting-of-the-municipal-district-of-newcastle-west-2nd-april-2026_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ The Acting Senior Executive Engineer relayed details of the project to the Membe
 
 included provision of car park with 80 spaces including disability spaces, EVCP spaces and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ To consider Draft Schedule of Works for the Municipal District of
 
 Newcastle West.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ the Schedule, drainage works, patching units, cost of inflation and current staf
 
 carry out the works outlined in the Schedule.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,7 +410,7 @@ A GMA application was received from Tournafulla GAA. It was agreed to defer this
 
 pending further information.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,7 +490,7 @@ Question submitted by Councillor L. Galvin
 
 REPLY:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -592,7 +592,7 @@ Abbeyfeale
 
 Complete to Builders Finish
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -692,7 +692,7 @@ NOTICES OF MOTION
 
 14. Notice of Motion submitted by Councillor F. Foley
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -764,7 +764,7 @@ Limerick City and County Council roads personnel will meet with relevant
 
 stakeholders to discuss this matter.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -832,7 +832,7 @@ that has been highlighted.
 
 The Motion was seconded by Councillor Collins.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -892,5 +892,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

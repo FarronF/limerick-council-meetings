@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Map - Minutes of Meeting of Metropolitan District of Limerick - 15th February 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Map%20-%20Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -60,5 +60,5 @@ CCMA Limerick County Council 2010/09
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

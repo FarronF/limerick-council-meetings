@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise & Planning SPC - 14th October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/minutes-of-spc-mtg-14th-october-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -96,7 +96,7 @@ Mr. Moran, Chair of SME Recovery welcomed the Notice of Motion to set up a Task 
 
 support SME’s and stated that it would provide a single agency to pull all supports together.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 He stated SME’s had suffered an estimated €10-11 billion damage due to Covid-19 restrictions,
 
@@ -176,7 +176,7 @@ issuing CE reports on consultation submissions, holding workshops with elected m
 
 and preparation of the Draft Development Plan.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Further Plans which are being progressed by Forward Planning include:
 
@@ -264,7 +264,7 @@ level of take-up of the scheme, the timescale involved and if conservation restr
 
 slowing down the process.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Kieran stated that the lack of access to finances for retrofitting schemes is the main factor in
 
@@ -346,7 +346,7 @@ This Notice of Motion was deferred to the next meeting of the committee to be he
 
 December, 2020.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **Item 7**
 
@@ -416,5 +416,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

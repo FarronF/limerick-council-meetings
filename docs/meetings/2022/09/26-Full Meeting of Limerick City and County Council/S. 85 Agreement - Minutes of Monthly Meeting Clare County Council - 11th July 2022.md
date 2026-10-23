@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [S. 85 Agreement - Minutes of Monthly Meeting Clare County Council - 11th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/10%20%28ii%29%20S.%2085%20Agreement%20-%20Minutes%20Mtg%20Clare%20Co%20Co.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Minutes of the July Monthly Meeting of Clare County Council held in the**
 
@@ -118,7 +118,7 @@ RIP
 
 1
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 1:**
 
@@ -182,7 +182,7 @@ the 17th June, 2022 be noted.”
 
 2
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Item 4:**
 
@@ -266,7 +266,7 @@ Water as permanent employees between now and 2026.
 
 3
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 • the identification of opportunities for water services staff not transferring to
 
@@ -348,7 +348,7 @@ served on the members dated 21st June, 2022.”
 
 4
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **Item 8:**
 
@@ -444,7 +444,7 @@ under Section 85 of the Local Government Act 2001 (as amended) with Limerick Cit
 
 5
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 and County Council for the carrying out by Limerick City and County Council of the
 
@@ -526,7 +526,7 @@ Cllr. G. Flynn and seconded by Cllr. P. McMahon.
 
 6
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Report dated 6th July, 2022 from Mary McMahon, Administrative Officer, Corporate
 
@@ -604,7 +604,7 @@ The plaque will be worded as follows:
 
 7
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 ‘In recognition of the lifetime achievement of local man, Pat Conway. Acknowledging
 
@@ -690,7 +690,7 @@ and that the final report will be produced in October/November.
 
 8
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Pat Dowling, Chief Executive thanked Mr. O’Sullivan and Mr. Rattigan for the
 
@@ -782,7 +782,7 @@ the Shannon Estuary Economic Taskforce.
 
 9
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 Ar moladh Cllr. P.J. Kelly
 
@@ -872,7 +872,7 @@ Zero
 
 10
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 (e) Average award (includes ancillary costs)
 
@@ -956,7 +956,7 @@ care and protection of underage children in such households
 
 11
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 \* This strategy was adopted in 2021 to prevent and reduce anti-social behaviour in the
 
@@ -1054,7 +1054,7 @@ with situations that develop around the county.
 
 12
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **Item 17.**
 
@@ -1148,7 +1148,7 @@ context of the budget for 2023.
 
 13
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **Item 18.**
 
@@ -1234,7 +1234,7 @@ viability, sustainability and level of investment in the area.
 
 14
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **Item 19.**
 
@@ -1328,7 +1328,7 @@ Tourism portfolio of Clare County Council amongst the four Municipal Districts.
 
 15
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 In 2019 Clare County Council embarked on the development of an “*evidence based,*
 
@@ -1418,7 +1418,7 @@ county of Clare first and foremost.
 
 16
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 3. A continual mechanism of involvement in oversight in the implementation of
 
@@ -1512,7 +1512,7 @@ indirect benefits and drawing attention to the West of Ireland being open for bu
 
 17
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 in the winter period. Fáilte Ireland research suggests that Overseas Holidaymakers on
 
@@ -1610,7 +1610,7 @@ community, who communicate regularly with them and directly entrust the raising 
 
 18
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 their community concerns. They also raise opportunities for collaboration and
 
@@ -1700,7 +1700,7 @@ how this could be enhanced;
 
 19
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 d. Specify the actions required from national and local government, as well as from
 
@@ -1796,7 +1796,7 @@ scale involving experts in this field.
 
 20
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 P. Dowling, Chief Executive stated that engagement has taken place with companies
 
@@ -1882,7 +1882,7 @@ the N18/M18 as the current situation whereby people are using the side of the
 
 21
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 motorway as a toilet is a safety issue. It was also felt that parking should be provided
 
@@ -1974,7 +1974,7 @@ the preliminary CSO data from this year’s census. The census data is due to be
 
 22
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 in 2023 and at that stage the Department will consider further any reviews that they
 
@@ -2068,7 +2068,7 @@ people who are struggling to survive on their current income.”
 
 23
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 The members agreed that the anomaly that exists in relation to income thresholds
 
@@ -2154,7 +2154,7 @@ relation to Michael Houlihan & Partners LLP.
 
 24
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 6. Correspondence dated 27th June, 2022 from Pat Dowling, Chief Executive in
 
@@ -2202,5 +2202,5 @@ Date:
 
 25
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 

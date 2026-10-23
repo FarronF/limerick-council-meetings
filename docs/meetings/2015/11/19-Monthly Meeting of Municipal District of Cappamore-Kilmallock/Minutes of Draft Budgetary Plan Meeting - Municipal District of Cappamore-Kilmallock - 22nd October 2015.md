@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Draft Budgetary Plan Meeting - Municipal District of Cappamore-Kilmallock - 22nd October 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%20-%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2022nd%20October.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING OF THE
 
@@ -146,9 +146,9 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Municipal District of Adare-Rathkeale - 9th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-b-draft-minutes-meeting-of-municipal-district-of-adare-rathkeale-9th-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ an amendment which Councillor Collins would submit to the Meetings Administrator
 
 inclusion on the record”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ On the proposal of Councillor Collins, seconded by Councillor O’Donoghue it wa
 
 to allocate the following:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ have entered into negotiations to connect to the existing drain and are awaiting
 
 on the planning application from An Bord Pleanála. Councillor Keary requested a copy of
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ April, 2024 outlining details of proposed works, projects and future projects pl
 
 the District.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ complimented the Administrative Officer, Rural Development for the presentation 
 
 welcomed the Local Economic and Community Plan.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -466,7 +466,7 @@ and Science and requested a letter of congratulations be forwarded to Minister
 
 O’Donovan from the Adare-Rathkeale Municipal District.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -482,5 +482,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

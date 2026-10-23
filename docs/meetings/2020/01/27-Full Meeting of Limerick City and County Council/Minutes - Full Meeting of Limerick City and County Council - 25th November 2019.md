@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 25th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01-minutes-november-council-meeting-25.11.19.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -84,7 +84,7 @@ With the Mayor’s permission and prior to proceeding with the agenda, the Counc
 
 its sympathy to the following:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ of the interest of Limerick City and County Council in the property, particulars
 
 contained in Statutory Notice dated 17th September, 2019.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Conveyance of the interest of Limerick City and County Council in the property, 
 
 were contained in Statutory Notice dated 22nd October, 2019.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ Circulated, copy of Statutory Notice dated 4th November, 2019, concerning dispos
 
 Upper Carey’s Road, Limerick (Folio LK5269L).
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -420,7 +420,7 @@ Seconded by Councillor Ryan (E);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -498,7 +498,7 @@ Governance and Customer Services dated 19th November, 2019, as follows:
 
  Tim O’Brien, Carrigbeg, Doon, Co. Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ lifetime of this Plan. He stated that Limerick City and County Council are well 
 
 diverse challenges and plan to deliver the best possible to our citizens. As a council we have
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ And Resolved:
 
 as circulated, be and is hereby adopted.”
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -736,7 +736,7 @@ Seconded by Councillor Ryan (E);
 
 And Resolved:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -814,7 +814,7 @@ Committee held on 16th October, 2019.
 
 The Report was noted by the Members.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -900,7 +900,7 @@ And Resolved:
 
 Affordable Dwelling Purchase Arrangements, as circulated.”
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -978,7 +978,7 @@ Circulated, report of the A/Director, Economic Development, dated 20th November,
 
 relation to the proposed signing of a Memorandum of Understanding with the Land Development
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1068,7 +1068,7 @@ approved the attendance of the following Members:
 
 Sheahan (K), Teskey, Sheahan (M), Leddin (J), Donegan, Kilcoyne.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1148,7 +1148,7 @@ an indicative Air Quality Monitoring Station at the Fire Station in Abbeyfeale. 
 
 station measures particulates, and its purpose is primarily to assess the impact of
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1234,7 +1234,7 @@ iii. **Service Operations** – this Directorate provides a number of housing
 
 functions:
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1312,7 +1312,7 @@ Authority funding will be available to implement the infrastructure required for
 
 successful transformation to active and public transport modal shift.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1460,7 +1460,7 @@ Notice of Motion submitted by Councillor K. Sheahan
 
 With the permission of the Meeting, this Motion was withdrawn by Councillor Sheahan (K).
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1540,7 +1540,7 @@ Homelessness. The delivery of these targets is supported by Operations and
 
 Customer Services. There is no current plan to change the Organisational Structure.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1604,7 +1604,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 available on SharePoint and Alfresco for inspection by the Members.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1624,5 +1624,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

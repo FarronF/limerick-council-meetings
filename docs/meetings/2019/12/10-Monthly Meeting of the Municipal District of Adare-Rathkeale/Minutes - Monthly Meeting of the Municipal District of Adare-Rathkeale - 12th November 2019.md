@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%20Minutes%20of%20Monthly%20Meeting%2012th%20November%2C%202019%20V2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -94,7 +94,7 @@ Proposed by Councillor O’Donoghue;
 
 Seconded by Councillor Collins;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ Senior Executive Engineer addressed the Meeting and outlined details of the prop
 
 scheme which will include a zebra crossing, designated set down areas, road signage,
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Housing Development Directorate provide an update on the 16 acre site in Adare f
 
 next Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ roadway. Councillor Keary also requested a traffic count take place to establish
 
 the volume of cars who use this junction.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,7 +388,7 @@ by the Gardaí.
 
 **Park.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -468,7 +468,7 @@ above’.
 
 **Co. Limerick with a view to having traffic calming measures installed.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -498,5 +498,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Meeting of the Travel & Transportation Strategic Policy Committee - 16th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/minutes-of-travel-transportation-spc-meeting-16th-february-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -64,7 +64,7 @@ representatives.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ from the MASP.
 
 justify light rail.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -282,7 +282,7 @@ the importance of dealing with freight for economic growth and this will be cons
 
 strategy.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -364,7 +364,7 @@ were tested in the first strategy preparation. He confirmed that different scena
 
 be examined in more detail.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -444,7 +444,7 @@ How has it been monitored and what are the outcomes of same?
 
 How will the new limit be voted upon and is there a proposed time frame?”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,5 +496,5 @@ scheduled for Tuesday, the 20th April 2021. He thanked all for attending and tha
 
 representatives individually for their presentation and declared the meeting closed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

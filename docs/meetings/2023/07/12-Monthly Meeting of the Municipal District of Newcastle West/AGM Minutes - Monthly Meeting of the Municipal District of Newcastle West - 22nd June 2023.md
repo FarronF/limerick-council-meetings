@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [AGM Minutes - Monthly Meeting of the Municipal District of Newcastle West - 22nd June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01%28b%29AGM-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Newcastle-West-22nd-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
@@ -84,7 +84,7 @@ The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach o
 
 Municipal District for the coming year.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ The Director on behalf of Management and staff also paid tribute to the Cathaoir
 
 Leas-Cathaoirleach and wished them well in the year ahead.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -168,5 +168,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

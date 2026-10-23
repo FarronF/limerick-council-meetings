@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Draft Budgetary Plan Meeting - 19th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/01%20%28b%29%202018-10-19%20Minutes%20Draft%20Budgetary%20Plan%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
@@ -118,7 +118,7 @@ Special Projects – LA Infrastructure
 
 **225,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,5 +164,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

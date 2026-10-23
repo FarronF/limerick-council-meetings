@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20Minutes%2010th%20April%202018_1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -84,7 +84,7 @@ Meeting:
 
 Circulated, reply of the A/Senior Executive Engineer:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it
 
 an update would be given at the next meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ lack of parking spaces in Adare village giving its strategic location as a gatew
 
 Region and asked that the parking issue be actively pursued by the Council.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,7 +288,7 @@ dated 28th March, 2018 giving an update in relation to proposed traffic calming 
 
 at Kilcornan. The report was noted by Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -358,7 +358,7 @@ At the conclusion of the Agenda the following issues were raised by Members with
 
 permission of the Cathaoirleach.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -430,7 +430,7 @@ to reinstate these roads.
 
 requested this matter be resolved as a matter of urgency. The Executive Engineer,
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -456,5 +456,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

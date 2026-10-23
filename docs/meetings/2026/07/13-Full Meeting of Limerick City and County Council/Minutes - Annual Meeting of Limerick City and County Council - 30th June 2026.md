@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Limerick City and County Council - 30th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/minutes-annual-meeting-of-limerick-city-and-county-council-30th-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -88,7 +88,7 @@ the people of Limerick in this capacity has been both a privilege and a responsi
 
 have carried every day over the past year.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -168,7 +168,7 @@ citizens, International Women’s Day celebrations to community events, each occ
 
 reinforced one message—that from Limerick, you can achieve anything.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -266,7 +266,7 @@ Seconded by Councillor Galvin;
 
 Council to hold office until the next Annual Meeting or until a successor is appointed.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -344,7 +344,7 @@ wherever I can. Where inclusion is not just an ambition but a reality across our
 
 public spaces, and our communities.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -420,7 +420,7 @@ County Council to hold office until the next Annual Meeting or until a successor
 
 appointed.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -492,7 +492,7 @@ Reception for the Limerick Minor Hurling Team on winning the All-Ireland Minor H
 
 2026.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -512,5 +512,5 @@ This concluded the meeting.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

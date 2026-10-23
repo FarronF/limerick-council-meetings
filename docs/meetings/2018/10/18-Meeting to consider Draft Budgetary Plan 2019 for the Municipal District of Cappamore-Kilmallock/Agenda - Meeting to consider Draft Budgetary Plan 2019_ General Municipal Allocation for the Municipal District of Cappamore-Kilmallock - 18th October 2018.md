@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to consider Draft Budgetary Plan 2019_ General Municipal Allocation for the Municipal District of Cappamore-Kilmallock - 18th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -59,5 +59,5 @@ Kilmallock.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

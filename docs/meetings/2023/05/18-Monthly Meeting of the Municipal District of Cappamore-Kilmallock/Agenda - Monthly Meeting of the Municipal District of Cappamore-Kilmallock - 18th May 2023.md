@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-Agenda-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-18th-May-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **12th** **May 2023.**
 
@@ -54,7 +54,7 @@ Kilmallock held on the 20th April 2023
 
 Relating to the Minutes of the Municipal District Meeting of 20th April 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -104,7 +104,7 @@ Limerick City and County Council to compulsory purchase order land that is near 
 
 Cemetery with a view to constructing a suitable parking area.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -134,5 +134,5 @@ Dept.
 
 4. The planned date for the estate to be taken over by Limerick City & County Council.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 18th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01-2019-09-18-Minutes-September.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -108,7 +108,7 @@ concerning proposal to dispose of land at Carraward East, Dromcollogher,
 
 Co. Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ comprehensive overview of local authority housing within the District. The numbe
 
 purchased, vacant houses, funding available for upgrades under various funding streams and
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ Community Development Directorate
 
 To consider Community Initiative Scheme for 2019.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ design of a right turn lane for N21 Ward’s Cross and an initial stage design o
 
 options for the N21 Devon Cross junction.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ There will also be an upgrade of the storm water network in the general area of 
 
 exit roadway and the N21 junction.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -506,7 +506,7 @@ Question submitted by Councillor T. Ruddle
 
 ***Knockaderry be completed.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -576,7 +576,7 @@ at the Old Mill/Ballyine, Newcastle West.
 
 The Motion was seconded by Councillor Scanlan.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ Glin. In replying, the Senior Executive Engineer stated that the provision of ro
 
 the county is being reviewed at present.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -696,5 +696,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

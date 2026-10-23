@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Cappamore-Kilmallock - 23rd June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20Meeting%20of%20Municipal%20District%20of.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF CAPPAMORE-**
 
@@ -90,7 +90,7 @@ they would be looked at.
 
 detection was processed the same as drink driving.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ The Senior Executive Engineer advised that additional funding of €30,000 was a
 
 the Development Fund Allocation (Ancillary Projects) 2016 for the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Area Plans and that there is consistency between the economic and the community 
 
 of the LECP, in accordance with Section 66 of the Local Government Act, 2001, as amended”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -352,7 +352,7 @@ Friendly Initiative and Tourism / Marketing and that this item would be on the a
 
 next Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,5 +424,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

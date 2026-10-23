@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 11th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/01-b-minutes-special-meeting-11th-february-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ adapting practices to ensure that everyone had an opportunity to get involved in
 
 This included webinars, development of a virtual room, Online meetings held on Zoom, etc.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 He confirmed that the next step in the process would be the Special Meeting scheduled for
 
@@ -176,7 +176,7 @@ After further discussions and deliberations it was agreed not to formally extend
 
 for completion to the 5th August 2022 and the Members agreed instead to continue with the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 current process, with Members retaining the option to avail of the additional 54 days for
 
@@ -212,5 +212,5 @@ Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\
 
 **Mayor**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 17th October 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-a-Minutes-Meeting-of-the-Municipal-District-of-Adare-Rathkeale-17th-October-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ Proposed by Councillor O’Donoghue;
 
 Seconded by Councillor Teskey;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ Councillor O’Brien referred to the investment by Irish Rail for the Limerick t
 
 the recent delays in delivering the project due to appeals made through the statutory
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ have been addressed and added that Transport Infrastructure Ireland are in favou
 
 of cars slowing down at junctions instead of widening junctions.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -320,7 +320,7 @@ On the proposal of Councillor O’Donoghue, seconded by Councillor O’Brien, it
 
 to allocate the following:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ Improvement Scheme in 2021 by Limerick City and County Council with all
 
 subsequent maintenance requirements on the road being the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -466,7 +466,7 @@ public health.
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -518,5 +518,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

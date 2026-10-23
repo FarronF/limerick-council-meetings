@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 9th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-04/minutes-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-9th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
@@ -100,7 +100,7 @@ included on the scheme but accepted can be worthy establishments and advised tha
 
 Council has some discretion around what it includes on the scheme.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 •
 
@@ -190,7 +190,7 @@ the settlement was a valid reason to grant permission when a clear housing need 
 
 demonstrated.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Maria Woods, Senior Planner opened the discussion and gave an outline on the case at which point
 
@@ -284,7 +284,7 @@ that the Development Plan policy already allows for Social and Economic need to 
 
 considered in accordance with National and Regional Policy.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Ms Brislane advised she will make presentation available to all members.
 
@@ -360,5 +360,5 @@ The business of the meeting concluded at 4.15pm.
 
 (Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

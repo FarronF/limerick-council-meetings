@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Draft%20Minutes%20Monthly%20Meeting%2020th%20July%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 held on 20th June, 2022.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ out proposals for the disposal of 0.0606 hectares of land at Teach na hAbhann, R
 
 Limerick and the intention to bring a Section 183 Notice to Full Council in this regard, for
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ the 14 units with an anticipated completion date of October 2022.
 
 **6.Question submitted by Councillor C. Slattery**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ communicated to the successful tenderer.
 
 ***during Summer season.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -396,7 +396,7 @@ Total (ex VAT)
 
 €40,640
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -480,7 +480,7 @@ The Notice of Motion was proposed by Councillor Secas, seconded by Councillor Sh
 
 agreed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -556,7 +556,7 @@ reviewed and has now concluded with the final decision of Gordon Daly, Director 
 
 Community, Tourism and Culture on the matter as follows:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,5 +620,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

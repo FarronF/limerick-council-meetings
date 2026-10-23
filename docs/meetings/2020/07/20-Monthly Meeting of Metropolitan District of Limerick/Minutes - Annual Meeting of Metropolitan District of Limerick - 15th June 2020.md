@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Metropolitan District of Limerick - 15th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-07/01b-draft-minutes-annual-meeting-15th-june-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -92,7 +92,7 @@ Proposed by Councillor S. Hartigan;
 
 Seconded by Councillor S. Benson;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Councillor Kiely then addressed the Chamber:
 
 *station their home in Tait place with the help of the executive. I got so much from my time with them*
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -314,7 +314,7 @@ Councillor Kiely then addressed the Chamber:
 
 *“I have never in my life learned anything from someone who agreed with me “* *(Dudley Field Malone)*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -378,7 +378,7 @@ Councillor McSweeney then addressed the Chamber:
 
 *me to Limerick City and County Council.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,5 +426,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

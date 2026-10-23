@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 22nd February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/agenda-of-spc-mtg-22nd-feb-20211.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **16 February 2021**
 
@@ -52,5 +52,5 @@ Yours sincerely
 
 ***SEO, Economic Development Directorate***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

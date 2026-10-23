@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st may 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%28a%29%20Minutes%2021st%20May%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -86,7 +86,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ working with them on creating a strategy and financial model that would benefit 
 
 Rugby and Limerick City and County Council.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ stated that the product used was Ecoflex, which causes minimum disruption to the
 
 environmentally friendly and is the most economical footpath repair.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ in the Metropolitan Area of Limerick for the same period is 2,640. This figure
 
 excludes HAP, RAS and Local Authority Tenant transfers.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ The Members further requested that no development progress on this site until th
 
 are resolved.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ submission from the Members of the Metropolitan District of Limerick.
 
 “The Irish Cement Plant in Mungret is currently before the courts due to poor environmental
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -600,7 +600,7 @@ in the vicinity of the plant over many decades. If there are significant unknown
 
 the existing process how can we allow that risk to be radically increased, by a firm just emerging
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -684,7 +684,7 @@ CRH’s application identifies 114 categories of industrial waste, used both as 
 
 “alternative raw materials” for cement to be incinerated. We are concerned that no evidence has
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -768,7 +768,7 @@ significant stabilisation works carried out in recent years. Therefore, these tw
 
 buildings are not currently available for letting in the short-term.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,5 +816,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

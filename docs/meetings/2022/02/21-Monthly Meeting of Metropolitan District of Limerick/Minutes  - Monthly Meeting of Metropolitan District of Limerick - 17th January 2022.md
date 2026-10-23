@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 17th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-draft-minutes-monthly-meeting-17th-january-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -82,7 +82,7 @@ And Resolved:
 
 adopted and signed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Consideration will be given to the installation of a pedestrian crossing as requ
 
 to funding being made available.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ collectors advising that “*no time limit applies for the collection of househo
 
 ***undertake the Pilot Acoustic Mitigation Project.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ used to adjust/verify the volume study which will also look at suggestions for h
 
 integrate the findings, and the city wall, into any future project and urban realm proposal
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -550,7 +550,7 @@ Park Road
 
 Medium to long term objective
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -762,7 +762,7 @@ Medium to long term objective
 
 ***the Council own in Grove Island.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -836,7 +836,7 @@ The projects that included the Social Clause are as follows:
 
  Cliona Park Phase 3;
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -918,7 +918,7 @@ The Council will continue to work on a cross-departmental basis to enhance the c
 
 including working with property owners to apply proactive solutions to waste receptacles
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -946,5 +946,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

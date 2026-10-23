@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 25th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01-a-minutes-council-meeting-25.01.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF LIMERICK CITY AND
 
@@ -92,7 +92,7 @@ institutions, where infant mortality was rampant and where women felt they had n
 
 but to give up their children for adoption.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ Circulated, copy of Statutory Notice dated 19th November, 2020, concerning dispo
 
 of land at Camheen, Mungret, Co. Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Seconded by Councillor Galvin;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ amended, the Annual Service Delivery Plan 2021 for Limerick City and County Coun
 
 circulated, be and is hereby adopted.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ as a City and County, and that there would be a lot of engagement with Councillo
 
 public going forward.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -486,7 +486,7 @@ implications of COVID-19, as this issue was not previously considered in the Nat
 
 Planning Framework.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -568,7 +568,7 @@ The Mayor then proposed the following amended Motion to encompass and capture
 
 the varying issues and concerns outlined in the five Motions:
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -650,7 +650,7 @@ any issues from Members. The making of the Development Plan was a legal process 
 
 statutory timelines.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -734,7 +734,7 @@ approaching 5.30pm and on the proposal of Councillor Galvin, seconded by Council
 
 Sheahan (J), Standing Orders were suspended in order to complete the agenda.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -814,7 +814,7 @@ greenways. He added that major infrastructure projects needed to be included as 
 
 of the Council’s Development Plan.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -894,7 +894,7 @@ Meeting / Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -974,7 +974,7 @@ and outlined his own personal experience.
 
 The amended Motion received broad support from the Members.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1062,7 +1062,7 @@ of Agriculture was the relevant Body to address this problem and this Department
 
 rural issues. He added that the Council had regular liaison with An Garda Síochána to address
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1102,5 +1102,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

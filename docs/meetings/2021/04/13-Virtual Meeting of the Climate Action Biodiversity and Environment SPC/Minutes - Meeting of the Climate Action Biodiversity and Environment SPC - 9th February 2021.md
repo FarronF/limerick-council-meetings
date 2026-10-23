@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action Biodiversity and Environment SPC - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/20210209-draft-minutes-cabe-spc-1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ Draft Framework - Consultation 2.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,7 +142,7 @@ in Group 4 region which included Dublin; (ii) that Limerick would argue that no 
 
 be taken from the Shannon until such time as the leakage issues in Dublin were addressed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -218,7 +218,7 @@ I will move at the next Meeting that Limerick City and County Council introduce 
 
 Tree” scheme to encourage the planting or retention of a single community tree in all new
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -282,7 +282,7 @@ This concept is something we can explore further in the context of the developme
 
 Tree Management Strategy.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -332,5 +332,5 @@ Mr. Kennedy undertook to liaise with Waterways Ireland/OPW regarding this practi
 
 The Chair concluded the meeting.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

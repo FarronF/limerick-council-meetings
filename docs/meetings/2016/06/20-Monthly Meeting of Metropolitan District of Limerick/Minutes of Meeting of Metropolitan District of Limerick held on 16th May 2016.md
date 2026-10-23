@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Metropolitan District of Limerick held on 16th May 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20held%20on%2016th%20May%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -94,7 +94,7 @@ they were unable to respond satisfactorily to media queries and called on the Ch
 
 engage with Councillors on major issues, before they were presented to the media.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ It was agreed that the Annual Meeting of the Metropolitan District of Limerick w
 
 on Friday, 24th June at 5pm.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Iarnrod Eireann in relation to the future use of this line and the Senior Execut
 
 undertook to revert to the Members in relation to same.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -354,7 +354,7 @@ in their databases in relation to 'Roxboro' and south side Limerick City address
 
 Discussions are continuing to advance with regard to these lands at Ballykeefe
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -442,7 +442,7 @@ traders)
 
 ***difficulties since the Council merger in 2014?***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -528,7 +528,7 @@ offered protection from vandalism. A view was also expressed that the railings a
 
 statue at its current location be recessed to allow access at all hours of the day.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -612,7 +612,7 @@ housing and pointed out that a number of the sites in question may be eligible f
 
 process. In seconding the motion Councillor McCreesh noted that the motion was appropriate
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -698,7 +698,7 @@ quality monitoring. Zones A & B relate to Dublin and Cork respectively and both
 
 of these areas have permanent air quality monitoring stations. Limerick is a Zone
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,7 +782,7 @@ On the proposal of Cmhlr. Ó Ceallaigh, seconded by Councillor Sheahan, it was a
 
 Standing Orders would be suspended to allow for the completion of the agenda.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -866,7 +866,7 @@ Members requested that the Economic Development Directorate attend at a future M
 
 discuss existing projects and proposals going forward in this regard.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -956,7 +956,7 @@ Council website or at the front desk in Planning and Environmental Services
 
 Department in County Hall, Dooradoyle.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -978,5 +978,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

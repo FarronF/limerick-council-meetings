@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-09/01%20Minutes%2010th%20July%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -88,7 +88,7 @@ On the proposal of Councillor O’Donoghue, seconded by Councillor Keary it was 
 
 this item should also go to the Full Council Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **1.**
 
@@ -162,7 +162,7 @@ approach be taken for the County due to restrictions on new builds. He also sugg
 
 there should be less restrictions on listed buildings. On the proposal of Councillor
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 O’Donoghue, seconded by Councillor Sheahan it was proposed a letter be sent to Tom
 
@@ -228,7 +228,7 @@ The Cathaoirleach deferred Item 4 (a) until the September Meeting.
 
 The Cathaoirleach deferred Item 4 (b) until the September Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **5.**
 
@@ -290,7 +290,7 @@ being prepared to An Bord Pleanála.
 
 The Cathaoirleach deferred this item until the September Meeting.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 At the conclusion of the Agenda the following were raised by Members.
 
@@ -350,5 +350,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

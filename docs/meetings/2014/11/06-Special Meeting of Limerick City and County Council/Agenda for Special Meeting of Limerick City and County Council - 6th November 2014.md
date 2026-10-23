@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda for Special Meeting of Limerick City and County Council - 6th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_6th_november_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -56,7 +56,7 @@ Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCourcil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -93,5 +93,5 @@ Printed/Hard copy with signatures will be dropped into Council later.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

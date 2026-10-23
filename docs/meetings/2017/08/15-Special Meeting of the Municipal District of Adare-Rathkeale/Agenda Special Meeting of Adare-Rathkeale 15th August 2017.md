@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda Special Meeting of Adare-Rathkeale 15th August 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/00%20Agenda%20Special%20Meeting%2015th%20August%20.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,5 +77,5 @@ Corporate Headquarters, Merchants Quay, Limerick ( 061 - $57150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

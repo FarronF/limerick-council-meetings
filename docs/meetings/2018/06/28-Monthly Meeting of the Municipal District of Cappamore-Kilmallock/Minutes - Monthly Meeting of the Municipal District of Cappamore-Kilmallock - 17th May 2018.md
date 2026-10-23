@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20Minutes%2017th%20May%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -90,7 +90,7 @@ Circulated, report of the Director of Services, Service Operations Directorate, 
 
 20 housing units at Glenview Drive, Hospital, Co. Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ white lining. The cost per linear metre of verge improvement would be high in
 
 comparison to full width road reconstruction.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ Ducting will be beneficial for CCTV and also for broadband and co-location and
 
 co-development of other communications infrastructure.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ rural areas of the County. Following a general discussion on the issues involved
 
 agreed to submit the following Notice of Motion to the next full Council meeting:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -370,5 +370,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

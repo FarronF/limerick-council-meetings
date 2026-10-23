@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28a%29%202022-11-02%20Minutes%20November.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ bedroomed units for additional space and also stated that a completion date of 2
 
 expected for these units.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ REPLY:
 
 A. In and around 2016.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ This junction can be considered for the Low Cost Safety Scheme. We will need
 
 to consult and obtain permission from the relevant landowners.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ If the Notice of Motion is agreed at the District meeting, we will write to the 
 
 improved levels of services from them as a service provider.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -462,7 +462,7 @@ In replying, the Senior Executive Engineer stated that the distributor road woul
 
 be a developer led project which would form part of the Local Area Plan.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -542,7 +542,7 @@ It was agreed that a Meeting would take place with Members of An Garda Síochán
 
 4th November, 2022, at 10.00 a.m., at Áras William Smith OBrien.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -562,5 +562,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

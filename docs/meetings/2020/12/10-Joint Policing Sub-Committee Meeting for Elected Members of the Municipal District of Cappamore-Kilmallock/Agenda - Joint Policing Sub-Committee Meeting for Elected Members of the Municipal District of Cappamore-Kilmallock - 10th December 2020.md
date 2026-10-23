@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock - 10th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/01-agenda-for-dec-2020-jpc-sub-committee-mtg.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **3rd** **December, 2020.**
 
@@ -56,5 +56,5 @@ Sub-Committee held on 17th September, 2020.
 
 To discuss policing issues in the District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

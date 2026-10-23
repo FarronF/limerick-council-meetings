@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 22nd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-a-minutes-council-meeting-22.11.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ VOTES OF SYMPATHY
 
 With the permission of the Mayor, the Council expressed its sympathy to the following:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Those present sitting on the Board of Directors of Limerick Twenty Thirty made a
 
 of interest.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ of the interest of Limerick City and County Council in the property, particulars
 
 contained in Statutory Notice dated 27th September, 2021.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ Circulated, copy of Statutory Notice dated 5th November, 2021, concerning dispos
 
 property (0.0157 acres) comprising Former Library Building, Hospital, Co. Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ at Rutland Street, Patrick Street, Ellen Street, Michael Street and Bank Place,
 
 Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -566,7 +566,7 @@ known as the Opera Site (including the Granary Building), located at Rutland Str
 
 Street, Ellen Street, Michael Street and Bank Place, Limerick, to Limerick Twenty Thirty
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -650,7 +650,7 @@ Seconded by Councillor Ryan (E);
 
 And Resolved:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -746,7 +746,7 @@ Community
 
 Centre
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -840,7 +840,7 @@ held on 4th October, 2021.
 
 The report was noted by the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -910,7 +910,7 @@ Seconded by Councillor Galvin;
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -988,7 +988,7 @@ They also noted the constraints in relation to water and sewage infrastructure, 
 
 also affect the plan, along with the shortage of building contractors and increased costs of
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1060,7 +1060,7 @@ Council approved the attendance of the following Members:
 
 **Carlingford, Co. Louth:** Councillors M. Collins, K. O’Hanlon, C. Sheehan, K. Sheahan, A. Teskey.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1132,7 +1132,7 @@ considerations to be incorporated into the award process but do not permit
 
 product specific references.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1208,7 +1208,7 @@ Councillors Benson, Butler, Costelloe, Galvin, Hartigan, Keary, Kiely, Kilcoyne,
 
 Novak, O’Sullivan, Secas, Sheahan (J), Sheehan (C). **(15)**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1284,7 +1284,7 @@ Question submitted by Councillor S. Benson
 
 **area.**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1368,7 +1368,7 @@ their levels of risk. It defines three categories of civil drone operations: the
 
 ‘open’, the ‘specific’ and the ‘certified’ category.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1448,7 +1448,7 @@ It was agreed that a date for the Adjourned Meeting would be fixed in consultati
 
 Mayor and that the Meeting would be held Online.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1476,5 +1476,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

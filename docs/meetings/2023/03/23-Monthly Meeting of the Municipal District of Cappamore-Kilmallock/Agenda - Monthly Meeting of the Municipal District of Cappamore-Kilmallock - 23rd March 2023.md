@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 23rd March 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-03/01%20Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2023rd%20March%202023_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **13th** **March 2023.**
 
@@ -54,7 +54,7 @@ Kilmallock held on the 16th February 2023
 
 Relating to the Minutes of the Municipal District Meeting of 16th February 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -104,7 +104,7 @@ and Acton town, Massachusetts, USA, home to Mary Josephine Hannon, wife of John 
 
 "Honey Fitz" Fitzgerald.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -154,5 +154,5 @@ I will ask at the next meeting of the Cappamore/Kilmallock Municipal District to
 
 capacity and load of the wastewater treatment plant in Kilmallock.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

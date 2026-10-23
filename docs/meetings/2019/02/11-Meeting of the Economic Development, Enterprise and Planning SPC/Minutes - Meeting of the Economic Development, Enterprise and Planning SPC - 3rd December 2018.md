@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 3rd December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/Minutes%20of%20SPC%203rd%20December%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -124,7 +124,7 @@ In reply to queries regarding payment of contributions M. Woods, clarified what 
 
 development contribution scheme states in relation to change of use applications i.e.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 ‘’where a contribution was paid previously for the existing use, the development shall
 
@@ -214,7 +214,7 @@ Failte Ireland Plans for 2019 include:
 
  9 VEDPs
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  1,000 Business Supports
 
@@ -292,7 +292,7 @@ Limerick website on the Limerick.ie platform in order to achieve the objective 3
 
 (unlocking the potential) of the above mentioned Action Plan.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 On the proposition of Cllr. O’Dea, seconded by Cllr. Eleanora Hogan it was
 
@@ -318,5 +318,5 @@ her major contribution to Limerick City and County Council over the years.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

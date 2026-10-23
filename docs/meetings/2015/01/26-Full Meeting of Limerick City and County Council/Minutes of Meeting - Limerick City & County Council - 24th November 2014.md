@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Limerick City & County Council - 24th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_of_meeting_-_limerick_city_county_council_-_24th_november_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
@@ -92,7 +92,7 @@ Seconded by Councillor Scanlan;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Circulated, copy of Statutory Notice dated 4th November, 2014, concerning
 
 disposal of land at 20, Linden Court, Kennedy Park, Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ Councillors Butler, Byrne, Galvin, Hourigan, Hurley, Keary, Mitchell, Neville,
 
 O’Donnell, Scanlan, Sheahan (K), Sheahan (M). **(12)**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ efforts of the Staff and Elected Members in these achievements. The Mayor stated
 
 that the trophies were on display in the Chamber.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -418,7 +418,7 @@ November, and submissions were received from the Agriculture/Farming and
 
 Environment/Conservation Pillars.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -512,7 +512,7 @@ Quinlivan, Prendiville, Keller, Leddin, Donegan (Chair), Clifford, Foley, O’De
 
 O’Donoghue, Teefy, Gilligan.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -580,7 +580,7 @@ Councillors Browne, Gilligan, McCreesh, McMahon, O’Brien, Cmhlr. Ó Ceallaigh,
 
 Quinlivan, Sheahan (K), Sheehy, Teefy. **(10)**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -646,7 +646,7 @@ O’Donnell, O’Hanlon, Scanlan, Secas, Sheahan (J), Sheahan (K), Sheahan (M),
 
 Teefy. **(26)**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -728,7 +728,7 @@ accommodation amounting to €31.5 million for the twelve month period
 
 ending 31st December, 2015.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,7 +816,7 @@ Circulated, report of Director of Economic Development and Planning dated
 
 outlined.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -902,7 +902,7 @@ time as it was ascertained what the funding was for and that the matter be discu
 
 at a Meeting of the Municipal District and then brought back to the full Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -986,7 +986,7 @@ was agreed that the following Members would attend:
 
 **Wexford:** Councillors O’Hanlon and Collins (M).
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1050,7 +1050,7 @@ Question submitted by Councillor L. Galvin
 
 ***(d) what happens where leaks are found regarding write-offs.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1136,7 +1136,7 @@ Consultation on a proposed future company structure and strategy for
 
 with practitioners, on-line survey and questionnaires.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1212,7 +1212,7 @@ Notice of Motion submitted by Councillor S. Browne
 
 **Respite Care Grant.**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1286,7 +1286,7 @@ The Mayor indicated that Notices of Motion Nos. 15 and 18 would be taken
 
 together:
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1372,7 +1372,7 @@ and that the road was not fit for purpose. He added that he had made several
 
 submissions to the National Roads Authority in this regard.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1450,7 +1450,7 @@ time and energy to local charities and that this needed to be acknowledged.
 
 The Motion was seconded by Councillor Donegan and agreed.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1524,7 +1524,7 @@ event that they were brought back into use, they could then be declared.  He
 
 requested that this Motion be circulated to all Local Authorities and this was agreed.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1614,7 +1614,7 @@ Policy Committees. Councillor Prendiville stated that they did not wish to be
 
 represented on the proposed Committee.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1700,7 +1700,7 @@ frontage development on roads leading out of towns and villages
 
 except in exceptional circumstances.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1782,7 +1782,7 @@ onerous process and, in this case, would not achieve any difference in
 
 the outcome of the policy.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1852,7 +1852,7 @@ The Motion, as amended, was seconded by Councillor Sheahan (J).
 
 Councillor Donegan stated that he wanted the matter dealt with speedily.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1924,7 +1924,7 @@ The Director of Travel and Transportation stated that public consultation
 
 would take place early in the New Year regarding Foynes-Limerick route.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -1960,5 +1960,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 3rd December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/Agenda%20T%26T%20SPC%203.12.18.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -47,7 +47,7 @@ PHYSICAL DEVELOPMENT DIRECTORATE
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,5 +82,5 @@ to an acceptable level within these residential developments.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

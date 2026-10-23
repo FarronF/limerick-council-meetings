@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Draft Budgetary Plan - Monthly Meeting of Metropolitan District of Limerick - 27th October 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%28b%29%20Minutes%20of%20Draft%20Budgetary%20Plan%20Meeting%2027th%20October%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN MEETING FOR THE METROPOLITAN**
 
@@ -108,5 +108,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 12th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-12th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,7 +66,7 @@ asked if there was national funding for implementing the plan.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -128,7 +128,7 @@ would commence, however it was decided that the works were not suitable. He sugg
 
 the engineers should carry out the survey first and then inform residents.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -196,7 +196,7 @@ the end of speed ramps as they do an amazing job at schools. She added that ther
 
 schools on the Dublin Road and knowing what is on the road should be applied as an additional
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -258,7 +258,7 @@ there will be more than 20 GoCars and if the project is approved only for the ci
 
 county is included.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -290,5 +290,5 @@ confirmed that the next meeting is Tuesday, the 13th of February 2024.
 
 This concluded the business of the meeting.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

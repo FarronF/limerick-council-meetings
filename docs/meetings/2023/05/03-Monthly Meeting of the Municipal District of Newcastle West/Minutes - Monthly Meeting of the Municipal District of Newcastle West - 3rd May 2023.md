@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01%202023-04-05%20Minutes%20April.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ Proposed by: Councillor Foley
 
 Seconded by: Councillor Scanlan
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ made available for the various projects, which was also welcomed. They also note
 
 works proposed in the Schedule was well distributed throughout the District.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ to be reviewed as part of the scheme. He made reference to landowner agreements 
 
 are currently in progress and to a Tender which is to be issued in Quarter 2 2023. He outlined
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ On the proposal of Councillor Foley, seconded by Councillor Scanlan, it was agre
 
 €2,000 to Tournafulla GAA.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -376,7 +376,7 @@ that it will be used for community facilities and that the money is not over all
 
 works required.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -528,7 +528,7 @@ follows:
 
 **0**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -684,7 +684,7 @@ Dore’s Cross and are currently developing a feasibility report for submission 
 
 feasibility report will look at a number of potential improvements at the junction and aim
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -760,7 +760,7 @@ Dromcollogher Town. The intention is to have the Plan brought to the Newcastle W
 
 Municipal District Meeting for publication in Quarter 2 of this year.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -824,7 +824,7 @@ matter.
 
 15. Notice of Motion submitted by Councillor J. Scanlan
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -892,7 +892,7 @@ drawings would be prepared and a submission made to the TII for a Road Safety Au
 
 carried out at this location.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -938,5 +938,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

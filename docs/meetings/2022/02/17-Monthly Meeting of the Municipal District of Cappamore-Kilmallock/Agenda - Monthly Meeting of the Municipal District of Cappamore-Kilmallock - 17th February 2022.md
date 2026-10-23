@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 17th February 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/01-agenda-for-february-2022-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **11th** **February 2022.**
 
@@ -64,7 +64,7 @@ Disposal of Property at Ardrahin, Galbally, Co Limerick
 
 Presentation by Diarmuid Cronin, Community Alert, Muintir na Tire.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ remaining openings of the Church closed off.
 
 Question submitted by Councillor Egan
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -156,5 +156,5 @@ engineer to have a look and provide further proper safe parking to accommodate t
 
 in Sycamore Drive Estate in Bruff as residents are forced to park on green area.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

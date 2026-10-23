@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 16th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20of%20SPC%20Mtg%20%20-%2016th%20Oct%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **2ND** **October, 2019**
 
@@ -58,5 +58,5 @@ Yours sincerely
 
 ***Economic Development***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

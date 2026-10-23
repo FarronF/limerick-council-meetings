@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,5 +77,5 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

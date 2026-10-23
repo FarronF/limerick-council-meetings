@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 6th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/minutes-meeting-of-the-municipal-district-of-newcastle-west-6th-november-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ Municipal Allocation for 2025, an increase of €189,500 on the 2024 GMA amount 
 
 €1,463,000. She stated that the total amount assigned to the Municipal District of Newcastle
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -192,7 +192,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads 
 
 The Members welcomed the Taking in Charge of the estate.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads 
 
 1993”.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ Following a brief discussion, there was no allocation of GMA funding at the Nove
 
 Meeting of the District.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ Question submitted by Councillor L. Galvin
 
 ***possible.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -546,7 +546,7 @@ required business cases are prepared in accordance with Public Spending Code
 
 requirements.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -622,7 +622,7 @@ All potential NTA schemes will have to vetted and approved by the NTA, this
 
 proposal is unlikely to fall under the criteria for their approval.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -698,7 +698,7 @@ It was agreed to hold the December Meeting of the District on Friday, 6th Decemb
 
 This concluded the Meeting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -712,5 +712,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

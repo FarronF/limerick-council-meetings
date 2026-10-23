@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Ordinary Meeting of Limerick City and County Council - 13th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/01-a-draft-minutes-ordinary-meeting-ordinary-meeting-of-limerick-city-and-county-council-13th-july-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -90,7 +90,7 @@ The Meetings Administrator confirmed that the minutes of the Annual Meeting of t
 
 held on 30th June, 2026 would be amended as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -148,7 +148,7 @@ subject to the covenants and conditions contained therein, particulars of which 
 
 contained in Statutory Notice dated 30th June, 2026”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -216,7 +216,7 @@ New Community Burial Ground Grant Scheme, as set out in the report of the Direct
 
 Service, Environment, Climate Action and Fire dated 24th June, 2026.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -282,7 +282,7 @@ Members requested that additional funding be considered for Christmas lighting i
 
 West to facilitate the installation of lighting on additional streets in the town.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -354,7 +354,7 @@ McCarthy of the Limerick Traveller Network to the Local Traveller Accommodation
 
 Consultative Committee.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -432,7 +432,7 @@ The following was proposed by Councillor Kilcoyne and seconded by Councillor Pon
 
 *Planning and Development Act 2024. Time frame September**”.*
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -510,7 +510,7 @@ It was agreed on the proposal of Councillor Sheahan and seconded by Councillor O
 
 that the Meeting be adjourned for 15 minutes.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -574,7 +574,7 @@ would continue to take place with the local community in consultation with An Ga
 
 Síochána and the National Transport Authority regarding traffic management arrangements.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -646,7 +646,7 @@ Tax. He further advised that the Council’s contribution towards the increased 
 
 homelessness services amounted to €800,000.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -720,7 +720,7 @@ And Resolved:
 
 “That the Museum Policies, as circulated, be and are hereby approved”.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -784,7 +784,7 @@ And Resolved:
 
 2025 – 2029, as circulated, be and is hereby approved”.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -836,7 +836,7 @@ Event.
 
 The reports were noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -918,7 +918,7 @@ Ryan (M), Scanlan, Sheahan, Slattery, Stokes, Talukder, Teefy, Ward.
 
 (26)
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -976,7 +976,7 @@ requesting that the full parliamentary privilege afforded to Members of the Oire
 
 extended to all Elected Members of local authorities.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1058,7 +1058,7 @@ responses to sustained organised criminal activity rather than a recent policy o
 
 allocating CCTV infrastructure by geographical area.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1128,7 +1128,7 @@ installation over thirty years ago and believed that a review should be undertak
 
 areas requiring future investment.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1210,7 +1210,7 @@ local authority seeking to attract investment, build confidence and deliver thou
 
 of homes must communicate clearly and professionally.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1262,7 +1262,7 @@ centres; however, such information may be included in the planning application
 
 details pertaining to the site and development.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1350,7 +1350,7 @@ staff, helping to ensure that accessibility and reasonable accommodation
 
 considerations are embedded across Council services.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1432,7 +1432,7 @@ place marketing and destination positioning framework. Since its launch in 2020,
 
 brand has evolved from a standalone identity project into a strategic platform used to
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1520,7 +1520,7 @@ continue to serve as the overarching framework for tourism, investment, talent
 
 attraction, culture, sport and civic promotion activities.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1592,7 +1592,7 @@ It was agreed to refer this Motion to the Travel and Transportation Strategic Po
 
 Committee.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1664,7 +1664,7 @@ could not move the Motion, therefore, the Notice of Motion was proposed by Counc
 
 Sheahan and seconded by Councillor Scanlan.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -1732,7 +1732,7 @@ It was agreed to refer this Motion to the Home and Social Development Strategic 
 
 Committee.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -1820,7 +1820,7 @@ The Council works closely to ensure suitable applicants are identified for prope
 
 before refurbishment works are completed, thereby minimising vacancy periods. The
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -1890,7 +1890,7 @@ In moving the Motion, Councillor O’Donovan highlighted the impact on students 
 
 the sudden closure of the Student Campus.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -1960,5 +1960,5 @@ amended, is available on SharePoint for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 

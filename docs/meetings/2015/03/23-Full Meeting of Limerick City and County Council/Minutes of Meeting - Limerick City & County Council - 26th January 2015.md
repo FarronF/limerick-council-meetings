@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - Limerick City & County Council - 26th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY
 
@@ -100,7 +100,7 @@ The Meetings Administrator stated that amendments to the Minutes of Meeting of
 
 Committees as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -180,7 +180,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -266,7 +266,7 @@ Seconded by Councillor Sheahan (M);
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -354,7 +354,7 @@ Limerick City and County Council in the property, particulars of which were cont
 
 Statutory Notice dated 15th January, 2015.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **5**
 
@@ -432,7 +432,7 @@ disposal of house at Corgrigg, Foynes, Co. Limerick, and, in particular, in rela
 
 consideration/sale price for the house.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **6**
 
@@ -516,7 +516,7 @@ Economic and Spatial Plan; (iii) Amendment to advertising policy relating to "Bu
 
 Shelters/Other Stand-Alone Structures" (page 196 in City Development Plan 2010).
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **7**
 
@@ -598,7 +598,7 @@ Limerick; (vii) Willowbrook, Abbeyfeale - be taken in charge, in accordance with
 
 1993.”
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **8**
 
@@ -676,7 +676,7 @@ was agreed that the following Members would attend:
 
 **Galway:** Councillor O’Dea.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **9**
 
@@ -742,7 +742,7 @@ Circular Fin 15/2014 provided information in relation to property valuation
 
 bands for each local authority area from the Revenue Commission.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **10**
 
@@ -858,7 +858,7 @@ consideration and adoption, with or without amendment, by the Municipal
 
 District Members.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **11**
 
@@ -938,7 +938,7 @@ University Hospital Limerick to address a future Meeting of Limerick City and Co
 
 Council in relation to overcrowding in the Accident and Emergency Department.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **12**
 
@@ -1018,7 +1018,7 @@ Notice of Motion submitted by Cmhlr. S. Ó Ceallaigh
 
 ***authorities.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **13**
 
@@ -1090,7 +1090,7 @@ MulkearLIFE had been nominated by Councillor Secas and had won in the category o
 
 done with local landowners to improve the quality of water in the Mulkear Catchment.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **14**
 
@@ -1116,5 +1116,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 21st April 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-agenda-for-april-2022-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **11th** **April 2022.**
 
@@ -68,7 +68,7 @@ Agreement of wording of Question from January JPC Meeting to be submitted to nex
 
 Meeting of Limerick City and County Council.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -128,7 +128,7 @@ have to cross the road to the school morning and evening. A pedestrian crossing/
 
 calming is needed for safe crossing to the school.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -170,5 +170,5 @@ area. Great work has been done on the roads and on the various drainage schemes 
 
 out but the ongoing maintenance is needed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

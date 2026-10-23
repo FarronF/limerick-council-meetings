@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Inaugural Annual Meeting of the Metropolitan District of Limerick - 16th June 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_inaugural_annual_meeting_of_the_metropolitan_district_of_limerick_-_16_june_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ A vote was taken which resulted as follows :
 
 Councillors Butler, Byrne, Clifford, Collins, Crowley, Hourigan, Hurley, Lynch, O'Dea,
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 O'Hanlon and Sheahan (11)
 
@@ -182,7 +182,7 @@ Proposed by Councillor Hourigan;
 
 Seconded by Councillor Collins;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 “That, Councillor Maria Byrne be appointed Deputy Mayor of the Metropolitan District of
 
@@ -268,7 +268,7 @@ Cork on 26th June. He said that Members who wished to attend same should inform
 
 Corporate Services Department accordingly.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 6.
 
@@ -290,5 +290,5 @@ Dáta:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

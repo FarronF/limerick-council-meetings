@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda -  Meeting of the Municipal District of Cappamore-Kilmallock - 11th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-11th-december-2025_1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -78,7 +78,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickC
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -123,7 +123,7 @@ to each Notice to Quit issued?
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -139,5 +139,5 @@ resurfacing works in the 2026 Schedule of Municipal District Works Programme.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

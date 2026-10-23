@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Special Meeting of Municipal District of Adare-Rathkeale - 8th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/01-a-draft-minutes-special-meeting-of-municipal-district-of-adare-rathkeale-8th-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ of Motion from the Agenda of the April Adare-Rathkeale Municipal District Meetin
 
 This concluded the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Signed:
 
@@ -102,5 +102,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

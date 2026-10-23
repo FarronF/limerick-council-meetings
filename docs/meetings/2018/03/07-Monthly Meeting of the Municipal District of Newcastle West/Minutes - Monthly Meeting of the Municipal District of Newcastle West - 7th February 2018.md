@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%202018-02-07%20Minutes%20February.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ On the proposal of Councillor Foley, seconded by Councillor Collins, it was agre
 
 €500 to footpath upgrades at Daar River, Newcastle West.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Question submitted by Councillor L. Galvin
 
 ***(a)**L7093 Dromtrasna***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ is awaited. It was agreed that the Senior Executive Engineer would follow up on 
 
 with the Office of Public Works.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ Roads Executive Engineer, Adare/Rathkeale Municipal District on ensuring that ro
 
 standards are being maintained following these works.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ In replying, the Senior Executive Officer stated that the Director, Service Oper
 
 committed to commence a Public Realm Study for Dromcollogher Town.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -478,7 +478,7 @@ out repairs. It was agreed that the Members would forward their comments with re
 
 this matter to the Senior Executive Engineer for follow up with the service provider.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -502,5 +502,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

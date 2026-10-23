@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda -  Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 13th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -82,5 +82,5 @@ Limerick as a more inclusive destination. I urge your support for this beneficia
 
 7. AOB
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

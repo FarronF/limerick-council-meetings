@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Monthly - Monthly Meeting of Metropolitan District of Limerick - 20th September 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/02b-draft-minutes-monthly-meeting-20th-september-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 setting out proposals to dispose of Freehold Interest of premises consisting of a dwelling house
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Act 2000 (as amended) and Part 8 of the Planning and Development Regulations, 20
 
 amended) and noted that it was proposed to proceed in accordance with Section 5 of the report.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ The report, as circulated, was noted by the Elected Members.
 
 **QUESTIONS**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ material and videos. Furthermore, the UID have liaised with auctioneers in the c
 
 promote the scheme as part of the sales pack for properties within the qualifying area.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,7 +424,7 @@ not
 
 available.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ submission.
 
 ***out prior to removal.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ parts of the County and different properties at any time.
 
 **Question submitted by Councillor J. Costelloe**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -680,7 +680,7 @@ Service. It is the intention that any final design will address and incorporate 
 
 defences. In regard to exposing the gate which seems on the current evidence to actually
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -768,7 +768,7 @@ included in the CCTV Policy which would have to be followed.
 
 months. Some delays were experienced due to Covid restrictions during this period.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -838,7 +838,7 @@ Members by Bus Eireann.
 
 The motion was proposed by Councillor Kiely, seconded by Councillor O’Donovan and agreed.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -906,7 +906,7 @@ It was confirmed that an update on CCTV would be given at the December Meeting o
 
 **22.Notice of Motion submitted by Councillor E. Secas**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -980,7 +980,7 @@ Correspondence was noted and taken as read.
 
 This concluded the Meeting.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -994,5 +994,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

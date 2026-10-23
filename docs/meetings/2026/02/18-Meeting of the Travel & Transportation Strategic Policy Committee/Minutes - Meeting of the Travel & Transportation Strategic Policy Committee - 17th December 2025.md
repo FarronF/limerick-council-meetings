@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 17th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-travel-transportation-strategic-policy-committee-17th-december-2025_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -58,7 +58,7 @@ T. Goodwin (TG), Ms. N. McGarry (NMcG), Mr. S. McGlynn
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -110,7 +110,7 @@ service yet but will update accordingly.
 
 future of each on a case by case basis.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -162,7 +162,7 @@ looking for additional resources with a vew to make
 
 incremental improvements.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -212,7 +212,7 @@ Integration of the Active Travel Programme with Emergency
 
 Services; the summary was previously delivered on the 26th
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -262,7 +262,7 @@ Each SPC is encouraged to attend the workshops and develop
 
 their own work programme.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -308,7 +308,7 @@ schemes in an area which would take precedence.
 
 junction upgrades are prioritised with pedestrian facilities.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -358,7 +358,7 @@ Ryan concurred and asked where members can raise issues if
 
 they cannot raise them at the SPC, as cannot be raised at the full
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -408,7 +408,7 @@ herbicides in their work
 
 4. Agree to end use of glyphosate and other toxic herbicides.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -460,7 +460,7 @@ The chair wished to remind members that this is not a Motion, it
 
 is an item for discussion
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -484,5 +484,5 @@ following John Cregan’s resignation.
 
 This concluded the business of the meeting.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

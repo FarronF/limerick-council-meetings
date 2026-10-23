@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 19 September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-19-september-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -70,7 +70,7 @@ on 5th September 2024.
 
 Matters Arising
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -130,7 +130,7 @@ footpath be extended from Abbeyowney Estate, Murroe to the village, for the safe
 
 users and pedestrians.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -188,7 +188,7 @@ considerable development contribution in respect of the proposed childcare facil
 
 planning permission has been granted for 74 houses to Ballygrennan Homes Ltd”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -242,5 +242,5 @@ replace the batteries on the Driver Feedback signs in the Municipal District tha
 
 at present.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

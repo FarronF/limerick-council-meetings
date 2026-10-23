@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 2nd December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Agenda%20-%202nd%20Dec%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **27th** **November, 2019**
 
@@ -46,7 +46,7 @@ appended agenda.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -88,5 +88,5 @@ current management.
 
  A tree policy to descripe general and specific policies regarding trees and tree work”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

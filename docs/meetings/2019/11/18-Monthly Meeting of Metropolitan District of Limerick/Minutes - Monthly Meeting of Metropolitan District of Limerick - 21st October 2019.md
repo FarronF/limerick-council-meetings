@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28b%29%20Minutes%20Ordinary%20Meeting%2021st%20October%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
@@ -88,7 +88,7 @@ shed to acknowledge their nomination in the Pride of Place 2019 competition. The
 
 invited a representative from each group to brief the Members on their work to date.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -256,7 +256,7 @@ proposals to dispose of the Council’s Freehold (Ground Rent) Interest at 16 Re
 
 North Circular Road, Limerick and the intention to bring a Section 183 Notice to the
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -336,7 +336,7 @@ Councillor O’Sullivan and agreed.
 
 Circulated, Report of Director of Services, Housing Development dated 27th September, 2019.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -424,7 +424,7 @@ objectives were outlined to Members;
 
 •Mapping of vacant homes to gain an accurate picture of vacancy.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ to date approximately 25-30 properties have been completed and expects this to i
 
 relevant group/project promoter to receive an update on this project. A progress
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ that 99% of the users of Park Road arrived by car, the Dock Road site is readily
 
 available to such users.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -678,7 +678,7 @@ is set out below. A single point of contact is being rolled out to manage the re
 
 of vacant properties ensuring that inspections of same are carried out as a priority,
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -782,7 +782,7 @@ Committee.
 
 ***projects for the betterment of Limerick City.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -864,7 +864,7 @@ There are a number of local authorities that allow for live streaming of Council
 
 meetings deemed open to the public and we will liaise with these local authorities
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -938,5 +938,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

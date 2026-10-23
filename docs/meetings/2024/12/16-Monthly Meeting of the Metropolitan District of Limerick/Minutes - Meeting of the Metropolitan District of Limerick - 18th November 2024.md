@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 18th November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/minutes-meeting-of-the-metropolitan-district-of-limerick-18th-november-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -98,7 +98,7 @@ transport.
 
 They outlined some suggested possible solutions including:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -342,7 +342,7 @@ IRFU
 
 Yes
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -442,7 +442,7 @@ the drinking fountains in the City Centre area are due to take place in the near
 
 ***8 Housing Developments.***
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -518,7 +518,7 @@ breakdown of projected delivery of 4 bed units up to 2028**.**  There are a tota
 
 projected for delivery up to the end of 2028.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -712,7 +712,7 @@ to move forward with the next phase of the remediation works at Longpavement.
 
 ***footpath repairs that have already taken place in Caherdavin in 2024. I also ask if the Council can***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -794,7 +794,7 @@ Service.
 
 Stage, Shortlisted Competition Stage, Research & Development Stage.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -868,7 +868,7 @@ justification is made through the advancing plans to implement a Park & Ride at 
 
 Roundabout.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -950,7 +950,7 @@ commercial rates charges continue to apply.
 
 engagement with the University of Limerick (UL) over the past 12 to 18 months in relation
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1026,7 +1026,7 @@ tremendous collection of artwork that the Gallery has acquired and preserved for
 
 people of Limerick over the last 40 years.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1104,7 +1104,7 @@ In proposing the Motion, Councillor Secas referred to the large number of emails
 
 had received in relation to the poor bus service to Annacotty.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1178,7 +1178,7 @@ opportunity of a ‘One City One Book’ initiative for Limerick city and county
 
 ***speed limit changes.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1248,7 +1248,7 @@ turned over resulting in rubbish on roads and footpaths.
 
 Members welcomed the introduction of the Pilot Laneway Project.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1312,5 +1312,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

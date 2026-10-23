@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Statutory Budget Meeting of Limerick City and County Council - 25th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%20%28a%29%20Minutes%20Budget%20Meeting%2025.11.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ services. New amenities, recently completed, now also require a maintenance budg
 
 financial supports are also needed for existing amenities all of which have witnessed
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ gap between the cost base and the income necessary to bridge this gap and to mai
 
 services at current levels. The Government, similar to the Covid period, have provided
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,7 +212,7 @@ framework plan for the Arthur’s Quay area as part of the Urban Regeneration De
 
 Fund project will work on a collaborative basis and will place a renewed emphasis on public
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -274,7 +274,7 @@ to Limerick route, the Cork to Limerick Motorway and many others. Ongoing engage
 
 with The Land Development Agency to develop the public lands around Colbert Station for a
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -334,7 +334,7 @@ The repurposing of the Troy Studios loan during 2022 has allowed the Council to 
 
 further national funding to agree a €20m works programme to address voids and dereliction
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -396,7 +396,7 @@ It was then unanimously agreed that the Chief Executive’s Report on the Draft 
 
 as circulated to Members, would be read into the Minutes of the Meeting as follows:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -482,7 +482,7 @@ Through consultation with the Corporate Policy Group and consideration of the vi
 
 Council as expressed through the different stages of the budgetary process, in particular as
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -564,7 +564,7 @@ continues to increase in line with our targets set out in the ‘Housing for All
 
 repurposing of the Troy Studios loan during 2022 has allowed the Council to leverage further
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -644,7 +644,7 @@ been downgraded significantly. Modified Domestic Demand (MDD) – a measure of t
 
 domestic economy - is now expected to increase by just 1.2 per cent next year, a 2.7
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -852,7 +852,7 @@ Net debt ratio (year-end)
 
 **(per cent change (unless stated))**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -930,7 +930,7 @@ On the jobs front, there have been a number of positive announcements this year 
 
 the likes of Johnson & Johnson, Legato, Three, Eli Lilly and Vitalograph among others.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -968,7 +968,7 @@ expenditure necessary to carry out the functions of the Council and the income e
 
 accrue to the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1044,7 +1044,7 @@ o Continue and where possible enhance our programme of supports to our
 
 communities
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1114,7 +1114,7 @@ actively looking to implement innovative solutions to deliver further efficienci
 
 **8.Continue to seek efficiencies in service provision, cost reduction and value for money**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1224,7 +1224,7 @@ H - Misc Services
 
 **Table 2: Analysis of Expenditure by Division**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1378,7 +1378,7 @@ Division, with comparative figures for 2022:
 
 **(Excl HAP)**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1464,7 +1464,7 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **Analysis of Income (excluding HAP)**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1562,7 +1562,7 @@ Budget 2022).
 
 **Adopted Budget 2022 €'m**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1648,7 +1648,7 @@ on the basis of this allocation is set out in ***Table 4*** below:
 
 **€17,554,464**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1752,7 +1752,7 @@ The increase in Commercial Rates has been allocated to provide additional resour
 
 delivery of the following services / schemes:
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1862,7 +1862,7 @@ payment of 75% required)
 
 25%
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1944,7 +1944,7 @@ Amendments, Debt Management, and Recoupment Management. The cost of running the
 
 national centre is fully recouped by Government.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2022,7 +2022,7 @@ infrastructure and a tourism amenity, which will support local community develop
 
 socially, culturally and economically. The local authority led the project with the support of
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2150,7 +2150,7 @@ SEP-22
 
 **Number receiving pension**
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2228,7 +2228,7 @@ annual review and possible adjustment. Below please find a summary of potential 
 
 source of funding for the 3 year capital plan 2023 to 2025.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2346,7 +2346,7 @@ Limerick’s iconic landmark under the control of the Council. Moving forward th
 
 **Capital Expenditure 2023-2025 by Year €'m**
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2420,7 +2420,7 @@ While he noted the proposed increase in commercial rates, the impact on small an
 
 enterprises will be offset for many businesses with an increase in the Small and Medium
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2494,7 +2494,7 @@ actions of Russia, which has had such an impact on not only the people of Ukrain
 
 all of Europe as well.
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2568,7 +2568,7 @@ initiatives in relation to tourism promotion across both the city and county.
 
 She confirmed that the Labour Party would be supporting the budget.
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2628,7 +2628,7 @@ the businesses impacted.
 
 She confirmed that the Independent Group would be supporting the budget.
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2706,7 +2706,7 @@ Local Government Act, 2001, as amended by Section 43 of the Local Government Ref
 
 31/12/2023 in accordance with Section 66 of the Local Government Act, 2001, as amended
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -2786,5 +2786,5 @@ Signed:
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 

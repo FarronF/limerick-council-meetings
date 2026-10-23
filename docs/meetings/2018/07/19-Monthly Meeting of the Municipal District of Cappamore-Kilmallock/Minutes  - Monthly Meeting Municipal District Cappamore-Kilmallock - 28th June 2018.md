@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting Municipal District Cappamore-Kilmallock - 28th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/02%20Minutes%20Monthly%20Meeting%20Municipal%20District%20Cappamore-Kilmallock%2028thJune2018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -94,7 +94,7 @@ subsequently named as Rossa McMahon. I acknowledge that these comments unfairly
 
 characterised his concerns about the CCTV scheme.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ generated in areas other than road traffic, which were also a source of major nu
 
 concern for the general public.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ The Elected Members highlighted the fact that there had been significant engagem
 
 the community in Caherconlish in the original Part 8 proposals and stressed the importance
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ The Elected Members expressed disappointment at the fact that the full-time gene
 
 operative who had been based in Bruff and who had recently retired, was not being
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -400,7 +400,7 @@ Herbertstown, Co. Limerick following his recent passing.
 
 Appointment of Superintendent
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -456,5 +456,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

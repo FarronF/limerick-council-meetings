@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-09/01%202019-07-03%20Minutes%20July.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ Circulated, report of Senior Engineer, Mid West National Road Design Office, dat
 
 Newcastle West, Co. Limerick, to Hannah and Nora Collins.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -260,7 +260,7 @@ June, 2019.
 
 Proposed by Councillor Galvin, seconded by Councillor Foley and resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ The Senior Executive Engineer agreed to attend the September meeting of the Dist
 
 order to finalise the above.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ REPLY:
 
 Footpath renewal works will be carried out at the above location during 2019.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -502,7 +502,7 @@ Notice of Motion submitted by Councillor J. Scanlan
 
 ***R544 approach road to Kilcolman Drive, Gortboy, Newcastle West.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -580,7 +580,7 @@ available to install new public lighting schemes.
 
 ***the Elected Representatives and undertakers before this new procedure is enforced.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -658,7 +658,7 @@ also raised and it was noted that the group needed to be updated on the matters 
 
 at the meeting. A brief discussion took place on the ongoing proposals for the estate and it
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -718,5 +718,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

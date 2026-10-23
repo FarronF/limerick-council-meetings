@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Municipal District of Newcastle West JPC Subcommittee 7th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01b%202018-03-07%20Minutes%20JPC%20Subcommittee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ work, which was carried out in the aftermath of Storm Emma. They requested that 
 
 thanks be convened to the crews involved.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -142,5 +142,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

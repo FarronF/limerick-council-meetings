@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Agenda-June-Monthly-Meeting-of-Cappamore-Kilmallock-Municipal-District.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **10th** **June 2022.**
 
@@ -66,7 +66,7 @@ To note disposal of property at :
 
  Disposal of land at Martinstown, Kilmallock
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -138,7 +138,7 @@ I will ask at the next Municipal District Meeting for an update on the promised 
 
 fencing at Ballyhoura Heights, Kilfinane.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -180,5 +180,5 @@ breakdown of allocation of €300,000 for O ' Rourkes Cross Bruree in the Schedu
 
 District Works.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

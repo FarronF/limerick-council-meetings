@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Meeting of the Joint Policing Subcommittee of the Municipal District of Adare-Rathkeale - 14th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%20Minutes%20JPC%2014th%20February%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -69,7 +69,7 @@ excellent policing of the District over the season. While some residents of the 
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -118,5 +118,5 @@ Dated: _lam Marc, 2019
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

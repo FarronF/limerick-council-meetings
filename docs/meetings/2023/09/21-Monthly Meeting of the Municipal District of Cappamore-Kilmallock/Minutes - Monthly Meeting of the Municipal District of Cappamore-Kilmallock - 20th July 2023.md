@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 20th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/2-Minutes-Monthly-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-20th-July-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE
 
@@ -76,7 +76,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising
 
@@ -120,7 +120,7 @@ a 25 year lease to Kilmallock Tourism Development.
 
 The reports as circulated, were noted by the Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 5. Planning, Environment and Place Making Directorate
 
@@ -184,7 +184,7 @@ Kilmallock Municipal District for inclusion on the Agenda for the next full Coun
 
 follows:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 “I will move at the next meeting that Limerick City and County Council make representations
 
@@ -242,7 +242,7 @@ dwellings, under the following circumstances –
 
 (c) medical/compassionate reasons;
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 (d) on grounds of anti-social behaviour where the Housing Authority’s Estate
 
@@ -294,7 +294,7 @@ Following the discussion, if a tenant requests a form to be issued, a form is is
 
 note recorded of the discussion.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 8.Question submitted by Councillor Carey
 
@@ -338,7 +338,7 @@ programme ran from Qtr. 3 2022 to end of Qtr. 2 2023, it is now concluded.
 
 The scheme included 4 units in Murroe and 6 units in Ballylanders.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 10. Question submitted by Councillor Donegan
 
@@ -402,7 +402,7 @@ traffic measures requires a public consultation process to be followed.
 
 **Seconded: Cllr M Ryan**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 12. Notice of Motion submitted by Councillor Teefy
 
@@ -456,7 +456,7 @@ Football final in Dublin on Sunday 30th July.
 
 York in the 2023 Rose of Tralee festival. Her father Eddie Wiley is a native of Kilmallock.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
  Councillor Donegan proposed as Cathaoirleach of the Cappamore-Kilmallock Municipal
 
@@ -492,5 +492,5 @@ Cathaoirleach
 
 Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

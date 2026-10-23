@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/Minutes%2020th%20November%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -94,7 +94,7 @@ November, 2017 setting out proposals to dispose of the freehold interest in a dw
 
 regard, for approval. The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Boundary from 80 km/hr to 100 km/hr to match the speed limit on the Tipperary si
 
 boundary.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ street junction.
 
 ***the Northern Distributor Road will meet, in order to progress this vital piece of infrastructure.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -360,7 +360,7 @@ also invite visitors to bring gifts to donate to a local charity in Limerick.
 
 Years Eve at King John’s Castle
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -450,7 +450,7 @@ to local charities, carol singers, musicians, buskers and choirs.
 
 **Date:** 9th – 10th of December
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -554,7 +554,7 @@ footpaths from the penalties list for fear it would discourage families who cycl
 
 school with their young children.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -640,7 +640,7 @@ The Council will engage with DTTAS to establish if funding could be sourced
 
 under the Specific Improvement Grant Scheme.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -692,5 +692,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

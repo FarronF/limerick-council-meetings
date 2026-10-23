@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 14th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-c-minutes-special-meeting-14.06.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND COUNTY
 
@@ -100,7 +100,7 @@ for the Members in the previous weeks and he thanked the Members and Management 
 
 engagement with same. He also, on behalf of all the Members, thanked the staff in Strategic &
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Forward Planning for their professionalism and hard work in the preparation of the plan and for
 
@@ -174,7 +174,7 @@ Members have adopted to the new normal of online meetings to work positively for
 
 of Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 This Development Plan comes at a challenging time for Limerick as we try to re-build our
 
@@ -248,7 +248,7 @@ impacts of extending the current Development Plan for the intended period of ext
 
 beyond the 'normal' two years.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 He confirmed that it is only when a planning authority can be satisfied that environmental
 
@@ -322,7 +322,7 @@ objectives in the NPF and RFES, and that proposed changes need to be precise and
 
 must be provided for making all proposed amendments.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **1.Amendments to the Draft Retail Strategy**
 
@@ -384,7 +384,7 @@ Under Enterprise and Employment zoning, change Public House to ‘generally not
 
 permitted’ rather than ‘open for consideration’.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 -
 
@@ -446,7 +446,7 @@ Limerick’s road networks and minimise future road infrastructure works.
 
 The amendments were proposed by Cllr O’Hanlon, seconded by Cllr J. Sheahan.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **4.Bruree**
 
@@ -496,7 +496,7 @@ Rural Housing Category 2 – Rural Areas Elsewhere
 
 Objective SS O17 – Areas under Strong urban influence
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 It is an objective of the Council to consider a single dwelling for the permanent occupation
 
@@ -562,7 +562,7 @@ b. A person who has lived a substantial period of their lives in the local
 
 rural area, (at least 10 years), that previously owned a home and is no
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 longer in possession of that home due to the home having been
 
@@ -622,7 +622,7 @@ where there is no capacity in the treatment plant.
 
 The amendments were proposed by Cllr J. Sheahan, seconded by Cllr Galvin.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **7.Change to Volume 2-Hospital**
 
@@ -686,7 +686,7 @@ limit the growth of the town to well within its immediate development capacity, 
 
 time when Ireland needs housing and development to provide for a rising population.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 The amendment was proposed by Cllr Donegan, seconded by Cllr Carey.
 
@@ -732,7 +732,7 @@ enhance the night time economy throughout Limerick.
 
 The amendment was proposed by Cllr O’Sullivan, seconded by Cllr O’Donovan.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **11.Change to Chapter 4-Data Centres**
 
@@ -782,7 +782,7 @@ a GAA Club, are shared with the adjoining village of Clarina.
 
 The amendment was proposed by Cllr McSweeney, seconded by Cllr O’Sullivan.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **14.Changes to Volume 2** **–** **City and Environs Zoning Map and Chapter 3**
 
@@ -848,7 +848,7 @@ Benson, Costelloe, Hartigan, Novak Uí Chonchúir, O’Donovan, C. Sheehan.
 
 (6)
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **15.Change to City and Environs Zoning Map and Tiered Approach to Zoning**
 
@@ -912,7 +912,7 @@ The Members noted that this company was a long established and very good employe
 
 Dock Road in Limerick, which gave excellent support to the farmers of Co. Limerick and beyond.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 They noted the company’s intention to advance a Green Agenda and that they intend to use GM
 
@@ -944,5 +944,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 

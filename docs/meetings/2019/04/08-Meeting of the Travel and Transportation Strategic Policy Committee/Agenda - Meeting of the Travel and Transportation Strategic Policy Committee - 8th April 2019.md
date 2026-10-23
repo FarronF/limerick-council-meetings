@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 8th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/8th%20April%202019-Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -45,7 +45,7 @@ CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -89,7 +89,7 @@ Parkway Roundabout to Ballinacurra Road”.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -118,7 +118,7 @@ Investigate bus corridors from the City Centre to the University of Limerick”.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -126,5 +126,5 @@ Investigate bus corridors from the City Centre to the University of Limerick”.
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 20th July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01b-draft-minutes-monthly-meeting-20th-july-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -92,7 +92,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -202,7 +202,7 @@ Pike Rovers Football Club
 
 €700.00
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -322,7 +322,7 @@ And Resolved:
 
 of the Planning and Development Acts 2000 (as amended) and Section 11 of the Roads Act 1993”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -390,7 +390,7 @@ Council with a further update.
 
 To date our records show that a total of 98 LIHAF reduced properties have sold in Mungret. 20
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -466,7 +466,7 @@ The success of these Culture and Place Making measures is monitored by the numbe
 
 attending the various events and the level of interest from local artists in the public call. We will
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -542,7 +542,7 @@ maintenance and small civil works. There are a number of contractors on this fra
 
 Maramba Road Services Ltd is one of these contractors and was engaged for the speed limit signs
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -618,7 +618,7 @@ traffic calming measures and the urgency for funding to be drawn down from the N
 
 Transport Authority.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -690,7 +690,7 @@ Committee.
 
 ***I will move at the next meeting that the Council remove two piers of the Thomond Weir for better***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -758,7 +758,7 @@ the urgent need for a special mental health unit to be set up.
 
 Correspondence was taken as read.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -774,5 +774,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

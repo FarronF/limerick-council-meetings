@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Travel & Transportation Strategic Policy Committee - 9th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/9th%20April%202018%20-%20Agenda%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **4th** **April 2018**
 
@@ -48,7 +48,7 @@ April 2018 at 10:00 a.m. The business to be transacted is set out in the appende
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -88,5 +88,5 @@ Safe' vans within Co. Limerick”.
 
 **5.Presentation on Age Friendly Limerick and Rural Transport**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

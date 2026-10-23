@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Limerick City and County Council - 23rd March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20-%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2023rd%20March%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -102,7 +102,7 @@ Ordinary Meeting of the Council held on 26th January, 2015.
 
 Special Meeting of the Council held on 23rd February, 2015.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -184,7 +184,7 @@ deferred to a future Meeting pending a full presentation and this proposal was
 
 seconded by Councillor Loftus.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ disposal of land at Rathkeale, together with report of the Director of Economic
 
 Development and Planning dated 16th March, 2015.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -348,7 +348,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -438,7 +438,7 @@ transferred to the property at No. 2 Wallers Well, Roxboro, Limerick, particular
 
 which were contained in Statutory Notice dated 12th March, 2015.”
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -522,7 +522,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -606,7 +606,7 @@ following:
 
 • Rent Collection.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -702,7 +702,7 @@ Membership of the 5 Strategic Policy Committees as follows and as set out in the
 
 report of the Meetings Administrator dated 2nd March, 2015:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -772,7 +772,7 @@ David Jeffreys, M.D. Action Point, Limerick Office (Main Office), Unit 8B, Plass
 
 Enterprise Centre, National Technology Park, Limerick.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -856,7 +856,7 @@ Motions moved at full Council level and, as a consequence, SPC Meetings will tot
 
 six Meetings a year.”
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -936,7 +936,7 @@ by Councillor Keary, and agreed as follows:
 
 **Member.”**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1016,7 +1016,7 @@ Government Act, 2001, and as set out in report of the Meetings Administrator dat
 
 18th March, 2015.”
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1098,7 +1098,7 @@ Kilmallock, Newcastle West and Rathkeale, together with *‘Application Form and
 
 *Guidelines for Business & Retail Incentive Scheme for Vacant Properties Grant.’*
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1198,7 +1198,7 @@ some customers in relation to drawing up and agreeing payment plans for
 
 outstanding rates.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1276,7 +1276,7 @@ Seminar “The New Companies Act, 2014” held in Clonakilty, Co. Cork, from 6th
 
 March, 2015; (d) Seminar “The Councillor and Irish Water (Water Service Bill, 2014)”
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1346,7 +1346,7 @@ Question submitted by Councillor J. Scanlan
 
 ***taken to procure funding required to complete these developments.***
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1422,7 +1422,7 @@ The Motion was seconded by Councillor Quinlivan and unanimously agreed.
 
 With the permission of the Mayor, the following Motion was taken as this time:
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1504,7 +1504,7 @@ and seconded by Councillor Collins (M) carried.
 
 The Mayor indicated that he would take Motion No. 15 at this time:
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1588,7 +1588,7 @@ Notice of Motion submitted by Councillor L.M. Sheehy *(To be*
 
 ***their consideration.***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1664,7 +1664,7 @@ It was agreed to refer this Motion to the Economic Development, Enterprise
 
 and Planning Strategic Policy Committee.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1746,7 +1746,7 @@ Notice of Motion submitted by Councillor M. Quinlivan
 
 ***of employment; (iv) fair pay for all workers in Dunnes Stores.***
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1826,7 +1826,7 @@ It was agreed to refer this Motion to the Environment Strategic Policy
 
 Committee.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1858,5 +1858,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

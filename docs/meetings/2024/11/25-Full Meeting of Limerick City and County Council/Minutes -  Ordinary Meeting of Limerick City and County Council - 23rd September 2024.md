@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Ordinary Meeting of Limerick City and County Council - 23rd September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-a-minutes-ordinary-meeting-limerick-city-and-county-council-23.09.2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -86,7 +86,7 @@ availability to deal with queries, both during office hours and also frequently 
 
 weekends.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Rural, Community and Culture Directorate
 
 property at Main Street, Bruff, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ particulars of which were contained in Statutory Notice dated 16th August, 2024.
 
 acres (1.1 hectares) of land at Skagh, Croom, Co. Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ Seconded by Councillor Collins (M);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -474,7 +474,7 @@ and conditions contained therein, particulars of which were contained in Statuto
 
 dated 11th September, 2024.”
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ and conditions contained within the contract, particulars of which were containe
 
 Statutory Notice dated 16th August, 2024.”
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -628,7 +628,7 @@ were contained in Statutory Notice dated 11th September, 2024.”
 
 property at The Village Inn, Feenagh, Co. Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -696,7 +696,7 @@ Councillors Benson, Carey, Donoghue, Gavan, Hickey-O’Mara, O’Donovan, Ryan (
 
 Teefy. **(9)**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -772,7 +772,7 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of property at
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -848,7 +848,7 @@ fifteen per cent (15%) for the year ending 31st December, 2025.
 
 The result of the voting was as follows:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -924,7 +924,7 @@ Customer Services dated 18th September, 2024, together with draft Strategic Poli
 
 Committee Scheme 2024-2029.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1000,7 +1000,7 @@ specialising in European local governance, multi-level governance (MLG) and EU p
 
 served as Course Director for the BA Public Administration, BA European Studies, MPA and
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1074,7 +1074,7 @@ Seconded by Councillor Sheahan (J);
 
 Accommodation Consultative Committee.”
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1138,7 +1138,7 @@ years.
 
  Limerick Traveller Network: Anita Pannell and Bridget Casey.”
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1218,7 +1218,7 @@ Arts Scheme 2024, as set out in the report of the Arts Officer / Creative Irelan
 
 circulated with the agenda.”
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1302,7 +1302,7 @@ Members also asked for an update on the Council’s plans to prepare for the Ryd
 
 Members, and this was agreed.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1388,7 +1388,7 @@ Regulator (High Court Record Number: 2022/1132 JR), listed for hearing on 26 - 2
 
 2024.”
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1460,7 +1460,7 @@ Question submitted by Councillor T. Ruddle
 
 ***scheme, the amounts allocated to each school and the date of completion.***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1600,7 +1600,7 @@ August 2024
 
 R510 Scheme
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1852,7 +1852,7 @@ through AT
 
 Schemes
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1970,7 +1970,7 @@ Question submitted by Councillor S. Hickey-O’Mara
 
 ***Temporary Accommodation services over the past 12 months, including those who did not***
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2068,7 +2068,7 @@ Many of the people who are unable to avail of the Supported Temporary
 
 Accommodation are rough sleepers who have a range of complex needs that
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2144,7 +2144,7 @@ help raise awareness of the implementation of the new e-scooter regulations
 
 in Limerick.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2226,7 +2226,7 @@ and the site continues to detract from the neighbourhood, and where the
 
 owner has already been served with a series of statutory notices, the Council
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2310,7 +2310,7 @@ Question submitted by Councillor S. Kiely
 
 ***and can the cost be outlined in tabulated format.***
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2392,7 +2392,7 @@ The Crescent also provided a space for cultural promotion with Ukraine
 
 Independence Day, groups from Brazil performing their traditional dances, to
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2466,7 +2466,7 @@ Out of pocket costs were managed by
 
 The full such costs, averaging €1,500.00 per day, are set out in the table below:
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2596,7 +2596,7 @@ Question submitted by Councillor C. Sheehan
 
 ***housing broken down by electoral area for the last five years.***
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2686,7 +2686,7 @@ The Motion was proposed by Councillor Galvin and seconded by Councillor Kiely, a
 
 adopted.
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2770,7 +2770,7 @@ discussed. This Motion was proposed by Councillor Kiely and seconded by Councill
 
 In moving the motion, Councillor Kiely asked if it could be considered at the upcoming budget
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -2846,7 +2846,7 @@ experienced visitor restrictions while in University Maternity Hospital Limerick
 
 The Motion was seconded by Councillor O’Donovan and adopted.
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 33
 
@@ -2926,7 +2926,7 @@ Keary. In moving the Motion Councillor Donoghue highlighted the need to consider
 
 supporting those currently locked out of the housing market.
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 
 34
 
@@ -3010,7 +3010,7 @@ revenue stream for the Council and is projected to amount to in excess of
 
 €19m in 2024. Any downward adjustment to the income criteria would have
 
-[[PAGE_END:34]]
+<span data-pagefind-ignore>[[PAGE_END:34]]</span>
 
 35
 
@@ -3092,7 +3092,7 @@ O’Donoghue, and adopted.
 
 The Correspondence circulated with the agenda was taken as read.
 
-[[PAGE_END:35]]
+<span data-pagefind-ignore>[[PAGE_END:35]]</span>
 
 36
 
@@ -3118,5 +3118,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:36]]
+<span data-pagefind-ignore>[[PAGE_END:36]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 14th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ furnished to Members, and again requested this matter be followed up by the Meet
 
 Administrator.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ allocate €2,000 to Askeaton Civic Trust.
 
 **Heritage Centre have gone on display on E tenders can the Council confirm if it has**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ installation. Councillor Teskey added there also is an extra burden on people wi
 
 medial conditions who are reliant on electricity and added the Housing Adaptation Grant
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -288,5 +288,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

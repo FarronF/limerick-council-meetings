@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Community Leisure & Emergency Services SPC - 21st June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/Item%201%20Minutes%20of%20meeting%20210617.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
@@ -104,7 +104,7 @@ he was trying to reach a “grass roots common” with an openness to change whi
 
 crucial to the success of the project.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3:**
 
@@ -180,7 +180,7 @@ Ms. C. Kirby, A/Director of Service thanked Cllr. F.Foley for his last meeting a
 
 Cllr.F.Foley wished everyone the best of luck for the future
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Minutes Proposed By:
 
@@ -190,5 +190,5 @@ Minutes Signed By Chair:
 
 Date:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

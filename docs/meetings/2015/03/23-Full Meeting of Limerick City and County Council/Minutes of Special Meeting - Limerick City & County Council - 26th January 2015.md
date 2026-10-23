@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Special Meeting - Limerick City & County Council - 26th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Minutes%20of%20Special%20Meeting%20-%20Limerick%20City%20%26%20County%20Council%20-%2026th%20January%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF
 
@@ -90,7 +90,7 @@ landing slots.”
 
 **Clifford, J. Crowley, S. Lynch.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ the global economy.
 
 The amendment was seconded by Councillor Secas.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -222,7 +222,7 @@ Meeting with a view to agreeing a single Motion which could be sent from the
 
 Council to the Government on the matter.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -254,5 +254,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Proceedings at Draft Budgetary Plan Meeting of the Municipal District of Newcastle West - 23rd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-11/01%28b%29-2019-10-23%20Minutes-Draft-Budgetary-Plan-Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT DRAFT BUDGETARY PLAN
 
@@ -122,7 +122,7 @@ Special Projects – LPT
 
 A discussion took place on the Service category as outlined and the funding assigned to each.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,5 +176,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

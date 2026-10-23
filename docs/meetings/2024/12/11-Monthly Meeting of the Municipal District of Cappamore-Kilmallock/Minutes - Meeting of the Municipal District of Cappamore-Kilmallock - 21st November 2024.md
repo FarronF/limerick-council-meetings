@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st November 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-november-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -76,7 +76,7 @@ Cappamore-Kilmallock held on 17th October, 2024.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising
 
@@ -140,7 +140,7 @@ The Meetings Administrator confirmed this was an administrative error and Corpor
 
 Services would be advised to amend Standing Orders accordingly.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Standing Orders were unanimously agreed by all Elected Members
 
@@ -190,7 +190,7 @@ The Elected Members then thanked David O’Grady and Brian Mackey for a very inf
 
 presentation.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 NOTICES OF MOTION
 
@@ -240,7 +240,7 @@ was adopted earlier this year
 
 **Seconded: Councillor** **O’Sullivan**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 9. Notice of Motion submitted by Councillor Teefy
 
@@ -292,7 +292,7 @@ Policy that was adopted earlier this year.
 
 **Seconded: Councillor M. Ryan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 QUESTIONS
 
@@ -360,7 +360,7 @@ a contractor can be procured and appointed to carry out the work. It is planned 
 
 tender ready before the end of December and issued in January 2025.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 12.
 
@@ -430,7 +430,7 @@ Councillor O’Sullivan (T) also told the meeting he would like to see an increa
 
 travel funding for the District of Cappamore-Kilmallock.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Councillor Stokes (N) requested an update on the bin waiver scheme and was advised
 
@@ -458,5 +458,5 @@ Cathaoirleach
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

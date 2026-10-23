@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting to Consider Draft Budgetary Plan 2018 for Municipal District of Cappamore-Kilmallock - 19th October.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/Agenda%20-%20Meeting%20to%20Consider%20Draft%20Budgetary%20Plan%202018%20for%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20October.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -87,5 +87,5 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

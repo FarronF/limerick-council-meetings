@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare - Rathkeale - 14th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-09/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-14th-july-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ notify the Cathaoirleach of any declaration of interest in any item due for disc
 
 the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ road as it had been resurfaced to a high standard less than five years previousl
 
 He also queried why a cattle underpass was replaced along the same stretch of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ Councillor Teskey requested to suspend Standing Orders to confer with his electe
 
 colleagues on Item 6.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -300,7 +300,7 @@ Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -374,7 +374,7 @@ this issue.
 
 Meeting of the District to provide an update on the Limerick to Adare rail line.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -404,5 +404,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

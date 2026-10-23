@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Signed Agenda Cover Letter_Part 8 for Cappamore Fire Station Refurbishment - Meeting of the Municipal District of Cappamore-Kilmallock - 21st September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/07%20Signed%20Agenda%20Cover%20Letter_Part%208%20for%20Cappamore%20Fire%20Station%20Refurbishment.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -89,7 +89,7 @@ Par w
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -117,5 +117,5 @@ e: michael.moloney@limerick.ie | t: 061 557258
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

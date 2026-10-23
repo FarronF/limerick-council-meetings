@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 24th May 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-b-minutes-special-meeting-24.05.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE SPECIAL MEETING OF LIMERICK
 
@@ -82,7 +82,7 @@ Following the conclusion of the Ordinary Meeting of the Council, the Special Mee
 
 with Item No. 1 on the agenda.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Shannon Group as it had been without one now for nine months in the biggest cris
 
 aviation ever in Ireland and this appointment needed to be in place as a matter of urgency.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -224,5 +224,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

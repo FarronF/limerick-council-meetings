@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 8th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-8th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Minutes of the Meeting of Limerick City & County Council Climate Action, Biodiversity and**
 
@@ -78,7 +78,7 @@ Cllr. K. O’Hanlon.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Cllrs. Kiely and McSweeney opened the discussion by highlighting their concerns around tree
 
@@ -178,7 +178,7 @@ under the Communities Climate Action Fund and also Going for Gold which are admi
 
 by the Environment and Climate Action Department. There may be a case for the Council to
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 review community grants in general across the organisation to see the level of grants that are
 
@@ -246,7 +246,7 @@ Presentation will be circulated to all members. The PPN will be contacted direct
 
 relevant organisations are consulted throughout the process.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 5** **–** **Community Climate Action Fund, relaunch 2025** **–** **Dr. Darren Barry, Community Climate**
 
@@ -324,7 +324,7 @@ areas of underfunding in the Cemeteries and Parks Sections. It is intended to pr
 
 **4.Increase Westfield Wetlands maintenance budget from €5k to €50k.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **It was agreed that these recommendations would be brought forward to the budgetary process.**
 
@@ -338,5 +338,5 @@ This concluded the business of this meeting.
 
 **Chairperson of the Climate Action Biodiversity and Environment Strategic Policy Committee**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Economic Development, Enterprise and Planning SPC 14th of June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Economic%20Development%2C%20Enterprise%20and%20Planning%20SPC%2014th%20of%20June%202016.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 7th June 2016
 
@@ -64,5 +64,5 @@ Senior Executive Officer
 
 Economic Development
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

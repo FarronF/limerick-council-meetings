@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/01-minutes-of-monthly-meeting-08th-september-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -90,7 +90,7 @@ The Director advised Member the Head of Digital Services, Mihai Bilauca has left
 
 Limerick City and County Council to commence a new role in the Department of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ property at 3 Abbeyview, Askeaton, Co. Limerick to Mr. Phillip McKnight and the
 
 intention to bring Section 183 Notice to Full Council, for approval.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ August. Councillor Sheahan advised this was also an issue in the Ballysteen area
 
 scheme. The Senior Executive Engineer advised these works were being carried
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -322,7 +322,7 @@ expended €419,661 of which €399,712 was recouped from government
 
 storm response funding.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ can promote, support and administer particularly if such measures relate
 
 to private lands and boundaries.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -482,7 +482,7 @@ village as a rat run through to the main road. The Senior Executive Engineer agr
 
 look at this issue with Councillor O’Donoghue. The Director informed Members a CCTV
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ Elected Members of Limerick City and County Council to come together and support
 
 Shannon Airport. Councillor Sheahan proposed the Mayor of Limerick City and County
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -596,5 +596,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

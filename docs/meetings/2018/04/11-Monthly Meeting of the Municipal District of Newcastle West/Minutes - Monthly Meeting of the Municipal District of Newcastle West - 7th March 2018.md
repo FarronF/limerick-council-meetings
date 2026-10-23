@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 7th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20a%202018-03-07%20Minutes%20March.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -102,7 +102,7 @@ completed to date with regard to the upgrade of the Great Southern Greenway Lime
 
 Works included the following:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -182,7 +182,7 @@ also referenced the additional funding which was made available by the Council t
 
 youth projects.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -272,7 +272,7 @@ It was proposed to allocate funds to the following projects:
 
 €20,000
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ provider of the requirements to apply for a road opening licence and had also of
 
 with the service provider.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,7 +422,7 @@ receive a Deputation from Tournafulla/Mountcollins Parish Finance Committee at t
 
 Meeting of the Municipal District of Newcastle West.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -496,7 +496,7 @@ completing design work. It is anticipated that the contractor will commence
 
 work at the end of March 2018.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ A parking area outside the Garda Station in Glin shall be put in place following
 
 the completion of drawings and bye-laws.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,7 +652,7 @@ event of a planned outage of water supply. It was agreed to refer the matter to 
 
 Services in order for Irish Water to be contacted.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -724,7 +724,7 @@ that small all weather cameras could be considered.
 
 The Motion was seconded by Councillor Foley.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -754,5 +754,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

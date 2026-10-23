@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Taking in charge of Estates Item Agenda - Meeting of Municipal District of Newcastle West - 13th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Taking%20in%20charge%20of%20Estates%20Item%20Agenda%20-%20Meeting%20of%20Municipal%20District%20of.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 COMHAIRLE CATHRACH AGUS CONTAE LUIMNIGH
 
@@ -90,5 +90,5 @@ Director of Services,
 
 Planning and Environmental Services.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

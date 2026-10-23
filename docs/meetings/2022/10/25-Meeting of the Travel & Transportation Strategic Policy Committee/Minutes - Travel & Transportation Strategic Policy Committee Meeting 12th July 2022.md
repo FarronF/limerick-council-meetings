@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Travel & Transportation Strategic Policy Committee Meeting 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20%20T%26T%20SPC%20Meeting%2012.07.22.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -72,7 +72,7 @@ The Chair acknowledged apologies from Cllrs. Ryan and Butler.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ Mr. Terry Brennan delivered a presentation on Active Travel communications inclu
 
 5. Updates to Elected Members
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ see a commitment from Active Travel that in the event of any Part 8 impacting re
 
 will be prior consultation in the form of pop up clinics to engage with residents.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,5 +296,5 @@ She advised that the next meeting is scheduled for Tuesday, the 25th October 202
 
 The meeting then concluded.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

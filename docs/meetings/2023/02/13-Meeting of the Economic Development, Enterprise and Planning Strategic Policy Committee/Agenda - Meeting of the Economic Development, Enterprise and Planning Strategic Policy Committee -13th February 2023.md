@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee -13th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Agenda%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-13th%20February%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **25th** **January 2023**
 
@@ -70,5 +70,5 @@ Yours sincerely
 
 ***Economic Development & Enterprise Directorate***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

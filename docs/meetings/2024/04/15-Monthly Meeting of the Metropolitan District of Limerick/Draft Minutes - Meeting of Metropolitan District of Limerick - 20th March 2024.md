@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 20th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-20th-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -86,7 +86,7 @@ amended, and the Code of Conduct, she was inviting those present to notify the C
 
 any declaration of interest in any item due for discussion at the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ the Community Initiative Scheme 2024, which allowed for the sum of €4,500 for 
 
 follows:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -334,7 +334,7 @@ Limerick Dragons
 
 €500
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -514,7 +514,7 @@ Sudanese Community Centre
 
 €1500
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -682,7 +682,7 @@ City of Limerick Pipe Band
 
 €500
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -862,7 +862,7 @@ Patrickswell Tidy Towns
 
 €2000
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -946,7 +946,7 @@ The Operator shall lease or own all vehicles. The model(s) used will be a choice
 
 However, the Operator shall be required to justify to the Council its choice of vehicle(s) with
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -1020,7 +1020,7 @@ It was agreed that a letter would issue to University of Limerick.
 
 funded under the Urban Renewal Development Fund. The Council appointed a design team
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1100,7 +1100,7 @@ road network in the area.
 
 **14.Question submitted by Councillor E. Secas**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1174,7 +1174,7 @@ planted by the Council in 2023 and if any consideration will be given to schemes
 
 Scheme Trees for Streets.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1252,7 +1252,7 @@ planning application.
 
 ***area by the NTA.***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1324,7 +1324,7 @@ With the permission of the Cathaoirleach, it was agreed to take Item 33 next.
 
 The Notice of Motion was proposed by Councillor Pond, seconded by Councillor Slattery and
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1400,7 +1400,7 @@ The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor
 
 agreed.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1472,7 +1472,7 @@ The Notice of Motion was proposed by Councillor Sheehan (C), seconded by Council
 
 agreed.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1546,7 +1546,7 @@ Family Project, and pointed out that this service needs financial support.
 
 ***be installed close to dog parks in Limerick.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1582,5 +1582,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

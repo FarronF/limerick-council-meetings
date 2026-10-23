@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 29th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01%20%28a%29%20Minutes%20Special%20Meeting%20290517%20v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **1**
 
@@ -80,7 +80,7 @@ House of Representatives. His eldest daughter, Rose, married Joseph P. Kennedy. 
 
 several children, including John F. Kennedy, the future President of the United States. On
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -152,7 +152,7 @@ development of the Centre. He concluded by wishing the Bruff Heritage Group the 
 
 for the future and said the Council was fully supportive and committed to the Centre.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -180,5 +180,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

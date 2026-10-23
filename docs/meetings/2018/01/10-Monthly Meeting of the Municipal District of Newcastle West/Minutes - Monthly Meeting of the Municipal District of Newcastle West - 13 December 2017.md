@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 13 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%202017-12-13%20Minutes%20December.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -84,7 +84,7 @@ The Cathaoirleach and Members extended their condolences to B. Kennedy, Senior
 
 Executive Officer, on his recent bereavement.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2.
 
@@ -164,7 +164,7 @@ old convent into a Technology Hub to improve employment prospects within the are
 
 possible to convert this building but some financial support would be required.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 The Members acknowledged the work of Abbeyfeale Community Council and the challenges
 
@@ -238,7 +238,7 @@ publication of Draft Bye Laws for public consultation, in accordance with the gu
 
 Also Circulated:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 • Limerick City and County Council, County Limerick Road Traffic Special Speed Limit
 
@@ -314,7 +314,7 @@ an update on this item would be provided at the February 2018 Meeting of the Mun
 
 District of Newcastle West.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 7.
 
@@ -388,7 +388,7 @@ The Senior Executive Engineer, stated that a further trial hole tests had been c
 
 the Clash Road site along with trial hole testing at three other sites. The GPR survey on St.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Mary’s Graveyard and the Church of Ireland Graveyard was carried out and results will be
 
@@ -460,7 +460,7 @@ Irish Water Site Security team in order to complete the procurement process on t
 
 project. The elected Members will be updated when contractor has been appointed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 12.
 
@@ -526,7 +526,7 @@ the conflict of interest item which was raised at a previous meeting. The Direct
 
 that he would follow up this matter with Corporate Services.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **REPLY:**
 
@@ -620,7 +620,7 @@ In proposing the Motion Councillor Galvin stated a voluntary group are willing t
 
 community graveyard in this area. Councillor Browne stated that he had raised this matter
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 previously. The Director of Services advised that he would discuss this matter with the
 
@@ -674,5 +674,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

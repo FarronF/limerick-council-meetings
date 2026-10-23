@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 23rd November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Agenda-Meeting-of-the-Municipal-District-of-Cappamore-Kilmallock-23rd-November-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -66,7 +66,7 @@ Matters Arising
 
 Relating to the Minutes of the Municipal District Meeting of 19th October, 2023.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -132,7 +132,7 @@ Interpretative Centre.
 
 Kilmallock Tourism Development Ltd and other stake holders.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -156,5 +156,5 @@ the possibility of footpath repair and public lighting on the Charleville Road, 
 
 Grove, Kilmallock to Portauns.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 30th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-home-and-social-strategic-policy-committee-30th-may-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -106,7 +106,7 @@ SPC meeting.
 
 **Proposed:** Cllr. Mike Donegan  **Seconded:** Cllr. Tom Collopy
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2: Matters arising from the Minutes** 
 
@@ -184,7 +184,7 @@ maintenance plan will be put in place and as the trees are not now being removed
 
 does not see it as being a possible planning concern for the local residents.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Cllr. Kiely also enquired if MMC (Modern Methods of Construction) are quicker. Mr. Forde-Bradley
 
@@ -250,5 +250,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC meet
 
 **END OF MEETING**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

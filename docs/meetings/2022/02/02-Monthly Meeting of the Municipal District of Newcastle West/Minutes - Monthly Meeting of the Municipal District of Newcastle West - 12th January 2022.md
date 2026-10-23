@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-2022-01-12-minutes-january.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
@@ -90,7 +90,7 @@ On the proposal of Councillor Ruddle, seconded by Councillor Collins, it was agr
 
 €500 for Newcastle West Christmas lights.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,7 +156,7 @@ The request for a full re-surfacing of the N21 from Dee’s Filling Station to L
 
 Newcastle West will be forwarded to the TII for their consideration.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ discuss the Abbeyfeale Traffic Management Plan. The Director also agreed to rais
 
 matters with the relevant Directorate.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ lakes. The primary agencies responsible are:
 
 Schemes and assess applications for culverting of watercourses/works to structures.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ Question submitted by Councillor J. Scanlan
 
 **available for occupancy.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -464,7 +464,7 @@ programme of works to alleviate the problem be submitted to the Council.
 
 It was agreed that the Meetings Administrator would write to the E.S.B on this matter.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -528,7 +528,7 @@ Demesne Park. Signage will be erected at the Demesne Park to advise users of the
 
 the public toilet and its distance from the park.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -602,7 +602,7 @@ discussed. In replying, the Director stated that the Scale of Charges is an exec
 
 of the Council and that he was aware that correspondence had been sent to the Chief
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -626,5 +626,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West -12th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-04/01%202017-04-12%20Minutes%20April%20Meeting%20Municipal%20District%20%20Newcastle%20West%20.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF
 
@@ -92,7 +92,7 @@ In reply to Members questions in relation to new Garda Station for Newcastle Wes
 
 Superintendent stated that he had been advised that a new station was to be built on the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Galvin it was agre
 
 €1,000 to Athea Phone Booth Defibrillator.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ The Senior Executive Engineer stated that he would revert back with further info
 
 future Meeting of the District.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Director for Customer Services, Culture and Arts stated that the mapping out ind
 
 the funding would go was very important.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -402,7 +402,7 @@ through city centre and enhanced competitiveness to Limerick and the Mid West th
 
 availability of efficient transport routes.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,7 +490,7 @@ This matter is being investigated in order to agree the necessary works.
 
 ***Dromcollogher areas.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -572,7 +572,7 @@ simple bypass in the style of Castleisland was required.
 
 The Motion was seconded by Councillor Collins.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -644,7 +644,7 @@ A condition survey of the footpaths within the immediate Town Centre of
 
 Newcastle West will be carried out in the coming weeks.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -664,5 +664,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

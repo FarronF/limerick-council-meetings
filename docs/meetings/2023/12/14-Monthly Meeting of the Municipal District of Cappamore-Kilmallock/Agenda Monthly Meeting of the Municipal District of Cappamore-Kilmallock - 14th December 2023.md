@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 14th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-agenda-monthly-meeting-of-the-municipal-district-of-cappamore-kilmallock-14th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -77,7 +77,7 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office ve ra rr
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -117,7 +117,7 @@ network upgrade by Limerick City and County Council a number of years ago.
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -140,5 +140,5 @@ progress of Housing voids in our municipal area.
 
 
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

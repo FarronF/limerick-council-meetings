@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 7th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-11/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-7th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, he was inviting those present to notify
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ They will hold six meetings annually beginning in 2026. One of these meetings wi
 
 public meeting and a second meeting will be held with Elected Representatives only.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Ballyneety that these and other representatives from all areas surrounding Adare
 
 be invited to attend also.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ Trust at the July 2023 Adare-Rathkeale Municipal District Meeting be reallocated
 
 Askeaton Civic Trust. This was seconded by Councillor Teskey and agreed.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -376,5 +376,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th September 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%20Minutes%20of%20Monthly%20Meeting%2010th%20September%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -86,7 +86,7 @@ fundraising which will support the cost of the project. The Deputation then with
 
 from the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ Limerick trail. Councillor O’Donoghue felt Members should view the Limerick pr
 
 the Waterford visit, however, the Director, National and Regional Shared Services
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ It was agreed Item 13 on the Agenda would be taken next.
 
 **amount of fish in its waters.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ August, 2019 giving an update in relation to the footpath from Kildimo Village t
 
 Beer Garden Public House.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -374,7 +374,7 @@ It was agreed to take Item 14 on the Agenda next.
 
 **calming measures on Main Street, Pallaskenry.**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -438,7 +438,7 @@ the future.
 
 This was also seconded by Councillor Collins.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -514,5 +514,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

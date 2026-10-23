@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Annual Meeting of the Metropolitan District of Limerick - 19th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-07/01-b-Draft-Minutes-Annual-Meeting-of-the-Metropolitan-District-of-Limerick-19th-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -90,7 +90,7 @@ Seconded by Councillor Slattery;
 
 to hold office until the next Annual Meeting or until a successor has been appointed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ success and he looked forward to the challenge of the All-Ireland Semi-Final aga
 
 hopefully further All Ireland success in 2023.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,5 +252,5 @@ This concluded the Meeting.
 
 **Cathaoirleach**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

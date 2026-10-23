@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/Minutes%20of%20SPC%209th%20April%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -126,7 +126,7 @@ Committee members highlighted the lack of growth in rural areas and the need for
 
 schools and more housing in rural areas. It was stated that future development
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 should address this in order to grow rural areas in a way that encourages people to
 
@@ -222,7 +222,7 @@ Key issues covered in the presentation included:
 
  Strategic Partners
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  Rathkeale Enterprise Centre
 
@@ -266,5 +266,5 @@ This concluded the business of the meeting
 
 Chairperson
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

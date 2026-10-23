@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Rathkeale Area Committee Meeting - 1st May 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/minutes_of_rathkeale_area_committee_meeting_-_01_may_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 Minutes of Rathkeale Area Committee Meeting
 
@@ -76,7 +76,7 @@ of getting business done for the people of the elected area which he
 
 said would continue into the future.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Councillor Keary (S) asked if the Development Fund allocations
 
@@ -148,7 +148,7 @@ they feel the water dies not meet the proper standards set out by the
 
 HSE.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 James Tagney went on to say the group scheme committee had
 
@@ -214,7 +214,7 @@ installation of UV filters would solve the problems with the Kilfinny
 
 Water scheme.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Michael Griffin, A.O. concluded that the further information requested
 
@@ -276,7 +276,7 @@ Councillor Keary (S) expressed concern at laden trucks taking
 
 lechate into the Pallaskenry estate and added that he had received
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 several representations from the developer of this particular estate
 
@@ -344,7 +344,7 @@ who had been born in Rathkeale and added that they were in the
 
 process of organising a Christopher Lynch musical weekend in
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 October/November 2014 and would like to apply to the Council for
 
@@ -408,7 +408,7 @@ presentation saying it was much appreciated and went on to wish all
 
 the elected members well in the forthcoming elections.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Item 7 – A.O.B.
 
@@ -438,5 +438,5 @@ Dated this \_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2014.
 
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Secretary.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

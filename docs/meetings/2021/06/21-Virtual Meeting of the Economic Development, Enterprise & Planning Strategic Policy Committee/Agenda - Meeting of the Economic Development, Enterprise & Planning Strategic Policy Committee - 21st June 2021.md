@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/agenda-of-spc-mtg-21st-june-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **8th** **June, 2021**
 
@@ -68,5 +68,5 @@ Yours sincerely
 
 ***SEO, Economic Development Directorate***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

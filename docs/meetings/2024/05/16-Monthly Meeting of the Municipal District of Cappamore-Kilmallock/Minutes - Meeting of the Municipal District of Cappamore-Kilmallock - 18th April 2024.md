@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-05/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -78,7 +78,7 @@ Dromkeen Graveyard
 
 There was no interest declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 4. Property Services
 
@@ -122,7 +122,7 @@ A postal registration must be received by 11th May and the date for closing the 
 
 20th May.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 7.Discussion item on Bank of Ireland Building, Bruff
 
@@ -198,7 +198,7 @@ consultation with the community, the sale would have to go to the open market an
 
 brought in front of the Elected Members at both Municipal District and Full Council.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 The Elected Members were advised that the funding received under Town and Village
 
@@ -252,7 +252,7 @@ be updated in due course. Bruff also has a Public realm plan in place.
 
 The Elected Members thanked Mr Casey for his presentation.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 NOTICES OF MOTION
 
@@ -300,7 +300,7 @@ with the Housing Directorate and internal checks with the Allocations team.
 
 **Seconded: Councillor Donegan**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 QUESTIONS
 
@@ -358,7 +358,7 @@ District.
 
  New replacement head for Fish Rocker Unit = €1,129.00.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 13.Question submitted by Councillor Carey
 
@@ -488,7 +488,7 @@ Eldery Bungalows Phase 3
 
 1
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Ship Renewal
 
@@ -608,7 +608,7 @@ right of way beside Barry’s garage, Lord Edward St, in Kilmallock would be adv
 
 and formal consultation would take place.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
  The Elected Members wished happy birthday to Noreen Ward, Murroe on her 104th
 
@@ -644,5 +644,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

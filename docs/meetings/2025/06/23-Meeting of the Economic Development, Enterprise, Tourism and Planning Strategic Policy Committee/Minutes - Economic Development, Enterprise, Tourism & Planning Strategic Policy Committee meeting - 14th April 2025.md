@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Economic Development, Enterprise, Tourism & Planning Strategic Policy Committee meeting - 14th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-for-economoic-development-enterprise-tourism-and-planning-spc-meeting-held-14th-april-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE,**
 
@@ -100,7 +100,7 @@ Ms. Coleman gave members a presentation on the benefits of festivals for tourism
 
 the following headings:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
  **Cultural benefits** (Festivals contribute to place-making, creating vibrant, welcoming, and
 
@@ -216,7 +216,7 @@ Mr. Hehir thanked Limerick City and County Council for Rose Fitzgerald Kennedy f
 
 support and noted that funding is always a worry. He asked is there a way that funding can
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 be applied for month of advance? Ms. Coleman advised that the grant call is advertised on
 
@@ -324,7 +324,7 @@ Members thanked Ms. O’Connell for the update, and a number of the members welc
 
 project and the importance of it to regenerating that part of the city. The members said that there
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 was tremendous public engagement by LCCC staff with elected members and traders, which was
 
@@ -410,7 +410,7 @@ there is a balance to be struck, like the click & collect system in other parts 
 
 Area needs to be connected to O’Connell Street and not pushed further away.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 The Chair Cllr. Doyle sought an extension beyond the Standing Order No. 9 at 3.50 pm to continue
 
@@ -506,7 +506,7 @@ induction training for SPC Members. The training is online and is scheduled for 
 
 between 10am and 12pm, the details of the training was emailed to the SPC members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **Item 6**
 
@@ -518,5 +518,5 @@ The Chair concluded the meeting at 4.30 pm.
 
 **Cllr. P. Doyle, Chairperson**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

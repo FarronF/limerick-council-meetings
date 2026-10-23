@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 18th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-metropolitan-district-of-limerick-18th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Declaration of Interest**
 
@@ -156,7 +156,7 @@ of Limerick City and County Council for their commitment to investing and improv
 
 city centre.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **(b)Review of Riverfest 2026**
 
@@ -228,7 +228,7 @@ hold the Annual Meeting of the Metropolitan District of Limerick at 9:45am on Mo
 
 June 2026.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **QUESTIONS**
 
@@ -296,7 +296,7 @@ at the Parkway Roundabout. This includes conducting Road Safety Audits to ensure
 
 that our strategies effectively promote safe and inclusive travel options.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 We anticipate a concept to be completed in Q3 2026 and will brief councillors once
 
@@ -364,7 +364,7 @@ approved by the Planning Authority.
 
 • ***The rationale behind this decision;***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 • ***Whether any consultation took place with dog owners or animal welfare***
 
@@ -458,7 +458,7 @@ Speakers Corner
 
 Q1 2027
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Affordable Purchase
 
@@ -680,7 +680,7 @@ The intention is for the first phase to consist of 5 units with an estimated com
 
 in Q1 2028.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 For your information the following surveys have been completed or are ongoing as
 
@@ -752,7 +752,7 @@ the 2018 Regulation came into operation on 8th February 2018 and the 31st Decemb
 
 2028.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 In order to obtain the exemption, any interested party must notify the Planning
 
@@ -822,7 +822,7 @@ districts. This breakdown also includes cameras that have received approval from
 
 Garda Commissioner and are currently in the construction planning phase.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **Local Electoral**
 
@@ -948,7 +948,7 @@ and County Council’s website on completion.
 
 ***there been on the back alley in Parnell St, in terms of parking fines, parking on double yellow***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 ***lines as well as drivers going up the wrong way and totally blocking the lane from the Parnell***
 
@@ -1024,7 +1024,7 @@ of their products have been received and reviewed. Following this an order has b
 
 placed for a compliment of products to meet the anticipated need. We are awaiting
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 the delivery of these products and on receipt of same this service will be rolled out
 
@@ -1086,7 +1086,7 @@ Owner re-occupying: 4
 
 Tenant over income limits: 7
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 Withdrawn due to the following reasons: tenant not in receipt of HAP/RAS supports,
 
@@ -1162,7 +1162,7 @@ Councillor Slattery on site to review the matter.
 
 ***basis.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Secas and
 
@@ -1230,7 +1230,7 @@ relation to the issue.
 
 ***welfare provisions within the Limerick City and County Council functional area.***
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 The Notice of Motion was proposed by Councillor Beasley, seconded by Councillor Hickey-
 
@@ -1324,7 +1324,7 @@ The Notice of Motion was proposed by Councillor Donoghue, seconded by Councillor
 
 O’Sullivan and agreed.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 Following discussions, it was agreed to amend the Motion to the following:
 
@@ -1400,7 +1400,7 @@ The Economic Development Department are currently preparing the terms of a
 
 forthcoming High Street Innovator Competition that will further support the use of a
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 commercial premises in partnership with the property owner through the provision of
 
@@ -1468,7 +1468,7 @@ Policy Committee.
 
 ***LDA attend the next council meeting in June to share their housing delivery plans.***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 The Notice of Motion was proposed by Councillor Kiely, seconded by Councillor McSweeney
 
@@ -1542,7 +1542,7 @@ support consistent messaging around animal welfare standards and responsible
 
 animal ownership within the city.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 In this context, the Council may write to the Minister for Agriculture, Food and the
 
@@ -1590,5 +1590,5 @@ This concluded the meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 

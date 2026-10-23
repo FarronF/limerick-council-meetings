@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Adjourned Draft Budgetary Plan Meeting Municipal District of Adare-Rathkeale - 4th November 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Adjourned%20Draft%20Budgetary%20Plan%20Meeting%20Municipal%20District%20of%20Adare-Rathkeale%20-%204th%20Novembe.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -59,5 +59,5 @@ Corporate Headquarters, Merchants Quay, Limerick y @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

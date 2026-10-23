@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 16th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/01%28b%29%202022-11-16%20Minutes%20Special%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE
 
@@ -76,7 +76,7 @@ reasons. The excellent work carried out by the Town Park Committee over the last
 
 years in maintaining the upkeep of the town park was acknowledged.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Reference was made to the substantial level of funding invested in the town park from various
 
@@ -142,7 +142,7 @@ December, 2022, at 3 p.m., at Áras William Smith OBrien.
 
 This concluded the Meeting.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Signed:
 
@@ -154,12 +154,12 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
 
 
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

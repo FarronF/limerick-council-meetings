@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Limerick City and County Council - 18th February at 5pm.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-special-meeting-of-limerick-city-and-county-council-18th-february-at-5pm.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF ONLINE SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ to the Mayor of Savannah, Mr. Van R. Johnson II and the delegation from Savannah
 
 travelled to Limerick for this momentous occasion.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -162,7 +162,7 @@ the colleges and schools, highlighting how they hoped businesses and connections
 
 grow and benefit from this partnership.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -234,7 +234,7 @@ partnerships and cultural exchanges. Both will work together to examine issues o
 
 common interest and to look for areas of future cooperation.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -262,5 +262,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

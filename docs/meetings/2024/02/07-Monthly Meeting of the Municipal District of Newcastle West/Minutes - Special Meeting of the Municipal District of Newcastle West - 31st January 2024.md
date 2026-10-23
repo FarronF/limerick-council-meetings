@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Newcastle West - 31st January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01b-minutes-special-meeting-of-the-municipal-district-of-newcastle-west-31st-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -86,7 +86,7 @@ Officer, Newcastle West (Ms. A. Lenihan).
 
 **the existing entrance to accommodate 2-way traffic.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ thanked the elected members for their ongoing support. The Members expressed ful
 
 support for the projects.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -196,5 +196,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

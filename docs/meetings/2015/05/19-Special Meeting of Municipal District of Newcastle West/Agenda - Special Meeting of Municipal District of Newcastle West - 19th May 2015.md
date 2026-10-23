@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Municipal District of Newcastle West - 19th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_19th_may_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -63,5 +63,5 @@ Corporate Headquarters, Merchants Quay, Limerick v @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

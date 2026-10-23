@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/01-minutes-of-monthly-meeting-14th-december-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -86,7 +86,7 @@ The Administrative Officer, Dereliction Vacancy and Reuse gave Members a present
 
 on the dereliction/vacancy in the Adare-Rathkeale Municipal District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Proposed by Councillor Teskey;
 
 Seconded by Councillor Collins;
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ Operations West Division advised there are currently unresolved legal issues
 
 around the installation of CCTV cameras.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ This was seconded by Councillor Teskey and agreed.
 
 **boil water notice in Fedamore village: (1) When and what was detected for the boil**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -394,7 +394,7 @@ be boiled before use.
 
 *undertaken to connect the Fedamore Water Supply Scheme to an adjoining group*
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ important to keep babies hydrated. Great care should be taken with boiled water 
 
 avoid burns and scalds as accidents can easily happen, especially with children.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -548,7 +548,7 @@ The motion was proposed by Councillor Sheahan, seconded by Councillor Collins an
 
 agreed.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -620,7 +620,7 @@ required to be completed.
 
 A cost estimate based upon this scoping is then prepared.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -692,7 +692,7 @@ Correspondence was noted and taken as read.
 
 date for the Limerick to Foynes Road, including the Adare Bypass and requested
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -716,5 +716,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 13th February 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/01%20Minutes%2013th%20February%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ finance package was being developed. He also informed them that the works would 
 
 carried out on a phased basis, starting with the Old Limerick Road section. As the new
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ Engineer also gave a presentation in relation to Housing Maintenance, Unfinished
 
 Housing Estates and Disabled Person and Private House Grants.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ flooding issues needs to be address as houses continue to be flooded each month 
 
 weather conditions.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ My Limerick platform as it shows areas which need more funding.
 
 **proposed roundabout at the Lantern Lodge.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ This question was moved to the next meeting.
 
 **NOTICES OF MOTION**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ Scheme referred to above in the current year. Members will, of course,
 
 be consulted in relation to same.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -548,7 +548,7 @@ could do the works if a scheme was made available.
 
 Correspondence, as circulated, was noted.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -608,5 +608,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

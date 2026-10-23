@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 25th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Full%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2025th%20May%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK
 
@@ -88,7 +88,7 @@ The Chief Executive added that Eugene would be an enormous loss to the
 
 organisation and would be sorely missed.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ amendments should read as follows:
 
 **said Motion and that the Motion be allowed to be seconded.”**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Seconded by Councillor Byrne;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -334,7 +334,7 @@ Meeting of the Metropolitan District and therefore should not require discussion
 
 Meeting of the Full Council.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -414,7 +414,7 @@ The Chief Executive’s Reports for the months of March and April were noted
 
 by the Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ accordance with a written Charter adopted by the Local Authority, with or withou
 
 amendment. The adoption of the Charter was now required.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -574,7 +574,7 @@ Limerick. In reply to the query on cost, he stated that the visit by the Mayor a
 
 official would cost approximately €1,355.00.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -654,7 +654,7 @@ Further information in relation to the Rural Development Programme and
 
 Leader Funding was provided by the Chief Officer, LCDC.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -734,7 +734,7 @@ traffic management plan for Abbeyfeale.
 
 The Mayor stated that Items 5 (b) and (c) would be taken together:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -818,7 +818,7 @@ It was recommended that the variations be made as they were important
 
 documents for guiding the future development and management of the Estuary.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -898,7 +898,7 @@ presentation under the following headings:
 
 • Social Aspects.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -976,7 +976,7 @@ not one was mentioned on the website. She asked for a letter to be sent to the
 
 Minister and Fáilte Ireland asking them to include Limerick on the site and the map.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1046,7 +1046,7 @@ hereby adopted, in accordance with Section 66 of the Local Government Act, 2001
 
 (as amended).”
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1160,7 +1160,7 @@ The Director was seeking the approval of the Council to draw down the
 
 additional funding of €739,188 from the Housing Finance Agency. All repayments
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1236,7 +1236,7 @@ project in a limited number of housing estates prior to a more widespread rollou
 
 30 km/h speed limits in 2016.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1314,7 +1314,7 @@ Meeting/Event.
 
 The reports were noted by the Members.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1400,7 +1400,7 @@ Question submitted by Councillor J. Scanlan
 
 ***between validation of applications and assessment.***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1482,7 +1482,7 @@ he was proposing the following amendment and this was seconded by Councillor
 
 Loftus:
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1564,7 +1564,7 @@ referred to 1916/2016 Commemoration Committee)
 
 ***Rising.***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1650,7 +1650,7 @@ present at the Meeting.
 
 (d) Reference to any report submitted to the Members at the Meeting.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1726,7 +1726,7 @@ In the absence of agreement on the Motion, the Deputy Mayor instructed that
 
 a Vote be taken in relation to Councillor Prendiville’s Motion.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1780,7 +1780,7 @@ The Register of Orders made by the Chief Executive up to the date of the Meeting
 
 was available for inspection by the Members.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1800,5 +1800,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

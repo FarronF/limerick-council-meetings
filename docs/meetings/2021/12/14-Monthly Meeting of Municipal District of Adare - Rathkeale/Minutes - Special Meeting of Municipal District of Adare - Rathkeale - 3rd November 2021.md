@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Municipal District of Adare - Rathkeale - 3rd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/01-minutes-of-special-meeting-3rd-november-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -114,7 +114,7 @@ Special Projects – LPT
 
 **270,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Following discussion, the following was agreed:
 
@@ -188,7 +188,7 @@ the project and asked the Executive if something could be put in place to preven
 
 type of overspend occurring in future project.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 At the conclusion of the Agenda and with the consent of the Cathaoirleach, the
 
@@ -212,5 +212,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020-annual.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -81,5 +81,5 @@ Corporate Headquarters, Merchants Quay, Limerick.
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

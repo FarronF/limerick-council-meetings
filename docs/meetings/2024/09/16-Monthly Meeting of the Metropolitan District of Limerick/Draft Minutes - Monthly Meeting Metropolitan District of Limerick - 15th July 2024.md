@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting Metropolitan District of Limerick - 15th July 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-09/01-draft-minutes-monthly-meeting-15th-july-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ And Resolved:
 
 Limerick held on 28th June, 2024:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ the Metropolitan District of Limerick.
 
 **5.Question submitted by Councillor J. Leddin**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -238,7 +238,7 @@ satisfactory and therefore there is no requirement for Eircodes.
 
 ***for these properties.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ A facility of this size and range requires significant planning and resources, b
 
 revenue and progress must be set in the context of other local authority demands.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -396,7 +396,7 @@ road markings will be considered as guidance for road traffic users in this area
 
 community, consisting of a combination of General Municipal Allocation and Development
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -474,7 +474,7 @@ fifty years carried out continuous maintenance work on the Canal in conjunction 
 
 statutory bodies including SFADCO and the IDA.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -550,7 +550,7 @@ accordance with the guidelines.
 
 infrastructure delivery in Q3 2023.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -746,7 +746,7 @@ Accommodation
 
 **30**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1048,7 +1048,7 @@ Accommodation
 
 **60**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1120,7 +1120,7 @@ Members supported the Motion and stated that the Bye-Laws should be reviewed als
 
 administrative support in operating the LCCC Dog Shelter and in enforcing the Control of
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1196,7 +1196,7 @@ same. It was also agreed to include the Play and Recreation Policy for discussio
 
 ***it and make it safe.***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1272,7 +1272,7 @@ safety of the existing national road infrastructure. It is noted that this secti
 
 national road network also forms part of the Limerick Tunnel PPP concession contract.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1328,5 +1328,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

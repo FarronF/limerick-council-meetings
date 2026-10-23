@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 24th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/minutes-ordinary-meeting-of-limerick-city-and-county-council-24th-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MMINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -84,7 +84,7 @@ The Príomh Chomhairleoir informed the Meeting that she had agreed to take Notic
 
 Motion No. 20 at the start of the Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ Meeting of any declaration of interest in any item due for discussion at the Mee
 
 interests were declared.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ Seconded by Councillor Pond;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ On the proposal of Councillor Kiely and seconded by Councillor Slattery it was a
 
 this Disposal to allow for further engagement with Irish Rail.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ at Main Street, Adare, Co. Limerick – Agreement to grant a 6 meter wide waylea
 
 adjacent lands - the disposal to be subject to the covenants and conditions contained within
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -464,7 +464,7 @@ On the proposal of Councillor Collins (M) and seconded by Councillor Ruddle it w
 
 reject the Disposal of Property at 13 The Hawthorns, Ballyagran, Co. Limerick.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -540,7 +540,7 @@ the Designated Activity Companies (DACs). It was confirmed that no communication
 
 been received to date.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -618,7 +618,7 @@ proportion of the costs incurred in the transportation of the delegation while h
 
 to tourist attractions and hosting costs. Therefore, the Council’s approval was now being
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -690,7 +690,7 @@ Meeting of the Committee held on 8th October, 2025.
 
 The Chairperson’s report was noted by the Council.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -764,7 +764,7 @@ relation to Meeting of the Committee held on 13th October, 2025.
 
 The Chairperson’s report was noted by the Council.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -838,7 +838,7 @@ Elected Member to be nominated to the Irish Cement Castlemungret – Community L
 
 Committee.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -898,7 +898,7 @@ Event.
 
 The reports were noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -978,7 +978,7 @@ within Newtown Pery. The delivery of these did not proceed as I had hoped over 2
 
 but they remain priorities for 2026 now. Large urban trees and planters will be
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1054,7 +1054,7 @@ parking locations, loading bays, and inclusive access.
 
 **Culture, Entertainment & Safety (MP88, ML32, ML35 & ML50)**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1130,7 +1130,7 @@ that a copy of the Standing Orders for Plenary Meetings would be circulated to e
 
 Member in advance of the January Meeting.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1198,7 +1198,7 @@ Question submitted by Councillor L. Galvin
 
 ***ESB; and (d) has the ESB been encouraged to cut back all trees from overhead power lines.***
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1286,7 +1286,7 @@ in place since the 1950’s when the trees were smaller but now, they are mature
 
 potential faults.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1370,7 +1370,7 @@ E. The newly renovated Askeaton Pool & Leisure Centre reopens following extensiv
 
 works to improve flood resilience, upgrade facilities, and enhance energy
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1456,7 +1456,7 @@ availed of the insurance cover.
 
 Current insurance cover is up to the end of December 2025 (31st of December 2025).
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1532,7 +1532,7 @@ It was proposed by Councillor Keary and seconded by Councillor O’Donoghue that
 
 laws be drafted for the city and county, making property owners responsible for clearing snow
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1608,7 +1608,7 @@ to the Travel and Transportation Strategic Policy Committee)
 
 *(iii)Use any viable alternative to glyphosate or other toxic herbicides in their work.***
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1682,7 +1682,7 @@ Notice of Motion submitted by Councillor J. Sheahan
 
 ***and asking the Irish government to recommend that the six Fenian prisoners concerned,***
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1726,5 +1726,5 @@ amended, is available on SharePoint for inspection by the Members.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 

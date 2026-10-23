@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Municipal District Adare-Rathkeale - 8th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-08/municipal_district_adare-rathkeale_-_agenda_8_july_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **3rd** **July, 2014.**
 
@@ -80,5 +80,5 @@ District Garda Station will be in attendance).
 
 Any Other Business
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 21st March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/02-minutes-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -80,7 +80,7 @@ Allocation 2024 held on 28th February 2024
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising
 
@@ -130,7 +130,7 @@ A presentation on the Draft Plan was delivered by the Executive Scientist. A gen
 
 discussion took place and clarification was provided as required.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 7.Rural Development
 
@@ -176,7 +176,7 @@ Deputation that funding received by the Local Authority was received for specifi
 
 and that there was very little discretionary funding available.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 NOTICES OF MOTION DEFERRED FROM JANUARY
 
@@ -218,7 +218,7 @@ Housing, and the Property Management Department.
 
 **Seconded: Councillor Egan**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 NOTICES OF MOTION
 
@@ -282,7 +282,7 @@ the Irish Red Cross.
 
 13.Notice of Motion submitted by Councillor Donegan
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 I will move at the next meeting of the Cappamore/Kilmallock Municipal District
 
@@ -330,7 +330,7 @@ phone at 0818 372 772
 
 **Seconded: Councillor Egan**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 QUESTIONS
 
@@ -408,7 +408,7 @@ Taking in Charge Section has a multi-annual work programme and from there we dev
 
 annual work programme. From the 2023 work programme we have two estates (Cluain
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Foinse & Castle Court) which will be coming before the Members to be taken in charge in
 
@@ -464,5 +464,5 @@ Cathaoirleach
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

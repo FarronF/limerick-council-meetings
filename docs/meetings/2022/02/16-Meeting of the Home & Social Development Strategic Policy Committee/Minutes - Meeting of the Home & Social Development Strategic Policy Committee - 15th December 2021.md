@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home & Social Development Strategic Policy Committee - 15th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/15122021_final_spc_minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -92,7 +92,7 @@ meeting.
 
 **Seconded:** Cllr. John Costelloe
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2: Matters arising from the Minutes**
 
@@ -166,7 +166,7 @@ compulsorily acquired to take the unit out of dereliction and it is not solely f
 
 purpose of housing.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Item 4: SPC Work Programme 2022**
 
@@ -242,7 +242,7 @@ building new housing schemes. Mr. Conor Culloo advised that linkages to public
 
 transport would be of utmost importance in any design and it would be considered
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 in the context of the overall scheme but that it would be factored in the decision
 
@@ -256,5 +256,5 @@ for joining the meeting. The Chair wished everyone a Happy Christmas and advised
 
 SPC is the 16th February 2022
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 12th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%20%28a%29%20Minutes%2012th%20February%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -86,7 +86,7 @@ Cathaoirleach thanked Mr. Cribbin and Professor O’Donnell for their presentati
 
 Deputation left the Meeting at that point.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ litter warden present in the town in the evening time to prevent litter from sho
 
 takeaways being dumped on the street in particular during the festive season.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ Operations and Maintenance Services agreed to take Members queries and observati
 
 for National Roads back to Transport Infrastructure Ireland.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -296,7 +296,7 @@ expressed their disappointment at the long delay as well as the cost involved in
 
 completing this scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -362,7 +362,7 @@ dated 6th February, 2019 giving an update in relation to the Taking-in-charge of
 
 Pallaskenry. The report was noted by Members.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -430,7 +430,7 @@ On the proposal of Councillor O’Donoghue, seconded by Councillor Keary, it was
 
 to allocate €6,000 to Adare Community First Responders from 2019 GMA allocation.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -496,7 +496,7 @@ received. It was agreed at the Meeting that the deputation would attend the Apri
 
 Monthly Meeting.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -536,5 +536,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

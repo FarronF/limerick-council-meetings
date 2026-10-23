@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of Metropolitan District of Limerick - 17th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-a-Draft-Minutes-Meeting-of-Metropolitan-District-of-Limerick-17th-April-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ house situate at 40 Marian Park, Patrickswell, Co. Limerick and the intention to
 
 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -192,7 +192,7 @@ Granville Rangers FC Soccer Club
 
 € 2,000
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -368,7 +368,7 @@ Dooradoyle Raheen Men’s Shed
 
 **€ 1,000**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -546,7 +546,7 @@ Limerick City Traveller Health
 
 **€900**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -722,7 +722,7 @@ Limerockers Cru Dance School
 
 € 500
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -836,7 +836,7 @@ enhance the local environment while benefiting from the advertising opportunitie
 
 being offered. The scheme shall provide businesses and organisations an excellent
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -930,7 +930,7 @@ Mungret Gate, Baunacloka Limerick
 
 210
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -1076,7 +1076,7 @@ current house is suitable for the household in terms of size and condition. The 
 
 also ensure the house value is within an independent market valuation range, which is a
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1152,7 +1152,7 @@ these discussions at this point but engagement will continue with relevant stake
 
 **13.Question submitted by Councillor C. Sheehan**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1238,7 +1238,7 @@ of 2023: **266**
 
 2. Mobility Aids Grant- **27**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1324,7 +1324,7 @@ Phosphorus and is consistent with our investigation findings to date. The second
 
 sampling for April will happen over the next few days.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1400,7 +1400,7 @@ Health and Welfare Act 2013.
 
 Limerick City and County Council appointed Technical Advisors, Atkins, in September 2022
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1500,7 +1500,7 @@ city centre Transport Plan will be significantly advanced in the current year bu
 
 extend into 2024 for substantive completion.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1578,7 +1578,7 @@ events.
 
 Following on from the previous workshop, it is intended to schedule a number of workshops
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1650,7 +1650,7 @@ house purchasers.
 
 ***responsive transport service to serve areas that will not be connected to BusConnects such as the***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1724,7 +1724,7 @@ Application System was causing for children who were not allocated a Secondary S
 
 which had been ongoing for a long number of years. Members agreed that this issue needed to be
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1798,7 +1798,7 @@ Friday, 28th
 
 Pyrotechnic Display by Rogu on Bedford Row / Fashion Friday.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1872,5 +1872,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

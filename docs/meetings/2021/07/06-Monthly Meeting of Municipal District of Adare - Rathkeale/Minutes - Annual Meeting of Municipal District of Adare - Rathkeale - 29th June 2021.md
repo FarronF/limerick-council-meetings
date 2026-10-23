@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of Municipal District of Adare - Rathkeale - 29th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-b-minutes-of-annual-meeting-29th-june-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -92,7 +92,7 @@ Councillor Sheahan formally announced he will be a candidate for the next Electi
 
 hoped all Councillors of the District would be re-elected with him.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -146,5 +146,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - 15th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-03/agenda-special-meeting-15.03.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 10th March, 2021.
 
@@ -42,7 +42,7 @@ Ireland branches in Limerick.
 
 **Meetings Administrator.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 We request a Special Meeting of Limerick City and County Council to discuss
 
@@ -72,5 +72,5 @@ Councillor F. Daly.
 
 Councillor J. O’Donoghue.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

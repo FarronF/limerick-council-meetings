@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment Strategic Policy Committee - 7th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/20211126-agenda-cabe-spc-.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -48,7 +48,7 @@ at 4.00pm. The business to be transacted is set out in the appended agenda.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -110,5 +110,5 @@ implement the necessary changes to ensure that recycling facilities, including b
 
 banks, can be accessed by everyone.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

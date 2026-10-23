@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Metropolitan District of Limerick - 11th December 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/00-agenda-meeting-of-the-metropolitan-district-of-limerick-11th-december-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ November, 2023.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -171,7 +171,7 @@ Singland is included in the Safe Routes to School scheme and if not, can St Brid
 
 included in same.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -239,7 +239,7 @@ scheme to support the night-time economy, and an update on the Night Time Econom
 
 work to date.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -307,7 +307,7 @@ city that they do not operate or drive through roads that have weight restrictio
 
 roads and bus corridors.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -363,5 +363,5 @@ in the City Centre area.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

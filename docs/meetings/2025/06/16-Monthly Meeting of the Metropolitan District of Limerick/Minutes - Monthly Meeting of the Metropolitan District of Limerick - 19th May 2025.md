@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Metropolitan District of Limerick - 19th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-06/minutes-monthly-meeting-19th-may-2025_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -96,7 +96,7 @@ held on 22nd April, 2025.
 
 Proposed by Councillor Butler;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -238,7 +238,7 @@ Woodhaven Residents Association
 
 €1000
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -410,7 +410,7 @@ Patrickswell National School
 
 €7500
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -576,7 +576,7 @@ Garryowen CDP
 
 €1500
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -754,7 +754,7 @@ Twilight Thursday
 
 €5500
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -836,7 +836,7 @@ hardscaping and civil elements of the projects, while the Parks department could
 
 the landscaping elements of the project. It appears that a number of the Monumental
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -920,7 +920,7 @@ Government and Heritage for consideration.
 
 public/community buildings. One of the three successful projects was located in the
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -998,7 +998,7 @@ We note, however, that this figure has reduced substantially to 32.4% in 2024 - 
 
 below the national average of 36.5% in the same year. This positive development is
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1086,7 +1086,7 @@ must be willing to give evidence in court, however many are reluctant to do so.
 
 ***Caherdavin Meadows Junction rather than the bus stop’s current location.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1148,7 +1148,7 @@ assessing the number of units in the City Centre. The map was extrapolated to El
 
 data which makes it easy for the Council databases to assess the level of social-rental households.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1161,7 +1161,7 @@ data which makes it easy for the Council databases to assess the level of social
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1251,7 +1251,7 @@ It is anticipated that a Part 8 will be lodged by October of this year.
 
 It was agreed to refer this Notice of Motion to the Economic Development, Enterprise, Tourism and
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1325,7 +1325,7 @@ Singland/Boodmill area of Limerick. She emphasised the need to identify a more s
 
 closer to these communities in Singland/Bloodmill.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1401,7 +1401,7 @@ by the GDPR team.
 
 **A/Senior Engineer, Travel & Transport Strategy.**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1475,7 +1475,7 @@ the importance of a multi-agency approach in addressing these issues.
 
 ***I will move at the next meeting of the Metropolitan District of Limerick that we write to the Port***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1521,5 +1521,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

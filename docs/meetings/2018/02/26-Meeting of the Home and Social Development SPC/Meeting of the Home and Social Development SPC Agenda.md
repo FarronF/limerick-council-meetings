@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Meeting of the Home and Social Development SPC Agenda.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/Meeting%20of%20the%20Home%20and%20Social%20Development%20SPC%20Agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **LIMERICK CITY & COUNTY COUNCIL**
 
@@ -100,5 +100,5 @@ taken against landlords letting substandard accommodation.
 
 **Limerick City and County Council**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

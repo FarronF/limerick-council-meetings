@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 3rd March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/01-2021-03-03-minutes-jpc-subcommittee.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE
 
@@ -80,7 +80,7 @@ the reduction in crime statistics in 2020 and the associated Covid 19 Regulation
 
 in place which may have attributed to a reduction in crime.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ regard. She also thanked the local community and voluntary groups for their assi
 
 during the Covid 19 pandemic. She referred to the significant Covid 19 breaches and the high
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -220,7 +220,7 @@ age group but stated that engagement in the community would commence again when 
 
 restrictions are lifted.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -246,5 +246,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

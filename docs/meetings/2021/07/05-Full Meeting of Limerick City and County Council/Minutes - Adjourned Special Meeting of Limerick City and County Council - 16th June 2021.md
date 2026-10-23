@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Adjourned Special Meeting of Limerick City and County Council - 16th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-d-minutes-adjourned-special-meeting-16.06.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ADJOURNED SPECIAL MEETING OF LIMERICK CITY
 
@@ -84,7 +84,7 @@ Meeting on the 14th June and confirmed that on the proposal of Councillor J. She
 
 by Councillor O’Hanlon that Standing Orders had been suspended to allow for this.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **1.Change Record of Protected Structures**
 
@@ -134,7 +134,7 @@ Quay”
 
 The amendment was proposed by Cllr Hartigan, seconded by Cllr Costelloe.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3.Change to Chapter 7- Objective IN 010, Part g**
 
@@ -190,7 +190,7 @@ Costelloe, Hartigan, Novak Uí Chonchúir.
 
 (3)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Against proposed amendment:**
 
@@ -246,7 +246,7 @@ inserted in Chapter 5 as follows:
 
 Historic Gardens & Designed Landscapes
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 The DEHLG have undertaken a ‘Survey of Historic Gardens & Designed Landscapes’ where this
 
@@ -302,7 +302,7 @@ facilities but agreed the importance of providing such facilities where at all p
 
 The amendment was proposed by Cllr Novak Uí Chonchúir, seconded by Cllr. Hartigan.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **9.Change to Chapter 6**
 
@@ -356,7 +356,7 @@ Pier as these were already shown on the map.
 
 The amendment was proposed by Cllr Novak Uí Chonchúir, seconded by Cllr. Hartigan.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **12.Change to Chapter 11**
 
@@ -414,7 +414,7 @@ value of Limerick’s towns and villages such as Adare, Kilmallock and Askeaton 
 
 opportunities to enhance their tourism potential’
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Some Elected Members highlighted that other towns and village names be also included, or else
 
@@ -464,7 +464,7 @@ Following some discussion and clarification from Council officials on this propo
 
 Cllr K. Sheahan agreed to withdraw the proposed amendment.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **18.Change to Chapter 9**
 
@@ -510,7 +510,7 @@ at Watch House Cross.
 
 The amendment was proposed by Cllr Benson, seconded by Cllr. Costelloe.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **22.Change to Chapter 10**
 
@@ -560,7 +560,7 @@ to address the play and recreation needs of children and young people **with spe
 
 The amendment was proposed by Cllr Costelloe, seconded by Cllr. O’Brien.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 **25.Changes to Chapter 9**
 
@@ -612,5 +612,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

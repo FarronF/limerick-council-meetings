@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 17th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/02%20Minutes%20of%2017th%20November%20Municipal%20District%20Meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -88,7 +88,7 @@ Engineer had agreed to attend the December Meeting of the Municipal District to 
 
 information on Air to Water and an update on other housing construction initiatives.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3. Disposal of Property
 
@@ -154,7 +154,7 @@ as they are funded by the Department of Education and not the NTA.
 
 installing bus shelters on public land/space?
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Answer 2:** The NTA would not have an issue with this, but they could not take them in
 
@@ -220,7 +220,7 @@ the R517, be reviewed.
 
 **Seconded: Councillor E Ryan**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **REPLY:**
 
@@ -284,7 +284,7 @@ for consideration. Contact will be made with the Citizens assembly if passed at 
 
 council.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Questions
 
@@ -334,7 +334,7 @@ The information provided above is extracted from the 2021 Annual Occupancy Audit
 
 (Image omitted)
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 out by LCCC on all active Approved Housing Bodies (AHBs) properties in Limerick. Therefore,
 
@@ -406,7 +406,7 @@ on 14th November 2022.
 
 Marion Roche, Avondhu Newspaper was welcomed to the meeting.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 A request was raised that the Oola Graveyard Committee be invited to present to the
 
@@ -430,5 +430,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

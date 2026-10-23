@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 28th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-11/01-minutes-ordinary-meeting-28.09.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ Circulated, copies of draft Minutes of the following Meetings:
 
 Ordinary Meeting of the Council held on 26th June, 2020.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Circulated, copy of Statutory Notice dated 16th June, 2020, concerning disposal 
 
 property at 31, McDermott Avenue, Janesboro, Limerick.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ Circulated, copy of Statutory Notice dated 16th June, 2020, concerning disposal 
 
 at 1, Clarke Avenue, Janesboro, Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -332,7 +332,7 @@ Seconded by Councillor O’Hanlon (K);
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Circulated, copy of Statutory Notice dated 9th September, 2020, concerning dispo
 
 residential property and land at West Square, Askeaton, Co. Limerick.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ Circulated, copy of Departmental Circular Fin 14-2020 dated 31st August, 2020, i
 
 relation to 2021 Budget Meeting and other Budgetary matters.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -592,7 +592,7 @@ agenda, setting out the matters to which the Members must have regard in making 
 
 on the LPT, including the financial position of Limerick City and County Council.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -674,7 +674,7 @@ The Mayor confirmed the proposal of Councillor Sheahan (J), seconded by Councill
 
 Daly, as carried and accordingly the following resolution was adopted:
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -752,7 +752,7 @@ On the proposal of Councillor O’Hanlon, seconded by Councillor Daly, the follo
 
 Members were appointed to the Limerick Market Trustees for the coming year:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -832,7 +832,7 @@ Seconded by Councillor Galvin;
 
 And Resolved:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1002,7 +1002,7 @@ Strategic Policy Committee dated 18th July and 11th September, 2020, in relation
 
 Meetings of the Committee held on 6th July and 7th September, 2020, respectively.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1074,7 +1074,7 @@ on 14th September, 2020.
 
 The Report was noted by the Council.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1158,7 +1158,7 @@ procedures, procuring the necessary design work, acquiring the land and carrying
 
 of/procuring the construction works and any other powers, functions and duties necessary
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1230,7 +1230,7 @@ of the A/Administrative Officer, Tourism and Events, Community Development, date
 
 September, 2020.”
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1312,7 +1312,7 @@ Currently, the County Record of Protected Structures stands at 1,605 entries, wh
 
 Record of Protected Structures has 438 entries.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1476,7 +1476,7 @@ from
 
 www.limerick.ie/council
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1566,7 +1566,7 @@ advised by a Housing Authority that a person is illegally residing in a Council
 
 house, and that person is believed to be engaged in anti-social behaviour, then
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1654,7 +1654,7 @@ sensitivity. However, the following information in available via the NOAC
 
 (National Oversight and Audit Commission) statistics published annually:
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1756,7 +1756,7 @@ Notice of Motion submitted by Councillor S. Keary **(to be referred to Protocol*
 
 **December, January, February, March, April, May, June and July.**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1830,7 +1830,7 @@ It was agreed to refer the Motion to the Economic Development, Enterprise and
 
 Planning Strategic Policy Committee for consideration.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1910,7 +1910,7 @@ Members fully supported the request that the veterans should be honoured and it
 
 was agreed that a letter of support would issue to the Minister for Defence in this regard.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1938,5 +1938,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Travel & Transportation Strategic Policy Committee Meeting - 20th June 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Travel-and-Transportation-Strategic-Policy-Committee-Meeting-20th-June-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -91,5 +91,5 @@ of two per year in the Schedule of Municipal District Works for reconstruction t
 
 start the process.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

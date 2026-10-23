@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 8th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-2020-01-08-minutes-january.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ smaller towns and villages for private development. The necessity of having a mi
 
 and private housing in areas was also highlighted. The difficulty in obtaining planning
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Question submitted by Councillor T. Ruddle
 
 ***Castlemahon, (h) Knockaderry, (i) Feohanagh, (j) Glin, (k) Abbeyfeale,(l) Mountcollins,***
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -306,7 +306,7 @@ Application Form. Applicants approved for housing for longer than one year
 
 have the option to request a change to their areas of choice.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -378,7 +378,7 @@ that this property was being dealt with under the Derelict Sites Act legislation
 
 the curtilage of the property was under separate ownership and that normally the Council
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -458,7 +458,7 @@ An update on the provision of grave spaces for sale subject to availability in a
 
 within the Newcastle West Muncipal District was requested. A brief discussion followed and
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -522,5 +522,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

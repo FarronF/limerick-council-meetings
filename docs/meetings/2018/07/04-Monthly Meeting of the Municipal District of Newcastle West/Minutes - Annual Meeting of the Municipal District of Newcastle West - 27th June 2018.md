@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Municipal District of Newcastle West - 27th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01b%202018-06-27%20Minutes%20AGM.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF THE
 
@@ -86,7 +86,7 @@ The outgoing Cathaoirleach invited nominations for the Office of Cathaoirleach o
 
 Municipal District for the coming year.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Proposed by Councillor Galvin
 
@@ -162,5 +162,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

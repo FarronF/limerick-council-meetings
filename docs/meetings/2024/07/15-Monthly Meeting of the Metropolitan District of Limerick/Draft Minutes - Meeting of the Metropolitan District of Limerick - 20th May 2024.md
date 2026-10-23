@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 20th May 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/01a-draft-minutes-monthly-meeting-20th-may-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ Proposed by Councillor McSweeney;
 
 Seconded by Councillor Kilcoyne;
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ with Section 179 3(a) of the Planning and Development Act 2000 (as amended) and 
 
 Planning and Development Regulations, 2001 (as amended) and noted that it was proposed to
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ Circular Road, Kilrush, Limerick.
 
 Proposed by Councillor Daly;
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ On the proposal of Councillor Kiely, seconded by Councillor O’Hanlon, Standing
 
 suspended in order to complete the agenda.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ issues without loss of green areas or amenity areas.
 
 ***I will ask at the next Meeting of the Metropolitan District of Limerick, with the Factory Youthspace***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -716,7 +716,7 @@ detailed process of reviewing project documentation prior to final draw down.
 
 0
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -1168,7 +1168,7 @@ detailed process of reviewing project documentation prior to final draw down.
 
 5000
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -1620,7 +1620,7 @@ detailed process of reviewing project documentation prior to final draw down.
 
 0
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -2088,7 +2088,7 @@ detailed process of reviewing project documentation prior to final draw down.
 
 30000
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -2278,7 +2278,7 @@ no. 1 Bed and 1 no. 2 Bed houses, 4 no. 1 Bed and 1 no. 2 Bed apartments.
 
 Ireland (TII) on proposed measures that, while not primarily aimed at reducing noise in the
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -2358,7 +2358,7 @@ to do so.
 
 ***kerb height from 60mm to 100mm alongside the road edge on some schemes.***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -2440,7 +2440,7 @@ Consultants to upgrade and extend the existing playground.
 
 ***a Park and Ride facility at Coonagh/Clondrinagh.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -2516,7 +2516,7 @@ appropriate works to the Mortuary Chapel.
 
 **22.Question submitted by Councillor S. Kiely**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -2590,7 +2590,7 @@ In proposing the Motion, Councillor Leddin highlighted the population increase i
 
 provide a centre for the community.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -2666,7 +2666,7 @@ funding of estate management in general is a matter for the annual budget proces
 
 ***the bring banks and that the Council considers installing CCTV at these locations.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -2744,7 +2744,7 @@ are managed by the Council, nine cemeteries with the assistance of Limerick Civi
 
 twenty two by local cemetery community groups with the remaining six having minimal
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -2824,7 +2824,7 @@ use, in particular for the flower baskets and flower tiers in the city.
 
 ***on the Commons Road and Drombanna Village.***
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -2882,5 +2882,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

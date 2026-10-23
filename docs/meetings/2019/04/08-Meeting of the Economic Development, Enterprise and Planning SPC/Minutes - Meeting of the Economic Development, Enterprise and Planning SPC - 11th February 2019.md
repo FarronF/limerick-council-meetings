@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 11th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Minutes%20of%20SPC%20%2011th%20Feb%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES**
 
@@ -122,7 +122,7 @@ SPC, which was to be held on 12th February, 2019.
 
 .
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2**
 
@@ -214,7 +214,7 @@ Shannon, where plans for Limerick 2030 included population growth of Limerick by
 
 100,000.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 This will severely limit investment in housing, health, education and transport,
 
@@ -296,7 +296,7 @@ Planning, on behalf of the elected members, in advance of the special meeting on
 
 25th February.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Item 3**
 
@@ -320,5 +320,5 @@ Nil.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

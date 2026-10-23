@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Cappamore-Kilmallock - 20th April 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20200417.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -88,7 +88,7 @@ Circulated, report of the Director, Economic Development Directorate, dated 7th 
 
 extend the life of the Bruff Local Area Plan 2012-2018 for a further five years.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ Seconded by Councillor Teefy;
 
 And Resolved:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Members felt rural life was being attacked and that the proposed amendment to th
 
 could impinge on traditional rural pursuits such as sulky racing.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ strategy to control invasive plants on Council’s land and develop guidelines f
 
 owners.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -386,7 +386,7 @@ of the need for greater countywide inclusion. She informed the Members that reso
 
 been increased and that the strategy would be reviewed.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -464,7 +464,7 @@ The main challenges facing the project were noted as follows:
 
 • Governance arrangements.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -556,7 +556,7 @@ Cluain Foinse, Hospital
 
 Bond claimed, schedule of works and costs required
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -630,7 +630,7 @@ success again this year and conveyed their congratulations to everyone who suppo
 
 initiative.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -684,5 +684,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

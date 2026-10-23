@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 28th January 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/01%28a%29%20Minutes%20Ordinary%20Meeting%2028.01.2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY COUNCIL HELD IN
 
@@ -82,7 +82,7 @@ And Resolved:
 
 of land at 8, O’Donoghue Avenue, Janesboro, Limerick.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Proposed by Councillor Collins (M);
 
@@ -144,7 +144,7 @@ Devon Road, Templeglantine, Co. Limerick, to Teresa Mahony Dee, for the sum of �
 
 particulars of which were contained in the Statutory Notice dated 10th December, 2018.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 (d) Circulated, copy of Statutory Notice dated 8th January, 2019, concerning disposal of
 
@@ -208,7 +208,7 @@ amended, the approval of the Council be and is hereby given to the disposal of l
 
 Galvone View, Limerick, to Helena Mackey, in exchange for 205, Valley View, O’Malley
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Park, Limerick, particulars of which were contained in the Statutory Notice dated 8th
 
@@ -272,7 +272,7 @@ And Resolved:
 
 2001, as amended, and Section 211 of the Planning and Development Act, 2000, as
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 amended, the approval of the Council be and is hereby given to the disposal of land at
 
@@ -336,7 +336,7 @@ Seconded by Councillor Sheahan (J);
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 “That, in accordance with the provisions of Section 183 of the Local Government Act,
 
@@ -412,7 +412,7 @@ Seconded By Councillor O’Donnell (W);
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 “That, the approval of the Council be and is hereby given to visit by
 
@@ -488,7 +488,7 @@ piers, islands and links to County Clare and the need for signage to highlight
 
 these amenities.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
  The need to develop the potential of Knockfierna Famine Heritage, Glenquin
 
@@ -582,7 +582,7 @@ fashion and cultural attractions.
 
 John’s Castle.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
  The need to include culture in the strategy and develop a weekend festival of
 
@@ -654,7 +654,7 @@ meeting held on the 10th December, 2018.
 
 The Report was noted by the Council.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **(iii)**
 
@@ -724,7 +724,7 @@ either a charge on the property or a personal guarantee.
 
 Proposed By Councillor Lynch (S);
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Seconded By Councillor O’Hanlon (K);
 
@@ -794,7 +794,7 @@ Gaeltacht, with advice from an All Party Group on Commemorations and an Expert
 
 Advisory Group.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 Members thanked Mr. Brady for his presentation and commended all those involved
 
@@ -852,7 +852,7 @@ and Commercial Waste) Bye-Laws 2019 are hereby adopted in accordance with Sectio
 
 as amended.”
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 6.Conferences
 
@@ -908,7 +908,7 @@ particularly in relation to equality of size for Irish on signage and the feasib
 
 Irish Language Officer for Comhairle Cathrach agus Contae Luimnigh.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 **REPLY:**
 
@@ -984,7 +984,7 @@ works on site in Municipal District of NCW in 2019, excluding the Buy and
 
 Renew programme.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 1 New Build House is anticipated to complete in Municipal District of
 
@@ -1062,7 +1062,7 @@ Municipal District of Newcastle West
 
 32 (21 casual and 11 major refurb)
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 Municipal District of Adare-Rathkeale
 
@@ -1132,7 +1132,7 @@ Scheme in Limerick, and has contracted out the operation of this scheme to a
 
 private company. The NTA has previously agreed to an extension to the Coca
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 Cola Bike Scheme in Limerick, but this has not been able to proceed to date
 
@@ -1206,7 +1206,7 @@ young couples to build next to rural houses, support small scale contractors, he
 
 pupil numbers in local schools and reduce housing waiting lists. He noted the potential for
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 the Council to let out the property in the future and asked that the Housing Department
 
@@ -1280,7 +1280,7 @@ expressed concern that the level of resources assigned to monitoring the constru
 
 new buildings in the Council’s administrative area was not sufficient to robustly monitor the
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 level of construction taking place. Councillor McCreesh highlighted the risks that buildings
 
@@ -1354,7 +1354,7 @@ nationally at 12-15% of new buildings notified to the Building Control
 
 Authority. Limerick City and County Council as Building Control Authority has
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 consistently achieved this target in recent years. Building Control inspections
 
@@ -1420,7 +1420,7 @@ Council and the enclosed resolution relating to the undocumented in America and 
 
 his support for the resolution.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 CHIEF EXECUTIVE’S ORDERS:
 
@@ -1444,5 +1444,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 

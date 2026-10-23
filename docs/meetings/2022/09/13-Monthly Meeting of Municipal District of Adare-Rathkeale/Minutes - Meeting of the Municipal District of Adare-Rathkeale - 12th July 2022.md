@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 12th July 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/01%20Minutes%20of%20Monthly%20Meeting%2012th%20July%2C%202022_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read, adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ address the issue of Ash die back in the City and County.
 
 for the success of the Pro-Am held in The Adare Manor in July. Councillor Teskey
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -222,7 +222,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Keary, it was agre
 
 allocate €3,000 to Robertstown Church.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -286,7 +286,7 @@ found for the property.
 
 Any interest or funded proposals for the future of this property would be most welcome.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -352,7 +352,7 @@ Correspondence, as circulated, was noted by Members.
 
 This concluded the Meeting.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -366,5 +366,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

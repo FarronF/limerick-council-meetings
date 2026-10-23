@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 22nd October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-travel-transportation-strategic-policy-committee-22nd-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -53,7 +53,7 @@ transacted is set out in the appended agenda.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -115,5 +115,5 @@ Have LCCC surveyed stakeholders/users on the benefits/success of these objective
 
 and the economic or other benefits achieved?
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

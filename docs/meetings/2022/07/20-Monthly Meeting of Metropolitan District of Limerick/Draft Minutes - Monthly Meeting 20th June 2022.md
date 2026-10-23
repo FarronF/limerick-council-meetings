@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting 20th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-07/01%28a%29%20Draft%20Minutes%20Monthly%20Meeting%2020th%20June%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ The report, as circulated, was noted by Members.
 
 setting out proposals for disposal of property at Mill Road, Corbally, Limerick and the intention
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ development and the timeline for the completion of it. Members also highlighted 
 
 for consultation with adjoining households as part of this development process.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ once construction commences.
 
 ***purchased.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ maintenance and management of the decorative lighting currently erected througho
 
 Limerick city.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -376,7 +376,7 @@ Castletroy area.
 
 ***signage for River Place and River Lane in the Abbey.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -458,7 +458,7 @@ transferring to the higher level of subsidy under the Affordable Housing Fund st
 
 which model of finance/ and development strategy is most suitable. Once outline viability
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -532,7 +532,7 @@ particular Mount St. Oliver, which has ongoing issues.
 
 It was agreed to refer this Notice of Motion to the Climate Action, Biodiversity and Environment
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -614,5 +614,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

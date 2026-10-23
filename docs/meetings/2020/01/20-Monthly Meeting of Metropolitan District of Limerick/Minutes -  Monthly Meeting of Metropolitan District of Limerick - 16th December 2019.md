@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes -  Monthly Meeting of Metropolitan District of Limerick - 16th December 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-01/01-minutes-monthly-meeting-16th-december-2019_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN THE**
 
@@ -86,7 +86,7 @@ Sympathy was also extended to the following staff members on their recent bereav
 
 Members observed a minutes silence in their memory.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ December, 2019 seeking approval to the taking in charge of the following estates
 
 **Cherryfield, Monaleen**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ and Development Act, 2000 (as amended) and Part 8 of the Planning and Developmen
 
 Regulations, 2001 (as amended) and noted that it was proposed to proceed in accordance with
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -348,7 +348,7 @@ We understand that TII will be installing and implementing the speed limits on t
 
 section of roadway, in accordance with County Limerick Road Traffic Special Speed
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -438,7 +438,7 @@ capacity for a communal living environment. However, the Drop In Centre is
 
 currently operating extended day service into the evening. Further Day Services are
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -570,7 +570,7 @@ Families
 
 80
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -672,7 +672,7 @@ Administrator also confirmed that Officials are requested to attend the meeting 
 
 Notice of Motion relevant to their Directorate for discussion on the agenda.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -766,7 +766,7 @@ Members.  Limerick City and County Council do not operate a placement system on
 
 the Housing Waiting List. Housing Applications are assessed in line with the Social
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -850,7 +850,7 @@ Councillor Butler took the Chair as the Cathaoirleach had to leave the meeting f
 
 The motion was proposed by Councillor Costelloe, seconded by Councillor Benson and agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -934,7 +934,7 @@ location therefore the extinguishment of pedestrian right of way would not impac
 
 This was seconded by Councillor Sheahan and agreed.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1022,7 +1022,7 @@ Councillor O’Dea, seconded by Councillor Butler, and agreed.
 
 **footballing fraternity, the Markets Field Stadium and local businesses) and immediately**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1050,5 +1050,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Municipal District of Cappamore-Kilmallock – 17th July 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/2%20minutes_of_meeting_of_municipal_district_of_cappamore-kilmallock_-_17_july_2014.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL
 
@@ -94,7 +94,7 @@ safety scheme. The Members were advised that a 3 day traffic count would be
 
 carried out in September when the schools would reopen after the summer recess.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -168,7 +168,7 @@ withdrawn in the County. It was noted that a dry recyclable collection was
 
 available to members of the public that had a refuse collection service.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ Planning Department as they may have further information in relation to the
 
 ownership of this building.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,5 +310,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 8th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/Agenda%20of%20SPC%208th%20of%20October%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 25th September 2018
 
@@ -86,5 +86,5 @@ Senior Executive Officer
 
 Economic Development
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

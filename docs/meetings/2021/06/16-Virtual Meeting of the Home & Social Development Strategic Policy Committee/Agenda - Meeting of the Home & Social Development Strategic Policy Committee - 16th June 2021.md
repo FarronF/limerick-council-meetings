@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home & Social Development Strategic Policy Committee - 16th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/16062021_spc_agenda-v2.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
@@ -58,5 +58,5 @@ e. Recommendations from Council meetings
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

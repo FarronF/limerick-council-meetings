@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare - Rathkeale - 29th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01-a-minutes-of-monthly-meeting-29th-june-2021-1.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -88,7 +88,7 @@ out details in relation to Rathkeale Enterprise Centre, Rathkeale Industrial Est
 
 Rathkeale, Co. Limerick. The report had been prepared in accordance with Section 179(3)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ measures in place. A number of studies were carried out on the N20 at Banogue
 
 prior to the installation of traffic calming measures and due to a number of
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ fountain in Adare Village. The Senior Executive Engineer advised these works
 
 were carried out by the Community Development Directorate. Councillor Teskey
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ upgrade the current fencing in the estate. Councillor Keary also offered to
 
 provide GMA monies towards the cost of these works.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -380,7 +380,7 @@ allocate the following:
 
  €2,500 for Kildimo National School.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -450,7 +450,7 @@ the VOIDS 2021 Programme.
 
 Please note below the response received from Irish Water.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -500,5 +500,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

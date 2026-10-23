@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Limerick City and County Council Joint Policing Committee - 10th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Minutes%20of%20JPC%20Meeting%2010th%20May%2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -94,7 +94,7 @@ which is being trialed on the Mobility Project. The bike has an inbuilt camera a
 
 number plates per second and has minimum interference with traffic.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **4.RECEIVE UPDATE FROM CHIEF SUPERINTENDENT**
 
@@ -180,7 +180,7 @@ look after the court room and custody area. He added that he contacted the Minis
 
 recently on this matter and will update Members in due course.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **5.QUESTION SUBMITTED BY MAURICE QUINLIVAN, T.D. AND COUNCILLOR SÉIGHÍN Ó**
 
@@ -256,7 +256,7 @@ city. Begging on the streets is also being addressed.
 
 **FOR AND PROVIDEA** **GARDA SUBSTATION IN THE AREA’.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **11.NOTICE OF MOTION SUBMITTED BY COUNCILLOR JOE POND (REFERRED FROM MEETING**
 
@@ -336,7 +336,7 @@ done up and are manned with a guard in each one.
 
 **INFORMATION WHICH CAN BE PROVIDED’.**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 **12.NOTICE OF MOTION SUBMITTED BY COUNCILLOR PAUL KELLER :**
 
@@ -370,5 +370,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

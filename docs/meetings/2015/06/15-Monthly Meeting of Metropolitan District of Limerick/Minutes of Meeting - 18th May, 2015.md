@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting - 18th May, 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20of%20Meeting%20-%2018th%20May%2C%202015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -102,7 +102,7 @@ On the proposal of Councillor Collins and seconded by Councillor Leddin it was a
 
 that the Annual Meeting should be held on 19th June, 2015.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 On the proposal of Councillor O’Hanlon and seconded by Councillor Collins it was
 
@@ -188,7 +188,7 @@ development at Park Canal Bridge / Park Road. It was proposed to proceed in
 
 accordance with the Chief Executive’s Report.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Members welcomed the proposed development and noted that issues, that had been
 
@@ -276,7 +276,7 @@ Notice of Motion submitted by Councillor Malachy McCreesh
 
 ***the properties on the approach to Limerick City Centre via the Dock Road with***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 ***regard to improving the unsightly appearance of this roadway.***
 
@@ -362,7 +362,7 @@ Members supporting the motion spoke of the stress that water charges place on th
 
 most vulnerable and how water charges will result in students having to pay increased
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 deposits for accommodation. Members also pointed out that the sums to be collected
 
@@ -448,7 +448,7 @@ Notice of Motion submitted by Councillor Paul Keller
 
 **relocate the following bus stops:**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 **1)**
 
@@ -502,5 +502,5 @@ Natura Wetlands Report 1999 be provided at the next meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

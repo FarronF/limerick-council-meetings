@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development Strategic Policy Committee - 17th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/17022021_final_minutes.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -100,7 +100,7 @@ Cllr. Murphy also offered sympathies to Mr. PJ O’Grady on the recent death of 
 
 **Seconded:** Cllr. Eddie Ryan
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2: Matters arising from the Minutes**
 
@@ -188,7 +188,7 @@ the grand scale of allocations. Cllr. Kiely noted with praise, the work of the a
 
 **Item 4: Mortgage to Rent Update** **–** **Jennifer Ahern**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Ms. Jennifer Ahern gave overview on MTR scheme and shared presentation.
 
@@ -274,7 +274,7 @@ appointed by either Home for Life or the AHB and they would send it to LCCC for 
 
 Ms. Ahern asked Cllr. Benson to contact her about the constituent.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 
 
@@ -380,7 +380,7 @@ Some of the main points of the presentation were:
 
 A new introduction in the team is having technical staff as part of the Regeneration team.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Ms. O’Connor noted that for the Social Intervention Fund 2021, there were over 200 applications
 
@@ -462,7 +462,7 @@ allocation scheme. Ms. Newell gave brief overview of background of 2017 adopted 
 
 scheme and noted that we are proposing a draft revision. Ms. Newell went on to say that we are
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 doing is we are proposing to input the scheme to allow us to operate the private downsizing
 
@@ -542,7 +542,7 @@ come back with an update.
 
 **St.** **Anne’s Court Update**:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Ms. Newell noted that we have funding for five sites in the City under the Serviced Sites Fund – one
 
@@ -630,7 +630,7 @@ the scheme but it is a fantastic scheme if administered correctly. Ms. Duke is a
 
 case that Cllr. Keary was referring to and notec that the set of rules around the loan system
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 are very black and white. Ms. Duke advised that we help people as much as possible but we
 
@@ -738,7 +738,7 @@ had recent discussions with Mr. Lowth and Ms. Phillips regarding the areas in th
 
 Newell also noted that we could give an update on that at the next SPC.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 b. Minister Darragh O’Brien Reply to HAP Letter – Rob Lowth
 
@@ -826,7 +826,7 @@ e-mails that had been sent out to members of Cappamore-Killmallock MD and TD’s
 
 property in Galbally that was allocated and since then, was not taken up.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 *Cllr. Ryan sought support to limit reps to one rep for one person per elected representative.*
 
@@ -946,7 +946,7 @@ he is not sure how that would work, and he went on to note that TDs are as entit
 
 a rep for someone as Councillors are but only rep. Cllr. Kiely advised that anyone with a
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Limerick.ie address could be identified as Councillor and anyone with an Oireachtas.ie e-mail
 
@@ -1062,7 +1062,7 @@ White and Ms. Elaine O’Connor for taking the time to go on a walk around St. M
 
 the previous week. Cllr. Costelloe noted the massive challenges in St. Mary’s Park and he will
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 talk to LCCC officials on that. Cllr. Costelloe stated that we need to work on the problems in
 
@@ -1156,5 +1156,5 @@ The Chair thanked everyone for logging in, for their presentations and everyone�
 
 contributions.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 13th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/minutes-meeting-of-the-economic-development-enterprise-tourism-and-planning-strategic-policy-committee-13th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT,**
 
@@ -70,7 +70,7 @@ Proposed by: Cllr. Bridie Collins
 
 Seconded by: Mr. Michael Joyce
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 2**
 
@@ -140,7 +140,7 @@ he would communicate concerns/issues back to the relevant Director of Service in
 
 Transport.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 • Discussion with members took place around the upcoming Ryder Cup and this should
 
@@ -196,7 +196,7 @@ one of the councils 4 civic events in the year.
 
 requested a meeting with Barry Henn in the Planning Section to discuss this further.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 • Declan Hehir asked could Ryder Cup team provide an update at the next meeting.
 
@@ -222,5 +222,5 @@ The business of the meeting concluded at 4.15pm.
 
 (Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

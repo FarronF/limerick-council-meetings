@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Economic Development, Enterprise, Tourism and Planning Strategic Policy Committee - 9th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/09.02.2026-economic-development-enterprise-tourism-and-planning-spc-agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 
@@ -82,5 +82,5 @@ grant permission when a clear housing need was demonstrated.”
 
 5. Date of Next SPC Meeting Monday, 13th April at 2.15 pm.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

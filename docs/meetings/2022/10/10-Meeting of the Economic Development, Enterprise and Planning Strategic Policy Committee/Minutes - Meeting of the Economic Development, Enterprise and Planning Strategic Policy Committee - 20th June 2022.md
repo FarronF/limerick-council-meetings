@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 20th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/Item%201%20Mins%20SPC%20Mtg%2020th%20June%2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -94,7 +94,7 @@ compliance with their recommendations, who has 6 weeks to issue a direction on t
 
 Development Plan.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Six Local Area Plans (LAPS) have been incorporated into the Development Plan and ten LAPS
 
@@ -172,7 +172,7 @@ However, business owners who wish to cater for outdoor dining on public roads re
 
 licence under S.254 of the Regulations and have Employers and Public Liability Insurance.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 While members welcomed the waiving of the fees for 2021/22, they queried the charge for
 
@@ -254,7 +254,7 @@ P. Rattigan pointed out that Foreign Direct Investment would not be affected in 
 
 region and that the Department of Enterprise, Trade and Employment, worked with
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 stakeholders including Enterprise Ireland, the IDA and Fáilte Ireland in supporting their clients
 
@@ -306,5 +306,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

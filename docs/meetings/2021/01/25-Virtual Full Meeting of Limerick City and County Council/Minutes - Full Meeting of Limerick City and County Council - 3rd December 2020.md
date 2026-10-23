@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 3rd December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/01-b-minutes-council-meeting-03.12.2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -84,7 +84,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ way of Deed of Conveyance of the interest of Limerick City and County Council in
 
 particulars of which were contained in Statutory Notice dated 24th September, 2020.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ Circulated, copy of Statutory Notice dated 16th October, 2020, together with Lan
 
 Registry Compliant Map, concerning disposal of land at Pallas, Kilmeedy, Co. Limerick.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -426,7 +426,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -506,7 +506,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -588,7 +588,7 @@ from the Minister for Housing, Local Government and Heritage, in accordance with
 
 106 of the Local Government Act, 2001, as amended, for a loan in the amount of €4,592,199
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -668,7 +668,7 @@ The Meetings Administrator then went through his report as circulated, outlining
 
 issues therein.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -744,7 +744,7 @@ item in which he highlighted the annual cost, the viewership figures from the fo
 
 Authorities that currently had a live-streaming service, and the defamation/litigation issues.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -834,7 +834,7 @@ Seconded by Councillor Leddin;
 
 And Resolved:
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -954,7 +954,7 @@ Recommendation was agreed and accordingly the Limerick City and County Council P
 
 Recreation Policy, as circulated, was approved by the Council.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1024,7 +1024,7 @@ Environment Strategic Policy Committee dated 9th November, 2020, in relation to
 
 Meeting of the Committee held on 13th October, 2020.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1094,7 +1094,7 @@ On the proposal of Councillor Murphy, seconded by Councillor Keary, the
 
 Recommendation was agreed.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1176,7 +1176,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1252,7 +1252,7 @@ Replies to the following Questions on the agenda were circulated to all Members 
 
 to the Meeting and the Questions were therefore considered as having been dealt with.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1454,7 +1454,7 @@ Maintenance received from tenants are recorded in Sugar CRM for review
 
 when COVID-19 restrictions are eased.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1612,7 +1612,7 @@ Ceiling for 2 bed and 3
 
 bed
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1752,7 +1752,7 @@ Notice of Motion submitted by Councillor E. O’Brien
 
 **the Limerick City to Foynes railway line in time for the 2027 Ryder Cup.**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1832,7 +1832,7 @@ In seconding the Motion, Councillor Scanlan spoke of the right of landowners to 
 
 their properties and proposed an amendment to the wording of the Motion as follows:
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1908,7 +1908,7 @@ The Motion was seconded by Councillor Sheahan (J) and it was unanimously
 
 supported by the Council.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1976,7 +1976,7 @@ With the permission of the Mayor, Councillor Sheahan (K) proposed the following
 
 Motion:
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2022,5 +2022,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 

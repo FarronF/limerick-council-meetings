@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 2nd July 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/01-2025-07-02-minutes-july-meeting-of-the-municipal-district-of-newcastle-west.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Seconded by: Councillor Galvin
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ are recorded as Geo Apps. He also stated that the TII oversees a comprehensive p
 
 of pavement maintenance and renewal across the national road network and while the TII
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Phase 1 Bill of Quantities to generate the pretender estimate. He referred to a 
 
 was held with Uisce Éireann on the 25th June regarding funding sought.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -324,7 +324,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Collins, it was agr
 
 €500 to Templeglantine Community Development.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ Gardaí have responded positively. In order to proceed this further, it will be 
 
 advertise in the local newspapers and make public our intention to extend the byelaws at
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -462,7 +462,7 @@ Limerick City and County Council will set back the road verge within that
 
 scheme.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -530,7 +530,7 @@ The temporary nature of the surfacing within the car park area, along with the l
 
 adequate lighting and road markings, does not make it suitable for regular use. Permanent
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -602,7 +602,7 @@ for the September Municipal District Meeting and if not resolved at that stage, 
 
 would take place with the Environment Section.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -674,7 +674,7 @@ Cleansing, on the taking up of his recent promotion at Limerick City and County 
 
 in Dooradoyle, Limerick.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -698,5 +698,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

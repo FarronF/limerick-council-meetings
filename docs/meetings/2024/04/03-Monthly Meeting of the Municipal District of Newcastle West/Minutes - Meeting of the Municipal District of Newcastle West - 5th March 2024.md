@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 5th March 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-minutes-meeting-of-the-municipal-district-of-newcastle-west-5th-march-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ Cathoairleach of any declaration of interest in any item due for discussion at t
 
 such interests were declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ roads to reduce noise in residential areas, speed ramps and what measures can be
 
 reduce the effect of noise from traffic on nearby dwelling houses.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -252,7 +252,7 @@ Circulated, report of Senior Executive Officer, Strategy and Non LA Housing Cons
 
 dated 8th February, 2024.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ On the proposal of Councillor Ruddle, seconded by Councillor Scanlan, it was agr
 
 allocate €1,000 to Newcastle West Music Trail Festival.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ REPLY:
 
 TII are not in a position to confirm funding for this scheme at the moment. However, they
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -470,7 +470,7 @@ reinforcement will have to be made to sub grade which will be quite expensive. W
 
 be in a position to upgrade the footpaths in 2024 due to lack of financial resources.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -560,7 +560,7 @@ Question submitted by Councillor M. Collins
 
 ***our schools where pedestrian activity is highest.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -630,7 +630,7 @@ The Newcastle West District Office is awaiting a plebiscite from the businesses
 
 of the Desmond Business Park in order to progress this.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -700,7 +700,7 @@ These are the current regulations with regard to election posters. It is open to
 
 the Newcastle West Municipal District to voluntarily agree not to erect election posters in the
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -770,7 +770,7 @@ occurred at the above location and wished to amend the Notice of Motion to read 
 
 at the next Meeting that Limerick City and County Council realign the traffic movement at the
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -850,7 +850,7 @@ An update was sought on the issue of speeding on the R523 from The Pike in Ardag
 
 Kerry bounds along with other roads in the District and in replying, the Senior Engineer stated
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -898,5 +898,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

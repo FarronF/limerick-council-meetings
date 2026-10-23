@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Draft Budgetary Plan Meeting  of the Municipal District Cappamore-Kilmallock - 18th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-11/03%20Minutes%20Draft%20Budgetary%20Plan%20Meeting%2018th%20October%202018%20Municipal%20District%20Cappamore-Kilmallock.docx.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -76,7 +76,7 @@ unicipal Allocation-2019
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -106,5 +106,5 @@ Date:
 
 
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

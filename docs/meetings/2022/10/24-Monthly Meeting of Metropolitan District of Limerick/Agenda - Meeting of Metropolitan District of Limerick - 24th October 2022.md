@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 24th October 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-10/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2024th%20October%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -101,7 +101,7 @@ Metropolitan District of Limerick.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Minutes**
 
@@ -169,7 +169,7 @@ paramedics about this matter. Lives are being saved in the back of an ambulance 
 
 counts.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -225,7 +225,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick for an u
 
 planning application for housing at Donnellan's Field in Thomondgate will be submitted.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -279,7 +279,7 @@ the Metropolitan District do not have a central heating system and what plans wi
 
 place to rectify this situation.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -337,7 +337,7 @@ providing additional safety measures for Caherdavin Boys School and Caherdavin G
 
 part of the safe routes to school programme.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -399,7 +399,7 @@ recycling public bins within the city is recycled and an education campaign is r
 
 of appropriate precyclable waste.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -419,5 +419,5 @@ for Transport and Irish Rail and impress upon them the need to allow leap cards 
 
 the rail network especially the Limerick routes to Dublin and Cork which should be a priority.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

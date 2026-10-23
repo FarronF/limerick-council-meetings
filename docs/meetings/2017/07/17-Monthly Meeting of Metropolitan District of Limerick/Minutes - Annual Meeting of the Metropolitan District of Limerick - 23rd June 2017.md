@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual Meeting of the Metropolitan District of Limerick - 23rd June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/01%28b%29%20Minutes%20Annual%20Meeting%2023rd%20June%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -98,7 +98,7 @@ The outgoing Mayor, Councillor Hourigan opened the Meeting by giving the followi
 
 *thank my Deputy Mayor, Daniel Butler.*
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ one or more than one Member could be proposed and seconded.
 
 where there was only one candidate that candidate would be elected.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -272,7 +272,7 @@ On taking the Chair, the incoming Mayor, Councillor Lynch gave the following add
 
 *seen Limerick in better shape. Better prepared.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -356,7 +356,7 @@ On taking the Chair, the incoming Mayor, Councillor Lynch gave the following add
 
 *their support.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -438,7 +438,7 @@ Seconded by Councillor McCreesh.
 
 Limerick to hold office until the next Annual Meeting or until a successor is appointed”.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,5 +516,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

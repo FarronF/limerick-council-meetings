@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Metropolitan District - 16th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_16_march_2015_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -104,7 +104,7 @@ response to the written submissions received within the statutory timeframe and
 
 recommended that the Patrickswell Local Area Plan be made in accordance with Section
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 20 of the Planning and Development Act 2000 (as amended).
 
@@ -190,7 +190,7 @@ Planning & Development Acts 2000-2014 and S.11 of the Roads Act 1993;
 
 2. Castlecourt, Courtbrack Avenue
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3. Castlewell Close, Courtbrack Avenue
 
@@ -278,7 +278,7 @@ The Deputy Chief Executive stressed that there was no single solution in the are
 
 housing supports and that the policy around HAP would evolve over time.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 In response to issues raised by Members, the Financial Accountant clarified the
 
@@ -356,7 +356,7 @@ Notice of Motion submitted by Councillor Jerry O’Dea
 
 It was agreed that this motion should be referred to the Metropolitan Area Forum.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 QUESTIONS
 
@@ -442,7 +442,7 @@ Notice of Motion submitted by Councillor Daniel Butler
 
 ***report on the level of usage of our cycle lanes and develop a strategic plan as to***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 ***how we encourage cyclists to use them through public consultation.***
 
@@ -530,7 +530,7 @@ in Mount St. Oliver and how it would be appropriate to mark same with the erecti
 
 suitable monument in Mount St. Oliver.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **REPLY**:
 
@@ -618,7 +618,7 @@ Council.
 
 In seconding the motion, Councillor Prendiville pointed out that €400m of road tax
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 receipts had been given to Irish Water and the Members should fight to retain this
 
@@ -700,7 +700,7 @@ Cmhlr. Ó Ceallaigh noted that, in its present condition, the site was unsightly
 
 presented health and safety issues.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 **REPLY**:
 
@@ -782,7 +782,7 @@ Notice of Motion submitted by Councillor Maria Byrne
 
 It was agreed that this motion should be referred to the Metropolitan Area Forum.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 18.
 
@@ -796,5 +796,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

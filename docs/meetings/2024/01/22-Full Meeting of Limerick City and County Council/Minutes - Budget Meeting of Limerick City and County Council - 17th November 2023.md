@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Budget Meeting of Limerick City and County Council - 17th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-b-minutes-budget-meeting-limerick-city-and-county-council-17.11.2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -88,7 +88,7 @@ running of the Meeting. The Meetings Administrator then proceeded to set out the
 
 protocol for the Statutory Budget Meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ The draft Annual Budget for 2024 has been prepared in the context of maintaining
 
 provision at the same levels as 2023 while also enhancing resources in key priority areas
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ Scheme (ICOB), which was a once-off grant to benefit up to 130,000 small and med
 
 businesses at a cost of €250m. The detailed terms and conditions attached to the grant were
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ beyond, as Limerick’s “different kind of energy” positioned the City and C
 
 of the renewable energy landscape.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ Development and Cleeves. The DAC aimed to continue to self-develop and partner w
 
 developers, as well as local and national agencies, to transform strategic sites.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -464,7 +464,7 @@ Limerick City and County.
 
 **Capital Programme**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -538,7 +538,7 @@ drafting and presenting the Budget, which, he was sure, the Members would agree,
 
 exemplary.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -614,7 +614,7 @@ Newcastle West Municipal District
 
 1st November
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -684,7 +684,7 @@ The key areas where additional resources have been provided include:
 
  Town Centre first with particular focus on Rathkeale
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -762,7 +762,7 @@ monetary policy working its way through the economy. Consumer spending, the larg
 
 component of MDD, is forecast to grow by 3.3 per cent this year and 3.2 per cent next year,
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -858,7 +858,7 @@ Real GDP
 
 4.5
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1012,7 +1012,7 @@ Shannon Foynes Taskforce report, the M20 and Foynes Road projects alongside plan
 
 the 2027 Ryder Cup in Adare Manor.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1070,7 +1070,7 @@ to set out the expenditure necessary to carry out the functions of the Council a
 
 estimated to accrue to the Council.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1144,7 +1144,7 @@ the Water Framework directive and the climate action plan.
 
 through the planning process
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1226,7 +1226,7 @@ the retail sector.
 
 investment, socialise, work and reside.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1298,7 +1298,7 @@ events such as Ukraine Refugee response and extreme weather.
 
 **13.Continue to seek efficiencies in service provision, cost reduction and value for money**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1414,7 +1414,7 @@ Division, with comparative figures for 2023:
 
 **(excl HAP 79%)**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1576,7 +1576,7 @@ The following Pie chart highlights the % split by income category excluding HAP.
 
 **(Excl HAP)**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1682,7 +1682,7 @@ Comparative figures for Budgets 2024 and 2023 are shown hereunder.
 
 **Adopted Budget 2023 €'m**
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1754,7 +1754,7 @@ Local Property Tax (LPT) is a key funding source for Local Government replacing 
 
 Purpose Grant funding allocation.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1828,7 +1828,7 @@ adjust the LPT rate upwards by 15% for 2023 and 2024 equating to an increase of 
 
 It should also be noted that after the 2021 property revaluation for LPT assessment over 50%
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1918,7 +1918,7 @@ and it is vital to the level of service delivery that income from this source is
 
 respect it is critically important that the Valuation Office reverts promptly with new valuations
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1996,7 +1996,7 @@ including €30,000 but not less than €1 in 2024. The proposed % support for 2
 
 and conditions.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2072,7 +2072,7 @@ Ukraine). Additional opportunities to refurbish state owned properties for tempo
 
 accommodation centres will be explored and the Ukrainian Response Team will continue to
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2144,7 +2144,7 @@ district members, which will provide a focus and clarity as regards how the elec
 
 want to account for the expending of monies within their area.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2274,7 +2274,7 @@ expenditure system.
 
 **Number receiving pension**
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -2378,7 +2378,7 @@ funding for the 3-year capital plan 2024 to 2026.
 
 Chart 6 profiles the Capital Expenditure for each of the three years:
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -2450,7 +2450,7 @@ this budget.
 
 **Capital Expenditure 2024-2026 by Year €'m**
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -2520,7 +2520,7 @@ Councillor O’Hanlon, speaking on behalf of the Fianna Fail Group, welcomed the
 
 thanked the Chief Executive, the Deputy Chief Executive, and their team for the work that had
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -2596,7 +2596,7 @@ range of services across the City and County. He confirmed that the Labour Party
 
 supporting the budget.
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -2666,7 +2666,7 @@ of 50% required)
 
 50%
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -2732,7 +2732,7 @@ by the Local Government Reform Act, 2014, the Report on Capital Projects 2024 �
 
 presented to the meeting is considered (Item 3 on Meeting Agenda)
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 
 33
 
@@ -2786,5 +2786,5 @@ Signed:
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:33]]
+<span data-pagefind-ignore>[[PAGE_END:33]]</span>
 

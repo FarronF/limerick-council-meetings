@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Special Council Meeting - Full Meeting of Limerick City and County Council - 10th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/01%20%28ii%29%20Minutes%20Special%20Meeting%20100418.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK CITY AND
 
@@ -88,7 +88,7 @@ received from the Mayor disclosing an interest in this matter. In accordance wit
 
 of the Local Government Act, 2001, as amended, and the Code of Conduct for Councillors, the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,5 +156,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of Limerick City and County Council - 18th August 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-08/agenda-special-meeting-of-limerick-city-and-county-council-18th-august-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -46,5 +46,5 @@ Is mise le meas,
 
 **Meetings Administrator.**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

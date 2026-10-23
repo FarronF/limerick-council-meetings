@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Supplementary Agenda - Full Meeting of Limerick City and County Council - 22nd September 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-09/supplementary-agenda-council-meeting-22.09.2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -82,5 +82,5 @@ m Customerservices@limerick.ie
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

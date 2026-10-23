@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 17th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-metropolitan-district-of-limerick-17th-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -80,7 +80,7 @@ discussion on General Municipal Allocation (GMA), noting that it had been deferr
 
 September Meeting of the Metropolitan District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2.Declaration of Interest**
 
@@ -142,7 +142,7 @@ Some of the events outlined include:
 
 • Leave a Light on Campaign.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Members thanked the Head of Trade and Investment for his presentation and welcomed
 
@@ -206,7 +206,7 @@ On the proposal of Councillor S. Hickey-O’Mara and seconded by Councillor Sara
 
 Mayor’s Report, as circulated, was approved.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **QUESTIONS**
 
@@ -270,7 +270,7 @@ more appropriate form — perhaps led by the Príomh Chomhairleoir or the Chair 
 
 the Metropolitan District or any group of Councillors. If so, I would suggest that the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Councillors wishing to maintain the tradition come up with rigorous and fair criteria
 
@@ -336,7 +336,7 @@ merely parking and bus provision.
 
 ***requests by Councillors in Limerick City East has there been any movement on lane***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 ***alteration requests (left lane for BloodMill and Dunnes) improvements to Childers Road***
 
@@ -398,7 +398,7 @@ anticipated before year end, which will bring the building
 
 to full occupancy.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Should you require any further clarification or additional details, please let me
 
@@ -480,7 +480,7 @@ needs immediate attention.  The flooring presents an elevated risk to
 
 public safety.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 Crew Brewing
 
@@ -582,7 +582,7 @@ The external walls are dirty. Timber shows signs of deep damp. The
 
 planting shelf has collapsed in parts and needs to be replaced
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 throughout. Litter and potential drug paraphernalia have been left
 
@@ -650,7 +650,7 @@ provided for in our Tree Policy 2024-2030, Policy 41 and is being used for calcu
 
 the value of trees on Council lands as needed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **13.Question submitted by Councillor S. Hickey O’Mara**
 
@@ -718,7 +718,7 @@ years:
 
 · 3no. Castleconnell (storm damage & structural damage)
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 · 1no. Ted Russell Park (storm damage)
 
@@ -778,7 +778,7 @@ more consideration by the National Transport Authority.
 
 ***pedestrians in the area need to be prioritised.***
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 The Notice of Motion was proposed by Councillor Slattery, seconded by Councillor Pond and
 
@@ -840,7 +840,7 @@ Following discussions, it was proposed by Councillor McSweeney, to write to the 
 
 State for Older People and the Minister of State for Housing, and this was agreed.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 **19.Notice of Motion submitted by Councillor S. Kiely**
 
@@ -906,7 +906,7 @@ wanted a single, integrated platform - not only for visitors, but also for peopl
 
 in Limerick who want to discover things to do within their own county. The “Discover
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 Limerick” section successfully fulfils this dual role, catering both to external visitors
 
@@ -998,7 +998,7 @@ In terms of social stats, see below the figures from Limerick.ie social channels
 
 13,762 new followers Year on Year
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 **20.Notice of Motion submitted by Councillor F. Kilcoyne**
 
@@ -1054,7 +1054,7 @@ undertaken up to four times per year which is in line with local and national
 
 biodiversity policies.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 **22.Noticeof Motion submitted by Councillor E. O’Donovan**
 
@@ -1116,7 +1116,7 @@ The Notice of Motion was proposed by Councillor Hickey O’Mara, seconded by Cou
 
 O’Donovan and agreed.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 In proposing the Motion, Councillor Hickey O’Mara expressed his disappointment regarding
 
@@ -1182,7 +1182,7 @@ infrastructure projects to be funded including Bus Connects Implementation due t
 
 commence in the coming years.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 This concluded the meeting.
 
@@ -1192,5 +1192,5 @@ This concluded the meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 

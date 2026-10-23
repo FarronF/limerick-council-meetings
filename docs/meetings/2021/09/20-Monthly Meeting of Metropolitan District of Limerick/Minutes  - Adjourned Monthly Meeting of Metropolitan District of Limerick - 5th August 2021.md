@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Adjourned Monthly Meeting of Metropolitan District of Limerick - 5th August 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01b-draft-minutes-adjourned-meeting-5th-august-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ADJOURNED MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ survey was undertaken.
 
 The Senior Executive Officer, Housing and CEO, Limerick Twenty Thirty responded to the issues
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,5 +166,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

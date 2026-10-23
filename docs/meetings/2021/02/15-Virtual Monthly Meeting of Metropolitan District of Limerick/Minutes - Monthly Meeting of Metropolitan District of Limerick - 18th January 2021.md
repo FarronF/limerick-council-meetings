@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th January 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/01a-draft-minutes-monthly-online-meeting-18th-january-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -88,7 +88,7 @@ Councillor McSweeney requested that the minutes in future, would distinguish bet
 
 Councillors Conor Sheehan and Michael Sheahan.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Q4 2020 and will continue during week beginning 18th January 2021, weather permi
 
 location of bins in the Dooradoyle / Raheen / Mungret area will be provided in due course.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -330,7 +330,7 @@ Tuesday 1 September 2020
 
 112
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -530,7 +530,7 @@ respective owners and the Council must respect their wishes to manage their prop
 
 they see fit. The alternative route across Matthew Bridge is but a brief diversion.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -606,7 +606,7 @@ Market at weekend. In the compilation of the Winter Maintenance Programme 2021/2
 
 other routes may be considered in severe weather conditions.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -688,7 +688,7 @@ member of the public who requires assistance can contact Limerick City and Count
 
 Customer Service or the Bin Waiver Team.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -760,7 +760,7 @@ Cola Bike Scheme.
 
 ***South Circular Road and Howleys Quay be reinstated during Level 5 restrictions.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -840,7 +840,7 @@ city and county and highlighted the urgency that an Animal Cruelty Inspector wou
 
 in Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -870,5 +870,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

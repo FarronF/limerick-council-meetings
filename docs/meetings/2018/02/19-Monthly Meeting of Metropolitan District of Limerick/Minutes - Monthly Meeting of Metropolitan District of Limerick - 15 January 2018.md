@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 15 January 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-02/01%20Minutes%2015th%20January%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -92,7 +92,7 @@ Seconded by Councillor Hurley;
 
 And Resolved:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ I am not aware of any contracts between Limerick City and County Council and
 
 Aramark for food, property, or other goods or services.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -312,7 +312,7 @@ Launch of Science Foundation Ireland’s new SFI Research
 
 Centres in Dublin Castle.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -448,7 +448,7 @@ Left Hand Side of road between the railway bridge and Ahane Church. There is an
 
 old masonry wall along this stretch of road that is maintained by the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -532,7 +532,7 @@ Electoral Area Briefings.
 
 The motion was proposed by Councillor Prendiville and seconded by Councillor McCreesh.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -620,7 +620,7 @@ addition, a copy of the Department of Housing, Planning and Local Government
 
 “Guide to Minimum Standards in Rented Accommodation (Sept 2017)” is
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -696,7 +696,7 @@ Councillor Hurley expressed disappointment with the decision to refer this item 
 
 Electoral Area Briefings.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -782,7 +782,7 @@ vacant sites in the Metropolitan District.
 
 Correspondence was noted.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -798,5 +798,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home & Social Development Strategic Policy Committee - 16th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-10/16062021_final_spc_minutes_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -98,7 +98,7 @@ conveyed their best wishes to her for the future.
 
 **Item 1: Confirm minutes from meeting held on 21st April 2021**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Proposed:** Cllr. Joe Leddin
 
@@ -182,7 +182,7 @@ Ms. Ahern showed SPC members a photographs of a number of RLS units before refur
 
 after refurbishment.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 A discussion took place around this and the main points were:
 
@@ -294,7 +294,7 @@ on is the Council protected and Ms. Ahern advised him that we are protected and 
 
 is protected for the duration of the lease period if the owner passes.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 
 
@@ -384,7 +384,7 @@ and doors would be replaced. Mr. Leahy advised that when there are a lot of spec
 
 involved when it comes to the design of heating systems and decisions around that and that
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 there is a huge safety element involved and noted the sheer scale of the project. Mr. Leahy
 
@@ -492,7 +492,7 @@ room temperature and compares it to a target setting. Mr. Leahy advised that the
 
 choose a target temperate and noted that for example, if the target temperature were set at 20
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 degrees and the thermostat registers the room at 15 degrees, the room would then be heated to 20
 
@@ -584,7 +584,7 @@ that for budgetary reasons people would choose this way for their electricity su
 
 it could end up costing the person more. Mr. Leahy noted that when Pre-Pay Power does run
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 out that it is exceedingly difficult to get the system fired back up again and becomes
 
@@ -668,7 +668,7 @@ the same way LCCC vets LA and RAS tenants. Cllr. Keary expressed his desire for 
 
 HAP review and Mr. Lowth agreed with Cllr. Keary’s point.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 
 
@@ -772,7 +772,7 @@ outlined impending demolitions being worked on are units in Roseview Drive, curr
 
 tender.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 Mr. White noted team are currently working on the preparation of tender documents to go to
 
@@ -850,7 +850,7 @@ Mr. Forde Bradley advised that the presentation would be brief, as a Housing Wor
 
 Service Sites would be given to members in July.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 Mr. Forde Bradley introduced himself as project manager of the Service Sites Fund along with
 
@@ -934,7 +934,7 @@ the public are welcome to put in submissions against this if they so wished and 
 
 this is not the correct forum for it
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 
 
@@ -952,5 +952,5 @@ The Chair thanked everyone for logging in, for their presentations and everyone�
 
 contributions.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

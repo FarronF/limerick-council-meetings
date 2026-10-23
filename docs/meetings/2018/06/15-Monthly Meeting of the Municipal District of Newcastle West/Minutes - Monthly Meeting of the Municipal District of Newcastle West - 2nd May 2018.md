@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 2nd May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/01a%202018-05-02%20Minutes%20May.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ Regulations, 2001 - 2018, as amended, in relation to Abbeyfeale
 
 Traffic Management Plan.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ On the proposal of Councillor Galvin, seconded by Councillor Scanlan, it was agr
 
 €1,500 to Abbeyfeale RFC for removal of boundary fence.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Question submitted by Councillor L. Galvin
 
 ***sewerage plant.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ REPLY:
 
 There are 10 Approved Housing Bodies operating in the Newcastle
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -460,7 +460,7 @@ Question submitted by Councillor F. Foley
 
 ***Abbeyfeale to facilitate the movement of the wind turbines through the town be replaced.***
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -542,7 +542,7 @@ sewerage treatment plant to cater for additional connections. It was also stated
 
 a need for social housing in the village.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -614,7 +614,7 @@ commence.
 
 The Motion was seconded by Councillor Galvin.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -688,7 +688,7 @@ Kilfergus Housing Estate.
 
 The Motion was seconded by Councillor Galvin.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -748,5 +748,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

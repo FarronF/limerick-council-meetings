@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-02/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-13th-january-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ Limerick City and County Council who assisted the Gardaí as part of the interag
 
 response team over the Christmas period in the District.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ library which will increase footfall into the library. All Members were fully su
 
 this project.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -242,7 +242,7 @@ of Rathkeale if funding is made available to deliver same.
 
 **District Engineers Report**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -316,7 +316,7 @@ agreed to allocate the following:
 
 • €333.33 to Adare Saint Patricks Day Parade.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -384,7 +384,7 @@ allocate the following:
 
 **Notice of Motion submitted by Councillor J. O’Donoghue**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -424,5 +424,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

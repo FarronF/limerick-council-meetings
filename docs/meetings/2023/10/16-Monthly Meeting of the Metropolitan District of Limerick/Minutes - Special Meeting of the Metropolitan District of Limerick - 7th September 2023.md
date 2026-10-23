@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Metropolitan District of Limerick - 7th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-10/02-a-Draft-Minutes-Special-Meeting-of-the-Metropolitan-District-of-Limerick7th-September-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -94,7 +94,7 @@ an opportunity to meet and discuss with An Garda Siochána and explore what meas
 
 introduced, and what resources were needed, in order to address it.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ programme 2025-2030, and if there are any plans to expedite its delivery, given 
 
 in the population and in antisocial behaviour?
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Minister of Justice:
 
 **social behaviour in the city.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -268,5 +268,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

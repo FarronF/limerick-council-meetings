@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Travel & Transportation Strategic Policy Committee - 14th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/agenda-travel-transportation-spc-meeting-14.12.21.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -51,7 +51,7 @@ Committee, **to be held by MS Teams Video Conference**, on Tuesday 14th December
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -71,5 +71,5 @@ Strategic Policy Committee held on the 19th October, 2021.
 
 **5.Connecting Ireland** **–** **Rural Mobility Plan (Peter Williams)**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

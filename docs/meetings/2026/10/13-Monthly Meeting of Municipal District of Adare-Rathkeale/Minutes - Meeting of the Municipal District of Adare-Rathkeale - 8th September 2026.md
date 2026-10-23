@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 8th September 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-10/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-8th-september-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -84,7 +84,7 @@ the Meeting.
 
 No such interest was declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -162,7 +162,7 @@ funding to allow Limerick City and County Council deal with the significant dere
 
 properties on its register.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,7 +240,7 @@ Circulated, report of the Senior Executive Engineer, Adare-Rathkeale Municipal D
 
 outlining details of proposed works, projects and future projects planned for the District.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -314,7 +314,7 @@ Members complemented the delegation for their presentation for Foynes Town and
 
 agreed Foynes merited a full Public Realm Plan following which Councillor Teskey
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -380,7 +380,7 @@ It was agreed Item 7 on the Agenda would be taken next.
 
 **Section 38 Safe Route to School**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -448,7 +448,7 @@ suggestions with the National Transport Authority and revert.
 
 **compliant with national and local policy.**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -528,7 +528,7 @@ scheme, the Forward Planning Section met with the Cathaoirleach of each
 
 Municipal and Metro District to discuss projects in the context of local
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -696,7 +696,7 @@ Served
 
 **KILMEEDY**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -818,7 +818,7 @@ The Notice of Motion was proposed by Councillor Hartigan, seconded by Councillor
 
 Teskey and agreed.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -898,7 +898,7 @@ acquiring a 1x3-bed unit. All allocations will be to persons from LCCC’s
 
 Housing Waiting List.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -974,7 +974,7 @@ agricultural holdings and rural land users. Local Authorities administer and
 
 prioritise applications in accordance with the Department guidelines. The
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1050,7 +1050,7 @@ Councillor Keary expressed frustration that the increased market construction
 
 costs will now be incurred by the purchasers of the proposed serviced sites.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1122,5 +1122,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 

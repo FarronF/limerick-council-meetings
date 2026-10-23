@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Adjourned Monthly Meeting of Municipal District of Adare Rathkeale - 23rd November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-b-minutes-of-adjourned-monthly-meeting-of-municipal-district-of-adare-rathkeale-23rd-november-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ADJOURNED MONTHLY MEETING OF THE MUNICIPAL**
 
@@ -92,7 +92,7 @@ To consider the Draft Adare Local Area Plan 2024-2030 and the Chief Executives R
 
 dated 27th October 2023 on the submissions received during the public consultation on
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -176,7 +176,7 @@ Chief Executive recommendations report dated the 27th October, subject to the
 
 following amendments:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ would lead to compact growth and to ensure no overall loss of open space and
 
 recreation. This was seconded by Councillor Sheahan and agreed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ following recent water network works. The Executive Engineer, Roads, Traffic
 
 and Cleansing advised these works were carried out by Uisce Éireann and a
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -418,7 +418,7 @@ on the main street of Pallaskenry. The turning area was agreed with the
 
 community council in advance of the works.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -498,7 +498,7 @@ At this point Councillor Sheahan re-joined the Meeting. Councillor Teskey then p
 
 a Civic Reception be held to honour Jerry and Mary Morrissey, proprietors of the West
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -576,7 +576,7 @@ authorities. This was seconded by Councillor Teskey and agreed.
 
 Croom. He requested a report for the December Meeting to include (a) what are
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,5 +652,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

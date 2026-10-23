@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Special Meeting - Full Meeting of Limerick City and County Council - 4 December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-01/01%20%28b%29%20%20Minutes%20Special%20Meeting%20%20041217.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -86,7 +86,7 @@ Limerick City and County Development Plan and Local Area Plans over the 12 year 
 
 January, 2018. At that stage, the draft Regional Spatial and Economic Strategy would be
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -190,7 +190,7 @@ outlined a number of issues for consideration by the Members in relation to a po
 
 submission on their behalf on this matter, as follows:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -270,7 +270,7 @@ to voice their strong opposition to the proposals being brought forward. He adde
 
 to proposals put forward at the forthcoming Southern Regional Assembly meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -344,7 +344,7 @@ draft National Planning Framework which recognised Cork as an **Emerging Interna
 
 as **Important National and Regional Drivers of Growth.** This would have significant
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -410,5 +410,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

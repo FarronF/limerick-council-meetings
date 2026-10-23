@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 20 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/01-Agenda-Meeting-of-Economic-Development-Enterprise-and-Planning-SPC-20th-June-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **1st** **June, 2022**
 
@@ -52,5 +52,5 @@ Yours sincerely
 
 ***Economic Development & Enterprise Directorate***
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Annual General Meeting of Limerick City and County Council - 21st June 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-annual-general-meeting-of-limerick-city-and-county-council-21st-june-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ANNUAL MEETING OF LIMERICK CITY AND COUNTY COUNCIL**
 
@@ -108,7 +108,7 @@ Slattery, Catherine
 
 Fianna Fáil
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -272,7 +272,7 @@ Mayor Moran invited nominations for the Office of Príomh Chomhairleoir of Limer
 
 County Council for the coming year.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -348,7 +348,7 @@ Seconded by Councillor Collins (M);
 
  Community, Leisure and Culture SPC – Councillor F. Kilcoyne.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -418,7 +418,7 @@ The Meetings Administrator stated that Limerick City and County Council was requ
 
 the appointment of 1 Member to the Library Association of Ireland.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -486,7 +486,7 @@ with the Minister making the appointments. Consequently, the Council was no long
 
 fill these positions.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -562,7 +562,7 @@ It was agreed that the appointment of a Member representing Limerick City East w
 
 deferred to the July Meeting.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -636,7 +636,7 @@ As there were no other nominations, the Príomh Chomhairleoir declared Mayor Mor
 
 Councillor O’Hanlon appointed as the Council’s representatives to the Board of St. John’s Hospital.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -710,7 +710,7 @@ Member of Limerick City and County Council to the Board of Management of St. Mun
 
 Community Development Company Limited.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -780,7 +780,7 @@ Sheahan (J) and Benson appointed to the Audit and Risk Committee.
 
 It was agreed to defer the appointment of the third Member to the July Meeting.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -844,7 +844,7 @@ Belltable.
 
 This item was deferred pending legal clarification.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -918,7 +918,7 @@ Chomhairleoir and all Members the very best of luck and said he looked forward t
 
 them in the future.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -934,5 +934,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

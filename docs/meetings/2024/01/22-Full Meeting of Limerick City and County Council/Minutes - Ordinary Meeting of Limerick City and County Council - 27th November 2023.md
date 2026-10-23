@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Ordinary Meeting of Limerick City and County Council - 27th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/01-c-minutes-ordinary-meeting-limerick-city-and-county-council-27.11.2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -92,7 +92,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 24, Flood Street, Pennywell, Limerick, to Sean Walsh, for the sum of €239.45, the disposal to
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -264,7 +264,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 to be by way of Deed of Conveyance of the freehold interest of Limerick City and County
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -346,7 +346,7 @@ the ESB to discharge Limerick City and County Council’s legal costs up to €7
 
 particulars of which were contained in Statutory Notice dated 9th November, 2023.”
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -430,7 +430,7 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of land
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -516,7 +516,7 @@ And Resolved:
 
 amended), the approval of the Council be and is hereby given to the disposal of 1-4 Toll
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -602,7 +602,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 Ger and Geraldine Clancy transferring the ownership of their property at 164, St. Munchins
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -686,7 +686,7 @@ Circulated, copy of Statutory Notice dated 14th November, 2023, concerning dispo
 
 land (13.89 acres) at Rosbrien, Limerick.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -768,7 +768,7 @@ Circulated, copy of Statutory Notice dated 17th November, 2023, concerning dispo
 
 land (31.8 acres) at Ballygrennan, Limerick.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -850,7 +850,7 @@ Circulated, copy of Statutory Notice dated 14th November, 2023, concerning dispo
 
 of property at 53 Clare Street, Limerick.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -932,7 +932,7 @@ Seconded by Councillor O’Hanlon;
 
 And Resolved:
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1018,7 +1018,7 @@ initiative with Buckow, Germany, in accordance with the provisions of Section 66
 
 Government Act, 2001, as amended.”
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1110,7 +1110,7 @@ held on 12th October, 2023.
 
 The report was noted by the Council.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1184,7 +1184,7 @@ The amendment proposed by Councillor Butler and seconded by Councillor Kiely was
 
 approved.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1234,7 +1234,7 @@ Area Plan 2024-2030, that Limerick City and County Council make the Draft Patric
 
 (Image omitted)
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1308,7 +1308,7 @@ Question submitted by Councillor S. Novak Uí Chonchúir
 
 **many to date in 2023.**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1396,7 +1396,7 @@ events for *Christmas in Limerick 2023,* using external comapnies:
 
 **County Council**
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1532,7 +1532,7 @@ Projected substantial completion
 
 date May 2024
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1682,7 +1682,7 @@ Projected substantial completion
 
 date July 2024
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1830,7 +1830,7 @@ Projected substantial completion
 
 date July 2024
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1976,7 +1976,7 @@ Projected substantial completion
 
 date December 2023
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -2058,7 +2058,7 @@ adopted during meetings that took place in 2023 and the implementation of these 
 
 Motions. This was seconded by Councillor Galvin and agreed.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -2136,7 +2136,7 @@ approaching 5.30 p.m., and on the proposal of Councillor Ryan (E), seconded by C
 
 Butler, Standing Order 4 was suspended in order to complete the agenda.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2216,7 +2216,7 @@ all their hard work over the years, and looked forward to continuing to achieve 
 
 people of Limerick.
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2242,5 +2242,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 

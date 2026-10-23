@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Home and Social Development Strategic Policy Committee - 21st April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/21042021_spc_agenda.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
 
@@ -56,5 +56,5 @@ c. Revision to Household Means Policy Circular Information
 
 Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

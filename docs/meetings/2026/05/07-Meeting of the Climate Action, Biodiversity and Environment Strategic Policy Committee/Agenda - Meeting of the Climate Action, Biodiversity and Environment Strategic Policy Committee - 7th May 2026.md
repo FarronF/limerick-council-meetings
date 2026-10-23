@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 7th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-7th-may-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -62,5 +62,5 @@ Strategic Policy Committee - Sinead Hourigan – Administrative Officer.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

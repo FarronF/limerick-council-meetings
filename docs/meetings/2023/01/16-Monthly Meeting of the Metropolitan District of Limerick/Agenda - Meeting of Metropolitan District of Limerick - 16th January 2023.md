@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 16th January 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2016th%20January%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -99,7 +99,7 @@ To adopt Minutes of the following Meetings:
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -163,7 +163,7 @@ discuss the large vacant units with a view to leasing them for many groups in th
 
 a home. I am aware funding is needed to maintain the roof.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -241,7 +241,7 @@ Taking into consideration that the Metropolitan District would receive the same 
 
 funding for 2023 what percentage of this funding has already been committed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -299,7 +299,7 @@ Minister for Social Protection to ask if widows / widowers can be considered for
 
 benefit, once the applicant meets the criteria set out under the current scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -327,5 +327,5 @@ Limerick city.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

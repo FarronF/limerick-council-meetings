@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-draft-minutes-monthly-online-meeting-19th-march-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF LIMERICK**
 
@@ -88,7 +88,7 @@ house situate at 40 St. Lawrence Park, Garryowen, Limerick and the intention to 
 
 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -158,7 +158,7 @@ April 2021.
 
 **REPLY**: (a) The signs were ordered in December 2020 and were received at the Annacotty Depot
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -230,7 +230,7 @@ the property.
 
 c. Tenants are always communicated with in relation to the nature of the arrangement
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -306,7 +306,7 @@ b. See number of jobs created in Table A and B below.
 
 Table A: Number of jobs created
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -357,7 +357,7 @@ be provided to all Members in the coming weeks.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -437,7 +437,7 @@ There are number of thermal upgrade contracts (2 / 3 no.) yet to be commenced in
 
 Carew Park area. These will be progressed on a lagged sequential basis. It is not possible to
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -511,7 +511,7 @@ circulated as part of the reply.
 
 ***improve social inclusion.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -589,7 +589,7 @@ including Limerick 2030, is a reserved function of the Members, as set out in Se
 
 the Local Government Act, 2001, as amended.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -667,7 +667,7 @@ The Expression of Interest deadline was extended to 4pm on the 18th December 202
 
 An Evaluation Panel was convened on the 11th January 2021 and each submission was
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -755,7 +755,7 @@ Festivals and Events Grant Scheme 2019-2020
 
 **€270,000**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -855,7 +855,7 @@ to address some additional areas within the resources and budgets available and 
 
 given priority to the approved plan. In such periods salt stocks must be managed to ensure
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -919,7 +919,7 @@ Notice of Motion as a Special Meeting of Limerick City and County Council had ta
 
 issue, since her Notice of Motion had been submitted.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -995,7 +995,7 @@ reduced significantly due to the anticipated impact of Covid 19 and the budget t
 
 allocated is being used for the delivery of the planned digital content for these events.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1071,7 +1071,7 @@ In proposing the motion, Councillor Butler highlighted the issues in relation to
 
 estates and the ongoing concerns of local residents regarding same.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1149,7 +1149,7 @@ unacceptable.
 
 ***adjoining the estates near the UL campus.***
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1225,5 +1225,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

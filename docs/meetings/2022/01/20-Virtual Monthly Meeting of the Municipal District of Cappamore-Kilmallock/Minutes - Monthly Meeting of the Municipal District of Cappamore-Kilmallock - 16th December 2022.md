@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 16th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/2-.-minutes-of16th-december-md-meting_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -84,7 +84,7 @@ of considerations to be made. A workshop may be held to discuss the proposal in 
 
 if required.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 3.Deputation
 
@@ -148,7 +148,7 @@ R515 Charleville road and Effin road (L8573) at Portauns in Kilmallock as there 
 
 significant number of accidents there over the last few years.”
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **Proposed: Councillor Donegan**
 
@@ -210,7 +210,7 @@ A review of Garryspillane Cross will be carried out in 2022 to determine what im
 
 may be required at the junction.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 QUESTIONS
 
@@ -262,7 +262,7 @@ The Fire Service is currently exploring options following the rejection of the P
 
 Application for a Fire Service Training Centre in Kilmallock Business Park.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 8.Question submitted by Councillor Mitchell
 
@@ -328,7 +328,7 @@ Limerick Hurling Team on his passing on the 22nd November aged 77.
 
  Councillor John Egan and family on the passing of his brother Joseph Egan.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
  The family of Tom Leahy, who passed away on 24th November.
 
@@ -344,5 +344,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

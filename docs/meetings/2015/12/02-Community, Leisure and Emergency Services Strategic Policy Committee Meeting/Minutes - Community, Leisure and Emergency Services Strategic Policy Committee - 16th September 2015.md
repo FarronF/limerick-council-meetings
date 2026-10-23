@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Community, Leisure and Emergency Services Strategic Policy Committee - 16th September 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Minutes%20-%20Community%2C%20Leisure%20and%20Emergency%20Services%20Strategic%20Policy%20Committee%20-%2016th%20Septem.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **COMMUNITY, LEISURE & EMERGENCY SERVICES STRATEGIC POLICY**
 
@@ -102,7 +102,7 @@ The notice of motion was proposed by Cllr. Sheehy and seconded by Cllr. Collins.
 
 The members discussed the merits of the Motion.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Josephine Cotter Coughlan informed the meeting that the HSE appointed Suicide Prevention
 
@@ -184,7 +184,7 @@ Registration is to re-open in November 2015.
 
 PPN.ie communication platform will be launched.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Resource worker finalised and appointed in December.
 
@@ -266,7 +266,7 @@ Director with responsibility for Customer Service. The Chair thanked Josephine f
 
 assistance to him in his role as Chair both currently and in previous SPCs.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Ms Cotter-Coughlan thanked the members for their dedication, and thanked the staff in her
 
@@ -286,5 +286,5 @@ Minutes Signed By Chair:
 
 Date:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

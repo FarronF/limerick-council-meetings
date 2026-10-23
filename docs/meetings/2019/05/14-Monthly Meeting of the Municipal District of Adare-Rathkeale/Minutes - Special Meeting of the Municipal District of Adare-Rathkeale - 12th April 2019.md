@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of the Municipal District of Adare-Rathkeale - 12th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-05/01%28c%29%20Minutes%2012th%20April%2C%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -80,7 +80,7 @@ The Senior Executive Engineer requested approval to use €30,000 of this fundin
 
 commence works on the Slí na Slainte in Askeaton in the interim and informed Members
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 this €30,000 would be returned to the Ballingarry Traffic Calming Scheme when
 
@@ -114,5 +114,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of Municipal District of Adare-Rathkeale - 12th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-10/01%20Minutes%2012th%20September%2C%202017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -92,7 +92,7 @@ suggested that the District Members pass a related resolution.
 
 • The introduction of CCTV cameras.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ consideration.
 
 given to any fire or emergency response and also the effect on businesses.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Seconded by Councillor McMahon;
 
 And Resolved:
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ Seconded by Councillor O’Brien;
 
 And Resolved:
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -406,7 +406,7 @@ with a view to encouraging the public to articulate their views on the public re
 
 particular in relation to a proposed ramp at the entrance to the village.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -508,7 +508,7 @@ Meanus Community Hall
 
 €2,000
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -578,7 +578,7 @@ It was agreed that a Deputation from Foynes and District Community Council shoul
 
 attend at a future Meeting of the District.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -644,7 +644,7 @@ property in Askeaton and it was agreed that the Motion should be sent to the Min
 
 for Justice.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -718,7 +718,7 @@ agreed that the Motion should go forward to the full Council in the name of the 
 
 with Councillor O’Brien as proposer.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -752,5 +752,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

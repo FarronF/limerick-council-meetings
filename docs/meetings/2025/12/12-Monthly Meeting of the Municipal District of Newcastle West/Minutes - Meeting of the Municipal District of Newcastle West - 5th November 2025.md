@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Newcastle West - 5th November 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/minutes-meeting-of-the-municipal-district-of-newcastle-west-5th-november-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -98,7 +98,7 @@ Following discussion, as the Minutes of the Draft Budgetary Plan Meeting held on
 
 would now, therefore, form part of the overall budgetary process for the Council.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ Taking in Charge of Estates – Declaration of Roads to be Public
 
 Roads
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Foley, it was agre
 
 €934 to Tony Noonan Christmas lights.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -318,7 +318,7 @@ participated in a mixed event with over 200 students attending.
 
 ➢ National Transplant Games Training
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ REPLY:
 
 Road markings will be put in place at these junctions in the coming weeks.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ resurfacing works are currently linked to the progression of the Abbeyfeale Traf
 
 Management Plan in this area. There is a major funding shortfall for the Abbeyfeale Traffic
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -538,7 +538,7 @@ Limerick City and County Council roads personnel will meet with locals to discus
 
 and road safety in Boherbui.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -606,7 +606,7 @@ Road Design Office (MWNRDO), Barry Transportation completed a Feasbility Report 
 
 recommended the construction of a staggered junction at Devon Cross as the preferred
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -678,7 +678,7 @@ measures to be carried out at this junction as a matter of urgency to prevent fu
 
 taking place. Following discussion, it was agreed that the Meetings Administrator would
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -744,7 +744,7 @@ Engineer would seek clarification on the lifespan of the report and the submissi
 
 public car parking, lighting, cctv and re-surfacing of the laneway.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -818,7 +818,7 @@ recently and to the name of a liaison person to contact in these instances. Refe
 
 made to the holding of clinics which had taken place previously prior to the District Meeting.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -860,5 +860,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

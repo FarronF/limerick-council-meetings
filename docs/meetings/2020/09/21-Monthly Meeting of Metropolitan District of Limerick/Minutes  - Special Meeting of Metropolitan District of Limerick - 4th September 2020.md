@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Special Meeting of Metropolitan District of Limerick - 4th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-09/01c-draft-minutes-special-meeting-4th-september-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -100,7 +100,7 @@ development proceeds.
 
 were raised that this will stigmatise the tenants of the social housing and that, instead,
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -224,7 +224,7 @@ from Councillor Sheahan, Mr. Duclot advised that the Chief Executive’s report 
 
 would be distributed to all members of the Metropolitan district.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -240,5 +240,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

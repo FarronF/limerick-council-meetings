@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 19th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-03/01-draft-minutes-meeting-of-the-metropolitan-district-of-limerick-19th-february-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -90,7 +90,7 @@ declared.
 
 2024, setting out proposals for disposal of Freehold Interest of premises consisting of a dwelling
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ The report, as circulated, was noted by Members.
 
 **4.Planning, Environment and Place-Making Directorate**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ Circulated, Report of the Director of Services, Transportation and Mobility Dire
 
 February, 2024 and enclosed Chief Executive’s Report dated 12th January, 2024 setting out details
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -310,7 +310,7 @@ pedestrian crossings locations along Hyde Road.
 
 **7.Question submitted by Councillor C. Slattery**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -388,7 +388,7 @@ in Limerick City.
 
 **10.Question submitted by Councillor J. Leddin**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ responsibilities to clear up after their pets.
 
 ***has been provided under any of those permissions to-date.***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -552,7 +552,7 @@ City area.
 
 **16.Question submitted by Councillor E. O’Donovan**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -632,7 +632,7 @@ extension of the playground may be warranted if funding can be provided given th
 
 proposed increase in housing in the village. All possible sources of funding for these works
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -708,7 +708,7 @@ the Garda Commissioner.
 
 total amount outstanding to date is €175,265.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -780,7 +780,7 @@ vegetation had been removed along the railway line, and pointed out the difficul
 
 causing for residents living near the line.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -852,7 +852,7 @@ expansion of Castleconnell playground in 2024. It is not clear the level of fund
 
 be provided from the 2024 contributions. It may be the case that the project will be funded
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -922,7 +922,7 @@ to resolve issues in the location.
 
 **33.Notice of Motion submitted by Councillor C. Sheehan**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -998,7 +998,7 @@ process, engaging with An Garda Síochána, Elected Members and the Public.
 
 **35.Correspondence**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1020,5 +1020,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

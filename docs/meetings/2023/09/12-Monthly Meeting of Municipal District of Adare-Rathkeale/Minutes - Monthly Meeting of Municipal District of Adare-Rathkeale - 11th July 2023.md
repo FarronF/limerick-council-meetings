@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/01-Minutes-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-July-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -88,7 +88,7 @@ Following the adoption of the Minutes, Councillor Teskey expressed disappointmen
 
 a representative from Uisce Éireann had not agreed to attend a Special Meeting of the
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ organisation, the Climate Action Co-Ordinator salary will be funded entirely by 
 
 Department with recruitment due to take place shortly for a Climate Action Officer. He
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -232,7 +232,7 @@ requesting a tax rebate for people who contribute to have their roads repaired u
 
 Community Involvement Scheme. This was seconded by Councillor Collins and agreed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ Civic Trust) be given the same status as Limerick Civic Trust and had not receiv
 
 a response.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -340,5 +340,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Housing Meeting of the Municipal District of Newcastle West - 20th March.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01d%202018-03-20%20Minutes%20Special%20Meeting%20on%20Housing%20Issues%20Municipal%20District%20of%20Newcastle%20West.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ to the replacement of storage heating. The Administrative Officer advised that i
 
 between €7,000 to €12,000 to replace heating systems.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 It was acknowledged that the budget provided for housing maintenance was predominately
 
@@ -142,5 +142,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

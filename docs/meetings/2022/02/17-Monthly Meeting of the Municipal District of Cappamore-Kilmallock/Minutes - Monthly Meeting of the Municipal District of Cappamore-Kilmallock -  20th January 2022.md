@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock -  20th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-02/2-.-minutes-of-20th-january-municipal-district-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -80,7 +80,7 @@ Business, namely including congratulations to both Galbally and Ardpatrick as re
 
 Bronze Medals in the tidy Towns awards.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 It was noted that under the Notice of Motion regarding safety measures at Portauns,
 
@@ -134,7 +134,7 @@ programme for 2022-2023.
 
 An update was provided on the 2020-2021 GMA Roads programme.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 NOTICES OF MOTION
 
@@ -206,7 +206,7 @@ Limerick City and County Council would be prepared develop a section of the grav
 
 approval from the National Monuments Service of the Department of Housing, Local Government &
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Heritage (HGLH) for cremated remains only, the sale of which would be a maximum of two plots per
 
@@ -272,7 +272,7 @@ It is proposed to include a speed limit for consideration by stakeholders and th
 
 Members as part of the next Speed Limit Review for Limerick City and County.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5.Question submitted by Councillor Donegan
 
@@ -332,7 +332,7 @@ The Elected Members thanked the staff of the Kilmallock Area office for posting 
 
 documentation required for the Online Municipal District Meeting.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Next Meeting
 
@@ -346,5 +346,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

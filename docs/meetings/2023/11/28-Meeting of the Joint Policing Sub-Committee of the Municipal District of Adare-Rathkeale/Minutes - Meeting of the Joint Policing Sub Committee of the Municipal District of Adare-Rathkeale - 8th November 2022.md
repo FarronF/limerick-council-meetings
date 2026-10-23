@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Joint Policing Sub Committee of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-11/01-Minutes-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Adare-Rathkeale-8th-November-2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -80,7 +80,7 @@ The A/Superintendent proceeded to give Members an update on crime rates in the
 
 District. He advised the biggest decrease from last year’s statistics were burglaries which
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 dropped by 90% with only one incident reported in the District. He further advised the
 
@@ -152,7 +152,7 @@ could lead to a collision. The A/Superintendent agreed to forward this request t
 
 District Traffic Core Unit.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 Councillor O’Donoghue stated there is a huge issue in some areas with members of the
 
@@ -216,5 +216,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

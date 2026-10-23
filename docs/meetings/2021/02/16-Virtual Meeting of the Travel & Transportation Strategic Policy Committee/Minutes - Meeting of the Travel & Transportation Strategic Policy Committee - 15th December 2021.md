@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Travel & Transportation Strategic Policy Committee - 15th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-02/minutes-travel-transportation-spc-meeting-15th-dec-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -74,7 +74,7 @@ Mr. Kennedy updated the Committee on items arising from the last meeting:
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ content and preparation of the local authority climate action plan is also provi
 
 Section 14A of the Bill.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ a particular problem for residents and added that the importance of having stude
 
 parents drive this will give the best results.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -304,7 +304,7 @@ a proposal in relation to how the schemes should be ranked and prioritised going
 
 The Chair opened up the floor to comments / questions.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,7 +378,7 @@ concerns that the Members have raised.
 
 **Metropolitan District).**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -456,7 +456,7 @@ issues, and that this decision was now being reviewed. He stressed the need to c
 
 a solution that meets the needs of all concerned parties.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -472,5 +472,5 @@ Chair asked for forbearance whilst consultation is ongoing.
 
 The Chair closed the meeting by wishing all a safe, peaceful and happy Christmas.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

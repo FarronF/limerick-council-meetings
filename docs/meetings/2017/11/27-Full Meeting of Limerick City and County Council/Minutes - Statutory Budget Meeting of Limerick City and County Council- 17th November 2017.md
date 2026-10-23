@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Statutory Budget Meeting of Limerick City and County Council- 17th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28g%29%20Minutes%20-%20Budget%20Meeting%20171117.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND
 
@@ -96,7 +96,7 @@ December, 2018, the Draft Budget had been served in accordance with Section 103 
 
 Local Government Act, 2001, as amended by the Local Government Reform Act, 2014.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -166,7 +166,7 @@ Office of Public Works.
 
 Village Renewal Department.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -228,7 +228,7 @@ Capital Budget as follow :
 
 Programme and Town & Village Renewal Projects.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,7 +302,7 @@ statutory compliance with a number of steps which can be summarised as follows:
 
 28th September.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,7 +378,7 @@ accrue to the Council.
 
 The key objectives of the 2018 Budget are set out in the Table below:
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -17976,7 +17976,7 @@ To enhance rural development by continuing to invest in our infrastructure
 
 Continue to seek efficiencies in service provision, cost reduction and value for money
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -18168,7 +18168,7 @@ with own resource income will have to be met by offsetting expenditure reduction
 
 expenditure to ensure compliance with fiscal rules
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -18246,7 +18246,7 @@ that exist for growth and highlight priority action areas to unlock the signific
 
 that a thriving tourism industry can bring.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -18320,7 +18320,7 @@ break-even on the Revenue Account for 2017; however there is pressure on a numbe
 
 income heads and ongoing controls on expenditure are in place.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -18416,7 +18416,7 @@ H - Misc Services
 
 **Table 2: Analysis of Expenditure by Division**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 The following chart gives a br
 
@@ -32674,7 +32674,7 @@ t 2018 for each
 
 **P €402.5m)**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 **Analysis of Income 2018**
 
@@ -38002,7 +38002,7 @@ g HAP.
 
 **ial**
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 76% of the Council's income
 
@@ -41833,7 +41833,7 @@ vided by the DHPLG
 
 **m**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -41999,7 +41999,7 @@ resources for the delivery of the following services (compared to 10% LPT variat
 
 **Table 5: Allocation of additional resources**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -42085,7 +42085,7 @@ outlined below in ***Table 6***:
 
 **Table 6: Allocation of additional resources from proposed 1.75% Commercial Rate increase**
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -42241,7 +42241,7 @@ provides that the decision to alter the rate of refund should be decided at the 
 
 annual budget meeting and that the rate of refund decided in respect of the relevant local
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -42319,7 +42319,7 @@ The Proposed Business & Retail Incentive Scheme for 2018 will continue to be ava
 
 businesses in all towns and villages across Limerick City and County Council. The scheme is
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -42419,7 +42419,7 @@ existing functions and staff with some targeted additional resources having rega
 
 need to deliver stronger results in this area. Under the operating model the relevant
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -42505,7 +42505,7 @@ Apprenticeship Programme, to attract and train a new generation of craft workers
 
 the Organisation.
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -42613,7 +42613,7 @@ thus consistency; all letters automated; reporting is standardised and automated
 
 **Number Staff**
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -42693,7 +42693,7 @@ Government Reform Act 2014, please find attached a report on the programme of ca
 
 projects proposed by Limerick City and County Council for the 3 years 2018 to 2020.
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -42815,7 +42815,7 @@ that each division would be examined individually and Members would be afforded 
 
 opportunity to pose questions in relation to each division.
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -42897,7 +42897,7 @@ from €371 million last year. This was significant and indicated how well posit
 
 Council was in attracting businesses to locate and conduct their business in Limerick.
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -42971,7 +42971,7 @@ He also welcomed the ambitious Capital Programme of €120 million for 2018 and 
 
 in particular, to a number of projects in the Municipal District of Newcastle West – Athletics
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -43043,7 +43043,7 @@ He said the total estimated expenditure of €561 million was a very impressive 
 
 was only surpassed by Dublin City Council.
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -43117,7 +43117,7 @@ be increased.
 
 • Could the process of getting voids back into use be accelerated.
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 
 27
 
@@ -43185,7 +43185,7 @@ for the Members in relation to what was before them at this point in the Meeting
 
 there was a proposer and seconder to adopt the Budget as presented.
 
-[[PAGE_END:27]]
+<span data-pagefind-ignore>[[PAGE_END:27]]</span>
 
 28
 
@@ -43241,7 +43241,7 @@ accordance with Section 103 of the Local Government Act, 2001, as amended by the
 
 Government Reform Act, 2014.”
 
-[[PAGE_END:28]]
+<span data-pagefind-ignore>[[PAGE_END:28]]</span>
 
 29
 
@@ -43303,7 +43303,7 @@ amendment to the Small and Medium Business Support Scheme. At this point, it was
 
 agreed to take a further adjournment of 10 minutes for them to consider their amendment.
 
-[[PAGE_END:29]]
+<span data-pagefind-ignore>[[PAGE_END:29]]</span>
 
 30
 
@@ -43361,7 +43361,7 @@ Leddin, McCreesh, McMahon, Mitchell, Cmhlr. Ó Ceallaigh, O’Donnell, Prendivil
 
 Secas, Sheahan (J), Sheahan (M), Teskey. **(22)**
 
-[[PAGE_END:30]]
+<span data-pagefind-ignore>[[PAGE_END:30]]</span>
 
 31
 
@@ -43415,7 +43415,7 @@ by the Local Government Reform Act, 2014, subject to finances available, is adop
 
 circulated. (Item 8 on Meeting agenda).”
 
-[[PAGE_END:31]]
+<span data-pagefind-ignore>[[PAGE_END:31]]</span>
 
 32
 
@@ -43443,5 +43443,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:32]]
+<span data-pagefind-ignore>[[PAGE_END:32]]</span>
 

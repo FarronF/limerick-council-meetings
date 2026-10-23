@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes  - Monthly Meeting of Metropolitan District of Limerick -  20th May 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28a%29%20Minutes%20Monthly%20Meeting%2020th%20May%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD IN**
 
@@ -94,7 +94,7 @@ dwelling house situate at 23 Coolraine Estate, Mayorstone, Limerick and the inte
 
 bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ scheme in Rathbane Road, Metropolitan District of Limerick, providing 2 no. new
 
 houses.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -288,7 +288,7 @@ houses.
 
 ***I will ask at the next meeting can an update be provided on the Limerick Shannon Metropolitan***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -372,7 +372,7 @@ Tender of works must then take place. Our representative Brendan Moore will
 
 work with residents in relation to this matter keeping them informed by way of
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -422,5 +422,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

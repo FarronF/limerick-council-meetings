@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Cappamore_Kilmallock - 15th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/2.-minutes-of-15th-april-md-meeting.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -88,7 +88,7 @@ Irish Water Clinic for Elected Members was acknowledged, and a query was raised 
 
 whether responses were circulated via email. It was confirmed that the responses had been
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -154,7 +154,7 @@ Director, Support Services-Finance, Corporate, HR & ICT that currently there is 
 
 in legislation for the use of CCTV cameras in relation to litter. CCTV cameras currently in use
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -212,7 +212,7 @@ suggested that the vote be deferred to the September Meeting.
 
 **Seconded by: Councillor Teefy.**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -376,7 +376,7 @@ Cllr M Ryan with Cllr Egan
 
 and Cllr Mitchell
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -530,7 +530,7 @@ and Cllr Mitchell
 
 **€4,225.00**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -610,7 +610,7 @@ with a passing loop at Dromkeen.
 
 **Proposed: Councillor Egan**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -678,7 +678,7 @@ calming measures.
 
 **Seconded by: Councillor M Ryan**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -742,7 +742,7 @@ Kilmallock, including footpath replacement and improved signage for the safety o
 
 pedestrians crossing the bridge.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -810,7 +810,7 @@ bringing Cluain Foinse Estate to a taking in charge standard. Upon completion of
 
 works the formal taking in charge process will be commenced.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -882,7 +882,7 @@ A vote of sympathy was extended by the Elected Members to the community, family 
 
 friends of Sr Claude Meagher, Presentation Convent, Hospital, who passed away on 23rd
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -934,5 +934,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

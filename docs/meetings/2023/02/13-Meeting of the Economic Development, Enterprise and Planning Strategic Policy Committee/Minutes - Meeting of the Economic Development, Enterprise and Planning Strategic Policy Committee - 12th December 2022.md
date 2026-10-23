@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/Minutes%20-%20Meeting%20of%20the%20Economic%20Development%2C%20Enterprise%20and%20Planning%20Strategic%20Policy%20Committee%20-%2012th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -86,7 +86,7 @@ in writing.
 
 In the absence of Cllr E. O’Donovan, this item was deferred to the next meeting of the SPC.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3:**
 
@@ -196,7 +196,7 @@ and the owner of the Debenhams building. The Council is currently seeking tender
 
 disciplinary team to prepare a Framework Plan for the area. In advance of full development, the
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 council is considering some meanwhile uses of some of the area, specifically Honan’s Quay/ rear of
 
@@ -300,7 +300,7 @@ at a later stage and any opportunity for signage in county towns will be taken u
 
 **Item 6**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **Nomination of Sectoral Interest to LECP Advisory Group**
 
@@ -326,5 +326,5 @@ Director of Service Economic Development and Enterprise, confirmed that the noti
 
 Minister but no response has been received to date.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

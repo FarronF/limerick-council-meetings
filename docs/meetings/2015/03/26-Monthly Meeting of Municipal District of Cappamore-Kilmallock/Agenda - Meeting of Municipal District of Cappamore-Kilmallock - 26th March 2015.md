@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 26th March 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_cappamore-kilmallock_-_26th_march_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -79,5 +79,5 @@ Corporate Headquarters, Merchants Quay, Limerick  @LimerickCouncil
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

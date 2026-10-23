@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes Planning - Special Meeting of Limerick City and County Council - 6th November 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-11/01%20%28f%29%20Minutes%20Special%20Meeting%20061117%20-%20Planning.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF LIMERICK
 
@@ -84,7 +84,7 @@ out in Requisition received on 26th September, 2017, and signed by a number of M
 
 as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ as follows:
 
 *this plan.”*
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -226,7 +226,7 @@ Plan has precedence over the Development Plan. He was therefore calling on the M
 
 to support five motions which he was putting forward as follows: -
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -302,7 +302,7 @@ issue, and referred to the need for action to be taken to prevent future similar
 
 applications.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -376,7 +376,7 @@ if approved, could have wider impacts and should be considered carefully
 
 accordingly.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -452,7 +452,7 @@ any other legal advice that Elected Members might have and asked if there was an
 
 particular Counsel that they wished to use in this instance.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -482,5 +482,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

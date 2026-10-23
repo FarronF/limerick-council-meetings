@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-05/01-draft-minutes-monthly-online-meeting-19th-april-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT ONLINE MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -88,7 +88,7 @@ house situate at 30 St. Laurence Park, Garryowen, Limerick and the intention to 
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -196,7 +196,7 @@ Woodhaven Residents Association
 
 €300
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -320,7 +320,7 @@ Chief Executive’s Recommendations dated 19th March, 2021, under Section 20(3)(
 
 Planning and Development Act, 2000 (as amended)”.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -392,7 +392,7 @@ secondary routes. The review will also take into consideration the possibility o
 
 a service to housing estates in the District.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -470,7 +470,7 @@ connection costs vary due to the availability of supply, length of connection, t
 
 etc.).
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -656,7 +656,7 @@ Patrickswell
 
 ***Janesboro. This unused railway line is causing anti-social behaviour and rubbish dumping***
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -744,7 +744,7 @@ The Council is awaiting TII’s costings in order to finalise the report.
 
 ***could be installed over the Summer months to support people accessing the city.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -826,7 +826,7 @@ centres that have the biggest tourism impact and subsequently the street or area
 
 these city and town centres that will facilitate the optimum number of year-round
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -904,7 +904,7 @@ The drawings are currently being finalised and will be circulated to all members
 
 available.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -980,7 +980,7 @@ Quay will be assessed as part of this Survey.
 
 **22.Question submitted by Councillor C. Sheehan**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1064,7 +1064,7 @@ It was agreed to refer this Notice of Motion to the Community, Leisure and Cultu
 
 Policy Committee.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1146,7 +1146,7 @@ An explanatory document “New Tree Felling Requirements” from the Dept. of Ag
 
 ***remove the Annacotty Weir on the River Mulkear so that lampreys can travel the river freely.***
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1234,7 +1234,7 @@ review of the existing Plan and the preparation of a new Plan.
 
 **Notice of Motion submitted by Councillor F. Kilcoyne (to be referred to the Local**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1314,7 +1314,7 @@ feasibility study and estimate of cost for this project for consideration in fut
 
 applications.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1394,7 +1394,7 @@ These include the operation of the Outdoor Seating and Accessories for Tourism
 
 Hospitality Business Scheme. Businesses, which sell food for consumption on the
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1478,5 +1478,5 @@ Correspondence was noted and taken as read. This concluded the Meeting.
 
 **CATHAOIRLEACH**
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 

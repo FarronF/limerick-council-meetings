@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Home and Social Development SPC - 22nd September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/minutes-spc-meeting-22-oct-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF MEETING OF LIMERICK CITY AND COUNTY COUNCIL HOME AND SOCIAL**
 
@@ -94,7 +94,7 @@ elected. The elected candidates will be ratified at full Council meeting on the 
 
 September. The newly elected PPN members will join us at our next H&S SPC meeting.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 
 
@@ -168,7 +168,7 @@ build out and ensure design consistency with self build dwellings?
 
  84% Agree
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
  16% Disagree
 
@@ -244,7 +244,7 @@ Ms. Dee Ryan asked if we are we considering this scheme as another way of reduci
 
 amount of one off rural developments. Ms. Newell replied that this *is* a potential option to
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 the one off rural developments and listed the eligibility for scheme, which will be circulated
 
@@ -318,7 +318,7 @@ managed complex.
 
 •Other? 17%. Fraction is too high for the 80 plus groups
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 •Did Not Answer 49%
 
@@ -386,7 +386,7 @@ Delivering Mixed Tenure Developments –
 
 •1a. Are there tenure types we are missing that requires consideration also?
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
  No responses
 
@@ -456,7 +456,7 @@ and will keep communication open regarding potential developments.
 
 **Newell**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 Ms. Newell provide a summary of the delivery programme.
 
@@ -536,7 +536,7 @@ individuals who engage in anti-social behaviour.
 
 Ms Duke asked members of the SPC to bring any issues of ASB from HAP tenants to her attention.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 A discussion took place and the main points were:
 
@@ -622,7 +622,7 @@ Ms. Duke outlined the proposed guideline and members were asked to support its u
 
 *County Limerick. This may include one of the following:-*
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 
 
@@ -722,7 +722,7 @@ and each presentation is reviewed in detail.
 
 **Item 6 Social and Affordable Housing Mungret:**
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 **Notice of Motion submitted by Councillor J. Leddin (referred from the July 2020 Adjourned**
 
@@ -798,7 +798,7 @@ waste collection service to the Council. Our Tenancy Sustainment team will be ca
 
 inspections throughout City and County. Outcomes can be reviewed as part of February SPC.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 Cllr. Mike Donegan says that any support that can be given to Cllr. Hartigan in relation to the
 
@@ -888,7 +888,7 @@ These will completed via a mix of direct labour and contractor, and to be finish
 
 Dec 4th 2020
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 LCCC must fund the balance from own resources (ICRs etc.)
 
@@ -952,5 +952,5 @@ The Chair thanked everyone for logging in and for their valuable contributions. 
 
 members of the executive present.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 

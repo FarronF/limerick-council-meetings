@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Special Meeting of Metropolitan District of Limerick - 20th June 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%28c%29%20Minutes%20Special%20Meeting%2020th%20June%202019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT SPECIAL MEETING OF METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ part of this inspection programme as was the civic amenity centre which is in th
 
 the depot. Following these inspections safety issues were highlighted.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ took place and Mr. Lehane confirmed the following to the meeting:-
 
 close the recycling facility was not part of the Budget.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,5 +246,5 @@ This concluded the Meeting.
 
 **DATE : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

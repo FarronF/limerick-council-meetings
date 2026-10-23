@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 12th February 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-home-and-social-strategic-policy-committee-12th-february-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -74,7 +74,7 @@ commence an immediate review of the Scheme of Priority for Affordable Dwelling P
 
 Arrangements.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 12. **Notice of Motion submitted by Councillor D. McSweeney (to be referred to the Home and**
 
@@ -102,5 +102,5 @@ impending review of the current Limerick Development Plan.
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/01%20Agenda%20MD%20Meeting%2019th%20July%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **Limerick City & County Council,**
 
@@ -74,7 +74,7 @@ held on the 5th July, 2018.
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -138,5 +138,5 @@ I will move at the next meeting that Limerick City & County Council immediately 
 
 stop sign and put lining at L8566 Cush Crossroads.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 

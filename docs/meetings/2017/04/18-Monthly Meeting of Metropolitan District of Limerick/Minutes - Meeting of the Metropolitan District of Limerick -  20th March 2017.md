@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick -  20th March 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/01_minutes_20th_march2c_2017.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
@@ -92,7 +92,7 @@ March, 2017 setting out proposals for the disposal of the Freehold Interest in d
 
 out below and the intention to bring the related Section 183 Notice to the full Council for
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -180,7 +180,7 @@ Planning and Development Regulations 2001 (as amended) and it was proposed to pr
 
 in accordance with Section 5 of the report.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ developing the Hyde Road Flats, the completion of construction is
 
 programmed for October 2017.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ appropriate cycling and walking infrastructure, where possible, as part of the
 
 flood relief scheme.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -416,7 +416,7 @@ Members supported the Motion and noted the importance of preserving the records 
 
 had been retained in relation to Glin to facilitate any future investigation.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -492,7 +492,7 @@ intended to support a single or small number of large events;
 
 • The difference in funding granted by Fáilte Ireland to Galway compared to Limerick
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -572,7 +572,7 @@ from the proposed roundabout to the adjacent GAA facilities.
 
 Mr. Bergen confirmed that consultation with landowners had taken place and anticipated
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -656,7 +656,7 @@ undertook to bring the concerns of Members to Design and Delivery Services. The 
 
 requested that the reply, as read out, be circulated to Members.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -742,7 +742,7 @@ of toxic waste within the community. He expressed disbelief at the assertions ma
 
 Cement and disappointment that Irish Cement should threaten job losses, should the
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -816,5 +816,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

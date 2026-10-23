@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 30th April 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-meeting-of-the-home-and-social-strategic-policy-committee-30th-april-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL DEVELOPMENT**
 
@@ -54,5 +54,5 @@ Appendix 1- Overview of Housing Grants (Circulated on day of SPC)
 
 Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

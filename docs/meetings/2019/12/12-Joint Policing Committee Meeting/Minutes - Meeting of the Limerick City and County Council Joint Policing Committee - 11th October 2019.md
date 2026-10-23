@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Limerick City and County Council Joint Policing Committee - 11th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/Minutes-of-JPC-Meeting-11th-October-2019.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE JOINT POLICING COMMITTEE HELD IN THE**
 
@@ -108,7 +108,7 @@ The A/Senior Executive Officer, Corporate Services, Governance and Customer Serv
 
 revert to Members with dates for meetings in 2020.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **5.Overview on Crime Statistics**
 
@@ -200,7 +200,7 @@ also used where necessary. The issue of building sites is ongoing and needs to b
 
 national level.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **6.Garda Divisional Policing Model**
 
@@ -274,7 +274,7 @@ Task Force Incidents under the various headings during the period from 9th Septe
 
 October, 2019.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **10.Question submitted by Councillor Murphy:**
 
@@ -330,5 +330,5 @@ This concluded the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

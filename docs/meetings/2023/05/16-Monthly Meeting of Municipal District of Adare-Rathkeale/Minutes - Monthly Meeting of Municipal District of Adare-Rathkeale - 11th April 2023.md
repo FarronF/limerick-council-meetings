@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/01-Minutes-Monthly-Meeting-of-Municipal-District-of-Adare-Rathkeale-11th-April-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -86,7 +86,7 @@ Following discussion between Members the proposal was put to a vote. The results
 
 the voting was as follows:
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -152,7 +152,7 @@ The report, as circulated, was noted by Members.
 
 It was agreed Item 5 on the Agenda would be taken next.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -236,7 +236,7 @@ The recommended allocations were proposed by Councillor O’Brien, seconded by
 
 Councillor Sheahan and agreed.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ allocate the following:
 
  €1,000 to Pallaskenry Senior Citizens.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -374,7 +374,7 @@ The Council will also seek a funding contribution from the National
 
 Transport Authority under the Safe Routes to School programme.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -426,5 +426,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

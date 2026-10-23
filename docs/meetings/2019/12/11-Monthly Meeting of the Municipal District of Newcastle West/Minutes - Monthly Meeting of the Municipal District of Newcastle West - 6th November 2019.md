@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 6th November 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-12/01%202019-11-06%20Minutes%20November.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ soon as possible. The Members also complimented the Senior Executive Engineer an
 
 Roads Engineer on the efficient manner in dealing with this incident at the Bridge of Tears.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ On the proposal of Councillor Sheahan, seconded by Councillor Scanlan, it was ag
 
 allocate €500 to Athea National School for the purchase of a defibrillator.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ be allocated when works complete
 
 Please note these figures change on a weekly basis
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -348,7 +348,7 @@ REPLY:
 
 **N21 Devon Cross**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -428,7 +428,7 @@ carried out and Barry Transportation are progressing the detailed design for
 
 submission to TII for approval.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -504,7 +504,7 @@ Footpath renewal works will be carried out at the above mentioned estate in
 
 2020 under GMA Local Roads funding.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -584,7 +584,7 @@ audit are fully implemented and until any technical issues including issues
 
 that may arise from Wave 2 of the project are ironed out.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -666,7 +666,7 @@ Planning Framework.
 
 ***Cemeteries in our Municipal District.***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -738,7 +738,7 @@ being assessed in accordance with Limerick City and County Council’s Traffic
 
 Calming Policy for Urban Areas.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -810,7 +810,7 @@ it was noted that some overgrown hedges still remain uncut. The Executive Engine
 
 stated that these will be investigated.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -834,5 +834,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

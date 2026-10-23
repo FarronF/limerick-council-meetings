@@ -18,13 +18,13 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of the Municipal District of Cappamore-Kilmallock - 15th January 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-01/agenda-meeting-of-the-municipal-district-of-cappamore-kilmallock-15th-january-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -90,7 +90,7 @@ update on the current status and any future plans for the former Bank of Ireland
 
 building in Bruff, now in the ownership of Limerick City and County Council.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -136,5 +136,5 @@ basis over a long period of time now.
 
 **12. A.O.B**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

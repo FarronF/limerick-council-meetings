@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-07/01a-draft-minutes-monthly-meeting-21st-june-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -92,7 +92,7 @@ intention to bring a Section 183 Notice to Full Council in this regard, for appr
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ on the content of the proposed application.
 
 Following a detailed discussion of the application, the Members highlighted the following in
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -258,7 +258,7 @@ Bord Pleanála and the A/Senior Executive Officer, Planning and Environmental Se
 
 circulate this summary to the Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -338,7 +338,7 @@ inspection in relation to the lands that remain vacant.
 
 d. No
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -476,7 +476,7 @@ enter the site
 
 on the
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -638,7 +638,7 @@ NO
 
 Submission
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -814,7 +814,7 @@ LK41562F
 
 YES
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -892,7 +892,7 @@ completion of the planning documentation and internal consultation.
 
 ***existing for funding from the University of Limerick, Clare County Council or Waterways Ireland***
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -982,7 +982,7 @@ those considered high risk such as persons in direct provision, undocumented per
 
 considered highly vulnerable.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1060,7 +1060,7 @@ health and wellbeing of communities, especially those communities located close 
 
 networks and infrastructure.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1130,5 +1130,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Newcastle West - 3rd November 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01-2021-11-03-minutes-november.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -96,7 +96,7 @@ And Resolved:
 
 “That, the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ raised would be considered and the Council will write a detailed response to the
 
 Association in due course.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -244,7 +244,7 @@ Community Childcare Facility to attend a Meeting of the Municipal
 
 District of Newcastle West.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -308,7 +308,7 @@ process of being transferred to an Approved Housing Body, AHB.
 
 (Image omitted)
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -378,7 +378,7 @@ Mountcollins: Total applications: 15 Preference 1: 6 Preference 2: 7 Preference 
 
 Abbeyfeale: Total applications: 40
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -444,7 +444,7 @@ There is available wastewater treatment capacity in the town.
 
 (Image omitted)
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -473,7 +473,7 @@ Stage 2 approval received. Commence pre planning in November.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -502,7 +502,7 @@ No scheme currently underway in Templeglantine.
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -652,7 +652,7 @@ money for the number of housing units on this road. Funding will be looked at
 
 in future years.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -730,7 +730,7 @@ Question submitted by Councillor J. Scanlan
 
 ***what is the precise timeframe for home offers to would be tenants.***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -818,7 +818,7 @@ Councillor Scanlan complimented the Housing Section on the clean up which was ca
 
 to the derelict houses in the District.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -892,7 +892,7 @@ NOTICES OF MOTION
 
 15. Notice of Motion submitted by Councillor L. Galvin
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -964,7 +964,7 @@ Transportation and Mobility Directorate. Consultation with bus operators
 
 will take place as part of the design process.
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1040,5 +1040,5 @@ Dated:
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

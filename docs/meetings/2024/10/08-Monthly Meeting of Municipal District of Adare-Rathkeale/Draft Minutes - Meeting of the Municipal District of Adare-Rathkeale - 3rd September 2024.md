@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Municipal District of Adare-Rathkeale - 3rd September 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/01-draft-minutes-of-monthly-meeting-3rd-september-2024_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -92,7 +92,7 @@ under Item 3 Disposal of Land.
 
 It was agreed by the Cathaoirleach Item 8 on the Agenda would be taken next.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ The report, as circulated, was proposed by Councillor Collins, seconded by Counc
 
 Teskey and agreed.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -248,7 +248,7 @@ The Senior Executive Engineer, Mid West National Road Design Office gave Members
 
 update on the current status of the N21 Foynes to Limerick Road (including Adare Bypass)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -330,7 +330,7 @@ age crime is challenging for An Garda Síochána who are currently working with 
 
 the matter. Councillor Teskey queried if the Road Traffic Act applies on Greenways. The
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -398,7 +398,7 @@ was nominated to Coolcappa Community Council at the May Adare-Rathkeale Municipa
 
 District Meeting be reallocated to St. Senan’s National School, Foynes.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -476,7 +476,7 @@ The Motion was proposed by Councillor Teskey, seconded by Councillor Hartigan an
 
 agreed.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -558,7 +558,7 @@ In proposing the Motion Councillor O’Donoghue stated a budget is needed to cov
 
 huge cost implications for maintaining all road verges. He further requested his Motion
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -630,7 +630,7 @@ revert with a suitable date in due course. He also wished the former Councillor
 
 well on his forthcoming wedding day.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -646,5 +646,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 

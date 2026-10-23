@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 15th February 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/Minutes%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2015th%20February%2020223.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -104,7 +104,7 @@ February SPC meeting.
 
 **Item 1: Confirm minutes from meeting held on14th** **December 2022**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -178,7 +178,7 @@ Working Group on Vacancy be submitted to full Council.
 
 **Item 5: Scheme of Priority for Affordable Purchase Arrangements**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -262,7 +262,7 @@ should not be reliant on the private market. Ms. Newell replied that the Council
 
 they are activating including Sonny’s Corner, Curragower Site and Toppins Field. Regular updates will
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -340,7 +340,7 @@ Cllr. Benson asked if the percentage of the reducing charge had been amended. Ms
 
 confirmed that it had not changed but may do so in the future.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -384,5 +384,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

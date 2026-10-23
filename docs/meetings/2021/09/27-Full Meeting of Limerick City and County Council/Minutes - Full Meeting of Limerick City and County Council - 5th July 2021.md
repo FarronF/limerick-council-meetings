@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Full Meeting of Limerick City and County Council - 5th July 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-b-minutes-ordinary-meeting-05.07.2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT MEETING OF LIMERICK CITY AND COUNTY
 
@@ -100,7 +100,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 Act, 2001, as amended, and the Code of Conduct, she was inviting those present to notify
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -186,7 +186,7 @@ amended), the approval of the Council be and is hereby given to the disposal of 
 
 property (0.010 acres) at 1, Grennan Villas, St. Joseph’s Terrace, Limerick, to Daniel Byrne, for
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -268,7 +268,7 @@ with Una Pigott to transfer 0.0034 hectares of land comprising a public footpath
 
 Council, particulars of which were contained in Statutory Notice dated 24th June, 2021.”
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -358,7 +358,7 @@ The legislation has brought forward the deadline for notifying Revenue of the Lo
 
 Adjustment Factor (LAF) to the 31st August in a revaluation year;
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -460,7 +460,7 @@ important services across the local authority, including General Municipal Alloc
 
 works.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -538,7 +538,7 @@ University would be situated in Limerick City, Limerick Moylish, Athlone, Ennis,
 
 Clonmel. This new Technological University would comprise 14,500 students and 2,000 staff
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -618,7 +618,7 @@ Circulated, Chief Executive’s Report for the month of May 2021.
 
 The Report was noted by the Council
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -698,7 +698,7 @@ of the Committee held on 8th June, 2021.
 
 **preventing drive-through take-away littering.**
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -764,7 +764,7 @@ Participation by Members at Conferences
 
 Details of the following Conference had been circulated electronically to the Members:
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -846,7 +846,7 @@ Limerick Regeneration Masterplan - A vision for Moyross, Southill/Ballinacurra
 
 Weston and St. Mary's Park followed in October 2008.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -928,7 +928,7 @@ embedded in the Limerick Regeneration Framework Implementation Plan
 
 adopted by elected members in February 2014.
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1002,7 +1002,7 @@ from 593 to 513 replacement homes.
 
 August 2021 - substantial completion 01/02/2023.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1076,7 +1076,7 @@ City Centre to follow in September/October of this year. Both these schemes
 
 converge in the City Centre at O’Callaghan Strand/Clancy Strand and Honan’s
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1152,7 +1152,7 @@ combination of walls and embankments to protect properties at these
 
 locations, details as per attached drawing.
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1194,7 +1194,7 @@ the city wall.
 
 (Image omitted)
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1270,7 +1270,7 @@ tremendous potential for any future development to highlight and re-establish
 
 the line of the wall and the location of the gate in the public realm.
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1316,7 +1316,7 @@ It was agreed to refer this Motion to the Joint Policing Committee for considera
 
 (Image omitted)
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1392,7 +1392,7 @@ Directors of Limerick Twenty Thirty DAC are not put in a position where they
 
 could be liable for a potential breach of fiduciary duty.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1470,7 +1470,7 @@ The reply also stated that similar to what is happening in other counties seekin
 
 to the scheme, that the local authority would lead on the rigorous analysis required in
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1536,5 +1536,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 

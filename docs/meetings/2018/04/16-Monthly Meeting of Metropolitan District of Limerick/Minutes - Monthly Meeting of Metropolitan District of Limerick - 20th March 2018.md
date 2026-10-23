@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 20th March 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-04/01%20Minutes%2020th%20March%2C%202018.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF METROPOLITAN DISTRICT OF LIMERICK HELD**
 
@@ -88,7 +88,7 @@ to the question being amended by the removal of the word allegedly, subject to l
 
 confirming this.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -170,7 +170,7 @@ relation to same before the May Meeting of the Council.
 
 The item was deferred.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ housing crisis, the report was circulated as soon as it was received so that the
 
 could be considered at the March Meeting.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -328,7 +328,7 @@ queries in relation to Limerick being included as a destination on the Wild Atla
 
 Laura Ryan informed the meeting that there was an opportunity to leverage the brand for the
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ line with normal protocol, the request for funding would be referred to the appr
 
 channel for consideration.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -510,7 +510,7 @@ At the 12th February 2018, the number of vacant properties in the Metropolitan
 
 area was 28, the breakdown is as follows;
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -608,7 +608,7 @@ The deep retrofit of the 100 unit Watergate Flats complex is being delivered on
 
 a phased basis. Phase 1 (56 units) was completed in 2017. This work has
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -686,7 +686,7 @@ Quarterly meetings are being held with representatives of the Disability
 
 Federation of Ireland (DFI) and the following actions have been agreed for 2018.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -768,7 +768,7 @@ practice of closing cases with the status commitment given, as this means that t
 
 follow up to ensure that the action was carried out.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -818,5 +818,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 19th Januay 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-02/02%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2019th%20Januay%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS OF MONTHLY MEETING OF THE
 
@@ -90,7 +90,7 @@ Cappamore-Kilmallock held on 8th December, 2022.
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed.”
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2. Matters Arising:
 
@@ -158,7 +158,7 @@ zoning for housing and recreation at Gregane Close.
 
 The Elected Members therefore resolved as follows:
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 -
 
@@ -206,7 +206,7 @@ Development Act 2000 (as amended). “
 
 (Image omitted)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 The Cathaoirleach and Senior Executive Planner wished to acknowledge the work of the
 
@@ -254,7 +254,7 @@ An Cathaoirleach noted that further to the outcome of the debate, the number of 
 
 Motion and Questions would remain.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 Notices of Motion
 
@@ -312,7 +312,7 @@ received, I will forward it to you without delay.
 
 *County Council Water Services staff was acknowledged.*
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 Questions
 
@@ -374,7 +374,7 @@ Transport Ireland intend to build Bus shelters urgently in The Cappamore/Kilmall
 
 in 2023.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 **Reply:**
 
@@ -436,7 +436,7 @@ ongoing issues with the water supply in Doon. The Director of Services also agre
 
 discuss this with Anne Peters (Senior Engineer, Water Services).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 **Grants**
 
@@ -490,5 +490,5 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Cathaoirleach
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

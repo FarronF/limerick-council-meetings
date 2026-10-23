@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of the Municipal District of Adare-Rathkeale - 14th January 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-minutes-of-monthly-meeting-14th-january-2020.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MEETING OF THE MUNICIPAL DISTRICT OF ADARE-**
 
@@ -82,7 +82,7 @@ write to Deputy Tom Neville and Minister Brendan Griffin to thank them for their
 
 to secure funding for this project. This was seconded by Councillor Teskey.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -156,7 +156,7 @@ the fowl sewer, diversions are in place diverting traffic through Kilcornan whic
 
 will also have ongoing traffic calming works taking place during this time.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ services within housing developments/estates to ensure planning
 
 compliance and suitability for taking in charge.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ Councillor Keary requested an update on the site identified by Irish Water for t
 
 proposed Askeaton waste water treatment plan.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -344,5 +344,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 

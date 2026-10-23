@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of Metropolitan District of Limerick - 17th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-04/00%20Agenda%20-%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2017th%20April%202023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 (Image omitted)
 (Image omitted)
@@ -97,7 +97,7 @@ To adopt Minutes of the Monthly Meeting of the Metropolitan District of Limerick
 (Image omitted)
 (Image omitted)
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -149,7 +149,7 @@ Planning and Development Act 2000 (as amended).
 
 (Report Enclosed).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -209,7 +209,7 @@ will commence on the Mill Road Active Travel Scheme and for a detailed update on
 
 of the scheme.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -273,7 +273,7 @@ I will ask at the next Meeting of Metropolitan District of Limerick for an updat
 
 testing that has commenced at the Loughmore Canal with details from the water tested so far.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -325,7 +325,7 @@ Limerick City and County Council have carried out in relation to the provision o
 
 housing in Patrickswell.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -391,7 +391,7 @@ bodies, to propose formulating an interagency task force to control alien invasi
 
 Mulcair catchment.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -439,5 +439,5 @@ be lived in by the applicants have their grant amount increased by at least 50%.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 

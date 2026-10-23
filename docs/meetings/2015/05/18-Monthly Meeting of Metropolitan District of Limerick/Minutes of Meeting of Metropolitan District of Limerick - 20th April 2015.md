@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes of Meeting of Metropolitan District of Limerick - 20th April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/minutes_20th_april_2015.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES
 
@@ -100,7 +100,7 @@ And Resolved:
 
 “That the draft Minutes, as circulated, be taken as read and adopted and signed”.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2.
 
@@ -182,7 +182,7 @@ the needs of the city.
 
 of Colbert Station and Hyde Road Flats and in this regard Cluid should be invited to
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 attend a District Meeting to discuss same.
 
@@ -274,7 +274,7 @@ and these issues did not arise in relation to grass cutting.
 
 the budget for 2015.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Members agreed, on the proposal of Councillor Collins and seconded by Councillor
 
@@ -362,7 +362,7 @@ Members raised the issue of private housing estates compared to council estates 
 
 the contribution Part 5 agreements had made to bridge the gap between the two types of
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 estates. It was noted that the 20% allocation under Part 5 had been reduced to 10%
 
@@ -452,7 +452,7 @@ for these houses.
 
 private rented accommodation.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
  That some housing applicants are seeking to be housed in particular areas only and
 
@@ -540,7 +540,7 @@ the question as to who will monitor these spaces.
 
  Parking is an issue in all cities and the Council should consider requiring taxis to be
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 based off street in multi-storey car parks.
 
@@ -626,7 +626,7 @@ Members supported the motion and it was highlighted that part of the route refer
 
 had previously been a pedestrian walkway, widened to accommodate a car and was too
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 narrow to accommodate a bus safely. Issues were also raised with regard to the speed
 
@@ -710,7 +710,7 @@ new bins and it was clarified that any dogs rehomed from the Dog Control Centre 
 
 Mungret are micro chipped and that the number of dogs rehomed from that location had
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 increased on foot of the efforts of the new kennel caretaker and the use of social media.
 
@@ -794,7 +794,7 @@ be reflected in the Chief Fire Officer’s report to the Licencing Court.
 
  Fire Safety Certificates apply to relevant buildings, newly built or refurbished since
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 1990 under the Building Control Act.
 
@@ -858,5 +858,5 @@ This concluded the Meeting.
 
 **Dated : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

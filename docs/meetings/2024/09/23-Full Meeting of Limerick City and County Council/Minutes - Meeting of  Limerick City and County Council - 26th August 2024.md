@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of  Limerick City and County Council - 26th August 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-02/minutes-meeting-of-limerick-city-and-county-council-26th-august-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 MINUTES OF PROCEEDINGS AT ORDINARY MEETING OF LIMERICK CITY
 
@@ -90,7 +90,7 @@ and his dedication to his community was unwavering. He took his duties seriously
 
 preparing meticulously for events and ensuring he represented the council with insight and
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **2**
 
@@ -168,7 +168,7 @@ further. However, some Members raised concerns around the timeline to draft this
 
 programme and encouraged the Mayor to meet with the Members of the Districts to agree
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 **3**
 
@@ -236,7 +236,7 @@ Moran, O’Donoghue, Ryan (E), Scanlan, Secas, Sheehan (C), Teefy. (16)
 
 There were no Abstentions.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 **4**
 
@@ -252,5 +252,5 @@ Date:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

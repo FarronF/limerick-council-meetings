@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Meeting of The Metropolitan District of Limerick - 20th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-meeting-of-the-metropolitan-district-of-limerick-20th-october-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -92,7 +92,7 @@ Corporate Headquarters, Merchants Quay, Limerick
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -144,7 +144,7 @@ Christmas in Limerick Light Up Procession Event Licence.
 
 (Report to Follow).
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -206,7 +206,7 @@ total monies committed to and spent, and any other costs incurred, for the new F
 
 Limerick food festival.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -274,7 +274,7 @@ I will ask at the next Meeting of the Metropolitan District of Limerick that Lim
 
 County Council provide an update on the preparation of the City Centre Transport Plan.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -344,7 +344,7 @@ relation to the pipeline delivery of LA Affordable Purchase Homes in the Metropo
 
 for 2026 & 2027 and the expected delivery for each scheme during the above period.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -414,7 +414,7 @@ board their buses at the Bus Stop at Avista (St. Vincents) in Annacotty and alig
 
 City.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -480,7 +480,7 @@ Community Liaison Committee is established by the end of October 2025, given LCC
 
 commitment to ensuring this group is put in place.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -510,5 +510,5 @@ businesses impacted by their removal.
 
 (Copy of Correspondence Enclosed).
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

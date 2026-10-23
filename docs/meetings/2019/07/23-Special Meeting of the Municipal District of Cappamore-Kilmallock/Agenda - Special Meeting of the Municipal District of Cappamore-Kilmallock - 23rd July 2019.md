@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 23rd July 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-07/01%20Agenda%20Special%20Meeting%20Kilmallock%20Local%20Area%20Plan.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -74,5 +74,5 @@ Limerick City and County Council, Aras Mainchin Seoighe Area Office @LimerickCou
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

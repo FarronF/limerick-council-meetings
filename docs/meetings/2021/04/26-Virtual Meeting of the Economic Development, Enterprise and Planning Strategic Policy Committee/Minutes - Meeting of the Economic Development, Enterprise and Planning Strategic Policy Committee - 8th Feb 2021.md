@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning Strategic Policy Committee - 8th Feb 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-04/item-1-minutes-of-spc-mtg-8th-feb-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE AND**
 
@@ -92,7 +92,7 @@ taken in charge over the last 5 years.
 
 The cost of maintaining estates once taken in charge was centrally funded.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 Members expressed concern over the delay in taking in charge of housing estates, the insufficient
 
@@ -174,7 +174,7 @@ Key stats for 2019/2020 included:
 
  Income received from Levies in 2020 - €26,535
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 He referred to a number of high profiles sites, that had derelict site proceedings issues against
 
@@ -260,7 +260,7 @@ tradition
 
  Introduce Limerick Food Awards to highlight the achievements of local producers.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 Members thanked Mike for the presentation and stated that it was a very important strategy for
 
@@ -300,5 +300,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 

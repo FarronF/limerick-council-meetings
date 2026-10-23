@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Joint Policing Committee Meeting - 4th March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/Minutes%20of%20JPC%20Meeting%204th%20March%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF VIRTUAL MEETING OF THE LIMERICK JOINT POLICING COMMITTEE**
 
@@ -112,7 +112,7 @@ pressure on the other Gardaí.. He indicated that the deterrent factor of CCTV c
 
 overstated and are a very important tool in dealing with crime.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 In reply to the Chairman, the Acting Chief Superintendent stated that the Gardaí will respond as
 
@@ -190,7 +190,7 @@ regular basis. In his opinion, the cameras should be monitored at the centre on 
 
 week basis by a member of the Gardaí and not by an ordinary civilian.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 In reply, the Acting Chief Superintendent stated that the Garda Commissioner’s preferred strategy is
 
@@ -272,7 +272,7 @@ There was no correspondence.
 
 *raids in the period since the last meeting of the Joint Policing Committee Meeting’.*
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 In reply the Acting Chief Superintendent stated that Gardai are continuing to liaise with Limerick City
 
@@ -362,7 +362,7 @@ side of this project.
 
 *to* *ensure the safety of women in public spaces following the tragic death of Ashling Murphy’.*
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 In reply, the Superintendent stated that the statutory function of An Garda Síochána includes
 
@@ -454,7 +454,7 @@ provided links below to the draft third National Strategy on Domestic, Sexual an
 
 Violence and the survey I have referred to.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 He said he would welcome any recommendations from the Joint Policing Committee as to what can
 
@@ -506,5 +506,5 @@ This concluded the business of the Meeting.
 
 **Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

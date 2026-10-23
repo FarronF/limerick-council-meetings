@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Municipal District of Adare-Rathkeale - 11th February 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-03/minutes-meeting-of-the-municipal-district-of-adare-rathkeale-11th-february-2025.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
 
@@ -90,7 +90,7 @@ Cathaoirleach of any declaration of interest in any item due for discussion at t
 
 No such interest was declared.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -174,7 +174,7 @@ repaired on a weekly basis. Councillor O’Donoghue added such repairs should no
 
 funded by the Adare-Rathkeale District local road maintenance budget. The Senior
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -250,7 +250,7 @@ Councillor Collins requested an update on the proposed extension of the footpath
 
 Kilcornan Church to the Burial Ground. The Senior Executive Engineer, Roads, Traffic
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ to make this happen as soon as possible and he acknowledged that there are only 
 
 limited number of operators in the market who operate this type of resource.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -404,7 +404,7 @@ was submitted to the Traffic Infrastructure Ireland in January 2025 and we await
 
 confirmation of funding to prepare the detailed design and contract documents to
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -484,7 +484,7 @@ agreed to allocate the following:
 
  €2,000 to Askeaton Saint Patrick’s Day Parade.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -562,7 +562,7 @@ further discussion would take place on this matter and would revert in due cours
 
 **Request to receive a briefing from Tusla**
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -590,5 +590,5 @@ Dated:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 

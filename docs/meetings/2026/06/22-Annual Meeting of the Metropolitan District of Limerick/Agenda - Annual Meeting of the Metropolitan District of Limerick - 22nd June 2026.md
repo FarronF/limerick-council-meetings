@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of the Metropolitan District of Limerick - 22nd June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-metropolitan-district-of-limerick-22nd-june-2026.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -76,5 +76,5 @@ me . ( 061 - 556 000
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 

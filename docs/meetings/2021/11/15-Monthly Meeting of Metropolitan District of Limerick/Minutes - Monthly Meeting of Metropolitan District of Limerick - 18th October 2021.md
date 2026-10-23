@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Monthly Meeting of Metropolitan District of Limerick - 18th October 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-11/01a-draft-minutes-monthly-meeting-18th-october-2021.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -110,7 +110,7 @@ Special Projects – LA Infrastructure
 
 €150,000
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -214,7 +214,7 @@ setting out proposals to dispose of property at Rathmale, Mungret, Co. Limerick 
 
 intention to bring a Section 183 Notice to Full Council in this regard, for approval.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -290,7 +290,7 @@ Cork Road, also be removed.
 
 ***for letting.***
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -376,7 +376,7 @@ location of properties owned/managed and leased by AHBs.
 
 **settlement(s)**
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -666,7 +666,7 @@ City and County
 
 Limerick city
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -892,7 +892,7 @@ in the Harmonised Index of Consumer Prices (HICP). Data on average spend on mont
 
 therefore has been collated for 2019, 2020 and 2021.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -1022,7 +1022,7 @@ Basalt ICAV
 
 ***lot of elderly people living in the area that just cannot keep them maintained.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -1104,7 +1104,7 @@ Programme” is a partnership between the GAA, LGFA and Camogie Association and 
 
 authorities across Ireland and is structured around five key areas; Waste, Water,
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -1188,7 +1188,7 @@ required to maintain the length of vegetation along the canal.
 
 ***are expected to be carried out in the Metropolitan area once the Covid rules permit so.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -1278,7 +1278,7 @@ this nature in collaboration with TII.
 
 parks and green spaces; assess existing parks for their value and accessibility; identify gaps
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -1356,7 +1356,7 @@ bins will commence in December following a successful award of tender.
 
 **Notice of Motion submitted by Councillor C. Sheehan**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1436,7 +1436,7 @@ Committee.
 
 The motion was proposed by Councillor O’Donovan, seconded by Councillor Benson and agreed.
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1538,7 +1538,7 @@ The motion was proposed by Councillor Secas, seconded by Councillor Hartigan and
 
 **Leisure and Culture Strategic Policy Committee)**
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1598,5 +1598,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 

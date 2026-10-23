@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Meeting of the Metropolitan District of Limerick - 15th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/01-draft-minutes-meeting-of-metropolitan-district-of-limerick-15th-january-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -86,7 +86,7 @@ The Meetings Administrator stated that, in line with Part 15 of the Local Govern
 
 amended, and the Code of Conduct, he was inviting those present to notify the Cathaoirleach of
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -160,7 +160,7 @@ Committee. Other factors to be considered include the funding available for any 
 
 Civic Memorial, planning approval if applicable, and the possible consent of the landowner
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -254,7 +254,7 @@ advertisement.
 
 **REPLY**: A large road sweeper services Newenham Street, Davis Street and O’Connell Avenue every
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ The strategy will focus on identifying the demand for charge points across all t
 
 charging and will specifically identify public residential and destinationbased charging
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ Following a recent meeting with key personnel, the following has been confirmed:
 
 completion of the requisite procurement process.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -494,7 +494,7 @@ in January.
 
 **17.Question submitted by Councillor D. McSweeney**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -572,7 +572,7 @@ considered as part of specific projects there.
 
 ***f)**To date has the contractor incurred any delays.***
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -652,7 +652,7 @@ Members informed once the National Transport Authority (NTA) 2024 funding alloca
 
 has been announced.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -728,7 +728,7 @@ discuss the issues involved relating to these railway line works.
 
 ***acknowledges and supports the Athlunkard Street 200 year anniversary celebrations.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -796,7 +796,7 @@ works progress in their location.
 
 Correspondence was noted and taken as read.
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -812,5 +812,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 

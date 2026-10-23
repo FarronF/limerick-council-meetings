@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Draft Minutes - Monthly Meeting of the Metropolitan District of Limerick -12th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-01/01%28a%29%20Draft%20Minutes%20-%20Monthly%20Meeting%20of%20the%20Metropolitan%20District%20of%20Limerick%20-12th%20December%202022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -94,7 +94,7 @@ highlighted the importance of gritting across the Metropolitan District area whe
 
 especially including around schools, the O’Connell Street and city centre area. They also queried
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -164,7 +164,7 @@ bring a Section 183 Notice to Full Council in this regard, for approval.
 
 The report, as circulated, was noted by Members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -234,7 +234,7 @@ for this scheme, and agreed to keep Members updated on the progress of this appl
 
 The report, as circulated, was noted by the Elected Members.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -312,7 +312,7 @@ quarter of 2023. Commencement of the main development contract is expected to fo
 
 through the ensuing summer months.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -390,7 +390,7 @@ To install a new footpath along this route, the widening of three existing struc
 
 be required i.e. an existing stone bridge that runs over a live watercourse, an under pass
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -472,7 +472,7 @@ determination and, subject to approval, proceed to construction of the scheme in
 
 of the scheme will be presented during the planning consultation mentioned above.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -544,7 +544,7 @@ agreed.
 
 In proposing the Motion, Councillor Leddin referred to the importance of carrying out maintenance
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -628,7 +628,7 @@ If crime levels are deemed sufficiently high, this becomes the starting point of
 
 official process.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -712,7 +712,7 @@ Gaelscoil Sairséal (Cray Lane) school over the last twelve months with a view t
 
 use now as it is vacant and the owner is keen to look at potential uses including office.
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -758,5 +758,5 @@ This concluded the Meeting.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 

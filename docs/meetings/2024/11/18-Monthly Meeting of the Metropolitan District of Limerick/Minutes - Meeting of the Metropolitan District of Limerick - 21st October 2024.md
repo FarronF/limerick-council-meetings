@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Metropolitan District of Limerick - 21st October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-11/01-draft-minutes-monthly-meeting-21st-october-2024.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE METROPOLITAN DISTRICT OF**
 
@@ -104,7 +104,7 @@ The proposed breakdown was outlined as follows:
 
 **88,000**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -194,7 +194,7 @@ The Revised Schedule with the Proposed Amendments is as follows:
 
 **800,000**
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -266,7 +266,7 @@ Development Directorate, dated 10th October, 2024, setting out proposals for Dis
 
 Meat Market Lane, Limerick, for the consideration of acquiring 50, St. Munchin’s Street, St.
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -342,7 +342,7 @@ licensed operator for a Shared E-Scooter Scheme, so as to gauge feedback and res
 
 confirmed that the preference would be to have the Bye-Laws in place as the Council would then
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -408,7 +408,7 @@ And Resolved:
 
 of the Planning and Development Act 2000 (as amended) and Section 11 of the Roads Act 1993”.
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,7 +490,7 @@ time deep cleaning works on the entire area of the upgraded public realm on
 
 O’Connell Street.
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 
 7
 
@@ -612,7 +612,7 @@ the 1st October, 2024 is 2899.
 
 Boarding Kennels. Actual Breeders includes Breeder’s only.
 
-[[PAGE_END:7]]
+<span data-pagefind-ignore>[[PAGE_END:7]]</span>
 
 8
 
@@ -698,7 +698,7 @@ not interfere with the hazardous chemicals and put any danger to us landowners /
 
 anyone working on the grounds of canal etc.
 
-[[PAGE_END:8]]
+<span data-pagefind-ignore>[[PAGE_END:8]]</span>
 
 9
 
@@ -774,7 +774,7 @@ review may offer potential for more inclusive solutions in the future.
 
 ***Roundabout in Lisnagry.***
 
-[[PAGE_END:9]]
+<span data-pagefind-ignore>[[PAGE_END:9]]</span>
 
 10
 
@@ -854,7 +854,7 @@ registered veterinarian always carries out any euthanasia required in the Dog Sh
 
 ***is aware of any other dates where the emergency line was not covered***
 
-[[PAGE_END:10]]
+<span data-pagefind-ignore>[[PAGE_END:10]]</span>
 
 11
 
@@ -934,7 +934,7 @@ soon as possible.
 
 **REPLY**: A driver feedback sign was installed on the inbound approach to the Donoughmore
 
-[[PAGE_END:11]]
+<span data-pagefind-ignore>[[PAGE_END:11]]</span>
 
 12
 
@@ -1020,7 +1020,7 @@ We have had extensive liaison with the Mayor of Limerick John Moran and the NTA 
 
 ensure due consideration is given to aligning the Mayoral programme\objectives with the
 
-[[PAGE_END:12]]
+<span data-pagefind-ignore>[[PAGE_END:12]]</span>
 
 13
 
@@ -1120,7 +1120,7 @@ The number of dogs voluntarily surrendered to the shelter over the past five yea
 
 ***Ashbrook, Fortmary Park and the North Circular Road.***
 
-[[PAGE_END:13]]
+<span data-pagefind-ignore>[[PAGE_END:13]]</span>
 
 14
 
@@ -1202,7 +1202,7 @@ Delivery of civic festivals: St Patricks’ Festival, International Band Parade,
 
 Limerick, Christmas in Limerick, St Brigid’s Day; Deliver and administer Festival and Events grant call
 
-[[PAGE_END:14]]
+<span data-pagefind-ignore>[[PAGE_END:14]]</span>
 
 15
 
@@ -1300,7 +1300,7 @@ Investment Team by the end of the year. A capital funding application was made i
 
 to the Department of Tourism, Culture, Arts, Gaeltacht Sport and Media and response is awaited.
 
-[[PAGE_END:15]]
+<span data-pagefind-ignore>[[PAGE_END:15]]</span>
 
 16
 
@@ -1386,7 +1386,7 @@ Festival and Events Scheme. This year’s competitive grant scheme offered the o
 
 funding under three Strands, for Festival and Events taking place from 1st October 2024 to 30th
 
-[[PAGE_END:16]]
+<span data-pagefind-ignore>[[PAGE_END:16]]</span>
 
 17
 
@@ -1470,7 +1470,7 @@ which are causing hazardous conditions. Members agreed with the importance that 
 
 hedging in estates be dealt with where they become an issue in an area.
 
-[[PAGE_END:17]]
+<span data-pagefind-ignore>[[PAGE_END:17]]</span>
 
 18
 
@@ -1550,7 +1550,7 @@ Health, the Health Service Executive, the criminal justice sector (the Probation
 
 Prison Service), Local Authorities and NGO providers.
 
-[[PAGE_END:18]]
+<span data-pagefind-ignore>[[PAGE_END:18]]</span>
 
 19
 
@@ -1636,7 +1636,7 @@ conjunction with our HSE partners and other stakeholders. This is under ongoing 
 
 ***to Irish Rail asking for compensation for homes within the Metropolitan District which are***
 
-[[PAGE_END:19]]
+<span data-pagefind-ignore>[[PAGE_END:19]]</span>
 
 20
 
@@ -1714,7 +1714,7 @@ It was agreed to refer this Notice of Motion to the Travel and Transportation St
 
 Committee.
 
-[[PAGE_END:20]]
+<span data-pagefind-ignore>[[PAGE_END:20]]</span>
 
 21
 
@@ -1792,7 +1792,7 @@ along the general area of the 3 Bridges route in the Limerick City area.
 
 ***Waterways Ireland and ask them to attend a meeting of the Metropolitan District of Limerick to***
 
-[[PAGE_END:21]]
+<span data-pagefind-ignore>[[PAGE_END:21]]</span>
 
 22
 
@@ -1876,7 +1876,7 @@ collaboration.
 
 ***vacant spaces in the city centre in the run up to the Christmas season.***
 
-[[PAGE_END:22]]
+<span data-pagefind-ignore>[[PAGE_END:22]]</span>
 
 23
 
@@ -1958,7 +1958,7 @@ Councillor O’Sullivan acknowledged the support received from all the Members f
 
 She also agreed with the feedback from the Members in relation to additional amendments. The
 
-[[PAGE_END:23]]
+<span data-pagefind-ignore>[[PAGE_END:23]]</span>
 
 24
 
@@ -2046,7 +2046,7 @@ review by Limerick City and County Council in line with Development Plan Objecti
 
 Limerick City and County Council is also exploring other potential route options to improve
 
-[[PAGE_END:24]]
+<span data-pagefind-ignore>[[PAGE_END:24]]</span>
 
 25
 
@@ -2136,7 +2136,7 @@ Prioritisation, development and specification of project proposals to create a p
 
 investment-ready built heritage refurbishment, renovation and adaptive reuse projects,
 
-[[PAGE_END:25]]
+<span data-pagefind-ignore>[[PAGE_END:25]]</span>
 
 26
 
@@ -2168,5 +2168,5 @@ This concluded the Meeting.
 
 **Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-[[PAGE_END:26]]
+<span data-pagefind-ignore>[[PAGE_END:26]]</span>
 

@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes – Meeting of the Home and Social Strategic Policy Committee – 12th April 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Minutes%E2%80%93Meeting-of-the-Home-and-Social-Strategic-Policy-Committee%E2%80%9312th-April-2023.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 1
 
@@ -100,7 +100,7 @@ Ms. Caroline Curley, Director of Service communicated the protocol for the SPC m
 
 **Item 2: Matters arising from the Minutes**
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 2
 
@@ -172,7 +172,7 @@ explained that the Approved Housing Bodies Regulatory Authority (AHBRA) establis
 
 housing bodies available from AHBRA.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 3
 
@@ -246,7 +246,7 @@ Table 1: Affordable Pipeline as at 2023
 
 (Image omitted)
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 
 4
 
@@ -326,7 +326,7 @@ south of Carey’s Road for approximately 270 units. We are programming an expec
 
 of 2026 and this is indicated in the Housing Delivery Action Plan for Limerick.
 
-[[PAGE_END:4]]
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
 
 5
 
@@ -412,7 +412,7 @@ notice to quit at ease. Ms Curley advised that the properties should be in a goo
 
 will seek additional funding for refurbishment from the DHLGH where required. Mr. Curley advised
 
-[[PAGE_END:5]]
+<span data-pagefind-ignore>[[PAGE_END:5]]</span>
 
 6
 
@@ -490,5 +490,5 @@ An Cathaoirleach, Cllr. Stephen Keary thanked everyone who attended the SPC.
 
 **END OF MEETING**
 
-[[PAGE_END:6]]
+<span data-pagefind-ignore>[[PAGE_END:6]]</span>
 

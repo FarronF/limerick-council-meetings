@@ -18,7 +18,7 @@ file_type: "Minutes"
 
 **Original file:** [Minutes - Meeting of the Economic Development, Enterprise and Planning SPC - 17th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/minutes-of-spc-17th-feb-2020_0.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 **MINUTES OF PROCEEDINGS OF MEETING OF THE ECONOMIC DEVELOPMENT, ENTERPRISE**
 
@@ -84,7 +84,7 @@ no longer a member of the committee. However, he stated that the matter regardin
 
 Buildings Strategy will be dealt with in Item 4.
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
 **Item 3**
 
@@ -172,7 +172,7 @@ Infrastructure, Recreation & Social, Economic Development and Climate Change. Wo
 
 and training will be provided for elected members.
 
-[[PAGE_END:2]]
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
 
 She also updated members on the following:
 
@@ -248,5 +248,5 @@ That concluded the business of the meeting.
 
 **Chairperson**
 
-[[PAGE_END:3]]
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
 

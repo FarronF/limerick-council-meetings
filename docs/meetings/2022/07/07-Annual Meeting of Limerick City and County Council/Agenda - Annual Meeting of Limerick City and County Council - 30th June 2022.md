@@ -18,7 +18,7 @@ file_type: "Agenda"
 
 **Original file:** [Agenda - Annual Meeting of Limerick City and County Council - 30th June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda%20-%20Annual%20Meeting%2030.06.2022.pdf)
 
-[[FILE_START]]
+<span data-pagefind-ignore>[[FILE_START]]</span>
 
 *<small>Scanned page, text may contain errors. See original file for clarity</small>*  
 
@@ -75,5 +75,5 @@ Corporate Headquarters, Merchants Quay, Limerick 061 - $57150
 
 
 
-[[PAGE_END:1]]
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
 
