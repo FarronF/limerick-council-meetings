@@ -2,6 +2,7 @@
   visibility: collapse;
 }
 
-.pf-sidebar-title {
-  margin: 0;
+.pf-filter-header-bar .pf-sidebar-title {
+  margin-top: 0;
+  margin-bottom: 0;
 }
