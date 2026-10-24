@@ -75,8 +75,33 @@
     align-items: baseline;
     gap: 0.5rem;
     margin: 0.4rem 0;
+    padding: 0.2rem;
     cursor: pointer;
     line-height: 1.3;
+  }
+
+  .pf-option:focus-within {
+    outline: 3px solid var(--md-accent-fg-color, #526cfe);
+    outline-offset: 2px;
+    border-radius: 3px;
+    background: var(--md-accent-fg-color--transparent, rgba(82, 108, 254, 0.12));
+  }
+
+  .pf-option input {
+    accent-color: var(--md-accent-fg-color, #526cfe);
+  }
+
+  .pf-sidebar summary:focus-visible {
+    outline: 3px solid var(--md-accent-fg-color, #526cfe);
+    outline-offset: 2px;
+    position: relative;
+    z-index: 1;
+  }
+
+  .pf-keyboard-hint {
+    margin: 0 0 0.75rem;
+    font-size: 0.82rem;
+    opacity: 0.8;
   }
 
   .pf-count {
@@ -227,6 +252,7 @@
       <h2 class="pf-sidebar-title">Filters</h2>
       <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all filters</button>
     </div>
+    <p class="pf-keyboard-hint" id="pf-filter-keyboard-hint">Tab to a filter group, then use the up and down arrow keys to move between options. Press Space to toggle an option.</p>
 
     <!-- Accordion Shell for Mobile Viewports -->
     <details class="pf-main-filter-wrapper" id="pf-mobile-wrapper" open>
@@ -330,6 +356,9 @@
 
       const listDiv = document.createElement('div');
       listDiv.className = 'pf-filter-list';
+      listDiv.setAttribute('role', 'group');
+      listDiv.setAttribute('aria-label', cfg.title);
+      listDiv.setAttribute('aria-describedby', 'pf-filter-keyboard-hint');
 
       const entries = Object.entries(filters[catKey]);
 
@@ -378,9 +407,42 @@
         });
       }
 
+      setRovingTabIndex(listDiv);
       details.appendChild(listDiv);
       container.appendChild(details);
     });
+
+    container.addEventListener('keydown', handleFilterArrowKeys);
+    container.addEventListener('focusin', event => {
+      const checkbox = event.target.closest('.pf-filter-list input[type="checkbox"]');
+      if (checkbox) setRovingTabIndex(checkbox.closest('.pf-filter-list'), checkbox);
+    });
+  }
+
+  function setRovingTabIndex(group, activeCheckbox = null) {
+    const checkboxes = group.querySelectorAll('input[type="checkbox"]');
+    const active = activeCheckbox || checkboxes[0];
+
+    checkboxes.forEach(checkbox => {
+      checkbox.tabIndex = checkbox === active ? 0 : -1;
+    });
+  }
+
+  function handleFilterArrowKeys(event) {
+    if (event.key !== 'ArrowDown' && event.key !== 'ArrowUp') return;
+
+    const checkbox = event.target.closest('.pf-filter-list input[type="checkbox"]');
+    if (!checkbox) return;
+
+    const group = checkbox.closest('.pf-filter-list');
+    const checkboxes = Array.from(group.querySelectorAll('input[type="checkbox"]'));
+    const currentIndex = checkboxes.indexOf(checkbox);
+    const offset = event.key === 'ArrowDown' ? 1 : -1;
+    const nextIndex = (currentIndex + offset + checkboxes.length) % checkboxes.length;
+
+    event.preventDefault();
+    setRovingTabIndex(group, checkboxes[nextIndex]);
+    checkboxes[nextIndex].focus();
   }
 
   function createCheckboxLabel(catKey, val, count) {
