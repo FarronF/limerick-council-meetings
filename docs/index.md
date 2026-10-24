@@ -245,8 +245,8 @@
         <span>Sort by</span>
         <select id="pf-sort">
           <option value="relevance">Relevance</option>
-          <option value="newest">Newest upload date</option>
-          <option value="oldest">Oldest upload date</option>
+          <option value="newest">Newest meeting date</option>
+          <option value="oldest">Oldest meeting date</option>
         </select>
       </label>
     </div>
@@ -262,6 +262,7 @@
 
 <script type="module">
   let pagefind;
+  let searchResults = [];
   let allResults = [];
   let currentRenderCount = 20;
   let debounceTimer = null;
@@ -288,7 +289,7 @@
         debounceTimer = setTimeout(() => runSearch(), 250);
       });
 
-      document.getElementById('pf-sort').addEventListener('change', () => runSearch());
+      document.getElementById('pf-sort').addEventListener('change', sortCurrentResults);
       document.getElementById('pf-filters-container').addEventListener('change', () => runSearch(true));
       document.getElementById('pf-clear-all').addEventListener('click', clearAllFilters);
       document.getElementById('pf-load-more-btn').addEventListener('click', loadMoreResults);
@@ -395,6 +396,38 @@
   }
 
   let searchSequence = 0;
+  let renderSequence = 0;
+
+  function getMeetingDate(result) {
+    const match = result.url.match(/\/(\d{4})\/(\d{2})\/(\d{2})-/);
+    return match ? `${match[1]}-${match[2]}-${match[3]}` : '';
+  }
+
+  function sortResults(results) {
+    const sortValue = document.getElementById('pf-sort').value;
+    const sortedResults = results.slice();
+
+    if (sortValue === "relevance") return sortedResults;
+
+    return sortedResults.sort((a, b) => {
+      const dateA = getMeetingDate(a);
+      const dateB = getMeetingDate(b);
+
+      if (!dateA && !dateB) return 0;
+      if (!dateA) return 1;
+      if (!dateB) return -1;
+
+      return sortValue === "newest"
+        ? dateB.localeCompare(dateA)
+        : dateA.localeCompare(dateB);
+    });
+  }
+
+  function sortCurrentResults() {
+    allResults = sortResults(searchResults);
+    currentRenderCount = 20;
+    renderResultsSlice();
+  }
 
   async function runSearch(isFilterChange = false) {
     const currentSequence = ++searchSequence;
@@ -429,18 +462,15 @@
     };
 
     const mainFormattedFilters = formatFiltersObj(rawFilters);
-    const sortValue = document.getElementById('pf-sort').value;
-    const searchOptions = { filters: mainFormattedFilters };
-    if (sortValue !== "relevance") {
-      searchOptions.sort = { date: sortValue === "newest" ? "desc" : "asc" };
-    }
-
     try {
-      const response = await pagefind.search(query || null, searchOptions);
+      const response = await pagefind.search(query || null, {
+        filters: mainFormattedFilters
+      });
 
       if (currentSequence !== searchSequence) return;
 
-      allResults = response.results;
+      searchResults = response.results;
+      allResults = sortResults(searchResults);
       currentRenderCount = 20;
 
       document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
@@ -498,6 +528,8 @@
   }
 
   async function renderResultsSlice() {
+    const currentRenderSequence = ++renderSequence;
+    const renderCount = currentRenderCount;
     const container = document.getElementById('pf-results');
     const loadMoreBtn = document.getElementById('pf-load-more-btn');
 
@@ -511,8 +543,10 @@
       return;
     }
 
-    const batch = allResults.slice(currentRenderCount - 20, currentRenderCount);
+    const batch = allResults.slice(renderCount - 20, renderCount);
     const loadedData = await Promise.all(batch.map(item => item.data()));
+
+    if (currentRenderSequence !== renderSequence) return;
 
     loadedData.forEach(item => {
       const card = document.createElement('div');
@@ -523,13 +557,13 @@
 
       card.innerHTML = `
         <h3 style="margin-bottom: 0.2rem;"><a href="${item.url}">${title}</a></h3>
-        ${fullDate ? `<div style="font-size: 0.82rem; opacity: 0.75; margin-bottom: 0.6rem;">Uploaded: <strong>${fullDate}</strong></div>` : ''}
+        ${fullDate ? `<div style="font-size: 0.82rem; opacity: 0.75; margin-bottom: 0.6rem;">Meeting date: <strong>${fullDate}</strong></div>` : ''}
         <p style="margin:0; font-size: 0.9em; line-height: 1.4;">${item.excerpt}</p>
       `;
       container.appendChild(card);
     });
 
-    loadMoreBtn.style.display = allResults.length > currentRenderCount ? 'block' : 'none';
+    loadMoreBtn.style.display = allResults.length > renderCount ? 'block' : 'none';
   }
 
   function loadMoreResults() {
