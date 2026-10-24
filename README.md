@@ -8,7 +8,7 @@ The purpose of this repo is to allow easy searching of the contents of these PDF
 
 ## Last Update
 
-2026-09-08
+2026-10-24
 All agendas and minutes PDFs uploaded to this date parsed and uploaded here.
 
 ## Why?
