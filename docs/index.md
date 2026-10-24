@@ -92,16 +92,14 @@
   }
 
   .pf-sidebar summary:focus-visible {
-    outline: 3px solid var(--md-accent-fg-color, #526cfe);
+    outline: 2px solid var(--md-accent-fg-color, #526cfe);
     outline-offset: 2px;
+    border-radius: 3px;
+    background: var(--md-accent-fg-color--transparent, rgba(82, 108, 254, 0.12));
+    color: var(--md-accent-fg-color, #526cfe);
+    box-shadow: 0 0 0 2px var(--md-default-bg-color, #fff);
     position: relative;
     z-index: 1;
-  }
-
-  .pf-keyboard-hint {
-    margin: 0 0 0.75rem;
-    font-size: 0.82rem;
-    opacity: 0.8;
   }
 
   .pf-count {
@@ -252,8 +250,6 @@
       <h2 class="pf-sidebar-title">Filters</h2>
       <button id="pf-clear-all" class="pf-clear-btn" style="display:none;">Clear all filters</button>
     </div>
-    <p class="pf-keyboard-hint" id="pf-filter-keyboard-hint">Tab to a filter group, then use the up and down arrow keys to move between options. Press Space to toggle an option.</p>
-
     <!-- Accordion Shell for Mobile Viewports -->
     <details class="pf-main-filter-wrapper" id="pf-mobile-wrapper" open>
       <summary>Filters</summary>
@@ -358,7 +354,7 @@
       listDiv.className = 'pf-filter-list';
       listDiv.setAttribute('role', 'group');
       listDiv.setAttribute('aria-label', cfg.title);
-      listDiv.setAttribute('aria-describedby', 'pf-filter-keyboard-hint');
+      listDiv.tabIndex = -1;
 
       const entries = Object.entries(filters[catKey]);
 
