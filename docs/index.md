@@ -106,8 +106,24 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
     margin-bottom: 1rem;
     font-size: 0.9rem;
+  }
+
+  .pf-sort-control {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .pf-sort-control select {
+    padding: 0.35rem 0.5rem;
+    border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+    border-radius: 4px;
+    background: var(--md-default-bg-color, #fff);
+    color: var(--md-default-fg-color, #000);
   }
 
   .pf-clear-btn {
@@ -225,6 +241,14 @@
   <div class="pf-main">
     <div class="pf-meta-bar">
       <span id="pf-stats">Initializing index...</span>
+      <label class="pf-sort-control" for="pf-sort">
+        <span>Sort by</span>
+        <select id="pf-sort">
+          <option value="relevance">Relevance</option>
+          <option value="newest">Newest upload date</option>
+          <option value="oldest">Oldest upload date</option>
+        </select>
+      </label>
     </div>
     <div id="pf-results"></div>
     <button id="pf-load-more-btn" class="pf-load-more" style="display:none;">Load More Results</button>
@@ -264,6 +288,7 @@
         debounceTimer = setTimeout(() => runSearch(), 250);
       });
 
+      document.getElementById('pf-sort').addEventListener('change', () => runSearch());
       document.getElementById('pf-filters-container').addEventListener('change', () => runSearch(true));
       document.getElementById('pf-clear-all').addEventListener('click', clearAllFilters);
       document.getElementById('pf-load-more-btn').addEventListener('click', loadMoreResults);
@@ -404,11 +429,14 @@
     };
 
     const mainFormattedFilters = formatFiltersObj(rawFilters);
+    const sortValue = document.getElementById('pf-sort').value;
+    const searchOptions = { filters: mainFormattedFilters };
+    if (sortValue !== "relevance") {
+      searchOptions.sort = { date: sortValue === "newest" ? "desc" : "asc" };
+    }
 
     try {
-      const response = await pagefind.search(query || null, { 
-        filters: mainFormattedFilters
-      });
+      const response = await pagefind.search(query || null, searchOptions);
 
       if (currentSequence !== searchSequence) return;
 
