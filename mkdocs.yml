@@ -13,7 +13,8 @@ plugins:
       delimiter: ' > '
       log_level: 'WARNING'
       generate_home_index: false
-      use_page_titles: false
+      use_page_titles: true
+      home_text: Limerick Council Meetings
 
 markdown_extensions:
   - toc:
