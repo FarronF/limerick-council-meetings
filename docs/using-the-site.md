@@ -18,6 +18,8 @@ Use the filters beside the results to narrow your search. You can select more th
 
 Filter counts update as you search. Faded options have no matches for the current search and selections. Choose **Clear all filters** to remove selected filters; this does not erase the search text.
 
+For keyboard navigation, press Tab to move through the filter groups and into each group's checkboxes. Use the up and down arrow keys to move between options in a group, and press Space to toggle the focused checkbox.
+
 Results show a document title, meeting date, and a text excerpt. Select a title to open the record. If there are more than 20 results, choose **Load More Results** to display the next set.
 
 Use **Sort by** above the results to order them by relevance (the default), newest meeting date, or oldest meeting date.
