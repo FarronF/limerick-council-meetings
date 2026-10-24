@@ -2,7 +2,7 @@ name: Deploy Search Site
 
 on:
   push:
-    branches: [pagefind]
+    branches: [main]
 
 permissions:
   contents: read
