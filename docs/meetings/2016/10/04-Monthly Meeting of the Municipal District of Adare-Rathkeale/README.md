@@ -1,0 +1,42 @@
+---
+title: "Monthly Meeting of the Municipal District of Adare-Rathkeale"
+date: 2016-10-04
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Monthly Meeting of the Municipal District of Adare-Rathkeale</span>
+<span data-pagefind-meta="date" style="display:none;">2016-10-04</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
+
+# Monthly Meeting of the Municipal District of Adare-Rathkeale
+
+**Date and Time:** 2016-10-04 09:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-adare-rathkeale-7)**
+
+Files: 
+
+Agenda - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_agenda_4th_october2c_2016.pdf) - Text not extracted
+
+Minutes - Meeting of the Municipal District of Adare-Rathkeale - 13th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_minutes_13th_september2c_2016.pdf) - Text not extracted
+
+Disposal of Land Corgrig, Foynes - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/03_disposal_of_land_corgrig2c_foynes.pdf) - Text not extracted
+
+Update on Taking in Charge of An Curran, Pallaskenry - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/4_b_update_on_taking_in_charge_of_an_curran2c_pallaskenry.pdf) - Text not extracted
+
+Update on Sewerage Treatment Plant in Askeaton - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/05_update_on_sewerage_treatment_plant_in_askeaton_0.pdf) - Text not extracted
+
+Correspondence - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/16_correspondence_updated.pdf) - Text not extracted
+
+Replies to Questions - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/replies_to_questions_-_meeting_of_the_municipal_district_of_adare-rathkeale_-_4th_october_2016.pdf) - Text not extracted
+
+Replies to Notice of Motion - Meeting of the Municipal District of Adare-Rathkeale – 4th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/18_replies_to_notice_of_motion_october_meeting.pdf) - Text not extracted
+

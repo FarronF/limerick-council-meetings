@@ -1,0 +1,68 @@
+---
+title: "Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 1st June 2016"
+date: 2016-06-01
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 1st June 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-06-01</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-06</span>
+
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Adare-Rathkeale - 1st June 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%201st%20June%202016.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+Ne ya Cé na gCeannaithe,
+—=>=> Luimneach
+Limerick Corporate Services and Change Management,
+CITY & COUNTY Limerick City and ort Councl
+COUNCIL ercl ee
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
+
+26" May, 2016.
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Municipal District of Adare-Rathkeale to be held
+at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 1" June, 2016 at 9.00 a.m.
+The business to be transacted is set out on the appended Agenda.
+
+Is a le meas,
+
+0 illagl
+
+—Fom O'Callaghan
+Meetings Administrator.
+AGENDA
+1. To elect a Cathaoirleach of the Municipal District of Adare-Rathkeale to hold office until the next
+
+Annual Meeting or until a successor has been elected.
+
+2 To elect a Leas-Chathaoirleach of the Municipal District of Adare-Rathkeale to hold office until
+the next Annual Meeting or until a successor has been elected.
+
+l = customerservices@limerick.te
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © vee limerick.te
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

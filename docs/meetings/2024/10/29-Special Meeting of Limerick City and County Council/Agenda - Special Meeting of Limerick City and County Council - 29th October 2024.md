@@ -1,0 +1,104 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 29th October 2024"
+date: 2024-10-29
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 29th October 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-10-29</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-and-requisition-special-meeting-29.10.2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+-  ——_ Comhairle Cathrach
+& Contae Luimnigh
+AN ~S ——_ _ 7—
+
+— Limerick City
+& County Council
+
+25" October, 2024.
+
+Sembhisi Corparaideacha,
+
+Comhatrte Cathrach agus Contae Luimnigh,
+Ceanncheathru Chorperaidesch,
+
+Cé na gCeannaithe,
+
+Lummneach
+
+Corporate Services.
+
+Limerick City and County Council,
+Corporate Headquarters,
+Merchants Quay.
+
+Limerick
+
+EIRCODE V94 ENS90
+
+t: +353 (0) 61 557150
+f: +353 (0) 61 415 266
+
+To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and
+
+County Council
+
+A Chomhairleoir, a chara,
+
+The Priomh Chomhairleoir, Councillor Dan McSweeney, has called a Special Meeting of
+Limerick City and County Council, to be held in the Council Chamber, Dooradoyle, Limerick,
+
+and Online, on Tuesday, 29” October, 2024, at 4.00 p.m.., in order to discuss the issue as set
+out in the attached Requisition in relation to the International Rugby Experience.
+
+Is mise le meas,
+
+Caneel)
+
+Ciara Farrell,
+Meetings Administrator.
+
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+(Copy of Requisition attached)
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Sent: Thursday, October 24, 2024 10:18 PM
+Subject: Special Meeting
+
+We the undersigned councillors wish to call a special meeting with a single item agenda of
+The International Rugby Experience at the carliest possible convenience.
+
+Daniel Butler
+Dan McSweeney
+Sarah Kiely
+Peter Doyle
+Olivia O'Sullivan
+
+Regards,
+Cllr Daniel Butler
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

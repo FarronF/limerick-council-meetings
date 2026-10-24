@@ -1,0 +1,82 @@
+---
+title: "Agenda - Annual Meeting of the Municipal District of Newcastle West - 10th June 2020"
+date: 2020-06-10
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of the Municipal District of Newcastle West - 10th June 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-06-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
+
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 10th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-2020-06-10-agenda-agm.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+hairle Cathrach Dutiche Bardais an Chaisledin Nua Thiar,
+_—_—_ pas belitl Luinmioh Comhairle Cathrach agus Contae Luimnigh,
+
+Aras William Smith O'Brien.
+a a ‘
+
+Gortbut,
+
+Limerick City An Caislean Nua Thier,
+
+= & County Council Co. Luimnagh,
+Newcastle West Municipal District,
+
+Limenck City and County Council,
+Aras William Smith O'Brien.
+Gortboy,
+
+Newcastle West,
+
+Co. Limerick.
+
+Eircode: V42EH73
+t: +353 (0) 69 62100
+5th June, 2020
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Municipal District of Newcastle West
+to be held at Aras William Smith OBrien, Newcastle West, Co. Limerick on
+
+Wednesday, 10" June, 2020, at 11.30am. The business to be transacted is set out on the
+appended Agenda.
+
+Is mise le meas,
+
+Abpea t Cte tt-
+ie Cores
+Meetings Administrator.
+
+AGENDA
+
+1. To elect a Cathaoirleach of the Municipal District of Newcastle West to hold office until
+the next Annual Meeting or until a successor has been elected.
+
+2. To elect a Leas-Cathaoirleach of the Municipal District of Newcastle West to hold
+office until the next Annual Meeting or until a successor has been elected.
+
+@& custormerservices@limerick.ic
+Ceanncheathrii Chorpardideach, Cé na gCeannaithe, Luimneach © vvowsimerick.ie
+Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
+
+( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

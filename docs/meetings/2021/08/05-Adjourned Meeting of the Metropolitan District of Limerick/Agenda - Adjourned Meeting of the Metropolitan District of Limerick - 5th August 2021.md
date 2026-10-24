@@ -1,0 +1,83 @@
+---
+title: "Agenda - Adjourned Meeting of the Metropolitan District of Limerick - 5th August 2021"
+date: 2021-08-05
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Adjourned Meeting of the Metropolitan District of Limerick - 5th August 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-08-05</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-08</span>
+
+**Original file:** [Agenda - Adjourned Meeting of the Metropolitan District of Limerick - 5th August 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-08/00-agenda-adjourned-meeting-of-the-metropolitan-district-of-limerick-05.08.2021-.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+eile Limerick Ci
+— merick City
+& County Council
+
+ee Comhairle Cathrach
+= & Contae Luimnigh
+
+29" July, 2021.
+
+Serbhisi Corparaideacha,
+
+Comhairle Cathvach agus Contae Luimnigh,
+Ceanncheathra Chorparaideach,
+
+Cé na gCeannaithe,
+
+Luimneach
+
+Corporate Services,
+
+Limerick City and County Council,
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH90
+
+t: +353 (0) 61 57150
+f: +353 (0) 61 415 266
+
+A Chomhairleoir, a chara,
+
+You are =—_— bed oe the Adjourned oe of the techie District of Limerick, to be
+
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Kena Ul
+
+Fiona McCormack,
+Meeting Administrator.
+
+To consider the Chief Executive's Report pursuant to Section 179 3(a) of the Planning and
+Development Act 2000 (as amended) and Part 8 of the Planning and Development Regulations, 2001
+(as amended) in relation to the proposed residential development at Dromdarrig, Mungret,
+
+Limerick.
+(Report Enclosed).
+=m Customerservices@limerick.ie
+© vewwlimerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

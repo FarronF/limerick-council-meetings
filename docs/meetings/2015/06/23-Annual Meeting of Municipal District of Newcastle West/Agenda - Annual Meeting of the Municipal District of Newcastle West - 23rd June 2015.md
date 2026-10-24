@@ -1,0 +1,76 @@
+---
+title: "Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2015"
+date: 2015-06-23
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-06-23</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
+
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20the%20Municipal%20District%20of%20Newcastle%20West%20-%2023rd%20June%202015.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+al Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+e Cé na gCeannaithe,
+
+— Luimneach
+
+Limerick Corporate Services and Change Management,
+
+CITY & COUNTY Limerick City and County Council,
+
+COUNCIL Merchants Quay
+meri
+
+t: +353 (0) 61 407 100
+f: 4353 (0) 61 415 266
+
+18th, June, 2015.
+
+To: The Cathaoirleach and Each Member of the Municipal District
+of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Municipal District of Newcastle West to
+be held at, Aras William Smith OBrien, Newcastle West, Co.Limerick on Tuesday, 23 June,
+2015, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
+
+oe eee
+
+Is mise le meas,
+finaKnowe’?
+Meetings Administrator.
+
+eccecewrennneecncnccccccccccssccseseeeeeeseseeesssssssssssssseees sneer s sees se see seen seas eee SSO SSS S SESS SOTTO Oe OOOO Oe
+
+AGENDA
+
+4. To elect a Cathaoirleach of the Municipal District of Newcastle West to hold office until
+the next Annual Meeting or until a successor has been elected.
+
+2. To elect a Leas-Chathaoirleach of the Municipal District of Newcastle West to hold office
+until the next Annual Meeting or until a successor has been elected.
+
+@ customerservices@limerick.ie
+Ceanncheathri Chorparéideach, Cé na gCeannaithe, Luimneach oe vewewstimerick.te
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

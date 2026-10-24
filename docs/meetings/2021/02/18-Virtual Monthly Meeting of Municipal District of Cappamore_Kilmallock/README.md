@@ -1,0 +1,34 @@
+---
+title: "Virtual Monthly Meeting of Municipal District of Cappamore/Kilmallock"
+date: 2021-02-18
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Virtual Monthly Meeting of Municipal District of Cappamore/Kilmallock</span>
+<span data-pagefind-meta="date" style="display:none;">2021-02-18</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
+
+# Virtual Monthly Meeting of Municipal District of Cappamore/Kilmallock
+
+**Date and Time:** 2021-02-18 15:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-67)**
+
+Files: 
+
+Agenda - Monthly Meeting of Municipal District of Cappamore/Kilmallock - 18th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/1.-agenda-18th-february-md-meeting-final.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20Municipal%20District%20of%20Cappamore_Kilmallock%20-%2018th%20February%202021.md)
+
+Minutes -  Monthly Meeting of Municipal District of Cappamore/Kilmallock - 10th December 2020.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/2.-minutes-of-10th-december-md-meeting.pdf) - [Extracted text](./Minutes%20-%C2%A0%C2%A0Monthly%20Meeting%20of%20Municipal%20District%20of%20Cappamore_Kilmallock%20-%2010th%20December%202020.md)
+
+Replies to Questions - Monthly Meeting of Municipal District of Cappamore/Kilmallock - 18th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/replies-to-questions-cappamore-kilmallock-municipal-district-18.2.21.pdf) - Text not extracted
+
+Replies to Notices of Motion - Monthly Meeting of Municipal District of Cappamore/Kilmallock - 18th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-02/replies-to-notices-of-motion-cappamore-kilmallock-municipal-district-18.pdf) - Text not extracted
+

@@ -1,0 +1,58 @@
+---
+title: "Agenda - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 10th July 2023"
+date: 2023-07-10
+council_body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 10th July 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-07-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-07</span>
+
+**Original file:** [Agenda - Meeting of the Economic Development Enterprise and Planning Strategic Policy Committee - 10th July 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-06/Agenda-Meeting-of-the-Economic-Development-Enterprise-and-Planning-Strategic-Policy-Committee-10th-July-2023.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+26th **June 2023**
+
+**To / Each Member of the Economic Development, Enterprise and Planning SPC**
+
+Dear Member,
+
+A meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee will be
+
+held **on Monday, 10th July at 4.00pm in Council Chamber, Dooradoyle and Online.**
+
+The Agenda is as set out hereunder and your attendance at this meeting is requested
+
+1. Adoption of Minutes from the Economic Development, Enterprise and Planning SPC meeting of
+
+24th April, 2023 (copy attached)
+
+1.(b) Chairperson inform committee of changes
+
+2.Update on Planning Circulars – Development Contributions waiver
+
+3. Presentation from Construction Industry Federation
+
+4. Presentation on Climate Action Plan
+
+5. Presentation from LEO on Green for Micro
+
+6. Any Other Business
+
+Yours sincerely
+
+***Cecilia Larkin,***
+
+***Planning, Environment and Place-Making Directorate***
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

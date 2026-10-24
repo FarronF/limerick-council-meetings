@@ -1,0 +1,70 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 19th May 2026"
+date: 2026-05-19
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 19th May 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-05-19</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-05</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 19th May 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-05/agenda-special-meeting-of-limerick-city-and-county-council-19th-may-2026-1.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_ glare Comnairie Cathrach Sewbhisi Corparaideacha, Risiachais & Custaiméara
+i i Comhairie Cathrach & Contae Luimnigh
+& Contae Luimnigh. pp hecnah dip tpemcberree
+
+NING oe —————_—— Cé na gCeannaithe
+
+— Limerick City Luimneach, V94 EN90
+& County Counci!
+Corporate. Governance & Customer Services
+
+Limerick City and County Council
+Corporate Headquarters
+Merchant's Quay
+
+Limerick. V94 EH90
+
+t: 4353 (0) 61 557 150
+
+14" May, 2026.
+
+To: The Mayor, Priomh Chomhairleoir and Each Member of Limerick City
+and County Council
+A Chomhairleoir, a chara,
+The Priomh Chomhairleoir, Councillor Catherine Slattery, has called a Special Meeting of
+Limerick City and County Council to be held in the Council Chamber, Dooradoyle and Online,
+on Tuesday, 19* May, 2026, at 1.30 p.m. The business to be transacted is set out below.
+
+Is mise le meas,
+
+(axed
+
+Ciara Farrell,
+Meetings Administrator.
+AGENDA
+1. Annual Service Delivery Plan 2026
+To consider the adoption of the Annual Service Delivery Plan 2026.
+
+(Report and Draft Annual Service Delivery Plan 2026 Enclosed)
+
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach www. limerick.ie
+Corporate Headquarters, Merchant's Quay, Limerick y *Coei- naaeae
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

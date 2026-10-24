@@ -1,0 +1,79 @@
+---
+title: "Agenda - Special Meeting of the Municipal District of Newcastle West - 12th December 2018"
+date: 2018-12-12
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Newcastle West - 12th December 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-12-12</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-12</span>
+
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 12th December 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-12/00%202018-12-12%20Agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Duiche Bardais an Chaisledin Nua Thiar,
+a Comhairle Cathrach agus Contae Luimnigh.
+
+An ff ™~ Aras William Smith O'Brien.
+— Gortbut,
+
+* . An Caislean Nua Thiar,
+Limerick Co, Luimnigh
+CITY & COUNTY Newcastle West Municipal District,
+COUNCIL Limerick City and County Council,
+Aras William Smith O'Brien,
+
+Gortboy,
+
+Newcastle West,
+
+Co. Limerick
+
+t: +353 (0) 69 62100
+4-+357161+-69-62861
+
+7" December, 2018
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
+A Chomhairleoir, a chara,
+You are requested to attend a Special Meeting of the Municipal District of Newcastle West to
+
+be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 12"
+December 2018, at 9 a.m. The business to be transacted is set out on the appended Agenda.
+
+Is mjge le meas, |
+Margaret Corbett,
+
+Meetings Administrator.
+
+AGENDA
+
+1. Capital Investments Directorate
+
+To consider the Chief Executive’s Report prepared pursuant to Section 179(3)(a) of
+the Planning and Development Acts, 2000-2017, as amended, and Part Vill of the
+Planning and Development Regulations, 2001-2018, as amended, in relation to the
+construction of 6 residential units at Colbert Terrace, Abbeyfeale, Co. Limerick.
+
+(Report Enclosed)
+
+@ customerservices@limerickite
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach @ woewlimerickie
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

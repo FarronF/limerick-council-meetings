@@ -1,0 +1,74 @@
+---
+title: "Agenda – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022"
+date: 2022-12-14
+council_body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-12-14</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-12</span>
+
+**Original file:** [Agenda – Meeting of the Home and Social Strategic Policy Committee – 14th December 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-12/Agenda%20%E2%80%93%20Meeting%20of%20the%20Home%20and%20Social%20Strategic%20Policy%20Committee%20%E2%80%93%2014th%20December%202022.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
+
+**DEVELOPMENT STRATEGIC POLICY COMMITTEE**
+
+A meeting of Limerick City and County Council Home and Social Development Strategic
+
+Policy Committee will be held in the Council Chamber, Dooradoyle and online on MS Teams
+
+on 14th December 2022
+
+**AGENDA**
+
+1. Confirm Minutes of the most recent meeting held on the 19th October 2022
+
+2. Matters arising from the Minutes
+
+3. Social Intervention Fund - Plans for funding after 2023 (PPN Linkage Group)
+
+4. Draft Housing One Rep Policy
+
+5. Reporting to SPC from HDSG (Housing Disability Strategic Group)
+
+6. Updates:
+
+-
+
+Update from Working Group on Vacancy
+
+-
+
+Draft Mid-West Homeless Plan 2022-2025
+
+-
+
+Draft Homeless Policy Document
+
+-
+
+Draft Anti-Social Behaviour Strategy
+
+**AOB**
+
+1) Discussion relating to right-sizing in terms of (i) reducing turn-around times
+
+and (ii) ensuring the household that is right-sizing has a quality home to move
+
+into. (PPN Linkage Group)
+
+Signed: Cllr. Stephen Keary, Chairperson, Limerick City and County Council
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

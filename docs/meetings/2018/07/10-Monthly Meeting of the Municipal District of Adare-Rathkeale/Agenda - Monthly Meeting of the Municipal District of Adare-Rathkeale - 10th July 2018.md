@@ -1,0 +1,188 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018"
+date: 2018-07-10
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-07-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-07</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 10th July 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-07/00%20Agenda%2010th%20July%252c%202018%20v2.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+a
+
+Aas —_
+
+. =
+Limerick
+CITY & COUNTY
+
+COUNCIL
+
+5 July, 2018.
+
+To:
+
+Sta
+
+Rathkeale
+
+A Chomhairleoir, a chara,
+
+Duiiche Bardais Ath Dara-Rath Caola,
+Comhairle Cathrach agus Contae Luimnigh,
+Aras Séan Finn,
+
+An Bothar Nua,
+
+Rath Caola,
+
+Co. Luimnigh
+
+Adare-Rathkeale Municipal District,
+Limerick City and County Council,
+Aras Séan Finn,
+
+New Line Road.
+
+Rathkeale
+
+Co. Limerick
+
+t: +353 (0) 69 64047 / 64129
+f: +353 (0) 69 63188
+
+AU ai e-
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
+
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 10th July, 2018 at 9.30 a.m.
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Karen Ay
+
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes
+
+To adopt Minutes of the following Meetings:
+
+ee i nnn
+
+(a) Annual Meeting of the Municipal District of Adare-Rathkeale held on 26™ June,
+
+2018.
+
+(b) Monthly Meeting of the Municipal District of Adare-Rathkeale held on 26" June,
+
+2018.
+
+2. Housing Development Directorate
+
+(Copies Enclosed)
+
+To receive an update on the Housing Delivery Programme and Public Land Activation Plan
+
+for Adare.
+
+1
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+@ customerservices@limerickie
+© vevew Mmerick le
+Ww @limerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Physical Development Directorate
+
+To consider and approve the publication of the Draft City and County of Limerick
+(Segregation, Storage and Presentation of Household and Commercial Waste) Bye-
+Laws, 2018.
+
+(Copy Enclosed)
+ice Operations Di
+ning and Environmen
+(a) To note proposal on the Taking-In-Charge of Deel Manor, Askeaton.
+(Copy Enclosed)
+(b) To note update on Taking-In-Charge of An Curran, Pallaskenry.
+(Copy Enclosed)
+
+Operations and Maintenance Services
+
+F from Kildimo to th r Garden Public House
+
+To note update on the footpath from Kildimo Village to the Beer Garden Public House.
+(Copy Enclosed)
+
+Traffic Calming at Kilcornan
+
+To note update on proposed traffic calming scheme for Kilcornan.
+
+Drainage Issues in Courtmatrix
+
+To note update on drainage issues at Courtmatrix.
+
+Pedestrian Controlled Crossing for Adare
+
+To note update on pedestrian controlled crossing for Adare.
+
+tw
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+11.
+
+12.
+
+Flooding Issues in Askeaton
+
+To note update on proposals to address the flooding issues in Askeaton.
+
+Flooding Issues in Foynes
+
+To note update on flooding issues in Foynes.
+
+Correspondence
+
+(Copy Enclosed)
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:4]]</span>
+

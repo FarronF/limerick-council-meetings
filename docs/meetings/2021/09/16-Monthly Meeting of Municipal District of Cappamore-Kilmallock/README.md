@@ -1,0 +1,40 @@
+---
+title: "Monthly Meeting of Municipal District of Cappamore-Kilmallock"
+date: 2021-09-16
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Monthly Meeting of Municipal District of Cappamore-Kilmallock</span>
+<span data-pagefind-meta="date" style="display:none;">2021-09-16</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-09</span>
+
+# Monthly Meeting of Municipal District of Cappamore-Kilmallock
+
+**Date and Time:** 2021-09-16 15:30:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-cappamore-kilmallock-73)**
+
+Files: 
+
+document.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/00-agenda-16th-sept-2021.pdf) - Text not extracted
+
+Minutes - Special Meeting of Municipal District of Cappamore-Kilmallock - 8th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-ii-minutes-8th-july-2021.pdf) - [Extracted text](./Minutes%20-%C2%A0Special%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%208th%20July%202021.md)
+
+Minutes - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 15th July 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/01-i-minutes-15th-july-2021.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2015th%20July%202021.md)
+
+Disposal: 10 Ash Hill Kilmallock - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 16th September 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/02-i-disposal-10-ash-hill-kilmallock.pdf) - Text not extracted
+
+Disposal: Castlefarm Hospital - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 16th September 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/02-ii-disposal-castlefarm-hospital.pdf) - Text not extracted
+
+Replies to Questions - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 16th September 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/replies-to-questions.pdf) - Text not extracted
+
+Replies to Notice of Motions - Monthly Meeting of Municipal District of Cappamore-Kilmallock - 16th September 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-09/replies-to-notices-of-motion-16-sep-2021.pdf) - Text not extracted
+

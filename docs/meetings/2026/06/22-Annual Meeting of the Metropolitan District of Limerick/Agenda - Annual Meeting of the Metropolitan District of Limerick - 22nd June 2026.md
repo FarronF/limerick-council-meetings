@@ -1,0 +1,80 @@
+---
+title: "Agenda - Annual Meeting of the Metropolitan District of Limerick - 22nd June 2026"
+date: 2026-06-22
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of the Metropolitan District of Limerick - 22nd June 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-06-22</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
+
+**Original file:** [Agenda - Annual Meeting of the Metropolitan District of Limerick - 22nd June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/agenda-annual-meeting-of-the-metropolitan-district-of-limerick-22nd-june-2026.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+- ail Comhairle Cathrach Sesbhisi Corpardideacha, Rialachals & Custaiméara
+
+i i Comhairle Catnrach & Contae Luimnigh
+a —_ © Contae Luimnigh Ceannchearthii Chorpardideach
+ne Cé na gCeannaithe
+
+—=== Limerick City _ Luimneach, ¥94 EH9O
+& County Council
+
+Corporate. Governance & Customer Services
+
+Limerick City and County Council
+
+Corporate Headquarters
+
+Merchant's Quay
+
+Limerick. V94 EH90
+
+t: +353 (0) 61557 150
+
+15" June 2026
+
+To: The Cathaoirleach and each Member of the Metropolitan District of Limerick
+
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Metropolitan District of Limerick to
+be held in the Council Chamber, Merchant’s Quay, Limerick and Online via Microsoft Teams
+on Monday, 22™ June 2026 at 9.45am. The business to be transacted is set out on the
+appended Agenda.
+
+Is mise le meas,
+
+Hedin Ehey
+Aedin Foley,
+Meetings Administrator.
+
+AGENDA
+
+1. To elect a Cathaoirleach of the Metropolitan District of Limerick to hold office until
+the next Annual Meeting or until a successor has been elected.
+
+2. To elect a Leas-Cathaoirleach of the Metropolitan District of Limerick to hold office
+until the next Annual Meeting or until a successor has been elected.
+
+= customerservicesa@timerick.ie
+
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach i www. ltimerick.te
+Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
+me . ( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

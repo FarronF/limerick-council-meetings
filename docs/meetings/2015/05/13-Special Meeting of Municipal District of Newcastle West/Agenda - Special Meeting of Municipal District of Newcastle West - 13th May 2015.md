@@ -1,0 +1,76 @@
+---
+title: "Agenda - Special Meeting of Municipal District of Newcastle West - 13th May 2015"
+date: 2015-05-13
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Municipal District of Newcastle West - 13th May 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-05-13</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-05</span>
+
+**Original file:** [Agenda - Special Meeting of Municipal District of Newcastle West - 13th May 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_special_meeting_of_municipal_district_of_newcastle_west_-_13th_may_2015.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_——_ Seirbhisi Corpardideacha agus Bainistiocht Athruithe.
+Comhairle Cathrach agus Contae Luimnigh.
+
+i Cé na gCeannaithe,
+
+—=_>= Luimneach
+
+Limerick Corporate Services and Change Management,
+
+CITY & COUNTY Limerick City and County Council,
+
+Merchants Quay,
+
+COUNCIL ent
+
+t: +353 (0) 61 407 100
+
+8" May, 2015 f: +353 (0) 61 415 266
+To/ Th i h_an ch r_of th icipal
+
+District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Municipal District of Newcastle West to be
+held at Fire Station, Abbeyfeale, Co. Limerick, on Wednesday 13" May, 2015 at 10.00 a.m
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Meetings Administrator.
+
+ac ceca cnaseenenseeesnssccccccccccccscsessnseresenessnsee cscs seeenes essere sees eee eeeee ee SeS SEES SSIS SSS S OOOO S
+
+AGENDA
+
+1. Travel and Transportation
+
+Removal of on-street parking Abbeyfeale.
+
+To consider removal of on-street parking in Abbeyfeale.
+
+(Report and Map enclosed)
+
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

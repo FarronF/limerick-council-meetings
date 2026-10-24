@@ -1,0 +1,82 @@
+---
+title: "Agenda - Meeting of the Joint Policing Sub Committee of the Municipal District of Newcastle West - 6th September 2023"
+date: 2023-09-06
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Joint Policing Sub Committee of the Municipal District of Newcastle West - 6th September 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-09-06</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-09</span>
+
+**Original file:** [Agenda - Meeting of the Joint Policing Sub Committee of the Municipal District of Newcastle West - 6th September 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-09/00-Agenda-Meeting-of-the-Joint-Policing-Sub-Committee-of-the-Municipal-District-of-Newcastle-West-6th-September-2023.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Duiche Bardais an Chaisledin Nua Thiar,
+_——_ & Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
+
+Aras William Smith O'Brien,
+
+ArN a Gortbul,
+—— Limerick City An Caislean Nua Thiar,
+
+& County Council Co. Luimnigh
+
+Nevecastle West Municipal District,
+Limerick City and County Council,
+Aras William Smith O'Bnen,
+Gortboy,
+
+Nevicastle West,
+
+Co. Limerick
+
+Eircode: V42EK73
+
+t: +353 (0) 69 62100
+1* September, 2023
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Newcastle West JPC
+Subcommittee to be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on
+
+Wednesday, 6" September, 2023, at 12 noon. The business to be transacted is set out on
+the appended Agenda.
+
+Is mise le meas,
+
+Martin Curran,
+Meetings Administrator.
+
+AGENDA
+1. Minutes
+
+To adopt Minutes of Meeting of the Joint Policing Sub Committee of the Municipal
+District of Newcastle West held on 10" February, 2023.
+
+(Copy Enclosed)
+2. Policing Issues
+To discuss policing issues in the District.
+& customerservices@limerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luimneach © vivew.imerickie
+Corporate Headquarters, Merchant's Quay, Limerick W alimerickCouncil
+
+\ 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

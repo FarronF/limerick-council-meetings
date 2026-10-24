@@ -1,0 +1,125 @@
+---
+title: "Agenda - Meeting of the Municipal District of Adare-Rathkeale - 9th March 2016"
+date: 2016-03-09
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Adare-Rathkeale - 9th March 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-03-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-03</span>
+
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 9th March 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20the%20Municipal%20District%20of%20Adare-Rathkeale%20-%209th%20March%202016.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+i Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+aie Cé na gCeannaithe,
+—=> Luimneach
+Limerick Corporate Services and Change Management.
+CITY & COUNTY Limerick City and County Council,
+COUNCIL = —
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
+
+4” March, 2016.
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in Aras
+
+Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Wednesday, 3” March, 2016 at 9.00 a.m. The
+business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Meetings Administrator.
+
+ena ne nn ne en nen nn ne een enn eee nn een es en nen een ne eee nee nee e ee Ree Ree Ree R eee RRR RRR RR Ree ORL Re on a
+
+AGENDA
+
+qd. Minutes
+
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 9" February,
+2016.
+
+(Copy Enclosed)
+
+2. Deputation from Rathkeale Community Council
+
+To receive Deputation from Rathkeale Community Council. (Item to be taken at 9.05 a.m.)
+
+1 @ customerservices@limerick.te
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach oe www limerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+11.
+
+Regional Directorate (Mid West National Road Design Office)
+Proposed N21 Adare Western Approach Improvement Scheme
+
+To hear update on the Proposed Scheme in advance of Part Vill advertisement.
+
+Road Works Scheme
+To consider draft Road Works Scheme 2016 for the Municipal District of Adare-Rathkeale.
+(Copy Enclosed)
+Economic Development & Planning
+To note update on the Taking in Charge of Ballyvareen Estate.
+(Copy Enclosed)
+
+General Municipal Allocation
+
+To agree date for General Municipal Allocation Workshop.
+
+Flooding Issues
+
+To receive update on proposals to address the flooding issues in Foynes, Askeaton and
+Ballysteen.
+
+Sewerage Treatment Plant in Askeaton
+
+To note update on the provision of a new sewerage treatment plant in Askeaton.
+(Copy Enclosed)
+
+Footpaths in Adare
+
+To receive update on request to provide footpaths from Adare village to the GAA grounds in
+Adare.
+
+NOTICE OF MOTION
+
+Notice of Motion submitted by Councillor K. Sheahan
+
+| will move at the next Meeting that the current burial ground bye-laws are amened to permit
+the standard of maintenance and structure of headstones and kerbing that applied in graveyards
+
+for a period in excess of twenty years.
+
+Corr n
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

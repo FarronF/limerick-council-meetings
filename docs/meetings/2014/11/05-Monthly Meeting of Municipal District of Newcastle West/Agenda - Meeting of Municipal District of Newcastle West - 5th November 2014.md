@@ -1,0 +1,148 @@
+---
+title: "Agenda - Meeting of Municipal District of Newcastle West - 5th November 2014"
+date: 2014-11-05
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of Municipal District of Newcastle West - 5th November 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-11-05</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2014</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
+
+**Original file:** [Agenda - Meeting of Municipal District of Newcastle West - 5th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_meeting_of_municipal_district_of_newcastle_west_-_5th_november_2014.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_—_— Seirohisi Corparéideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+ANN Cé na gCeannaithe,
+— Luimneach
+
+. .
+Limerick Corporate Services and Change Management.
+CITY & COUNTY Limerick City and prec Council
+lerchants Quay,
+COUNCIL race
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
+
+31* October, 2014.
+
+To: The Cathaoirleach_ and each Member of the Municipal
+District of Newcastle West.
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Newcastle West to be held at
+Aras William Smith OBrien, Gortboy, Newcastle West, Co. Limerick, on Wednesday, 5
+November, 2014, at 10.00 a.m. The business to be transacted is set out on the appended
+
+Agenda.
+
+Is mise le meas,
+
+Tina Knox,
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes:
+To adopt the Minutes of the following Meetings:
+
+(a) | Ordinary Meeting of the Municipal District held on 1* October, 2014.
+(b) Budgetary Plan Meeting of the Municipal District held on 9" October, 2014.
+
+2. Discuss issues with An Garda Siochana (Superintendent, Mr. Thomas O'Connor,
+Newcastle West Garda Station, will be in attendance).
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wwwlimerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @limerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Ne
+
+Customer Services:
+
+Margaret McEvoy, Executive Architect, to give presentation on Customer Service
+Improvements to the Aras William Smith OBrien Office, Newcastle West.
+
+QUESTIONS
+
+Question submitted by Councillor L. Galvin
+
+| will ask at the next Meeting for a detailed up-date on the housing estate Cois Na Feile in
+Abbeyfeale Town.
+
+Questions submitted by Councillor J. Scanlan
+
+| will ask at the next Meeting if remedial works will be undertaken to improve sight lines at
+the entrance to Portland Estate, Newcastle West, and to the Hawthorns, Ballyagran, in
+the interest of safety.
+
+| will ask at the next Meeting if junction lining will be carried out at the junctions with the
+various local roads along the R522.
+
+| will ask when signage for Broadford will be put in place from the N21 and R522 exits at
+Newcastle West.
+
+NOTICES OF MOTION
+
+Notices of Motion submitted by Councillor L. Galvin
+
+| will move at the next Meeting that Danaher's building should be purchased at the end of
+Colbert’s Street to alleviate the traffic problems in the town.
+
+| will move at the next Meeting that this Council takes immediate measures to survey all
+estates in our charge to reduce the speed limit as asked by Minister Paschal Donohoe
+following a campaign by the family of the late Jake Brennan.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+11.
+
+12.
+
+Notice of Motion submitted by Councillor J. Scanlan
+
+| will move at the next Meeting that Limerick City & County Council restore the practice of
+issuing listings of offered tenancies to Councillors within the Newcastle West Municipal
+
+District.
+
+Notice of Motion submitted by Councillor M. Collins
+
+| will move at the next Meeting that Limerick City & County Council, in the interest of
+safety, complete footpaths and lighting at Castlemahon Village towards Kilready. This
+was planned as part of a Village Renewal Scheme previously but was never completed.
+
+Notice of Motion submitted by Councillor S. Browne
+
+| will move at the next Meeting that the Council provide more street bins for the town of
+Abbeyfeale.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+

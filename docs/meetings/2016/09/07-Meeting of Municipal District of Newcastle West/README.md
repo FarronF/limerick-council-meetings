@@ -1,0 +1,48 @@
+---
+title: "Meeting of Municipal District of Newcastle West"
+date: 2016-09-07
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Meeting of Municipal District of Newcastle West</span>
+<span data-pagefind-meta="date" style="display:none;">2016-09-07</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-09</span>
+
+# Meeting of Municipal District of Newcastle West
+
+**Date and Time:** 2016-09-07 10:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west)**
+
+Files: 
+
+Agenda - Municipal District of Newcastle West -7th September 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/atoms/files/agenda_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+
+Minutes - Municipal District of Newcastle West -13th July 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/atoms/files/minutes_-_municipal_district_of_newcastle_west_-13th_july_2016.pdf) - Text not extracted
+
+Minutes - Special Meeting Municipal District of Newcastle West - 20th July 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/atoms/files/minutes_-_special_meeting_municipal_district_of_newcastle_west_-20th_july_2016.pdf) - Text not extracted
+
+Report Newcastle West Speed Limit - Municipal District of Newcastle West -7th September 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/atoms/files/report_newcastle_west_speed_limit_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+
+Correspondence - Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://www.limerick.ie/sites/default/files/atoms/files/correspondence_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+
+Agenda - Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+
+Minutes - Municipal District of Newcastle West - 13th July 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_newcastle_west_-13th_july_2016.pdf) - Text not extracted
+
+Minutes - Special Meeting Municipal District of Newcastle West - 20th July 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_special_meeting_municipal_district_of_newcastle_west_-20th_july_2016.pdf) - Text not extracted
+
+Report Newcastle West Speed Limit - Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/report_newcastle_west_speed_limit_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+
+Correspondence - Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/correspondence_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+
+Replies to all Questions - Municipal District of Newcastle West - 7th September 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/replies_to_all_questions_-_municipal_district_of_newcastle_west_-7th_september_2016.pdf) - Text not extracted
+

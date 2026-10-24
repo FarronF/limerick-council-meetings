@@ -1,0 +1,85 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council to consider the Chief Executive’s Draft Development Plan - 14th June 2021"
+date: 2021-06-14
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council to consider the Chief Executive’s Draft Development Plan - 14th June 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-06-14</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council to consider the Chief Executive’s Draft Development Plan - 14th June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-agenda-special-meeting-14.06.2021.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+i Seirbhisi Corparaideacha,
+_—__—_ Sp bdr peed nl Comhairle Cathvach agus Contae Luimnigh,
+
+& Contae uimnigh Ceanncheathri: Chorpardideach,
+A T™ \ ————
+
+Fi Cé na gCeannaithe,
+— Limerick City Lutmneach
+
+& County Council
+Corporate Services,
+Limerick City and County Council,
+Corporate Headquarters,
+
+Merchants Quay.
+Limerick
+
+EIRCODE V94 EH90
+
+t: +353 (0) 61 557150
+9" June, 2021. f: +353 (0) 61 415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor, Councillor Michael Collins, has called a Special Meeting of Limerick City and
+
+County Council to be held in the Millennium Theatre, Limerick Institute of Technology
+li tl ;
+
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Ao
+
+Laura Flannery,
+Meetings Administrator.
+
+AGENDA
+
+1. To consider the Draft Limerick Development Plan 2022-2028 under Section 11(5) of
+the Planning and Development Act 2000 (as amended). Where the Draft Pian has
+been considered, it shall be deemed to be the Draft Development Plan unless, by
+resolution, the Elected Members amend it.
+
+(Report from A/Director, Economic Development, Enclosed)
+
+(Report from Chief Executive, and Draft Limerick Development Plan
+2022-2028, already circulated)
+
+o] customerservices@limerickie
+
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

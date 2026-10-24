@@ -1,0 +1,84 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 8th December 2025"
+date: 2025-12-08
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 8th December 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-12-08</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-12</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 8th December 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-12/agenda-special-meeting-of-limerick-city-and-county-council-8th-december-2025.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ee Comhairie Cathrach Sebinis{ Corpardideacha, Rialachais & Custaiméara
+on imnicgh Comhairle Cathrach & Contae Luimnigh
+oa fs, a Ceannchearthu Chorpardideach
+Cé na gCeannaithe
+
+— Limerick City Lulmnesch, V94 EH90
+& County Council
+
+Corporate, Governance & Customer Services
+
+Limerick City and County Council
+
+Corporate Headquarters
+
+Merchant's Quay
+
+Limerick. V94 EHS0
+
+1 December, 2025 t: 4353 (0) 61557 150
+
+To: |The Mayor, Priomh Chomhairleoir and Each Member of Limerick City and County
+Council
+
+A Chomhairleoir, a chara,
+
+The Priomh Chomhairleoir, Councillor Catherine Slattery, has called a Special Meeting of
+Limerick City and County Council to be held Online, on Monday, 8 December, 2025,
+at3 p.m.
+
+The business to be transacted is set out below.
+
+Is mise le meas,
+
+C focal
+
+Ciara Farrell,
+Meetings Administrator.
+
+AGENDA
+
+1. Disposal of Land
+
+To consider proposal for the disposal of land, in accordance with the provisions of
+Section 183 of the Local Government Act, 2001 (as amended) and Section 211 of the
+Planning and Development Act, 2000 (as amended), at:
+
+Economic, Tourism, Culture, Property and Corporate Buildings Directorate
+
+Disposal by way of a 650 year lease over land at Opera Square, Limerick and a 650 year
+licence over 60 car parking spaces.
+
+(Statutory Notice dated 28" November, 2025
+already circulated).
+
+Corporate Headquarters, Merchant's Quay, Limerick WY @lLimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

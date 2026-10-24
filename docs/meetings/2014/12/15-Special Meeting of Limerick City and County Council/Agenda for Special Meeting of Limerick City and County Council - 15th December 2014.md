@@ -1,0 +1,62 @@
+---
+title: "Agenda for Special Meeting of Limerick City and County Council - 15th December 2014"
+date: 2014-12-15
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda for Special Meeting of Limerick City and County Council - 15th December 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-12-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2014</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2014-12</span>
+
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 15th December 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_december_2014.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_—_—_ Seirbnis{ Corparéideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+ANF : Cé na gCeannaithe,
+—=~_> : Luimneach
+Limerick Corporate Services and Change Management.
+CITY & COUNTY Limerick City and County Council,
+Merchants Quay,
+
+COUNCIL apace
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
+
+10°" December, 2014.
+
+To: THE MAYOR AND EACH MEMBER OF LIMERICK
+CITY AND COUNTY COUNCIL
+
+A Chomhairleoir, a chara,
+
+The Mayor, Councillor Kevin Sheahan, has called a Special Meeting of Limerick
+City and County Council to be held in the Council Chamber, Dooradoyle, on
+Monday, 15'" December, 2014, at 4.00 p.m. in relation to the Year of Culture
+2014.
+
+Is mise le) eas,
+
+Meetings Administrator.
+
+= customerservices@limerickie
+Ceanncheathni Chorpardideach, Cé Brower Luimneach © wowlimerickie
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

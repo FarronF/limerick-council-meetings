@@ -1,0 +1,90 @@
+---
+title: "Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2021"
+date: 2021-06-23
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-06-23</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-06</span>
+
+**Original file:** [Agenda - Annual Meeting of the Municipal District of Newcastle West - 23rd June 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-06/00-2021-06-23-agenda-agm.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ae pe ereskey Cathrach
+
+ontae Luimnigh
+
+nZe™ —, —————
+——— Limerick City
+
+& County Council
+
+Dijtiche Bardais an Chaisledin Nua Thiar,
+Cosrihaivle Cattuach agus Contae Lulmnigh,
+Asas Wikiomn Smith O'Brien,
+
+Gortbui,
+
+An Caisleén Nua Thiar,
+
+Co. Lulrnnigh.
+
+Dlevecastle West Municipal District,
+Lirmetick City arn) County Council,
+Aras Wittiarn Smith O'Brien,
+Gortboy,
+
+Nevecestle West,
+
+Co. Limerick.
+
+Bircode: V42EH73
+
+t: +353 (0) 69 62100
+18 June, 2021
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Municipal District of Newcastle West
+on Wednesday, 23 June, 2021, at 10.00 a.m at Aras William Smith OBrien, Newcastle West
+Co. Limerick, The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+jargar: rbett,
+Meetings Administrator.
+
+AGENDA
+
+1. To elect a Cathaoirleach of the Municipal District of Newcastle West to hold office until
+the next Annual Meeting or until a successor has been elected.
+
+2. To elect a Leas-Cathaoirleach of the Municipal District of Newcastle West to hold
+office until the next Annual Meeting or until a successor has been elected.
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchant's Quay, Limerick
+
+= customerservicesalimerick.ie
+© wwwlimerickie
+
+LimerickCouncil
+( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

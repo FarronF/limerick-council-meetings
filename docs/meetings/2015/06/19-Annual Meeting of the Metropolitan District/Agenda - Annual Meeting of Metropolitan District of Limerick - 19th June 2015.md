@@ -1,0 +1,88 @@
+---
+title: "Agenda - Annual Meeting of Metropolitan District of Limerick - 19th June 2015"
+date: 2015-06-19
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of Metropolitan District of Limerick - 19th June 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-06-19</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-06</span>
+
+**Original file:** [Agenda - Annual Meeting of Metropolitan District of Limerick - 19th June 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Annual%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20June%202015.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+——
+
+——-
+Limerick
+CITY & COUNTY
+
+COUNCIL
+
+15" June, 2015.
+
+Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+Cé na gCeannaithe,
+
+Luimneach
+
+Corporate Services and Change Management,
+Limerick City and County Council,
+
+Merchants Quay.
+
+Limerick
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
+
+To: The Mayor and each Member of the Metropolitan District of
+
+Limerick
+
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Metropolitan District of Limerick
+to be held in the Council Chamber, Merchant's Quay, Limerick, on Friday, 19" June,
+2015 at 7.00 p.m. The business to be transacted is set out on the appended Agenda.
+
+LO
+
+py —Coutaty O'Co
+
+Meetings Adnainiotator,
+
+en ae aaa aetalalailaabaiaiaieiaiaiaaialal
+
+AGENDA
+
+1. To elect a Mayor of the Metropolitan District of Limerick to hold office until the
+next Annual Meeting or until a successor has been elected.
+
+2. To elect a Deputy Mayor of the Metropolitan District of Limerick to hold office until
+the next Annual Meeting or until a successor has been elected.
+
+Peecenecteeryaietcge eprreeemt biel_ peice rel mela
+Corporate Headquarters, Merchants Quay, Limerick
+
+@ customerservices@limerick.te
+& wwwalimerick.te
+vv @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

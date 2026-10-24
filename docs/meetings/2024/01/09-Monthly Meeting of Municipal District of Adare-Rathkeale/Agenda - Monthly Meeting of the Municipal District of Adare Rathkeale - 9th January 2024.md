@@ -1,0 +1,139 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Adare Rathkeale - 9th January 2024"
+date: 2024-01-09
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Adare Rathkeale - 9th January 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-01-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-01</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare Rathkeale - 9th January 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-01/00-agenda-meeting-of-the-municipal-district-of-adare-rathkeale-9th-january-2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+a Comhairle Cathrach __ Ceantar Bardasach Ath Dara-Rath Caola,
+& Contae Luimnigh Comnhairte Cathwach agus ag ned ae
+“ : Line Nua,
+a Limerick City Rath Caota
+
+& County Council Co, Luimnigh
+
+Adare-Rathkeale Municipal District,
+
+Limerick City and County Council
+
+Aras Sean Fire
+
+New Line,
+
+Rathkeale,
+
+Co. Limerick.
+
+EIRCODE V94 HKLV
+
+t: 4353 (0) 69 64047
+4" January, 2024. #: +353 (0) 69 63188
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 9“ January, 2024 at 9.30 a.m.
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Karen Butler,
+Meetings Administrator.
+AGENDA
+1. Minutes
+To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
+on 12"" December, 2023.
+(Copy Enclosed).
+2. _—_ Declaration of Interest
+& customerservices@limerickie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe,Luimneach | © wewwlimerickie
+Corporate Headquarters, Merchants Quay, Limerick.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Disposal of Land
+To note proposal for the disposal of land at 4 High Street, Croom, Co. Limerick.
+(Report Enclosed).
+
+Schedule of Municipal District Works for the Adare-Rathkeale District deferred from
+
+Meeting of the Adare-Rathkeale Municipal District held on 12™ December, 2023)
+
+To receive a presentation on the review of the Schedule of Municipal District Works 2023.
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation
+2023/2024.
+
+QUESTION
+Question submitted by Councillor A. Teskey
+
+‘will ask at the next Meeting are Limerick City and County Council aware of any
+remuneration be it public or private monies paid to any objectors of Planning
+Infrastructural projects including judicial reviews.
+
+NOTICES OF MOTION
+
+Notice of Motion submitted by Councillor A. Teskey (deferred from Meeting of the Adare-
+Rathkeale Municipal District held on 12" December, 2023)
+
+| will move at the next Meeting that this District lobby both Minister Helen McEntee TD and
+Minister Jennifer Carroll MacNeill TD to immediately make stronger and more robust
+legislation available to allow for a central insurance claim register that would be meaningful
+in targeting the issue of repeated bogus claims. The register should be linked with one's
+PPS number to target individuals who repeatedly or possibly make regular bogus claims in
+order to profit from one's insurance.
+
+Notice of Motion submitted by Councillor S. from Meeting of the Adare-
+
+Rathkeale Municipal District held on 12" December, 2023)
+
+! will move at the next Meeting no election posters for the 2024 local elections are erected
+in the Adare-Rathkeale Municipal District area.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+11.
+
+Notice of Motion submitted by Councillor B. Collins
+
+| will move at the next Meeting that Limerick City and County Council engages with
+Communities to establish Poster Free Zones in each town and village within the Adare-
+Rathkeale Municipal District.
+
+Correspondence
+
+(Copy of Correspondence Enclosed).
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+

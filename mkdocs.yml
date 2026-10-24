@@ -1,0 +1,27 @@
+site_name: Limerick City & County Council Meetings Minutes & Agendas
+site_url: https://farronf.github.io/limerick-council-meetings/
+docs_dir: docs
+
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - mkdocs-breadcrumbs-plugin:
+      delimiter: ' > '
+      log_level: 'WARNING'
+      generate_home_index: false
+      use_page_titles: false
+      home_text: Limerick Council Meetings
+
+markdown_extensions:
+  - toc:
+      toc_depth: 0 # Globally disables the generation of table of contents sidebars
+
+nav:
+  - Search: index.md
+  - Browse Archive: meetings
+  - How to Use the Site: using-the-site.md
+  - About: about.md

@@ -1,0 +1,96 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 26th February 2024"
+date: 2024-02-26
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 26th February 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-02-26</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26th February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-limerick-city-and-county-council-26th-february-2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+— Comhairle Cathrach
+= & Contae Luimnigh
+oo Li ick Cit
+— merick City
+& County Council
+
+20" February, 2024.
+
+Seirbhisi Corparaideacha,
+
+Comhairle Cathwach agus Contae Luimnigh,
+Ceannchesthn: Chorpardideach,
+
+Cé na gCearnaithe,
+
+Luimnesch
+
+Corporate Services,
+
+Limerick City and County Council,
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH90
+
+t: +353 (0) 61 $$7150
+f: +353 (0) 61 415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor, Councillor Gerald Mitchell, has called a Special Meeting of Limerick City and
+County Council, to be held in the Council] Chamber, Dooradoyle, Limerick, and Online, on
+
+Monday, 26" February, 2024, at 3.30 p.m., in order to discuss the issue as set out in the
+attached Requisition in relation to the 2024 Active Travel allocations.
+
+Is mise le meas,
+
+Laura Flannery,
+Meetings Administrator.
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+(Copy of Requisition attached)
+
+© wew.limerick.te
+(061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ae acl | Ble Hs gay Ble Zrared
+
+Meccan ZG
+
+o> : = ae Ae
+
+q e°
+~°'porate sens
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

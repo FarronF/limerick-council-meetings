@@ -1,0 +1,79 @@
+---
+title: "Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick - 15th October 2018"
+date: 2018-10-15
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick - 15th October 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-10-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-10</span>
+
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick - 15th October 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-10/00%20Agenda%20Draft%20Budgetary%20Plan%20Meeting%2015th%20October%2C%202018.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_——_—_— Comhairle Cathrach ee ee
+hairtle ach agus tae Luimnigh,
+x & Contae Luimnigh rose sorely sbenadee ey
+oN = . Cé na gCeannaithe,
+—>> Limerick City Lubnneach
+
+& County Council
+Corporate Services,
+Limerick City and County Council,
+Corporate Headquarters.
+
+Merchants Quay,
+Limerick
+
+EIRCODE V4 EHSO
+
+th
+5" October, 2018. t: 4353 (0) 61 557150
+f: +353 (0) 61 415 266
+
+To: _ The Mayor and each Member of the Metropolitan District of Limerick
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Metropolitan District of Limerick to be held in the
+
+Council Chamber, Merchant’s Quay, Limerick on Monday, 15" October, 2018 at 12:30 p.m (at
+
+the conclusion of the October Meeting of the Metropolitan District of Limerick). The business
+to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+rn
+\
+
+mm
+James Clune,
+Meetings Administrator.
+
+AGENDA
+
+4. To consider the Draft Budgetary Plan 2019 for the Metropolitan District of Limerick.
+
+(Report attached)
+=
+© www.limerick.te
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach w @LimerickCouncil
+
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 587150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

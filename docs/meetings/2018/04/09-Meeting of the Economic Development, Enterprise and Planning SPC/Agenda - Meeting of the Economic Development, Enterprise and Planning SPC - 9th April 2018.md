@@ -1,0 +1,64 @@
+---
+title: "Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018"
+date: 2018-04-09
+council_body: "Economic Development & Planning SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-04-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Economic Development & Planning SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-04</span>
+
+**Original file:** [Agenda - Meeting of the Economic Development, Enterprise and Planning SPC - 9th April 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-03/Agenda%20of%20SPC%209th%20of%20April%202018.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+23rd March 2018
+
+**To/Each Member of the Economic Development, Enterprise and Planning**
+
+**SPC**
+
+Dear Member,
+
+A meeting of the Economic Development, Enterprise & Planning Strategic Policy
+
+Committee will be held in **The Engine, Innovate Limerick, Upper Cecil Street,**
+
+**Limerick on Monday 9th** **of April 2018 at 2pm.** Light refreshments will be
+
+available from 1.30 pm.
+
+The Agenda is as set out hereunder and your attendance at this meeting is
+
+requested.
+
+1. Adoption of Minutes from Economic Development, Enterprise and Planning
+
+SPC meetings of the 12th of February 2018 (copy attached).
+
+2. Briefing on the National Planning Framework implications for Limerick.
+
+3. Update on LIHAF/Mungret.
+
+4. Presentation from Innovate Limerick.
+
+5. A.O. B.
+
+Yours sincerely
+
+***Pat Fitzgerald***
+
+Senior Executive Officer
+
+Economic Development
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

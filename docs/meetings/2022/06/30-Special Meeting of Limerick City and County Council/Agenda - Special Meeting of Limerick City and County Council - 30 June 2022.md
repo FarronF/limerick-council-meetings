@@ -1,0 +1,76 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 30 June 2022"
+date: 2022-06-30
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 30 June 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-06-30</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-06</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 30 June 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-06/Agenda-Special-Meeting-30-06-2022.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach ae Cras
+
+. a Comhalrie Cathwach agus Contae Luimnigh
+
+——— & Contae Luimnigh Ceanncheathni Chorpardidesch,
+ee Cé na gCeannaithe,
+
+vs Limerick City Luimneach
+— & County Council
+
+. Corporate Services,
+
+Limerick City and County Council
+
+Cornorate Headquarters,
+
+Mercharts Quay,
+
+Limerick
+
+BIRCODE V94 EH90
+
+t: +353 (0) 61 557150
+
+f; +353 (0) 61 415 266
+
+28" June, 2022.
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor of the City and County of Limerick, Councillor Daniel Butler, has called a Special
+Meeting of Limerick City and County Council to be held in the Council Chamber, Dooradoyle,
+and Online, on Thursday, 30° June, 2022, at 10.00 a.m., in order to pass a Vote of Sympathy
+on the untimely passing of Councillor Jerry O'Dea, RIP.
+
+Is mise le meas,
+
+Laura desi —_—"
+Meetings Ad tor.
+
+™ Customerservices@limerick.te
+
+© wewlimerick.ie
+
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach w @lLimerickCouncit
+Corporate Headquarters, Merchants Quay, Limerick (061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

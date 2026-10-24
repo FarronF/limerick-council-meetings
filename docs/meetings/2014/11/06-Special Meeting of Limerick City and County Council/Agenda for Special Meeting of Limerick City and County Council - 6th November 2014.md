@@ -1,0 +1,97 @@
+---
+title: "Agenda for Special Meeting of Limerick City and County Council - 6th November 2014"
+date: 2014-11-06
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda for Special Meeting of Limerick City and County Council - 6th November 2014</span>
+<span data-pagefind-meta="date" style="display:none;">2014-11-06</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2014</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2014-11</span>
+
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 6th November 2014.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_6th_november_2014.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_—_— Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+NEN. a . Cé na gCeannaithe,
+
+A = Luimneach
+Limerick Corporate Services and Change Management.
+CITY & COUNTY Limerick City and County Council
+
+COUNCIL Merchants Quay,
+Limerick
+
+t: +353 (0) 61 407 100
+31° October, 2014. f; +353 (0) 61415 266
+
+To: THE CATHAOIRLEACH AND EACH MEMBER OF
+LIMERICK CITY AND COUNTY COUNCIL
+
+A Chomhairleoir, a chara,
+
+The Cathaoirleach, Councillor Kevin Sheahan, has called a Special Meeting of
+Limerick City and County Council to be held in the Council Chamber,
+Dooradoyle, on Thursday, 6" November, 2014, at 10.30 a.m. to discuss the
+issue of Water Charges as set out in the attached Requisition.
+
+Eamaet
+
+ings Administrator.
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach © wvew.limerick.ie
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCourcil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+From: Quinlivan Maurice
+
+Sent: 31 October 2014 12:43
+
+To: Sheahan Kevin (Cllr); Griffin Eugene
+Subject: Request Special Meeting
+
+31% October 2014
+
+Kevin Sheehan,
+Cathaoirleach,
+Limerick City and County Council.
+
+Cathaoirleach a chara,
+
+Under standing orders (Special Meeting Section 15 & 16) | wish to call for a special meeting of Limerick
+
+City and County to discuss the issue of Water Charges.
+lam requesting that this meeting be convened as soon as possible.
+
+Signed,
+
+Councillor Maurice Quinlivan
+Councillor LisaMarie Sheehy
+Comhairleoir Séighin O Ceallaigh
+Councillor Ciara McMahon
+Councillor Seamus Browne
+Councillor Malachy McCreesh
+
+Printed/Hard copy with signatures will be dropped into Council later.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

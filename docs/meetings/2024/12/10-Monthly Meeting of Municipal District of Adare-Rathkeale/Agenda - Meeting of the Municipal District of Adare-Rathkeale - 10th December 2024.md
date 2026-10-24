@@ -1,0 +1,149 @@
+---
+title: "Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th December 2024"
+date: 2024-12-10
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th December 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-12-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-12</span>
+
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 10th December 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-12/16-correspondence-september-2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+__—_ Comhairle Cathrach
+& Contae Luimnigh
+AmN ‘
+
+— Limerick City
+& County Council
+
+4" December, 2024.
+
+Ceantar Bardasach Ath Dara-Rath Caola.
+
+Comhairle Cathrach agus Contae Lubnnigh.
+Avas Séan Finn,
+
+Line Nua
+
+Rath Caola.
+
+Co. Luimnigh.
+
+Adare-Rathkeale Municipe District
+
+Limerick City and County Council
+Aras Sean Finn.
+
+New Line.
+
+Rathkeale,
+
+Co. Limerick
+
+EIRCODE V94 HKIV
+
+t: 4353 (0) 69 64047
+f: +353 (0) 69 63188
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
+Askeaton Civic Trust Office, East Square, Askeaton, Co. Limerick V94 VYC6 on Tuesday 10"
+December, 2024 at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Karen Butler,
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes
+
+To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
+
+on 12™ November, 2024.
+
+2. Declara f Inter.
+
+3. Disposal of Land
+
+(Copy Enclosed).
+
+To note proposal for the disposal of Property, acquired under the Derelict Sites Act, 1990
+
+at Brewery Lane, Askeaton, Co. Limerick.
+
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach |
+Corporate Headquarters, Merchants Quay, Limerick.
+
+(Report Enclosed).
+
+ customerservices@limerickie
+W @LimerickCouncil
+( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Rural, Culture, Community and Tourism D n
+
+Part VIII — Proposed Remodelling and Extension of the Adare Heritage Centre
+
+To consider the Director General’s Report in respect of the proposed Remodelling and
+Extension of the Adare Heritage Centre in accordance with Section 179(3) (a) of the
+Planning and Development Act 2000 — 2015 and Part Vill of the Planning and Development
+Regulations 2001 — 2015.
+
+(Report Enclosed).
+
+Forward Planning and Public Realm
+
+Croom Local Area Plan 2020 — 2026
+
+To consider the Mayor's Report and resolve to extend the life of the Croom Local Area Plan
+2020-2026, by a further 4 years from the date of the resolution in accordance with Section
+19(1)(d) of the Planning and Development Act 2000 (as amended) to defer the sending of
+notices under Section 20(3)(a){i) and the publishing of notices under Section 20(3)(a)(ii) for
+the Croom Local Area Plan for a further period of 4 years and thereby extending the
+duration of the Local Area Plan.
+
+(Report Enclosed).
+District Engineers Report
+To update Members on issues of interest in the District.
+
+(Report Enclosed).
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation 2024.
+
+Deputation from Askeaton Civic Trust, Tourist Office and Genealogy Centre
+
+To receive a Deputation from Askeaton Civic Trust, Tourist Office and Genealogy Centre
+(Item to be taken at 11.00 am)
+
+A.0.B
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

@@ -1,0 +1,96 @@
+---
+title: "Agenda for Special Meeting of Limerick City and County Council - 29th July 2015"
+date: 2015-07-29
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda for Special Meeting of Limerick City and County Council - 29th July 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-07-29</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-07</span>
+
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 29th July 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20for%20Special%20Meeting%20of%20Limerick%20City%20and%20County%20Council%20-%2029th%20July%202015.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+i Seirohisi Corparaéideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+AEN i ~ Cé na gCeannaithe,
+=- Luimneach
+Limerick Corporate Services and Change Management,
+CITY & COUNTY Limerick City and County Council,
+COUNCIL Merchants Quay,
+Limerick
+
+24" July, 2015. t: +353 (0) 61 407 100
+
+f: +353 (0) 61 415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor, Councillor Liam Galvin has called a Special Meeting of Limerick City and
+County Council to be held in the Council Chamber, Dooradoyle, on Wednesday,
+
+29" July, 2015, at 10.00 a.m.
+
+The business to be transacted is set out below.
+
+Is mise le meas,
+
+Che O64...
+Christy O’Connor,
+Meetings Administrator.
+
+AGENDA
+
+1. Economic Development and Planning
+
+Proposed Variation No. 4 to Limerick County Development Plan
+
+2010-2016 to incorporate the preferred route corridor for the
+Limerick Northern Distributor Ro. LNDR
+
+To consider the Chief Executive's Report dated 19th June, 2015, on the
+proposed Variation No. 4 to the Limerick County Development Plan 2010-
+2016 for the incorporation of the preferred route corridor for the Limerick
+Northern Distributor Road (LNDR) and decide whether to make the variation
+which would, if made, be a material alteration, with or without further
+modification, or refuse to make it, in accordance with Sections 13 (5) and (6)
+of the Planning and Development Act 2000 (as amended).
+
+(Report already circulated).
+
+@ customerservices@limerick.ie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach oo www limerickie
+Corporate Headquarters, Merchants Quay, Limerick yw @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Environment and Water Services
+
+To note Report from the Acting Director of Service, Environment and Water
+Services dated 24" July, 2015 regarding Eastern and Midlands Region -
+Proposed Water Supply Project Options Working Paper.
+
+(Report Enclosed).
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

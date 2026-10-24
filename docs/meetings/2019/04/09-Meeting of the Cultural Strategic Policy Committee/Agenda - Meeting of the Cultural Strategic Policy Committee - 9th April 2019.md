@@ -1,0 +1,86 @@
+---
+title: "Agenda - Meeting of the Cultural Strategic Policy Committee - 9th April 2019"
+date: 2019-04-09
+council_body: "Cultural SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Cultural Strategic Policy Committee - 9th April 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-04-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cultural SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-04</span>
+
+**Original file:** [Agenda - Meeting of the Cultural Strategic Policy Committee - 9th April 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-04/Agenda%20Cultural%20SPC%209th%20April%202019.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**LIMERICK CITY & COUNTY COUNCIL**
+
+**Social Development Directorate**
+
+**Corporate Headquarters,**
+
+**Merchant’s Quay,**
+
+**Limerick**
+
+**1st** **April 2019**
+
+**TO: THE CHAIR AND EACH MEMBER OF THE CULTURAL STRATEGIC POLICY COMMITTEE**
+
+The meeting of Limerick City & County Council, Cultural Strategic Policy Committee will be
+
+held on Tuesday 9th April **at 3.00pm** in the Council Chamber, Dooradoyle, Limerick.
+
+The Agenda is as set out hereunder and your attendance at this meeting is requested.
+
+**AGENDA**
+
+**Item 1.**
+
+Confirmation of minutes from Cultural Strategic Policy Committee meeting
+
+held on 12th February 2019.
+
+**Item 2.**
+
+To consider the recommendations from the recent assessment panel for
+
+Theatre Bursaries for 2019.
+
+**Item 3.**
+
+To consider the recommendations for 2019 from the recent assessment panel
+
+for the Grants Under the Arts Act.
+
+**Item 4.**
+
+To note the Made in Limerick Creative Ireland allocations for Strand 1 and 2.
+
+**Item 5.**
+
+To consider the Open Call guidelines for Festivals and Events Grant Scheme.
+
+**Item 6.**
+
+To consider DRAFT brief for Festivals and Events Strategy.
+
+**Item 7.**
+
+Correspondence
+
+**Signed:** **Cllr. Kieran O’Hanlon**
+
+**Cathaoirleach**
+
+**Cultural SPC, Limerick City & County Council**
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

@@ -1,0 +1,92 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020"
+date: 2020-06-09
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-06-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-06</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 9th June 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-agenda-9th-june-2020.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+hairl thrach Ceantar Bardasach Ath Dara-Rath Caola
+ominairie Catnhrac ‘ Corwact
+
+¢ Comhairle Cathwach agus Contae Luimnigh
+= & Contae Luimnigh Aras Séan Finn,
+
+, \ 4 * . N
+Limerick City math Ceol.
+= & County Council Co. Luimnigh.
+Adare-Rathkeale Municipal District,
+4” June, 2020. Limerick City and County Council,
+, Aras Sean Finn,
+New Line
+Rathkeale,
+Co. Limerick.
+
+To:
+
+Adare-Rathnkegie
+
+EIRCODE V94 Hiv
+A Chomhairleoir, a chara, #: 3353 10) 69 63188
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held at
+
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 9 June, 2020 at 9.00 a.m.
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+Karen r,
+Meetings Administrator.
+AGENDA
+1. Minutes
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 3°
+March, 2020.
+(Copy Enclosed)
+2. Operations and Maintenance Services
+District Engineers Report
+To update Members on issues of interest in the District.
+(Report Enclosed)
+
+3. Schedule of Municipal District Works for Adare-Rathkeale
+
+To approve works to be carried out in the District under the Schedule of Municipal District
+
+Works.
+(Copy Enclosed)
+=
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luimneach wvrw Emerick le
+Corporate Headquarters, Merchants Quay, Limerick. 1 yv
+
+@LimerickCouncil
+© 061-556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+General Municipal Allocation (GMA)
+To review position in relation to allocations under the General Municipal Allocation 2020.
+
+(List Enclosed)
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

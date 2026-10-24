@@ -1,0 +1,80 @@
+---
+title: "Agenda - Metropolitan Joint Policing Sub Committee Meeting - 21st May 2018"
+date: 2018-05-21
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Metropolitan Joint Policing Sub Committee Meeting - 21st May 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-05-21</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-05</span>
+
+**Original file:** [Agenda - Metropolitan Joint Policing Sub Committee Meeting - 21st May 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-05/met%20jpc%20agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ars
+
+Seirbhist Corpardidescha,
+
+Comhairle Cathrach desc
+i le Cathrach h,
+——— & Contae Luimnigh = = ere ee
+
+Cé na gCeannaithe,
+
+— Limerick City Luimneach
+& County Council
+
+Corporate Services,
+
+Limerick City and County Council
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH90
+
+t: +353 (0) 61 557150
+18% May, 2018 f; +353 (0) 61 415 266
+
+TO EACH MEMBER OF METROPOLITAN JOINT POLICING SUB COMMITTEE
+
+SOLO TLL TTL LL LRM oR ARN nen Ne KKsseseseseseteceesenecerecerere
+
+A Chara,
+
+As previously advised a Meeting of the Metropolitan Joint Policing Sub Committee will take place in
+the Council Chamber, Merchant's Quay, on Mo * Mi 018 at 12.
+
+Details of Agenda to be discussed at the meeting are set out hereunder :
+Is mise, le meas,
+0.2
+fixate
+\ nior Executive Officer
+
+1. To confirm Minutes of Metropolitan Joint Policing Sub Committee Meeting held on 19”
+February, 2018
+
+2. To receive update from Superintendent Derek G. Smart
+
+= customerservices@limerick.te
+@ wewlimerickle
+
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach yw @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 587150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

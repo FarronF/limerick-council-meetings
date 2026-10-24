@@ -1,0 +1,181 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022"
+date: 2022-01-12
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-01-12</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Newcastle West - 12th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-2022-01-12-agenda-january.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—__ Comhairle Cathrach conn Dercais is an Chaisiedin Nua Thiar,
+: Cethrach agus Oontae Luimnigh,
+"~~ & Contae Luimnigh Resin Sem
+“rN ——__—___——_ Smith O'Brien,
+— Limerick City . An Catstedn Nua Thiar,
+
+& County Council Co. Luimnigh.
+
+Newcasth West Municipal District,
+
+Lirretich City and County Council
+
+Ades Witiarn Srrith O'Brien,
+
+Gortboy,
+
+Newcastle West,
+
+Co. Limerick.
+
+Ewcode: V42UH73
+
+& +555 (0) 69 62100
+7" January, 2022
+
+To:
+
+A Chomhairleoir, a chara,
+
+You are requested to attend an Online Meeting of the Municipal District of Newcastle West
+to be held on Wednesday, 12 January, 2022, at 10.00 a.m. The business to be transacted is
+set out on the appended Agenda.
+
+Is mise le meas,
+
+Margaret Corbett,
+Margaret Corbett,
+Meetings Administrator.
+AGENDA
+1. Minutes
+
+To adopt Minutes of Meeting of the Municipal District of Newcastle West held on 1*
+December, 2021.
+
+(Copy Enclosed)
+
+2. General Municipal All
+
+To review position in relation to allocations under the General Municipal Allocation
+
+2022.
+customerservices@limerickie
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Luimneach = © wwew timericic ie
+Corporate Headquarters, Merchant's Quay, Limerick yv
+
+@LimerickCouncil
+© 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+5.
+
+7.
+
+11.
+
+QUESTIONS
+
+Questions submitted by Councillor T. Ruddle
+
+| will ask at the next Meeting for a clean up to be carried out of the Mass Path from
+Maiden Street to Assumpta Park in Newcastle West.
+
+| will ask at the next Meeting for an update on the progress of the pedestrian
+crossings for (a) Castlemahon National School and (b) Killoughteen National School.
+
+| will ask at the next Meeting if contact can be made with the Til regarding the
+repairing of the N21 from Dee's Filling Station to Lacey's Cross, Newcastle West.
+Parts are in poor condition and as this is the main road through the town, it should
+always be in good condition as it showcases the town.
+
+Questions submitted by Councillor L. Galvin
+
+| will ask at the next Meeting for a detailed update on (a) the Abbeyfeale Traffic
+Management Plan (b) works for Wards Cross (c) works for Cryle view junction,
+Abbeyfeale.
+
+| will ask at the next Meeting for a detailed update on St. Ita’s Road, Abbeyfeale
+on (a) road re-alignment (b) footpath relocation (c) extension of footpath up to
+Fitzgerald's farmhouse (d) drainage.
+
+| will ask at the next Meeting how many agencies are involved in our rivers and lakes.
+Please name them.
+
+Questions submitted by Councillor Scanian
+| will ask at the next Meeting when (a) the 2 Council owned properties at Coolaboy,
+
+The Square, Dromcollogher will be cleaned up and (b) what plans are in place to
+have them tenanted and in what timeframe.
+
+| will ask at the next Meeting for (a) what the up to date position is with the
+purchase contract of the 19 Turnkey properties at D.C. manor, Woodfield, Newcastle
+West (b) when are the terms of offer to the public likely to be advertised and (c)
+when those units will be available for occupancy.
+
+| will ask at the next Meeting for the raised road constructions between the entrance
+to Michael Harnett Close and Newcastle West Motor Factors to be refined in the
+interest of safety.
+
+Question submitted by Councillor Foley
+
+| will ask at the next Meeting for the footpath to be replaced from Maurice O’Connell
+to Gala Supermarket on the Killarney Road, Abbeyfeale.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+14.
+
+16.
+
+17.
+
+NOTICES OF MOTION
+submitt Coun Galvin
+
+| will move at the next Meeting that this Council calls on the ESB to upgrade the
+electricity supply at Clash, Athea.
+
+| will move at the next Meeting that this Council calls on the state to have only one
+agency with responsibility for our rivers and lakes.
+
+of Motion subm . Scanian
+| will move at the next Meeting that our Roads Section liaise with the Til in order to
+resolve the matter of congestion on the N21 at the Bridge of Tears roundabout,
+
+Newcastle West.
+
+I will move at the next Meeting that public toilets be provided at The Demesne Park,
+Newcastle West.
+
+Notice of Motion submitted by Councillor Foley
+
+| will move at the next Meeting that safety measures be put in place on the N21 at the
+junction known as Dillane’s Forge leading onto the L7056 in Templeglantine.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+

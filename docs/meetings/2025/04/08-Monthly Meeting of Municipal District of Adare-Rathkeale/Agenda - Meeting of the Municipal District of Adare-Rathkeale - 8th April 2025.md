@@ -1,0 +1,156 @@
+---
+title: "Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th April 2025"
+date: 2025-04-08
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th April 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-04-08</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-04</span>
+
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th April 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-04/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-8th-april-2025.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_ Comhairle Cathrach P a horbosragh Ath Dara-Rath Caola,
+., Py Somhairie Cathrach agus Contae Lutmnigh,
+
+= ~~ & Contae Luimnigh Aras Séan Fenn,
+\ . . A Line Nua,
+—=— Limerick City Rath Coola,
+
+& County Council Co. Luimnigh.
+
+Adare-Rathkeale Municpal District,
+Limerick City and County Council,
+Aras Sean Finn,
+
+New Line,
+
+Rathkeale,
+
+Co. Limerick.
+
+EIRCODE V94 HKIV
+
+t +353 (0) 69 64047
+ft: +353 (0) 69 63188
+2" April, 2025.
+
+To:
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 8" April, 2025 at 9.30 a.m.
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+Karen Butler,
+Meetings Administrator.
+AGENDA
+a. Minutes
+To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale held on
+11" March, 2025.
+(Copy Enclosed).
+2. Declaration of Interest
+am customerservices@limerick.ie
+Ceanncheathri Chorparéideach, Cé na gCeannaithe,Luimneach | © veurwimerick.ie
+Corporate Headquarters, Merchants Quay, Limerick. W @LimerickCouncil
+
+( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+Disposal of Land
+To note proposal for the disposal of 0.0097 acres (0.0039 hectares) of land at Main Street,
+Askeaton, Co. Limerick.
+
+(Report Enclosed).
+Deputation from Coolcappa Action Group
+To receive a Deputation from Coolcappa Action Group (Item to be taken at 9.45 am).
+Planning and Place-Making Directorate
+Flood Relief Scheme for Adare
+To receive a presentation on the Flood Relief Scheme for Adare.
+Rural, Community, Culture and Tourism Development Directorate
+Croi Cénaithe — Vacant Property Refurbishment Grant
+To receive a presentation on the Croj Cénaithe Vacant Property Refurbishment Grant.
+Environment, Climate Action and Shared Services Directorate
+Gortnadroma Landfill
+To receive an update on the potential future use of the Gortnadroma Landfill.
+Transportation and Mobility Directorate
+Foynes to Limerick Road (Including the Adare Bypass) Project
+To receive an update on the Foynes to Limerick Road (Including the Adare Bypass) Project.
+District Engineers Report
+
+To update Members on issues of interest in the District.
+(Report Enclosed).
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation 2025.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+11.
+
+12.
+
+14.
+
+16.
+
+QUESTIONS
+
+Question submitted by Councillor A. Teskey
+
+| will ask at the next Meeting does this Local Authority carry out independent noise
+monitoring in areas in which wind farms exist, if so how often do these take place and
+what repercussions are to be imposed on such a development if noise levels are
+recorded as unsatisfactory.
+
+Question submitted by Councillor A. Teskey
+| will ask at the next Meeting what are the official speed limits now on the N21
+
+particularly on entering and exiting Croagh. Was the limit changed recently. If so by
+who and who authorised such change.
+
+Question submitted by Councillor A. Teskey
+
+| will ask at the next Meeting how much was paid out by Limerick City and County
+Councils Insurance Department for all public liability associated claims and costs in
+2024.
+
+NOTICE OF MOTION
+
+Notice of Motion submitted by Councillor A, Teskey
+
+I will move at the next Meeting that the May District Meeting takes place in St. Mary's
+National School, Croom.
+
+(Copy of Correspondence Enclosed).
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+

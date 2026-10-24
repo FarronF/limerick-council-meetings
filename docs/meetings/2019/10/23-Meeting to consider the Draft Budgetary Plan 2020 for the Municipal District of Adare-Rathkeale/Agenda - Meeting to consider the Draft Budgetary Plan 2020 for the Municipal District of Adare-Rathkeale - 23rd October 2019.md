@@ -1,0 +1,68 @@
+---
+title: "Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale - 23rd October 2019"
+date: 2019-10-23
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale - 23rd October 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-10-23</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
+
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale - 23rd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/00%20Agenda%2023rd%20October%2C%202019_0.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Rith Caola,
+— 6 Contae Luimnigh Comhairle Cathrach agus Contae Luimnigh,
+
+= poe Aras Séan Finn
+”~ o . . A Line Nua.
+— Limerick City Rath Caola
+& County Council Co, Luimnigh
+Adare-Rathkeale Municipal District
+Limerick City and County Council
+Aras Sean Finny
+New Line.
+Rathkeale.
+Co. Limerick.
+16" October, 2019. EIRCODE 94 HK1V
+t: +3553 (0) 69 64047
+f: +353 (0) 69 63188
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-
+
+Rathkeale
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting to consider the Draft Budgetary Plan 2020 for the Municipal
+District of Adare-Rathkeale to be held at Aras Sedn Finn, New Line Road, Rathkeale, Co. Limerick,
+
+on Wednesday, 23 October, 2019 at 2:45 p.m. The business to be transacted is set out on the
+appended Agenda.
+Is mise le meas,
+Kare
+Meetings Administrator.
+AGENDA
+
+1. To consider the Draft Budgetary Plan 2020 for the Municipal District of Adare-Rathkeale.
+
+(Report Attached)
+
+m& customerservices@limerickie
+Ceanncheathru Chorpardideach, Cé na gCeannaithe,Luimneach | © wenilimerickie
+Corporate Headquarters, Merchants Quay, Limerick. “C elcuaaes
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

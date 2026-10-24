@@ -1,0 +1,81 @@
+---
+title: "Agenda - Meeting of the Environment Strategic Policy Committee (SPC) - 25th June 2018"
+date: 2018-06-25
+council_body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Environment Strategic Policy Committee (SPC) - 25th June 2018</span>
+<span data-pagefind-meta="date" style="display:none;">2018-06-25</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
+
+**Original file:** [Agenda - Meeting of the Environment Strategic Policy Committee (SPC) - 25th June 2018.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/25th%20June%202018-%20Agenda%20Environment%20Strategic%20Policy%20Committee.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**20th** **June 2018**
+
+**To: The Chairperson and Each Member of the Environment Strategic Policy Committee of**
+
+**Limerick City & County Council**
+
+You are invited to attend a Meeting of the Environment Strategic Policy Committee to be
+
+held in the **Council Chamber, Corporate Headquarters,** **Merchant’s Quay,** **Limerick**, on
+
+**Monday 25th** **June 2018 at 2:00 p.m.** The business to be transacted is set out in the
+
+appended agenda.
+
+**\*\* Please note the change of time and venue for this meeting\*\***
+
+**Signed:** **Jerome Scanlan**
+
+**CHAIRPERSON OF THE ENVIRONMENT STRATEGIC POLICY COMMITTEE**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**DIRECTOR OF SERVICE,**
+
+**PHYSICAL DEVELOPMENT DIRECTORATE**
+
+(Image omitted)
+(Image omitted)
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Agenda**
+
+1. **Minutes**
+
+To adopt the minutes of the Meeting of the Environment Strategic Policy Committee
+
+held on 26th February 2018.
+
+(Copy Enclosed)
+
+2. **Briefing on the Eastern & Midlands Region Water Supply Project** **–** **Mr. Pat Murphy and**
+
+**Ms. Angela Ryan, Irish Water**
+
+3. **Briefing in relation to Plastic Waste** **–** **Mr. Mark McConnell**
+
+4. **Update on the River Basin Management Plan for Ireland 2018** **–** **2021** **–** **Ms. Anne**
+
+**Goggin**
+
+5. **Update on the Draft Noise Action Plan** **–** **Ms. Anne Goggin**
+
+6. **Discussion in relation to the Eradication of Japanese Knotweed**
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

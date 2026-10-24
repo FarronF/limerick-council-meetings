@@ -1,0 +1,85 @@
+---
+title: "Agenda - Special Meeting of the Municipal District of Newcastle West - 23rd March 2022"
+date: 2022-03-23
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Newcastle West - 23rd March 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-03-23</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-03</span>
+
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 23rd March 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-03/00-2022-03-23-agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ontae Luimnigh
+aArN ——————————
+
+—> Limerick City
+& County Council,
+
+16" March, 2022
+
+Daiche Bardais an Chaisiedin Nua Thier,
+Combairte Cathwach agus Contae Luimnigh,
+Aras William Smith O'Brien,
+
+Gortbul,
+
+An Caisiedn Nua ‘Thiar,
+
+Newcastle West Municipal District,
+Limerick City and County Council,
+Aras William Smith O'Brien,
+Goriboy,
+
+Newcastle West,
+
+Co. Limerick
+
+Ewcode: V42EH73
+
+t: +353 (0) 69 62100
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Municipal District of Newcastle West to
+be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on Wednesday, 23
+March, 2022, at 10.00 a.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Martin Curran,
+Meetings Administrator.
+
+AGENDA
+
+1. Transportation and Mobility Directorate
+
+To receive Update on Distributor Roads for Newcastle West and Abbeyfeale.
+
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchant's Quay, Limerick
+
+& customerservices@limerick.te
+e www.limerick.ie
+@LimerickCouncil
+
+( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

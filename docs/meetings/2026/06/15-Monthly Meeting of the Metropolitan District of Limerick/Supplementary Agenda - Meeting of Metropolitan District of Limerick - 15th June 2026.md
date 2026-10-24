@@ -1,0 +1,70 @@
+---
+title: "Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th June 2026"
+date: 2026-06-15
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th June 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-06-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-06</span>
+
+**Original file:** [Supplementary Agenda - Meeting of Metropolitan District of Limerick - 15th June 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-06/supplementary-agenda-meeting-of-metropolitan-district-of-limerick-15th-june-2026.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ae Comhairle Cathrach Sesbhisi Corpardkdeacha, Rialachais & Custaiméara
+Comnairie Cathrach & Contae Luimnigh
+& Contae Luimnigh Ceanncheartha Chorparaideach
+
+nNro™N F i . SE ——— Cé na gCeannaithe
+— Limerick City _ Luimneach. v94 EH90
+& County Council
+Corporate, Governance & Customer Services
+Limerick City and County Council
+Corporate Headquarters
+Merchant's Quay
+
+Limerick. V94 EH90
+t: +353 (0) 61 557 150
+
+12" June 2026
+
+To: The Cathaoirleach and each Member of the Metropolitan District of Limerick
+
+A Chomhairleoir, a chara,
+
+| refer to the Agenda for Meeting of the Metropolitan District of Limerick to be held on 15™
+June 2026 in the Council Chamber, Merchant’s Quay and Online via Microsoft Teams and set
+out hereunder Supplementary Item No. 7 (a) as follows:
+
+7(a) Whitebox
+
+To receive an update from Whitebox on Developments in Moyross.
+
+Is mise le meas,
+
+Ate. fou
+
+Aedin Foley,
+Meetings Administrator.
+t~] imerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach www.limerick.te
+WY @lLimerickCouncil
+
+Corporate Headquarters, Merchant's Quay, Limerick
+(061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

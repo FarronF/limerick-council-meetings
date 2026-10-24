@@ -1,0 +1,81 @@
+---
+title: "Agenda - Special In Committee Meeting of Adare-Rathkeale - 5th September 2017"
+date: 2017-09-05
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special In Committee Meeting of Adare-Rathkeale - 5th September 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-09-05</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-09</span>
+
+**Original file:** [Agenda - Special In Committee Meeting of Adare-Rathkeale - 5th September 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-09/Agenda%205th%20September%202017.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+; Seirbhisi Corpardideacha.
+
+—— Comhairle Cathrach Comhairle Cathrach eas Contae Luimnigh,
+& Contae Luimnigh Ceanncheathni Chorpardideach,
+
+AN So —_—_———————— Cé na gCeannaithe,
+=— Limerick City Luimneach
+
+& County Council Geqnaiiia Gevicnd
+
+Limerick City and County Council
+Corporate Headquarters,
+
+Merchants Quay,
+Limerick
+
+EIRCODE V94 EH90
+
+st t; +353 (0) 61 557150
+31° August, 2017. f: +353 (0) 61 415 266
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+Following on from the workshop held on 15" August, 2017 to discuss the foul sewer in Adare a
+Special Meeting has been arranged with Irish Water to discuss this matter.
+
+You are requested to attend a Special Meeting ‘in committee’ of the Municipal District of Adare-
+Rathkeale to be held in the Training Room, Lower Ground Floor, Council Offices, Dooradoyle on
+
+Tuesday, 5" September, 2017 at 6.30 p.m.
+
+Is mise le meas,
+
+PZ im,
+om O'Callaghan,
+
+Meetings Administrator.
+
+AGENDA
+1. Foul Sewer in Adare
+
+To discuss the foul sewer in Adare (Mr. John O'Shaughnessy, South Regional Connections and
+Developer Services Manager, Irish Water to attend).
+
+customerservices@limerickie
+
+i . @ vwewslimerickie
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach Ww @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick . ( 061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

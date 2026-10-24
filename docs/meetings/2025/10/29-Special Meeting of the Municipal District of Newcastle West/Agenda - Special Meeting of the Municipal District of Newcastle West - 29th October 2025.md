@@ -1,0 +1,79 @@
+---
+title: "Agenda - Special Meeting of the Municipal District of Newcastle West - 29th October 2025"
+date: 2025-10-29
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Newcastle West - 29th October 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-10-29</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-10</span>
+
+**Original file:** [Agenda - Special Meeting of the Municipal District of Newcastle West - 29th October 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-10/agenda-special-meeting-of-the-municipal-district-of-newcastle-west-29th-october-2025.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+Comhairle Cathrach agus Contae Luimnigh,
+
+AN Ll ™ 6 Contae Ladmnigh Aras William Smith O'Brien,
+, Gortbut,
+
+—— Limerick City ; An Caisiean Nua Thiar,
+
+& County Council Co, Luimnigh
+
+Newcastle West Municipal District
+Limerick City and County Council,
+Aras William Smith O'Brien,
+Gortboy,
+
+Newcastle West,
+
+Co. Limerick.
+
+Eircode: V42EH73
+24" October, 2025 t: +353 (0) 69 62100
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Municipal District of Newcastle West to
+be held in Aras William Smith OBrien, Newcastle West, Co. Limerick, and Online, on
+
+Wednesday, 29" October, 2025, at 10.00 a.m. The business to be transacted is set out on
+
+the appended Agenda.
+
+Is mise le meas,
+
+op Headlor Supple.
+Heather Supple,
+Meetings Administrator.
+
+AGENDA
+
+1. To Discuss Mayoral Fund
+
+To Discuss Mayoral Fund towards Christmas lights in Newcastle West.
+
+= customerservices@limerick.ie
+
+Ceanncheathru Chorparaideach, Cé na gCeannaithe, Luimneach © veo limerick.ie
+Corporate Headquarters, Merchant's Quay, Limerick W @LimerickCouncil
+(061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

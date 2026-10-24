@@ -1,0 +1,65 @@
+---
+title: "Agenda for Special Meeting of Limerick City and County Council - 15th April 2015"
+date: 2015-04-15
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda for Special Meeting of Limerick City and County Council - 15th April 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-04-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-04</span>
+
+**Original file:** [Agenda for Special Meeting of Limerick City and County Council - 15th April 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_for_special_meeting_of_limerick_city_and_county_council_-_15th_april_2015.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+(Image omitted)
+(Image omitted)
+
+9th April, 2015.
+
+**To: The Mayor and Each Member of Limerick City and County Council**
+
+**A Chomhairleoir, a chara,**
+
+The Mayor, Councillor Kevin Sheahan, has called a Special Meeting of Limerick City
+
+and County Council to be held in the Council Chamber, Dooradoyle, on **Wednesday,**
+
+**15th** **April, 2015, at 3.00 p.m.**
+
+The business to be transacted is set out below.
+
+**Is mise le meas,**
+
+**Eugene Griffin,**
+
+**Meetings Administrator.**
+
+**----------------------------------------------------------------------------------------------------------------**
+
+AGENDA
+
+1.
+
+Age Friendly Limerick
+
+To hear presentation on Age Friendly Limerick.
+
+2.
+
+Twinning
+
+To consider approving Twinning Visit to USA in accordance with Section
+
+142(5) of the Local Government Act, 2001.
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

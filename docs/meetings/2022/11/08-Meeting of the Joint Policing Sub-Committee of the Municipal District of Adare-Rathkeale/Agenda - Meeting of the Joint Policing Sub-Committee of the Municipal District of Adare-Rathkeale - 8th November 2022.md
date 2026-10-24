@@ -1,0 +1,73 @@
+---
+title: "Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 8th November 2022"
+date: 2022-11-08
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 8th November 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-11-08</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-11</span>
+
+**Original file:** [Agenda - Meeting of the Joint Policing Sub-Committee of the Municipal District of Adare-Rathkeale - 8th November 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-11/00%20Agenda%208th%20November%202022%20JPC.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+a Comhairle Cathrach Ceantar Bardasgach Ath Dara-Rath Caola,
+‘ : Comhairle Cathvach agus Contae Luimnigh.
+mn o™ & Contae Luimnigh ires Sdar\ Flo
+. Une Nua,
+& County Council Co. Luirmnigh.
+Adare-Rathkeale Municipal District,
+Limerick City and County Council
+Aras Sean Finn,
+New Line,
+Rathkesle,
+Co. Limerick.
+rd EIRCODE V94 HKIV
+3 November, 2022.
+
+t: +353 (0) 69 64047
+f: +353 (0) 69 63188
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale JPC Sub-
+
+Committee to be held on Tuesday 8 November, 2022 at 12.30 p.m. The business to be
+transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+aren Butle
+Meetings Administrator.
+
+AGENDA
+1. Minutes
+
+To adopt Minutes of the Meeting of the Joint Policing Sub-Committee of the Municipal
+District of Adare-Rathkeale held on 12 November, 2019.
+
+(Copy Enclosed).
+To discuss policing issues in the District.
+customerservices@limerickie
+Ceanncheathri Chorpardideach, Cé na gCeannaithe,Luimneach 1 © wwnwlimerickie
+
+Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
+( 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

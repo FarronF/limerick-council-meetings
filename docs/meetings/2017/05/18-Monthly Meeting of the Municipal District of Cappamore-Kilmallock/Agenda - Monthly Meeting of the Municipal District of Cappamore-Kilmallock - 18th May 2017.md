@@ -1,0 +1,131 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2017"
+date: 2017-05-18
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-05-18</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-05</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 18th May 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-05/Agenda%20-%20Monthly%20Meeting%20of%20the%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2018th%20May%202017.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+i Seirbhisi Corpardideacha,
+Comhairle Cathrach agus Contae Luimnigh,
+
+ANG : Ceanncheathni Chorpardideach.
+—=_ Cé na gCeannaithe,
+COMHAIRLE Lammeech
+CATHRACH & CONTAE Corporate $
+. . rate Services,
+. . Corporate Headquarters.
+Limerick Merchants Quay.
+CITY & COUNTY Limerick
+COUNCIL
+
+EIRCODE V94 E190
+
+th t: +353 (0) 61 407 100
+12” May, 2017. f: +353 (0) 61415 266
+To/ haoirleach_and Ea r i ict_of Cappamore- __
+
+Kilmallock
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
+
+held at John the Baptist School, Hospital, Co. Limerick, on Thursday, 18 May, 2017, at
+
+3.45p.m. The business to be transacted is set out on the appended Agenda.
+
+Is x le meas,
+a ent? 2
+
+Meetings Administrator.
+
+AGENDA
+1. Minutes
+
+To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
+20" April, 2017.
+(Copy Enclosed)
+
+2. Support Services Directorate
+
+Fixing of Date
+
+To agree date for the Annual Meeting of the Municipal District of Cappamore-
+Kilmallock.
+
+3. Disposal of Land
+To note proposal for the disposal of land at:
+
+(a) West End, Kilfinane.
+(b) Knockanerry, Murroe.
+(Reports Enclosed)
+
+© customerservices@limerick.ic
+
+@ woewlimerick.ic
+
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Lubmneach wv @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061 - 496200
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+4.
+
+CareBright, Bruff
+
+To receive presentation from CareBright, Bruff.
+
+Social Development Directorate
+Limerick City and County Council Housing Programme 2017
+
+To receive presentation on the Limerick City and County Council Housing Programme
+2017.
+
+Service Operations Directorate
+Taking-in-Charge of Estates - Declaration of Roads to be Public Roads
+
+To consider the taking-in-charge of Whitethorns, Caherconlish, Co. Limerick, in
+accordance with Section 180 of the Planning and Development Acts, 2000-2015, and
+
+Section 11 of the Roads Act, 1993.
+(Report Enclosed)
+
+QUESTION
+Question submitted by Councillor B. Teefy
+
+I will ask at the next meeting how many temporary outdoor staff are being allocated to the
+Cappamore-Kilmallock District and, in particular, the breakdown for Annacotty and Kilmallock.
+
+NOTICE OF MOTION
+
+Notice of Motion submitted by Councillor L.M. Sheehy
+
+1 will move at the next Meeting that Limerick City and County Council start work in order to
+improve visibility at the dangerous junction outside the church in Bulgaden and improve road
+markings and signage and take precautions to reduce speed on this route.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

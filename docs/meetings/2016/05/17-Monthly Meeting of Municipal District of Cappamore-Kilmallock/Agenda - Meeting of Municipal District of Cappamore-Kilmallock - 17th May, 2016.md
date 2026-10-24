@@ -1,0 +1,126 @@
+---
+title: "Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 17th May, 2016"
+date: 2016-05-17
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 17th May, 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-05-17</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-05</span>
+
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 17th May, 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2017th%20May%2C%202016.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+ee
+
+Seirbhis( Corparaideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh.
+
+ANF : Cé na gCeannaithe,
+—== Luimneach
+Limerick Corporate Services and Change Management,
+CITY & COUNTY Limerick City and — ira
+rchan y.
+
+COUNCIL aeee
+13" May, 2016. t: +353 (0) 61 407 100
+
+f: +353 (0) 61 415 266
+
+To/ The Cathaoirleach and each Member of the Municipal District_of Cappamore-
+
+Kilmallock
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
+held in John the Baptist Community School, Hospital, Co. Limerick on Tuesday, 17" May, 2016.
+The business to be transacted is set out on the appended Agenda.
+
+The Municipal Reception to acknowledge the achievement of John the Baptist Community
+School, Hospital (Ladies Football Team) in winning the Senior All Ireland Schools “B” Ladies
+Football Championship 2015-2016 will take place at 3.30pm and will be followed by the May
+Monthly Meeting.
+
+Tou: Urors
+
+Tina Knox,
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes
+
+To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
+21* April, 2016.
+
+(Copy Enclosed).
+
+2. rvi ns Dir: ri
+
+To receive update from the Road Safety Education Officer on School Wardens and
+Traffic Calming at Primary Schools.
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+& customerservices@limerick.ic
+@ wewew limerick.te
+vw @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Physical Development Directorate
+
+To receive update from Senior Executive Officer on Speed Limit Review.
+
+Social Development Directorate
+
+To note contributions under the Community Initiative Scheme 2016 for the District.
+
+Corporate Services
+
+Meeting of Municipal District
+
+To agree date for the June Meeting and Annual Meeting of the Municipal District of
+Cappamore-Kilmallock.
+
+QUESTIONS
+
+Question submitted by Councillor B. Teefy
+
+| will ask at the next Meeting what is the position with regard to the development of
+the extra grave spaces in Dromkeen Graveyard.
+
+NOTICES OF MOTION
+
+Notice of Motion submitted by Councillor M. Donegan
+
+| will move at the next meeting that Transport Infrastructure Ireland be
+requested to carry out a Traffic Impact Assessment at Hynes Cross on the N20 to
+improve right turning vehicles, road signage and markings.
+
+Notice of Motion submitted by Councillor G. Mitchell
+
+| will move at the next Meeting that Cluinfoinse Estate be taken in charge as a matter of
+urgency.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

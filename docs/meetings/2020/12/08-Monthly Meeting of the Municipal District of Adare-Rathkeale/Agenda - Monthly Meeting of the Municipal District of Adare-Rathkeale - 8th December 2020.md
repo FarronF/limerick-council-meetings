@@ -1,0 +1,155 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th December 2020"
+date: 2020-12-08
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th December 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-12-08</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-12</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Adare-Rathkeale - 8th December 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-12/00-agenda-8th-december-2020-version-2.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_ Comhairle Cathrach
+& Contae Luimnigh
+AN fi —___——
+—> Limerick City
+& County Council
+
+3 December, 2020.
+
+Ceantar Bardasach Ath Dara-Rath Caola
+Comhairle Cathrach agus Contae Luimnigh,
+Aras Séan Finn,
+
+Line Nua,
+
+Rath Cacia,
+
+Co, Laimnagh.
+
+Adare-Rathkeale Municipal District,
+Limenck Cvty and County Council,
+Aras Sean Finn,
+
+New Line,
+
+Rathkeale,
+
+Co, Limerick.
+
+EIRCODE V94 HKLV
+
+t: +353 (0) 69 64047
+f: +353 (0) 69 63188
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
+the Council Chamber, Dooradoyle, Limerick on Tuesday, 8" December, 2020 at 9.15 a.m. The
+
+business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Aao_
+
+Kare A
+Meetings Administrator.
+
+AGENDA
+
+To adopt Minutes of Meeting of the Municipal District of Adare-Rathkeale held on 10°
+
+November, 2020.
+
+2. Housing Development Directorate
+
+(Copy Enclosed).
+
+To receive an update presentation from the Housing Development Directorate.
+
+3. Community Development Directorate
+Adare Heritage Centre
+
+To note update report on the Adare Heritage Centre.
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe,Luimneach |
+Corporate Headquarters, Merchants Quay, Limerick.
+
+(Report Enclosed).
+= customerservices@limerick.ie
+© wwewlimerickie
+W @LimerickCouncil
+( 061 - 886 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Operations and Maintenance Services
+District Engineers Report
+
+To update Members on issues of interest in the District.
+(Report Enclosed).
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation 2020.
+
+QUESTION
+
+Question submitted by Councillor K. Sheahan
+| will ask at the next Meeting for an update on when Reilig Mhuire Burial Ground in
+Askeaton is going to be extended.
+
+ADJOURNED NOTICES OF MOTION
+Notice of Motion submitted by Councillor K. Sheahan
+| will move at the next Meeting that this District would convene a Special Meeting to
+discuss the future of the Industrical Park Lands in Askeaton.
+Notice of Motion submitted by Councillor A. Teskey
+| will move at the next Meeting that this District write to the Minister of Communications
+in lobbying for better internet access along with increased phone coverage for the village
+of Croagh.
+Notice of Moti bmitted by C illor A. Tes!
+
+I will move at the next Meeting for a new post and rail fence to be erected in St. Mary’s
+Park, Rathkeale.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+11.
+
+12.
+
+I will move at the next Meeting to call on Limerick City and County Council to provide a
+fully equipped modern library in Askeaton.
+
+(Copy of Correspondence Enclosed).
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+

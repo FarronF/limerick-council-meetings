@@ -1,0 +1,104 @@
+---
+title: "Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 7th September 2020"
+date: 2020-09-07
+council_body: "Community, Leisure & Emergency Services SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 7th September 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-09-07</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Community, Leisure & Emergency Services SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-09</span>
+
+**Original file:** [Agenda - Meeting of the Community, Leisure and Culture Strategic Policy Committee - 7th September 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-08/20200907-agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**LIMERICK CITY AND COUNTY COUNCIL**
+
+**Community, Leisure and Culture**
+
+**Corporate Headquarters**
+
+**Merchant’s Quay**
+
+**Limerick**
+
+**27th** **August, 2020**
+
+**TO: THE CHAIR AND EACH MEMBER OF THE COMMUNITY**
+
+**LEISURE AND CULTURE STRATEGIC POLICY COMMITTEE**
+
+**The next meeting of Limerick City and County Council, Community, Leisure and Culture**
+
+**Strategic Policy Committee will be held on Monday, 7th** **September, 2020 at 3:00 pm**
+
+**In the Council Chamber, Limerick City & County Council, Dooradoyle, Limerick.**
+
+**AGENDA**
+
+**Item 1**
+
+Adoption of Minutes of Community, Leisure & Culture Strategic Policy
+
+Committee held on 6th July, 2020.
+
+**Item 2**
+
+Matters Arising
+
+**Item 3**
+
+Draft Play Policy
+
+**Item 4**
+
+Limerick 50 days of Summer Programme
+
+**Item 5**
+
+Festival & Events Strategy Development Progress Report
+
+**Item 6**
+
+To consider a notice of motion from Cllr Sean Hartigan (Referred from the
+
+Metropolitan District of Limerick meeting held on 20th July, 2020)
+
+***“I*** ***will move at the next meeting that Limerick City and County Council carry***
+
+***out a feasibility study into the development of a Shannon River Interpretive***
+
+***Centre, to be located on the banks of the river in Limerick City.*** ***“***
+
+**Item 7**
+
+To consider a notice of motion from Cllr Elisa O’ Donovan (Referred from the
+
+Metropolitan District of Limerick meeting held on 20th July, 2020)
+
+***“**I will move at the next meeting that this Council put in place a working group***
+
+***to establish Limerick as an Autism-friendly City.*** ***“***
+
+**Item 8**
+
+Date of next Meeting
+
+**Kieran** **O’ Hanlon**
+
+**Chairperson**
+
+**Community, Leisure and Culture SPC**
+
+**Limerick City and County Council**
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

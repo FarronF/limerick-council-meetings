@@ -1,0 +1,102 @@
+---
+title: "Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 25th July 2017"
+date: 2017-07-25
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 25th July 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-07-25</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-07</span>
+
+**Original file:** [Agenda - Special Meeting of the Municipal District of Adare-Rathkeale - 25th July 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/Agenda%2025th%20July%252c%202017%20%281%29.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Seirbhis{ Corpardideacha.
+_—_—_— & Contae Luimnigh a psc de ahi pr tb
+aAr™N —————————— cé annaithe,
+——— Limerick city aaa
+& County Council
+Corporate Services,
+Limerick City and County Council,
+Corporate Headquarters,
+
+Merchants Quay,
+Limerick
+
+EIRCODE V94 EH90
+
+20" July, 2017.
+t: +353 (0) 61 557150
+f: +353 (0) 61 415 266
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Municipal District of Adare-Rathkeale to be
+held at Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick, on Tuesday, 25 July, 2017 at 6.30
+p.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+FLL
+
+Meetings Administrator.
+
+AGENDA
+
+1. Policing Issues
+
+To discuss policing issues in the District (Superintendent Tom O’Connor to attend).
+
+2. Review of Part 8
+
+To discuss proposed Part 8 — Extension of the Great Southern Greenway walking and cycling
+route from Rathkelae to Ballingarrane, Co. Limerick along the former Limerick to Kerry
+
+railway line.
+(This item to be taken in committee)
+
+3. Economic Development Directorate
+
+Part 8 — Extension of the Great Southern Greenway walking and cycling route from
+Rathkeale to Ballingarrane, Co. Limerick along the former Limerick to Kerry railway line
+
+To consider the Chief Executive’s Report, prepared pursuant to Section 179(3) (a) of the
+Planning and Development Act 2000 (as amended) and Part VIII of the Planning and
+
+& customerservices@limerick.ic
+ wvalimerick.ie
+
+Ceanncheathrit Chorpardideach, Cé na gCeannaithe, Luimneach !
+
+w @LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick ( 061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Development Regulations 2001 (as amended) in relation to the Extension of the Great
+Southern Greenway walking and cycling route from Rathkeale to Ballingarrane, Co. Limerick
+along the former Limerick to Kerry railway line.
+
+(Copy Enclosed)
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

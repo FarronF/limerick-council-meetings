@@ -1,0 +1,79 @@
+---
+title: "Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District - 20th February 2020"
+date: 2020-02-20
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District - 20th February 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-02-20</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-02</span>
+
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting for Elected Members of the Cappamore-Kilmallock Municipal District - 20th February 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-02/01-jpc-agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Comhairle Cathrach agus Contae Luimnigh,
+
+& Contae Luimnigh Oiftg an Cheantair, Aras eee ee Motosse
+
+NTN b . - Co. Luimnigh:
+—>= Limerick City
+
+& County Council Limerick City and County Council,
+
+Aras Mainchin Seoighe Area Office,
+
+Kilmallock,
+
+Co. Limerick
+
+EIRCODE V35 K497
+
+t: +353 (0) 63 980 19
+f; +353 (0) 63 985 99
+
+14 February, 2020.
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock Joint
+Policing Sub-Committee to be held at Aras Mainchin Seoighe, Millmount, Kilmallock, Co.
+Limerick, on Thursday, 20th February, 2020 at 3.00 p.m.
+
+The business to be transacted is set out on the Agenda below.
+
+Is mise le meas,
+Mark Leahy, /
+Meetings Administrator.
+
+1. Minutes
+
+AGENDA
+
+To adopt Minutes of Meeting of the Cappamore-Kilmallock Municipal District Joint Policing
+Sub-Committee held on 21st November, 2019.
+
+2. Policing Issues
+
+To discuss policing issues in the District.
+
+= csuneneeenere*
+Comhairle Cathrach agus Contse Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe www.limericicie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office ahteat
+
+063 980 19
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

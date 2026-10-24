@@ -1,0 +1,77 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 10th May 2022"
+date: 2022-05-10
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 10th May 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-05-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-05</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 10th May 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-05/Agenda%20Special%20Meeting%2010.05.2022.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+. Sembhisi Corpardéideacha,
+
+_ par telrolef peredaberd Comhairle Cathrach agus Contae Lutmnigh,
+
+ontae Luimnigh Ceanncheathna Chorparaidesch,
+
+ACN N\ ——— Cé na gCeannaithe,
+
+Limerick City Luimneach
+= & County Council
+
+Corporate Services,
+
+Limerick City and County Council
+
+Corporate Headquarters,
+
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH9O
+
+t: +353 (0) 61 $$7150
+
+f: +353 (0) 61415 266
+
+9* May, 2022.
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor of the City and County of Limerick, Councillor Daniel Butler, has called an Online
+Special Meeting of Limerick City and County Council to be held on Tuesday, 10™ May, 2022,
+at 9.30 a.m. in order to pass a Vote of Sympathy on the death of former Member and
+Chairman of Limerick County Council, Paddy Hourigan, RIP.
+
+Is mise le meas,
+
+Laura Flannery,
+Meetings Administrator.
+
+= Customerservices@limerick.ie
+
+© www.limerick.te
+
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmneach w @LimerickCouncti
+Corporate Headquarters, Merchants Quay, Limerick (061 - 857150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

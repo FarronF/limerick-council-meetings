@@ -1,0 +1,81 @@
+---
+title: "Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024"
+date: 2024-02-21
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-02-21</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-02</span>
+
+**Original file:** [Agenda - Special Meeting of the Municipal District of Cappamore-Kilmallock - 21st February 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-02/agenda-special-meeting-of-the-municipal-district-of-cappamore-kilmallock-21st-february-2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+__—_ Comhairle Cathrach
+& Contae Luimnigh
+AN ~ -
+
+— Limerick City
+& County Council
+
+Cormhaitie Cathwech agus Contae Luimnigh,
+Otfig wn Creantair, Aras Mhuinchin Seoighe,
+Cill Mochesisg,
+
+Co, Usimnigh.
+
+Limerick City and County Counal,
+Aran Mairichin Secighe Area Office,
+Vibnallock,
+
+Co. Limerick.
+
+EIRCODE V35 K497
+
+t; +353 (0) 63 980 19
+f: +353 (0) 63 985 99
+
+13" February 2024.
+
+To: The Cathaoirleach and Each Member of the Municipal District of Cappamore-Kilmallock
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
+held in Aras Mainchin Seoige on Wednesday 21" February at 4:15pm. The business to be
+
+transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Oaad0oX
+
+Dara O’Brien,
+Meetings Administrator.
+
+AGENDA
+
+1. Travel and Transportation Directorate.
+
+Special Meeting of the Cappamore Kilmallock Municipal District regarding the Active Travel/NTA
+
+funding allocations for 2024.
+
+Comhairle Cathrach agus Contae Lutmnigh, Oifig an Cheantatr, Aras Mhainchin Seoighe
+Limerick City and County Council, Aras Mainchin Seoighe Area Office
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

@@ -1,0 +1,32 @@
+---
+title: "Meeting of Municipal District of Newcastle West"
+date: 2016-12-07
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Meeting of Municipal District of Newcastle West</span>
+<span data-pagefind-meta="date" style="display:none;">2016-12-07</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-12</span>
+
+# Meeting of Municipal District of Newcastle West
+
+**Date and Time:** 2016-12-07 10:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-2)**
+
+Files: 
+
+Agenda - Municipal District of Newcastle West - 7th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_municipal_district_of_newcastle_west_-_7th_december_2016.pdf) - Text not extracted
+
+Minutes - Municipal District of Newcastle West - 9th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_municipal_district_of_newcastle_west_-_9th_november_2016.pdf) - Text not extracted
+
+Replies to Questions - Municipal District of Newcastle West - 7th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/replies_to_questions_-_municipal_district_of_newcastle_west_-_7th_december_2016.pdf) - Text not extracted
+

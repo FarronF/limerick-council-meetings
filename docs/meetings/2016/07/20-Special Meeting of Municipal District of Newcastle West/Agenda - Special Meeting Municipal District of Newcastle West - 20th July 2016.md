@@ -1,0 +1,66 @@
+---
+title: "Agenda - Special Meeting Municipal District of Newcastle West - 20th July 2016"
+date: 2016-07-20
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting Municipal District of Newcastle West - 20th July 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-07-20</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-07</span>
+
+**Original file:** [Agenda - Special Meeting Municipal District of Newcastle West - 20th July 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Seirbhis{ Corpardideacha agus Bainistiocht Athruithe,
+_—_—_—_— Comhairle Cathrach agus Contae Luimnigh,
+
+AIN«F ~ Cé na gCeannaithe,
+— Luimneach
+
+* .
+Limerick Corporate Services and Change Management,
+CITY § COUNTY Limerick City and County Council,
+Merchants Quay,
+COUNCIL farartek
+th t: +353 (0) 61 407 100
+15" July, 2016 f: +353 (0) 61 415 266
+
+To: The Cathaoirleach and each Member of the Municipal District of Newcastle West
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Municipal District of Newcastle West to be held at
+Aras William Smith OBrien, Newcastle West, Co. Limerick, on Wednesday, 20" July, 2016, at 6.00 p.m.
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Yiu trove
+
+Tina Knox,
+Meetings Administrator.
+
+AGENDA
+
+1. Deputation
+
+To receive deputation from Killeline Leisure Centre.
+
+& Customerservices@limerick.ie
+Ceanncheathri Chorparaideach, Cé na gCeannaithe, Luimneach @ wewew.limerick.ie
+Corporate Headquarters, Merchants Quay, Limerick Ww @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

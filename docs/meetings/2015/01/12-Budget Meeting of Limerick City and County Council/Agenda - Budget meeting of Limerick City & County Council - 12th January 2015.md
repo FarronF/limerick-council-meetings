@@ -1,0 +1,80 @@
+---
+title: "Agenda - Budget meeting of Limerick City & County Council - 12th January 2015"
+date: 2015-01-12
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Budget meeting of Limerick City & County Council - 12th January 2015</span>
+<span data-pagefind-meta="date" style="display:none;">2015-01-12</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2015</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2015-01</span>
+
+**Original file:** [Agenda - Budget meeting of Limerick City & County Council - 12th January 2015.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-07/agenda_-_budget_meeting_of_limerick_city_county_council_-_12th_january_2015.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+2nd January, 2015.
+
+To: The Mayor and Each Member of Limerick City and
+
+County Council
+
+**A Chomhairleoir, a chara,**
+
+You are requested to attend the Budget Meeting of Limerick City and County
+
+Council to be held in the Council Chamber, Dooradoyle, Co. Limerick, on
+
+**Monday, 12th** **January, 2015, at 2.30 p.m.**
+
+The business to be transacted is set out on the appended Agenda.
+
+**Is mise le meas,**
+
+**Eugene Griffin,**
+
+**Meetings Administrator.**
+
+------------------------------------------------------------------------------------------------------------
+
+AGENDA
+
+1.
+
+To consider the Chief Executive’s Draft Budget of Limerick City and
+
+County Council for year ending 31st December, 2015, the Draft Budget
+
+having been served in accordance with Section 103 of the Local
+
+Government Act, 2001, as amended by the Local Government Reform
+
+Act, 2014.
+
+2.
+
+To determine, in accordance with the Budget adopted, the annual rate on
+
+valuation to be levied.
+
+3.
+
+To consider the Capital Programme 2015-2017 in accordance with Section
+
+135 (2) of the Local Government Act, 2001, as amended by the Local
+
+Government Reform Act, 2014.
+
+(Draft Chief Executive’s Budget and Explanatory Tables Enclosed, together with
+
+Report from Chief Executive, including Capital Programme 2015-2017)
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

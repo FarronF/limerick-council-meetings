@@ -1,0 +1,86 @@
+---
+title: "Agenda - Meeting of the Climate Action Biodiversity and Environment SPC - 9th February 2021"
+date: 2021-02-09
+council_body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Climate Action Biodiversity and Environment SPC - 9th February 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-02-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-02</span>
+
+**Original file:** [Agenda - Meeting of the Climate Action Biodiversity and Environment SPC - 9th February 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-01/20210128-agenda-cabe-spc-february.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+1
+
+**28 January,2021**
+
+**To: The Chairperson and Each Member of the Climate Action, Biodiversity and**
+
+**Environment Strategic Policy Committee of Limerick City & County Council**
+
+You are invited to attend a Meeting of the Climate Action, Biodiversity and Environment
+
+Strategic Policy Committee to be held by Video Conference Tuesday 9th February at 4.00pm.
+
+The business to be transacted is set out in the appended agenda.
+
+**Signed: JEROME SCANLON**
+
+**CHAIRPERSON OF THE CLIMTE ACTION, BIODIVERSITY AND ENVIRONMENT**
+
+**STRATEGIC POLICY COMMITTEE**
+
+**BRIAN KENNEDY**
+
+**DIRECTOR OF SERVICE,**
+
+**PHYSICAL DEVELOPMENT DIRECTORATE**
+
+(Image omitted)
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+2
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Agenda**
+
+**1.Minutes**
+
+To consider the adoption of the Minutes of the Climate Action, Biodiversity and
+
+Environment Strategic Policy Committee Meeting that was held on 8th December
+
+2020.
+
+**2.National Water Resources Plan (NWRP) Draft Framework Plan - Consultation 2**
+
+**(Sonja Reidy, Senior Executive Officer, Water Services)**
+
+**3.Notice of Motion submitted by Councillor S. Hartigan** (Referred from the
+
+Metropolitan District Meeting held on Monday 21st December, 2020)
+
+I will move at the next Meeting that Limerick City and County Council introduce an
+
+“Ancient Tree” scheme to encourage the planting or retention of a single community
+
+tree in all new housing developments and suitable existing communities with the
+
+Council and community pledging to care for this individual tree until it reaches the
+
+Ancient tree category age of 400 years +.
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

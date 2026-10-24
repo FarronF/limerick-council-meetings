@@ -1,0 +1,117 @@
+---
+title: "Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2019"
+date: 2019-02-28
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-02-28</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-02</span>
+
+**Original file:** [Agenda - Monthly Meeting of the Municipal District of Cappamore-Kilmallock - 28th February 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-02/01%20Agenda%20Municipal%20District%20Monthly%20Meeting%2028th%20Feb%202019.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_—_—_— Comhairle Cathrach
+= o™~ & a me
+—— & Leah Counc
+Limerick City & County Council,
+Aras Mainchin Seoighe District Office,
+Kilmallock, Co. Limerick.
+
+063-98019
+
+20th February, 2019.
+
+To/ The Cathaoirleach an h Member of the Municipal District of Cappamore-Kilmallock
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
+held at Galbally Community Centre, Galbally, Co. Limerick, on Thursday, 28 February, 2019 at
+3.30 p.m.
+
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+A
+
+Mark rit
+Meetings Administrator.
+
+AGENDA
+1, Minutes
+(a) To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
+the 17th January, 2019.
+
+(Copy enclosed)
+2. Service Operations Directorate
+Planning & Environment Services
+
+To receive update from Planning & Environment Services on Taking in Charge of estates
+in the Municipal District.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+3
+
+>
+
+7
+
+Operations & Maintenance Services
+
+To receive update from Operations & Maintenance Services on the Threshold Project,
+Kilmallock, Co.Limerick.
+
+Housing Development Directorate
+
+To note progress report from the Housing Development Directorate. (Report Enclosed)
+
+Capital Investment Directorate
+
+To receive update from Design & Delivery Services on works carried out to date on the
+Tower House, Bruree, Co.Limerick.
+
+General Municipal Allocation Community Contribution 2019
+
+To finalise position in relation to GMA Community Grants 2019.
+
+QUESTION
+Question submitted by Councillor Bridget Teefy
+
+| will ask at the next meeting of the Municipal District for an update on the Road
+Improvement Scheme for Beary’s Cross Junction on the N24. What is the timescale for
+this project and when is the likely completion date?
+
+NOTICE OF MOTIONS
+
+Notice of Motion submitted by Councillor Bridget Teefy
+
+| will move at the next meeting of the Municipal District that maintenance work be
+carried out on the Sli na Slainte walking route from Holy Cross to Bruff.
+
+Notice of Motion submitted by Councillor Mike Donegan
+
+| will move at the next meeting of the Municipal District meeting that an audit is carried
+out on signage, including tourist and leisure signs, in Kilmallock town and approach roads.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

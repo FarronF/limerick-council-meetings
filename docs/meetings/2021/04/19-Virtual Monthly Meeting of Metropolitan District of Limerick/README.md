@@ -1,0 +1,48 @@
+---
+title: "Virtual Monthly Meeting of Metropolitan District of Limerick"
+date: 2021-04-19
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Virtual Monthly Meeting of Metropolitan District of Limerick</span>
+<span data-pagefind-meta="date" style="display:none;">2021-04-19</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-04</span>
+
+# Virtual Monthly Meeting of Metropolitan District of Limerick
+
+**Date and Time:** 2021-04-19 09:45:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-72)**
+
+Files: 
+
+Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/00-agenda-online-meeting-of-metropolitan-district-of-limerick-19th-a.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20April%202021.md)
+
+Minutes  - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/01-draft-minutes-monthly-online-meeting-19th-march-2021.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20March%202021.md)
+
+Disposal: 52 Sycamore Avenue Rathbane - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/02a-disposal-52-sycamore-avenue-rathbane.pdf) - Text not extracted
+
+Disposal: 30 St Laurence Park Garryowen - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/02b-disposal-30-st-laurence-park-garryowen.pdf) - Text not extracted
+
+Disposal: Rhebogue - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/02c-disposal-rhebogue.pdf) - Text not extracted
+
+Disposal: Mungret Community College - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/02d-disposal-mungret-community-college.pdf) - Text not extracted
+
+Disposal: 9 Lower Gerald Griffin Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/02e-disposal-9-lower-gerald-griffin-street.pdf) - Text not extracted
+
+Report: Community Initiative Scheme 2021 - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/03-report-community-initiatives-scheme-2021.pdf) - Text not extracted
+
+Chief Executive's Report: Draft Southern Environs LAP 2021-2027 - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/04-chief-executives-report-draft-southern-environs-lap-2021-2027.pdf) - Text not extracted
+
+Correspondence - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/35-correspondence-19th-april-2021.pdf) - Text not extracted
+
+Replies to Questions - Monthly Meeting of Metropolitan District of Limerick - 19th April 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-04/replies-to-questions-meeting-of-metropolitan-district-of-limerick-19th-april-2021.pdf) - Text not extracted
+

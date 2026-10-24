@@ -1,0 +1,67 @@
+---
+title: "Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th October 2019"
+date: 2019-10-15
+council_body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th October 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-10-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
+
+**Original file:** [Agenda - Meeting of the Travel and Transportation Strategic Policy Committee - 15th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%2015.10.19%20-%20Travel%20and%20Transportation%20Strategic%20Policy%20Committee.docx.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_—_ Comhairle Cathrach
+& Contae Luimnigh
+NY Aa
+— Limerick City
+& County Council
+10” October 2019
+
+To: The Chai and Each Member of the Travel & Tra rtation Strategic Poli
+Committee of Limerick City & County Council
+
+You are invited to attend a Meeting of the Travel and Transportation Strategic Policy
+Committee to be held in the Council Chamber, Merchant’s Quay, Limerick, on Tuesday 15"
+October at 3:00 p.m. The business to be transacted is set out in the appended agenda.
+
+Oe en
+
+CHAIR OF THE TRAVEL & TRANSPORTATION STRATEGIC POLICY COMMITTEE
+
+es xq "
+D ‘OR OF SER :
+PHYSICAL DEVELOPMENT DIRECTORATE
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+1.
+
+Agenda
+
+hi itan Area Trans: Strat LSMATS) -
+
+recht, Netherlands looking a ling | -
+
+“| will move at the next Meeting that Limerick City and County Council will allocate
+10% of its Transport budget to cycling”.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

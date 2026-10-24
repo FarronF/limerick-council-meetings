@@ -1,0 +1,71 @@
+---
+title: "Agenda - Special Meeting of the Metropolitan District of Limerick - 10th July 2026"
+date: 2026-07-10
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of the Metropolitan District of Limerick - 10th July 2026</span>
+<span data-pagefind-meta="date" style="display:none;">2026-07-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2026</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2026-07</span>
+
+**Original file:** [Agenda - Special Meeting of the Metropolitan District of Limerick - 10th July 2026.pdf](https://www.limerick.ie/sites/default/files/media/documents/2026-07/agenda-special-meeting-of-the-metropolitan-district-of-limerick-10th-july-2026.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+a‘ Comhairle Cathrach Seirbhist Corpardideacha Rialachais & Custaiméara
+Comhairie Cathrach § Contae Luimynigh
+
+= —_ & Contae Luimnigh Comenantnd :
+ce Cé na gCeannaithe
+
+Limerick City "
+= & County Council calidad
+
+Corporate, Governance & Customer Services
+Limerick City and County Council
+Corporate Headquarters
+
+Merchant's Quay
+
+Limerick. V94 EH90
+
+t: 4353 (0) 61557 150
+
+6" July 2026
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Metropolitan District of Limerick to be
+held on Friday 10" July 2026 at 9:45am Online.
+
+The business to be transacted is set out below.
+Is mise le meas,
+
+c
+
+Aedin Foley,
+Meetings Administrator.
+
+AGENDA
+1. July Meeting
+
+To agree a date for the July Meeting of the Metropolitan District of Limerick.
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach www. limerickie
+Corporate Headquarters, Merchant's Quay, Limerick v  Con-seeess
+061 - SS6 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

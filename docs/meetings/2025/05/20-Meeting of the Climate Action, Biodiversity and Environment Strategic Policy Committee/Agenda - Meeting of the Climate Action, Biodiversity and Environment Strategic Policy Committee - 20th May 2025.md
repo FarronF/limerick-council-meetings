@@ -1,0 +1,70 @@
+---
+title: "Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 20th May 2025"
+date: 2025-05-20
+council_body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 20th May 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-05-20</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-05</span>
+
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 20th May 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-05/agenda-meeting-of-the-climate-action-biodiversity-and-environment-strategic-policy-committee-20th-may-2025.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+1
+
+**6th** **May 2025**
+
+**To: The Chairperson and Each Member of the Climate Action, Biodiversity and Environment**
+
+**Strategic Policy Committee of Limerick City & County Council**
+
+You are invited to attend a blended Meeting of the Climate Action, Biodiversity and Environment
+
+Strategic Policy Committee to be held in **the Council Chamber, Dooradoyle and online on MS Teams**
+
+on Tuesday 20th May 2025 at 2:30pm. The business to be transacted is set out in the appended
+
+agenda.
+
+**Signed:**
+
+**CLLR JOE LEDDIN**
+
+**CHAIRPERSON OF THE CLIMATE ACTION, BIODIVERSITY AND ENVIRONMENT**
+
+**STRATEGIC POLICY COMMITTEE**
+
+**Agenda**
+
+**1.**Annual Update on Limerick Climate Action Plan -the localisation of National Policy on
+
+Climate Action in LCCC. Mr. Kieran Reeves, Climate Action Co-ordinator, Environment and
+
+Climate Action
+
+**2.**Mid West Regional Energy Unit, changes in the delivery of the energy portion of the Climate
+
+Action Plan, in partnership with Clare, to access the SEAI Partnership funding streams - Mr.
+
+Conor McDonagh, Senior Executive Engineer, Mid-West Region Energy Unit.
+
+**3.**Results of Clean Air Together, these results will influence transportation and development
+
+policy in the city, giving a baseline indicator of our current air quality. - Mr. Cathal Brodie,
+
+Senior Executive Scientist, Environment and Climate Action.
+
+(Image omitted)
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

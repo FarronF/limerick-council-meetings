@@ -1,0 +1,86 @@
+---
+title: "Minutes of Monthly Meeting of Municipal District of Adare Rathkeale - 14th November 2023"
+date: 2023-12-12
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Minutes"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Minutes of Monthly Meeting of Municipal District of Adare Rathkeale - 14th November 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-12-12</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Minutes</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-12</span>
+
+**Original file:** [Minutes of Monthly Meeting of Municipal District of Adare Rathkeale - 14th November 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-12/01-minutes-of-monthly-meeting-of-municipal-district-of-adare-rathkeale-14th-november-2023.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**MINUTES OF PROCEEDINGS AT MONTHLY MEETING OF THE MUNICIPAL DISTRICT OF**
+
+**ADARE-RATHKEALE HELD IN ÁRAS SEÁN FINN, NEW LINE ROAD, RATHKEALE, CO.**
+
+**LIMERICK ON TUESDAY 14TH** **NOVEMBER, 2023 AT 9.30 A.M.**
+
+**PRESENT IN THE CHAIR:**
+
+Councillor A. Teskey, An Cathaoirleach.
+
+**MEMBERS PRESENT:**
+
+Councillors Collins, Keary, O’Donoghue and Sheahan.
+
+**OFFICIALS IN ATTENDANCE:**
+
+Director, Rural, Community and Culture Development (Mr. S. Duclot), Meetings
+
+Administrator (Ms. K. Butler), Director, Planning, Environment and Place-Making (Mr. V.
+
+Murray), Senior Executive Engineer, Roads, Traffic & Cleansing (Mr. G. O’Connor),
+
+Executive Planner, Forward Planning, Public Realm & Heritage (Ms. N. O’Connell), Senior
+
+Planner, Forward Planning, Public Realm & Heritage (Ms. M. Woods), A/Senior Executive
+
+Planner, Forward Planning, Public Realm & Heritage (Ms. C. Brislane), Clerical Officer
+
+(Ms. L. Lenihan).
+
+**APOLOGIES:**
+
+Councillor O’Brien.
+
+At the outset of the Meeting the Cathaoirleach proposed that the Meeting would be
+
+adjourned due to the passing of Mr. John O’Brien, father of Councillor Emmett O’Brien.
+
+This was seconded by Councillor Keary and agreed. A date for the Adjourned Meeting
+
+was then agreed for Thursday 23rd November, 2023 at 9.30 a.m.
+
+**Vote of Sympathy**
+
+The Cathaoirleach extended a Vote of Sympathy to Councillor O’Brien on the death of
+
+his father. All Members extended their sympathies to Councillor O’Brien and his family
+
+on the loss of his father.
+
+This concluded the Meeting.
+
+Signed:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Cathaoirleach**
+
+Dated:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

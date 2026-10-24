@@ -1,0 +1,72 @@
+---
+title: "Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 22nd October 2019"
+date: 2019-10-22
+council_body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 22nd October 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-10-22</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
+
+**Original file:** [Agenda - Meeting of the Climate Action, Biodiversity and Environment Strategic Policy Committee - 22nd October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/Agenda%20-%2022nd%20Oct%202019%20Climate%20Action%2C%20Biodiversity%20Env%20SPC%20Meeting.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**16th** **October, 2019**
+
+**To: The Chairperson and Each Member of the Climate Action, Biodiversity and**
+
+**Environment Strategic Policy Committee of Limerick City & County Council**
+
+You are invited to attend a Meeting of the Climate Action, Biodiversity and Environment
+
+Strategic Policy Committee to be held in the **Council Chamber, Dooradoyle, Limerick**, on
+
+**Tuesday 22nd** **October, 2019 at 2:00 p.m.**  The business to be transacted is set out in the
+
+appended agenda.
+
+**Signed: JEROME SCANLAN**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**CHAIRPERSON OF THE ENVIRONMENT STRATEGIC POLICY COMMITTEE**
+
+**BRIAN KENNEDY**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**DIRECTOR OF SERVICE,**
+
+**PHYSICAL DEVELOPMENT DIRECTORATE**
+
+(Image omitted)
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Agenda**
+
+1. **Presentation on Green Infrastructure - by Dr. Christy Boylan**
+
+**2.To agree work programme for Strategic Policy Committee**
+
+**3.Presentation on ISO 50001 Energy Certification - by Mr. Pat Stephens, Limerick**
+
+**Clare Energy Agency**
+
+**4.Notice of Motion submitted by Cllr. C. Sheehan (Deferred from Metro Meeting)**
+
+“I will move at the next Metropolitan Meeting of Limerick City and County Council
+
+that the Council put a management plan in place to rejuvenate the Westfield
+
+Wetlands”.
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

@@ -1,0 +1,76 @@
+---
+title: "Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Municipal District of Newcastle West - 21st October 2020"
+date: 2020-10-21
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Municipal District of Newcastle West - 21st October 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-10-21</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-10</span>
+
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2021 for the Municipal District of Newcastle West - 21st October 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-10/00-2020-10-21-agenda-draft-budgetary-plan.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Duiche Bardais an Chaisiedin Nua Thiar,
+& Contae Luimnigh Comhairle Cathrach agus Contsee Luimrugh,
+
+= - 7 Aras William Smith O'Bnen,
+m™ Li rick Ci Gortbut
+= merick City : An Caislean Nua Thiar,
+
+& County Council Co. Luimnagh
+
+Newcastle West Municipal District
+Limenck City and County Councit
+Aras Viilliam Smith OBnen.
+Gortboy,
+
+Newcastle West,
+
+Co Limerick.
+
+Eircode: V42EH73
+
+t: +353 (0) 69 62100
+
+16” October, 2020
+
+To: The Cathaoirleach and Each Member of the Municipal District of Newcastle West
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting to consider the Draft Budgetary Plan 2021 for the
+Municipal District of Newcastle West to be held at Aras William Smith OBrien, Newcastle
+
+West, Co. Limerick, on Wednesday, 21°* October, 2020, at 10.30a.m. The business to be
+transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Meetings Administrator.
+
+AGENDA
+1. To consider the Draft Budgetary Plan 2021 for the Municipal District of Newcastle
+West.
+(Report Attached)
+= customerservices@limerick.te
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach © wvewlimerick.ie
+
+Corporate Headquarters, Merchant's Quay, Limerick @LimerickCouncil
+C 061 - $56 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

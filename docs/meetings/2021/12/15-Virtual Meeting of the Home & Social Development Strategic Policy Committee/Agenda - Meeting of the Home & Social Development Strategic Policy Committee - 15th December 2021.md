@@ -1,0 +1,68 @@
+---
+title: "Agenda - Meeting of the Home & Social Development Strategic Policy Committee - 15th December 2021"
+date: 2021-12-15
+council_body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Home & Social Development Strategic Policy Committee - 15th December 2021</span>
+<span data-pagefind-meta="date" style="display:none;">2021-12-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-12</span>
+
+**Original file:** [Agenda - Meeting of the Home & Social Development Strategic Policy Committee - 15th December 2021.pdf](https://www.limerick.ie/sites/default/files/media/documents/2021-12/15122021_spc_agenda.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**TO: THE CATHAOIRLEACH AND EACH MEMBER OF THE HOME AND SOCIAL**
+
+**DEVELOPMENT STRATEGIC POLICY COMMITTEE**
+
+A meeting of Limerick City and County Council Home and Social Development Strategic
+
+Policy Committee will be held in the Council Chamber, Dooradoyle and online on MS Teams
+
+on the 15th December 2021
+
+**AGENDA**
+
+1. Confirm Minutes of the most recent meeting held on the 20th October 2021
+
+2. Matters arising from the Minutes
+
+3. Presentation on Dereliction and Vacancy – David O’Grady
+
+4. SPC Work Programme 2022
+
+5. Notice of Motion submitted by Councillor C. Sheehan (deferred from SPC on the 20th
+
+October 2021)
+
+I will move at the next meeting of the Home and Development S.P.C that this Council
+
+writes to the Housing Minister to ask him to raise the income eligibility limit for
+
+social housing in Limerick
+
+6. Notice of Motion submitted by Councillor J. Leddin (to be referred to the Home and
+
+Social Development Strategic Policy Committee)
+
+I will move at the next Meeting of the Metropolitan District of Limerick that Limerick
+
+City and County Council consider hiring a dedicated vacant homes officer to deal with
+
+the scourge of empty houses.
+
+7. AOB
+
+Signed: Cllr. Michael Murphy, Chairperson, Limerick City and County Council
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

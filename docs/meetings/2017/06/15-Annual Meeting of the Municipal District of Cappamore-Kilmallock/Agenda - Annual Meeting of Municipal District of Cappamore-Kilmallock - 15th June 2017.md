@@ -1,0 +1,79 @@
+---
+title: "Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017"
+date: 2017-06-15
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Annual"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-06-15</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Annual</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-06</span>
+
+**Original file:** [Agenda - Annual Meeting of Municipal District of Cappamore-Kilmallock - 15th June 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/00%20Agenda%20Annual%20Meeting%2015th%20June%252c%202017.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Seirdinist Corpardideacha,
+Comhairle Cathrach agus Contae Luimnigh,
+
+Bem La Ceanncheathri: Chorpardideach,
+— Cé na gCeannsithe,
+COMHAIRLE Luimneach
+CATHRACH & CONTAE ea
+
+. : porate Services,
+Luimnigh Levick Chy and Gouray Counc
+r - Co Headquarters,
+Limerick am Cy me
+CITY & COUNTY Limerick
+
+COUNCIL
+EIRCODE V94 EH90
+
+t: +353 (0) 61 407 100
+f: +353 (0) 61 415 266
+
+9" june, 2017.
+
+To/ The Cathaoirleach_and each Member of the Municipal _District_of Cappamore-
+
+Kilmallock
+
+A Chomhairleoir, a chara,
+
+You are requested to attend the Annual Meeting of the Municipal District of Cappamore-
+Kilmallock to be held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Thursday
+5" june, 2017 at 5.00 p.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+ne -_
+
+Tina Knox,
+Meetings Administrator.
+
+FS To elect a Cathaoirleach of the Municipal District of Cappamore-Kilmallock to hold
+office until the next Annual Meeting or until a successor has been elected.
+
+2. To elect a Leas-Chathaoirleach of the Municipal District of Cappamore-Kilmallock to
+hold office until the next Annual Meeting or until a successor has been elected.
+
+=
+@ wwew.llimerick.ie
+@LimerickCouncil
+
+Corporate Headquarters, Merchants Quay, Limerick |
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

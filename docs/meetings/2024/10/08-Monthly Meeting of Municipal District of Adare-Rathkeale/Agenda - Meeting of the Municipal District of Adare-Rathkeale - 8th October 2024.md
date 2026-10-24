@@ -1,0 +1,133 @@
+---
+title: "Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th October 2024"
+date: 2024-10-08
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th October 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-10-08</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-10</span>
+
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 8th October 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-10/00-agenda-8th-october-2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+-_..—_i Comhairle Cathrach
+& Contae Luimnigh
+ant. — Limerick cit
+
+& County Council
+
+3 October, 2024.
+
+To:
+
+A Chomhairleoir, a chara,
+
+Ceantar Bardasach Ath Dara-Rath Cacia.
+Comhairle Cathrach agus Contae Lutmnigh,
+Aras Séan Finn,
+
+Une Nua,
+
+Rath Caola,
+
+Co. Luimnigh.
+
+Adare-Rathkeale Municipe! District,
+Limenck Cry and County Council,
+Aras Sean Finn,
+
+New Line,
+
+Rathkeale.
+
+Co. Limerick
+
+EIRCODE V94 HKIV
+
+t: 4353 (0) 69 64047
+f: +353 (0) 69 63188
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 8™ October, 2024 at 9.30 a.m.
+
+The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+Meetings Administrator.
+AGENDA
+1. Minutes
+To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
+on 9" July, 2024.
+(Copy Enclosed).
+2. Inte!
+
+3. Disposal of Land
+
+To note proposal for the disposal of Freehold Interest in property at Toureen, Croom, Co.
+
+Limerick.
+
+Ceanncheathni Chorpardideach, Cé na gCeannaitheLuimneach !
+Corporate Headquarters, Merchants Quay, Limerick.
+
+(Report Enclosed).
+= cust s@himerick.ie
+- www limerick. ie
+
+@LimerickCouncil
+( 061-556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+4,
+
+10.
+
+Housing Support Services
+Part 8 Procedure — 11 Lismakeera, Askeaton, Co. Limerick
+To consider the Mayor's Report pursuant to Section 179 3(a) of the Planning and
+Development Act, 2000 (as amended) and Part 8 of the Planning and Development
+Regulations, 2001 (as amended) in relation to the development at No. 11 Lismakeera,
+Askeaton, Co. Limerick.
+
+(Report Enclosed).
+Environment and Climate Action
+Gortnadroma Landfill
+To receive a briefing on future energy usages of the Gortnadroma landfill site.
+Active Travel
+Bus Shelter Enabling Works
+To receive a briefing on Bus Shelter Enabling Works at Ballyneety and Shanagolden.
+Road, Traffic and Cleansing
+
+District Engineers Report
+
+To update Members on issues of interest in the District.
+(Report Enclosed).
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation 2024
+
+(Copy of Correspondence Enclosed).
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

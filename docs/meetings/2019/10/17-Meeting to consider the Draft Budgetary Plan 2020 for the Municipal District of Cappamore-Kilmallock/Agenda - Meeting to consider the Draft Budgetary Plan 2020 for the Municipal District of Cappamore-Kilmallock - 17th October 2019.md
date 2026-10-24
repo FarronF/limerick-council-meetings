@@ -1,0 +1,76 @@
+---
+title: "Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Cappamore-Kilmallock - 17th October 2019"
+date: 2019-10-17
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Cappamore-Kilmallock - 17th October 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-10-17</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-10</span>
+
+**Original file:** [Agenda - Meeting to consider the Draft Budgetary Plan 2020 for the Municipal District of Cappamore-Kilmallock - 17th October 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-10/01%20Agenda%20Budget%202020%20Meeting.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Comhairle Cathrach agus Contae Luimmigh,
+& Contae Luimnigh Olfig an Cheantatr, Aras Mhainchin Seoighe,
+
+NIN 4 ; Cill Mocheslig
+
+4 ; Co. Wuinvigh
+— Limerick City >. Lanne
+& County Council Limenck City and County Council,
+Aras Mainchin Seoighe Area Office,
+K@irnaliock,
+Co, Limerick.
+
+EIRCODE V35 X497
+
+t; 4353 (0) 63 980 19
+f: +353 (0) 63 SBS 99
+
+11" October, 2019.
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Workshop and Meeting to consider the Draft Budgetary Plan 2020
+for the Municipal District of Cappamore-Kilmallock to be held at Aras Mainchin Seoighe,
+Millmount, Kilmatlock, Co. Limerick, on Thursday. 17th October, 2019:
+
+¢ 2pm Private Workshop;
+¢ 2.45pm Meeting.
+
+The business to be transacted is set out on the Agenda below.
+
+Is mise le meas,
+
+Waa
+
+Mark Leahy,
+Meetings Administrator.
+
+AGENDA
+
+1. To consider the Draft Budgetary Plan 2020 for the Municipal District of Cappamore-
+Kilmallock.
+
+& customerservices@limerickie
+Comhairle Cathrach agus Contae Luimnigh, Oifig an Cheantair, Aras Mhainchin Seoighe © wwvalimerickie
+Limerick City and County Council, Aras Mainchin Seoighe Area Office W @LimerickCouncil
+
+(063 980 19
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

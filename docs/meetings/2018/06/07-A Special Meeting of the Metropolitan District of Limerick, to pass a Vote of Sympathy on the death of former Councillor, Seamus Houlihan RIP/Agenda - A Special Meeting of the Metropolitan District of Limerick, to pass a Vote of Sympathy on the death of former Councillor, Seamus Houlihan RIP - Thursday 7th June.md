@@ -1,0 +1,82 @@
+---
+title: "Agenda - A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP - Thursday 7th June"
+date: 2018-06-07
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP - Thursday 7th June</span>
+<span data-pagefind-meta="date" style="display:none;">2018-06-07</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2018</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2018-06</span>
+
+**Original file:** [Agenda - A Special Meeting of the Metropolitan District of Limerick, to pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan RIP - Thursday 7th June.pdf](https://www.limerick.ie/sites/default/files/media/documents/2018-06/00%20Agenda%20Special%20Meeting%207th%20June%202018.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+. Seirbhisi Corpardideacha,
+
+_—_—_— eee aol Comhairle Cathrach agus Contae Luimnigh.
+
+ontae Luimnig Ceanncheathna Chorpardideach,
+
+ArcN . . . Cé na gCeannaithe,
+
+—=—>>2 Limerick City Luimneach
+& County Council
+
+Corporate Services.
+
+Limerick City and County Council,
+
+Corporate Headquarters,
+
+Merchants Quay,
+Limerick
+
+EIRCODE V94 EH90
+
+5* June, 2018. t: +353 (0) 61 557150
+f: +353 (0) 61 415 266
+
+To: _ The Mayor and each Member of the Metropolitan District of Limerick
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Special Meeting of the Metropolitan District of Limerick to be
+
+held in the Exhibition Space, Merchant's Quay, Limerick on Thursday, 7 June, 2018 at
+
+10.00 a.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+ities C Qua
+James Clune,
+eetings Administrator.
+
+AGENDA
+
+1. To pass a Vote of Sympathy on the death of former Councillor, Seamus Houlihan, RIP.
+
+© customerservices@limerick.ie
+
+& wenwlimerickie
+
+Ceanncheathru Chorpardideach, Cé na gCeannaithe, Luimneach @LimerickCouncil
+( 061 - 557150
+
+Corporate Headquarters, Merchants Quay, Limerick
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

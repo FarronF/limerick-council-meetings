@@ -1,0 +1,127 @@
+---
+title: "Agenda - Meeting of the Municipal District of Adare-Rathkeale - 14th January 2025"
+date: 2025-01-14
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Municipal District of Adare-Rathkeale - 14th January 2025</span>
+<span data-pagefind-meta="date" style="display:none;">2025-01-14</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2025</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2025-01</span>
+
+**Original file:** [Agenda - Meeting of the Municipal District of Adare-Rathkeale - 14th January 2025.pdf](https://www.limerick.ie/sites/default/files/media/documents/2025-01/agenda-meeting-of-the-municipal-district-of-adare-rathkeale-14th-january-2025.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—__ Comhairle Cathrach Ceantar Bardasach Ath Dara-Rath Caola,
+Comhairie Cathvach agus Contae Luimmnigh,
+a = & Contae Luimnigh Aras Stan Pow.
+Limerick Cit ry sg
+
+=> yY _ Rath Cacia,
+
+& County Council Co. Luimnigh.
+
+Adare-Rathkeale Municipal District,
+
+Limerick City and County Council
+
+Aras Sean Finn,
+
+New Line,
+
+Rathkeale.
+
+Co. Limerick.
+
+BRROODE V94 HKLV
+
+& 4353 (0) 69 64047
+9" January, 2025. f; +353 (0) 69 63188
+
+To: The Cathaoirleach and Each Member of the Municipal District of Adare-Rathkeale
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Adare-Rathkeale to be held in
+Aras Sean Finn, New Line Road, Rathkeale, Co. Limerick on Tuesday 14" January, 2024 at 9.30
+a.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+:
+Karen 3s
+
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes
+
+To adopt Minutes of the Monthly Meeting of the Municipal District of Adare-Rathkeale held
+on 10" December, 2024.
+
+(Copy Enclosed).
+2. Declaration of Interest
+= ces@limerickie
+Ceanncheathri Chorparaideach, Cé na preci Luimneach | www.timerickie
+Corporate Headquarters, Merchants Quay, Limerick. @LimerickCouncil
+
+\ 061 - 556 000
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+4.
+
+Roads, Traffic and Cleansing
+District Engineers Report
+
+To update Members on issues of interest in the District.
+(Report Enclosed).
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation 2025.
+QUESTIONS
+Question submitted by Councillor A. Teskey
+
+| will ask at the next Meeting given the fact that the proposed works to the Adare
+Heritage Centre have gone on display on E tenders can the Council confirm if it has
+monies sanctioned for the proposed project if so how much is allocated and from what
+budget has the allowance been made available from.
+
+Question submitted by Councillor A. Teskey
+
+| will ask at the next Meeting how many planning applications were appealed to An Bord
+Pleandla both by the Local Authority and the proposed applicant in 2024. How many of
+these were overturned by the Bord and what percentage does this represent overall.
+
+NOTICE OF MOTION
+
+Notice of Motion submitted by Councillor J. O’Donoghue
+
+| will move at the next Meeting that we write to the Department of Housing, Local
+Government and Heritage and any other relevant Government Departments to change the
+regulations on the newest application forms for Housing Adaption Grants for older people
+and disabled people. Most notably the unavailability of a grant to replace a fossil fuel
+burner if the current burner is unrepairable.
+
+A.0.B
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

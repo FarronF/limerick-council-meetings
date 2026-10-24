@@ -1,0 +1,110 @@
+---
+title: "Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 21st April 2016"
+date: 2016-04-21
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 21st April 2016</span>
+<span data-pagefind-meta="date" style="display:none;">2016-04-21</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-04</span>
+
+**Original file:** [Agenda - Meeting of Municipal District of Cappamore-Kilmallock - 21st April 2016.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-06/Agenda%20-%20Meeting%20of%20Municipal%20District%20of%20Cappamore-Kilmallock%20-%2021st%20April%202016.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_——_— Seirbhisi Corpardideacha agus Bainistiocht Athruithe,
+Comhairle Cathrach agus Contae Luimnigh,
+
+ANS ‘ Cé na gCeannaithe,
+—==>= Luimneach
+
+. .
+Limerick Corporate Services and Change Management.
+CITY & COUNTY Limerick City and —— Council,
+erchants Quay,
+COUNCIL uanasiex
+15" April, 2016. t: +353 (0) 61 407 100
+
+f: +353 (0) 61 415 266
+
+To/ The Cathaoirleach and each Member of the Municipal District_of Cappamore-
+
+Kilmallock
+
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Cappamore-Kilmallock to be
+held at Aras Mainchin Seoige, Millmount, Kilmallock, Co. Limerick on Thursday, 21" April, 2016
+at 3.30 p.m. The business to be transacted is set out on the appended Agenda.
+
+Is mise le meas,
+
+re dhor
+nox,
+
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes
+
+To adopt Minutes of Meeting of the Municipal District of Cappamore-Kilmallock held on
+11" March, 2016.
+
+(Copy Enclosed).
+
+2. Service Operations Directorate
+
+To receive presentation and update on public realm / tourism projects in the Municipal
+District of Cappamore-Kilmallock.
+
+= customerservices@limerick.ic
+Ceanncheathra Chorparaideach, Cé na gCeannaithe, Luimneach  wvew limerick.te
+Corporate Headquarters, Merchants Quay, Limerick w @LimerickCouncil
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Ne
+
+Schedule of Works for the Municipal District
+
+To consider draft Schedule of Works for the Municipal District of Cappamore-Kilmallock
+2016.
+
+(Report Enclosed).
+
+QUESTIONS
+
+uestion submitted by C il if
+| will ask the next meeting for an update on bridge repairs at the following locations:
+R-512 at The Pike, Bruff
+. R-514 at Longford Bridge, Grange
+
+1
+2
+3. R-513 at Railway Bridge, Knocklong
+4. R-513 at Newtown, Garryspillane.
+
+Question submitted by Councillor M. Donegan
+
+| will ask at the next Meeting if the option of a one way system could be considered at
+Millmount Estate, Kilmallock.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

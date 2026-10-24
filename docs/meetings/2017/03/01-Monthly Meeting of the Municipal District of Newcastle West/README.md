@@ -1,0 +1,42 @@
+---
+title: "Monthly Meeting of the Municipal District of Newcastle West"
+date: 2017-03-01
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Monthly Meeting of the Municipal District of Newcastle West</span>
+<span data-pagefind-meta="date" style="display:none;">2017-03-01</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-03</span>
+
+# Monthly Meeting of the Municipal District of Newcastle West
+
+**Date and Time:** 2017-03-01 10:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-municipal-district-newcastle-west-9)**
+
+Files: 
+
+Agenda - Municipal District of Newcastle West - 1st March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/00_2017-03-01_agenda_march_meeting_municipal_district_newcaselt_west.pdf) - Text not extracted
+
+Minutes - Municipal District of Newcastle West - 1st February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/01_2017-02-01_minutes_february_municipal_district_newcastle_west.pdf) - Text not extracted
+
+Report Disposal of Land, Church Street - Municipal District of Newcastle West - 24th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_2017-02-24_report_disposal_land_church_street_newcastle_west.pdf) - Text not extracted
+
+Report on renaming of The Square - Municipal District of Newcastle West - 24th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/04_2017-02-24_report_on_renaming_of_the_square_newcastle_west.pdf) - Text not extracted
+
+Report Schedule Municipal District Works - Municipal District of Newcastle West - 23rd February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/05_2017-02-23_report_schedule_municipal_district_works_newcastle_west.pdf) - Text not extracted
+
+Planning Report Part VIII Great Sothern Trail - Municipal District of Newcastle West - 21st February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/06_1_2017-02-21_planning_report_part_viii_great_sothern_trail.pdf) - Text not extracted
+
+Report Consultative Group Terms of Reference - Municipal District of Newcastle West - 21st February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/06_2_2017-02-21_report_consultative_group_terms_of_reference.pdf) - Text not extracted
+
+Replies to Questions - Municipal District of Newcastle West - 1st March 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/replies_questions_march_meeting.pdf) - Text not extracted
+

@@ -1,0 +1,92 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - July 22nd 2024"
+date: 2024-07-22
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - July 22nd 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-07-22</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-07</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - July 22nd 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-07/00-agenda-special-meeting-22.07.2024-at-2.30-pm_0.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—__ Comhairle Cathrach
+& Contae Luimnigh
+ArN f ™ =
+
+— Limerick City
+& County Council
+
+16" July, 2024.
+
+Serbhisi Corparaideacha
+
+Comhairle Cathrach agus Contae Luimnigt,
+Ceannchesthra Chorpsraidesch,
+
+Ceé na gCeannaithe.
+
+Luimneach
+
+Corporate Services,
+
+Limerick City and County Courxil,
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH99
+
+t: +355 (0) 61 557150
+f: +353 5 (0) 61 415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Priomh Chomhairleoir, Councillor Dan McSweeney, has called a Special Meeting of
+Limerick City and County Council to be held in the Council Chamber, Dooradoyle, and Online,
+on Monday, 22" July, 2024, at 2.30 p.m. The business to be transacted is set out below.
+
+Is mise = a
+
+Meetings Administrator.
+
+AGENDA
+Croom Local Area Plan 2020-2026 ~ Material Contravention
+
+Pursuant to Section 34(6) of the Planning and Development Act, 2000 (as amended)
+to consider a proposed material contravention of the Croom Local Area Plan 2020-
+2026 and to grant permission for the construction of an extension to Croom Medical,
+consisting of light manufacturing, ancillary offices and to include relocation of soccer
+pitch and all associated works. Plg. Ref. 24/60/159 refers.
+
+(Director General Report to follow)
+Local Area Plan 2020-; -™ i Con
+Pursuant to Section 34(6) of the Planning and Development Act, 2000 (as amended)
+to consider a proposed material contravention of the Croom Local Area Plan 2020-
+2026 and to grant permission for the construction of a new sports grounds and all
+associated works for Croom United Football Club. Plg. Ref. 24/60/312 refers.
+
+(Director General Report to follow)
+
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

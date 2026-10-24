@@ -1,0 +1,60 @@
+---
+title: "Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024"
+date: 2024-04-18
+council_body: "Cappamore-Kilmallock"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024</span>
+<span data-pagefind-meta="date" style="display:none;">2024-04-18</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Cappamore-Kilmallock</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2024</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2024-04</span>
+
+**Original file:** [Agenda - Joint Policing Sub-Committee Meeting of the Municipal District of Cappamore-Kilmallock - 18th April 2024.pdf](https://www.limerick.ie/sites/default/files/media/documents/2024-04/01-agenda-joint-policing-sub-committee-meeting-of-the-municipal-district-of-cappamore-kilmallock-18th-april-2024.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+**12th** **April 2024.**
+
+**To/**
+
+**The Cathaoirleach and Each Member of the Municipal District of Cappamore-Kilmallock**
+
+**A Chomhairleoir, a chara,**
+
+You are requested to attend the Meeting of the Municipal District of Cappamore-Kilmallock Joint
+
+Policing Sub-Committee to be held in Áras Mainchín Seoighe, Kilmallock, Co. Limerick **, on**
+
+**Thursday, 18th** **April at 2 p.m.**
+
+The business to be transacted is set out on the Agenda below.
+
+**Is mise le meas,**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Dara** **O’Brien,**
+
+**Meetings Administrator.**
+
+A G E N D A
+
+**1.Minutes**
+
+To adopt Minutes of Meeting of the Cappamore-Kilmallock Municipal District Joint Policing
+
+Sub-Committee held on 11th December, 2024.
+
+**2.Policing Issues**
+
+To discuss policing issues in the District.
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

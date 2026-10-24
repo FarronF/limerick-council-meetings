@@ -1,0 +1,121 @@
+---
+title: "Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022"
+date: 2022-01-11
+council_body: "Adare-Rathkeale"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-01-11</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Adare-Rathkeale</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-01</span>
+
+**Original file:** [Agenda - Monthly Meeting of Municipal District of Adare-Rathkeale - 11th January 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-01/00-agenda-11th-january-2022.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach Ceantar Bardasach Ath Dara-Réth Caola,
+ae B-Contae Lumen Comhairle Cathrach agus Contae Luimnigh,
+
+Aras Séan Finn.
+
+AEN : : Line Nua,
+—> Limerick City Réth Caola,
+
+& County Council Co. Luimnigh.
+
+Adare -Rathkeale Municipal District
+Limerick City and County Council,
+Aras Seén Finn,
+
+New Line,
+
+Rathkeale,
+
+Co. Limerick
+
+EIRCODE V94 HKiV
+
+- ( 4353 (0) 69 64047
+6" January, 2022. f: +353 (0) 69 63188
+
+A Chomhairleoir, a chara,
+
+You are requested to attend an Online Meeting of the Municipal District of Adare-Rathkeale to be
+held on Tuesday, 11" January, 2022 at 10.00a.m. The business to be transacted is set out on the
+appended Agenda.
+
+Is mise le meas,
+
+AGENDA
+
+To adopt Minutes of Monthly Meeting of the Municipal District of Adare-Rathkeale held on
+14" December, 2021.
+
+(Copies Enclosed).
+2. Disposal of Land
+
+To note proposal of the Disposal of portion of land at 2 Church Street, Askeaton, Co.
+Limerick.
+(Report Enclosed).
+
+a eae
+Ceanncheathru Chorparaideach, Cé na gCeannaithe,Luimneach } wrw.timericicie
+Corporate Headquarters, Merchants Quay, Lirnerick. Cost-seees0
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+10.
+
+Roads, Traffic & Cleansing
+District Engineers Report
+
+To update Members on issues of interest in the District.
+(Report Enclosed).
+
+General Municipal Allocation (GMA)
+
+To review position in relation to allocations under the General Municipal Allocation
+2021/2022.
+
+Kilcornan Tidy Towns Committee Request
+
+To provide Kilcornan Tidy Towns Committee with futher information in relation to the
+construction of at Council Depot on the N69 at Kilcornan.
+
+Request to Receive Deputation from The Maigue Rivers Trust
+To consider receiving a Deputation from The Maigue Rivers Trust at a future Meeting of
+the District.
+(Report Enclosed).
+NOTI F MOTION
+Notice of Motion submitted by Councillor E. O’Brien
+| will move at the next Meeting that the Shannongrove Collar currently at the Victoria and
+
+Albert Museum, London be repatriated to Limerick on lease to the Limerick City and
+County Museum.
+
+Notice of Motion submitted by Councillor K. Sheahan
+
+| will move at the next Meeting that the necessary steps be taken to ensure Askeaton is
+officially classified as a heritage town.
+
+Correspondence
+
+(Copy of Correspondence Enclosed).
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+

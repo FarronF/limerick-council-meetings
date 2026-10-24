@@ -1,0 +1,91 @@
+---
+title: "Supplementary Agenda - Full Meeting of Limerick City and County Council - 26th September 2022"
+date: 2022-09-26
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Supplementary Agenda - Full Meeting of Limerick City and County Council - 26th September 2022</span>
+<span data-pagefind-meta="date" style="display:none;">2022-09-26</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-09</span>
+
+**Original file:** [Supplementary Agenda - Full Meeting of Limerick City and County Council - 26th September 2022.pdf](https://www.limerick.ie/sites/default/files/media/documents/2022-09/Supplementary%20Item%20-%20September%20Council%20Meeting.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+aa Comhairle Cathrach
+
+& Contae Luimnigh
+
+i a ae
+= Limerick City
+
+— & County Council
+
+Seirbhisi Corperdideacha,
+
+Comhairle Cathrach agus Contae Lulmnigh
+Ceanncheathné Chorpardidesch,
+
+Cé na gCeannaithe,
+
+Luimneach
+
+Corporate Services
+
+Limerick City and County Council
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH90
+
+t: #353 (0) 63 557150
+f: +353 (0) 61 415 266
+
+23" September, 2022.
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+| refer to the agenda for Meeting of the Council to be held on Monday, 26" September, 2022,
+and set out hereunder supplementary item, Item No. 23A:
+
+234 Notice of Motion submitted by Councillors S. Keary and D. McSweeney
+
+We will move at the next Meeting that the Forward Planning Department commence
+the process of amending policy —
+
+(a) TR P11 in the Limerick Development Plan 2022-2028 removing reference to
+“minimising traffic hazards, including access onto roads, which are
+substandard in terms of width and alignment and preventing the creation of
+additional or new traffic hazards."
+
+(b) TR 041 (c) in the Limerick Development Plan 2022 — 2028 remove reference
+“in connection with the working of the farm.”
+
+Is mise le meas,
+‘laura Flannery, a
+Meetings Administrator.
+= Customerservices@limerick.ie
+© Werwdimerickie
+Ceanncheathni Chorpardideach, Cé na gCeannaithe, Luirmmeach y
+
+@LimerickCouncil
+Corporate Headquarters, Merchants Quay, Limerick (061- 587150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

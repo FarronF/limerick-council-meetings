@@ -1,0 +1,40 @@
+---
+title: "Virtual Monthly Meeting of Metropolitan District of Limerick"
+date: 2021-03-19
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Virtual Monthly Meeting of Metropolitan District of Limerick</span>
+<span data-pagefind-meta="date" style="display:none;">2021-03-19</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2021</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2021-03</span>
+
+# Virtual Monthly Meeting of Metropolitan District of Limerick
+
+**Date and Time:** 2021-03-19 09:45:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-80)**
+
+Files: 
+
+Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/draft-agenda-monthly-meeting-19th-march-2021.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20March%202021.md)
+
+Minutes  - Monthly Meeting of Metropolitan District of Limerick - 15th February 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/01a-draft-minutes-monthly-online-meeting-15th-february-2021.pdf) - [Extracted text](./Minutes%C2%A0%20-%20Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2015th%20February%202021.md)
+
+Disposal: 16 Donnellan Buildings Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/02a-disposal-16-donnellan-buildings-rosbrien.pdf) - Text not extracted
+
+Disposal: 27 Flood Street Killalee - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/02b-disposal-27-flood-street-killalee.pdf) - Text not extracted
+
+Disposal: 40 St Laurence Park Garryowen - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/02c-disposal-40-st-laurence-park-garryowen.pdf) - Text not extracted
+
+Schedule of Municipal District Works - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/03-schedule-of-municipal-district-works-metropolitan-district-of-limerick-2021.pdf) - Text not extracted
+
+Replies to Questions - Monthly Meeting of Metropolitan District of Limerick - 19th March 2021.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2021-03/replies-to-questions-meeting-of-metropolitan-district-of-limerick-19th-march-2021.pdf) - Text not extracted
+

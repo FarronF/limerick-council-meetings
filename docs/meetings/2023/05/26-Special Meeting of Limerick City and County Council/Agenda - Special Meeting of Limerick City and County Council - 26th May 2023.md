@@ -1,0 +1,79 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 26th May 2023"
+date: 2023-05-26
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 26th May 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-05-26</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 26th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-26th-May-2023.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Comhairle Cathrach
+_ —_l & Contae Luimnigh.
+Ac -
+—. Limerick City
+& County Council
+
+23"4 May, 2023.
+
+Seirbhisi Corparaideacha,
+
+Cominairie Cathwach agus Contue Luimnigh,
+Ceannchesthra Chorpardidesch,
+
+Cé na gCeannaithe
+
+Lugmneach
+
+Corporate Services
+
+Limerick City and County Councit
+Corporate Headquarters,
+Merchants Quay,
+
+Limerick
+
+EIRCODE V94 EH9O
+
+t: +353 (0) 61 557150
+% +353 (0) 61415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor of the City and County of Limerick, Councillor Francis Foley, has called a Special
+Meeting of Limerick City and County Council to be held in the Council Chamber, Dooradoyle,
+and Online, on Friday, 26 May, 2023, at 9.30 a.m., in order to pass a Vote of Sympathy on
+the passing of former Member and Cathaoirleach of Limerick County Council, Eddie
+
+Creighton, RIP.
+
+Is mise le meas,
+
+Za
+
+Laura Fla
+Meetings Administrator.
+
+Ceanncheathni Chorparaideach, Cé na gCeannaithe, Lulmneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

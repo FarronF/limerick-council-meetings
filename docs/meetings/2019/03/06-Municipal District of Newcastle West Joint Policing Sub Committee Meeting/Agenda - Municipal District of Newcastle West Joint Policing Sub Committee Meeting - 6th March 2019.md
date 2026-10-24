@@ -1,0 +1,71 @@
+---
+title: "Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 6th March 2019"
+date: 2019-03-06
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 6th March 2019</span>
+<span data-pagefind-meta="date" style="display:none;">2019-03-06</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2019</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2019-03</span>
+
+**Original file:** [Agenda - Municipal District of Newcastle West Joint Policing Sub Committee Meeting - 6th March 2019.pdf](https://www.limerick.ie/sites/default/files/media/documents/2019-03/00%202019-03-06%20Agenda%20JPC%20Subcommittee%20Meeting%20March%202019.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+& Contae Luimnigh
+AnrN <a
+—=> Limerick City
+& County Council Duiche Bardais an Chaisledin Nua Thiar,
+Comhairle Cathrach agus Contae Luimnigh,
+
+Aras William Smith O’Brien, Gortbul,
+An Caisledn Nua Thiar, Co. Luimnigh.
+
+Newcastle West Municipal District,
+Limerick City and County Council,
+
+Aras William Smith O’Brien, Gortboy,
+Newcastle West, Co. Limerick. V42 EH73
+t: +353 (0) 69 62100
+
+1* March, 2019
+To: Each f istrict of N w
+A Chomhairleoir, a chara,
+
+You are requested to attend a Meeting of the Municipal District of Newcastle West JPC
+Subcommittee to be held in Aras William Smith OBrien, Newcastle West, Co. Limerick on
+
+Wednesday, 6” March, 2019, at 9.15 a.m. The business to be transacted is set out on the
+appended Agenda.
+Is mise le meas,
+
+Meneat (eset
+
+Meetings Administrator.
+
+AGENDA
+
+1. Minutes
+
+To adopt Minutes of Meeting of the Joint Policing Sub Committee of the Municipal
+District of Newcastle West held on 5" December, 2018.
+
+(Copy Enclosed)
+2 Issues
+
+To discuss policing issues in the District.
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

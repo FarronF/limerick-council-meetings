@@ -1,0 +1,108 @@
+---
+title: "Agenda - Special Meeting of Limerick City and County Council - 29th May 2023"
+date: 2023-05-29
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Special"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Special Meeting of Limerick City and County Council - 29th May 2023</span>
+<span data-pagefind-meta="date" style="display:none;">2023-05-29</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Special</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2023</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2023-05</span>
+
+**Original file:** [Agenda - Special Meeting of Limerick City and County Council - 29th May 2023.pdf](https://www.limerick.ie/sites/default/files/media/documents/2023-05/Agenda-Special-Meeting-of-Limerick-City-and-County-Council-29th-May-2023.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+££ Comhairie Cathrach
+& Contae Luimnigh
+ar” ——_ eee ecereeeenaceeeeeeAeEEERSNSES
+—— Limerick City
+& County Council
+
+23° May, 2023.
+
+Se#bhisi Corparaideacha,
+
+Comhairie Cathrach agus Contae Luimnigh,
+Ceanncheathra Chorpardideach,
+
+Cé na gCeannaithe,
+
+Luimneach
+
+Corporate Services,
+
+Limenck City and County Council
+Corporate Headquarters,
+Merchants Guay,
+
+Limenck
+
+EIRCODE V4 EHSO
+
+& 4353 (0) 61 557150
+f: +353 (0) 61 415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+The Mayor, Councillor Francis Foley, has called a Special Meeting of Limerick City and County
+Council, to be held in the Council Chamber, Dooradoyle, Limerick, and Online, on Monday,
+29" May, 2023, at 9.30 a.m., in order to discuss the issue as set out in the attached
+
+Requisition in relation to Housing.
+
+Is mise le meas,
+
+Laura Flannery,
+Meetings Administrator.
+
+Ceanncheathra Chorpardideach, Cé na gCeannaithe, Luirmmeach
+Corporate Headquarters, Merchants Quay, Limerick
+
+(Copy of Requisition attached)
+
+@ Customerservices@limerick.ie
+© wewwalimerick.le
+
+@LimerickCouncil
+(061 - 557150
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+24st March 2023
+
+following emergency motion:
+
+We will move at a Special Meeting of
+e notes the recent statement by
+adults and children could now be
+
+lift the eviction ban for rented pre
+
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:3]]</span>
+

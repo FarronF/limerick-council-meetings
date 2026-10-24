@@ -1,0 +1,30 @@
+---
+title: "Adjourned Meeting to consider Draft Budgetary Plan 2017 for the Metropolitan District of Limerick"
+date: 2016-10-24
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Adjourned Meeting to consider Draft Budgetary Plan 2017 for the Metropolitan District of Limerick</span>
+<span data-pagefind-meta="date" style="display:none;">2016-10-24</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
+
+# Adjourned Meeting to consider Draft Budgetary Plan 2017 for the Metropolitan District of Limerick
+
+**Date and Time:** 2016-10-24 17:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/adjourned-meeting-consider-draft-budgetary-plan-2017-metropolitan-district)**
+
+Files: 
+
+Agenda - Adjourned Meeting to consider the Draft Budgetary Plan 2017 for the Metropolitan District of Limerick - 24th October, 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_adjourned_budgetary_meeting_24th_october_2016.pdf) - Text not extracted
+
+Draft Budgetary Plan 2017 - General Municipal Allocation - Metropolitan District of Limerick - 24th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/draft_budgetary_plan_2017_general_municipal_allocation_0.pdf) - Text not extracted
+

@@ -1,0 +1,83 @@
+---
+title: "Agenda - Adjourned Meeting of Limerick City and County Council - 3rd July 2020"
+date: 2020-07-03
+council_body: "Limerick City and County Council"
+category: "Full Council"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Adjourned Meeting of Limerick City and County Council - 3rd July 2020</span>
+<span data-pagefind-meta="date" style="display:none;">2020-07-03</span>
+<span data-pagefind-filter="Category" style="display:none;">Full Council</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Limerick City and County Council</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2020</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2020-07</span>
+
+**Original file:** [Agenda - Adjourned Meeting of Limerick City and County Council - 3rd July 2020.pdf](https://www.limerick.ie/sites/default/files/media/documents/2020-06/00-i-agenda-adjourned-meeting-03.07.2020.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_—_ Comhairle Cathrach
+& Contae Luimnigh
+An mem
+
+—=—=> Limerick City
+& County Council
+
+29" June, 2020.
+
+Sewbhisi Corpardideacha,
+
+Comhairle Cathrach agus Contae Luimrugh,
+
+Ceanncheathni Chorparakieach,
+Cé na gCeannaithe.
+Luammneach
+
+Corporate Services.
+
+Limerick City and County Council
+Corporate Headquarters,
+Mercharmts Quay,
+
+Limerick
+
+EIRCODE V94 EH90
+
+t: 4353 (0) 61 5571350
+f: +353 (0) 61 415 266
+
+To: The Mayor and Each Member of Limerick City and County Council
+
+A Chomhairleoir, a chara,
+
+As agreed at last Friday's Council Meeting, you are requested to attend the Adjourned
+Meeting of Limerick City and County Council to be held at Limerick Racecourse, Greenmount
+Park, Patrickswell, Co. Limerick, on Friday, 3 July, 2020, at 3pm, in order to complete the
+
+agenda as set out for the Meeting of 26" June, 2020.
+
+| also wish to advise that the Special Meeting of the Council to consider the disposal of land
+at Kilmallock Business Park, Kilmallock, Co. Limerick — originally fixed for tomorrow, Tuesday,
+30" June, at 2.30pm — will now be held on the re-fixed date of Friday, 3 July, 2020,
+
+immediately after the Adjourned Meeting.
+
+Is mise le meas,
+
+Ja | os
+
+Meetings Administrator.
+
+Ceanncheathri Chorpardideach, Cé na gCeannaithe, Luimneach
+Corporate Headquarters, Merchants Quay, Limerick
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+

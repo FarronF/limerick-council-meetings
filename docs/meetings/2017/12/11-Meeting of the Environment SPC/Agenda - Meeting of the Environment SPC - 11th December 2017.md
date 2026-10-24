@@ -1,0 +1,84 @@
+---
+title: "Agenda - Meeting of the Environment SPC - 11th December 2017"
+date: 2017-12-11
+council_body: "Environment SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Agenda"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Agenda - Meeting of the Environment SPC - 11th December 2017</span>
+<span data-pagefind-meta="date" style="display:none;">2017-12-11</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Environment SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Agenda</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-12</span>
+
+**Original file:** [Agenda - Meeting of the Environment SPC - 11th December 2017.pdf](https://www.limerick.ie/sites/default/files/media/documents/2017-12/11th%20December%202017%20Notice%20and%20Agenda%20Env%20SPC.pdf)
+
+<span data-pagefind-ignore>[[FILE_START]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+_—_——_ Comhairle Cathrach
+& Contae Luimnigh
+aa — Limerick City
+merick Ci
+& County Council
+
+5” December, 2017
+
+To: irperson and Each the Environ
+Limerick City & County Council
+
+You are invited to attend a Meeting of the Environment Strategic Policy Committee to be
+held in the Council Chamber, Dooradoyle, Co. Limerick, on Monday 11" December, 2017 at
+10:00 a.m. The business to be transacted is set out in the appended agenda.
+
+Signed: LY nH
+
+CHAIRPERSON OF THE ENVIRONMENT STRATEGIC POLICY COMMITTEE
+
+Khe fara
+
+DIRECTOR OF SERVICE,
+PHYSICAL DEVELOPMENT DIRECTORATE
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:1]]</span>
+
+*<small>Scanned page, text may contain errors. See original file for clarity</small>*  
+
+Agenda
+. Minutes
+
+To adopt the minutes of the Meeting of the Environment Strategic Policy Committee
+held on 23 October, 2017.
+
+(Copy Enclosed)
+
+. Notice of Motion submitted by Cmhlr. S. 6 Ceallaigh
+
+“| will move at the next meeting that the Council will not allow public parks in the district
+to be closed to the public, in order to benefit private, profit making events”.
+
+. Notice of Councillor C. lle
+
+“| will move at the next Meeting that this Council write to the Minister for the
+Environment urging the Government to implement in full the recommendations of the
+2011 Government Review of the Environmental Protection Agency (EPA), in particular
+
+the concerns raised over the low level of prosecutions, the immunity of the EPA from
+prosecution, and the need to make it accountable to the Ombudsman”.
+
+. Presentation on Renewable Ene’ id Initiatives — Mr. Vine rmack
+
+. Presentation M. nt Bi s— Ms. Ki
+
+
+
+<span data-pagefind-ignore>[[PAGE_END:2]]</span>
+
