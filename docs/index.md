@@ -264,6 +264,7 @@
   let pagefind;
   let searchResults = [];
   let allResults = [];
+  const resultDataCache = new WeakMap();
   let currentRenderCount = 20;
   let debounceTimer = null;
 
@@ -289,7 +290,7 @@
         debounceTimer = setTimeout(() => runSearch(), 250);
       });
 
-      document.getElementById('pf-sort').addEventListener('change', sortCurrentResults);
+      document.getElementById('pf-sort').addEventListener('change', () => runSearch());
       document.getElementById('pf-filters-container').addEventListener('change', () => runSearch(true));
       document.getElementById('pf-clear-all').addEventListener('click', clearAllFilters);
       document.getElementById('pf-load-more-btn').addEventListener('click', loadMoreResults);
@@ -398,20 +399,24 @@
   let searchSequence = 0;
   let renderSequence = 0;
 
-  function getMeetingDate(result) {
-    const match = result.url.match(/\/(\d{4})\/(\d{2})\/(\d{2})-/);
-    return match ? `${match[1]}-${match[2]}-${match[3]}` : '';
+  function getResultData(result) {
+    if (!resultDataCache.has(result)) {
+      resultDataCache.set(result, result.data());
+    }
+    return resultDataCache.get(result);
   }
 
-  function sortResults(results) {
-    const sortValue = document.getElementById('pf-sort').value;
-    const sortedResults = results.slice();
+  async function sortResults(results, sortValue) {
+    if (sortValue === "relevance") return results;
 
-    if (sortValue === "relevance") return sortedResults;
+    const resultsWithData = await Promise.all(results.map(async result => ({
+      result,
+      data: await getResultData(result)
+    })));
 
-    return sortedResults.sort((a, b) => {
-      const dateA = getMeetingDate(a);
-      const dateB = getMeetingDate(b);
+    resultsWithData.sort((a, b) => {
+      const dateA = a.data.meta?.date || '';
+      const dateB = b.data.meta?.date || '';
 
       if (!dateA && !dateB) return 0;
       if (!dateA) return 1;
@@ -421,12 +426,8 @@
         ? dateB.localeCompare(dateA)
         : dateA.localeCompare(dateB);
     });
-  }
 
-  function sortCurrentResults() {
-    allResults = sortResults(searchResults);
-    currentRenderCount = 20;
-    renderResultsSlice();
+    return resultsWithData.map(({ result }) => result);
   }
 
   async function runSearch(isFilterChange = false) {
@@ -470,7 +471,10 @@
       if (currentSequence !== searchSequence) return;
 
       searchResults = response.results;
-      allResults = sortResults(searchResults);
+      const sortValue = document.getElementById('pf-sort').value;
+      allResults = await sortResults(searchResults, sortValue);
+      if (currentSequence !== searchSequence) return;
+
       currentRenderCount = 20;
 
       document.getElementById('pf-stats').innerText = `${allResults.length} meeting${allResults.length === 1 ? '' : 's'} found`;
@@ -544,7 +548,7 @@
     }
 
     const batch = allResults.slice(renderCount - 20, renderCount);
-    const loadedData = await Promise.all(batch.map(item => item.data()));
+    const loadedData = await Promise.all(batch.map(getResultData));
 
     if (currentRenderSequence !== renderSequence) return;
 
