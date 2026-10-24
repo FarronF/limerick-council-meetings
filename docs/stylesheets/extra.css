@@ -1,3 +1,7 @@
+.md-main__inner {
+  max-width: unset;
+}
+
 .md-sidebar--secondary {
   visibility: collapse;
 }
