@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+markdownify==1.1.0
+Pillow==11.3.0
+PyMuPDF==1.25.5
+pytesseract==0.3.13
+requests==2.32.4

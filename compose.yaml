@@ -1,0 +1,6 @@
+services:
+  tools:
+    build: .
+    volumes:
+      - ./data:/workspace/data
+      - ./.logs:/workspace/.logs

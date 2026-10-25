@@ -89,9 +89,92 @@ Add the following to make searches case sensitive
 
 `case:true`
 
-## Creation
+## Updating the archive
 
-This is created by using https://github.com/FarronF/limerick-council-tools
+The meeting download and PDF-to-Markdown tools live in `src/tools`. They fetch
+public meeting pages from limerick.ie, download PDFs, and extract their text
+into a separate processed folder for review. They do not write directly to
+the published archive.
+
+### Run with Docker
+
+Install [Docker Desktop](https://www.docker.com/products/docker-desktop/), then
+run these commands from the repository root to build the image and process the
+default date range:
+
+```bash
+docker compose build
+docker compose run --rm tools
+```
+
+The default range starts in January 2014 and ends in the current month. By
+default, the tool downloads files whose names contain "agenda" or "minutes",
+then processes the downloaded PDFs into Markdown. A `meeting_details.json`
+file is also saved for each meeting with meeting details and download status.
+
+To process a smaller date range or filter meetings and documents, pass options
+after `tools`:
+
+```bash
+docker compose run --rm tools --start-year 2025 --start-month 1 --end-year 2025 --end-month 3
+docker compose run --rm tools --start-year 2025 --end-year 2025 --meeting-filter "council budget" --file-filter agenda
+```
+
+Available options:
+
+- `--start-year` (default: `2014`) and `--start-month` (default: `1`) set the
+  start of the date range.
+- `--end-year` and `--end-month` (default: current year and month) set its end.
+- `--meeting-filter WORD [WORD ...]` includes meetings whose names contain any
+  of the given words, case-insensitively.
+- `--file-filter WORD [WORD ...]` includes documents whose filenames contain
+  any of the given words. The default is `agenda minutes`; pass `--file-filter`
+  with no values to include all files.
+- `--download-location` sets where source PDFs and meeting metadata are saved
+  (default: `./data/downloaded`).
+- `--output-location` sets where generated Markdown is saved (default:
+  `./data/processed`).
+- `--logs-location` sets where logs are saved (default: `./.logs`).
+- `--dont-download` processes files already in the download location without
+  fetching new ones.
+- `--dont-process` downloads source files without converting PDFs to Markdown.
+- `--delete-downloads-after-complete` removes the entire download location
+  after the run; use with care if it contains files you want to keep.
+
+Docker Compose persists downloads in `data/downloaded/`, processed Markdown in
+`data/processed/`, and logs in `.logs/` on the host. These working directories
+are gitignored. Review the processed files, then copy the meeting folders you
+want to publish into `docs/meetings/`; only files in `docs/` are included in
+the searchable site. The site can then be built with `mkdocs build` and
+published by the repository's GitHub Pages workflow.
+
+### Run locally
+
+For development without Docker, install Python 3.12 or later and create a
+virtual environment from the repository root:
+
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+```
+
+On macOS or Linux, activate it with `source .venv/bin/activate` instead.
+Install both the tools and site dependencies into this virtual environment,
+then set `PYTHONPATH` and run the tool:
+
+```powershell
+python -m pip install -r requirements.txt
+$env:PYTHONPATH = "src"
+python -m tools --help
+python -m tools --start-year 2025 --start-month 1 --end-year 2025 --end-month 3
+```
+
+On macOS or Linux, set the path with `export PYTHONPATH=src` before running the
+tool. `requirements.txt` includes both `requirements-tools.txt` and
+`requirements-site.txt`, so the same virtual environment can run the tools and
+build the MkDocs site. The tool uses the same defaults and options as the
+Docker run. Install Tesseract separately on the host and make sure it is
+available on `PATH` for OCR of scanned PDFs.
 
 ## Potential improvements to this repo:
 

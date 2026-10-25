@@ -1,0 +1,12 @@
+# Core Static Site Generator & Theme
+mkdocs>=1.5.0
+mkdocs-awesome-pages-plugin
+mkdocs-material>=9.5.0
+mkdocs-breadcrumbs-plugin
+
+# Live Dev Server File Watcher
+watchdog>=4.0.0
+
+# Markdown & Metadata Manipulation (for tag.py)
+python-frontmatter>=1.1.0
+PyYAML>=6.0.1
