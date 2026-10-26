@@ -4,30 +4,30 @@ data-pagefind-ignore: true
 
 # 2021 — 03 - March
 
-* [03 Virtual Meeting Of The Joint Policing Sub Committee Of The Municipal District Of Newcastle West](03-Virtual Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West/README.md)
+* [03 @ 10 00   Virtual Monthly Meeting Of The Municipal District Of Newcastle West](03 @ 10-00 - Virtual Monthly Meeting of the Municipal District of Newcastle West/README.md)
 
-* [03 Virtual Monthly Meeting Of The Municipal District Of Newcastle West](03-Virtual Monthly Meeting of the Municipal District of Newcastle West/README.md)
+* [03 @ 12 00   Virtual Meeting Of The Joint Policing Sub Committee Of The Municipal District Of Newcastle West](03 @ 12-00 - Virtual Meeting of the Joint Policing Sub-Committee of the Municipal District of Newcastle West/README.md)
 
-* [05 Virtual Joint Policing Committee Meeting](05-Virtual Joint Policing Committee Meeting/README.md)
+* [05 @ 10 00   Virtual Joint Policing Committee Meeting](05 @ 10-00 - Virtual Joint Policing Committee Meeting/README.md)
 
-* [08 Virtual Special Meeting Of Limerick City And County Council](08-Virtual Special Meeting of Limerick City and County Council/README.md)
+* [08 @ 16 00   Virtual Special Meeting Of Limerick City And County Council](08 @ 16-00 - Virtual Special Meeting of Limerick City and County Council/README.md)
 
-* [09 Virtual Monthly Meeting Of The Municipal District Of Adare Rathkeale](09-Virtual Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* [09 @ 09 30   Virtual Monthly Meeting Of The Municipal District Of Adare Rathkeale](09 @ 09-30 - Virtual Monthly Meeting of the Municipal District of Adare-Rathkeale/README.md)
 
-* [15 Deferred_ Virtual Monthly Meeting Of Metropolitan District Of Limerick](15-DEFERRED_ Virtual Monthly Meeting of Metropolitan District of Limerick/README.md)
+* [15 @ 09 45   Deferred_ Virtual Monthly Meeting Of Metropolitan District Of Limerick](15 @ 09-45 - DEFERRED_ Virtual Monthly Meeting of Metropolitan District of Limerick/README.md)
 
-* [15 Deferred_ Virtual Special Meeting Of Limerick City And County Council](15-DEFERRED_ Virtual Special Meeting of Limerick City and County Council/README.md)
+* [15 @ 16 00   Deferred_ Virtual Special Meeting Of Limerick City And County Council](15 @ 16-00 - DEFERRED_ Virtual Special Meeting of Limerick City and County Council/README.md)
 
-* [18 Virtual Joint Policing Sub Committee Meeting For Elected Members Of The Municipal District Of Cappamore Kilmallock](18-Virtual Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock/README.md)
+* [18 @ 15 00   Virtual Joint Policing Sub Committee Meeting For Elected Members Of The Municipal District Of Cappamore Kilmallock](18 @ 15-00 - Virtual Joint Policing Sub-Committee Meeting for Elected Members of the Municipal District of Cappamore-Kilmallock/README.md)
 
-* [18 Virtual Monthly Meeting Of Municipal District Of Cappamore Kilmallock](18-Virtual Monthly Meeting of Municipal District of Cappamore-Kilmallock/README.md)
+* [18 @ 15 30   Virtual Monthly Meeting Of Municipal District Of Cappamore Kilmallock](18 @ 15-30 - Virtual Monthly Meeting of Municipal District of Cappamore-Kilmallock/README.md)
 
-* [19 Virtual Monthly Meeting Of Metropolitan District Of Limerick](19-Virtual Monthly Meeting of Metropolitan District of Limerick/README.md)
+* [19 @ 09 45   Virtual Monthly Meeting Of Metropolitan District Of Limerick](19 @ 09-45 - Virtual Monthly Meeting of Metropolitan District of Limerick/README.md)
 
-* [22 Virtual Full Meeting Of Limerick City And County Council](22-Virtual Full Meeting of Limerick City and County Council/README.md)
+* [22 @ 15 00   Virtual Full Meeting Of Limerick City And County Council](22 @ 15-00 - Virtual Full Meeting of Limerick City and County Council/README.md)
 
-* [23 Virtual Special Meeting Of The Municipal District Of Adare Rathkeale](23-Virtual Special Meeting of the Municipal District of Adare-Rathkeale/README.md)
+* [23 @ 16 00   Virtual Special Meeting Of The Municipal District Of Adare Rathkeale](23 @ 16-00 - Virtual Special Meeting of the Municipal District of Adare-Rathkeale/README.md)
 
-* [26 Virtual Special Meeting Of Limerick City And County Council](26-Virtual Special Meeting of Limerick City and County Council/README.md)
+* [26 @ 14 00   Virtual Special Meeting Of Limerick City And County Council](26 @ 14-00 - Virtual Special Meeting of Limerick City and County Council/README.md)
 
-* [29 Virtual Meeting Of The Economic Development, Enterprise & Planning Strategic Policy Committee](29-Virtual Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee/README.md)
+* [29 @ 14 00   Virtual Meeting Of The Economic Development, Enterprise & Planning Strategic Policy Committee](29 @ 14-00 - Virtual Meeting of the Economic Development, Enterprise & Planning Strategic Policy Committee/README.md)

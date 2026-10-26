@@ -1,0 +1,40 @@
+---
+title: "Meeting of Home & Social Development Strategic Policy Committee"
+date: 2017-02-27
+council_body: "Home & Social Development SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Meeting of Home & Social Development Strategic Policy Committee</span>
+<span data-pagefind-meta="date" style="display:none;">2017-02-27</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Home & Social Development SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2017</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2017-02</span>
+
+# Meeting of Home & Social Development Strategic Policy Committee
+
+**Date and Time:** 2017-02-27 15:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-home-social-development-strategic-policy-committee-2)**
+
+Files:
+
+Agenda - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_spc_270217.pdf) - Text not extracted
+
+Minutes - Home & Social Development SPC  12th December 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_home_social_development_spc_121216.pdf) - Text not extracted
+
+Notice of Motion - Cllr. C Prendiville - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/notice_of_motion_-_cllr._c_prendiville.pdf) - Text not extracted
+
+Notice of Motion (2) - Cllr. C Prendiville - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/notice_of_motion_-_cllr._c_prendiville_2.pdf) - Text not extracted
+
+Notice of Motion - Cllr. F Daly - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/notice_of_motion_-_cllr._f_daly.pdf) - Text not extracted
+
+Notice of Motion - Cllr. J Leddin - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/notice_of_motion_-_cllr._j_leddin.pdf) - Text not extracted
+
+Notice of Motion - Cllr. John Costello - Home & Social Development SPC - 27th February 2017.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/notice_of_motion_-_cllr._john_costello.pdf) - Text not extracted
+
