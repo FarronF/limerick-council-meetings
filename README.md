@@ -89,9 +89,121 @@ Add the following to make searches case sensitive
 
 `case:true`
 
-## Creation
+## Updating the archive
 
-This is created by using https://github.com/FarronF/limerick-council-tools
+The workflow is controlled from `src/tools/main.py` and organized into
+`download`, `process`, `publish`, and `shared` modules. It fetches public
+meeting pages from limerick.ie, downloads PDFs, extracts their text into a
+separate processed folder, then publishes the processed meetings to the
+searchable archive by default.
+
+### Run with Docker
+
+Install [Docker Desktop](https://www.docker.com/products/docker-desktop/), then
+run these commands from the repository root to build the image and run the
+complete workflow for the default date range:
+
+```bash
+docker compose build
+docker compose run --rm tools
+```
+
+The default range starts in January 2014 and ends in the current month. By
+default, the tool downloads files whose names contain "agenda" or "minutes",
+processes the downloaded PDFs into Markdown, and publishes the processed
+meetings. A `meeting_details.json` file is also saved for each downloaded
+meeting with meeting details and download status.
+
+To process a smaller date range or filter meetings and documents, pass options
+after `tools`:
+
+```bash
+docker compose run --rm tools --start-year 2025 --start-month 1 --end-year 2025 --end-month 3
+docker compose run --rm tools --start-year 2025 --end-year 2025 --meeting-filter "council budget" --file-filter agenda
+```
+
+Available options:
+
+- `--start-year` (default: `2014`) and `--start-month` (default: `1`) set the
+  start of the date range.
+- `--end-year` and `--end-month` (default: current year and month) set its end.
+- `--meeting-filter WORD [WORD ...]` includes meetings whose names contain any
+  of the given words, case-insensitively.
+- `--file-filter WORD [WORD ...]` includes documents whose displayed link text
+  contains any of the given words, case-insensitively. The default is
+  `agenda minutes`; pass `--file-filter` with no values to include all files.
+- `--download-location` sets where source PDFs and meeting metadata are saved
+  (default: `./data/downloaded`).
+- `--output-location` sets where generated Markdown is saved (default:
+  `./data/processed`).
+- `--logs-location` sets where logs are saved (default: `./.logs`).
+- `--dont-download` processes files already in the download location without
+  fetching new ones.
+- `--dont-process` downloads source files without converting PDFs to Markdown.
+- `--dont-publish` leaves processed Markdown in `data/processed/` without
+  copying it to the published archive, so you can review it before publishing.
+- Existing PDFs and generated Markdown are skipped by default, so repeated runs
+  can pick up missing work without downloading or converting everything again.
+- `--redownload-existing` downloads matching PDFs again even when the local file
+  already exists.
+- `--reprocess-existing` regenerates Markdown even when the processed output
+  already exists.
+- `--republish-existing` overwrites files already in the published archive with
+  files from the processed output and reruns publishing post-processing. Combine
+  it with `--reprocess-existing` to regenerate Markdown from the downloaded
+  PDFs before publishing. With `--dont-process`, it republishes existing
+  processed meeting folders in the selected date range (and optional meeting
+  filter) without reading downloads or regenerating Markdown.
+- `--delete-downloads-after-complete` removes the entire download location
+  after the run; use with care if it contains files you want to keep.
+
+Docker Compose persists downloads in `data/downloaded/`, processed Markdown in
+`data/processed/`, and logs in `.logs/` on the host. Generated archive files
+are written to `docs/meetings/`. Review the changes under `docs/meetings/`
+before committing. Publishing normalizes meeting headings, regenerates archive
+navigation READMEs, marks PDF page boundaries for Pagefind to ignore, and adds
+Pagefind metadata. These post-processing scripts run across the existing
+archive when new files are published. Files already present in the published
+archive are skipped during copying, even if their content differs; only missing
+files are copied from the processed output. Post-processing still normalizes
+the archive when new files are published. Unrelated archive files are not
+deleted. Tagging errors are written to `tagging_errors.log` in the configured
+logs directory. Meeting folders use the format `DD @ HH-MM - Meeting Name` so
+meetings with the same title on the same day remain separate and sort by time.
+Use `--dont-publish` when you want to inspect or adjust processed output before
+publishing it.
+
+Only files in `docs/` are included in the searchable site. Build locally with
+`mkdocs build`; the repository's GitHub Pages workflow builds and publishes
+the site on pushes to `main`.
+
+### Run locally
+
+For development without Docker, install Python 3.12 or later and create a
+virtual environment from the repository root:
+
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+```
+
+On macOS or Linux, activate it with `source .venv/bin/activate` instead.
+Install both the tools and site dependencies into this virtual environment,
+then set `PYTHONPATH` and run the tool:
+
+```powershell
+python -m pip install -r requirements.txt
+$env:PYTHONPATH = "src"
+python -m tools --help
+python -m tools --start-year 2025 --start-month 1 --end-year 2025 --end-month 3
+```
+
+On macOS or Linux, set the path with `export PYTHONPATH=src` before running the
+tool. `requirements.txt` includes both `requirements-tools.txt` and
+`requirements-site.txt`, so the same virtual environment can run the tools and
+build the MkDocs site. The tool uses the same defaults and options as the
+Docker run. Install Tesseract separately on the host and make sure it is
+available on `PATH` for OCR of scanned PDFs.
 
 ## Potential improvements to this repo:
 
