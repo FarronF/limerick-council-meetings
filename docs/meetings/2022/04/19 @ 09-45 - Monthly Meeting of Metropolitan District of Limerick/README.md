@@ -1,0 +1,50 @@
+---
+title: "Monthly Meeting of Metropolitan District of Limerick"
+date: 2022-04-19
+council_body: "Metropolitan District"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Monthly Meeting of Metropolitan District of Limerick</span>
+<span data-pagefind-meta="date" style="display:none;">2022-04-19</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Metropolitan District</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2022</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2022-04</span>
+
+# Monthly Meeting of Metropolitan District of Limerick
+
+**Date and Time:** 2022-04-19 09:45:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/monthly-meeting-metropolitan-district-limerick-84)**
+
+Files:
+
+Agenda - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/00-agenda-meeting-of-metropolitan-district-of-limeick-19th-april-2022.pdf) - [Extracted text](./Agenda%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2019th%20April%202022.md)
+
+Minutes - Monthly Meeting of Metropolitan District of Limerick - 21st March 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/01-draft-minutes-monthly-meeting-21st-march-2022.pdf) - [Extracted text](./Minutes%20-%C2%A0Monthly%20Meeting%20of%20Metropolitan%20District%20of%20Limerick%20-%2021st%20March%202022.md)
+
+Disposal: Ballycarrane Patrickswell - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02a-disposal-ballycarrane-patrickswell.pdf) - Text not extracted
+
+Disposal: 28 Quins Cottages Rosbrien - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02b-disposal-28-quins-cottages-rosbrien.pdf) - Text not extracted
+
+Disposal: 69-72 Mungret Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02c-disposal-69-72-mungret-street.pdf) - Text not extracted
+
+Disposal: Galvone Industrial Estate - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02d-disposal-galvone-industrial-estate.pdf) - Text not extracted
+
+Disposal: Wickham Street - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02e-disposal-wickham-street.pdf) - Text not extracted
+
+Disposal: Houses - Prospect, Ballinacurra Weston and Ballynanty - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02f-disposal-houses-prospect-ballinacurra-weston-and-ballynanty.pdf) - Text not extracted
+
+Disposal: Council Offices Dooradoyle - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/02g-disposal-council-offices-dooradoyle.pdf) - Text not extracted
+
+Community Initiative Scheme 2022 - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/03-community-initiative-scheme-2022.pdf) - Text not extracted
+
+Correspondence - Monthly Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/28-correspondence-metropolitan-district-of-limerick-14th-april-2022.pdf) - Text not extracted
+
+Replies to Questions - Meeting of Metropolitan District of Limerick - 19th April 2022.pdf - [Original file](https://www.limerick.ie/sites/default/files/media/documents/2022-04/replies-to-questions-meeting-of-metropolitan-district-of-limerick-19th-april-2022.pdf) - Text not extracted
+

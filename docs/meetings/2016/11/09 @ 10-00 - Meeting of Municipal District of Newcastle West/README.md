@@ -1,0 +1,40 @@
+---
+title: "Meeting of Municipal District of Newcastle West"
+date: 2016-11-09
+council_body: "Newcastle West"
+category: "Municipal District"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Meeting of Municipal District of Newcastle West</span>
+<span data-pagefind-meta="date" style="display:none;">2016-11-09</span>
+<span data-pagefind-filter="Category" style="display:none;">Municipal District</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Newcastle West</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-11</span>
+
+# Meeting of Municipal District of Newcastle West
+
+**Date and Time:** 2016-11-09 10:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/meeting-municipal-district-newcastle-west-1)**
+
+Files:
+
+Agenda - Municipal District of Newcastle West - 9th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_november_meeting_municipal_district_of_newcastle_west_091116.pdf) - Text not extracted
+
+Minutes - Municipal District of Newcastle West - 5th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_municipal_district_meeting_newcastle_west_051016.pdf) - Text not extracted
+
+Minutes - Draft Budgetary Plan 2017 Newcastle West - 19th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_of_draft_budgetary_plan_2017_newcastle_west_191016.pdf) - Text not extracted
+
+Report on P.P.S. 2016-B - Municipal District of Newcastle West - 9th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/02_report_on_p.p.s._2016-b_for_newcastle_west_m.d._meeting_for_09-11-16_1.pdf) - Text not extracted
+
+Assessment Report - Newcastle West Special Speed Limit - Municipal District of Newcastle West - 9th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/03_assessment_report_-_newcastle_west_special_speed_limit_1.pdf) - Text not extracted
+
+Replies to Questions - Municipal District of Newcastle West - 9th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/replies_to_questions_-_municipal_district_of_newcastle_west_-_9th_november_2016.pdf) - Text not extracted
+
+Correspondence - Municipal District of Newcastle West - 9th November 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/correspondence_-_municipal_district_of_newcastle_west_-_9th_november_2016.pdf) - Text not extracted
+

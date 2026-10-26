@@ -1,0 +1,30 @@
+---
+title: "Travel and Transportation Strategic Policy Committee Meeting"
+date: 2016-10-10
+council_body: "Travel & Transportation SPC"
+category: "Committee"
+meeting_type: "Regular"
+file_type: "Meeting Overview"
+---
+
+<span data-pagefind-meta="title" style="display:none;">Travel and Transportation Strategic Policy Committee Meeting</span>
+<span data-pagefind-meta="date" style="display:none;">2016-10-10</span>
+<span data-pagefind-filter="Category" style="display:none;">Committee</span>
+<span data-pagefind-filter="Council Body" style="display:none;">Travel & Transportation SPC</span>
+<span data-pagefind-filter="Meeting Type" style="display:none;">Regular</span>
+<span data-pagefind-filter="File Type" style="display:none;">Meeting Overview</span>
+<span data-pagefind-filter="Year" style="display:none;">2016</span>
+<span data-pagefind-filter="Year-Month" style="display:none;">2016-10</span>
+
+# Travel and Transportation Strategic Policy Committee Meeting
+
+**Date and Time:** 2016-10-10 10:00:00
+
+**[Link to Meeting](https://www.limerick.ie/council/whats-on/travel-and-transportation-strategic-policy-committee-meeting-1)**
+
+Files:
+
+Agenda - Travel and Transportation SPC - 10th October 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/agenda_-_travel_and_transportation_spc_-_10th_october_2016.pdf) - Text not extracted
+
+Minutes - Travel & Transportation SPC - 2nd June 2016.pdf - [Original file](https://beta.limerick.ie/sites/default/files/media/documents/2017-04/minutes_-_travel_transportation_spc_-_2nd_june_2016.pdf) - Text not extracted
+
