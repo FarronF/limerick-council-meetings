@@ -13,6 +13,7 @@ def download_meeting_files(
     meeting_filter: List[str] = None,
     file_filter: List[str] = None,
     download_location: str = "./data/downloaded",
+    redownload_existing: bool = False,
 ):
     print(f"Fetching meeting minutes from {start_year}-{start_month} to {end_year}-{end_month}...")
     if meeting_filter:
@@ -28,7 +29,11 @@ def download_meeting_files(
         meetings = get_public_meetings_for_year_month(
             current_date.year, current_date.month, meeting_filter
         )
-        downloader.download_meeting_files_from_website(meetings, file_filter)
+        downloader.download_meeting_files_from_website(
+            meetings,
+            file_filter,
+            redownload_existing=redownload_existing,
+        )
         current_date = _add_month(current_date)
 
 

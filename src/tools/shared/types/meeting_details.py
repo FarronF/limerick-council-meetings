@@ -1,7 +1,7 @@
 from datetime import datetime
 from typing import List, TypedDict
 
-from tools.types.file_details import FileDetails
+from tools.shared.types.file_details import FileDetails
 
 
 class MeetingDetails(TypedDict):

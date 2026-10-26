@@ -36,6 +36,6 @@ class FitzProcessor(PdfProcessorBase):
                 html_text = page.get_text("html")
                 html_text = re.sub(r"<img[^>]*>", "(Image omitted)", html_text)
                 markdown_output += markdownify(html_text)
-            markdown_output += "\n---\n"
+            markdown_output += f"\n\n[[PAGE_END:{page_num + 1}]]\n\n"
 
         return re.sub(r"\*\*\*\*", "", markdown_output)

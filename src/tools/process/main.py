@@ -13,12 +13,14 @@ def process_meetings(
     file_filter: List[str] = None,
     download_location: str = "./data/downloaded",
     output_location: str = "./data/processed",
+    reprocess_existing: bool = False,
 ):
-    """Process downloaded PDFs and write Markdown to the archive."""
+    """Process downloaded PDFs and return meeting folders written this run."""
     input_folder = os.path.abspath(download_location)
     output_folder = os.path.abspath(output_location)
     meeting_processor = MeetingProcessor()
     os.makedirs(output_folder, exist_ok=True)
+    processed_meetings = []
 
     for year in range(start_year, end_year + 1):
         year_path = os.path.join(input_folder, str(year))
@@ -48,6 +50,12 @@ def process_meetings(
                         for filter_word in meeting_filter
                     )
                 ):
-                    meeting_processor.process_meeting(
-                        meeting_folder_path, output_meeting_folder, file_filter
-                    )
+                    if meeting_processor.process_meeting(
+                        meeting_folder_path,
+                        output_meeting_folder,
+                        file_filter,
+                        reprocess_existing=reprocess_existing,
+                    ):
+                        processed_meetings.append(output_meeting_folder)
+
+    return processed_meetings

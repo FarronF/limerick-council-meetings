@@ -5,7 +5,7 @@ from typing import List
 from bs4 import BeautifulSoup
 
 from tools.download.fetch_web_content import fetch_web_content
-from tools.types.meeting_details import MeetingDetails
+from tools.shared.types.meeting_details import MeetingDetails
 
 
 def get_public_meetings_for_year_month(

@@ -4,3 +4,4 @@ services:
     volumes:
       - ./data:/workspace/data
       - ./.logs:/workspace/.logs
+      - ./docs:/workspace/docs

@@ -9,8 +9,8 @@ WORKDIR /workspace
 COPY requirements-tools.txt /tmp/requirements-tools.txt
 RUN pip install --no-cache-dir -r /tmp/requirements-tools.txt
 
-COPY src/tools /app/src/tools
+COPY src/tools /workspace/src/tools
 
-ENV PYTHONPATH=/app/src
+ENV PYTHONPATH=/workspace/src
 
 ENTRYPOINT ["python", "-m", "tools"]

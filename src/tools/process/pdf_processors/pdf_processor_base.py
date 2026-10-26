@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from tools.logging.file_logger import FileLoggerSingleton
+from tools.shared.file_logger import FileLoggerSingleton
 
 
 class PdfProcessorBase(ABC):

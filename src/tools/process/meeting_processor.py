@@ -21,13 +21,17 @@ Files:
 
 class MeetingProcessor:
     def process_meeting(
-        self, meeting_folder: str, output_meeting_folder: str, file_filter: List[str] = None
+        self,
+        meeting_folder: str,
+        output_meeting_folder: str,
+        file_filter: List[str] = None,
+        reprocess_existing: bool = False,
     ):
-        """Process a meeting folder and generate Markdown files."""
+        """Process a meeting folder and return whether its archive page was written."""
         print(f"Processing meeting: {meeting_folder}")
         meeting_details_path = os.path.join(meeting_folder, "meeting_details.json")
         if not os.path.exists(meeting_details_path):
-            return
+            return False
 
         with open(meeting_details_path, "r", encoding="utf-8") as details_file:
             meeting_details = json.load(details_file)
@@ -45,6 +49,9 @@ class MeetingProcessor:
 
         for file_info in files_info:
             file_name = file_info.get("file_name")
+            display_text = file_info.get("display_text") or (
+                os.path.splitext(file_name)[0] if file_name else "document"
+            )
             file_url = file_info.get("url", "#")
             downloaded = file_info.get("downloaded")
             processed = False
@@ -56,19 +63,27 @@ class MeetingProcessor:
                 and file_name.endswith(".pdf")
                 and (
                     file_filter is None
-                    or any(filter_word.lower() in file_name.lower() for filter_word in file_filter)
+                    or any(
+                        filter_word.lower() in display_text.lower()
+                        for filter_word in file_filter
+                    )
                 )
             ):
                 pdf_file_path = os.path.join(meeting_folder, file_name)
                 if os.path.exists(pdf_file_path):
-                    processed = self._process_pdf(
-                        pdf_file_path, output_meeting_folder, file_url
-                    )
                     md_file_name = f"{os.path.splitext(os.path.basename(pdf_file_path))[0]}.md"
+                    md_file_path = os.path.join(output_meeting_folder, md_file_name)
+                    if not reprocess_existing and os.path.exists(md_file_path):
+                        processed = True
+                        print(f"Already processed, skipping: {md_file_path}")
+                    else:
+                        processed = self._process_pdf(
+                            pdf_file_path, output_meeting_folder, file_url
+                        )
                 else:
                     print(f"File {pdf_file_path} not found, skipping PDF processing.")
 
-            readme_content += f"{file_name} - [Original file]({file_url})"
+            readme_content += f"{display_text}.pdf - [Original file]({file_url})"
             if processed and md_file_name:
                 readme_content += f" - [Extracted text](./{quote(md_file_name)})"
             else:
@@ -78,13 +93,17 @@ class MeetingProcessor:
         readme_path = os.path.join(output_meeting_folder, "README.md")
         with open(readme_path, "w", encoding="utf-8") as readme_file:
             readme_file.write(readme_content)
+        return True
 
     def _process_pdf(self, pdf_path, output_folder, original_url):
         print(f"Processing PDF: {os.path.basename(pdf_path)}")
         try:
             markdown_output = FitzProcessor().process(pdf_path)
             if markdown_output:
-                markdown_output = f"[Original file]({original_url})\n\n---\n" + markdown_output
+                markdown_output = (
+                    f"**Original file:** [{os.path.basename(pdf_path)}]({original_url})\n\n"
+                    f"[[FILE_START]]\n\n{markdown_output}"
+                )
                 self._save_markdown(markdown_output, pdf_path, output_folder)
             else:
                 print(f"No content extracted from {pdf_path}.")
